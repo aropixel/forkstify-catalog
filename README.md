@@ -1,4 +1,4 @@
-# forkstify-catalogue
+# forkstify-catalog
 
 Le catalogue de référence de [forkstify](../forkstify) : une fiche TOML par
 artiste — description, tags, tops, portes, connexions. C'est la matière

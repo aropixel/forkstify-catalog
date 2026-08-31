@@ -9,7 +9,7 @@ from pathlib import Path
 
 CLIENT_ID = "d420a117a32841c2b3474932e49fb54b"
 KEYRING = ["service", "quickshell-spotify", "kind", "refresh-token", "client-id", CLIENT_ID]
-OUT = Path.home() / "Work/forkstify-catalogue/usage"
+OUT = Path(__file__).resolve().parent.parent / "usage"
 PLAYLIST_NAME = "#fipway"
 MAX_PAGES = 200
 
