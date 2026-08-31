@@ -1,0 +1,27 @@
+format = 1
+generated = true
+name = "Roméo Elvis"
+mbid = "b6e08f19-dca8-4009-aefe-9feb9f1aa1f2"
+spotify = "2pHk4wAmL7ofTAuvCIUWtv"
+begin = "1992-12-13"
+origin = "Uccle / Ukkel"
+
+tags = ["rap-belge", "hip-hop", "belgique", "2010s"]
+
+tops = [
+  "Bruxelles arrive",
+  "Soleil",
+  "Chaud",
+  "Malade",
+]
+
+links = [
+  { to = "le-motel", type = "collab", note = "son beatmaker historique" },
+  { to = "angele", type = "family", note = "sa sœur" },
+  { to = "caballero-jeanjass", type = "scene", note = "la scène rap belge des années 2010" },
+]
+
+description = """
+Uccle, 1992 : figure de la vague rap belge des années 2010, flow nonchalant,
+humour pince-sans-rire, ancrage bruxellois revendiqué.
+"""

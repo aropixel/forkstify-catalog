@@ -1,0 +1,33 @@
+format = 1
+generated = true
+name = "The Cure"
+mbid = "69ee3720-a7cb-4402-b48d-a02c366f2bcf"
+spotify = "7bu3H8JO7d0UbMoVzbo70s"
+begin = "1977"
+origin = "Crawley"
+
+tags = ["post-punk", "new-wave", "gothique", "uk", "80s"]
+
+tops = [
+  "Boys Don't Cry",
+  "Just Like Heaven",
+  "A Forest",
+  "Lullaby",
+  "In Between Days",
+]
+
+doors = [
+  { track = "A Forest", to = ["post-punk", "atmospherique"], note = "la porte vers le sombre" },
+  { track = "Friday I'm in Love", to = ["pop"], note = "la porte vers la pop lumineuse" },
+]
+
+links = [
+  { to = "siouxsie-and-the-banshees", type = "member", note = "Robert Smith y a joué de la guitare en 1983" },
+  { to = "joy-division", type = "scene", note = "l'autre versant du post-punk anglais" },
+  { to = "depeche-mode", type = "scene", note = "new wave anglaise, versant synthétique", proximity = 2 },
+]
+
+description = """
+Post-punk puis pop sombre, Crawley, depuis 1977. Robert Smith : guitares réverbérées,
+basse en avant, mélancolie et pop lumineuse en alternance.
+"""

@@ -1,0 +1,32 @@
+format = 1
+generated = true
+name = "Pulp"
+mbid = "76b2e842-5e85-4c97-ab62-d5bc315595b5"
+spotify = "36E7oYfz3LLRto6l2WmDcD"
+begin = "1978"
+origin = "Sheffield"
+
+tags = ["britpop", "art-rock", "uk", "90s"]
+
+tops = [
+  "Common People",
+  "Disco 2000",
+  "Babies",
+  "This Is Hardcore",
+  "Do You Remember the First Time?",
+]
+
+doors = [
+  { track = "This Is Hardcore", to = ["sombre", "orchestral"], note = "la gueule de bois après la fête" },
+]
+
+links = [
+  { to = "blur", type = "scene", note = "la britpop des années 90" },
+  { to = "jarvis-cocker", type = "member", note = "carrière solo du chanteur" },
+  { to = "suede", type = "scene", note = "le glam anglais des mêmes années" },
+]
+
+description = """
+Sheffield, formé en 1978, éclos quinze ans plus tard : Jarvis Cocker, dandy des
+classes populaires, disco narquois et chroniques sociales — Common People.
+"""

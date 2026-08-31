@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Cabadzi"
+mbid = "e9df7231-410f-4f4e-a586-37063bc940e1"
+spotify = "6SOfR3vMDf9otrCMyzrdDn"
+begin = "2009"
+origin = "Nantes"
+
+tags = ["rap-francais", "electronique", "chanson", "fr", "2010s"]
+
+tops = [] # à remplir à la relecture — tops non connus avec certitude
+
+links = [
+  { to = "odezenne", type = "similar", note = "rap-chanson électronique, même génération" },
+  { to = "stupeflip", type = "similar", note = "goût du collage et du hors-format" },
+]
+
+description = """
+Nantes, depuis 2009 : rap-chanson électronique, textes physiques, scansion nerveuse.
+A notamment mis en musique les dialogues de Bertrand Blier (Cabadzi x Blier).
+"""

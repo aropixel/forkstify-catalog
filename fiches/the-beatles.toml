@@ -1,0 +1,32 @@
+format = 1
+generated = true
+name = "The Beatles"
+mbid = "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+spotify = "3WrFJ7ztbogyGnTHbHJFl2"
+begin = "1960-03-27"
+end = "1970-04-10"
+origin = "Liverpool"
+
+tags = ["pop", "rock", "psychedelique", "uk", "60s"]
+
+tops = [
+  "A Day in the Life",
+  "Come Together",
+  "Strawberry Fields Forever",
+  "Here Comes the Sun",
+  "Eleanor Rigby",
+]
+
+doors = [
+  { track = "Tomorrow Never Knows", to = ["psychedelique", "electronique"], note = "la porte vers l'expérimental" },
+]
+
+links = [
+  { to = "the-rolling-stones", type = "scene", note = "le duel fondateur des années 60" },
+  { to = "the-kinks", type = "scene", note = "l'autre pop anglaise des sixties" },
+]
+
+description = """
+Liverpool, 1960-1970 : le groupe qui a plié la pop dans tous les sens en dix ans,
+du merseybeat au psychédélisme et au studio comme instrument.
+"""

@@ -1,0 +1,27 @@
+format = 1
+generated = true
+name = "Jay Reatard"
+mbid = "6338a3a4-1676-4a99-b2fb-a3f0072f6b42"
+spotify = "3cAGUcRbwsFHwKbJv8FT4T"
+begin = "1980-05-01"
+end = "2010-01-13"
+origin = "Lilbourn"
+
+tags = ["garage-punk", "punk", "lo-fi", "us", "2000s"]
+
+tops = [
+  "My Shadow",
+  "It Ain't Gonna Save Me",
+  "Blood Visions",
+  "Always Wanting More",
+]
+
+links = [
+  { to = "the-reatards", type = "member", note = "son premier groupe adolescent" },
+  { to = "black-lips", type = "scene", note = "garage américain des années 2000" },
+]
+
+description = """
+Memphis, 1980-2010 : le garage punk en accéléré, chansons d'une minute trente,
+rage mélodique et production au couteau. Mort à 29 ans.
+"""

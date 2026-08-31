@@ -1,0 +1,27 @@
+format = 1
+generated = true
+name = "Odezenne"
+mbid = "e61590ce-9528-4844-9a9e-b0f40bbe71c4"
+spotify = "1FiWBzw15KbR9amOb1Xnxp"
+origin = "FR"
+
+tags = ["rap-francais", "abstract-hip-hop", "electronique", "chanson", "fr", "2010s"]
+
+tops = [
+  "Bouche à lèvres",
+  "Je veux te baiser",
+  "Souffle le vent",
+  "Vilaine",
+  "Novembre",
+]
+
+links = [
+  { to = "stupeflip", type = "similar", note = "rap français hors format" },
+  { to = "cabadzi", type = "similar", note = "rap-chanson électronique, même génération" },
+  { to = "flavien-berger", type = "scene", note = "électronique française qui chante" },
+]
+
+description = """
+Rap-chanson électronique bordelais : textes crus et tendres, diction traînante,
+productions minimales. Entre poésie de comptoir et clubs de nuit.
+"""

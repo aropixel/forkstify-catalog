@@ -1,0 +1,27 @@
+format = 1
+generated = true
+name = "Metronomy"
+mbid = "93eb7110-0bc9-4d3f-816b-4b52ef982ec8"
+spotify = "54QMjE4toDfiCryzYWCpXX"
+begin = "1999"
+origin = "Totnes"
+
+tags = ["synth-pop", "indietronica", "uk", "2010s"]
+
+tops = [
+  "The Look",
+  "The Bay",
+  "Everything Goes My Way",
+  "Salted Caramel Ice Cream",
+  "Love Letters",
+]
+
+links = [
+  { to = "hot-chip", type = "similar", note = "pop électronique anglaise dansante" },
+  { to = "phoenix", type = "scene", note = "pop précise à guitares et synthés" },
+]
+
+description = """
+Devon, depuis 1999 : la pop synthétique pointilliste de Joseph Mount,
+The English Riviera en apogée balnéaire.
+"""

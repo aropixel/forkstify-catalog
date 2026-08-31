@@ -1,0 +1,32 @@
+format = 1
+generated = true
+name = "Dominique A"
+mbid = "8ae5648d-d9b7-4083-b538-17f71672990f"
+spotify = "6IoS9ojtxKCL1tW5VL1buI"
+begin = "1968-10-06"
+origin = "Provins"
+
+tags = ["chanson-francaise", "indie-pop", "fr", "90s"]
+
+tops = [
+  "Le Courage des oiseaux",
+  "Le Twenty-Two Bar",
+  "La Mémoire neuve",
+  "Immortels",
+  "Rendez-nous la lumière",
+]
+
+doors = [
+  { track = "Le Courage des oiseaux", to = ["minimalisme"], note = "la chanson nue, fondatrice" },
+]
+
+links = [
+  { to = "bertrand-belin", type = "similar", note = "chanson française d'écriture, même exigence" },
+  { to = "michel-cloup", type = "scene", note = "scène indépendante française des années 90" },
+  { to = "francoiz-breut", type = "collab", note = "il a écrit une grande partie de ses débuts" },
+]
+
+description = """
+Né à Provins en 1968, nantais d'adoption : la chanson française réarmée dans les
+années 90, écriture sèche, boîtes à rythmes puis grands espaces.
+"""

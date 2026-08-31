@@ -1,0 +1,28 @@
+format = 1
+generated = true
+name = "Stupeflip"
+mbid = "754abc13-d242-4585-8276-2c8c45aa37cf"
+spotify = "7qiRNP9z0FhN63YcLmb8Ai"
+begin = "2000"
+origin = "FR"
+
+tags = ["rap-francais", "punk", "experimental", "fr", "2000s"]
+
+tops = [
+  "Stupeflip vite !!!",
+  "Je fume pu d'shit",
+  "Gaké",
+  "La Menuiserie",
+  "Gem lé moch",
+]
+
+links = [
+  { to = "svinkels", type = "scene", note = "rap français qui sent la bière et le bitume" },
+  { to = "ttc", type = "scene", note = "l'autre laboratoire du rap français des années 2000" },
+  { to = "odezenne", type = "similar", note = "hors-format français" },
+]
+
+description = """
+Le Crou de King Ju, depuis 2000 : rap, punk et électro bricolés en collages
+paranoïaques et enfantins. Un monde clos avec sa mythologie propre.
+"""

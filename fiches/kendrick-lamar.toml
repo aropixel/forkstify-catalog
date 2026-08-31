@@ -1,0 +1,28 @@
+format = 1
+generated = true
+name = "Kendrick Lamar"
+mbid = "381086ea-f511-4aba-bdf9-71c753dc5077"
+spotify = "2YZyLoL8N0Wb9xBt1NhZWg"
+begin = "1987-06-17"
+origin = "Compton"
+
+tags = ["hip-hop", "conscious", "jazz-rap", "west-coast", "us", "2010s"]
+
+tops = [
+  "Alright",
+  "HUMBLE.",
+  "King Kunta",
+  "Money Trees",
+  "DNA.",
+]
+
+links = [
+  { to = "dr-dre", type = "collab", note = "signé et produit sur Aftermath" },
+  { to = "sza", type = "collab", note = "compagne de label TDE, duos récurrents" },
+  { to = "2pac", type = "influence", note = "l'ombre tutélaire de Compton" },
+]
+
+description = """
+Compton, 1987 : le rap américain porté au rang de grand récit, du concept-album
+good kid, m.A.A.d city au Pulitzer de DAMN. Jazz, funk et conscience.
+"""

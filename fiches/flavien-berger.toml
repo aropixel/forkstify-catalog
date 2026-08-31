@@ -1,0 +1,28 @@
+format = 1
+generated = true
+name = "Flavien Berger"
+mbid = "32a59d96-37f6-4bb8-aaca-5730f94bf0e5"
+spotify = "5PyU5aVBI66v0pkCIvEJfu"
+begin = "1986-07-02"
+origin = "Paris"
+
+tags = ["electronique", "art-pop", "chanson", "fr", "2010s"]
+
+tops = [
+  "La Fête noire",
+  "Maddy la nuit",
+  "Contretemps",
+  "999.999.999",
+  "Brutalisme",
+]
+
+links = [
+  { to = "sebastien-tellier", type = "similar", note = "chanson électronique française fantasque" },
+  { to = "etienne-daho", type = "collab", note = "écriture et production, duos scéniques" },
+  { to = "la-femme", type = "scene", note = "génération psyché-électronique française" },
+]
+
+description = """
+Paris, 1986 : électronique rêveuse et chanson dérivante, synthés analogiques,
+jeux de mots flottants. Léviathan puis Contre-temps, odyssées de chambre.
+"""

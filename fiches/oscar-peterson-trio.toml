@@ -1,0 +1,30 @@
+format = 1
+generated = true
+name = "Oscar Peterson Trio"
+mbid = "b083ec9b-27e0-4fda-801d-cb40861a0578"
+spotify = "0ldU0QJm31y0d6f57R1G2A"
+begin = "1946"
+origin = "US"
+
+tags = ["jazz", "swing", "piano", "canada", "50s", "60s"]
+
+tops = [
+  "C Jam Blues",
+  "Night Train",
+  "Hymn to Freedom",
+  "You Look Good to Me",
+]
+
+doors = [
+  { track = "Hymn to Freedom", to = ["gospel"], note = "la porte vers le spirituel" },
+]
+
+links = [
+  { to = "ella-fitzgerald", type = "collab", note = "accompagnateur régulier chez Verve" },
+  { to = "count-basie", type = "similar", note = "le swing comme langue maternelle" },
+]
+
+description = """
+Le trio du pianiste montréalais Oscar Peterson : swing virtuose, main droite
+torrentielle, standards portés à incandescence, des années 50 aux années 70.
+"""

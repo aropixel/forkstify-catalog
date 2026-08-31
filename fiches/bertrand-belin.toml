@@ -1,0 +1,26 @@
+format = 1
+generated = true
+name = "Bertrand Belin"
+mbid = "024a7074-dcef-4851-8f9c-090a9746a75a"
+spotify = "5yFrjxlSd8zPqzCCNrOI5h"
+begin = "1970-12-07"
+origin = "Quiberon"
+
+tags = ["chanson-francaise", "rock-minimal", "fr", "2010s"]
+
+tops = [
+  "Hypernuit",
+  "Un déluge",
+  "Choses nouvelles",
+  "Grand duc",
+]
+
+links = [
+  { to = "dominique-a", type = "similar", note = "chanson française d'écriture" },
+  { to = "arlt", type = "similar", note = "chanson minimale et oblique" },
+]
+
+description = """
+Quiberon, 1970 : chanson française parlée-chantée, baryton laconique, rock
+minimal et phrases qui tombent juste. Hypernuit comme manifeste.
+"""

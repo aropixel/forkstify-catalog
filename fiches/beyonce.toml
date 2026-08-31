@@ -1,0 +1,32 @@
+format = 1
+generated = true
+name = "Beyoncé"
+mbid = "859d0860-d480-4efd-970c-c05d5f1776b8"
+spotify = "6vWDO969PvNqNYHIOW5v0m"
+begin = "1981-09-04"
+origin = "Houston"
+
+tags = ["pop", "rnb", "soul", "us", "2000s", "2010s"]
+
+tops = [
+  "Crazy in Love",
+  "Halo",
+  "Single Ladies (Put a Ring on It)",
+  "Formation",
+  "Texas Hold 'Em",
+]
+
+doors = [
+  { track = "Daddy Lessons", to = ["country"], note = "la porte country avant Cowboy Carter" },
+]
+
+links = [
+  { to = "destinys-child", type = "member", note = "le groupe d'origine" },
+  { to = "jay-z", type = "collab", note = "duos récurrents" },
+  { to = "kendrick-lamar", type = "collab", note = "Freedom (Lemonade, 2016)" },
+]
+
+description = """
+Houston, 1981. Du r&b de Destiny's Child à l'album-monde : pop, r&b, house et
+country pliés à une discipline scénique totale.
+"""

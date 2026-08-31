@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Le Motel"
+mbid = "1c15351d-0491-4e8b-b4bb-e3cf70997120"
+spotify = "4LLrhUqUv2Mi1NhHz0pjXd"
+begin = "1991"
+origin = "Braine-l'Alleud"
+
+tags = ["beatmaking", "electronique", "bo", "belgique", "2010s"]
+
+tops = [] # à remplir à la relecture — tops non connus avec certitude
+
+links = [
+  { to = "romeo-elvis", type = "collab", note = "son beatmaker historique" },
+  { to = "flavien-berger", type = "similar", note = "électronique de texture et de récit" },
+]
+
+description = """
+Fabien Leclercq, Braine-l'Alleud, 1991 : producteur bruxellois, beatmaker de
+Roméo Elvis, puis compositeur de musiques de film aux textures documentaires.
+"""

@@ -1,0 +1,33 @@
+format = 1
+generated = true
+name = "Noir Désir"
+mbid = "e6358374-5eea-4205-be22-382ed6df493c"
+spotify = "4ksCwAPgMi8rkQwwR3nMos"
+begin = "1980"
+end = "2010-11-30"
+origin = "Bordeaux"
+
+tags = ["rock-francais", "rock-alternatif", "fr", "90s"]
+
+tops = [
+  "Le Vent nous portera",
+  "Un jour en France",
+  "L'Homme pressé",
+  "Tostaky",
+  "Aux sombres héros de l'amer",
+]
+
+doors = [
+  { track = "Le Vent nous portera", to = ["folk-rock", "douceur"], note = "leur versant apaisé, guitare de -M-" },
+]
+
+links = [
+  { to = "tetes-raides", type = "scene", note = "scène rock alternative française" },
+  { to = "mano-negra", type = "scene", note = "l'autre incendie du rock français" },
+  { to = "gun-club", type = "influence", note = "le rock américain hanté des débuts" },
+]
+
+description = """
+Bordeaux, 1980-2010 : le rock français des années 90, rimbaldien et électrique,
+de Tostaky au Vent nous portera.
+"""

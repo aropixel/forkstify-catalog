@@ -1,0 +1,27 @@
+format = 1
+generated = true
+name = "Damien Rice"
+mbid = "2119beb8-6ac5-4f21-82a4-b831c90c0024"
+spotify = "14r9dR01KeBLFfylVSKCZQ"
+begin = "1973-12-07"
+origin = "Celbridge"
+
+tags = ["folk", "singer-songwriter", "irlande", "2000s"]
+
+tops = [
+  "The Blower's Daughter",
+  "9 Crimes",
+  "Cannonball",
+  "Volcano",
+  "Delicate",
+]
+
+links = [
+  { to = "lisa-hannigan", type = "collab", note = "voix des premiers albums, partie en solo" },
+  { to = "glen-hansard", type = "scene", note = "folk irlandais de la même génération" },
+]
+
+description = """
+Folk irlandais à vif, depuis Celbridge : O (2002) et ses chansons écorchées,
+voix qui casse, violoncelle, silences. L'intime sans filet.
+"""

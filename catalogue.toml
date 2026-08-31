@@ -1,0 +1,13 @@
+format = 1
+name = "forkstify"
+description = "Catalogue de référence de forkstify — une fiche TOML par artiste."
+
+# Proximité par défaut de chaque type de lien (1 = écho lointain, 5 = quasi le même univers).
+# C'est un réglage de TON algorithme : modifie, commite.
+[proximity]
+member = 5
+collab = 4
+similar = 4
+family = 3
+scene = 3
+influence = 2

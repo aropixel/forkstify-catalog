@@ -1,0 +1,27 @@
+format = 1
+generated = true
+name = "Yo La Tengo"
+mbid = "3f542031-b054-454d-b57b-812fa2a81b11"
+spotify = "5hAhrnb0Ch4ODwWu4tsbpi"
+begin = "1984"
+origin = "Hoboken"
+
+tags = ["indie-rock", "dream-pop", "noise-pop", "us", "90s"]
+
+tops = [
+  "Autumn Sweater",
+  "Sugarcube",
+  "Tom Courtenay",
+  "Our Way to Fall",
+  "You Can Have It All",
+]
+
+links = [
+  { to = "sonic-youth", type = "scene", note = "noise new-yorkaise, générations croisées" },
+  { to = "galaxie-500", type = "similar", note = "lenteur et réverbération" },
+]
+
+description = """
+Hoboken, depuis 1984 : le couple Kaplan-Hubley et l'art de l'indie rock qui
+murmure ou sature, reprises encyclopédiques, tendresse bruitiste.
+"""

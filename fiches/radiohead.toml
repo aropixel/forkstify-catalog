@@ -1,0 +1,33 @@
+format = 1
+generated = true
+name = "Radiohead"
+mbid = "a74b1b7f-71a5-4011-9441-d0b5e4122711"
+spotify = "4Z8W4fKeB5YxbusRsdQVPb"
+begin = "1991"
+origin = "Abingdon-on-Thames"
+
+tags = ["rock-alternatif", "art-rock", "electronique", "uk", "90s", "2000s"]
+
+tops = [
+  "Paranoid Android",
+  "Karma Police",
+  "No Surprises",
+  "Everything in Its Right Place",
+  "Reckoner",
+]
+
+doors = [
+  { track = "Idioteque", to = ["electronique"], note = "la bascule électronique" },
+  { track = "Pyramid Song", to = ["atmospherique", "jazz"], note = "rythme flottant, piano de fin du monde" },
+]
+
+links = [
+  { to = "thom-yorke", type = "member", note = "projets solo du chanteur" },
+  { to = "portishead", type = "scene", note = "l'autre grande inquiétude anglaise des années 90" },
+  { to = "pulp", type = "scene", note = "génération britannique 90s, versant britpop" },
+]
+
+description = """
+Abingdon, depuis 1991 : du rock à guitares de The Bends aux mues électroniques de
+Kid A. L'inquiétude moderne mise en musique, sans jamais se répéter.
+"""

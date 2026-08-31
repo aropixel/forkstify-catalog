@@ -1,0 +1,33 @@
+format = 1
+generated = true
+name = "La Femme"
+mbid = "559211a5-2a51-4346-ba84-5cc74821a1cd"
+spotify = "5VTWoYYizcOY3uIKnxeCGI"
+begin = "2010"
+end = "2025-11-26"
+origin = "Biarritz"
+
+tags = ["psychedelique", "coldwave", "surf", "fr", "2010s"]
+
+tops = [
+  "Sur la planche",
+  "Où va le monde",
+  "Elle ne t'aime pas",
+  "Antitaxi",
+  "Si un jour",
+]
+
+doors = [
+  { track = "Sur la planche", to = ["surf", "coldwave"], note = "leur manifeste" },
+]
+
+links = [
+  { to = "rendez-vous", type = "scene", note = "coldwave française, même décennie" },
+  { to = "the-liminanas", type = "similar", note = "psychédélisme hexagonal" },
+  { to = "taxi-girl", type = "influence", note = "la coldwave française des années 80" },
+]
+
+description = """
+Biarritz, depuis 2010 : psychédélisme surf, coldwave et chanson yéyé passés au
+filtre synthétique. Voix féminines tournantes, morgue et second degré.
+"""

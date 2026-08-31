@@ -1,0 +1,32 @@
+format = 1
+generated = true
+name = "Air"
+mbid = "cb67438a-7f50-4f2b-a6f1-2bb2729fd538"
+spotify = "1P6U1dCeHxPui5pIrGmndZ"
+begin = "1995"
+origin = "Versailles"
+
+tags = ["electronique", "downtempo", "french-touch", "fr", "90s"]
+
+tops = [
+  "Sexy Boy",
+  "La Femme d'argent",
+  "Cherry Blossom Girl",
+  "Playground Love",
+  "All I Need",
+]
+
+doors = [
+  { track = "Playground Love", to = ["cinema", "downtempo"], note = "la porte vers les bandes originales — Virgin Suicides" },
+]
+
+links = [
+  { to = "daft-punk", type = "scene", note = "l'autre pôle de la french touch" },
+  { to = "phoenix", type = "scene", note = "la connexion versaillaise" },
+  { to = "sebastien-tellier", type = "similar", note = "signé sur leur label Record Makers" },
+]
+
+description = """
+Versailles, 1995 : Dunckel et Godin, l'électronique douce comme un meuble Knoll.
+Moon Safari a donné son salon à la french touch.
+"""

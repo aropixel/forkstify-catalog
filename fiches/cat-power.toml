@@ -1,0 +1,27 @@
+format = 1
+generated = true
+name = "Cat Power"
+mbid = "05755bf1-380c-487f-983f-d1a02401fa28"
+spotify = "6G7OerKc3eBO9sVkRNopFC"
+begin = "1972-01-21"
+origin = "Atlanta"
+
+tags = ["indie-folk", "soul", "us", "2000s"]
+
+tops = [
+  "The Greatest",
+  "Sea of Love",
+  "Lived in Bars",
+  "Metal Heart",
+  "Manhattan",
+]
+
+links = [
+  { to = "dirty-three", type = "collab", note = "Moon Pix enregistré avec eux" },
+  { to = "fiona-apple", type = "scene", note = "songwriting américain à vif" },
+]
+
+description = """
+Chan Marshall, Atlanta, 1972 : folk-soul fragile puis ample, voix de brume,
+reprises réinventées et Memphis en ligne d'horizon (The Greatest).
+"""

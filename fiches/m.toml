@@ -1,0 +1,28 @@
+format = 1
+generated = true
+name = "-M-"
+mbid = "99513c45-6c2d-4a6b-a089-074360591f01"
+spotify = "6soPpJHlCtN6SY8pWlfbC6"
+begin = "1971-12-21"
+origin = "Boulogne-Billancourt"
+
+tags = ["pop-rock", "chanson-francaise", "fr", "2000s"]
+
+tops = [
+  "Je dis aime",
+  "Machistador",
+  "Qui de nous deux",
+  "Onde sensuelle",
+  "Est-ce que c'est ça ?",
+]
+
+links = [
+  { to = "louis-chedid", type = "family", note = "son père" },
+  { to = "vanessa-paradis", type = "collab", note = "réalisation et duos" },
+  { to = "toumani-diabate", type = "collab", note = "le projet malien Lamomali" },
+]
+
+description = """
+Matthieu Chedid, Boulogne-Billancourt, 1971 : le rock français en costume à
+paillettes, guitare virtuose et personnage scénique. Fils de Louis Chedid.
+"""

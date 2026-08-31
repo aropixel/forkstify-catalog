@@ -1,0 +1,28 @@
+format = 1
+generated = true
+name = "Calexico"
+mbid = "5e372a49-5672-4fb8-ba14-18c90780c4f9"
+spotify = "1OmdWpAh1pucAuZPzJaxIJ"
+begin = "1996"
+origin = "Tucson"
+
+tags = ["americana", "indie-rock", "folk-rock", "desert", "us", "90s"]
+
+tops = [
+  "Crystal Frontier",
+  "The Ballad of Cable Hogue",
+  "Falling from the Sky",
+  "Alone Again Or",
+  "Para",
+]
+
+links = [
+  { to = "giant-sand", type = "member", note = "Burns et Convertino en étaient la section rythmique" },
+  { to = "iron-and-wine", type = "collab", note = "l'album commun In the Reins (2005)" },
+  { to = "wilco", type = "scene", note = "americana indé des années 90-2000" },
+]
+
+description = """
+Rock du désert de Tucson mené par Joey Burns et John Convertino : americana, cuivres
+mariachi, frontières mexicaines et poussière. Précis et cinématographique.
+"""

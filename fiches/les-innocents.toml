@@ -1,0 +1,26 @@
+format = 1
+generated = true
+name = "Les Innocents"
+mbid = "99d2818c-5d31-41ef-95ca-945ee0bf73ed"
+spotify = "4yBNT94b6M3yRNVLIy8RhP"
+begin = "1982"
+origin = "Paris"
+
+tags = ["pop-francaise", "pop", "fr", "90s"]
+
+tops = [
+  "L'Autre Finistère",
+  "Colore",
+  "Un monde parfait",
+  "Jodie",
+]
+
+links = [
+  { to = "jp-nataf", type = "member", note = "carrière solo du chanteur" },
+  { to = "etienne-daho", type = "scene", note = "pop française élégante des années 80-90" },
+]
+
+description = """
+Paris, depuis 1982 : la pop française harmonique de JP Nataf et Jean-Christophe
+Urbain, guitares carillonnantes et refrains en apesanteur.
+"""

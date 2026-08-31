@@ -1,0 +1,26 @@
+format = 1
+generated = true
+name = "Therapie TAXI"
+mbid = "4e685fcb-0306-4441-9d88-9528fdc1e141"
+spotify = "5MynxBz4ZMqvUzpcxTZl4C"
+begin = "2016-06"
+end = "2020-12-02"
+origin = "Paris"
+
+tags = ["pop", "electropop", "fr", "2010s"]
+
+tops = [
+  "Hit Sale",
+  "Salope",
+  "PVP",
+  "Été 90",
+]
+
+links = [
+  { to = "eddy-de-pretto", type = "scene", note = "nouvelle pop française parlée-chantée des années 2017+" },
+]
+
+description = """
+Paris, 2016-2021 : pop électro insolente, duos garçon-fille, hymnes de soirée
+qui finissent mal. Hit Sale en étendard.
+"""

@@ -1,0 +1,32 @@
+format = 1
+generated = true
+name = "Orelsan"
+mbid = "6cad3ce5-6380-4594-a8da-ae7d273b683d"
+spotify = "4FpJcNgOvIpSBeJgRg3OfN"
+begin = "1982-08-01"
+origin = "Alençon"
+
+tags = ["rap-francais", "hip-hop", "fr", "2000s", "2010s"]
+
+tops = [
+  "La Quête",
+  "Basique",
+  "Tout va bien",
+  "Suicide social",
+  "Défaite de famille",
+]
+
+doors = [
+  { track = "La Quête", to = ["chanson-francaise"], note = "le morceau qui tend vers la chanson" },
+]
+
+links = [
+  { to = "casseurs-flowters", type = "member", note = "son duo avec Gringe" },
+  { to = "gringe", type = "collab", note = "l'autre Casseur Flowter" },
+  { to = "stupeflip", type = "scene", note = "rap français à contre-courant" },
+]
+
+description = """
+Rappeur d'Alençon, du persiflage de Perdu d'avance à l'introspection de La fête est
+finie : chroniques de la France périphérique, ironie et mélancolie.
+"""

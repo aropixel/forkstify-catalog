@@ -1,0 +1,31 @@
+format = 1
+generated = true
+name = "Nouvelle Vague"
+mbid = "b017a7ae-e5ee-4675-bb13-c83346134971"
+spotify = "4h7NLIlg1oYdEtfQJfyto0"
+begin = "2003"
+origin = "Paris"
+
+tags = ["bossa-nova", "reprises", "new-wave", "lounge", "fr", "2000s"]
+
+tops = [
+  "Just Can't Get Enough",
+  "Dance with Me",
+  "In a Manner of Speaking",
+  "Ever Fallen in Love",
+]
+
+doors = [
+  { track = "In a Manner of Speaking", to = ["new-wave"], note = "porte vers les originaux — Tuxedomoon" },
+]
+
+links = [
+  { to = "the-cure", type = "influence", note = "répertoire repris — A Forest en bossa" },
+  { to = "depeche-mode", type = "influence", note = "répertoire repris" },
+  { to = "camille", type = "member", note = "révélée par leurs premiers albums" },
+]
+
+description = """
+Paris, depuis 2003 : Marc Collin et Olivier Libaux reprennent le répertoire
+new wave et punk en bossa nova chuchotée par de jeunes chanteuses.
+"""
