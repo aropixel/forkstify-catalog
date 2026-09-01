@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Iron & Wine"
+mbid = "c3f28da8-662d-4f09-bdc7-3084bf685930"
+spotify = "4M5nCE77Qaxayuhp3fVn4V"
+begin = "1974"
+origin = "Chapin"
+
+tags = ["indie-folk", "folk-rock", "indie-rock", "lo-fi", "us"]
+
+tops = [
+  "Flightless Bird, American Mouth",
+  "California Sober",
+  "Call It Dreaming",
+  "Flightless Bird, American Mouth (Wedding Version)",
+  "In Your Ocean (Acoustic)",
+]
+
+links = [
+  { to = "jose-gonzalez", type = "similar" },
+]

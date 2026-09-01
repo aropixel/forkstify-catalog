@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Glen Hansard"
+mbid = "57f89cad-d2ef-48df-9119-8287b106716a"
+spotify = "3Caot8EtHX6wLpNF2wRzS0"
+begin = "1970"
+end = "2026"
+origin = "Ballymun"
+
+tags = ["rock", "folk", "folk-rock", "singer-songwriter", "ie"]
+
+tops = [
+  "Falling Slowly",
+  "If You Want Me (Album Version)",
+  "When Your Mind's Made Up (Album Version)",
+  "Song of Good Hope",
+  "The Weight (Live)",
+]
+
+links = [
+  { to = "damien-rice", type = "similar" },
+]

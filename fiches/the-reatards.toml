@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Reatards"
+mbid = "d24dab4e-9c13-4205-8199-ccdd2ca9b79f"
+begin = "1998"
+end = "2005"
+origin = "Memphis"
+
+tags = ["garage-punk", "us", "90s"]
+
+tops = [
+  "Blew My Mind",
+  "Not Your Man",
+  "Down in Flames",
+  "You Ain't No Fun No Mo",
+  "Get the Fuck Outta My Home",
+]
+
+links = [
+  { to = "jay-reatard", type = "member" },
+]

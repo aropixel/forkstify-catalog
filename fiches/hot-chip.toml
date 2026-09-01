@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Hot Chip"
+mbid = "d8915e13-d67a-4aa0-9c0b-1f126af951af"
+spotify = "37uLId6Z5ZXCx19vuruvv5"
+begin = "2000"
+origin = "London"
+
+tags = ["indietronica", "alternative-dance", "electropop", "deep-house", "uk", "2000s"]
+
+tops = [
+  "Straight To The Morning (Myd Remix)",
+  "Hungry Child (Edit)",
+  "Flutes",
+  "One Life Stand",
+  "Look At Where We Are",
+]
+
+links = [
+  { to = "metronomy", type = "similar" },
+  { to = "lcd-soundsystem", type = "similar" },
+  { to = "the-rapture", type = "similar" },
+]

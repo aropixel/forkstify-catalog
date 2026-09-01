@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Dirty Three"
+mbid = "af8bb921-4d67-4f0d-ba17-6215315f92e4"
+spotify = "1QUsHFoDqNsC0W9AlNyHWF"
+begin = "1992"
+origin = "Melbourne"
+
+tags = ["instrumental", "post-rock", "au", "90s"]
+
+tops = [
+  "Everything's Fucked",
+  "Sea Above, Sky Below",
+  "Some Summers They Drop Like Flys",
+  "Rain Song",
+  "Some Things I Just Don't Want To Know",
+]
+
+links = [
+  { to = "scout-niblett", type = "similar" },
+]

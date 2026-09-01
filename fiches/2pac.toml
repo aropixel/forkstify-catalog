@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "2Pac"
+mbid = "382f1005-e9ab-4684-afd4-0bdae4ee37f2"
+spotify = "1ZwdS5xdxEREPySFridCfh"
+begin = "1971"
+end = "1996"
+origin = "East Harlem"
+
+tags = ["gangsta-rap", "west-coast-hip-hop", "hip-hop", "political-hip-hop", "us"]
+
+tops = [
+  "California Love (Original Version)",
+  "Changes",
+  "Hit 'Em Up (Single Version)",
+  "Do For Love",
+  "Ambitionz Az A Ridah",
+]
+
+links = [
+  { to = "snoop-dogg", type = "similar" },
+  { to = "jay-z", type = "similar" },
+  { to = "busta-rhymes", type = "similar" },
+]

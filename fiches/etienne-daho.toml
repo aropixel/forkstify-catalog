@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Étienne Daho"
+mbid = "1e0de31c-4957-4649-9aa3-7b0f1d9d2c84"
+spotify = "5aDKJuLDczfmHfRSOmHCJk"
+begin = "1956"
+origin = "Oran"
+
+tags = ["pop", "pop-rock", "synth-pop", "fr"]
+
+tops = [
+  "Le Premier jour (Du reste de ta vie)",
+  "Week-end à Rome",
+  "Comme un boomerang",
+  "Mon manège à moi",
+  "Tombé pour la France",
+]
+
+links = [
+  { to = "alain-bashung", type = "similar" },
+  { to = "francoise-hardy", type = "similar" },
+  { to = "les-innocents", type = "similar" },
+  { to = "laurent-voulzy", type = "similar" },
+]

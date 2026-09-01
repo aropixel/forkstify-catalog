@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "J.P. Nataf"
+mbid = "472f9dcc-6a06-4b12-8656-fa44b25499b5"
+spotify = "1JD5AxCamcPAICtruZai4s"
+begin = "1962"
+origin = "Boulogne-Billancourt"
+
+tags = ["fr"]
+
+tops = [
+  "Toast to Freedom (Long Version)",
+  "Demain demain",
+  "Viens me le dire",
+  "Toast to Freedom (Radio Edit)",
+  "Seul alone",
+]
+
+links = [
+  { to = "les-innocents", type = "member", note = "membre (1982–2000)" },
+  { to = "arthur-h", type = "similar" },
+  { to = "dominique-a", type = "similar" },
+  { to = "camille", type = "similar" },
+  { to = "bertrand-belin", type = "similar" },
+]

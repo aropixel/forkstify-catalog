@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Angèle"
+mbid = "dcd4701d-64ec-443d-bfbf-73fc87c44bd6"
+spotify = "3QVolfxko2UyCOtexhVTli"
+begin = "1995"
+origin = "Linkebeek"
+
+tags = ["pop", "r-and-b", "soul", "be"]
+
+tops = [
+  "Une seule vie",
+  "What You Want",
+  "Nightcall",
+  "Dis-le",
+  "Flemme",
+]
+
+links = [
+  { to = "romeo-elvis", type = "family" },
+  { to = "eddy-de-pretto", type = "similar" },
+  { to = "stromae", type = "similar" },
+  { to = "therapie-taxi", type = "similar" },
+  { to = "bigflo-and-oli", type = "similar" },
+]

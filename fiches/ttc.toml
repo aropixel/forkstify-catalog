@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "TTC"
+mbid = "62bd8d93-5e1e-480f-8642-9c346e93ff11"
+spotify = "3taeGwG1yqKJQvpgh21E4j"
+begin = "1999"
+end = "2009"
+origin = "Paris"
+
+tags = ["fr", "90s"]
+
+tops = [
+  "Girlfriend",
+  "Association De Gens Normals",
+  "Dans Le Club",
+  "Batard Sensibles",
+  "Travailler",
+]
+
+links = [
+  { to = "svinkels", type = "similar" },
+  { to = "iam", type = "similar" },
+  { to = "joeystarr", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Svinkels"
+mbid = "770d490e-c89b-4775-8508-aca7c75142cd"
+spotify = "0dT6c6YrbVHStlEuj8NsbN"
+begin = "1994"
+origin = "Paris"
+
+tags = ["hip-hop", "fr", "90s"]
+
+tops = [
+  "Réveille Le Punk (Full Metal Mix)",
+  "Association De Gens Normals",
+  "Cereal Killer",
+  "Ça re-recommence !",
+  "Réveille le punk",
+]
+
+links = [
+  { to = "ttc", type = "similar" },
+  { to = "stupeflip", type = "similar" },
+  { to = "iam", type = "similar" },
+  { to = "joeystarr", type = "similar" },
+]

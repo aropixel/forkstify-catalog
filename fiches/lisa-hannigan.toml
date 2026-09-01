@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Lisa Hannigan"
+mbid = "8d0d65cf-3d01-4110-bf36-7e1aa27b68f2"
+spotify = "0z7Yuv7DuDQ5SaVn4VSlLt"
+begin = "1981"
+origin = "Kilcloon"
+
+tags = ["folk", "indie-folk", "pop", "singer-songwriter", "ie"]
+
+tops = [
+  "Toxic (feat. Lisa Hannigan)",
+  "The Little Drummer Boy",
+  "Oh! You Pretty Things",
+  "My Little Reason Why",
+  "My Lagan Love",
+]
+
+links = [
+  { to = "laura-marling", type = "similar" },
+  { to = "damien-rice", type = "similar" },
+  { to = "glen-hansard", type = "similar" },
+  { to = "iron-and-wine", type = "similar" },
+]

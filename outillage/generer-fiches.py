@@ -65,8 +65,12 @@ def slugifier(nom):
     return "-".join(re.findall(r"[a-z0-9]+", nom.lower()))
 
 def clef_de_correspondance(slug):
-    """Slug normalisé pour comparer : ignore les mots vides and/et."""
-    return "-".join(m for m in slug.split("-") if m not in ("and", "et"))
+    """Slug normalisé pour comparer : ignore and/et et le « the » de tête —
+    « gun-club » doit trouver « The Gun Club », « the-reatards » « Reatards »."""
+    mots = [m for m in slug.split("-") if m not in ("and", "et")]
+    if len(mots) > 1 and mots[0] == "the":
+        mots = mots[1:]
+    return "".join(mots)  # sans séparateur : « j-p-nataf » == « jp-nataf »
 
 # --- Univers connu : fiches + bibliothèque résolue --------------------------
 
@@ -137,7 +141,7 @@ def faits_musicbrainz(mbid):
             relations.append({"type": t, "nom": cible["name"], "mbid": cible["id"],
                               "debut": rel.get("begin"), "fin": rel.get("end")})
     return {
-        "nom": a["name"], "pays": a.get("country"),
+        "nom": a["name"], "type": a.get("type"), "pays": a.get("country"),
         "zone": (a.get("begin-area") or {}).get("name"),
         "debut": vie.get("begin"), "fin": vie.get("ended") and vie.get("end"),
         "genres": genres, "relations": relations,
@@ -186,7 +190,9 @@ def composer_tags(faits):
     tags = [slugifier(g) for g in faits["genres"][:4]]
     if faits["pays"]:
         tags.append(PAYS.get(faits["pays"], faits["pays"].lower()))
-    if (d := tag_decennie(faits["debut"])):
+    # décennie de formation — pour les groupes seulement : pour une personne,
+    # begin est sa naissance, pas le début de sa carrière
+    if faits["type"] != "Person" and (d := tag_decennie(faits["debut"])):
         tags.append(d)
     return tags
 
@@ -269,6 +275,11 @@ def generer(slugs):
 
         deezer_id = faits["deezer"] or deezer_id_par_nom(faits["nom"])
         tops, similaires = tops_et_similaires(deezer_id) if deezer_id else ([], [])
+        if deezer_id and not tops:  # id MusicBrainz périmé ou doublon vide
+            autre = deezer_id_par_nom(faits["nom"])
+            if autre and autre != deezer_id:
+                deezer_id = autre
+                tops, similaires = tops_et_similaires(autre)
         if not deezer_id:
             rapport["sans_deezer"].append(slug)
 

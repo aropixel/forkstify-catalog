@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Ella Fitzgerald"
+mbid = "54799c0e-eb45-4eea-996d-c4d71a63c499"
+spotify = "5V0MlUE1Bft0mbLlND7FJz"
+begin = "1917"
+end = "1996"
+origin = "Newport News"
+
+tags = ["jazz", "vocal-jazz", "swing", "big-band", "us"]
+
+tops = [
+  "Cheek To Cheek",
+  "Isn't This A Lovely Day?",
+  "Can Anyone Explain?",
+  "Ooo Baby Baby",
+  "I've Got You Under My Skin",
+]
+
+links = [
+  { to = "nat-king-cole", type = "similar" },
+  { to = "nina-simone", type = "similar" },
+]

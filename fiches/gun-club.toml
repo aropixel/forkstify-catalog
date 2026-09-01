@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "The Gun Club"
+mbid = "e78cc47f-9b89-4ef7-86f8-8f9df4f9dac9"
+spotify = "3Un18X4NF1bpjgUk44lUzn"
+begin = "1979"
+end = "1996"
+origin = "Los Angeles"
+
+tags = ["punk-blues", "post-punk", "alternative-rock", "blues-rock", "us", "70s"]
+
+tops = [
+  "Mother of Earth",
+  "Texas Serenade",
+  "Sex Beat",
+  "For the Love of Ivy",
+  "Preaching the Blues",
+]
+
+links = [
+  { to = "the-fall", type = "similar" },
+  { to = "sonic-youth", type = "similar" },
+  { to = "violent-femmes", type = "similar" },
+  { to = "buzzcocks", type = "similar" },
+]

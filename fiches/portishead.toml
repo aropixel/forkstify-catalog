@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Portishead"
+mbid = "8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11"
+spotify = "6liAMWkVf5LH7YR9yfFy1Y"
+begin = "1991"
+origin = "Bristol"
+
+tags = ["trip-hop", "electronic", "downtempo", "experimental-rock", "uk", "90s"]
+
+tops = [
+  "Glory Box",
+  "Roads",
+  "Numb",
+  "Sour Times",
+  "Glory Box (Live)",
+]
+
+links = [
+  { to = "beth-gibbons", type = "member", note = "membre (1991–…)" },
+  { to = "massive-attack", type = "similar" },
+  { to = "archive", type = "similar" },
+  { to = "morcheeba", type = "similar" },
+  { to = "bjork", type = "similar" },
+]

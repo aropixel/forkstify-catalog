@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Pixies"
+mbid = "b6b2bb8d-54a9-491f-9607-7b546023b433"
+spotify = "6zvul52xwTWzilBZl6BUbT"
+begin = "1986"
+origin = "Boston"
+
+tags = ["alternative-rock", "indie-rock", "noise-pop", "punk-rock", "us", "80s"]
+
+tops = [
+  "Where Is My Mind?",
+  "Here Comes Your Man",
+  "Hey",
+  "All I Think About Now",
+  "Que Sera Sera",
+]
+
+links = [
+  { to = "sonic-youth", type = "similar" },
+  { to = "blur", type = "similar" },
+  { to = "pavement", type = "similar" },
+  { to = "the-white-stripes", type = "similar" },
+]

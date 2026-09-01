@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "The Limiñanas"
+mbid = "5942ebdf-6573-4a68-b686-e0e37307344b"
+spotify = "2joJCoCL4EmiVqic3vZn7n"
+begin = "2009"
+origin = "Perpignan"
+
+tags = ["garage-rock", "pop", "psychedelic", "rock", "fr", "2000s"]
+
+tops = [
+  "Black out",
+  "Au début c'était le début (feat. Bertrand Belin)",
+  "J'adore le monde",
+  "Je ne suis pas très drogue",
+  "Saul",
+]
+
+links = [
+  { to = "lionel-liminana", type = "member" },
+  { to = "baxter-dury", type = "similar" },
+  { to = "the-divine-comedy", type = "similar" },
+  { to = "lescop", type = "similar" },
+  { to = "sleaford-mods", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Gringe"
+mbid = "008b4779-f6e1-4e17-9c1a-0806b4d0986b"
+spotify = "4oVERQ0AxzzQ4zip1nMKlt"
+begin = "1980"
+origin = "Poitiers"
+
+tags = ["hip-hop", "fr"]
+
+tops = [
+  "Casseurs Flowters Infinity",
+  "Ils sont cools",
+  "Qui dit mieux (feat. Orelsan, Vald & Suikon Blaz AD)",
+  "Pièces détachées",
+  "Scanner (feat. Léa Castel)",
+]
+
+links = [
+  { to = "casseurs-flowters", type = "member" },
+  { to = "orelsan", type = "similar" },
+  { to = "romeo-elvis", type = "similar" },
+  { to = "skread", type = "similar" },
+]

@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Count Basie"
+mbid = "0dbd6300-efdc-420b-857e-895e18fad317"
+spotify = "2jFZlvIea42ZvcCw4OeEdA"
+begin = "1904"
+end = "1984"
+origin = "Red Bank"
+
+tags = ["jazz", "big-band", "swing", "piano-blues", "us"]
+
+tops = [
+  "Dream A Little Dream Of Me",
+  "Flight of the Foo Birds",
+  "Li'l Darlin'",
+  "Tea For Two",
+  "More (Theme From Mondo Cane)",
+]
+
+links = [
+  { to = "oscar-peterson", type = "similar" },
+]

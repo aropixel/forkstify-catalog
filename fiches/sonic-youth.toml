@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Sonic Youth"
+mbid = "5cbef01b-cc35-4f52-af7b-d0df0c4f61b9"
+spotify = "5UqTO8smerMvxHYA5xsXb6"
+begin = "1981"
+end = "2011"
+origin = "New York"
+
+tags = ["alternative-rock", "noise-rock", "experimental-rock", "no-wave", "us", "80s"]
+
+tops = [
+  "Tunic (Song For Karen)",
+  "Kool Thing",
+  "Sugar Kane",
+  "Teen Age Riot (Album Version)",
+  "Bull In The Heather (Album Version)",
+]
+
+links = [
+  { to = "pixies", type = "similar" },
+  { to = "pavement", type = "similar" },
+  { to = "dinosaur-jr", type = "similar" },
+  { to = "fugazi", type = "similar" },
+]

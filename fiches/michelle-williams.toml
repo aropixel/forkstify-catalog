@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Michelle Williams"
+mbid = "fac0f203-eb89-4d34-a3c5-8e353356d756"
+spotify = "6t7nbFAc2dUa7oNu7kBOui"
+begin = "1980"
+origin = "Rockford"
+
+tags = ["contemporary-gospel", "contemporary-r-and-b", "gospel", "dance-pop", "us"]
+
+tops = [
+  "Say Yes (ft. Beyoncé & Kelly Rowland)",
+  "Gospel Medley",
+  "We Break the Dawn",
+  "If We Had Your Eyes (ft. Fantasia)",
+  "Need Your Help (ft. Eric Dawkins)",
+]
+
+links = [
+  { to = "destinys-child", type = "member", note = "membre (2000–…)" },
+  { to = "kelly-rowland", type = "scene", note = "même époque et pays, genres proches : contemporary-r-and-b, dance-pop" },
+]

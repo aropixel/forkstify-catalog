@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Fiona Apple"
+mbid = "a9ee533f-8871-4f62-a6bb-91eb264abc90"
+spotify = "3g2kUQ6tHLLbmkV7T4GPtL"
+begin = "1977"
+origin = "Manhattan"
+
+tags = ["rock", "alternative-pop", "art-pop", "piano-rock", "us"]
+
+tops = [
+  "Criminal",
+  "Paper Bag",
+  "I Want You To Love Me",
+  "Shadowboxer",
+  "I Know",
+]
+
+links = [
+  { to = "mazzy-star", type = "similar" },
+  { to = "elliott-smith", type = "similar" },
+  { to = "radiohead", type = "similar" },
+  { to = "black-box-recorder", type = "similar" },
+]

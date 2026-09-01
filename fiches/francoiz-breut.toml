@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Françoiz Breut"
+mbid = "13170c96-4092-4bca-ba41-8c294bc457c0"
+spotify = "5bWRCM3vFGqamlNxSzNj1O"
+begin = "1969"
+origin = "Cherbourg-Octeville"
+
+tags = ["indie-pop", "fr"]
+
+tops = [
+  "Si tu disais",
+  "Mes péchés s'accumulent",
+  "Dérive urbaine dans la ville cannibale",
+  "La danse des ombres",
+  "L'Origine du monde",
+]
+
+links = [
+  { to = "arthur-h", type = "similar" },
+  { to = "dominique-a", type = "similar" },
+  { to = "bertrand-belin", type = "similar" },
+  { to = "radio-elvis", type = "similar" },
+]

@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Toumani Diabaté"
+mbid = "b96ba7e7-d882-409a-9825-ed3d6dbb437d"
+spotify = "2nCACYdIndYchzX4bxLcTW"
+begin = "1965"
+end = "2024"
+origin = "Bamako"
+
+tags = ["world-fusion", "ml"]
+
+tops = [
+  "Totem",
+  "Toi l'enfant",
+  "Manitoumani",
+  "Solidarité",
+  "Bal de Bamako",
+]
+
+links = [
+  { to = "ali-farka-toure", type = "similar" },
+]

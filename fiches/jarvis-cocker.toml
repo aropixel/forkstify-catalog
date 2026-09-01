@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Jarvis Cocker"
+mbid = "38550441-d437-4aff-867e-e79bf0c04142"
+spotify = "2kTHIUipN0SYKBbmcTCLfQ"
+begin = "1963"
+origin = "Sheffield"
+
+tags = ["britpop", "uk"]
+
+tops = [
+  "Aline",
+  "Magic Works",
+  "Red Right Hand",
+  "Do the Hippogriff",
+  "The Tearjerker Returns",
+]
+
+links = [
+  { to = "pulp", type = "member" },
+  { to = "keren-ann", type = "similar" },
+  { to = "nouvelle-vague", type = "similar" },
+  { to = "the-liminanas", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Phoenix"
+mbid = "8d455809-96b3-4bb6-8829-ea4beb580d35"
+spotify = "1xU878Z1QtBldR7ru9owdU"
+begin = "1999"
+origin = "Versailles"
+
+tags = ["indie-pop", "pop-rock", "alternative-rock", "indie-rock", "fr", "90s"]
+
+tops = [
+  "Nightcall",
+  "Lisztomania",
+  "If I Ever Feel Better",
+  "1901",
+  "Tonight (feat. Ezra Koenig)",
+]
+
+links = [
+  { to = "metronomy", type = "similar" },
+  { to = "foals", type = "similar" },
+  { to = "arcade-fire", type = "similar" },
+  { to = "beck", type = "similar" },
+]

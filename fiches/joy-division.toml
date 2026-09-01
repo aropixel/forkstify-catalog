@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Joy Division"
+mbid = "9a58fda3-f4ed-4080-a3a5-f457aac9fcdd"
+spotify = "432R46LaYsJZV2Gmc4jUV5"
+begin = "1978"
+end = "1980"
+origin = "Salford"
+
+tags = ["post-punk", "new-wave", "gothic-rock", "rock", "uk", "70s"]
+
+tops = [
+  "Love Will Tear Us Apart",
+  "Disorder",
+  "Atmosphere",
+  "Transmission",
+  "She's Lost Control",
+]
+
+links = [
+  { to = "siouxsie-and-the-banshees", type = "similar" },
+  { to = "the-cure", type = "similar" },
+]

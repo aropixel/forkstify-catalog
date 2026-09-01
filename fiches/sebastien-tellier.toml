@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Sébastien Tellier"
+mbid = "ac69016f-42cc-4322-b70e-101458b769aa"
+spotify = "23ymPLjbtAMzTJS2qRtQ8Z"
+begin = "1975"
+origin = "Le Plessis-Bouchard"
+
+tags = ["ambient-pop", "downtempo", "electronic", "french-house", "fr"]
+
+tops = [
+  "Attraction",
+  "La ritournelle",
+  "Roche",
+  "L'amour et la violence",
+  "Look",
+]
+
+links = [
+  { to = "metronomy", type = "similar" },
+  { to = "baxter-dury", type = "similar" },
+  { to = "isaac-delusion", type = "similar" },
+  { to = "flavien-berger", type = "similar" },
+]

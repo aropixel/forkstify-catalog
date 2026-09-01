@@ -1,0 +1,26 @@
+format = 1
+generated = true
+name = "Mano Negra"
+mbid = "e024a3ca-c78e-459a-9a98-8029f49b5a5f"
+spotify = "6jq7GptAwkoFiunDhZYqQ2"
+begin = "1987"
+end = "1995"
+origin = "Sèvres"
+
+tags = ["alternative-rock", "folk-punk", "punk", "ska-punk", "fr", "80s"]
+
+tops = [
+  "Mala Vida",
+  "Out of Time Man",
+  "Pas assez de toi",
+  "King Kong Five",
+  "Soledad",
+]
+
+links = [
+  { to = "manu-chao", type = "member" },
+  { to = "les-negresses-vertes", type = "similar" },
+  { to = "noir-desir", type = "similar" },
+  { to = "zebda", type = "similar" },
+  { to = "dionysos", type = "similar" },
+]

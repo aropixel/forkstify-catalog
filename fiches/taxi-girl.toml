@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Taxi Girl"
+mbid = "57f36a0a-cdb0-4f00-bcdf-0483dbbc1384"
+spotify = "4ztbfel6DJq0lL4wmTJN9Y"
+begin = "1978"
+end = "1986"
+origin = "Paris"
+
+tags = ["new-wave", "fr", "70s"]
+
+tops = [
+  "Cherchez le garçon",
+  "Aussi Belle Qu'une Balle",
+  "Paris",
+  "Mannequin",
+  "Cherchez le garçon (Version 45T)",
+]
+
+links = [
+  { to = "etienne-daho", type = "similar" },
+  { to = "les-rita-mitsouko", type = "similar" },
+  { to = "jacno", type = "similar" },
+]

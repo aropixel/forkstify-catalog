@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Blur"
+mbid = "ba853904-ae25-4ebb-89d6-c44cfbd71bd2"
+spotify = "7MhMgCo0Bl0Kukl93PZbYS"
+begin = "1990"
+origin = "London"
+
+tags = ["alternative-rock", "britpop", "indie-rock", "art-rock", "uk", "90s"]
+
+tops = [
+  "Song 2",
+  "Girls & Boys",
+  "Parklife",
+  "Charmless Man",
+  "Country House",
+]
+
+links = [
+  { to = "graham-coxon", type = "member" },
+  { to = "pulp", type = "similar" },
+  { to = "pixies", type = "similar" },
+  { to = "interpol", type = "similar" },
+  { to = "beck", type = "similar" },
+]

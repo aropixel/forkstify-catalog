@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Michel Cloup"
+mbid = "835c8fb2-29e2-475c-8180-b8e79b76ef6b"
+spotify = "0rRULIeh8sNPdevC0UXbDF"
+origin = "Toulouse"
+
+tags = ["rock", "fr"]
+
+tops = [
+  "L’internationale 2022",
+  "Une autre année",
+  "Ces images",
+  "On continue",
+  "Sedétacher 2017",
+]
+
+links = [
+  { to = "experience", type = "member" },
+  { to = "binary-audio-misfits", type = "member" },
+  { to = "francoiz-breut", type = "similar" },
+  { to = "dominique-a", type = "similar" },
+  { to = "miossec", type = "similar" },
+  { to = "camille", type = "similar" },
+]

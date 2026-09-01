@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Black Lips"
+mbid = "e940d7a3-01d0-468c-86ea-5dc4d89dcf80"
+spotify = "35C0NSLogAwImm8HAMqEmG"
+begin = "1999"
+origin = "Atlanta"
+
+tags = ["garage-punk", "garage-rock", "us", "90s"]
+
+tops = [
+  "Gunnin'",
+  "The One",
+  "Modern Art",
+  "Bad Kids",
+  "Family Tree",
+]
+
+links = [
+  { to = "the-brian-jonestown-massacre", type = "similar" },
+  { to = "the-dandy-warhols", type = "similar" },
+  { to = "idles", type = "similar" },
+  { to = "the-kills", type = "similar" },
+]

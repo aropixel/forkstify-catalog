@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Wilco"
+mbid = "9e53f84d-ef44-4c16-9677-5fd4d78cbd7d"
+spotify = "2QoU3awHVdcHS8LrZEKvSM"
+begin = "1994"
+origin = "Chicago"
+
+tags = ["alternative-rock", "folk-rock", "indie-rock", "rock", "us", "90s"]
+
+tops = [
+  "How to Fight Loneliness",
+  "Via Chicago",
+  "If I Ever Was a Child",
+  "You and I",
+  "Jesus, Etc.",
+]
+
+links = [
+  { to = "yo-la-tengo", type = "similar" },
+  { to = "elliott-smith", type = "similar" },
+  { to = "beck", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+]

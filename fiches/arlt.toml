@@ -1,0 +1,19 @@
+format = 1
+generated = true
+name = "Arlt"
+mbid = "1df83f8c-b7c2-4478-bae4-325a14ae691a"
+
+tags = ["fr"]
+
+tops = [
+  "La Rouille",
+  "Est-ce que c'est le vent ?",
+  "Après quoi nous avons ri",
+  "Je voudrais être mariée",
+  "Lettre morte",
+]
+
+links = [
+  { to = "brigitte-fontaine", type = "similar" },
+  { to = "camille", type = "similar" },
+]

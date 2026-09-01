@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Destiny’s Child"
+mbid = "a796b92e-c137-4895-9c89-10f900617a4f"
+spotify = "1Y8cdNmUJH7yBTd9yOvr5i"
+begin = "1990"
+end = "2006"
+origin = "Houston"
+
+tags = ["pop", "contemporary-r-and-b", "dance-pop", "pop-soul", "us", "90s"]
+
+tops = [
+  "Say My Name",
+  "Survivor",
+  "Bills, Bills, Bills",
+  "Emotion",
+  "Lose My Breath",
+]
+
+links = [
+  { to = "beyonce", type = "member", note = "membre (1990–…)" },
+  { to = "kelly-rowland", type = "member", note = "membre (1990–…)" },
+  { to = "michelle-williams", type = "member", note = "membre (2000–…)" },
+]

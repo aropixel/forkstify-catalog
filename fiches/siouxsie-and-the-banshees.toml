@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Siouxsie and the Banshees"
+mbid = "78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2"
+spotify = "1n65zfwYIj5kKEtNgxUlWb"
+begin = "1976"
+end = "1996"
+origin = "London"
+
+tags = ["new-wave", "post-punk", "gothic-rock", "art-rock", "uk", "70s"]
+
+tops = [
+  "Cities In Dust (Single Version)",
+  "The Passenger",
+  "Spellbound",
+  "Happy House",
+  "Hong Kong Garden",
+]
+
+links = [
+  { to = "the-cure", type = "similar" },
+  { to = "joy-division", type = "similar" },
+]

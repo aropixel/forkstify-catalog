@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Suede"
+mbid = "a55c2f1b-3f3f-4d6a-aa30-5e186dbadce6"
+spotify = "6PHIK3kjWggLtVygsOtpqS"
+begin = "1989"
+origin = "London"
+
+tags = ["britpop", "alternative-rock", "glam-rock", "art-rock", "uk", "80s"]
+
+tops = [
+  "Beautiful Ones",
+  "Animal Nitrate",
+  "Saturday Night (Radio 1 Evening Session 29th August 1996)",
+  "Trash",
+  "Trance State",
+]
+
+links = [
+  { to = "pulp", type = "similar" },
+  { to = "blur", type = "similar" },
+  { to = "the-las", type = "similar" },
+  { to = "pixies", type = "similar" },
+]

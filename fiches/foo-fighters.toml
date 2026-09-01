@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Foo Fighters"
+mbid = "67f66c07-6e61-4026-ade5-7e782fad3a5d"
+spotify = "7jy3rLJdDQY21OgRLCZ9sD"
+begin = "1994"
+origin = "Seattle"
+
+tags = ["rock", "alternative-rock", "post-grunge", "hard-rock", "us", "90s"]
+
+tops = [
+  "Everlong",
+  "The Pretender",
+  "Learn to Fly",
+  "Walk",
+  "All My Life",
+]
+
+links = [
+  { to = "red-hot-chili-peppers", type = "similar" },
+  { to = "nirvana", type = "similar" },
+  { to = "weezer", type = "similar" },
+]

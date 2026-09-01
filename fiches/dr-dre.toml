@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Dr. Dre"
+mbid = "5f6ab597-f57a-40da-be9e-adad48708203"
+spotify = "6DPYiyq5kWVQS4RGwxzPC7"
+begin = "1965"
+origin = "Compton"
+
+tags = ["hip-hop", "west-coast-hip-hop", "g-funk", "gangsta-rap", "us"]
+
+tops = [
+  "Still D.R.E.",
+  "The Next Episode",
+  "What's The Difference",
+  "Forgot About Dre",
+  "Nuthin' But A \"G\" Thang",
+]
+
+links = [
+  { to = "snoop-dogg", type = "similar" },
+  { to = "2pac", type = "similar" },
+  { to = "jay-z", type = "similar" },
+  { to = "busta-rhymes", type = "similar" },
+]

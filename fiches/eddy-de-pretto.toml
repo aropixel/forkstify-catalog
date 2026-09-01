@@ -1,0 +1,18 @@
+format = 1
+generated = true
+name = "Eddy de Pretto"
+mbid = "f7431a56-ef33-4d93-9676-4492f9fb18cb"
+spotify = "7rFugkk9ZvVB1zXHg8h0rj"
+begin = "1993"
+origin = "Créteil"
+
+tags = ["pop-rap", "fr"]
+
+tops = [
+  "Larme fatale",
+  "Rock'n'dollars",
+]
+
+links = [
+  { to = "therapie-taxi", type = "similar" },
+]

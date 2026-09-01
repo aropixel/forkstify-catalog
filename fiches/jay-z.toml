@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "JAŸ-Z"
+mbid = "f82bcf78-5b69-4622-a5ef-73800768d9ac"
+spotify = "5Y2zIJHtZaVmgjOpOxyuPP"
+begin = "1969"
+origin = "Brooklyn"
+
+tags = ["pop-rap", "east-coast-hip-hop", "hip-hop", "boom-bap", "us"]
+
+tops = [
+  "Empire State Of Mind",
+  "03' Bonnie & Clyde",
+  "Ni**as in Paris",
+  "Run This Town",
+  "Hard Knock Life (Ghetto Anthem)",
+]
+
+links = [
+  { to = "beyonce", type = "family" },
+  { to = "busta-rhymes", type = "similar" },
+  { to = "snoop-dogg", type = "similar" },
+  { to = "outkast", type = "similar" },
+  { to = "2pac", type = "similar" },
+]

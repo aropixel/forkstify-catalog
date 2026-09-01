@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Casseurs Flowters"
+mbid = "0e2fe8d5-08d6-4b6c-9e59-a0858cdcdf77"
+spotify = "5sXx89ZqVFOUKTl5g2uiST"
+begin = "2000"
+
+tags = ["comedy-hip-hop", "hip-hop", "fr", "2000s"]
+
+tops = [
+  "Si facile",
+  "Inachevés",
+  "À l’heure où je me couche",
+  "15h02 - Regarde comme il fait beau (dehors)",
+  "06h16 - Des histoires à raconter",
+]
+
+links = [
+  { to = "gringe", type = "member" },
+  { to = "orelsan", type = "member" },
+  { to = "skread", type = "similar" },
+  { to = "romeo-elvis", type = "similar" },
+]

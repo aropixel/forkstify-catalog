@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Camille"
+mbid = "a5511b19-c0af-4886-ab1a-042980644dd2"
+spotify = "0gOsZcHl7H3ewXVIEnWFZX"
+begin = "1978"
+origin = "Paris"
+
+tags = ["chanson-francaise", "folk", "fr"]
+
+tops = [
+  "Si tu souris aux anges - Adolescence",
+  "Ta douleur",
+  "Suis-moi",
+  "Que je t'aime",
+  "Homme (feat. Barbara Pravi, Camille, Clou, Emily Loizeau, La Chica, Laura Cahen, Nach, Poppy Fusée & L (Raphaële Lannadère))",
+]
+
+links = [
+  { to = "nouvelle-vague", type = "member" },
+  { to = "arthur-h", type = "similar" },
+  { to = "keren-ann", type = "similar" },
+  { to = "dominique-a", type = "similar" },
+  { to = "arno", type = "similar" },
+]

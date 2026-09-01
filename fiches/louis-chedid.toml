@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Louis Chédid"
+mbid = "193eab57-df36-43ce-8bad-e47e047ff7dd"
+spotify = "2rBb2WwvpcIHNiofmw22vn"
+begin = "1948"
+origin = "Al Ismā‘īlīyah"
+
+tags = ["singer-songwriter", "fr"]
+
+tops = [
+  "Ainsi soit-il",
+  "T'as beau pas être beau",
+  "Vive nous",
+  "Tout ce qu'on veut dans la vie",
+  "On ne dit jamais assez aux gens qu'on aime qu'on les aime",
+]
+
+links = [
+  { to = "m", type = "family" },
+  { to = "francoise-hardy", type = "similar" },
+  { to = "etienne-daho", type = "similar" },
+]

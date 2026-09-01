@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "The Kinks"
+mbid = "17b53d9f-5c63-4a09-a593-dde4608e0db9"
+spotify = "1SQRv42e4PjEYfPhS0Tk9E"
+begin = "1964"
+end = "1996"
+origin = "London"
+
+tags = ["rock", "mod", "beat-music", "rock-and-roll", "uk", "60s"]
+
+tops = [
+  "Sunny Afternoon",
+  "Supersonic Rocket Ship",
+  "Nothin' in the World Can Stop Me Worryin' 'Bout That Girl",
+  "Living on a Thin Line",
+  "Waterloo Sunset",
+]
+
+links = [
+  { to = "the-beatles", type = "similar" },
+  { to = "the-zombies", type = "similar" },
+  { to = "donovan", type = "similar" },
+  { to = "bob-dylan", type = "similar" },
+]

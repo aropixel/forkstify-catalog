@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Giant Sand"
+mbid = "249eb550-505e-43ef-ac50-e8c605706ff1"
+spotify = "339qxEdD8z8okRAiTp1HKf"
+begin = "1985"
+origin = "Tucson"
+
+tags = ["alternative-country", "alternative-rock", "country", "desert-rock", "us", "80s"]
+
+tops = [
+  "Stranded Pearl",
+  "Monk's Mountain",
+  "Cracklin Water",
+  "The Beat Goes On",
+  "Forever and a Day",
+]
+
+links = [
+  { to = "smog", type = "similar" },
+  { to = "calexico", type = "similar" },
+  { to = "gillian-welch", type = "similar" },
+  { to = "isobel-campbell", type = "similar" },
+]

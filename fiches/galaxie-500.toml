@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Galaxie 500"
+mbid = "4de3cfed-b459-42bd-bfbb-7a843fbc73df"
+spotify = "6guTJsgPymDUVfqDJyz5UG"
+begin = "1987"
+end = "1991"
+origin = "Cambridge"
+
+tags = ["dream-pop", "slowcore", "shoegaze", "indie-rock", "us", "80s"]
+
+tops = [
+  "Blue Thunder",
+  "Strange",
+  "Tugboat",
+  "Isn't It A Pity",
+  "Ceremony",
+]
+
+links = [
+  { to = "ride", type = "similar" },
+  { to = "sonic-youth", type = "similar" },
+  { to = "yo-la-tengo", type = "similar" },
+]
