@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Nick Cave & the Bad Seeds"
+mbid = "172e1f1a-504d-4488-b053-6344ba63e6d0"
+spotify = "4UXJsSlnKd7ltsrHebV79Q"
+begin = "1983"
+origin = "Melbourne"
+
+tags = ["alternative-rock", "post-punk", "punk-blues", "art-rock", "au", "80s"]
+
+tops = [
+  "Where the Wild Roses Grow",
+  "Into My Arms",
+  "O Children (Live God)",
+  "Jubilee Street",
+  "Henry Lee",
+]
+
+links = [
+  { to = "pj-harvey", type = "similar" },
+  { to = "tindersticks", type = "similar" },
+  { to = "tom-waits", type = "similar" },
+  { to = "cat-power", type = "similar" },
+]

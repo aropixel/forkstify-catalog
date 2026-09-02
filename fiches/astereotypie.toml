@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Astéréotypie"
+mbid = "67fb8bbc-e154-4000-a200-a701918c41ca"
+spotify = "1bPIphq90zexFcnUA7qILm"
+begin = "2010"
+
+tags = ["post-rock", "rock", "spoken-word", "fr", "2010s"]
+
+tops = [
+  "Aucun mec ne ressemble à Brad Pitt dans la Drôme",
+  "Cheese bad girl",
+  "Que la biche soit en nous",
+  "Colère",
+  "Je ris pour autre chose",
+]
+
+links = [
+  { to = "gwendoline", type = "similar" },
+  { to = "dalle-beton", type = "similar" },
+  { to = "the-liminanas", type = "similar" },
+  { to = "la-femme", type = "similar" },
+]

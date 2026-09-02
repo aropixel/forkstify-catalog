@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Chemical Brothers"
+mbid = "1946a82a-f927-40c2-8235-38d64f50d043"
+spotify = "1GhPHrq36VKCY3ucVaZCfo"
+begin = "1989"
+origin = "Manchester"
+
+tags = ["electronic", "big-beat", "breakbeat", "neo-psychedelia", "uk", "80s"]
+
+tops = [
+  "Go",
+  "Hey Boy Hey Girl",
+  "Galvanize",
+  "Asleep From Day",
+  "Go (Extended Mix)",
+]
+
+links = [
+  { to = "the-prodigy", type = "similar" },
+  { to = "fatboy-slim", type = "similar" },
+  { to = "soulwax", type = "similar" },
+  { to = "daft-punk", type = "similar" },
+]

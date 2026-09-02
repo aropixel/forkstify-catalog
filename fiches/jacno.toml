@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Jacno"
+mbid = "3fe94cec-f589-41c0-a634-8034c4d192f5"
+spotify = "0Ylo19ka3IHeArSwlL3D8m"
+begin = "1957"
+end = "2009"
+origin = "Paris"
+
+tags = ["fr"]
+
+tops = [
+  "Le Sport",
+  "Tous ces mots là",
+  "Sentimental bourreau",
+  "Tant de temps",
+  "Baiser empoisonné",
+]
+
+links = [
+  { to = "taxi-girl", type = "similar" },
+  { to = "les-rita-mitsouko", type = "similar" },
+  { to = "etienne-daho", type = "similar" },
+]

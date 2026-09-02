@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Divine Comedy"
+mbid = "49c4378b-3c36-4c5a-8999-8d936e74f39b"
+spotify = "7EV6jW6dotBdvsHj6xPixi"
+begin = "1991"
+origin = "Enniskillen"
+
+tags = ["chamber-pop", "baroque-pop", "indie-rock", "art-pop", "uk", "90s"]
+
+tops = [
+  "The Heart is a Lonely Hunter",
+  "A Lady of a Certain Age",
+  "Our Mutual Friend",
+  "Tonight We Fly",
+  "Achilles",
+]
+
+links = [
+  { to = "pj-harvey", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+  { to = "pulp", type = "similar" },
+  { to = "tindersticks", type = "similar" },
+]

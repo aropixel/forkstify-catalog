@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Isaac Delusion"
+mbid = "d6cce8f3-abd5-4e39-89b9-ab10cf813540"
+spotify = "2HGAZDmVV3GAH4XFAZdvSG"
+begin = "2010"
+origin = "Paris"
+
+tags = ["indietronica", "fr", "2010s"]
+
+tops = [
+  "couleur menthe à l'eau",
+  "Out of the blue",
+  "Sonate Pacifique",
+  "She Pretends",
+  "L'amour illogique",
+]
+
+links = [
+  { to = "metronomy", type = "similar" },
+  { to = "sebastien-tellier", type = "similar" },
+  { to = "her", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Weezer"
+mbid = "6fe07aa5-fec0-4eca-a456-f29bff451b04"
+spotify = "3jOstUTkEu2JkjvRdBA5Gu"
+begin = "1992"
+origin = "Los Angeles"
+
+tags = ["alternative-rock", "power-pop", "rock", "geek-rock", "us", "90s"]
+
+tops = [
+  "Island In The Sun",
+  "Go Away",
+  "Undone - The Sweater Song",
+  "Say It Ain't So (Original Mix)",
+  "Say Yes",
+]
+
+links = [
+  { to = "foo-fighters", type = "similar" },
+  { to = "kings-of-leon", type = "similar" },
+  { to = "nada-surf", type = "similar" },
+  { to = "red-hot-chili-peppers", type = "similar" },
+]

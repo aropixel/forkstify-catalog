@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "ሙላቱ አስታጥቄ"
+mbid = "67f0c7ca-14e8-47a3-be0e-bd2f2ffe25bb"
+spotify = "7HGFXtBhRq3g1Ma3nH4Rgv"
+begin = "1943"
+origin = "Jimma"
+
+tags = ["ethio-jazz", "jazz", "afro-jazz", "et"]
+
+tops = [
+  "Tezeta (Nostalgia)",
+  "Yègellé Tezeta (My Own Memory)",
+  "Ené Alantchie Alnorem",
+  "Yèkèrmo Sèw (A Man of Experience and Wisdom)",
+  "Kasalèfkut Hulu (From All the Time I Have Passed)",
+]
+
+links = [
+  { to = "mahmoud-ahmed", type = "similar" },
+]

@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Black Box Recorder"
+mbid = "49302df8-9e4f-42ed-8a9c-5d6f8d6cb83c"
+spotify = "6Hd3xhv1sj3rlojjvGLkGR"
+begin = "1998"
+end = "2010"
+origin = "London"
+
+tags = ["indie-pop", "indietronica", "uk", "90s"]
+
+tops = [
+  "Child Psychology",
+  "Seasons In The Sun",
+  "The Art Of Driving",
+  "Kidnapping an Heiress",
+  "England Made Me",
+]
+
+links = [
+  { to = "fiona-apple", type = "similar" },
+  { to = "mazzy-star", type = "similar" },
+]

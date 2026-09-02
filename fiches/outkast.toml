@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "OutKast"
+mbid = "73fdb566-a9b1-494c-9f32-51768ec9fd27"
+spotify = "1G9G7WwrXka3Z1r7aIDjI7"
+begin = "1991"
+origin = "East Point"
+
+tags = ["hip-hop", "southern-hip-hop", "pop-rap", "pop", "us", "90s"]
+
+tops = [
+  "Hey Ya!",
+  "Ms. Jackson",
+  "So Fresh, So Clean",
+  "Roses",
+  "ATLiens",
+]
+
+links = [
+  { to = "jay-z", type = "similar" },
+  { to = "busta-rhymes", type = "similar" },
+  { to = "de-la-soul", type = "similar" },
+  { to = "snoop-dogg", type = "similar" },
+]

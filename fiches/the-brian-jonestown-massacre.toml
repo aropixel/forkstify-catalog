@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "The Brian Jonestown Massacre"
+mbid = "381e8434-109a-439c-8acc-5d328359f2e0"
+spotify = "30uiS1n3uIGXJEYFR1GVDy"
+begin = "1990"
+origin = "San Francisco"
+
+tags = ["neo-psychedelia", "psychedelic-rock", "us", "90s"]
+
+tops = [
+  "Anenome",
+  "Vad Hände Med Dem? ",
+  "It Girl",
+  "Nevertheless",
+  "Fingertips",
+]
+
+links = [
+  { to = "the-dandy-warhols", type = "similar" },
+]

@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "La Rue Kétanou"
+mbid = "fddf4c3e-fecc-4fe4-83d7-eb830dcfee2b"
+spotify = "5RJtcUSgNu7Y3X9YmZDci9"
+begin = "1998"
+
+tags = ["chanson-francaise", "folk", "fr", "90s"]
+
+tops = [
+  "Les hommes que j'aime",
+  "Ma faute à toi",
+  "Le capitaine de la barrique",
+  "Tu parles trop",
+  "La rue kétanou",
+]
+
+links = [
+  { to = "les-ogres-de-barback", type = "similar" },
+  { to = "les-hurlements-dleo", type = "similar" },
+]

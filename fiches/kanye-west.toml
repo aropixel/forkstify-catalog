@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Ye"
+mbid = "164f0d73-1234-4e2c-8743-d77bf2191051"
+spotify = "5K4W6rqBFWDnAN6FQUkS6x"
+begin = "1977"
+origin = "Atlanta"
+
+tags = ["hip-hop", "pop-rap", "experimental-hip-hop", "pop", "us"]
+
+tops = [
+  "TRUE LOVE",
+  "530",
+  "HAPPY",
+  "BURN EVERYTHING",
+  "PABLO",
+]
+
+links = [
+  { to = "cordae", type = "similar" },
+  { to = "denzel-curry", type = "similar" },
+  { to = "travis-scott", type = "similar" },
+]

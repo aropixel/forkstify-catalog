@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "King Hannah"
+mbid = "39c0f0b4-f310-46d4-81fb-3ba0093092e0"
+spotify = "7t00AYOoiQrcgNlpTkNer6"
+begin = "2017"
+origin = "Liverpool"
+
+tags = ["rock", "indie-rock", "shoegaze", "uk", "2010s"]
+
+tops = [
+  "New York, Let's Do Nothing",
+  "This Hotel Room",
+  "All Being Fine",
+  "The Moods That I Get In",
+  "Big Swimmer",
+]
+
+links = [
+  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+  { to = "pj-harvey", type = "similar" },
+  { to = "beth-gibbons", type = "similar" },
+  { to = "kevin-morby", type = "similar" },
+]

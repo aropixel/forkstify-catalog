@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Brigitte Fontaine"
+mbid = "3e356f2a-3501-4e68-8eff-f77d582c066a"
+spotify = "2P03Aan9wfgwkxTwGch2g1"
+begin = "1939"
+origin = "Morlaix"
+
+tags = ["chanson-francaise", "jazz", "pop", "fr"]
+
+tops = [
+  "Y'a des zazous",
+  "Ah que la vie est belle",
+  "Le nougat",
+  "Prohibition",
+  "Pipeau",
+]
+
+links = [
+  { to = "arno", type = "similar" },
+  { to = "arthur-h", type = "similar" },
+  { to = "philippe-katerine", type = "similar" },
+  { to = "alain-bashung", type = "similar" },
+]

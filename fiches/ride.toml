@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Ride"
+mbid = "3f575ecd-627d-4f08-a89f-abd46d469c7e"
+spotify = "715REx5FRkDSvCd2Manbxi"
+begin = "1988"
+origin = "Oxford"
+
+tags = ["shoegaze", "dream-pop", "britpop", "jangle-pop", "uk", "80s"]
+
+tops = [
+  "Vapour Trail",
+  "Leave Them All Behind",
+  "In a Different Place",
+  "I Came to See the Wreck",
+  "Lannoy Point",
+]
+
+links = [
+  { to = "galaxie-500", type = "similar" },
+  { to = "primal-scream", type = "similar" },
+  { to = "sonic-youth", type = "similar" },
+]

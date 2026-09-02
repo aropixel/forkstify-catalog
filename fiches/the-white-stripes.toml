@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "The White Stripes"
+mbid = "11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5"
+spotify = "4F84IBURUo98rz4r61KF70"
+begin = "1997"
+end = "2011"
+origin = "Detroit"
+
+tags = ["alternative-rock", "indie-rock", "blues-rock", "garage-rock-revival", "us", "90s"]
+
+tops = [
+  "Seven Nation Army",
+  "The Hardest Button to Button",
+  "Blue Orchid",
+  "Fell In Love With a Girl",
+  "Icky Thump",
+]
+
+links = [
+  { to = "the-black-keys", type = "similar" },
+  { to = "kings-of-leon", type = "similar" },
+  { to = "the-kills", type = "similar" },
+  { to = "cake", type = "similar" },
+]

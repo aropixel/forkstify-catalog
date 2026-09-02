@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "ROSALÍA"
+mbid = "25f3abd9-63b5-471a-bd25-feb9672dfa11"
+spotify = "7ltDVBr6mKbRvohxheJ9h1"
+begin = "1992"
+origin = "Sant Cugat del Vallès"
+
+tags = ["flamenco", "reggaeton", "flamenco-pop", "latin", "es"]
+
+tops = [
+  "LA FAMA",
+  "DESPECHÁ",
+  "BESO",
+  "La Perla",
+  "Berghain",
+]
+
+links = [
+  { to = "j-balvin", type = "similar" },
+  { to = "ozuna", type = "similar" },
+]

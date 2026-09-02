@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Björk"
+mbid = "87c5dedd-371d-4a53-9f7f-80522fb7f3cb"
+spotify = "7w29UYBi0qsHi5RTcv3lmA"
+begin = "1965"
+origin = "Reykjavík"
+
+tags = ["experimental", "electronic", "art-pop", "trip-hop", "is"]
+
+tops = [
+  "Berghain",
+  "It's Oh So Quiet",
+  "Bachelorette",
+  "Jóga",
+  "Venus As A Boy",
+]
+
+links = [
+  { to = "archive", type = "similar" },
+  { to = "portishead", type = "similar" },
+  { to = "air", type = "similar" },
+  { to = "massive-attack", type = "similar" },
+]

@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Mazzy Star"
+mbid = "c48d4327-8122-4286-af66-05e1ee6ac4d8"
+spotify = "37w38cCSGgKLdayTRjna4W"
+begin = "1988"
+origin = "Santa Monica"
+
+tags = ["dream-pop", "slowcore", "psychedelic-folk", "alternative-rock", "us", "80s"]
+
+tops = [
+  "Fade Into You (The Avener Rework)",
+  "Into Dust",
+  "Look On Down From The Bridge",
+  "Blue Light",
+  "Roseblood",
+]
+
+links = [
+  { to = "hope-sandoval", type = "member", note = "membre (1988–…)" },
+  { to = "elliott-smith", type = "similar" },
+  { to = "fiona-apple", type = "similar" },
+  { to = "radiohead", type = "similar" },
+  { to = "yo-la-tengo", type = "similar" },
+]

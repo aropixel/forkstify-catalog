@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Françoise Hardy"
+mbid = "d2a79d20-1304-47fd-a998-b4fe1ec78373"
+spotify = "7x3f7c0fBanNlQwpx1255g"
+begin = "1944"
+end = "2024"
+origin = "Paris"
+
+tags = ["ye-ye", "baroque-pop", "pop", "chanson-francaise", "fr"]
+
+tops = [
+  "Comment te dire adieu",
+  "Message personnel",
+  "Le temps de l'amour",
+  "Mon amie la rose",
+  "L'amitié (Stereo Mix)",
+]
+
+links = [
+  { to = "france-gall", type = "similar" },
+  { to = "serge-gainsbourg", type = "similar" },
+  { to = "georges-moustaki", type = "similar" },
+]

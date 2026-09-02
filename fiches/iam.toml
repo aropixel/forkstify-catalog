@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "IAM"
+mbid = "7aa4a16e-9d5a-41d3-968e-fae1a2c84d05"
+spotify = "56Q6weEROZ1RsVrTak8Bm7"
+begin = "1989"
+origin = "Marseille"
+
+tags = ["hip-hop", "fr", "80s"]
+
+tops = [
+  "Petit frère",
+  "Je danse le Mia",
+  "L'empire du côté obscur",
+  "Nés sous la même étoile",
+  "Demain, c'est loin",
+]
+
+links = [
+  { to = "akhenaton", type = "member" },
+  { to = "joeystarr", type = "similar" },
+]

@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Fugazi"
+mbid = "233fc3f3-6de2-465c-985e-e721dbabbace"
+spotify = "62sC6lUEWRjbFqXpMmOk4G"
+begin = "1986"
+end = "2003"
+origin = "Washington, D.C."
+
+tags = ["post-hardcore", "alternative-rock", "punk", "rock", "us", "80s"]
+
+tops = [
+  "Waiting Room",
+  "Arpeggiator",
+  "Bad Mouth",
+  "Break",
+  "Blueprint",
+]
+
+links = [
+  { to = "sonic-youth", type = "similar" },
+  { to = "dinosaur-jr", type = "similar" },
+  { to = "sebadoh", type = "similar" },
+  { to = "pavement", type = "similar" },
+]

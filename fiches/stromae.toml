@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Stromae"
+mbid = "ab2528d9-719f-4261-8098-21849222a0f2"
+spotify = "5j4HeCoUlzhfWtjAfM1acR"
+begin = "1985"
+origin = "Etterbeek"
+
+tags = ["dance-pop", "electropop", "electro-house", "art-pop", "be"]
+
+tops = [
+  "des fleurs x stromae",
+  "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
+  "Alors on danse (Radio Edit)",
+  "QUE CE SOIT CLAIR",
+  "Formidable",
+]
+
+links = [
+  { to = "eddy-de-pretto", type = "similar" },
+  { to = "lej", type = "similar" },
+  { to = "therapie-taxi", type = "similar" },
+  { to = "angele", type = "similar" },
+]

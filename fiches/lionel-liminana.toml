@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Lionel Limiñana"
+mbid = "76b75bf6-c0ad-43dc-bec0-3cc832cc1da8"
+spotify = "0VpzSIbLokBNmaHM7oWGI9"
+
+tags = ["fr"]
+
+tops = [
+  "Hypnose en bas de gamme",
+  "Snatcher",
+  "De la part des copains",
+  "Fin du monde",
+  "One Blood Circle",
+]
+
+links = [
+  { to = "the-liminanas", type = "member" },
+  { to = "the-brian-jonestown-massacre", type = "similar" },
+  { to = "fat-white-family", type = "similar" },
+  { to = "the-dandy-warhols", type = "similar" },
+  { to = "baxter-dury", type = "similar" },
+]

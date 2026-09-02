@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Kevin Morby"
+mbid = "eac962e1-0295-4e69-a266-4dab2adb4f11"
+spotify = "6fxk3UXHTFYET8qCT9WlBF"
+begin = "1988"
+origin = "Lubbock"
+
+tags = ["folk-rock", "indie-folk", "singer-songwriter", "us"]
+
+tops = [
+  "Beautiful Strangers",
+  "100,000",
+  "Javelin",
+  "The Dark Don’t Hide It",
+  "Badlands",
+]
+
+links = [
+  { to = "bill-callahan", type = "similar" },
+  { to = "jose-gonzalez", type = "similar" },
+  { to = "beirut", type = "similar" },
+]

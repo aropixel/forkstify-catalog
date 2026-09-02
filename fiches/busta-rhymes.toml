@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Busta Rhymes"
+mbid = "10a9ff92-9637-4498-afea-7044b2ab0dc0"
+spotify = "1YfEcTuGvBQ8xSD1f53UnK"
+begin = "1972"
+origin = "Brooklyn"
+
+tags = ["hip-hop", "hardcore-hip-hop", "east-coast-hip-hop", "hip-hop-soul", "us"]
+
+tops = [
+  "I Know What You Want (feat. Flipmode Squad)",
+  "Don't Cha",
+  "Break Ya Neck",
+  "Holla",
+  "Arab Money (Dirty)",
+]
+
+links = [
+  { to = "jay-z", type = "similar" },
+  { to = "snoop-dogg", type = "similar" },
+  { to = "outkast", type = "similar" },
+  { to = "2pac", type = "similar" },
+]

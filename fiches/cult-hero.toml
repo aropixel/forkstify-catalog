@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Cult Hero"
+mbid = "8d57652d-b0af-4a1d-b6bc-b4f68f2a14d5"
+spotify = "2j79xceNizMi1wtnPSAPqz"
+
+tags = ["punk", "uk"]
+
+tops = [
+  "I'm A Cult Hero",
+  "I Dig You",
+  "Troubadour Blues",
+  "Born into the Family",
+]
+
+links = [
+  { to = "the-cure", type = "similar" },
+  { to = "the-fall", type = "similar" },
+  { to = "joy-division", type = "similar" },
+  { to = "siouxsie-and-the-banshees", type = "similar" },
+]

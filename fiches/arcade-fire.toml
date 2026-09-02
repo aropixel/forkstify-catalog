@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Arcade Fire"
+mbid = "52074ba6-e495-4ef3-9bb4-0703888a9f68"
+spotify = "3kjuyTCjPG1WMFCiyc5IuB"
+begin = "2001"
+origin = "Montréal"
+
+tags = ["indie-rock", "chamber-pop", "indie-pop", "alternative-rock", "ca", "2000s"]
+
+tops = [
+  "The Suburbs",
+  "Rebellion (Lies)",
+  "Wake Up",
+  "My Body Is a Cage",
+  "Ready to Start",
+]
+
+links = [
+  { to = "foals", type = "similar" },
+  { to = "vampire-weekend", type = "similar" },
+  { to = "the-kills", type = "similar" },
+  { to = "the-dandy-warhols", type = "similar" },
+]

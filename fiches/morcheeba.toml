@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Morcheeba"
+mbid = "067102ea-9519-4622-9077-57ca4164cfbb"
+spotify = "6bWxFw65IEJzBYjx3SxUXd"
+begin = "1995"
+origin = "London"
+
+tags = ["trip-hop", "downtempo", "electronic", "soul", "uk", "90s"]
+
+tops = [
+  "The Sea",
+  "Otherwise",
+  "Rome Wasn't Built in a Day",
+  "Blindfold",
+  "Blood Like Lemonade",
+]
+
+links = [
+  { to = "archive", type = "similar" },
+  { to = "massive-attack", type = "similar" },
+  { to = "portishead", type = "similar" },
+  { to = "telepopmusik", type = "similar" },
+]

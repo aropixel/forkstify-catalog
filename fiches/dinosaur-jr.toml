@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Dinosaur Jr."
+mbid = "77c167d2-4965-4421-830a-9815e4956475"
+spotify = "267VY6GX5LyU5c9M85ECZQ"
+begin = "1984"
+origin = "Amherst"
+
+tags = ["alternative-rock", "indie-rock", "noise-rock", "new-wave", "us", "80s"]
+
+tops = [
+  "Everything At Once",
+  "Several Got Away",
+  "No Friends",
+  "Take Me With You",
+  "Blowin' Up",
+]
+
+links = [
+  { to = "sonic-youth", type = "similar" },
+  { to = "pavement", type = "similar" },
+  { to = "pixies", type = "similar" },
+  { to = "sebadoh", type = "similar" },
+]

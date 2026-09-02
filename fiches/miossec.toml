@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Miossec"
+mbid = "b44299ef-1399-48a4-832d-899b49c1455d"
+spotify = "0wf6vuNqTvdRGrmpsPu2kW"
+begin = "1964"
+origin = "Brest"
+
+tags = ["indie-rock", "fr"]
+
+tops = [
+  "Brest",
+  "Brest (Version 04-26)",
+  "Non non non non (Je ne suis plus saoul)",
+  "La Facture D’électricité",
+  "Je m'en vais",
+]
+
+links = [
+  { to = "arno", type = "similar" },
+  { to = "dominique-a", type = "similar" },
+  { to = "arthur-h", type = "similar" },
+  { to = "alain-bashung", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Ms. Lauryn Hill"
+mbid = "e8414012-4a1c-4ad4-be5e-fc55294e28cc"
+spotify = "2Mu5NfyYm8n5iTomuKAEHl"
+begin = "1975"
+origin = "East Orange"
+
+tags = ["hip-hop", "neo-soul", "alternative-hip-hop", "contemporary-r-and-b", "us"]
+
+tops = [
+  "Doo Wop (That Thing)",
+  "Ex-Factor",
+  "Can't Take My Eyes Off of You (I Love You Baby)",
+  "To Zion (feat. Carlos Santana)",
+  "The Miseducation of Lauryn Hill",
+]
+
+links = [
+  { to = "fugees", type = "member" },
+  { to = "wyclef-jean", type = "similar" },
+  { to = "kelis", type = "similar" },
+  { to = "bilal", type = "similar" },
+]

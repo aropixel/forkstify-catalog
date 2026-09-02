@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "24kGoldn"
+mbid = "0fe5df51-ba65-4784-ba85-7d024a107a8a"
+spotify = "6fWVd57NKTalqvmjRd2t8Z"
+begin = "2000"
+origin = "San Francisco"
+
+tags = ["hip-hop", "pop-rap", "cloud-rap", "lo-fi-hip-hop", "us"]
+
+tops = [
+  "Mood (feat. iann dior)",
+  "VALENTINO",
+  "CITY OF ANGELS",
+  "Mood (Remix)",
+  "My City",
+]
+
+links = [
+  { to = "iann-dior", type = "similar" },
+  { to = "nle-choppa", type = "similar" },
+]

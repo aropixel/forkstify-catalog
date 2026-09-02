@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Isobel Campbell"
+mbid = "d51f3a15-12a2-41a0-acfa-33b5eae71164"
+spotify = "55dlp5I9jyc4UjzlrcKMnq"
+begin = "1976"
+origin = "Glasgow"
+
+tags = ["indie-pop", "pop", "uk"]
+
+tops = [
+  "Come Undone",
+  "Come on Over (Turn Me On)",
+  "Something to Believe",
+  "Snake Song",
+  "Deus Ibi Est",
+]
+
+links = [
+  { to = "cat-power", type = "similar" },
+  { to = "tom-waits", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+  { to = "tindersticks", type = "similar" },
+]

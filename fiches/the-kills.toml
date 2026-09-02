@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Kills"
+mbid = "2c629b8c-d751-4131-b785-5690bb5e0fd7"
+spotify = "5BYuBzqmTXwUDw2rYkwExr"
+begin = "2000"
+origin = "London"
+
+tags = ["rock", "indie-rock", "garage-punk", "garage-rock", "uk", "2000s"]
+
+tops = [
+  "Future Starts Slow",
+  "Doing It To Death",
+  "Heart Of A Dog",
+  "New York",
+  "Pull A U",
+]
+
+links = [
+  { to = "the-dandy-warhols", type = "similar" },
+  { to = "arcade-fire", type = "similar" },
+  { to = "pj-harvey", type = "similar" },
+  { to = "beck", type = "similar" },
+]

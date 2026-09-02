@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Strokes"
+mbid = "f181961b-20f7-459e-89de-920ef03c7ed0"
+spotify = "0epOFNiUfyON9EYx7Tpr6V"
+begin = "1998"
+origin = "New York"
+
+tags = ["indie-rock", "garage-rock-revival", "post-punk-revival", "new-wave", "us", "90s"]
+
+tops = [
+  "The Adults Are Talking",
+  "Lonely in the Future",
+  "Dine N'Dash",
+  "Selfless",
+  "Psycho Shit",
+]
+
+links = [
+  { to = "arctic-monkeys", type = "similar" },
+  { to = "interpol", type = "similar" },
+  { to = "blur", type = "similar" },
+  { to = "fontaines-d-c", type = "similar" },
+]

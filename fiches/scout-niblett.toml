@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Scout Niblett"
+mbid = "a0f7a7d5-33fa-43ae-98b2-6aea41aa9f64"
+spotify = "3gSfOAPCvsDDVDBeSLl9v6"
+begin = "1973"
+origin = "Stone"
+
+tags = ["indie-rock", "uk"]
+
+tops = [
+  "Kiss",
+  "Gun",
+  "Wet Road",
+  "I Wanna Love",
+  "So Much Love To Do",
+]
+
+links = [
+  { to = "cat-power", type = "similar" },
+  { to = "girls-in-hawaii", type = "similar" },
+  { to = "tindersticks", type = "similar" },
+  { to = "h-burns", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Dandy Warhols"
+mbid = "5f572b31-8fd9-45ae-9beb-358c98d839df"
+spotify = "7siPLyFwRFYQkKgWKJ5Sod"
+begin = "1994"
+origin = "Portland"
+
+tags = ["alternative-rock", "indie-pop", "indie-rock", "neo-psychedelia", "us", "90s"]
+
+tops = [
+  "Bohemian Like You",
+  "We Used To Be Friends",
+  "Sleep",
+  "Get Off",
+  "Mohammed",
+]
+
+links = [
+  { to = "the-kills", type = "similar" },
+  { to = "beck", type = "similar" },
+  { to = "blur", type = "similar" },
+  { to = "arcade-fire", type = "similar" },
+]

@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Donovan"
+mbid = "72d7d717-0837-4f2a-9641-d0f9fdd3acf7"
+spotify = "6vLlQYujOujIrm7zAKzEdG"
+begin = "1946"
+origin = "Maryhill"
+
+tags = ["folk", "psychedelic-folk", "folk-pop", "psychedelic-pop", "uk"]
+
+tops = [
+  "Colours (Live)",
+  "Sunshine Superman (Single Version)",
+  "Colours",
+  "Unsleeping City (Ciudad Sin Sueño)",
+  "Prada",
+]
+
+links = [
+  { to = "the-kinks", type = "similar" },
+  { to = "the-beach-boys", type = "similar" },
+]

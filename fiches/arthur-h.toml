@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Arthur H"
+mbid = "8d88f4a3-0cc7-4f5c-a46c-e669786c8e62"
+spotify = "2nYkI1rHgPRp95pTmO9GZR"
+begin = "1966"
+origin = "Paris"
+
+tags = ["fr"]
+
+tops = [
+  "Vivre ou ne pas vivre (Extrait du conte musical 'Les souliers rouges')",
+  "La boxeuse amoureuse",
+  "Est-ce que tu aimes ?",
+  "La chanson de Satie",
+  "La boxeuse amoureuse (Radio Edit)",
+]
+
+links = [
+  { to = "dominique-a", type = "similar" },
+  { to = "camille", type = "similar" },
+  { to = "bertrand-belin", type = "similar" },
+  { to = "miossec", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Lescop"
+mbid = "a7aed59e-dafd-4744-8983-b453ba586273"
+spotify = "2KlDlqEMf0YyYW8rBKUx6W"
+begin = "1978"
+origin = "Châteauroux"
+
+tags = ["fr"]
+
+tops = [
+  "La Forêt",
+  "Comète",
+  "Les garçons",
+  "Exotica",
+  "La Nuit Américaine",
+]
+
+links = [
+  { to = "la-femme", type = "similar" },
+  { to = "juniore", type = "similar" },
+  { to = "flora-fishbach", type = "similar" },
+  { to = "palatine", type = "similar" },
+]

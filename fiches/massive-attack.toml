@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Massive Attack"
+mbid = "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8"
+spotify = "6FXMGgJwohJLUSr5nVlf9X"
+begin = "1987"
+origin = "Bristol"
+
+tags = ["trip-hop", "electronic", "downtempo", "ambient", "uk", "80s"]
+
+tops = [
+  "Angel",
+  "Teardrop",
+  "Paradise Circus",
+  "Unfinished Sympathy",
+  "Karmacoma",
+]
+
+links = [
+  { to = "archive", type = "similar" },
+  { to = "portishead", type = "similar" },
+  { to = "morcheeba", type = "similar" },
+  { to = "air", type = "similar" },
+]

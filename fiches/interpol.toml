@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Interpol"
+mbid = "b23e8a63-8f47-4882-b55b-df2c92ef400e"
+spotify = "3WaJSfKnzc65VDgmj2zU8B"
+begin = "1997"
+origin = "New York"
+
+tags = ["indie-rock", "post-punk", "post-punk-revival", "us", "90s"]
+
+tops = [
+  "Wings On Fire",
+  "This Mirror Weighs a Ton",
+  "See Out Loud",
+  "Iron City",
+  "Wounded Soldier",
+]
+
+links = [
+  { to = "arcade-fire", type = "similar" },
+  { to = "the-strokes", type = "similar" },
+  { to = "blur", type = "similar" },
+  { to = "fontaines-d-c", type = "similar" },
+]

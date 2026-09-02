@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Smog"
+mbid = "89af9575-4d72-4345-8eba-e9de3d36ac34"
+spotify = "2ajVJyxI4sHmTMtTA3ENko"
+begin = "1966"
+origin = "Silver Spring"
+
+tags = ["americana", "folk", "indie-folk", "us"]
+
+tops = [
+  "Our Anniversary",
+  "Cold Blooded Old Times",
+  "Rock Bottom Riser",
+  "Dress Sexy At My Funeral",
+  "Held",
+]
+
+links = [
+  { to = "wilco", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+  { to = "mercury-rev", type = "similar" },
+  { to = "pj-harvey", type = "similar" },
+]

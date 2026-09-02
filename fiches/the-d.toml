@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "The Dø"
+mbid = "c3477250-bc5f-44e9-aa0a-144dd2d7a935"
+spotify = "2mcNCn1qbZUQ3J9KHapUxj"
+begin = "2005"
+end = "2021"
+origin = "Paris"
+
+tags = ["folk-rock", "indie-pop", "indie-rock", "fr", "2000s"]
+
+tops = [
+  "Despair, Hangover & Ecstasy",
+  "On My Shoulders",
+  "Keep Your Lips Sealed",
+  "Trustful Hands",
+  "Sparks",
+]
+
+links = [
+  { to = "baxter-dury", type = "similar" },
+  { to = "girls-in-hawaii", type = "similar" },
+  { to = "jeanne-added", type = "similar" },
+  { to = "beirut", type = "similar" },
+]

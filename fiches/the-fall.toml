@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Fall"
+mbid = "d5da1841-9bc8-4813-9f89-11098090148e"
+spotify = "6WoTvA9qinpHtSRJuldYh6"
+begin = "1976"
+end = "2018"
+origin = "Prestwich"
+
+tags = ["post-punk", "alternative-dance", "art-punk", "indie-rock", "uk", "70s"]
+
+tops = [
+  "Totally Wired",
+  "Blindness",
+  "Rowche Rumble (Bonus Track)",
+  "New Big Prinz",
+  "L.A.",
+]
+
+links = [
+  { to = "the-cure", type = "similar" },
+  { to = "siouxsie-and-the-banshees", type = "similar" },
+  { to = "gun-club", type = "similar" },
+]

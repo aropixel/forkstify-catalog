@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Bigflo & Oli"
+mbid = "f4824366-d97b-4929-a970-a94845306f4a"
+spotify = "5mmEMfYChd6MImBagU7zCs"
+begin = "2005"
+origin = "Toulouse"
+
+tags = ["hip-hop", "fr", "2000s"]
+
+tops = [
+  "Picasso",
+  "Karma",
+  "Coup de vieux",
+  "Dommage",
+  "Demain t'es ou (Remix)",
+]
+
+links = [
+  { to = "orelsan", type = "similar" },
+  { to = "disiz", type = "similar" },
+  { to = "47ter", type = "similar" },
+  { to = "vald", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Gwendoline"
+mbid = "66ea2957-9423-46d0-b871-ef4afe5c1566"
+spotify = "0KeEMBn34d4rKeACHxK9AF"
+begin = "2017"
+origin = "Rennes"
+
+tags = ["coldwave", "new-wave", "post-punk", "synthwave", "fr", "2010s"]
+
+tops = [
+  "Audi rtt",
+  "Rock 2000",
+  "Chevalier Ricard",
+  "Chèques Vacances",
+  "Clubs",
+]
+
+links = [
+  { to = "astereotypie", type = "similar" },
+  { to = "la-femme", type = "similar" },
+  { to = "ventre-de-biche", type = "similar" },
+  { to = "flora-fishbach", type = "similar" },
+]

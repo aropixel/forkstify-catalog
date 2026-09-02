@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Sleaford Mods"
+mbid = "09d8290b-6ada-422f-8ce3-19349fb1c15d"
+spotify = "0otAqZw8htTsGHfqR491Yh"
+begin = "2007"
+origin = "Nottingham"
+
+tags = ["post-punk", "art-punk", "electronic", "grime", "uk", "2000s"]
+
+tops = [
+  "Nudge It",
+  "Mork n Mindy",
+  "Elitest G.O.A.T. (The Prodigy Acid Thunder Mix)",
+  "The Good Life",
+  "Elitest G.O.A.T.",
+]
+
+links = [
+  { to = "billy-nomates", type = "similar" },
+  { to = "idles", type = "similar" },
+  { to = "fat-white-family", type = "similar" },
+  { to = "fontaines-d-c", type = "similar" },
+]

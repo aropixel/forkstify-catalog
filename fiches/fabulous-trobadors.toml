@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Fabulous Trobadors"
+mbid = "49181ae8-131b-4422-bfb4-910456fde1a0"
+spotify = "3qcBqLV9Ckuc91nge5D6Xo"
+begin = "1986"
+origin = "Toulouse"
+
+tags = ["fr", "80s"]
+
+tops = [
+  "Y'A Des Garçons",
+  "Demain, Demain",
+  "Toulousain",
+  "Bonne Nuit",
+  "Pas de fumée sans feu",
+]
+
+links = [
+  { to = "les-ogres-de-barback", type = "similar" },
+  { to = "zebda", type = "similar" },
+  { to = "tetes-raides", type = "similar" },
+  { to = "la-rue-ketanou", type = "similar" },
+]

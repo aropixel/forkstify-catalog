@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Radio Elvis"
+mbid = "3e9928ed-a765-4271-aa69-f62ac2becf7f"
+spotify = "1U1tfTJHxezIBnlay13sVA"
+begin = "2013"
+origin = "Paris"
+
+tags = ["fr", "2010s"]
+
+tops = [
+  "Les moissons",
+  "La Traversée",
+  "Solarium",
+  "Ces garçons-là",
+  "Au loin les pyramides",
+]
+
+links = [
+  { to = "arthur-h", type = "similar" },
+  { to = "dominique-a", type = "similar" },
+  { to = "bertrand-belin", type = "similar" },
+  { to = "miossec", type = "similar" },
+]

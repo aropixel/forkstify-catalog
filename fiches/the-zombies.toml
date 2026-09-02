@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Zombies"
+mbid = "230ca093-1d00-4c57-9235-147942f66930"
+spotify = "2jgPkn6LuUazBoBk6vvjh5"
+begin = "1961"
+origin = "City of St Albans"
+
+tags = ["baroque-pop", "psychedelic-pop", "beat-music", "british-rhythm-and-blues", "uk", "60s"]
+
+tops = [
+  "Time of the Season",
+  "She's Not There",
+  "The Way I Feel Inside",
+  "She's Not There (Live)",
+  "Time Of The Season (Live)",
+]
+
+links = [
+  { to = "the-kinks", type = "similar" },
+  { to = "donovan", type = "similar" },
+  { to = "love", type = "similar" },
+  { to = "the-beach-boys", type = "similar" },
+]

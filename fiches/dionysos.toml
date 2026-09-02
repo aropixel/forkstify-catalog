@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Dionysos"
+mbid = "7d248ccb-588a-414e-ab3e-be6dd8b71f81"
+spotify = "75nb7WjICnFHCXFdVX0PkO"
+begin = "1993"
+origin = "Valence"
+
+tags = ["indie-rock", "art-rock", "indie-pop", "noise-pop", "fr", "90s"]
+
+tops = [
+  "Song For Jedi",
+  "Flamme à lunettes",
+  "Le jour le plus froid du monde",
+  "Tais-toi mon coeur",
+  "Coccinelle (Album Version)",
+]
+
+links = [
+  { to = "noir-desir", type = "similar" },
+  { to = "m", type = "similar" },
+  { to = "miossec", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The xx"
+mbid = "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6"
+spotify = "3iOvXCl6edW5Um0fXEBRXy"
+begin = "2005"
+origin = "Wandsworth"
+
+tags = ["indie-pop", "alternative-dance", "indietronica", "alternative-pop", "uk", "2000s"]
+
+tops = [
+  "Intro",
+  "Crystalised",
+  "VCR",
+  "Angels",
+  "Islands",
+]
+
+links = [
+  { to = "alt-j", type = "similar" },
+  { to = "m83", type = "similar" },
+  { to = "archive", type = "similar" },
+  { to = "isaac-delusion", type = "similar" },
+]

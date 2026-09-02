@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "IDLES"
+mbid = "be465d4f-c28d-4ba1-94ab-ebaada7db8af"
+spotify = "75mafsNqNE1WSEVxIKuY5C"
+begin = "2009"
+origin = "Bristol"
+
+tags = ["post-punk", "art-punk", "art-rock", "post-hardcore", "uk", "2000s"]
+
+tops = [
+  "The God of Lying (feat. IDLES)",
+  "Dancer",
+  "Never Fight A Man With A Perm",
+  "Gift Horse",
+  "The Beachland Ballroom",
+]
+
+links = [
+  { to = "fontaines-d-c", type = "similar" },
+  { to = "sleaford-mods", type = "similar" },
+]

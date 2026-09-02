@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Andrea Laszlo De Simone"
+mbid = "83d74820-6a4c-4557-a18b-9c22f1f0e00f"
+spotify = "2InNZR52CaeutuA8BjbfSh"
+begin = "1986"
+origin = "Torino"
+
+tags = ["experimental", "it"]
+
+tops = [
+  "Immensità",
+  "Quando",
+  "Ricordo tattile",
+  "Vivo",
+  "La Notte",
+]
+
+links = [
+  { to = "vinicio-capossela", type = "similar" },
+]

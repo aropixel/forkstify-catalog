@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Mac DeMarco"
+mbid = "f2492c31-54a8-4347-a1fc-f81f72873bbf"
+spotify = "3Sz7ZnJQBIHsXLUSo0OQtM"
+begin = "1990"
+origin = "Duncan"
+
+tags = ["indie-rock", "indie-pop", "jangle-pop", "folk-pop", "ca"]
+
+tops = [
+  "Chamber Of Reflection",
+  "Heart To Heart",
+  "My Kind of Woman",
+  "No Other Heart",
+  "Moonlight on the River",
+]
+
+links = [
+  { to = "eyedress", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Les Négresses Vertes"
+mbid = "d9968436-64d6-4a33-85e8-7f4fcfa78d63"
+spotify = "0baGqHSXVphCsotxWDv7NX"
+begin = "1987"
+end = "2001"
+
+tags = ["punk", "worldbeat", "fr", "80s"]
+
+tops = [
+  "Voilà l'été",
+  "Sous le soleil de Bodega",
+  "Zobi la mouche",
+  "C'est pas la mer à boire",
+  "L'homme des marais",
+]
+
+links = [
+  { to = "mano-negra", type = "similar" },
+  { to = "les-rita-mitsouko", type = "similar" },
+  { to = "sanseverino", type = "similar" },
+  { to = "dionysos", type = "similar" },
+]

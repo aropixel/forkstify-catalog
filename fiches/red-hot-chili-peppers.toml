@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Red Hot Chili Peppers"
+mbid = "8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+spotify = "0L8ExT028jH3ddEcZwqJJ5"
+begin = "1983"
+origin = "Los Angeles"
+
+tags = ["funk-rock", "alternative-rock", "rock", "rap-rock", "us", "80s"]
+
+tops = [
+  "Californication",
+  "Can't Stop",
+  "Under the Bridge",
+  "Snow (Hey Oh)",
+  "Scar Tissue",
+]
+
+links = [
+  { to = "foo-fighters", type = "similar" },
+  { to = "nirvana", type = "similar" },
+  { to = "the-white-stripes", type = "similar" },
+  { to = "kings-of-leon", type = "similar" },
+]

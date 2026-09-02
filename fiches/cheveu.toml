@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Cheveu"
+mbid = "3eb990b7-ff69-47f0-a44f-28c659b3fe32"
+spotify = "3No127Hkg9LRf1Q63Uyq35"
+begin = "2003"
+origin = "Paris"
+
+tags = ["fr", "2000s"]
+
+tops = [
+  "Happiness",
+  "Bord de mer",
+  "Quattro stagioni",
+  "Madame Pompidou",
+  "Moto 2 places",
+]
+
+links = [
+  { to = "sleaford-mods", type = "similar" },
+  { to = "lcd-soundsystem", type = "similar" },
+  { to = "the-rapture", type = "similar" },
+  { to = "arcade-fire", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Beck"
+mbid = "309c62ba-7a22-4277-9f67-4a162526d18a"
+spotify = "3vbKDsSS70ZX9D2OcvbZmS"
+begin = "1970"
+origin = "Los Angeles"
+
+tags = ["alternative-rock", "folk-rock", "indie-rock", "anti-folk", "us"]
+
+tops = [
+  "Old Man",
+  "Loser",
+  "Ride Lonesome",
+  "Everybody's Gotta Learn Sometime",
+  "Morning",
+]
+
+links = [
+  { to = "the-dandy-warhols", type = "similar" },
+  { to = "blur", type = "similar" },
+  { to = "pj-harvey", type = "similar" },
+  { to = "the-kills", type = "similar" },
+]

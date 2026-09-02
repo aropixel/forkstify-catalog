@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Nina Simone"
+mbid = "2944824d-4c26-476f-a981-be849081942f"
+spotify = "7G1GBhoKtEPnP86X2PvEYO"
+begin = "1933"
+end = "2003"
+origin = "Tryon"
+
+tags = ["jazz", "soul", "blues", "r-and-b", "us"]
+
+tops = [
+  "Feeling Good",
+  "I Put A Spell On You",
+  "Don't Let Me Be Misunderstood",
+  "Mr. Bojangles",
+  "To Love Somebody",
+]
+
+links = [
+  { to = "ella-fitzgerald", type = "similar" },
+  { to = "ray-charles", type = "similar" },
+  { to = "nat-king-cole", type = "similar" },
+  { to = "amy-winehouse", type = "similar" },
+]

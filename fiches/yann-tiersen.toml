@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Yann Tiersen"
+mbid = "12d432a3-feb0-49b1-a107-d20751880764"
+spotify = "087m0OCx6puRxcpN7cxREn"
+begin = "1970"
+origin = "Brest"
+
+tags = ["rock", "amapiano", "avant-garde", "classical-crossover", "fr"]
+
+tops = [
+  "Comptine d'un autre été, l'après-midi",
+  "La valse d'Amélie",
+  "La Valse d'Amélie (Version piano)",
+  "Porz Goret",
+  "I've Never Been There",
+]
+
+links = [
+  { to = "chilly-gonzales", type = "similar" },
+]

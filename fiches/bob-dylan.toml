@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Bob Dylan"
+mbid = "72c536dc-7137-4477-a521-567eeb840fa8"
+spotify = "74ASZWbe4lXaubB36ztrGX"
+begin = "1941"
+origin = "Duluth"
+
+tags = ["folk-rock", "folk", "rock", "blues-rock", "us"]
+
+tops = [
+  "Knockin' On Heaven's Door",
+  "Hurricane",
+  "Like a Rolling Stone",
+  "Blowin' in the Wind",
+  "I Want You",
+]
+
+links = [
+  { to = "the-rolling-stones", type = "similar" },
+  { to = "the-beatles", type = "similar" },
+  { to = "john-lennon", type = "similar" },
+  { to = "the-kinks", type = "similar" },
+]

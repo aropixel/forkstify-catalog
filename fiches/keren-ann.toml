@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Keren Ann"
+mbid = "8bb436cd-8fbf-48c6-9fc8-a172c27e24ba"
+spotify = "4v1YZL83eLyemlt32wWAoA"
+begin = "1974"
+origin = "Caesarea"
+
+tags = ["folk", "rock", "il"]
+
+tops = [
+  "Jardin d'hiver",
+  "Lay Your Head Down",
+  "My Name Is Trouble",
+  "Au coin du monde (Streets Go Down)",
+  "Not Going Anywhere",
+]
+
+links = [
+  { to = "camille", type = "similar" },
+  { to = "yael-naim", type = "similar" },
+  { to = "charlotte-gainsbourg", type = "similar" },
+  { to = "arthur-h", type = "similar" },
+]

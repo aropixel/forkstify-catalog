@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Pavement"
+mbid = "36bfa85f-737b-41db-a8fc-b8825850ffc3"
+spotify = "3inCNiUr4R6XQ3W43s9Aqi"
+begin = "1989"
+end = "2000"
+origin = "Stockton"
+
+tags = ["indie-rock", "alternative-rock", "rock", "lo-fi", "us", "80s"]
+
+tops = [
+  "Harness Your Hopes (B-side)",
+  "Cut Your Hair",
+  "Here",
+  "Shady Lane",
+  "In The Mouth A Desert",
+]
+
+links = [
+  { to = "sonic-youth", type = "similar" },
+  { to = "pixies", type = "similar" },
+  { to = "sebadoh", type = "similar" },
+  { to = "pj-harvey", type = "similar" },
+]

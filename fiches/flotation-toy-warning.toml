@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Flotation Toy Warning"
+mbid = "cc4141c0-7d26-49ac-b616-0091dc6a9ef9"
+spotify = "5Ar6PhhipWm9a8v8PYppgQ"
+begin = "2001"
+origin = "London"
+
+tags = ["art-rock", "chamber-pop", "neo-psychedelia", "progressive-pop", "uk", "2000s"]
+
+tops = [
+  "Driving Under the Influence of Loneliness",
+  "Donald pleasance",
+  "Losing california for drusky",
+  "Popstar researching oblivion",
+  "Happy 13",
+]
+
+links = [
+  { to = "timber-timbre", type = "similar" },
+  { to = "cat-power", type = "similar" },
+  { to = "king-hannah", type = "similar" },
+  { to = "syd-matters", type = "similar" },
+]

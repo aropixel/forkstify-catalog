@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Foals"
+mbid = "6a65d878-fcd0-42cf-aff9-ca1d636a8bcc"
+spotify = "6FQqZYVfTNQ1pCqfkwVFEa"
+begin = "2005"
+origin = "Oxford"
+
+tags = ["indie-rock", "math-rock", "alternative-rock", "art-rock", "uk", "2000s"]
+
+tops = [
+  "My Number",
+  "Birch Tree",
+  "Late Night (Solomun Remix)",
+  "Spanish Sahara",
+  "Mountain at My Gates",
+]
+
+links = [
+  { to = "vampire-weekend", type = "similar" },
+  { to = "arcade-fire", type = "similar" },
+  { to = "phoenix", type = "similar" },
+  { to = "beck", type = "similar" },
+]

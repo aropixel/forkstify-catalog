@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Binary Audio Misfits"
+mbid = "15d874e8-3348-449c-a017-757ae3a729fd"
+spotify = "1CwOH8ZmH4I3gHIZ9cpxpD"
+begin = "2008"
+end = "2011"
+origin = "Toulouse"
+
+tags = ["fr", "2000s"]
+
+tops = [
+  "Get Loud or Get Dyin'",
+  "Brain Drain Generation",
+  "Soundversus",
+  "Church of Disorder",
+  "Lâchez les chiens",
+]
+
+links = [
+  { to = "michel-cloup", type = "member" },
+]

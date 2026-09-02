@@ -1,0 +1,26 @@
+format = 1
+generated = true
+name = "Expérience"
+mbid = "ae30d965-a5f2-4497-9a87-01abb8ecd107"
+spotify = "108LzqsVpFtyMvf47wSent"
+begin = "1999"
+end = "2009"
+origin = "Toulouse"
+
+tags = ["fr", "90s"]
+
+tops = [
+  "Aujourd'hui maintenant",
+  "Traquer la fièvre massacrer l'ennui",
+  "МЫ В ЛЮБВИ НА ХАРДМОДЕ",
+  "Qu'est-ce qu'on attend ?",
+  "La révolution ne sera pas télévisée",
+]
+
+links = [
+  { to = "michel-cloup", type = "member" },
+  { to = "mano-negra", type = "similar" },
+  { to = "zebda", type = "similar" },
+  { to = "loic-lantoine", type = "similar" },
+  { to = "les-ogres-de-barback", type = "similar" },
+]

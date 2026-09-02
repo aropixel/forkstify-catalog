@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Oscar Peterson"
+mbid = "ed801bdd-f057-41c0-94fb-76cb5676cd59"
+spotify = "6zkX5fhrSD4tdVOmimR9wB"
+begin = "1925"
+end = "2007"
+origin = "Montréal"
+
+tags = ["jazz", "bebop", "cool-jazz", "hard-bop", "ca"]
+
+tops = [
+  "That Old Feeling",
+  "Just One Of Those Things",
+  "Love For Sale",
+  "Jive At Five",
+  "Blue And Sentimental",
+]
+
+links = [
+  { to = "oscar-peterson-trio", type = "member" },
+]

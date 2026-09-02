@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Nat King Cole"
+mbid = "fbe054ec-a143-4101-9e9e-64abc5ff5ac9"
+spotify = "7v4imS0moSyGdXyLgVTIV7"
+begin = "1919"
+end = "1965"
+origin = "Montgomery"
+
+tags = ["jazz", "vocal-jazz", "swing", "easy-listening", "us"]
+
+tops = [
+  "L-O-V-E",
+  "Smile",
+  "Quizas, Quizas, Quizas (Perhaps, Perhaps, Perhaps)",
+  "Unforgettable",
+  "Autumn Leaves",
+]
+
+links = [
+  { to = "ella-fitzgerald", type = "similar" },
+  { to = "ray-charles", type = "similar" },
+]

@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Gillian Welch"
+mbid = "2ff49515-1701-4bac-a53a-04345893f3f3"
+spotify = "2H5elA2mJKrHmqkN9GSfkz"
+begin = "1967"
+origin = "New York"
+
+tags = ["alternative-country", "americana", "contemporary-folk", "folk", "us"]
+
+tops = [
+  "The Way It Goes",
+  "Didn't Leave Nobody But The Baby",
+  "Look at Miss Ohio",
+  "Annabelle",
+  "I'm Not Afraid to Die",
+]
+
+links = [
+  { to = "smog", type = "scene", note = "même époque et pays, genres proches : americana, folk" },
+]

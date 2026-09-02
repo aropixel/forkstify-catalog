@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Mano Solo"
+mbid = "5febe272-7691-4ea8-a3cf-c6c7f98d9bf1"
+spotify = "2MfAaMT9qmkHIBnU1ofzAP"
+begin = "1963"
+end = "2010"
+origin = "Châlons-du-Maine"
+
+tags = ["chanson-francaise", "fr"]
+
+tops = [
+  "Je suis venu vous voir",
+  "Au creux de ton bras",
+  "Pas du gâteau",
+  "Allo Paris",
+  "Les gitans",
+]
+
+links = [
+  { to = "tetes-raides", type = "similar" },
+  { to = "les-ogres-de-barback", type = "similar" },
+  { to = "tarmac", type = "similar" },
+  { to = "sanseverino", type = "similar" },
+]

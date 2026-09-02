@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Fishbach"
+mbid = "92aa0d60-c3d9-4c6a-85f0-11ca38c5cc28"
+spotify = "6smOYrOT8fGSn5lDC86Jjb"
+begin = "1991"
+origin = "Dieppe"
+
+tags = ["fr"]
+
+tops = [
+  "Je voulais te dire que je t'attends",
+  "Un autre que moi",
+  "Mortel",
+  "Rends-moi ma vie",
+  "Comme Jean Reno",
+]
+
+links = [
+  { to = "juniore", type = "similar" },
+  { to = "lescop", type = "similar" },
+]

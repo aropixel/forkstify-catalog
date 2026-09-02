@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Can"
+mbid = "13501c7d-d181-45ba-af52-5f101d8516a0"
+spotify = "4l8xPGtl6DHR2uvunqrl8r"
+begin = "1968"
+end = "1991"
+origin = "Köln"
+
+tags = ["krautrock", "experimental-rock", "psychedelic-rock", "avant-garde", "de", "60s"]
+
+tops = [
+  "She Brings the Rain",
+  "Vitamin C",
+  "Mother Sky",
+  "Moonshake",
+  "Spoon",
+]
+
+links = [
+  { to = "lou-reed", type = "similar" },
+  { to = "t-rex", type = "similar" },
+  { to = "the-velvet-underground", type = "similar" },
+  { to = "bob-dylan", type = "similar" },
+]

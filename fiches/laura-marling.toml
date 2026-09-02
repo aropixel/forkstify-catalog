@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Laura Marling"
+mbid = "cd9713d6-6e5f-4143-9412-4d12b7bd47f2"
+spotify = "7B2edU3Q7btJoNsoHCNohM"
+begin = "1990"
+origin = "Eversley"
+
+tags = ["folk", "indie-folk", "folk-rock", "rock", "uk"]
+
+tops = [
+  "What He Wrote",
+  "Ghosts",
+  "Your Only Doll (Dora)",
+  "How Can I",
+  "Curse of the Contemporary",
+]
+
+links = [
+  { to = "jose-gonzalez", type = "similar" },
+  { to = "iron-and-wine", type = "similar" },
+  { to = "lisa-hannigan", type = "similar" },
+  { to = "angus-and-julia-stone", type = "similar" },
+]

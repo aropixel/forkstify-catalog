@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Snoop Dogg"
+mbid = "f90e8b26-9e52-4669-a5c9-e28529c47894"
+spotify = "7hJcb9fa4alzcOq3EaNPoG"
+begin = "1971"
+origin = "Long Beach"
+
+tags = ["hip-hop", "gangsta-rap", "g-funk", "west-coast-hip-hop", "us"]
+
+tops = [
+  "Young, Wild & Free (feat. Bruno Mars)",
+  "Nuthin' But A \"G\" Thang",
+  "Who Am I (What’s My Name)?",
+  "Beautiful",
+  "Lodi Dodi",
+]
+
+links = [
+  { to = "2pac", type = "similar" },
+  { to = "dr-dre", type = "similar" },
+  { to = "jay-z", type = "similar" },
+  { to = "busta-rhymes", type = "similar" },
+]

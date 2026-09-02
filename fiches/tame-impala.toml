@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Tame Impala"
+mbid = "63aa26c3-d59b-4da4-84ac-716b54f1ef4d"
+spotify = "5INjqkS1o8h1imAzPqGZBb"
+begin = "1986"
+origin = "Sydney"
+
+tags = ["psychedelic-rock", "neo-psychedelia", "psychedelic-pop", "alternative-rock", "au"]
+
+tops = [
+  "Dracula (with JENNIE)",
+  "Loser",
+  "Dracula",
+  "Let It Happen",
+  "The Less I Know The Better",
+]
+
+links = [
+  { to = "gorillaz", type = "similar" },
+  { to = "mac-demarco", type = "similar" },
+  { to = "dominic-fike", type = "similar" },
+  { to = "the-growlers", type = "similar" },
+]

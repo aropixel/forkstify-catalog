@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Baxter Dury"
+mbid = "50df8a7c-ca0b-47c8-98e5-d27a57e04073"
+spotify = "0EgHhNmWcjusA7F2heSD0O"
+begin = "1971"
+origin = "Wingrave"
+
+tags = ["indie-rock", "art-pop", "indie-pop", "synth-pop", "uk"]
+
+tops = [
+  "Cocaine Man",
+  "Miami",
+  "Baxter (these are my friends)",
+  "Allbarone",
+  "Leak at the Disco",
+]
+
+links = [
+  { to = "metronomy", type = "similar" },
+  { to = "the-d", type = "similar" },
+  { to = "the-liminanas", type = "similar" },
+  { to = "girls-in-hawaii", type = "similar" },
+]

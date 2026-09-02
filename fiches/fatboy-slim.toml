@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Fatboy Slim"
+mbid = "34c63966-445c-4613-afe1-4f0e1e53ae9a"
+spotify = "4Y7tXHSEejGu1vQ9bwDdXW"
+begin = "1963"
+origin = "Bromley"
+
+tags = ["big-beat", "electronic", "uk"]
+
+tops = [
+  "Right Here, Right Now (LP Version)",
+  "Praise You (Radio Edit)",
+  "Right Here, Right Now",
+  "Satisfaction Skank",
+  "The Rockafeller Skank",
+]
+
+links = [
+  { to = "the-chemical-brothers", type = "similar" },
+  { to = "the-prodigy", type = "similar" },
+  { to = "basement-jaxx", type = "similar" },
+  { to = "daft-punk", type = "similar" },
+]

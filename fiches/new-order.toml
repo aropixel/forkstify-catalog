@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "New Order"
+mbid = "f1106b17-dcbb-45f6-b938-199ccfab50cc"
+spotify = "0yNLKJebCb8Aueb54LYya3"
+begin = "1980"
+origin = "Salford"
+
+tags = ["new-wave", "post-punk", "electronic", "alternative-dance", "uk", "80s"]
+
+tops = [
+  "Blue Monday '88",
+  "Blue Monday",
+  "Crystal",
+  "Bizarre Love Triangle '94",
+  "Temptation",
+]
+
+links = [
+  { to = "depeche-mode", type = "similar" },
+  { to = "the-cure", type = "similar" },
+  { to = "the-b-52s", type = "similar" },
+  { to = "morrissey", type = "similar" },
+]

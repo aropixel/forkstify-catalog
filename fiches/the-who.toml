@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Who"
+mbid = "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa"
+spotify = "67ea9eGLXYMsO2eYQRui3w"
+begin = "1964"
+origin = "London"
+
+tags = ["rock", "hard-rock", "classic-rock", "mod", "uk", "60s"]
+
+tops = [
+  "Baba O'Riley",
+  "Behind Blue Eyes",
+  "Won't Get Fooled Again (Original Album Version)",
+  "Pinball Wizard",
+  "My Generation",
+]
+
+links = [
+  { to = "the-rolling-stones", type = "similar" },
+  { to = "the-beatles", type = "similar" },
+  { to = "the-kinks", type = "similar" },
+  { to = "jefferson-airplane", type = "similar" },
+]

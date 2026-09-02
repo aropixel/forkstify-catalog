@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Laurent Voulzy"
+mbid = "e21f19cb-0e60-4f64-b14c-cdf0f03d4a9e"
+spotify = "6ogXCiVOaz2afPmMNHph7Z"
+begin = "1948"
+origin = "Paris"
+
+tags = ["chanson-francaise", "fr"]
+
+tops = [
+  "Rockollection",
+  "Jeanne",
+  "Le pouvoir des fleurs",
+  "La même tribu (Version 2)",
+  "Belle-Île-en-Mer, Marie-Galante",
+]
+
+links = [
+  { to = "francis-cabrel", type = "similar" },
+  { to = "france-gall", type = "similar" },
+  { to = "michel-berger", type = "similar" },
+]

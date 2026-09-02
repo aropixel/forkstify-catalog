@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "The La’s"
+mbid = "ff3e88b3-7354-4f30-967c-1a61ebc8c642"
+spotify = "47Z8LEl3LnQkcpva0xSthT"
+begin = "1983"
+end = "1992"
+origin = "Liverpool"
+
+tags = ["britpop", "indie-rock", "jangle-pop", "indie-pop", "uk", "80s"]
+
+tops = [
+  "There She Goes",
+  "Timeless Melody",
+  "Son Of A Gun",
+  "There She Goes (John Leckie Version)",
+  "Looking Glass",
+]
+
+links = [
+  { to = "pulp", type = "similar" },
+  { to = "morrissey", type = "similar" },
+  { to = "suede", type = "similar" },
+  { to = "primal-scream", type = "similar" },
+]

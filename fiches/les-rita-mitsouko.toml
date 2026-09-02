@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Les Rita Mitsouko"
+mbid = "0bfe360b-4abf-4750-962c-981cc5bfc4cf"
+spotify = "7CdlYgtOoxBtNjuDeIxSPM"
+begin = "1980"
+end = "2007"
+origin = "Paris"
+
+tags = ["pop-rock", "rock", "fr", "80s"]
+
+tops = [
+  "Marcia Baïla",
+  "C'est comme ça",
+  "Andy",
+  "Ding Dang Dong (Ringing at Your Bell)",
+  "Les histoires d'a",
+]
+
+links = [
+  { to = "alain-bashung", type = "similar" },
+  { to = "etienne-daho", type = "similar" },
+  { to = "m", type = "similar" },
+  { to = "arno", type = "similar" },
+]

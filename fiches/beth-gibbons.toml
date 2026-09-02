@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Beth Gibbons"
+mbid = "5adcb9d9-5ea2-428d-af46-ef626966e106"
+spotify = "6Lt6KFXX3P0v6vfrynQAMo"
+begin = "1965"
+origin = "Exeter"
+
+tags = ["folk", "uk"]
+
+tops = [
+  "Mysteries",
+  "Tom The Model",
+  "Floating On A Moment",
+  "Sand River",
+  "Show",
+]
+
+links = [
+  { to = "portishead", type = "member", note = "membre (1991–…)" },
+  { to = "archive", type = "similar" },
+  { to = "tindersticks", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+  { to = "girls-in-hawaii", type = "similar" },
+]

@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "David Bowie"
+mbid = "5441c29d-3602-4898-b1a1-b77fa23b8e50"
+spotify = "0oSGxfWSnnOXhD2fKuz2Gy"
+begin = "1947"
+end = "2016"
+origin = "Brixton"
+
+tags = ["art-rock", "glam-rock", "alternative-rock", "pop", "uk"]
+
+tops = [
+  "Starman",
+  "Under Pressure",
+  "\"Heroes\"",
+  "Space Oddity",
+  "Modern Love",
+]
+
+links = [
+  { to = "the-rolling-stones", type = "similar" },
+  { to = "paul-mccartney", type = "similar" },
+  { to = "queen", type = "similar" },
+  { to = "the-beatles", type = "similar" },
+]

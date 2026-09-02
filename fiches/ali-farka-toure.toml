@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Ali Farka Touré"
+mbid = "9be2a5ac-8201-489b-b5f6-91f958bf9060"
+spotify = "3mNygoyrEKLgo6sx0MzwOL"
+begin = "1939"
+end = "2006"
+origin = "Tombouctou"
+
+tags = ["african-blues", "blues", "desert-blues", "ml"]
+
+tops = [
+  "Ruby",
+  "Diaraby",
+  "Savane",
+  "Sabu Yerkoy",
+  "Ai Ga Bani",
+]
+
+links = [
+  { to = "toumani-diabate", type = "similar" },
+  { to = "tinariwen", type = "similar" },
+]

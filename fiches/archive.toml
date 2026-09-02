@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Archive"
+mbid = "bd513de0-e42f-425e-ae46-817d7bc5fb1c"
+spotify = "1Q776wzj2mrtXrNu3iH6nk"
+begin = "1994"
+origin = "London"
+
+tags = ["alternative-rock", "electronic", "trip-hop", "post-rock", "uk", "90s"]
+
+tops = [
+  "Nothing Else",
+  "Look At Us",
+  "City Walls",
+  "So Far From Losing You",
+  "Headspace",
+]
+
+links = [
+  { to = "massive-attack", type = "similar" },
+  { to = "portishead", type = "similar" },
+  { to = "air", type = "similar" },
+  { to = "bjork", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Police"
+mbid = "9e0e2b01-41db-4008-bd8b-988977d6019a"
+spotify = "5NGO30tJxFlKixkPSgXcFE"
+begin = "1977"
+end = "2008"
+origin = "London"
+
+tags = ["new-wave", "rock", "pop-rock", "post-punk", "uk", "70s"]
+
+tops = [
+  "Every Breath You Take",
+  "Message In A Bottle",
+  "Roxanne",
+  "So Lonely",
+  "Walking On The Moon",
+]
+
+links = [
+  { to = "david-bowie", type = "similar" },
+  { to = "queen", type = "similar" },
+  { to = "talking-heads", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Justin Timberlake"
+mbid = "596ffa74-3d08-44ef-b113-765d43d12738"
+spotify = "31TPClRtHm23RisEBtV3X7"
+begin = "1981"
+origin = "Memphis"
+
+tags = ["pop", "dance-pop", "r-and-b", "contemporary-r-and-b", "us"]
+
+tops = [
+  "What Goes Around.../...Comes Around (Interlude)",
+  "SexyBack (feat. Timbaland)",
+  "Cry Me a River",
+  "Rock Your Body",
+  "My Love (feat. T.I.)",
+]
+
+links = [
+  { to = "rihanna", type = "similar" },
+  { to = "beyonce", type = "similar" },
+  { to = "destinys-child", type = "similar" },
+  { to = "timbaland", type = "similar" },
+]

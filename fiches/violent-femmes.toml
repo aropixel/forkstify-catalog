@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Violent Femmes"
+mbid = "2aab61bc-67f4-4722-8c6e-e1821b2e32a6"
+spotify = "0rpMdBzQXf7aYRnu5fDBJy"
+begin = "1980"
+origin = "Milwaukee"
+
+tags = ["alternative-rock", "folk-punk", "acoustic-rock", "post-punk", "us", "80s"]
+
+tops = [
+  "Blister In The Sun",
+  "Add It Up",
+  "Gone Daddy Gone",
+  "Kiss Off",
+  "Do You Really Want To Hurt Me",
+]
+
+links = [
+  { to = "pixies", type = "similar" },
+  { to = "sonic-youth", type = "similar" },
+  { to = "dinosaur-jr", type = "similar" },
+  { to = "morrissey", type = "similar" },
+]

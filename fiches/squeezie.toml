@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Squeezie"
+mbid = "af544eb5-d171-467b-84e4-0623b1bd68e3"
+spotify = "0xECfhlRzRRIIe2Co5HX6n"
+begin = "1996"
+origin = "Vitry-sur-Seine"
+
+tags = ["fr"]
+
+tops = [
+  "Time Time",
+  "Cyberkinetic",
+  "Bye Bye",
+  "Guépard",
+  "arrêtez",
+]
+
+links = [
+  { to = "trei-degete", type = "member" },
+  { to = "joyca", type = "similar" },
+  { to = "mcfly-and-carlito", type = "similar" },
+  { to = "mastu", type = "similar" },
+  { to = "amixem", type = "similar" },
+]

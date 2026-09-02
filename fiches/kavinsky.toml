@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Kavinsky"
+mbid = "eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa"
+spotify = "0UF7XLthtbSF2Eur7559oV"
+begin = "1975"
+end = "2026"
+origin = "Seine-Saint-Denis"
+
+tags = ["synthwave", "electro-house", "french-electro", "french-house", "fr"]
+
+tops = [
+  "Nightcall",
+  "Roadgame",
+  "Odd Look",
+  "Outsider",
+  "Zenith",
+]
+
+links = [
+  { to = "daft-punk", type = "similar" },
+  { to = "jabberwocky", type = "similar" },
+]

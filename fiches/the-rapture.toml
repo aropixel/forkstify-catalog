@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Rapture"
+mbid = "3697647f-1839-479e-98a1-9ad39004d923"
+spotify = "166Dz1GX3xonSQ3Z6CQW26"
+begin = "1998"
+origin = "New York"
+
+tags = ["acid-house", "alternative-dance", "dance-punk", "house", "us", "90s"]
+
+tops = [
+  "How Deep Is Your Love?",
+  "In the Grace of Your Love",
+  "Echoes",
+  "Sail Away",
+  "It Takes Time to Be a Man",
+]
+
+links = [
+  { to = "lcd-soundsystem", type = "similar" },
+  { to = "css", type = "similar" },
+  { to = "phoenix", type = "similar" },
+  { to = "naive-new-beaters", type = "similar" },
+]

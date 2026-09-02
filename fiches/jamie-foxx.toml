@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Jamie Foxx"
+mbid = "15a5da16-8b89-4047-aefe-81473c97b5b2"
+spotify = "7LnaAXbDVIL75IVPnndf7w"
+begin = "1967"
+origin = "Texas"
+
+tags = ["soul", "us"]
+
+tops = [
+  "The City's Yours",
+  "Fly Love",
+  "Slow Jamz",
+  "Blame It (feat. T-Pain) (Club Mix)",
+  "Unpredictable (feat. Ludacris) (Main)",
+]
+
+links = [
+  { to = "destinys-child", type = "similar" },
+  { to = "kelly-rowland", type = "similar" },
+]
