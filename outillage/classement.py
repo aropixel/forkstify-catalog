@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
-"""Consolide tous les signaux de usage/ en un classement d'artistes.
+"""Consolide tous les signaux de learned/ en un classement d'artistes.
 
 Score : titres aimés ×1, albums aimés ×3, suivi +8, titres de playlist ×1
-(toute playlist : #fipway, road trip, et tout usage/artistes-*.json à venir).
-Écrit usage/classement.json.
+(toute playlist : #fipway, road trip, et tout learned/artistes-*.json à venir).
+Écrit learned/classement.json.
 """
 import json
 from pathlib import Path
 
-p = Path(__file__).resolve().parent.parent / "usage"
+p = Path(__file__).resolve().parent.parent / "learned"
 POIDS = {"titres_aimes": 1, "albums_aimes": 3, "titres_fipway": 1,
          "titres_playlist": 1, "artiste_favori": 5, "albums_favoris": 3}
 

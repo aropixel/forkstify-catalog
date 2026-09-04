@@ -3,7 +3,7 @@
 import json, time, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
-SRC = Path(__file__).resolve().parent.parent / "usage"
+SRC = Path(__file__).resolve().parent.parent / "learned"
 OUT = SRC / "mbid.json"
 UA = "forkstify-bootstrap/0.1 (joel.gomez@aropixel.com)"
 

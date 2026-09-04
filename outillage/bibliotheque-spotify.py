@@ -11,7 +11,7 @@ from pathlib import Path
 
 CLIENT_ID = "d420a117a32841c2b3474932e49fb54b"  # identité publique ncspot, celle du plugin
 KEYRING = ["service", "quickshell-spotify", "kind", "refresh-token", "client-id", CLIENT_ID]
-OUT = Path(__file__).resolve().parent.parent / "usage"
+OUT = Path(__file__).resolve().parent.parent / "learned"
 MAX_TRACKS = 5000
 
 

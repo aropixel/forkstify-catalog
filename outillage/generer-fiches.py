@@ -20,7 +20,7 @@ except ImportError:
 
 RACINE = Path(__file__).resolve().parent.parent
 FICHES = RACINE / "fiches"
-USAGE = RACINE / "usage"
+LEARNED = RACINE / "learned"
 CACHE = Path(__file__).resolve().parent / "cache"
 CACHE.mkdir(exist_ok=True)
 UA = "forkstify-bootstrap/0.1 (joel.gomez@aropixel.com)"
@@ -77,7 +77,7 @@ def clef_de_correspondance(slug):
 def charger_univers():
     """clef de correspondance -> {slug, nom, mbid, spotify}."""
     univers = {}
-    for entree in json.load(open(USAGE / "mbid.json")).items():
+    for entree in json.load(open(LEARNED / "mbid.json")).items():
         spotify, e = entree
         if not e.get("mbid"):
             continue

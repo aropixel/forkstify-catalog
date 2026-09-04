@@ -5,14 +5,14 @@ Usage : playlist-spotify.py "<nom exact de la playlist>"
 
 Même principe que les autres scripts : lecture seule, jeton relu dans le
 trousseau GNOME et réécrit s'il tourne. Résultat dans
-usage/artistes-<slug-du-nom>.json (pris en compte par resoudre-mbid.py).
+learned/artistes-<slug-du-nom>.json (pris en compte par resoudre-mbid.py).
 """
 import json, re, subprocess, sys, time, unicodedata, urllib.error, urllib.parse, urllib.request
 from pathlib import Path
 
 CLIENT_ID = "d420a117a32841c2b3474932e49fb54b"
 KEYRING = ["service", "quickshell-spotify", "kind", "refresh-token", "client-id", CLIENT_ID]
-OUT = Path(__file__).resolve().parent.parent / "usage"
+OUT = Path(__file__).resolve().parent.parent / "learned"
 
 
 def slugifier(nom):

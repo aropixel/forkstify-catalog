@@ -7,7 +7,7 @@ Usage : amis-spotify.py <id_utilisateur> <label>
 Utilise la session Omarchy-Spotify de Joel (jeton relu dans le trousseau,
 réécrit s'il tourne) : seules les playlists publiques de la cible sont
 visibles — jamais ses titres ou artistes aimés. Résultat dans
-usage/amis/<label>-spotify.json.
+learned/amis/<label>-spotify.json.
 
 Réserve : depuis 2026, Spotify peut refuser le contenu de certaines
 playlists d'autrui ; les playlists illisibles sont signalées et ignorées.
@@ -17,7 +17,7 @@ from pathlib import Path
 
 CLIENT_ID = "d420a117a32841c2b3474932e49fb54b"
 KEYRING = ["service", "quickshell-spotify", "kind", "refresh-token", "client-id", CLIENT_ID]
-OUT = Path(__file__).resolve().parent.parent / "usage" / "amis"
+OUT = Path(__file__).resolve().parent.parent / "learned" / "amis"
 
 
 def keyring_read():

@@ -6,12 +6,12 @@ Usage : amis-deezer.py <id_utilisateur> <label>
 
 Aucune authentification : seules les données publiques du profil sont lues
 (artistes favoris, albums favoris, playlists publiques). Résultat dans
-usage/amis/<label>-deezer.json.
+learned/amis/<label>-deezer.json.
 """
 import json, sys, time, urllib.request
 from pathlib import Path
 
-OUT = Path(__file__).resolve().parent.parent / "usage" / "amis"
+OUT = Path(__file__).resolve().parent.parent / "learned" / "amis"
 
 
 def get(url):
