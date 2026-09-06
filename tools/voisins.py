@@ -2,10 +2,10 @@
 """Les voisins d'un artiste dans l'espace des vecteurs — prototype de
 `forkstify check` : on ne juge pas son texte, on juge ses effets.
 
-  python3 outillage/voisins.py the-cure [n]
+  python3 tools/voisins.py the-cure [n]
 
 Sans argument, affiche les voisins de quelques fiches témoins.
-Bibliothèque standard uniquement (lit vecteurs/vecteurs.jsonl).
+Bibliothèque standard uniquement (lit vectors/vecteurs.jsonl).
 """
 
 import json

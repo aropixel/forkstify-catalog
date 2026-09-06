@@ -8,13 +8,13 @@ la nuance quand elle existe (docs/conception/catalogue.md du dépôt forkstify).
 Nécessite fastembed — à lancer dans un conteneur :
 
   docker run --rm -v "$PWD":/catalogue -w /catalogue \
-    -e FASTEMBED_CACHE_PATH=/catalogue/outillage/cache/fastembed \
+    -e FASTEMBED_CACHE_PATH=/catalogue/tools/cache/fastembed \
     python:3.12-slim \
-    bash -c "pip install -q fastembed && python outillage/vectoriser.py \
-             && chown -R $(id -u):$(id -g) vecteurs outillage/cache/fastembed"
+    bash -c "pip install -q fastembed && python tools/vectoriser.py \
+             && chown -R $(id -u):$(id -g) vecteurs tools/cache/fastembed"
 
-Écrit vecteurs/vecteurs.jsonl (une ligne par artiste, triée par slug) et
-vecteurs/meta.toml (modèle, dimensions, date). Avec --textes, affiche les
+Écrit vectors/vecteurs.jsonl (une ligne par artiste, triée par slug) et
+vectors/meta.toml (modèle, dimensions, date). Avec --textes, affiche les
 textes composés sans vectoriser (aucune dépendance, utile pour relire).
 """
 
@@ -146,7 +146,7 @@ def main():
         f'date = "{datetime.date.today().isoformat()}"\n'
         f"fiches = {len(slugs)}\n"
     )
-    print(f"{len(slugs)} vecteurs écrits dans vecteurs/vecteurs.jsonl")
+    print(f"{len(slugs)} vecteurs écrits dans vectors/vecteurs.jsonl")
 
 
 if __name__ == "__main__":

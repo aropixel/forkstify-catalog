@@ -28,7 +28,7 @@ UA = "forkstify-bootstrap/0.1 (joel.gomez@aropixel.com)"
 # --- HTTP avec cache disque -------------------------------------------------
 
 def http(url, pause):
-    """GET JSON, mis en cache dans outillage/cache/, réessai sur 429/503."""
+    """GET JSON, mis en cache dans tools/cache/, réessai sur 429/503."""
     clef = re.sub(r"[^a-z0-9]+", "-", url.lower()).strip("-")[-150:]
     fichier = CACHE / f"{clef}.json"
     if fichier.exists():
