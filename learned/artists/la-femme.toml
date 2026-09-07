@@ -1,0 +1,17 @@
+plays = 3.0
+last = "2026-09-07"
+weight = 1.0
+
+[tops."Sur la planche"]
+plays = 1.0
+last = "2026-09-07"
+liked = true
+
+[tops.Antitaxi]
+plays = 1.0
+last = "2026-09-07"
+liked = true
+
+[tops."Elle ne t'aime pas"]
+plays = 1.0
+last = "2026-09-07"
