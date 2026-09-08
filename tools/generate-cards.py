@@ -48,6 +48,11 @@ def http(url, pause):
             if e.code == 404:
                 return None
             raise
+        except (urllib.error.URLError, TimeoutError, OSError):
+            # un délai dépassé n'est pas une réponse : on réessaie, et un
+            # échec persistant tombe en « introuvable » plutôt qu'en plantage
+            time.sleep(3 * (essai + 1))
+            continue
     return None
 
 def mb(chemin):

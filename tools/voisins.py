@@ -5,7 +5,7 @@
   python3 tools/voisins.py the-cure [n]
 
 Sans argument, affiche les voisins de quelques fiches témoins.
-Bibliothèque standard uniquement (lit vectors/vecteurs.jsonl).
+Bibliothèque standard uniquement (lit vectors/vectors.jsonl).
 """
 
 import json
@@ -20,7 +20,7 @@ TEMOINS = ["the-cure", "experience", "nina-simone", "iam", "les-thugs",
 
 def charger():
     vecteurs = {}
-    for ligne in open(RACINE / "vecteurs" / "vecteurs.jsonl"):
+    for ligne in open(RACINE / "vectors" / "vectors.jsonl"):
         d = json.loads(ligne)
         vecteurs[d["slug"]] = d["v"]
     return vecteurs
