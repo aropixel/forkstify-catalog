@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "NLE Choppa"
+mbid = "2873b450-13c6-4ca1-8ca3-646c25af3202"
+spotify = "7F2p2hCim4bS28GkIpUDxn"
+begin = "2002"
+origin = "Memphis"
+
+tags = ["gangsta-rap", "hip-hop", "southern-hip-hop", "hardcore-hip-hop", "us"]
+
+tops = [
+  "Bonjour",
+  "Shotta Flow (feat. Blueface) (Remix)",
+  "Self Esteem (featuring NLE Choppa)",
+  "Or What",
+  "Dare U",
+]
+
+links = [
+  { to = "kodak-black", type = "similar" },
+  { to = "denzel-curry", type = "scene", note = "même époque et pays, genres proches : hardcore-hip-hop, hip-hop" },
+]

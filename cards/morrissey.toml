@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Morrissey"
+mbid = "013fa897-86db-41d3-8e9f-386c8a34f4e6"
+spotify = "3iTsJGG39nMg9YiolUgLMQ"
+begin = "1959"
+origin = "Davyhulme"
+
+tags = ["alternative-rock", "indie-pop", "indie-rock", "art-pop", "uk"]
+
+tops = [
+  "I Have Forgiven Jesus",
+  "Everyday Is Like Sunday",
+  "Suedehead",
+  "Notre-Dame",
+  "Spent the Day in Bed",
+]
+
+links = [
+  { to = "the-smiths", type = "member", note = "membre (1982–1987)" },
+  { to = "the-cure", type = "similar" },
+  { to = "r-e-m", type = "similar" },
+  { to = "new-order", type = "similar" },
+  { to = "depeche-mode", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Yusuf Islam"
+mbid = "bf27c046-38b4-4b0f-ad65-358ed588cddf"
+spotify = "5OC5mCMdUlT4F8H9knv2AD"
+begin = "1948"
+origin = "Marylebone"
+
+tags = ["folk-rock", "rock", "singer-songwriter", "folk", "uk"]
+
+tops = [
+  "Lady D'Arbanville",
+  "Sad Lisa",
+  "Morning Has Broken",
+  "Moonshadow",
+  "Where Do The Children Play?",
+]
+
+links = [
+  { to = "bob-dylan", type = "similar" },
+  { to = "the-beatles", type = "similar" },
+  { to = "paul-mccartney", type = "similar" },
+  { to = "john-lennon", type = "similar" },
+]

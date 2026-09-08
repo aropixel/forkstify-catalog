@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Jeanne Added"
+mbid = "3321a95e-d587-47c0-b6d3-fa5b60030d29"
+spotify = "5TEGxYftTkeKmLXkZjHNUE"
+begin = "1980"
+origin = "Reims"
+
+tags = ["jazz", "fr"]
+
+tops = [
+  "Mutate",
+  "Look at Them",
+  "Au Revoir",
+  "Falling Hearts",
+  "A War Is Coming",
+]
+
+links = [
+  { to = "the-d", type = "similar" },
+  { to = "keren-ann", type = "similar" },
+  { to = "h-burns", type = "similar" },
+  { to = "camille", type = "similar" },
+]

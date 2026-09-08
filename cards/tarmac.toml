@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Tarmac"
+mbid = "4dac8118-ad36-471c-bc16-c69698631afe"
+spotify = "7jj1zcBEwp0Joqfb9Bdk7J"
+begin = "2001"
+
+tags = ["country", "folk", "rock", "fr", "2000s"]
+
+tops = [
+  "Ce Sourire Est Pour Moi (Album Version)",
+  "La ballade des gens qui sont nés quelque part",
+  "Dis-moi c'est quand",
+  "Notre Epoque (Album Version)",
+  "Je Cherche (Album Version)",
+]
+
+links = [
+  { to = "mano-solo", type = "similar" },
+  { to = "tetes-raides", type = "similar" },
+  { to = "dionysos", type = "similar" },
+  { to = "miossec", type = "similar" },
+]

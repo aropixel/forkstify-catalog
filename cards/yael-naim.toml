@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Yael Naïm"
+mbid = "def226b0-7990-4b38-ab1a-7740461844dc"
+spotify = "32aFdXARUiqP81SXqIPD4w"
+begin = "1978"
+origin = "Paris"
+
+tags = ["singer-songwriter", "folk", "indie-folk", "pop", "fr"]
+
+tops = [
+  "New Soul",
+  "Toxic",
+  "Go to the River",
+  "Blame",
+  "Dream in My Head",
+]
+
+links = [
+  { to = "keren-ann", type = "similar" },
+  { to = "camille", type = "similar" },
+  { to = "moriarty", type = "similar" },
+]

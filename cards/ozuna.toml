@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Ozuna"
+mbid = "f2651b63-a44d-4d1d-ba64-d981d971ecd1"
+spotify = "1i8SpTcr7yvPOmcqrbnVXY"
+begin = "1992"
+origin = "San Juan"
+
+tags = ["reggaeton", "latin", "trap-latino", "pr"]
+
+tops = [
+  "Baila Baila Baila",
+  "Del Mar",
+  "MAMACITA",
+  "Yo x Ti, Tu x Mi",
+  "Criminal",
+]
+
+links = [
+  { to = "j-balvin", type = "similar" },
+  { to = "farruko", type = "similar" },
+]

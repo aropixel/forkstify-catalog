@@ -1,0 +1,27 @@
+format = 1
+generated = true
+name = "The Velvet Underground"
+mbid = "94b0fb9d-a066-4823-b2ec-af1d324bcfcf"
+spotify = "1nJvji2KIlWSseXRSlNYsC"
+begin = "1964"
+end = "1996"
+origin = "New York"
+
+tags = ["experimental-rock", "art-rock", "proto-punk", "noise-rock", "us", "60s"]
+
+tops = [
+  "Sunday Morning",
+  "Pale Blue Eyes",
+  "Femme Fatale",
+  "Venus In Furs",
+  "Heroin",
+]
+
+links = [
+  { to = "lou-reed", type = "member", note = "membre (1965–1970)" },
+  { to = "nico", type = "member", note = "membre (1967–1967)" },
+  { to = "the-beatles", type = "similar" },
+  { to = "john-lennon", type = "similar" },
+  { to = "the-kinks", type = "similar" },
+  { to = "bob-dylan", type = "similar" },
+]

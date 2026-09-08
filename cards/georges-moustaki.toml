@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Georges Moustaki"
+mbid = "6e6dc19f-cfa9-45e8-aaad-ab1d92c60a80"
+spotify = "0P4PF0pSB8hBeL1keuPwdG"
+begin = "1934"
+end = "2013"
+origin = "Al Iskandarīyah"
+
+tags = ["fr"]
+
+tops = [
+  "Le métèque",
+  "La dame brune",
+  "Les eaux de Mars",
+  "Sans la nommer",
+  "Ma liberté (Live)",
+]
+
+links = [
+  { to = "georges-brassens", type = "similar" },
+  { to = "francoise-hardy", type = "similar" },
+  { to = "serge-gainsbourg", type = "similar" },
+]

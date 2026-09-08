@@ -1,0 +1,19 @@
+format = 1
+generated = true
+name = "Hope Sandoval"
+mbid = "bc1cc75d-ab68-41b2-a135-3b62f41ea266"
+spotify = "7zS53Xa6sVgfoh00kckgyV"
+begin = "1966"
+origin = "Los Angeles"
+
+tags = ["dream-pop", "folk-rock", "indie-pop", "psychedelic-pop", "us"]
+
+tops = [
+  "Big Boss Man",
+  "The Long Walk Home",
+]
+
+links = [
+  { to = "mazzy-star", type = "member", note = "membre (1988–…)" },
+  { to = "love", type = "scene", note = "même époque et pays, genres proches : folk-rock, psychedelic-pop" },
+]

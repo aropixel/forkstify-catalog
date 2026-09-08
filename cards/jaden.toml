@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Jaden"
+mbid = "166cb987-3156-4166-b0d3-f1ad5a6c514c"
+spotify = "0xOeVMOz2fVg5BJY3N6akT"
+begin = "1998"
+origin = "Malibu"
+
+tags = ["hip-hop", "us"]
+
+tops = [
+  "Icon",
+  "Way Up",
+  "On My Own",
+  "Summertime In Paris",
+  "I'm Ready",
+]
+
+links = [
+  { to = "amine", type = "similar" },
+  { to = "jack-harlow", type = "similar" },
+  { to = "childish-gambino", type = "similar" },
+  { to = "vince-staples", type = "similar" },
+]

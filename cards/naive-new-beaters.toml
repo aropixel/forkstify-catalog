@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Naïve New Beaters"
+mbid = "b98c9e55-6964-4c62-9804-bd325bd15d70"
+spotify = "0xW1QQBD5O09HptO2fEaI4"
+begin = "2004"
+
+tags = ["pop-rap", "fr", "2000s"]
+
+tops = [
+  "Heal Tomorrow",
+  "Dancing",
+  "Love Scares",
+  "Montecristo",
+  "Live Good",
+]
+
+links = [
+  { to = "metronomy", type = "similar" },
+  { to = "phoenix", type = "similar" },
+  { to = "hot-chip", type = "similar" },
+  { to = "the-rapture", type = "similar" },
+]

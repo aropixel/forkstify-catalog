@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "T. Rex"
+mbid = "c842d29f-a297-48cd-bb71-4f77fd672b16"
+spotify = "3dBVyJ7JuOMt4GE9607Qin"
+begin = "1967"
+end = "1977"
+origin = "London"
+
+tags = ["glam-rock", "rock", "folk-rock", "psychedelic-pop", "uk", "60s"]
+
+tops = [
+  "Get It On",
+  "Cosmic Dancer",
+  "Bang A Gong (Get It On) (Electric Version)",
+  "20th Century Boy",
+  "Hot Love (A Side)",
+]
+
+links = [
+  { to = "the-rolling-stones", type = "similar" },
+  { to = "the-beatles", type = "similar" },
+  { to = "the-who", type = "similar" },
+  { to = "the-kinks", type = "similar" },
+]

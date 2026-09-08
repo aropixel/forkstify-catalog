@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Ray Charles"
+mbid = "2ce02909-598b-44ef-a456-151ba0a3bd70"
+spotify = "1eYhYunlNJlDoQhtYBvPsi"
+begin = "1930"
+end = "2004"
+origin = "Albany"
+
+tags = ["jazz", "soul", "blues", "r-and-b", "us"]
+
+tops = [
+  "I've Got a Woman",
+  "Your Cheatin' Heart / You Don't Know Me / I'm Sorry / My Prayer / Sixteen Candles / Don't Blame Me / Can't Help Falling in Love /",
+  "Don't Let the Sun Catch You Crying",
+  "Hit the Road Jack (8D)",
+  "Hallelujah, I Love Her So",
+]
+
+links = [
+  { to = "nina-simone", type = "similar" },
+  { to = "ella-fitzgerald", type = "similar" },
+  { to = "nat-king-cole", type = "similar" },
+  { to = "otis-redding", type = "similar" },
+]

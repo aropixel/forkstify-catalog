@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Vald"
+mbid = "062ab94e-b7a5-47a9-b3f4-cc1750c3f859"
+spotify = "3CnCGFxXbOA8bAK54jR8js"
+begin = "1992"
+origin = "Aulnay-sous-Bois"
+
+tags = ["hip-hop", "fr"]
+
+tops = [
+  "PROZACZOPIXAN RELOADED",
+  "REGULATION RELOADED",
+  "Désaccordé",
+  "Abysses",
+  "Bitch (feat. Vald)",
+]
+
+links = [
+  { to = "nekfeu", type = "similar" },
+  { to = "caballero-jeanjass", type = "similar" },
+  { to = "disiz", type = "similar" },
+  { to = "romeo-elvis", type = "similar" },
+]

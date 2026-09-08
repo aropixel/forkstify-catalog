@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "M83"
+mbid = "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd"
+spotify = "63MQldklfxkjYDoUE4Tppz"
+begin = "2001"
+origin = "Antibes"
+
+tags = ["dream-pop", "electronic", "shoegaze", "synth-pop", "fr", "2000s"]
+
+tops = [
+  "Midnight City",
+  "Solitude (Felsmann + Tiley Reinterpretation)",
+  "Do It, Try It",
+  "Oblivion",
+  "Un nouveau soleil",
+]
+
+links = [
+  { to = "metronomy", type = "similar" },
+  { to = "the-xx", type = "similar" },
+  { to = "hot-chip", type = "similar" },
+  { to = "phoenix", type = "similar" },
+]

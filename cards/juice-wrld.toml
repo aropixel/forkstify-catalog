@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Juice WRLD"
+mbid = "4e4ebde4-0c56-4dec-844b-6c73adcdd92d"
+spotify = "4MCBfE4596Uoi2O4DtmEMz"
+begin = "1998"
+end = "2019"
+origin = "Chicago"
+
+tags = ["hip-hop", "emo-rap", "alternative-hip-hop", "chicago-drill", "us"]
+
+tops = [
+  "Lucid Dreams",
+  "Hate Me",
+  "Hide",
+  "All Girls Are The Same",
+  "Come & Go",
+]
+
+links = [
+  { to = "future", type = "similar" },
+  { to = "iann-dior", type = "similar" },
+  { to = "xxxtentacion", type = "similar" },
+  { to = "kodak-black", type = "similar" },
+]

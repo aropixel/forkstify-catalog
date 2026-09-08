@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Mercury Rev"
+mbid = "7b1cf87e-c54f-4abc-893d-90245a31900d"
+spotify = "77oD8X9qLXZhpbCjv53l5n"
+begin = "1989"
+origin = "Buffalo"
+
+tags = ["dream-pop", "indie-rock", "chamber-pop", "experimental-rock", "us", "80s"]
+
+tops = [
+  "Goddess on a Hiway",
+  "Big Boss Man",
+  "The Dark Is Rising",
+  "Tonite It Shows",
+  "Tides Of The Moon",
+]
+
+links = [
+  { to = "pj-harvey", type = "similar" },
+  { to = "tindersticks", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+  { to = "beck", type = "similar" },
+]

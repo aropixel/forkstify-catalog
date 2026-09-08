@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Sanseverino"
+mbid = "3ac3ed58-f3a7-4e3e-ae32-da4114861d4f"
+spotify = "1jKouRXGXSjxHAx2ayWolz"
+begin = "1961"
+origin = "Paris"
+
+tags = ["gypsy-jazz", "chanson-francaise", "fr"]
+
+tops = [
+  "La même tribu (Version 2)",
+  "Dans la salle du bar-tabac de la rue des Martyrs",
+  "Le petit bal perdu",
+  "Frida",
+  "Les embouteillages",
+]
+
+links = [
+  { to = "mano-solo", type = "similar" },
+  { to = "arno", type = "similar" },
+  { to = "tetes-raides", type = "similar" },
+  { to = "miossec", type = "similar" },
+]

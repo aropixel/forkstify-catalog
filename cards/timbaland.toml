@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Timbaland"
+mbid = "daa09819-5da5-4c7a-8bef-eb372bb27ff1"
+spotify = "5Y5TRrQiqgUO4S36tzjIRZ"
+begin = "1972"
+origin = "Norfolk"
+
+tags = ["contemporary-r-and-b", "dance-pop", "hip-hop", "electropop", "us"]
+
+tops = [
+  "The Way I Are",
+  "Apologize (\"Shock Value\" Version)",
+  "Give It To Me",
+  "Give It To Me 2025",
+  "If We Ever Meet Again (Featuring Katy Perry)",
+]
+
+links = [
+  { to = "missy-elliott", type = "similar" },
+  { to = "akon", type = "similar" },
+  { to = "fabolous", type = "similar" },
+  { to = "justin-timberlake", type = "similar" },
+]

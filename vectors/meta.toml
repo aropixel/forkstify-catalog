@@ -2,5 +2,5 @@ modele = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 dimensions = 384
 pooling = "mean"  # fastembed >= 0.6 ; à reproduire côté Rust
 prefixe = ""
-date = "2026-09-02"
-fiches = 214
+date = "2026-09-08"
+fiches = 314

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Fontaines D.C."
+mbid = "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68"
+spotify = "3SXwqSqAoBz9WCI9PDQzY6"
+begin = "2014"
+origin = "Dublin"
+
+tags = ["post-punk", "indie-rock", "rock", "gothic-rock", "ie", "2010s"]
+
+tops = [
+  "Marianne",
+  "I Love You",
+  "Starburster",
+  "Bug",
+  "In The Modern World",
+]
+
+links = [
+  { to = "idles", type = "similar" },
+  { to = "the-strokes", type = "similar" },
+  { to = "interpol", type = "similar" },
+  { to = "blur", type = "similar" },
+]

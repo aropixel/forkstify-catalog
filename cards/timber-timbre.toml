@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Timber Timbre"
+mbid = "89942abd-fdaa-48fc-a8cf-649746303c97"
+spotify = "7HeVXdOdMhLslVputGTZFQ"
+begin = "2005"
+origin = "Toronto"
+
+tags = ["ca", "2000s"]
+
+tops = [
+  "Black Water",
+  "Demon Host",
+  "Run from Me",
+  "Hot Dreams",
+  "Magic Arrow",
+]
+
+links = [
+  { to = "cat-power", type = "similar" },
+  { to = "tindersticks", type = "similar" },
+  { to = "devendra-banhart", type = "similar" },
+  { to = "beirut", type = "similar" },
+]

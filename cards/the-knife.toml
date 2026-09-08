@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "The Knife"
+mbid = "bf710b71-48e5-4e15-9bd6-96debb2e4e98"
+spotify = "7eQZTqEMozBcuSubfu52i4"
+begin = "1999"
+end = "2014"
+origin = "Stockholm"
+
+tags = ["electronic", "electropop", "experimental", "art-pop", "se", "90s"]
+
+tops = [
+  "Pass This On",
+  "Heartbeats",
+  "Marble House",
+  "Silent Shout",
+  "Got 2 Let U",
+]
+
+links = [
+  { to = "lcd-soundsystem", type = "similar" },
+  { to = "death-in-vegas", type = "similar" },
+  { to = "hot-chip", type = "similar" },
+  { to = "metronomy", type = "similar" },
+]

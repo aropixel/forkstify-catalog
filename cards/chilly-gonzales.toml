@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Chilly Gonzales"
+mbid = "9c306413-56b6-4ff6-982a-7e4b87d01340"
+spotify = "0qudezVgvl4Chd9BgNFB83"
+begin = "1972"
+origin = "Toronto"
+
+tags = ["alternative-dance", "electronic", "jazz", "modern-classical", "de"]
+
+tops = [
+  "Ils me rient tous au nez (live version)",
+  "Peur de la mort (Veridis Project Remix)",
+  "ZUSHILEAKS",
+  "Message Personnel",
+  "Gogol (Live)",
+]
+
+links = [
+  { to = "yann-tiersen", type = "similar" },
+]

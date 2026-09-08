@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Fat White Family"
+mbid = "0935da47-cf41-4aa1-a91a-850ced520454"
+spotify = "5ztBFCBEL7OtjdAt98RnD4"
+begin = "2011"
+origin = "Peckham"
+
+tags = ["garage-rock-revival", "lo-fi", "neo-psychedelia", "post-punk", "uk", "2010s"]
+
+tops = [
+  "Whitest Boy on the Beach",
+  "Feet",
+  "Tastes Good With The Money",
+  "When I Leave",
+  "Religion for One",
+]
+
+links = [
+  { to = "peter-kernel", type = "similar" },
+  { to = "fontaines-d-c", type = "similar" },
+  { to = "idles", type = "similar" },
+  { to = "sleaford-mods", type = "similar" },
+]

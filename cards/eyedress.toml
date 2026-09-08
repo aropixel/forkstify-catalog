@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Eyedress"
+mbid = "0b619a94-481c-40ac-abae-85f33f2b1588"
+spotify = "3XxNRirzbjfLdDli06zMaB"
+begin = "1990"
+origin = "Manila"
+
+tags = ["indie-rock", "post-punk-revival", "shoegaze", "ph"]
+
+tops = [
+  "Something About You",
+  "Jealous",
+  "Cocaine Sunday",
+  "The Dark Prince (feat. Mac DeMarco)",
+  "My Simple Jeep (feat. Mac DeMarco)",
+]
+
+links = [
+  { to = "mac-demarco", type = "similar" },
+  { to = "ekkstacy", type = "similar" },
+]

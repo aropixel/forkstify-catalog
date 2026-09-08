@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "H‐Burns"
+mbid = "444dfc12-aa86-49d7-bd44-e188fd1b9cd8"
+spotify = "5Jd4dFTFgTta5lqPvamjZn"
+begin = "1979"
+origin = "Romans-sur-Isère"
+
+tags = ["indie-rock", "rock", "fr"]
+
+tops = [
+  "Blue Rose",
+  "La nuit est entrée en lui",
+  "Night Moves",
+  "Suzanne",
+  "Late Bloomers",
+]
+
+links = [
+  { to = "cat-power", type = "similar" },
+  { to = "the-d", type = "similar" },
+  { to = "angus-and-julia-stone", type = "similar" },
+  { to = "girls-in-hawaii", type = "similar" },
+]

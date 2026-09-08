@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Travis Scott"
+mbid = "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6"
+spotify = "0Y5tJX1MQlPlqiwlOH1tJY"
+begin = "1991"
+origin = "Houston"
+
+tags = ["hip-hop", "trap", "southern-hip-hop", "experimental-hip-hop", "us"]
+
+tops = [
+  "goosebumps",
+  "FE!N (feat. Playboi Carti)",
+  "SICKO MODE",
+  "HIGHEST IN THE ROOM",
+  "MY EYES",
+]
+
+links = [
+  { to = "drake", type = "similar" },
+  { to = "future", type = "similar" },
+  { to = "young-thug", type = "similar" },
+  { to = "offset", type = "similar" },
+]

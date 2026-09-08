@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The B‐52s"
+mbid = "127f591a-7e27-4435-92db-0780f219f3a1"
+spotify = "3gdbcIdNypBsYNu3iiCjtN"
+begin = "1976"
+origin = "Athens"
+
+tags = ["pop-rock", "dance-pop", "new-wave", "pop", "us", "70s"]
+
+tops = [
+  "Rock Lobster",
+  "Planet Claire",
+  "Love Shack (Edit)",
+  "Rock Lobster (Live)",
+  "Dance This Mess Around",
+]
+
+links = [
+  { to = "talking-heads", type = "similar" },
+  { to = "the-cure", type = "similar" },
+  { to = "new-order", type = "similar" },
+  { to = "depeche-mode", type = "similar" },
+]

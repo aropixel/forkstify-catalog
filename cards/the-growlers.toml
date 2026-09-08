@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "The Growlers"
+mbid = "4a51d885-9445-4e6a-a171-36e2d51dcfa0"
+spotify = "2RhgnQNC74QoBlaUvT4MEe"
+begin = "2006"
+origin = "Dana Point"
+
+tags = ["garage-rock", "surf-rock", "psychedelic-rock", "us", "2000s"]
+
+tops = [
+  "Dope on a Rope",
+  "Night Ride",
+  "Going Gets Tough",
+  "Orgasm of Death",
+  "Black Memories",
+]
+
+links = [
+  { to = "the-strokes", type = "similar" },
+]

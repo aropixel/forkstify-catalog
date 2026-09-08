@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Vampire Weekend"
+mbid = "af37c51c-0790-4a29-b995-456f98a6b8c9"
+spotify = "5BvJzeQpmsdsFp4HGUYUEx"
+begin = "2006"
+origin = "New York"
+
+tags = ["indie-rock", "indie-pop", "indietronica", "afrobeat", "us", "2000s"]
+
+tops = [
+  "A-Punk",
+  "This Life",
+  "Step",
+  "Oxford Comma",
+  "Campus",
+]
+
+links = [
+  { to = "arcade-fire", type = "similar" },
+  { to = "phoenix", type = "similar" },
+  { to = "foals", type = "similar" },
+  { to = "grizzly-bear", type = "similar" },
+]

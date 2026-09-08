@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Katerine"
+mbid = "47dc7440-7613-4b36-b5f5-39789e75c150"
+spotify = "61NKNrhSMTYg2q0f3vS46e"
+begin = "1968"
+origin = "Thouars"
+
+tags = ["pop", "singer-songwriter", "fr"]
+
+tops = [
+  "Je te donnerais",
+  "Louxor j'adore",
+  "La banane",
+  "Qu'est-ce que t'es beau",
+  "Ne partons pas fâchés",
+]
+
+links = [
+  { to = "arthur-h", type = "similar" },
+  { to = "m", type = "similar" },
+  { to = "brigitte-fontaine", type = "similar" },
+  { to = "miossec", type = "similar" },
+]

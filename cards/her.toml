@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Her"
+mbid = "85002755-85e7-484e-a831-dc47c27af2b3"
+spotify = "1T2WeXEi0XlZiPpjjDAY0L"
+begin = "2015"
+end = "2019"
+origin = "Rennes"
+
+tags = ["chanson-francaise", "indie-pop", "indietronica", "industrial", "fr", "2010s"]
+
+tops = [
+  "Five Minutes",
+  "Union",
+  "Five Minutes (Her Rework)",
+  "Blossom Roses",
+  "Quite Like",
+]
+
+links = [
+  { to = "isaac-delusion", type = "similar" },
+  { to = "metronomy", type = "similar" },
+  { to = "baxter-dury", type = "similar" },
+  { to = "the-xx", type = "similar" },
+]

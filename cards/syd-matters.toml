@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Syd Matters"
+mbid = "20e70b5b-42b8-44da-960b-3040a01223a3"
+spotify = "4kDmwaDsfY9hcvz7K0otLJ"
+begin = "2002"
+origin = "Paris"
+
+tags = ["indie-pop", "indie-rock", "fr", "2000s"]
+
+tops = [
+  "Armageddon Time",
+  "Choking on Anger",
+  "In the Darkness",
+  "Many Years in the Making",
+  "Easy",
+]
+
+links = [
+  { to = "cat-power", type = "similar" },
+  { to = "patrick-watson", type = "similar" },
+  { to = "soko", type = "similar" },
+  { to = "beirut", type = "similar" },
+]

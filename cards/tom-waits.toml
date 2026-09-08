@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Tom Waits"
+mbid = "c3aeb863-7b26-4388-94e8-5a240f2be21b"
+spotify = "7x83XhcMbOTl1UdYsPTuZM"
+begin = "1949"
+origin = "Pomona"
+
+tags = ["folk", "blues-rock", "experimental", "blues", "us"]
+
+tops = [
+  "Boots on the Ground",
+  "Ol' 55",
+  "I Hope That I Don't Fall In Love With You",
+  "Hold On",
+  "Blue Valentines",
+]
+
+links = [
+  { to = "bob-dylan", type = "similar" },
+  { to = "leonard-cohen", type = "similar" },
+  { to = "lou-reed", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+]

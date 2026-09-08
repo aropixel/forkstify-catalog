@@ -1,0 +1,26 @@
+format = 1
+generated = true
+name = "Lou Reed"
+mbid = "9d1ebcfe-4c15-4d18-95d3-d919898638a1"
+spotify = "42TFhl7WlMRXiNqzSrnzPL"
+begin = "1942"
+end = "2013"
+origin = "Brooklyn"
+
+tags = ["art-rock", "rock", "glam-rock", "hard-rock", "us"]
+
+tops = [
+  "Perfect Day",
+  "Satellite of Love",
+  "Vicious",
+  "Coney Island Baby",
+  "Dirty Blvd.",
+]
+
+links = [
+  { to = "the-velvet-underground", type = "member", note = "membre (1965–1970)" },
+  { to = "the-rolling-stones", type = "similar" },
+  { to = "david-bowie", type = "similar" },
+  { to = "t-rex", type = "similar" },
+  { to = "bob-dylan", type = "similar" },
+]

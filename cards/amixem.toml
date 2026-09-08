@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Amixem"
+mbid = "e28e9263-8c6e-40d4-a562-7b2fa9fc787b"
+spotify = "28FoMtJg9p3EOYc0NP2wh8"
+begin = "1991"
+origin = "Lyon"
+
+tags = ["fr"]
+
+tops = [
+  "The Forest",
+  "La chanson des commentaires",
+  "The Forest (Suray Sertin Remix)",
+  "The Forest (Glittr Remix)",
+]
+
+links = [
+  { to = "joyca", type = "similar" },
+  { to = "norman", type = "similar" },
+  { to = "squeezie", type = "similar" },
+  { to = "mcfly-and-carlito", type = "similar" },
+]

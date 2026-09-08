@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Wyclef Jean"
+mbid = "4f29ecd7-21a5-4c03-b9ba-d0cfe9488f8c"
+spotify = "7aBzpmFXB4WWpPl2F7RjBe"
+begin = "1969"
+origin = "Croix-des-Bouquets"
+
+tags = ["hip-hop", "r-and-b", "reggae", "us"]
+
+tops = [
+  "911 (feat. Mary J. Blige)",
+  "Sweetest Girl (Dollar Bill) (feat. Akon, Lil' Wayne & Niia)",
+  "Nou Pare",
+  "We Trying to Stay Alive (feat. John Forté & Pras)",
+  "Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita)",
+]
+
+links = [
+  { to = "fugees", type = "member" },
+  { to = "missy-elliott", type = "similar" },
+  { to = "snoop-dogg", type = "similar" },
+  { to = "busta-rhymes", type = "similar" },
+  { to = "outkast", type = "similar" },
+]

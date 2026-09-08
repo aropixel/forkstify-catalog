@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Palatine"
+mbid = "431bada9-5b28-4ac0-89e3-bb1df86318aa"
+spotify = "4eJdfmQbRaPDjYJ1JNgXTp"
+
+tags = ["folk", "indie-rock", "pop-rock", "fr"]
+
+tops = [
+  "Baton rouge",
+  "City of Light",
+  "Comme ce rouge me plaît",
+  "Grand paon de nuit",
+  "Jane Jane",
+]
+
+links = [
+  { to = "keren-ann", type = "similar" },
+  { to = "juniore", type = "similar" },
+  { to = "laurent-bardainne", type = "similar" },
+  { to = "jeanne-added", type = "similar" },
+]

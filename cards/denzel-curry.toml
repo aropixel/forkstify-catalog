@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Denzel Curry"
+mbid = "5f95440d-7737-4a36-9bcf-c05337f7129b"
+spotify = "6fxyWrfmjcbj5d12gXeiNV"
+begin = "1995"
+origin = "Carol City"
+
+tags = ["hip-hop", "trap", "conscious-hip-hop", "hardcore-hip-hop", "us"]
+
+tops = [
+  "Dynasties and Dystopia (from the series Arcane League of Legends)",
+  "Victory Lap Five",
+  "Walkin",
+  "Ultimate",
+  "GONE FISHING",
+]
+
+links = [
+  { to = "cordae", type = "similar" },
+  { to = "amine", type = "similar" },
+  { to = "kendrick-lamar", type = "similar" },
+  { to = "jack-harlow", type = "similar" },
+]

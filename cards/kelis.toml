@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Kelis"
+mbid = "1239d1bc-cc09-43e0-bcd0-374f60346138"
+spotify = "0IF46mUS8NXjgHabxk2MCM"
+begin = "1979"
+origin = "Manhattan"
+
+tags = ["contemporary-r-and-b", "electro-house", "electropop", "pop", "us"]
+
+tops = [
+  "Trick Me",
+  "Milkshake",
+  "Milkshake 20 (Alex Wann Remix)",
+  "Caught Out There (Single Radio Edit)",
+  "Millionaire",
+]
+
+links = [
+  { to = "missy-elliott", type = "similar" },
+  { to = "fabolous", type = "similar" },
+  { to = "destinys-child", type = "similar" },
+  { to = "jermaine-dupri", type = "similar" },
+]

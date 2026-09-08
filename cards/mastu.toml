@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Mastu"
+mbid = "f381f0a9-6056-4aff-b11e-cfc22cb3c7ad"
+spotify = "4V9vRZSqYVOgad1sDuDPHb"
+
+tags = ["cloud-rap", "fr"]
+
+tops = [
+  "Déprime",
+  "Balade à deux",
+  "Quotidien",
+  "Clash Assassins",
+  "Tsunami",
+]
+
+links = [
+  { to = "squeezie", type = "similar" },
+  { to = "joyca", type = "similar" },
+  { to = "orelsan", type = "similar" },
+  { to = "47ter", type = "similar" },
+]

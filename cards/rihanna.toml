@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Rihanna"
+mbid = "73e5e69d-3554-40d8-8516-00cb38737a1c"
+spotify = "5pKCCKE2ajJHZ9KAiaK11H"
+begin = "1988"
+origin = "Saint Michael"
+
+tags = ["pop", "r-and-b", "contemporary-r-and-b", "dance-pop", "us"]
+
+tops = [
+  "Don't Stop The Music",
+  "We Found Love (Album Version)",
+  "Stay",
+  "Umbrella",
+  "S&M",
+]
+
+links = [
+  { to = "beyonce", type = "similar" },
+  { to = "nelly-furtado", type = "similar" },
+  { to = "justin-timberlake", type = "similar" },
+  { to = "bruno-mars", type = "similar" },
+]

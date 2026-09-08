@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Charlotte Gainsbourg"
+mbid = "6efa29c6-9995-48e0-9eaf-3809464a39a7"
+spotify = "2rBcvLKWCZs9w1qIWv560v"
+begin = "1971"
+origin = "London"
+
+tags = ["indie-pop", "rock", "fr"]
+
+tops = [
+  "Deadly Valentine",
+  "If",
+  "Heaven Can Wait",
+  "Ring-A-Ring O' Roses",
+  "The Songs That We Sing",
+]
+
+links = [
+  { to = "serge-gainsbourg", type = "family" },
+  { to = "keren-ann", type = "similar" },
+  { to = "camille", type = "similar" },
+  { to = "yael-naim", type = "similar" },
+  { to = "the-d", type = "similar" },
+]

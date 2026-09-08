@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Amy Winehouse"
+mbid = "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3"
+spotify = "6Q192DXotxtaysaqNPy5yR"
+begin = "1983"
+end = "2011"
+origin = "Southgate"
+
+tags = ["soul", "contemporary-r-and-b", "jazz", "neo-soul", "uk"]
+
+tops = [
+  "Back To Black",
+  "Rehab",
+  "You Know I'm No Good",
+  "Valerie (Live At BBC Radio 1 Live Lounge, London / 2007)",
+  "Tears Dry On Their Own",
+]
+
+links = [
+  { to = "nina-simone", type = "similar" },
+  { to = "ray-charles", type = "similar" },
+  { to = "otis-redding", type = "similar" },
+  { to = "marvin-gaye", type = "similar" },
+]

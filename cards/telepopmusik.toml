@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Télépopmusik"
+mbid = "265f242e-cf4e-4fbe-a3fe-43112387172f"
+spotify = "3aKCo8gLJfuPYtr88aWKjF"
+begin = "1998"
+origin = "Paris"
+
+tags = ["downtempo", "electronic", "fr", "90s"]
+
+tops = [
+  "Breathe",
+  "Breathe (Kid Francescoli Remix)",
+  "Breathe (Kartell Slow Remix)",
+  "Don't Look Back",
+  "Smile",
+]
+
+links = [
+  { to = "air", type = "similar" },
+  { to = "kid-loco", type = "similar" },
+  { to = "massive-attack", type = "similar" },
+  { to = "the-cinematic-orchestra", type = "similar" },
+]

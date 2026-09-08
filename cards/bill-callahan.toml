@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Bill Callahan"
+mbid = "c309d914-93af-4b3f-8058-d79c75ea89da"
+spotify = "7gqsi6aBSkRMJoL9psKqMr"
+begin = "1966"
+origin = "Silver Spring"
+
+tags = ["americana", "indie-folk", "us"]
+
+tops = [
+  "The Breeze / My Baby Cries",
+  "Why Do Men Sing",
+  "The Man I’m Supposed to Be",
+  "Pathol O.G.",
+  "OD'd in Denver",
+]
+
+links = [
+  { to = "kevin-morby", type = "similar" },
+  { to = "jose-gonzalez", type = "similar" },
+  { to = "wilco", type = "similar" },
+]

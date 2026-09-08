@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Kodak Black"
+mbid = "5ec1ecc6-4535-4911-a27a-e26343f4a189"
+spotify = "46SHBwWsqBkxI7EeeBEQG7"
+begin = "1997"
+origin = "Pompano Beach"
+
+tags = ["hip-hop", "southern-hip-hop", "trap", "us"]
+
+tops = [
+  "ZEZE (feat. Travis Scott & Offset)",
+  "Wake Up in the Sky",
+  "Skrilla",
+  "Tunnel Vision",
+  "HVN ON EARTH",
+]
+
+links = [
+  { to = "young-thug", type = "similar" },
+  { to = "future", type = "similar" },
+  { to = "offset", type = "similar" },
+]

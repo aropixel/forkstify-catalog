@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Trei Degete"
+mbid = "a1182617-61f9-4f1b-98fe-b226113dc660"
+spotify = "1APMveRvLxWAB5AI0j11DD"
+begin = "2021"
+origin = "France"
+
+tags = ["fr", "2020s"]
+
+tops = [
+  "Time Time",
+  "Spaceship",
+]
+
+links = [
+  { to = "kronomuzik", type = "member" },
+  { to = "myd", type = "member" },
+  { to = "squeezie", type = "member" },
+  { to = "mcfly-and-carlito", type = "similar" },
+  { to = "norman", type = "similar" },
+  { to = "joyca", type = "similar" },
+  { to = "amixem", type = "similar" },
+]

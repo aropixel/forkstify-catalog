@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Kings of Leon"
+mbid = "6ffb8ea9-2370-44d8-b678-e9237bbd347b"
+spotify = "2qk9voo8llSGYcZ6xrBzKx"
+begin = "1999"
+origin = "Nashville"
+
+tags = ["alternative-rock", "indie-rock", "southern-rock", "garage-rock", "us", "90s"]
+
+tops = [
+  "Sex on Fire",
+  "Use Somebody",
+  "Find Me",
+  "Closer",
+  "Wait for Me",
+]
+
+links = [
+  { to = "the-black-keys", type = "similar" },
+  { to = "blur", type = "similar" },
+  { to = "nada-surf", type = "similar" },
+  { to = "weezer", type = "similar" },
+]

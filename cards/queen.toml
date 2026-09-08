@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Queen"
+mbid = "0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
+spotify = "1dfeR4HaWDbWqFHLkxsg1d"
+begin = "1970"
+origin = "London"
+
+tags = ["rock", "glam-rock", "hard-rock", "art-rock", "uk", "70s"]
+
+tops = [
+  "Bohemian Rhapsody",
+  "Don't Stop Me Now",
+  "Another One Bites The Dust",
+  "Under Pressure (feat. David Bowie)",
+  "The Show Must Go On",
+]
+
+links = [
+  { to = "the-rolling-stones", type = "similar" },
+  { to = "david-bowie", type = "similar" },
+  { to = "paul-mccartney", type = "similar" },
+  { to = "eagles", type = "similar" },
+]

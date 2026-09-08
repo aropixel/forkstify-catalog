@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "The Prodigy"
+mbid = "4a4ee089-93b1-4470-af9a-6ff575d32704"
+spotify = "4k1ELeJKT1ISyDv8JivPpB"
+begin = "1990"
+origin = "Braintree"
+
+tags = ["big-beat", "electronic", "breakbeat", "breakbeat-hardcore", "uk", "90s"]
+
+tops = [
+  "Firestarter",
+  "Smack My Bitch Up",
+  "Breathe",
+  "Voodoo People (Pendulum Mix)",
+  "No Good (Start the Dance)",
+]
+
+links = [
+  { to = "the-chemical-brothers", type = "similar" },
+  { to = "fatboy-slim", type = "similar" },
+  { to = "basement-jaxx", type = "similar" },
+]

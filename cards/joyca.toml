@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "JOYCA"
+mbid = "8436cbc4-5adf-416c-ab95-5a7c07eb1401"
+spotify = "5AqhBC5pt6b0WVpUAII1Ro"
+begin = "1995"
+origin = "Isère"
+
+tags = []
+
+tops = [
+  "Clash Assassins",
+  "Do the Most",
+  "Millionaire",
+  "Confinés",
+  "Wow Wow Wow",
+]
+
+links = [
+  { to = "squeezie", type = "similar" },
+  { to = "mastu", type = "similar" },
+  { to = "bigflo-and-oli", type = "similar" },
+  { to = "amixem", type = "similar" },
+]

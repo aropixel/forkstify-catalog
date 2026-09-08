@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "CSS"
+mbid = "23b58ea2-1cc3-468a-9e76-5027e196e851"
+spotify = "2K13AVg3bFpHSxDM1vJ0qA"
+begin = "2003"
+origin = "São Paulo"
+
+tags = ["indie-rock", "br", "2000s"]
+
+tops = [
+  "Buffalo Stance - InVersions 80s",
+  "Let's Make Love And Listen To Death From Above (Spank Rock Remix)",
+  "Hits Me Like A Rock",
+  "Alala",
+  "Rat Is Dead (Rage)",
+]
+
+links = [
+  { to = "lcd-soundsystem", type = "similar" },
+  { to = "the-rapture", type = "similar" },
+  { to = "stuck-in-the-sound", type = "similar" },
+]

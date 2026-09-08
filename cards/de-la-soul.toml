@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "De La Soul"
+mbid = "a8ebde98-7e91-46c7-992c-90039ba42017"
+spotify = "1Z8ODXyhEBi3WynYw0Rya6"
+begin = "1987"
+origin = "Amityville"
+
+tags = ["hip-hop", "jazz-rap", "conscious-hip-hop", "east-coast-hip-hop", "us", "80s"]
+
+tops = [
+  "Feel Good Inc.",
+  "It Runs Through Me (feat. De La Soul)",
+  "All Good?",
+  "All Good",
+  "Me Myself and I",
+]
+
+links = [
+  { to = "kendrick-lamar", type = "scene", note = "même époque et pays, genres proches : hip-hop, jazz-rap" },
+  { to = "cordae", type = "scene", note = "même époque et pays, genres proches : conscious-hip-hop, hip-hop, jazz-rap" },
+]

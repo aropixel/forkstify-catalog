@@ -1,0 +1,26 @@
+format = 1
+generated = true
+name = "France Gall"
+mbid = "385966f0-b912-4755-bad6-4780ebf3f4cd"
+spotify = "22HVxZPA6UhBp8wahxDA6I"
+begin = "1947"
+end = "2018"
+origin = "Paris"
+
+tags = ["pop", "ye-ye", "chanson-francaise", "disco", "fr"]
+
+tops = [
+  "Ella, elle l'a",
+  "Il jouait du piano debout",
+  "Résiste",
+  "La déclaration d'amour",
+  "Si maman si",
+]
+
+links = [
+  { to = "michel-berger", type = "family" },
+  { to = "laurent-voulzy", type = "similar" },
+  { to = "francis-cabrel", type = "similar" },
+  { to = "michel-fugain", type = "similar" },
+  { to = "francoise-hardy", type = "similar" },
+]

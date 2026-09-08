@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "L.E.J"
+mbid = "dba8b662-4d39-4881-9c87-d306183aac12"
+spotify = "7kKKMBmEtyQcPb9idicNr7"
+begin = "2013"
+origin = "Seine-Saint-Denis"
+
+tags = ["fr", "2010s"]
+
+tops = [
+  "L'hymne de nos campagnes 2019",
+  "Regarde-moi (feat. L.E.J)",
+  "Summer 2015",
+  "La dalle",
+  "Summer 2016 (Medley / Extended)",
+]
+
+links = [
+  { to = "eddy-de-pretto", type = "similar" },
+]

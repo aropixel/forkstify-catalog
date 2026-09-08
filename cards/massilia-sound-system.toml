@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Massilia Sound System"
+mbid = "4aa1d914-1a37-4076-8311-50484464da71"
+spotify = "6OQvEmzlyemB8CjQGgIKqr"
+begin = "1984"
+origin = "Marseille"
+
+tags = ["ragga-hip-hop", "reggae", "fr", "80s"]
+
+tops = [
+  "Dimanche Aux Goudes",
+  "Au Marché Du Soleil",
+  "Au café du canal",
+  "Toujours (Et Toujours)",
+  "Qu'elle Est Bleue",
+]
+
+links = [
+  { to = "spook-and-the-guay", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Primal Scream"
+mbid = "55704c38-224f-4b75-b29f-d43653f8bc9a"
+spotify = "3wury2nd8idV4GecUg5xze"
+begin = "1982"
+origin = "Glasgow"
+
+tags = ["alternative-rock", "alternative-dance", "electronic", "c86", "uk", "80s"]
+
+tops = [
+  "The Reckoning",
+  "Movin' on Up",
+  "Rocks",
+  "Loaded",
+  "Trainspotting",
+]
+
+links = [
+  { to = "pulp", type = "similar" },
+  { to = "blur", type = "similar" },
+  { to = "suede", type = "similar" },
+  { to = "pixies", type = "similar" },
+]

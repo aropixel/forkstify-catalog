@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Juniore"
+mbid = "92175c4d-293f-4794-bbe4-136e261256a6"
+spotify = "1vxsourLLLfobrxyWAcuQH"
+begin = "2013"
+origin = "Paris"
+
+tags = ["art-pop", "indie-pop", "pop", "psychedelic", "fr", "2010s"]
+
+tops = [
+  "Je fais le mort",
+  "Ah bah d'accord",
+  "La route",
+  "A la plage",
+  "Panique (Instrumental)",
+]
+
+links = [
+  { to = "la-femme", type = "similar" },
+  { to = "flavien-berger", type = "similar" },
+  { to = "lescop", type = "similar" },
+  { to = "jeanne-added", type = "similar" },
+]

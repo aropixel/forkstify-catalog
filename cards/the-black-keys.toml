@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Black Keys"
+mbid = "d15721d8-56b4-453d-b506-fc915b14cba2"
+spotify = "7mnBLXK823vNxN3UWB7Gfz"
+begin = "2001"
+origin = "Akron"
+
+tags = ["blues-rock", "rock", "blues", "garage-rock", "us", "2000s"]
+
+tops = [
+  "Lonely Boy",
+  "Howlin' for You",
+  "Gold on the Ceiling",
+  "Tighten Up",
+  "Little Black Submarines",
+]
+
+links = [
+  { to = "the-white-stripes", type = "similar" },
+  { to = "the-kills", type = "similar" },
+  { to = "kings-of-leon", type = "similar" },
+  { to = "the-dandy-warhols", type = "similar" },
+]

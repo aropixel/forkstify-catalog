@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Soulwax"
+mbid = "68ec1b08-3c2e-40b3-b0af-8f323743fdff"
+spotify = "43mWhBXSflupNLuNjM5vff"
+begin = "1993"
+origin = "Ghent"
+
+tags = ["indie-rock", "alternative-rock", "electronic", "dance-punk", "be", "90s"]
+
+tops = [
+  "Krack",
+  "E Talking",
+  "NY Lipps (Kawazaki Dub)",
+  "Run Free",
+  "NY Excuse (Justice Remi)",
+]
+
+links = [
+  { to = "the-chemical-brothers", type = "similar" },
+  { to = "lcd-soundsystem", type = "similar" },
+  { to = "rubin-steiner", type = "similar" },
+]

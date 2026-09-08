@@ -1,0 +1,19 @@
+format = 1
+generated = true
+name = "Ventre de Biche"
+mbid = "559642a5-6af5-47c3-9eb7-6b80a4909f97"
+spotify = "10h4G0Gi4q3gf92Tj6GljD"
+
+tags = ["electronic", "experimental", "fr"]
+
+tops = [
+  "Plus rien à faire",
+  "La vie est un long fleuve de merde",
+  "Un bon vigile",
+  "Les gens comme toi",
+  "Dernier réveil",
+]
+
+links = [
+  { to = "gwendoline", type = "similar" },
+]

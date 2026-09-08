@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "iann dior"
+mbid = "dd3b6e5b-de67-4d4d-aef2-3ad425444c80"
+spotify = "6ASri4ePR7RlsvIQgWPJpS"
+begin = "1998"
+origin = "Arecibo"
+
+tags = ["emo-rap", "hip-hop", "pop-rap", "trap", "us"]
+
+tops = [
+  "Mood (feat. iann dior)",
+  "Mood (Remix)",
+  "emotions",
+  "gone girl (feat. Trippie Redd)",
+  "shots in the dark",
+]
+
+links = [
+  { to = "24kgoldn", type = "similar" },
+  { to = "juice-wrld", type = "similar" },
+]

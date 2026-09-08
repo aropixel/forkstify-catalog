@@ -1,0 +1,26 @@
+format = 1
+generated = true
+name = "John Lennon"
+mbid = "4d5447d7-c61c-4120-ba1b-d7f471d385b9"
+spotify = "7wcH6naXfssACcXRregV1H"
+begin = "1940"
+end = "1980"
+origin = "Liverpool"
+
+tags = ["rock", "pop", "experimental", "singer-songwriter", "uk"]
+
+tops = [
+  "Imagine",
+  "Beautiful Boy (Darling Boy)",
+  "Jealous Guy",
+  "Woman",
+  "Instant Karma! (We All Shine On)",
+]
+
+links = [
+  { to = "the-beatles", type = "member", note = "membre (1960–1969)" },
+  { to = "paul-mccartney", type = "similar" },
+  { to = "bob-dylan", type = "similar" },
+  { to = "the-beach-boys", type = "similar" },
+  { to = "the-kinks", type = "similar" },
+]

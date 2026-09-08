@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Akhenaton"
+mbid = "55808e24-5150-4abd-b86b-7c3d7a080da3"
+spotify = "4ddg7PH5OuSossiSBWgueu"
+begin = "1968"
+origin = "Marseille"
+
+tags = ["hip-hop", "fr"]
+
+tops = [
+  "Je suis Marseille",
+  "Marche",
+  "L'Univers Ne Nous Voit Pas Danser",
+  "Bad Boys de Marseille",
+  "Le retour du shit squad (feat. Le 3ème Oeil, Faf Larage, K-Rhyme Le Roi, Freeman & Akhenaton)",
+]
+
+links = [
+  { to = "iam", type = "member" },
+]

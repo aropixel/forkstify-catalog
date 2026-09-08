@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Cordae"
+mbid = "994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2"
+spotify = "7HTof8FGoKM8jJei841NDg"
+begin = "1997"
+origin = "Raleigh"
+
+tags = ["hip-hop", "conscious-hip-hop", "jazz-rap", "neo-soul", "us"]
+
+tops = [
+  "RNP (feat. Anderson .Paak)",
+  "CAREFUL",
+  "Bad Idea (feat. Chance the Rapper)",
+  "Chronicles (feat. H.E.R. & Lil Durk)",
+  "Two Tens (feat. Anderson .Paak)",
+]
+
+links = [
+  { to = "amine", type = "similar" },
+  { to = "denzel-curry", type = "similar" },
+  { to = "jack-harlow", type = "similar" },
+]

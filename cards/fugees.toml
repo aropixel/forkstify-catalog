@@ -1,0 +1,26 @@
+format = 1
+generated = true
+name = "Fugees"
+mbid = "ea321799-9b1d-4e74-a074-a5facf597d82"
+spotify = "2WKdxPFRD7IqZvlIAvhMgY"
+begin = "1992"
+origin = "South Orange"
+
+tags = ["hip-hop", "alternative-hip-hop", "contemporary-r-and-b", "boom-bap", "us", "90s"]
+
+tops = [
+  "Killing Me Softly With His Song",
+  "Ready or Not",
+  "Fu-Gee-La",
+  "No Woman, No Cry (L.P. Version)",
+  "No Woman, No Cry",
+]
+
+links = [
+  { to = "ms-lauryn-hill", type = "member" },
+  { to = "wyclef-jean", type = "member" },
+  { to = "busta-rhymes", type = "similar" },
+  { to = "de-la-soul", type = "similar" },
+  { to = "ol-dirty-bastard", type = "similar" },
+  { to = "outkast", type = "similar" },
+]

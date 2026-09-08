@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "The Clash"
+mbid = "8f92558c-2baa-4758-8c38-615519e9deda"
+spotify = "3RGLhK1IP9jnYFH4BRFJBS"
+begin = "1976"
+end = "1986"
+origin = "London"
+
+tags = ["punk-rock", "dance-punk", "new-wave", "post-punk", "uk", "70s"]
+
+tops = [
+  "Should I Stay or Should I Go",
+  "London Calling",
+  "Rock the Casbah",
+  "The Magnificent Seven",
+  "I Fought the Law",
+]
+
+links = [
+  { to = "david-bowie", type = "similar" },
+  { to = "the-police", type = "similar" },
+  { to = "talking-heads", type = "similar" },
+  { to = "the-cure", type = "similar" },
+]

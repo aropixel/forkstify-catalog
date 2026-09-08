@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Beach Boys"
+mbid = "ebfc1398-8d96-47e3-82c3-f782abcdb13d"
+spotify = "3oDbviiivRWhXwIE8hxkVV"
+begin = "1961"
+origin = "Hawthorne"
+
+tags = ["surf-rock", "pop", "sunshine-pop", "pop-rock", "us", "60s"]
+
+tops = [
+  "Good Vibrations",
+  "Surfin' U.S.A.",
+  "I Get Around",
+  "Wouldn't It Be Nice",
+  "Kokomo",
+]
+
+links = [
+  { to = "the-beatles", type = "similar" },
+  { to = "the-kinks", type = "similar" },
+  { to = "donovan", type = "similar" },
+  { to = "the-zombies", type = "similar" },
+]

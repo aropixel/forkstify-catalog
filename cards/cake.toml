@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "CAKE"
+mbid = "fa7b9055-3703-473a-8a09-adf2fe031a24"
+spotify = "6A43Djmhbe9100UwnI7epV"
+begin = "1992"
+origin = "Sacramento"
+
+tags = ["alternative-rock", "indie-rock", "pop-rock", "funk-rock", "us", "90s"]
+
+tops = [
+  "I Will Survive",
+  "The Distance",
+  "Perhaps, Perhaps, Perhaps",
+  "Frank Sinatra",
+  "Long Jacket",
+]
+
+links = [
+  { to = "beck", type = "similar" },
+  { to = "pixies", type = "similar" },
+  { to = "nada-surf", type = "similar" },
+  { to = "blur", type = "similar" },
+]

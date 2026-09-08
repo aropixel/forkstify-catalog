@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Tindersticks"
+mbid = "4306a798-e2f8-4192-9a45-2fd41cdae60c"
+spotify = "3dmSPhg0tdao8ePj4pySJ5"
+begin = "1991"
+origin = "Nottingham"
+
+tags = ["chamber-pop", "indie-rock", "ambient", "art-rock", "uk", "90s"]
+
+tops = [
+  "Show Me Everything",
+  "Always a Stranger",
+  "Let's Pretend",
+  "Yesterdays Tomorrows",
+  "New World (Edit)",
+]
+
+links = [
+  { to = "cat-power", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+  { to = "timber-timbre", type = "similar" },
+  { to = "devendra-banhart", type = "similar" },
+]

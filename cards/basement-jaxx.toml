@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Basement Jaxx"
+mbid = "28cbf94d-0700-4095-a188-37e373b069a7"
+spotify = "4YrKBkKSVeqDamzBPWVnSJ"
+begin = "1994"
+origin = "Brixton"
+
+tags = ["dance", "electronic", "house", "big-beat", "uk", "90s"]
+
+tops = [
+  "where's my head at _",
+  "Where's Your Head At (Radio Edit)",
+  "Red Alert (Jaxx Radio Mix)",
+  "Romeo (Radio Edit)",
+  "Where's Your Head At",
+]
+
+links = [
+  { to = "fatboy-slim", type = "similar" },
+  { to = "the-chemical-brothers", type = "scene", note = "même époque et pays, genres proches : big-beat, electronic" },
+  { to = "the-prodigy", type = "scene", note = "même époque et pays, genres proches : big-beat, electronic" },
+]

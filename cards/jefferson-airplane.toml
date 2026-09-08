@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Jefferson Airplane"
+mbid = "39c2a93d-9afa-4a22-9bba-c087ab056e1c"
+spotify = "2qFr8w5sWUITRlzZ9kZotF"
+begin = "1965"
+end = "1973"
+origin = "San Francisco"
+
+tags = ["psychedelic-rock", "rock", "acid-rock", "folk-rock", "us", "60s"]
+
+tops = [
+  "White Rabbit",
+  "Somebody to Love",
+  "Today",
+  "High Flying Bird",
+  "Somebody to Love (Mono Single Version)",
+]
+
+links = [
+  { to = "the-kinks", type = "similar" },
+  { to = "donovan", type = "similar" },
+  { to = "love", type = "similar" },
+]

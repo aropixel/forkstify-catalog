@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Francis Cabrel"
+mbid = "9476ee3c-ede2-46e8-ae24-ce2db54b5df3"
+spotify = "5uo5NwSONVNfvSHHMQrHAv"
+begin = "1953"
+origin = "Agen"
+
+tags = ["chanson-francaise", "singer-songwriter", "fr"]
+
+tops = [
+  "Je t'aimais, je t'aime, je t'aimerai",
+  "La corrida",
+  "Encore et encore",
+  "Je l'aime à mourir",
+  "Petite Marie",
+]
+
+links = [
+  { to = "laurent-voulzy", type = "similar" },
+  { to = "france-gall", type = "similar" },
+  { to = "michel-berger", type = "similar" },
+]

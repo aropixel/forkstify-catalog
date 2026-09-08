@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Sebadoh"
+mbid = "d98c8149-0c01-4151-93e1-48fdc3d5027f"
+spotify = "2wrhBKGC3DTNNNDRJPaxW6"
+begin = "1986"
+origin = "Westfield"
+
+tags = ["indie-rock", "slacker-rock", "us", "80s"]
+
+tops = [
+  "On Fire",
+  "License to Confuse",
+  "Defend yr Self",
+  "Once",
+  "Oxygen",
+]
+
+links = [
+  { to = "pavement", type = "similar" },
+  { to = "sonic-youth", type = "similar" },
+  { to = "fugazi", type = "similar" },
+  { to = "neds-atomic-dustbin", type = "similar" },
+]

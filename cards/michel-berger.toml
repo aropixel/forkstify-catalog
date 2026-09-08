@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Michel Berger"
+mbid = "3c3f2d7e-95aa-4e3f-b431-0d9c3fb572cb"
+spotify = "5skauLarl8sqqUFypECtP4"
+begin = "1947"
+end = "1992"
+origin = "Neuilly-sur-Seine"
+
+tags = ["ballad", "chanson-francaise", "piano-rock", "pop", "fr"]
+
+tops = [
+  "La groupie du pianiste",
+  "Vivre",
+  "Le paradis blanc",
+  "Quelques mots d'amour",
+  "Chanter pour ceux qui sont loin de chez eux",
+]
+
+links = [
+  { to = "france-gall", type = "family" },
+  { to = "francis-cabrel", type = "similar" },
+  { to = "laurent-voulzy", type = "similar" },
+  { to = "michel-fugain", type = "similar" },
+]

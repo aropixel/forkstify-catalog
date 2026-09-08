@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Love"
+mbid = "34ec9a8d-c65b-48fd-bcdd-aad2f72fdb47"
+spotify = "3Q6OOkfssqoMSTtl11J5Uk"
+begin = "1965"
+end = "2005"
+origin = "Los Angeles"
+
+tags = ["garage-rock", "psychedelic-pop", "psychedelic-rock", "folk-rock", "us", "60s"]
+
+tops = [
+  "Everybody's Gotta Live",
+  "Alone Again Or",
+  "Always See Your Face",
+  "Maybe the People Would Be the Times or Between Clark and Hilldale",
+  "Andmoreagain",
+]
+
+links = [
+  { to = "donovan", type = "similar" },
+  { to = "the-kinks", type = "similar" },
+  { to = "jefferson-airplane", type = "similar" },
+  { to = "the-zombies", type = "similar" },
+]

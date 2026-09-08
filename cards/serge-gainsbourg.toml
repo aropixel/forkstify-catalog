@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Serge Gainsbourg"
+mbid = "b21ef19b-c6aa-4775-90d3-3cc3e067ce6d"
+spotify = "01C9OoXDvCKkGcf735Tcfo"
+begin = "1928"
+end = "1991"
+origin = "Paris"
+
+tags = ["reggae", "jazz", "chanson-francaise", "rock", "fr"]
+
+tops = [
+  "Je suis venu te dire que je m'en vais",
+  "La javanaise",
+  "Comme un boomerang",
+  "Initials B.B.",
+  "Sea, Sex And Sun",
+]
+
+links = [
+  { to = "charlotte-gainsbourg", type = "family" },
+  { to = "francoise-hardy", type = "similar" },
+  { to = "georges-brassens", type = "similar" },
+  { to = "georges-moustaki", type = "similar" },
+]
