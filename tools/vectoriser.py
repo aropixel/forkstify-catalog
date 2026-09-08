@@ -11,9 +11,9 @@ Nécessite fastembed — à lancer dans un conteneur :
     -e FASTEMBED_CACHE_PATH=/catalogue/tools/cache/fastembed \
     python:3.12-slim \
     bash -c "pip install -q fastembed && python tools/vectoriser.py \
-             && chown -R $(id -u):$(id -g) vecteurs tools/cache/fastembed"
+             && chown -R $(id -u):$(id -g) vectors tools/cache/fastembed"
 
-Écrit vectors/vecteurs.jsonl (une ligne par artiste, triée par slug) et
+Écrit vectors/vectors.jsonl (une ligne par artiste, triée par slug) et
 vectors/meta.toml (modèle, dimensions, date). Avec --textes, affiche les
 textes composés sans vectoriser (aucune dépendance, utile pour relire).
 """
@@ -25,8 +25,8 @@ import sys
 import tomllib
 
 RACINE = pathlib.Path(__file__).resolve().parent.parent
-FICHES = RACINE / "fiches"
-VECTEURS = RACINE / "vecteurs"
+FICHES = RACINE / "cards"
+VECTEURS = RACINE / "vectors"
 
 # Multilingue (nos textes mêlent français et anglais), 384 dimensions,
 # ~220 Mo, supporté par fastembed en Python comme en Rust.
@@ -133,7 +133,7 @@ def main():
     vecteurs = modele.embed([PREFIXE + textes[s] for s in slugs])
 
     VECTEURS.mkdir(exist_ok=True)
-    with open(VECTEURS / "vecteurs.jsonl", "w") as sortie:
+    with open(VECTEURS / "vectors.jsonl", "w") as sortie:
         for slug, v in zip(slugs, vecteurs):
             ligne = {"slug": slug, "v": [round(float(x), 6) for x in v]}
             sortie.write(json.dumps(ligne, ensure_ascii=False) + "\n")
@@ -146,7 +146,7 @@ def main():
         f'date = "{datetime.date.today().isoformat()}"\n'
         f"fiches = {len(slugs)}\n"
     )
-    print(f"{len(slugs)} vecteurs écrits dans vectors/vecteurs.jsonl")
+    print(f"{len(slugs)} vecteurs écrits dans vectors/vectors.jsonl")
 
 
 if __name__ == "__main__":

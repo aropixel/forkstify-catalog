@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Génère des fiches TOML (marquées `generated`) depuis MusicBrainz et Deezer.
 
-Usage : generer-fiches.py [slug ...]
+Usage : generate-cards.py [slug ...]
 Sans argument : tous les slugs appelés par les links des fiches existantes
 et qui n'ont pas encore de fiche (le « lot suivant »).
 
@@ -19,7 +19,7 @@ except ImportError:
     sys.exit("Python ≥ 3.11 requis (tomllib)")
 
 RACINE = Path(__file__).resolve().parent.parent
-FICHES = RACINE / "fiches"
+FICHES = RACINE / "cards"
 LEARNED = RACINE / "learned"
 CACHE = Path(__file__).resolve().parent / "cache"
 CACHE.mkdir(exist_ok=True)
