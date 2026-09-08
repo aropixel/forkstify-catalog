@@ -8,7 +8,13 @@ origin = "Nantes"
 
 tags = ["rap-francais", "electronique", "chanson", "fr", "2010s"]
 
-tops = [] # à remplir à la relecture — tops non connus avec certitude
+tops = [
+  "Cent fois",
+  "Bouche",
+  "Oui",
+  "Polaroïd",
+  "Un deux trois",
+]
 
 links = [
   { to = "odezenne", type = "similar", note = "rap-chanson électronique, même génération" },
