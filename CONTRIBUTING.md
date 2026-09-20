@@ -36,16 +36,18 @@ On every pull request, `forkstify validate` runs on the whole catalog:
   not a mistake), and its type is one of `member`, `collab`, `similar`,
   `family`, `scene`, `influence`, or a type `catalog.toml` declares.
 
-After a merge, the action regenerates `vectors/` and commits it. Never
-include the index in a proposal.
+After a merge — by the action or by hand — the action regenerates
+`vectors/` and commits it. Never include the index in a proposal.
 
 ## How a proposal is read
 
-- **Generated cards only** (every new card has `generated = true`, no
-  existing card touched): a glance at the names and the mbids — the one
-  thing the action cannot see is a homonym resolved to the wrong artist —
-  then merged as soon as the action is green.
-- **Edited cards**: read.
+- **New cards only** (cards added, nothing edited, nothing removed): the
+  action **merges it on its own** as soon as the check is green, says so
+  in a comment, and regenerates the index on `main`. Nobody reads a
+  generated card before it enters; the one thing the check cannot see —
+  a homonym resolved to the wrong artist — is fixed afterwards, by an
+  edit, like any mistake in a card.
+- **Edited cards**: read by a maintainer.
   - Facts — `member`, `collab`, `family` links, a corrected `mbid` or
     Spotify id, a date, an origin — are taken.
   - A `similar` link is taken when it carries its note of provenance

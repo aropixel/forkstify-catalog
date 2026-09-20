@@ -1,0 +1,88 @@
+# Additions merge on their own (Joel, 20/09/2026): a pull request that only
+# ADDS cards — nothing edited, nothing removed, nothing outside cards/ —
+# is merged by the action as soon as `check` is green, and the index is
+# regenerated right after. A pull request that touches an existing card
+# waits for a reader (CONTRIBUTING.md).
+#
+# Why a second workflow on `workflow_run`: on a pull request from a fork,
+# the token of the `catalog` workflow is read-only; this one runs in the
+# reference's own context, with the right to merge. And a push made with
+# that token starts no other workflow, so the index is regenerated here,
+# not by the `index` job of `catalog` (which still serves merges by hand).
+name: automerge
+
+on:
+  workflow_run:
+    workflows: [catalog]
+    types: [completed]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: automerge
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    if: github.event.workflow_run.event == 'pull_request' && github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - name: the pull request behind the green check, and what it changes
+        id: pr
+        env:
+          GH_TOKEN: ${{ github.token }}
+          SHA: ${{ github.event.workflow_run.head_sha }}
+        run: |
+          number="$(gh api "repos/$GITHUB_REPOSITORY/commits/$SHA/pulls" --jq '[.[] | select(.state == "open")][0].number // empty')"
+          if [ -z "$number" ]; then
+            echo "no open pull request for $SHA"
+            exit 0
+          fi
+          files="$(gh api "repos/$GITHUB_REPOSITORY/pulls/$number/files" --paginate --jq '.[] | "\(.status) \(.filename)"')"
+          echo "$files"
+          if [ -z "$files" ] || echo "$files" | grep -vqE '^added cards/[^/]+\.toml$'; then
+            echo "not additions only — a reader decides (#$number)"
+            exit 0
+          fi
+          count="$(echo "$files" | wc -l | tr -d ' ')"
+          echo "number=$number" >> "$GITHUB_OUTPUT"
+          echo "count=$count" >> "$GITHUB_OUTPUT"
+      - name: merge
+        if: steps.pr.outputs.number != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ steps.pr.outputs.number }}
+          COUNT: ${{ steps.pr.outputs.count }}
+        run: |
+          gh pr comment "$NUMBER" --repo "$GITHUB_REPOSITORY" --body "Merged by the action: $COUNT new card(s), nothing edited, the check green. The index is regenerated on main right after."
+          gh pr merge "$NUMBER" --repo "$GITHUB_REPOSITORY" --merge
+      - uses: actions/checkout@v4
+        if: steps.pr.outputs.number != ''
+        with:
+          ref: main
+      - uses: ./.github/actions/forkstify
+        if: steps.pr.outputs.number != ''
+        with:
+          token: ${{ secrets.FORKSTIFY_TOKEN || github.token }}
+      - name: the embedding model
+        if: steps.pr.outputs.number != ''
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/forkstify/fastembed
+          key: fastembed-paraphrase-multilingual-MiniLM-L12-v2
+      - name: forkstify vectors, committed
+        if: steps.pr.outputs.number != ''
+        run: |
+          git pull -q --rebase
+          app/target/release/forkstify vectors .
+          if [ -z "$(git status --porcelain vectors)" ]; then
+            echo "index unchanged"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add vectors
+          git commit -q -m "Index regenerated after the merge" -m "Forkstify: index (action)"
+          git push
