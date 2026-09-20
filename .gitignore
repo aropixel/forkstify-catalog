@@ -1,3 +1,1 @@
-__pycache__/
-*.pyc
-tools/cache/
+# nothing to ignore: the catalog is text, and forkstify writes it
