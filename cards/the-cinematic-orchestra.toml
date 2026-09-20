@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Cinematic Orchestra"
+mbid = "7c158ea8-c0aa-410e-bdc1-20bba9759577"
+spotify = "32ogthv0BdaSMPml02X9YB"
+begin = "1997"
+origin = "London"
+
+tags = ["jazz", "nu-jazz", "chillout", "downtempo", "uk", "90s"]
+
+tops = [
+  "That Home",
+  "To Build A Home (Radio Version)",
+  "A Caged Bird/Imitations of Life",
+  "All Things To All Men",
+  "Breathe",
+]
+
+links = [
+  { to = "morcheeba", type = "similar" },
+  { to = "thievery-corporation", type = "similar" },
+  { to = "zero-7", type = "similar" },
+  { to = "nitin-sawhney", type = "similar" },
+]

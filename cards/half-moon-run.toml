@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Half Moon Run"
+mbid = "b48e0b4e-587b-4fb4-9706-78dfd1a5ea92"
+spotify = "3ceQN2NVlLg1hgTzljDE4n"
+begin = "2010"
+origin = "Montréal"
+
+tags = ["indie-folk", "indie-pop", "indie-rock", "ca", "2010s"]
+
+tops = [
+  "Full Circle",
+  "Fire Escape",
+  "Loose Ends",
+  "Need It",
+  "Give Up",
+]
+
+links = [
+  { to = "the-national", type = "similar" },
+  { to = "beirut", type = "similar" },
+  { to = "local-natives", type = "similar" },
+  { to = "alt-j", type = "similar" },
+]

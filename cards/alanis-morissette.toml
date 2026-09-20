@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Alanis Morissette"
+mbid = "4bdcee62-4902-4773-8cd1-e252e2e31225"
+spotify = "6ogn9necmbUdCppmNnGOdi"
+begin = "1974"
+origin = "Ottawa"
+
+tags = ["alternative-rock", "post-grunge", "pop-rock", "singer-songwriter", "ca"]
+
+tops = [
+  "Ironic",
+  "Hand in My Pocket",
+  "Thank You",
+  "You Oughta Know",
+  "Reasons I Drink",
+]
+
+links = [
+  { to = "the-cranberries", type = "similar" },
+  { to = "u2", type = "similar" },
+  { to = "sheryl-crow", type = "similar" },
+  { to = "keane", type = "similar" },
+]

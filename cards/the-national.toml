@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The National"
+mbid = "664c3e0e-42d8-48c1-b209-1efca19c0325"
+spotify = "2cCUtGK9sDU2EoElnk0GNB"
+begin = "1999"
+origin = "Brooklyn"
+
+tags = ["indie-rock", "alternative-rock", "chamber-pop", "post-punk-revival", "us", "90s"]
+
+tops = [
+  "I Need My Girl",
+  "About Today",
+  "Fake Empire",
+  "Light Years",
+  "The Alcott (feat. Taylor Swift)",
+]
+
+links = [
+  { to = "half-moon-run", type = "similar" },
+  { to = "sharon-van-etten", type = "similar" },
+  { to = "band-of-horses", type = "similar" },
+  { to = "the-shins", type = "similar" },
+]

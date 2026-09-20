@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Georges Brassens"
+mbid = "b58165ba-ac55-49a1-8855-caf16c68f5f2"
+spotify = "5UWyW1PcEM8coxeqg3RIHr"
+begin = "1921"
+end = "1981"
+origin = "Sète"
+
+tags = ["chanson-francaise", "chanson-a-texte", "poetry", "singer-songwriter", "fr"]
+
+tops = [
+  "Les copains d'abord",
+  "Les passantes",
+  "L'orage",
+  "Supplique pour être enterré à la plage de Sète",
+  "La Mauvaise Réputation",
+]
+
+links = [
+  { to = "jacques-brel", type = "similar" },
+  { to = "georges-moustaki", type = "similar" },
+  { to = "serge-gainsbourg", type = "similar" },
+]

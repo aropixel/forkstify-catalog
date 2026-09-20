@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Al Green"
+mbid = "fb7272ba-f130-4f0a-934d-6eeea4c18c9a"
+spotify = "3dkbV4qihUeMsqN4vBGg93"
+begin = "1946"
+origin = "Forrest City"
+
+tags = ["soul", "smooth-soul", "gospel", "southern-soul", "us"]
+
+tops = [
+  "Let's Stay Together",
+  "Love and Happiness",
+  "Tired of Being Alone",
+  "How Can You Mend a Broken Heart",
+  "Lets Stay Together",
+]
+
+links = [
+  { to = "marvin-gaye", type = "similar" },
+  { to = "donny-hathaway", type = "similar" },
+  { to = "aretha-franklin", type = "similar" },
+  { to = "bobby-womack", type = "similar" },
+]

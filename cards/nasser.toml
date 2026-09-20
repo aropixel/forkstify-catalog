@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Nasser"
+mbid = "e578ca1c-e1e5-4916-962c-06bacd2bc69f"
+
+tags = ["fr"]
+
+tops = [
+  "Chaos A.D",
+  "Listeners",
+  "The End",
+  "Love",
+  "The Shooter",
+]
+
+links = [
+  { to = "rubin-steiner", type = "similar" },
+  { to = "the-shoes", type = "similar" },
+  { to = "digitalism", type = "similar" },
+  { to = "the-toxic-avenger", type = "similar" },
+]

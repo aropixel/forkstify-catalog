@@ -1,0 +1,21 @@
+format = 1
+generated = true
+name = "Dyablo"
+mbid = "35844999-6006-48d0-a414-22e9940ee2ec"
+
+tags = []
+
+tops = [
+  "El Imperio",
+  "Pecado Mortal",
+  "El Juego de la Vida",
+  "Toque de Guerra!!!",
+  "City of Tha Padres",
+]
+
+links = [
+  { to = "akwid", type = "similar" },
+  { to = "jae-p", type = "similar" },
+  { to = "kinto-sol", type = "similar" },
+  { to = "kartel-de-las-calles", type = "similar" },
+]

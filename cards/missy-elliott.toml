@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Missy Elliott"
+mbid = "a0b8cb9e-7532-45fe-a74c-30e7c4009a39"
+spotify = "2wIVse2owClT7go1WT98tk"
+begin = "1971"
+origin = "Portsmouth"
+
+tags = ["hip-hop", "pop-rap", "southern-hip-hop", "contemporary-r-and-b", "us"]
+
+tops = [
+  "Get Ur Freak On",
+  "All N My Grill (feat. Big Boi of Outkast & Nicole)",
+  "One Minute Man (feat. Ludacris)",
+  "Work It",
+  "RATATA",
+]
+
+links = [
+  { to = "lil-kim", type = "similar" },
+  { to = "eve", type = "similar" },
+  { to = "ll-cool-j", type = "similar" },
+  { to = "mase", type = "similar" },
+]

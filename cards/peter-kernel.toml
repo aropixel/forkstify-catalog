@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Peter Kernel"
+mbid = "f52633aa-7453-4407-9fe6-5263e366b0a7"
+spotify = "6ALx4lIQ20HZJ8R13q8xLa"
+begin = "2005"
+
+tags = ["ch", "2000s"]
+
+tops = [
+  "Heartbreak",
+  "Men of the Women",
+  "High Fever",
+  "Bravo",
+  "There's Nothing Like You",
+]
+
+links = [
+  { to = "bodega", type = "similar" },
+  { to = "viagra-boys", type = "similar" },
+  { to = "fat-white-family", type = "similar" },
+  { to = "sleaford-mods", type = "similar" },
+]

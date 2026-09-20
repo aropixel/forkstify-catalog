@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Rodriguez"
+mbid = "8898cd01-b0c5-41bd-9699-0845fc73efc1"
+spotify = "5PrHzxc3kFm4hIrGNmelpX"
+begin = "1942"
+end = "2023"
+origin = "Detroit"
+
+tags = ["folk-rock", "psychedelic-folk", "psychedelic-rock", "us"]
+
+tops = [
+  "Sugar Man",
+  "Crucify Your Mind",
+  "I Wonder",
+  "Rich Folks Hoax",
+  "Hate Street Dialogue",
+]
+
+links = [
+  { to = "bob-dylan", type = "similar" },
+  { to = "neil-young", type = "similar" },
+  { to = "tim-buckley", type = "similar" },
+  { to = "lou-reed", type = "similar" },
+]

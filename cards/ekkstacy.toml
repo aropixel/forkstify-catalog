@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "EKKSTACY"
+mbid = "e897ca8f-03ff-4405-9cf2-c71ab2950ddb"
+spotify = "0ynzbXwyCzxicMKHBoOkSH"
+begin = "2002"
+origin = "Vancouver"
+
+tags = ["indie-pop", "indie-rock", "new-wave", "ca"]
+
+tops = [
+  "i walk this earth all by myself",
+  "alright (feat. The Kid LAROI)",
+  "im so happy",
+  "Bloody Eyes",
+  "i just want to hide my face",
+]
+
+links = [
+  { to = "eyedress", type = "similar" },
+  { to = "acid-ghost", type = "similar" },
+  { to = "yot-club", type = "similar" },
+  { to = "surf-curse", type = "similar" },
+]

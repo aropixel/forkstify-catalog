@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Shoes"
+mbid = "d6ae350f-a837-44ad-be5d-d24e3964cd03"
+begin = "1974"
+origin = "Zion"
+
+tags = ["rock", "power-pop", "us", "70s"]
+
+tops = [
+  "I Don't Wanna Hear It",
+  "Tomorrow Night",
+  "Your Very Eyes",
+  "Too Late",
+  "Now and Then",
+]
+
+links = [
+  { to = "paul-collins", type = "similar" },
+  { to = "the-clash", type = "similar" },
+  { to = "the-jam", type = "similar" },
+  { to = "the-undertones", type = "similar" },
+]

@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Caballeros del Plan G"
+mbid = "71fcb9c3-92a2-4cae-a7b4-7edb1e671367"
+spotify = "568lw0anJJJnjTXII3gHaf"
+begin = "1998"
+
+tags = ["mx", "90s"]
+
+tops = [
+  "Tú",
+  "Juguetes",
+  "Eme Ces Infalsificables",
+  "Caballeros del Plan G (Extended)",
+  "Para Mi",
+]
+
+links = [
+  { to = "control-machete", type = "similar" },
+  { to = "akwid", type = "similar" },
+  { to = "kinto-sol", type = "similar" },
+  { to = "tankeone", type = "similar" },
+]

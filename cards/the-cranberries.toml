@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "The Cranberries"
+mbid = "c98d40fd-f6cf-4b26-883e-eaa515ee2851"
+spotify = "7t0rwkOPGlDPEhaOcVtOt9"
+begin = "1989"
+end = "2019"
+origin = "Limerick"
+
+tags = ["alternative-rock", "rock", "pop-rock", "dream-pop", "ie", "80s"]
+
+tops = [
+  "Zombie",
+  "Ode To My Family",
+  "Linger",
+  "Dreams",
+  "Just My Imagination",
+]
+
+links = [
+  { to = "u2", type = "similar" },
+  { to = "r-e-m", type = "similar" },
+  { to = "alanis-morissette", type = "similar" },
+  { to = "oasis", type = "similar" },
+]

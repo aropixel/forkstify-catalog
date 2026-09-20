@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Stevie Wonder"
+mbid = "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e"
+spotify = "7guDJrEfX3qb6FEbdPA5qi"
+begin = "1950"
+origin = "Saginaw"
+
+tags = ["soul", "contemporary-r-and-b", "funk", "pop", "us"]
+
+tops = [
+  "Part-Time Lover",
+  "Superstition",
+  "I Just Called To Say I Love You",
+  "Isn't She Lovely",
+  "Master Blaster (Jammin')",
+]
+
+links = [
+  { to = "marvin-gaye", type = "similar" },
+  { to = "the-temptations", type = "similar" },
+  { to = "aretha-franklin", type = "similar" },
+  { to = "james-brown", type = "similar" },
+]

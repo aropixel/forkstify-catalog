@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Otis Redding"
+mbid = "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751"
+spotify = "60df5JBRRPcnSpsIMxxwQm"
+begin = "1941"
+end = "1967"
+origin = "Dawson"
+
+tags = ["soul", "deep-soul", "southern-soul", "r-and-b", "us"]
+
+tops = [
+  "(Sittin' On) the Dock of the Bay",
+  "My Girl",
+  "I've Been Loving You Too Long (Mono)",
+  "These Arms of Mine",
+  "Stand by Me",
+]
+
+links = [
+  { to = "aretha-franklin", type = "similar" },
+  { to = "solomon-burke", type = "similar" },
+  { to = "wilson-pickett", type = "similar" },
+  { to = "james-brown", type = "similar" },
+]

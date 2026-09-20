@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Kid Loco"
+mbid = "8027281d-79e4-4ddc-a8a7-6e6bf9254ad3"
+spotify = "1ViF5mdcW7pEn7md71YjOL"
+begin = "1964"
+origin = "Antony"
+
+tags = ["acid-jazz", "downtempo", "trip-hop", "turntablism", "fr"]
+
+tops = [
+  "The Passenger",
+  "A grand love theme",
+  "Relaxin' with cherry",
+  "She's my lover",
+  "Here come the munchies",
+]
+
+links = [
+  { to = "nightmares-on-wax", type = "similar" },
+  { to = "thievery-corporation", type = "similar" },
+  { to = "tosca", type = "similar" },
+  { to = "dj-cam", type = "similar" },
+]

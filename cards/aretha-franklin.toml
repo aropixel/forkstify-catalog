@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Aretha Franklin"
+mbid = "2f9ecbed-27be-40e6-abca-6de49d50299e"
+spotify = "7nwUJBm0HE4ZxD3f5cy5ok"
+begin = "1942"
+end = "2018"
+origin = "Memphis"
+
+tags = ["soul", "gospel", "deep-soul", "southern-soul", "us"]
+
+tops = [
+  "Respect",
+  "I Say a Little Prayer",
+  "Think",
+  "(You Make Me Feel Like) A Natural Woman",
+  "(You Make Me Feel Like) a Natural Woman [with the Royal Philharmonic Orchestra]",
+]
+
+links = [
+  { to = "james-brown", type = "similar" },
+  { to = "etta-james", type = "similar" },
+  { to = "marvin-gaye", type = "similar" },
+  { to = "otis-redding", type = "similar" },
+]
