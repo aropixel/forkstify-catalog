@@ -1,0 +1,26 @@
+# Build forkstify from its repository, into app/target/release/forkstify.
+# Cached: the cargo registry and the build, so a run after the first takes
+# a minute rather than ten. The alsa headers are what librespot links.
+name: build forkstify
+description: forkstify, built from aropixel/forkstify, at app/target/release/forkstify
+inputs:
+  token:
+    description: a token that can read aropixel/forkstify
+    required: true
+runs:
+  using: composite
+  steps:
+    - uses: actions/checkout@v4
+      with:
+        repository: aropixel/forkstify
+        token: ${{ inputs.token }}
+        path: app
+    - name: alsa headers
+      shell: bash
+      run: sudo apt-get update -q && sudo apt-get install -y -q --no-install-recommends libasound2-dev pkg-config
+    - uses: Swatinem/rust-cache@v2
+      with:
+        workspaces: app
+    - name: cargo build
+      shell: bash
+      run: cargo build --release --locked --manifest-path app/Cargo.toml

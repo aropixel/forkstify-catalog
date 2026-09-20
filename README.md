@@ -10,3 +10,6 @@ commite. Ses tops de The Cure ne sont pas ceux de tout le monde.
 
 Le format des fiches est décrit dans le dépôt de l'application,
 `docs/conception/catalogue.md`, en attendant sa spécification ici.
+
+**Contributing** — how a proposal is made from forkstify, what the action
+checks, how it is read: [`CONTRIBUTING.md`](CONTRIBUTING.md).
