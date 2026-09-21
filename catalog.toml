@@ -1,9 +1,9 @@
 format = 1
 name = "forkstify"
-description = "Catalogue de référence de forkstify — une fiche TOML par artiste."
+description = "forkstify's reference catalog — one TOML card per artist."
 
-# Proximité par défaut de chaque type de lien (1 = écho lointain, 5 = quasi le même univers).
-# C'est un réglage de TON algorithme : modifie, commite.
+# Default proximity of each link type (1 = a distant echo, 5 = almost the
+# same universe). This is a setting of YOUR algorithm: change it, commit it.
 [proximity]
 member = 5
 collab = 4

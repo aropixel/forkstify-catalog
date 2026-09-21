@@ -1,15 +1,16 @@
 # forkstify-catalog
 
-Le catalogue de référence de [forkstify](../forkstify) : une fiche TOML par
-artiste — description, tags, tops, portes, connexions. C'est la matière
-première du moteur de branches.
+The reference catalog of [forkstify](https://github.com/aropixel/forkstify):
+one TOML card per artist — description, tags, tops, doors, links. It is the
+raw material the branch engine works from.
 
-Ce dépôt est fait pour être **forké** : on le clone, on le déclare comme
-catalogue actif dans forkstify, on modifie les fiches à son goût et on
-commite. Ses tops de The Cure ne sont pas ceux de tout le monde.
+This repository is made to be **forked**: clone it, declare it the active
+catalog in forkstify, bend the cards to your taste and commit. Its top
+tracks for The Cure are not everyone's.
 
-Le format des fiches est décrit dans le dépôt de l'application,
-`docs/conception/catalogue.md`, en attendant sa spécification ici.
+The card format is described in the application's repository,
+[`docs/design/catalog.md`](https://github.com/aropixel/forkstify/blob/main/docs/design/catalog.md),
+until it is specified here.
 
 **Contributing** — how a proposal is made from forkstify, what the action
 checks, how it is read: [`CONTRIBUTING.md`](CONTRIBUTING.md).
