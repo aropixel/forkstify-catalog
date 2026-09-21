@@ -19,7 +19,10 @@ on:
     branches: [main]
   push:
     branches: [main]
-    paths: ["cards/**", "catalog.toml"]
+    # cards only: catalog.toml holds the proximity grid, which the engine
+    # reads and the embedding never does — a comment changed there used to
+    # regenerate the whole index for nothing (2026-09-21)
+    paths: ["cards/**"]
 
 concurrency:
   group: catalog-${{ github.ref }}
