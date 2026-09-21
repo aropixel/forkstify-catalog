@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "SoKo"
+mbid = "02e3d15f-4f86-41b7-b4c2-9ba2ec98af83"
+spotify = "4Q3f2YYH4gQxWFS3WY5G3j"
+begin = "1985"
+origin = "Bordeaux"
+
+tags = ["folk-pop", "indie-pop", "indietronica", "new-wave", "fr"]
+
+tops = [
+  "We Might Be Dead By Tomorrow",
+  "Diabolo menthe",
+  "First Love Never Die",
+  "I Thought I Was An Alien",
+  "Blasphémie",
+]
+
+links = [
+  { to = "syd-matters", type = "similar" },
+  { to = "patrick-watson", type = "similar" },
+  { to = "tamino", type = "similar" },
+  { to = "grizzly-bear", type = "similar" },
+]

@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "R.E.M."
+mbid = "ea4dfa26-f633-4da6-a52a-f49ea4897b58"
+spotify = "4KWTAlx2RvbpseOGMEmROg"
+begin = "1980"
+end = "2011"
+origin = "Athens"
+
+tags = ["alternative-rock", "jangle-pop", "pop-rock", "rock", "us", "80s"]
+
+tops = [
+  "Losing My Religion",
+  "Shiny Happy People",
+  "The One I Love",
+  "Drive",
+  "Man On The Moon",
+]
+
+links = [
+  { to = "u2", type = "similar" },
+  { to = "the-cranberries", type = "similar" },
+  { to = "david-bowie", type = "similar" },
+  { to = "iggy-pop", type = "similar" },
+]

@@ -1,0 +1,26 @@
+format = 1
+generated = true
+name = "The Smiths"
+mbid = "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27"
+spotify = "3yY2gUcIsjMr8hjo51PoJ8"
+begin = "1982"
+end = "1987"
+origin = "Manchester"
+
+tags = ["jangle-pop", "indie-pop", "post-punk", "indie-rock", "uk", "80s"]
+
+tops = [
+  "There Is a Light That Never Goes Out",
+  "Back to the Old House",
+  "Bigmouth Strikes Again",
+  "This Charming Man",
+  "Heaven Knows I'm Miserable Now",
+]
+
+links = [
+  { to = "morrissey", type = "member", note = "member (1982–1987)" },
+  { to = "the-cure", type = "similar" },
+  { to = "new-order", type = "similar" },
+  { to = "echo-and-the-bunnymen", type = "similar" },
+  { to = "the-jesus-and-mary-chain", type = "similar" },
+]

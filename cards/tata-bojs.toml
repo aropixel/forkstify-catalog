@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Tata Bojs"
+mbid = "e49faca1-5796-4c9f-8e3a-f4109b1cf2f2"
+begin = "1988"
+
+tags = ["rock", "cz", "80s"]
+
+tops = [
+  "Tanečnice",
+  "Umělá",
+  "Šťastnější",
+  "Slovní",
+  "Holandský kakao",
+]
+
+links = [
+  { to = "vlasta-redl", type = "similar" },
+  { to = "david-stypka", type = "similar" },
+  { to = "mnaga-a-zdorp", type = "similar" },
+  { to = "prago-union", type = "similar" },
+]

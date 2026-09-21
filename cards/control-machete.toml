@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Control Machete"
+mbid = "38c8254f-ceac-460d-9123-5af2d7a4fc7e"
+spotify = "628gUkswCfCS1hIOOHmIpK"
+begin = "1996"
+origin = "Nuevo León"
+
+tags = ["hip-hop", "mx", "90s"]
+
+tops = [
+  "Cumbia Sobre El Rio",
+  "Comprendes, Mendes?",
+  "Si Señor",
+  "Presente",
+  "Ileso",
+]
+
+links = [
+  { to = "kinto-sol", type = "similar" },
+  { to = "caballeros-del-plan-g", type = "similar" },
+  { to = "akwid", type = "similar" },
+  { to = "dyablo", type = "similar" },
+]

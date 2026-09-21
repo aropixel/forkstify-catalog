@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Neil Young"
+mbid = "75167b8b-44e4-407b-9d35-effe87b223cf"
+spotify = "6v8FB84lnmJs434UJf2Mrm"
+begin = "1945"
+origin = "Toronto"
+
+tags = ["rock", "folk-rock", "country-rock", "folk", "ca"]
+
+tops = [
+  "Heart of Gold",
+  "Harvest Moon",
+  "Old Man",
+  "Rockin' in the Free World",
+  "Harvest",
+]
+
+links = [
+  { to = "bob-dylan", type = "similar" },
+  { to = "the-rolling-stones", type = "similar" },
+  { to = "crosby-stills-nash-and-young", type = "similar" },
+  { to = "the-beatles", type = "similar" },
+]

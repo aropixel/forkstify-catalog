@@ -1,0 +1,25 @@
+format = 1
+generated = true
+name = "Coolio"
+mbid = "cc30e630-8c75-4d78-b205-8e2edc6bdaa7"
+spotify = "2OQlSTIRZLeKCjI7Ln3i2b"
+begin = "1963"
+end = "2022"
+origin = "Monessen"
+
+tags = ["hip-hop", "west-coast-hip-hop", "gangsta-rap", "conscious-hip-hop", "us"]
+
+tops = [
+  "Gangsta's Paradise",
+  "Gangsta's Paradise (Rap Edition)",
+  "C U When U Get There (feat. 40 thevz)",
+  "Too Hot",
+  "Fantastic Voyage",
+]
+
+links = [
+  { to = "2pac", type = "similar" },
+  { to = "snoop-dogg", type = "similar" },
+  { to = "bone-thugs-n-harmony", type = "similar" },
+  { to = "the-notorious-b-i-g", type = "similar" },
+]

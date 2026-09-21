@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "The Skatalites"
+mbid = "87ac7e25-f278-47a0-b109-5eb131dc96b6"
+spotify = "4og9jrin5xH5JiFPbeGUPb"
+begin = "1964"
+origin = "Kingston"
+
+tags = ["ska", "jm", "60s"]
+
+tops = [
+  "Swing Easy",
+  "Rock Fort Rock",
+  "Freedom Sound",
+  "James Bond Theme",
+  "Funkey Funkey Reggay",
+]
+
+links = [
+  { to = "desmond-dekker", type = "similar" },
+  { to = "toots-and-the-maytals", type = "similar" },
+  { to = "alton-ellis", type = "similar" },
+  { to = "the-ethiopians", type = "similar" },
+]

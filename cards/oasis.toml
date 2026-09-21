@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Oasis"
+mbid = "39ab1aed-75e0-4140-bd47-540276886b60"
+spotify = "2DaxqgrOhkeH0fpeiQq2f4"
+begin = "1991"
+origin = "Manchester"
+
+tags = ["britpop", "alternative-rock", "rock", "indie-rock", "uk", "90s"]
+
+tops = [
+  "Wonderwall",
+  "Don't Look Back In Anger",
+  "Supersonic",
+  "Stop Crying Your Heart Out",
+  "Stand By Me",
+]
+
+links = [
+  { to = "liam-gallagher", type = "similar" },
+  { to = "the-cranberries", type = "similar" },
+  { to = "kings-of-leon", type = "similar" },
+  { to = "u2", type = "similar" },
+]

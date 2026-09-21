@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Akwid"
+mbid = "c74c0b21-a09a-4ec9-8ea0-524dbf0f009b"
+begin = "2000"
+origin = "Los Angeles"
+
+tags = ["hip-hop", "latin", "pop", "us", "2000s"]
+
+tops = [
+  "No Hay Manera",
+  "Jamás Imaginé",
+  "Taquito De Ojo",
+  "Anda Y Ve",
+  "Es Mi Gusto",
+]
+
+links = [
+  { to = "kinto-sol", type = "similar" },
+  { to = "cartel-de-santa", type = "similar" },
+  { to = "dyablo", type = "similar" },
+  { to = "jae-p", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Spook & the Guay"
+mbid = "d642525a-5de0-4d7b-ade0-4f615c0ea624"
+spotify = "785WwHSA7CvkBWom5EqVyg"
+begin = "1990"
+end = "2004"
+
+tags = ["fr", "90s"]
+
+tops = [
+  "Anti-Racist Soldier (Live)",
+  "Dancefloor (Live)",
+  "Sit Upon The Riddim (Live)",
+  "Money 2 (Live)",
+  "L'homme (Live)",
+]
+
+links = [
+  { to = "babylon-circus", type = "similar" },
+  { to = "oai-star", type = "similar" },
+  { to = "percubaba", type = "similar" },
+  { to = "massilia-sound-system", type = "similar" },
+]

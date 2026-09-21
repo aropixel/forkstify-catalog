@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Bad Bunny"
+mbid = "89aa5ecb-59ad-46f5-b3eb-2d424e941f19"
+spotify = "4q3ewBCX7sLwd24euuV69X"
+begin = "1994"
+origin = "San Juan"
+
+tags = ["reggaeton", "trap-latino", "latin", "hip-hop", "pr"]
+
+tops = [
+  "NUEVAYoL",
+  "DtMF",
+  "BAILE INoLVIDABLE",
+  "Tití Me Preguntó",
+  "DÁKITI",
+]
+
+links = [
+  { to = "myke-towers", type = "similar" },
+  { to = "rauw-alejandro", type = "similar" },
+  { to = "jhayco", type = "similar" },
+  { to = "anuel-aa", type = "similar" },
+]

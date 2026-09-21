@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Los Fabulosos Cadillacs"
+mbid = "cfe85625-10af-46c1-99fb-765ed3a4f1ad"
+spotify = "2FS22haX3FYbyOsUAkuYqZ"
+begin = "1985"
+origin = "Buenos Aires"
+
+tags = ["latin", "ska", "latin-rock", "ar", "80s"]
+
+tops = [
+  "Matador",
+  "Mal Bicho",
+  "Vasos Vacíos",
+  "Siguiendo La Luna",
+  "Calaveras y Diablitos",
+]
+
+links = [
+  { to = "los-autenticos-decadentes", type = "similar" },
+  { to = "soda-stereo", type = "similar" },
+  { to = "illya-kuryaki-and-the-valderramas", type = "similar" },
+  { to = "los-enanitos-verdes", type = "similar" },
+]

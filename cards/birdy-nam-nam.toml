@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Birdy Nam Nam"
+mbid = "3255ddb2-bd7f-4850-b314-bdfa10d14706"
+spotify = "4e7qJTThm5uI3CplqZObfT"
+begin = "2001"
+origin = "Paris"
+
+tags = ["electronic", "electro", "electronica", "turntablism", "fr", "2000s"]
+
+tops = [
+  "Abesses (Beat Torrent Remix)",
+  "Trans Boulogne Express",
+  "The Parachute Ending",
+  "Jaded Future",
+  "Defiant order",
+]
+
+links = [
+  { to = "boys-noize", type = "similar" },
+  { to = "mr-oizo", type = "similar" },
+  { to = "the-toxic-avenger", type = "similar" },
+  { to = "nasser", type = "similar" },
+]

@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Father John Misty"
+mbid = "172053e5-a7fb-4548-a64d-c53858b5e775"
+spotify = "2kGBy2WHvF0VdZyqiVCkDT"
+begin = "1981"
+origin = "Rockville"
+
+tags = ["folk-rock", "indie-rock", "psychedelic-rock", "experimental-rock", "us"]
+
+tops = [
+  "Real Love Baby",
+  "Buddy's Rendezvous",
+  "Funtimes in Babylon",
+  "When You're Smiling And Astride Me",
+  "Total Entertainment Forever",
+]
+
+links = [
+  { to = "sharon-van-etten", type = "similar" },
+  { to = "kevin-morby", type = "similar" },
+  { to = "the-national", type = "similar" },
+  { to = "courtney-barnett", type = "similar" },
+]

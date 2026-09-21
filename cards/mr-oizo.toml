@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Mr. Oizo"
+mbid = "a4a3048f-3968-4848-9f53-94e3d4f88b53"
+spotify = "0b9ukmbg0MO5eMlorcgOwz"
+begin = "1974"
+origin = "Paris"
+
+tags = ["electro", "electro-house", "electronic", "fidget-house", "fr"]
+
+tops = [
+  "Flat Beat",
+  "RATATA",
+  "Positif",
+  "Flat Beat (Radio Edit)",
+  "Skatesteak",
+]
+
+links = [
+  { to = "etienne-de-crecy", type = "similar" },
+  { to = "boys-noize", type = "similar" },
+  { to = "the-chemical-brothers", type = "similar" },
+  { to = "sebastian", type = "similar" },
+]

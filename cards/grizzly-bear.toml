@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Grizzly Bear"
+mbid = "59a7fbcb-ff74-494d-abd0-9c82359040c9"
+spotify = "2Jv5eshHtLycR6R8KQCdc4"
+begin = "2002"
+origin = "Brooklyn"
+
+tags = ["indie-folk", "art-rock", "indie-rock", "psychedelic-folk", "us", "2000s"]
+
+tops = [
+  "Two Weeks",
+  "Yet Again",
+  "Slow Life (with Victoria Legrand)",
+  "gun-shy",
+  "Mourning Sound",
+]
+
+links = [
+  { to = "the-national", type = "similar" },
+  { to = "half-moon-run", type = "similar" },
+  { to = "alt-j", type = "similar" },
+  { to = "father-john-misty", type = "similar" },
+]

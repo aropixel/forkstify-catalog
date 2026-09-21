@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Jacques Brel"
+mbid = "91eda19b-1437-42cd-b7af-69df24b7f275"
+spotify = "4RN2vlFWepLa46qQIU2PHs"
+begin = "1929"
+end = "1978"
+origin = "Schaerbeek / Schaarbeek"
+
+tags = ["chanson-francaise", "chanson-a-texte", "singer-songwriter", "be"]
+
+tops = [
+  "Vesoul",
+  "Amsterdam (Live, Olympia / 1964)",
+  "Quand on n'a que l'amour",
+  "La chanson des vieux amants",
+  "La quête",
+]
+
+links = [
+  { to = "georges-brassens", type = "similar" },
+  { to = "georges-moustaki", type = "similar" },
+  { to = "serge-gainsbourg", type = "similar" },
+]

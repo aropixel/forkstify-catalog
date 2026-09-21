@@ -1,0 +1,23 @@
+format = 1
+generated = true
+name = "Asian Dub Foundation"
+mbid = "db612997-f11e-424d-8b41-cf410a433656"
+begin = "1993"
+origin = "London"
+
+tags = ["drum-and-bass", "electronic", "uk", "90s"]
+
+tops = [
+  "Jericho",
+  "1000 Mirrors",
+  "PKNB",
+  "Fortress Europe",
+  "Witness",
+]
+
+links = [
+  { to = "le-peuple-de-l-herbe", type = "similar" },
+  { to = "chinese-man", type = "similar" },
+  { to = "dub-pistols", type = "similar" },
+  { to = "zenzile", type = "similar" },
+]

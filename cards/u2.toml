@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "U2"
+mbid = "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432"
+spotify = "51Blml2LZPmy7TTiAg47vQ"
+begin = "1976"
+origin = "Dublin"
+
+tags = ["alternative-rock", "rock", "post-punk", "pop-rock", "ie", "70s"]
+
+tops = [
+  "With Or Without You",
+  "I Still Haven't Found What I'm Looking For",
+  "One",
+  "Beautiful Day",
+  "Pride (In The Name Of Love)",
+]
+
+links = [
+  { to = "r-e-m", type = "similar" },
+  { to = "the-cranberries", type = "similar" },
+  { to = "lenny-kravitz", type = "similar" },
+  { to = "david-bowie", type = "similar" },
+]

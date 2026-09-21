@@ -1,0 +1,24 @@
+format = 1
+generated = true
+name = "Sheryl Crow"
+mbid = "80ccfede-c258-4575-a7ad-c982e9932e0f"
+spotify = "4TKTii6gnOnUXQHyuo9JaD"
+begin = "1962"
+origin = "Kennett"
+
+tags = ["pop", "rock", "americana", "alternative-rock", "us"]
+
+tops = [
+  "If It Makes You Happy",
+  "All I Wanna Do",
+  "On The Road Again (Live)",
+  "Soak Up The Sun",
+  "Roll Me Up and Smoke Me When I Die (Live)",
+]
+
+links = [
+  { to = "alanis-morissette", type = "similar" },
+  { to = "u2", type = "similar" },
+  { to = "sarah-mclachlan", type = "similar" },
+  { to = "the-cranberries", type = "similar" },
+]

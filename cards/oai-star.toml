@@ -1,0 +1,22 @@
+format = 1
+generated = true
+name = "Oai Star"
+mbid = "50fe153a-ce53-4c36-bba3-7c00b58b78ae"
+begin = "2001"
+
+tags = ["fr", "2000s"]
+
+tops = [
+  "Mets Les Watts Cousin ! (Mets Les Watts Cousin !)",
+  "The Ballad Of Lux B. & Gari (The Ballad Of Lux B. & Gari)",
+  "Comme Un Fumigène (Comme Un Fumigène)",
+  "Chèri(e) (Chèri e)",
+  "Match De Gala (Match De Gala)",
+]
+
+links = [
+  { to = "la-ruda-salska", type = "similar" },
+  { to = "spook-and-the-guay", type = "similar" },
+  { to = "marcel-et-son-orchestre", type = "similar" },
+  { to = "les-cameleons", type = "similar" },
+]
