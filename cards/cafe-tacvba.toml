@@ -1,0 +1,23 @@
+format = 1
+name = "Café Tacvba"
+mbid = "c2b37a39-c66a-44b2-b190-a69485ae5d95"
+spotify = "09xj0S68Y1OU1vHMCZAIvz"
+begin = "1989"
+origin = "Ciudad Satélite"
+
+tags = ["latin", "alternative-rock", "rock", "mx", "80s"]
+
+tops = [
+  "Eres",
+  "Como te extraño mi amor",
+  "La ingrata",
+  "Volver A Comenzar",
+  "Las flores",
+]
+
+links = [
+  { to = "bunbury", type = "similar" },
+  { to = "jaguares", type = "similar" },
+  { to = "fobia", type = "similar" },
+  { to = "los-enanitos-verdes", type = "similar" },
+]

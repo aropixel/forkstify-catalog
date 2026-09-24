@@ -1,0 +1,23 @@
+format = 1
+name = "Band of Horses"
+mbid = "07b6020a-c539-4d68-aeef-f159f3befc76"
+spotify = "0OdUWJ0sBjDrqHygGUXeCF"
+begin = "2004"
+origin = "Seattle"
+
+tags = ["indie-rock", "indie-folk", "americana", "folk-pop", "us", "2000s"]
+
+tops = [
+  "The Funeral",
+  "No One's Gonna Love You",
+  "The Funeral (Live Acoustic)",
+  "The Funeral (2025 Edit)",
+  "Casual Party",
+]
+
+links = [
+  { to = "the-national", type = "similar" },
+  { to = "jake-bugg", type = "similar" },
+  { to = "bombay-bicycle-club", type = "similar" },
+  { to = "the-shins", type = "similar" },
+]

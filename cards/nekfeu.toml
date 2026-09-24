@@ -1,0 +1,23 @@
+format = 1
+name = "Nekfeu"
+mbid = "d721866d-5640-44ee-87f7-23dd062abd8a"
+spotify = "4LXBc13z5EWsc5N32bLxfH"
+begin = "1990"
+origin = "La Trinité"
+
+tags = ["hip-hop", "fr"]
+
+tops = [
+  "On verra",
+  "Elle pleut",
+  "Galatée",
+  "Princesse",
+  "Dans l'univers",
+]
+
+links = [
+  { to = "s-crew", type = "similar" },
+  { to = "vald", type = "similar" },
+  { to = "deen-burbigo", type = "similar" },
+  { to = "dinos", type = "similar" },
+]

@@ -1,0 +1,23 @@
+format = 1
+name = "Portugal. The Man"
+mbid = "3599a39e-4e10-4cb5-90d4-c8a015ebc73b"
+spotify = "4kI8Ie27vjvonwaB2ePh8T"
+begin = "2004"
+origin = "Wasilla"
+
+tags = ["indie-rock", "neo-psychedelia", "experimental", "indie-pop", "us", "2000s"]
+
+tops = [
+  "Feel It Still",
+  "Glide",
+  "So Young",
+  "Feel It Still (Live/Stripped Session)",
+  "Live in the Moment",
+]
+
+links = [
+  { to = "foals", type = "similar" },
+  { to = "two-door-cinema-club", type = "similar" },
+  { to = "the-kooks", type = "similar" },
+  { to = "broken-bells", type = "similar" },
+]

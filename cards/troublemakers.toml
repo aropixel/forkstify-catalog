@@ -1,0 +1,22 @@
+format = 1
+name = "Troublemakers"
+mbid = "7ef8570d-96aa-49a2-912b-8a1dc4cd1783"
+spotify = "1TCOtUmprjwM5jPw5Exicn"
+begin = "1981"
+
+tags = ["punk", "punk-rock", "rock", "se", "80s"]
+
+tops = [
+  "Celestial Rising",
+  "Acid Factory",
+  "Messiah",
+  "Wake Up",
+  "Heart 303",
+]
+
+links = [
+  { to = "niotech", type = "similar" },
+  { to = "sara-landry", type = "similar" },
+  { to = "sikoti", type = "similar" },
+  { to = "alex-farell", type = "similar" },
+]

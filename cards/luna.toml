@@ -1,0 +1,24 @@
+format = 1
+name = "Luna"
+mbid = "dda04604-b50a-4bd1-8780-77564c659dc0"
+spotify = "2AACqFGo8offvHCKGvrWxq"
+begin = "1991"
+end = "2005"
+origin = "New York"
+
+tags = ["indie-pop", "dream-pop", "indie-rock", "us", "90s"]
+
+tops = [
+  "Speedbumps",
+  "Broken Chair",
+  "Malibu Love Nest",
+  "Tps (Tou Pare Sali'w)",
+  "Teenage Lightning",
+]
+
+links = [
+  { to = "landscape", type = "similar" },
+  { to = "dan-san", type = "similar" },
+  { to = "overhead", type = "similar" },
+  { to = "yo-la-tengo", type = "similar" },
+]

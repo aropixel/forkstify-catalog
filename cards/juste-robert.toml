@@ -1,0 +1,21 @@
+format = 1
+name = "Juste Robert"
+mbid = "01caea34-0453-4837-87fc-0f18c7d89db1"
+spotify = "4lll5qbnN7kMIi5jOZUpVi"
+
+tags = ["folk", "folk-rock"]
+
+tops = [
+  "Il tombe des cordes",
+  "Pissenlits de lumières",
+  "Golden storm",
+  "Des drapeaux blancs",
+  "La lettre",
+]
+
+links = [
+  { to = "tire-le-coyote", type = "similar" },
+  { to = "mentana", type = "similar" },
+  { to = "kashtin", type = "similar" },
+  { to = "emile-proulx-cloutier", type = "similar" },
+]

@@ -1,0 +1,25 @@
+format = 1
+name = "Nico"
+mbid = "37c61bf2-5fb1-47ae-9605-80025d956958"
+spotify = "0IwlY33zbBXN7zlS9DP2Cj"
+begin = "1938"
+end = "1988"
+origin = "Köln"
+
+tags = ["avant-folk", "avant-garde", "chamber-folk", "rock", "de"]
+
+tops = [
+  "Sunday Morning",
+  "Femme Fatale",
+  "Venus In Furs",
+  "Heroin",
+  "These Days",
+]
+
+links = [
+  { to = "the-velvet-underground", type = "member", note = "member (1967–1967)" },
+  { to = "tim-buckley", type = "similar" },
+  { to = "nick-drake", type = "similar" },
+  { to = "patti-smith", type = "similar" },
+  { to = "john-cale", type = "similar" },
+]

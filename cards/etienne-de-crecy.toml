@@ -1,0 +1,23 @@
+format = 1
+name = "Étienne de Crécy"
+mbid = "f174152d-da33-46bd-8cb4-c8d24b834bf7"
+spotify = "78YRbJhMi5kXKruiQGCJo7"
+begin = "1969"
+origin = "Lyon"
+
+tags = ["french-house", "electronic", "house", "bassline", "fr"]
+
+tops = [
+  "You",
+  "Am I Wrong",
+  "Smile",
+  "Someone Like You (Radio Edit)",
+  "Prix Choc (Radio Edit - High Mix)",
+]
+
+links = [
+  { to = "cassius", type = "similar" },
+  { to = "para-one", type = "similar" },
+  { to = "alex-gopher", type = "similar" },
+  { to = "mr-oizo", type = "similar" },
+]
