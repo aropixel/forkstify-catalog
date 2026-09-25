@@ -1,0 +1,23 @@
+format = 1
+name = "Arnaud Rebotini"
+mbid = "9838c84b-5e67-4c1d-97e6-a36d2ca73634"
+spotify = "4qnTdOhzCAvoRf8PObGr1h"
+begin = "1970"
+origin = "Nancy"
+
+tags = ["techno", "ebm", "electro", "electronic", "fr"]
+
+tops = [
+  "120 Battements Par Minute",
+  "December in G",
+  "The Red Island",
+  "Premier Club",
+  "Afterlife",
+]
+
+links = [
+  { to = "vitalic", type = "similar" },
+  { to = "modeselektor", type = "similar" },
+  { to = "laurent-garnier", type = "similar" },
+  { to = "molecule", type = "similar" },
+]

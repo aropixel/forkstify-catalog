@@ -1,0 +1,23 @@
+format = 1
+name = "Surf Curse"
+mbid = "89ea85c2-c90a-46ea-93db-9bed95d5c8f8"
+spotify = "1gl0S9pS0Zw0qfa14rDD3D"
+begin = "2012"
+origin = "Reno"
+
+tags = ["us", "2010s"]
+
+tops = [
+  "Freaks",
+  "Disco",
+  "Freaks (feat. Travis Barker)",
+  "Lost Honor",
+  "Sugar",
+]
+
+links = [
+  { to = "the-rare-occasions", type = "similar" },
+  { to = "the-drums", type = "similar" },
+  { to = "vundabar", type = "similar" },
+  { to = "current-joys", type = "similar" },
+]

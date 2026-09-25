@@ -1,0 +1,23 @@
+format = 1
+name = "EELS"
+mbid = "14387b0f-765c-4852-852f-135335790466"
+spotify = "3zunDAtRDg7kflREzWAhxl"
+begin = "1995"
+origin = "Los Feliz"
+
+tags = ["alternative-rock", "indie-rock", "indie-pop", "indie-folk", "us", "90s"]
+
+tops = [
+  "That Look You Give That Guy",
+  "Novocaine For The Soul",
+  "Congratulations To Me",
+  "The Deconstruction",
+  "Not Ready Yet",
+]
+
+links = [
+  { to = "beck", type = "similar" },
+  { to = "the-kills", type = "similar" },
+  { to = "deus", type = "similar" },
+  { to = "the-dandy-warhols", type = "similar" },
+]

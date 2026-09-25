@@ -1,0 +1,23 @@
+format = 1
+name = "Patti Smith"
+mbid = "d135874d-9cae-4fef-97e3-36acbd9f5a26"
+spotify = "0vYkHhJ48Bs3jWcvZXvOrP"
+begin = "1946"
+origin = "Chicago"
+
+tags = ["art-rock", "proto-punk", "garage-rock", "rock", "us"]
+
+tops = [
+  "Because the Night",
+  "Smells Like Teen Spirit",
+  "People Have the Power",
+  "Frederick",
+  "Dancing Barefoot",
+]
+
+links = [
+  { to = "david-bowie", type = "similar" },
+  { to = "lou-reed", type = "similar" },
+  { to = "iggy-pop", type = "similar" },
+  { to = "marianne-faithfull", type = "similar" },
+]

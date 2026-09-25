@@ -1,0 +1,23 @@
+format = 1
+name = "The Drums"
+mbid = "c3ecef5d-84f3-4942-8c24-0a626343c3f4"
+spotify = "0p5axeJsbtTCXBrRVoKjwu"
+begin = "2008"
+origin = "Brooklyn"
+
+tags = ["indie-pop", "indie-rock", "surf-rock", "alternative-rock", "us", "2000s"]
+
+tops = [
+  "Money",
+  "Lets Go Surfing",
+  "Isolation",
+  "I Don't Know How To Love",
+  "Days",
+]
+
+links = [
+  { to = "surf-curse", type = "similar" },
+  { to = "mgmt", type = "similar" },
+  { to = "the-growlers", type = "similar" },
+  { to = "cage-the-elephant", type = "similar" },
+]

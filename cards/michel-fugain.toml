@@ -1,0 +1,23 @@
+format = 1
+name = "Michel Fugain"
+mbid = "622a275f-659f-4dc6-9964-0d33c34a786e"
+spotify = "3Uitc0uNSbhVrqJON4NCMY"
+begin = "1942"
+origin = "Grenoble"
+
+tags = ["ballad", "chanson-francaise", "pop", "fr"]
+
+tops = [
+  "Une belle histoire (Album Version)",
+  "Fais comme l'oiseau",
+  "Je n'aurai pas le temps",
+  "Une belle histoire (Love Michel Fugain)",
+  "Sinfunia nustrale",
+]
+
+links = [
+  { to = "julien-clerc", type = "similar" },
+  { to = "michel-delpech", type = "similar" },
+  { to = "charles-aznavour", type = "similar" },
+  { to = "michel-polnareff", type = "similar" },
+]

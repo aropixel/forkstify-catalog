@@ -1,0 +1,23 @@
+format = 1
+name = "MGMT"
+mbid = "c485632c-b784-4ee9-8ea1-c5fb365681fc"
+spotify = "0SwO7SWeDHJijQ3XNS7xEE"
+begin = "2002"
+origin = "Middletown"
+
+tags = ["indie-rock", "psychedelic-pop", "neo-psychedelia", "indie-pop", "us", "2000s"]
+
+tops = [
+  "Kids",
+  "Little Dark Age",
+  "Time to Pretend",
+  "Electric Feel",
+  "When You Die",
+]
+
+links = [
+  { to = "gorillaz", type = "similar" },
+  { to = "the-drums", type = "similar" },
+  { to = "foster-the-people", type = "similar" },
+  { to = "the-growlers", type = "similar" },
+]

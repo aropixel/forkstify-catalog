@@ -1,0 +1,23 @@
+format = 1
+name = "Laurent Garnier"
+mbid = "ec477866-bfaa-48e0-affd-1c151ef61b7b"
+spotify = "3y1SoTOdrmRNTBVph5T0VZ"
+begin = "1966"
+origin = "Boulogne-Billancourt"
+
+tags = ["electronic", "techno", "fr"]
+
+tops = [
+  "The Man With The Red Face",
+  "Crispy Bacon",
+  "Au début c'était le début (feat. Bertrand Belin)",
+  "Saul",
+  "The Sound Of The Big Babou",
+]
+
+links = [
+  { to = "arnaud-rebotini", type = "similar" },
+  { to = "carl-craig", type = "similar" },
+  { to = "madben", type = "similar" },
+  { to = "etienne-de-crecy", type = "similar" },
+]

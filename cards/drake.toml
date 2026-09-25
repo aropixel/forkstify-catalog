@@ -1,0 +1,23 @@
+format = 1
+name = "Drake"
+mbid = "9fff2f8a-21e6-47de-a2b8-7f449929d43f"
+spotify = "3TVXtAsR1Inumwj472S9r4"
+begin = "1986"
+origin = "Toronto"
+
+tags = ["hip-hop", "r-and-b", "contemporary-r-and-b", "pop-rap", "ca"]
+
+tops = [
+  "One Dance",
+  "Janice STFU",
+  "God's Plan",
+  "Hotline Bling",
+  "Yebba’s Heartbreak",
+]
+
+links = [
+  { to = "future", type = "similar" },
+  { to = "21-savage", type = "similar" },
+  { to = "travis-scott", type = "similar" },
+  { to = "young-thug", type = "similar" },
+]

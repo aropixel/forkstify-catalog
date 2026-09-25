@@ -1,0 +1,23 @@
+format = 1
+name = "Eric Clapton"
+mbid = "618b6900-0618-4f1e-b835-bccb17f84294"
+spotify = "6PAt558ZEZl0DmdXlnjMgD"
+begin = "1945"
+origin = "Ripley"
+
+tags = ["blues", "blues-rock", "rock", "soft-rock", "uk"]
+
+tops = [
+  "It's Probably Me",
+  "Cocaine",
+  "Tears in Heaven (Acoustic Live)",
+  "Layla",
+  "Tears in Heaven",
+]
+
+links = [
+  { to = "fleetwood-mac", type = "similar" },
+  { to = "the-rolling-stones", type = "similar" },
+  { to = "santana", type = "similar" },
+  { to = "gary-moore", type = "similar" },
+]

@@ -1,5 +1,4 @@
 format = 1
-generated = true
 name = "Jarvis Cocker"
 mbid = "38550441-d437-4aff-867e-e79bf0c04142"
 spotify = "13W7XLRXdWeLmIu9vacE1w"
@@ -18,8 +17,8 @@ tops = [
 
 links = [
   { to = "pulp", type = "member" },
-  { to = "keren-ann", type = "similar" },
+  { to = "eels", type = "similar" },
+  { to = "the-divine-comedy", type = "similar" },
   { to = "nouvelle-vague", type = "similar" },
-  { to = "the-liminanas", type = "similar" },
   { to = "nick-cave-and-the-bad-seeds", type = "similar" },
 ]

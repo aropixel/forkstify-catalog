@@ -1,0 +1,23 @@
+format = 1
+name = "Eagles"
+mbid = "f46bd570-5768-462e-b84c-c7c993bbf47e"
+spotify = "0ECwFtbIWEVNwjlrfc6xoL"
+begin = "1971"
+origin = "Los Angeles"
+
+tags = ["rock", "country-rock", "classic-rock", "folk-rock", "us", "70s"]
+
+tops = [
+  "Hotel California",
+  "Hotel California (Live On MTV, 1994)",
+  "New Kid in Town",
+  "Take It Easy",
+  "One of These Nights",
+]
+
+links = [
+  { to = "bruce-springsteen", type = "similar" },
+  { to = "paul-mccartney", type = "similar" },
+  { to = "elton-john", type = "similar" },
+  { to = "eric-clapton", type = "similar" },
+]

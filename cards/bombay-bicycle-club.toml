@@ -1,0 +1,23 @@
+format = 1
+name = "Bombay Bicycle Club"
+mbid = "0ae49abe-d6af-44fa-8ab0-b9ace5690e6f"
+spotify = "3pTE9iaJTkWns3mxpNQlJV"
+begin = "2005"
+origin = "Crouch End"
+
+tags = ["indie-rock", "alternative-rock", "indie-pop", "rock", "uk", "2000s"]
+
+tops = [
+  "Always Like This",
+  "Dust On The Ground",
+  "Eat, Sleep, Wake (Nothing But You)",
+  "Shuffle",
+  "Luna",
+]
+
+links = [
+  { to = "foals", type = "similar" },
+  { to = "portugal-the-man", type = "similar" },
+  { to = "vampire-weekend", type = "similar" },
+  { to = "the-national", type = "similar" },
+]

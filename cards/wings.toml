@@ -1,0 +1,24 @@
+format = 1
+name = "Wings"
+mbid = "d922d727-240a-4432-9a88-05a7cf9bc403"
+spotify = "3sFhA6G1N0gG1pszb6kk1m"
+begin = "1971"
+end = "1981"
+
+tags = ["rock", "soft-rock", "classic-rock", "pop-rock", "uk", "70s"]
+
+tops = [
+  "Live And Let Die",
+  "Silly Love Songs",
+  "Let 'Em In",
+  "Let Me Roll It",
+  "Band On The Run",
+]
+
+links = [
+  { to = "paul-mccartney", type = "member", note = "member (1971–1981)" },
+  { to = "john-lennon", type = "similar" },
+  { to = "george-harrison", type = "similar" },
+  { to = "the-beatles", type = "similar" },
+  { to = "fleetwood-mac", type = "similar" },
+]
