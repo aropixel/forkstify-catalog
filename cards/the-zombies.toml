@@ -19,5 +19,5 @@ links = [
   { to = "the-kinks", type = "similar" },
   { to = "donovan", type = "similar" },
   { to = "love", type = "similar" },
-  { to = "the-beach-boys", type = "similar" },
+  { to = "the-beach-boys", type = "audience" },
 ]

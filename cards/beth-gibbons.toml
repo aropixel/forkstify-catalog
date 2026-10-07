@@ -17,8 +17,8 @@ tops = [
 
 links = [
   { to = "portishead", type = "member", note = "membre (1991–…)" },
-  { to = "archive", type = "similar" },
-  { to = "tindersticks", type = "similar" },
-  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
-  { to = "girls-in-hawaii", type = "similar" },
+  { to = "archive", type = "audience" },
+  { to = "tindersticks", type = "audience" },
+  { to = "nick-cave-and-the-bad-seeds", type = "audience" },
+  { to = "girls-in-hawaii", type = "audience" },
 ]

@@ -17,5 +17,5 @@ tops = [
 
 links = [
   { to = "blur", type = "member" },
-  { to = "kevin-morby", type = "similar" },
+  { to = "kevin-morby", type = "audience" },
 ]

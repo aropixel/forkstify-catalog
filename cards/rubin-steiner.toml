@@ -1,0 +1,26 @@
+format = 1
+name = "Rubin Steiner"
+mbid = "cb882ad7-c2de-485e-9986-0a1462a2e254"
+spotify = "4QMangq7dcB1zMVXOzaeWT"
+begin = "1974"
+origin = "Tours"
+
+tags = ["fr"]
+
+tops = [
+  "Que Bonita Es la Vida",
+  "Minellos, Pt. 2",
+  "Computer Heartbeat",
+  "Numbers are Words",
+  "Girls",
+]
+
+links = [
+  { to = "nasser", type = "audience" },
+  { to = "soulwax", type = "audience" },
+  { to = "fujiya-and-miyagi", type = "audience" },
+  { to = "dombrance", type = "audience" },
+  { to = "kid-loco", type = "scene", note = "French electronica built on jazz and crate-digging samples." },
+  { to = "general-elektriks", type = "similar", proximity = 3, note = "Funky, jazz-tinged French electronic music with retro keys." },
+  { to = "sporto-kantes", type = "scene", proximity = 4, note = "Eclectic, sample-heavy French electronica from the late nineties." },
+]

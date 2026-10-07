@@ -18,8 +18,8 @@ tops = [
 
 links = [
   { to = "the-velvet-underground", type = "member", note = "member (1967–1967)" },
-  { to = "tim-buckley", type = "similar" },
-  { to = "nick-drake", type = "similar" },
+  { to = "tim-buckley", type = "audience" },
+  { to = "nick-drake", type = "audience" },
   { to = "patti-smith", type = "similar" },
-  { to = "john-cale", type = "similar" },
+  { to = "john-cale", type = "audience" },
 ]

@@ -14,8 +14,9 @@ tops = [
 ]
 
 links = [
-  { to = "la-ruda-salska", type = "similar" },
-  { to = "spook-and-the-guay", type = "similar" },
-  { to = "marcel-et-son-orchestre", type = "similar" },
-  { to = "les-cameleons", type = "similar" },
+  { to = "la-ruda-salska", type = "audience" },
+  { to = "spook-and-the-guay", type = "audience" },
+  { to = "marcel-et-son-orchestre", type = "audience" },
+  { to = "les-cameleons", type = "audience" },
+  { to = "massilia-sound-system", type = "scene", proximity = 5, note = "Marseille ragga-rock with festive, Occitan-flavoured energy." },
 ]

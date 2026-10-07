@@ -16,7 +16,7 @@ tops = [
 ]
 
 links = [
-  { to = "peter-kernel", type = "similar" },
+  { to = "peter-kernel", type = "audience" },
   { to = "fontaines-d-c", type = "similar" },
   { to = "idles", type = "similar" },
   { to = "sleaford-mods", type = "similar" },

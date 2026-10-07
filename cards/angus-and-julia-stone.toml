@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "cat-power", type = "similar" },
+  { to = "cat-power", type = "audience" },
   { to = "damien-rice", type = "similar" },
   { to = "jose-gonzalez", type = "similar" },
-  { to = "iron-and-wine", type = "similar" },
+  { to = "iron-and-wine", type = "audience" },
 ]

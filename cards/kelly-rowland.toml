@@ -19,5 +19,5 @@ links = [
   { to = "destinys-child", type = "member", note = "membre (1990–…)" },
   { to = "beyonce", type = "similar" },
   { to = "justin-timberlake", type = "similar" },
-  { to = "jamie-foxx", type = "similar" },
+  { to = "jamie-foxx", type = "audience" },
 ]

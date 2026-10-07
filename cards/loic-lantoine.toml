@@ -15,8 +15,8 @@ tops = [
 ]
 
 links = [
-  { to = "mano-solo", type = "similar" },
-  { to = "tetes-raides", type = "similar" },
-  { to = "lojo", type = "similar" },
-  { to = "brigitte-fontaine", type = "similar" },
+  { to = "mano-solo", type = "audience" },
+  { to = "tetes-raides", type = "audience" },
+  { to = "lojo", type = "audience" },
+  { to = "brigitte-fontaine", type = "audience" },
 ]

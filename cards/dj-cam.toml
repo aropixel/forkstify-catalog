@@ -1,0 +1,23 @@
+format = 1
+name = "DJ Cam"
+mbid = "d2e123d0-c53e-4444-a52a-efeff44953c7"
+spotify = "1hwAhXzyuEUjug2pyNVSvg"
+begin = "1973"
+origin = "Paris"
+
+tags = ["hip-hop", "instrumental", "instrumental-hip-hop", "downtempo", "fr"]
+
+tops = [
+  "Summer in Paris",
+  "Swim",
+  "Swim (Blackjoy Version)",
+  "Bounce",
+  "Birds Also Sing for Anamaria",
+]
+
+links = [
+  { to = "nightmares-on-wax", type = "audience" },
+  { to = "the-herbaliser", type = "audience" },
+  { to = "mr-scruff", type = "audience" },
+  { to = "dj-krush", type = "audience" },
+]

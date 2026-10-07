@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "astereotypie", type = "similar" },
+  { to = "astereotypie", type = "audience" },
   { to = "la-femme", type = "similar" },
-  { to = "ventre-de-biche", type = "similar" },
-  { to = "flora-fishbach", type = "similar" },
+  { to = "ventre-de-biche", type = "audience" },
+  { to = "flora-fishbach", type = "audience" },
 ]

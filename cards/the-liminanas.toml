@@ -17,8 +17,8 @@ tops = [
 
 links = [
   { to = "lionel-liminana", type = "member" },
-  { to = "baxter-dury", type = "similar" },
-  { to = "the-divine-comedy", type = "similar" },
-  { to = "lescop", type = "similar" },
-  { to = "sleaford-mods", type = "similar" },
+  { to = "baxter-dury", type = "audience" },
+  { to = "the-divine-comedy", type = "audience" },
+  { to = "lescop", type = "audience" },
+  { to = "sleaford-mods", type = "audience" },
 ]

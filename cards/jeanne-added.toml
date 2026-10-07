@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "the-d", type = "similar" },
-  { to = "keren-ann", type = "similar" },
-  { to = "h-burns", type = "similar" },
-  { to = "camille", type = "similar" },
+  { to = "the-d", type = "audience" },
+  { to = "keren-ann", type = "audience" },
+  { to = "h-burns", type = "audience" },
+  { to = "camille", type = "audience" },
 ]

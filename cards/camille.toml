@@ -17,8 +17,8 @@ tops = [
 
 links = [
   { to = "nouvelle-vague", type = "member" },
-  { to = "arthur-h", type = "similar" },
+  { to = "arthur-h", type = "audience" },
   { to = "keren-ann", type = "similar" },
   { to = "dominique-a", type = "similar" },
-  { to = "arno", type = "similar" },
+  { to = "arno", type = "audience" },
 ]

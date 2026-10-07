@@ -16,8 +16,9 @@ tops = [
 ]
 
 links = [
-  { to = "babylon-circus", type = "similar" },
-  { to = "oai-star", type = "similar" },
-  { to = "percubaba", type = "similar" },
-  { to = "massilia-sound-system", type = "similar" },
+  { to = "babylon-circus", type = "audience" },
+  { to = "oai-star", type = "audience" },
+  { to = "percubaba", type = "audience" },
+  { to = "massilia-sound-system", type = "scene", note = "Festive French reggae and ska from the 90s alternative circuit." },
+  { to = "mano-negra", type = "influence", proximity = 3, note = "Ska-driven, multilingual French festive rock with brass and punk energy." },
 ]

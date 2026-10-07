@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "timber-timbre", type = "similar" },
-  { to = "cat-power", type = "similar" },
-  { to = "king-hannah", type = "similar" },
-  { to = "syd-matters", type = "similar" },
+  { to = "timber-timbre", type = "audience" },
+  { to = "cat-power", type = "audience" },
+  { to = "king-hannah", type = "audience" },
+  { to = "syd-matters", type = "audience" },
 ]

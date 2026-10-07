@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "foo-fighters", type = "similar" },
-  { to = "nirvana", type = "similar" },
+  { to = "nirvana", type = "audience" },
   { to = "the-white-stripes", type = "similar" },
   { to = "kings-of-leon", type = "similar" },
 ]

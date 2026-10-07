@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "boys-noize", type = "similar" },
+  { to = "boys-noize", type = "audience" },
   { to = "mr-oizo", type = "similar" },
-  { to = "the-toxic-avenger", type = "similar" },
-  { to = "nasser", type = "similar" },
+  { to = "the-toxic-avenger", type = "audience" },
+  { to = "nasser", type = "audience" },
 ]

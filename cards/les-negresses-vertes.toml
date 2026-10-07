@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "mano-negra", type = "similar" },
-  { to = "les-rita-mitsouko", type = "similar" },
-  { to = "sanseverino", type = "similar" },
-  { to = "dionysos", type = "similar" },
+  { to = "les-rita-mitsouko", type = "audience" },
+  { to = "sanseverino", type = "audience" },
+  { to = "dionysos", type = "audience" },
 ]

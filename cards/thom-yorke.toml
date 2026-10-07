@@ -20,5 +20,5 @@ links = [
   { to = "archive", type = "similar" },
   { to = "pj-harvey", type = "similar" },
   { to = "bjork", type = "similar" },
-  { to = "king-hannah", type = "similar" },
+  { to = "king-hannah", type = "audience" },
 ]

@@ -19,6 +19,6 @@ links = [
   { to = "pulp", type = "member" },
   { to = "eels", type = "similar" },
   { to = "the-divine-comedy", type = "similar" },
-  { to = "nouvelle-vague", type = "similar" },
-  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+  { to = "nouvelle-vague", type = "audience" },
+  { to = "nick-cave-and-the-bad-seeds", type = "audience" },
 ]

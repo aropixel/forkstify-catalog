@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "the-national", type = "similar" },
-  { to = "jake-bugg", type = "similar" },
+  { to = "jake-bugg", type = "audience" },
   { to = "bombay-bicycle-club", type = "similar" },
-  { to = "the-shins", type = "similar" },
+  { to = "the-shins", type = "audience" },
 ]

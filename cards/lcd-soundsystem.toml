@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "the-rapture", type = "similar" },
   { to = "hot-chip", type = "similar" },
-  { to = "metronomy", type = "similar" },
+  { to = "metronomy", type = "audience" },
   { to = "the-knife", type = "similar" },
 ]

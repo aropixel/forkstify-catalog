@@ -1,0 +1,23 @@
+format = 1
+name = "Sparks"
+mbid = "f319b57a-a494-40f6-a467-3d196d3484e6"
+spotify = "7pwjGKaqnfkvS7eQbHaqyH"
+begin = "1970"
+origin = "Los Angeles"
+
+tags = ["art-pop", "glam-rock", "art-rock", "new-wave", "us", "70s"]
+
+tops = [
+  "Singing in the Shower",
+  "The Happy Dictator (feat. Sparks)",
+  "This Town Ain't Big Enough For Both Of Us",
+  "Live in Las Vegas",
+  "When I'm With You",
+]
+
+links = [
+  { to = "blondie", type = "similar" },
+  { to = "david-bowie", type = "similar" },
+  { to = "roxy-music", type = "audience" },
+  { to = "talking-heads", type = "similar" },
+]

@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "gaye-su-akyol", type = "similar" },
-  { to = "derya-y-ld-r-m-and-grup-im-ek", type = "similar" },
-  { to = "alt-n-gun", type = "similar" },
-  { to = "lalalar", type = "similar" },
+  { to = "gaye-su-akyol", type = "audience" },
+  { to = "derya-y-ld-r-m-and-grup-im-ek", type = "audience" },
+  { to = "alt-n-gun", type = "audience" },
+  { to = "lalalar", type = "audience" },
 ]

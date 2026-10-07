@@ -15,8 +15,8 @@ tops = [
 ]
 
 links = [
-  { to = "gwendoline", type = "similar" },
-  { to = "dalle-beton", type = "similar" },
+  { to = "gwendoline", type = "audience" },
+  { to = "dalle-beton", type = "audience" },
   { to = "the-liminanas", type = "similar" },
-  { to = "la-femme", type = "similar" },
+  { to = "la-femme", type = "audience" },
 ]

@@ -13,8 +13,8 @@ tops = [
 ]
 
 links = [
-  { to = "the-cure", type = "similar" },
-  { to = "the-fall", type = "similar" },
-  { to = "joy-division", type = "similar" },
-  { to = "siouxsie-and-the-banshees", type = "similar" },
+  { to = "the-cure", type = "audience" },
+  { to = "the-fall", type = "audience" },
+  { to = "joy-division", type = "audience" },
+  { to = "siouxsie-and-the-banshees", type = "audience" },
 ]

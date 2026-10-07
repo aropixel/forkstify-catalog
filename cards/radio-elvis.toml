@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "arthur-h", type = "similar" },
-  { to = "dominique-a", type = "similar" },
-  { to = "bertrand-belin", type = "similar" },
-  { to = "miossec", type = "similar" },
+  { to = "arthur-h", type = "audience" },
+  { to = "dominique-a", type = "audience" },
+  { to = "bertrand-belin", type = "audience" },
+  { to = "miossec", type = "audience" },
 ]

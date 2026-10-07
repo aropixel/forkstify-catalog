@@ -19,5 +19,5 @@ links = [
   { to = "depeche-mode", type = "similar" },
   { to = "the-cure", type = "similar" },
   { to = "the-b-52s", type = "similar" },
-  { to = "morrissey", type = "similar" },
+  { to = "morrissey", type = "audience" },
 ]

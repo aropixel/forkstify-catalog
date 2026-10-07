@@ -16,8 +16,9 @@ tops = [
 ]
 
 links = [
-  { to = "myke-towers", type = "similar" },
-  { to = "rauw-alejandro", type = "similar" },
-  { to = "jhayco", type = "similar" },
-  { to = "anuel-aa", type = "similar" },
+  { to = "myke-towers", type = "audience" },
+  { to = "rauw-alejandro", type = "audience" },
+  { to = "jhayco", type = "audience" },
+  { to = "anuel-aa", type = "audience" },
+  { to = "rosalia", type = "scene", note = "Leading figures of the global reggaeton and Latin urban pop wave." },
 ]

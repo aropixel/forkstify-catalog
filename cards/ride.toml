@@ -17,6 +17,6 @@ tops = [
 
 links = [
   { to = "galaxie-500", type = "similar" },
-  { to = "primal-scream", type = "similar" },
-  { to = "sonic-youth", type = "similar" },
+  { to = "primal-scream", type = "audience" },
+  { to = "sonic-youth", type = "audience" },
 ]

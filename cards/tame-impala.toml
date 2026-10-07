@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "gorillaz", type = "similar" },
-  { to = "mac-demarco", type = "similar" },
-  { to = "dominic-fike", type = "similar" },
+  { to = "mac-demarco", type = "audience" },
+  { to = "dominic-fike", type = "audience" },
   { to = "the-growlers", type = "similar" },
 ]

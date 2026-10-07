@@ -20,5 +20,5 @@ links = [
   { to = "charlotte-gainsbourg", type = "family" },
   { to = "francoise-hardy", type = "similar" },
   { to = "georges-brassens", type = "similar" },
-  { to = "georges-moustaki", type = "similar" },
+  { to = "georges-moustaki", type = "audience" },
 ]

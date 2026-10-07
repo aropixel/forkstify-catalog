@@ -16,7 +16,7 @@ tops = [
 ]
 
 links = [
-  { to = "pulp", type = "similar" },
+  { to = "pulp", type = "audience" },
   { to = "blur", type = "similar" },
   { to = "suede", type = "similar" },
   { to = "pixies", type = "similar" },

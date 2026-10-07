@@ -18,6 +18,6 @@ tops = [
 
 links = [
   { to = "jacques-brel", type = "similar" },
-  { to = "georges-moustaki", type = "similar" },
+  { to = "georges-moustaki", type = "audience" },
   { to = "serge-gainsbourg", type = "similar" },
 ]

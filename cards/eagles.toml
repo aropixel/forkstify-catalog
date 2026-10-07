@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "bruce-springsteen", type = "similar" },
+  { to = "bruce-springsteen", type = "audience" },
   { to = "paul-mccartney", type = "similar" },
-  { to = "elton-john", type = "similar" },
+  { to = "elton-john", type = "audience" },
   { to = "eric-clapton", type = "similar" },
 ]

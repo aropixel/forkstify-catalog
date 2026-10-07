@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "metronomy", type = "similar" },
-  { to = "baxter-dury", type = "similar" },
-  { to = "isaac-delusion", type = "similar" },
-  { to = "flavien-berger", type = "similar" },
+  { to = "metronomy", type = "audience" },
+  { to = "baxter-dury", type = "audience" },
+  { to = "isaac-delusion", type = "audience" },
+  { to = "flavien-berger", type = "audience" },
 ]

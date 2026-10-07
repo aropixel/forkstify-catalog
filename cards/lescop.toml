@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "la-femme", type = "similar" },
-  { to = "juniore", type = "similar" },
-  { to = "flora-fishbach", type = "similar" },
-  { to = "palatine", type = "similar" },
+  { to = "la-femme", type = "audience" },
+  { to = "juniore", type = "audience" },
+  { to = "flora-fishbach", type = "audience" },
+  { to = "palatine", type = "audience" },
 ]

@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "wilco", type = "similar" },
-  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
-  { to = "mercury-rev", type = "similar" },
-  { to = "pj-harvey", type = "similar" },
+  { to = "wilco", type = "audience" },
+  { to = "nick-cave-and-the-bad-seeds", type = "audience" },
+  { to = "mercury-rev", type = "audience" },
+  { to = "pj-harvey", type = "audience" },
 ]

@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "alanis-morissette", type = "similar" },
   { to = "u2", type = "similar" },
-  { to = "sarah-mclachlan", type = "similar" },
+  { to = "sarah-mclachlan", type = "audience" },
   { to = "the-cranberries", type = "similar" },
 ]

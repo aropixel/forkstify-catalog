@@ -15,8 +15,8 @@ tops = [
 ]
 
 links = [
-  { to = "control-machete", type = "similar" },
-  { to = "akwid", type = "similar" },
-  { to = "kinto-sol", type = "similar" },
-  { to = "tankeone", type = "similar" },
+  { to = "control-machete", type = "audience" },
+  { to = "akwid", type = "audience" },
+  { to = "kinto-sol", type = "audience" },
+  { to = "tankeone", type = "audience" },
 ]

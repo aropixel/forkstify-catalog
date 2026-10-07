@@ -17,6 +17,6 @@ tops = [
 ]
 
 links = [
-  { to = "fiona-apple", type = "similar" },
-  { to = "mazzy-star", type = "similar" },
+  { to = "fiona-apple", type = "audience" },
+  { to = "mazzy-star", type = "audience" },
 ]

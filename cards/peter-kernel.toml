@@ -15,8 +15,8 @@ tops = [
 ]
 
 links = [
-  { to = "bodega", type = "similar" },
-  { to = "viagra-boys", type = "similar" },
-  { to = "fat-white-family", type = "similar" },
-  { to = "sleaford-mods", type = "similar" },
+  { to = "bodega", type = "audience" },
+  { to = "viagra-boys", type = "audience" },
+  { to = "fat-white-family", type = "audience" },
+  { to = "sleaford-mods", type = "audience" },
 ]

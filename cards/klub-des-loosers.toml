@@ -1,0 +1,23 @@
+format = 1
+name = "Klub des Loosers"
+mbid = "8fc9dd65-ef96-4a15-8d65-8d067f727cd4"
+spotify = "37XJyLeYnt66QW3QoE518q"
+begin = "2000"
+origin = "Versailles"
+
+tags = ["hip-hop", "fr", "2000s"]
+
+tops = [
+  "Volutes",
+  "Destin d'hymen",
+  "Vieille branche",
+  "De l'amour à la haine",
+  "Baise les gens",
+]
+
+links = [
+  { to = "le-klub-des-7", type = "audience" },
+  { to = "soklak", type = "audience" },
+  { to = "lucio-bukowski", type = "audience" },
+  { to = "roce", type = "audience" },
+]

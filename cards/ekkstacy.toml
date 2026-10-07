@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "eyedress", type = "similar" },
-  { to = "acid-ghost", type = "similar" },
-  { to = "yot-club", type = "similar" },
-  { to = "surf-curse", type = "similar" },
+  { to = "acid-ghost", type = "audience" },
+  { to = "yot-club", type = "audience" },
+  { to = "surf-curse", type = "audience" },
 ]

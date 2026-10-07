@@ -18,5 +18,5 @@ tops = [
 links = [
   { to = "the-chemical-brothers", type = "similar" },
   { to = "lcd-soundsystem", type = "similar" },
-  { to = "rubin-steiner", type = "similar" },
+  { to = "rubin-steiner", type = "audience" },
 ]

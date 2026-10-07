@@ -18,7 +18,7 @@ tops = [
 
 links = [
   { to = "yo-la-tengo", type = "similar" },
-  { to = "radiohead", type = "similar" },
-  { to = "mazzy-star", type = "similar" },
+  { to = "radiohead", type = "audience" },
+  { to = "mazzy-star", type = "audience" },
   { to = "wilco", type = "similar" },
 ]

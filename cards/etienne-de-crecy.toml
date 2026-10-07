@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "cassius", type = "similar" },
-  { to = "para-one", type = "similar" },
-  { to = "alex-gopher", type = "similar" },
+  { to = "cassius", type = "audience" },
+  { to = "para-one", type = "audience" },
+  { to = "alex-gopher", type = "audience" },
   { to = "mr-oizo", type = "similar" },
 ]

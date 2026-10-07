@@ -17,8 +17,8 @@ tops = [
 
 links = [
   { to = "trei-degete", type = "member" },
-  { to = "joyca", type = "similar" },
-  { to = "mcfly-and-carlito", type = "similar" },
-  { to = "mastu", type = "similar" },
-  { to = "amixem", type = "similar" },
+  { to = "joyca", type = "audience" },
+  { to = "mcfly-and-carlito", type = "audience" },
+  { to = "mastu", type = "audience" },
+  { to = "amixem", type = "audience" },
 ]

@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "desmond-dekker", type = "similar" },
-  { to = "toots-and-the-maytals", type = "similar" },
-  { to = "alton-ellis", type = "similar" },
-  { to = "the-ethiopians", type = "similar" },
+  { to = "desmond-dekker", type = "audience" },
+  { to = "toots-and-the-maytals", type = "audience" },
+  { to = "alton-ellis", type = "audience" },
+  { to = "the-ethiopians", type = "audience" },
 ]

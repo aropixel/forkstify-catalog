@@ -15,7 +15,7 @@ tops = [
 
 links = [
   { to = "keren-ann", type = "similar" },
-  { to = "juniore", type = "similar" },
-  { to = "laurent-bardainne", type = "similar" },
-  { to = "jeanne-added", type = "similar" },
+  { to = "juniore", type = "audience" },
+  { to = "laurent-bardainne", type = "audience" },
+  { to = "jeanne-added", type = "audience" },
 ]

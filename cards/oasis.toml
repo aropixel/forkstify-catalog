@@ -16,7 +16,7 @@ tops = [
 ]
 
 links = [
-  { to = "liam-gallagher", type = "similar" },
+  { to = "liam-gallagher", type = "audience" },
   { to = "the-cranberries", type = "similar" },
   { to = "kings-of-leon", type = "similar" },
   { to = "u2", type = "similar" },

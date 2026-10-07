@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "bob-dylan", type = "similar" },
   { to = "the-rolling-stones", type = "similar" },
-  { to = "crosby-stills-nash-and-young", type = "similar" },
+  { to = "crosby-stills-nash-and-young", type = "audience" },
   { to = "the-beatles", type = "similar" },
 ]

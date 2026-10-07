@@ -19,8 +19,8 @@ tops = [
 links = [
   { to = "lou-reed", type = "member", note = "membre (1965–1970)" },
   { to = "nico", type = "member", note = "membre (1967–1967)" },
-  { to = "the-beatles", type = "similar" },
-  { to = "john-lennon", type = "similar" },
-  { to = "the-kinks", type = "similar" },
-  { to = "bob-dylan", type = "similar" },
+  { to = "the-beatles", type = "audience" },
+  { to = "john-lennon", type = "audience" },
+  { to = "the-kinks", type = "audience" },
+  { to = "bob-dylan", type = "audience" },
 ]

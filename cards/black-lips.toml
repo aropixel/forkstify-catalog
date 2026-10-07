@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "the-brian-jonestown-massacre", type = "similar" },
-  { to = "the-dandy-warhols", type = "similar" },
-  { to = "idles", type = "similar" },
+  { to = "the-brian-jonestown-massacre", type = "audience" },
+  { to = "the-dandy-warhols", type = "audience" },
+  { to = "idles", type = "audience" },
   { to = "the-kills", type = "similar" },
 ]

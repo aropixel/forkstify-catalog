@@ -1,0 +1,22 @@
+format = 1
+name = "Arthur Satàn"
+mbid = "e132cae0-ce10-46d2-b695-5101b79d28f7"
+spotify = "5FqdsNPeUr5UlUpMJqjiVP"
+
+tags = ["fr"]
+
+tops = [
+  "Too Many Questions (Frustration) (Born Bad Records 20th Anniversary)",
+  "Summer",
+  "Free",
+  "A Cold Morning",
+  "It's All the Same",
+]
+
+links = [
+  { to = "porridge-radio", type = "audience" },
+  { to = "king-hannah", type = "audience" },
+  { to = "cate-le-bon", type = "audience" },
+  { to = "ghostwoman", type = "audience" },
+  { to = "cheveu", type = "scene", note = "Both belong to the French Born Bad garage underground." },
+]

@@ -1,0 +1,22 @@
+format = 1
+name = "General Elektriks"
+mbid = "e9ec4424-2d6f-4332-b969-6c07caedf371"
+spotify = "5ly9gfnncBXv77g2zuRG9m"
+origin = "Paris"
+
+tags = ["alternative-rock", "electronic", "funk", "jazz", "fr"]
+
+tops = [
+  "Raid the Radio",
+  "What You Want to Do",
+  "Whisper to Me",
+  "Little Lady",
+  "J'me Fais des Films",
+]
+
+links = [
+  { to = "sporto-kantes", type = "similar" },
+  { to = "wax-tailor", type = "audience" },
+  { to = "bumcello", type = "audience" },
+  { to = "applause", type = "audience" },
+]

@@ -16,7 +16,7 @@ tops = [
 ]
 
 links = [
-  { to = "lcd-soundsystem", type = "similar" },
-  { to = "the-rapture", type = "similar" },
-  { to = "stuck-in-the-sound", type = "similar" },
+  { to = "lcd-soundsystem", type = "audience" },
+  { to = "the-rapture", type = "audience" },
+  { to = "stuck-in-the-sound", type = "audience" },
 ]

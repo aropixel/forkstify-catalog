@@ -16,6 +16,6 @@ tops = [
 ]
 
 links = [
-  { to = "the-kinks", type = "similar" },
-  { to = "the-beach-boys", type = "similar" },
+  { to = "the-kinks", type = "audience" },
+  { to = "the-beach-boys", type = "audience" },
 ]

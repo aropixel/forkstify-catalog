@@ -16,5 +16,5 @@ tops = [
 
 links = [
   { to = "les-ogres-de-barback", type = "similar" },
-  { to = "les-hurlements-dleo", type = "similar" },
+  { to = "les-hurlements-dleo", type = "audience" },
 ]

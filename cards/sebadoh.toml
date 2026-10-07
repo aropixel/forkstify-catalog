@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "pavement", type = "similar" },
-  { to = "sonic-youth", type = "similar" },
-  { to = "fugazi", type = "similar" },
-  { to = "neds-atomic-dustbin", type = "similar" },
+  { to = "sonic-youth", type = "audience" },
+  { to = "fugazi", type = "audience" },
+  { to = "neds-atomic-dustbin", type = "audience" },
 ]

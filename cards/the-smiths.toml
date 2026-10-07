@@ -20,6 +20,6 @@ links = [
   { to = "morrissey", type = "member", note = "member (1982–1987)" },
   { to = "the-cure", type = "similar" },
   { to = "new-order", type = "similar" },
-  { to = "echo-and-the-bunnymen", type = "similar" },
-  { to = "the-jesus-and-mary-chain", type = "similar" },
+  { to = "echo-and-the-bunnymen", type = "audience" },
+  { to = "the-jesus-and-mary-chain", type = "audience" },
 ]

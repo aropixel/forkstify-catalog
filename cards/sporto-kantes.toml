@@ -1,0 +1,22 @@
+format = 1
+name = "Sporto Kantès"
+mbid = "22afa07b-1bb0-4ea5-8736-c3a54054d3fe"
+spotify = "7FpOGzPK8QgIpFOky6PnGk"
+begin = "1998"
+
+tags = ["electronic", "fr", "90s"]
+
+tops = [
+  "Whistle",
+  "Fuckin' Country",
+  "Slits",
+  "Car Video",
+  "Mundo",
+]
+
+links = [
+  { to = "wax-tailor", type = "audience" },
+  { to = "belleruche", type = "audience" },
+  { to = "general-elektriks", type = "similar" },
+  { to = "chinese-man", type = "audience" },
+]

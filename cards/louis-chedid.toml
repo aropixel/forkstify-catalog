@@ -17,6 +17,6 @@ tops = [
 
 links = [
   { to = "m", type = "family" },
-  { to = "francoise-hardy", type = "similar" },
-  { to = "etienne-daho", type = "similar" },
+  { to = "francoise-hardy", type = "audience" },
+  { to = "etienne-daho", type = "audience" },
 ]

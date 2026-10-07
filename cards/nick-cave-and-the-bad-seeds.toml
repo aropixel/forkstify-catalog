@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "pj-harvey", type = "similar" },
   { to = "tindersticks", type = "similar" },
-  { to = "tom-waits", type = "similar" },
-  { to = "cat-power", type = "similar" },
+  { to = "tom-waits", type = "audience" },
+  { to = "cat-power", type = "audience" },
 ]

@@ -16,5 +16,7 @@ tops = [
 ]
 
 links = [
-  { to = "chilly-gonzales", type = "similar" },
+  { to = "chilly-gonzales", type = "audience" },
+  { to = "dominique-a", type = "scene", note = "Spare, melancholic 90s French indie with minimalist arrangements." },
+  { to = "miossec", type = "scene", note = "90s Breton indie chanson, raw and melancholic." },
 ]

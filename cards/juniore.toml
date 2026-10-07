@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "la-femme", type = "similar" },
+  { to = "la-femme", type = "audience" },
   { to = "flavien-berger", type = "similar" },
-  { to = "lescop", type = "similar" },
-  { to = "jeanne-added", type = "similar" },
+  { to = "lescop", type = "audience" },
+  { to = "jeanne-added", type = "audience" },
 ]

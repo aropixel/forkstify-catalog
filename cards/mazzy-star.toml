@@ -17,8 +17,8 @@ tops = [
 
 links = [
   { to = "hope-sandoval", type = "member", note = "membre (1988–…)" },
-  { to = "elliott-smith", type = "similar" },
-  { to = "fiona-apple", type = "similar" },
-  { to = "radiohead", type = "similar" },
+  { to = "elliott-smith", type = "audience" },
+  { to = "fiona-apple", type = "audience" },
+  { to = "radiohead", type = "audience" },
   { to = "yo-la-tengo", type = "similar" },
 ]

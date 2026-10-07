@@ -1,0 +1,23 @@
+format = 1
+name = "Apashe"
+mbid = "ce0724ab-2d63-415b-bbb1-839f97bb771a"
+spotify = "1fd3fmwlhrDl2U5wbbPQYN"
+begin = "1992"
+origin = "Bruxelles-Ville / Stad Brussel"
+
+tags = ["dubstep", "electro", "electro-house", "house", "ca"]
+
+tops = [
+  "Majesty",
+  "Rome Is Burning",
+  "RIP",
+  "Lacrimosa",
+  "LABORATORES",
+]
+
+links = [
+  { to = "rl-grime", type = "audience" },
+  { to = "flux-pavilion", type = "audience" },
+  { to = "black-tiger-sex-machine", type = "audience" },
+  { to = "wasiu", type = "audience" },
+]

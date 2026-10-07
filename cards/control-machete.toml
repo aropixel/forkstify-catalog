@@ -16,9 +16,9 @@ tops = [
 ]
 
 links = [
-  { to = "kinto-sol", type = "similar" },
-  { to = "caballeros-del-plan-g", type = "similar" },
+  { to = "kinto-sol", type = "audience" },
+  { to = "caballeros-del-plan-g", type = "audience" },
   { to = "akwid", type = "similar" },
-  { to = "dyablo", type = "similar" },
+  { to = "dyablo", type = "audience" },
   { to = "molotov", type = "scene" },
 ]

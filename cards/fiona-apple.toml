@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "mazzy-star", type = "similar" },
-  { to = "elliott-smith", type = "similar" },
-  { to = "radiohead", type = "similar" },
-  { to = "black-box-recorder", type = "similar" },
+  { to = "mazzy-star", type = "audience" },
+  { to = "elliott-smith", type = "audience" },
+  { to = "radiohead", type = "audience" },
+  { to = "black-box-recorder", type = "audience" },
 ]

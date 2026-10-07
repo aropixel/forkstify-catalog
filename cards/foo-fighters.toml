@@ -17,6 +17,6 @@ tops = [
 
 links = [
   { to = "red-hot-chili-peppers", type = "similar" },
-  { to = "nirvana", type = "similar" },
+  { to = "nirvana", type = "audience" },
   { to = "weezer", type = "similar" },
 ]

@@ -13,8 +13,8 @@ tops = [
 ]
 
 links = [
-  { to = "akwid", type = "similar" },
-  { to = "jae-p", type = "similar" },
-  { to = "kinto-sol", type = "similar" },
-  { to = "kartel-de-las-calles", type = "similar" },
+  { to = "akwid", type = "audience" },
+  { to = "jae-p", type = "audience" },
+  { to = "kinto-sol", type = "audience" },
+  { to = "kartel-de-las-calles", type = "audience" },
 ]

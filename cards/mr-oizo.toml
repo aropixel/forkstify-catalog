@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "etienne-de-crecy", type = "similar" },
-  { to = "boys-noize", type = "similar" },
+  { to = "boys-noize", type = "audience" },
   { to = "the-chemical-brothers", type = "similar" },
-  { to = "sebastian", type = "similar" },
+  { to = "sebastian", type = "audience" },
 ]

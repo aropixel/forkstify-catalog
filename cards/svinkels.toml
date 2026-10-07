@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "ttc", type = "similar" },
-  { to = "stupeflip", type = "similar" },
+  { to = "ttc", type = "audience" },
+  { to = "stupeflip", type = "audience" },
   { to = "iam", type = "similar" },
   { to = "joeystarr", type = "similar" },
 ]

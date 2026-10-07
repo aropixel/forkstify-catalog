@@ -20,5 +20,5 @@ links = [
   { to = "pulp", type = "similar" },
   { to = "morrissey", type = "similar" },
   { to = "suede", type = "similar" },
-  { to = "primal-scream", type = "similar" },
+  { to = "primal-scream", type = "audience" },
 ]

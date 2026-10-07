@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "syd-matters", type = "similar" },
-  { to = "patrick-watson", type = "similar" },
-  { to = "tamino", type = "similar" },
-  { to = "grizzly-bear", type = "similar" },
+  { to = "patrick-watson", type = "audience" },
+  { to = "tamino", type = "audience" },
+  { to = "grizzly-bear", type = "audience" },
 ]

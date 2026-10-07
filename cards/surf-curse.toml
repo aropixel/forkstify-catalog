@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "the-rare-occasions", type = "similar" },
-  { to = "the-drums", type = "similar" },
-  { to = "vundabar", type = "similar" },
-  { to = "current-joys", type = "similar" },
+  { to = "the-rare-occasions", type = "audience" },
+  { to = "the-drums", type = "audience" },
+  { to = "vundabar", type = "audience" },
+  { to = "current-joys", type = "audience" },
 ]

@@ -20,6 +20,6 @@ links = [
   { to = "wyclef-jean", type = "member" },
   { to = "busta-rhymes", type = "similar" },
   { to = "de-la-soul", type = "similar" },
-  { to = "ol-dirty-bastard", type = "similar" },
+  { to = "ol-dirty-bastard", type = "audience" },
   { to = "outkast", type = "similar" },
 ]

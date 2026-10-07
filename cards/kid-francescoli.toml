@@ -1,0 +1,23 @@
+format = 1
+name = "Kid Francescoli"
+mbid = "4e7473b1-0e6e-4530-b374-b9c80ec7832b"
+spotify = "2G7QgTep5IsJHGHm1hXygD"
+begin = "2000"
+origin = "Marseille"
+
+tags = ["fr", "2000s"]
+
+tops = [
+  "Moon (And It Went Like)",
+  "Blow Up",
+  "Diamond Veins (Kid Francescoli Remix)",
+  "Nopalitos",
+  "The Player",
+]
+
+links = [
+  { to = "blow", type = "audience" },
+  { to = "camel-power-club", type = "audience" },
+  { to = "napkey", type = "audience" },
+  { to = "french-79", type = "audience" },
+]

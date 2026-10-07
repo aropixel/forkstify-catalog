@@ -19,5 +19,5 @@ links = [
   { to = "the-cranberries", type = "similar" },
   { to = "u2", type = "similar" },
   { to = "sheryl-crow", type = "similar" },
-  { to = "keane", type = "similar" },
+  { to = "keane", type = "audience" },
 ]

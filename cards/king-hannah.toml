@@ -16,9 +16,9 @@ tops = [
 ]
 
 links = [
-  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "audience" },
   { to = "pj-harvey", type = "similar" },
-  { to = "beth-gibbons", type = "similar" },
-  { to = "kevin-morby", type = "similar" },
+  { to = "beth-gibbons", type = "audience" },
+  { to = "kevin-morby", type = "audience" },
   { to = "peter-kernel", type = "similar", note = "linked while listening, 2026-09-14" },
 ]

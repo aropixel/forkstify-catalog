@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "sleaford-mods", type = "similar" },
-  { to = "lcd-soundsystem", type = "similar" },
-  { to = "the-rapture", type = "similar" },
-  { to = "arcade-fire", type = "similar" },
+  { to = "sleaford-mods", type = "audience" },
+  { to = "lcd-soundsystem", type = "audience" },
+  { to = "the-rapture", type = "audience" },
+  { to = "arcade-fire", type = "audience" },
 ]

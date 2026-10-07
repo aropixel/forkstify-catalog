@@ -17,8 +17,8 @@ tops = [
 
 links = [
   { to = "romeo-elvis", type = "family" },
-  { to = "eddy-de-pretto", type = "similar" },
-  { to = "stromae", type = "similar" },
+  { to = "eddy-de-pretto", type = "audience" },
+  { to = "stromae", type = "audience" },
   { to = "therapie-taxi", type = "similar" },
-  { to = "bigflo-and-oli", type = "similar" },
+  { to = "bigflo-and-oli", type = "audience" },
 ]
