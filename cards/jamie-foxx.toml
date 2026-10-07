@@ -16,6 +16,6 @@ tops = [
 ]
 
 links = [
-  { to = "destinys-child", type = "similar" },
-  { to = "kelly-rowland", type = "similar" },
+  { to = "destinys-child", type = "audience" },
+  { to = "kelly-rowland", type = "audience" },
 ]

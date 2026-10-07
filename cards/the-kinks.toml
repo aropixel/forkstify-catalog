@@ -19,6 +19,6 @@ tops = [
 links = [
   { to = "the-beatles", type = "similar" },
   { to = "the-zombies", type = "similar" },
-  { to = "donovan", type = "similar" },
+  { to = "donovan", type = "audience" },
   { to = "bob-dylan", type = "similar" },
 ]

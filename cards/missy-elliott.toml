@@ -16,8 +16,9 @@ tops = [
 ]
 
 links = [
-  { to = "lil-kim", type = "similar" },
-  { to = "eve", type = "similar" },
-  { to = "ll-cool-j", type = "similar" },
-  { to = "mase", type = "similar" },
+  { to = "lil-kim", type = "audience" },
+  { to = "eve", type = "audience" },
+  { to = "ll-cool-j", type = "audience" },
+  { to = "mase", type = "audience" },
+  { to = "outkast", type = "scene", proximity = 4, note = "Playful, futuristic Southern hip-hop that ruled late-90s pop rap." },
 ]

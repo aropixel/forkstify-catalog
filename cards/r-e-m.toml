@@ -20,5 +20,5 @@ links = [
   { to = "u2", type = "similar" },
   { to = "the-cranberries", type = "similar" },
   { to = "david-bowie", type = "similar" },
-  { to = "iggy-pop", type = "similar" },
+  { to = "iggy-pop", type = "audience" },
 ]

@@ -19,5 +19,5 @@ links = [
   { to = "the-white-stripes", type = "similar" },
   { to = "the-kills", type = "similar" },
   { to = "kings-of-leon", type = "similar" },
-  { to = "the-dandy-warhols", type = "similar" },
+  { to = "the-dandy-warhols", type = "audience" },
 ]

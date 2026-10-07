@@ -16,5 +16,5 @@ tops = [
 ]
 
 links = [
-  { to = "yann-tiersen", type = "similar" },
+  { to = "yann-tiersen", type = "audience" },
 ]

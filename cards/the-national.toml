@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "half-moon-run", type = "similar" },
-  { to = "sharon-van-etten", type = "similar" },
+  { to = "sharon-van-etten", type = "audience" },
   { to = "band-of-horses", type = "similar" },
-  { to = "the-shins", type = "similar" },
+  { to = "the-shins", type = "audience" },
 ]

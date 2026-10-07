@@ -16,8 +16,8 @@ links = [
   { to = "kronomuzik", type = "member" },
   { to = "myd", type = "member" },
   { to = "squeezie", type = "member" },
-  { to = "mcfly-and-carlito", type = "similar" },
-  { to = "norman", type = "similar" },
-  { to = "joyca", type = "similar" },
-  { to = "amixem", type = "similar" },
+  { to = "mcfly-and-carlito", type = "audience" },
+  { to = "norman", type = "audience" },
+  { to = "joyca", type = "audience" },
+  { to = "amixem", type = "audience" },
 ]

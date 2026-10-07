@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "metronomy", type = "similar" },
   { to = "the-d", type = "similar" },
-  { to = "the-liminanas", type = "similar" },
+  { to = "the-liminanas", type = "audience" },
   { to = "girls-in-hawaii", type = "similar" },
 ]

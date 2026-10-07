@@ -17,7 +17,7 @@ tops = [
 ]
 
 links = [
-  { to = "future", type = "similar" },
+  { to = "future", type = "audience" },
   { to = "iann-dior", type = "similar" },
   { to = "xxxtentacion", type = "similar" },
   { to = "kodak-black", type = "similar" },

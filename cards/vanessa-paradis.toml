@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "etienne-daho", type = "similar" },
   { to = "m", type = "similar" },
-  { to = "louis-chedid", type = "similar" },
+  { to = "louis-chedid", type = "audience" },
   { to = "les-innocents", type = "similar" },
 ]

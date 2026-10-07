@@ -17,6 +17,6 @@ tops = [
 ]
 
 links = [
-  { to = "toumani-diabate", type = "similar" },
+  { to = "toumani-diabate", type = "audience" },
   { to = "tinariwen", type = "similar" },
 ]

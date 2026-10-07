@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "julien-clerc", type = "similar" },
-  { to = "michel-delpech", type = "similar" },
-  { to = "charles-aznavour", type = "similar" },
-  { to = "michel-polnareff", type = "similar" },
+  { to = "julien-clerc", type = "audience" },
+  { to = "michel-delpech", type = "audience" },
+  { to = "charles-aznavour", type = "audience" },
+  { to = "michel-polnareff", type = "audience" },
 ]

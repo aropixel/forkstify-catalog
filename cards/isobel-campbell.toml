@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "cat-power", type = "similar" },
-  { to = "tom-waits", type = "similar" },
-  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
-  { to = "tindersticks", type = "similar" },
+  { to = "cat-power", type = "audience" },
+  { to = "tom-waits", type = "audience" },
+  { to = "nick-cave-and-the-bad-seeds", type = "audience" },
+  { to = "tindersticks", type = "audience" },
 ]

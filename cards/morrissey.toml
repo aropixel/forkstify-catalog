@@ -17,8 +17,8 @@ tops = [
 
 links = [
   { to = "the-smiths", type = "member", note = "membre (1982–1987)" },
-  { to = "the-cure", type = "similar" },
+  { to = "the-cure", type = "audience" },
   { to = "r-e-m", type = "similar" },
-  { to = "new-order", type = "similar" },
+  { to = "new-order", type = "audience" },
   { to = "depeche-mode", type = "similar" },
 ]

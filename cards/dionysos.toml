@@ -16,7 +16,7 @@ tops = [
 ]
 
 links = [
-  { to = "noir-desir", type = "similar" },
-  { to = "m", type = "similar" },
+  { to = "noir-desir", type = "audience" },
+  { to = "m", type = "audience" },
   { to = "miossec", type = "similar" },
 ]

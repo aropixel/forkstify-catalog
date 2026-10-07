@@ -13,8 +13,9 @@ tops = [
 ]
 
 links = [
-  { to = "rubin-steiner", type = "similar" },
-  { to = "the-shoes", type = "similar" },
-  { to = "digitalism", type = "similar" },
-  { to = "the-toxic-avenger", type = "similar" },
+  { to = "rubin-steiner", type = "audience" },
+  { to = "the-shoes", type = "audience" },
+  { to = "digitalism", type = "audience" },
+  { to = "the-toxic-avenger", type = "audience" },
+  { to = "birdy-nam-nam", type = "scene", note = "Both part of the late-2000s French electro wave." },
 ]

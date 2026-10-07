@@ -18,7 +18,7 @@ tops = [
 
 links = [
   { to = "lcd-soundsystem", type = "similar" },
-  { to = "death-in-vegas", type = "similar" },
+  { to = "death-in-vegas", type = "audience" },
   { to = "hot-chip", type = "similar" },
-  { to = "metronomy", type = "similar" },
+  { to = "metronomy", type = "audience" },
 ]

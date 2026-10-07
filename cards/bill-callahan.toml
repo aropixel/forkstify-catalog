@@ -18,5 +18,5 @@ tops = [
 links = [
   { to = "kevin-morby", type = "similar" },
   { to = "jose-gonzalez", type = "similar" },
-  { to = "wilco", type = "similar" },
+  { to = "wilco", type = "audience" },
 ]

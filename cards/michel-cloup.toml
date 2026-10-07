@@ -17,8 +17,8 @@ tops = [
 links = [
   { to = "experience", type = "member" },
   { to = "binary-audio-misfits", type = "member" },
-  { to = "francoiz-breut", type = "similar" },
-  { to = "dominique-a", type = "similar" },
-  { to = "miossec", type = "similar" },
-  { to = "camille", type = "similar" },
+  { to = "francoiz-breut", type = "audience" },
+  { to = "dominique-a", type = "audience" },
+  { to = "miossec", type = "audience" },
+  { to = "camille", type = "audience" },
 ]

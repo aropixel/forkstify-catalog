@@ -18,7 +18,7 @@ tops = [
 links = [
   { to = "antoine-wielemans", type = "member", note = "membre (2000–…)" },
   { to = "pj-harvey", type = "similar" },
-  { to = "cat-power", type = "similar" },
+  { to = "cat-power", type = "audience" },
   { to = "the-d", type = "similar" },
   { to = "beirut", type = "similar" },
 ]

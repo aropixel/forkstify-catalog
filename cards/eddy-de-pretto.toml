@@ -13,5 +13,5 @@ tops = [
 ]
 
 links = [
-  { to = "therapie-taxi", type = "similar" },
+  { to = "therapie-taxi", type = "audience" },
 ]

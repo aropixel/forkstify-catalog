@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "lcd-soundsystem", type = "similar" },
-  { to = "css", type = "similar" },
-  { to = "phoenix", type = "similar" },
-  { to = "naive-new-beaters", type = "similar" },
+  { to = "css", type = "audience" },
+  { to = "phoenix", type = "audience" },
+  { to = "naive-new-beaters", type = "audience" },
 ]

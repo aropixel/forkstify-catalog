@@ -17,8 +17,8 @@ tops = [
 ]
 
 links = [
-  { to = "landscape", type = "similar" },
-  { to = "dan-san", type = "similar" },
-  { to = "overhead", type = "similar" },
+  { to = "landscape", type = "audience" },
+  { to = "dan-san", type = "audience" },
+  { to = "overhead", type = "audience" },
   { to = "yo-la-tengo", type = "similar" },
 ]

@@ -14,8 +14,8 @@ tops = [
 ]
 
 links = [
-  { to = "tire-le-coyote", type = "similar" },
-  { to = "mentana", type = "similar" },
-  { to = "kashtin", type = "similar" },
-  { to = "emile-proulx-cloutier", type = "similar" },
+  { to = "tire-le-coyote", type = "audience" },
+  { to = "mentana", type = "audience" },
+  { to = "kashtin", type = "audience" },
+  { to = "emile-proulx-cloutier", type = "audience" },
 ]

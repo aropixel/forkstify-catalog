@@ -1,0 +1,23 @@
+format = 1
+name = "Cigarettes After Sex"
+mbid = "34557d8f-ee4a-44ab-ae6e-49bb8ac604d0"
+spotify = "1QAJqy2dA3ihHBFIHRphZj"
+begin = "2008"
+origin = "El Paso"
+
+tags = ["dream-pop", "indie-pop", "ambient", "shoegaze", "us", "2000s"]
+
+tops = [
+  "Apocalypse",
+  "Cry",
+  "K.",
+  "Sunsetz",
+  "Sweet",
+]
+
+links = [
+  { to = "sufjan-stevens", type = "audience" },
+  { to = "lana-del-rey", type = "audience" },
+  { to = "beach-house", type = "audience" },
+  { to = "the-walters", type = "audience" },
+]

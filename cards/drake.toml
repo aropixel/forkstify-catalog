@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "future", type = "similar" },
-  { to = "21-savage", type = "similar" },
+  { to = "future", type = "audience" },
+  { to = "21-savage", type = "audience" },
   { to = "travis-scott", type = "similar" },
-  { to = "young-thug", type = "similar" },
+  { to = "young-thug", type = "audience" },
 ]

@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "amine", type = "similar" },
-  { to = "jack-harlow", type = "similar" },
+  { to = "amine", type = "audience" },
+  { to = "jack-harlow", type = "audience" },
   { to = "childish-gambino", type = "similar" },
-  { to = "vince-staples", type = "similar" },
+  { to = "vince-staples", type = "audience" },
 ]

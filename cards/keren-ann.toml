@@ -19,5 +19,5 @@ links = [
   { to = "camille", type = "similar" },
   { to = "yael-naim", type = "similar" },
   { to = "charlotte-gainsbourg", type = "similar" },
-  { to = "arthur-h", type = "similar" },
+  { to = "arthur-h", type = "audience" },
 ]

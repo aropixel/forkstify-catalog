@@ -1,0 +1,23 @@
+format = 1
+name = "Blondie"
+mbid = "4d2956d1-a3f7-44bb-9a41-67563e1a0c94"
+spotify = "4tpUmLEVLCGFr93o8hFFIB"
+begin = "1974"
+origin = "New York"
+
+tags = ["new-wave", "rock", "disco", "pop", "us", "70s"]
+
+tops = [
+  "Call Me",
+  "Heart Of Glass",
+  "One Way Or Another",
+  "Atomic",
+  "Maria",
+]
+
+links = [
+  { to = "david-bowie", type = "similar" },
+  { to = "pretenders", type = "audience" },
+  { to = "talking-heads", type = "similar" },
+  { to = "eurythmics", type = "audience" },
+]

@@ -19,5 +19,5 @@ tops = [
 links = [
   { to = "france-gall", type = "similar" },
   { to = "serge-gainsbourg", type = "similar" },
-  { to = "georges-moustaki", type = "similar" },
+  { to = "georges-moustaki", type = "audience" },
 ]

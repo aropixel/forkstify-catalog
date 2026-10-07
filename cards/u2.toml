@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "r-e-m", type = "similar" },
   { to = "the-cranberries", type = "similar" },
-  { to = "lenny-kravitz", type = "similar" },
+  { to = "lenny-kravitz", type = "audience" },
   { to = "david-bowie", type = "similar" },
 ]

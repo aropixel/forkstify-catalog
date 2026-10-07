@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "cat-power", type = "similar" },
   { to = "girls-in-hawaii", type = "similar" },
-  { to = "devendra-banhart", type = "similar" },
+  { to = "devendra-banhart", type = "audience" },
   { to = "syd-matters", type = "similar" },
 ]

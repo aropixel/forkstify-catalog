@@ -19,6 +19,6 @@ tops = [
 links = [
   { to = "2pac", type = "similar" },
   { to = "snoop-dogg", type = "similar" },
-  { to = "bone-thugs-n-harmony", type = "similar" },
-  { to = "the-notorious-b-i-g", type = "similar" },
+  { to = "bone-thugs-n-harmony", type = "audience" },
+  { to = "the-notorious-b-i-g", type = "audience" },
 ]

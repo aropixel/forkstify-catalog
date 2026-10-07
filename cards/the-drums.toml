@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "surf-curse", type = "similar" },
+  { to = "surf-curse", type = "audience" },
   { to = "mgmt", type = "similar" },
   { to = "the-growlers", type = "similar" },
-  { to = "cage-the-elephant", type = "similar" },
+  { to = "cage-the-elephant", type = "audience" },
 ]

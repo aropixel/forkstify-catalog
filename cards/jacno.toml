@@ -17,7 +17,7 @@ tops = [
 ]
 
 links = [
-  { to = "taxi-girl", type = "similar" },
-  { to = "les-rita-mitsouko", type = "similar" },
-  { to = "etienne-daho", type = "similar" },
+  { to = "taxi-girl", type = "audience" },
+  { to = "les-rita-mitsouko", type = "audience" },
+  { to = "etienne-daho", type = "audience" },
 ]

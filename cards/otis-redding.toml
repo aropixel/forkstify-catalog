@@ -18,7 +18,7 @@ tops = [
 
 links = [
   { to = "aretha-franklin", type = "similar" },
-  { to = "solomon-burke", type = "similar" },
-  { to = "wilson-pickett", type = "similar" },
-  { to = "james-brown", type = "similar" },
+  { to = "solomon-burke", type = "audience" },
+  { to = "wilson-pickett", type = "audience" },
+  { to = "james-brown", type = "audience" },
 ]

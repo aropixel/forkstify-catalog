@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "cat-power", type = "similar" },
+  { to = "cat-power", type = "audience" },
   { to = "the-d", type = "similar" },
-  { to = "angus-and-julia-stone", type = "similar" },
+  { to = "angus-and-julia-stone", type = "audience" },
   { to = "girls-in-hawaii", type = "similar" },
 ]

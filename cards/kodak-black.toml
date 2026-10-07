@@ -16,7 +16,7 @@ tops = [
 ]
 
 links = [
-  { to = "young-thug", type = "similar" },
-  { to = "future", type = "similar" },
-  { to = "offset", type = "similar" },
+  { to = "young-thug", type = "audience" },
+  { to = "future", type = "audience" },
+  { to = "offset", type = "audience" },
 ]

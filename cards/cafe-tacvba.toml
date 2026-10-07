@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "bunbury", type = "similar" },
-  { to = "jaguares", type = "similar" },
-  { to = "fobia", type = "similar" },
-  { to = "los-enanitos-verdes", type = "similar" },
+  { to = "bunbury", type = "audience" },
+  { to = "jaguares", type = "audience" },
+  { to = "fobia", type = "audience" },
+  { to = "los-enanitos-verdes", type = "audience" },
 ]

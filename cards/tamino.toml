@@ -1,0 +1,23 @@
+format = 1
+name = "Tamino"
+mbid = "60e0ba6c-b67e-44c0-b777-be65d42ef909"
+spotify = "3IWdvItNhmdo282Wwp0CwH"
+begin = "1996"
+origin = "Antwerp"
+
+tags = ["alternative-pop", "indie-rock", "pop", "singer-songwriter", "be"]
+
+tops = [
+  "Habibi",
+  "Indigo Night",
+  "Sunflower",
+  "Cigar",
+  "Indigo Night (Live at Ancienne Belgique)",
+]
+
+links = [
+  { to = "patrick-watson", type = "similar" },
+  { to = "soko", type = "audience" },
+  { to = "sufjan-stevens", type = "audience" },
+  { to = "black-sea-dahu", type = "audience" },
+]

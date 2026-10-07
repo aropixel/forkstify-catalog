@@ -13,6 +13,6 @@ tops = [
 ]
 
 links = [
-  { to = "brigitte-fontaine", type = "similar" },
-  { to = "camille", type = "similar" },
+  { to = "brigitte-fontaine", type = "audience" },
+  { to = "camille", type = "audience" },
 ]

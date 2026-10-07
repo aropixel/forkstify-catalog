@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "arnaud-rebotini", type = "similar" },
-  { to = "carl-craig", type = "similar" },
-  { to = "madben", type = "similar" },
+  { to = "carl-craig", type = "audience" },
+  { to = "madben", type = "audience" },
   { to = "etienne-de-crecy", type = "similar" },
 ]

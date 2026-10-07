@@ -16,7 +16,7 @@ tops = [
 ]
 
 links = [
-  { to = "metronomy", type = "similar" },
+  { to = "metronomy", type = "audience" },
   { to = "foals", type = "similar" },
   { to = "arcade-fire", type = "similar" },
   { to = "beck", type = "similar" },

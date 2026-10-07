@@ -19,5 +19,5 @@ links = [
   { to = "the-strokes", type = "similar" },
   { to = "interpol", type = "similar" },
   { to = "kings-of-leon", type = "similar" },
-  { to = "the-black-keys", type = "similar" },
+  { to = "the-black-keys", type = "audience" },
 ]

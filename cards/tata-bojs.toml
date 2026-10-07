@@ -14,8 +14,8 @@ tops = [
 ]
 
 links = [
-  { to = "vlasta-redl", type = "similar" },
-  { to = "david-stypka", type = "similar" },
-  { to = "mnaga-a-zdorp", type = "similar" },
-  { to = "prago-union", type = "similar" },
+  { to = "vlasta-redl", type = "audience" },
+  { to = "david-stypka", type = "audience" },
+  { to = "mnaga-a-zdorp", type = "audience" },
+  { to = "prago-union", type = "audience" },
 ]

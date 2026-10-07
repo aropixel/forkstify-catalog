@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "pj-harvey", type = "similar" },
-  { to = "nick-cave-and-the-bad-seeds", type = "similar" },
-  { to = "pulp", type = "similar" },
+  { to = "nick-cave-and-the-bad-seeds", type = "audience" },
+  { to = "pulp", type = "audience" },
   { to = "tindersticks", type = "similar" },
 ]

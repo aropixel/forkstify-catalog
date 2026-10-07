@@ -18,7 +18,7 @@ tops = [
 links = [
   { to = "serge-gainsbourg", type = "family" },
   { to = "keren-ann", type = "similar" },
-  { to = "camille", type = "similar" },
-  { to = "yael-naim", type = "similar" },
+  { to = "camille", type = "audience" },
+  { to = "yael-naim", type = "audience" },
   { to = "the-d", type = "similar" },
 ]

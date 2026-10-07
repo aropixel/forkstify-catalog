@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "s-crew", type = "similar" },
+  { to = "s-crew", type = "audience" },
   { to = "vald", type = "similar" },
-  { to = "deen-burbigo", type = "similar" },
-  { to = "dinos", type = "similar" },
+  { to = "deen-burbigo", type = "audience" },
+  { to = "dinos", type = "audience" },
 ]

@@ -20,5 +20,5 @@ links = [
   { to = "john-lennon", type = "similar" },
   { to = "george-harrison", type = "similar" },
   { to = "the-beatles", type = "similar" },
-  { to = "fleetwood-mac", type = "similar" },
+  { to = "fleetwood-mac", type = "audience" },
 ]

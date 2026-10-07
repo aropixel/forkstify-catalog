@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "los-autenticos-decadentes", type = "similar" },
-  { to = "soda-stereo", type = "similar" },
-  { to = "illya-kuryaki-and-the-valderramas", type = "similar" },
-  { to = "los-enanitos-verdes", type = "similar" },
+  { to = "los-autenticos-decadentes", type = "audience" },
+  { to = "soda-stereo", type = "audience" },
+  { to = "illya-kuryaki-and-the-valderramas", type = "audience" },
+  { to = "los-enanitos-verdes", type = "audience" },
 ]

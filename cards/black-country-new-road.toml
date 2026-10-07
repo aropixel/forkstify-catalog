@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "racing-mount-pleasant", type = "similar" },
-  { to = "cameron-winter", type = "similar" },
-  { to = "geese", type = "similar" },
-  { to = "black-midi", type = "similar" },
+  { to = "racing-mount-pleasant", type = "audience" },
+  { to = "cameron-winter", type = "audience" },
+  { to = "geese", type = "audience" },
+  { to = "black-midi", type = "audience" },
 ]

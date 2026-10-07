@@ -17,8 +17,8 @@ tops = [
 ]
 
 links = [
-  { to = "lou-reed", type = "similar" },
-  { to = "t-rex", type = "similar" },
+  { to = "lou-reed", type = "audience" },
+  { to = "t-rex", type = "audience" },
   { to = "the-velvet-underground", type = "similar" },
-  { to = "bob-dylan", type = "similar" },
+  { to = "bob-dylan", type = "audience" },
 ]

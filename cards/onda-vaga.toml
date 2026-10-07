@@ -1,0 +1,22 @@
+format = 1
+name = "Onda Vaga"
+mbid = "fa7c5fe9-26ed-483c-881c-12d5e9392caa"
+spotify = "3cBb4A9AZeZhcq781P3wCZ"
+begin = "2007"
+
+tags = ["folk-rock", "ar", "2000s"]
+
+tops = [
+  "Quedate Luna",
+  "Tataralí",
+  "Parque",
+  "Mariposita Del Amor",
+  "Como Que No?",
+]
+
+links = [
+  { to = "churupaca", type = "audience" },
+  { to = "susana-baca", type = "audience" },
+  { to = "colectivo-panamera", type = "audience" },
+  { to = "amparo-sanchez", type = "audience" },
+]

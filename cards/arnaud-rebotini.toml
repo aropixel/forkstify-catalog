@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "vitalic", type = "similar" },
-  { to = "modeselektor", type = "similar" },
+  { to = "vitalic", type = "audience" },
+  { to = "modeselektor", type = "audience" },
   { to = "laurent-garnier", type = "similar" },
-  { to = "molecule", type = "similar" },
+  { to = "molecule", type = "audience" },
 ]

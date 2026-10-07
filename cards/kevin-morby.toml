@@ -19,4 +19,5 @@ links = [
   { to = "bill-callahan", type = "similar" },
   { to = "jose-gonzalez", type = "similar" },
   { to = "beirut", type = "similar" },
+  { to = "bob-dylan", type = "influence", proximity = 3, note = "Wandering folk-rock songwriting with a laconic, storytelling vocal delivery." },
 ]

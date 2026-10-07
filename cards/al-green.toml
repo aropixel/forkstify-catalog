@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "marvin-gaye", type = "similar" },
-  { to = "donny-hathaway", type = "similar" },
+  { to = "donny-hathaway", type = "audience" },
   { to = "aretha-franklin", type = "similar" },
-  { to = "bobby-womack", type = "similar" },
+  { to = "bobby-womack", type = "audience" },
 ]

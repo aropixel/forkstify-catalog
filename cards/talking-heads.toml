@@ -18,7 +18,7 @@ tops = [
 
 links = [
   { to = "tina-weymouth", type = "member", note = "membre (1975–1991)" },
-  { to = "david-bowie", type = "similar" },
+  { to = "david-bowie", type = "audience" },
   { to = "the-b-52s", type = "similar" },
   { to = "the-clash", type = "similar" },
   { to = "the-cure", type = "similar" },

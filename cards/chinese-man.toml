@@ -1,0 +1,23 @@
+format = 1
+name = "Chinese Man"
+mbid = "0837d2bc-ceb6-4512-9490-b30f5c0390fa"
+spotify = "6vgw0jwJkUnW2NR1rzsQU3"
+begin = "2004"
+origin = "Aix-en-Provence"
+
+tags = ["hip-hop", "abstract-hip-hop", "ragga-hip-hop", "fr", "2000s"]
+
+tops = [
+  "I've got that tune",
+  "Washington Square",
+  "Get Up",
+  "Ordinary Man",
+  "Miss Chang",
+]
+
+links = [
+  { to = "al-tarba", type = "audience" },
+  { to = "degiheugi", type = "audience" },
+  { to = "le-peuple-de-l-herbe", type = "audience" },
+  { to = "wax-tailor", type = "audience" },
+]

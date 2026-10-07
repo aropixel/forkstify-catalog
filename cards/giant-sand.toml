@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "smog", type = "similar" },
-  { to = "calexico", type = "similar" },
+  { to = "smog", type = "audience" },
+  { to = "calexico", type = "audience" },
   { to = "gillian-welch", type = "similar" },
-  { to = "isobel-campbell", type = "similar" },
+  { to = "isobel-campbell", type = "audience" },
 ]

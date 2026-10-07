@@ -17,5 +17,5 @@ tops = [
 
 links = [
   { to = "j-balvin", type = "similar" },
-  { to = "farruko", type = "similar" },
+  { to = "farruko", type = "audience" },
 ]

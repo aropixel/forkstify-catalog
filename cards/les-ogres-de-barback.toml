@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "les-hurlements-dleo", type = "similar" },
+  { to = "les-hurlements-dleo", type = "audience" },
   { to = "la-rue-ketanou", type = "similar" },
-  { to = "tetes-raides", type = "similar" },
+  { to = "tetes-raides", type = "audience" },
   { to = "mano-solo", type = "similar" },
 ]

@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "the-national", type = "similar" },
   { to = "beirut", type = "similar" },
-  { to = "local-natives", type = "similar" },
+  { to = "local-natives", type = "audience" },
   { to = "alt-j", type = "similar" },
 ]

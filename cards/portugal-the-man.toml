@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "foals", type = "similar" },
-  { to = "two-door-cinema-club", type = "similar" },
-  { to = "the-kooks", type = "similar" },
-  { to = "broken-bells", type = "similar" },
+  { to = "two-door-cinema-club", type = "audience" },
+  { to = "the-kooks", type = "audience" },
+  { to = "broken-bells", type = "audience" },
 ]

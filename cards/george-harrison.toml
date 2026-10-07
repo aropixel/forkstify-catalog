@@ -1,0 +1,25 @@
+format = 1
+name = "George Harrison"
+mbid = "42a8f507-8412-4611-854f-926571049fa0"
+spotify = "7FIoB5PHdrMZVC3q2HE5MS"
+begin = "1943"
+end = "2001"
+origin = "Liverpool"
+
+tags = ["rock", "electronic", "experimental", "folk", "uk"]
+
+tops = [
+  "My Sweet Lord",
+  "Got My Mind Set on You",
+  "While My Guitar Gently Weeps",
+  "Isn't It A Pity",
+  "What Is Life",
+]
+
+links = [
+  { to = "the-beatles", type = "member", note = "member (1960–1970)" },
+  { to = "paul-mccartney", type = "similar" },
+  { to = "john-lennon", type = "similar" },
+  { to = "fleetwood-mac", type = "audience" },
+  { to = "wings", type = "similar" },
+]

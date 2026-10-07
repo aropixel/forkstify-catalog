@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "squeezie", type = "similar" },
-  { to = "mastu", type = "similar" },
-  { to = "bigflo-and-oli", type = "similar" },
-  { to = "amixem", type = "similar" },
+  { to = "squeezie", type = "audience" },
+  { to = "mastu", type = "audience" },
+  { to = "bigflo-and-oli", type = "audience" },
+  { to = "amixem", type = "audience" },
 ]

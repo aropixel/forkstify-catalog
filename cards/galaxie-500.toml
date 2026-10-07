@@ -18,6 +18,6 @@ tops = [
 
 links = [
   { to = "ride", type = "similar" },
-  { to = "sonic-youth", type = "similar" },
+  { to = "sonic-youth", type = "audience" },
   { to = "yo-la-tengo", type = "similar" },
 ]

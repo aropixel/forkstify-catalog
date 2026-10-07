@@ -18,5 +18,5 @@ tops = [
 
 links = [
   { to = "daft-punk", type = "similar" },
-  { to = "jabberwocky", type = "similar" },
+  { to = "jabberwocky", type = "audience" },
 ]

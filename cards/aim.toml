@@ -1,0 +1,23 @@
+format = 1
+name = "Aim"
+mbid = "8e678953-c97b-435b-af18-2425b6db71d0"
+spotify = "1ILwJ5zliBLMsRARQJjOMp"
+begin = "1970"
+origin = "Barrow-in-Furness"
+
+tags = ["electronic", "hip-hop", "trip-hop", "uk"]
+
+tops = [
+  "Ain't Got Time to Waste",
+  "Cold Water Music",
+  "Narco Coco",
+  "The Force",
+  "Sail",
+]
+
+links = [
+  { to = "the-herbaliser", type = "audience" },
+  { to = "dj-cam", type = "similar" },
+  { to = "mr-scruff", type = "audience" },
+  { to = "jon-kennedy", type = "audience" },
+]

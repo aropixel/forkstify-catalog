@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "fleetwood-mac", type = "similar" },
+  { to = "fleetwood-mac", type = "audience" },
   { to = "the-rolling-stones", type = "similar" },
-  { to = "santana", type = "similar" },
-  { to = "gary-moore", type = "similar" },
+  { to = "santana", type = "audience" },
+  { to = "gary-moore", type = "audience" },
 ]

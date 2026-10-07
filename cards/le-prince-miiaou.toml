@@ -1,0 +1,23 @@
+format = 1
+name = "Le Prince Miiaou"
+mbid = "bffa16f6-574e-46d1-b87b-853efffe64b2"
+spotify = "0fffWPHzxwbxt9Eb75nHX3"
+begin = "1984"
+origin = "Charente-Maritime"
+
+tags = ["rock", "fr"]
+
+tops = [
+  "Happy Song for Empty People",
+  "Turn Me Off",
+  "JFK",
+  "J'ai deux yeux",
+  "Poisson",
+]
+
+links = [
+  { to = "baden-baden", type = "audience" },
+  { to = "applause", type = "audience" },
+  { to = "alb", type = "audience" },
+  { to = "wave-machines", type = "audience" },
+]

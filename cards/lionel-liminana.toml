@@ -15,8 +15,8 @@ tops = [
 
 links = [
   { to = "the-liminanas", type = "member" },
-  { to = "the-brian-jonestown-massacre", type = "similar" },
-  { to = "fat-white-family", type = "similar" },
-  { to = "the-dandy-warhols", type = "similar" },
-  { to = "baxter-dury", type = "similar" },
+  { to = "the-brian-jonestown-massacre", type = "audience" },
+  { to = "fat-white-family", type = "audience" },
+  { to = "the-dandy-warhols", type = "audience" },
+  { to = "baxter-dury", type = "audience" },
 ]

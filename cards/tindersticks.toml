@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "cat-power", type = "similar" },
+  { to = "cat-power", type = "audience" },
   { to = "nick-cave-and-the-bad-seeds", type = "similar" },
-  { to = "timber-timbre", type = "similar" },
-  { to = "devendra-banhart", type = "similar" },
+  { to = "timber-timbre", type = "audience" },
+  { to = "devendra-banhart", type = "audience" },
 ]

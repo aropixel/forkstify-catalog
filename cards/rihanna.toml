@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "beyonce", type = "similar" },
-  { to = "nelly-furtado", type = "similar" },
+  { to = "nelly-furtado", type = "audience" },
   { to = "justin-timberlake", type = "similar" },
-  { to = "bruno-mars", type = "similar" },
+  { to = "bruno-mars", type = "audience" },
 ]

@@ -17,6 +17,6 @@ tops = [
 
 links = [
   { to = "metronomy", type = "similar" },
-  { to = "sebastien-tellier", type = "similar" },
+  { to = "sebastien-tellier", type = "audience" },
   { to = "her", type = "similar" },
 ]

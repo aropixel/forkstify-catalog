@@ -14,5 +14,5 @@ tops = [
 ]
 
 links = [
-  { to = "bertrand-belin", type = "similar" },
+  { to = "bertrand-belin", type = "audience" },
 ]

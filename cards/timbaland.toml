@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "missy-elliott", type = "similar" },
-  { to = "akon", type = "similar" },
-  { to = "fabolous", type = "similar" },
+  { to = "akon", type = "audience" },
+  { to = "fabolous", type = "audience" },
   { to = "justin-timberlake", type = "similar" },
 ]

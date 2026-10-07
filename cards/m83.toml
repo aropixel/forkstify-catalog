@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "metronomy", type = "similar" },
-  { to = "the-xx", type = "similar" },
-  { to = "hot-chip", type = "similar" },
-  { to = "phoenix", type = "similar" },
+  { to = "the-xx", type = "audience" },
+  { to = "hot-chip", type = "audience" },
+  { to = "phoenix", type = "audience" },
 ]

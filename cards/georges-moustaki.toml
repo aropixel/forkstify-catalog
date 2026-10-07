@@ -17,7 +17,7 @@ tops = [
 ]
 
 links = [
-  { to = "georges-brassens", type = "similar" },
-  { to = "francoise-hardy", type = "similar" },
-  { to = "serge-gainsbourg", type = "similar" },
+  { to = "georges-brassens", type = "audience" },
+  { to = "francoise-hardy", type = "audience" },
+  { to = "serge-gainsbourg", type = "audience" },
 ]

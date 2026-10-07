@@ -14,7 +14,7 @@ tops = [
 ]
 
 links = [
-  { to = "squeezie", type = "similar" },
-  { to = "joyca", type = "similar" },
-  { to = "norman", type = "similar" },
+  { to = "squeezie", type = "audience" },
+  { to = "joyca", type = "audience" },
+  { to = "norman", type = "audience" },
 ]

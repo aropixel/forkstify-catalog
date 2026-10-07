@@ -17,6 +17,6 @@ tops = [
 
 links = [
   { to = "ozuna", type = "similar" },
-  { to = "daddy-yankee", type = "similar" },
-  { to = "farruko", type = "similar" },
+  { to = "daddy-yankee", type = "audience" },
+  { to = "farruko", type = "audience" },
 ]

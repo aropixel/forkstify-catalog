@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "gorillaz", type = "similar" },
+  { to = "gorillaz", type = "audience" },
   { to = "the-drums", type = "similar" },
-  { to = "foster-the-people", type = "similar" },
-  { to = "the-growlers", type = "similar" },
+  { to = "foster-the-people", type = "audience" },
+  { to = "the-growlers", type = "audience" },
 ]

@@ -17,8 +17,8 @@ tops = [
 ]
 
 links = [
-  { to = "tetes-raides", type = "similar" },
+  { to = "tetes-raides", type = "audience" },
   { to = "les-ogres-de-barback", type = "similar" },
-  { to = "tarmac", type = "similar" },
+  { to = "tarmac", type = "audience" },
   { to = "sanseverino", type = "similar" },
 ]

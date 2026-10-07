@@ -15,8 +15,8 @@ tops = [
 ]
 
 links = [
-  { to = "le-peuple-de-l-herbe", type = "similar" },
-  { to = "chinese-man", type = "similar" },
-  { to = "dub-pistols", type = "similar" },
-  { to = "zenzile", type = "similar" },
+  { to = "le-peuple-de-l-herbe", type = "audience" },
+  { to = "chinese-man", type = "audience" },
+  { to = "dub-pistols", type = "audience" },
+  { to = "zenzile", type = "audience" },
 ]

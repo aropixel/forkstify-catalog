@@ -19,6 +19,6 @@ tops = [
 links = [
   { to = "baxter-dury", type = "similar" },
   { to = "girls-in-hawaii", type = "similar" },
-  { to = "jeanne-added", type = "similar" },
+  { to = "jeanne-added", type = "audience" },
   { to = "beirut", type = "similar" },
 ]

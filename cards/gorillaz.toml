@@ -16,7 +16,7 @@ tops = [
 ]
 
 links = [
-  { to = "the-strokes", type = "similar" },
+  { to = "the-strokes", type = "audience" },
   { to = "tame-impala", type = "similar" },
   { to = "arctic-monkeys", type = "similar" },
   { to = "phoenix", type = "similar" },

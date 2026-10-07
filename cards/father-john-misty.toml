@@ -16,8 +16,8 @@ tops = [
 ]
 
 links = [
-  { to = "sharon-van-etten", type = "similar" },
+  { to = "sharon-van-etten", type = "audience" },
   { to = "kevin-morby", type = "similar" },
   { to = "the-national", type = "similar" },
-  { to = "courtney-barnett", type = "similar" },
+  { to = "courtney-barnett", type = "audience" },
 ]

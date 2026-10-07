@@ -1,0 +1,24 @@
+format = 1
+name = "Galt MacDermot"
+mbid = "479e16b4-2b26-40d1-ba65-9ce5ea8ae6a6"
+spotify = "3b6TinIPahsS8iSCYAeinr"
+begin = "1928"
+end = "2018"
+origin = "Montréal"
+
+tags = ["ca", "jazz"]
+
+tops = [
+  "Coffee Cold",
+  "Let The Sunshine In",
+  "I Got Life",
+  "Hair",
+  "Ripped Open By Metal Explosions",
+]
+
+links = [
+  { to = "james-rado", type = "audience" },
+  { to = "lou-reed", type = "audience" },
+  { to = "rachel-sweet", type = "audience" },
+  { to = "paul-williams", type = "audience" },
+]

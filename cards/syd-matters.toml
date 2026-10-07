@@ -16,7 +16,7 @@ tops = [
 ]
 
 links = [
-  { to = "cat-power", type = "similar" },
+  { to = "cat-power", type = "audience" },
   { to = "patrick-watson", type = "similar" },
   { to = "soko", type = "similar" },
   { to = "beirut", type = "similar" },

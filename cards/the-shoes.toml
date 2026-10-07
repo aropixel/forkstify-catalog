@@ -15,8 +15,8 @@ tops = [
 ]
 
 links = [
-  { to = "paul-collins", type = "similar" },
-  { to = "the-clash", type = "similar" },
-  { to = "the-jam", type = "similar" },
-  { to = "the-undertones", type = "similar" },
+  { to = "paul-collins", type = "audience" },
+  { to = "the-clash", type = "audience" },
+  { to = "the-jam", type = "audience" },
+  { to = "the-undertones", type = "audience" },
 ]

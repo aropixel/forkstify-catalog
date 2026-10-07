@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "cafe-tacvba", type = "similar" },
-  { to = "bunbury", type = "similar" },
-  { to = "genitallica", type = "similar" },
-  { to = "heroes-del-silencio", type = "similar" },
+  { to = "bunbury", type = "audience" },
+  { to = "genitallica", type = "audience" },
+  { to = "heroes-del-silencio", type = "audience" },
 ]

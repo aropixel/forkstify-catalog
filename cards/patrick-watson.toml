@@ -1,0 +1,23 @@
+format = 1
+name = "Patrick Watson"
+mbid = "592da4c4-9618-4a1a-a944-e60c05c39037"
+spotify = "7bPs6jf983f0bjRAt1yxDM"
+begin = "1979"
+origin = "Lancaster"
+
+tags = ["chamber-pop", "indie-rock", "rock", "ca"]
+
+tops = [
+  "Je te laisserai des mots",
+  "The Great Escape",
+  "Gordon in the Willows",
+  "we fly for the ones we love",
+  "Lighthouse",
+]
+
+links = [
+  { to = "tamino", type = "similar" },
+  { to = "syd-matters", type = "similar" },
+  { to = "this-is-the-kit", type = "audience" },
+  { to = "sufjan-stevens", type = "audience" },
+]

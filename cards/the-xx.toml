@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "alt-j", type = "similar" },
-  { to = "m83", type = "similar" },
-  { to = "archive", type = "similar" },
+  { to = "m83", type = "audience" },
+  { to = "archive", type = "audience" },
   { to = "isaac-delusion", type = "similar" },
 ]

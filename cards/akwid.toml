@@ -15,8 +15,8 @@ tops = [
 ]
 
 links = [
-  { to = "kinto-sol", type = "similar" },
-  { to = "cartel-de-santa", type = "similar" },
-  { to = "dyablo", type = "similar" },
-  { to = "jae-p", type = "similar" },
+  { to = "kinto-sol", type = "audience" },
+  { to = "cartel-de-santa", type = "audience" },
+  { to = "dyablo", type = "audience" },
+  { to = "jae-p", type = "audience" },
 ]

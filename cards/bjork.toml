@@ -18,6 +18,6 @@ tops = [
 links = [
   { to = "archive", type = "similar" },
   { to = "portishead", type = "similar" },
-  { to = "air", type = "similar" },
+  { to = "air", type = "audience" },
   { to = "massive-attack", type = "similar" },
 ]

@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "cordae", type = "similar" },
-  { to = "amine", type = "similar" },
+  { to = "amine", type = "audience" },
   { to = "kendrick-lamar", type = "similar" },
-  { to = "jack-harlow", type = "similar" },
+  { to = "jack-harlow", type = "audience" },
 ]
