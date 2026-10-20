@@ -1,0 +1,229 @@
+format = 1
+
+[[release]]
+mbid = "549c3168-7ec3-3c10-a831-f838e1748180"
+title = "Not Sokute"
+type = "ep"
+date = "2007-04-11"
+tracks = [
+  { n = 1, title = "The Dandy Cowboys", mbid = "f1b019c0-6b3b-43ca-b612-8e6ec22fdb64" },
+  { n = 2, title = "Shitty Day", mbid = "9137d83f-4029-4e94-ba74-2dfd03aadb17" },
+  { n = 3, title = "I’ll Kill Her", mbid = "5487a805-39f4-4c01-bf5f-8306fc0135da" },
+  { n = 4, title = "Take My Heart", mbid = "52d5260e-4114-4320-a65b-87f39755e2d3" },
+  { n = 5, title = "It’s Raining Outside", mbid = "fdf14f6c-1806-462e-a67e-8db576659c3d" },
+]
+
+[[release]]
+mbid = "e3230d0a-5c58-4b44-baf9-4ba9049e079c"
+title = "Mum"
+type = "single"
+date = "2009-07-31"
+tracks = [
+  { n = 1, title = "Mum", mbid = "96292311-1c75-4ebe-8d3f-7ad484687652" },
+  { n = 2, title = "Mum (Instrumental)", mbid = "e21de8d4-f0ad-4aa7-a375-59738c1fa0f0" },
+]
+
+[[release]]
+mbid = "a040f8f7-85a6-4309-a274-9037999b1888"
+title = "I Thought I Was An Alien"
+type = "single"
+date = "2011-11-28"
+tracks = [
+  { n = 1, title = "I Thought I Was An Alien", mbid = "cc6f83a9-db93-44ab-a2ab-7035cced707a" },
+]
+
+[[release]]
+mbid = "2811772b-8c80-4e6e-8202-8049ebca29fa"
+title = "First Love Never Die"
+type = "single"
+date = "2012-01-30"
+tracks = [
+  { n = 1, title = "First Love Never Die", mbid = "96563ff8-afce-40f4-9cec-c08571ad0197" },
+]
+
+[[release]]
+mbid = "e24e3948-e377-4c05-ab77-c25528f68d53"
+title = "I Thought I Was an Alien"
+type = "album"
+date = "2012-02-20"
+tracks = [
+  { n = 1, title = "I Just Want to Make It New With You", mbid = "c5e658d9-e189-42f4-92a0-59c96db07811" },
+  { n = 2, title = "I Thought I Was an Alien", mbid = "cc6f83a9-db93-44ab-a2ab-7035cced707a" },
+  { n = 3, title = "People Always Look Better in the Sun", mbid = "0d1a5ba1-6559-48c5-ac02-0de9a8c291ee" },
+  { n = 4, title = "We Might Be Dead by Tomorrow", mbid = "8e6f4f24-9ce0-49c3-aff2-8ee24002b570" },
+  { n = 5, title = "No More Home, No More Love", mbid = "b132ebe4-affb-47f7-924b-700737a0a4e3" },
+  { n = 6, title = "For Marlon", mbid = "18a95943-87cf-4311-856d-c16fdc866878" },
+  { n = 7, title = "First Love Never Die", mbid = "96563ff8-afce-40f4-9cec-c08571ad0197" },
+  { n = 8, title = "Treat Your Woman Right", mbid = "48b0cfe8-ecce-432b-9648-5d45f2315216" },
+  { n = 9, title = "How Are You", mbid = "bf78349b-05ee-4ba5-ba93-7bbfbb11cf7f" },
+  { n = 10, title = "Don’t You Touch Me", mbid = "0778ecb2-4e24-4bc3-b891-694c037a9e83" },
+  { n = 11, title = "Destruction of the Disgusting Ugly Hate", mbid = "cc40edf9-abcb-4624-9634-cbd4e883cf56" },
+  { n = 12, title = "Happy Hippie Birthday", mbid = "2288b038-7cd4-46d9-b5c0-2120894882ef" },
+  { n = 13, title = "I’ve Been Alone Too Long", mbid = "e69a2726-1a94-4791-9957-3fb47d11eb0d" },
+  { n = 14, title = "Why Don’t You Eat Me Now You Can", mbid = "f543e78e-f57f-46db-be5b-69e68a99b5ee" },
+  { n = 15, title = "You Have a Power on Me", mbid = "d5d1f278-71d8-46bd-b962-0a496c8859a6" },
+]
+
+[[release]]
+mbid = "461367ae-06fd-4ba5-b435-e595301ac3e4"
+title = "Love Letter"
+type = "single"
+date = "2014-02-12"
+tracks = [
+  { n = 1, title = "Love Letter", mbid = "c236eb9b-ed08-4770-b402-cca628f984a6" },
+]
+
+[[release]]
+mbid = "caca40ce-9998-4b2e-9517-ef6fea3dd944"
+title = "Girls on Film"
+type = "single"
+date = "2014-08-14"
+tracks = [
+  { n = 1, title = "Girls on Film", mbid = "ed654cc9-cadb-411a-8906-856b72460e5b" },
+]
+
+[[release]]
+mbid = "ff25fa24-db0a-45f1-b3aa-61d430303e29"
+title = "Who Wears the Pants??"
+type = "single"
+date = "2015-01-08"
+tracks = [
+  { n = 1, title = "Who Wears the Pants??", mbid = "63109010-3a39-40c0-a432-0bb9c2c4b8b5" },
+]
+
+[[release]]
+mbid = "08ca5faf-7a51-4155-a75c-e65221e919a9"
+title = "Ocean of Tears"
+type = "single"
+date = "2015-02-04"
+tracks = [
+  { n = 1, title = "Ocean of Tears", mbid = "1f75faea-2d3b-4545-8c04-a34af218cbff" },
+]
+
+[[release]]
+mbid = "c9aa4c00-4ad3-4847-966c-567cb5a7b99b"
+title = "My Dreams Dictate My Reality"
+type = "album"
+date = "2015-02-27"
+spotify = "3NAlHhH6KDVWUvAg3xxpf3"
+tracks = [
+  { n = 1, title = "I Come in Peace", mbid = "e64d08d6-7c7e-4218-893e-bec447dac046" },
+  { n = 2, title = "Ocean of Tears", mbid = "1f75faea-2d3b-4545-8c04-a34af218cbff" },
+  { n = 3, title = "Who Wears the Pants??", mbid = "63109010-3a39-40c0-a432-0bb9c2c4b8b5" },
+  { n = 4, title = "My Precious", mbid = "877e1f2b-e63e-486c-8158-cb563b08a5da" },
+  { n = 5, title = "Bad Poetry", mbid = "a623147f-3ac8-4245-af50-574cee5bdce6" },
+  { n = 6, title = "Temporary Mood Swings", mbid = "70a7e0bd-d047-4a8b-a4df-3e469604e1ed" },
+  { n = 7, title = "My Dreams Dictate My Reality", mbid = "6cf67b7c-48fc-49c2-bf61-e31d38aa794c" },
+  { n = 8, title = "Monster Love", mbid = "a5635874-fa2c-46ea-827b-2a41efc2ba2b" },
+  { n = 9, title = "Peter Pan Syndrome", mbid = "8ed1fc13-6756-41b1-a0f1-7bba6c939caa" },
+  { n = 10, title = "Lovetrap", mbid = "b2788c8b-8275-4233-aada-eb5c50f347b7" },
+  { n = 11, title = "Visions", mbid = "aba521d2-6e9c-42e2-9af5-f783003d3c71" },
+  { n = 12, title = "Keaton’s Song", mbid = "46d49203-f5a1-4635-aeb6-23983c9e10a0" },
+]
+
+[[release]]
+mbid = "0c1a768c-d31c-4d45-862e-dc5d6f513486"
+title = "Why"
+type = "single"
+date = "2016-07-15"
+spotify = "5NPNPYph8VfZy1ArUza66A"
+tracks = [
+  { n = 1, title = "Why (radio edit)", mbid = "fe7aaf09-4b59-4864-84f4-bc9c3f7963de" },
+]
+
+[[release]]
+mbid = "c3acb8ae-6258-4bb1-beaf-8a3ecb131845"
+title = "Sweet Sound of Ignorance"
+type = "single"
+date = "2017-02-17"
+spotify = "4OlJn222cAXyQbEBKX9L5A"
+tracks = [
+  { n = 1, title = "Sweet Sound of Ignorance", mbid = "98b6249f-138b-4a57-82f8-4b9cb6867673" },
+]
+
+[[release]]
+mbid = "8dfa0ce8-e5a1-41f3-a67c-09e072102fd8"
+title = "No One Else in Mind"
+type = "single"
+date = "2017-05-04"
+tracks = [
+  { n = 1, title = "No One Else in Mind", mbid = "56430d0c-e46a-448f-8ba8-8625ad0fe932" },
+]
+
+[[release]]
+mbid = "6a2f4438-89f2-45b1-ab94-53448d57e90b"
+title = "Diabolo menthe"
+type = "single"
+date = "2018-01-26"
+spotify = "6BcXXd7UJtMVWYHJ0McGdX"
+tracks = [
+  { n = 1, title = "Diabolo menthe", mbid = "8ecd11db-24f1-49a4-b6e2-2ad105d70169" },
+]
+
+[[release]]
+mbid = "0c3ad47d-404d-4a9b-9c0c-ea764361b65e"
+title = "Keep You Close"
+type = "single"
+date = "2018-03-26"
+tracks = [
+  { n = 1, title = "Keep You Close", mbid = "873867bf-36a8-491c-8615-d9ec6c64e8af" },
+]
+
+[[release]]
+mbid = "80bbfa68-0bae-49e6-8bd6-a13c4f5a2235"
+title = "Being Sad Is Not a Crime"
+type = "single"
+date = "2020-01-17"
+spotify = "1R2hnf4JZKt8l4uQIyObrH"
+tracks = [
+  { n = 1, title = "Being Sad Is Not a Crime", mbid = "69e2f618-6b3f-4a81-bd7c-207a64e10cce" },
+]
+
+[[release]]
+mbid = "1d06cf2a-b422-4a0c-883f-3f8533215335"
+title = "Are You a Magician?"
+type = "single"
+date = "2020-03-13"
+spotify = "5xnlwAlmpCAACCYHCIFTRF"
+tracks = [
+  { n = 1, title = "Are You a Magician?", mbid = "5dab00be-e974-489e-9d93-b28a67f9186e" },
+]
+
+[[release]]
+mbid = "538d47d4-4854-48c3-a831-dcc156af8ced"
+title = "Feel Feelings"
+type = "album"
+date = "2020-06-10"
+spotify = "41KXF7xcvjRK4FC8OcFKoS"
+tracks = [
+  { n = 1, title = "Are You a Magician?", mbid = "5dab00be-e974-489e-9d93-b28a67f9186e" },
+  { n = 2, title = "Being Sad Is Not a Crime", mbid = "69e2f618-6b3f-4a81-bd7c-207a64e10cce" },
+  { n = 3, title = "Blasphémie", mbid = "50fe473a-c932-48bf-946d-152bb389c37f" },
+  { n = 4, title = "Looking for Love", mbid = "fe92263d-1262-4c1c-8efd-6a0d1dc693c7" },
+  { n = 5, title = "Oh, to Be a Rainbow!", mbid = "024d5a32-c0dc-4f66-b727-12ac7d3c0f85" },
+  { n = 6, title = "Quiet Storm", mbid = "63673560-0744-415f-b2b7-e9a9bbe0567f" },
+  { n = 7, title = "Don’t Tell Me to Smile", mbid = "6c8c560e-a7c5-4e8e-a4f4-a13366c8ece4" },
+  { n = 8, title = "Replaceable Heads", mbid = "9e598b39-fdc8-4561-a816-14f121dbba39" },
+  { n = 9, title = "Let Me Adore You", mbid = "0e894fb7-85c0-4d5b-bdbb-951a18e22398" },
+  { n = 10, title = "Now What?", mbid = "4504f55d-15a9-4a90-87ef-7d3e49a6db3f" },
+  { n = 11, title = "Time Waits for No One", mbid = "4a4ebeab-04f5-4ddc-8793-2bce4123cd0b" },
+  { n = 12, title = "Hurt Me With Your Ego", mbid = "5f484abc-5258-4c65-8be5-80c0ea35d04a" },
+]
+
+[[release]]
+mbid = "0f0b8efd-938a-4595-82a4-43b6828e6cd5"
+title = "Oh My Love"
+type = "single"
+date = "2021-02-23"
+tracks = [
+  { n = 1, title = "Oh My Love", mbid = "4889abe5-23f5-458f-8af1-68da0f6c573d" },
+]
+
+[[release]]
+mbid = "fe9d1862-ba30-4601-a484-3ce2447490ac"
+title = "Girls on Film (Making Patterns Rhyme Version)"
+type = "single"
+date = "2021-09-01"
+tracks = [
+  { n = 1, title = "Girls on Film (Making Patterns Rhyme Version)", mbid = "5126b60c-181b-4c99-9461-4e971cdf6dbf" },
+]

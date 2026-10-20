@@ -1,0 +1,567 @@
+format = 1
+
+[[release]]
+mbid = "ce91015e-9371-3f19-b207-3ea8b20821f5"
+title = "Hong Kong Garden"
+type = "single"
+date = "1978-08-18"
+tracks = [
+  { n = 1, title = "Hong Kong Garden", mbid = "9410ed07-4d9e-4fe5-a8cc-54fdac315069" },
+  { n = 2, title = "Voices", mbid = "55aa0181-afda-42d5-8582-46817bb2277e" },
+]
+
+[[release]]
+mbid = "67f24412-60c9-36f3-a1dc-e48e56098802"
+title = "The Scream"
+type = "album"
+date = "1978-11-13"
+spotify = "3uMr78kOScjc6eLHMYcVl4"
+tracks = [
+  { n = 1, title = "Hong Kong Garden", mbid = "9410ed07-4d9e-4fe5-a8cc-54fdac315069" },
+  { n = 2, title = "Jigsaw Feeling", mbid = "40a37b0c-dd7d-49ed-9317-3b438897c844" },
+  { n = 3, title = "Overground", mbid = "2066cf30-0e2d-4c95-acc4-57d6b9379bde" },
+  { n = 4, title = "Carcass", mbid = "51ec5ba3-3da0-4ecd-9f64-d8396accda00" },
+  { n = 5, title = "Helter Skelter", mbid = "8375e303-0260-4902-b865-72632e152c0c" },
+  { n = 6, title = "Mirage", mbid = "21ed615e-7cf7-41d2-9b13-e16fd370c41b" },
+  { n = 7, title = "Metal Postcard (Mittageisen)", mbid = "63422237-141a-4668-98a3-fab3249c9d1b" },
+  { n = 8, title = "Nicotine Stain", mbid = "55c91668-aa06-4970-957e-c1e92a926e0c" },
+  { n = 9, title = "Suburban Relapse", mbid = "d6aa6af3-d5c3-4711-aa0f-f8b3fae74ba1" },
+  { n = 10, title = "Switch", mbid = "3d12c554-3238-40be-81f2-ca24796411c3" },
+  { n = 11, title = "Pure", mbid = "77ae0037-9bf7-418f-9661-e356eec09cdc" },
+]
+
+[[release]]
+mbid = "baf476da-d4a4-3ef8-b9b8-a87d0f9b4e1c"
+title = "The Staircase (Mystery)"
+type = "single"
+date = "1979-03-23"
+tracks = [
+  { n = 1, title = "The Staircase (Mystery)", mbid = "0d150bd4-b71c-48ad-bf49-205475d5a45e" },
+  { n = 2, title = "20th Century Boy", mbid = "df50e4f4-23aa-4483-9523-756a6da187e3" },
+]
+
+[[release]]
+mbid = "6d86be24-565c-3276-89ae-7ddca7b7126c"
+title = "Playground Twist"
+type = "single"
+date = "1979-07-28"
+tracks = [
+  { n = 1, title = "Playground Twist", mbid = "ecf5661f-f8fd-4b40-bb05-a1b3a7af98bd" },
+  { n = 2, title = "Pull to Bits", mbid = "22a2d8ba-02ee-4dd2-8c5a-7f52d12671dd" },
+]
+
+[[release]]
+mbid = "9c177e5f-2384-36e2-aaf9-6d5f6ac2d6ae"
+title = "Mittageisen"
+type = "single"
+date = "1979-09"
+tracks = [
+  { n = 1, title = "Mittageisen", mbid = "03ee34eb-eb3b-4de3-ae48-4ea89e827998" },
+  { n = 2, title = "Love in a Void", mbid = "d013c65c-1996-4827-aa8b-a71433da390c" },
+]
+
+[[release]]
+mbid = "2f181984-3df6-370a-96f5-97db55a8455a"
+title = "Join Hands"
+type = "album"
+date = "1979-09-07"
+tracks = [
+  { n = 1, title = "Poppy Day", mbid = "ca94ba86-7ba2-4c2e-acc8-e2211b903a04" },
+  { n = 2, title = "Regal Zone", mbid = "309957f5-f57c-4a5a-a0ba-386d0b4ca4e1" },
+  { n = 3, title = "Placebo Effect", mbid = "b6b77a32-765b-42c7-a7c5-5c56431e65ef" },
+  { n = 4, title = "Icon", mbid = "4ceaf3df-b172-4571-8fcf-3246012c68bf" },
+  { n = 5, title = "Premature Burial", mbid = "3405e285-b3c9-4d89-a1f5-41e7ffba707e" },
+  { n = 6, title = "Playground Twist", mbid = "dcb1c9a2-7912-49dd-8af6-24b9750153a5" },
+  { n = 7, title = "Mother / Oh mein Papa", mbid = "0dde2474-70de-4eb3-9c27-9ec695c7d357" },
+  { n = 8, title = "The Lord’s Prayer", mbid = "8277eba7-3fda-42fe-b5b7-7e0d1329fc73" },
+]
+
+[[release]]
+mbid = "bb8a4b59-85cd-3cff-a2d3-80170bcb5bdb"
+title = "Happy House"
+type = "single"
+date = "1980-03-07"
+tracks = [
+  { n = 1, title = "Happy House", mbid = "4c60831c-398c-4640-b4d2-55227a8468f8" },
+  { n = 2, title = "Drop Dead / Celebration", mbid = "860751f6-f915-47d8-b6c3-80f0c4eb03fe" },
+]
+
+[[release]]
+mbid = "1223d562-53df-3199-9412-87f0311a7429"
+title = "Christine"
+type = "single"
+date = "1980-05-30"
+tracks = [
+  { n = 1, title = "Christine", mbid = "ecf4f2eb-c603-467e-b35e-339ff7455aa3" },
+  { n = 2, title = "Eve White / Eve Black", mbid = "e0c2fb8c-3f99-4911-be95-06d2052d46f5" },
+]
+
+[[release]]
+mbid = "179b14ab-25c6-3b3b-bb03-1e894e475a1d"
+title = "Kaleidoscope"
+type = "album"
+date = "1980-08-01"
+spotify = "5jynqY8ZyDoeqrIfYSwF8P"
+tracks = [
+  { n = 1, title = "Happy House", mbid = "4c60831c-398c-4640-b4d2-55227a8468f8" },
+  { n = 2, title = "Tenant", mbid = "aae66846-d436-4cf8-99ed-535cd8b29aae" },
+  { n = 3, title = "Trophy", mbid = "3269e6c0-6de0-4eb2-bf8e-4d054128105f" },
+  { n = 4, title = "Hybrid", mbid = "201b7fdb-e548-4deb-8c1a-408aff28797b" },
+  { n = 5, title = "Clockface", mbid = "e2d27242-5771-494f-a0b0-4c87a377c39a" },
+  { n = 6, title = "Lunar Camel", mbid = "fdbb682e-6371-4c59-85dd-7da80e3b7ecc" },
+  { n = 7, title = "Christine", mbid = "ecf4f2eb-c603-467e-b35e-339ff7455aa3" },
+  { n = 8, title = "Desert Kisses", mbid = "8a896fb8-dd39-49bd-849f-e4b453c235cf" },
+  { n = 9, title = "Red Light", mbid = "5b85500a-6ada-42cf-abb0-d12aedde21a1" },
+  { n = 10, title = "Paradise Place", mbid = "0ecb9adc-36f1-4821-88a8-97b0eb5e2b92" },
+  { n = 11, title = "Skin", mbid = "2873ab96-10db-4c7c-8f8e-94736ca13435" },
+]
+
+[[release]]
+mbid = "e376c15c-0e1d-34a2-936e-01aec2f514b9"
+title = "Israel"
+type = "single"
+date = "1980-11"
+tracks = [
+  { n = 1, title = "Israel", mbid = "5653f035-ed59-42a6-a520-3ff313ad04f3" },
+  { n = 2, title = "Red Over White", mbid = "6f820739-6951-41ec-a5a0-2717cd0a80b4" },
+]
+
+[[release]]
+mbid = "ac6cc8b4-90c3-3fbf-9ad7-3df44f3c1c82"
+title = "Spellbound"
+type = "single"
+date = "1981-05-22"
+tracks = [
+  { n = 1, title = "Spellbound", mbid = "a435aa59-93ca-4e4d-9604-b4132f50d4b2" },
+  { n = 2, title = "Follow the Sun", mbid = "9dfbd513-4462-43d7-9b35-14e452aeee11" },
+]
+
+[[release]]
+mbid = "844bfb05-2b51-35e2-8063-1c8e6746c781"
+title = "Juju"
+type = "album"
+date = "1981-06-06"
+spotify = "5OEum65e1HMGX51Ifu51Wb"
+tracks = [
+  { n = 1, title = "Spellbound", mbid = "a435aa59-93ca-4e4d-9604-b4132f50d4b2" },
+  { n = 2, title = "Into the Light", mbid = "b6bd2827-0c45-428f-9622-87695a0af021" },
+  { n = 3, title = "Arabian Knights", mbid = "298625fa-f9dd-4268-a7a5-4600cbbc1d18" },
+  { n = 4, title = "Halloween", mbid = "a85e4add-7910-4873-bbfe-2c29515ffdd4" },
+  { n = 5, title = "Monitor", mbid = "11ff0c8f-e05e-486c-9ecc-40f41a0af4c7" },
+  { n = 6, title = "Night Shift", mbid = "e8eb203e-69c9-46c7-a27f-35a826b061fe" },
+  { n = 7, title = "Sin in My Heart", mbid = "32fc9cda-abce-4430-ab76-b411616e41cd" },
+  { n = 8, title = "Head Cut", mbid = "7f112a31-62e1-4fa1-bc1f-6018e8b6ed5e" },
+  { n = 9, title = "Voodoo Dolly", mbid = "e3a80b57-d56f-4527-bf09-9a0b2c3f11f5" },
+]
+
+[[release]]
+mbid = "1f0152b9-5804-3f7c-af96-60498b26e7e6"
+title = "Arabian Knights"
+type = "single"
+date = "1981-07-24"
+tracks = [
+  { n = 1, title = "Arabian Knights", mbid = "298625fa-f9dd-4268-a7a5-4600cbbc1d18" },
+  { n = 2, title = "Supernatural Thing", mbid = "3256c571-e9bd-49fc-aaed-66ad2a3f13e6" },
+  { n = 3, title = "Conga Conga", mbid = "5adf1114-9b56-489d-81b8-8233d1f56049" },
+  { n = 4, title = "Slap Dash Snap", mbid = "1b840e6a-72ae-4326-b05d-c9d5ae09a03c" },
+]
+
+[[release]]
+mbid = "c6da9628-f872-33dd-9aa6-8e492ee9bbea"
+title = "Fireworks"
+type = "single"
+date = "1982-05-21"
+tracks = [
+  { n = 1, title = "Fireworks", mbid = "7638a753-f8d6-4762-b3de-f557bd591f57" },
+  { n = 2, title = "Coal Mind", mbid = "0a8b5be1-24dd-475b-b227-dee1d18a3ee3" },
+]
+
+[[release]]
+mbid = "7fd7b6be-c59e-3f9e-8538-33a1f26f9797"
+title = "Slowdive"
+type = "single"
+date = "1982-10-01"
+tracks = [
+  { n = 1, title = "Slowdive", mbid = "48c063b4-3d63-4c56-bcbe-ba2de7ab1bb7" },
+  { n = 2, title = "Obsession II", mbid = "3842d762-1e99-4c55-bc0a-d4b0bfce93a2" },
+  { n = 3, title = "Cannibal Roses", mbid = "9aa8b4a2-a7d8-4560-9dd6-e9f7285bfe49" },
+]
+
+[[release]]
+mbid = "7b0c2e7b-c1f2-3914-8418-b92c0cb9f5d0"
+title = "A Kiss in the Dreamhouse"
+type = "album"
+date = "1982-11-05"
+tracks = [
+  { n = 1, title = "Cascade", mbid = "e95e20a7-ae27-40ca-978f-9bda3ef27ddd" },
+  { n = 2, title = "Green Fingers", mbid = "fd1b3034-8ea6-4059-b4b3-77c5cc643a01" },
+  { n = 3, title = "Obsession", mbid = "8a95dc28-a3f2-423f-b788-6b8c427d0d41" },
+  { n = 4, title = "She’s a Carnival", mbid = "9d9b6353-9219-441d-9f49-c1d85e8ea694" },
+  { n = 5, title = "Circle", mbid = "a64e511b-7431-43a0-a54e-eb45bbb7b99b" },
+  { n = 6, title = "Melt!", mbid = "078793b6-e840-4f4a-8099-f6186fd9e9f0" },
+  { n = 7, title = "Painted Bird", mbid = "b7e7ae7a-54e3-4cb5-bc53-a47b4ed308a7" },
+  { n = 8, title = "Cocoon", mbid = "2a276944-92ba-4639-b68e-661847d403b8" },
+  { n = 9, title = "Slowdive", mbid = "8d2a70d4-118f-4b8d-974d-0640a96921a2" },
+]
+
+[[release]]
+mbid = "2b9f789f-d41f-3899-9086-c8e51b619d91"
+title = "Melt!"
+type = "single"
+date = "1982-11-26"
+tracks = [
+  { n = 1, title = "Melt!", mbid = "cd1c6483-67ec-4f68-ba52-0ba00df3b309" },
+  { n = 2, title = "Il est né le divin enfant", mbid = "9fd70582-a2a9-47a9-827f-0b02cc1dedcc" },
+]
+
+[[release]]
+mbid = "ad5f6625-af6e-3302-b995-52b9038fcc4d"
+title = "Dear Prudence"
+type = "single"
+date = "1983-09-23"
+tracks = [
+  { n = 1, title = "Dear Prudence", mbid = "2f0fbc40-c7a8-4b60-a167-d83984d6002c" },
+  { n = 2, title = "Tattoo", mbid = "2a30f607-11ce-4e08-9e18-79972c2a668d" },
+]
+
+[[release]]
+mbid = "fefd84b5-3397-4d90-9ee0-46d0ec5e39e1"
+title = "Overground"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Overground", mbid = "ea45f7db-48e2-4f7d-b11f-bb0a139bc80b" },
+  { n = 2, title = "Placebo Effect", mbid = "45e96b5e-2ecb-4df6-a73b-fbf817154744" },
+]
+
+[[release]]
+mbid = "9abeaa69-30de-431d-9320-d53d03e0a4d9"
+title = "Swimming Horses"
+type = "single"
+date = "1984-03-16"
+tracks = [
+  { n = 1, title = "Swimming Horses", mbid = "150c69be-dfe4-4d0b-94e0-1c40d2e11136" },
+  { n = 2, title = "Let Go", mbid = "baa15a6b-9e93-4684-84b3-d3d68bcd7a5a" },
+]
+
+[[release]]
+mbid = "eee98a70-1324-3c76-aeb3-673c536af86c"
+title = "Dazzle"
+type = "single"
+date = "1984-05-25"
+tracks = [
+  { n = 1, title = "Dazzle", mbid = "e1304fa6-5e3b-4ef3-aedb-8006a6c3fb82" },
+  { n = 2, title = "I Promise", mbid = "d48d5cee-a7de-41ab-98e8-01772ba0a2bf" },
+]
+
+[[release]]
+mbid = "1b9305d8-ced6-38d5-8c5e-d2b75b1ad7f6"
+title = "Hyæna"
+type = "album"
+date = "1984-06-08"
+tracks = [
+  { n = 1, title = "Dazzle", mbid = "7452eb79-fdb2-4787-af7c-c0cd3b8a90e7" },
+  { n = 2, title = "We Hunger", mbid = "27e8be6e-0958-4430-8acb-07c6cd1631d1" },
+  { n = 3, title = "Take Me Back", mbid = "381ee8ce-3201-49b3-aa03-713e600e8437" },
+  { n = 4, title = "Belladonna", mbid = "62effc29-8401-4c29-9f52-27621660189c" },
+  { n = 5, title = "Swimming Horses", mbid = "150c69be-dfe4-4d0b-94e0-1c40d2e11136" },
+  { n = 6, title = "Dear Prudence", mbid = "432d8dde-6b0e-426e-a303-4f8aa2fb0398" },
+  { n = 7, title = "Bring Me the Head of the Preacher Man", mbid = "e343f418-ef31-4fd5-b7c8-fb8cfb3bb6e5" },
+  { n = 8, title = "Running Town", mbid = "f52b3205-747d-42d6-992c-7a448c35086f" },
+  { n = 9, title = "Pointing Bone", mbid = "bfa5b630-4b85-42a2-ba88-62f13f0ef54a" },
+  { n = 10, title = "Blow the House Down", mbid = "1ba60fee-a390-4400-bbc1-f2488a92abc4" },
+]
+
+[[release]]
+mbid = "18eff263-53f6-38d1-8ee8-da057842f8cb"
+title = "The Thorn"
+type = "ep"
+date = "1984-10-19"
+tracks = [
+  { n = 1, title = "Overground", mbid = "ea45f7db-48e2-4f7d-b11f-bb0a139bc80b" },
+  { n = 2, title = "Voices", mbid = "c5c23d66-996d-477c-b568-021376216b26" },
+  { n = 3, title = "Placebo Effect", mbid = "45e96b5e-2ecb-4df6-a73b-fbf817154744" },
+  { n = 4, title = "Red Over White", mbid = "d9266ad2-ec09-4ddd-ad50-5b295c2cc131" },
+]
+
+[[release]]
+mbid = "03151442-a201-3380-89cf-365c9ccf6cd9"
+title = "Cities in Dust"
+type = "single"
+date = "1985-10-18"
+tracks = [
+  { n = 1, title = "Cities in Dust (edit)", mbid = "bcb7e825-6e48-46b4-b9ba-a52d045d9ba5" },
+  { n = 2, title = "An Execution", mbid = "4276bec3-b8bf-4730-9424-c0bb7347239b" },
+  { n = 3, title = "Quarterdrawing of the Dog", mbid = "edc4f5a5-63d8-4b90-bac8-7c1ea1d74bae" },
+  { n = 4, title = "Cities in Dust (extended eruption mix)", mbid = "2322d0e6-9594-4635-9a37-4b4bb8992701" },
+]
+
+[[release]]
+mbid = "0ed7fe4c-12ec-370c-8584-aa4c18108c84"
+title = "Candyman"
+type = "single"
+date = "1986-02-28"
+tracks = [
+  { n = 1, title = "Candyman", mbid = "6fc16b2b-a4f3-42ed-8eef-fe7d1902f5c4" },
+  { n = 2, title = "Lullaby", mbid = "59f78229-e5a2-48d2-bcc6-c3c5b3c68842" },
+  { n = 3, title = "Umbrella", mbid = "08886e5d-2d6e-419a-ad2e-abb21390488f" },
+]
+
+[[release]]
+mbid = "9575d8eb-3d5f-4028-af88-0492e17b4898"
+title = "Tinderbox"
+type = "album"
+date = "1986-04-21"
+tracks = [
+  { n = 1, title = "Candyman", mbid = "6fc16b2b-a4f3-42ed-8eef-fe7d1902f5c4" },
+  { n = 2, title = "The Sweetest Chill", mbid = "64d9a21d-714c-4e57-8843-2a5b1898fbbf" },
+  { n = 3, title = "This Unrest", mbid = "ffc85a6f-39d2-4987-a513-8a6150f79d0e" },
+  { n = 4, title = "Cities in Dust", mbid = "27c5dfec-8063-4d38-99ac-292431272324" },
+  { n = 5, title = "Cannons", mbid = "b6a3205c-0d14-4206-a4f1-7444035eb247" },
+  { n = 6, title = "Party’s Fall", mbid = "d99a0091-a91e-453a-b7fa-957b27a90647" },
+  { n = 7, title = "92°", mbid = "619fe9db-d4b2-4798-bfa8-f8346cfc424c" },
+  { n = 8, title = "Land’s End", mbid = "c7b49050-b012-4815-964a-d8f37d2f8900" },
+]
+
+[[release]]
+mbid = "fc804109-349d-420d-9748-2cbcb8d33455"
+title = "Song from the Edge of the World"
+type = "single"
+date = "1987"
+tracks = [
+  { n = 1, title = "Song From the Edge of the World (7″ version)", mbid = "c6905609-67b4-417d-b734-a0e519d82a68" },
+  { n = 2, title = "Song From the Edge of the World (Columbus mix)", mbid = "9ebb9405-8b34-4852-8ff8-1415e59603d2" },
+  { n = 3, title = "The Whole Price of Blood", mbid = "64d5ab9d-a0a6-4ba0-8d42-59cf0931f029" },
+  { n = 4, title = "Mechanical Eyes", mbid = "8c2a01af-bde7-4c3b-81cf-7a7f2e19c136" },
+]
+
+[[release]]
+mbid = "6dac5722-8b69-4f82-9943-51b3168ab728"
+title = "This Wheel’s on Fire"
+type = "single"
+date = "1987-01-12"
+tracks = [
+  { n = 1, title = "This Wheel's on Fire (Incendiary mix)", mbid = "e01d93ec-7972-453d-b27c-35049fdf92c9" },
+  { n = 2, title = "Shooting Sun", mbid = "10dbbafb-52e8-4f9b-9e99-57bea86b5310" },
+  { n = 3, title = "Sleepwalking (on the High Wire)", mbid = "78ec8889-648a-431f-a9bf-db97b13d5d5c" },
+]
+
+[[release]]
+mbid = "78242475-f19b-375c-ac02-51e74d855a51"
+title = "The Passenger"
+type = "single"
+date = "1987-03"
+tracks = [
+  { n = 1, title = "The Passenger", mbid = "48486d26-e8fc-47f8-8ba4-9a3d72147c80" },
+  { n = 2, title = "She's Cuckoo", mbid = "a21acc4e-e95a-4ef2-b634-6c3857b0bb32" },
+]
+
+[[release]]
+mbid = "ee80212f-a649-3c61-aff7-00c19300eb1c"
+title = "Through the Looking Glass"
+type = "album"
+date = "1987-03-02"
+spotify = "7kEqVGkLoruahp34YW16oe"
+tracks = [
+  { n = 1, title = "This Town Ain’t Big Enough for the Both of Us", mbid = "adb76536-9498-45dd-8007-6f96d29512cd" },
+  { n = 2, title = "Hall of Mirrors", mbid = "534e9138-94ed-4b95-8155-3df1136229c7" },
+  { n = 3, title = "Trust in Me", mbid = "47d65e23-bffb-422e-9c30-d5e1aac7081d" },
+  { n = 4, title = "This Wheel’s on Fire", mbid = "1ca6f9a8-d950-4596-8347-d8d2d8f8e035" },
+  { n = 5, title = "Strange Fruit", mbid = "cf78fc12-cc59-4bc5-82b4-1bd3d35133ea" },
+  { n = 6, title = "You’re Lost Little Girl", mbid = "069917dd-c13f-4f10-aa41-d7d12e242e4a" },
+  { n = 7, title = "The Passenger", mbid = "7e5bd213-7ad9-457c-b182-0c73d8557648" },
+  { n = 8, title = "Gun", mbid = "ad8da8fa-20d3-4e90-a3a8-690d73bd2d2c" },
+  { n = 9, title = "Sea Breezes", mbid = "14b5b122-a8a5-40f0-9d49-45098668a593" },
+  { n = 10, title = "Little Johnny Jewel", mbid = "6ceaf5c3-5071-424c-a68e-5cca2816545c" },
+]
+
+[[release]]
+mbid = "5f25a458-a43d-35bb-bfeb-1f6c3e0b9445"
+title = "The Last Beat of My Heart"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "The Last Beat of My Heart", mbid = "19176d77-8372-4550-99bc-0565cb5f87a0" },
+  { n = 2, title = "El Dia de los Muertos", mbid = "18a4cf3b-9afe-4f29-b182-4578f81a87e6" },
+  { n = 3, title = "Sunless", mbid = "3ae5578f-5a9d-4a74-901a-0a6e9f08e2d2" },
+  { n = 4, title = "El Dia de los Muertos (Espiritu mix)", mbid = "10379c96-f424-485f-bdee-6f2fbe0d20d6" },
+]
+
+[[release]]
+mbid = "7c9e1c16-c4c1-335f-99ff-bbdf5ae791d0"
+title = "Peek‐a‐Boo"
+type = "single"
+date = "1988-07"
+tracks = [
+  { n = 1, title = "False Face", mbid = "5649a9a6-9440-4c54-a031-e6d367ccce93" },
+  { n = 2, title = "Catwalk", mbid = "ae8c200c-d4de-401c-9521-f979ba19d99f" },
+  { n = 3, title = "Peek‐a‐Boo (Big Spender mix)", mbid = "d9f325f0-36fa-43d1-84cc-0a39f5a8479b" },
+]
+
+[[release]]
+mbid = "958f22bb-2fa3-3b08-9f91-d5ea91377623"
+title = "The Killing Jar"
+type = "single"
+date = "1988-09"
+tracks = [
+  { n = 1, title = "The Killing Jar", mbid = "3da0883e-bed9-47af-bbe2-3a6d702fb10d" },
+  { n = 2, title = "Something Wicked (This Way Comes)", mbid = "f382a326-b0b9-4093-80db-2cd2f2665917" },
+]
+
+[[release]]
+mbid = "04c7320f-7f3e-3b00-8256-a708923eac58"
+title = "Peepshow"
+type = "album"
+date = "1988-09-05"
+spotify = "4g4aSVUuOJCoW2vKhTavXp"
+tracks = [
+  { n = 1, title = "Peek‐a‐boo", mbid = "bf388b5f-e7e2-45bb-9eb3-37bcbc1be9bf" },
+  { n = 2, title = "The Killing Jar", mbid = "a4ddebc0-826f-4214-a028-d159b4328c61" },
+  { n = 3, title = "Scarecrow", mbid = "81e33174-977a-4dd1-8b67-a7362cf3f93a" },
+  { n = 4, title = "Carousel", mbid = "60582db3-e7c1-47e6-9b3a-369d956958ad" },
+  { n = 5, title = "Burn‐Up", mbid = "b2f95ef5-6078-4f49-a95e-b51f05db59c2" },
+  { n = 6, title = "Ornaments of Gold", mbid = "76478dc2-e472-4ee1-bf37-1bac859c5a87" },
+  { n = 7, title = "Turn to Stone", mbid = "c45f2202-f9ff-49e9-bf30-a989d53f6682" },
+  { n = 8, title = "Rawhead and Bloodybones", mbid = "5e6d444d-b581-423c-a691-00e275a78cf9" },
+  { n = 9, title = "The Last Beat of My Heart", mbid = "ae1c6832-c9eb-4c19-b0ca-602a1e5120b1" },
+  { n = 10, title = "Rhapsody", mbid = "323ecc1b-3ef1-478d-ad7b-4fa45acaeb97" },
+]
+
+[[release]]
+mbid = "3bd4c51a-41f0-4570-ab56-7fc9f2592a90"
+title = "Shadowtime"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "Shadowtime", mbid = "8e5a772f-416a-4d89-b325-e06a8f4bd898" },
+  { n = 2, title = "Shadowtime (Eclipse mix)", mbid = "5205d3d8-4ee4-4f10-9454-82cdc2140f40" },
+  { n = 3, title = "Spiral Twist", mbid = "f1a3700d-4600-4c84-bb3a-9e05b9d99a24" },
+  { n = 4, title = "Sea of Light", mbid = "6268ac87-14b9-46b6-afbb-be1ba8a3242b" },
+]
+
+[[release]]
+mbid = "e41ed287-f0c2-4b9a-9d3d-a973dc033df4"
+title = "Kiss Them for Me"
+type = "ep"
+date = "1991-05-12"
+tracks = [
+  { n = 1, title = "Kiss Them for Me (Snapper mix)", mbid = "a03c2a42-71bf-4280-b569-c896323d4738" },
+  { n = 2, title = "Staring Back", mbid = "c71e4d54-3d91-4801-8040-7d04028e6e90" },
+  { n = 3, title = "Return", mbid = "b978f05a-d54a-43f5-be33-727067a162ee" },
+  { n = 4, title = "Kiss Them for Me (7″ version)", mbid = "280031f2-9f1c-429f-bc4f-9e0970cfe830" },
+]
+
+[[release]]
+mbid = "bf20ea19-0c0f-358e-b94a-00d351ef1da4"
+title = "Superstition"
+type = "album"
+date = "1991-06-11"
+spotify = "0MNKE093cSDfCrABTCCXwP"
+tracks = [
+  { n = 1, title = "Kiss Them for Me", mbid = "8ee08888-5cf0-4498-a522-44cd6106e362" },
+  { n = 2, title = "Fear (of the Unknown)", mbid = "1133dba0-e66c-4835-b467-c3ce428cf053" },
+  { n = 3, title = "Cry", mbid = "17bebda2-1cfd-4a85-9313-874a4e6c5224" },
+  { n = 4, title = "Drifter", mbid = "9d736b89-656d-4eff-bbcf-ca8b3592a7b5" },
+  { n = 5, title = "Little Sister", mbid = "0d49d071-24b7-4cfe-bf70-c28248486734" },
+  { n = 6, title = "Shadowtime", mbid = "8b5df080-5c8e-41fe-a443-384ecb297bf5" },
+  { n = 7, title = "Silly Thing", mbid = "99a62149-eabe-439e-b14b-b7450a5ca9af" },
+  { n = 8, title = "Got to Get Up", mbid = "84821742-3d95-427a-be9f-c4cd99f35557" },
+  { n = 9, title = "Silver Waterfalls", mbid = "275a6f5e-17fc-4195-a316-4ee659459999" },
+  { n = 10, title = "Softly", mbid = "55a004c0-4a1b-4804-b5aa-ef16b972dad7" },
+  { n = 11, title = "The Ghost in You", mbid = "8768e1a4-4903-4c3e-abda-13c2207cafd8" },
+]
+
+[[release]]
+mbid = "c77b0157-b31f-4dee-9932-4db9129b7d3a"
+title = "Shadowtime (Eclipse mix)"
+type = "single"
+date = "1991-07-05"
+tracks = [
+  { n = 1, title = "Shadowtime (Eclipse mix)", mbid = "5766a13b-c6b0-4692-ae29-83c68541f18d" },
+  { n = 2, title = "Spiral Twist", mbid = "c915ddfc-30b9-48cc-94b0-188b6f9db1ec" },
+  { n = 3, title = "Sea of Light", mbid = "7ca1bf5d-b80b-4165-ad63-41c6369a70b0" },
+]
+
+[[release]]
+mbid = "095095fe-ca36-3e3b-a430-c3f73e3dbeeb"
+title = "Fear (of the Unknown)"
+type = "single"
+date = "1991-11"
+tracks = [
+  { n = 1, title = "Fear (of the Unknown)", mbid = "1133dba0-e66c-4835-b467-c3ce428cf053" },
+  { n = 2, title = "Spiral Twist", mbid = "6abfee39-a46b-4b3d-9115-0af66b857dfd" },
+  { n = 3, title = "I Could Be Again", mbid = "fbd0d46c-c9b9-48ed-b314-7df137c31c6a" },
+  { n = 4, title = "Fear (of the Unknown) (Vertigo mix)", mbid = "d03afa64-660a-49a3-8d55-c3c1f8297545" },
+]
+
+[[release]]
+mbid = "f141c6d8-b10c-301f-b9ef-44d069085dbd"
+title = "Face to Face"
+type = "single"
+date = "1992-07"
+tracks = [
+  { n = 1, title = "Face to Face (7″ mix)", mbid = "e2d07105-1056-4dfc-ab64-d7481db47150" },
+  { n = 2, title = "Face to Face (Catatonic mix)", mbid = "e9656ae3-8b96-41c0-bb64-d2c06f55b439" },
+  { n = 3, title = "I Could Be Again", mbid = "1fb6a2ce-227c-498b-b7fd-bf0f9aafd8ca" },
+  { n = 4, title = "Hothead", mbid = "349503db-3d00-4566-8511-8c1328df1ef3" },
+]
+
+[[release]]
+mbid = "0f5db8ad-c044-43de-9203-e1d6ba8ba3e8"
+title = "O Baby"
+type = "single"
+date = "1994-12-28"
+tracks = [
+  { n = 1, title = "O Baby", mbid = "d7a32207-7ba0-497d-8139-92a8fcbee800" },
+  { n = 2, title = "Ourselves", mbid = "48b78bf8-5dab-49d7-a20c-4cb5ad7c6f50" },
+]
+
+[[release]]
+mbid = "1a7d3fa1-2990-3d39-95fc-57a348733b66"
+title = "The Rapture"
+type = "album"
+date = "1995-01"
+tracks = [
+  { n = 1, title = "O Baby", mbid = "d7a32207-7ba0-497d-8139-92a8fcbee800" },
+  { n = 2, title = "Tearing Apart", mbid = "a771d1a6-3da7-439d-9a9d-24bdb7e8d542" },
+  { n = 3, title = "Stargazer", mbid = "8d98646b-b176-4d2e-a464-bc2f5dc5b20e" },
+  { n = 4, title = "Fall From Grace", mbid = "e5045b54-6b6a-4f58-8c1b-f64c097b87be" },
+  { n = 5, title = "Not Forgotten", mbid = "f8e8e26e-9733-428f-bb8c-fbd6f92661da" },
+  { n = 6, title = "Sick Child", mbid = "9e649d4b-5f5b-49cf-82f5-d33c71178451" },
+  { n = 7, title = "The Lonely One", mbid = "92f9c8f2-30cd-400b-9976-449318ce679e" },
+  { n = 8, title = "Falling Down", mbid = "a89065ef-5c7b-42a3-bc82-3c66c3bb86f3" },
+  { n = 9, title = "Forever", mbid = "861469a1-9858-40b8-aaf2-4dade835aa77" },
+  { n = 10, title = "The Rapture", mbid = "5cca8b55-a073-4049-b173-c872841e0e59" },
+  { n = 11, title = "The Double Life", mbid = "e85f8579-dddb-4791-8f76-2b23f66296ba" },
+  { n = 12, title = "Love Out Me", mbid = "da044b24-9a22-4cc2-984a-a35aa217bdfd" },
+]
+
+[[release]]
+mbid = "7814deb3-f4b9-304a-8329-6ec16846b189"
+title = "Stargazer"
+type = "single"
+date = "1995-02"
+tracks = [
+  { n = 1, title = "Stargazer", mbid = "911ea051-13c3-46f2-a304-ece3eb25708e" },
+  { n = 2, title = "Hang Me High", mbid = "944797b9-0e9d-45ff-82bf-16eead9419ba" },
+  { n = 3, title = "Black Sun", mbid = "5c97f37e-558a-4e4f-a700-17669160f691" },
+]
+
+[[release]]
+mbid = "07bc6e92-3140-313c-874c-acbd6e920f26"
+title = "Dizzy"
+type = "single"
+date = "2002"
+tracks = [
+  { n = 1, title = "Dizzy (version 1)", mbid = "8ee8f102-4799-4ce5-b8ab-74cc523596da" },
+]
+
+[[release]]
+mbid = "fd3fdc4d-d5c7-3df4-93eb-589f3f3d786a"
+title = "The Strawberry Girl"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "20th Century Boy", mbid = "7d2664a0-2abb-470e-a9bf-5449c671657e" },
+  { n = 2, title = "Love in a Void / Lord’s Prayer", mbid = "80cef656-0491-4011-a39a-d5d09bb487e4" },
+]

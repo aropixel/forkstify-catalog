@@ -1,0 +1,450 @@
+format = 1
+
+[[release]]
+mbid = "8b22effa-9d0f-4e5f-92c2-7c882d2bbcaf"
+title = "Cow"
+type = "album"
+date = "1989"
+tracks = [
+  { n = 1, title = "Cow", mbid = "b8e4db62-174a-4a16-bf78-89bf1256c930" },
+  { n = 2, title = "Frozen at Sea", mbid = "269e4584-56fd-4d76-9e95-72721213d10f" },
+  { n = 3, title = "Fusilage", mbid = "4cbcbf52-7116-40b5-9e35-32fee98ff33b" },
+  { n = 4, title = "On a Scale of Fish to Fish", mbid = "84d6777d-813b-4fd2-b892-41188d115fc6" },
+  { n = 5, title = "Stash", mbid = "471f9051-69c3-4d83-bf11-49edcfa7d44c" },
+  { n = 6, title = "Souped Up", mbid = "159af342-b986-49bb-9493-196f1884e4f8" },
+  { n = 7, title = "Black Olive", mbid = "96f61e4d-e12f-41f3-b7fe-18002020c81c" },
+  { n = 8, title = "Hoover Penny", mbid = "671eab8c-1193-47f0-8685-c990f29f0d91" },
+  { n = 9, title = "Vinyl Cranium and Camera Crushed", mbid = "b88f34e8-336b-4fa9-bb99-334a695b7812" },
+]
+
+[[release]]
+mbid = "6c12bd59-bb68-3caf-95a0-4154fc6bd694"
+title = "Sewn to the Sky"
+type = "album"
+date = "1990"
+tracks = [
+  { n = 1, title = "Souped Up II", mbid = "a2da54ff-b434-45a7-ae24-f4e2d889e4b4" },
+  { n = 2, title = "Kings Tongue", mbid = "7b35d243-4349-4665-8c32-b499cf072566" },
+  { n = 3, title = "Garb", mbid = "db399cd4-d72c-4aaa-80e8-55aeedf73b72" },
+  { n = 4, title = "Hollow Out Cakes", mbid = "7b936b79-3475-4526-a9fe-5a9c59a5bb13" },
+  { n = 5, title = "Confederate Bills and Pinball Slugs", mbid = "ccacb029-872a-4741-acb3-7e1b9b8e64d3" },
+  { n = 6, title = "Coconut Cataract", mbid = "3cb571f1-700f-4c7a-ae7a-4d361fb7d6a7" },
+  { n = 7, title = "Fruit Bats", mbid = "5cea9270-b4d4-4dee-ae70-8cf6728ff7e4" },
+  { n = 8, title = "Peach Pit", mbid = "4072aca7-7fb7-4d53-bb28-980ba9c453db" },
+  { n = 9, title = "Disgust", mbid = "bc37cc49-40eb-4e33-8841-9c49c9caa7d3" },
+  { n = 10, title = "Russian Winter", mbid = "88eedaae-6319-4357-887c-20ce3e5375b0" },
+  { n = 11, title = "Polio Shimmy", mbid = "7cffbb8b-8774-40ab-a9f9-863094729a66" },
+  { n = 12, title = "Smog", mbid = "63828ab2-60a3-4bd6-85f4-2a2ec35d74e6" },
+  { n = 13, title = "Lost My Key", mbid = "a616171a-c0bb-4dc7-a906-144f1d9a9f01" },
+  { n = 14, title = "Fried Piper", mbid = "c3028400-ad1a-4185-a455-144bb2982a85" },
+  { n = 15, title = "Fables", mbid = "62af2726-5e0f-4882-8c08-078f73739cee" },
+  { n = 16, title = "Puritan Work Ethic", mbid = "ddaa9e40-0f0a-4752-869d-96b7d1959d4e" },
+  { n = 17, title = "A Jar of Sand", mbid = "dbc87317-e6e9-4d4c-9801-f35522ba4fe7" },
+  { n = 18, title = "I Want to Tell You About a Man", mbid = "3d23d981-6d06-493c-a8f9-eccc0735caf3" },
+  { n = 19, title = "Olive Drab Spectre", mbid = "c8e8002d-5a32-4fd8-892f-1395fba3f38f" },
+  { n = 20, title = "The Weightlifter", mbid = "2a034a8e-db1b-4792-8e0f-d4017cff1d31" },
+]
+
+[[release]]
+mbid = "ec5e8af1-5e3e-4ae0-b7d8-a73ab707ed1a"
+title = "Tired Tape Machine"
+type = "album"
+date = "1990"
+tracks = [
+  { n = 1, title = "Tired Tape Machine 1", mbid = "dc12f58f-ff2e-463f-8118-d6d4ccf04e0e" },
+  { n = 2, title = "Stubble", mbid = "a74f1b6c-52a2-4412-b6ec-b389b8542a77" },
+  { n = 3, title = "Floating", mbid = "fb017bbf-006a-4927-9cbb-36e03ec943cd" },
+  { n = 4, title = "My Family", mbid = "3bf6be7b-425a-4bea-9bbf-7657c4c47959" },
+  { n = 5, title = "Prep", mbid = "86156c00-8bc5-438d-932d-e50c32e31540" },
+  { n = 6, title = "Fans", mbid = "83e6bfa3-cfc1-4ca3-ad5d-5101f3c2c44b" },
+  { n = 7, title = "Never Knew I Needed a Crutch", mbid = "f3f5e983-c51f-4119-bd7c-66a93ff87938" },
+  { n = 8, title = "Your Cat's Name Here", mbid = "27a3c02c-3dc9-471e-a259-4b24256f6c8c" },
+  { n = 9, title = "They Just Wanted to See My Blood 1", mbid = "6a140bf6-4e42-481a-8eba-e72472c265e2" },
+  { n = 10, title = "They Just Wanted to See My Blood 2", mbid = "e4320504-7f9c-45a6-9539-5182eef1a282" },
+  { n = 11, title = "Rubber Doll Factory Recall", mbid = "279307aa-d882-4913-972e-f40d43ba7e18" },
+  { n = 12, title = "Let Me Have That Jar Back", mbid = "b653173a-d204-49ef-a18a-150f23dac259" },
+  { n = 13, title = "Useless Coins", mbid = "7529d8b4-32b4-4da7-a069-3c32a288293d" },
+  { n = 14, title = "The Goat", mbid = "26326e7a-add4-4cb1-b671-017090941a5f" },
+  { n = 15, title = "Spark", mbid = "13d2ff5f-0a0f-4013-9924-5af5b7c72e37" },
+  { n = 16, title = "Hey Baby on the Moon", mbid = "c6f72e51-5fcd-44fe-ae81-c84f6d745731" },
+  { n = 17, title = "Fables (version)", mbid = "63bcdad5-29e6-4dd3-af07-2e4530467ff9" },
+  { n = 18, title = "Dumpster", mbid = "031ca9cd-2464-485e-af8a-bb5995cc197d" },
+  { n = 19, title = "Evil Tyrant", mbid = "61ce6e70-7afb-40a2-8dd6-23c697f27dbd" },
+  { n = 20, title = "High School Freak", mbid = "b406d8d7-cfb9-4099-9495-a2d4f9aa4f6f" },
+  { n = 21, title = "Off the Road", mbid = "ec25ac00-4bd6-4175-8dbb-7b6d2ea97519" },
+  { n = 22, title = "My Shell 1", mbid = "f7bb34e7-213e-4376-a4bf-78f22e254709" },
+  { n = 23, title = "Tired Tape Machine 2", mbid = "f7c9ab6d-9437-4e20-96b2-0e4b4147b166" },
+  { n = 24, title = "Hole in the Heart", mbid = "b45461a7-3784-4ec0-b6df-5c37e0c53224" },
+  { n = 25, title = "Cursed", mbid = "d3307348-d2b0-4772-a79c-7bd054fc4a4e" },
+  { n = 26, title = "Turb", mbid = "42d00b4b-cb48-47e8-b89e-60194e55ab8b" },
+  { n = 27, title = "For the Bird", mbid = "462e84df-06dc-4066-b75a-597ea8f95bcf" },
+  { n = 28, title = "Long Gray Hair", mbid = "1ac0623f-52dd-411c-94ca-2c2991cbe4af" },
+  { n = 29, title = "[blank track]", mbid = "11057620-0e2f-4430-a992-a87de0c27fcd" },
+  { n = 30, title = "My Shell 2", mbid = "3829cfe4-b474-4f58-baee-941bea6e0893" },
+  { n = 31, title = "Trouble Sleeping", mbid = "a79b8a95-14af-4fc2-b585-c8ed66304655" },
+]
+
+[[release]]
+mbid = "90deddf0-b0bc-3385-99bc-b0ae0cf70771"
+title = "Floating"
+type = "ep"
+date = "1991-08-23"
+tracks = [
+  { n = 1, title = "Mice", mbid = "33ee877f-3023-4c97-911c-7ee3c2e9f9b1" },
+  { n = 2, title = "Turb", mbid = "54d78c71-9760-4aec-aa36-db55c131799e" },
+  { n = 3, title = "Floating", mbid = "d0112e08-bc44-47ee-8979-e50b91305d63" },
+  { n = 4, title = "Red Apples", mbid = "f2206172-b48b-450e-9d12-94f13a1e89f9" },
+  { n = 5, title = "Hole in the Heart", mbid = "db1491f6-3720-45d7-8e4b-1df50761987e" },
+  { n = 6, title = "Cursed", mbid = "cb94a5a8-95e7-4549-9678-b204e5b96262" },
+]
+
+[[release]]
+mbid = "69921412-78e0-342a-8903-ad9017d08c7e"
+title = "Forgotten Foundation"
+type = "album"
+date = "1992-05-25"
+tracks = [
+  { n = 1, title = "Burning Kingdom", mbid = "99207b39-28d8-4669-997d-39ac19b46af7" },
+  { n = 2, title = "Filament", mbid = "889b12da-019a-4d8c-be84-d4af9cf04a38" },
+  { n = 3, title = "High School Freak", mbid = "726612d3-da9a-42cc-a07f-2d910c52f1b4" },
+  { n = 4, title = "Your Dress", mbid = "ecc45395-42e0-4a9e-ac70-065a293c8025" },
+  { n = 5, title = "Barometric Pressure", mbid = "be9484eb-116a-46c5-a42f-4ed7f7cdb318" },
+  { n = 6, title = "Guitar Innovator", mbid = "dec91d97-805b-4232-af03-b01554cdb80d" },
+  { n = 7, title = "Evil Tyrant", mbid = "8d2fe14e-4912-4004-a9cd-33320e72065f" },
+  { n = 8, title = "Head of Stone I", mbid = "4473f97b-6cbc-44b5-9951-aedcc527a015" },
+  { n = 9, title = "Head of Stone II", mbid = "fdb879ce-e30e-4e5d-98bb-64333262e76f" },
+  { n = 10, title = "Long Gray Hair", mbid = "137401f0-da64-4c04-9287-3b9c947d8315" },
+  { n = 11, title = "Kiss Your Lips", mbid = "9e0c9138-1ed7-4aa4-91ac-98eaa49157c2" },
+  { n = 12, title = "Bad Ideas for Country Songs I", mbid = "4df3a641-56cc-4ab4-bd1d-46139fd14223" },
+  { n = 13, title = "Bad Ideas for Country Songs II", mbid = "efdce6ef-17a3-42c5-94bd-804e5d7ab6b4" },
+  { n = 14, title = "Dead River", mbid = "79f3421b-a151-4d59-b53f-5dbe11da6b94" },
+  { n = 15, title = "Bad Investment", mbid = "5734535c-5c1c-4b8c-9805-3d07ece47b86" },
+  { n = 16, title = "Brown Bag", mbid = "9dbf2ee0-86d8-46cd-a307-ef6f75991195" },
+  { n = 17, title = "Let Me Have That Jar Back", mbid = "95e6608e-11be-481b-833a-74d5cf733979" },
+  { n = 18, title = "This Insane Cop", mbid = "50094d41-0ab3-4bb3-9b82-d4e9af6a4dc5" },
+  { n = 19, title = "97th Street", mbid = "0d6625e4-cb01-4261-b677-30ed83e28da1" },
+  { n = 20, title = "Do the Bed", mbid = "03bbd29e-9bd1-40a8-88db-d26c9d886e43" },
+  { n = 21, title = "I'm Smiling", mbid = "b31a7fc7-6386-4a2f-89ce-5738f4a4a98d" },
+  { n = 22, title = "With a Green Complexion", mbid = "81215c51-c7bb-4a37-a397-6fdaf4408179" },
+]
+
+[[release]]
+mbid = "a0a3a4e8-4a37-3335-8021-0defc824d871"
+title = "Julius Caesar"
+type = "album"
+date = "1993-07-05"
+tracks = [
+  { n = 1, title = "Strawberry Rash", mbid = "31536ad3-c7b3-4ff0-8b45-ba9b4d789dd7" },
+  { n = 2, title = "Your Wedding", mbid = "04525432-1038-48f9-94d2-93551e90f424" },
+  { n = 3, title = "37 Push Ups", mbid = "b37973e5-3a15-4ef4-b08c-6ec8bc3f35c2" },
+  { n = 4, title = "Stalled on the Tracks", mbid = "87604b70-df2a-4738-9904-4f16448381e5" },
+  { n = 5, title = "One Less Star", mbid = "a9483cf9-f8ed-43df-9318-5be577f3b222" },
+  { n = 6, title = "Golden", mbid = "6247993d-5750-4c68-a465-ed2a8581b63a" },
+  { n = 7, title = "When You Walk", mbid = "412ad807-2be7-47b0-b393-e5b54dc5f91b" },
+  { n = 8, title = "I Am Star Wars!", mbid = "93bfd9ad-cebf-405b-bee1-647d1f35b8c4" },
+  { n = 9, title = "Connections", mbid = "da253e50-e623-42de-8d77-07a32c4b4154" },
+  { n = 10, title = "When the Power Goes Out", mbid = "542252ab-44c3-4e9c-8c4c-703d030f33c8" },
+  { n = 11, title = "Chosen One", mbid = "e9aa060b-a740-4e37-b890-0649f7700218" },
+  { n = 12, title = "What Kind of Angel", mbid = "5aee95ef-7432-49b1-b940-efe60d8443e0" },
+  { n = 13, title = "Stick in the Mud", mbid = "c7bc8be5-ac5e-4c33-99e2-5dd888bff125" },
+]
+
+[[release]]
+mbid = "e589cd5f-2e2f-37f1-9e43-1f19283c1c3e"
+title = "A Hit"
+type = "single"
+date = "1994-03-02"
+tracks = [
+  { n = 1, title = "A Hit", mbid = "e225603c-6d9f-4fe1-9517-b85cfc506076" },
+  { n = 2, title = "Wine Stained Lips", mbid = "4b384efd-f7b4-4f72-9acb-64d1c2cac819" },
+]
+
+[[release]]
+mbid = "2bfbc175-bf86-3211-a94d-3a33255e74e9"
+title = "Burning Kingdom"
+type = "ep"
+date = "1994-09-20"
+tracks = [
+  { n = 1, title = "My Shell (electric version)", mbid = "71967348-c7d8-4f0d-ad52-2d05effdf673" },
+  { n = 2, title = "Renée Died 1:45", mbid = "7bb04e48-d120-4a44-80f3-a0dbf9e049e7" },
+  { n = 3, title = "My Family", mbid = "ce26fac3-54a0-4487-ad90-288d6b2dbfe5" },
+  { n = 4, title = "Drunk on the Stars", mbid = "4437a433-4203-4ffc-839f-6b9dce40c113" },
+  { n = 5, title = "Not Lonely Anymore", mbid = "7a7dd0ed-6912-457c-a4ca-e66560ca8692" },
+  { n = 6, title = "The Desert", mbid = "94b0f136-0745-4678-837c-ec63432aae03" },
+]
+
+[[release]]
+mbid = "f0beeb9a-c0a6-3d3a-9d23-0c91125a88e8"
+title = "Wild Love"
+type = "album"
+date = "1995-03-27"
+tracks = [
+  { n = 1, title = "Bathysphere", mbid = "6dcab1d0-bf16-4cc6-a810-bbaa924156d7" },
+  { n = 2, title = "Wild Love", mbid = "45bbabf6-e74a-405f-a2b8-69d1c51df435" },
+  { n = 3, title = "Sweet Smog Children", mbid = "12402976-a9be-4154-9eb9-5e87792b278f" },
+  { n = 4, title = "Bathroom Floor", mbid = "1ae403dd-a5c9-47fd-8831-d2597faf99a3" },
+  { n = 5, title = "The Emperor", mbid = "f3a5fd7f-d532-413f-b680-0da6b1286d2c" },
+  { n = 6, title = "Limited Capacity", mbid = "46b8cc28-f8f2-42fe-a3c0-ba93675d6806" },
+  { n = 7, title = "It’s Rough", mbid = "4f8fa4bb-dae0-4119-ad23-d88383bc0ea1" },
+  { n = 8, title = "Sleepy Joe", mbid = "3cf0e1f3-8e04-4830-b34e-b1e13bae42b1" },
+  { n = 9, title = "The Candle", mbid = "c0983c63-7d02-45e1-87cd-76082c4c2877" },
+  { n = 10, title = "Be Hit", mbid = "7279dc95-2d07-4a5c-8fb4-febb022ff227" },
+  { n = 11, title = "Prince Alone in the Studio", mbid = "cbaa303b-f230-4b70-a5d1-ab8ff7755448" },
+  { n = 12, title = "Goldfish Bowl", mbid = "a78f84eb-3846-448e-b533-524d7471e3f8" },
+]
+
+[[release]]
+mbid = "255462a8-d4ac-3703-8132-675efb4eafb6"
+title = "Kicking a Couple Around"
+type = "ep"
+date = "1996-04-29"
+tracks = [
+  { n = 1, title = "Your New Friend", mbid = "e4037faf-ddfb-4f5c-b1ac-4537406724ed" },
+  { n = 2, title = "Back in School", mbid = "691d4e54-e5ee-48da-9d79-ec6ee1c66160" },
+  { n = 3, title = "I Break Horses", mbid = "e393d597-0328-4ca2-9ea3-023959b2b75e" },
+  { n = 4, title = "The Orange Glow of a Stranger's Living Room", mbid = "06b34e9c-1ba6-47b4-b493-9c91149e7fb7" },
+]
+
+[[release]]
+mbid = "263f0e3b-13a3-3075-acdb-daf4836fd8a5"
+title = "The Doctor Came at Dawn"
+type = "album"
+date = "1996-09-10"
+tracks = [
+  { n = 1, title = "You Moved In", mbid = "4bd3fe57-865e-4d67-9149-bd3b189523ba" },
+  { n = 2, title = "Somewhere in the Night", mbid = "664c70e5-6ff9-478f-995b-4006a3355586" },
+  { n = 3, title = "Lize", mbid = "c3f04f80-3e1e-486a-a26b-ee380f4d2a95" },
+  { n = 4, title = "Spread Your Bloody Wings", mbid = "c546fbf9-99d9-4a65-97f4-47788991a2e5" },
+  { n = 5, title = "Carmelite Light", mbid = "71257885-ecad-4a7a-a7a2-d140bac59d14" },
+  { n = 6, title = "Everything You Touch Becomes a Crutch", mbid = "a04d64c0-dd49-4524-adbf-5ad7c6c19557" },
+  { n = 7, title = "All Your Women Things", mbid = "50675621-c2f6-4cbd-863e-f1e8e0b47399" },
+  { n = 8, title = "Whistling Teapot (Rag)", mbid = "46725e1d-9200-4938-b9a1-8ff460690d6f" },
+  { n = 9, title = "Four Hearts in a Can", mbid = "2dacd6ee-480b-4ba1-a93a-6b663d1a93eb" },
+  { n = 10, title = "Hangman Blues", mbid = "871c0ebb-c47e-4e31-8893-97d72f4960f0" },
+]
+
+[[release]]
+mbid = "492a966e-c6a9-388a-b874-8b4537fd8ec8"
+title = "Came Blue"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Came Blue", mbid = "70e5fa01-9d31-410a-bdba-64f2a7d4b83e" },
+  { n = 2, title = "Spanish Moss", mbid = "2a7cb6c9-be69-48e3-9e3d-f5cae216763c" },
+]
+
+[[release]]
+mbid = "25d0b476-3965-35e1-b49b-09ef1beebc11"
+title = "Red Apple Falls"
+type = "album"
+date = "1997-05-20"
+spotify = "1r9V2Babk2DkP8QtHA4Xlh"
+tracks = [
+  { n = 1, title = "The Morning Paper", mbid = "2d7f828c-07f6-4292-ad69-4b07d66766a6" },
+  { n = 2, title = "Blood Red Bird", mbid = "cf453cd5-01dc-47a4-9411-7e699f0b0347" },
+  { n = 3, title = "Red Apples", mbid = "da94840a-33b7-42c4-9f87-c34f504beba6" },
+  { n = 4, title = "I Was a Stranger", mbid = "3b3bafea-a5cb-4ae6-814e-28aa7cbbf298" },
+  { n = 5, title = "To Be of Use", mbid = "df8572b0-3b13-410f-aaeb-e17bdbf16016" },
+  { n = 6, title = "Red Apple Falls", mbid = "a6780b45-458b-45dc-a9a5-5c2f48eee456" },
+  { n = 7, title = "Ex-con", mbid = "1c743ab8-9145-4816-a6d2-eb7655f8aee9" },
+  { n = 8, title = "Inspirational", mbid = "1ffb9717-ec72-45bd-8ccb-15a5606fab93" },
+  { n = 9, title = "Finer Days", mbid = "221d6a87-3ebc-4396-a0ef-c473590931a5" },
+]
+
+[[release]]
+mbid = "acb3237c-4841-3374-a1ca-b9c46bb29e1f"
+title = "Ex-Con"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Ex-Con", mbid = "1c743ab8-9145-4816-a6d2-eb7655f8aee9" },
+  { n = 2, title = "Little Girl Shoes", mbid = "ee16dbd2-129c-49fe-a87b-35e9b8e38e6f" },
+  { n = 3, title = "Just Like Napoleon", mbid = "10892c69-89ac-4a63-b5de-5fc5ac888e19" },
+  { n = 4, title = "Duckpond Blues", mbid = "38ff52ae-9272-4d8f-a26b-43b66d783b05" },
+]
+
+[[release]]
+mbid = "e654866d-42ee-422a-bc8e-ae1c62dd177c"
+title = "Held and Cold Blooded Old Times (An acoustic Preview)"
+type = "single"
+date = "1998-12-23"
+tracks = [
+  { n = 1, title = "Held (acoustic)", mbid = "2e4dce32-f5b5-4a34-b36f-4bdbd8f8e8a0" },
+  { n = 2, title = "Cold Blooded Old Times (acoustic)", mbid = "3a871092-4e75-4fbe-8599-539d2a81ba7b" },
+]
+
+[[release]]
+mbid = "2c85957f-710b-32b4-815a-5a917d8a0017"
+title = "Knock Knock"
+type = "album"
+date = "1999-01-12"
+spotify = "3XzbVl7oibSdnmpCGzCK6A"
+tracks = [
+  { n = 1, title = "Let's Move to the Country", mbid = "39ee1236-11a2-43c7-b085-4c2570367edf" },
+  { n = 2, title = "Held", mbid = "de0eb700-17f3-4f12-854f-129af7a8b5b4" },
+  { n = 3, title = "River Guard", mbid = "fa4b5a78-870d-4a06-9a66-c9d15e84b000" },
+  { n = 4, title = "No Dancing", mbid = "bfef72eb-4a38-4bfb-b007-51bd3e59335b" },
+  { n = 5, title = "Teenage Spaceship", mbid = "4f29237e-d195-4de1-be8a-f8b876665ab1" },
+  { n = 6, title = "Cold Blooded Old Times", mbid = "7ddd7215-c114-4b79-b53d-4cc18e846e0d" },
+  { n = 7, title = "Sweet Treat", mbid = "1744eb89-541d-47b1-8f14-b7acbb6b49e3" },
+  { n = 8, title = "Hit the Ground Running", mbid = "7e9937f3-cf4c-4f51-8b9b-4ab0817a2da8" },
+  { n = 9, title = "I Could Drive Forever", mbid = "5f0461c1-5141-4cbd-a5f0-e9368a5018f5" },
+  { n = 10, title = "Left Only With Love", mbid = "82efeb56-a46c-4ae4-88b8-01392a1a853d" },
+]
+
+[[release]]
+mbid = "3eac4588-ae74-36c7-83f1-56b18353b30c"
+title = "Look Now"
+type = "single"
+date = "1999-01-25"
+tracks = [
+  { n = 1, title = "Look Now", mbid = "f6c3ad08-4eb5-4f82-957f-fb326566ea98" },
+  { n = 2, title = "The Only Mother", mbid = "e88c2935-f87d-465c-be77-ef3579fa29be" },
+]
+
+[[release]]
+mbid = "b4d6916b-8ac3-3ce7-b8b4-c6ea8d44544e"
+title = "Held"
+type = "single"
+date = "1999-05-24"
+tracks = [
+  { n = 1, title = "Held", mbid = "234b39ed-e2bc-4882-b5a9-f8bff368620e" },
+  { n = 2, title = "Look Now", mbid = "49335c27-f1f5-4b83-ba91-2e0c5efd99b0" },
+  { n = 3, title = "The Only Mother", mbid = "e88c2935-f87d-465c-be77-ef3579fa29be" },
+  { n = 4, title = "Held (acoustic)", mbid = "2e4dce32-f5b5-4a34-b36f-4bdbd8f8e8a0" },
+]
+
+[[release]]
+mbid = "4dee3620-5c78-3b70-8450-bc67777ad9ca"
+title = "Cold Blooded Old Times"
+type = "single"
+date = "1999-08-28"
+tracks = [
+  { n = 1, title = "Cold Blooded Old Times", mbid = "7ddd7215-c114-4b79-b53d-4cc18e846e0d" },
+  { n = 2, title = "Cold Blooded Old Times (acoustic)", mbid = "3a871092-4e75-4fbe-8599-539d2a81ba7b" },
+]
+
+[[release]]
+mbid = "0df1c525-dfd8-3da3-be00-fc36cefed879"
+title = "The Manta Rays of Time"
+type = "ep"
+date = "2000"
+tracks = [
+  { n = 1, title = "Real Live Dress", mbid = "c5cf8cc2-0dc7-4b34-afac-dd3c163af7e8" },
+  { n = 2, title = "Pure Sunshine", mbid = "c919c2eb-b393-43d5-a9fd-30c659212a11" },
+  { n = 3, title = "Bored Bayou", mbid = "e337bf00-6a73-4d19-a0be-baa2b075b6f9" },
+]
+
+[[release]]
+mbid = "3e380c58-51ca-3e4a-8d1d-16265b872b40"
+title = "Dongs of Sevotion"
+type = "album"
+date = "2000-04-03"
+tracks = [
+  { n = 1, title = "Justice Aversion", mbid = "9e51e9c5-4a6d-48b9-bfa9-780f12708cb9" },
+  { n = 2, title = "Dress Sexy at My Funeral", mbid = "7357ce7d-e03a-4cb4-9c79-27c546182539" },
+  { n = 3, title = "Strayed", mbid = "3ed8f639-b86e-4369-a750-246cfe63ddc3" },
+  { n = 4, title = "The Hard Road", mbid = "d190c221-f452-4a38-9598-d732c68fdc26" },
+  { n = 5, title = "Easily Led", mbid = "1568f699-47da-45b5-ac17-c1ebe97c31ec" },
+  { n = 6, title = "Bloodflow", mbid = "6e63d3e5-f682-4d18-b9b8-3df1703f2aec" },
+  { n = 7, title = "Nineteen", mbid = "e089ca07-297d-4a7d-8307-cc055ff4c261" },
+  { n = 8, title = "Distance", mbid = "6022765b-a155-44de-9bb1-816a57ad5fc7" },
+  { n = 9, title = "Devotion", mbid = "24112e63-0eef-45b8-b5fa-cf995a55949f" },
+  { n = 10, title = "Cold Discovery", mbid = "0b2e7c58-90a1-4892-ae66-fbee34aadc89" },
+  { n = 11, title = "Permanent Smile", mbid = "289a1425-5187-4503-af1d-5e5f90365b46" },
+]
+
+[[release]]
+mbid = "bb1671d8-6a3a-3bb5-91a1-2589d35b027c"
+title = "Strayed"
+type = "ep"
+date = "2000-06-26"
+tracks = [
+  { n = 1, title = "Strayed", mbid = "973bb7d2-040a-4153-8426-f256e97ad38e" },
+  { n = 2, title = "Cow", mbid = "b8e4db62-174a-4a16-bf78-89bf1256c930" },
+  { n = 3, title = "Frozen at Sea", mbid = "269e4584-56fd-4d76-9e95-72721213d10f" },
+  { n = 4, title = "Fusilage", mbid = "4cbcbf52-7116-40b5-9e35-32fee98ff33b" },
+  { n = 5, title = "On a Scale of Fish to Fish", mbid = "84d6777d-813b-4fd2-b892-41188d115fc6" },
+  { n = 6, title = "Stash", mbid = "471f9051-69c3-4d83-bf11-49edcfa7d44c" },
+  { n = 7, title = "Souped Up", mbid = "159af342-b986-49bb-9493-196f1884e4f8" },
+  { n = 8, title = "Black Olive", mbid = "96f61e4d-e12f-41f3-b7fe-18002020c81c" },
+  { n = 9, title = "Hoover Penny", mbid = "671eab8c-1193-47f0-8685-c990f29f0d91" },
+]
+
+[[release]]
+mbid = "1530f79c-b065-30a9-a614-0aff2e855e56"
+title = "'Neath the Puke Tree"
+type = "ep"
+date = "2000-12-12"
+tracks = [
+  { n = 1, title = "I Was a Stranger", mbid = "1621ba09-b7f4-4ddd-9207-e687e7bb38ba" },
+  { n = 2, title = "Your Sweet Entrance", mbid = "30349320-7541-4bef-ba25-2da180def02b" },
+  { n = 3, title = "A Jar of Sand", mbid = "db45a824-fe26-463c-bd1d-5d3d1c153452" },
+  { n = 4, title = "Orion Obscured by Stars", mbid = "0a9b7a04-0994-4b20-8cb2-fa53b97f2aee" },
+  { n = 5, title = "Coacheecayoo", mbid = "7affbb03-ab76-4f21-a57a-5535bddba50e" },
+]
+
+[[release]]
+mbid = "89051ad2-3fff-32ae-8b0c-cc50cdd048f0"
+title = "Rain on Lens"
+type = "album"
+date = "2001-09-17"
+tracks = [
+  { n = 1, title = "Rain on Lens 1", mbid = "2be42e37-d582-4aae-abf7-86b63e3c40d9" },
+  { n = 2, title = "Song", mbid = "6e18e6fe-d974-4b7b-9887-9678d856f27b" },
+  { n = 3, title = "Natural Decline", mbid = "71e40574-b9cc-4608-bd62-572b5c62a1af" },
+  { n = 4, title = "Keep Some Steady Friends Around", mbid = "a828f945-3874-4df9-8ce7-f02c4c61658f" },
+  { n = 5, title = "Dirty Pants", mbid = "04551010-316c-480e-bda6-315e85e383a2" },
+  { n = 6, title = "Lazy Rain", mbid = "1d8f93cc-ef0b-4bca-97a5-d7176fea00bf" },
+  { n = 7, title = "Short Drive", mbid = "69c69f2a-045f-437e-bc27-fc61a7662dd8" },
+  { n = 8, title = "Live as If Someone Is Always Watching You", mbid = "9d81c0f1-04d3-4e29-b225-fe0639b480b6" },
+  { n = 9, title = "Rain on Lens 2", mbid = "35344e14-76bd-47a3-9627-c92acf108675" },
+  { n = 10, title = "Revanchism", mbid = "9917889b-5bd7-4e0e-bd29-65248d72960a" },
+]
+
+[[release]]
+mbid = "26a2d1fe-ad1e-3d93-9bec-eda5d418f683"
+title = "Supper"
+type = "album"
+date = "2003-03-18"
+tracks = [
+  { n = 1, title = "Feather by Feather", mbid = "f5179f0b-c9f3-4a26-b963-0ad62e899d66" },
+  { n = 2, title = "Butterflies Drowned in Wine", mbid = "775f970b-6a1e-4b97-babd-0dc5440ec4f6" },
+  { n = 3, title = "Morality", mbid = "256321fc-2986-4ab8-856d-07e7f541ccc4" },
+  { n = 4, title = "Ambition", mbid = "50f8707e-22ca-4500-8774-f4a16124897e" },
+  { n = 5, title = "Vessel in Vain", mbid = "f3017970-7807-40b7-91b2-fe8328a0728f" },
+  { n = 6, title = "Truth Serum", mbid = "646ab72b-f6c5-47d4-b815-da046d2eee93" },
+  { n = 7, title = "Our Anniversary", mbid = "f016c5bc-54b5-4dad-98a8-27095574eb48" },
+  { n = 8, title = "Driving", mbid = "e74a5603-6ad3-46d7-ae51-18bfb880e992" },
+  { n = 9, title = "A Guiding Light", mbid = "24942712-ce6a-4040-9ed1-8f8af58a2632" },
+]
+
+[[release]]
+mbid = "280715c6-17d7-3458-8ac1-d0dadb1ee087"
+title = "A River Ain't Too Much to Love"
+type = "album"
+date = "2005-05-24"
+tracks = [
+  { n = 1, title = "Palimpsest", mbid = "4a8dc963-4e27-4cb9-9a2c-0b7bccf1570c" },
+  { n = 2, title = "Say Valley Maker", mbid = "74e638df-b7f2-4a77-9c51-0a2c237bc167" },
+  { n = 3, title = "The Well", mbid = "aca67b16-601b-4f49-9f14-7aecab21a3e2" },
+  { n = 4, title = "Rock Bottom Riser", mbid = "b2b6aec2-8bc0-4d17-92d4-38e5baee1a2a" },
+  { n = 5, title = "I Feel Like the Mother of the World", mbid = "40560b51-6f2d-4977-bd80-2150260e7b04" },
+  { n = 6, title = "In the Pines", mbid = "4080f169-c31b-425d-8c42-521be1637e64" },
+  { n = 7, title = "Drinking at the Dam", mbid = "5b299d38-dc65-49d6-b184-107ad8c1c765" },
+  { n = 8, title = "Running the Loping", mbid = "465900c6-bfca-4615-a9a7-a88bd39b99d5" },
+  { n = 9, title = "I'm New Here", mbid = "2c7aeafc-86e7-4bc1-9dfb-c27d97f3840c" },
+  { n = 10, title = "Let Me See the Colts", mbid = "318abcb9-f51e-4147-b137-7714b7f91a13" },
+]
+
+[[release]]
+mbid = "ef767f22-7b88-3a92-b498-71e5460604c9"
+title = "Rock Bottom Riser"
+type = "ep"
+date = "2006-06-12"
+tracks = [
+  { n = 1, title = "Rock Bottom Riser", mbid = "b2b6aec2-8bc0-4d17-92d4-38e5baee1a2a" },
+  { n = 2, title = "I Feel Like the Mother of the World", mbid = "32848ffe-f9eb-468b-838d-b66ed0acbf71" },
+  { n = 3, title = "Bowery", mbid = "893a4165-2e89-4aea-bb8f-3513f2f16246" },
+  { n = 4, title = "Fools Lament", mbid = "837130ea-dbd5-4684-a666-06695e4b15d7" },
+]

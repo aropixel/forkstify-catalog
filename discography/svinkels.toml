@@ -1,0 +1,192 @@
+format = 1
+
+[[release]]
+mbid = "517e8c73-cff7-3e22-aa89-f7d627f34d60"
+title = "Juste fais là !"
+type = "ep"
+date = "1998-01-26"
+spotify = "3Q8Ff5PxALZvgl9A7ZeGpo"
+tracks = [
+  { n = 1, title = "L'Odeur", mbid = "57cd541e-8535-49e3-88e7-682597518684" },
+  { n = 2, title = "Le Volga", mbid = "f2b3e6f6-d884-4ddb-ad68-7abaf5686f09" },
+  { n = 3, title = "Cereal Killer", mbid = "4f441f4c-1269-4ba1-a7b6-6de37f2ebd89" },
+  { n = 4, title = "Skunk Funk", mbid = "25a3e06e-83fb-4dea-b7d8-cce83f9d4d25" },
+  { n = 5, title = "Le Métro", mbid = "11d3c332-b615-47a5-9d9e-0d87b7e37ddc" },
+  { n = 6, title = "J'pète quand je crache", mbid = "cf4aafb5-06e4-430f-9d1b-132a09302793" },
+  { n = 7, title = "Juste fais là", mbid = "7dcd680c-6266-4704-a17e-ce1b91c593fb" },
+  { n = 8, title = "Rappel", mbid = "3feb63ad-3107-4b19-94fa-70a775862238" },
+]
+
+[[release]]
+mbid = "4d687bfe-e227-485a-bc44-a9d32c2c9b42"
+title = "Krevard / Front contre front"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Krevard", mbid = "22e92fda-df70-4d38-a11a-8c73085bdfc4" },
+  { n = 2, title = "Krevard (instrumental)", mbid = "ad306ad0-f279-4a10-b0d7-4a815f03c81f" },
+  { n = 3, title = "Front contre front", mbid = "e0e9d9a2-4ec8-4697-8cb7-201f8c576e8b" },
+  { n = 4, title = "Front contre front (instrumental)", mbid = "5b1e0fe9-1612-4787-95f9-edae69d0cc18" },
+]
+
+[[release]]
+mbid = "66b4c371-f0ae-354f-b8ed-316005cefb07"
+title = "Tapis rouge"
+type = "album"
+date = "1999-01-01"
+spotify = "2x6eWwVPSUi1hfjYK6kCDH"
+tracks = [
+  { disc = 1, n = 1, title = "Boule puante", mbid = "23575993-e476-4e16-8926-56a527bebc5a" },
+  { disc = 1, n = 2, title = "Front contre front", mbid = "e0e9d9a2-4ec8-4697-8cb7-201f8c576e8b" },
+  { disc = 1, n = 3, title = "Le Twist", mbid = "7e49245b-6a15-4682-8d73-258f0480b917" },
+  { disc = 1, n = 4, title = "Calmos", mbid = "636ff5e0-f5a7-4b30-a7d0-dde12662152c" },
+  { disc = 1, n = 5, title = "Bois mes paroles", mbid = "bd148657-e4ad-45a0-8959-ab822a3d1a70" },
+  { disc = 1, n = 6, title = "À coups de Santiag", mbid = "6068ec05-1959-4c56-b67f-44b7941d8c65" },
+  { disc = 1, n = 7, title = "Krevard", mbid = "22e92fda-df70-4d38-a11a-8c73085bdfc4" },
+  { disc = 2, n = 1, title = "Tapis rouge", mbid = "6848c18c-c7e5-476f-bd83-1509e1720bc7" },
+  { disc = 2, n = 2, title = "Cuitas", mbid = "e6be0296-1190-4740-a8e6-327950e84909" },
+  { disc = 2, n = 3, title = "Mappe monde", mbid = "0dc7333f-dbba-4567-8ece-616a6bbbf38f" },
+  { disc = 2, n = 4, title = "H", mbid = "f293583f-d62d-4bcf-9629-67e1cfa9b7a0" },
+  { disc = 2, n = 5, title = "Intro. Réveille le punk", mbid = "313487f1-9ed5-4c2a-8e98-32601384d0c7" },
+  { disc = 2, n = 6, title = "Réveille le punk (Full Metal mix)", mbid = "bf652966-da20-42ad-b3b8-f40885bdb3ae" },
+  { disc = 2, n = 7, title = "La Mahoudière", mbid = "73b5b62c-fb32-4f07-adb9-909514a7db43" },
+  { disc = 2, n = 8, title = "C-Real Killer (Munich 1999)", mbid = "e131db38-373b-4fc3-b77c-0c45ca91c450" },
+]
+
+[[release]]
+mbid = "f6d2ceee-1f82-3c79-9cdd-cb61b5ea5122"
+title = "Bois mes paroles"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Bois mes paroles (Keken remix)", mbid = "bdfe685e-2c7f-4e99-90f5-1e72269f7448" },
+  { n = 2, title = "Bois mes paroles (instrumental)", mbid = "fa6d4532-1920-40b1-abed-44f9b22cec15" },
+  { n = 3, title = "Svinkels 1", mbid = "2c113bd8-cc81-46fc-acf9-13e468f66c46" },
+  { n = 4, title = "Svinkels 1 (instrumental)", mbid = "21af8d5c-778f-4594-a3d4-9f0df5eb84a9" },
+  { n = 5, title = "Le Punk", mbid = "f6e307d0-60d2-4aef-8665-863c0920622e" },
+]
+
+[[release]]
+mbid = "e6d1d893-14c6-318a-b4e8-73d674ae6bae"
+title = "Bons pour l’asile"
+type = "album"
+date = "2003-09-23"
+spotify = "3ehbbO8P0PmQvz308qyJUn"
+tracks = [
+  { disc = 1, n = 1, title = "Ça recommence", mbid = "f000e39b-4395-4521-8903-42212f09f78e" },
+  { disc = 1, n = 2, title = "Le Svink c’est chic", mbid = "fa2a95d0-428b-428f-80e0-26ad7b655268" },
+  { disc = 1, n = 3, title = "De la came sous le saphir", mbid = "4c3c6e2c-6c11-49f8-b36d-a19b3a857eb9" },
+  { disc = 1, n = 4, title = "Ça n’sert à rien", mbid = "7b87b6f4-ef97-464a-8f3f-5dd8c5e77d02" },
+  { disc = 1, n = 5, title = "Happy Hour", mbid = "405ea882-79b0-4156-b084-366d742418d6" },
+  { disc = 1, n = 6, title = "Ma musique", mbid = "6792605f-3ef3-4ff1-847e-e89d30d673bf" },
+  { disc = 1, n = 7, title = "Bricolage", mbid = "a7f96694-4677-4c0e-a289-1c532014ba44" },
+  { disc = 1, n = 8, title = "Dizy (qu’il est fini)", mbid = "ab8d9e08-0b33-4684-811c-c44b7c50f514" },
+  { disc = 2, n = 1, title = "Le Corbeau", mbid = "eda76063-edea-4bdb-9370-694e3e06f937" },
+  { disc = 2, n = 2, title = "Plutôt mourir", mbid = "9c92ee3d-e66d-415a-b2d5-8ce5308dc2c2" },
+  { disc = 2, n = 3, title = "L’Internazionale", mbid = "b5d1e1d5-895c-48ea-b602-29dae41c92ca" },
+  { disc = 2, n = 4, title = "Hard amat’", mbid = "85c18b81-197e-40d0-8742-8ab8abc4b3bd" },
+  { disc = 2, n = 5, title = "Vite fait, mal fait", mbid = "90bbac3b-4dc4-488b-b9ed-cfad9c444aed" },
+  { disc = 2, n = 6, title = "Série noire", mbid = "c14307f6-1be2-4e87-8847-10b1257e934d" },
+  { disc = 2, n = 7, title = "Le plancher m’appelle", mbid = "83cc65a5-098c-489a-b079-40a4b366f611" },
+]
+
+[[release]]
+mbid = "cf505455-52ee-40a1-94be-7a2ffadd9371"
+title = "Monde de merde"
+type = "ep"
+date = "2008-03-31"
+spotify = "1VW2OPm3UpQQiMFM4a0lqA"
+tracks = [
+  { n = 1, title = "Monde de merde", mbid = "d6a58628-c942-4185-a4a2-734d6a7fb44c" },
+  { n = 2, title = "Monde de merde (instrumental)", mbid = "a1a806c1-1be3-4510-8c57-a9608567672b" },
+  { n = 3, title = "Monde de merde (a capella)", mbid = "f0ac21b6-2eba-4425-8478-222de0412d78" },
+]
+
+[[release]]
+mbid = "ae72994e-a1c0-38f2-9503-1454f1514ab7"
+title = "Dirty Centre"
+type = "album"
+date = "2008-06-16"
+spotify = "2ZZvTJqR3ArNpu9Ee3Oehx"
+tracks = [
+  { n = 1, title = "Le Club de l’apocalypse", mbid = "81d7901b-1a6a-44f6-ae06-25edacfb35b2" },
+  { n = 2, title = "Droit dans le mur", mbid = "db86edc5-3cc2-4ed1-a725-d668a5f71853" },
+  { n = 3, title = "Faites du bruit", mbid = "979d50e1-d45d-4572-b772-e96fc39a145e" },
+  { n = 4, title = "Du PQ (pour mon trou‐trou)", mbid = "1de6eb2f-8f74-4ce4-8e76-97cf7f031b39" },
+  { n = 5, title = "La Ferme", mbid = "a0abcdb6-1edc-463d-aac6-5143483c879a" },
+  { n = 6, title = "La Youte", mbid = "cb4a3fd7-2003-4d9e-a326-a2a13e83ef26" },
+  { n = 7, title = "Dirty Centre", mbid = "d5d71260-1aa0-4bc7-80d5-d2a89753f427" },
+  { n = 8, title = "C’est des cons", mbid = "be3fd7f4-3bdb-4310-a07f-207f819d3852" },
+  { n = 9, title = "Ultras festifs", mbid = "10190548-83df-4f0c-a51a-1dab15824475" },
+  { n = 10, title = "La Fugue (série noire II)", mbid = "fd82c780-3bac-4e4c-b712-095e5dd2c0ed" },
+  { n = 11, title = "La Tour Eiffel", mbid = "bf6fc767-e7c0-47c2-b12d-af6a50e29788" },
+  { n = 12, title = "Tout nu yo !", mbid = "5f1ef4e5-911f-4be7-ab19-4c80f8bcfc91" },
+  { n = 13, title = "Le Blues du tox", mbid = "fb62bd95-ec1e-4fcc-93da-9490fc6c58bd" },
+  { n = 14, title = "On ferme", mbid = "5b81afbc-18d4-4419-8b7b-8dfce78859ea" },
+]
+
+[[release]]
+mbid = "421dbea0-6bb3-46d9-9920-073d53d8423a"
+title = "Mon spot"
+type = "single"
+date = "2020-06-08"
+spotify = "6PG5qvw0m1pZvYMTatnmNB"
+tracks = [
+  { n = 1, title = "Mon spot", mbid = "599f20b5-be1b-421e-848c-ff43257893b4" },
+]
+
+[[release]]
+mbid = "0f7e57f3-6a72-4d2b-9560-64961817a01c"
+title = "Dossiers perdus, Volume 1"
+type = "ep"
+date = "2021-05-07"
+spotify = "3fMZnid6StGnv4V3avERUq"
+tracks = [
+  { n = 1, title = "Bon pour l’asile", mbid = "ce82a5ff-6d92-4ac7-8967-2b15df03d2ee" },
+  { n = 2, title = "Mass Lysteria", mbid = "5263cade-09b9-49b9-abf8-64c176098636" },
+  { n = 3, title = "Guerre du feu", mbid = "7d254db0-5c26-4f45-a26d-400dde86e101" },
+  { n = 4, title = "PxxxxN de hippie", mbid = "e8c6c8d8-03c5-4a95-a590-f2d0a54e7d40" },
+  { n = 5, title = "Gouttable", mbid = "47700a0e-260a-4736-82bf-e7832e416542" },
+]
+
+[[release]]
+mbid = "d907bc69-8c93-4846-b70d-614b27d8de81"
+title = "Rechute"
+type = "album"
+date = "2021-09-03"
+spotify = "521uBAXTVshWDLddIxc6Yv"
+tracks = [
+  { n = 1, title = "Réanimation", mbid = "dcde949b-3609-456e-81b1-1561d298c7a4" },
+  { n = 2, title = "Mon spot", mbid = "599f20b5-be1b-421e-848c-ff43257893b4" },
+  { n = 3, title = "Rechute", mbid = "8a7837ed-9e17-405a-9e23-555204b126a2" },
+  { n = 4, title = "Rapido", mbid = "90a0be51-4c62-44f4-925c-52f73367ea91" },
+  { n = 5, title = "Pas le temps de blaguer", mbid = "0383dfcb-38c9-4d23-bbb9-8d20f97ccd65" },
+  { n = 6, title = "Big Red", mbid = "47bdcb49-32ad-47b3-944d-2e552fa036d2" },
+  { n = 7, title = "Bistrot Boys", mbid = "2fadf8f5-2cde-45b3-8d9b-759b2b854832" },
+  { n = 8, title = "CPCQJVLS", mbid = "8124f93f-a311-4b55-9865-7a50f3721347" },
+  { n = 9, title = "Jeopardy", mbid = "845839d3-c6ee-49d4-aac7-d90b79967177" },
+  { n = 10, title = "La Vedette", mbid = "4f0f110e-1c36-49f3-96b0-94731c9e1d32" },
+  { n = 11, title = "Blessé dans le pogo", mbid = "b359bda7-bbd5-42cc-9abb-49bafcb82165" },
+  { n = 12, title = "Démons", mbid = "a95602ed-3ca4-4fa2-ae81-c1c0c68c8446" },
+  { n = 13, title = "série noire III", mbid = "b0231c51-c265-482d-af4b-b431f44e3146" },
+  { n = 14, title = "J.A.S.E.", mbid = "e229546e-fb06-4789-a1ea-f8ef67684a3d" },
+]
+
+[[release]]
+mbid = "d60d2e09-0a6f-454f-8075-4ef5bd81cac2"
+title = "Pour toujours"
+type = "single"
+date = "2026-02-01"
+spotify = "0T56nwuu4Kptd7hb9pv9tD"
+tracks = [
+  { n = 1, title = "Pour toujours", mbid = "3888f49d-fa2c-4339-b1e3-885bf07d6c28" },
+]
+
+[[release]]
+mbid = "477de38d-0338-45a2-92d3-bc6ac63c9f2a"
+title = "Ça re-recommence !"
+type = "single"
+date = "2026-06-08"
+tracks = [
+  { n = 1, title = "Ça re-recommence !", mbid = "82ce578e-cda4-4374-b692-57e5b66bb50c" },
+]

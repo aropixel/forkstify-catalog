@@ -1,0 +1,162 @@
+format = 1
+
+[[release]]
+mbid = "ad224bef-4878-4a2c-b14d-7460bd0eae8e"
+title = "Placements de produits"
+type = "single"
+date = "2017-09-25"
+spotify = "7zQypqm1C3LpIH8TMVDsqI"
+tracks = [
+  { n = 1, title = "Placements de produits", mbid = "d7fe85e9-7bf1-4184-92c5-98b441a0a2cc" },
+]
+
+[[release]]
+mbid = "713b7e66-3044-4948-a0e5-24171f068818"
+title = "Freestyle de l'autodérision"
+type = "single"
+date = "2018-02-20"
+tracks = [
+  { n = 1, title = "Freestyle de l'autodérision", mbid = "d89b8ca8-6a67-4345-bdaf-aeeff9d9cb00" },
+]
+
+[[release]]
+mbid = "94a70240-5127-40f4-a491-c86d703ee182"
+title = "Top 1"
+type = "single"
+date = "2018-02-20"
+spotify = "6AxDd8JJ70fv6Mjk8neQkl"
+tracks = [
+  { n = 1, title = "Top 1", mbid = "f63a460f-a440-4715-a598-540a8f9017e2" },
+]
+
+[[release]]
+mbid = "e9aaba98-5116-42aa-b6bf-07c1046696de"
+title = "Freestyle de potes"
+type = "single"
+date = "2018-05-09"
+spotify = "6NjkoKy0gBjnWKfBKYWlrw"
+tracks = [
+  { n = 1, title = "Freestyle de potes", mbid = "a931aab2-59cd-4d3f-a537-e0a271acf15d" },
+]
+
+[[release]]
+mbid = "83ea27c0-bd60-4e69-b4a0-b8e889743957"
+title = "Pas tout seul"
+type = "single"
+date = "2018-08-31"
+spotify = "5fVmdi9qL2gNHArzMt4aGl"
+tracks = [
+  { n = 1, title = "Pas tout seul", mbid = "cc4c6ee1-da6c-45ef-9ac2-ae5fe70697ab" },
+]
+
+[[release]]
+mbid = "d3b78f8b-fd79-48c5-8902-6c51ac445e80"
+title = "1990 VS 2000"
+type = "single"
+date = "2018-11-08"
+tracks = [
+  { n = 1, title = "90 VS 2000", mbid = "6b26b631-1958-4420-995c-544fa33d8241" },
+]
+
+[[release]]
+mbid = "eb2bafb3-6971-4856-af33-ff133a4c3d29"
+title = "Bye Bye"
+type = "single"
+date = "2019-06-14"
+spotify = "1Jnm2UHRQ9AznO07FvLoJf"
+tracks = [
+  { n = 1, title = "Bye Bye", mbid = "1f7d2454-ab5b-46c0-b54e-cefab02ca99d" },
+]
+
+[[release]]
+mbid = "0a1cf45e-b128-4a27-ae22-f41f7ed93428"
+title = "Influenceurs"
+type = "single"
+date = "2020-01-08"
+spotify = "6ybA8LaoBjHJEmlqCjJyWS"
+tracks = [
+  { n = 1, title = "Influenceurs", mbid = "3adb2776-869e-4fa8-9f84-bfee554ad803" },
+]
+
+[[release]]
+mbid = "ad05f686-7e10-4653-a7ac-5f806ba377e2"
+title = "Guépard"
+type = "single"
+date = "2020-07-03"
+spotify = "7oaI7MIirHvztKC72kiJj2"
+tracks = [
+  { n = 1, title = "Guépard", mbid = "401cd0ff-56ec-4c5a-a269-cd82e7975c64" },
+]
+
+[[release]]
+mbid = "69d9ab7d-5c29-4563-9b28-c9d014a81cba"
+title = "Oxyz"
+type = "album"
+date = "2020-09-25"
+spotify = "2kRGdgGmvmDOgDcO4As5DT"
+tracks = [
+  { n = 1, title = "Oxyz", mbid = "a311239a-85cc-4803-98f3-21bfcb33dcbf" },
+  { n = 2, title = "Servis", mbid = "533e0782-9102-4246-a90b-728b5ccd2586" },
+  { n = 3, title = "Tout", mbid = "df650359-58c0-4c39-83e8-9ae8e4b0b8f7" },
+  { n = 4, title = "Podium", mbid = "c67975b8-a0ab-443e-9fbc-df9ce3fe7d97" },
+  { n = 5, title = "Guépard", mbid = "c2ebeb9d-ff36-4e1f-a444-27d1d15d6a74" },
+  { n = 6, title = "Mario Kart", mbid = "8330dc47-8d5d-44f0-a81d-d1998e2066ef" },
+  { n = 7, title = "Loin", mbid = "5681c094-387e-47a1-a4a9-c8e6c0c625ea" },
+  { n = 8, title = "Interlude", mbid = "47d0bd5d-094a-44fc-852f-5b53f69e917e" },
+  { n = 9, title = "Pourquoi", mbid = "5429a794-e76d-4cb2-adbf-5a65acf1426e" },
+  { n = 10, title = "Elle menait la danse", mbid = "8ac1f338-95a3-41d7-9652-ca0cf8594a6e" },
+  { n = 11, title = "K.O.", mbid = "9d088357-24a5-4efc-825e-9aec43946349" },
+  { n = 12, title = "T’en fais pas", mbid = "5acfd652-eeea-4baf-acf7-599b729dbada" },
+  { n = 13, title = "Pas maintenant", mbid = "a7af4744-229d-43e8-b3ab-c49a88b2eed8" },
+  { n = 14, title = "Années", mbid = "52abed97-361c-4193-a38d-ae96f1e5dbe4" },
+]
+
+[[release]]
+mbid = "fb529e3a-2528-4582-b153-8a17a1dafc85"
+title = "Tu force"
+type = "single"
+date = "2021-03-03"
+spotify = "2us7YlSp5TB2mIMw7DEiuT"
+tracks = [
+  { n = 1, title = "Tu force", mbid = "91b5da8b-af26-4964-be72-798bcf3f9736" },
+]
+
+[[release]]
+mbid = "d16b7c2a-2c4b-4125-a813-bf8312b93d85"
+title = "ça fait pas mal"
+type = "single"
+date = "2021-07-23"
+spotify = "7MhZ8SB166albaIb1qnqRc"
+tracks = [
+  { n = 1, title = "ça fait pas mal", mbid = "769f4b53-b84a-4e9a-a8f2-4787d01b46bd" },
+]
+
+[[release]]
+mbid = "7f9beb3f-5dbd-4878-a622-52410aeaa3e8"
+title = "arrêtez"
+type = "single"
+date = "2021-09-24"
+spotify = "2EI7ofTIttPbt1gXbAKKIn"
+tracks = [
+  { n = 1, title = "arrêtez", mbid = "af93052e-3fef-4324-9339-b589d7e3f7f6" },
+]
+
+[[release]]
+mbid = "d9309c51-8d14-4d08-b38e-52dd1cfa5f6a"
+title = "Adieu les filles"
+type = "single"
+date = "2022-04-07"
+spotify = "0Mmy1JKWfUADmvW6laVEcK"
+tracks = [
+  { n = 1, title = "Adieu les filles", mbid = "f660fd7a-6d06-4720-89bd-5f9a99e20b43" },
+]
+
+[[release]]
+mbid = "4d8231ee-d8ba-4fd5-80aa-a8b1834190bb"
+title = "Canard"
+type = "single"
+date = "2022-06-08"
+spotify = "5AGrc7m6mGzBheXObMrAz5"
+tracks = [
+  { n = 1, title = "Canard", mbid = "eedc8874-1cbb-4881-8281-f96c52a3448e" },
+]

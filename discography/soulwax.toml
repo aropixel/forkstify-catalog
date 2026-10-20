@@ -1,0 +1,415 @@
+format = 1
+
+[[release]]
+mbid = "2937c9bc-3bf3-3802-b10b-1eb8c9313eed"
+title = "2nd Handsome Blues"
+type = "ep"
+date = "1995-12-04"
+tracks = [
+  { n = 1, title = "Reruns (Daisy Duke)", mbid = "b4101373-627d-4930-ac59-f674b237ca02" },
+  { n = 2, title = "1-800", mbid = "bd756dd1-ef8e-4fa5-bd3c-84c6edf2c053" },
+  { n = 3, title = "Hammer & Tongues", mbid = "1e4cf20b-632e-4d73-aef7-2af689bb03fe" },
+  { n = 4, title = "Cut Some Slack", mbid = "26a6a839-0227-4f5d-b246-d023b2792305" },
+]
+
+[[release]]
+mbid = "30b1815a-ef6e-48bc-8588-f2fdab2c99e6"
+title = "Caramel"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Caramel (album version edit)", mbid = "a56621a3-8887-472d-84f7-1a9f0762d2bd" },
+  { n = 2, title = "Caramel (Walkman of Sound mix)", mbid = "b30f2cc3-778e-4721-a14b-f42cc8cf2d7f" },
+  { n = 3, title = "Caramel (Chris Johnson's Sugar mix)", mbid = "0ff0be75-559e-43cb-8714-ef63fc5ac3fd" },
+  { n = 4, title = "Caramel (Dairy Air mix)", mbid = "8e0fbe26-aa0b-4124-9cbe-93a684b53fb9" },
+]
+
+[[release]]
+mbid = "3d8df18b-a6b5-3c9a-a9cf-d796a9feaeb1"
+title = "Kill Your Darlings"
+type = "single"
+date = "1996-03-18"
+tracks = [
+  { n = 1, title = "Kill Your Darlings", mbid = "1683ee90-8443-42a6-9e43-51b531157c86" },
+  { n = 2, title = "Kill Your Darlings (Nick Edenetti version)", mbid = "8a01598e-bb58-4f28-9c3a-e30d258f38e8" },
+]
+
+[[release]]
+mbid = "cb16bcca-9c29-3807-ba5f-696ef8c5fb59"
+title = "Leave the Story Untold"
+type = "album"
+date = "1996-04-15"
+spotify = "16eH8xR3BLiHZmh6JPw3j5"
+tracks = [
+  { n = 1, title = "Intro", mbid = "047a5016-6371-4ba2-8c53-269c3020334c" },
+  { n = 2, title = "Reruns (Daisy Duke)", mbid = "717dbfcd-9643-4bb3-b666-6032a41150b9" },
+  { n = 3, title = "Caramel", mbid = "01a04bad-75e5-4e72-b9e7-aeaba47d3883" },
+  { n = 4, title = "Kill Your Darlings", mbid = "1683ee90-8443-42a6-9e43-51b531157c86" },
+  { n = 5, title = "Great Continental Suicide Note", mbid = "7cf0a42c-1cca-4146-85f7-153d93ab9d54" },
+  { n = 6, title = "Soul Simplicity", mbid = "deb95ebc-60aa-44b0-a631-ec10e6c1d925" },
+  { n = 7, title = "Rooster", mbid = "c6bc38d0-ace8-4559-8c45-4463e9d36360" },
+  { n = 8, title = "Tales of a Dead Scene", mbid = "ac714a4c-8414-4020-aa14-351f52fbafb8" },
+  { n = 9, title = "Hammer & Tongues", mbid = "0ec052e7-5237-427b-897e-7399392d4e75" },
+  { n = 10, title = "Spending the Afternoon in a Slowly Revolvin' Door", mbid = "60b97e34-8e3e-4705-8f47-c8683fcaa2eb" },
+  { n = 11, title = "The About It Song", mbid = "6a2580e6-ac7d-466d-9a4e-07f0d0ae0a2e" },
+  { n = 12, title = "Long Distance Zoom", mbid = "0c0da7d8-f96e-446d-a55c-606680b33768" },
+  { n = 13, title = "Vista Grande", mbid = "295f9cb5-6d8e-458f-aba6-0ea106dd526c" },
+  { n = 14, title = "Acapulco Gold", mbid = "86e1bd26-5cbb-4e00-b6f6-75e7c1141e2f" },
+]
+
+[[release]]
+mbid = "f77cc2cd-6789-4a2c-9a59-b75119baf3b1"
+title = "Great Continental Suicide Note"
+type = "single"
+date = "1996-12-16"
+tracks = [
+  { n = 1, title = "Great Continental Suicide Note (radio edit)", mbid = "29246f26-676c-48f7-b82a-e8807b3d88a8" },
+  { n = 2, title = "Great Continental Suicide Note - No Drum n Bass (No Drum n Bass)", mbid = "dab7766d-2726-437a-a331-183cd6e06335" },
+  { n = 3, title = "Great Continental Suicide Note", mbid = "7cf0a42c-1cca-4146-85f7-153d93ab9d54" },
+]
+
+[[release]]
+mbid = "4f5db641-3b3e-48a3-b3fa-46c37356a119"
+title = "Conversation Intercom"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Conversation Intercom", mbid = "b0b9f933-3dc3-4e63-b6bb-d952c33a6c49" },
+  { n = 2, title = "Conversation Intercom (Vocoder Intermix)", mbid = "1795a18c-b857-4ae0-876e-1d1af76ddd95" },
+]
+
+[[release]]
+mbid = "a5de9626-2563-43f8-8c71-8ead9e0b14eb"
+title = "My Cruel Joke..."
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "My Cruel Joke...", mbid = "3e15a009-02a0-4159-9f9d-32024acf47ed" },
+  { n = 2, title = "I Go to Sleep", mbid = "5310fd3a-0dc5-4747-92c5-250b7d11272d" },
+  { n = 3, title = "Mike Rule Joe Cream Mix", mbid = "ed841855-15b5-4b11-a791-4ee16fb43396" },
+]
+
+[[release]]
+mbid = "7c41a3dd-7846-3007-b072-e095acb8ff0f"
+title = "Too Many DJ’s"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Too Many DJ's", mbid = "df7f105e-8e78-4bd9-a239-60be810348da" },
+  { n = 2, title = "Much Against Everyone's Advice", mbid = "899df3fa-4cb0-41ee-9322-799f12257519" },
+  { n = 3, title = "Overweight Karate Kid", mbid = "c7fac96d-e3b8-4265-83a1-e459e101bc86" },
+  { n = 4, title = "Cut Some Slack (live)", mbid = "33741b1a-d311-4c25-b307-b8c8682fc5fe" },
+]
+
+[[release]]
+mbid = "ad4e6eba-76a3-4d62-9470-d4173b851c4f"
+title = "Saturday"
+type = "single"
+date = "1999-03"
+tracks = [
+  { n = 1, title = "Saturday", mbid = "b1c88e6f-075d-46a4-9005-5ff1eb98433b" },
+  { n = 2, title = "Saturday (Morning After Thrill)", mbid = "20cc7af3-203e-493f-b17f-fc4507cac3e1" },
+]
+
+[[release]]
+mbid = "a2826b1a-66ee-387c-a0cd-bef439f12c72"
+title = "Much Against Everyone’s Advice"
+type = "album"
+date = "1999-03-15"
+spotify = "1Zisq1gECqPQtxvny6AUXP"
+tracks = [
+  { disc = 1, n = 1, title = "Conversation Intercom", mbid = "b0b9f933-3dc3-4e63-b6bb-d952c33a6c49" },
+  { disc = 1, n = 2, title = "Saturday", mbid = "b1c88e6f-075d-46a4-9005-5ff1eb98433b" },
+  { disc = 1, n = 3, title = "When Logics Die", mbid = "36bdfcf8-b859-465c-9688-f2fd27e70bf8" },
+  { disc = 1, n = 4, title = "Much Against Everyone's Advice", mbid = "89fb76d3-410f-4b81-ab61-0c9dc9991168" },
+  { disc = 1, n = 5, title = "Overweight Karate Kid", mbid = "c7fac96d-e3b8-4265-83a1-e459e101bc86" },
+  { disc = 1, n = 6, title = "Proverbial Pants", mbid = "d9c9ddd3-b2aa-4930-a899-d5d2184e4b59" },
+  { disc = 1, n = 7, title = "The Salty Knowledge of Tears", mbid = "7c3803fa-c240-4e07-9ee7-7c264e879f17" },
+  { disc = 1, n = 8, title = "Flying Without Wings", mbid = "74b38fcf-9f97-4a49-aa60-f8ca2c53b6c8" },
+  { disc = 1, n = 9, title = "More Than This", mbid = "501d0c04-0925-4b48-b167-d137499c2b89" },
+  { disc = 1, n = 10, title = "Too Many DJ's", mbid = "39eef2c1-506b-4e6c-8bf3-e752b3d28983" },
+  { disc = 1, n = 11, title = "Temptingly Yours", mbid = "1a31fdf8-e925-4a91-b36d-d92db4fc4e67" },
+  { disc = 1, n = 12, title = "My Cruel Joke", mbid = "3e15a009-02a0-4159-9f9d-32024acf47ed" },
+  { disc = 1, n = 13, title = "Scream", mbid = "d8caf9fd-4e54-4c1a-9475-299c9ea7d320" },
+  { disc = 1, n = 14, title = "Funny", mbid = "31a92963-cf6e-4261-812f-a6fe504a6b9c" },
+  { disc = 2, n = 1, title = "Saturday (Morning After Thrill)", mbid = "20cc7af3-203e-493f-b17f-fc4507cac3e1" },
+  { disc = 2, n = 2, title = "Wouldn't It Be Good", mbid = "92db9a23-e587-4df1-ad14-6764ad3437ce" },
+  { disc = 2, n = 3, title = "Conversation Intercom", mbid = "a3b36c6e-0cda-41bd-a369-864eb4c6c0dc" },
+  { disc = 2, n = 4, title = "Overweight Karate Kid", mbid = "bbcf7637-4bb0-47ed-bcfe-2cb06590826e" },
+  { disc = 2, n = 5, title = "Cut Some Slack", mbid = "33741b1a-d311-4c25-b307-b8c8682fc5fe" },
+  { disc = 2, n = 6, title = "Starfish and Coffee", mbid = "4b84c8c4-059b-4a19-8c78-8bc5c0bdcbeb" },
+  { disc = 2, n = 7, title = "I Go to Sleep", mbid = "5310fd3a-0dc5-4747-92c5-250b7d11272d" },
+  { disc = 2, n = 8, title = "Conversation Intercom (Vocoder Intermix)", mbid = "1795a18c-b857-4ae0-876e-1d1af76ddd95" },
+  { disc = 2, n = 9, title = "Mike Rule Joe Cream Mix", mbid = "ed841855-15b5-4b11-a791-4ee16fb43396" },
+]
+
+[[release]]
+mbid = "bb7b681b-0475-3fb2-8054-8e8d979364c9"
+title = "Wouldn’t It Be Good EP"
+type = "ep"
+date = "2000"
+tracks = [
+  { n = 1, title = "Wouldn’t It Be Good", mbid = "92db9a23-e587-4df1-ad14-6764ad3437ce" },
+  { n = 2, title = "Flying Without Wings", mbid = "f83a6c73-8eec-4d3d-8a49-926ebf440369" },
+  { n = 3, title = "Starfish and Coffee", mbid = "4b84c8c4-059b-4a19-8c78-8bc5c0bdcbeb" },
+  { n = 4, title = "Pop Life", mbid = "2f1eb195-ef06-48a9-98fe-c63b92d94029" },
+  { n = 5, title = "My Cruel Joke", mbid = "3e15a009-02a0-4159-9f9d-32024acf47ed" },
+]
+
+[[release]]
+mbid = "07c8322b-9ee3-3114-ac3a-26cbf1c91781"
+title = "Much Against Everyone's Advice"
+type = "single"
+date = "2000-06-12"
+tracks = [
+  { n = 1, title = "Much Against Everyone's Advice (Dave Bascombe radio mix)", mbid = "26e3c64c-3bfc-45e5-ab22-62152cfcb12a" },
+  { n = 2, title = "My Cruel Joke", mbid = "3e15a009-02a0-4159-9f9d-32024acf47ed" },
+  { n = 3, title = "Flying Without Wings", mbid = "f83a6c73-8eec-4d3d-8a49-926ebf440369" },
+]
+
+[[release]]
+mbid = "e8c26c44-5817-3ebe-b8cb-0bf1994aa010"
+title = "NY Excuse"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "NY Excuse (radio edit)", mbid = "860b3205-b025-4ad1-8e90-158df0cbfc8a" },
+  { n = 2, title = "Another Excuse (DFA remix)", mbid = "e6073ac3-7abf-4763-9bb0-7fd0f69c3ea5" },
+  { n = 3, title = "NY Lipps (Kawazaki dub)", mbid = "94d93066-7ae9-47f3-9032-44c4fb6f0bf5" },
+  { n = 4, title = "NY Excuse (Nite version)", mbid = "808df15d-dfa3-4f10-93c9-3d0e7f06aac5" },
+  { n = 5, title = "NY Excuse (Justice remix)", mbid = "84e890be-dbd1-4a92-8dda-1d3922c8f0a1" },
+  { n = 6, title = "NY Excuse", mbid = "dc8cf4e0-0288-4f7c-b926-f84f3555e4db" },
+]
+
+[[release]]
+mbid = "4c8c847a-be06-34c6-babf-66ae163abc1d"
+title = "Any Minute Now"
+type = "single"
+date = "2004-08-09"
+tracks = [
+  { n = 1, title = "Any Minute Now", mbid = "697d26ec-297e-4bce-a566-cd5e6074fb37" },
+  { n = 2, title = "NY Excuse (Fast version)", mbid = "afaffdd8-8943-41ed-9de0-c0d62c422863" },
+]
+
+[[release]]
+mbid = "5f0a5798-14f0-3869-a2f3-0a10989d604d"
+title = "Any Minute Now"
+type = "album"
+date = "2004-08-11"
+spotify = "5ZQP07MzwSsiKkjSYJLD40"
+tracks = [
+  { n = 1, title = "E Talking", mbid = "0ad4d246-e280-4f00-a47c-b7f93067131b" },
+  { n = 2, title = "Any Minute Now", mbid = "697d26ec-297e-4bce-a566-cd5e6074fb37" },
+  { n = 3, title = "Please… Don’t Be Yourself", mbid = "cda348d0-c5f8-4475-b984-3439317a477e" },
+  { n = 4, title = "Compute", mbid = "4c9f17c7-0ee4-499a-a2fc-a6eb30ab76a2" },
+  { n = 5, title = "Krack", mbid = "54a16c0c-39a7-4d8b-b1a1-61db14acd64a" },
+  { n = 6, title = "Slowdance", mbid = "645a4951-6c38-4e85-81ff-c3b0a1a95d7c" },
+  { n = 7, title = "A Ballad to Forget", mbid = "095268c4-2317-4698-a284-95ac1ee02fe5" },
+  { n = 8, title = "Accidents and Compliments", mbid = "bc03d306-2e52-4e6e-b7fb-d56f46200ba7" },
+  { n = 9, title = "NY Excuse", mbid = "a4d4db40-47cd-4afb-bd94-48fc74f763be" },
+  { n = 10, title = "Miserable Girl", mbid = "930a6fb8-62ef-43be-b07e-e839f6e00e31" },
+  { n = 11, title = "YYY/NNN", mbid = "3337622b-1fe0-470f-aabe-33c6404dd074" },
+  { n = 12, title = "The Truth Is So Boring", mbid = "aeb2bd2f-8cf2-4f60-a373-4e1699db6707" },
+  { n = 13, title = "Dance 2 Slow", mbid = "26457d26-7474-4819-82a4-a73866347f9b" },
+  { n = 14, title = "NY Excuse (fast version)", mbid = "afaffdd8-8943-41ed-9de0-c0d62c422863" },
+  { n = 15, title = "Hey Little Girl", mbid = "974f936d-552c-462e-989c-e4ccc0589476" },
+]
+
+[[release]]
+mbid = "df7093f6-2184-3106-8431-96938bafda20"
+title = "E Talking"
+type = "single"
+date = "2005-01-17"
+tracks = [
+  { n = 1, title = "E Talking (radio edit)", mbid = "6cd76865-ed1c-4c04-bc10-9bf8bdc5e3a9" },
+  { n = 2, title = "E Talking (Soulwax Nite version feat. Nancy Whang)", mbid = "4c397c89-b0b2-49d2-bf40-3a72bc1f5e9f" },
+  { n = 3, title = "E Talking (Tiga's Disco Drama remix)", mbid = "297f56ee-d084-4720-8a5c-799f3c0909bb" },
+  { n = 4, title = "E Talking (Rex the Dog remix)", mbid = "4a559ed7-d2b3-4460-b6b4-6a4dfc21b0dc" },
+  { n = 5, title = "E Talking (Jagz Kooner Black September vocal mix)", mbid = "7e40d3f2-dce2-4796-ab2a-227c5a8c7e56" },
+  { n = 6, title = "Teachers (Pupil mix)", mbid = "e06fd238-c153-4c08-9e4e-6f1a13c72112" },
+]
+
+[[release]]
+mbid = "68ff3f75-7693-42ae-9080-0b53b7c0241c"
+title = "Belgica: Original Soundtrack"
+type = "album"
+date = "2016-02-26"
+tracks = [
+  { n = 1, title = "The Best Thing", mbid = "054af836-2d01-449e-ad7f-0abd3ba40fd7" },
+  { n = 2, title = "How Long", mbid = "568b830d-3f7b-4df1-994c-a0bbd8505a0d" },
+  { n = 3, title = "Caoutchouc", mbid = "4941d244-d02f-4fb2-bc76-4da81092c07d" },
+  { n = 4, title = "Turn Off the Lights", mbid = "7b3c2978-c285-4091-b6b5-096301c5d997" },
+  { n = 5, title = "Hot December", mbid = "6729c019-24e3-4368-b688-1c238dc1e0e5" },
+  { n = 6, title = "Çölde Kutup Ayisi", mbid = "755dd76a-68f3-4d2f-a5e5-ca95e10299d4" },
+  { n = 7, title = "Ti Ricordi di Me", mbid = "70c5211e-fca9-4509-82fa-f1286bd13d17" },
+  { n = 8, title = "Nothing", mbid = "73613793-e5e1-4e8f-90bc-6bc23bc972c2" },
+  { n = 9, title = "Slippy Fingers", mbid = "99b22866-dc49-4aac-a665-e7c3f9ce5d2a" },
+  { n = 10, title = "Don't Wait Up for Me", mbid = "45caae62-3901-40f1-a594-137e778b1cbe" },
+  { n = 11, title = "Got Any Chris Rea?", mbid = "a4819ebb-30d4-4c77-844c-96be2c798611" },
+  { n = 12, title = "The Cookie Crumbles", mbid = "392c865c-9e94-497d-903d-18e4a9ca7a87" },
+  { n = 13, title = "Cybernetic Permutations in the Key of A", mbid = "4975dbc2-e1b6-4ec7-8082-810ad48fb828" },
+  { n = 14, title = "Sell It With Your Face", mbid = "12d58211-f846-4b5f-85d2-a80b368b5390" },
+  { n = 15, title = "Nine Thousand Eyes", mbid = "1fa19150-235f-45b1-8926-034ea40de0df" },
+  { n = 16, title = "Inward", mbid = "32a744c6-1636-4662-9747-67ce8252fc1c" },
+]
+
+[[release]]
+mbid = "52e37d6e-1453-41cb-8ffa-9523713ec962"
+title = "Heaven Scent"
+type = "single"
+date = "2016-07-18"
+tracks = [
+  { n = 1, title = "Heaven Scent", mbid = "e94f617a-29c5-44e0-b186-50996926f25d" },
+  { n = 2, title = "Heaven Scent (Deeweedub)", mbid = "8a0badec-f21d-4368-8d29-7082ac9b1f9f" },
+]
+
+[[release]]
+mbid = "82167a42-02db-44b6-93a9-d7ee14a13643"
+title = "Missing Wires"
+type = "single"
+date = "2017-03-09"
+tracks = [
+  { n = 1, title = "Missing Wires (edit)", mbid = "64aeb864-6c10-4eb6-9b8a-d62959b68a22" },
+  { n = 2, title = "Missing Wires", mbid = "2e1b8609-caab-43b2-a7e9-04d15385af31" },
+]
+
+[[release]]
+mbid = "950b2ca1-8cee-472f-ac91-86387c490f2c"
+title = "From Deewee"
+type = "album"
+date = "2017-03-24"
+spotify = "0ixwdleroFAl7fWqYZaSsA"
+tracks = [
+  { n = 1, title = "Preset Tense", mbid = "0ff1ce9d-2afc-46bb-8b53-3fc68216eb6e" },
+  { n = 2, title = "Masterplanned", mbid = "ecea0588-bd1c-4d61-be62-08d341282556" },
+  { n = 3, title = "Missing Wires", mbid = "2e1b8609-caab-43b2-a7e9-04d15385af31" },
+  { n = 4, title = "Conditions of a Shared Belief", mbid = "cd60debf-612d-484f-9bc4-291a254f8379" },
+  { n = 5, title = "Is It Always Binary", mbid = "adc1a03e-5537-48d0-a6a5-923e6d600173" },
+  { n = 6, title = "Do You Want to Get Into Trouble?", mbid = "37de4dd8-4fc7-4339-b0fd-cdfb39b53397" },
+  { n = 7, title = "My Tired Eyes", mbid = "addb2564-37fd-4130-ae83-b4acf3d14cfc" },
+  { n = 8, title = "Transient Program for Drums and Machinery", mbid = "0e4e761c-c638-4ebe-aa3d-4c4fd6f6f916" },
+  { n = 9, title = "Trespassers", mbid = "e32a99ca-4b70-4f9f-92ff-659d63859d96" },
+  { n = 10, title = "The Singer Has Become a Deejay", mbid = "d256a452-316e-49e0-af1e-c4438834d72c" },
+  { n = 11, title = "Here Come the Men in Suits", mbid = "03983259-6721-4011-970b-ddc7e53732d9" },
+  { n = 12, title = "Goodnight Transmission", mbid = "0291a0d5-de7c-4073-9adf-b7f740f93a6e" },
+]
+
+[[release]]
+mbid = "3ca0d1b5-6f52-4ad7-8a01-b771820c6cc4"
+title = "Close to Paradise"
+type = "single"
+date = "2017-08-18"
+tracks = [
+  { n = 1, title = "Close to Paradise", mbid = "c9c1e874-5399-4433-be2f-e0f8c613f3de" },
+  { n = 2, title = "Close to Paradise (instrumental)", mbid = "25db18c0-dded-469e-b8ab-63f4a9a2f42e" },
+]
+
+[[release]]
+mbid = "a42516b7-9632-4090-b74a-d0a16d6cd4ed"
+title = "Is It Always Binary (Deeweedub)"
+type = "single"
+date = "2017-11-24"
+spotify = "67uwnNehx2HbopOkptg8B1"
+tracks = [
+  { n = 1, title = "Is It Always Binary (Deeweedub)", mbid = "1933ec29-1eb1-4224-a23b-feae80e7d507" },
+]
+
+[[release]]
+mbid = "2c475ab5-a020-4722-8f98-fa8a8071e08c"
+title = "ESSENTIAL"
+type = "album"
+date = "2018-06-22"
+spotify = "2EDe6hS3kZuQEvv9yMGw6V"
+tracks = [
+  { n = 1, title = "Essential One", mbid = "220f3c75-42db-42a6-8af0-2ebf9ae9f422" },
+  { n = 2, title = "Essential Two", mbid = "07b7a02b-e326-40b4-966d-2f713e640561" },
+  { n = 3, title = "Essential Three", mbid = "52cc55ea-08f5-4b7b-93a7-15d19f458405" },
+  { n = 4, title = "Essential Four", mbid = "b2aeaa69-758a-4d35-8069-aa4420a09556" },
+  { n = 5, title = "Essential Five", mbid = "d0341e55-4dec-4d38-ad99-553d6b311b4b" },
+  { n = 6, title = "Essential Six", mbid = "19fbedc4-bd0a-44fe-8001-e4c1d27d484b" },
+  { n = 7, title = "Essential Seven", mbid = "80b74620-c961-455b-9651-d1c25078a880" },
+  { n = 8, title = "Essential Eight", mbid = "a8da2c36-9b3c-467b-a6b0-433d1df344d7" },
+  { n = 9, title = "Essential Nine", mbid = "3694a1d0-b857-463b-9a48-25773c5aaa26" },
+  { n = 10, title = "Essential Ten", mbid = "316943a0-775b-4518-aed1-043d5922289c" },
+  { n = 11, title = "Essential Eleven", mbid = "92ac84d0-42bc-4e0e-8ad6-6d9cd1ccd8ca" },
+  { n = 12, title = "Essential Twelve", mbid = "d1e1f1a0-489a-4bd3-a25c-95292e8ad701" },
+]
+
+[[release]]
+mbid = "2776ef3d-73ba-4621-b3f6-5189aa9dd344"
+title = "Empty Dancefloor"
+type = "single"
+date = "2020-12-08"
+tracks = [
+  { n = 1, title = "Empty Dancefloor", mbid = "36b8acfe-af9b-465a-b3f1-c1606d1dfff4" },
+]
+
+[[release]]
+mbid = "dc3d02ff-f5d3-4d47-86bc-b92bd885c895"
+title = "All Systems Are Lying / Run Free"
+type = "single"
+date = "2025-07-09"
+spotify = "2PvfvL5KzRnuo7AD4hpd3t"
+tracks = [
+  { n = 1, title = "All Systems Are Lying", mbid = "27f531c2-a02d-4f05-9558-523d3f03772b" },
+  { n = 2, title = "Run Free", mbid = "bdcc208f-d458-414a-8e50-9386d0bad5c8" },
+]
+
+[[release]]
+mbid = "9339c6bd-05ea-4cc1-9310-cdc9b1d130fa"
+title = "New Earth Time"
+type = "single"
+date = "2025-08-22"
+spotify = "7q9XglyVKCywFzOcnd1aZz"
+tracks = [
+  { n = 1, title = "New Earth Time", mbid = "5e839db7-3207-4fe0-9de0-a48b26a24178" },
+  { n = 2, title = "Run Free", mbid = "bdcc208f-d458-414a-8e50-9386d0bad5c8" },
+]
+
+[[release]]
+mbid = "4f355f23-6bf9-4867-8059-f528e89167b6"
+title = "Gimme a Reason / Meanwhile on the Continent"
+type = "single"
+date = "2025-09-22"
+spotify = "2AFGlUWaAwFst0u3734WIf"
+tracks = [
+  { n = 1, title = "Gimme a Reason (edit)", mbid = "f4e06b75-4ea1-4681-ad9e-d64974376367" },
+  { n = 2, title = "Gimme a Reason", mbid = "780b59a7-abfa-4145-832a-95f38ba41b68" },
+  { n = 3, title = "Meanwhile on the Continent", mbid = "235a0da8-3d97-40f5-9c3f-a375fbc0d2b3" },
+  { n = 4, title = "New Earth Time", mbid = "5e839db7-3207-4fe0-9de0-a48b26a24178" },
+  { n = 5, title = "Run Free", mbid = "bdcc208f-d458-414a-8e50-9386d0bad5c8" },
+  { n = 6, title = "All Systems Are Lying", mbid = "27f531c2-a02d-4f05-9558-523d3f03772b" },
+]
+
+[[release]]
+mbid = "852234f1-6db3-4560-ae2d-718766537c9f"
+title = "All Systems Are Lying"
+type = "album"
+date = "2025-10-17"
+spotify = "5YrUPQ9Xib98i41d6caVl8"
+tracks = [
+  { disc = 1, n = 1, title = "Pills and People Gone", mbid = "7aae41c7-af8d-499e-892a-12894dfc110a" },
+  { disc = 1, n = 2, title = "Run Free", mbid = "bdcc208f-d458-414a-8e50-9386d0bad5c8" },
+  { disc = 1, n = 3, title = "Meanwhile on the Continent", mbid = "235a0da8-3d97-40f5-9c3f-a375fbc0d2b3" },
+  { disc = 1, n = 4, title = "New Earth Time", mbid = "5e839db7-3207-4fe0-9de0-a48b26a24178" },
+  { disc = 1, n = 5, title = "All Systems Are Lying", mbid = "27f531c2-a02d-4f05-9558-523d3f03772b" },
+  { disc = 1, n = 6, title = "Gimme a Reason", mbid = "780b59a7-abfa-4145-832a-95f38ba41b68" },
+  { disc = 1, n = 7, title = "Dshungel", mbid = "583ab2f7-3609-432f-9ec1-5f1736d6fb9d" },
+  { disc = 2, n = 1, title = "Constant Happiness Machine", mbid = "a93c47d8-9931-4b53-bb67-22ad839dd3dd" },
+  { disc = 2, n = 2, title = "Polaris", mbid = "ac7191a0-fde6-45b9-9f3a-30482cbcab11" },
+  { disc = 2, n = 3, title = "The False Economy", mbid = "d26c630f-26fa-463f-8087-689a00184d9a" },
+  { disc = 2, n = 4, title = "Idiots in Love", mbid = "3000933e-6e2f-414e-ae43-c14893ebef69" },
+  { disc = 2, n = 5, title = "Hot Like Sahara", mbid = "754b1ace-bb96-4abd-81ca-2290d29eda8e" },
+  { disc = 2, n = 6, title = "Engineered Fantasy", mbid = "5a6f999c-1ac4-441d-9bf1-f903e6f40af6" },
+  { disc = 2, n = 7, title = "Distant Symphony", mbid = "e7933c92-073a-4731-a7c3-7b1d27fe2f9e" },
+]
+
+[[release]]
+mbid = "d7aaf91f-2c5c-4a6f-9757-9c837d8e342e"
+title = "Perfect We Are Not"
+type = "single"
+date = "2026-03-24"
+spotify = "67FgC6ypPA66fKErG1FtO8"
+tracks = [
+  { n = 1, title = "Perfect We Are Not", mbid = "830da29f-fc3f-4d85-bcf4-61be8403cae3" },
+]

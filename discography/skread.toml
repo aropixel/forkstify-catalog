@@ -1,0 +1,53 @@
+format = 1
+
+[[release]]
+mbid = "5eeee768-306b-458f-8803-e31ce43e349c"
+title = "Instrus"
+type = "album"
+date = "2005"
+tracks = [
+  { n = 1, title = "Tallac", mbid = "bfd801cf-7316-44ce-8319-08b6634e626d" },
+  { n = 2, title = "Baby", mbid = "4c1a06e6-46b5-4182-8c78-53a40b81b1cb" },
+  { n = 3, title = "Haute criminologie", mbid = "fabf7847-7268-4475-88c5-7f6348bac531" },
+  { n = 4, title = "En mode 2", mbid = "183cf092-2949-4aec-9a1f-b7ef6bd8a0ed" },
+  { n = 5, title = "Parce que le monde", mbid = "200ae966-d55b-46a5-b8b6-d3244acb4280" },
+  { n = 6, title = "Du 93 au 94", mbid = "4d1e16ba-cb48-43ff-a6fc-8ba50205cb2b" },
+  { n = 7, title = "Le Sang des tours", mbid = "27c107b2-6e8c-4a57-b451-7942600d7055" },
+  { n = 8, title = "La Hass", mbid = "44348a85-7edd-4524-8c33-60434077da57" },
+  { n = 9, title = "Pow", mbid = "1c1e62d9-3e42-4828-8f12-78e9689bfebe" },
+  { n = 10, title = "Le biz a changé", mbid = "04524d90-a800-45d0-9f8c-f1dc27928462" },
+  { n = 11, title = "La Course à l'argent", mbid = "cbba8858-c8ad-4e5a-b59d-3304352cc478" },
+  { n = 12, title = "Inédit 01", mbid = "c6bf17d8-7e89-4cad-9549-bf71afb99369" },
+  { n = 13, title = "Inédit 02", mbid = "3b24a585-36cc-4c1a-bfd1-0e97b1f1c413" },
+  { n = 14, title = "Inédit 03", mbid = "6fd1d31a-a5ab-4d76-ad6a-456611fc0b9a" },
+]
+
+[[release]]
+mbid = "f9e27341-71ea-4c4c-9af4-07fa135faac9"
+title = "Instrus 2.0"
+type = "album"
+date = "2013-07-08"
+tracks = [
+  { n = 1, title = "Raelsan", mbid = "aa10e244-169d-4892-8887-0c2ad76097db" },
+  { n = 2, title = "Rimes instinctives", mbid = "fb061603-e866-4b66-8cdf-3304ed77d1a4" },
+  { n = 3, title = "À chaque jour suffit sa peine", mbid = "5be503c5-91a8-4030-bf99-c79b5f2ae25f" },
+  { n = 4, title = "Finir mal", mbid = "188cd438-822b-44d2-a071-54c36c938576" },
+  { n = 5, title = "After", mbid = "f90f27fe-7574-4dd5-b6b0-b54d43817946" },
+  { n = 6, title = "Le Chant des sirènes", mbid = "8aac04bb-224b-4942-8bce-f605fe1deaf5" },
+  { n = 7, title = "La Morale", mbid = "feeccfdf-1027-4376-9fec-b9092a443927" },
+  { n = 8, title = "I.L.S", mbid = "dbffd1ac-fe29-44ef-b0b4-85d9292a6732" },
+  { n = 9, title = "Étoiles invisibles", mbid = "c36ba6e1-474d-4967-a118-046c4662ab4d" },
+  { n = 10, title = "Clown triste", mbid = "dbdfafe7-170a-4c4f-a9fc-6a0289f057dc" },
+  { n = 11, title = "D-Escape", mbid = "144528b8-af33-4d92-9069-81cd2233055f" },
+  { n = 12, title = "Ça bouge pas", mbid = "7d7bed6d-4b8a-4681-a46f-61b7138bfac1" },
+  { n = 13, title = "Jimmy Punchline", mbid = "a8b6a073-e435-4875-b8ca-50a168d465b4" },
+  { n = 14, title = "Double vie", mbid = "6bf8ed73-d091-4633-8fc2-8f77e621f08b" },
+  { n = 15, title = "Ma grosse", mbid = "d4e028d1-b846-4758-a825-e186e0d01157" },
+  { n = 16, title = "Suicide social", mbid = "e35ec149-8ca8-4e96-92c3-ef3cf992b3a9" },
+  { n = 17, title = "Peur de l'échec", mbid = "67835874-4a29-4272-ae4b-e1998e21df72" },
+  { n = 18, title = "Si seul", mbid = "d10d7602-c271-47da-bd96-c78a806b3a8e" },
+  { n = 19, title = "La Nébuleuse des aigles", mbid = "d3154816-b4be-4347-a6f0-fe3c5a697814" },
+  { n = 20, title = "Soldats", mbid = "3972db81-9871-4867-ad70-10848f497258" },
+  { n = 21, title = "Kheye", mbid = "601b53b8-ae91-465e-a418-ac59c9dc0e06" },
+  { n = 22, title = "Plus rien ne m'étonne", mbid = "91e2f3d3-4cf2-433e-ba9c-f98dc01aefb6" },
+]

@@ -1,0 +1,185 @@
+format = 1
+
+[[release]]
+mbid = "0dad4f80-8407-4ce5-ac14-01a6abfb588e"
+title = "2075"
+type = "ep"
+date = "2016-01-24"
+tracks = [
+  { n = 1, title = "A force de", mbid = "21e71d20-7319-4fcd-88d7-ff840fa92500" },
+  { n = 2, title = "ONVVPDM", mbid = "3c6ed828-3db1-4665-a06b-2b097b452f0e" },
+  { n = 3, title = "Vivre en bas", mbid = "fb3f5ffc-1ac5-4b30-81f2-ab400c812567" },
+  { n = 4, title = "Vite", mbid = "a5ad9336-6712-4ec1-84d1-cfbaa36e00de" },
+  { n = 5, title = "L.A. - Pataya", mbid = "7cd7603e-4653-45ea-94cd-a50406d33d43" },
+  { n = 6, title = "Moet", mbid = "d0fbdcf7-111d-401a-b62d-4036ce732608" },
+  { n = 7, title = "J'passe", mbid = "b3742c25-d98f-4b31-8930-f4b5b4b3a3b7" },
+  { n = 8, title = "HSL", mbid = "ec477978-9ade-4328-9743-b929e9d16a83" },
+]
+
+[[release]]
+mbid = "84983efd-6290-4764-bbe5-17e9b57aa7e3"
+title = "MOJO"
+type = "album"
+date = "2016-06-27"
+tracks = [
+  { n = 1, title = "Intro", mbid = "87926cb0-2972-4efa-9806-36699db3e98a" },
+  { n = 2, title = "Forteresse", mbid = "a70902be-8f02-4a0d-8fa5-40b7933a990d" },
+  { n = 3, title = "Ciel Bleu", mbid = "c2c15a16-cfcd-40e2-b863-03fb711bc5bb" },
+  { n = 4, title = "Robotique", mbid = "43dd863b-a2ac-465b-98c1-716ad88b366f" },
+  { n = 5, title = "Mojo", mbid = "c043a01c-d3e9-42cc-9fb5-261c5229a105" },
+  { n = 6, title = "Matière", mbid = "eaba696e-dabc-465e-9bc1-b75ebf493c6d" },
+  { n = 7, title = "Parisien", mbid = "20f42797-7ac1-4956-9d64-ee3021a991bc" },
+  { n = 8, title = "Interlude", mbid = "5536461a-3a26-4eaa-8815-0af7627336a8" },
+  { n = 9, title = "Mouvement", mbid = "eda56a54-08ac-4eb8-83ba-aaebcaef072a" },
+  { n = 10, title = "Kevin Garnett", mbid = "313ee81b-fdf0-4ce8-a7e4-edf5b9b2316e" },
+  { n = 11, title = "Jeune Vizir", mbid = "be63ee25-deb1-4283-9927-55dbd478d3eb" },
+  { n = 12, title = "Famille", mbid = "a488a2ee-29f7-442e-bda7-fae47a5d5466" },
+  { n = 13, title = "Black Cup", mbid = "206458c7-c900-4f8d-83e2-7ac724d97b4b" },
+  { n = 14, title = "Mama", mbid = "42559f4f-fc34-4605-a110-9072c2aba85c" },
+  { n = 15, title = "Outro", mbid = "6fb843d8-70b8-41e6-a136-cf4db0d37278" },
+]
+
+[[release]]
+mbid = "3527a881-98cf-4710-9f0d-7ebcfebe59a3"
+title = "Le Hasard Ou La Chance (Colors Version)"
+type = "single"
+date = "2017-06-08"
+tracks = [
+  { n = 1, title = "Le Hasard Ou La Chance (Colors version)", mbid = "3223bd7b-6c83-4273-83a5-001ab4d89c2b" },
+]
+
+[[release]]
+mbid = "49fa9df0-9f52-4789-952a-ec5e62d14db2"
+title = "Ëpisode 1"
+type = "single"
+date = "2017-11-24"
+spotify = "6qoEAIsw967epn36zT86JL"
+tracks = [
+  { n = 1, title = "Étrange enfant", mbid = "56bf247c-c328-492c-a083-3ea64d5487cf" },
+  { n = 2, title = "Garance", mbid = "9f6f1d64-3e47-461b-b585-a5fb7494d399" },
+  { n = 3, title = "La nuit", mbid = "05a2adec-76ca-493a-b9d0-21854c3f3feb" },
+]
+
+[[release]]
+mbid = "ded08fc9-16de-4ba1-9dd4-b23b689e3225"
+title = "YË"
+type = "album"
+date = "2018-01-26"
+tracks = [
+  { n = 1, title = "Bonne étoile", mbid = "8ec004a4-4988-4bc3-8479-4265d3e36e34" },
+  { n = 2, title = "Kirby", mbid = "cb18c1cc-367e-436b-a216-658660ea3fd9" },
+  { n = 3, title = "Nevermind", mbid = "37f0719f-9077-457c-9030-54096da61288" },
+  { n = 4, title = "Arbre de vie", mbid = "d1d72099-edd3-49b3-99be-3a1cea38785a" },
+  { n = 5, title = "J.Snow", mbid = "3e041ddb-6b89-4e92-83dc-ccc1486702bc" },
+  { n = 6, title = "Envie", mbid = "28358657-f0e0-46f2-8ba1-c997a215b1f4" },
+  { n = 7, title = "Interlude", mbid = "632bf498-f08e-4b06-9df8-bf6c9b98b09b" },
+  { n = 8, title = "Press Play", mbid = "e472f7a2-7dae-4fb3-9b25-be91494f46ef" },
+  { n = 9, title = "Darkside", mbid = "00aa87a8-9d89-4b4e-a5b7-8a2bf85304dd" },
+  { n = 10, title = "Maudite histoire", mbid = "5f89e3b0-b500-4b7f-b034-a1009fa08ade" },
+  { n = 11, title = "Paradis", mbid = "c832c859-700a-4177-bb6c-06427370f484" },
+  { n = 12, title = "Domo", mbid = "e1a63f64-5144-4908-8a2e-d6a93978c95f" },
+  { n = 13, title = "CS04", mbid = "09bdc8e0-859e-41a7-be66-67817b000e9a" },
+  { n = 14, title = "Spiral vision", mbid = "8832311f-f676-4913-b96f-54c54881b34d" },
+]
+
+[[release]]
+mbid = "87df6647-77c4-48dd-aa8e-ea0f76f616f4"
+title = "Ëpisode 0"
+type = "ep"
+date = "2020-05-01"
+tracks = [
+  { n = 1, title = "Atterir", mbid = "3a0d5817-e14a-413d-bf93-de8c4410bb4b" },
+  { n = 2, title = "D'où je viens", mbid = "26cc303c-8945-4661-b7af-a5c3704f507a" },
+  { n = 3, title = "Décoder (interlude)", mbid = "2e8f20c8-3ca8-432a-9bed-0e7ae35ef238" },
+  { n = 4, title = "Sans titre", mbid = "5f2d74db-0a02-4dea-9f48-433f4adbdaa3" },
+  { n = 5, title = "Loin", mbid = "af6f749b-0e69-4c79-8d41-2d9b9e03cc80" },
+  { n = 6, title = "Thème", mbid = "dedbf173-6d44-4e31-b72b-58f0abbce45c" },
+]
+
+[[release]]
+mbid = "d146d7d6-542e-47d3-87f0-70b9ce6733cf"
+title = "Nuages"
+type = "album"
+date = "2021-10-15"
+tracks = [
+  { n = 1, title = "Dans les yeux", mbid = "49e6c617-30cb-4767-9a4d-0f63e89dd23e" },
+  { n = 2, title = "Slide", mbid = "8e611f70-a8f7-4a71-b65c-a79847d334af" },
+  { n = 3, title = "Passage", mbid = "4f0710dc-510f-439e-b4bc-e2242efd6655" },
+  { n = 4, title = ".gibraltar", mbid = "f41db6ee-0bda-4b50-98b7-aedfbf4a1a55" },
+  { n = 5, title = "Tout va bien", mbid = "5c9230e2-2a67-4d61-bd55-ba61aab028e4" },
+  { n = 6, title = "Hier", mbid = "fd359712-e898-44fe-a801-bdb12767f0d9" },
+  { n = 7, title = "Crois-moi", mbid = "7a55a611-045b-453c-a015-0f6db034a9fa" },
+  { n = 8, title = ".amerbeton", mbid = "0275d039-8499-4687-a370-82cf7ef80ede" },
+  { n = 9, title = "Février", mbid = "434a7280-92af-4804-8afc-143f7ec2f2fa" },
+  { n = 10, title = "Nuage", mbid = "c5b1bb37-a1bf-4b16-8a66-f0c88be31b95" },
+  { n = 11, title = "Le papier", mbid = "abcf8256-1a76-4ab4-8221-2c3fe4978184" },
+  { n = 12, title = ".appel manqué", mbid = "a4f4a4b4-f21e-4014-ab5b-d24ad5c6e29a" },
+  { n = 13, title = "Wave", mbid = "01131592-a62c-4a41-9c38-f9d1ce52b28a" },
+]
+
+[[release]]
+mbid = "27c4c990-3df6-435b-9966-f35814cb21a3"
+title = "Nuages/Orages"
+type = "album"
+date = "2022-09-01"
+tracks = [
+  { n = 1, title = "J'imagine", mbid = "9cd3282d-a304-47cf-bb71-050e32bebf6d" },
+  { n = 2, title = "Wave x2", mbid = "e895eaf0-c72b-42a9-a24e-cd7a014415a0" },
+  { n = 3, title = "Comment faire", mbid = "85a17e68-f06d-466f-b064-8f46f3dedb78" },
+  { n = 4, title = "Dans les yeux x2", mbid = "fedd3a5a-d7a9-4dbf-acff-2f9db17bcd95" },
+  { n = 5, title = "Février x2", mbid = "7f92238f-29ec-4d5c-88ab-9805b845f4ed" },
+  { n = 6, title = "Tout va bien x2", mbid = "b5f0c267-43f5-4125-a5b2-02d987c5255a" },
+  { n = 7, title = "Le papier x2", mbid = "2f58d7af-781e-474c-b6c0-3ea47005c665" },
+  { n = 8, title = "Slide x2", mbid = "e5c8b272-03ce-4523-b843-ffd4e7e25a05" },
+  { n = 9, title = "Demain ne change pas", mbid = "90820083-4458-4f58-a96c-c6470d7b1a55" },
+  { n = 10, title = "444 vies", mbid = "b0bf8ddd-5789-40b3-b63a-19be4d67d8cb" },
+  { n = 11, title = "Dans les yeux", mbid = "fb0625df-84f0-4c82-a65e-9f082547bffe" },
+  { n = 12, title = "Slide", mbid = "a3923850-3983-40e2-9792-74a6f3776084" },
+  { n = 13, title = "Passage", mbid = "69c43029-8d89-4f83-833f-53a9ba9e3897" },
+  { n = 14, title = ".gibraltar", mbid = "2909e99f-2bb4-43f0-9af9-f570daa9695b" },
+  { n = 15, title = "Tout va bien", mbid = "17ec1a3c-8849-439b-b3b3-29b685b29cd0" },
+  { n = 16, title = "Hier", mbid = "66e1a97b-bb87-4777-89ee-da9d367b09d1" },
+  { n = 17, title = "Crois-moi", mbid = "c650feba-8153-47e2-a863-510ac2ab8644" },
+  { n = 18, title = ".amerbeton", mbid = "6264aea5-40fa-4890-9015-f99d6f40b0bb" },
+  { n = 19, title = "Février", mbid = "c9d32747-d86f-4185-9e24-91bf763281a1" },
+  { n = 20, title = "Nuage", mbid = "6dbf7d64-f841-4fca-ab92-08a4c5311c41" },
+  { n = 21, title = "Le papier", mbid = "2202f8d0-7b0d-4d7f-ad85-5bb3283eb5d1" },
+  { n = 22, title = ".appel manqué", mbid = "b13d340b-ba23-4eeb-b861-efec53d428a2" },
+  { n = 23, title = "Wave", mbid = "60f4c9ad-b67d-4baa-a131-6807fd168e53" },
+  { n = 24, title = "Dead", mbid = "141039d9-4ec8-4381-a1c7-2b28c117622e" },
+]
+
+[[release]]
+mbid = "a518ba37-dadf-40e0-84c3-c2a863a073b5"
+title = "Comme ça"
+type = "single"
+date = "2025-02-27"
+spotify = "5ZQO9dlsfoveDWJBCdu5ze"
+tracks = [
+  { n = 1, title = "Comme ça", mbid = "f8c31924-c839-4cc1-bcfb-0ee95ae4d1b9" },
+]
+
+[[release]]
+mbid = "8b174f76-b698-416e-bf14-03b6d79d46c0"
+title = "VOLEZ-MOI"
+type = "album"
+date = "2025-08-29"
+tracks = [
+  { n = 1, title = "À Mon Avis", mbid = "02f35436-38c0-4aa7-8b86-5c17b745541b" },
+  { n = 2, title = "Dans La Vie", mbid = "3b95187f-ef52-4435-bd12-a6a217b498ae" },
+  { n = 3, title = "Ça Fait Mal", mbid = "e22f6fad-5c9a-4d8a-9d1e-4045d2e790b8" },
+  { n = 4, title = "Le Monde", mbid = "7e10d176-5e83-4826-9f5a-932b20f01154" },
+  { n = 5, title = "Grand Cercle", mbid = "9b71d998-b4f5-49dc-b482-e94ca915b30e" },
+  { n = 6, title = "Boucan", mbid = "5243069a-584f-4130-9e15-e904675bc2be" },
+  { n = 7, title = "Eldorado", mbid = "a142bd0b-08c7-4e5f-8185-0bec6195d776" },
+  { n = 8, title = "Derrière La Vitre", mbid = "3c3606aa-0571-425e-8e21-b2b26abd9a89" },
+  { n = 9, title = "J'Vais Le Faire", mbid = "f692f398-da3a-4fdc-bcb9-b41b5f4fd1d4" },
+  { n = 10, title = "Oh L'Ancien", mbid = "8de5cae4-3890-4620-bfff-2db3f99b5ed3" },
+  { n = 11, title = "Deblé", mbid = "237ba53d-e28d-4935-91ef-022de2a3eda4" },
+  { n = 12, title = "Bâtiment", mbid = "a83e35a1-abd1-47b5-8b4f-8c7be8bc264f" },
+  { n = 13, title = "Pokedex", mbid = "90bf761f-26a1-4c6d-b1e8-787e3acf5c66" },
+  { n = 14, title = "Technique", mbid = "6e844887-8754-4d25-a9ac-f2bba64b42c6" },
+  { n = 15, title = "Hachette", mbid = "d4c37914-8b41-455d-9e27-56eeb943c691" },
+  { n = 16, title = "Une Clope", mbid = "97e248c5-895e-4f98-85be-d446edf110a2" },
+  { n = 17, title = "Après L'Amour", mbid = "58c84d7e-db1e-441f-892b-98d39c884f35" },
+]

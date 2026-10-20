@@ -1,0 +1,158 @@
+format = 1
+
+[[release]]
+mbid = "70bdc19f-66fb-4adf-9124-925ace531101"
+title = "Buds"
+type = "album"
+date = "2013-06-21"
+spotify = "4cAEWgTGIU7kL1sgbivyGY"
+tracks = [
+  { n = 1, title = "Chloe Kelly", mbid = "1c5f8511-3dcc-487a-a9ed-3e9cedcdc53c" },
+  { n = 2, title = "Bummer Friends", mbid = "c88cbc89-a4f4-4eaf-8497-71445c6d337d" },
+  { n = 3, title = "Heathers", mbid = "d6071ccb-bd0d-4f02-9c9a-a500102b313d" },
+  { n = 4, title = "Ponyboy", mbid = "ebb47973-3ee0-43eb-8f47-df442f1f2c31" },
+  { n = 5, title = "In My Head Till I'm Dead", mbid = "0e983477-13f7-4e00-9c67-f726d16d2be7" },
+  { n = 6, title = "The Smell Saved My Life", mbid = "670d94eb-140e-42d2-87d1-5253c4eb69f1" },
+  { n = 7, title = "Goth Babe", mbid = "7683672e-33cb-4fa2-bf72-01e0637cfb9d" },
+  { n = 8, title = "Freaks", mbid = "63180294-3515-45e8-b418-72d04597ca35" },
+  { n = 9, title = "Dreamin' Wild", mbid = "27aecf71-2481-4773-8f56-c08e38feb258" },
+  { n = 10, title = "Fire Walk With Me", mbid = "bed7c9bd-dc6d-48d6-84b9-46e44a71f5b1" },
+]
+
+[[release]]
+mbid = "4d1b44a9-96af-40b3-be40-2fa4c42ad7b7"
+title = "Sad Boys EP"
+type = "ep"
+date = "2013-10-30"
+spotify = "3BxuW4fI9ScjP9dr5BMd8C"
+tracks = [
+  { n = 1, title = "Reality Bites", mbid = "e805bd56-ab4e-4d83-8705-66ac4e2b2a64" },
+  { n = 2, title = "Beach Whatever", mbid = "60901815-0aec-47b2-a74d-8eb38aaf0cb5" },
+  { n = 3, title = "I'm Not Making Out With You", mbid = "42b41e3b-05b6-4173-b8ef-b5972828a4eb" },
+  { n = 4, title = "Haunt Me", mbid = "51641bbf-7c78-4f77-89c4-28bf042506da" },
+  { n = 5, title = "Skullder", mbid = "71921bb6-8ff2-4dfc-80d4-74eda430afa0" },
+  { n = 6, title = "Forever Dumb", mbid = "5837a944-4606-464f-883f-d10630e746b1" },
+  { n = 7, title = "Beach Whatever (Demo)", mbid = "77753ea1-2090-483a-8e04-4506f86f21ab" },
+  { n = 8, title = "Forever Dumb (Demo)", mbid = "710b28d7-2175-4638-b663-1f86e87ab9ac" },
+]
+
+[[release]]
+mbid = "a7432444-cf40-433b-9e21-2cb96881eab6"
+title = "Last Train Come and Gone (Cindy Lee cover)"
+type = "single"
+date = "2016-11-10"
+tracks = [
+  { n = 1, title = "Last Train Come and Gone (Cindy Lee cover)", mbid = "d2ffac7c-9537-4554-8f32-553493171eba" },
+]
+
+[[release]]
+mbid = "6aeafa9d-f658-4032-8a28-74b2db6b5622"
+title = "Nothing Yet"
+type = "album"
+date = "2017-01-13"
+tracks = [
+  { n = 1, title = "Christine F", mbid = "409615ca-84e0-4c88-ab9d-2e52dfbe1c16" },
+  { n = 2, title = "Doom Generation", mbid = "e488763b-3042-4c4e-b10e-408153504d8f" },
+  { n = 3, title = "The Strange and the Kind", mbid = "e9a3757e-ed5a-447e-9810-32d10b53b72e" },
+  { n = 4, title = "It Followed Me", mbid = "47260683-a257-493e-8f64-991c7f098612" },
+  { n = 5, title = "Cronenberg", mbid = "435eeffa-3f82-4c0d-9482-e340669f75c7" },
+  { n = 6, title = "Sleeping", mbid = "f1a4c170-f7e2-4e32-95c4-69687f6c5ede" },
+  { n = 7, title = "Nostalgia", mbid = "de18b45d-3541-4200-a46c-d2f9d88a62f6" },
+  { n = 8, title = "All Is Lost", mbid = "dfea357c-547e-436c-914a-4f8e9e779b6a" },
+  { n = 9, title = "Falling Apart", mbid = "ffb6d34c-35fa-4467-86c4-270d3a0bb3cf" },
+]
+
+[[release]]
+mbid = "19477ab5-5b38-4e43-9f8a-002b3ff5323d"
+title = "Disco"
+type = "single"
+date = "2019-06-12"
+spotify = "46LE2xR4e92aVvo1QlUiS3"
+tracks = [
+  { n = 1, title = "Disco", mbid = "dd4b29ac-3c06-46df-9a78-8f773825d013" },
+]
+
+[[release]]
+mbid = "5151b6ac-64eb-4db6-a96e-724ca8321801"
+title = "Heaven Surrounds You"
+type = "album"
+date = "2019-09-13"
+spotify = "78LmULAgtDXaXZBNYW4OFw"
+tracks = [
+  { n = 1, title = "Maps to the Stars", mbid = "006efe14-a939-4032-a316-687468c34581" },
+  { n = 2, title = "Labyrinth", mbid = "4290e9ec-6258-4918-82e3-5363fdd021b4" },
+  { n = 3, title = "Disco", mbid = "dd4b29ac-3c06-46df-9a78-8f773825d013" },
+  { n = 4, title = "River’s Edge", mbid = "7b671243-4c5b-4748-9c99-1eaf0e822dd0" },
+  { n = 5, title = "Midnight Cowboy", mbid = "710b7f6b-9a34-4155-948a-1445b6ab5d40" },
+  { n = 6, title = "Hour of the Wolf", mbid = "7d587eac-67f0-44cc-a6a0-a4818a372b86" },
+  { n = 7, title = "Dead Ringers", mbid = "2e947858-1164-490f-bfa1-adef20a4e0ab" },
+  { n = 8, title = "Safe", mbid = "f7acf7f4-da7f-4a5f-b0d2-6a3caa2068bc" },
+  { n = 9, title = "Memory", mbid = "1c1d15e5-02d4-4e52-8aa4-e30f3fd0937c" },
+  { n = 10, title = "Opera", mbid = "75e8b35c-9287-4afa-bf8e-893a6dac5876" },
+  { n = 11, title = "Trust", mbid = "85c6abb5-6401-4944-8d3f-434ed6d303fd" },
+  { n = 12, title = "Jamie", mbid = "0fdbe03a-9fac-45b1-aec4-78bd3b093475" },
+]
+
+[[release]]
+mbid = "38d5df74-61a5-42a9-ba08-7d52826746cd"
+title = "Freaks"
+type = "single"
+date = "2021-05-15"
+spotify = "5WjaIWthUR3AjA0UYG3jR5"
+tracks = [
+  { n = 1, title = "Freaks", mbid = "63180294-3515-45e8-b418-72d04597ca35" },
+]
+
+[[release]]
+mbid = "61bc9755-8028-467e-bc70-feccc57c3786"
+title = "Freaks (Remixes)"
+type = "single"
+date = "2021-11-05"
+spotify = "09JdRbLn0S7XDLtDbRQQzg"
+tracks = [
+  { n = 1, title = "Freaks", mbid = "74425c13-36f6-4c44-9d5f-7c2fd1b9d479" },
+  { n = 2, title = "Freaks", mbid = "70bcdd65-dca8-4c35-b048-fbee9164bbf1" },
+  { n = 3, title = "Freaks", mbid = "4ee3de45-c850-4d01-925d-78171fe9bad3" },
+]
+
+[[release]]
+mbid = "5d02913e-397e-4662-9fed-b36269f2e4ac"
+title = "Self Portrait"
+type = "single"
+date = "2022-09-07"
+spotify = "4sgqq74AvRlNIbc8baLcV2"
+tracks = [
+  { n = 1, title = "Self Portrait", mbid = "de0c3d0a-2991-46f4-bdbb-f663ccd661d7" },
+  { n = 2, title = "Lost Honor", mbid = "7e7cf3d9-56e5-40c2-8da9-9dbb490bf0a3" },
+  { n = 3, title = "TVI", mbid = "c5b56644-3ac4-4a16-99b3-e73ccc790efc" },
+  { n = 4, title = "Sugar", mbid = "1e486431-c1ac-4c72-9d0f-0e1ed19461d4" },
+]
+
+[[release]]
+mbid = "be807d8b-9815-4d22-a26f-59584949ff64"
+title = "Magic Hour"
+type = "album"
+date = "2022-10-07"
+spotify = "4SjIdmDhVUA1eunwERtgPv"
+tracks = [
+  { n = 1, title = "Arrow", mbid = "153938b5-e8c0-46d1-857b-28dd74100fd7" },
+  { n = 2, title = "Cathy", mbid = "eea8e745-3a86-4744-89a0-b676845a37e6" },
+  { n = 3, title = "Sugar", mbid = "1e486431-c1ac-4c72-9d0f-0e1ed19461d4" },
+  { n = 4, title = "Lost Honor", mbid = "7e7cf3d9-56e5-40c2-8da9-9dbb490bf0a3" },
+  { n = 5, title = "Self Portrait", mbid = "de0c3d0a-2991-46f4-bdbb-f663ccd661d7" },
+  { n = 6, title = "Unwell", mbid = "536da6bb-b7e0-46f0-a77d-00f39e8dc2bf" },
+  { n = 7, title = "Strange", mbid = "5255e400-e8db-4271-bd1d-1aceecf36a0b" },
+  { n = 8, title = "TVI", mbid = "c5b56644-3ac4-4a16-99b3-e73ccc790efc" },
+  { n = 9, title = "Little Rock ‘n’ Roller", mbid = "2c39964a-d983-455a-9ebb-473e95da7049" },
+  { n = 10, title = "No Tomorrows", mbid = "42792567-a162-439b-8391-592090d42895" },
+  { n = 11, title = "Fear City", mbid = "cbe64b42-2c83-48fc-a2be-7def711c2a97" },
+  { n = 12, title = "Randall Flagg", mbid = "9109dbf4-b0a9-48f2-9de6-d6270f8d8f92" },
+]
+
+[[release]]
+mbid = "a403f577-c62b-46b6-a67f-e0506dd158d9"
+title = "Second World"
+type = "single"
+tracks = [
+  { n = 1, title = "Second World", mbid = "b138dd19-9050-43e3-9b3d-56c4c2454802" },
+]

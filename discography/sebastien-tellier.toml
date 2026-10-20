@@ -1,0 +1,639 @@
+format = 1
+
+[[release]]
+mbid = "13d05458-cd1a-323b-a973-aae13178957e"
+title = "L’Incroyable Vérité"
+type = "album"
+date = "2001-06-12"
+tracks = [
+  { n = 1, title = "Oh malheur chez O’Malley", mbid = "1573c492-dd03-4477-b560-c228e3b57ad4" },
+  { n = 2, title = "Kazoo III", mbid = "bdb5df27-05f0-486d-b3c9-28a1e568ecaf" },
+  { n = 3, title = "Universe", mbid = "27d693aa-ff8b-412f-afcb-b9a669d7263f" },
+  { n = 4, title = "Trilogie chien : L’Enfance d'un chien", mbid = "505539b4-9151-4970-a07c-0f89a296b13b" },
+  { n = 5, title = "Trilogie chien : Une vie de papa", mbid = "966562ac-d035-4542-a887-3d86683a787a" },
+  { n = 6, title = "Trilogie chien : Fin chien", mbid = "f763f5e7-fb77-43e6-b4db-a6958ac098c2" },
+  { n = 7, title = "Grec", mbid = "520058f5-e704-40ad-bf0c-91466d0242b5" },
+  { n = 8, title = "Kissed by You", mbid = "d3c5ef23-3545-4522-813f-eea14fd1f847" },
+  { n = 9, title = "Fantino", mbid = "6d2e4c4f-85ab-4265-bcc3-4262fd8c6053" },
+  { n = 10, title = "Trilogie femme : Vierges / Une vraie maman / Face au miroir", mbid = "0f2f8f13-8aed-4534-bf90-038e788421ae" },
+  { n = 11, title = "Black Douleur", mbid = "f3d02630-3f72-4047-8099-ca00eaa10381" },
+]
+
+[[release]]
+mbid = "2b261d76-da2f-3854-a774-9666ccec96ce"
+title = "Beyond All Strategies"
+type = "ep"
+date = "2003-12"
+tracks = [
+  { n = 1, title = "La Ritournelle", mbid = "7509553c-34a9-4901-812f-8a1ffbf27a83" },
+  { n = 2, title = "La Tuerie", mbid = "d2b453fe-1fea-4e39-a54a-59cfe707301c" },
+]
+
+[[release]]
+mbid = "eab88d7b-b9cc-3d46-ad1c-12419a16cd8c"
+title = "Politics"
+type = "album"
+date = "2004-01-05"
+spotify = "05MRLgXFBdHFMww01vbvWY"
+tracks = [
+  { n = 1, title = "Bye‐Bye", mbid = "a3e18728-d0cb-4406-aa49-184af3c87b1f" },
+  { n = 2, title = "League Chicanos", mbid = "97707625-f9d2-4685-b315-7e6136b14299" },
+  { n = 3, title = "Wonderafrica", mbid = "2273a7ac-a61c-41a7-b291-e488b481ff87" },
+  { n = 4, title = "Broadway", mbid = "4641283d-45ef-4dce-96a5-528df6137f3d" },
+  { n = 5, title = "La Ritournelle", mbid = "7509553c-34a9-4901-812f-8a1ffbf27a83" },
+  { n = 6, title = "Benny", mbid = "9dd305f7-fb20-4b47-bd11-d02c6ad7b6e9" },
+  { n = 7, title = "Slow Lynch", mbid = "64040e0f-b20f-419e-b0b3-04e1d730ea50" },
+  { n = 8, title = "Mauer", mbid = "cd446020-ba7a-4f7f-83fa-429a786c5a33" },
+  { n = 9, title = "La Tuerie", mbid = "d953580d-c5fd-472f-8292-bbf9f83f3b8d" },
+  { n = 10, title = "Ketchup vs Genocide", mbid = "ca73e94f-8203-4ee4-a2c5-a162575196b1" },
+  { n = 11, title = "Zombie", mbid = "e72e671f-9eef-40e5-8fad-e25d45637b8e" },
+]
+
+[[release]]
+mbid = "3d039c44-4376-4bc7-8f71-81bdeafc598f"
+title = "La Ritournelle"
+type = "single"
+date = "2005-09"
+spotify = "30mGpSKW1w8nbsSeOPG1MU"
+tracks = [
+  { n = 1, title = "La Ritournelle", mbid = "7509553c-34a9-4901-812f-8a1ffbf27a83" },
+  { n = 2, title = "La Ritournelle (Mr. Dan’s Magic Wand mix)", mbid = "154fe00a-ab94-4f68-9bbc-6ff2fab59a3c" },
+  { n = 3, title = "La Ritournelle (Jack Bullit mix)", mbid = "39683fba-b758-4ff5-9a24-b3b094be3393" },
+  { n = 4, title = "La Ritournelle (Metronomy mix)", mbid = "4b6a9878-1f7d-42b2-8c18-9afa074258a7" },
+]
+
+[[release]]
+mbid = "0b23153e-621b-3f82-8517-29b0865eb808"
+title = "Steak: Music From the Motion Picture"
+type = "album"
+date = "2007-06-18"
+spotify = "6a4wMqczzcvMjgiGWLAI0e"
+tracks = [
+  { n = 1, title = "Arrival", mbid = "d41e61e9-1899-4b23-a356-7d60d0584c60" },
+  { n = 2, title = "Skatesteak", mbid = "d9434b1a-2ff7-4d86-b14b-e45fc0557531" },
+  { n = 3, title = "Chivers as a Female", mbid = "44475f2d-98c2-44be-9f98-8bbd6fc212ed" },
+  { n = 4, title = "Chuck", mbid = "d0ac055d-2b18-43ee-b176-e4f3df94b9db" },
+  { n = 5, title = "Letrablaise", mbid = "5b6bd8cb-72bd-4835-8bac-691a9f80de5b" },
+  { n = 6, title = "Ringardos", mbid = "3d6c1c34-2642-4f9f-8d5a-afd9b05f1eef" },
+  { n = 7, title = "Stadium", mbid = "f4e19d0b-19c4-4b11-870c-542348e65707" },
+  { n = 8, title = "Itea", mbid = "630bea6d-fe57-40bd-afe6-eadf9be45556" },
+  { n = 9, title = "Plug It", mbid = "adf46c7f-7b7b-4828-902c-e35afea1d939" },
+  { n = 10, title = "X Schmidt", mbid = "3a6b15ac-db83-47ae-a0ea-d441ed4a69e7" },
+  { n = 11, title = "Hashis Vers", mbid = "213ade2b-608a-4244-91c4-3daf84fc6b5b" },
+  { n = 12, title = "Blue Wet Shirt", mbid = "78bbb83a-21b9-476c-8e30-f5c919b6cfae" },
+  { n = 13, title = "Victimo", mbid = "ca8ba7db-36ce-464f-9ab5-de4c68933ffc" },
+  { n = 14, title = "Top 50", mbid = "e5e36bac-1a4d-4ad3-92ef-3dfea8321e0b" },
+  { n = 15, title = "Exploites", mbid = "fdd6b453-c918-4e26-bd5b-46f212180c7b" },
+  { n = 16, title = "C.H.I.V.E.R.S.", mbid = "490b9638-95f8-4a5c-89f1-dc38ec7e1cbf" },
+  { n = 17, title = "Bonhomme", mbid = "a8bb1576-0532-441d-94fe-da1759c35b47" },
+  { n = 18, title = "Toizelle", mbid = "504d3713-98ac-47d9-8158-2b479bcf004a" },
+  { n = 19, title = "Kinder", mbid = "0d082778-9d7a-4ac0-8f83-4b4bcf130fb9" },
+  { n = 20, title = "Bleue", mbid = "2b306439-2f20-4656-9488-c9793db0f112" },
+  { n = 21, title = "Construction", mbid = "acf691c8-d2c4-4e6d-bf62-f3b06ac8aed4" },
+]
+
+[[release]]
+mbid = "2bf7b0c0-63df-3cf0-8f21-eded73418626"
+title = "Sexual Sportswear"
+type = "single"
+date = "2007-10-15"
+tracks = [
+  { n = 1, title = "Sexual Sportswear", mbid = "5c82779c-47a2-4e9d-b591-9607a5d77e80" },
+  { n = 2, title = "Sexual Sportswear (SebastiAn remix)", mbid = "f05be37b-e73f-4e05-91b1-8f2322cdf1d3" },
+]
+
+[[release]]
+mbid = "e2becaf3-d259-4f1e-9fbc-bf0f808b61e5"
+title = "Narco: Original Motion Picture Score"
+type = "album"
+date = "2007-11-12"
+tracks = [
+  { n = 1, title = "La Ballade du Georges", mbid = "baa43207-e240-4c32-a64a-72e623787f72" },
+  { n = 2, title = "Le Démon Pupkin", mbid = "21e24066-f18d-444f-a2ea-00ca8fdbdbd6" },
+  { n = 3, title = "Le Château Pupkin", mbid = "deb6944b-fef0-4120-a5d5-257d04589d97" },
+  { n = 4, title = "Le beguin begins", mbid = "fdd578aa-4daf-4d35-a4a0-10d205525657" },
+  { n = 5, title = "Le Long de la rivière tendre", mbid = "eb807c24-cf5d-4667-b4a5-1dca3266b200" },
+  { n = 6, title = "Dixi", mbid = "70884f3e-a59d-49bf-93fc-a35b8d742d0c" },
+  { n = 7, title = "Pam ! Exit la folle", mbid = "224f1c26-5150-49b1-b4a1-e63798b90251" },
+  { n = 8, title = "Georges Thibault Rouhergues", mbid = "4a38f2df-756d-49ee-a9ed-0670647be8d7" },
+  { n = 9, title = "Rien de rien par Pupkin", mbid = "5bc1b449-7f9b-4989-86e7-2e633ba8e486" },
+  { n = 10, title = "Gus gracie", mbid = "9c1de003-eaac-425c-af5e-41cefd7689f2" },
+  { n = 11, title = "Un narco en été", mbid = "4ff078db-a1ba-4ace-a326-e5ff9183a6f9" },
+  { n = 12, title = "Pupkin et ses démons", mbid = "168fc9f4-4732-4960-97e4-3fd1b077e406" },
+  { n = 13, title = "La Ritournelle", mbid = "7509553c-34a9-4901-812f-8a1ffbf27a83" },
+]
+
+[[release]]
+mbid = "73ba26da-3301-35ef-af02-c926fafa3bdc"
+title = "Sexuality"
+type = "album"
+date = "2008-02-19"
+spotify = "5XKp5IjYVitTx6XIFIC6PA"
+tracks = [
+  { n = 1, title = "Roche", mbid = "2fef7aec-736d-4fd0-8e8d-09f9dc458658" },
+  { n = 2, title = "Kilometer", mbid = "3b80ab54-19ed-4902-9bb5-31b64da9d9e4" },
+  { n = 3, title = "Look", mbid = "94f58bff-01fb-4abf-9b69-16024ababa5b" },
+  { n = 4, title = "Divine", mbid = "0089dd89-9eae-452f-a7be-d88655fd74a2" },
+  { n = 5, title = "Pomme", mbid = "05c7c558-189c-44b7-b8de-ec5076baa2a5" },
+  { n = 6, title = "Une heure", mbid = "6005b6c8-adfd-434c-8089-bf274e795b80" },
+  { n = 7, title = "Sexual Sportswear", mbid = "d93a27d3-bc21-44a4-9fb7-3aa1894457db" },
+  { n = 8, title = "Elle", mbid = "88da360c-8e14-4df2-a2d2-c21e0bd439a7" },
+  { n = 9, title = "Fingers of Steel", mbid = "a9cbbcbc-b5e2-4de3-a689-534b47ef4186" },
+  { n = 10, title = "Manty", mbid = "03cc487c-3e5a-429a-b63c-baf2f2d525aa" },
+  { n = 11, title = "L’amour et la violence", mbid = "64e89a57-d442-46cc-affc-7b4c979718dd" },
+]
+
+[[release]]
+mbid = "dabb6024-0b98-4e99-b0d4-5db52d212a49"
+title = "Kilometer"
+type = "single"
+date = "2009-03-02"
+spotify = "4MEA17aQtLt8qEn9qKap0W"
+tracks = [
+  { n = 1, title = "Kilometer", mbid = "3b80ab54-19ed-4902-9bb5-31b64da9d9e4" },
+  { n = 2, title = "Kilometer (A-Trak remix)", mbid = "3b7f44fb-7786-440a-a6a5-d3f3f7ee0125" },
+  { n = 3, title = "Kilometer (Arpanet remix)", mbid = "91b8e3ca-e35d-460a-8d1a-de33b25aa178" },
+  { n = 4, title = "Kilometer (Donovan's All Star remix)", mbid = "0e0f4266-894e-4d6c-a582-4683370bd895" },
+  { n = 5, title = "Kilometer (A-Trak dub)", mbid = "8c6b47b4-15a8-40a6-9a2d-d6e4b69b6d48" },
+]
+
+[[release]]
+mbid = "a132d946-4bfc-438e-a75e-5b1660f01b46"
+title = "L’Amour et la violence"
+type = "single"
+date = "2009-07-31"
+spotify = "0d9Dbgvy8YsK75y9nbEcg9"
+tracks = [
+  { n = 1, title = "L’Amour et la violence", mbid = "64e89a57-d442-46cc-affc-7b4c979718dd" },
+  { n = 2, title = "L’Amour et la violence (Boys Noize Euro mix)", mbid = "a062da27-c740-4b1c-8f9a-2f745249faa4" },
+  { n = 3, title = "L’Amour et la violence (Boys Noize main version)", mbid = "ea4d0e5e-5d88-4369-9442-5bec1907e4a3" },
+]
+
+[[release]]
+mbid = "90adfb8c-6f51-485f-baec-afa0040ece77"
+title = "Fingers of Steel"
+type = "single"
+date = "2009-08-07"
+tracks = [
+  { n = 1, title = "Fingers of Steel", mbid = "a9cbbcbc-b5e2-4de3-a689-534b47ef4186" },
+  { n = 2, title = "Fingers of Steel (Hypnolove remix)", mbid = "eb04e274-1456-4a6c-b434-2a59162aa404" },
+]
+
+[[release]]
+mbid = "93345b94-7150-4d58-8feb-2e3cdb0647a9"
+title = "Roche"
+type = "single"
+date = "2012-03"
+tracks = [
+  { n = 1, title = "Roche (radio mix)", mbid = "08684830-44c6-448f-975e-1c2c78d42f89" },
+  { n = 2, title = "Roche (Kavinsky remix)", mbid = "af494757-42f1-412d-8241-a2adc31d5a77" },
+  { n = 3, title = "Roche (Breakbot remix)", mbid = "5e4280b4-a915-4101-924c-ea3976fb7b73" },
+]
+
+[[release]]
+mbid = "b9e95758-3733-4435-9df6-5d5ae8d6b0ac"
+title = "Cochon ville"
+type = "single"
+date = "2012-03-12"
+tracks = [
+  { n = 1, title = "Cochon ville", mbid = "0e0f8aa9-e87e-4069-a70d-08265f2c87dc" },
+]
+
+[[release]]
+mbid = "f650787e-521f-4386-b6b8-0084b52edc03"
+title = "Pépito bleu"
+type = "single"
+date = "2012-03-12"
+tracks = [
+  { n = 1, title = "Pépito bleu", mbid = "2bea2edb-d800-4217-8378-4d59d0e1d9cb" },
+]
+
+[[release]]
+mbid = "ef5ba13d-5128-48db-bc0c-3577bef3de20"
+title = "My God Is Blue"
+type = "album"
+date = "2012-04-16"
+spotify = "3kGhp2cHcNHUEupIDELGwn"
+tracks = [
+  { n = 1, title = "Pépito bleu", mbid = "2bea2edb-d800-4217-8378-4d59d0e1d9cb" },
+  { n = 2, title = "The Colour of Your Mind", mbid = "60e6ab17-d636-42f2-be0d-7e5c6cdf32fb" },
+  { n = 3, title = "Sedulous", mbid = "ba448478-e2de-47a3-90ae-e806ee25e229" },
+  { n = 4, title = "Cochon ville", mbid = "0e0f8aa9-e87e-4069-a70d-08265f2c87dc" },
+  { n = 5, title = "Magical Hurricane", mbid = "9327be3b-460b-4537-8bff-d54534fd2d56" },
+  { n = 6, title = "Russian Attractions", mbid = "ec852b4b-05e3-442f-b82f-a83e45730a72" },
+  { n = 7, title = "Mayday", mbid = "54b7ff5a-a168-4905-9e8c-5ad3b06f9eaa" },
+  { n = 8, title = "Draw Your World", mbid = "481a438c-aa77-402b-87a5-34dc5cd46f9e" },
+  { n = 9, title = "My Poseidon", mbid = "d0d2673d-fa21-4637-82c9-ac44e70debc6" },
+  { n = 10, title = "Against the Law", mbid = "1b0fdace-341e-41c6-87fb-6f9b22b86053" },
+  { n = 11, title = "My God Is Blue", mbid = "494b0b90-e246-4ca1-a5f0-07a1ba651983" },
+  { n = 12, title = "Yes, It’s Possible", mbid = "0695df02-0775-4570-ac4e-5343f89d4be6" },
+]
+
+[[release]]
+mbid = "6357949d-601e-4d53-8be7-a54fc0711c41"
+title = "Sedulous"
+type = "single"
+date = "2012-11"
+tracks = [
+  { n = 1, title = "Sedulous", mbid = "ba448478-e2de-47a3-90ae-e806ee25e229" },
+  { n = 2, title = "Sedulous (Mickey remix)", mbid = "8ee4fa81-cdc3-4217-b580-f0136099c86c" },
+  { n = 3, title = "Sedulous (Drop the Lime remix)", mbid = "100b840e-177c-49f3-a94d-76ad5d477c0d" },
+  { n = 4, title = "Sedulous (Equateur remix)", mbid = "59f30389-7e80-4980-9b43-e775c76cb1c6" },
+]
+
+[[release]]
+mbid = "a9dc47f1-49aa-4307-8528-94ba21f1afdc"
+title = "Russian Attractions"
+type = "single"
+date = "2012-11-23"
+tracks = [
+  { n = 1, title = "Russian Attractions", mbid = "ec852b4b-05e3-442f-b82f-a83e45730a72" },
+  { n = 2, title = "Russian Attractions (Scratch Massive remix)", mbid = "afb74a85-c5ec-475e-8d64-5c41eee8b1aa" },
+  { n = 3, title = "Russian Attractions (La Belle Epoque remix)", mbid = "792234b5-2a9d-46c9-a059-59a67ca48778" },
+  { n = 4, title = "Russian Attractions (Marlin remix)", mbid = "03a062ad-e049-4ad4-86f0-577873a0e95b" },
+  { n = 5, title = "Russian Attractions (Axel Le Baron)", mbid = "4769afaa-da00-4a8f-afd9-c591b6cda92b" },
+]
+
+[[release]]
+mbid = "cc424aa1-6382-4924-a9b5-7ccc70d13e51"
+title = "In the Crew of Tea Time"
+type = "single"
+date = "2013-04-26"
+spotify = "1cRTOzEUUMKnFopesLTYcu"
+tracks = [
+  { n = 1, title = "In the Crew of Tea Time", mbid = "a283b29e-3dc2-435a-abac-b78f95cce600" },
+  { n = 2, title = "In the Crew of Tea Time (Mr Dan dub)", mbid = "f33ca795-c31b-4387-ba97-82379a5208b7" },
+]
+
+[[release]]
+mbid = "e67e97fd-b447-4307-ab09-d93b04305c61"
+title = "Confection"
+type = "album"
+date = "2013-10-14"
+tracks = [
+  { n = 1, title = "Adieu", mbid = "40f5938e-8161-452c-b630-22ba972e3d2c" },
+  { n = 2, title = "Coco", mbid = "0bfc6a9c-633d-4ae1-9678-7f14779cf5bb" },
+  { n = 3, title = "L’Amour naissant", mbid = "73e4ef8c-249a-4bb0-a858-5c1fc85152d2" },
+  { n = 4, title = "Adieu mes amours", mbid = "c104d7d8-2126-42b9-bd41-430d72e78a3c" },
+  { n = 5, title = "Hypnose", mbid = "bf7b9c9f-5c07-4e97-a3f3-3d1e3942adc1" },
+  { n = 6, title = "Waltz", mbid = "05b860b6-0440-4807-8f82-60a5a6245c84" },
+  { n = 7, title = "Adieu comme un jeu", mbid = "3105efa3-a4df-4d23-b4c1-dddb7a4cc93a" },
+  { n = 8, title = "Delta romantica", mbid = "974fb016-9e31-45dc-9476-bb0e37061973" },
+  { n = 9, title = "Curiosa", mbid = "112a4032-8650-41ba-b200-7a85c0c0f4e0" },
+  { n = 10, title = "L’Amour naissant II", mbid = "ba63e7a8-2305-4766-bb63-73dd4b11d4cf" },
+  { n = 11, title = "Coco et le labyrinthe", mbid = "af216652-433b-441e-8e48-b781f9405e6e" },
+  { n = 12, title = "L’Amour naissant III", mbid = "ce312ca8-225d-469f-9f95-af02c6678614" },
+  { n = 13, title = "Curiosa II", mbid = "7412118d-8b3f-4e22-933c-6d0b98392166" },
+  { n = 14, title = "Le Delta des amours", mbid = "eb0c1d1b-45b9-4490-a44a-7deb2ac40971" },
+]
+
+[[release]]
+mbid = "f0822f65-ac65-4420-9784-b189e6ee9354"
+title = "L’aventura"
+type = "album"
+date = "2014-05-26"
+tracks = [
+  { n = 1, title = "Love", mbid = "d62ad9c2-d2fd-4ba9-9673-204aebbd3421" },
+  { n = 2, title = "Sous les rayons du soleil", mbid = "abb646a0-088a-4e30-ad0a-2acb87ef136d" },
+  { n = 3, title = "Ma Calypso", mbid = "f1285a8c-67aa-45fe-86e4-a88e2b2cdb59" },
+  { n = 4, title = "L’Adulte", mbid = "6253383c-ca31-40df-8554-2aa88a36a8c8" },
+  { n = 5, title = "Ricky l’adolescent", mbid = "53a8f3d1-3b3b-4075-8e6f-62fe40ee9cbd" },
+  { n = 6, title = "Aller vers le soleil", mbid = "ab2ea562-79d1-439c-a67c-7a7dc1b0c26f" },
+  { n = 7, title = "Comment revoir Oursinet ?", mbid = "7d1edd68-2d87-45d0-ada8-68ec49a65d74" },
+  { n = 8, title = "L’Amour carnaval", mbid = "04bf7eea-d07d-4f76-a59c-72790fe60ac1" },
+  { n = 9, title = "Ambiance Rio", mbid = "71167043-e7b3-428b-aa8e-f76728cf4fc3" },
+  { n = 10, title = "L’Enfant vert", mbid = "6c09421a-7fa3-4060-86bb-a33db8e74dfc" },
+]
+
+[[release]]
+mbid = "72af0b9b-6eb3-46dd-a727-b2222d64d44e"
+title = "Aller vers le soleil"
+type = "single"
+date = "2014-09-29"
+tracks = [
+  { n = 1, title = "Aller vers le soleil", mbid = "411cc6c9-a533-41ff-abf9-66224811a308" },
+  { n = 2, title = "Aller vers le soleil (Hercules and Love Affair remix)", mbid = "9203195b-43e6-45e6-aeea-a2a26a7a8ae7" },
+  { n = 3, title = "Aller vers le soleil (Tom Furse remix)", mbid = "c6283b05-deb1-4f9d-ac32-ed4042226e0e" },
+]
+
+[[release]]
+mbid = "b5f59c65-94f5-46c8-abac-70df76a72b28"
+title = "Ricky l’adolescent"
+type = "single"
+date = "2014-11-03"
+tracks = [
+  { n = 1, title = "Ricky l’adolescent", mbid = "53a8f3d1-3b3b-4075-8e6f-62fe40ee9cbd" },
+  { n = 2, title = "Ricky l’adolescent (Principles of Geometry remix)", mbid = "79b40f41-f352-49eb-b1e1-ad74d8ea0510" },
+  { n = 3, title = "Ricky l’adolescent (Walter remix)", mbid = "c523efd7-3cbd-4994-a53c-3bf85621a078" },
+]
+
+[[release]]
+mbid = "7c29b29c-4331-49a9-8c9a-3f5ce6f3263c"
+title = "Comment revoir Oursinet ?"
+type = "ep"
+date = "2015-07-06"
+spotify = "3wtQM5TbzCkJMjHkoOgFgI"
+tracks = [
+  { n = 1, title = "Comment revoir Oursinet ? (Matias Aguayo version)", mbid = "e0940156-f315-46b7-9114-988a970082f4" },
+  { n = 2, title = "Comment revoir Oursinet ? (Darius remix)", mbid = "71bb36a4-f45c-4dbe-bab7-2df227f194bd" },
+  { n = 3, title = "Comment revoir Oursinet ? (Cesare remix)", mbid = "3d3fcffa-f6e3-46e4-bebd-dfb40b12d16a" },
+  { n = 4, title = "Comment revoir Oursinet ?", mbid = "b813ebe8-288f-4e02-9014-b539c85b1fc0" },
+]
+
+[[release]]
+mbid = "b14720c9-a7ff-4fbc-ab13-4451c4d6edcb"
+title = "Saint Amour"
+type = "ep"
+date = "2016-02-26"
+spotify = "3jMSUO1kfb3b0bvMijqKvc"
+tracks = [
+  { n = 1, title = "Intromission", mbid = "d0c5829c-62ea-4147-a99a-517985bbc06a" },
+  { n = 2, title = "Les dix étapes de l’ivresse", mbid = "6a70a8aa-4127-4a8a-9c03-97eaf47e19ee" },
+  { n = 3, title = "Des sentiments V", mbid = "48fae8ba-d7ff-4d62-9ad2-6723da96ee4b" },
+]
+
+[[release]]
+mbid = "8fe6f70e-3bcd-41ec-abe6-be8b33fc4996"
+title = "Marie et les naufragés : La Bande originale du film"
+type = "album"
+date = "2016-04-08"
+tracks = [
+  { n = 1, title = "Don II", mbid = "79013985-64e9-49c7-9825-269c07e5fefe" },
+  { n = 2, title = "Turino Sun", mbid = "7a965b1e-f02f-4f71-bb25-15d65127bd14" },
+  { n = 3, title = "La Fille de l’eau", mbid = "1788683d-be8d-4c00-b7e1-1520b1cba4d6" },
+  { n = 4, title = "Le Pouvoir de Tanger", mbid = "ea683c7c-16ec-4ad4-b21e-432bebf1d8e8" },
+  { n = 5, title = "Deux en un", mbid = "3f3cb56a-2e77-495f-a6b1-257c57fc8f46" },
+  { n = 6, title = "Pleine lune II", mbid = "280871ec-07ec-4aee-a7ff-53b4bde364f0" },
+  { n = 7, title = "Un géant dans la mer", mbid = "8ae6a415-d967-4def-8a42-e0982f7507b4" },
+  { n = 8, title = "More Crazyness", mbid = "86eee2d2-8ef0-4566-be0d-3572d27c8b46" },
+  { n = 9, title = "Lune de miel IV", mbid = "7de294f8-dee8-40d0-86a0-cf3cdf7b8a68" },
+  { n = 10, title = "Fighting the Darkness", mbid = "61e188e3-95b5-41d5-9383-cfdee0251954" },
+  { n = 11, title = "Tanger II", mbid = "de6da163-9894-427e-a51a-5b6646a34055" },
+  { n = 12, title = "Turino III", mbid = "a4a591d1-a20b-4d05-99b7-b0301780e567" },
+  { n = 13, title = "Triste Soirée III", mbid = "7abf42d6-d599-4d08-8fc0-f8bc50b3be60" },
+  { n = 14, title = "Pleine lune", mbid = "39dc9191-d541-496c-a87f-c6641415f143" },
+  { n = 15, title = "Tanger", mbid = "9c752af6-0fa2-4e3c-86d7-de470ac89a2a" },
+]
+
+[[release]]
+mbid = "481ab9dc-b311-49ae-b476-a4a939c05926"
+title = "A Girl Is a Gun: Original Music"
+type = "album"
+date = "2017-10-13"
+spotify = "1Bv1s20fBDrndeTPi8xkdv"
+tracks = [
+  { n = 1, title = "Powered Girls", mbid = "98132b82-18f5-499c-9536-4af8d33f12f6" },
+  { n = 2, title = "Wings", mbid = "d431fa04-2467-46ef-9843-8df243dbddad" },
+  { n = 3, title = "Chrysalis", mbid = "7ed2564b-ba87-47b3-889f-87d017129138" },
+  { n = 4, title = "Lovely Blonde", mbid = "83f63a5f-ad06-4f1a-ad98-128bbdcefc66" },
+  { n = 5, title = "Shooters", mbid = "8cee8c85-fce8-44ce-988d-ac7422e47f04" },
+  { n = 6, title = "Cake News", mbid = "7772dbbe-68e4-465b-a10a-13a916232885" },
+  { n = 7, title = "Tactical Girls", mbid = "fcf2227b-aff3-4ce4-ad22-51a2ea10fcf5" },
+  { n = 8, title = "She's a Lie", mbid = "252e24da-62f8-4470-923c-b7fd35378344" },
+  { n = 9, title = "Drunk on the Radio", mbid = "c4b6d62a-b591-4ee5-b2a6-b68430fe2359" },
+  { n = 10, title = "A Gun on Your Head", mbid = "6dc40eff-b717-4a40-9a13-2a84b8caca86" },
+  { n = 11, title = "Penestra", mbid = "76b3ab1f-0fb3-45a1-bb6b-25de53a509d3" },
+]
+
+[[release]]
+mbid = "4ba5852f-7602-4c6d-b3a9-204d63a536df"
+title = "A Ballet"
+type = "single"
+date = "2020-01-29"
+spotify = "5lakKiMCsgajwlYqnJ0OEX"
+tracks = [
+  { n = 1, title = "A Ballet", mbid = "6740a31a-1d74-4e20-89ea-99dab4a92be5" },
+]
+
+[[release]]
+mbid = "381402d0-eae2-4b5c-b6c2-df55f0facdba"
+title = "Domestic Tasks"
+type = "single"
+date = "2020-04-08"
+spotify = "2YbnvPZ3u2ZPipumWROPiH"
+tracks = [
+  { n = 1, title = "Domestic Tasks", mbid = "95538358-949b-41a7-930f-04898f35a019" },
+  { n = 2, title = "Domestic Tasks (edit)", mbid = "16d3e7f2-1d48-42e6-990e-6a83de2d1b99" },
+]
+
+[[release]]
+mbid = "6f4e18ef-e3ae-44be-bb80-39e07c1df245"
+title = "Stuck in a Summer Love"
+type = "single"
+date = "2020-05-19"
+spotify = "7gYvQbUVu2U1SDlcQihqXF"
+tracks = [
+  { n = 1, title = "Stuck in a Summer Love", mbid = "0af2eaf6-e1e1-4274-9321-a432d772658b" },
+  { n = 2, title = "Stuck in a Summer Love (radio edit)", mbid = "0cb5e8a0-7356-4ae4-8186-580b34fb7bd3" },
+]
+
+[[release]]
+mbid = "a2a8f820-c4b8-4854-90db-a5db7af8494c"
+title = "Domesticated"
+type = "album"
+date = "2020-05-29"
+spotify = "3vsKe3rsEMPE0bVYJCBZas"
+tracks = [
+  { n = 1, title = "A Ballet", mbid = "6740a31a-1d74-4e20-89ea-99dab4a92be5" },
+  { n = 2, title = "Stuck in a Summer Love", mbid = "0af2eaf6-e1e1-4274-9321-a432d772658b" },
+  { n = 3, title = "Venezia", mbid = "13a18e67-74c6-4f46-84e5-b2a00a9c908a" },
+  { n = 4, title = "Domestic Tasks", mbid = "95538358-949b-41a7-930f-04898f35a019" },
+  { n = 5, title = "Oui", mbid = "711238b8-3896-4926-b385-ea053f77c52e" },
+  { n = 6, title = "Atomic Smile", mbid = "03bcd11d-7389-42fd-a71c-f974cbbe3674" },
+  { n = 7, title = "Hazy Feelings", mbid = "b96b44b2-24fe-4500-a75a-e45a4754072f" },
+  { n = 8, title = "Won", mbid = "efc70c6d-6e91-4176-bb66-efa36c51545f" },
+  { n = 9, title = "Le Pouvoir de Tanger", mbid = "ea683c7c-16ec-4ad4-b21e-432bebf1d8e8" },
+  { n = 10, title = "Intromission", mbid = "d0c5829c-62ea-4147-a99a-517985bbc06a" },
+  { n = 11, title = "Lovely Blonde", mbid = "83f63a5f-ad06-4f1a-ad98-128bbdcefc66" },
+  { n = 12, title = "Penestra", mbid = "76b3ab1f-0fb3-45a1-bb6b-25de53a509d3" },
+]
+
+[[release]]
+mbid = "388449e6-2f98-4688-8fa6-dbfe88b6e0cc"
+title = "SYMPHONIC (extended)"
+type = "album"
+date = "2022-02-25"
+spotify = "6dRRUpGp9bYkAYflLS18Qn"
+tracks = [
+  { n = 1, title = "Portés par le vent", mbid = "e63ba8aa-44d9-44ba-814a-aa8bd8e407ee" },
+  { n = 2, title = "Clair‐obscur", mbid = "c76fba5e-e166-4e2d-a344-f85e60960c17" },
+  { n = 3, title = "Chanelita", mbid = "6c30f36b-4455-4979-bd6f-038c91fff731" },
+  { n = 4, title = "Odyssée", mbid = "01452679-ac14-4b4e-b988-384a32e784c0" },
+  { n = 5, title = "Chanelita (Planningtorock remix)", mbid = "3a225abe-c9d8-4f75-b99a-67c6a6e3623d" },
+  { n = 6, title = "Odyssée (Soulwax remix)", mbid = "afc07ba0-7008-4588-beee-3bc6bfd8ad01" },
+  { n = 7, title = "Clair‐obscur (Not Waving remix)", mbid = "ee1ac2b5-855a-43c6-9efe-21c536718bf4" },
+  { n = 8, title = "Portés par le vent (extended)", mbid = "3a384cce-0b4d-4899-82e2-3159dc04f529" },
+]
+
+[[release]]
+mbid = "1cdcc3c4-c93c-4618-ad29-c3f9db03e5bc"
+title = "EXTATIC"
+type = "ep"
+date = "2022-07-15"
+spotify = "68dFckjqN3mRFHZtU0UrkM"
+tracks = [
+  { n = 1, title = "Mademoiselle", mbid = "d5fa9182-1022-4b47-a8ea-d4f567d3d34c" },
+  { n = 2, title = "Cambon Street", mbid = "420a97bc-18f4-4b6f-8fe5-ab4b784067d8" },
+  { n = 3, title = "Haute Couture", mbid = "1b189906-42e0-4407-b688-7bf2d131b8d8" },
+  { n = 4, title = "Coffre à bisous", mbid = "8b1b1a9d-7183-4f79-9e52-ec5e91590c98" },
+  { n = 5, title = "Corazón", mbid = "aace23cf-d400-44b4-93af-057daaf9f310" },
+]
+
+[[release]]
+mbid = "b15f0ca2-0c72-46eb-a398-87ea2e13629d"
+title = "J’en ai assez vu"
+type = "single"
+date = "2022-11-28"
+spotify = "0TcEn3elcAfEB23P2fjc7B"
+tracks = [
+  { n = 1, title = "J’en ai assez vu", mbid = "3a2b05a8-5a8e-431f-b565-65df4557f3f4" },
+]
+
+[[release]]
+mbid = "64d9d0ed-aeb1-4d0e-bd8a-7777451c38d7"
+title = "Amoureux"
+type = "single"
+date = "2023-03-09"
+spotify = "2iTC1RSiheY12h1YJfIVkJ"
+tracks = [
+  { n = 1, title = "Amoureux", mbid = "ca7e1372-92bf-471e-a41d-7921052b1fd7" },
+]
+
+[[release]]
+mbid = "e339c1eb-8d55-4b57-8a0f-45d7ba03dfb3"
+title = "Libre (original motion picture score)"
+type = "album"
+date = "2024-11-01"
+spotify = "2O3Lrt8QXKdGSwxIxzR1v2"
+tracks = [
+  { n = 1, title = "Septieme ciel", mbid = "500101c6-b2b8-4a1c-8c3d-9c0e22601dc9" },
+  { n = 2, title = "Décadence", mbid = "1f9c2c87-8e7b-4062-9846-d39e192f21a1" },
+  { n = 3, title = "Libre part 1", mbid = "c69c839a-c6a1-4b84-8b8d-1bcd15a8229e" },
+  { n = 4, title = "Libre part 2", mbid = "68e4b197-af57-400b-b500-c8005bb87de5" },
+  { n = 5, title = "Evasion", mbid = "82562ee8-57de-4d03-beb9-2144bd218158" },
+  { n = 6, title = "Confetti", mbid = "6af621fe-4fb1-46a8-bb15-22141fa1ba66" },
+  { n = 7, title = "Cœur", mbid = "e1d27ed5-7866-4104-bc30-5b573178a0e0" },
+  { n = 8, title = "Libre part 3", mbid = "1282f0bb-763b-4ccf-96b0-832f91832093" },
+  { n = 9, title = "Pressentiment", mbid = "2cdf4fcc-2b71-4320-af50-8b75d77076bf" },
+  { n = 10, title = "Spirale", mbid = "687f20ef-c5e3-4fe0-896b-680e71a27068" },
+  { n = 11, title = "Stress", mbid = "e3c3b0a1-7016-4141-b9e8-91539d7909ae" },
+  { n = 12, title = "Libre part 4", mbid = "408d233d-2d76-4eb1-8ee7-6c35b354ed4f" },
+]
+
+[[release]]
+mbid = "f502aa97-033b-462f-8367-cd3f46248337"
+title = "Kiss the Beast"
+type = "album"
+date = "2025"
+spotify = "0hrKy2MmSQEc2X7pEYph6v"
+tracks = [
+  { n = 1, title = "Kiss the Beast", mbid = "322e56e2-226a-4f9c-9385-1a04d8d653fd" },
+  { n = 2, title = "Naïf de cœur", mbid = "0df58781-9fbc-4806-8ddc-59d2b181ed21" },
+  { n = 3, title = "Refresh", mbid = "3f6372be-41eb-4bea-94bf-e88a5e8f1add" },
+  { n = 4, title = "Mouton", mbid = "e80519bd-6e23-437a-b4e8-4d4390a41d5b" },
+  { n = 5, title = "Thrill of the Night", mbid = "2c8e3bdc-06b3-407b-a3fd-3ae04ea6e4be" },
+  { n = 6, title = "Romantic", mbid = "9af191ab-c6db-4e95-bc06-293cbbe85eaf" },
+  { n = 7, title = "Parfum diamant", mbid = "29a43af4-446d-420d-8672-a13338042b4f" },
+  { n = 8, title = "Copycat", mbid = "712d5cd3-70e0-441e-bd21-8427b7b089bd" },
+  { n = 9, title = "Animale", mbid = "993e56a0-aa16-4763-b047-e4f7aae85a66" },
+  { n = 10, title = "Amnesia", mbid = "7ead4e44-634e-42c9-b8ba-82ba8541fde3" },
+  { n = 11, title = "Loup", mbid = "f25b1227-e418-4c84-ab9d-791d1da0591f" },
+  { n = 12, title = "Un dimanche en famille", mbid = "dfe2c5de-b606-479c-8c57-2033473eb2b5" },
+]
+
+[[release]]
+mbid = "66b44f2c-bf29-46d8-ac4a-28b3aeba930e"
+title = "Refresh"
+type = "single"
+date = "2025-09-03"
+spotify = "1jJIpGlUoeQzMPWm95KOj4"
+tracks = [
+  { n = 1, title = "Refresh", mbid = "3f6372be-41eb-4bea-94bf-e88a5e8f1add" },
+]
+
+[[release]]
+mbid = "8c4db735-4103-4864-8dd3-1b267bef6fa9"
+title = "Naïf de cœur (Johnny Jewel version)"
+type = "single"
+date = "2025-11-04"
+spotify = "3WpzWVcDMnjnkKlFaoHY9x"
+tracks = [
+  { n = 1, title = "Naïf de cœur (Johnny Jewel version)", mbid = "6d375f79-d606-447e-90bb-dbfea673deca" },
+  { n = 2, title = "Naïf de cœur", mbid = "0df58781-9fbc-4806-8ddc-59d2b181ed21" },
+]
+
+[[release]]
+mbid = "720ceeaf-7b1f-4d04-9eb8-189baa5b3874"
+title = "Naïf de cœur (Midnight Juggernauts version)"
+type = "single"
+date = "2025-11-04"
+spotify = "2KHeXSRLiSUM57pKo40vdB"
+tracks = [
+  { n = 1, title = "Naïf de cœur (Midnight Juggernauts version)", mbid = "cc808a8a-5ad4-4c85-b02d-f56ce3765586" },
+  { n = 2, title = "Naïf de cœur", mbid = "0df58781-9fbc-4806-8ddc-59d2b181ed21" },
+]
+
+[[release]]
+mbid = "5b2636b9-cc54-4533-855b-309f8d1c2584"
+title = "Naïf de cœur (alternative versions)"
+type = "single"
+date = "2025-11-05"
+spotify = "2K9nMtsVUjGHSoWqliRnjB"
+tracks = [
+  { n = 1, title = "Naïf de cœur (piano version)", mbid = "b6a79348-229b-40dd-b99c-7923d2879184" },
+  { n = 2, title = "Naïf de cœur (Johnny Jewel version)", mbid = "6d375f79-d606-447e-90bb-dbfea673deca" },
+  { n = 3, title = "Naïf de cœur (Midnight Juggernauts version)", mbid = "cc808a8a-5ad4-4c85-b02d-f56ce3765586" },
+  { n = 4, title = "Naïf de cœur", mbid = "0df58781-9fbc-4806-8ddc-59d2b181ed21" },
+]
+
+[[release]]
+mbid = "9b2f1bc1-9477-4b78-a159-bd6293ccd3b4"
+title = "Thrill of the Night"
+type = "single"
+date = "2025-11-20"
+spotify = "0UpC6w0g5VZIYt2B0diLMU"
+tracks = [
+  { n = 1, title = "Thrill of the Night", mbid = "30011e76-e8b2-435f-9cfe-4a1f9d48cb16" },
+]
+
+[[release]]
+mbid = "766788a7-6cf7-4d54-a004-ead65a0a4407"
+title = "Parfum Diamant"
+type = "single"
+date = "2026-01-05"
+spotify = "6P1eynEU2h4kUz0ti5S7JA"
+tracks = [
+  { n = 1, title = "Parfum Diamant", mbid = "71abbe6a-09b2-4d9d-a098-624935bb4b24" },
+]
+
+[[release]]
+mbid = "094c5a41-dba6-4dcf-bba5-ffc50fd3f6a3"
+title = "Parfum diamant"
+type = "single"
+date = "2026-01-16"
+spotify = "3cq1C5qVimRG98a0wwmvoF"
+tracks = [
+  { n = 1, title = "Parfum diamant", mbid = "29a43af4-446d-420d-8672-a13338042b4f" },
+  { n = 2, title = "Thrill of the Night", mbid = "2c8e3bdc-06b3-407b-a3fd-3ae04ea6e4be" },
+]
+
+[[release]]
+mbid = "a3e7443a-e139-4302-ba28-bb3c744e27e3"
+title = "Amnesia"
+type = "single"
+date = "2026-01-28"
+spotify = "1yMMSrLIM3D497KmhcbWrT"
+tracks = [
+  { n = 1, title = "Amnesia", mbid = "7ead4e44-634e-42c9-b8ba-82ba8541fde3" },
+  { n = 2, title = "Thrill of the Night", mbid = "2c8e3bdc-06b3-407b-a3fd-3ae04ea6e4be" },
+]
+
+[[release]]
+mbid = "3f70ca63-6224-427e-ba49-25f378bba7d7"
+title = "Attraction"
+type = "single"
+date = "2026-06-05"
+spotify = "5N7gbHEwfYuL3CxpDVOVJK"
+tracks = [
+  { n = 1, title = "Attraction", mbid = "27965589-519d-4060-8800-1cd9ef7dc818" },
+]

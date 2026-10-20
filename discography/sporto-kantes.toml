@@ -1,0 +1,126 @@
+format = 1
+
+[[release]]
+mbid = "d55e1708-079f-3170-8b35-71b7f8c968fc"
+title = "Nickson"
+type = "ep"
+date = "1999"
+tracks = [
+  { n = 1, title = "Nickson", mbid = "4d312201-fe0f-4124-89a2-433c96046ba7" },
+  { n = 2, title = "FX", mbid = "3a06f22b-7ec8-4220-8b5e-d95662a40b78" },
+  { n = 3, title = "Niño", mbid = "a33e200d-f141-40f7-a694-984849b47973" },
+  { n = 4, title = "Man", mbid = "1614e8d4-9f22-4a43-9851-c7344a59d8e5" },
+]
+
+[[release]]
+mbid = "209a8d4b-fbff-386e-839b-4e79c9a09599"
+title = "Party"
+type = "ep"
+date = "2000"
+tracks = [
+  { n = 1, title = "Party", mbid = "c3b1b04a-697a-4329-89c3-8e67b25c7659" },
+  { n = 2, title = "Oh Nuit", mbid = "515e59a8-4142-4f52-9fd2-2e08f69eeba3" },
+  { n = 3, title = "Buster", mbid = "f6a196ac-5877-4b3f-b7d0-34ad0a4f082b" },
+  { n = 4, title = "Food", mbid = "fda08327-1019-43b8-a896-4fd7856d7e61" },
+]
+
+[[release]]
+mbid = "6f877922-bd11-3113-ac58-684090aced18"
+title = "Act. 1"
+type = "album"
+date = "2001"
+tracks = [
+  { disc = 1, n = 1, title = "Confused", mbid = "9f4dd26c-2203-40d8-8718-cc35deac88e0" },
+  { disc = 1, n = 2, title = "Go", mbid = "69c9dd44-73ed-4d70-a83c-ccab3b601756" },
+  { disc = 1, n = 3, title = "XX Live", mbid = "a8d51f96-a240-4c60-9a1b-b6d60cca63e6" },
+  { disc = 1, n = 4, title = "Party", mbid = "a715eb74-d92c-46bc-b072-2bdc18a855b4" },
+  { disc = 1, n = 5, title = "Mundo", mbid = "f405458b-791a-45c8-99ea-88e5fbc321d9" },
+  { disc = 1, n = 6, title = "18h27", mbid = "f1b1339b-ca6b-4aa8-8d54-6d4467cfbb5b" },
+  { disc = 1, n = 7, title = "Nickson", mbid = "4d312201-fe0f-4124-89a2-433c96046ba7" },
+  { disc = 1, n = 8, title = "Car Video", mbid = "de03fcc9-20be-4059-8ed5-e09e3378d3f7" },
+  { disc = 1, n = 9, title = "Never Trust a Guy... (Who's Never Been a Punk)", mbid = "e567ba19-0493-4a57-a2c5-0d2bb6140928" },
+  { disc = 1, n = 10, title = "Gimme Five", mbid = "f559ad7a-5c5b-4429-a822-d093665f94a7" },
+  { disc = 1, n = 11, title = "Oh Nuit", mbid = "515e59a8-4142-4f52-9fd2-2e08f69eeba3" },
+  { disc = 1, n = 12, title = "Buster", mbid = "8e45c82a-89ab-47b1-b36f-effc571dca3d" },
+  { disc = 1, n = 13, title = "Niño", mbid = "a33e200d-f141-40f7-a694-984849b47973" },
+  { disc = 2, n = 1, title = "Yardie's Night", mbid = "9b0e1b6e-b0a9-4b71-8fcf-d624cb20a57a" },
+  { disc = 2, n = 2, title = "XXLive (I Smith Lane remix)", mbid = "3370a530-cc79-4b80-ab7e-ff850cedfb17" },
+  { disc = 2, n = 3, title = "Buster (Mon Oncle remix)", mbid = "4eae41d2-8d67-40b0-9b08-11c76403f4d9" },
+  { disc = 2, n = 4, title = "Mundo (Analog Bronca remix)", mbid = "290462de-844c-48b8-ba7e-7cb30bc2f2e2" },
+  { disc = 2, n = 5, title = "Mundo (Troublemakers remix)", mbid = "7c59c484-4b41-459f-8196-0572a2eacade" },
+  { disc = 2, n = 6, title = "Go! (Tommy Hools remix)", mbid = "3e6a91da-aaac-410c-87dc-718ee4c61d5e" },
+  { disc = 2, n = 7, title = "Respect It", mbid = "abfcbffe-882b-4bd5-86a1-c47c455b645d" },
+]
+
+[[release]]
+mbid = "ac46523f-0e8c-3a92-a1c3-c78f27c0976b"
+title = "2nd Round"
+type = "album"
+date = "2004"
+tracks = [
+  { n = 1, title = "Surprise", mbid = "64be0dc6-0711-4658-a7e8-f70ec3c27f16" },
+  { n = 2, title = "Impressed", mbid = "f6b377d6-a92f-458a-9924-e2e671a765fe" },
+  { n = 3, title = "Lee", mbid = "0316b837-1e2b-41f9-9975-0738747f6a56" },
+  { n = 4, title = "Makaïn Muskil", mbid = "4a799825-b03d-468b-bbd0-5e4bc3cd8e1b" },
+  { n = 5, title = "Tell Me", mbid = "ab2b8683-1118-44f2-ad3b-09651c5ca521" },
+  { n = 6, title = "Heart", mbid = "bc22ba32-2f7f-4383-9f36-b904c32a8ac2" },
+  { n = 7, title = "Ambre", mbid = "f21c939c-ffa5-498d-89df-c3b2a1c00b8f" },
+  { n = 8, title = "Funky", mbid = "2934a7c6-3b3b-48af-96e6-0209196e8f3e" },
+  { n = 9, title = "Yardies's Night", mbid = "54b4e1db-9853-489c-b284-efa990b562ff" },
+  { n = 10, title = "Regular Customer", mbid = "9c1360c4-7628-48d9-af90-90e9950eaf46" },
+  { n = 11, title = "Out of the Block", mbid = "126ca411-f73e-4e99-a9d2-0a3c5f506aca" },
+  { n = 12, title = "New Wave", mbid = "a1250050-38be-4dd4-b077-5f8da85b60b4" },
+]
+
+[[release]]
+mbid = "c826a7dc-8be1-37d3-bcc9-c0c6ddb0831b"
+title = "3 at Last"
+type = "album"
+date = "2008-04-21"
+tracks = [
+  { n = 1, title = "Concrete", mbid = "55e487f2-b58e-4b2e-82e5-da793190a821" },
+  { n = 2, title = "Whistle", mbid = "c6801748-bd23-4e27-8937-b1e2925bcf01" },
+  { n = 3, title = "Liquid", mbid = "16b68b20-c530-4436-a586-8cbc8f8ed9be" },
+  { n = 4, title = "Fight", mbid = "2486cdb5-0b82-4d49-84d8-3f6c29ae3c2c" },
+  { n = 5, title = "Da Rock", mbid = "814c2074-2915-499d-8d74-51846c3803b4" },
+  { n = 6, title = "Sick Song", mbid = "b2a83592-34b9-43ef-b446-36d95ef139cd" },
+  { n = 7, title = "Roma's Life", mbid = "7eb90100-0e1b-4c8c-b6a1-c0355591bb42" },
+  { n = 8, title = "Waiting Man", mbid = "cd98cbe0-04e8-4041-b583-25a40d155e94" },
+  { n = 9, title = "U Are The Light", mbid = "5c2c0dec-9674-4940-b1a2-701b968c5639" },
+  { n = 10, title = "Tower", mbid = "fe07ec5e-ac72-4b20-aad0-930e76b7b02f" },
+  { n = 11, title = "Slits", mbid = "77cb019f-7055-4e29-b511-0206bf953c96" },
+  { n = 12, title = "12 of July", mbid = "605ef1d5-2341-4cbd-9a34-f1f6af1596b3" },
+]
+
+[[release]]
+mbid = "8e0f1674-282f-4079-b1f7-e6cd18096142"
+title = "4"
+type = "album"
+date = "2012-02-27"
+tracks = [
+  { n = 1, title = "The Prince Is Dead", mbid = "634f0dae-9ae1-4406-b0b2-79185c70c1a3" },
+  { n = 2, title = "Fuckin' Country", mbid = "c9d7eedb-8b17-46a4-a00f-4ffeb07123dd" },
+  { n = 3, title = "Going Tonight", mbid = "3f2c79a6-ea6b-4f51-bef3-1517a623ac03" },
+  { n = 4, title = "Gettin' On", mbid = "7c56400b-e373-41fa-a7a1-c023c17d2f3f" },
+  { n = 5, title = "Once Upon a Time", mbid = "71e251a1-a126-4d73-b8b0-8127a028c741" },
+  { n = 6, title = "Holiday", mbid = "3e9d9a5d-2420-4143-b719-0aebabfdacee" },
+  { n = 7, title = "Le Visage vert", mbid = "d6aec14b-e11a-4bb1-b71b-eea704909e27" },
+  { n = 8, title = "My Life", mbid = "6c16a0c3-571d-4984-b49e-10dd709217ee" },
+  { n = 9, title = "Caligari", mbid = "33552526-310b-435e-bb64-1a4fafb549db" },
+  { n = 10, title = "Electric Sylvie", mbid = "ba8cc805-0bae-48a2-ab0e-19dd7fd047f2" },
+  { n = 11, title = "Wrong Day", mbid = "97e6cb69-eb6d-4162-8f66-f6081c015e53" },
+  { n = 12, title = "I Love U", mbid = "2f013b35-9e81-4518-a26d-c9d084610a70" },
+  { n = 13, title = "Big Girl", mbid = "10538098-0b97-484f-a119-12efd63caf3c" },
+]
+
+[[release]]
+mbid = "ad1f6697-7eac-4a12-bade-901763ad64de"
+title = "Lee"
+type = "ep"
+date = "2014-01-20"
+tracks = [
+  { n = 1, title = "Lee", mbid = "bcdd8d1a-1667-40d9-b3cc-658e5643b71e" },
+  { n = 2, title = "Lee (Ventury remix)", mbid = "abe25f24-f2f3-469a-8b7a-18e75e88a106" },
+  { n = 3, title = "Lee (J.A.C.K. remix)", mbid = "4d3c679a-35f0-4f08-8822-17bcd95b6bf7" },
+  { n = 4, title = "Lee (LRKL remix)", mbid = "d7b4babc-de93-457c-8cb7-6eca05fab022" },
+]

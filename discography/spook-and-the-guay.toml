@@ -1,0 +1,65 @@
+format = 1
+
+[[release]]
+mbid = "7a437a66-3311-395f-bd3f-8e53a1e3c8be"
+title = "Mi TierrA"
+type = "album"
+date = "1998"
+tracks = [
+  { n = 1, title = "Mi Tierra", mbid = "b6f64ce1-da43-4062-ad43-57342d2dbe1c" },
+  { n = 2, title = "Sit Upon the Riddim", mbid = "f0ff81da-841c-4841-87a4-395175cbf04b" },
+  { n = 3, title = "La Maleta", mbid = "6d0a9f7f-89c1-4856-8ca7-56582bf12194" },
+  { n = 4, title = "Al Ristorante", mbid = "746605e6-5b93-4708-91dc-fd2557323799" },
+  { n = 5, title = "El Muñeco", mbid = "f879cdb6-ddf2-4536-a318-1c6b94468bec" },
+  { n = 6, title = "Anti Racist Soldiers", mbid = "38af256f-c50a-4bea-a4fe-6d413d492fcc" },
+  { n = 7, title = "Las Mañanitas", mbid = "869e3591-2907-410c-9f82-e659d37527d2" },
+  { n = 8, title = "Gringos", mbid = "56aacfc0-a316-41ec-9e3e-5d830b6ec5df" },
+  { n = 9, title = "Mariano's Dub", mbid = "6248cd60-c825-40c3-a4d2-4dbaef34e831" },
+  { n = 10, title = "Barrio Chupa-Plata", mbid = "2355b870-e132-482e-908e-3f52cd0ea5e1" },
+  { n = 11, title = "Pumpa", mbid = "f8e0a562-2dea-45b7-8055-154cd72c10fc" },
+  { n = 12, title = "Money", mbid = "11ed7550-5800-4ece-ad9a-02a5eadbaa46" },
+  { n = 13, title = "Wisdom Reggae", mbid = "85b7118c-db24-4de2-b03b-da80bbea1657" },
+]
+
+[[release]]
+mbid = "664807b9-680a-3525-811d-c0a0fadd3532"
+title = "Ocho Rios"
+type = "album"
+date = "1999"
+tracks = [
+  { n = 1, title = "Dancefloor", mbid = "4dd9330a-0c5e-4be3-b194-66b88ef5626f" },
+  { n = 2, title = "Un Tren", mbid = "963ad9c4-9c9f-418a-a8f4-5373b3661e5e" },
+  { n = 3, title = "L'Homme", mbid = "19cbaa8e-fea7-40db-940c-4e32d5cf1c11" },
+  { n = 4, title = "Sugar", mbid = "c2c60626-49a0-4d2b-9438-d30eb8117532" },
+  { n = 5, title = "Killer Girl", mbid = "c3ee100b-74f7-441e-b411-51ed4263c979" },
+  { n = 6, title = "On comprend pas", mbid = "f9754c5c-f59d-42da-a2d5-0930c2c2c962" },
+  { n = 7, title = "Maruchi", mbid = "a68c2ed6-d323-4662-99fc-2ec8f0aa7c83" },
+  { n = 8, title = "Give a Lickle Action", mbid = "947298fe-adfe-4757-ac13-6a21e13f2ec4" },
+  { n = 9, title = "Modern Country", mbid = "b45d6807-68be-4c39-9704-4bc9017281aa" },
+  { n = 10, title = "Cyaan Stop", mbid = "340d5a25-037a-4270-a14f-2574edd26b2b" },
+  { n = 11, title = "12 balles dans la peau", mbid = "9fd8a3a6-b6c4-4a83-af82-ee3567c5249d" },
+  { n = 12, title = "El Aroma", mbid = "98c301a9-1754-4fc4-8944-0e794b9e0eec" },
+  { n = 13, title = "DJ Legend", mbid = "1296811b-ab8d-46c2-9382-fd198ca432b5" },
+  { n = 14, title = "Hoy Y Ahora", mbid = "20bead1f-f4a7-41f1-a62d-287470e9be31" },
+  { n = 15, title = "Cyaan Stop the Professor (Mad remix)", mbid = "8cc48bca-aed7-45ac-abd5-a1be35654d5f" },
+]
+
+[[release]]
+mbid = "166661df-d2d5-33f6-a9b6-d9532b84313c"
+title = "Vida sonora"
+type = "album"
+date = "2002-08"
+tracks = [
+  { n = 1, title = "La vida sonora", mbid = "5890835a-2809-40f7-a495-0f1554d368de" },
+  { n = 2, title = "Music Is a Weapon", mbid = "6b422f78-0105-4729-ab02-f8148228c271" },
+  { n = 3, title = "Être et avoir", mbid = "a4d3137b-c248-46a5-9016-148d54c4f522" },
+  { n = 4, title = "Superman", mbid = "5adda302-e0f3-44d3-b121-f53620dc9b4a" },
+  { n = 5, title = "La Chance", mbid = "4fa8c884-d778-49c7-91d8-a887818c83fd" },
+  { n = 6, title = "Ma radio", mbid = "b7076ef6-b0cc-43c5-8b3e-bdec26f98cf3" },
+  { n = 7, title = "Carol", mbid = "8081d96b-4b5e-409a-8e18-605630059142" },
+  { n = 8, title = "Good School", mbid = "dc1d5a3a-8e0d-4ec7-9b1e-95ad17450da0" },
+  { n = 9, title = "Au taquet", mbid = "83f8aad0-bba5-4ec6-8633-4ed9318f59b6" },
+  { n = 10, title = "Ceux qui marchent debout", mbid = "3b066e90-d283-4f6b-bfe8-5c91758bab81" },
+  { n = 11, title = "El siglo de oro del aseniso", mbid = "e18fa81b-0d6c-4d34-9166-1ebe5ce683b7" },
+  { n = 12, title = "Mi tierra (chino mix)", mbid = "426c981f-f05e-40d7-8913-8d71e4eaa57f" },
+]
