@@ -1,0 +1,926 @@
+format = 1
+
+[[release]]
+mbid = "3753d953-89ea-3831-bcbf-0e426d4b7845"
+title = "Tomorrow Comes Today"
+type = "ep"
+date = "2000-11-27"
+tracks = [
+  { n = 1, title = "Tomorrow Comes Today", mbid = "8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0" },
+  { n = 2, title = "Rock the House", mbid = "8670f655-0740-4a00-929e-2e83a0411d8a" },
+  { n = 3, title = "Latin Simone", mbid = "7d0d4ad6-f819-4af1-bbb5-910048f01228" },
+  { n = 4, title = "12D3", mbid = "45878cf3-1360-44d5-8a0c-27f11a18800a" },
+]
+
+[[release]]
+mbid = "295d4e63-a57f-3bdc-9e41-0468134b523c"
+title = "Clint Eastwood"
+type = "single"
+date = "2001-03-05"
+tracks = [
+  { n = 1, title = "Clint Eastwood", mbid = "318a1c51-5910-4823-bda1-09ea6d84648a" },
+  { n = 2, title = "Dracula", mbid = "eef12f70-f8fa-447a-a706-9645eb14be65" },
+]
+
+[[release]]
+mbid = "b0405d2a-5720-340a-bb56-4e135d031cc2"
+title = "Gorillaz"
+type = "album"
+date = "2001-03-24"
+spotify = "4tUxQkrduOE8sfgwJ5BI2F"
+tracks = [
+  { n = 1, title = "Re-Hash", mbid = "ca039778-ff30-4af7-a558-84c8746924bc" },
+  { n = 2, title = "5/4", mbid = "0bce478e-ff71-41ba-bb7b-310910d11cde" },
+  { n = 3, title = "Tomorrow Comes Today", mbid = "8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0" },
+  { n = 4, title = "New Genious (Brother)", mbid = "9df19dae-b00b-49e0-8528-d2f2ebf7193a" },
+  { n = 5, title = "Clint Eastwood", mbid = "318a1c51-5910-4823-bda1-09ea6d84648a" },
+  { n = 6, title = "Man Research (Clapper)", mbid = "172274be-8af6-4ab9-8d7f-d3c15224e4d0" },
+  { n = 7, title = "Punk", mbid = "c7bd8ff1-9e4e-4980-988f-1a489f60475e" },
+  { n = 8, title = "Sound Check (Gravity)", mbid = "90256d17-728a-40e1-b85f-a2403f4dd7fe" },
+  { n = 9, title = "Double Bass", mbid = "360303db-b814-4c0b-b29c-e267208a2a78" },
+  { n = 10, title = "Rock the House", mbid = "8670f655-0740-4a00-929e-2e83a0411d8a" },
+  { n = 11, title = "19-2000", mbid = "b766a7b6-5b8f-4805-ae83-420231c0ec76" },
+  { n = 12, title = "Latin Simone (Que pasa contigo)", mbid = "81244866-a534-49be-a156-bd456ee7be41" },
+  { n = 13, title = "Starshine", mbid = "bcfc9603-0de5-4fe8-b101-ce3b6482253f" },
+  { n = 14, title = "Slow Country", mbid = "eee199bd-255d-4cb5-8ec7-874d143a5673" },
+  { n = 15, title = "M1 A1", mbid = "33b96028-53c4-4322-bd3d-425eca2e6b7b" },
+]
+
+[[release]]
+mbid = "11f1809e-9913-3093-be26-83198c2c90f6"
+title = "19/2000"
+type = "single"
+date = "2001-06-25"
+tracks = [
+  { n = 1, title = "19/2000 (original mix)", mbid = "b766a7b6-5b8f-4805-ae83-420231c0ec76" },
+  { n = 2, title = "19/2000 (Soulchild remix)", mbid = "44f962fb-bb65-445e-8733-e926bcca9677" },
+  { n = 3, title = "Left Hand Suzuki Method", mbid = "13d4a480-f057-4852-aa15-30d205e64400" },
+]
+
+[[release]]
+mbid = "6559aa73-1f8c-39c9-a401-f291748751a6"
+title = "Rock the House"
+type = "single"
+date = "2001-10-22"
+tracks = [
+  { n = 1, title = "Rock the House", mbid = "8670f655-0740-4a00-929e-2e83a0411d8a" },
+  { n = 2, title = "The Sounder", mbid = "a868e94b-5463-41e0-b59e-82ba2da8a5cd" },
+]
+
+[[release]]
+mbid = "92ba33c1-4b38-343a-bc87-06c9714d77d6"
+title = "911"
+type = "single"
+date = "2001-12-07"
+spotify = "0VKwF4KVCtuS7TCYWg92to"
+tracks = [
+  { n = 1, title = "911", mbid = "b7c17eea-e981-40ca-9e3c-c8bf3a70d864" },
+]
+
+[[release]]
+mbid = "27a2d584-9be5-4239-8d20-c4edb7a2b8f9"
+title = "Latin Simone"
+type = "single"
+date = "2002"
+tracks = [
+  { n = 1, title = "Latin Simone", mbid = "81244866-a534-49be-a156-bd456ee7be41" },
+]
+
+[[release]]
+mbid = "28b283a9-396a-35ae-b7e8-57ef7001555e"
+title = "Tomorrow Comes Today"
+type = "single"
+date = "2002-02-25"
+tracks = [
+  { n = 1, title = "Tomorrow Comes Today", mbid = "8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0" },
+  { n = 2, title = "Tomorrow Dub", mbid = "4de4d85d-cd64-4ddc-96dd-47fae766cf6b" },
+  { n = 3, title = "Film Music (Mode Remix)", mbid = "73effbaf-5353-41e5-9b23-9f42efd73066" },
+]
+
+[[release]]
+mbid = "0be37fdc-dc5c-45ec-b058-bc93927118fd"
+title = "Kids With Guns"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "Kids With Guns", mbid = "806d8ff3-d1d4-4178-a524-623b87ca0c62" },
+  { n = 2, title = "Stop the Dams", mbid = "4a041f02-fff2-4948-b1d1-f1800dfce6f1" },
+]
+
+[[release]]
+mbid = "6c7bb311-b69d-3315-bb2f-6deffc6fc007"
+title = "Dirty Harry"
+type = "single"
+date = "2005-02"
+spotify = "046irMJGxbyxFOFwglj02y"
+tracks = [
+  { n = 1, title = "Dirty Harry", mbid = "438f8fb2-6d24-4f15-a538-9de6315628c4" },
+  { n = 2, title = "Dirty Harry (Chopper remix)", mbid = "8002eb51-3734-41fa-a706-c88590f0b71e" },
+  { n = 3, title = "Hongkongaton", mbid = "53211936-4b61-4f5b-9e76-947664197714" },
+]
+
+[[release]]
+mbid = "122990dd-643d-4e4e-bc13-a56318d6431b"
+title = "Feel Good Inc"
+type = "single"
+date = "2005-03-22"
+spotify = "1RZ7P20N9GXP5VQt5Y7s8o"
+tracks = [
+  { n = 1, title = "Feel Good Inc (single edit)", mbid = "5004ea88-6c7e-4096-a89f-b24e358408ee" },
+]
+
+[[release]]
+mbid = "f959a46a-a136-3134-9412-6572b23fad95"
+title = "Demon Days"
+type = "album"
+date = "2005-05-11"
+spotify = "0bUTHlWbkSQysoM3VsWldT"
+tracks = [
+  { n = 1, title = "Intro", mbid = "f1d74665-9517-4ff7-8251-6202d05435b0" },
+  { n = 2, title = "Last Living Souls", mbid = "e2e98345-f26a-446a-a95f-8a1741ac2d01" },
+  { n = 3, title = "Kids With Guns", mbid = "806d8ff3-d1d4-4178-a524-623b87ca0c62" },
+  { n = 4, title = "O Green World", mbid = "18e66faf-9df4-4c8c-9a51-ca4ca4ba21fc" },
+  { n = 5, title = "Dirty Harry", mbid = "438f8fb2-6d24-4f15-a538-9de6315628c4" },
+  { n = 6, title = "Feel Good Inc.", mbid = "084982b8-926c-49f8-87c0-839635655676" },
+  { n = 7, title = "El mañana", mbid = "d0769eb3-ca35-4aab-aa45-ecedee55250b" },
+  { n = 8, title = "Every Planet We Reach Is Dead", mbid = "ae28e0d1-73ab-4292-a8f5-fa28dffec415" },
+  { n = 9, title = "November Has Come", mbid = "ef5190a2-f724-479f-a604-0e958008701c" },
+  { n = 10, title = "All Alone", mbid = "92da1f05-0d96-441b-8e63-661a31779ff7" },
+  { n = 11, title = "White Light", mbid = "b606b492-2dbd-48ac-b847-ec548d6a03b3" },
+  { n = 12, title = "DARE", mbid = "a06d7304-5980-408d-9227-70c2ded24293" },
+  { n = 13, title = "Fire Coming Out of the Monkey's Head", mbid = "81519da9-b8db-4d42-bd8b-011070c78bb7" },
+  { n = 14, title = "Don't Get Lost in Heaven", mbid = "872fc077-11c1-4676-9594-a926d4840a49" },
+  { n = 15, title = "Demon Days", mbid = "3deb3a80-28d9-462c-bb34-f837c9363b69" },
+]
+
+[[release]]
+mbid = "1d6864ce-ddc4-3206-bd82-d594e41d0b01"
+title = "DARE"
+type = "single"
+date = "2005-08-19"
+spotify = "2lVQ6DDIiO1kBIGlcb0j49"
+tracks = [
+  { n = 1, title = "DARE", mbid = "a06d7304-5980-408d-9227-70c2ded24293" },
+  { n = 2, title = "Highway (Under Construction)", mbid = "9b2c74c0-51fc-463c-a0ba-1a3800616e71" },
+  { n = 3, title = "DARE (Soulwax remix)", mbid = "aef6f6da-d78f-40d0-a578-a99673554b01" },
+]
+
+[[release]]
+mbid = "dde7b28b-8da0-4a10-afcf-6b1f0f7d8e05"
+title = "El Manana / Kids With Guns"
+type = "single"
+date = "2006-04-10"
+tracks = [
+  { n = 1, title = "Kids With Guns", mbid = "806d8ff3-d1d4-4178-a524-623b87ca0c62" },
+  { n = 2, title = "El mañana", mbid = "d0769eb3-ca35-4aab-aa45-ecedee55250b" },
+  { n = 3, title = "Stop the Dams", mbid = "4a041f02-fff2-4948-b1d1-f1800dfce6f1" },
+]
+
+[[release]]
+mbid = "a20ceff8-35c6-38b9-a475-e729b71aaa40"
+title = "Kids With Guns / El Mañana"
+type = "single"
+date = "2006-04-10"
+tracks = [
+  { n = 1, title = "Kids With Guns", mbid = "806d8ff3-d1d4-4178-a524-623b87ca0c62" },
+  { n = 2, title = "El Mañana", mbid = "d0769eb3-ca35-4aab-aa45-ecedee55250b" },
+  { n = 3, title = "Stop the Dams", mbid = "4a041f02-fff2-4948-b1d1-f1800dfce6f1" },
+]
+
+[[release]]
+mbid = "db3c001b-6844-4e10-b881-84c433a8c475"
+title = "(Dare) (EP Series)"
+type = "ep"
+date = "2006-11-06"
+spotify = "1REnCQXttzffbS7blTB0zO"
+tracks = [
+  { n = 1, title = "Clint Eastwood (Live)", mbid = "69bf3115-4a20-4297-be03-5fc36a266094" },
+  { n = 2, title = "People", mbid = "e87ec48c-e07e-4f60-8bf7-1b8944af3f2c" },
+]
+
+[[release]]
+mbid = "8b977f7d-2b06-47da-b70f-64753b31413f"
+title = "El Mañana"
+type = "single"
+date = "2006-12-05"
+tracks = [
+  { n = 1, title = "Stop the Dams", mbid = "4a041f02-fff2-4948-b1d1-f1800dfce6f1" },
+  { n = 2, title = "Hong Kong (live at Manchester Opera House)", mbid = "77878b8c-a934-4678-a952-7faff16dd9cc" },
+]
+
+[[release]]
+mbid = "ede6e3c6-6880-4353-8323-8dd045523c87"
+title = "Samba at 13"
+type = "single"
+date = "2006-12-19"
+tracks = [
+  { n = 1, title = "Samba at 13", mbid = "09c00056-22e7-4f11-b3d9-988f129d82c6" },
+]
+
+[[release]]
+mbid = "207b3de9-9af0-4f56-b215-e090cd7df7ed"
+title = "Feel Good Inc. (EP Series)"
+type = "ep"
+date = "2007"
+tracks = [
+  { n = 1, title = "Feel Good Inc. (Noodle's Demo)", mbid = "9efac49a-dbfd-4cff-99a6-ab7a28fe87f7" },
+  { n = 2, title = "68 State", mbid = "94662e06-bc1c-4af7-ad7c-d7e758a9b3bf" },
+]
+
+[[release]]
+mbid = "5a676824-18cd-4f7f-89f0-df21623e2042"
+title = "Plastic Beach"
+type = "album"
+date = "2010-03-03"
+spotify = "2dIGnmEIy1WZIcZCFSj6i8"
+tracks = [
+  { n = 1, title = "Orchestral Intro", mbid = "7f1f889b-1079-4fc5-b672-7becc760678b" },
+  { n = 2, title = "Welcome to the World of the Plastic Beach", mbid = "ab80a174-1b7d-41c8-bddb-5edfd849d512" },
+  { n = 3, title = "White Flag", mbid = "0a030414-cd94-4a19-b025-c7f941987bec" },
+  { n = 4, title = "Rhinestone Eyes", mbid = "a44db450-2b09-4eca-936f-a939ad56ae16" },
+  { n = 5, title = "Stylo", mbid = "ff70f6a8-7cfc-4974-a764-8b332f7cf88f" },
+  { n = 6, title = "Superfast Jellyfish", mbid = "54f6b49f-8806-42e4-aba8-a65d356d2584" },
+  { n = 7, title = "Empire Ants", mbid = "a0481faf-70de-41de-95d6-315735ef8aea" },
+  { n = 8, title = "Glitter Freeze", mbid = "00eb9af1-4290-401f-bfd8-cbee5bd6f519" },
+  { n = 9, title = "Some Kind of Nature", mbid = "4c1116a5-c81c-4355-8b9c-97e90b9af25f" },
+  { n = 10, title = "On Melancholy Hill", mbid = "842fbdae-8839-46e6-8a02-7f500a2b6597" },
+  { n = 11, title = "Broken", mbid = "de2151e6-8cae-4561-8eb0-6bb933adeebd" },
+  { n = 12, title = "Sweepstakes", mbid = "10d834ca-36f0-476c-8d38-3689ba3373e5" },
+  { n = 13, title = "Plastic Beach", mbid = "74af797a-d3fe-4c21-b33f-bdd1e57a75e7" },
+  { n = 14, title = "To Binge", mbid = "6a76d23b-bfa1-424d-b84a-9c2a4425f51e" },
+  { n = 15, title = "Cloud of Unknowing", mbid = "77df78e8-596d-4c9e-bc7e-45c3d98e366f" },
+  { n = 16, title = "Pirate Jet", mbid = "ab6f46b2-4938-450c-b125-14e6f223a662" },
+]
+
+[[release]]
+mbid = "7a781048-d950-4fcc-a6c2-f38fa3420685"
+title = "White Flag"
+type = "single"
+date = "2010-04-17"
+tracks = [
+  { n = 1, title = "White Flag", mbid = "0a030414-cd94-4a19-b025-c7f941987bec" },
+  { n = 2, title = "Pirate's Progress", mbid = "c48c9716-c808-4315-95e2-ebbdb3a28704" },
+]
+
+[[release]]
+mbid = "7395d546-a07d-48a6-9b39-b3131acc3edf"
+title = "On Melancholy Hill"
+type = "single"
+date = "2010-06"
+tracks = [
+  { disc = 1, n = 1, title = "On Melancholy Hill", mbid = "842fbdae-8839-46e6-8a02-7f500a2b6597" },
+  { disc = 1, n = 2, title = "On Melancholy Hill (Japanese Popstars remix)", mbid = "58adb374-b5fc-4d25-96dd-f1b70f119ade" },
+  { disc = 1, n = 3, title = "On Melancholy Hill (She Is Danger remix)", mbid = "235cfdac-07eb-4c03-bcca-55faea1a3d9f" },
+  { disc = 1, n = 4, title = "Stylo (Labrinth SNES remix)", mbid = "8df23133-a574-4722-8e5a-1e4fc7dde492" },
+  { disc = 2, n = 1, title = "On Melancholy Hill", mbid = "7a726600-b522-4c4f-a10a-b107c840d523" },
+  { disc = 3, n = 1, title = "On Melancholy Hill Storyboard", mbid = "61d76fc9-c469-415f-bc67-73857073b5cd" },
+  { disc = 4, n = 1, title = "Welcome to the World of the Plastic Beach", mbid = "1a32388a-a130-4741-88b1-8f2c5a7a14fd" },
+]
+
+[[release]]
+mbid = "9494bf98-73ec-4752-b70c-e12958b26d6a"
+title = "Doncamatic"
+type = "single"
+date = "2010-11-21"
+tracks = [
+  { n = 1, title = "Doncamatic", mbid = "cdaa3aac-db0f-46bb-a5f0-20c9ee429eb5" },
+  { n = 2, title = "Doncamatic (The Joker remix)", mbid = "b73c5f55-9b76-444a-9008-4b3da2c28d48" },
+]
+
+[[release]]
+mbid = "d7dcf004-6ff8-491b-bd17-01eef10ebb72"
+title = "The Fall"
+type = "album"
+date = "2010-12-25"
+spotify = "5jJGGsAztgUEXUHHZ2zrah"
+tracks = [
+  { n = 1, title = "Phoner to Arizona", mbid = "4d88ec25-a3a0-47c5-93e5-8824092ae834" },
+  { n = 2, title = "Revolving Doors", mbid = "2e5029b7-b3e1-4e35-b419-b56e1419edac" },
+  { n = 3, title = "Hillbilly Man", mbid = "c6f91ebe-f9ff-4afc-88db-1144f0207ae1" },
+  { n = 4, title = "Detroit", mbid = "dd02f293-eef1-4de2-8bfa-52bcba6b08de" },
+  { n = 5, title = "Shy-town", mbid = "aed1744a-f594-4930-be8a-56cc05bcb66b" },
+  { n = 6, title = "Little Pink Plastic Bags", mbid = "3af8d79b-0d22-478b-a06a-3c1661dc3e86" },
+  { n = 7, title = "The Joplin Spider", mbid = "86e5efb0-0127-4263-87a5-640c01735b80" },
+  { n = 8, title = "The Parish of Space Dust", mbid = "69a2c61d-19e7-4fd8-9cfc-0464af48b628" },
+  { n = 9, title = "The Snake in Dallas", mbid = "252c54c5-f82e-4fb1-ba3d-54fb8b2b73dd" },
+  { n = 10, title = "Amarillo", mbid = "c7566f71-ef85-44c0-8783-d3b8bb0f1d8a" },
+  { n = 11, title = "The Speak It Mountains", mbid = "f5216041-d13f-4e04-b90c-37686cb499b2" },
+  { n = 12, title = "Aspen Forest", mbid = "f4fa13ea-8be3-47b7-8621-eca7901011f4" },
+  { n = 13, title = "Bobby in Phoenix", mbid = "f28816cb-5fe8-4483-a741-385d60db02a1" },
+  { n = 14, title = "California & the Slipping of the Sun", mbid = "0b174306-acbb-401a-a3d2-dc414ad2bed7" },
+  { n = 15, title = "Seattle Yodel", mbid = "54f5e14a-5b16-4caf-ab05-56cd62a479e1" },
+]
+
+[[release]]
+mbid = "1dd34c83-f150-4cb9-9460-a1b29a8fde37"
+title = "Revolving Doors / Amarillo"
+type = "single"
+date = "2011"
+tracks = [
+  { n = 1, title = "Revolving Doors", mbid = "2e5029b7-b3e1-4e35-b419-b56e1419edac" },
+  { n = 2, title = "Amarillo", mbid = "c7566f71-ef85-44c0-8783-d3b8bb0f1d8a" },
+]
+
+[[release]]
+mbid = "1707f952-e9da-475b-b782-712de01908da"
+title = "Rhinestone Eyes"
+type = "single"
+date = "2011"
+tracks = [
+  { n = 1, title = "Rhinestone Eyes", mbid = "a44db450-2b09-4eca-936f-a939ad56ae16" },
+  { n = 2, title = "Doncamatic", mbid = "cdaa3aac-db0f-46bb-a5f0-20c9ee429eb5" },
+]
+
+[[release]]
+mbid = "d31daab8-3a47-48f1-8171-7a32ff840dcc"
+title = "DoYaThing"
+type = "single"
+date = "2012-02-23"
+tracks = [
+  { n = 1, title = "DoYaThing", mbid = "da3614da-7682-4f57-ae1f-f7c5b1b21acd" },
+]
+
+[[release]]
+mbid = "81b3d306-808a-4cd0-a6e7-5f1f1b5454c6"
+title = "Whirlwind"
+type = "single"
+date = "2013-10-06"
+tracks = [
+  { n = 1, title = "Whirlwind", mbid = "5bbf9a53-6c9f-46bf-a305-f61fcf0e552b" },
+]
+
+[[release]]
+mbid = "4652ed55-746c-44b3-a2ab-b7347458320a"
+title = "Andromeda"
+type = "single"
+date = "2017-03-22"
+spotify = "5ZmmS4AcXQ4eBYt8aWqlk3"
+tracks = [
+  { n = 1, title = "Andromeda", mbid = "1d8e71dc-b72e-4593-b2ca-0b0af94ecf90" },
+]
+
+[[release]]
+mbid = "158c8e8f-6f76-4b43-913b-036612688d62"
+title = "Ascension"
+type = "single"
+date = "2017-03-22"
+spotify = "5A6bZpctbZpLBGno3O3M3h"
+tracks = [
+  { n = 1, title = "Ascension", mbid = "81aa9d02-af86-47cd-8969-95e4750e0e88" },
+]
+
+[[release]]
+mbid = "a71fb3a0-cd98-4b0e-b980-e1d2df27007c"
+title = "We Got the Power"
+type = "single"
+date = "2017-03-22"
+spotify = "14CmdyJQrzGbbqc3XczgBw"
+tracks = [
+  { n = 1, title = "We Got the Power", mbid = "10709c0b-9352-4d03-8c90-2b6f825c7072" },
+]
+
+[[release]]
+mbid = "884c2723-f906-4cb2-b37e-e1a1a1702ff5"
+title = "Saturnz Barz"
+type = "single"
+date = "2017-03-23"
+spotify = "2YnklUr00pBvhOoV33nWrV"
+tracks = [
+  { n = 1, title = "Saturnz Barz", mbid = "11de5d60-38e2-424a-a807-efec83a07421" },
+]
+
+[[release]]
+mbid = "cb5582f8-2b13-4dae-953c-95c476c143c6"
+title = "Let Me Out"
+type = "single"
+date = "2017-04-06"
+spotify = "5SlqiD2KdPBu1p3iiHt5Br"
+tracks = [
+  { n = 1, title = "Let Me Out", mbid = "c4c59c4c-a784-4e0f-942a-8eac50ce89b1" },
+]
+
+[[release]]
+mbid = "dee408d5-a157-4b90-9593-e9618d6d91d4"
+title = "The Apprentice"
+type = "single"
+date = "2017-04-25"
+spotify = "3suiK80NR9hVNOJ9cbTQ34"
+tracks = [
+  { n = 1, title = "The Apprentice", mbid = "37ff95a8-2cfc-4345-b67a-8e1b7d536af0" },
+]
+
+[[release]]
+mbid = "066f840f-e357-436f-bb0a-47ad7cfcd84a"
+title = "Humanz"
+type = "album"
+date = "2017-04-28"
+spotify = "0NvirtaDCaZU5PAW1O5FDE"
+tracks = [
+  { n = 1, title = "Intro: I Switched My Robot Off", mbid = "b8175f9f-340b-403f-97c7-c193a212cd39" },
+  { n = 2, title = "Ascension", mbid = "81aa9d02-af86-47cd-8969-95e4750e0e88" },
+  { n = 3, title = "Strobelite", mbid = "31789175-ddfd-41cf-b06d-49d873f052e1" },
+  { n = 4, title = "Saturnz Barz", mbid = "11de5d60-38e2-424a-a807-efec83a07421" },
+  { n = 5, title = "Momentz", mbid = "4d4c658b-29c5-4499-a36f-67fdc3ff584e" },
+  { n = 6, title = "Interlude: The Non-Conformist Oath", mbid = "1cd5aec1-eafc-487b-b47e-c11ea7aa5bdd" },
+  { n = 7, title = "Submission", mbid = "62889293-1dbb-4b04-9072-aafb929c660b" },
+  { n = 8, title = "Charger", mbid = "6aac495f-ef6e-4ff6-a3ab-935362fac1da" },
+  { n = 9, title = "Interlude: Elevator Going Up", mbid = "ab8c8496-c0d4-44fb-a24e-7525224a1a10" },
+  { n = 10, title = "Andromeda", mbid = "1d8e71dc-b72e-4593-b2ca-0b0af94ecf90" },
+  { n = 11, title = "Busted and Blue", mbid = "745e1cf7-1295-4d78-9845-7fba0e36375a" },
+  { n = 12, title = "Interlude: Talk Radio", mbid = "835f89ca-de54-4e6f-9852-81add796954b" },
+  { n = 13, title = "Carnival", mbid = "57ba349e-958f-4008-8920-c02d2e992ab2" },
+  { n = 14, title = "Let Me Out", mbid = "c4c59c4c-a784-4e0f-942a-8eac50ce89b1" },
+  { n = 15, title = "Interlude: Penthouse", mbid = "f5db7dc4-62a4-4302-a01e-a10acba407c3" },
+  { n = 16, title = "Sex Murder Party", mbid = "0066acbd-4363-4f1f-86cc-aed9203dd14c" },
+  { n = 17, title = "She's My Collar", mbid = "896bb35c-786e-4c41-a826-891950e2d7c7" },
+  { n = 18, title = "Interlude: The Elephant", mbid = "49cfe7bd-846f-4511-9db8-98bb08990cf1" },
+  { n = 19, title = "Hallelujah Money", mbid = "bd9f65ed-3684-409b-ab92-74cfe9c9ab7f" },
+  { n = 20, title = "We Got The Power (version 2:18:482)", mbid = "10709c0b-9352-4d03-8c90-2b6f825c7072" },
+]
+
+[[release]]
+mbid = "89381a92-ec8b-4d92-872d-e4145d2395d8"
+title = "Sleeping Powder"
+type = "single"
+date = "2017-06-16"
+spotify = "5D31GSU5erwgjB6uvLzlcu"
+tracks = [
+  { n = 1, title = "Sleeping Powder", mbid = "df31bc0f-fd0f-4079-b667-9b20ce08c9e3" },
+]
+
+[[release]]
+mbid = "89034013-ee13-433c-86a9-a7334add08d6"
+title = "Strobelite"
+type = "single"
+date = "2017-08-04"
+spotify = "3tt0ysFgC2tHHjqYTktxF2"
+tracks = [
+  { n = 1, title = "Strobelite (Radio Edit)", mbid = "596e6c39-57c6-4708-ae8b-e812352f8e73" },
+]
+
+[[release]]
+mbid = "2eefc4b0-3402-43f1-80eb-dfedc4c1bb46"
+title = "Garage Palace"
+type = "single"
+date = "2017-10-31"
+spotify = "5JR95SVj6hXkfA3QpfCFvU"
+tracks = [
+  { n = 1, title = "Garage Palace", mbid = "77bc28c0-39d9-41e8-a6ae-fe800c96fdf8" },
+]
+
+[[release]]
+mbid = "1025a6e8-d785-481a-a1cb-4881a82f8d41"
+title = "Humility"
+type = "single"
+date = "2018-05-31"
+spotify = "3S41zT1PsTvoqHHEUv7xCc"
+tracks = [
+  { n = 1, title = "Humility", mbid = "a2b32610-2076-4c3a-8786-a8fea08b730b" },
+]
+
+[[release]]
+mbid = "64329a40-5ce4-497e-ae84-e04f10bbea66"
+title = "Lake Zurich"
+type = "single"
+date = "2018-05-31"
+spotify = "3uqZgAgZOY8NyCqY1VmosA"
+tracks = [
+  { n = 1, title = "Lake Zurich", mbid = "e09c8c15-efc7-4b14-9d0d-30d72f8c572c" },
+]
+
+[[release]]
+mbid = "2b90905e-20f9-4c65-81f2-5bb7f404ae84"
+title = "Sorcererz"
+type = "single"
+date = "2018-06-07"
+spotify = "0lJpSvQC8Br6LxBt0Hliy5"
+tracks = [
+  { n = 1, title = "Sorcererz", mbid = "5bb289b5-9eb6-4e01-a6a1-cfa03c4f4766" },
+]
+
+[[release]]
+mbid = "024a423c-be7b-4d71-af7d-a563c5de3a17"
+title = "Fire Flies"
+type = "single"
+date = "2018-06-14"
+spotify = "5psQDCgtFeD7dYQfp7iDAT"
+tracks = [
+  { n = 1, title = "Fire Flies", mbid = "a1f0ee95-cbe8-4ad9-9428-e3c50c1e7fe0" },
+]
+
+[[release]]
+mbid = "bef18c36-ce07-4e97-9305-d57373b59bce"
+title = "Hollywood"
+type = "single"
+date = "2018-06-22"
+tracks = [
+  { n = 1, title = "Hollywood", mbid = "3efd9540-5a39-4710-ba8b-a641569848cd" },
+]
+
+[[release]]
+mbid = "593abbcc-0803-47ae-b0fc-e1f5666e9bbc"
+title = "The Now Now"
+type = "album"
+date = "2018-06-29"
+spotify = "1amYhlukNF8WdaQC3gKkgL"
+tracks = [
+  { n = 1, title = "Humility", mbid = "a2b32610-2076-4c3a-8786-a8fea08b730b" },
+  { n = 2, title = "Tranz", mbid = "c1c94765-1056-4f59-b806-cae18e2dddbc" },
+  { n = 3, title = "Hollywood", mbid = "3efd9540-5a39-4710-ba8b-a641569848cd" },
+  { n = 4, title = "Kansas", mbid = "2cd5696b-8a9b-443c-80bf-14a2e0a0ae9f" },
+  { n = 5, title = "Sorcererz", mbid = "5bb289b5-9eb6-4e01-a6a1-cfa03c4f4766" },
+  { n = 6, title = "Idaho", mbid = "c00a6423-9114-4701-a3f4-bba7f356a964" },
+  { n = 7, title = "Lake Zurich", mbid = "e09c8c15-efc7-4b14-9d0d-30d72f8c572c" },
+  { n = 8, title = "Magic City", mbid = "1e95d00d-fb37-49fe-bd54-487f84ed6326" },
+  { n = 9, title = "Fire Flies", mbid = "a1f0ee95-cbe8-4ad9-9428-e3c50c1e7fe0" },
+  { n = 10, title = "One Percent", mbid = "c5c7c86d-f588-4bfa-bb92-9b2181a80717" },
+  { n = 11, title = "Souk Eye", mbid = "9638b06e-1bde-4a12-bb54-1e34711b9c02" },
+]
+
+[[release]]
+mbid = "a33ae25f-b19a-44c1-a93f-ec914faec825"
+title = "Tranz"
+type = "single"
+date = "2018-09-14"
+spotify = "2j5V8YaXQcY4ZzyG4tOQOC"
+tracks = [
+  { n = 1, title = "Tranz", mbid = "c1c94765-1056-4f59-b806-cae18e2dddbc" },
+]
+
+[[release]]
+mbid = "7a2a03ba-0fd8-4fff-9ffc-379ec6ba6b70"
+title = "Song Machine Theme Tune"
+type = "single"
+date = "2020-01-28"
+spotify = "5BgM99uyOY2nlSUAIS0uwT"
+tracks = [
+  { n = 1, title = "Song Machine Theme Tune", mbid = "05789e4a-810c-44a6-b7bc-adc0154de4c5" },
+]
+
+[[release]]
+mbid = "22bf152e-fecb-450d-a677-e352cc9be19e"
+title = "Momentary Bliss"
+type = "single"
+date = "2020-01-30"
+spotify = "1QwJwcvJ9wiYfGxwk6YZOy"
+tracks = [
+  { n = 1, title = "Momentary Bliss", mbid = "1c8bb5d3-77fc-436c-a86e-a87c492b6e2f" },
+]
+
+[[release]]
+mbid = "bd57f25e-1b8b-47f7-b2bd-f1a2f1656742"
+title = "Song Machine Episode 1"
+type = "single"
+date = "2020-01-30"
+spotify = "7mmwRkT9YozlY6XDORaoLV"
+tracks = [
+  { n = 1, title = "Song Machine: Machine Bitez #1", mbid = "9d521eb4-fa95-4fc9-9734-6735b282bf62" },
+  { n = 2, title = "Momentary Bliss", mbid = "feecc62d-a2f9-488e-a9ef-640a5381adda" },
+  { n = 3, title = "Machine Bitez #2", mbid = "bd988a44-f559-40b3-8607-56a8d39a67e1" },
+  { n = 4, title = "Machine Bitez #3", mbid = "58134e4a-c940-40ac-9f4a-c804fcd3a2a1" },
+]
+
+[[release]]
+mbid = "24c26a7f-fb01-4051-8529-84eab49293a4"
+title = "Song Machine Episode 2"
+type = "single"
+date = "2020-02-27"
+spotify = "5xbq27ybQPAC8IiLtbHNxN"
+tracks = [
+  { n = 1, title = "Machine Bitez #4", mbid = "8851ce45-78f1-434a-9c86-de79b678f6ca" },
+  { n = 2, title = "Désolé", mbid = "b7850642-9509-4be7-8a5f-6cc6b12a47d1" },
+  { n = 3, title = "Machine Bitez #5", mbid = "e2fbbc63-bf50-4c7a-8803-2fdb35c9e351" },
+]
+
+[[release]]
+mbid = "40ddc9aa-a030-49e1-8bce-b2a10e22f74d"
+title = "Song Machine: Désolé"
+type = "single"
+date = "2020-02-27"
+spotify = "2qNfvS5jJISbEh8m90dzU6"
+tracks = [
+  { n = 1, title = "Désolé", mbid = "b7850642-9509-4be7-8a5f-6cc6b12a47d1" },
+]
+
+[[release]]
+mbid = "64ab86f8-8e81-4453-a9c5-dbc1d979c961"
+title = "Song Machine Episode 3"
+type = "single"
+date = "2020-04-09"
+spotify = "7z7ioOPs2FaEWB2uRWjfCE"
+tracks = [
+  { n = 1, title = "Machine Bitez #6", mbid = "d1aaf320-0e75-4050-8511-9eca3be696a8" },
+  { n = 2, title = "Aries", mbid = "c501a906-7206-4fe2-bb9f-5f9421eee669" },
+  { n = 3, title = "Machine Bitez #7", mbid = "419b14b0-63fd-4797-ba1a-d567b836c4b4" },
+]
+
+[[release]]
+mbid = "e8d2a8c1-ae6d-4ca4-aebf-8cadeb182117"
+title = "Song Machine: Aries"
+type = "single"
+date = "2020-04-09"
+spotify = "1S3nCOJ2yx5tFYuTnSxn7H"
+tracks = [
+  { n = 1, title = "Aries", mbid = "c501a906-7206-4fe2-bb9f-5f9421eee669" },
+]
+
+[[release]]
+mbid = "443a2bfa-ae95-40f3-a92b-6e878a3352f8"
+title = "Song Machine: How Far?"
+type = "single"
+date = "2020-05-02"
+spotify = "5HzS3v6OVqJhGdtXdtjPVP"
+tracks = [
+  { n = 1, title = "Song Machine: How Far?", mbid = "981c87c3-efee-45a3-8b03-4fdb035b8e8c" },
+]
+
+[[release]]
+mbid = "23268623-a7fe-42b3-9b3a-8b00214ce07f"
+title = "Song Machine Episode 4"
+type = "single"
+date = "2020-06-09"
+spotify = "6uyPlm8fdwthVMnSYZ6f6D"
+tracks = [
+  { n = 1, title = "Machine Bitez #8", mbid = "2dcf1b92-1864-4788-8c4a-6fde939fc4c8" },
+  { n = 2, title = "Friday 13th", mbid = "b986fa87-08a6-4b9c-8e9e-e94569baca91" },
+]
+
+[[release]]
+mbid = "db240717-493b-4a68-9c77-ecf847b12e00"
+title = "Song Machine Episode 5"
+type = "single"
+date = "2020-07-20"
+spotify = "4xuXps9x2mcmQ5VpmKnpsS"
+tracks = [
+  { n = 1, title = "Machine Bitez #9", mbid = "0ae4f22c-f1b4-4946-b631-7ca6b381c1b7" },
+  { n = 2, title = "Pac‐Man", mbid = "2b97753b-9b56-4a84-adf9-9df3b8afc8e1" },
+  { n = 3, title = "Machine Bitez #10", mbid = "0b403262-393a-4908-b23f-0b6326f43190" },
+  { n = 4, title = "Machine Bitez #11", mbid = "2f2d1e79-8d35-44b4-abd7-4fd2f1ae806b" },
+]
+
+[[release]]
+mbid = "cebef635-1eae-4cae-be2f-3f9516ebb406"
+title = "Song Machine: Pac-Man"
+type = "single"
+date = "2020-07-20"
+tracks = [
+  { n = 1, title = "Pac-Man", mbid = "2b97753b-9b56-4a84-adf9-9df3b8afc8e1" },
+]
+
+[[release]]
+mbid = "f5d5da0c-9919-4363-8b55-f8a21c937526"
+title = "Song Machine Episode 6"
+type = "single"
+date = "2020-09-09"
+spotify = "5Bwya934UjdQS5XAo32Z1K"
+tracks = [
+  { n = 1, title = "Machine Bitez #12", mbid = "13444772-74f2-44af-9df9-b6397191771c" },
+  { n = 2, title = "Strange Timez", mbid = "3037f6ba-952d-400e-b1c7-a055ff214e85" },
+  { n = 3, title = "Machine Bitez #13", mbid = "5f846456-1b0f-4cab-94ca-377df1042ebf" },
+  { n = 4, title = "Strange Timez (Robert Smith AURORA remix)", mbid = "4cc5cca0-9609-4366-a4e0-83bdc8e299b5" },
+]
+
+[[release]]
+mbid = "3b51fb3b-b471-4974-b173-360fdb52c985"
+title = "Song Machine: Strange Timez"
+type = "single"
+date = "2020-09-09"
+spotify = "6YNljPhLvGsg3U9WtT7qje"
+tracks = [
+  { n = 1, title = "Song Machine: Strange Timez", mbid = "3037f6ba-952d-400e-b1c7-a055ff214e85" },
+]
+
+[[release]]
+mbid = "a83f3c10-9e35-4791-92d2-b85fa6b58776"
+title = "Song Machine Episode 7"
+type = "single"
+date = "2020-10-01"
+spotify = "6Q7UcRmIOmzGpXkMzyWYkN"
+tracks = [
+  { n = 1, title = "Machine Bitez #14", mbid = "beb15f7f-271b-42d1-9286-2bd6224b938a" },
+  { n = 2, title = "The Pink Phantom", mbid = "359b4614-6520-4fe4-9358-d7ce5cf2466a" },
+  { n = 3, title = "Machine Bitez #15", mbid = "fdd2c22a-079b-4c30-bc8a-bfcb5811461e" },
+  { n = 4, title = "Machine Bitez #16", mbid = "56c21e18-f3e1-4f33-81df-58d389419af7" },
+]
+
+[[release]]
+mbid = "8376c0a6-c17e-4329-b256-4e62deb5d306"
+title = "The Pink Phantom"
+type = "single"
+date = "2020-10-01"
+spotify = "7cCvPAuvmuFjJq22HwP1y9"
+tracks = [
+  { n = 1, title = "The Pink Phantom", mbid = "359b4614-6520-4fe4-9358-d7ce5cf2466a" },
+]
+
+[[release]]
+mbid = "bd8866c2-3d48-4c4e-97d8-442ec2792b40"
+title = "Song Machine, Season One: Strange Timez"
+type = "album"
+date = "2020-10-23"
+spotify = "1yCnOPMq0BVzKKn97HiIFp"
+tracks = [
+  { disc = 1, n = 1, title = "Strange Timez", mbid = "3037f6ba-952d-400e-b1c7-a055ff214e85" },
+  { disc = 1, n = 2, title = "The Valley of The Pagans", mbid = "628934c1-3272-4dc8-9341-37272818c7c9" },
+  { disc = 1, n = 3, title = "The Lost Chord", mbid = "81ed1af7-3d59-4e83-b22b-2468e2acc010" },
+  { disc = 1, n = 4, title = "Pac-Man", mbid = "2b97753b-9b56-4a84-adf9-9df3b8afc8e1" },
+  { disc = 1, n = 5, title = "Chalk Tablet Towers", mbid = "fdcedcab-076a-4037-a86e-ddf2322a6d78" },
+  { disc = 1, n = 6, title = "The Pink Phantom", mbid = "359b4614-6520-4fe4-9358-d7ce5cf2466a" },
+  { disc = 1, n = 7, title = "Aries", mbid = "c501a906-7206-4fe2-bb9f-5f9421eee669" },
+  { disc = 1, n = 8, title = "Friday 13th", mbid = "b986fa87-08a6-4b9c-8e9e-e94569baca91" },
+  { disc = 1, n = 9, title = "Dead Butterflies", mbid = "b7d978f5-1b12-4b0b-891e-b917c2951e81" },
+  { disc = 1, n = 10, title = "Désolé", mbid = "0e60076e-93ef-4a06-8ebf-13167953ca96" },
+  { disc = 1, n = 11, title = "Momentary Bliss", mbid = "1c8bb5d3-77fc-436c-a86e-a87c492b6e2f" },
+  { disc = 2, n = 1, title = "Opium", mbid = "8dc1585e-6b3f-4acd-af2c-13d3f028d691" },
+  { disc = 2, n = 2, title = "Simplicity", mbid = "a5a4a546-32e3-41c1-aa11-bd2aca81cfa2" },
+  { disc = 2, n = 3, title = "Severed Head", mbid = "3220241c-af66-492b-acc6-90969b346137" },
+  { disc = 2, n = 4, title = "With Love to an Ex", mbid = "13aadbea-4a03-4ee0-a56a-92cf8bbbed05" },
+  { disc = 2, n = 5, title = "MLS", mbid = "047bee38-c398-4666-90bb-a3c7c6ee4640" },
+  { disc = 2, n = 6, title = "How Far?", mbid = "981c87c3-efee-45a3-8b03-4fdb035b8e8c" },
+]
+
+[[release]]
+mbid = "0a1732c5-cde3-4479-bd5b-fd88bbca4310"
+title = "Song Machine Episode 8"
+type = "single"
+date = "2020-10-31"
+spotify = "4GSqYlEEHWiNxtAwJqQgsB"
+tracks = [
+  { n = 1, title = "The Valley of The Pagans", mbid = "628934c1-3272-4dc8-9341-37272818c7c9" },
+  { n = 2, title = "Machine Bitez #17", mbid = "65d790da-f8e9-4a8b-b00e-5bd5403002d0" },
+  { n = 3, title = "Machine Bitez #18", mbid = "2223f5fe-6942-4977-87ed-9c446477f905" },
+]
+
+[[release]]
+mbid = "663d23d3-f238-42f5-bc16-96cdc02b55bf"
+title = "Meanwhile EP"
+type = "ep"
+date = "2021-08-26"
+spotify = "0q19TmDISPRbmRIZJyrEz6"
+tracks = [
+  { n = 1, title = "Meanwhile", mbid = "29acf5fd-3249-4e2b-ba07-d899932d7866" },
+  { n = 2, title = "Jimmy Jimmy", mbid = "010a082f-946a-4730-9498-02cb76053cf5" },
+  { n = 3, title = "Déjà vu (live from NW10)", mbid = "69f5e096-fa51-4cb6-b69f-4380db08eb4c" },
+]
+
+[[release]]
+mbid = "3d134ebc-64a4-4456-9d90-aed9e5baf403"
+title = "Cracker Island"
+type = "single"
+date = "2022-06-22"
+spotify = "3488fiYQcGSfkKKpr3ttCD"
+tracks = [
+  { n = 1, title = "Cracker Island", mbid = "77971334-42bd-4151-8a91-7f78ee840dce" },
+]
+
+[[release]]
+mbid = "4fddc06e-4a5b-4d46-acfa-4379ad709b68"
+title = "New Gold"
+type = "single"
+date = "2022-08-31"
+spotify = "4V9YFKLqZ5h8nQFTvDQscC"
+tracks = [
+  { n = 1, title = "New Gold", mbid = "e406dffd-b2a3-4d6f-aa1b-e34fc9e2c69a" },
+]
+
+[[release]]
+mbid = "801225f7-1d42-4ba3-985a-6cb745ec7f9f"
+title = "Baby Queen"
+type = "single"
+date = "2022-11-04"
+spotify = "6WHjLRAwmnJv2cHqVZrmOt"
+tracks = [
+  { n = 1, title = "Baby Queen", mbid = "14f77fb1-70c1-4b9c-952e-6c23f38d9d16" },
+]
+
+[[release]]
+mbid = "731e9c14-db58-496a-b61a-04825babba8d"
+title = "Skinny Ape"
+type = "single"
+date = "2022-12-08"
+tracks = [
+  { n = 1, title = "Skinny Ape", mbid = "34bd5105-c7ca-4a4c-baf4-49cc16fbe570" },
+]
+
+[[release]]
+mbid = "687e1d02-2fc4-467a-b548-679587ddca73"
+title = "Silent Running"
+type = "single"
+date = "2023-01-27"
+tracks = [
+  { n = 1, title = "Silent Running", mbid = "27849aa7-2568-4d62-9021-fc98c2b6d244" },
+]
+
+[[release]]
+mbid = "160bc106-a0d1-456e-b704-6f91b05dfa04"
+title = "Cracker Island"
+type = "album"
+date = "2023-02-24"
+spotify = "4wtZQMNTC1O79kDxMBsEan"
+tracks = [
+  { n = 1, title = "Cracker Island", mbid = "77971334-42bd-4151-8a91-7f78ee840dce" },
+  { n = 2, title = "Oil", mbid = "d45d4cde-9a37-4906-a03c-79dd108349fd" },
+  { n = 3, title = "The Tired Influencer", mbid = "b46c6315-7605-4add-ab0c-6f3556435704" },
+  { n = 4, title = "Silent Running", mbid = "27849aa7-2568-4d62-9021-fc98c2b6d244" },
+  { n = 5, title = "New Gold", mbid = "e406dffd-b2a3-4d6f-aa1b-e34fc9e2c69a" },
+  { n = 6, title = "Baby Queen", mbid = "14f77fb1-70c1-4b9c-952e-6c23f38d9d16" },
+  { n = 7, title = "Tarantula", mbid = "80dc3608-fa20-4e7f-906f-484efd764653" },
+  { n = 8, title = "Tormenta", mbid = "a80fe21b-e871-4224-816f-192473888877" },
+  { n = 9, title = "Skinny Ape", mbid = "34bd5105-c7ca-4a4c-baf4-49cc16fbe570" },
+  { n = 10, title = "Possession Island", mbid = "dcb84d22-2460-4d75-9c65-b6889913a2df" },
+  { n = 11, title = "Crocadillaz", mbid = "cb30f22c-017f-4182-b44d-9d9d9aa93457" },
+]
+
+[[release]]
+mbid = "7fcdfca5-62ba-4518-82d8-566ccffc90f3"
+title = "East Type Beat"
+type = "single"
+date = "2023-08-27"
+tracks = [
+  { n = 1, title = "East Type Beat", mbid = "0b6f38b4-a52d-4e9b-a9a7-2cf39f68e587" },
+]
+
+[[release]]
+mbid = "9dc1fb4c-2373-4427-b965-23e1b6184e11"
+title = "The Happy Dictator"
+type = "single"
+date = "2025-09-11"
+spotify = "28hPpJ5zrajpudLVXzvEZF"
+tracks = [
+  { n = 1, title = "The Happy Dictator", mbid = "0ade740b-ae0b-4916-8454-3995442ba385" },
+]
+
+[[release]]
+mbid = "215819d3-7709-4cd6-bb7b-c3b21bc88532"
+title = "The Manifesto"
+type = "single"
+date = "2025-10-08"
+spotify = "5XT5XzzSOys3UnnQ4jBNwo"
+tracks = [
+  { n = 1, title = "The Manifesto", mbid = "1cc997a0-2850-442f-b673-42724d06e314" },
+]
+
+[[release]]
+mbid = "c87116ae-d4a2-4bf7-9721-6c7e377f69b0"
+title = "The God of Lying"
+type = "single"
+date = "2025-11-06"
+spotify = "7LZaMXfUwm5ECr6MUyd5ho"
+tracks = [
+  { n = 1, title = "The God of Lying", mbid = "19270531-8654-4def-ac5a-4239c8bf2c37" },
+]
+
+[[release]]
+mbid = "c68ab111-3c7d-4aab-b9cb-d6901647053f"
+title = "Damascus"
+type = "single"
+date = "2025-12-12"
+spotify = "4mOVYvAg2d2vBaTMqBc1ot"
+tracks = [
+  { n = 1, title = "Damascus", mbid = "ac81d200-1500-4cee-bbdd-8ad0c92008f3" },
+]
+
+[[release]]
+mbid = "6c9e4a84-e9ac-493b-b27a-d697cf912ea2"
+title = "The Hardest Thing / Orange County"
+type = "single"
+date = "2026-01-15"
+spotify = "4KP7VGPFNTDAbcnpTvrhq4"
+tracks = [
+  { n = 1, title = "The Hardest Thing", mbid = "ad87b0b3-cc82-45b7-a1d0-0c5e6d9074ba" },
+  { n = 2, title = "Orange County", mbid = "b05caf01-f475-4d08-b985-38f1e08672db" },
+]
+
+[[release]]
+mbid = "f6c7f91f-d584-42d4-a738-a6174b439579"
+title = "WHISKEY (RELEASE ME)"
+type = "single"
+date = "2026-01-16"
+spotify = "3a4OojQ9qovsHmapRK0ONj"
+tracks = [
+  { n = 1, title = "WHISKEY (RELEASE ME)", mbid = "e78b3cd0-2383-41f2-a01c-ce32ec9a3efe" },
+]
+
+[[release]]
+mbid = "b82f59df-2659-4c23-a3b6-9eb2518b4327"
+title = "The Mountain"
+type = "album"
+date = "2026-02-27"
+spotify = "1RvJmGd47lKS4XMXs9j8hD"
+tracks = [
+  { n = 1, title = "The Mountain", mbid = "688cab23-293c-4e20-93fc-620bd51c78a9" },
+  { n = 2, title = "The Moon Cave", mbid = "e90c1bf2-5c89-46f1-9f86-bcd5782bd35c" },
+  { n = 3, title = "The Happy Dictator", mbid = "0ade740b-ae0b-4916-8454-3995442ba385" },
+  { n = 4, title = "The Hardest Thing", mbid = "ad87b0b3-cc82-45b7-a1d0-0c5e6d9074ba" },
+  { n = 5, title = "Orange County", mbid = "b05caf01-f475-4d08-b985-38f1e08672db" },
+  { n = 6, title = "The God of Lying", mbid = "c4b68fb6-54f3-49a0-981d-9d5a172951b1" },
+  { n = 7, title = "The Empty Dream Machine", mbid = "5a6658bc-4bb9-42b3-a444-3d0a992b5b09" },
+  { n = 8, title = "The Manifesto", mbid = "1cc997a0-2850-442f-b673-42724d06e314" },
+  { n = 9, title = "The Plastic Guru", mbid = "90b8b603-cb1d-41a2-b6e2-ca3b9d40eb7f" },
+  { n = 10, title = "Delirium", mbid = "6b0fb78a-8c5b-49cc-b507-690470fdc165" },
+  { n = 11, title = "Damascus", mbid = "ac81d200-1500-4cee-bbdd-8ad0c92008f3" },
+  { n = 12, title = "The Shadowy Light", mbid = "110a2570-b213-4b94-8abf-9005d7633ea9" },
+  { n = 13, title = "Casablanca", mbid = "b3a486cd-f070-436d-a3b5-6bc07965d8c6" },
+  { n = 14, title = "The Sweet Prince", mbid = "7a5088e2-c4a4-42d4-807b-3613e8ddf79d" },
+  { n = 15, title = "The Sad God", mbid = "62473a6d-fb48-4479-abb2-85218ab2304a" },
+]

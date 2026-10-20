@@ -1,0 +1,231 @@
+format = 1
+
+[[release]]
+mbid = "0aaafedb-d6a4-48c9-9120-c886bb4572c9"
+title = "Songs From the Electric Sky"
+type = "album"
+date = "2007-03-26"
+tracks = [
+  { n = 1, title = "Hear the Bells", mbid = "4c3d5e56-34ba-4744-9fca-a1c07819c17c" },
+  { n = 2, title = "Entwined", mbid = "6a03884e-e730-4745-8799-2b6b172afe3f" },
+  { n = 3, title = "Turning Grey", mbid = "4191998b-e21a-44fc-a919-a7603dc93101" },
+  { n = 4, title = "Dry Dry Taste", mbid = "e331c9da-7d7b-4d05-bf6a-6da709ff8d73" },
+  { n = 5, title = "Days of Being Wild", mbid = "43fe58a7-b213-4e57-9256-9e4c229b48c8" },
+  { n = 6, title = "Footsteps", mbid = "8bae6e78-4a5c-4d9f-a121-a05f949dc937" },
+  { n = 7, title = "Rise", mbid = "95d42107-e59e-4b3f-8e7b-1d3089521a35" },
+  { n = 8, title = "Invitation", mbid = "7233780d-a587-48bc-af0a-135d410aa7ec" },
+  { n = 9, title = "Traces on the Sand", mbid = "403e3110-9d07-40df-9a68-b1328230f82a" },
+  { n = 10, title = "Cloud Killer", mbid = "9f88d5ff-9b81-45e6-8a78-589527a7bcbe" },
+  { n = 11, title = "Sad City Blues", mbid = "5bb23fdf-030c-4dba-8d19-4346bf7a554b" },
+  { n = 12, title = "Massacre", mbid = "d3c54faf-59ce-405c-bf1a-4c83ee171234" },
+  { n = 13, title = "Through the Branches", mbid = "72efd343-cbc8-425a-aad0-7ecad48a66b3" },
+]
+
+[[release]]
+mbid = "7478aefd-903c-44c9-9c8c-1a96834f442b"
+title = "How Strange It Is to Be Anything at All"
+type = "album"
+date = "2008-03-25"
+tracks = [
+  { n = 1, title = "Big City Blues", mbid = "46f810bc-3a2e-45bc-8e98-e13f26f9a2ed" },
+  { n = 2, title = "Blame It on the Distance", mbid = "63078956-8a9a-465a-a51d-875db5c1477f" },
+  { n = 3, title = "Horses With No Medals", mbid = "e0b089ae-488d-43e5-babf-2ef23c63a512" },
+  { n = 4, title = "Contrary Winds", mbid = "983c67d0-d617-473c-8cab-6956fc06c13e" },
+  { n = 5, title = "Daylight vs. You", mbid = "d2ae5794-d52b-499e-8649-37b62c2bce39" },
+  { n = 6, title = "Hogtown", mbid = "e1b21f7a-81db-4d73-8f6d-7be9157aa7b4" },
+  { n = 7, title = "Thoughts of Morella", mbid = "77f296bf-1c2a-401b-86bc-e781fc8c3cf9" },
+  { n = 8, title = "How Strange It Is to Be Anything at All", mbid = "a3284ad2-a1b6-43ae-b659-ad6a135cb0ee" },
+  { n = 9, title = "On the Boulevards", mbid = "866ffe9b-ebc6-4228-8b61-0957fec9886e" },
+  { n = 10, title = "Chasing Lights That Can't Be Tamed", mbid = "39990169-067a-44d5-83d8-b1352aeab4ac" },
+]
+
+[[release]]
+mbid = "b7adcf3d-176b-4142-9c38-e49e518ef1fb"
+title = "We Go Way Back"
+type = "album"
+date = "2009-11-09"
+tracks = [
+  { n = 1, title = "We Go Way Back", mbid = "32d56f32-5d8a-4263-bd9e-9b86701b49e2" },
+  { n = 2, title = "Fire in Empty Buildings", mbid = "4c38c75e-d394-4cea-9698-0f43a4ae2278" },
+  { n = 3, title = "A Part of the Film", mbid = "9bc686b9-579d-4ff2-8479-1bb43ec9bf62" },
+  { n = 4, title = "Half a Man / Half a Freak", mbid = "7325a316-a93e-46ca-80bb-d8cd091e6db5" },
+  { n = 5, title = "Are You Scaredr of the Dawn?", mbid = "93a36db8-e55a-44f8-9566-49877412d87a" },
+  { n = 6, title = "So Long Dying Cities", mbid = "201890b2-2d9b-4df7-83ec-1456bc0a480e" },
+  { n = 7, title = "I Can Haunt You", mbid = "0c23cb66-cf05-4621-a9b7-a19f4d5e4ee6" },
+  { n = 8, title = "Lonely Night on Queen Street", mbid = "705ed56f-d79c-4611-aae4-8943f102bea9" },
+  { n = 9, title = "Images Are Getting Hard to See", mbid = "701ebf24-f65f-49f3-af24-c334fdb149db" },
+  { n = 10, title = "Melting Point", mbid = "0b6a754a-a68b-4336-a558-7b4ff78a6f3c" },
+  { n = 11, title = "I Can't Kill the World", mbid = "438374af-7a9e-47f2-adfc-af86417fc101" },
+]
+
+[[release]]
+mbid = "f34f33c6-f717-4c66-b650-488aace66210"
+title = "Stranger"
+type = "album"
+date = "2011-10-10"
+tracks = [
+  { n = 1, title = "Visions of Madonna", mbid = "2892c084-a5c4-46f0-bb45-ddb0afc96b3f" },
+  { n = 2, title = "New Sidewalks", mbid = "3e6bcde0-d392-498c-8bd8-b4e387a81315" },
+  { n = 3, title = "Muse", mbid = "61c76bdb-de7e-4101-9024-de55f8e6ec59" },
+  { n = 4, title = "Postcards", mbid = "c1909085-5ece-4d5a-a8f0-de73c2d84d03" },
+  { n = 5, title = "Winter", mbid = "9508d8e3-3292-48e1-9ac3-23d88fdb942a" },
+  { n = 6, title = "So Long Dying Cities", mbid = "95bada46-4f98-404b-8a3c-f2557cf402c5" },
+  { n = 7, title = "In the Bush", mbid = "aeb3abf8-1b09-4899-88b0-17c9e7827af0" },
+  { n = 8, title = "Bed of Brambles", mbid = "fec1e50e-9812-4bb5-8688-cfedf93bda18" },
+  { n = 9, title = "Hey You!", mbid = "0e8d82ab-1996-4387-92b5-996f54608af8" },
+  { n = 10, title = "Permanent State (Of Walking on Fire)", mbid = "6f1181e6-c457-45e7-9f3f-da2e9499bbd5" },
+  { n = 11, title = "Cruel Sea", mbid = "1bcb6540-7dec-46e5-9b6a-585ba66429bd" },
+  { n = 12, title = "Stranger", mbid = "a27ba966-8f5e-4d2f-a04c-f03d1373e183" },
+]
+
+[[release]]
+mbid = "a0385872-a71e-4299-8aa3-3aecfbd5cfe1"
+title = "Off the Map"
+type = "album"
+date = "2013-02-17"
+tracks = [
+  { disc = 1, n = 1, title = "Two Thousand Miles", mbid = "093642f3-8b2a-4deb-84b4-3c136ab9e595" },
+  { disc = 1, n = 2, title = "Six Years", mbid = "317181a1-ec58-45a1-8edf-ba196234247e" },
+  { disc = 1, n = 3, title = "Big Blue", mbid = "c9177752-fdca-450d-981b-f0edb16cb9c5" },
+  { disc = 1, n = 4, title = "Opposite Way", mbid = "b4b97d09-c127-4501-b395-b69c7338d07f" },
+  { disc = 1, n = 5, title = "Stubborn Man", mbid = "e5082679-7189-4ef1-8226-75089248a4a8" },
+  { disc = 1, n = 6, title = "It's Late", mbid = "c49d1260-7073-4657-b8fb-dfd74e3a0883" },
+  { disc = 1, n = 7, title = "Sail on Wild", mbid = "dde784aa-507d-4cb5-b09f-4807c8eea35c" },
+  { disc = 1, n = 8, title = "Put Your Hands on the Right Man", mbid = "2a4d02f2-cfb7-4487-bfbc-4b41f44fbd6c" },
+  { disc = 1, n = 9, title = "Wrong Side", mbid = "948e4c91-e636-452f-9e44-2a4ca553ed36" },
+  { disc = 1, n = 10, title = "Underground, Underground", mbid = "5a6d7017-f663-41b0-8d1b-204e08584b18" },
+  { disc = 1, n = 11, title = "Not Only Fading Out", mbid = "1ae4a51d-1280-456a-a675-ccabb8a7db34" },
+  { disc = 1, n = 12, title = "The Black Maps", mbid = "44e59125-f923-4e97-b280-66264aaf6436" },
+  { disc = 2, n = 1, title = "Two Thousand Miles", mbid = "093642f3-8b2a-4deb-84b4-3c136ab9e595" },
+  { disc = 2, n = 2, title = "Six Years", mbid = "317181a1-ec58-45a1-8edf-ba196234247e" },
+  { disc = 2, n = 3, title = "Big Blue", mbid = "c9177752-fdca-450d-981b-f0edb16cb9c5" },
+  { disc = 2, n = 4, title = "Opposite Way", mbid = "b4b97d09-c127-4501-b395-b69c7338d07f" },
+  { disc = 2, n = 5, title = "Stubborn Man", mbid = "e5082679-7189-4ef1-8226-75089248a4a8" },
+  { disc = 2, n = 6, title = "It's Late", mbid = "c49d1260-7073-4657-b8fb-dfd74e3a0883" },
+  { disc = 2, n = 7, title = "Sail on Wild", mbid = "dde784aa-507d-4cb5-b09f-4807c8eea35c" },
+  { disc = 2, n = 8, title = "Put Your Hands on the Right Man", mbid = "2a4d02f2-cfb7-4487-bfbc-4b41f44fbd6c" },
+  { disc = 2, n = 9, title = "Wrong Side", mbid = "948e4c91-e636-452f-9e44-2a4ca553ed36" },
+  { disc = 2, n = 10, title = "Underground, Underground", mbid = "5a6d7017-f663-41b0-8d1b-204e08584b18" },
+  { disc = 2, n = 11, title = "Not Only Fading Out", mbid = "1ae4a51d-1280-456a-a675-ccabb8a7db34" },
+  { disc = 2, n = 12, title = "The Black Maps", mbid = "44e59125-f923-4e97-b280-66264aaf6436" },
+]
+
+[[release]]
+mbid = "fb67eb9f-f68c-4213-92f1-84910b11d3de"
+title = "Night Moves"
+type = "album"
+date = "2015-01-26"
+tracks = [
+  { n = 1, title = "Nowhere to be", mbid = "92c0cfed-6973-4a6f-8987-a5900065d8e6" },
+  { n = 2, title = "Radar", mbid = "aa3667a4-45cf-4866-a1bb-403b0ff9590c" },
+  { n = 3, title = "In the Wee Hours", mbid = "d7124b54-9f00-4ac4-b8c5-6380614d7651" },
+  { n = 4, title = "Silent Wars", mbid = "0219ee74-fa85-4f7d-a4c1-d5ba910fc125" },
+  { n = 5, title = "Night Moves", mbid = "8aa3f460-c1be-49fe-af88-fb323ffdc691" },
+  { n = 6, title = "Big Surprise", mbid = "8fcb8bf3-7d26-4b5f-8e6c-22193b7bcdb4" },
+  { n = 7, title = "Wolves", mbid = "c2625ae9-c2db-4f32-a33f-a2dfe98db18e" },
+  { n = 8, title = "Radio Buzzing", mbid = "39db01be-8c3c-452f-aff5-bd2e10790347" },
+  { n = 9, title = "Signals", mbid = "c3c4c36c-68ba-40d4-9dfe-6c21f4cd6fea" },
+  { n = 10, title = "Too Much Hope", mbid = "3287f269-6ed7-4b36-abd1-c9cf75636cbc" },
+  { n = 11, title = "Holding Back", mbid = "0c8a37a3-d687-4895-8d13-527e5e88d992" },
+]
+
+[[release]]
+mbid = "baed3aac-fade-4787-ad60-5f03ef588d69"
+title = "Kid We Own the Summer"
+type = "album"
+date = "2017-02-03"
+tracks = [
+  { n = 1, title = "We Could Be Strangers", mbid = "f079ec5a-bd4b-41d7-828b-1c1c5c4bf84f" },
+  { n = 2, title = "I Wasn’t Trying to Be Your Man", mbid = "05519e0c-e82f-4de7-823a-10948e6916d6" },
+  { n = 3, title = "This Kind of Fire", mbid = "bc1bbadb-a7a4-4466-8b0c-1abf49245de2" },
+  { n = 4, title = "Kid We Own the Summer", mbid = "5f04b870-3f9f-498b-b36f-b5f39ad0e301" },
+  { n = 5, title = "Naked", mbid = "93b7a53f-f5ce-4f8b-b0a6-7fd81b89d359" },
+  { n = 6, title = "White Tornado", mbid = "308bb3d8-11ff-47a1-a093-f7a420760140" },
+  { n = 7, title = "Minor Days", mbid = "929c6a7f-b1f0-42ee-b695-4e81357f0797" },
+  { n = 8, title = "I Sail in Troubled Waters", mbid = "438735d5-bfe5-4db1-a3ef-cfc3b761a8ca" },
+  { n = 9, title = "Turn on the Party Lights", mbid = "8bf4ea21-3e75-4a77-9555-32ffe74d0de6" },
+  { n = 10, title = "Linger On", mbid = "96fd9eb3-5cd5-420a-b41b-2c8c6a9edbd9" },
+  { n = 11, title = "Out of the Blue", mbid = "71deaa91-f57a-46f0-a491-dfa7030e0b60" },
+  { n = 12, title = "Young Bird", mbid = "2e1e36c3-bf33-41c7-b7a9-f0932db70ca1" },
+]
+
+[[release]]
+mbid = "0d710a78-8d1a-4afa-a674-ef7d991fee12"
+title = "Crazy Ones"
+type = "single"
+date = "2019-01-18"
+spotify = "6NiamODndlvEnQ14NEoXC0"
+tracks = [
+  { n = 1, title = "Crazy Ones", mbid = "e3c75d5d-87b3-4413-836b-a576031f4185" },
+]
+
+[[release]]
+mbid = "2c38a899-f557-4aa5-956b-66838a874321"
+title = "Midlife"
+type = "album"
+date = "2019-03-29"
+tracks = [
+  { n = 1, title = "Tigress", mbid = "69e586bc-b4c2-401b-b1c2-9aeb28d37fec" },
+  { n = 2, title = "Actress", mbid = "03625bc1-1eec-4834-99fe-b200b834e9d2" },
+  { n = 3, title = "Crazy Ones", mbid = "e3c75d5d-87b3-4413-836b-a576031f4185" },
+  { n = 4, title = "Sister", mbid = "30cadb19-0ada-41f6-ad57-b7cd97ed348c" },
+  { n = 5, title = "Tourists", mbid = "7bf9c4ff-afa8-4e19-bf45-b2ebe8ca85b0" },
+  { n = 6, title = "Leaving", mbid = "ee705899-647d-45a8-82bf-7096e1915191" },
+  { n = 7, title = "Midlife", mbid = "08a89021-6f05-4c6c-8588-f1bfcde0c0ee" },
+  { n = 8, title = "Saturday", mbid = "a3400a70-379c-4e5a-9c53-7aabdc2bb1eb" },
+  { n = 9, title = "Pretty Mess", mbid = "fa2f02ca-9897-4aad-bfa1-af58a69904a0" },
+  { n = 10, title = "Black Dog", mbid = "92288146-261d-49e7-a72b-54ccec6298fe" },
+  { n = 11, title = "Dreamchaser", mbid = "ae8150cf-af62-437e-996e-11cb911c810e" },
+  { n = 12, title = "Friends", mbid = "34bc73c8-9df3-428d-9a95-bd8ed6bc25c0" },
+]
+
+[[release]]
+mbid = "cb3c48d8-de72-4996-824d-1ab30f857339"
+title = "Burns on the Wire"
+type = "album"
+date = "2021-09-03"
+spotify = "14nqcEJVl8IGhjxE9x0ibh"
+tracks = [
+  { n = 1, title = "Chelsea Hotel", mbid = "a9e8e450-f3e5-4d5d-8f54-2d7d141b11cd" },
+  { n = 2, title = "Suzanne", mbid = "966d8ea4-4850-4016-835a-e3f329199954" },
+  { n = 3, title = "Who by Fire", mbid = "a4b1095a-37cf-4c37-ab88-085b0a9182f4" },
+  { n = 4, title = "The Partisan", mbid = "84414984-e32c-4df0-9b13-a76fe9732dcf" },
+  { n = 5, title = "Famous Blue Raincoat", mbid = "c4b3c3c5-ca6e-4d6a-883b-e51ac6d73bfc" },
+  { n = 6, title = "Goodbye", mbid = "b9cd86aa-072c-407b-8a6c-a0c7198fe429" },
+  { n = 7, title = "One of Us Cannot Be Wrong", mbid = "f2154970-f8e0-47cb-8ffb-2af5e0c0ebb7" },
+  { n = 8, title = "There Is a War", mbid = "ecfe7cf2-63e5-4fc0-8a71-c21630328f0e" },
+  { n = 9, title = "Avalanche", mbid = "6f4f6363-5238-4d82-9e40-dbf735206212" },
+  { n = 10, title = "Passing Through", mbid = "1cd1bec6-7c7b-4b43-bca4-0194f57f5848" },
+  { n = 11, title = "So Long, Marianne", mbid = "cf63984a-5752-4a42-9588-827406895f99" },
+  { n = 12, title = "Bird on the Wire", mbid = "83349029-b174-4211-930c-477a2a77cf11" },
+]
+
+[[release]]
+mbid = "a3a783f2-8d4b-4c56-94d0-c4924cea6be1"
+title = "Sunset Park"
+type = "album"
+date = "2023-02-03"
+tracks = [
+  { n = 1, title = "Sunset Park", mbid = "e7b81f53-69d2-4565-820c-115011576bd5" },
+  { n = 2, title = "Blue Lights", mbid = "69d24050-3dc4-4753-834a-5dd746ddf831" },
+  { n = 3, title = "Morning Flight", mbid = "f23888f3-24a6-438c-86e5-63f15d5b9ebe" },
+  { n = 4, title = "Late Bloomers", mbid = "9efa17be-0ada-470d-8624-aa2e265e9128" },
+  { n = 5, title = "New Moon", mbid = "88a38d2d-5f73-4a56-9ce9-f51e77c66c01" },
+  { n = 6, title = "Dark Eyes (feat. Dominique A)", mbid = "4fac541b-6fcc-4e04-9ac0-697c417506ab" },
+  { n = 7, title = "Different Times", mbid = "d4942408-bdc5-4cb8-b871-8c9d84054837" },
+  { n = 8, title = "L.A.", mbid = "8e513cd1-aa6c-41c2-a5fd-b370a2922968" },
+  { n = 9, title = "Familiar", mbid = "ae3b4ea5-be8e-4aa6-92b4-612376fa2c0b" },
+  { n = 10, title = "Sidelines", mbid = "e42c5be4-437c-43a4-be4b-588e1d41b876" },
+  { n = 11, title = "Movies", mbid = "4812a064-ca60-4363-8df9-a7e5204a0515" },
+]
+
+[[release]]
+mbid = "c3b933ef-eac8-45bb-b4ee-7e3c136cb1c4"
+title = "Morning Flight"
+type = "single"
+date = "2025-01-03"
+spotify = "6dL6EYa2r5kw3uxkNzSuMm"
+tracks = [
+  { n = 1, title = "Morning Flight", mbid = "f23888f3-24a6-438c-86e5-63f15d5b9ebe" },
+  { n = 2, title = "Afterglow", mbid = "7dc667e1-2605-4cbb-85dc-c1a943518e2b" },
+]

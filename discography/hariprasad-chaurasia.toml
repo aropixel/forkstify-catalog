@@ -1,0 +1,722 @@
+format = 1
+
+[[release]]
+mbid = "6329db5a-77c2-30b4-9fa0-aca1151f7e26"
+title = "Call of the Valley"
+type = "album"
+date = "1968"
+tracks = [
+  { n = 1, title = "Part I: Movement I - Ahir-Bhairav / Movement II - Nat-Bhairav: Ek Tala / Movement III - Piloo: Teen Tala", mbid = "d1f95e3e-367c-4260-9fd7-e59547cd8f07" },
+  { n = 2, title = "Part II: Movement I - Bhoop: Jhap Tala / Movement II - Des: Dadra Tala / Movement III - Pahadi: Kehrawa Tala", mbid = "15e8cb15-a6e5-43ea-8af3-8c8cea4281ac" },
+]
+
+[[release]]
+mbid = "dda5bbe1-76a5-4419-96dd-5d850b0e3965"
+title = "Music of India - Flute Recital"
+type = "album"
+date = "1968"
+tracks = [
+  { n = 1, title = "Raga Marwa", mbid = "4a6d02cf-977e-41b2-9979-fa236b7fe120" },
+  { n = 2, title = "Raga Des", mbid = "1f880f74-2fc3-424d-890d-015fe79cb19a" },
+  { n = 3, title = "Mishra Pilu", mbid = "2b70aa8a-8d9e-4b92-95d7-029c0b9cde32" },
+]
+
+[[release]]
+mbid = "d4b6fc2b-f814-44ec-bda1-3844a436d9ff"
+title = "Maestro's Choice Series One: Flute"
+type = "album"
+date = "1969-12-31"
+spotify = "7miPMqBx3SSTqFeMHMcKtm"
+tracks = [
+  { n = 1, title = "Raga Lalit", mbid = "d82a9d9b-11c6-424e-9ab3-d50e8d62f1eb" },
+  { n = 2, title = "Raga Bhoopali", mbid = "138291e1-d7e4-4cd5-a572-cc0a397ea990" },
+]
+
+[[release]]
+mbid = "402fead8-5c1c-47a8-9e4a-a1552632e675"
+title = "Flute Recital"
+type = "album"
+date = "1970"
+tracks = [
+  { n = 1, title = "Raga Prabhateshvari (Jhaptaal)", mbid = "3ae6f09d-93bd-4fb6-8040-48f2e101806c" },
+  { n = 2, title = "Raga Sindhu Bhairavi (Rupak Taal)", mbid = "40cd8b32-791e-45a9-a424-90dc1e2fad98" },
+  { n = 3, title = "Raga Chandrakauns (Teentaal)", mbid = "f7f166e7-7a73-43b5-b118-91fe66c8bc28" },
+  { n = 4, title = "Dadra In Misra Khamaj", mbid = "c24e60e1-dd16-428e-9249-cf95a40ff0a2" },
+]
+
+[[release]]
+mbid = "b9c0c87a-9021-44ac-bdf9-f9a6b8138c2e"
+title = "Down Melody Lane"
+type = "album"
+date = "1973"
+tracks = [
+  { n = 1, title = "Raga Gujri Todi", mbid = "49e38c2b-d613-43a8-96c0-cc1bfaa753d3" },
+  { n = 2, title = "Raga Bageshwari", mbid = "2b53bb54-f0f5-487c-a703-737b466f87de" },
+  { n = 3, title = "Raga Mishru Piloo", mbid = "5903085c-3b39-4ddd-9460-92ddfb90a4fc" },
+]
+
+[[release]]
+mbid = "3ae012c9-8ced-4ce1-9eb4-f75b61e84d3c"
+title = "Yugal Bundi"
+type = "album"
+date = "1974"
+tracks = [
+  { n = 1, title = "Raga Jhinjhoti", mbid = "cd618b1d-f15a-43df-adee-45f09858cb37" },
+  { n = 2, title = "Raga Mishra Piloo", mbid = "f0b81fcc-4912-407b-b43a-482a2603f096" },
+]
+
+[[release]]
+mbid = "be90c632-cad4-43d1-9554-c1af10579e38"
+title = "La Flute de Hariprasad Chaurasia"
+type = "album"
+date = "1976"
+tracks = [
+  { n = 1, title = "Raga Suddha Sarang", mbid = "84762d8b-9f44-4d81-b911-f89d029f6e88" },
+  { n = 2, title = "Raga Madhuvanti", mbid = "35ad6e8b-901d-4811-b8dc-117876c9068c" },
+  { n = 3, title = "Dhun (Trad.)", mbid = "e0881ecb-0009-4d6a-989e-e45cb35516a5" },
+]
+
+[[release]]
+mbid = "a75ed779-736e-4d57-b863-698f764baa9b"
+title = "Fabulous Flute of Hariprasad Chaurasia"
+type = "album"
+date = "1985"
+tracks = [
+  { n = 1, title = "Chandra Kauns (Raga)", mbid = "91831dd6-112b-4105-95ce-a55f43d8dddc" },
+  { n = 2, title = "Manjh Khamaj (Raga)", mbid = "12e53835-7af6-498b-b820-869670641a2b" },
+  { n = 3, title = "Uttar Pradesh (Folklore)", mbid = "39637d64-da37-4135-bea0-0c6e5275e69c" },
+]
+
+[[release]]
+mbid = "25313903-95ec-357f-ab16-b6c8e1c8afd4"
+title = "La Flûte de Pandit Hari Prasad Chaurasia"
+type = "album"
+date = "1986"
+tracks = [
+  { n = 1, title = "Rag Yaman: Vilambit Ektal", mbid = "c62e59ea-7417-4e90-ad9c-7525d1562b16" },
+  { n = 2, title = "Rag Yaman: Jhaptal, Drut Teental", mbid = "74f42311-32d1-42f9-bc4e-a04913fe4b65" },
+  { n = 3, title = "Dhun (U.P. Folk Tune)", mbid = "656a3cf7-be9f-4cf7-ad53-d0c257440bf5" },
+]
+
+[[release]]
+mbid = "0fed8a24-eacb-47f5-a8e3-714a102f3408"
+title = "Rāg Ahir Bhairav"
+type = "album"
+date = "1988"
+tracks = [
+  { n = 1, title = "Rāg Ahir Bhairav", mbid = "a7eeed3c-fbb1-4a18-bac2-95e02b3c0bd1" },
+  { n = 2, title = "Marriage Song From Uttar Pradesh", mbid = "46754428-91d9-4ee2-a86d-8c08f052e656" },
+]
+
+[[release]]
+mbid = "54ae31c1-8bd2-30d9-a556-becd4c6477c5"
+title = "Rāg Kaunsī Kānhṛā"
+type = "album"
+date = "1989"
+tracks = [
+  { n = 1, title = "Rāg Kaunsī Kānhṛā", mbid = "24bacf03-6fb3-4576-ae22-b601c19a8de6" },
+]
+
+[[release]]
+mbid = "843025c0-e4a6-3a17-adc4-131f6b87c2f6"
+title = "Rāg Lalit"
+type = "album"
+date = "1989-01-01"
+spotify = "4dU3B2sbLVikFai0L0CxkZ"
+tracks = [
+  { n = 1, title = "Rāg Lalit", mbid = "9186ed2a-f6e5-4be0-a57e-e9e677ed3f86" },
+]
+
+[[release]]
+mbid = "011f9b5f-4120-408f-a792-9781a5428acb"
+title = "Romantic Themes on Flute"
+type = "album"
+date = "1990-05-30"
+tracks = [
+  { n = 1, title = "Raga Abhogi: Alap, Jod, Gat", mbid = "7a4d00ca-aa9f-4718-b270-02990ed85f1c" },
+  { n = 2, title = "Raga Chandrakauns: Alap, Gat", mbid = "bc18d6f4-049a-4d0f-955d-fdc7b8b937d7" },
+  { n = 3, title = "Dhun Mishra Pahadi", mbid = "c33dbf1f-4606-4089-b685-ef48b51f1495" },
+]
+
+[[release]]
+mbid = "aded26d2-fdb0-4a2a-bcb9-29cd05593cb5"
+title = "Here"
+type = "album"
+date = "1991"
+tracks = [
+  { n = 1, title = "Today's Joy", mbid = "64c35b7a-7f44-4099-a88c-b1eddd4b0e61" },
+  { n = 2, title = "Kundance", mbid = "6b85f233-5dbc-484b-a556-b0fc8991b1dd" },
+  { n = 3, title = "A Mountain Sunset", mbid = "29b4105f-5469-4dbb-94ac-3e2fa48ce1a8" },
+  { n = 4, title = "Restful Horizons", mbid = "a018fa71-813f-4896-8397-4ae644edef80" },
+  { n = 5, title = "Life's A Beach", mbid = "bb8dcb93-250f-4421-890b-f4fb4f274f46" },
+  { n = 6, title = "Tabling The News", mbid = "31203d87-b596-4b5a-8ede-d5320b54aac2" },
+  { n = 7, title = "To A Loving Friend", mbid = "672a105c-3e57-41e6-951b-e0391c674273" },
+  { n = 8, title = "From Here To Here", mbid = "befeefe8-87a7-4be9-acf8-11685fb2829a" },
+  { n = 9, title = "Silence fading in", mbid = "5dfa0b8d-22ec-4f5a-b067-10c49dc76d34" },
+]
+
+[[release]]
+mbid = "e6012860-5195-4656-a9d5-a8daf3500fe5"
+title = "Rāg Bhimpalāsi"
+type = "album"
+date = "1991"
+tracks = [
+  { n = 1, title = "Alap, Jod, Jhala", mbid = "db137386-0e15-440c-826b-4ee0664b7714" },
+  { n = 2, title = "Gat In Rupak Tal And Teental", mbid = "cee9f203-3e0c-47d0-8ca6-95fd0065059e" },
+]
+
+[[release]]
+mbid = "cf0789cb-0eb9-4a12-8c8e-cdd4552536a0"
+title = "Megh Malhar - Volume Three"
+type = "album"
+date = "1991-01-01"
+spotify = "7I2ehIPo2UuyElltlSPdoJ"
+tracks = [
+  { n = 1, title = "Raga Madhu Malhar", mbid = "d4434514-e5ec-489f-b7d4-f40231afadac" },
+  { n = 2, title = "Raga Mian Ki Malhar", mbid = "4b4bcd45-7ce8-4de7-844c-b113722667ab" },
+]
+
+[[release]]
+mbid = "7f0d7fba-df79-43d3-b86a-85a0ec8d2599"
+title = "Flute Fantasia"
+type = "album"
+date = "1992"
+tracks = [
+  { n = 1, title = "Raag Bairagi - Alaap & Gat in Ektaal", mbid = "b099e51a-947f-4661-ad8b-6b4b7b41e429" },
+  { n = 2, title = "Rachna Suprabhat in Deepchandi Taal", mbid = "df7b5ac7-8e99-4bc6-9448-4e485dc57497" },
+  { n = 3, title = "Raag Marwa - Alaap & Gat in Teen Taal", mbid = "2d13c3d6-4fae-4596-b3de-2cf01437d36c" },
+]
+
+[[release]]
+mbid = "694ff0e2-b0fa-4e84-8d4f-f994b7563fbb"
+title = "Raga Darbari Kanada / Dhun in Raga Mishra Pilu"
+type = "album"
+date = "1993"
+spotify = "2tIWCH1Sx2Lxk6C8Rk1qS9"
+tracks = [
+  { n = 1, title = "Raga Darbari Kanada: Alap and Jor", mbid = "8150ce25-d698-43de-8eb3-4804adb05829" },
+  { n = 2, title = "Raga Darbari Kanada: Medium Tempo Gat in Jhaptal", mbid = "20cf679e-aabd-40cf-ab23-97347e0e34a9" },
+  { n = 3, title = "Raga Darbari Kanada: Medium Tempo Gat in Ektal", mbid = "a2c1b2b8-9a81-49c1-aa09-98688ed426a3" },
+  { n = 4, title = "Dhun in Raga Mishra Pilu", mbid = "92c75893-d078-4a29-a618-361af277c5df" },
+]
+
+[[release]]
+mbid = "a883b4a4-5dfc-3ae1-a182-650ae6eebf2d"
+title = "Soundscapes - Music of the Rivers"
+type = "album"
+date = "1993"
+tracks = [
+  { n = 1, title = "Water Poems", mbid = "c2c00505-3e5a-4978-959f-bc750faa3e01" },
+  { n = 2, title = "Song of the River", mbid = "580ce6f4-f2dd-42c1-835d-14e963688483" },
+  { n = 3, title = "Delta - Journey to the Sea", mbid = "22b326f5-c543-4c51-81c3-f03efe06e024" },
+]
+
+[[release]]
+mbid = "a63becc5-1f7b-3b30-843d-ffe9be878cb6"
+title = "Divine Dhrupad"
+type = "album"
+date = "1994"
+tracks = [
+  { n = 1, title = "Raag Jait (Alaap & Rachna In Ektaal)", mbid = "97548c5c-e143-4f18-b8de-abe9f2716589" },
+  { n = 2, title = "Raag Behag (Alaap & Rachna In Dhamartaal)", mbid = "6ee3e054-63be-4ed6-a2f1-c632c004a99e" },
+  { n = 3, title = "Raag Khamaj (Rachna In Deepchandi)", mbid = "af2273ad-25ac-4d57-a55f-f0fff3fa3cb0" },
+]
+
+[[release]]
+mbid = "9edb68a9-a4fb-4cd8-9f4a-c41d7dcb5423"
+title = "Above & Beyond: Music from the World of Osho"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "Raga Hemavati - Alap", mbid = "93e80d22-f185-4aee-b95c-f223dc9f5fdd" },
+  { n = 2, title = "Raga Hemavati - Jod", mbid = "79b2f5ba-d98e-4582-ad83-b084294b34e0" },
+  { n = 3, title = "Raga Hemavati - Jhala", mbid = "dad1ad81-d97c-4783-a669-35d397954d09" },
+  { n = 4, title = "Composition in Raga Hemavati", mbid = "450cc28d-61f6-41a8-8980-950bd97b8d0c" },
+  { n = 5, title = "Dhun in Raga Shivaranjani", mbid = "fa9b30ca-a71b-4ce5-bac0-a7ab568de4bf" },
+]
+
+[[release]]
+mbid = "e4f1ec57-a572-4953-bb3e-3e076d9f7d37"
+title = "Cascades of Hindustani Music"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "Raga: Bhairav - Alap - Jor Gat - Jap Tal", mbid = "cff26a85-beae-48b6-9bb5-bdafb308fdb3" },
+  { n = 2, title = "Raga: Yaman - Alap, Jor Gat - Teen Tal", mbid = "461605ab-bc84-40ca-bd89-c42cd0d894ae" },
+]
+
+[[release]]
+mbid = "25775b1b-8273-4132-bbd3-a728a0a57410"
+title = "The Elements - Wind"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "The Breath Of Life: Cosmic Wind - Prana, The Breath Of Life Pranayama", mbid = "eca952d1-f48a-46ba-b284-1eadf1d78449" },
+  { n = 2, title = "The Winds Of Love: Romantic Air - Perfumed Breeze", mbid = "c27c5bbe-cc86-45c2-9d69-c06bfd713162" },
+  { n = 3, title = "The Winds Of Heaven: Windsongs; Maruts -The Sons Of Heaven", mbid = "e7b77f03-6fcd-49ee-8674-91d9bc680d33" },
+  { n = 4, title = "Spring Air: Sweet Breeze of Spring - Melody Of Spring", mbid = "e8a811ae-edad-4709-b5e4-f36b7337ca3a" },
+  { n = 5, title = "Cosmic Swirl: Vata - Hymn To Prana", mbid = "838da72d-7900-4270-b13b-1d8d82a1889b" },
+]
+
+[[release]]
+mbid = "eb33492d-bacb-406a-8071-8fc563aabf40"
+title = "Murali Prasādam (Raga Mohanam / Bhoopali)"
+type = "album"
+date = "1995-05"
+tracks = [
+  { n = 1, title = "Introduction", mbid = "3e8c711d-1221-4934-bc52-b4bb7a143877" },
+  { n = 2, title = "Raga Mohanam/Bhoopali - Alaap", mbid = "4c6a376c-e3b8-4c8f-a51f-71883bc0995b" },
+  { n = 3, title = "Introduction to Compositions", mbid = "516876db-c11a-48de-a782-383962789e79" },
+  { n = 4, title = "Raga Mohanam/Bhoopali - Drut gat in Teentaal", mbid = "6aa0ee0f-dac9-4279-8a89-fbc4686ad44c" },
+  { n = 5, title = "Raga Mohanam/Bhoopali - Drut gat in Aditaal", mbid = "4382da90-84c6-494e-aeb6-99918ff407c4" },
+]
+
+[[release]]
+mbid = "f6556f0a-32b0-4bd9-8e20-f175de957c82"
+title = "Krishna's Flute"
+type = "album"
+date = "1996"
+tracks = [
+  { n = 1, title = "Raga Bhoopali", mbid = "386021c5-3433-480b-abd1-121f1ece02a3" },
+  { n = 2, title = "Bengali Folksong", mbid = "2eb3e202-e5f8-4536-81cd-4d7aed77b74d" },
+]
+
+[[release]]
+mbid = "1725c69c-e840-40cb-aeb6-ede82b9ee50b"
+title = "Moon Magic"
+type = "album"
+date = "1996"
+tracks = [
+  { n = 1, title = "Caravan to Timbuktu", mbid = "c0025670-c17f-400d-9d29-c47089550f7d" },
+  { n = 2, title = "Dead Leaves Dancing", mbid = "30710db2-6c5b-4907-b399-c3db4a0f06e0" },
+  { n = 3, title = "Love is the Winner", mbid = "d8d903ba-0f3c-4ca1-b190-2bc6f67a6ee5" },
+  { n = 4, title = "Journey to the Light", mbid = "f903e12d-07ac-4f06-972f-8ef01caea139" },
+  { n = 5, title = "Rainbow on the Wings", mbid = "73eea7a1-1b56-4160-b354-67316d3eaa9c" },
+  { n = 6, title = "Moon Magic", mbid = "381d4698-d6ba-4e5c-865c-d15e2b9e43b9" },
+  { n = 7, title = "One World", mbid = "3d1aecac-dbbe-46d6-a3de-ee5b5b369b74" },
+  { n = 8, title = "No Fear", mbid = "0938d050-06fe-43eb-b068-527561b8eda4" },
+  { n = 9, title = "God is in You", mbid = "f22c6183-1e92-49a2-b2ec-4a46a35ffe1a" },
+  { n = 10, title = "Listen to the Sound", mbid = "95bb222c-ab52-4008-a83c-287ac8aac9c1" },
+  { n = 11, title = "Flight of the Eagle", mbid = "cb56bc05-087a-4cc0-a7c5-ed5ede4f5589" },
+  { n = 12, title = "Song of Madhu Bamba - The Marabu of Senegal", mbid = "c7f6cafb-a733-4d68-abce-88a38f9f61d5" },
+]
+
+[[release]]
+mbid = "4a118c14-8f62-4a84-b133-5fc1db75b9b6"
+title = "All Time Favourites"
+type = "album"
+date = "1998-08-01"
+tracks = [
+  { n = 1, title = "Raag Madhmad Sarang", mbid = "5f8adec7-5a22-439b-8304-ae8aadd7ef86" },
+  { n = 2, title = "Raag Miyan Ki Malhar", mbid = "0924f7f3-ea18-4dea-81ac-f9f408886ef5" },
+  { n = 3, title = "Rachna Pahadi", mbid = "d5b614a9-03cb-4e37-bd42-62977b4938d8" },
+]
+
+[[release]]
+mbid = "f292f6ea-c9cb-43dc-8374-ae106d9f7a67"
+title = "Classical Instrumental: Pandit Hariprasad Chaurasia (Live At Savai Gandharva Festival, Pune)"
+type = "album"
+date = "1999"
+spotify = "7bDN4SaTnpsRZZs5xb1gbT"
+tracks = [
+  { n = 1, title = "Raga Mangal Bhairav, Pt. 1", mbid = "90e4cf9f-e13c-4421-9b6b-7e5e857674aa" },
+  { n = 2, title = "Raga Mangal Bhairav, Pt. 2", mbid = "add74533-7ce5-4d4d-b203-d7cce509f572" },
+]
+
+[[release]]
+mbid = "9b63c9bd-0f01-4f09-a1d9-27493b9c33c6"
+title = "Hari-Krishna: In Praise Of Janmashtami"
+type = "album"
+date = "1999-07-01"
+tracks = [
+  { disc = 1, n = 1, title = "Raga 1", mbid = "2795605f-a51f-4756-a258-80c031df8da4" },
+  { disc = 1, n = 2, title = "Raga 2", mbid = "c8d31b5c-3113-4d0f-b590-7b28ce4b2ba0" },
+  { disc = 2, n = 1, title = "Raga 3", mbid = "0455f473-f97e-45b6-bf1b-c1ca56276534" },
+  { disc = 3, n = 1, title = "Raga 4", mbid = "0b741a48-9b78-4ee5-a4f6-bcdebead9756" },
+]
+
+[[release]]
+mbid = "3b9611b6-7296-4cd4-8a40-16cec8b3ca00"
+title = "Caravan: Gypsies Floating on the Cloud Spain"
+type = "album"
+date = "2000"
+tracks = [
+  { n = 1, title = "India Meets Gypsies", mbid = "36d00b62-ecd8-458d-b6ea-dbbdac14288b" },
+  { n = 2, title = "Connecting", mbid = "c8f5fe83-8061-45f6-a6b7-8de52911cdf6" },
+  { n = 3, title = "Gypsy Caravan", mbid = "9f40e7e2-7bd6-432b-9851-9872929745aa" },
+  { n = 4, title = "Letting Loose", mbid = "4762b740-4a5f-4ce7-a831-8104d1e7eb86" },
+  { n = 5, title = "Desire", mbid = "ba8714b5-433f-456a-bf7e-e36345ffb62d" },
+  { n = 6, title = "Long Dusty Road to Agra", mbid = "1492cf71-f331-45e8-8c8b-a174c7469f1f" },
+  { n = 7, title = "Floating on the Clouds", mbid = "e2514847-0a95-4369-9b86-932a1e228311" },
+  { n = 8, title = "Song to the Wind", mbid = "cbe8a78b-50d5-4c4f-a456-95fdca249f12" },
+  { n = 9, title = "Emotionally From Africa", mbid = "b15130e3-691a-4adc-8563-9dc11d5c000e" },
+  { n = 10, title = "Through a Rain: Forest", mbid = "e2cd6d2e-6966-4da2-aef0-ae5a650a7dcb" },
+]
+
+[[release]]
+mbid = "21925fea-3830-4f5f-917d-5ee2888493a2"
+title = "Krishna's Charm"
+type = "album"
+date = "2000"
+tracks = [
+  { n = 1, title = "Raga Jhinjhoti", mbid = "0f9e89ca-55e6-4739-8f27-e652a7119bdb" },
+  { n = 2, title = "Folk Tune", mbid = "88571111-0131-4814-8635-c837459058ad" },
+]
+
+[[release]]
+mbid = "520bf0d6-ca41-41f9-98f6-5d0c3382833f"
+title = "Music Without Boundaries"
+type = "album"
+date = "2000-08-29"
+tracks = [
+  { n = 1, title = "Celebration, Part 1", mbid = "0e857102-9bae-482f-92ff-3b6410b40fb0" },
+  { n = 2, title = "Celebration, Part 2", mbid = "c7455e1c-e814-4cb3-a17b-b27f14dd053f" },
+  { n = 3, title = "Creation, Part 1", mbid = "d46d67e8-6580-43f9-b4e7-7340ee467785" },
+  { n = 4, title = "Creation, Part 2", mbid = "469592f5-d9f6-41a0-97d0-25e43f4791dc" },
+  { n = 5, title = "Passion", mbid = "55760adb-c9d4-4320-84b6-60e34d832565" },
+]
+
+[[release]]
+mbid = "081dee05-8755-38a3-83b2-ac969e52aa72"
+title = "The Valley Recalls: In Search of Peace, Love and Harmony"
+type = "album"
+date = "2000-09-15"
+tracks = [
+  { n = 1, title = "Peace (Alap)", mbid = "b15caabc-5ac2-459b-90a2-8ba1ab490029" },
+  { n = 2, title = "Peace (Gat)", mbid = "e9b9236c-e3c0-423e-a1c5-72832b97b3af" },
+  { n = 3, title = "Love (Alap)", mbid = "d42ac7cb-69c0-46af-9a7c-db5aefd0cc53" },
+  { n = 4, title = "Love (Gat)", mbid = "6b5c9abc-2f1b-4605-b2d3-d14164044203" },
+  { n = 5, title = "Harmony (Alap)", mbid = "6d7f5701-f20b-4fbb-a29e-c49556a3cd62" },
+  { n = 6, title = "Harmony (Gat)", mbid = "ef9b878f-1645-43b6-8049-ad4f95ce8594" },
+]
+
+[[release]]
+mbid = "f3fd2958-354e-308c-b7ac-abd020aa3caf"
+title = "The Valley Recalls: Raga Bhoopali"
+type = "album"
+date = "2000-09-15"
+tracks = [
+  { n = 1, title = "Alap", mbid = "dd4d13f1-26ec-4ab3-ae3c-70fd3b6377bc" },
+  { n = 2, title = "Jod", mbid = "fbd744f6-d6c3-484c-a5d6-daed9838a193" },
+  { n = 3, title = "Gat in Jhaptal", mbid = "0db40846-ddbc-4882-85d1-127c6372fef6" },
+  { n = 4, title = "Gat in Teental", mbid = "b6a2f3ae-82dc-4c58-aaea-382c5bbe5b2d" },
+]
+
+[[release]]
+mbid = "e8139924-8cec-4f7c-a5f8-727c4f7a858c"
+title = "Adi Anant - Création Mondiale"
+type = "album"
+date = "2001"
+tracks = [
+  { n = 1, title = "Kalyan (First Part)", mbid = "5a74934c-7444-4381-88c0-c72f90187d5c" },
+  { n = 2, title = "Kalyan (Second Part)", mbid = "fb48f9e8-b97b-44c1-8966-896fd202ee4a" },
+  { n = 3, title = "Sandhya Shree", mbid = "8db62afc-221c-446b-ad64-a93ee14b5633" },
+  { n = 4, title = "Kala Ranjani", mbid = "3effa0b5-c111-444e-82ba-fd7979c43c29" },
+  { n = 5, title = "Bhimpalasi", mbid = "22eb857b-4228-49b3-a96f-488416497df0" },
+  { n = 6, title = "Bhairavi", mbid = "961e9542-063f-49bc-bf8b-4404915fad56" },
+]
+
+[[release]]
+mbid = "6241fc9d-201f-351c-8fd9-18044708a1d6"
+title = "Sangeet Sartaj, Volume 1"
+type = "album"
+date = "2002"
+tracks = [
+  { n = 1, title = "Raag Brindabani Sarang", mbid = "81a68c40-07bb-4853-8404-a0994c786253" },
+  { n = 2, title = "Raag Manjh Khammaj", mbid = "2a018afa-ef2f-40f4-a6e9-6b3c5e3e797b" },
+  { n = 3, title = "Raag Jhinjhoti", mbid = "a307c8d2-6671-4687-aaee-2050f59e0367" },
+]
+
+[[release]]
+mbid = "a63cfddd-8d57-3079-a561-ba5cc47c8aa9"
+title = "Sangeet Sartaj, Volume 2"
+type = "album"
+date = "2002"
+tracks = [
+  { n = 1, title = "Raga Desi Todi", mbid = "c75013bc-5fa3-43af-ba56-473a052fb2ef" },
+  { n = 2, title = "Raga Madhuvanti", mbid = "8ef848d2-e87a-44e7-ba33-e3bcb90f3bdc" },
+  { n = 3, title = "Raga Malkauns", mbid = "5977f13d-5f67-4133-a26e-75b077cd7f65" },
+]
+
+[[release]]
+mbid = "16cbeb39-2d0e-4b55-b316-9723a6419c78"
+title = "Music of The Valleys"
+type = "album"
+date = "2004"
+tracks = [
+  { n = 1, title = "Call Of The Valley", mbid = "cf5b3d0c-59ba-4b05-a2bf-a37ffd2f426f" },
+  { n = 2, title = "Blissful Dawn", mbid = "a5fa77d7-34f4-4169-ae30-b8a1ffdcb235" },
+  { n = 3, title = "Whispering Winds", mbid = "08f540b6-eb77-4f68-a2ca-d3b00e089068" },
+  { n = 4, title = "Echoes Of The Valley", mbid = "9019d52c-a8f6-45cf-8203-9092c6e9f5bd" },
+  { n = 5, title = "Flirtation", mbid = "5a0e0a9a-b2df-4751-af64-cb4b50ae0997" },
+  { n = 6, title = "Twilight Zone", mbid = "984bba4b-48fa-423d-8da8-6ae236eb543b" },
+  { n = 7, title = "Moon Magic", mbid = "bce44357-411e-4f14-9429-7949ebcfdec3" },
+]
+
+[[release]]
+mbid = "ddf6a254-6885-459c-924c-0c093738420f"
+title = "Shikhar"
+type = "album"
+date = "2004"
+tracks = [
+  { disc = 1, n = 1, title = "Raga Jaijavanti: Alap", mbid = "42025743-03ef-4136-aad8-69eb4ce9a045" },
+  { disc = 1, n = 2, title = "Raga Jaijavanti: Jor and Jhalla With Pakhawaj", mbid = "210fc9b4-6bc7-41d7-8eb6-d90af8f42004" },
+  { disc = 2, n = 1, title = "Raga Jog: Composition in Matta Taal (9 Beats)", mbid = "6df4d247-141c-4da8-9704-f843065bae86" },
+  { disc = 2, n = 2, title = "Raga Jog: Dhun in Raga Pahadi", mbid = "5f7577f4-5a46-49b9-b95b-8b9931961c1b" },
+]
+
+[[release]]
+mbid = "a5270a0a-1b5d-4b5e-9177-a35b71509449"
+title = "Bamboo Music"
+type = "album"
+date = "2005"
+tracks = [
+  { n = 1, title = "Bhatiali", mbid = "0d608356-966e-4454-82e2-7dceb5231803" },
+  { n = 2, title = "Lalit", mbid = "086bd457-cfb2-470e-ac98-84076bd24807" },
+]
+
+[[release]]
+mbid = "cc649aaf-8095-4af1-a4a7-5f1cb77390bf"
+title = "Greatest Jugalbandies"
+type = "album"
+date = "2005"
+tracks = [
+  { n = 1, title = "Raga Bhoopali [Mohanam], Aalap", mbid = "92286b56-eb8e-4344-b7ee-96427c488b0c" },
+  { n = 2, title = "Raga Bhoopali [Mohanam], Gats", mbid = "8bb74573-24e6-4491-afbb-069757b228e8" },
+]
+
+[[release]]
+mbid = "3595b79a-ccd5-454f-8282-15d7ae669c95"
+title = "Kirwani: Message Of The Birds"
+type = "album"
+date = "2005-12"
+tracks = [
+]
+
+[[release]]
+mbid = "1a45ac62-1d03-4e1b-9b45-3a6121199777"
+title = "Rasdhara"
+type = "album"
+date = "2006-01-24"
+tracks = [
+  { disc = 1, n = 1, title = "Raga Jhinjhoti, Pt. 1", mbid = "0b4d175e-1fad-4cf3-b927-04a31f9e102a" },
+  { disc = 1, n = 2, title = "Raga Jhinjhoti, Pt. 2", mbid = "e9847e73-4f2e-4530-b657-ac52c9d83071" },
+  { disc = 1, n = 3, title = "Raga Jhinjhoti, Pt. 3", mbid = "24c0f1bf-62ee-4dbc-9b9e-a75fada5b55c" },
+  { disc = 1, n = 4, title = "Raga Jhinjhoti, Pt. 4", mbid = "3cbb3692-396f-4834-93f2-e4225ac32981" },
+  { disc = 2, n = 1, title = "Raga Kirwani, Pt. 1", mbid = "8001d9ec-8b7c-40fe-883f-7cea577aa010" },
+  { disc = 2, n = 2, title = "Raga Kirwani, Pt. 2", mbid = "ea0449f4-7db7-4f89-ba61-6e2f63f85257" },
+  { disc = 2, n = 3, title = "Raga Kirwani, Pt. 3", mbid = "a3f310ef-f4fb-4e01-852c-7375ed904bff" },
+]
+
+[[release]]
+mbid = "94b9150b-785a-4a51-be35-5b3d2cece36a"
+title = "Passage to India - Instrumental"
+type = "album"
+date = "2008"
+tracks = [
+  { disc = 1, n = 1, title = "Raga Bhairav", mbid = "90bb1c1d-a8d4-438d-a889-925453bd1689" },
+  { disc = 1, n = 2, title = "Marwa", mbid = "4ccbd93c-e7c9-4bd0-abfa-3e97cbea713f" },
+  { disc = 1, n = 3, title = "Shree", mbid = "cee5b280-4e62-4f91-8dde-9d09857432fe" },
+  { disc = 1, n = 4, title = "Yaman Kalyan", mbid = "dc8788bf-a9d9-4bd6-9799-eac9995a13b2" },
+  { disc = 1, n = 5, title = "Bhoopali", mbid = "32bdd4a5-340b-49ed-a807-8132fbfbf4e1" },
+  { disc = 1, n = 6, title = "Kaushi Kanada", mbid = "84777f08-7fd6-4d07-895e-29bb3ea2e4ae" },
+  { disc = 1, n = 7, title = "Bageshri", mbid = "4ec4bcb7-08c1-4b28-9da4-e83e274c248b" },
+  { disc = 1, n = 8, title = "Mian Malhar", mbid = "ab60b8ed-a98b-4b70-8711-38c3e91bd64e" },
+  { disc = 1, n = 9, title = "Sudasi Malhar", mbid = "62a17b95-3a09-486c-8fb7-0359cafab9da" },
+  { disc = 1, n = 10, title = "Piloo", mbid = "fd2129e3-929a-40ac-ae04-171d3e49b6e0" },
+  { disc = 1, n = 11, title = "Kirwani", mbid = "24cadbdd-6557-4066-b80a-724b1ddb957e" },
+  { disc = 1, n = 12, title = "Mishra Bhairav", mbid = "ca32c336-44b0-4789-ba52-ca0c51f1bfa8" },
+  { disc = 2, n = 1, title = "Bairagi", mbid = "caea04ce-76b4-4df6-9f60-806dc0c40ccd" },
+  { disc = 2, n = 2, title = "Hindol", mbid = "5d033a4a-505f-4120-8ab4-594c90b42a6c" },
+  { disc = 2, n = 3, title = "Shuddh Sarang", mbid = "b4747abc-0766-46b6-bb37-7f61a58506ab" },
+  { disc = 2, n = 4, title = "Multani", mbid = "d25fec51-0fb7-4a7c-a08b-f5b144ab37f1" },
+  { disc = 2, n = 5, title = "Shree", mbid = "833407ef-e849-4429-ae38-e50287a9d988" },
+  { disc = 2, n = 6, title = "Jait", mbid = "6c791841-d1cd-4f8c-bd82-f5d4de7bc5ed" },
+  { disc = 2, n = 7, title = "Yamani", mbid = "4c9fb1c4-1e25-4b8c-858b-45f587d7d898" },
+  { disc = 2, n = 8, title = "Bhoop", mbid = "e24dea6c-15e2-4aeb-9114-b05794147174" },
+  { disc = 2, n = 9, title = "Shankara", mbid = "591eb9f4-453e-4cff-9aee-974e80af6d2e" },
+  { disc = 2, n = 10, title = "Malkauns", mbid = "cbf68071-8d80-40ee-8390-327139825742" },
+  { disc = 2, n = 11, title = "Sohini", mbid = "26c6a0b3-5b49-47fc-8298-51fcb8f7d415" },
+]
+
+[[release]]
+mbid = "688140fb-4f04-4222-a73a-3e2d48e3ef8e"
+title = "Classical Wonders Of India - Pt. Hariprasad Chaurasia"
+type = "album"
+date = "2009"
+tracks = [
+  { n = 1, title = "Raga Patdeep", mbid = "135bb908-053c-4140-9e3b-13595da542ac" },
+]
+
+[[release]]
+mbid = "2c474786-909a-4733-8de3-144d21a56ae5"
+title = "Silsila Suron Ka"
+type = "album"
+date = "2009"
+tracks = [
+  { disc = 1, n = 1, title = "Raga Madhuwanti", mbid = "cdc7b983-6500-4a88-910e-00af35f11b0a" },
+  { disc = 1, n = 2, title = "Raga Maru Bihag", mbid = "3d06d5fc-9bbc-4077-98b5-7036b039bf27" },
+  { disc = 2, n = 1, title = "Raga Mishra Khamaj", mbid = "e286fd6e-9689-4f14-9dd3-445fa24b6540" },
+]
+
+[[release]]
+mbid = "45078bec-5582-4e72-b6f8-c7a0e6243ccb"
+title = "Jugalbandi I"
+type = "album"
+date = "2011"
+tracks = [
+  { n = 1, title = "Raag Durga: Aalaap and Jod", mbid = "9ade7e22-e394-4b02-9de7-f9a6b74f108c" },
+  { n = 2, title = "Raag Durga: Gat in Roopak Taal", mbid = "6ae6ebd1-f4a0-4661-ac3b-f2085399966d" },
+]
+
+[[release]]
+mbid = "bd68d173-d1ab-4b29-a714-69875b71a8e1"
+title = "Jugalbandi - II"
+type = "album"
+date = "2011-10"
+tracks = [
+  { n = 1, title = "Raag Chandrakauns - Taal: Teentaal", mbid = "5566221f-ca32-4884-afd8-7d6973911f37" },
+  { n = 2, title = "Raag Mishra Shivranjani - Taal: Deepchandi", mbid = "d5798b85-8af4-4ea1-840a-7698d36bce3b" },
+]
+
+[[release]]
+mbid = "47e1be3d-1bb6-47bc-abf9-170e52d4479b"
+title = "Ajanma"
+type = "album"
+date = "2014-12-20"
+tracks = [
+  { n = 1, title = "Silence", mbid = "10be3bd7-ef71-44e9-a3eb-bce5c1bc211c" },
+  { n = 2, title = "Blossom", mbid = "0381aad7-4f2a-4ca9-9ece-c285e1d997df" },
+  { n = 3, title = "Ma", mbid = "f41db895-9f70-4488-8894-5e9cebabc9f9" },
+]
+
+[[release]]
+mbid = "f48a7579-afc6-42ee-bc94-5670cdcae43f"
+title = "Music Therapy - For Motivation & Rejuvenation"
+type = "album"
+date = "2016-01-15"
+spotify = "5onhOTw07V7vWwwZW5E4Vk"
+tracks = [
+  { n = 1, title = "Introduction To Therapy (Based on) Raga Yaman", mbid = "fa794281-9d42-421a-b1ae-bc8bbc965690" },
+  { n = 2, title = "Orientation - (Based On) Raga Kanada", mbid = "883705d1-e816-4dc0-a160-30ada18eb7d2" },
+  { n = 3, title = "Raga Shivranjani (feat. Rakesh Chaurasia)", mbid = "c189cec6-351f-4e5a-b2b0-8d1490f09330" },
+  { n = 4, title = "Raga Hansadhwani", mbid = "2ba4d918-aaca-45a5-9d0d-fa866b1921cf" },
+]
+
+[[release]]
+mbid = "4542a886-936f-4832-9c31-1137e2b1e666"
+title = "Vrindavan (Live)"
+type = "album"
+date = "2019-10-11"
+tracks = [
+  { n = 1, title = "Gokul Main Baajat - Raga Kedar (Live)", mbid = "c621bb5b-a19d-418a-89cf-a33cc95b115e" },
+  { n = 2, title = "Aaj To Anand - Raga Ahir Bhairav (Live)", mbid = "249deb6f-2679-468f-8cb2-6e36fb7a0720" },
+  { n = 3, title = "Braje Vasantam - Raga Mishra Pilu (Live)", mbid = "ecbda5f8-8928-4fa3-beb8-1c6f58e7609e" },
+]
+
+[[release]]
+mbid = "f01db47b-4f06-303d-84b5-789364a3bc84"
+title = "Chaurasia's Choice"
+type = "album"
+tracks = [
+  { n = 1, title = "Raga: Ahir Bhairav [Alap and Jod Followed by Gat in Rupak Taal]", mbid = "342d1fc1-96c1-4d1d-924a-f5603795bf61" },
+  { n = 2, title = "Raga: Multani [Madhya and Drut Laya in Teen Taal]", mbid = "8775ca27-d468-4950-8c20-5a865cd84da3" },
+  { n = 3, title = "Raga: Mishra Kafi (Hori) [Dadra Taal]", mbid = "8ae48c3a-87ab-4e45-9925-cf5766f0dbf9" },
+  { n = 4, title = "Raga: Manj Khamaj [Deepchandi Tal] [Drut in Kehrawa Taal]", mbid = "f1d68fe3-1a89-4329-a0f1-b98991dfef01" },
+]
+
+[[release]]
+mbid = "fb68be39-fbbe-3992-bb30-72ef42bd4f1d"
+title = "Flute - In Live Concert"
+type = "album"
+tracks = [
+  { n = 1, title = "Raga Yaman - Alap and Gat in Madhyalay Teental & Gat in Drut Teental", mbid = "0ff69f8b-d0c4-496a-975a-699299c0cb83" },
+  { n = 2, title = "Raga Malika", mbid = "878b3c79-e71f-4eda-a8ea-e9a041a42eb6" },
+]
+
+[[release]]
+mbid = "22c1c4d6-0882-3280-b15b-1423c66ef543"
+title = "Flute: Live at Kufa Gallery 1990"
+type = "album"
+tracks = [
+  { n = 1, title = "Raga Jait: Introduction", mbid = "a9c98bef-43bd-43c0-bf5e-e6c97345f15d" },
+  { n = 2, title = "Raga Jait: Alap", mbid = "3da8cc1c-756e-41f8-ac11-8a381a81e38d" },
+  { n = 3, title = "Raga Jait: Gat in Rupak Tal", mbid = "7e758f0d-7b92-4cb3-8703-07bd76bbf1b3" },
+]
+
+[[release]]
+mbid = "b315f632-4f3d-4c5e-bf32-483e08d8abf8"
+title = "Four Dhuns"
+type = "album"
+tracks = [
+  { n = 1, title = "Pahadi dhun", mbid = "7425f1a1-3d3c-461d-ac77-306b2a3d3c63" },
+  { n = 2, title = "Shivrananjani dhun", mbid = "60ecbde2-cf69-446b-8f2b-e0663f97cd8f" },
+  { n = 3, title = "Pilu dhun", mbid = "947a447b-5f44-4c3f-a167-dc3929cf194f" },
+  { n = 4, title = "Bengali folk tune", mbid = "43f23200-86cc-4c8b-be2f-edec666f61c2" },
+]
+
+[[release]]
+mbid = "a4c05092-7d87-4ade-8c9f-2d88bcb306a4"
+title = "Live At Shivaji Park - Bombay / Raga Jog"
+type = "album"
+tracks = [
+  { n = 1, title = "Raga Jog: Alap", mbid = "64f3ca57-5f03-4e98-a0d1-f0392370af3f" },
+  { n = 2, title = "Raga Jog: Gat - Khyal In Madhya Lay Teental, Tarana In Drut Teental", mbid = "1add4443-a88d-47a6-9379-7a08ad3394b5" },
+]
+
+[[release]]
+mbid = "e976813b-4af7-39fa-89f0-a81ef298f90e"
+title = "Maestro's Choice: Series 2: Flute"
+type = "album"
+tracks = [
+  { n = 1, title = "Raga Durga", mbid = "6ab40eec-32db-4c18-9dcd-2c50a3e74f9c" },
+  { n = 2, title = "Raga Bageshree", mbid = "1f5f63d2-3ad8-4d28-adfa-0ab19355dce2" },
+]
+
+[[release]]
+mbid = "096fa055-4087-45d3-86cf-6c8f6f2ccfb3"
+title = "Power And Grace - I"
+type = "album"
+tracks = [
+  { n = 1, title = "Introduction (Hindi)", mbid = "65cfedad-a5c6-44f6-891e-0e3dc5034cd4" },
+  { n = 2, title = "Raga Durga (Accompanied by Pakhawaj)", mbid = "9d202fe0-7f6b-4218-bd23-ca29aadf8068" },
+  { n = 3, title = "Raga Malkauns (Accompanied by Tabla)", mbid = "8aa4e11e-320f-49a0-b571-f5ca99156c20" },
+]
+
+[[release]]
+mbid = "ff34104f-5bda-4870-b79d-e9ef93fe88b5"
+title = "Pure Bliss, Volume 1"
+type = "album"
+tracks = [
+  { n = 1, title = "Raga Jaijaivanti", mbid = "cb7b9eda-6c0b-4205-bd5e-04f1811ea404" },
+  { n = 2, title = "Rupak Taal", mbid = "ef504412-73da-4da0-b5f9-a8f410a2df19" },
+]
+
+[[release]]
+mbid = "8a5193ff-0654-4c71-ae55-86c6ad6e9ca0"
+title = "Raga Cycle"
+type = "album"
+tracks = [
+  { n = 1, title = "Raga Bhiragi - alap, gat in jhaptaal", mbid = "33cc9e6a-1bfd-400e-8a20-c427095fb142" },
+  { n = 2, title = "Raga Madhmad Sarang - gat in rupak taal", mbid = "69f813ca-685b-4df4-8746-a611844c3a35" },
+  { n = 3, title = "Raga Durga - gat in malta taal", mbid = "1d0b807c-1116-4cce-a02c-63552799049b" },
+  { n = 4, title = "Tabla Solo", mbid = "bcd5326b-5651-4fba-8d3e-a66b92995cc8" },
+  { n = 5, title = "Raga Abhogi", mbid = "fde1b6a8-bf3d-4fc6-ac98-49f095d85849" },
+]
+
+[[release]]
+mbid = "bf7fac17-467c-3365-ad34-9b74a4a54081"
+title = "The Jugalbandi Series Vol.1"
+type = "album"
+tracks = [
+  { n = 1, title = "Raga Lalit (khyal in vilambit teental)", mbid = "6396e4df-6dfa-4297-8a79-41681442d6a0" },
+]
+
+[[release]]
+mbid = "ca2f8534-6628-399a-a132-7ad84b51143a"
+title = "The Jugalbandi Series Vol.2"
+type = "album"
+tracks = [
+  { n = 1, title = "Raga Lalit (khyal in drut teental)", mbid = "0f9caa60-fea0-4142-a757-3dec7af92ad9" },
+  { n = 2, title = "Raga Sindhi Bhairavi (thumri in kaharva tal)", mbid = "3707e3e5-4e99-4520-a007-4806c8370cc2" },
+]

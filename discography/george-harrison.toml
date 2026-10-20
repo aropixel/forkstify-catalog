@@ -1,0 +1,526 @@
+format = 1
+
+[[release]]
+mbid = "b269b6f2-2244-3401-b093-9ea7ab7274b3"
+title = "Wonderwall Music"
+type = "album"
+date = "1968-11-01"
+tracks = [
+  { n = 1, title = "Microbes", mbid = "c415f00d-4f9f-41bd-829a-ca9d38e9cfee" },
+  { n = 2, title = "Red Lady Too", mbid = "9e1a4b0d-5340-4453-acc7-e82707c4fd35" },
+  { n = 3, title = "Tabla and Pakavaj", mbid = "fe672682-de1d-47dc-8462-094f791cd7ee" },
+  { n = 4, title = "In the Park", mbid = "637a9a71-4de9-46f2-9b49-21bc84e1c261" },
+  { n = 5, title = "Drilling a Home", mbid = "d4efd36b-2714-4734-ba24-088cfec56125" },
+  { n = 6, title = "Guru Vandana", mbid = "fa41293f-6b6a-4159-9fe9-1aa9a1d65bdb" },
+  { n = 7, title = "Greasy Legs", mbid = "a04777e1-cd31-4979-a6b7-6b9222105568" },
+  { n = 8, title = "Ski‐ing", mbid = "83f13f6d-f2b2-4c8a-b566-5cd2a9e55c80" },
+  { n = 9, title = "Gat Kirwani", mbid = "4693ca19-1a5b-44c0-97e3-9239e2b4fe36" },
+  { n = 10, title = "Dream Scene", mbid = "1be52ea1-c2ba-4b0b-a7fc-311cdf46fe29" },
+  { n = 11, title = "Party Seacombe", mbid = "bd7038a6-49c0-4e07-b783-0b592def565b" },
+  { n = 12, title = "Love Scene", mbid = "f2bcfc91-f0e8-4831-875e-cce856fd8b64" },
+  { n = 13, title = "Crying", mbid = "ecf2095a-b99a-4b08-a5e2-23de5c8efd5e" },
+  { n = 14, title = "Cowboy Music", mbid = "ebf8c9b9-3390-4cae-ab45-9d34f41adb82" },
+  { n = 15, title = "Fantasy Sequins", mbid = "90b30d2d-b8d6-434d-8b8a-ed156e31c7d2" },
+  { n = 16, title = "On the Bed", mbid = "81b34d85-3633-41f9-8446-1ce3402869a9" },
+  { n = 17, title = "Glass Box", mbid = "02f07173-7256-4e9b-8543-3f559fbb1ed2" },
+  { n = 18, title = "Wonderwall to Be Here", mbid = "94642aeb-fb8b-4d42-a17b-3a3f7a075620" },
+  { n = 19, title = "Singing Om", mbid = "67e2d126-32da-48f1-99c7-794fd6c1ef3a" },
+]
+
+[[release]]
+mbid = "c88ff0b1-786a-3d08-8727-edfca3d97934"
+title = "Electronic Sound"
+type = "album"
+date = "1969-05-02"
+spotify = "4l8peRbZAgWcXRkRIdDunO"
+tracks = [
+  { n = 1, title = "Under the Mersey Wall", mbid = "bf7bae41-c30f-45c9-9aae-d482d2ac16f5" },
+  { n = 2, title = "No Time or Space", mbid = "bfe44b8b-cf0f-4cfb-8eaa-46d7d6025cb9" },
+]
+
+[[release]]
+mbid = "ccc38adf-1267-37cd-b591-7c38384d8b20"
+title = "What Is Life"
+type = "single"
+date = "1970"
+tracks = [
+  { n = 1, title = "What Is Life", mbid = "fefb3869-aec7-490d-a0da-b42436a571ac" },
+  { n = 2, title = "Apple Scruffs", mbid = "c6af7514-6e48-4a68-865c-9bf9d882f96a" },
+]
+
+[[release]]
+mbid = "e5a2bdb8-f42f-351f-afb7-d24ab35967e8"
+title = "My Sweet Lord"
+type = "single"
+date = "1970-10-23"
+tracks = [
+  { n = 1, title = "My Sweet Lord", mbid = "7571a56b-994e-4829-ae8b-71abb84809be" },
+  { n = 2, title = "Isn’t It a Pity", mbid = "e64dd8b3-5d2f-4320-a7c8-0c54f5b41933" },
+]
+
+[[release]]
+mbid = "d4b0f3e2-e3eb-3531-b305-ed8105cb5be4"
+title = "All Things Must Pass"
+type = "album"
+date = "1970-11-27"
+spotify = "4RzYS74QxvpqTDVwKbhuSg"
+tracks = [
+  { disc = 1, n = 1, title = "I’d Have You Anytime", mbid = "ef84e6e4-dff4-4ae2-8938-118a51dd6855" },
+  { disc = 1, n = 2, title = "My Sweet Lord", mbid = "7571a56b-994e-4829-ae8b-71abb84809be" },
+  { disc = 1, n = 3, title = "Wah‐Wah", mbid = "1bbd50cb-d74f-4096-86f6-02a7dcb41ee5" },
+  { disc = 1, n = 4, title = "Isn’t It a Pity (version one)", mbid = "e64dd8b3-5d2f-4320-a7c8-0c54f5b41933" },
+  { disc = 1, n = 5, title = "What Is Life", mbid = "fefb3869-aec7-490d-a0da-b42436a571ac" },
+  { disc = 1, n = 6, title = "If Not for You", mbid = "0e28a49b-7b9a-47ec-b303-754b34bc37cb" },
+  { disc = 1, n = 7, title = "Behind That Locked Door", mbid = "a7cce680-56cd-4bf4-a243-5151c74ab68d" },
+  { disc = 1, n = 8, title = "Let It Down", mbid = "bb89d0a6-ad22-4672-8c7e-7301948ab8af" },
+  { disc = 1, n = 9, title = "Run of the Mill", mbid = "fb322320-7bca-48f8-a793-ba5501b85a4d" },
+  { disc = 2, n = 1, title = "Beware of Darkness", mbid = "2a936707-d877-4280-86e1-5e137915044b" },
+  { disc = 2, n = 2, title = "Apple Scruffs", mbid = "c6af7514-6e48-4a68-865c-9bf9d882f96a" },
+  { disc = 2, n = 3, title = "Ballad of Sir Frankie Crisp (Let It Roll)", mbid = "1057807b-80d2-4d37-8717-48608b69b6d8" },
+  { disc = 2, n = 4, title = "Awaiting on You All", mbid = "6f1194ac-53cd-4ea6-ab53-68af0803652c" },
+  { disc = 2, n = 5, title = "All Things Must Pass", mbid = "dd6d8e5c-7050-4510-a5ff-b619ba2b92a5" },
+  { disc = 2, n = 6, title = "I Dig Love", mbid = "42925be0-2054-4e6e-a360-e8f0251c11d7" },
+  { disc = 2, n = 7, title = "Art of Dying", mbid = "cbd96eca-7aa5-4895-8a2c-c5afe1a51df9" },
+  { disc = 2, n = 8, title = "Isn’t It a Pity (version two)", mbid = "ecc849dc-e2e3-4b59-b0c8-32656dff6b3b" },
+  { disc = 2, n = 9, title = "Hear Me Lord", mbid = "71ce6351-e2e9-4b3c-b4a2-b93f81fa4aab" },
+  { disc = 3, n = 1, title = "Out of the Blue", mbid = "9794d50b-e411-42bf-92ce-c1426f77f6b1" },
+  { disc = 3, n = 2, title = "It’s Johnny’s Birthday", mbid = "3d8564da-71d8-4013-a878-115daaaa479b" },
+  { disc = 3, n = 3, title = "Plug Me In", mbid = "d2757311-6723-4cd6-8b92-8b601cae8cba" },
+  { disc = 3, n = 4, title = "I Remember Jeep", mbid = "f949464a-07dd-4e75-bc86-4892795860c8" },
+  { disc = 3, n = 5, title = "Thanks for the Pepperoni", mbid = "b2ab8c16-81df-4b15-8857-eade15957a7e" },
+]
+
+[[release]]
+mbid = "9ac85ffa-384d-496d-b5e7-6229d84decc0"
+title = "Bangla Desh"
+type = "single"
+date = "1971-07-28"
+tracks = [
+  { n = 1, title = "Bangla Desh", mbid = "3a5c02fe-6ab1-492e-9d7c-5fad8aafa8ff" },
+  { n = 2, title = "Deep Blue", mbid = "ed0d2365-6e6f-4697-a470-ee9df3be0159" },
+]
+
+[[release]]
+mbid = "cc698180-e33b-439d-a01b-b6b00a9009b5"
+title = "Mój Słodki Panie / Czarownica"
+type = "single"
+date = "1972"
+tracks = [
+  { n = 1, title = "My Sweet Lord", mbid = "32ff6be4-11dc-4487-b509-aa4d6c39f51c" },
+  { n = 2, title = "The Witch", mbid = "3e14a2a9-5085-4264-a02a-23bf51aab557" },
+]
+
+[[release]]
+mbid = "af84ae83-a9e3-4268-bcad-eae1cff5a802"
+title = "Un uomo nella vita / Give Me Love (Give Me Peace on Earth) / Un’altra età / Can the Can"
+type = "ep"
+date = "1973"
+tracks = [
+  { n = 1, title = "Un uomo nella vita", mbid = "597a2e28-6571-4e8c-a714-315d83508801" },
+  { n = 2, title = "Give Me Love (Give Me Peace on Earth)", mbid = "9011ae6a-61c1-46fe-8243-99f6668be42f" },
+  { n = 3, title = "Un’altra età", mbid = "f7fb3998-fbba-4536-b850-30e34e85b76d" },
+  { n = 4, title = "Can the Can", mbid = "e717e8a5-bf53-459d-9305-beb5f10cc0a8" },
+]
+
+[[release]]
+mbid = "9a427b7a-a3de-446f-be7d-8b798787f58e"
+title = "Give Me Love (Give Me Peace on Earth)"
+type = "single"
+date = "1973-05-07"
+tracks = [
+  { n = 1, title = "Give Me Love (Give Me Peace on Earth)", mbid = "4b857de9-9ece-4d16-a060-284f8fb1fd7a" },
+  { n = 2, title = "Miss O'Dell", mbid = "631cc052-fab2-49ed-b751-a88f21d238a6" },
+]
+
+[[release]]
+mbid = "35f1fade-fc94-3f95-906c-d91935add4d5"
+title = "Living in the Material World"
+type = "album"
+date = "1973-05-30"
+spotify = "6DfpxC0hn5JTusslgO0IYj"
+tracks = [
+  { n = 1, title = "Give Me Love (Give Me Peace on Earth)", mbid = "4b857de9-9ece-4d16-a060-284f8fb1fd7a" },
+  { n = 2, title = "Sue Me, Sue You Blues", mbid = "74b974c6-4f3e-4912-8641-b34c1227b3bc" },
+  { n = 3, title = "The Light That Has Lighted the World", mbid = "bc0e0ea3-f82d-4102-afd0-7549541ea4f7" },
+  { n = 4, title = "Don’t Let Me Wait Too Long", mbid = "4b685c42-6b24-49e4-8471-bc41b4cb4086" },
+  { n = 5, title = "Who Can See It", mbid = "5159b5aa-1254-43c5-8fc8-baab74224ca9" },
+  { n = 6, title = "Living in the Material World", mbid = "8992711a-76da-4f1f-9b6d-eac070a70283" },
+  { n = 7, title = "The Lord Loves the One (That Loves the Lord)", mbid = "ac45affd-e460-493c-b25d-3010db5a68e4" },
+  { n = 8, title = "Be Here Now", mbid = "6b26cb73-707a-4661-b499-aa243c2aeaf5" },
+  { n = 9, title = "Try Some Buy Some", mbid = "7d2fae98-0a96-49ee-9ff1-9942dd792093" },
+  { n = 10, title = "The Day the World Gets ’Round", mbid = "510b20fb-7210-489b-bd89-c3635a6b184c" },
+  { n = 11, title = "That Is All", mbid = "826bff8a-0d6b-4c4f-92f1-0c4634a01383" },
+]
+
+[[release]]
+mbid = "8c5db37c-c8e2-4b6c-8eed-f51502a45c2b"
+title = "Dark Horse"
+type = "single"
+date = "1974"
+tracks = [
+  { n = 1, title = "Dark Horse (mono)", mbid = "25e41953-f178-4767-963f-a77340daf36c" },
+  { n = 2, title = "Dark Horse (stereo)", mbid = "1daa646d-de1b-4e3e-a44a-382819a88d37" },
+]
+
+[[release]]
+mbid = "cea4c6d7-d328-4965-be37-cc637752ec1f"
+title = "Ding Dong"
+type = "single"
+date = "1974-12-06"
+tracks = [
+  { n = 1, title = "Ding Dong", mbid = "20b9e5ba-e6cc-4e85-8e74-f362421f1022" },
+  { n = 2, title = "I Don't Care Anymore", mbid = "93f25700-5b9e-4600-bf2b-f0672db26b4a" },
+]
+
+[[release]]
+mbid = "ab634295-9bab-3526-aec8-e73ac824b5c3"
+title = "Dark Horse"
+type = "album"
+date = "1974-12-09"
+spotify = "3AS5heU80djxJRp7Zw6WBZ"
+tracks = [
+  { n = 1, title = "Hari’s on Tour (Express)", mbid = "b0bfc77f-e656-4c25-a58d-14343120f82d" },
+  { n = 2, title = "Simply Shady", mbid = "bf4543ca-5454-467c-be87-cb8486fdbe5b" },
+  { n = 3, title = "So Sad", mbid = "fdb494ef-7b37-42b3-9409-a88ac96f5159" },
+  { n = 4, title = "Bye Bye, Love", mbid = "2a5697df-33a1-4ff0-a72e-a348150c8a50" },
+  { n = 5, title = "Māya Love", mbid = "507f5f32-26d9-47d2-a0eb-5c4b796c0815" },
+  { n = 6, title = "Ding Dong, Ding Dong", mbid = "20b9e5ba-e6cc-4e85-8e74-f362421f1022" },
+  { n = 7, title = "Dark Horse", mbid = "1bbb9387-6863-431e-9e31-749fa34ac68b" },
+  { n = 8, title = "Far East Man", mbid = "1eaf1548-84ac-426d-95ea-6bdfa8bf53c1" },
+  { n = 9, title = "It Is “He” (Jai Sri Krishna)", mbid = "8488b202-9076-4727-9f42-c669b97b1694" },
+]
+
+[[release]]
+mbid = "e1322eb7-0898-4cf3-8f8f-6c039c62df7f"
+title = "You / World of Stone"
+type = "single"
+date = "1975-09-12"
+tracks = [
+  { n = 1, title = "You", mbid = "d19c25c6-9f8b-4015-b450-4576d898e7e0" },
+  { n = 2, title = "World of Stone", mbid = "a607375d-41e3-45fd-ab75-62ea0bdfa937" },
+]
+
+[[release]]
+mbid = "751a99a9-5ca2-3819-8de6-7a890a797ee7"
+title = "Extra Texture (Read All About It)"
+type = "album"
+date = "1975-09-22"
+spotify = "5Z7pksgTeaaAbN7MBQBbLJ"
+tracks = [
+  { n = 1, title = "You", mbid = "d19c25c6-9f8b-4015-b450-4576d898e7e0" },
+  { n = 2, title = "The Answer’s at the End", mbid = "68cc690a-e70d-4f5a-b182-a3cebf06d9c7" },
+  { n = 3, title = "This Guitar (Can’t Keep From Crying)", mbid = "34d66785-0841-468e-a26d-2c79bde1634e" },
+  { n = 4, title = "Ooh Baby (You Know That I Love You)", mbid = "46d0a5c5-70c0-441a-a307-9aa6163f9124" },
+  { n = 5, title = "World of Stone", mbid = "a607375d-41e3-45fd-ab75-62ea0bdfa937" },
+  { n = 6, title = "A Bit More of You", mbid = "4c34bd46-6990-40cc-9bf4-a8372d2c926b" },
+  { n = 7, title = "Can’t Stop Thinking About You", mbid = "c19ff87a-5b5a-41f3-8e86-508d01df9ef7" },
+  { n = 8, title = "Tired of Midnight Blue", mbid = "70160642-b72b-412a-ad7d-88e100d8d807" },
+  { n = 9, title = "Grey Cloudy Lies", mbid = "b97c4412-3b08-410f-a90c-f73450dffef7" },
+  { n = 10, title = "His Name Is Legs (Ladies and Gentlemen)", mbid = "a81b5325-58d9-47c7-8329-2e24316c466a" },
+]
+
+[[release]]
+mbid = "9fe5f523-2408-4de7-a2f4-db1f58422625"
+title = "Crackerbox Palace"
+type = "single"
+date = "1976"
+tracks = [
+  { n = 1, title = "Crackerbox Palace (stereo)", mbid = "0eeff490-0757-4b8c-9365-0bc59ea52497" },
+  { n = 2, title = "Crackerbox Palace (mono)", mbid = "d9a72fb2-ed49-4e90-9303-acaf12dc93b8" },
+]
+
+[[release]]
+mbid = "41a20b2b-1bdb-44b2-a1cb-63dda1366c34"
+title = "This Song"
+type = "single"
+date = "1976-11-15"
+tracks = [
+  { n = 1, title = "This Song", mbid = "248b1baa-d60b-4a38-8640-bc3a2f5f8d9e" },
+  { n = 2, title = "Learning How to Love You", mbid = "68f49e76-db55-43a0-b6e2-db3a1f0142e5" },
+]
+
+[[release]]
+mbid = "3ca60daa-4316-38dd-9a86-cfd6808f342a"
+title = "Thirty Three & 1/ॐ"
+type = "album"
+date = "1976-11-19"
+spotify = "1qm3K5ToefIAfTaRlJ0ptX"
+tracks = [
+  { n = 1, title = "Woman Don’t You Cry for Me", mbid = "069a9810-f584-4e00-a314-1793ce586495" },
+  { n = 2, title = "Dear One", mbid = "5e9c0073-0887-4564-acaf-d2cb035cec04" },
+  { n = 3, title = "Beautiful Girl", mbid = "fd382283-88ad-4a1b-8a28-7cb89f27f0da" },
+  { n = 4, title = "This Song", mbid = "c52c6ca2-6c89-41b0-b7db-10a6e9aeb300" },
+  { n = 5, title = "See Yourself", mbid = "64844881-416c-4c2b-ac56-1a8ec7ffbd7a" },
+  { n = 6, title = "It’s What You Value", mbid = "067dbc57-bf4b-4efd-831a-e8a10ac6f11b" },
+  { n = 7, title = "True Love", mbid = "80afaa9e-00dc-4933-89df-0148ae8e3380" },
+  { n = 8, title = "Pure Smokey", mbid = "0de7fbf0-b456-496f-a49d-d4f6c862a2ec" },
+  { n = 9, title = "Crackerbox Palace", mbid = "8e5313b8-a913-4d91-8d28-38db8892f37b" },
+  { n = 10, title = "Learning How to Love You", mbid = "5de561e7-1cc5-4b0f-b455-8a0794a09fff" },
+]
+
+[[release]]
+mbid = "8378d9f3-bc30-4b2f-b202-5f74b67b486a"
+title = "Blow Away"
+type = "single"
+date = "1979-02-14"
+tracks = [
+  { n = 1, title = "Blow Away", mbid = "24352418-7187-40fa-be69-5baa14c473cc" },
+  { n = 2, title = "Soft‐Hearted Hana", mbid = "c62e7934-d80f-46f4-92e3-a96870dca971" },
+]
+
+[[release]]
+mbid = "fc4dc30c-de62-3497-8fd3-b8cb253e2949"
+title = "George Harrison"
+type = "album"
+date = "1979-02-14"
+spotify = "5LEZHIvSR7NRc9J4ojDUwU"
+tracks = [
+  { n = 1, title = "Love Comes to Everyone", mbid = "9a197f6a-8152-4ab4-8582-4dff5afb5257" },
+  { n = 2, title = "Not Guilty", mbid = "ea0b5860-54c6-41bf-98e2-e543db507dae" },
+  { n = 3, title = "Here Comes the Moon", mbid = "2ebf2f5b-ac08-4c31-9af1-017221bce01b" },
+  { n = 4, title = "Soft Hearted Hana", mbid = "ce9df547-049f-48bb-8b78-96a14502ea1e" },
+  { n = 5, title = "Blow Away", mbid = "24352418-7187-40fa-be69-5baa14c473cc" },
+  { n = 6, title = "Faster", mbid = "28aa1309-25f6-43d0-ba1c-1934c08795be" },
+  { n = 7, title = "Dark Sweet Lady", mbid = "348376af-91bd-406e-a7af-616df16add48" },
+  { n = 8, title = "Your Love Is Forever", mbid = "dc3f2c7d-0974-4dac-8914-063334befaa6" },
+  { n = 9, title = "Soft Touch", mbid = "e9e0d7b2-66c6-4a8a-9058-c2cbf7e89a91" },
+  { n = 10, title = "If You Believe", mbid = "016547d3-8c6e-40f6-bdaa-413a6c445154" },
+]
+
+[[release]]
+mbid = "800fa023-fcf8-4edd-b5a6-8ecfc9d1adea"
+title = "Love Comes to Everyone"
+type = "single"
+date = "1979-05-11"
+tracks = [
+  { n = 1, title = "Love Comes to Everyone", mbid = "ecb64b71-2786-4765-bce4-ba5456e48ecc" },
+  { n = 2, title = "Soft Touch", mbid = "a10fb425-6447-4a79-84d1-ca66050a025a" },
+]
+
+[[release]]
+mbid = "c2f3d487-5196-46e2-b097-1af7fcdac15f"
+title = "Teardrops"
+type = "single"
+date = "1981"
+tracks = [
+  { n = 1, title = "Teardrops (mono)", mbid = "ac1669aa-671b-479e-b1cd-8bce3a086c17" },
+  { n = 2, title = "Teardrops (stereo)", mbid = "28bbf493-6632-4a30-9af5-4e5a01403ad4" },
+]
+
+[[release]]
+mbid = "2710830c-e9c8-4a87-8b22-b727317e26dd"
+title = "All Those Years Ago"
+type = "single"
+date = "1981-05-22"
+tracks = [
+  { n = 1, title = "All Those Years Ago", mbid = "60666151-aefc-4814-a6d6-8a636a075881" },
+  { n = 2, title = "Writing’s on the Wall", mbid = "d92042d6-0e44-48ba-aa49-8ef88005bf52" },
+]
+
+[[release]]
+mbid = "8d6eaa96-09b9-3eff-81f1-4859e460e2ad"
+title = "Somewhere in England"
+type = "album"
+date = "1981-05-27"
+spotify = "50E5kvfhAjBas6YH8ylERZ"
+tracks = [
+  { n = 1, title = "Blood From a Clone", mbid = "1447d858-3463-4583-8f85-998a4df5f1e1" },
+  { n = 2, title = "Unconsciousness Rules", mbid = "3dd80926-fe0a-4d5e-be55-070054dfe2f0" },
+  { n = 3, title = "Life Itself", mbid = "e8524739-1947-4d32-b100-6b0701649a7e" },
+  { n = 4, title = "All Those Years Ago", mbid = "60666151-aefc-4814-a6d6-8a636a075881" },
+  { n = 5, title = "Baltimore Oriole", mbid = "15656eed-793e-4698-bdb1-5a194d97fc7e" },
+  { n = 6, title = "Teardrops", mbid = "5d9ed883-2cdd-4fe2-8f94-880ad378b42e" },
+  { n = 7, title = "That Which I Have Lost", mbid = "94b10bbe-7fab-4407-92e3-1e147a3283f0" },
+  { n = 8, title = "Writing’s on the Wall", mbid = "d92042d6-0e44-48ba-aa49-8ef88005bf52" },
+  { n = 9, title = "Hong Kong Blues", mbid = "89375226-20c6-478d-bc2d-6bbc26793684" },
+  { n = 10, title = "Save the World", mbid = "e5132781-713c-467d-91ed-6087241b5a16" },
+]
+
+[[release]]
+mbid = "f8bf255e-7fe9-4398-aa9e-8c689dc46eda"
+title = "I Really Love You"
+type = "single"
+date = "1982"
+tracks = [
+  { n = 1, title = "I Really Love You", mbid = "90781a49-e8b6-4212-90a1-97f0ae946ecf" },
+  { n = 2, title = "Circles", mbid = "a5bc5d0a-5448-4b0d-98fd-177cb1a82dee" },
+]
+
+[[release]]
+mbid = "3ab40e0b-b671-4557-85f9-ba264fcef504"
+title = "Wake Up My Love"
+type = "single"
+date = "1982"
+tracks = [
+  { n = 1, title = "Wake Up My Love", mbid = "3324a812-4e5e-4898-bcd6-9d3a5a12c0ac" },
+  { n = 2, title = "Greece (instrumental)", mbid = "dc6a3870-99f3-41f9-a68d-a2010074197f" },
+]
+
+[[release]]
+mbid = "f420fad3-36b6-33f7-8cce-76efbd12dc8f"
+title = "Gone Troppo"
+type = "album"
+date = "1982-10-27"
+spotify = "3pgglWjc7ni5ROElAC95Nx"
+tracks = [
+  { n = 1, title = "Wake Up My Love", mbid = "5027dc7e-77ec-4786-a0ec-301798d66485" },
+  { n = 2, title = "That’s the Way It Goes", mbid = "f82ed0d9-27dd-4705-9cc7-c9284d1973f9" },
+  { n = 3, title = "I Really Love You", mbid = "2bb57e99-80c5-4abf-bdb3-a9923774fe86" },
+  { n = 4, title = "Greece", mbid = "31a3579d-7d51-4ec9-a707-cccd72b2d71e" },
+  { n = 5, title = "Gone Troppo", mbid = "51734f1c-a5d5-4563-a5cd-e1e23ff5d82f" },
+  { n = 6, title = "Mystical One", mbid = "27f5a28a-8e1c-489f-a0a5-9b28e8e1d242" },
+  { n = 7, title = "Unknown Delight", mbid = "af9f4830-f0fa-42ad-b3c2-e02d64229e3b" },
+  { n = 8, title = "Baby Don’t Run Away", mbid = "991f5abf-5be7-4663-b53f-49fcb3ea253c" },
+  { n = 9, title = "Dream Away", mbid = "7a524696-abbb-4510-b374-1e2ed5cf05ac" },
+  { n = 10, title = "Circles", mbid = "3cb9e21b-03c4-4e28-8cc3-dc292c4d7a54" },
+]
+
+[[release]]
+mbid = "31af171c-4dc1-438d-8b3b-faeefef99811"
+title = "I Don’t Want to Do It / Queen of the Hop"
+type = "single"
+date = "1985-04-22"
+tracks = [
+  { n = 1, title = "I Don’t Want to Do It", mbid = "9c7d2148-c48b-4cc2-a095-0c702d01eca7" },
+  { n = 2, title = "Queen of the Hop", mbid = "7b41c04a-5884-4643-8329-a59bbc841f34" },
+]
+
+[[release]]
+mbid = "c92250ef-efac-4a0c-8faa-73e2f80a0132"
+title = "Songs by George Harrison"
+type = "ep"
+date = "1987"
+tracks = [
+  { n = 1, title = "Sat Singing", mbid = "1f05b92f-f5da-4dd5-b500-deb01f528520" },
+  { n = 2, title = "Lay His Head", mbid = "b6951464-b274-41c2-8fd2-4ae4bc4f1474" },
+  { n = 3, title = "For You Blue", mbid = "91a7c7ff-f5bf-4c85-9745-3abd984012e6" },
+  { n = 4, title = "Flying Hour", mbid = "fed721fe-a37c-4e9d-a48a-2ab3268d33b2" },
+]
+
+[[release]]
+mbid = "25f5572f-bc6e-30e3-84d2-c6d3b530791f"
+title = "Got My Mind Set on You"
+type = "single"
+date = "1987-10"
+tracks = [
+  { n = 1, title = "Got My Mind Set on You", mbid = "063f4aa7-b4d1-4a9b-9179-75b9d531393a" },
+  { n = 2, title = "Lay His Head", mbid = "d834acce-444a-4290-bfc7-c830d91e2408" },
+]
+
+[[release]]
+mbid = "024b3f7e-f4b6-3ecd-a104-90a946344492"
+title = "Cloud Nine"
+type = "album"
+date = "1987-11-02"
+spotify = "3RmvjorSAkZL2FLzSGxONc"
+tracks = [
+  { n = 1, title = "Cloud 9", mbid = "c00b97df-0104-406d-957b-7ec6c2be6add" },
+  { n = 2, title = "That's What It Takes", mbid = "1b598fc9-7cd1-40bc-a5aa-f5f10b39adc8" },
+  { n = 3, title = "Fish on the Sand", mbid = "1061083e-c84c-4028-a1eb-9267f414efd3" },
+  { n = 4, title = "Just for Today", mbid = "3373f2e3-6c3f-4b80-8dcf-ca045d368bfd" },
+  { n = 5, title = "This Is Love", mbid = "9d26db10-08d3-4450-9df5-a0b9833f38c8" },
+  { n = 6, title = "When We Was Fab", mbid = "c4e4a74d-ba87-4a43-a8c2-f4bd305f4602" },
+  { n = 7, title = "Devil's Radio", mbid = "4402423f-a1c8-4847-a35d-14a313b55b50" },
+  { n = 8, title = "Someplace Else", mbid = "e4a0874f-fe62-4ebb-a196-5ead79c6a536" },
+  { n = 9, title = "Wreck of the Hesperus", mbid = "b037d375-9dc1-4ac5-8deb-79ef049567f9" },
+  { n = 10, title = "Breath Away From Heaven", mbid = "b9b8551c-abf6-4962-8bbb-f271f580e690" },
+  { n = 11, title = "Got My Mind Set on You", mbid = "063f4aa7-b4d1-4a9b-9179-75b9d531393a" },
+]
+
+[[release]]
+mbid = "47a56891-6bdd-3df6-9583-ac7dc5377431"
+title = "When We Was Fab"
+type = "single"
+date = "1988-01-01"
+tracks = [
+  { n = 1, title = "When We Was Fab (unextended version)", mbid = "2b3f0370-1766-4318-8d58-0f4da3f92be2" },
+  { n = 2, title = "Zig Zag", mbid = "48c7a3af-a856-49d0-9a54-2fa2b59a3bf2" },
+  { n = 3, title = "That's the Way It Goes (remix)", mbid = "098b061c-5af6-4b9e-bc58-bd8b8f65ec2a" },
+  { n = 4, title = "When We Was Fab (reverse end)", mbid = "ee10d482-002c-4f55-8a0d-525e581cb2fe" },
+]
+
+[[release]]
+mbid = "b5ddb571-edbe-3304-b49d-137c4047139d"
+title = "This Is Love / Breath Away From Heaven"
+type = "single"
+date = "1988-06-13"
+tracks = [
+  { n = 1, title = "This Is Love", mbid = "ecce4cc3-3444-428a-aad6-2f750ba9e1d1" },
+  { n = 2, title = "Breath Away From Heaven", mbid = "3edaa7a6-93af-4862-a002-9c3a3d69fd16" },
+  { n = 3, title = "All Those Years Ago", mbid = "0db03b14-a385-45ff-89aa-615fd24c96da" },
+  { n = 4, title = "Hong Kong Blues", mbid = "e3c2aa50-c390-44d8-9df8-6816ae2a5faf" },
+]
+
+[[release]]
+mbid = "6cf115a6-323e-4354-a113-1a10c9edc7c5"
+title = "Cheer Down"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Cheer Down", mbid = "733b9d2c-b013-47b3-8276-5889070a0f22" },
+  { n = 2, title = "Poor Little Girl", mbid = "f8991254-41be-4912-ba8c-8663a51e3155" },
+  { n = 3, title = "Crackerbox Palace", mbid = "8e5313b8-a913-4d91-8d28-38db8892f37b" },
+]
+
+[[release]]
+mbid = "7aacd6f1-33bd-4542-ae26-3f3999df5f7f"
+title = "Poor Little Girl"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Poor Little Girl (edit)", mbid = "6c3bcdb8-a7a8-469c-bdad-154f0e9334b7" },
+  { n = 2, title = "Poor Little Girl (LP version)", mbid = "00240429-f6f1-4fb1-9222-4aef06892e3c" },
+]
+
+[[release]]
+mbid = "b107049e-e3df-4711-a76e-05ac02094827"
+title = "Songs By George Harrison"
+type = "ep"
+date = "1992-06-22"
+tracks = [
+  { n = 1, title = "Life Itself (demo)", mbid = "f628832e-bbc6-4fa2-b25c-729591de76c7" },
+  { n = 2, title = "Hottest Gong in Town", mbid = "4521a580-ff75-40ed-9855-7cc4b5f5b2cb" },
+  { n = 3, title = "Tears of the World", mbid = "946e519d-82b1-4ceb-a47c-ca0a73a4a8c9" },
+  { n = 4, title = "Hari’s on Tour (Express) (live)", mbid = "72c712bb-ce65-482a-9f68-e7cb3c02200b" },
+]
+
+[[release]]
+mbid = "a365ff78-a311-392b-b8cd-c5bab02e0b90"
+title = "Brainwashed"
+type = "album"
+date = "2002-11-18"
+spotify = "38xW9kksFyiS5sc0tU082f"
+tracks = [
+  { n = 1, title = "Any Road", mbid = "fb424b90-135c-4f39-9f74-a3d720e81b3b" },
+  { n = 2, title = "P2 Vatican Blues (Last Saturday Night)", mbid = "4ece07df-5e6e-45ab-a8e0-486bfea3ddb2" },
+  { n = 3, title = "Pisces Fish", mbid = "0c07ab32-885b-42c3-b08b-45c5514f2033" },
+  { n = 4, title = "Looking for My Life", mbid = "8b741e6e-a758-47d6-8747-d080490afd4b" },
+  { n = 5, title = "Rising Sun", mbid = "c31ffde9-ac50-4736-a395-b429d614910b" },
+  { n = 6, title = "Marwa Blues", mbid = "90d65eac-baeb-4494-8650-8fabbe4dad5c" },
+  { n = 7, title = "Stuck Inside a Cloud", mbid = "50812534-cc66-4bb8-b5da-9440cfa618ad" },
+  { n = 8, title = "Run So Far", mbid = "2b2791b2-22c5-4641-8fb9-9fde6323bd41" },
+  { n = 9, title = "Never Get Over You", mbid = "2208f80f-e784-46bd-b597-293b57dee674" },
+  { n = 10, title = "Between the Devil and the Deep Blue Sea", mbid = "048299e3-b2fa-4fb4-94b4-7454698ffb52" },
+  { n = 11, title = "Rocking Chair in Hawaii", mbid = "2eebe85c-acd6-4016-a230-068fcb863749" },
+  { n = 12, title = "Brainwashed", mbid = "cba3e49c-6a93-44aa-a8dc-b8b337131e57" },
+]
+
+[[release]]
+mbid = "638c3786-d021-49d6-b2f8-8f51ead2c361"
+title = "Any Road"
+type = "single"
+date = "2003-05-12"
+tracks = [
+  { n = 1, title = "Any Road", mbid = "81afa8fb-7a50-471c-b66f-0e22e833ab50" },
+  { n = 2, title = "Marwa Blues", mbid = "536cf14c-302c-4205-9348-534268cae082" },
+]
+
+[[release]]
+mbid = "e08b16c2-6fed-4327-ae3b-e8ecf884bf1d"
+title = "Punchdrunk"
+type = "single"
+date = "2020-10-16"
+spotify = "1Q6miDObwaUQzbgXBHpmAV"
+tracks = [
+  { n = 1, title = "Punchdrunk", mbid = "2740b484-e4b3-43bf-ad90-71b280303fc0" },
+]

@@ -1,0 +1,97 @@
+format = 1
+
+[[release]]
+mbid = "ba73d84f-bb26-44ab-93a3-c58fcad7e3c5"
+title = "Quite Like"
+type = "single"
+date = "2015-06-22"
+tracks = [
+  { n = 1, title = "Quite Like", mbid = "8eb01078-dbce-4a26-86be-e7b6d48cd195" },
+]
+
+[[release]]
+mbid = "453d39a2-bfab-4b3c-aed1-0ebcaffeed48"
+title = "Tape #1"
+type = "ep"
+date = "2016-01-15"
+tracks = [
+  { n = 1, title = "Intro", mbid = "e47d1a4f-70c8-42e3-9483-a0e5da4984b7" },
+  { n = 2, title = "Quite Like", mbid = "8eb01078-dbce-4a26-86be-e7b6d48cd195" },
+  { n = 3, title = "Five Minutes", mbid = "4ed01be7-3eba-4d44-878e-8aa356b433b5" },
+  { n = 4, title = "Interlude", mbid = "359f24f1-2880-4c56-8d55-12d109c0e197" },
+  { n = 5, title = "Her", mbid = "5d089296-dbbc-46c0-a876-bf2f44dbe2e7" },
+  { n = 6, title = "Union", mbid = "631ade39-0d7e-4102-a0bb-9313f53123bc" },
+]
+
+[[release]]
+mbid = "6dbba284-7924-429e-bff2-b93e4a97363b"
+title = "Five Minutes (Her Rework)"
+type = "single"
+date = "2016-10-28"
+tracks = [
+  { n = 1, title = "Five Minutes (Her rework)", mbid = "58bd6df4-a6ef-4470-b366-f33f2639a269" },
+]
+
+[[release]]
+mbid = "f669a94e-427f-498b-9fd5-08603c501804"
+title = "Queens"
+type = "single"
+date = "2016-11-04"
+tracks = [
+  { n = 1, title = "Queens", mbid = "527cd0c9-a51f-47c2-9083-106d2e95f686" },
+]
+
+[[release]]
+mbid = "35522cbd-16a2-404a-ab61-e8b5b667ab75"
+title = "Tape #2"
+type = "ep"
+date = "2017-04-07"
+tracks = [
+  { n = 1, title = "Intro", mbid = "c3035271-9d51-4d38-8b1e-c432df68c467" },
+  { n = 2, title = "Blossom Roses", mbid = "38b37cd0-5084-43f9-bc61-78e5d3172ce6" },
+  { n = 3, title = "Queens (feat. Zefire)", mbid = "e9cae02b-f081-4e07-ba71-2db43c34b614" },
+  { n = 4, title = "Interlude", mbid = "9aa6d48b-bed8-48b7-9281-48dda312cff4" },
+  { n = 5, title = "Jeanie J", mbid = "18eda48c-0298-4d2b-99ed-2ddf08e2d60a" },
+  { n = 6, title = "Swim", mbid = "a856bbe9-2213-43f9-a16e-95fd5c5e0d3b" },
+]
+
+[[release]]
+mbid = "73129e9e-b35f-45d0-9563-0fc65384a9cf"
+title = "We Choose"
+type = "single"
+date = "2017-11-30"
+tracks = [
+  { n = 1, title = "We Choose", mbid = "c34cd2f9-6bfe-428a-ac6d-cd802cc83887" },
+]
+
+[[release]]
+mbid = "26c0f0ce-6105-448c-bdb1-59fdbbd293d4"
+title = "Neighborhood"
+type = "single"
+date = "2018-02-09"
+tracks = [
+  { n = 1, title = "Neighborhood", mbid = "94797fdc-93b4-4e7e-8720-e2a10cb65b54" },
+]
+
+[[release]]
+mbid = "bbbafd03-dbba-4984-857a-fbf68ac3cd14"
+title = "Her"
+type = "album"
+date = "2018-03-30"
+spotify = "1aCQ7OUfO1P6FbTe8x0s0N"
+tracks = [
+  { n = 1, title = "We Choose", mbid = "61cc5dcb-e607-47ea-a2d4-cd03391757d6" },
+  { n = 2, title = "Five Minutes", mbid = "4ed01be7-3eba-4d44-878e-8aa356b433b5" },
+  { n = 3, title = "Icarus", mbid = "53001138-cde1-4ba8-8b9d-acb1c5e23ba3" },
+  { n = 4, title = "Blossom Roses", mbid = "38b37cd0-5084-43f9-bc61-78e5d3172ce6" },
+  { n = 5, title = "On & On", mbid = "10052960-63e7-4b37-9fda-d29206290ab2" },
+  { n = 6, title = "Neighborhood", mbid = "6f29868b-5e02-47f3-8e7e-e79d3e05e8fc" },
+  { n = 7, title = "Trying", mbid = "a42c26b2-b9f4-47af-b3ce-6411472c93e9" },
+  { n = 8, title = "Quite Like", mbid = "8eb01078-dbce-4a26-86be-e7b6d48cd195" },
+  { n = 9, title = "Wanna Be You", mbid = "838f6638-8c26-4310-b4d1-222976d77779" },
+  { n = 10, title = "Swim", mbid = "508c0b19-7681-4368-adb4-ef0929d517b3" },
+  { n = 11, title = "Good Night", mbid = "35ecf23d-1f6b-4f6c-925e-c652791fa4b5" },
+  { n = 12, title = "For Him", mbid = "bf6f3185-4eef-4d88-884d-b467cf880b89" },
+  { n = 13, title = "Shuggie", mbid = "e5603576-489e-4f8a-be21-8ce18f146e58" },
+  { n = 14, title = "Together", mbid = "a022f9f6-dbb1-435a-bd86-30fc3130abd3" },
+]

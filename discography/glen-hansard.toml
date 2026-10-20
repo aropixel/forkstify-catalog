@@ -1,0 +1,375 @@
+format = 1
+
+[[release]]
+mbid = "2f0453e7-0916-4ff4-9dde-86cb177cc34b"
+title = "Fade Street / A Caution to the Birds"
+type = "single"
+date = "2000-12-06"
+tracks = [
+  { n = 1, title = "Fade Street", mbid = "f264b6c3-4d09-4924-a48d-325076b6cd20" },
+  { n = 2, title = "A Caution to the Birds", mbid = "14c7fa55-ec72-44e7-9aa2-ea6f1d9f42d2" },
+]
+
+[[release]]
+mbid = "d157ea02-34f4-476d-827f-91953f6b1e87"
+title = "The Swell Season"
+type = "album"
+date = "2006-04-21"
+tracks = [
+  { n = 1, title = "This Low", mbid = "0b542b4e-3f0d-4466-b2be-54350dd2d245" },
+  { n = 2, title = "Sleeping", mbid = "86147284-43a3-4998-99b5-85fea9d87de2" },
+  { n = 3, title = "Falling Slowly", mbid = "7d3417bf-907c-4dfd-b3b3-b0eeb5d76f9d" },
+  { n = 4, title = "Drown Out", mbid = "9800a106-ba43-4d43-8fb4-9d9aa616880b" },
+  { n = 5, title = "Lies", mbid = "2da4af20-593a-4269-831a-ad3c8344ac07" },
+  { n = 6, title = "When Your Minds Made Up", mbid = "e5166eb0-2e65-45ce-95d7-c0a193ae5cf0" },
+  { n = 7, title = "The Swell Season", mbid = "00092f36-2a3d-4b45-8726-bcf80f63ad5a" },
+  { n = 8, title = "Leave", mbid = "3564071c-49a7-4299-8515-3006b46c9610" },
+  { n = 9, title = "The Moon", mbid = "2156d01d-d7a5-4171-b121-623edf362b78" },
+  { n = 10, title = "Alone Apart", mbid = "c1fd0fb4-98d8-4167-b0af-341907301f45" },
+]
+
+[[release]]
+mbid = "d2374b4e-10b1-35e5-893e-d77d650b8133"
+title = "Once: Music From the Motion Picture"
+type = "album"
+date = "2007-05-22"
+spotify = "4BUG3kfPOB6DWVKKDY2icE"
+tracks = [
+  { n = 1, title = "Falling Slowly", mbid = "8375aa24-e0e0-434c-a0c3-6e382b6f188c" },
+  { n = 2, title = "If You Want Me", mbid = "ff3f82b1-c2e1-434d-9d1a-7b6aec67ac9c" },
+  { n = 3, title = "Broken Hearted Hoover Fixer Sucker Guy", mbid = "8fb2396f-8d97-4f61-96d2-b2ef93ba2551" },
+  { n = 4, title = "When Your Mind’s Made Up", mbid = "3a211546-b91c-4bf7-a4ec-9d41325e5a01" },
+  { n = 5, title = "Lies", mbid = "e7a1ed52-777c-4375-82a2-17cd29cc35f7" },
+  { n = 6, title = "Gold", mbid = "e0c88a85-884d-40c8-9952-2cd733718d9e" },
+  { n = 7, title = "The Hill", mbid = "0969ea61-2844-4e12-8cfc-ac95207bd525" },
+  { n = 8, title = "Fallen From the Sky", mbid = "c1d6eff3-cb6c-42ea-a0d6-3e186ef1b749" },
+  { n = 9, title = "Leave", mbid = "b6611dbc-cd0e-49bc-a8db-5dc598b7bf4f" },
+  { n = 10, title = "Trying to Pull Myself Away", mbid = "46873076-087f-48dd-a553-fc5ebd3c0fb6" },
+  { n = 11, title = "All the Way Down", mbid = "ea29de7b-131c-4cf2-8df1-77a8cda990ee" },
+  { n = 12, title = "Once", mbid = "66259801-d8ba-4d50-a2df-df0129bc8792" },
+  { n = 13, title = "Say It to Me Now", mbid = "a654e8c5-afb1-4de7-b55b-6548ac02f724" },
+]
+
+[[release]]
+mbid = "f6dc6851-1ad2-4c55-a317-85e3468e7989"
+title = "Falling Slowly"
+type = "single"
+date = "2007-09-17"
+spotify = "3tsUSkv5S5yiTCfrXMId53"
+tracks = [
+  { n = 1, title = "Falling Slowly", mbid = "8375aa24-e0e0-434c-a0c3-6e382b6f188c" },
+]
+
+[[release]]
+mbid = "f7a1be7b-61ff-42dd-8a93-a8dff676998a"
+title = "The Auld Triangle"
+type = "single"
+date = "2010-11"
+spotify = "4KhjAobJZ8Dm8TUqEKMS31"
+tracks = [
+  { n = 1, title = "The Auld Triangle", mbid = "6a874fc7-3c1e-4ea0-b7ba-335ae904e298" },
+  { n = 2, title = "Raglan Road", mbid = "5da6bc0a-85a6-4564-95d9-795ac43a9157" },
+  { n = 3, title = "Not on Your Own Tonight, Pt. II", mbid = "4342970c-e35f-45e1-89b8-5485e8560745" },
+]
+
+[[release]]
+mbid = "9244d344-d635-4d72-947c-454cad19169e"
+title = "Once: A New Musical"
+type = "album"
+date = "2012-03-13"
+tracks = [
+  { n = 1, title = "The North Strand", mbid = "666d9da4-1354-47f7-a1b2-f4dd8c666186" },
+  { n = 2, title = "Leave", mbid = "122d3a7e-f311-4091-bb2a-2710d93a29bb" },
+  { n = 3, title = "Falling Slowly", mbid = "3251856b-9d07-4a92-8bed-c07f6b830e33" },
+  { n = 4, title = "The Moon", mbid = "2aacfeac-0248-417f-9ceb-f5aeb1cf2c4d" },
+  { n = 5, title = "Ej Pada Pada Rosicka", mbid = "67ed772f-2ed0-49c0-a4e7-92c2d6f9bdcc" },
+  { n = 6, title = "If You Want Me", mbid = "38d2025b-a040-4335-8a9f-f61b6921aa02" },
+  { n = 7, title = "Broken Hearted Hoover Fixer Sucker Guy", mbid = "f062f66f-069e-46e9-9b3f-038eee5616df" },
+  { n = 8, title = "Say It to Me Now", mbid = "94804227-0491-4a52-a916-6dfef2310f2a" },
+  { n = 9, title = "Abandoned in Bandon", mbid = "c2864e04-a428-4a6f-8e99-5e5de90b6f00" },
+  { n = 10, title = "Gold", mbid = "de3cf8cf-61d5-4fab-ad37-a50cc25c5b2c" },
+  { n = 11, title = "Sleeping", mbid = "a307c380-90c5-4cf2-a832-9c9d3d42749a" },
+  { n = 12, title = "When Your Mind's Made Up", mbid = "c5c3f1c5-ae84-41f8-b5ba-6360b8957466" },
+  { n = 13, title = "The Hill", mbid = "c541e5c9-c96b-462f-a8d9-c02428a3cdd3" },
+  { n = 14, title = "It Cannot Be About That", mbid = "6eba8048-b031-4b38-9baf-f22975dbc9f6" },
+  { n = 15, title = "Gold (a cappella)", mbid = "3c76abfc-49fc-45a2-9274-c7592a8fe92a" },
+  { n = 16, title = "Falling Slowly (reprise)", mbid = "4553fb7d-b156-4e22-b4d1-e50e0bfc93d3" },
+]
+
+[[release]]
+mbid = "c434a070-dd1b-47f3-9b8d-8d9d01c8c1be"
+title = "Love Don't Leave Me Waiting"
+type = "single"
+date = "2012-04-17"
+tracks = [
+  { n = 1, title = "Love Don't Leave Me Waiting", mbid = "d5b9795b-5aa9-42b8-baf1-842bab9bc2b6" },
+]
+
+[[release]]
+mbid = "48d38fc2-7825-41ba-bcbe-004f7408158b"
+title = "Rhythm and Repose"
+type = "album"
+date = "2012-06-15"
+spotify = "3Jgz2ZMy4msa9sov9ENViP"
+tracks = [
+  { n = 1, title = "You Will Become", mbid = "eb0cad30-24b2-4ecf-9f9f-a07bebcc67e9" },
+  { n = 2, title = "Maybe Not Tonight", mbid = "d9de1632-0836-4463-8f38-903f1ded110f" },
+  { n = 3, title = "Talking With the Wolves", mbid = "a273f1e8-2a8c-46d4-be14-accfaf5a06b9" },
+  { n = 4, title = "High Hope", mbid = "d063a372-f8c2-4105-9643-3e8c5aa06431" },
+  { n = 5, title = "Bird of Sorrow", mbid = "a16a10cf-cacf-4f7a-a466-c46106360b4d" },
+  { n = 6, title = "The Storm, It's Coming", mbid = "0a3f4801-ecc6-48d6-bd7e-e599919b2718" },
+  { n = 7, title = "Love Don't Leave Me Waiting", mbid = "d5b9795b-5aa9-42b8-baf1-842bab9bc2b6" },
+  { n = 8, title = "What Are We Gonna Do", mbid = "6cbf9bfb-d47e-4777-98d8-ec7aaee39ed2" },
+  { n = 9, title = "Races", mbid = "9a5bbdf1-e019-4ca8-81e8-39712cb48171" },
+  { n = 10, title = "Philander", mbid = "a03a54d0-e92a-4a85-9731-048fa16dd109" },
+  { n = 11, title = "The Song of Good Hope", mbid = "bbb5e311-82be-474d-b727-3a9f9aa5a46c" },
+]
+
+[[release]]
+mbid = "aed21c2a-d660-44c3-aae1-872b5e6a5b59"
+title = "This Gift"
+type = "single"
+date = "2012-07-31"
+spotify = "7yzbZ5aWbHoGHIFqGG3GkG"
+tracks = [
+  { n = 1, title = "This Gift", mbid = "1fdddb80-e514-42bb-b1b0-93a5e062490f" },
+]
+
+[[release]]
+mbid = "4dc63343-6ed7-4011-9aca-a45499069eff"
+title = "High Hope"
+type = "single"
+date = "2012-12-02"
+tracks = [
+  { n = 1, title = "High Hope", mbid = "5efae691-fe08-400f-962e-5f3a5ae7c2ae" },
+]
+
+[[release]]
+mbid = "fb6a0ecc-d2c6-499b-9f40-1c71aa6e58a5"
+title = "Christmas Biscuits (In Aid of St. Vincent De Paul)"
+type = "single"
+date = "2013-11-29"
+tracks = [
+  { n = 1, title = "Christmas Biscuits (In Aid of St. Vincent De Paul)", mbid = "c1251210-9251-49db-8607-7739289098be" },
+]
+
+[[release]]
+mbid = "ccf60c81-cd03-487d-abbd-d3cac56056c8"
+title = "Drive All Night"
+type = "ep"
+date = "2013-12-03"
+spotify = "4FG0exD0yYt2vrSENkTgmX"
+tracks = [
+  { n = 1, title = "Drive All Night", mbid = "00674636-58fd-4184-9de4-4e7846f757c6" },
+  { n = 2, title = "Pennies in the Fountain", mbid = "b34939b8-d8eb-4032-930d-f92f52adc5d4" },
+  { n = 3, title = "Renata", mbid = "d2a47848-80ea-445c-a438-3cc21378a02d" },
+  { n = 4, title = "Step out of the Shadows", mbid = "3016c368-9ffa-444c-ad53-24812062771a" },
+]
+
+[[release]]
+mbid = "664eff6e-3859-4220-a7da-b1871097ae4a"
+title = "Lowly Deserter"
+type = "ep"
+date = "2015"
+tracks = [
+  { n = 1, title = "Lowly Deserter", mbid = "7364b6a3-a981-45a2-877f-c8f91143f761" },
+  { n = 2, title = "Bird of Sorrow", mbid = "a16a10cf-cacf-4f7a-a466-c46106360b4d" },
+  { n = 3, title = "Fitzcarraldo", mbid = "f96dc22f-9c15-4b3f-8871-c737b96bc86b" },
+]
+
+[[release]]
+mbid = "84828a46-90c1-4ae7-ba97-6d529dbae173"
+title = "It Was Triumph We Once Proposed...Songs of Jason Molina"
+type = "ep"
+date = "2015-03-17"
+tracks = [
+  { n = 1, title = "Being in Love", mbid = "9636313e-9e52-4eef-81fe-04991c256bc8" },
+  { n = 2, title = "Hold on Magnolia", mbid = "2e75bffa-24f5-4f1d-a360-b8edd8bf9eb2" },
+  { n = 3, title = "Farewell Transmission", mbid = "b8c5ec01-29cb-46c7-a36b-034f9b2a9ea7" },
+  { n = 4, title = "Vanquisher", mbid = "0327e9ce-1591-4800-a99d-fefd8fd333f1" },
+  { n = 5, title = "White Sulfur", mbid = "669d7ee8-0642-4125-af1c-7d22eda318d7" },
+]
+
+[[release]]
+mbid = "98e19c32-85f6-48b4-b6fc-0830512aed22"
+title = "Winning Streak"
+type = "single"
+date = "2015-06-30"
+spotify = "7alEhPTCov5hXv4laylPgF"
+tracks = [
+  { n = 1, title = "Winning Streak", mbid = "14d354c6-3ff3-489a-8a7a-5c607802761c" },
+]
+
+[[release]]
+mbid = "719bdeb3-c1f1-469b-ad4d-690068461c2f"
+title = "Didn’t He Ramble"
+type = "album"
+date = "2015-09-18"
+spotify = "0VR0U8c34soFl7IWPyqqwY"
+tracks = [
+  { n = 1, title = "Grace Beneath the Pines", mbid = "c3196981-0bde-4040-b45a-67caa00db4ba" },
+  { n = 2, title = "Wedding Ring", mbid = "88e8316b-c3bd-485e-818d-8076dcf77efe" },
+  { n = 3, title = "Winning Streak", mbid = "14d354c6-3ff3-489a-8a7a-5c607802761c" },
+  { n = 4, title = "Her Mercy", mbid = "7c563f56-d9be-4096-ac68-862505d64f11" },
+  { n = 5, title = "McCormack’s Wall", mbid = "748bd489-a1ea-49ab-92c9-fb762c3ae94d" },
+  { n = 6, title = "Lowly Deserter", mbid = "7364b6a3-a981-45a2-877f-c8f91143f761" },
+  { n = 7, title = "Paying My Way", mbid = "cb7f2163-5d38-41f9-8917-9db65acb4265" },
+  { n = 8, title = "My Little Ruin", mbid = "e4aef4e5-c7ab-4acf-bc51-5006cbc2d53a" },
+  { n = 9, title = "Just to Be the One", mbid = "778fdb1b-495d-4497-b878-676334726a7d" },
+  { n = 10, title = "Stay the Road", mbid = "6188dd07-2796-4b47-8331-36246d257279" },
+]
+
+[[release]]
+mbid = "be6f7986-7442-4b7d-a61a-c609cd6f41aa"
+title = "Her Mercy"
+type = "single"
+date = "2015-10-30"
+spotify = "3PMrGYjHPfKzMS3546X4jr"
+tracks = [
+  { n = 1, title = "Her Mercy (radio edit)", mbid = "91c79986-3ca2-4a89-8943-b5cdf446ea1b" },
+]
+
+[[release]]
+mbid = "16a1ecda-d6fb-499e-9354-e2c813b6e260"
+title = "A Season on the Line"
+type = "ep"
+date = "2016-02-19"
+tracks = [
+  { n = 1, title = "Didn’t He Ramble", mbid = "febc4c10-afed-4817-a2c9-942ac808e2fc" },
+  { n = 2, title = "Way Back in the Way Back When", mbid = "34d18f7c-89d8-4857-8760-1af69ccb0e1f" },
+  { n = 3, title = "Let Me In", mbid = "bc06971f-628c-4e2f-8e4e-e5e56a908059" },
+  { n = 4, title = "Return", mbid = "e13bb959-6782-4614-927a-c1d373e28857" },
+]
+
+[[release]]
+mbid = "9626fcbd-8693-413b-9ce3-1f661b4ecc38"
+title = "Between Two Shores"
+type = "album"
+date = "2018-01-19"
+tracks = [
+  { n = 1, title = "Roll On Slow", mbid = "53124a93-c799-4ab4-a67b-ea1013aa699b" },
+  { n = 2, title = "Why Woman", mbid = "b8a6c3f1-e0bd-47ad-9847-55c64d521f43" },
+  { n = 3, title = "Wheels on Fire", mbid = "2326e715-a599-4294-8158-bce4dad5eaaf" },
+  { n = 4, title = "Wreckless Heart", mbid = "f6cd7a6c-0499-4f7f-ab60-84aa4dbaf855" },
+  { n = 5, title = "Movin’ On", mbid = "44408df2-220a-486e-9f9b-3883d6d9f1a2" },
+  { n = 6, title = "Setting Forth", mbid = "5b9d1728-fe04-45e8-acc7-e286d86ad896" },
+  { n = 7, title = "Lucky Man", mbid = "7dfe9cc8-ed72-488e-94c1-7f814f5c783c" },
+  { n = 8, title = "One of Us Must Lose", mbid = "1c9fa1c9-faae-4c55-9d77-eee97777d409" },
+  { n = 9, title = "Your Heart’s Not in It", mbid = "b1397514-fbf5-4f75-ad3f-98a3a0a064b3" },
+  { n = 10, title = "Time Will Be the Healer", mbid = "c54dee42-89a8-468c-81c1-0c4f9bc0212d" },
+]
+
+[[release]]
+mbid = "a9baf95e-de24-492a-9976-2e68cc532743"
+title = "This Wild Willing"
+type = "album"
+date = "2019-04-12"
+tracks = [
+  { n = 1, title = "I’ll Be You, Be Me", mbid = "a8346dbf-51bc-42b0-8738-58a788cbbbc7" },
+  { n = 2, title = "Don’t Settle", mbid = "a04bd6e3-7162-482f-992f-d9551d680253" },
+  { n = 3, title = "Fool’s Game", mbid = "d919023b-8afc-4d36-a7f0-dbf987902365" },
+  { n = 4, title = "Race to the Bottom", mbid = "da19548e-7c8f-4ce1-a910-46ee55f942da" },
+  { n = 5, title = "The Closing Door", mbid = "239e176e-6c16-42ad-a53e-77acaec07e62" },
+  { n = 6, title = "Brother’s Keeper", mbid = "54313a71-ad70-4f8e-983f-7d447d169999" },
+  { n = 7, title = "Mary", mbid = "884bd67d-f393-480f-937a-c9b23b527376" },
+  { n = 8, title = "Threading Water", mbid = "873b0233-f9d0-48ab-b23d-8ffea6a9b6c7" },
+  { n = 9, title = "Weight of the World", mbid = "4e83ff9c-0a20-4738-aafa-13bf91c5aeee" },
+  { n = 10, title = "Who’s Gonna Be Your Baby Now", mbid = "ae4df629-3523-434a-8fe0-cb56de3db40f" },
+  { n = 11, title = "Good Life of Song", mbid = "6213f864-bebc-4041-8c73-e019e234fac5" },
+  { n = 12, title = "Leave a Light", mbid = "28b16e84-bed5-42c1-abdf-5e82bc6ebd14" },
+]
+
+[[release]]
+mbid = "a9f28d5c-1b8d-4728-8c0e-709a85fdc902"
+title = "Cold Comfort"
+type = "single"
+date = "2020-06-09"
+tracks = [
+  { n = 1, title = "Cold Comfort", mbid = "52213c89-a483-46f1-9389-0dbf6738f61a" },
+]
+
+[[release]]
+mbid = "b3e4d313-91c9-45c2-8911-89eda1222f53"
+title = "My Father’s Daughter"
+type = "single"
+date = "2021-08-16"
+spotify = "7alk37quFoAf91whDEJ8a1"
+tracks = [
+  { n = 1, title = "My Father's Daughter", mbid = "921a78f2-49a4-401a-a151-3ce393481d80" },
+]
+
+[[release]]
+mbid = "8cf7b6ad-2309-4f71-b216-dde49808cee5"
+title = "Flag Day: Original Soundtrack"
+type = "album"
+date = "2021-08-20"
+tracks = [
+  { n = 1, title = "My Father’s Daughter", mbid = "921a78f2-49a4-401a-a151-3ce393481d80" },
+  { n = 2, title = "Flag Day", mbid = "659e454f-100e-426f-ba19-896911e73222" },
+  { n = 3, title = "I Think of Angels", mbid = "090bebaa-cd5e-4059-9a8f-5505c74ed966" },
+  { n = 4, title = "Tender Mercies", mbid = "81dc7af1-8aca-4c79-9217-cb544de631e3" },
+  { n = 5, title = "Rather Be Home", mbid = "fd4892b5-1ce4-4e3e-9c45-d65978f0a2ce" },
+  { n = 6, title = "I Am a Map", mbid = "01046976-0d48-4c1b-8187-b15e75bc0d9b" },
+  { n = 7, title = "As You Did Before", mbid = "bc27f117-4eb0-42fb-acdc-88accdd80ba7" },
+  { n = 8, title = "There’s a Girl", mbid = "3762c7b7-d9df-4c03-b3a4-990ba930987d" },
+  { n = 9, title = "I’ll Be Waiting", mbid = "9a5dc13c-0a1e-4d37-bb6f-e45b9553a819" },
+  { n = 10, title = "I Will Follow", mbid = "d3b26eb0-2c16-40bc-96fa-464e47b60668" },
+  { n = 11, title = "Wave", mbid = "d6983f46-9e16-4cbf-8a08-08d9d1a0c5ad" },
+  { n = 12, title = "Drive", mbid = "5c83e673-64b7-4625-aee9-2dc23dc63270" },
+  { n = 13, title = "Dream", mbid = "47f6f8b5-e53a-4340-b08e-20f67bc22cac" },
+]
+
+[[release]]
+mbid = "21780a8b-054c-4af9-a5b2-7d4d00727c77"
+title = "Take Heart"
+type = "single"
+date = "2022-10-19"
+tracks = [
+  { n = 1, title = "Take Heart", mbid = "35332a1b-e11f-40dd-85d9-48369f93d16d" },
+]
+
+[[release]]
+mbid = "47d6354d-3e43-4b16-a943-055ffed135a2"
+title = "The Answer Is Yes"
+type = "single"
+date = "2023-06-26"
+tracks = [
+  { n = 1, title = "The Answer Is Yes", mbid = "3d42a69f-4c98-4f18-9c11-bcdcc645c21a" },
+]
+
+[[release]]
+mbid = "d2b732cc-831d-4597-8dc7-e396ef774b45"
+title = "Sure as the Rain"
+type = "single"
+date = "2023-08-15"
+tracks = [
+  { n = 1, title = "Sure as the Rain", mbid = "07cb1715-ed81-4d09-b673-98dda058f54c" },
+]
+
+[[release]]
+mbid = "1cf84eea-bfc4-4fd0-8d2f-cc2435d23bc1"
+title = "All That Was East Is West of Me Now"
+type = "album"
+date = "2023-10-20"
+spotify = "3TE5qMvIQjDutZPQCpHk6W"
+tracks = [
+  { n = 1, title = "The Feast of St. John", mbid = "3ecec4a1-0c00-4c19-9914-e3f8cc82f1f9" },
+  { n = 2, title = "Down on Our Knees", mbid = "fa040a8f-056e-4900-9f9d-0615664ad267" },
+  { n = 3, title = "There’s No Mountain", mbid = "afd11ddb-3711-46d1-89ec-a8f313e5a4eb" },
+  { n = 4, title = "Sure as the Rain", mbid = "07cb1715-ed81-4d09-b673-98dda058f54c" },
+  { n = 5, title = "Between Us There Is Music", mbid = "d8d0b1bb-4263-4c36-90ef-06dbb06f49fb" },
+  { n = 6, title = "Ghost", mbid = "cf8127bd-ad37-43b8-8105-b6b88399ee59" },
+  { n = 7, title = "Bearing Witness", mbid = "6330ad27-33cc-4511-9287-181e232db72e" },
+  { n = 8, title = "Short Life", mbid = "e533442b-3624-4951-af4e-3efb167143b1" },
+  { n = 9, title = "Reprise", mbid = "7d5e1865-7cc4-41c1-8e9d-9943892ca448" },
+]
+
+[[release]]
+mbid = "06b1e0c6-6211-47b0-9aa1-a9674ad33764"
+title = "Great Weight"
+type = "single"
+date = "2025-06-10"
+spotify = "07nFLkR0MOHOxSOtD2Kuig"
+tracks = [
+  { n = 1, title = "Great Weight", mbid = "c7407f32-cde3-4988-b037-5d61a5170149" },
+]

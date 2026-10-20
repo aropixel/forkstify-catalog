@@ -1,0 +1,98 @@
+format = 1
+
+[[release]]
+mbid = "a5ec2d77-f229-3e84-bbe5-8ff28a2e96bd"
+title = "Tugboat"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Tugboat", mbid = "3fcd2a04-32ca-4537-9b23-7e27156f144e" },
+  { n = 2, title = "King of Spain", mbid = "dc6b9826-2c23-439d-8881-6fffd650cc58" },
+]
+
+[[release]]
+mbid = "f40da875-567e-363a-89f6-9a4687c4756e"
+title = "Today"
+type = "album"
+date = "1988-10"
+spotify = "5vNKHuz5SeL0bOLtha1xQJ"
+tracks = [
+  { n = 1, title = "Flowers", mbid = "936a7c86-76bf-4ec4-8be0-902e75703bb3" },
+  { n = 2, title = "Pictures", mbid = "fa64cc5e-2c32-4ea1-b1a3-89d569d531c9" },
+  { n = 3, title = "Parking Lot", mbid = "8857bf08-7c21-4d7b-af83-6e0ddcdd48a5" },
+  { n = 4, title = "Don't Let Our Youth Go to Waste", mbid = "26ae6236-d1aa-487d-9e41-a44af8f35631" },
+  { n = 5, title = "Temperature's Rising", mbid = "fc8df0ec-d958-42e6-8262-e061ceeb930d" },
+  { n = 6, title = "Oblivious", mbid = "73f103cd-f92c-4e84-806e-b96f9178a610" },
+  { n = 7, title = "It's Getting Late", mbid = "ad1684c4-1ac9-4d8d-af30-3eb8d2867ef4" },
+  { n = 8, title = "Instrumental", mbid = "33ef9e07-ce0c-48d9-9573-de03d8b99a41" },
+  { n = 9, title = "Tugboat", mbid = "3fcd2a04-32ca-4537-9b23-7e27156f144e" },
+]
+
+[[release]]
+mbid = "d25e7bfe-2f10-3413-a8a2-d166784f4994"
+title = "On Fire"
+type = "album"
+date = "1989"
+spotify = "1qhNLXBmt1EW6Kwt2A3u8M"
+tracks = [
+  { n = 1, title = "Blue Thunder", mbid = "900a574b-66ff-4e7e-9fd6-bc5c2b0bdaba" },
+  { n = 2, title = "Tell Me", mbid = "f06bdb65-2588-49cc-b53a-59ce1af9b41a" },
+  { n = 3, title = "Snowstorm", mbid = "6bb32e58-4e0c-4c0c-93c7-7e658eb2b7ed" },
+  { n = 4, title = "Strange", mbid = "fe9419ee-3fe1-40d8-acc7-3e010298996f" },
+  { n = 5, title = "When Will You Come Home", mbid = "fc30e31d-d32b-4cda-8aa6-d53ebbc65a81" },
+  { n = 6, title = "Decomposing Trees", mbid = "f12bd338-300a-4e3c-9ef9-02c0c386acfb" },
+  { n = 7, title = "Another Day", mbid = "47084a79-e5b7-4d80-9904-4203e910cd56" },
+  { n = 8, title = "Leave the Planet", mbid = "184deafd-5bc9-498c-88ad-98e7d9f009dc" },
+  { n = 9, title = "Plastic Bird", mbid = "795b01aa-3270-4bdb-8e74-ae9c2eeb3dd5" },
+  { n = 10, title = "Isn't It a Pity", mbid = "93521be6-238f-41fb-bfaa-ecc3625e3496" },
+]
+
+[[release]]
+mbid = "0e133a7b-cd07-3af5-92d7-c89975aa6835"
+title = "Blue Thunder"
+type = "ep"
+date = "1990"
+tracks = [
+  { n = 1, title = "Blue Thunder", mbid = "900a574b-66ff-4e7e-9fd6-bc5c2b0bdaba" },
+  { n = 2, title = "Victory Garden", mbid = "8113f70f-11ca-4de5-badb-8d836e97be4f" },
+  { n = 3, title = "Ceremony", mbid = "25b19676-af47-4ad2-88aa-175cbde44578" },
+  { n = 4, title = "Cold Night", mbid = "565c6b29-a10e-40fd-bea3-73960c512c4e" },
+]
+
+[[release]]
+mbid = "9b701f2e-5359-3ef0-8464-df56312c38bf"
+title = "Fourth of July"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "Fourth of July", mbid = "8de5b9b0-e055-4eee-b7ef-bb6a2c24527e" },
+  { n = 2, title = "Here She Comes Now", mbid = "84f3fc68-50a2-400e-a9b6-f3675b776f25" },
+]
+
+[[release]]
+mbid = "f37f2b9c-2780-331f-8fc1-30b7a6c82d6f"
+title = "Rain / Don’t Let Our Youth Go to Waste"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "Rain", mbid = "1d927dce-8cbd-4eb3-b9e1-21c91504935e" },
+  { n = 2, title = "Don’t Let Our Youth Go to Waste", mbid = "74a9b8aa-660d-4769-9038-e287bfe91c1a" },
+]
+
+[[release]]
+mbid = "4162ce38-f5d0-32e8-8f69-d5e49a9c71a8"
+title = "This Is Our Music"
+type = "album"
+date = "1990"
+spotify = "79JBh8OZRmvaC4ORkKB7ou"
+tracks = [
+  { n = 1, title = "Fourth of July", mbid = "8de5b9b0-e055-4eee-b7ef-bb6a2c24527e" },
+  { n = 2, title = "Hearing Voices", mbid = "5e9dcb4d-b4fb-474d-8190-67fc64942d67" },
+  { n = 3, title = "Spook", mbid = "ea85ab35-4c41-477f-a2e4-60473fb04080" },
+  { n = 4, title = "Summertime", mbid = "60f9cfb5-c9dd-4d77-99b7-ab130f1096db" },
+  { n = 5, title = "Way Up High", mbid = "fa338b14-532a-435b-bb39-7142fe09f08d" },
+  { n = 6, title = "Listen, the Snow Is Falling", mbid = "1f0a02e0-ffc1-4c9a-b794-44fc651de1c1" },
+  { n = 7, title = "Sorry", mbid = "b7baa18f-1de0-4774-b94c-b4e0a62ec606" },
+  { n = 8, title = "Melt Away", mbid = "0e7eb2ad-ad7e-4d68-ab80-46ee3e047f42" },
+  { n = 9, title = "King of Spain, Part Two", mbid = "4964c618-5fc4-4167-8940-cccdc9789060" },
+]

@@ -1,0 +1,119 @@
+format = 1
+
+[[release]]
+mbid = "01d06c6e-a4e6-3d8b-8a45-42a598fe87d7"
+title = "F♯ A♯ ∞"
+type = "album"
+date = "1997-08-14"
+spotify = "7sh2Z8jj1iySpHRAnGd9w5"
+tracks = [
+  { n = 1, title = "Nervous, Sad, Poor…", mbid = "a712cf12-ff6c-40f2-803e-e64050b5be1a" },
+  { n = 2, title = "Bleak, Uncertain, Beautiful…", mbid = "ebe7a750-384c-404e-b3df-949c80abe49c" },
+]
+
+[[release]]
+mbid = "7a474ed2-8f4a-3295-8943-68818da3af3e"
+title = "Slow Riot for New Zero Kanada"
+type = "ep"
+date = "1999-03-08"
+tracks = [
+  { n = 1, title = "Moya", mbid = "581592c7-70ff-4502-b149-474acb69f48d" },
+  { n = 2, title = "BBF3", mbid = "d1ff09ea-2a4b-4fb3-a9fb-66dd43cf32e2" },
+]
+
+[[release]]
+mbid = "3822abb6-ca53-3ae1-a4ec-7718cb321e9b"
+title = "Lift Yr. Skinny Fists Like Antennas to Heaven!"
+type = "album"
+date = "2000-10-09"
+spotify = "2rT82YYlV9UoxBYLIezkRq"
+tracks = [
+  { disc = 1, n = 1, title = "Storm", mbid = "519e6d2f-c762-48b1-8798-8f0299e11cc7" },
+  { disc = 1, n = 2, title = "Static", mbid = "30d53b2b-dbd5-4975-bbdf-48986b4bd089" },
+  { disc = 2, n = 1, title = "Sleep", mbid = "b8f1c93d-4273-4428-96cb-c38c6fb0d867" },
+  { disc = 2, n = 2, title = "Antennas to Heaven", mbid = "5fb00c2b-5bc9-420a-882a-cc024d137a08" },
+]
+
+[[release]]
+mbid = "fc3cf08c-3273-3af3-84ed-ab9782a72505"
+title = "Yanqui U.X.O."
+type = "album"
+date = "2002-11-04"
+tracks = [
+  { n = 1, title = "09‐15‐00", mbid = "5373b4d2-28c6-40f2-9cef-8f91dd5753d5" },
+  { n = 2, title = "rockets fall on Rocket Falls", mbid = "1ff480f2-07b9-4fe3-b2ae-b32273f62784" },
+  { n = 3, title = "motherfucker=redeemer", mbid = "87a9a74b-aa0b-4b6b-8437-122c849eece0" },
+]
+
+[[release]]
+mbid = "62959180-8405-41f9-8fb8-1e18a5e8902d"
+title = "’ALLELUJAH! DON’T BEND! ASCEND!"
+type = "album"
+date = "2012-10-15"
+tracks = [
+  { disc = 1, n = 1, title = "Mladic", mbid = "8d378d68-285e-4ff3-8bda-31fb1c8537e0" },
+  { disc = 1, n = 2, title = "We Drift Like Worried Fire", mbid = "796867ae-2634-4c56-8591-6a6df9313235" },
+  { disc = 2, n = 1, title = "Their Helicopters’ Sing", mbid = "267a2cfc-8524-4fe8-b159-c59c31004caa" },
+  { disc = 2, n = 2, title = "Strung Like Lights at Thee Printemps Erable", mbid = "3f1c8bcc-629a-489b-b8a9-bdd1bc7015db" },
+]
+
+[[release]]
+mbid = "c74035da-e212-4048-abed-40a7b5343e9a"
+title = "‘Asunder, Sweet and Other Distress’"
+type = "album"
+date = "2015-03-30"
+tracks = [
+  { n = 1, title = "Peasantry or ‘Light! Inside of Light!’", mbid = "f96b1aae-4841-482d-a97c-fd7099ada998" },
+  { n = 2, title = "Lambs’ Breath", mbid = "2239a563-4be9-4997-b187-b4ac1eb2051b" },
+  { n = 3, title = "Asunder, Sweet", mbid = "8ff0d853-6f2e-440c-801c-3f2678564221" },
+  { n = 4, title = "Piss Crowns Are Trebled", mbid = "1e83a2c7-cdce-42e9-8e16-bb0cd3c4c5a0" },
+]
+
+[[release]]
+mbid = "bd835044-cd62-4f30-8447-438232763075"
+title = "“Luciferian Towers”"
+type = "album"
+date = "2017-09-22"
+tracks = [
+  { n = 1, title = "Undoing a Luciferian Towers", mbid = "3bb87f23-8f75-4404-b42f-ac5a9c1faf5a" },
+  { n = 2, title = "Bosses Hang", mbid = "dd2fd0c0-a21a-40f1-8518-6091c3fad65a" },
+  { n = 3, title = "Fam/Famine", mbid = "8cef6295-4919-41fd-ab5d-83990548c167" },
+  { n = 4, title = "Anthem for No State", mbid = "ddbda467-c35a-4b78-be28-c96b8fd34a04" },
+]
+
+[[release]]
+mbid = "3805cfb2-b333-4ed0-a696-019666cca5d7"
+title = "G_d’s Pee AT STATE’S END!"
+type = "album"
+date = "2021-04-02"
+spotify = "1RDLG5wi0a2Lrgdxs32tKL"
+tracks = [
+  { disc = 1, n = 1, title = "A Military Alphabet (five eyes all blind) (4521.0kHz 6730.0kHz 4109.09kHz) / Job’s Lament / First of the Last Glaciers / where we break how we shine (ROCKETS FOR MARY)", mbid = "9261c91a-62a7-4340-b1e3-6b09451954ea" },
+  { disc = 1, n = 2, title = "“GOVERNMENT CAME” (9980.0kHz 3617.1kHz 4521.0 kHz) / Cliffs Gaze / cliffs’ gaze at empty waters’ rise / ASHES TO SEA or NEARER TO THEE", mbid = "7020f98d-f7ea-476a-98aa-b0de422373a5" },
+  { disc = 2, n = 1, title = "Fire at Static Valley", mbid = "0e0d9d67-ccb3-46cf-af48-dde9fd78474d" },
+  { disc = 2, n = 2, title = "OUR SIDE HAS TO WIN (for D.H.)", mbid = "a977b1d2-7865-471b-a55f-9fb9852bd40a" },
+]
+
+[[release]]
+mbid = "a9e79e09-967e-40aa-a355-e09d1530339c"
+title = "GREY RUBBLE – GREEN SHOOTS"
+type = "single"
+date = "2024-08-28"
+spotify = "2otNsW3gEAf1Pador5jviO"
+tracks = [
+  { n = 1, title = "GREY RUBBLE – GREEN SHOOTS", mbid = "cb087088-af55-4cb5-8f0b-b85bb6b5d498" },
+]
+
+[[release]]
+mbid = "7df4cbb0-30ed-4fed-9383-dd5fe3dbff30"
+title = "“NO TITLE AS OF 13 FEBRUARY 2024 28,340 DEAD”"
+type = "album"
+date = "2024-10-04"
+tracks = [
+  { n = 1, title = "SUN IS A HOLE SUN IS VAPORS", mbid = "193fb8cb-26a6-4d33-876b-d97312d7dacb" },
+  { n = 2, title = "BABYS IN A THUNDERCLOUD", mbid = "701a6796-337c-4bb7-b313-c1c6c770df15" },
+  { n = 3, title = "RAINDROPS CAST IN LEAD", mbid = "efad2fae-f9c0-4d43-85cc-8096ae78cfaf" },
+  { n = 4, title = "BROKEN SPIRES AT DEAD KAPITAL", mbid = "4443cf3c-f766-4f3c-b279-55ce3dc2095d" },
+  { n = 5, title = "PALE SPECTATOR TAKES PHOTOGRAPHS", mbid = "e619dbd7-8155-4071-8079-6389f3c3dc2d" },
+  { n = 6, title = "GREY RUBBLE – GREEN SHOOTS", mbid = "cb087088-af55-4cb5-8f0b-b85bb6b5d498" },
+]

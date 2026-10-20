@@ -1,0 +1,150 @@
+format = 1
+artists = [
+  "bc1cc75d-ab68-41b2-a135-3b62f41ea266",  # Hope Sandoval
+  "23f527e1-74ae-4f7c-94f3-4a5d5f379c51",  # Hope Sandoval & the Warm Inventions
+]
+
+[[release]]
+mbid = "ba1d41ed-e29e-3352-8bb6-ea00c114dfb8"
+title = "At the Doorway Again"
+type = "single"
+date = "2000-11-13"
+spotify = "1F6UkfUm1O8t3leEXgF5VB"
+tracks = [
+  { n = 1, title = "Around My Smile", mbid = "7c2c6e47-864e-4066-aeb5-9c326ecc8bc2" },
+  { n = 2, title = "Charlotte", mbid = "7db4ae04-d694-488d-aa62-13370b8515ad" },
+  { n = 3, title = "Sparkly", mbid = "0be45860-4683-46fa-90c8-3a7dfcfb1064" },
+  { n = 4, title = "Down the Steps", mbid = "ec5b0f3b-00fe-47cf-83ac-fb21da6b1016" },
+]
+
+[[release]]
+mbid = "33c549e6-5f64-38cd-acc4-b22734469d0c"
+title = "Bavarian Fruit Bread"
+type = "album"
+date = "2001-10-23"
+spotify = "7JAh6mfXLsGojvj9a4fnDT"
+tracks = [
+  { n = 1, title = "Drop", mbid = "33b671ef-1d2f-42ae-b63b-d286cd866109" },
+  { n = 2, title = "Suzanne", mbid = "bccc1b28-7582-4c14-a745-1edfd15759c2" },
+  { n = 3, title = "Butterfly Mornings", mbid = "7a8783ad-86d4-4977-8c7e-4eaa2717699a" },
+  { n = 4, title = "On the Low", mbid = "6b2a788b-7a59-4ced-a1f6-62e5adeb95ff" },
+  { n = 5, title = "Baby Let Me", mbid = "241d4119-4031-4367-921a-d100d872b5f4" },
+  { n = 6, title = "Feeling of Gaze", mbid = "c731a95d-4e70-4b94-b186-ab7bda6a7197" },
+  { n = 7, title = "Charlotte", mbid = "7db4ae04-d694-488d-aa62-13370b8515ad" },
+  { n = 8, title = "Clear Day", mbid = "b0b21d66-4a89-4311-80b0-2fd2acda42cd" },
+  { n = 9, title = "[untitled]", mbid = "460bb8bb-2a42-4bcf-8abc-8a6bb5aec772" },
+  { n = 10, title = "Bavarian Fruit Bread", mbid = "fb4a46ea-0b09-4fb4-92cc-e1676f586527" },
+  { n = 11, title = "Around My Smile", mbid = "7c2c6e47-864e-4066-aeb5-9c326ecc8bc2" },
+  { n = 12, title = "Lose Me on the Way", mbid = "1154d156-6263-459f-b1ec-7b8aee19d303" },
+]
+
+[[release]]
+mbid = "369b3537-e40f-3100-8a99-2d2a38d80580"
+title = "Suzanne"
+type = "single"
+date = "2002-09-10"
+tracks = [
+  { n = 1, title = "Suzanne", mbid = "e28894cb-e01c-48d6-a65c-111f2a0ae367" },
+  { n = 2, title = "I Thought You'd Fall For Me", mbid = "24ef4698-e7cb-4619-9255-239a3f5268f0" },
+  { n = 3, title = "These Things", mbid = "640227ea-9c80-4ed4-baa9-deddeb6d4d06" },
+  { n = 4, title = "Friends of a Smile", mbid = "5b3b56d6-f609-4119-ba86-ad32c1dd3c9d" },
+]
+
+[[release]]
+mbid = "63585ea7-78b1-4449-aeda-d69e5c9b374c"
+title = "Blanchard"
+type = "single"
+date = "2009-08-07"
+tracks = [
+  { n = 1, title = "Blanchard", mbid = "0ce29ebe-967a-4e9b-a574-fd08a8b9614a" },
+]
+
+[[release]]
+mbid = "e1f17739-3a7f-4110-be8f-c97a8e400aee"
+title = "Through the Devil Softly"
+type = "album"
+date = "2009-08-28"
+tracks = [
+  { n = 1, title = "Blanchard", mbid = "0ce29ebe-967a-4e9b-a574-fd08a8b9614a" },
+  { n = 2, title = "Wild Roses", mbid = "dda6639f-ce29-49b5-b941-f1ffe76e88c8" },
+  { n = 3, title = "For the Rest of Your Life", mbid = "824e8ba2-f56b-4526-8435-aed693ee00cc" },
+  { n = 4, title = "Lady Jessica and Sam", mbid = "30972fe9-fe29-408d-910e-4e66613ebc30" },
+  { n = 5, title = "Sets the Blaze", mbid = "7ad69bc9-f97d-437a-88b7-82bd46e0c0d1" },
+  { n = 6, title = "Thinking Like That", mbid = "94e2e2eb-f00b-4d3d-936b-a553645b6886" },
+  { n = 7, title = "There's a Willow", mbid = "08c78012-a41a-4aa8-8bb2-bab8d15e2210" },
+  { n = 8, title = "Trouble", mbid = "407580b8-7434-47ea-af1d-d156fe04929a" },
+  { n = 9, title = "Fall Aside", mbid = "ba97a18b-2818-4592-a108-ea4e83d1629e" },
+  { n = 10, title = "Blue Bird", mbid = "19c75be5-0787-46f3-b9d7-ac0515a3e17e" },
+  { n = 11, title = "Satellite", mbid = "7297cc56-4787-4240-8515-e78442236bfe" },
+]
+
+[[release]]
+mbid = "653d71ca-6427-445d-a297-7925422436d1"
+title = "Golden Hair"
+type = "single"
+date = "2010-08-10"
+spotify = "788ZBfCXe18PecTJ0wuquD"
+tracks = [
+  { n = 1, title = "Golden Hair", mbid = "2c3f4671-a8d7-469c-9bfd-dbaefd3dfd0b" },
+  { n = 2, title = "Suddenly Beside You", mbid = "a7438751-dc61-4a4a-98bc-e6182642ba4e" },
+]
+
+[[release]]
+mbid = "6a9c7fbf-9367-4adf-834b-ff2ce4977d6c"
+title = "Isn’t It True"
+type = "single"
+date = "2016-04-16"
+tracks = [
+  { n = 1, title = "Isn’t It True", mbid = "0c09bf49-2802-4409-b483-4b61d2614665" },
+  { n = 2, title = "She’s In The Wall", mbid = "8178dc5f-60aa-42f3-a589-04cc17e235f3" },
+]
+
+[[release]]
+mbid = "95b3d0fa-04d2-46ac-bfec-9be9b95f49cc"
+title = "Let Me Get There"
+type = "single"
+date = "2016-09-23"
+tracks = [
+  { n = 1, title = "Let Me Get There", mbid = "f10b1f8f-44b8-4681-ae67-416be1f868c0" },
+  { n = 2, title = "That Spider", mbid = "c72f496e-123f-444f-815e-1cf78bda1e0d" },
+]
+
+[[release]]
+mbid = "9a0c1311-6799-4173-8475-5e820ea923bf"
+title = "Until the Hunter"
+type = "album"
+date = "2016-11-03"
+tracks = [
+  { n = 1, title = "Into the Trees", mbid = "f9493931-8508-4dfb-9c80-0849c038e1b6" },
+  { n = 2, title = "The Peasant", mbid = "d8bdc235-64dc-4027-9745-80241cf284b4" },
+  { n = 3, title = "A Wonderful Seed", mbid = "a80725ab-fd07-4a0d-98b3-7cec51bf478b" },
+  { n = 4, title = "Let Me Get There", mbid = "f10b1f8f-44b8-4681-ae67-416be1f868c0" },
+  { n = 5, title = "Day Disguise", mbid = "806615d5-ebd2-4ea5-a690-fab02131bdf3" },
+  { n = 6, title = "Treasure", mbid = "9681fafb-b0bd-4593-8f06-2b6fb746a674" },
+  { n = 7, title = "Salt of the Sea", mbid = "9db81c3b-79b5-4cf6-8a19-794a459b9b2e" },
+  { n = 8, title = "The Hiking Song", mbid = "607f49fd-de19-486c-9174-2b78e374b1da" },
+  { n = 9, title = "Isn’t It True", mbid = "5169e430-e71e-4f50-be02-e73f64ea58b5" },
+  { n = 10, title = "I Took a Slip", mbid = "7ef1a07d-843b-464d-8234-47e508a9944c" },
+  { n = 11, title = "Liquid Lady", mbid = "dd8c8e7a-1589-4f25-b485-dc7a4ccf8781" },
+]
+
+[[release]]
+mbid = "25e3546d-415e-488d-9a86-edcd07f890d9"
+title = "Son of a Lady"
+type = "single"
+date = "2017-09-15"
+tracks = [
+  { n = 1, title = "Sleep", mbid = "0712f7b2-e497-480c-8fd9-c352bafac23b" },
+  { n = 2, title = "Son of a Lady", mbid = "81343573-eea5-4a57-bee2-480567ce65ef" },
+  { n = 3, title = "Let Me Get There (acoustic)", mbid = "dfde4460-7239-4699-be23-efcfac0a15c8" },
+]
+
+[[release]]
+mbid = "d25db9a8-d36f-4b9d-953b-df3b3b2d4b01"
+title = "Big Boss Man"
+type = "single"
+date = "2018-12-11"
+spotify = "7wl7DUzCHlXa4SLSFCKoV8"
+tracks = [
+  { n = 1, title = "Big Boss Man", mbid = "a95b9eba-d759-47c0-8746-75428bc57312" },
+]

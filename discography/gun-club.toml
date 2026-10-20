@@ -1,0 +1,226 @@
+format = 1
+
+[[release]]
+mbid = "95b4ac0b-3286-3208-8821-b292ab88dfac"
+title = "Fire of Love"
+type = "album"
+date = "1981"
+tracks = [
+  { n = 1, title = "Sex Beat", mbid = "eb442ad7-4daf-4cc6-8180-ea68c3597b05" },
+  { n = 2, title = "Preaching the Blues", mbid = "28a0df17-1894-49b7-8b10-12ab7e609851" },
+  { n = 3, title = "Promise Me", mbid = "3a18e082-40f6-4347-bd6e-d18124399c66" },
+  { n = 4, title = "She’s Like Heroin to Me", mbid = "e2069f3a-8d8a-4591-ad28-1bc8ca8957ad" },
+  { n = 5, title = "For the Love of Ivy", mbid = "9d0a2b8f-928e-4d34-b23c-8cd368dd1100" },
+  { n = 6, title = "Fire Spirit", mbid = "c43a02bd-4cce-46da-9096-5dec0b13bea2" },
+  { n = 7, title = "Ghost on the Highway", mbid = "142a9845-8568-447b-a26f-71d606891def" },
+  { n = 8, title = "Jack on Fire", mbid = "bb309706-b247-4e35-9a3d-b8a495f92aa4" },
+  { n = 9, title = "Black Train", mbid = "f62f0fbe-8ef9-4277-b42f-c51f66759fbb" },
+  { n = 10, title = "Cool Drink of Water", mbid = "ec6bf3e7-febe-446b-844f-93d497bf0ba1" },
+  { n = 11, title = "Goodbye Johnny", mbid = "9b62253b-43cd-4293-9217-16672a9857b4" },
+]
+
+[[release]]
+mbid = "d38eba10-c13b-32a1-8b55-e74499e3f149"
+title = "Miami"
+type = "album"
+date = "1982"
+spotify = "13VswLN6aR21TxQPNMbJdo"
+tracks = [
+  { n = 1, title = "Carry Home", mbid = "f20b4338-f2bb-4a10-92cc-b4083aa64bc2" },
+  { n = 2, title = "Like Calling Up Thunder", mbid = "521b6475-063a-417b-acfe-92099ca0f2db" },
+  { n = 3, title = "Brother and Sister", mbid = "caaafad8-c7d2-4d2e-aa1e-3465ade54b0b" },
+  { n = 4, title = "Run Through the Jungle", mbid = "ca7b4359-6631-4640-ac04-d361a8d08774" },
+  { n = 5, title = "A Devil in the Woods", mbid = "d71e38fa-38ac-4abf-bd37-23c9fec782f0" },
+  { n = 6, title = "Texas Serenade", mbid = "1d838db5-6241-45d3-ba7e-33ae5ec59f4c" },
+  { n = 7, title = "Watermelon Man", mbid = "61b9a85c-ecdb-4dac-9b8c-83e3f93601a6" },
+  { n = 8, title = "Bad Indian", mbid = "7b4ec430-73e8-4c9e-a4ee-1696a50bbd72" },
+  { n = 9, title = "John Hardy", mbid = "711ea5bf-37bd-43f4-8bdc-76702e6fb63c" },
+  { n = 10, title = "The Fire of Love", mbid = "9251601e-f7a1-45df-be2d-45ece4f0ec15" },
+  { n = 11, title = "Sleeping in Blood City", mbid = "31d1adb7-b3c6-4028-ae3a-17494f96ab81" },
+  { n = 12, title = "Mother of Earth", mbid = "5333c74a-2a4d-4baf-b594-9d3639f1e4b2" },
+]
+
+[[release]]
+mbid = "51ae0e61-2dcf-4c07-b2a2-dddc86572685"
+title = "Ghost on the Highway"
+type = "single"
+date = "1982-06"
+tracks = [
+  { n = 1, title = "Ghost on the Highway", mbid = "0aa10fdc-90d9-4de4-8b2a-67ab5cf1235e" },
+  { n = 2, title = "Sex Beat", mbid = "3ffe4a83-9743-44af-8ca9-690dd1cbada3" },
+]
+
+[[release]]
+mbid = "470d66ee-72db-46b3-b3f2-f5b748958588"
+title = "Fire of Love"
+type = "single"
+date = "1982-08"
+tracks = [
+  { n = 1, title = "The Fire of Love", mbid = "1956949b-fdd0-4620-aba5-c6dbbb39584a" },
+  { n = 2, title = "Walking With the Beast", mbid = "81cba219-93ce-49a9-9b5f-85cd7396f4c1" },
+]
+
+[[release]]
+mbid = "d7ddddb5-ca5e-36c3-86e4-d86ca729adc4"
+title = "Death Party"
+type = "ep"
+date = "1983"
+tracks = [
+  { n = 1, title = "The House on Highland Ave", mbid = "9816de27-e284-4915-aa23-4cbed7cf7db2" },
+  { n = 2, title = "The Lie", mbid = "896b1a16-8598-49eb-9b44-5e89d1da77be" },
+  { n = 3, title = "Death Party", mbid = "c0ffabe3-fbbf-4b27-9f46-55646d924df4" },
+]
+
+[[release]]
+mbid = "e900f16f-e3ae-3151-a290-c21f37249f5f"
+title = "The Las Vegas Story"
+type = "album"
+date = "1984"
+tracks = [
+  { n = 1, title = "The Las Vegas Story", mbid = "1beb3757-de4c-4810-9565-a45c26177b66" },
+  { n = 2, title = "Walkin' With the Beast", mbid = "08ffdca2-7ef5-4b4c-927b-4abe58c95012" },
+  { n = 3, title = "Eternally Is Here", mbid = "43aeac48-f82f-4b46-a8f0-76a78b99dc93" },
+  { n = 4, title = "The Stranger in Our Town", mbid = "83df080c-1704-453e-bbb1-0afc852bc673" },
+  { n = 5, title = "My Dreams", mbid = "06d0cdde-f212-4c53-ba81-aaaa03840d66" },
+  { n = 6, title = "(The Creator Was a) Master Plan", mbid = "90f8ab37-71d4-4f9e-a246-6736fc93b48f" },
+  { n = 7, title = "My Man's Gone Now", mbid = "475956a2-ade5-4bb7-8002-e56244c8e108" },
+  { n = 8, title = "Bad America", mbid = "908f3c68-1619-45b0-84b5-9492cd2bf4c1" },
+  { n = 9, title = "Moonlight Motel", mbid = "698eafc0-2c15-48fc-b7ed-b5cc09b1ea95" },
+  { n = 10, title = "Give Up the Sun", mbid = "c9e16efa-8a69-4c0a-922b-a36b9c4907d0" },
+]
+
+[[release]]
+mbid = "86d25ddd-558d-312d-b3b3-fff07b4adfff"
+title = "Mother Juno"
+type = "album"
+date = "1987-10-09"
+spotify = "6ercSpNkzbG1c7sTicEmdc"
+tracks = [
+  { n = 1, title = "Bill Bailey", mbid = "03aed053-f4f6-4592-82e7-fadd64905692" },
+  { n = 2, title = "Thunderhead", mbid = "d4c2aef8-b073-4e7d-9dfb-7278db04f539" },
+  { n = 3, title = "Lupita Screams", mbid = "0876ac4f-1652-42b7-a5b7-21e59fa17cd1" },
+  { n = 4, title = "Yellow Eyes", mbid = "e64811c1-8935-49be-b8ed-99aa1786c209" },
+  { n = 5, title = "The Breaking Hands", mbid = "32447567-7aef-4745-9322-4bca8b98ac64" },
+  { n = 6, title = "Araby", mbid = "dd21d6e5-1d27-45f5-bc22-eb1e59c75468" },
+  { n = 7, title = "Hearts", mbid = "4910d593-09eb-402b-9db6-922ad2c2b6ed" },
+  { n = 8, title = "My Cousin Kim", mbid = "67f2cc16-8824-40d6-a984-cb534c179c1a" },
+  { n = 9, title = "Port of Souls", mbid = "5f17003d-f9a2-41c1-998b-013f40857d43" },
+]
+
+[[release]]
+mbid = "a7f1346a-cecb-4582-b4f3-d440ac1e47d1"
+title = "The Breaking Hands"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "The Breaking Hands", mbid = "32447567-7aef-4745-9322-4bca8b98ac64" },
+  { n = 2, title = "Crab Dance", mbid = "a4b22475-40e2-4a0f-b4f5-8f91ff9b74b5" },
+  { n = 3, title = "Nobody's City", mbid = "edcc734e-dafc-48a8-ba1e-f95049451609" },
+]
+
+[[release]]
+mbid = "35a25243-e08c-49a2-b6df-2c75c12b95f2"
+title = "Sex Beat"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Sex Beat", mbid = "eb442ad7-4daf-4cc6-8180-ea68c3597b05" },
+  { n = 2, title = "For the Love of Ivy", mbid = "9d0a2b8f-928e-4d34-b23c-8cd368dd1100" },
+  { n = 3, title = "Black Train", mbid = "f62f0fbe-8ef9-4277-b42f-c51f66759fbb" },
+]
+
+[[release]]
+mbid = "89bdb2a6-219a-3662-b253-06fdfb7267cd"
+title = "Pastoral Hide & Seek"
+type = "album"
+date = "1990"
+tracks = [
+  { n = 1, title = "Humanesque", mbid = "26575070-fff7-433f-ac21-8a3c5b8924c1" },
+  { n = 2, title = "The Straits of Love & Hate", mbid = "0647370a-1559-4294-bde3-58aa23b166f0" },
+  { n = 3, title = "Emily’s Changed", mbid = "0ed258a8-6e61-4cb3-9f12-421439a56130" },
+  { n = 4, title = "I Hear Your Heart Singing", mbid = "cfde7467-7668-46ac-b1da-2ce42ba0cf5d" },
+  { n = 5, title = "St John’s Divine", mbid = "7b9cb739-63e8-44b9-9664-7caa3638560d" },
+  { n = 6, title = "The Great Divide", mbid = "9d933922-d6b2-4c0a-a462-11f57178d2e9" },
+  { n = 7, title = "Another Country’s Young", mbid = "4dd36a66-4283-4f62-ac75-b950ec97ccd7" },
+  { n = 8, title = "Flowing", mbid = "eb6d5940-7af7-4391-a650-bae4265c3a77" },
+  { n = 9, title = "Temptation & I", mbid = "9f86bdf7-434b-4c9f-837d-164f8160b979" },
+  { n = 10, title = "Eskimo Blue Day", mbid = "e1442a12-b486-4675-b369-c7fdff15ce3d" },
+]
+
+[[release]]
+mbid = "6c2aa278-16d1-452b-a61e-2aea7ea7684a"
+title = "The Great Divide"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "The Great Divide", mbid = "9d933922-d6b2-4c0a-a462-11f57178d2e9" },
+  { n = 2, title = "Crab Dance", mbid = "5e6cd9b9-ac32-4b72-8283-3c4411e23466" },
+  { n = 3, title = "St. John Divine Part 2 (Instr. Guitar MIX)", mbid = "5ca00463-3897-4653-b199-0e44e004b4ca" },
+]
+
+[[release]]
+mbid = "dd411f13-400c-3be3-9ec0-6e9d3483bf04"
+title = "Divinity"
+type = "album"
+date = "1991"
+tracks = [
+  { n = 1, title = "Sorrow Knows", mbid = "7a43f616-190e-4038-b353-6ad466a2cfe2" },
+  { n = 2, title = "Richard Speck", mbid = "7de84173-b349-4ec4-b803-df9ecacfcef6" },
+  { n = 3, title = "Keys to the Kingdom", mbid = "39c50a1b-f59f-4516-8835-28ec28103857" },
+  { n = 4, title = "Black Hole", mbid = "d702c3dd-dbad-4256-b6bf-1bc54dbe547b" },
+  { n = 5, title = "St. John's Divine [remix]", mbid = "8b6afd74-9e79-46b7-af16-d8a0d872b6f4" },
+  { n = 6, title = "Yellow Eyes (live)", mbid = "7fd90c69-66f2-4ccc-87af-7aa2b2699ad2" },
+  { n = 7, title = "Hearts (live)", mbid = "64ec4f77-4756-4259-9025-dcbcd7ae3479" },
+  { n = 8, title = "Fire of Love (live)", mbid = "1ef89845-4c85-4b2b-b8f1-ab85803a8f71" },
+]
+
+[[release]]
+mbid = "10711814-d8bd-4542-9b69-b82134e3c983"
+title = "Pastoral, Hide and Seek"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Pastoral, Hide and Seek", mbid = "eff9c17e-6f6a-4def-8d85-c97402852755" },
+  { n = 2, title = "Black Hole", mbid = "d702c3dd-dbad-4256-b6bf-1bc54dbe547b" },
+  { n = 3, title = "Emily's Changed", mbid = "88027f27-d38f-44e8-89f0-2587adf6525e" },
+]
+
+[[release]]
+mbid = "99e8c571-b243-468d-8318-b83ba9a3252c"
+title = "Cry to Me"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Cry to Me", mbid = "bf5cd7e8-b79d-4b43-bd4e-61c3e6e0533f" },
+  { n = 2, title = "Give Up The Sun", mbid = "18b28f5b-6ff5-454e-8420-f0762eea7ce4" },
+]
+
+[[release]]
+mbid = "c9b49bc1-e96d-3ab9-b135-29c27699a8f8"
+title = "Lucky Jim"
+type = "album"
+date = "1993-09-10"
+spotify = "7baryMFeiVeaxF9oZ94phc"
+tracks = [
+  { n = 1, title = "Lucky Jim", mbid = "6d64c893-e566-42b2-9c76-947d07e907a6" },
+  { n = 2, title = "A House Is Not a Home", mbid = "3b433399-5fed-411b-bc11-9e07dca93534" },
+  { n = 3, title = "Cry to Me", mbid = "bf5cd7e8-b79d-4b43-bd4e-61c3e6e0533f" },
+  { n = 4, title = "Kamata Hollywood City", mbid = "d04d0345-ffb1-4c82-85a6-6c6252f80362" },
+  { n = 5, title = "Ride", mbid = "03ba3c47-6bd5-44d6-894a-a30cac671710" },
+  { n = 6, title = "Idiot Waltz", mbid = "4d228dae-351a-4ae4-9ee0-8b01381cfc67" },
+  { n = 7, title = "Up Above the World", mbid = "6a42aec9-d8c2-4b3b-9897-6debc11d7ed8" },
+  { n = 8, title = "Day Turn the Night", mbid = "6e852536-d376-4071-9d3a-b3fc9f4e908f" },
+  { n = 9, title = "Blue Monsoons", mbid = "77387845-aec0-4ba8-be4e-3d3bc5e452b8" },
+  { n = 10, title = "Desire", mbid = "eb774bf4-e6d1-4649-b83c-0b84dc683d0d" },
+  { n = 11, title = "Anger Blues", mbid = "cee0ac2d-6ab9-4c3f-9885-aa10d155d8fc" },
+]
+
+[[release]]
+mbid = "7b333fd1-bfdb-4204-8ac6-472917564405"
+title = "Walkin' With the Beast"
+type = "single"
+date = "2004-10"
+tracks = [
+  { n = 1, title = "Walkin’ With the Beast", mbid = "08ffdca2-7ef5-4b4c-927b-4abe58c95012" },
+  { n = 2, title = "Secret Fires", mbid = "e20d2b7f-a257-4150-bce7-f164325de021" },
+]

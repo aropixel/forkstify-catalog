@@ -1,0 +1,85 @@
+format = 1
+
+[[release]]
+mbid = "55148ee3-4e46-4dec-ba02-64952d992512"
+title = "Enfant lune"
+type = "album"
+date = "2018-11-02"
+spotify = "2EyvuNubSqB5b62dgWxvCV"
+tracks = [
+  { n = 1, title = "Mémo", mbid = "c5d3eaa0-da36-459d-8cdd-f5d3feb96df8" },
+  { n = 2, title = "Paradis noir", mbid = "d9031522-5845-4788-9636-e54e70873845" },
+  { n = 3, title = "Je la laisse faire", mbid = "c84d07f4-41ba-43c5-b141-b4dfee93c31d" },
+  { n = 4, title = "On danse pas", mbid = "a5f1a83a-c24c-4a2f-b94e-74bc47234aed" },
+  { n = 5, title = "Qui dit mieux", mbid = "e2c184e9-0ef4-4d58-b1c3-5675ce4e8176" },
+  { n = 6, title = "Konnichiwa", mbid = "997bcc61-91d7-408f-a371-334c1c00d5a4" },
+  { n = 7, title = "Jusqu’où elle m’aime", mbid = "5d811898-db7a-4573-b6bf-a4ac4ab34707" },
+  { n = 8, title = "Déchiré", mbid = "dd774d15-6b2a-449b-8d68-e8ac2b20f016" },
+  { n = 9, title = "Retourne d’où tu viens", mbid = "805b8538-2f4b-442f-8a80-f336c50844b9" },
+  { n = 10, title = "Pour la nuit", mbid = "bfbc77fc-4e42-4e61-a665-625fbc8c5f55" },
+  { n = 11, title = "Pièces détachées", mbid = "c1b5b585-97e7-43bb-b7e3-ac476a4373f0" },
+  { n = 12, title = "Scanner", mbid = "14c85fd0-8fef-4073-a30e-d01fe8633e8d" },
+  { n = 13, title = "LMP", mbid = "082eea46-c7cf-4149-a09f-eed7eb88b14d" },
+  { n = 14, title = "Karma", mbid = "b1445a86-a873-4902-a6f3-da1109a97ef0" },
+  { n = 15, title = "Enfant lune", mbid = "11641271-6809-4bd0-a59e-a9d6f02b4f81" },
+]
+
+[[release]]
+mbid = "57edfef8-c440-45fe-ab20-0ffb5716325e"
+title = "Banco"
+type = "single"
+date = "2019-10-09"
+spotify = "10AZVuBh5qdibh6Uq0LuED"
+tracks = [
+  { n = 1, title = "Banco", mbid = "258f1bc3-7ecc-4607-bfd0-c434f0b2ec18" },
+]
+
+[[release]]
+mbid = "0116b69b-214c-4eac-b084-8b0745c8f340"
+title = "On aboie en silence"
+type = "single"
+date = "2020-09-09"
+tracks = [
+  { n = 1, title = "On aboie en silence", mbid = "a7952e7e-20f8-481f-891f-464e8acfc6f6" },
+]
+
+[[release]]
+mbid = "85b6707b-0131-4e19-b3e1-bddc82efdf26"
+title = "Escape"
+type = "single"
+date = "2023-03-31"
+tracks = [
+  { n = 1, title = "Escape", mbid = "9529ad06-552b-4309-905a-dd852257a857" },
+]
+
+[[release]]
+mbid = "3bd38eaa-1cd5-4d30-a574-5c0d5250fed0"
+title = "Du Plomb / Effet de Surplomb"
+type = "single"
+date = "2024-06-04"
+tracks = [
+  { n = 1, title = "Du Plomb", mbid = "2073a6cb-b15b-426a-912e-e5a1c8cfb4e2" },
+  { n = 2, title = "Effet de Surplomb", mbid = "93a9f631-552f-4513-a42c-8c1c697a5a86" },
+]
+
+[[release]]
+mbid = "d1385488-4dd9-4545-9f9b-5435c587f155"
+title = "Hypersensible"
+type = "album"
+date = "2024-09-20"
+tracks = [
+  { disc = 1, n = 1, title = "Fake iD", mbid = "66cdd655-be33-4058-af92-051dcd03c16c" },
+  { disc = 1, n = 2, title = "Du plomb", mbid = "2073a6cb-b15b-426a-912e-e5a1c8cfb4e2" },
+  { disc = 1, n = 3, title = "Effet de surplomb", mbid = "93a9f631-552f-4513-a42c-8c1c697a5a86" },
+  { disc = 1, n = 4, title = "Xan", mbid = "3cb0f82f-8e14-4ce2-9c05-30e1bec9eb2a" },
+  { disc = 1, n = 5, title = "Feelings", mbid = "c23772ca-14eb-4e96-8b68-16e175b024f2" },
+  { disc = 1, n = 6, title = "Au revoir BB", mbid = "5c7e5e7d-f5a0-4d80-a316-340e5615b3d9" },
+  { disc = 2, n = 1, title = "Corde Sensible", mbid = "a874cd29-2d9b-4140-80f7-583c2728df0b" },
+  { disc = 2, n = 2, title = "Nuits Fauves", mbid = "cf6bb8c9-1f1f-41c0-bf62-62b5c93ab58d" },
+  { disc = 2, n = 3, title = "Confession d'un Hypersensible", mbid = "fdca6e27-b4ca-4edd-b5f5-e3f8e268f2b6" },
+  { disc = 2, n = 4, title = "Boomer", mbid = "b97c7dfd-8bd6-437d-8da6-ac7dea28959b" },
+  { disc = 2, n = 5, title = "Bad Mood", mbid = "5e1c0ee3-604d-449a-b157-592cff2a7616" },
+  { disc = 2, n = 6, title = "Pensées Positives (Interlude)", mbid = "98d4b9e3-9884-42c6-b0a8-8ff926390db7" },
+  { disc = 2, n = 7, title = "Une nuance au dessus du noir", mbid = "599e080b-707f-4c69-bc6d-d21eab637c1c" },
+  { disc = 2, n = 8, title = "Couler des jours heureux", mbid = "1849c1e4-4309-40ed-8866-83f69d138f4a" },
+]

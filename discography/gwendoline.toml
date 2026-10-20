@@ -1,0 +1,116 @@
+format = 1
+
+[[release]]
+mbid = "7c38ae8c-9670-47da-a78f-19e5dbadb1d6"
+title = "Après c’est gobelet !"
+type = "album"
+date = "2017-10-16"
+spotify = "02PBA0IOsTKnjnwcRW7WI5"
+tracks = [
+  { n = 1, title = "Voldebière", mbid = "b502e90c-21ae-4389-85d0-37fe1c2fe29c" },
+  { n = 2, title = "Chevalier Ricard", mbid = "bc07cf79-dd3d-4723-8d7e-597c45798cc8" },
+  { n = 3, title = "Âmes sœurs", mbid = "07ca1b39-6d95-4e79-ab69-25ac3db2847e" },
+  { n = 4, title = "Chèques vacances", mbid = "05588c5e-0388-44a0-9778-20183d3f9d23" },
+  { n = 5, title = "Du lundi au vendredi", mbid = "83c98275-a21c-4054-a7c8-97051bb05ead" },
+  { n = 6, title = "Aquarium", mbid = "ba7948ab-955f-44fd-92d7-2d5d10338e76" },
+  { n = 7, title = "SPA tranquille", mbid = "865829a4-cb10-4892-82e2-4bedf4f9c1fb" },
+  { n = 8, title = "Audi RTT", mbid = "62ea13b8-5aa4-42a5-ae16-43035d2aec22" },
+  { n = 9, title = "La Fin du monde", mbid = "17e7c578-d37a-4507-b342-74c00303e362" },
+]
+
+[[release]]
+mbid = "afb42db8-508a-4ca3-af67-93421636b2eb"
+title = "Saint-Valentin (à Saint-Maclou)"
+type = "single"
+date = "2018-02-12"
+spotify = "34z9UqSSjnf9fdSF7zcSXo"
+tracks = [
+  { n = 1, title = "Saint-Valentin", mbid = "c3f02d05-4aab-479c-ab4e-28ef8a5bf420" },
+]
+
+[[release]]
+mbid = "245d629a-249b-4bbd-9255-9691cc4173b0"
+title = "Start-up nationale"
+type = "single"
+date = "2018-06"
+tracks = [
+  { n = 1, title = "Start-up nationale", mbid = "6170923f-f1aa-4335-a90f-b6a94497a04b" },
+]
+
+[[release]]
+mbid = "ce71614b-8504-4d6c-a888-50878fa84f82"
+title = "Au festival"
+type = "single"
+date = "2018-08"
+tracks = [
+  { n = 1, title = "Au festival", mbid = "2cc6430c-3772-4522-b6dc-52a5f2fc90c4" },
+]
+
+[[release]]
+mbid = "22da6d4d-a83e-4495-a95b-eae7f020bc09"
+title = "Loin de moi"
+type = "single"
+date = "2020-01"
+tracks = [
+  { n = 1, title = "Loin de moi", mbid = "726194bd-a4e6-4523-b540-191d54873da6" },
+]
+
+[[release]]
+mbid = "c291377a-6904-4e10-9b46-8d3a3efee59f"
+title = "Chevalier Ricard"
+type = "single"
+date = "2020-11-13"
+spotify = "3nXD3A6BOIH6HGIJ5sbBUy"
+tracks = [
+  { n = 1, title = "Chevalier Ricard", mbid = "bc07cf79-dd3d-4723-8d7e-597c45798cc8" },
+]
+
+[[release]]
+mbid = "979315b7-e8f2-410e-86e8-096740959710"
+title = "Audi RTT"
+type = "single"
+date = "2021-06-16"
+spotify = "1EVH8ugoMmva6qaMys6gzU"
+tracks = [
+  { n = 1, title = "Audi RTT", mbid = "62ea13b8-5aa4-42a5-ae16-43035d2aec22" },
+]
+
+[[release]]
+mbid = "2b86da56-f1af-41d7-bc11-2c5ad35f749c"
+title = "Voldebière"
+type = "single"
+date = "2021-11-17"
+spotify = "7FoJsKpPRGg6ACi7DJR9dA"
+tracks = [
+  { n = 1, title = "Voldebière", mbid = "b502e90c-21ae-4389-85d0-37fe1c2fe29c" },
+]
+
+[[release]]
+mbid = "85f75e66-863e-42f5-95ff-4a91ba98f642"
+title = "Sans contact"
+type = "ep"
+date = "2022-12-02"
+tracks = [
+  { n = 1, title = "Loin de moi", mbid = "9a6c1dc1-3b45-4734-bff2-a82594f9fb5d" },
+  { n = 2, title = "Start-up nationale", mbid = "6962df10-2cb1-4c56-a244-7a51e78308b6" },
+  { n = 3, title = "1 new 2 pc", mbid = "ce19d7b2-97bc-4374-b6f5-213500fb0214" },
+]
+
+[[release]]
+mbid = "9dce52d3-32ec-4cce-b2ea-7bdc7024296f"
+title = "C’est à moi ça"
+type = "album"
+date = "2024-03-01"
+spotify = "4iLRvl9FFLhnXfXDSRITNj"
+tracks = [
+  { n = 1, title = "Conspire", mbid = "e93ecf56-c888-47fc-8ee4-a27d8623e31b" },
+  { n = 2, title = "Clubs", mbid = "945d193c-364b-4515-8b04-ba8b8b163fdf" },
+  { n = 3, title = "Rock 2000", mbid = "1d144a0c-ef38-4300-a38a-0f3b75cc4493" },
+  { n = 4, title = "Si j’préfère", mbid = "33d40361-acb2-4054-be38-59d2c2832fb8" },
+  { n = 5, title = "Héros National", mbid = "bd3d035c-987e-48e0-8566-3c52a2b312cb" },
+  { n = 6, title = "Merci la ville", mbid = "e316cef9-337b-49ce-aebc-1ab41caef9a6" },
+  { n = 7, title = "Palace Meetic", mbid = "67e3b779-2b29-4de2-b0aa-a9c909947ca1" },
+  { n = 8, title = "Le sang de Papa", mbid = "870ee600-1e51-4a83-8987-299c54387600" },
+  { n = 9, title = "Pinata", mbid = "69c04433-e3e8-4878-9cba-f71b95dd189b" },
+  { n = 10, title = "Parce-que j’ai rêvé d'être riche", mbid = "87c03d4b-3a99-4f19-817d-dbcf594fa21a" },
+]

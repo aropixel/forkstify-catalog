@@ -1,0 +1,928 @@
+format = 1
+
+[[release]]
+mbid = "792cf92f-93f9-4bfc-95fb-d7dd388a2a55"
+title = "La Mauvaise Réputation / Le Petit Cheval"
+type = "single"
+date = "1952"
+tracks = [
+  { n = 1, title = "La Mauvaise Réputation", mbid = "676b0c39-9c57-4560-80ab-0e935ffb0824" },
+  { n = 2, title = "Le Petit Cheval", mbid = "1c7102be-8995-4b08-922c-0723bb3dd408" },
+]
+
+[[release]]
+mbid = "110fcfe1-edde-47fe-9763-235a8dd6c7f6"
+title = "Le Gorille / La Chasse aux papillons"
+type = "single"
+date = "1952"
+tracks = [
+  { n = 1, title = "Le Gorille", mbid = "b8baa6f7-cc56-42ea-826a-ce1f2effc2eb" },
+  { n = 2, title = "La Chasse aux papillons", mbid = "0453084a-5a9a-4300-9155-6d491b9f405e" },
+]
+
+[[release]]
+mbid = "d973784e-f17b-42a8-b72a-6953177b3d07"
+title = "Le Gorille / La Mauvaise Réputation"
+type = "single"
+date = "1952"
+tracks = [
+  { n = 1, title = "Le Gorille", mbid = "b8baa6f7-cc56-42ea-826a-ce1f2effc2eb" },
+  { n = 2, title = "La Mauvaise Réputation", mbid = "676b0c39-9c57-4560-80ab-0e935ffb0824" },
+]
+
+[[release]]
+mbid = "15301968-a092-4321-a89b-1fc5c2a94c9c"
+title = "Le Gorille / Le Mauvais Sujet repenti"
+type = "single"
+date = "1952"
+tracks = [
+  { n = 1, title = "Le Gorille", mbid = "b8baa6f7-cc56-42ea-826a-ce1f2effc2eb" },
+  { n = 2, title = "Le Mauvais Sujet repenti", mbid = "56f17268-0a53-4cc5-a4b1-933438007239" },
+]
+
+[[release]]
+mbid = "9b32ec2d-fa6c-31e0-9a18-cd836548df71"
+title = "Nº1 : Georges Brassens chante… les chansons poétiques (… et souvent gaillardes) de… Georges Brassens"
+type = "album"
+date = "1952-11"
+tracks = [
+  { n = 1, title = "La Mauvaise Réputation", mbid = "676b0c39-9c57-4560-80ab-0e935ffb0824" },
+  { n = 2, title = "Le Parapluie", mbid = "656996ca-f32a-4a31-a2d8-71d674bfea08" },
+  { n = 3, title = "Le Petit Cheval", mbid = "1c7102be-8995-4b08-922c-0723bb3dd408" },
+  { n = 4, title = "Le Fossoyeur", mbid = "597d8a5e-4587-4047-bdf7-d5e44e92b9d6" },
+  { n = 5, title = "Le Gorille", mbid = "b8baa6f7-cc56-42ea-826a-ce1f2effc2eb" },
+  { n = 6, title = "Corne d’Auroch", mbid = "3ebb75ec-8cce-4b13-9483-87f9b237c19b" },
+  { n = 7, title = "La Chasse aux papillons", mbid = "0453084a-5a9a-4300-9155-6d491b9f405e" },
+  { n = 8, title = "Hécatombe", mbid = "57f2ad3c-1332-469f-a901-c11dbced733f" },
+]
+
+[[release]]
+mbid = "cba283b9-9fa4-4382-9cb5-f776c3b85a33"
+title = "1 – Le Parapluie"
+type = "ep"
+date = "1953"
+tracks = [
+  { n = 1, title = "Le Parapluie", mbid = "656996ca-f32a-4a31-a2d8-71d674bfea08" },
+  { n = 2, title = "Il n’y a pas d’amour heureux", mbid = "24ffe835-4157-47b0-9a87-afe807bcbfd6" },
+  { n = 3, title = "J’ai rendez‐vous avec vous", mbid = "807a7b5b-86c3-4cbe-958b-353fd4976b86" },
+  { n = 4, title = "La Chasse aux papillons", mbid = "0453084a-5a9a-4300-9155-6d491b9f405e" },
+]
+
+[[release]]
+mbid = "922b19b2-7c19-4743-b3bf-db521a973c02"
+title = "Hécatombe / Corne d’Auroch"
+type = "single"
+date = "1953"
+tracks = [
+  { n = 1, title = "Hécatombe", mbid = "57f2ad3c-1332-469f-a901-c11dbced733f" },
+  { n = 2, title = "Corne d’Auroch", mbid = "3ebb75ec-8cce-4b13-9483-87f9b237c19b" },
+]
+
+[[release]]
+mbid = "e77d7b9d-82c5-4c68-be47-55ea44d8e045"
+title = "J’ai rendez‐vous avec vous / Il suffit de passer le pont"
+type = "single"
+date = "1953"
+tracks = [
+  { n = 1, title = "J’ai rendez‐vous avec vous", mbid = "807a7b5b-86c3-4cbe-958b-353fd4976b86" },
+  { n = 2, title = "Il suffit de passer le pont", mbid = "9994ac92-dba6-4fe9-827f-5b429cd65e5f" },
+]
+
+[[release]]
+mbid = "e09cab2b-e6bd-4eb8-871e-b05016443824"
+title = "La Marine / Il n’y a pas d’amour heureux"
+type = "single"
+date = "1953"
+tracks = [
+  { n = 1, title = "La Marine", mbid = "2f4e59b9-71ea-4ee1-bcbd-12f0f3516a64" },
+  { n = 2, title = "Il n’y a pas d’amour heureux", mbid = "24ffe835-4157-47b0-9a87-afe807bcbfd6" },
+]
+
+[[release]]
+mbid = "b4c9bfaf-496b-4dbe-b55f-065adc053702"
+title = "Le Fossoyeur / Le Parapluie"
+type = "single"
+date = "1953"
+tracks = [
+  { n = 1, title = "Le Fossoyeur", mbid = "597d8a5e-4587-4047-bdf7-d5e44e92b9d6" },
+  { n = 2, title = 'Le Parapluie (du film "Rue de l’Estrapade")', mbid = "656996ca-f32a-4a31-a2d8-71d674bfea08" },
+]
+
+[[release]]
+mbid = "6810800d-e593-4e09-bc49-24e7302da5d9"
+title = "Patachou… chante Brassens"
+type = "album"
+date = "1953"
+tracks = [
+  { n = 1, title = "J’ai rendez‐vous avec vous", mbid = "67d81f61-88d9-4bef-8ce9-08835c60781a" },
+  { n = 2, title = "Les Amoureux des bancs publics", mbid = "9f6de302-fba7-432c-abb7-6d7cc40447b6" },
+  { n = 3, title = "Brave Margot", mbid = "c4bb5639-5dc1-4c34-9425-162d91965fdc" },
+  { n = 4, title = "La Prière", mbid = "b5e10797-10a2-481d-9b52-71568d244abb" },
+  { n = 5, title = "Maman, papa", mbid = "a636a8cf-78ad-4c5f-9518-1dd5d2e779c5" },
+  { n = 6, title = "La Légende de la nonne", mbid = "3a256b0f-d43c-41a5-b1f0-b92ecf9b9e22" },
+  { n = 7, title = "Le Bricoleur", mbid = "5f9ec649-40ea-464f-8a74-37e0799b3a38" },
+  { n = 8, title = "La Chasse aux papillons", mbid = "5dc8506c-db14-448a-a9cd-5e40b2f3b6fc" },
+]
+
+[[release]]
+mbid = "a6aef3cf-8723-4f9d-8889-fcece07b8317"
+title = "Bancs publics"
+type = "single"
+date = "1953-10"
+tracks = [
+  { n = 1, title = "Bancs publics", mbid = "ce1a55e4-d9cb-4592-985d-555f2c0c98e9" },
+  { n = 2, title = "Le vent", mbid = "529ee642-a0d0-4b80-8cbe-c0770595ee08" },
+  { n = 3, title = "La cane de Jeanne", mbid = "526d222d-e973-4f78-a3e2-f50747f37d69" },
+]
+
+[[release]]
+mbid = "7c292654-c5fc-4441-8251-27c01b495e77"
+title = "Brave Margot / Pauvre Martin – Comme hier"
+type = "single"
+date = "1953-10"
+tracks = [
+  { n = 1, title = "Brave Margot", mbid = "1254fe4d-31f5-4eb3-a6b5-28f0af34ddcd" },
+  { n = 2, title = "Pauvre Martin", mbid = "62fb0926-7ee9-42cf-9e11-6ac8b9cb0bfa" },
+  { n = 3, title = "Comme hier", mbid = "8f4d8877-4656-4e5b-9b29-a1d90945e82b" },
+]
+
+[[release]]
+mbid = "a4a11a05-0c81-4652-8e38-22ecbfdc10da"
+title = "2 – La Marine"
+type = "ep"
+date = "1953-11"
+tracks = [
+  { n = 1, title = "La Marine", mbid = "2f4e59b9-71ea-4ee1-bcbd-12f0f3516a64" },
+  { n = 2, title = "Corne d’Auroch", mbid = "3ebb75ec-8cce-4b13-9483-87f9b237c19b" },
+  { n = 3, title = "Pauvre Martin", mbid = "8ce6546f-8457-40da-aff3-8c3f40e71ac5" },
+  { n = 4, title = "Le Vent", mbid = "529ee642-a0d0-4b80-8cbe-c0770595ee08" },
+  { n = 5, title = "Hécatombe", mbid = "ad3133f2-be5f-462f-b33d-cca69abaf843" },
+]
+
+[[release]]
+mbid = "4f0e657a-ad8e-335f-860e-bb3ecd72ab97"
+title = "Nº2 : Georges Brassens interprète ses dernières compositions"
+type = "album"
+date = "1953-11"
+tracks = [
+  { n = 1, title = "Le Vent", mbid = "529ee642-a0d0-4b80-8cbe-c0770595ee08" },
+  { n = 2, title = "J'ai rendez-vous avec vous", mbid = "807a7b5b-86c3-4cbe-958b-353fd4976b86" },
+  { n = 3, title = "Bancs publics", mbid = "ce1a55e4-d9cb-4592-985d-555f2c0c98e9" },
+  { n = 4, title = "Ballade des dames du temps jadis", mbid = "805250ee-00aa-495a-a136-2de7599e82d1" },
+  { n = 5, title = "Comme hier", mbid = "8f4d8877-4656-4e5b-9b29-a1d90945e82b" },
+  { n = 6, title = "Pauvre Martin", mbid = "b35a7dc7-3698-4b72-9c29-daa6123da04c" },
+  { n = 7, title = "Brave Margot", mbid = "1254fe4d-31f5-4eb3-a6b5-28f0af34ddcd" },
+  { n = 8, title = "Il suffit de passer le pont", mbid = "9994ac92-dba6-4fe9-827f-5b429cd65e5f" },
+  { n = 9, title = "La Cane de Jeanne", mbid = "6de074ce-d6f7-46b2-a300-386a81c1895b" },
+  { n = 10, title = "La Marine", mbid = "2f4e59b9-71ea-4ee1-bcbd-12f0f3516a64" },
+  { n = 11, title = "Il n'y a pas d'amour heureux", mbid = "24ffe835-4157-47b0-9a87-afe807bcbfd6" },
+]
+
+[[release]]
+mbid = "4b4fb390-a4c9-34c0-9545-8ad2fdb9d1cd"
+title = "Nº3 : Georges Brassens, sa guitare et les rythmes"
+type = "album"
+date = "1954"
+tracks = [
+  { n = 1, title = "Les Sabots d'Hélène", mbid = "0ddbf409-6757-4a14-919a-b1cc2dec366b" },
+  { n = 2, title = "Chanson pour l'Auvergnat « Elle est à toi cette chanson »", mbid = "f12baa80-d82a-45d6-ad25-4a69c8d5fd6c" },
+  { n = 3, title = "La Première Fille « qu’on a pris dans ses bras »", mbid = "341e5e28-1459-4ba7-843a-1a9086b547aa" },
+  { n = 4, title = "La Prière", mbid = "5378fc6c-a2f1-46a5-a4e0-21c3402110b0" },
+  { n = 5, title = "Gastibelza « L'Homme à la carabine »", mbid = "094d4d16-fa72-4b07-afcd-93865285f04a" },
+  { n = 6, title = "La Mauvaise Herbe", mbid = "a5dacf18-b936-4da6-91f4-c01a9480ec4c" },
+  { n = 7, title = "Une jolie fleur « dans une peau de vache »", mbid = "9c3d2d7b-cf08-4feb-aeab-d72324e11b39" },
+  { n = 8, title = "Je suis un voyou « La Tramontane »", mbid = "ed872e5e-6db9-4a6d-aa88-d1172b2a2999" },
+  { n = 9, title = "Le Mauvais Sujet repenti", mbid = "693d8d56-d5b5-42bd-8a87-3938563f88dd" },
+  { n = 10, title = "P... de toi", mbid = "8bfc3177-bd7d-4540-827d-511f343e8652" },
+]
+
+[[release]]
+mbid = "b99af6c6-e185-47f8-afa5-1f4a75d9f4a4"
+title = "Chanson pour l’Auvergnat / Les Sabots d’Hélène"
+type = "single"
+date = "1954-11"
+tracks = [
+  { n = 1, title = "Chanson pour l’Auvergnat: “Elle est à toi cette chanson”", mbid = "f12baa80-d82a-45d6-ad25-4a69c8d5fd6c" },
+  { n = 2, title = "Les Sabots d’Hélène", mbid = "0ddbf409-6757-4a14-919a-b1cc2dec366b" },
+]
+
+[[release]]
+mbid = "e5ad0dbc-bf78-4a30-8820-3ed13214e897"
+title = "Une jolie fleur / La Première Fille"
+type = "single"
+date = "1954-11"
+tracks = [
+  { n = 1, title = "Une jolie fleur « dans une peau de vache »", mbid = "9c3d2d7b-cf08-4feb-aeab-d72324e11b39" },
+  { n = 2, title = "La Première Fille « qu’on a pris dans ses bras »", mbid = "341e5e28-1459-4ba7-843a-1a9086b547aa" },
+]
+
+[[release]]
+mbid = "d82ef8d2-a777-4a0f-bc83-0de68cb82efd"
+title = "3 – Chanson pour l’Auvergnat"
+type = "ep"
+date = "1956"
+tracks = [
+  { n = 1, title = "Chanson pour l’Auvergnat", mbid = "f12baa80-d82a-45d6-ad25-4a69c8d5fd6c" },
+  { n = 2, title = "La Prière", mbid = "5378fc6c-a2f1-46a5-a4e0-21c3402110b0" },
+  { n = 3, title = "Une jolie fleur", mbid = "9c3d2d7b-cf08-4feb-aeab-d72324e11b39" },
+  { n = 4, title = "La Mauvaise Réputation", mbid = "e2f7147b-5e90-482f-afca-1a3f1aa5897b" },
+]
+
+[[release]]
+mbid = "083d5621-52d8-325c-87ff-045cd42eaae9"
+title = "Nº4 : Georges Brassens et sa guitare"
+type = "album"
+date = "1956-03"
+tracks = [
+  { n = 1, title = "Je me suis fait tout petit", mbid = "1164aa0e-b0f6-4076-b978-9a5723f7aa42" },
+  { n = 2, title = "Auprès de mon arbre", mbid = "3274fde5-ef3f-45e7-8682-647f649bdb77" },
+  { n = 3, title = "Marinette « J'avais l'air d'un c... »", mbid = "8289fb7a-ad27-42f2-b0b8-ceb655594002" },
+  { n = 4, title = "Le Testament", mbid = "bbdc0ae0-2f5c-4945-888b-8106a0c9d472" },
+  { n = 5, title = "Les Croquants", mbid = "c85fee2b-dcfc-4055-8670-9f2d44cf9fc7" },
+  { n = 6, title = "La Légende de la nonne", mbid = "ec86b48b-af39-4860-ba48-03ac8df61587" },
+  { n = 7, title = "Le Nombril des femmes d'agents", mbid = "a09831b8-6565-4585-8491-b49adcae193d" },
+  { n = 8, title = "Colombine", mbid = "4a478b51-62c1-44fd-a047-931349bd6969" },
+]
+
+[[release]]
+mbid = "8765f8eb-1bd2-4fc0-a1f4-8e2c09191397"
+title = "4 – Les Sabots d’Hélène"
+type = "ep"
+date = "1956-10"
+tracks = [
+  { n = 1, title = "Les Sabots d’Hélène", mbid = "0ddbf409-6757-4a14-919a-b1cc2dec366b" },
+  { n = 2, title = "Bancs publics", mbid = "ce1a55e4-d9cb-4592-985d-555f2c0c98e9" },
+  { n = 3, title = "La Première Fille… qu’on a pris dans ses bras", mbid = "341e5e28-1459-4ba7-843a-1a9086b547aa" },
+  { n = 4, title = "Brave Margot", mbid = "1254fe4d-31f5-4eb3-a6b5-28f0af34ddcd" },
+]
+
+[[release]]
+mbid = "94134ace-dd0a-44db-ac81-e9c6e520fcca"
+title = "8e série : Du film « Porte des Lilas »"
+type = "ep"
+date = "1957"
+tracks = [
+  { n = 1, title = "L’Amandier", mbid = "94849edf-cd39-48d6-8a23-bc82a08a13f4" },
+  { n = 2, title = "Au bois de mon cœur", mbid = "105948db-f520-4acb-812e-daa70bbb3378" },
+  { n = 3, title = "Le Vin", mbid = "53691e33-0640-48a6-8bc8-a97ff5300c1e" },
+  { n = 4, title = "Les Lilas", mbid = "7c1a402d-7be1-42d9-acc4-c066a18234f8" },
+]
+
+[[release]]
+mbid = "2a6f342b-2086-4433-bc04-265ceda160dc"
+title = "Au bois de mon cœur / Le Vin"
+type = "single"
+date = "1957"
+tracks = [
+  { n = 1, title = "Au bois de mon cœur", mbid = "105948db-f520-4acb-812e-daa70bbb3378" },
+  { n = 2, title = "Le Vin", mbid = "53691e33-0640-48a6-8bc8-a97ff5300c1e" },
+]
+
+[[release]]
+mbid = "449c5fc8-bfea-4690-9c56-4779a0ccadc3"
+title = "5 - Le Gorille"
+type = "ep"
+date = "1957-03"
+tracks = [
+  { n = 1, title = "Le Gorille", mbid = "1b657c43-8f2c-474d-9f86-500510efe9ba" },
+  { n = 2, title = "Le Fossoyeur", mbid = "d840142e-46a4-45a5-b1a6-a0c7a9996632" },
+  { n = 3, title = "Je suis un voyou", mbid = "ed872e5e-6db9-4a6d-aa88-d1172b2a2999" },
+  { n = 4, title = "Le Petit Cheval", mbid = "0993da56-208a-4352-9762-840c4a58bb2e" },
+]
+
+[[release]]
+mbid = "01a5da18-0dcf-3976-9684-3569b71792de"
+title = "Nº5 : Georges Brassens et sa guitare"
+type = "album"
+date = "1957-09"
+tracks = [
+  { n = 1, title = "Oncle Archibald", mbid = "0d637eba-3a1a-4da7-979d-bba7b1b729f3" },
+  { n = 2, title = "L'Amandier", mbid = "94849edf-cd39-48d6-8a23-bc82a08a13f4" },
+  { n = 3, title = "La Marche nuptiale", mbid = "fb936c61-d10f-4599-91c2-e285dcb29f7f" },
+  { n = 4, title = "Au bois de mon cœur", mbid = "105948db-f520-4acb-812e-daa70bbb3378" },
+  { n = 5, title = "Celui qui a mal tourné", mbid = "2609ea9c-d7ef-48f5-bcd9-3ff93864af43" },
+  { n = 6, title = "Grand-père", mbid = "6e1239d0-3330-4823-bb88-3c9ba54eb766" },
+  { n = 7, title = "Les Lilas", mbid = "a4e74230-10f4-4686-a980-0af3d501cfa2" },
+  { n = 8, title = "Philistin", mbid = "e7457412-3ebc-4e69-b736-705856a64732" },
+  { n = 9, title = "Le Vin", mbid = "53691e33-0640-48a6-8bc8-a97ff5300c1e" },
+]
+
+[[release]]
+mbid = "3533c8d4-23bd-412f-9099-703c9b54f101"
+title = "6e Série"
+type = "ep"
+date = "1957-11"
+tracks = [
+  { n = 1, title = "Le Mauvais Sujet repenti", mbid = "693d8d56-d5b5-42bd-8a87-3938563f88dd" },
+  { n = 2, title = "Il suffit de passer le pont", mbid = "9994ac92-dba6-4fe9-827f-5b429cd65e5f" },
+  { n = 3, title = "La Mauvaise Herbe", mbid = "a5dacf18-b936-4da6-91f4-c01a9480ec4c" },
+  { n = 4, title = """Gastibelza "L'Homme à la carabine"""", mbid = "094d4d16-fa72-4b07-afcd-93865285f04a" },
+]
+
+[[release]]
+mbid = "ec0b022c-2fd0-3c4d-b1e8-3d6cffd24888"
+title = "Nº6 : Georges Brassens"
+type = "album"
+date = "1958-11"
+tracks = [
+  { n = 1, title = "Le Pornographe", mbid = "ae933459-c27a-4d97-877b-4ca0f8a97532" },
+  { n = 2, title = "Le Vieux Léon", mbid = "df8ff768-14be-4671-a2d0-06f128817882" },
+  { n = 3, title = "Comme une sœur", mbid = "db2aea52-bfde-4b4c-a921-245792326286" },
+  { n = 4, title = "À l’ombre du cœur de ma mie", mbid = "b7ecc2f0-5334-4583-ac55-9d010532a7f5" },
+  { n = 5, title = "Le Cocu", mbid = "e8d512b1-5a57-487f-9d0f-a3372e76fe95" },
+  { n = 6, title = "La Ronde des jurons", mbid = "21431dc2-8a9a-428f-b6cc-34d57a73c9dc" },
+  { n = 7, title = "La Femme d’Hector", mbid = "9a95d737-3f81-414b-b361-bc331655dab6" },
+  { n = 8, title = "Bonhomme", mbid = "057ef72d-c647-48d1-ab79-390a9fab3ec2" },
+]
+
+[[release]]
+mbid = "0335bfd3-4b42-481e-8b31-3fa152569dca"
+title = "Le Pornographe"
+type = "ep"
+date = "1959"
+tracks = [
+  { n = 1, title = "Le Pornographe", mbid = "ae933459-c27a-4d97-877b-4ca0f8a97532" },
+  { n = 2, title = "La Ronde des jurons", mbid = "21431dc2-8a9a-428f-b6cc-34d57a73c9dc" },
+  { n = 3, title = "Le Vieux Léon", mbid = "df8ff768-14be-4671-a2d0-06f128817882" },
+  { n = 4, title = "À l'ombre du cœur de ma mie", mbid = "b7ecc2f0-5334-4583-ac55-9d010532a7f5" },
+]
+
+[[release]]
+mbid = "7cc6e883-1721-38dc-9041-480b59548b77"
+title = "Nº7 : Georges Brassens"
+type = "album"
+date = "1960-03"
+tracks = [
+  { n = 1, title = "Les Funérailles d’antan", mbid = "b4cc78c5-4d5b-463a-bcfd-21592b579b35" },
+  { n = 2, title = "Le Mécréant", mbid = "9cfce6b2-6119-4636-956d-ab9a666ecce5" },
+  { n = 3, title = "Embrasse-les tous", mbid = "73244b7f-8e4a-4494-b851-4dc7753945dd" },
+  { n = 4, title = "Le Père Noël et la petite fille", mbid = "701c7b24-346e-46f4-a368-eabf84264378" },
+  { n = 5, title = "Le Bistrot", mbid = "7d270e98-6710-4a6b-a7d4-20836c8dec4c" },
+  { n = 6, title = "L'Orage", mbid = "97a643e8-dfd9-46e3-8b5c-e017ab7c3bbc" },
+  { n = 7, title = "Pénélope", mbid = "a779c57a-db19-4ac2-94f4-434293e7766b" },
+  { n = 8, title = "Le Verger du roi Louis", mbid = "468a7b1d-039c-4058-8c4f-53ef9f061a6e" },
+]
+
+[[release]]
+mbid = "c1650bdb-687b-47c3-b178-7d9cd203c598"
+title = "13e série : Hommage à Paul Fort"
+type = "ep"
+date = "1961-05"
+tracks = [
+  { n = 1, title = "Si le bon Dieu l’avait voulu", mbid = "90088871-2988-4980-a9a3-addee3781f72" },
+  { n = 2, title = "L’Enterrement de Verlaine", mbid = "339788f4-f95b-491e-9bb7-0b0e7c0fe61b" },
+  { n = 3, title = "Le Petit Cheval", mbid = "1c7102be-8995-4b08-922c-0723bb3dd408" },
+  { n = 4, title = "Germaine Tourangelle", mbid = "6a5aa73e-4bb0-413f-b714-34313b48f7e1" },
+  { n = 5, title = "La Marine", mbid = "dc616886-fd14-443c-bdf6-8f3802d8f078" },
+  { n = 6, title = "À Mireille dite « Petit verglas »", mbid = "22dc8cbb-0177-4fc5-97bc-ffb4de5a246e" },
+  { n = 7, title = "Comme hier", mbid = "8f4d8877-4656-4e5b-9b29-a1d90945e82b" },
+]
+
+[[release]]
+mbid = "23b2c87d-c2a9-3383-ad75-215aaef17c3e"
+title = "Nº8 : Georges Brassens, à la basse : Pierre Nicolas"
+type = "album"
+date = "1961-11"
+tracks = [
+  { n = 1, title = "Le temps ne fait rien à l'affaire", mbid = "70fb8282-e2aa-4aa8-b2a7-a1ef89ef2165" },
+  { n = 2, title = "Dans l’eau de la claire fontaine", mbid = "e5653e63-bb32-4da0-ac7a-4b905eb381d3" },
+  { n = 3, title = "La Traîtresse", mbid = "05c63efc-a1a4-4f37-b1a9-d4d72c8985d8" },
+  { n = 4, title = "La Ballade des cimetières", mbid = "e58b5c7b-4e1a-4656-8180-fb038308a21a" },
+  { n = 5, title = "La Complainte des filles de joie", mbid = "0e25fb55-5a15-4f25-a392-3c4edfd35f8d" },
+  { n = 6, title = "Tonton Nestor (La Noce de Jeannette)", mbid = "3c6d905e-8b8c-4517-a2a1-6cf26a60c4a5" },
+  { n = 7, title = "Le Temps passé", mbid = "83032a54-ad0e-4daf-a446-b451dd297429" },
+  { n = 8, title = "La Fille à cent sous", mbid = "487fefc0-b111-47a7-bfe0-130e3c3bed74" },
+]
+
+[[release]]
+mbid = "dbe99785-7e88-4aa1-9fe3-0c307a7f1cae"
+title = "Allons chez Georges Brassens"
+type = "ep"
+date = "1962"
+tracks = [
+  { n = 1, title = """Marinette "J'avais l'air d'un c..."""", mbid = "8289fb7a-ad27-42f2-b0b8-ceb655594002" },
+  { n = 2, title = "Je me suis fait tout petit", mbid = "1164aa0e-b0f6-4076-b978-9a5723f7aa42" },
+  { n = 3, title = "Auprès de mon arbre", mbid = "3274fde5-ef3f-45e7-8682-647f649bdb77" },
+  { n = 4, title = "La Cane de Jeanne", mbid = "6de074ce-d6f7-46b2-a300-386a81c1895b" },
+]
+
+[[release]]
+mbid = "1476ba0e-2e25-3ffc-bd4f-2595ceebd260"
+title = "Nº9 : Les Trompettes de la renommée"
+type = "album"
+date = "1962-12"
+tracks = [
+  { n = 1, title = "Les Trompettes de la renommée", mbid = "9569b639-68b3-422b-83bd-52a3c50e3c4a" },
+  { n = 2, title = "Jeanne", mbid = "486982de-a465-4afe-97e1-a78bb5e8d887" },
+  { n = 3, title = "Je rejoindrai ma belle", mbid = "22d52ea7-29bb-4d61-931d-d8ea5f4c5bcd" },
+  { n = 4, title = "Marquise", mbid = "a99b0fbf-0eaf-42a5-b414-7ff23538f963" },
+  { n = 5, title = "La Guerre de 14-18", mbid = "3acba740-75c3-4603-b113-bd41a37ede6b" },
+  { n = 6, title = "Les Amours d’antan", mbid = "c66a30ec-ed02-49f4-90f5-c96c81c679f1" },
+  { n = 7, title = "L’Assassinat", mbid = "74495a31-234d-4e62-9242-5c3e92ae4721" },
+  { n = 8, title = "La Marguerite", mbid = "87b4d912-6e69-4e3c-8fac-a240d848d927" },
+  { n = 9, title = "Si le bon Dieu l’avait voulu", mbid = "90088871-2988-4980-a9a3-addee3781f72" },
+]
+
+[[release]]
+mbid = "c6ec13cc-0d1e-4593-875e-3763d68b9248"
+title = "Brave Margot / Les Sabots d’Hélène"
+type = "single"
+date = "1964"
+tracks = [
+  { n = 1, title = "Brave Margot", mbid = "1254fe4d-31f5-4eb3-a6b5-28f0af34ddcd" },
+  { n = 2, title = "Les Sabots d’Hélène", mbid = "0ddbf409-6757-4a14-919a-b1cc2dec366b" },
+]
+
+[[release]]
+mbid = "f3d584e8-f783-45eb-9b3a-0423fe2419f8"
+title = "Les Amoureux des bancs publics / La Chasse aux papillons"
+type = "single"
+date = "1964"
+tracks = [
+  { n = 1, title = "Les Amoureux des bancs publics", mbid = "ce1a55e4-d9cb-4592-985d-555f2c0c98e9" },
+  { n = 2, title = "La Chasse aux papillons", mbid = "0453084a-5a9a-4300-9155-6d491b9f405e" },
+]
+
+[[release]]
+mbid = "d514b557-4766-415b-8ede-e47879125fec"
+title = "Une jolie fleur (dans une peau d'vache) / La Traîtresse"
+type = "single"
+date = "1964"
+tracks = [
+  { n = 1, title = "Une jolie fleur (dans une peau d'vache)", mbid = "9c3d2d7b-cf08-4feb-aeab-d72324e11b39" },
+  { n = 2, title = "La Traîtresse", mbid = "05c63efc-a1a4-4f37-b1a9-d4d72c8985d8" },
+]
+
+[[release]]
+mbid = "721962e9-ebbb-444b-899e-09749f89b6fd"
+title = "Bande originale du film d’Yves Robert “Les Copains”"
+type = "ep"
+date = "1964-11"
+tracks = [
+  { n = 1, title = "Les Copains d’abord", mbid = "d50b06ca-3b00-4600-9428-13728e58fd16" },
+  { n = 2, title = "La Ballade à vélo", mbid = "3a658fad-547b-4ad6-8f4a-9121a6c38c89" },
+  { n = 3, title = "Le Réveil d’Ambert", mbid = "12f3bff9-3e34-44c1-adf2-9cc2e008c751" },
+  { n = 4, title = "Les Copains d’abord", mbid = "f831f87a-74e9-4bde-b063-2c038a9855dd" },
+]
+
+[[release]]
+mbid = "f8335795-a806-3bfc-8113-8b0fc7f1ea8e"
+title = "Nº10 : Les Copains d'abord"
+type = "album"
+date = "1964-11"
+spotify = "0y9YoYaHJNk6f9mUP7jhvR"
+tracks = [
+  { n = 1, title = "Les Copains d'abord", mbid = "d50b06ca-3b00-4600-9428-13728e58fd16" },
+  { n = 2, title = "Les 4 z'arts", mbid = "76aacea3-f2dc-478b-a25a-682d0d89ad42" },
+  { n = 3, title = "Le Petit Joueur de flûteau", mbid = "e5415f33-256b-4628-b380-bd89763f7d35" },
+  { n = 4, title = "La Tondue", mbid = "7acebbd9-e283-479e-b587-00054417c892" },
+  { n = 5, title = "Le 22 septembre", mbid = "d33dd647-10f3-4367-b5b6-166674bd41b4" },
+  { n = 6, title = "Les Deux Oncles", mbid = "03068fe6-c193-4c6c-a755-2335049ee9e3" },
+  { n = 7, title = "Vénus callipyge", mbid = "fc5879bc-ee7e-47bd-bd1c-2aeb26ff506e" },
+  { n = 8, title = "Le Mouton de Panurge", mbid = "287f94d0-e3c6-4483-a087-7bd2b81eae3e" },
+  { n = 9, title = "La Route aux 4 chansons", mbid = "7bdc49d6-4d0e-4039-8337-71a257e2edf6" },
+  { n = 10, title = "Saturne", mbid = "7a6a638a-a1ee-4301-95a0-27ae2ba64819" },
+  { n = 11, title = "Le Grand Pan", mbid = "f3c12b31-a7f4-4df5-a074-69966632a02b" },
+]
+
+[[release]]
+mbid = "56ddd282-f0af-4547-bbb9-912ca61402c7"
+title = "Les Copains d’abord"
+type = "ep"
+date = "1965"
+tracks = [
+  { n = 1, title = "Les Copains d’abord", mbid = "d50b06ca-3b00-4600-9428-13728e58fd16" },
+  { n = 2, title = "La Route aux 4 chansons", mbid = "7bdc49d6-4d0e-4039-8337-71a257e2edf6" },
+  { n = 3, title = "Le 22 Septembre", mbid = "d33dd647-10f3-4367-b5b6-166674bd41b4" },
+  { n = 4, title = "Le Mouton de Panurge", mbid = "287f94d0-e3c6-4483-a087-7bd2b81eae3e" },
+]
+
+[[release]]
+mbid = "4965bfb7-eb96-32cc-acdc-1f68804a49c4"
+title = "Volume 1 : La Mauvaise Réputation"
+type = "album"
+date = "1965"
+tracks = [
+  { n = 1, title = "La Mauvaise Réputation", mbid = "676b0c39-9c57-4560-80ab-0e935ffb0824" },
+  { n = 2, title = "Le Fossoyeur", mbid = "597d8a5e-4587-4047-bdf7-d5e44e92b9d6" },
+  { n = 3, title = "Le Gorille", mbid = "b8baa6f7-cc56-42ea-826a-ce1f2effc2eb" },
+  { n = 4, title = "Le Petit Cheval", mbid = "1c7102be-8995-4b08-922c-0723bb3dd408" },
+  { n = 5, title = "Ballade des dames du temps jadis", mbid = "805250ee-00aa-495a-a136-2de7599e82d1" },
+  { n = 6, title = "Hécatombe", mbid = "57f2ad3c-1332-469f-a901-c11dbced733f" },
+  { n = 7, title = "La Chasse aux papillons", mbid = "0453084a-5a9a-4300-9155-6d491b9f405e" },
+  { n = 8, title = "Le Parapluie", mbid = "656996ca-f32a-4a31-a2d8-71d674bfea08" },
+  { n = 9, title = "La Marine", mbid = "2f4e59b9-71ea-4ee1-bcbd-12f0f3516a64" },
+  { n = 10, title = "Corne d’Auroch", mbid = "3ebb75ec-8cce-4b13-9483-87f9b237c19b" },
+  { n = 11, title = "Il suffit de passer le pont", mbid = "9994ac92-dba6-4fe9-827f-5b429cd65e5f" },
+  { n = 12, title = "Comme hier", mbid = "8f4d8877-4656-4e5b-9b29-a1d90945e82b" },
+]
+
+[[release]]
+mbid = "87b64571-73b0-351e-92ec-215f002a5609"
+title = "Volume 2 : Les Amoureux des bancs publics"
+type = "album"
+date = "1965"
+tracks = [
+  { n = 1, title = "Les Amoureux des bancs publics", mbid = "ce1a55e4-d9cb-4592-985d-555f2c0c98e9" },
+  { n = 2, title = "Brave Margot", mbid = "1254fe4d-31f5-4eb3-a6b5-28f0af34ddcd" },
+  { n = 3, title = "Pauvre Martin", mbid = "62fb0926-7ee9-42cf-9e11-6ac8b9cb0bfa" },
+  { n = 4, title = "La Première Fille", mbid = "341e5e28-1459-4ba7-843a-1a9086b547aa" },
+  { n = 5, title = "La Cane de Jeanne", mbid = "6de074ce-d6f7-46b2-a300-386a81c1895b" },
+  { n = 6, title = "Je suis un voyou", mbid = "ed872e5e-6db9-4a6d-aa88-d1172b2a2999" },
+  { n = 7, title = "J’ai rendez‐vous avec vous", mbid = "807a7b5b-86c3-4cbe-958b-353fd4976b86" },
+  { n = 8, title = "Le Vent", mbid = "529ee642-a0d0-4b80-8cbe-c0770595ee08" },
+  { n = 9, title = "Il n’y a pas d’amour heureux", mbid = "24ffe835-4157-47b0-9a87-afe807bcbfd6" },
+  { n = 10, title = "La Mauvaise Herbe", mbid = "a5dacf18-b936-4da6-91f4-c01a9480ec4c" },
+  { n = 11, title = "Le Mauvais Sujet repenti", mbid = "693d8d56-d5b5-42bd-8a87-3938563f88dd" },
+  { n = 12, title = "P… de toi", mbid = "8bfc3177-bd7d-4540-827d-511f343e8652" },
+]
+
+[[release]]
+mbid = "67b62826-e985-3fbf-a3a5-65e8c168aac7"
+title = "Volume 3 : Chanson pour l’Auvergnat"
+type = "album"
+date = "1965"
+tracks = [
+  { n = 1, title = "Chanson pour l'Auvergnat", mbid = "f12baa80-d82a-45d6-ad25-4a69c8d5fd6c" },
+  { n = 2, title = "Les Sabots d'Hélène", mbid = "0ddbf409-6757-4a14-919a-b1cc2dec366b" },
+  { n = 3, title = "Marinette", mbid = "8289fb7a-ad27-42f2-b0b8-ceb655594002" },
+  { n = 4, title = "Une jolie fleur", mbid = "9c3d2d7b-cf08-4feb-aeab-d72324e11b39" },
+  { n = 5, title = "La Légende de la nonne", mbid = "ec86b48b-af39-4860-ba48-03ac8df61587" },
+  { n = 6, title = "Colombine", mbid = "4a478b51-62c1-44fd-a047-931349bd6969" },
+  { n = 7, title = "Auprès de mon arbre", mbid = "3274fde5-ef3f-45e7-8682-647f649bdb77" },
+  { n = 8, title = "Gastibelza", mbid = "094d4d16-fa72-4b07-afcd-93865285f04a" },
+  { n = 9, title = "Le Testament", mbid = "bbdc0ae0-2f5c-4945-888b-8106a0c9d472" },
+  { n = 10, title = "La Prière", mbid = "5378fc6c-a2f1-46a5-a4e0-21c3402110b0" },
+  { n = 11, title = "Le Nombril des femmes d'agents", mbid = "a09831b8-6565-4585-8491-b49adcae193d" },
+  { n = 12, title = "Les Croquants", mbid = "c85fee2b-dcfc-4055-8670-9f2d44cf9fc7" },
+]
+
+[[release]]
+mbid = "b7582b60-38e2-336f-86e4-26d8ee31df88"
+title = "Volume 4 : Je me suis fait tout petit"
+type = "album"
+date = "1965"
+tracks = [
+  { n = 1, title = "Je me suis fait tout petit", mbid = "1164aa0e-b0f6-4076-b978-9a5723f7aa42" },
+  { n = 2, title = "L'Amandier", mbid = "94849edf-cd39-48d6-8a23-bc82a08a13f4" },
+  { n = 3, title = "Oncle Archibald", mbid = "0d637eba-3a1a-4da7-979d-bba7b1b729f3" },
+  { n = 4, title = "La Marche nuptiale", mbid = "fb936c61-d10f-4599-91c2-e285dcb29f7f" },
+  { n = 5, title = "Les Lilas", mbid = "a4e74230-10f4-4686-a980-0af3d501cfa2" },
+  { n = 6, title = "Au bois de mon cœur", mbid = "105948db-f520-4acb-812e-daa70bbb3378" },
+  { n = 7, title = "Grand-père", mbid = "6e1239d0-3330-4823-bb88-3c9ba54eb766" },
+  { n = 8, title = "Celui qui a mal tourné", mbid = "2609ea9c-d7ef-48f5-bcd9-3ff93864af43" },
+  { n = 9, title = "Le Vin", mbid = "53691e33-0640-48a6-8bc8-a97ff5300c1e" },
+  { n = 10, title = "Philistins", mbid = "e7457412-3ebc-4e69-b736-705856a64732" },
+]
+
+[[release]]
+mbid = "95bc8a09-7b5d-3240-90a7-9bd573031653"
+title = "Volume 5 : Le Pornographe"
+type = "album"
+date = "1965"
+tracks = [
+  { n = 1, title = "Le Vieux Léon", mbid = "df8ff768-14be-4671-a2d0-06f128817882" },
+  { n = 2, title = "La Ronde des jurons", mbid = "21431dc2-8a9a-428f-b6cc-34d57a73c9dc" },
+  { n = 3, title = "À l’ombre du cœur de ma mie", mbid = "b7ecc2f0-5334-4583-ac55-9d010532a7f5" },
+  { n = 4, title = "Le Pornographe", mbid = "ae933459-c27a-4d97-877b-4ca0f8a97532" },
+  { n = 5, title = "Le Père Noël et la Petite Fille", mbid = "701c7b24-346e-46f4-a368-eabf84264378" },
+  { n = 6, title = "La Femme d’Hector", mbid = "9a95d737-3f81-414b-b361-bc331655dab6" },
+  { n = 7, title = "Bonhomme", mbid = "057ef72d-c647-48d1-ab79-390a9fab3ec2" },
+  { n = 8, title = "Les Funérailles d’antan", mbid = "b4cc78c5-4d5b-463a-bcfd-21592b579b35" },
+  { n = 9, title = "Le Cocu", mbid = "e8d512b1-5a57-487f-9d0f-a3372e76fe95" },
+  { n = 10, title = "Comme une sœur", mbid = "db2aea52-bfde-4b4c-a921-245792326286" },
+]
+
+[[release]]
+mbid = "9163c43d-3c58-3688-9a97-df759be4a7c7"
+title = "Volume 6 : Le Mécréant"
+type = "album"
+date = "1965"
+tracks = [
+  { n = 1, title = "La Traîtresse", mbid = "05c63efc-a1a4-4f37-b1a9-d4d72c8985d8" },
+  { n = 2, title = "Tonton Nestor", mbid = "3c6d905e-8b8c-4517-a2a1-6cf26a60c4a5" },
+  { n = 3, title = "Le Bistrot", mbid = "7d270e98-6710-4a6b-a7d4-20836c8dec4c" },
+  { n = 4, title = "Embrasse-les tous", mbid = "73244b7f-8e4a-4494-b851-4dc7753945dd" },
+  { n = 5, title = "La Ballade des cimetières", mbid = "e58b5c7b-4e1a-4656-8180-fb038308a21a" },
+  { n = 6, title = "L'Enterrement de Verlaine", mbid = "339788f4-f95b-491e-9bb7-0b0e7c0fe61b" },
+  { n = 7, title = "Germaine Tourangelle", mbid = "6a5aa73e-4bb0-413f-b714-34313b48f7e1" },
+  { n = 8, title = 'À Mireille, dite "Petit verglas"', mbid = "22dc8cbb-0177-4fc5-97bc-ffb4de5a246e" },
+  { n = 9, title = "Pénélope", mbid = "a779c57a-db19-4ac2-94f4-434293e7766b" },
+  { n = 10, title = "L'Orage", mbid = "97a643e8-dfd9-46e3-8b5c-e017ab7c3bbc" },
+  { n = 11, title = "Le Mécréant", mbid = "9cfce6b2-6119-4636-956d-ab9a666ecce5" },
+  { n = 12, title = "Le Verger du roi Louis", mbid = "468a7b1d-039c-4058-8c4f-53ef9f061a6e" },
+  { n = 13, title = "Le Temps passé", mbid = "83032a54-ad0e-4daf-a446-b451dd297429" },
+  { n = 14, title = "La Fille à cent sous", mbid = "487fefc0-b111-47a7-bfe0-130e3c3bed74" },
+]
+
+[[release]]
+mbid = "42124267-42a9-3a08-9737-6c2d94b4f05f"
+title = "Volume 7 : Les Trompettes de la renommée"
+type = "album"
+date = "1965"
+tracks = [
+  { n = 1, title = "Les Trompettes de la renommée", mbid = "9569b639-68b3-422b-83bd-52a3c50e3c4a" },
+  { n = 2, title = "Jeanne", mbid = "486982de-a465-4afe-97e1-a78bb5e8d887" },
+  { n = 3, title = "Dans l’eau de la claire fontaine", mbid = "e5653e63-bb32-4da0-ac7a-4b905eb381d3" },
+  { n = 4, title = "Je rejoindrai ma belle", mbid = "22d52ea7-29bb-4d61-931d-d8ea5f4c5bcd" },
+  { n = 5, title = "La Marguerite", mbid = "87b4d912-6e69-4e3c-8fac-a240d848d927" },
+  { n = 6, title = "Si le bon dieu l’avait voulu", mbid = "90088871-2988-4980-a9a3-addee3781f72" },
+  { n = 7, title = "La Guerre de 14–18", mbid = "3acba740-75c3-4603-b113-bd41a37ede6b" },
+  { n = 8, title = "Les Amours d’antan", mbid = "c66a30ec-ed02-49f4-90f5-c96c81c679f1" },
+  { n = 9, title = "Le temps ne fait rien à l’affaire", mbid = "70fb8282-e2aa-4aa8-b2a7-a1ef89ef2165" },
+  { n = 10, title = "Marquise", mbid = "3ae90fbc-1297-4796-9d8c-7921f7876fe3" },
+  { n = 11, title = "L’Assassinat", mbid = "74495a31-234d-4e62-9242-5c3e92ae4721" },
+  { n = 12, title = "La Complainte des filles de joie", mbid = "0e25fb55-5a15-4f25-a392-3c4edfd35f8d" },
+]
+
+[[release]]
+mbid = "0818fff0-0c58-37cb-9a38-5014e9bee08b"
+title = "Volume 8 : Les Copains d’abord"
+type = "album"
+date = "1965-09"
+tracks = [
+  { n = 1, title = "Les Copains d'abord", mbid = "d50b06ca-3b00-4600-9428-13728e58fd16" },
+  { n = 2, title = "Les Quat'z'arts", mbid = "76aacea3-f2dc-478b-a25a-682d0d89ad42" },
+  { n = 3, title = "Le Petit Joueur de flûteau", mbid = "e5415f33-256b-4628-b380-bd89763f7d35" },
+  { n = 4, title = "La Tondue", mbid = "7acebbd9-e283-479e-b587-00054417c892" },
+  { n = 5, title = "Le Vingt-deux Septembre", mbid = "d33dd647-10f3-4367-b5b6-166674bd41b4" },
+  { n = 6, title = "Les Deux Oncles", mbid = "03068fe6-c193-4c6c-a755-2335049ee9e3" },
+  { n = 7, title = "Vénus callipyge", mbid = "fc5879bc-ee7e-47bd-bd1c-2aeb26ff506e" },
+  { n = 8, title = "Le Mouton de Panurge", mbid = "287f94d0-e3c6-4483-a087-7bd2b81eae3e" },
+  { n = 9, title = "La Route aux quatre chansons", mbid = "7bdc49d6-4d0e-4039-8337-71a257e2edf6" },
+  { n = 10, title = "Saturne", mbid = "7a6a638a-a1ee-4301-95a0-27ae2ba64819" },
+  { n = 11, title = "Le Grand Pan", mbid = "f3c12b31-a7f4-4df5-a074-69966632a02b" },
+]
+
+[[release]]
+mbid = "cd6f1da3-5749-3bd2-961b-09d4f696c8e6"
+title = "Volume 9 : Supplique pour être enterré à la plage de Sète"
+type = "album"
+date = "1966-07"
+spotify = "1YOsJLwsLEyteYZgfPfmcZ"
+tracks = [
+  { n = 1, title = "Supplique pour être enterré à la plage de Sète", mbid = "31112671-a774-42c2-bed6-b48fc43f453f" },
+  { n = 2, title = "Le Fantôme", mbid = "3a519593-9a95-4ccd-8b83-1cc1be71a0e8" },
+  { n = 3, title = "La Fessée", mbid = "d1b2d795-2d08-427c-b59d-9a1429776bc2" },
+  { n = 4, title = "Le Pluriel", mbid = "171c0c73-8923-49a0-ba6d-782d27705870" },
+  { n = 5, title = "Les Quatre Bacheliers", mbid = "cb96a6b2-6bbf-4865-beb4-58c79e51c506" },
+  { n = 6, title = "Le Bulletin de santé", mbid = "f86b0cc9-5b79-432f-8595-d5c320946acd" },
+  { n = 7, title = "La Non‐demande en mariage", mbid = "259e5c7e-093e-4ae7-8ac7-6217e3e53686" },
+  { n = 8, title = "Le Grand Chêne", mbid = "be209dc5-60a1-49b6-adb6-f3a7ca4af42a" },
+  { n = 9, title = "Concurrence déloyale", mbid = "b9924124-6640-4fd7-a9b4-65149c4fbe8b" },
+  { n = 10, title = "L’Épave", mbid = "8d23441a-d618-4275-a6f3-792071d5921d" },
+  { n = 11, title = "Le Moyenâgeux", mbid = "cb1595ba-7be2-4d5b-a5eb-eaa2ec6702fd" },
+]
+
+[[release]]
+mbid = "01dbc69e-70dd-4f5c-8bb2-9559a8de4151"
+title = "Le Grand Chêne"
+type = "ep"
+date = "1967-08"
+tracks = [
+  { n = 1, title = "Le Grand Chêne", mbid = "be209dc5-60a1-49b6-adb6-f3a7ca4af42a" },
+  { n = 2, title = "Le Fantôme", mbid = "3a519593-9a95-4ccd-8b83-1cc1be71a0e8" },
+  { n = 3, title = "L’Épave", mbid = "8d23441a-d618-4275-a6f3-792071d5921d" },
+]
+
+[[release]]
+mbid = "48719260-8f68-43d0-ac18-ca813a5b8026"
+title = "L’Ancêtre / Rien à jeter"
+type = "single"
+date = "1969-11"
+tracks = [
+  { n = 1, title = "L’Ancêtre", mbid = "a45be0c8-045e-496d-b452-019d6869aad4" },
+  { n = 2, title = "Rien à jeter", mbid = "2ced6220-b46d-4cc1-8b75-085e94eafaf6" },
+]
+
+[[release]]
+mbid = "0794e68e-7620-309a-9f1d-775b035a4b97"
+title = "Volume 10 : La Religieuse"
+type = "album"
+date = "1969-11"
+spotify = "6EbesKn8FeEkZPmZPxq12D"
+tracks = [
+  { n = 1, title = "Misogynie à part", mbid = "d31dd82b-76af-4c0c-9da1-0a86db180af9" },
+  { n = 2, title = "Bécassine", mbid = "932019a9-4d94-4d8c-aee0-92c7717da939" },
+  { n = 3, title = "L’Ancêtre", mbid = "c95a79cf-396f-4e59-a673-0301bf40b90e" },
+  { n = 4, title = "Rien à jeter", mbid = "dfa52398-0854-4955-8252-21babea23cd1" },
+  { n = 5, title = "Les Oiseaux de passage", mbid = "ba351417-9043-473f-9e78-750a0d7cefc5" },
+  { n = 6, title = "La Religieuse", mbid = "9d8d90b6-ad12-4cdf-a56d-d2b90aac17af" },
+  { n = 7, title = "Pensées des morts", mbid = "bdc57768-9efb-41da-99a0-972ba045030d" },
+  { n = 8, title = "La Rose, la Bouteille et la Poignée de main", mbid = "cb73c278-24cd-4f24-91bb-dd1151863e1b" },
+  { n = 9, title = "Sale Petit Bonhomme", mbid = "fab58c2b-549f-4283-90d0-7efab72e4f57" },
+]
+
+[[release]]
+mbid = "536c13f7-c29c-3c83-bdf2-d7b88001505c"
+title = "Volume 11 : Fernande"
+type = "album"
+date = "1972-10"
+tracks = [
+  { n = 1, title = "Fernande", mbid = "0ecbced7-d923-481f-b737-f337e595a089" },
+  { n = 2, title = "Stances à un cambrioleur", mbid = "e9def502-6063-4c74-9e6a-be9b9b122eba" },
+  { n = 3, title = "La Ballade des gens qui sont nés quelque part", mbid = "68529141-0c8e-4f3f-a204-249a33c1aa1b" },
+  { n = 4, title = "La Princesse et le Croque-Notes", mbid = "66b51778-1acd-4d91-a77b-05d515572eb8" },
+  { n = 5, title = "Sauf le respect que je vous dois", mbid = "8904d546-46bd-41be-925d-7b51788b5f70" },
+  { n = 6, title = "Le Blason", mbid = "2278294d-68e6-4aa1-bdd5-9c64f7ecf74a" },
+  { n = 7, title = "Mourir pour des idées", mbid = "50ad602d-ebc1-461d-bcfe-e49c3b5bc221" },
+  { n = 8, title = "Quatre-vingt-quinze pour cent", mbid = "c8670d91-e0f4-4fdc-9c6e-5b989c9b8a47" },
+  { n = 9, title = "Les Passantes", mbid = "ac311227-59a5-4d55-b3cc-69b41db0acd2" },
+  { n = 10, title = "Le Roi", mbid = "bec7742a-f1b3-4026-b81b-d68f6882a435" },
+  { n = 11, title = "À l’ombre des maris", mbid = "48ff3864-7bb8-436f-afc9-23cd9df6e769" },
+]
+
+[[release]]
+mbid = "d4f1b21b-a32d-3d78-b75b-7c61a09d942e"
+title = "Volume 12 : Don Juan"
+type = "album"
+date = "1976"
+tracks = [
+  { n = 1, title = "Trompe la mort", mbid = "1d547360-8e45-4865-b964-0540d9cd1145" },
+  { n = 2, title = "Les Ricochets", mbid = "3b34cedd-bcd6-475c-ad2c-f205f86f86fa" },
+  { n = 3, title = "Tempête dans un bénitier", mbid = "78b62ff5-0dab-45f3-99a1-3cbe8b7869cd" },
+  { n = 4, title = "Le Boulevard du temps qui passe", mbid = "d3d5ea11-f06e-48cb-ad27-7a1a80a2ecf9" },
+  { n = 5, title = "Le Modeste", mbid = "664eafee-6531-4a39-8dd9-e2eabfcef698" },
+  { n = 6, title = "Don Juan", mbid = "6f124c1f-ad07-49cb-a623-c191be72019f" },
+  { n = 7, title = "Les Casseuses", mbid = "d5903660-b64a-4614-a5ad-bf767ef069f8" },
+  { n = 8, title = "Cupidon s'en fout", mbid = "f262c127-745c-4ece-a7ba-259ebd63f178" },
+  { n = 9, title = "Montélimar", mbid = "acb6d092-7d30-4d4a-99ac-faf5378a2255" },
+  { n = 10, title = "Histoire de faussaire", mbid = "ad405042-eb8e-4379-b32f-9a86dd789dba" },
+  { n = 11, title = "La Messe au pendu", mbid = "7bd78973-2fd6-4665-a0b6-65fee28bffab" },
+  { n = 12, title = "Lèche-cocu", mbid = "3a9d8d1f-8622-4f8c-84c5-f4a095f4e6a0" },
+  { n = 13, title = "Les Patriotes", mbid = "f5a27c0f-bee8-404a-b395-b0f488ed9f2a" },
+  { n = 14, title = "Mélanie", mbid = "6e3f688a-e4d6-4e32-894f-47b6bfdc58e4" },
+]
+
+[[release]]
+mbid = "7262475a-6b1a-44d7-ae94-0339b1f73d0c"
+title = "Georges Brassens joue avec Moustache et Les Petits Français"
+type = "album"
+date = "1979"
+tracks = [
+  { n = 1, title = "Élégie à un rat de cave", mbid = "e75bfca5-ec0b-46c4-8e8e-5777ce88ded4" },
+  { n = 2, title = "Au bois de mon cœur", mbid = "2618b93d-f97f-480d-b573-e4247d0a5aae" },
+  { n = 3, title = "P… de toi", mbid = "4c0bbdbe-4225-47e2-bc62-35137b8b2ca5" },
+  { n = 4, title = "La Femme d’Hector", mbid = "b76835ac-c985-4bf4-9641-151a260de9fe" },
+  { n = 5, title = "La Marche nuptiale", mbid = "5f4cecb6-ea3e-4c44-9d40-b567adae145a" },
+  { n = 6, title = "Le temps ne fait rien à l’affaire", mbid = "602e5a27-8ae4-4581-85f2-79f9c705b955" },
+  { n = 7, title = "Le Temps passé", mbid = "6467a1f3-70ee-4c73-a9ce-877da0c2da6e" },
+  { n = 8, title = "Chanson pour l’Auvergnat", mbid = "0e4f8e50-b166-4556-aaf9-eeaafe120e1e" },
+  { n = 9, title = "La Chasse aux papillons", mbid = "6aa07e99-dd0b-4f94-8070-38adfaad6090" },
+  { n = 10, title = "Le Pornographe", mbid = "7fc02a44-a601-46cd-9f99-789f2a9b8b02" },
+  { n = 11, title = "La Prière", mbid = "4a3bc514-ca6c-4afa-921e-e8e3bda03c6e" },
+  { n = 12, title = "Les Copains d’abord", mbid = "29ce99e1-159f-4005-9b15-307f85452366" },
+]
+
+[[release]]
+mbid = "fee76382-272b-48fc-8f14-b62d61ad4997"
+title = "Georges Brassens joue avec Moustache et Les Petits Français, volume 2"
+type = "album"
+date = "1979"
+tracks = [
+  { n = 1, title = "Histoire de faussaire", mbid = "35b316e1-bbf3-49b4-b228-abf18bac2f81" },
+  { n = 2, title = "Embrasse‐les tous", mbid = "ae0c7bb8-6602-462f-a392-af4e8a47b2b3" },
+  { n = 3, title = "Maman papa", mbid = "bf1c83f7-4b1b-4347-9be6-7117f97faa83" },
+  { n = 4, title = "La Non‐demande en mariage", mbid = "8aa2bdcd-140c-469a-97f4-ace8ef5e8c4f" },
+  { n = 5, title = "Je me suis fait tout petit", mbid = "3251febf-a629-4800-a548-fc61bad60386" },
+  { n = 6, title = "J’ai rendez‐vous avec vous", mbid = "0f73638a-9ced-4bc3-ad42-fa2f33b284f0" },
+  { n = 7, title = "Bonhomme", mbid = "1c3bdb92-784e-4164-9580-3aaedcb244d6" },
+  { n = 8, title = "Le Vent", mbid = "ff0f8df9-25b1-4cc4-a010-b76a0775e884" },
+  { n = 9, title = "La Ballade des cimetières", mbid = "73949d45-e556-4774-a050-6c0a63db6dd4" },
+  { n = 10, title = "La Ronde des jurons", mbid = "a62257f3-9fbf-4e35-878c-9a46e6758335" },
+  { n = 11, title = "Cupidon s’en fout", mbid = "70c98f2a-1cd1-4a5d-81dc-cfe7e70ea809" },
+]
+
+[[release]]
+mbid = "656a7cfc-8d24-37fd-b7e9-d21bc52dcb84"
+title = "Georges Brassens chante les chansons de sa jeunesse"
+type = "album"
+date = "1982"
+tracks = [
+  { disc = 1, n = 1, title = "Avoir un bon copain", mbid = "dcc6e004-68b1-40d1-abd4-17da8f342d1b" },
+  { disc = 1, n = 2, title = "On n’a pas besoin de la lune", mbid = "670f3acd-87cf-4fd3-8c27-43f88213b8dd" },
+  { disc = 1, n = 3, title = "Le Bateau de pêche", mbid = "b9aee445-9d9d-4a0b-9360-4b9daecb64d9" },
+  { disc = 1, n = 4, title = "Le Petit Chemin", mbid = "c98621c7-a2de-49c9-948b-2010360b276a" },
+  { disc = 1, n = 5, title = "Pour me rendre à mon bureau", mbid = "e2a529a5-5aed-47a8-80fa-98bf09460557" },
+  { disc = 1, n = 6, title = "À Paris dans chaque faubourg", mbid = "764e0502-3484-4e67-815d-391befbdfba5" },
+  { disc = 1, n = 7, title = "J’ai connu de vous", mbid = "ff8d3278-26b2-469b-97b0-7dba01e2d7d9" },
+  { disc = 1, n = 8, title = "Le Refrain des chevaux de bois", mbid = "61ffa878-0e85-42de-9aab-2c1a613274cf" },
+  { disc = 1, n = 9, title = "Le Général dort debout", mbid = "899c1bfd-4724-4bd0-9907-e4e68c7210a7" },
+  { disc = 1, n = 10, title = "Verlaine", mbid = "765db939-2db2-4d2d-bddd-295cc8d1b022" },
+  { disc = 1, n = 11, title = "Sur mon phono", mbid = "9c79be25-59f3-4af1-a851-51772494cd1f" },
+  { disc = 1, n = 12, title = "Le Bleu des bleuets", mbid = "41e7d22f-e569-4399-a858-1533a97c0ec8" },
+  { disc = 1, n = 13, title = "Sous le kiosque à musique", mbid = "668b3244-11c7-4bbe-b4e5-5b077b362589" },
+  { disc = 2, n = 1, title = "Puisque vous partez en voyage", mbid = "9e242d78-8f5c-4b54-91a9-4e1ca4e3fa8e" },
+  { disc = 2, n = 2, title = "Y’a toujours un passage à niveau", mbid = "85e8e8b7-21c0-4f2f-88e8-1b18a5215601" },
+  { disc = 2, n = 3, title = "Il existe encore des bergères", mbid = "770f5f7e-fc89-482d-8cde-c92e0a785a71" },
+  { disc = 2, n = 4, title = "À la Varenne", mbid = "fd73fbf7-cf47-431d-9ef8-32ac2b3601dc" },
+  { disc = 2, n = 5, title = "La Romance de la pluie", mbid = "5a72c8cf-8b8e-4efd-b9e0-d5d62db8cfd4" },
+  { disc = 2, n = 6, title = "Une partie de pétanque", mbid = "3e2dd5c8-87c9-43d0-a89d-7d96ac48947a" },
+  { disc = 2, n = 7, title = "Boum", mbid = "68e6245d-8c84-4cf8-999c-519ee6357067" },
+  { disc = 2, n = 8, title = "Terre", mbid = "34b980e6-1678-47db-8d76-262879d3d6dc" },
+  { disc = 2, n = 9, title = "Les Prénoms effacés", mbid = "11eeabda-e8b7-4f09-8ed9-74814022cffe" },
+  { disc = 2, n = 10, title = "Quand un vicomte", mbid = "4f5848b1-c5bb-4e10-bafb-fd3c7eeb58c1" },
+  { disc = 2, n = 11, title = "Le Vieux Château", mbid = "fb2a5b69-4d2e-4f15-bd54-c981f3fe62ff" },
+  { disc = 2, n = 12, title = "Le Fiacre", mbid = "d590c804-70cd-4ed6-bce4-24d12c19a41b" },
+  { disc = 2, n = 13, title = "Le Chemin de ma belle", mbid = "03322644-9cb0-45c1-87cd-beba43bfc46f" },
+  { disc = 2, n = 14, title = "L’amour est passé près de vous", mbid = "c8782136-292b-47a3-844f-a7346a059909" },
+]
+
+[[release]]
+mbid = "3102e3c9-aa32-3e4e-a147-77e4db28192d"
+title = "Les Dernières Chansons inédites"
+type = "album"
+date = "1982"
+tracks = [
+  { disc = 1, n = 1, title = "Quand les cons sont braves", mbid = "7ff43eb8-5cea-421e-9df3-320bc2627c0e" },
+  { disc = 1, n = 2, title = "Méchante avec de jolis seins", mbid = "557cb5d2-01e1-44fc-9486-73751963bb7a" },
+  { disc = 1, n = 3, title = "Dieu s’il existe", mbid = "368a5bd3-0858-4386-b6f0-17c89359faf1" },
+  { disc = 1, n = 4, title = "Le Vieux Normand", mbid = "4596a39b-5001-41ee-8e9b-1c0895e94cdf" },
+  { disc = 1, n = 5, title = "Le Passéiste", mbid = "54daed1f-ca69-4fa7-8273-ec8cb4061dff" },
+  { disc = 1, n = 6, title = "Ceux qui ne pensent pas comme nous", mbid = "8144f4c1-67b2-4081-a5f0-44db0750da3b" },
+  { disc = 1, n = 7, title = "La Visite", mbid = "644a11f8-4166-4679-9c91-a5c7b19fb456" },
+  { disc = 1, n = 8, title = "La Nymphomane", mbid = "19aa1c7f-d9ec-4fc8-af53-b1ed6ccab142" },
+  { disc = 2, n = 1, title = "Clairette et la fourmi", mbid = "61569a16-49b7-4762-a0ee-3f2a472dcfef" },
+  { disc = 2, n = 2, title = "Entre la rue Didot et la rue de Vanves", mbid = "88880e27-f439-47b0-8e0c-a2de05ba7da9" },
+  { disc = 2, n = 3, title = "L’Andropause", mbid = "0489f003-c375-4925-abea-3c5db926b192" },
+  { disc = 2, n = 4, title = "Entre l’Espagne et l’Italie", mbid = "492b5457-12cb-4b89-af02-4e5d53abbb20" },
+  { disc = 2, n = 5, title = "La Maîtresse d’école", mbid = "268f77a5-f07a-4dfd-b9ff-daa9a3439180" },
+  { disc = 2, n = 6, title = "Ce n’est pas tout d’être mon père", mbid = "a0a081ee-a955-4ee9-b683-a767540370bc" },
+  { disc = 2, n = 7, title = "Le Sceptique", mbid = "b3fc2854-2408-49a1-9061-9cedbb7b6d6b" },
+  { disc = 2, n = 8, title = "Retouches à un roman d’amour de quatre sous", mbid = "5670be69-4e02-499f-9090-63d5c86a517e" },
+  { disc = 2, n = 9, title = "Le Pêcheur", mbid = "17b75c64-46d8-43ac-8911-395c90193af2" },
+]
+
+[[release]]
+mbid = "f81c06ad-6d59-4360-8a9e-dc9e8a110ca2"
+title = "Hampton, Salvador, Clark Terry, Moustache et leurs amis jouent Brassens"
+type = "album"
+date = "1983"
+tracks = [
+  { n = 1, title = "La Première Fille", mbid = "45611ecd-c8ff-4ea0-a23a-1245afef74d2" },
+  { n = 2, title = "Dans l’eau de la claire fontaine", mbid = "7dd7ec58-b010-4c3e-9382-b98b5884a2f8" },
+  { n = 3, title = "Le Vieux Léon", mbid = "685b2643-9cac-441b-ad8a-b7c8f7afc9c0" },
+  { n = 4, title = "Pénélope", mbid = "a0db67e1-d352-484d-857b-d540388b849b" },
+  { n = 5, title = "À l’ombre du cœur de ma mie", mbid = "fb4b0cf4-3a28-4067-9b16-74f8cb01e228" },
+  { n = 6, title = "Oncle Archibald", mbid = "50f895ba-d073-4d57-8b23-2db4695f83f3" },
+  { n = 7, title = "La Route aux quatre chansons", mbid = "202b7114-8aa0-4646-a27b-960fd3fab581" },
+  { n = 8, title = "Les Amoureux des bancs publics", mbid = "abe11919-b964-418c-b027-3ca25721fe68" },
+  { n = 9, title = "L’Orage", mbid = "9f328114-9c62-46cd-b0fa-2b179e6b660d" },
+  { n = 10, title = "Le 22 Septembre", mbid = "a565d208-b10c-4f68-a15c-c7c03e58038b" },
+  { n = 11, title = "Les Passantes", mbid = "8ef0710e-329a-4039-b189-208708a57a7d" },
+]
+
+[[release]]
+mbid = "e3aaad9d-1a3d-3cc7-b0d2-e08f0f71716e"
+title = "Brassens chante Bruant, Colpi, Musset, Nadaud, Norge"
+type = "album"
+date = "1984"
+tracks = [
+  { n = 1, title = "Belleville‐Ménilmontant", mbid = "a7812836-6b9d-4a80-98ab-16b5507844d7" },
+  { n = 2, title = "Places de Paris", mbid = "88a5b7e4-aff9-4759-b1b0-bc21b01712e2" },
+  { n = 3, title = "À la Place Maubert", mbid = "9bdc00db-781d-4ae6-891a-17fab20f13bc" },
+  { n = 4, title = "À la Goutte d’Or", mbid = "d792ff2e-d008-4cca-b408-1432cf7aabab" },
+  { n = 5, title = "Maman, papa", mbid = "a636a8cf-78ad-4c5f-9518-1dd5d2e779c5" },
+  { n = 6, title = "Élégie à un rat de cave", mbid = "e75bfca5-ec0b-46c4-8e8e-5777ce88ded4" },
+  { n = 7, title = "Carcassonne", mbid = "0d750a4b-dee3-44c7-af63-e8bc7f8160e3" },
+  { n = 8, title = "Le Roi boiteux", mbid = "2b21748f-72d3-4062-ab4a-544525a8bd76" },
+  { n = 9, title = "Jehan l’Advenu", mbid = "ed60b3c2-d6b0-4b36-8df8-8b59a240ed6d" },
+  { n = 10, title = "Ballade à la lune", mbid = "685c19ac-ec16-4499-8d34-f1aea6e994d8" },
+  { n = 11, title = "À mon frère revenant d’Italie", mbid = "86ef081a-bb4c-4a81-956e-19bd90d9a928" },
+  { n = 12, title = "Bande originale du film « Heureux qui comme Ulysse »", mbid = "2a03dea1-d106-4b80-a151-c4c9ae27d8d1" },
+]
+
+[[release]]
+mbid = "082b9ec8-dd8e-30b0-87d8-2fcf4875171a"
+title = "Le Patrimoine de Georges Brassens"
+type = "album"
+date = "1985"
+tracks = [
+  { n = 1, title = "L’Antéchrist", mbid = "dd99a0ea-9d53-4e2e-ab86-69cfc307a7e4" },
+  { n = 2, title = "Si seulement elle était jolie", mbid = "ff9fa867-dfa0-497a-959c-913ba2058037" },
+  { n = 3, title = "Le Revenant", mbid = "bfc23407-a20f-4a12-a873-170f4b763ac3" },
+  { n = 4, title = "Tant qu’il y a des Pyrénées", mbid = "de22d29c-4324-4bce-b981-86c6d0bab821" },
+  { n = 5, title = "Chansonnette à celle qui reste pucelle", mbid = "ff69feb3-855b-4809-a00e-68b115c17a65" },
+  { n = 6, title = "La Légion d’honneur", mbid = "0a5a0b4e-b00b-425e-bae2-22e5eb454f55" },
+  { n = 7, title = "S’faire enculer", mbid = "c56019d7-cf60-4c32-bf3a-2411e5e1b546" },
+  { n = 8, title = "Honte à qui peut chanter", mbid = "17e889b8-0090-425e-9c2e-9a179d04b694" },
+  { n = 9, title = "Le Progrès", mbid = "221fef96-a211-4453-a8d7-d75fedc3e349" },
+  { n = 10, title = "L’Orphelin", mbid = "fd2e1379-48ca-4746-8665-604c55da8c86" },
+  { n = 11, title = "Les Châteaux de sable", mbid = "1fc76738-466d-4527-85b5-6711b14ffd9b" },
+  { n = 12, title = "Jeanne Martin", mbid = "edd16f04-ed88-4885-8bce-d9b1baa9e1c3" },
+]
+
+[[release]]
+mbid = "ecf8618b-9b52-47dd-a08a-b6dbc49cc99f"
+title = "Les Amoureux des bancs publics"
+type = "single"
+date = "2025-02-14"
+spotify = "1DnFLRimtGyURmSzKQapVX"
+tracks = [
+  { n = 1, title = "Les Amoureux des bancs publics", mbid = "ce1a55e4-d9cb-4592-985d-555f2c0c98e9" },
+  { n = 2, title = "Je me suis fait tout petit", mbid = "1164aa0e-b0f6-4076-b978-9a5723f7aa42" },
+  { n = 3, title = "Les Passantes", mbid = "ac311227-59a5-4d55-b3cc-69b41db0acd2" },
+  { n = 4, title = "L’Orage", mbid = "97a643e8-dfd9-46e3-8b5c-e017ab7c3bbc" },
+  { n = 5, title = "J’ai rendez‐vous avec vous", mbid = "807a7b5b-86c3-4cbe-958b-353fd4976b86" },
+  { n = 6, title = "Saturne", mbid = "7a6a638a-a1ee-4301-95a0-27ae2ba64819" },
+]

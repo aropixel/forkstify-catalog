@@ -1,0 +1,280 @@
+format = 1
+
+[[release]]
+mbid = "a9efcd0e-25be-3ebf-864f-d84e5f525f36"
+title = "Horn of Plenty"
+type = "album"
+date = "2004-11-09"
+spotify = "2ZQuSGfpDSIAZtc4zooMps"
+tracks = [
+  { n = 1, title = "Deep Sea Diver", mbid = "b8e61bf1-4e31-4101-b960-d709a7a27868" },
+  { n = 2, title = "Don't Ask", mbid = "021f3b18-f1dc-48aa-ae5c-f5cf27e17089" },
+  { n = 3, title = "Alligator", mbid = "3606d7f4-1e40-4459-ad71-6c54a6a50f1c" },
+  { n = 4, title = "Campfire", mbid = "67106956-f4b4-48fe-aacf-36b094c4229c" },
+  { n = 5, title = "Shift", mbid = "e950a5f0-7b56-4e56-aca8-02f300ebd511" },
+  { n = 6, title = "Disappearing Act", mbid = "dd3f270b-72b6-4c32-a0f4-3a4dc827ff67" },
+  { n = 7, title = "Fix It", mbid = "17014277-58a2-4548-bd70-eaf033f93d00" },
+  { n = 8, title = "Merge", mbid = "8680abe1-e638-4064-8da8-aa5fb295822e" },
+  { n = 9, title = "A Good Place", mbid = "02a2098f-7252-405d-a194-3d9e02cebb33" },
+  { n = 10, title = "Showcase", mbid = "1e81bde3-7efe-4a2c-83f6-2f9991b6f331" },
+  { n = 11, title = "La Duchess Anne", mbid = "22a80336-cec2-4bc8-b31e-9067da27fc76" },
+  { n = 12, title = "Eavesdropping", mbid = "dbdddadf-711b-4eb0-8d2e-eab194c0620c" },
+  { n = 13, title = "Service Bell", mbid = "40d63516-2034-41bc-802b-cafd7cc452c1" },
+  { n = 14, title = "This Song", mbid = "9473ac97-5ef3-410d-852e-c0c3d05da572" },
+]
+
+[[release]]
+mbid = "42841827-d3b6-4fc3-a406-c5e5dbe8342d"
+title = "The Tomlab Alphabet Singles Series I"
+type = "single"
+date = "2005-11-14"
+tracks = [
+  { n = 1, title = "Don’t Ask", mbid = "021f3b18-f1dc-48aa-ae5c-f5cf27e17089" },
+  { n = 2, title = "Drunk Song", mbid = "a763936e-1d65-42ae-b1f3-d791f373cf46" },
+]
+
+[[release]]
+mbid = "f024cff4-4c2d-421e-86b0-8295322878d3"
+title = "On a Neck, on a Spit (radio edit)"
+type = "single"
+date = "2006-08-21"
+tracks = [
+  { n = 1, title = "On a Neck, on a Spit (radio edit)", mbid = "f2f46e60-6ebc-461f-97e1-1acbeaa665d5" },
+]
+
+[[release]]
+mbid = "27943691-0d9e-3cf5-90dc-5fb7ed1ee2b9"
+title = "Yellow House"
+type = "album"
+date = "2006-09-04"
+spotify = "6t0H9hI4985J8y6HbWu6ta"
+tracks = [
+  { n = 1, title = "Easier", mbid = "4e7235bc-d7bd-4a9a-9e34-c6b0594b4485" },
+  { n = 2, title = "Lullabye", mbid = "a89a7113-43d8-489a-9031-bb7e6fc49cf1" },
+  { n = 3, title = "Knife", mbid = "0775e4e8-3106-4748-a966-541af0d9fd6c" },
+  { n = 4, title = "Central and Remote", mbid = "ea1d3f7d-1db2-4a05-b65b-986b5a28a873" },
+  { n = 5, title = "Little Brother", mbid = "6a928c3e-eeda-41dc-802c-180072ff5e76" },
+  { n = 6, title = "Plans", mbid = "1b182561-106b-4cf8-9074-56412a31be6b" },
+  { n = 7, title = "Marla", mbid = "1b171150-dcef-442c-b89a-0df999ab0c16" },
+  { n = 8, title = "On a Neck, on a Spit", mbid = "45b3c417-ea25-43c0-93ae-a9839e0eb735" },
+  { n = 9, title = "Reprise", mbid = "225e7561-4884-4fbd-8416-47b67d01dca6" },
+  { n = 10, title = "Colorado", mbid = "118c7bf7-6ea1-4f49-88e2-1da1fb86b3f1" },
+]
+
+[[release]]
+mbid = "8cced922-e503-4441-9653-72a38b66436e"
+title = "Easier"
+type = "single"
+date = "2007-01-08"
+tracks = [
+  { n = 1, title = "Easier (alternate edit)", mbid = "e979ab9e-3f4e-48e9-9f5d-6fa4003c83fc" },
+]
+
+[[release]]
+mbid = "9ed91135-72ef-45ab-944a-4032a93c5eed"
+title = "Knife"
+type = "single"
+date = "2007-05-21"
+spotify = "4GwnTaIZOxOVoZ7sux7l6g"
+tracks = [
+  { n = 1, title = "Knife", mbid = "03d6d6b3-a60f-4f7d-950e-526d257e5a6b" },
+  { n = 2, title = "Easier (alternate edit)", mbid = "7dc0f283-537e-47aa-8e0a-e11887ae19ad" },
+]
+
+[[release]]
+mbid = "16dce0ff-32b1-3edc-8014-b4df44df4bec"
+title = "Friend"
+type = "ep"
+date = "2007-11-05"
+tracks = [
+  { n = 1, title = "Alligator (choir version)", mbid = "eedfde17-3399-408a-b76d-0dc6b94a9ff5" },
+  { n = 2, title = "He Hit Me", mbid = "bc89bf4f-6586-4fff-a46c-987d8b4fd9de" },
+  { n = 3, title = "Little Brother (electric)", mbid = "7a2f4806-685f-46fc-b3b0-ff16c010941d" },
+  { n = 4, title = "Shift (alternate version)", mbid = "3ac36c45-fb92-4f05-822e-f067bf1b440f" },
+  { n = 5, title = "Plans (Terrible vs. Nonhorse: Sounds edit)", mbid = "079e2c5e-c6ff-4b44-a41e-4ffdaaab721b" },
+  { n = 6, title = "Granny Diner", mbid = "16af33d5-0413-4ce5-bfa1-f7e72db8790c" },
+  { n = 7, title = "Knife", mbid = "1907e839-d891-4445-a529-689da56c32e7" },
+  { n = 8, title = "Plans", mbid = "fe2921f5-c5ba-48f8-bb91-ebd9741c538a" },
+  { n = 9, title = "Knife", mbid = "faa214ab-3041-4a95-8291-41a34ac8f55e" },
+  { n = 10, title = "Deep Blue Sea (Daniel Rossen home recording) / Untitled", mbid = "19ded030-9707-449b-b676-8a9500f7b3b4" },
+]
+
+[[release]]
+mbid = "98ee0024-16c7-4c02-81f3-d51fa94c0d48"
+title = "Two Weeks"
+type = "single"
+date = "2009-05"
+tracks = [
+  { n = 1, title = "Two Weeks (Fred Falke Radio Mix)", mbid = "36bc3009-da8c-40b7-819a-df404ae5b074" },
+  { n = 2, title = "Two Weeks (Fred Falke Extended Mix)", mbid = "3b91e6f1-9edb-4801-af3b-46ce3e89ab68" },
+  { n = 3, title = "Two Weeks (Fred Falke Instrumental)", mbid = "b5d60c95-bbcc-474d-88d1-50c1ccf3130b" },
+]
+
+[[release]]
+mbid = "94d5731b-1240-38f2-b232-2ad9ffa5442d"
+title = "Veckatimest"
+type = "album"
+date = "2009-05-22"
+spotify = "3XQMgEnLQnOMkFaJA9w6sZ"
+tracks = [
+  { disc = 1, n = 1, title = "Southern Point", mbid = "4af4651e-f6d6-4406-9c18-fbbeeeb18c04" },
+  { disc = 1, n = 2, title = "Two Weeks", mbid = "4b6fb11c-2363-4649-a9f4-1a10c8e3150b" },
+  { disc = 1, n = 3, title = "All We Ask", mbid = "4be6998e-bbcd-42c7-b850-ce1d43f257bc" },
+  { disc = 1, n = 4, title = "Fine for Now", mbid = "7f3e33cc-e1ad-4594-a3a1-05b25177fb27" },
+  { disc = 1, n = 5, title = "Cheerleader", mbid = "2cc7c844-b1c3-4951-a6ad-3545d1389c4c" },
+  { disc = 1, n = 6, title = "Dory", mbid = "65cb2dc5-f1a8-40b8-9717-2c9c44450148" },
+  { disc = 1, n = 7, title = "Ready, Able", mbid = "70eac649-b256-4e02-bf4f-3dc2b4492a97" },
+  { disc = 1, n = 8, title = "About Face", mbid = "374e1e37-4301-45ed-8ec1-ce52b8408eb1" },
+  { disc = 1, n = 9, title = "Hold Still", mbid = "666542e8-7ba5-4371-8129-d5cf697c6218" },
+  { disc = 1, n = 10, title = "While You Wait for the Others", mbid = "268f6e44-46a2-4711-8657-88a642079ee5" },
+  { disc = 1, n = 11, title = "I Live With You", mbid = "3cdc0f44-f999-49e8-a0f1-8abd3690bd05" },
+  { disc = 1, n = 12, title = "Foreground", mbid = "04455fc1-6cf3-4690-a024-174bdf049c72" },
+  { disc = 2, n = 1, title = "Southern Point (KCRW session)", mbid = "68b9e900-a9d3-437f-adb6-6b09447c5894" },
+  { disc = 2, n = 2, title = "All We Ask (KCMP session)", mbid = "8046aed9-bb36-447f-ad20-153da8f54a94" },
+  { disc = 2, n = 3, title = "Ready, Able (KCRW session)", mbid = "5c71c3b7-a638-4aa5-bf1c-0da3f547bacd" },
+  { disc = 2, n = 4, title = "Foreground (Duyster session)", mbid = "de352ff5-0b6e-4ed3-97f4-55b575bb9f4a" },
+  { disc = 2, n = 5, title = "Two Weeks (BBC Maida Vale session)", mbid = "0968cc40-afdd-4a0b-8446-f985fd8e8453" },
+  { disc = 2, n = 6, title = "Dory (World Café session)", mbid = "ad63c638-d968-4378-adc9-62d0fe702f47" },
+  { disc = 2, n = 7, title = "While You Wait for the Others (BBC Maida Vale session)", mbid = "51dc6f7f-6484-4010-a0bb-e68d4a1c6fbc" },
+]
+
+[[release]]
+mbid = "545c6573-6625-4ec2-afdd-35ed4d858116"
+title = "While You Wait for the Others"
+type = "single"
+date = "2009-08-31"
+tracks = [
+  { n = 1, title = "While You Wait for the Others", mbid = "268f6e44-46a2-4711-8657-88a642079ee5" },
+  { n = 2, title = "While You Wait for the Others", mbid = "a4fbd0cd-2b2a-47e9-804a-1603b43d8a9b" },
+]
+
+[[release]]
+mbid = "af646fc2-40d5-43c8-82fe-b11481fa4def"
+title = "Blue Valentine"
+type = "album"
+date = "2011-02-22"
+tracks = [
+  { n = 1, title = "Granny Diner", mbid = "8a694929-4daa-4f9a-b98a-9e0f04eb1c0e" },
+  { n = 2, title = "In Ear Park", mbid = "dbcd92cf-da25-4d57-bc1f-2141dfd634f2" },
+  { n = 3, title = "Easier (instrumental)", mbid = "8c271838-86d8-4878-81c3-612ad1cad409" },
+  { n = 4, title = "Lullabye (instrumental)", mbid = "b2ab2532-219e-4d9e-8025-5a2ee6a6906a" },
+  { n = 5, title = "I Live With You (instrumental)", mbid = "81482238-3a6e-4ad7-b7ab-6d0f1eeee973" },
+  { n = 6, title = "Foreground (instrumental)", mbid = "9bda43c4-e191-4f79-a171-2a03391d4ded" },
+  { n = 7, title = "Dory (instrumental)", mbid = "e1bc1aa6-033e-4985-b21f-431367fee7e6" },
+  { n = 8, title = "You Always Hurt the Ones You Love", mbid = "b2744842-cc58-4bcc-a223-d47de01ce8db" },
+  { n = 9, title = "You and Me", mbid = "fad0803b-a7a8-4ccc-9feb-bac391a34821" },
+  { n = 10, title = "Shift (alternate version)", mbid = "3ac36c45-fb92-4f05-822e-f067bf1b440f" },
+  { n = 11, title = "Alligator (choir version)", mbid = "eedfde17-3399-408a-b76d-0dc6b94a9ff5" },
+  { n = 12, title = "Easier", mbid = "4e7235bc-d7bd-4a9a-9e34-c6b0594b4485" },
+  { n = 13, title = "Lullabye", mbid = "a89a7113-43d8-489a-9031-bb7e6fc49cf1" },
+  { n = 14, title = "I Live With You", mbid = "3cdc0f44-f999-49e8-a0f1-8abd3690bd05" },
+  { n = 15, title = "Foreground", mbid = "04455fc1-6cf3-4690-a024-174bdf049c72" },
+]
+
+[[release]]
+mbid = "815d1548-e152-42d4-9302-b10dfdb6abd6"
+title = "Yet Again"
+type = "single"
+date = "2012-03-12"
+tracks = [
+  { n = 1, title = "Yet Again", mbid = "f4c95df8-4307-438f-9536-9b7064e9370c" },
+]
+
+[[release]]
+mbid = "af02c153-6461-4549-91a8-9b0ade4cb5ad"
+title = "Sleeping Ute"
+type = "single"
+date = "2012-06-06"
+tracks = [
+  { n = 1, title = "Sleeping Ute", mbid = "12973134-6e35-470c-a529-09ec86c949a1" },
+]
+
+[[release]]
+mbid = "985e8d98-12ec-4c3e-8f56-d8519d97a22c"
+title = "Shields"
+type = "album"
+date = "2012-09-17"
+spotify = "5KcOS1sWN1bqV18khdNG12"
+tracks = [
+  { n = 1, title = "Sleeping Ute", mbid = "12973134-6e35-470c-a529-09ec86c949a1" },
+  { n = 2, title = "Speak in Rounds", mbid = "8304d82a-59a7-42b0-9ee1-bbf471a5703b" },
+  { n = 3, title = "Adelma", mbid = "9f58667a-809f-4852-9b34-696dd386f2b5" },
+  { n = 4, title = "Yet Again", mbid = "f4c95df8-4307-438f-9536-9b7064e9370c" },
+  { n = 5, title = "The Hunt", mbid = "b8f2c031-54b8-4c33-b861-198b2d90f5ac" },
+  { n = 6, title = "A Simple Answer", mbid = "ea86e666-5727-4d94-997f-cfe10e42824b" },
+  { n = 7, title = "What’s Wrong?", mbid = "755284d5-c9b5-48b9-af62-3b85aecdb343" },
+  { n = 8, title = "Gun‐Shy", mbid = "4836c9ac-413e-430b-b2d5-ac46ec4c8564" },
+  { n = 9, title = "Half Gate", mbid = "9cbf541c-d962-4aa8-a4b6-e99c4e7f3b8a" },
+  { n = 10, title = "Sun in Your Eyes", mbid = "48efd3db-d6b2-496f-ad75-8c0545b74ed2" },
+]
+
+[[release]]
+mbid = "579e6bb7-ccce-4cfb-9603-e13837c87d83"
+title = "Three Rings"
+type = "single"
+date = "2017-05-05"
+spotify = "73XKqB9NJtNSIK64iYV4Zj"
+tracks = [
+  { n = 1, title = "Three Rings", mbid = "89f8a660-dc4e-4191-bdfa-1172beedc9fc" },
+]
+
+[[release]]
+mbid = "660880ce-3067-47f6-b7ba-7d8ef44b957d"
+title = "Mourning Sound"
+type = "single"
+date = "2017-05-19"
+spotify = "0Xl4DyyDFUTVS4GhjUNdPA"
+tracks = [
+  { n = 1, title = "Mourning Sound", mbid = "e8b723cb-823a-429b-a252-174cecedd7aa" },
+]
+
+[[release]]
+mbid = "5a861fd9-6461-4b81-999f-7d4a4cf6dcf3"
+title = "Four Cypresses"
+type = "single"
+date = "2017-06-23"
+spotify = "0GVmCa5Y9PPAz6MepHXTOi"
+tracks = [
+  { n = 1, title = "Four Cypresses", mbid = "8ff79ed5-d652-4fb5-92f6-e30687fd97da" },
+]
+
+[[release]]
+mbid = "e5ddf626-959c-49be-ad0c-6c99262ba9f1"
+title = "Neighbors"
+type = "single"
+date = "2017-07-21"
+spotify = "1vwd6tixpApsm4CJaqvfHj"
+tracks = [
+  { n = 1, title = "Neighbors", mbid = "32e23584-b255-488a-aead-107c9de31fc7" },
+]
+
+[[release]]
+mbid = "3c04d855-7213-48e6-bead-f617c779f0d0"
+title = "Painted Ruins"
+type = "album"
+date = "2017-08-18"
+spotify = "3QOXA8bqsml8CslUdgHXrW"
+tracks = [
+  { disc = 1, n = 1, title = "Wasted Acres", mbid = "18272cd0-beb1-4e18-a477-27e9c028f35e" },
+  { disc = 1, n = 2, title = "Mourning Sound", mbid = "e8b723cb-823a-429b-a252-174cecedd7aa" },
+  { disc = 1, n = 3, title = "Four Cypresses", mbid = "8ff79ed5-d652-4fb5-92f6-e30687fd97da" },
+  { disc = 1, n = 4, title = "Three Rings", mbid = "89f8a660-dc4e-4191-bdfa-1172beedc9fc" },
+  { disc = 1, n = 5, title = "Losing All Sense", mbid = "8f126772-c40f-4482-8218-9ffb505c98f8" },
+  { disc = 2, n = 1, title = "Aquarian", mbid = "c77a8c9f-2947-4ba5-87e7-d383f31b51bd" },
+  { disc = 2, n = 2, title = "Cut-Out", mbid = "29da94eb-209b-4243-bfc2-aa69379076a2" },
+  { disc = 2, n = 3, title = "Glass Hillside", mbid = "e48c166a-8447-4840-b93a-93a70ed48436" },
+  { disc = 2, n = 4, title = "Neighbors", mbid = "32e23584-b255-488a-aead-107c9de31fc7" },
+  { disc = 2, n = 5, title = "Systole", mbid = "6139a0e2-a4cb-40c8-a8cb-3f32b8c082ed" },
+  { disc = 2, n = 6, title = "Sky Took Hold", mbid = "10eea2e1-31d7-40cf-badb-66814f713eb8" },
+]
+
+[[release]]
+mbid = "3cc1862a-3288-4252-bf47-d9bcee32181c"
+title = "Spotify Singles"
+type = "single"
+date = "2017-11-01"
+spotify = "68X345rpDHj4iY6E7pcT6d"
+tracks = [
+  { n = 1, title = "Mourning Sound (recorded at Spotify Studios NYC)", mbid = "364a2742-5939-4c13-87c4-911a1d19a8de" },
+  { n = 2, title = "Easy to be Around (recorded at Spotify Studios NYC)", mbid = "657efc42-dc9b-4007-9c44-9a3b5513582b" },
+]

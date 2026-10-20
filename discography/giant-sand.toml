@@ -1,0 +1,656 @@
+format = 1
+
+[[release]]
+mbid = "049cb867-49de-3092-a9ed-aecac5b131bd"
+title = "Valley of Rain"
+type = "album"
+date = "1985"
+tracks = [
+  { n = 1, title = "Down on Town (Love's No Answer)", mbid = "74434237-0d1d-45a4-809e-d3ac6861768c" },
+  { n = 2, title = "Black Venetian Blind", mbid = "88dc650b-10b2-45d5-9551-746184f2d30f" },
+  { n = 3, title = "Curse of a Thousand Flames", mbid = "cb98da7a-59df-4690-bee4-6e75b6d37e21" },
+  { n = 4, title = "Artists", mbid = "a60944d2-13b1-4095-9412-e57c3764e3a9" },
+  { n = 5, title = "Man of Want", mbid = "c994fd1d-d8d6-411e-ab0e-ba9aa42f8c50" },
+  { n = 6, title = "Valley of Rain", mbid = "0f69b5dd-ed00-433d-ade1-381c2dea5118" },
+  { n = 7, title = "Tumble and Tear", mbid = "e16759f6-2d4b-47a4-8896-297dcc1527c0" },
+  { n = 8, title = "October Anywhere", mbid = "263784c0-4b1c-48e8-8e3a-a28fd4178466" },
+  { n = 9, title = "Barrio", mbid = "96e44137-7b55-48ec-a3fd-db12331f0ca6" },
+  { n = 10, title = "Death, Dying and Channel 5", mbid = "6c311e47-ffa1-4e2a-a97b-9f94b5004a99" },
+  { n = 11, title = "Torture of Love", mbid = "4b5c081b-8423-4295-a0c4-99365a02550e" },
+]
+
+[[release]]
+mbid = "a1999efe-2e27-323d-a7aa-5c3eca4adc71"
+title = "Ballad of a Thin Line Man"
+type = "album"
+date = "1986"
+tracks = [
+  { n = 1, title = "Thin Line Man", mbid = "7eda28dc-abb1-43af-acdd-4985b25862ef" },
+  { n = 2, title = "All Along the Watchtower", mbid = "819cb585-9f0a-47fe-9f79-2ea403263e94" },
+  { n = 3, title = "Graveyard", mbid = "058c8a1d-c46e-436a-9498-fec85f491ca8" },
+  { n = 4, title = "Body of Water", mbid = "d1d1947b-057a-4d52-a5a0-f9852325e95a" },
+  { n = 5, title = "Last Legs", mbid = "b3279cf6-8d26-45ca-b243-dab1b4e0bb98" },
+  { n = 6, title = "You Can't Put Your Arms Around a Memory", mbid = "07146f04-6752-4033-bf8a-58636262ea35" },
+  { n = 7, title = "A Hard Man to Get to Know", mbid = "deec0bfa-848e-45e4-9868-ca842daecd03" },
+  { n = 8, title = "Who Am I?", mbid = "c216a3f0-a071-4971-acb9-aac22180e3d5" },
+  { n = 9, title = "The Chill Outside", mbid = "f8980472-ba3e-4005-b96b-b83b76e83b83" },
+  { n = 10, title = "Desperate Man", mbid = "78ba8781-ae78-45bb-8d0c-2ce130233d3f" },
+]
+
+[[release]]
+mbid = "5e117a4d-3962-3c0a-8578-04dcb96e244e"
+title = "Storm"
+type = "album"
+date = "1988"
+spotify = "0c4IlgpHoRWyGW0PK4vVhx"
+tracks = [
+  { n = 1, title = "Uneven Light of the Day", mbid = "0c43417c-0419-4975-95a5-b9e633119663" },
+  { n = 2, title = "Town Where No Town Belongs", mbid = "e4f925ed-fa47-49a3-83a5-3ad2d5bb8fcb" },
+  { n = 3, title = "Back to Black and Grey", mbid = "4f7e1226-7409-4cae-a8f7-3c92549c8971" },
+  { n = 4, title = "Bigger Than That", mbid = "c1f1becb-4eed-4dce-b8aa-782ffe6b243d" },
+  { n = 5, title = "Right Makes Right", mbid = "11703305-bb8f-4daa-9319-091832b46cde" },
+  { n = 6, title = "3 6ixes", mbid = "f4182df2-156f-48bd-9e9d-cd6d767805be" },
+  { n = 7, title = "Big Rock", mbid = "3f47a47a-03d7-4ec5-a9d8-b6391f6008af" },
+  { n = 8, title = "The Replacement", mbid = "01a7e0a8-aa2f-421a-8bf4-37aaf0e12938" },
+  { n = 9, title = "Storm", mbid = "324489f5-b867-460a-85d3-4d20b22e739f" },
+  { n = 10, title = "Was Is a Big Word", mbid = "17a093e0-1b9b-426c-8bd6-abc525efe9c3" },
+  { n = 11, title = "Town With Little or No Pity", mbid = "89d9ba43-8a9e-4293-9dc1-3a04071eb3cd" },
+  { n = 12, title = "The Weight", mbid = "70505df9-d246-4a1f-985f-ffab22063d9b" },
+]
+
+[[release]]
+mbid = "548b122b-f468-3230-900d-42f087428d2c"
+title = "The Love Songs"
+type = "album"
+date = "1988"
+spotify = "6E29wkRTMEpy3da81f7riR"
+tracks = [
+  { n = 1, title = "Wearing the Robes of Bible Black", mbid = "7ee243d5-70b5-4fc7-8748-4e2511f90df8" },
+  { n = 2, title = "One Man’s Women / No Man’s Land", mbid = "8eaf279a-5a04-4413-a89d-7aefbfc5e7fa" },
+  { n = 3, title = "Mad Dog a Man", mbid = "533211bd-9181-480d-a761-85b099423b4e" },
+  { n = 4, title = "Fingernail Moon, Barracuda and Me", mbid = "6c67238c-e7be-4890-900a-fe18d32434b0" },
+  { n = 5, title = "Mountain of Love", mbid = "32563ad2-e1a4-4232-a32b-b0786a9be4ef" },
+  { n = 6, title = "Almost the Politician’s Wife", mbid = "b950cf39-7f92-4652-9aa1-c35c436def3c" },
+  { n = 7, title = "The Doors", mbid = "a6220d96-e35d-445d-ba8e-71deb11e1348" },
+  { n = 8, title = "Love Like a Train", mbid = "a3981912-0fae-48c7-9829-febf96c75d62" },
+  { n = 9, title = "Is That All There Is?", mbid = "0bc57b2e-68f0-43a4-841d-a8e5618c6aa3" },
+  { n = 10, title = "Clump", mbid = "7ada3cd5-afd8-4c4a-8ab8-f8c00c6f6ddf" },
+  { n = 11, title = "Get Ready", mbid = "da9dbb17-3e9f-4d1f-bc9c-9b1492a43b8a" },
+  { n = 12, title = "Murky Red Dew", mbid = "cc58387d-ccf9-47b9-9cad-c3e5f01df6ee" },
+  { n = 13, title = "Major Glorious Ending Theme", mbid = "68d840c3-14f0-4e77-9c5f-c8f446fc3bb5" },
+]
+
+[[release]]
+mbid = "3c552bd3-bdaf-33f0-97be-6d9388b15523"
+title = "Long Stem Rant"
+type = "album"
+date = "1989"
+tracks = [
+  { n = 1, title = "Unfinished Love", mbid = "2da86383-5456-46d7-95d8-ce5f3e93662f" },
+  { n = 2, title = "Sandman", mbid = "3f874c09-07ac-415a-b925-2cd5fc688ccc" },
+  { n = 3, title = "Bloodstone", mbid = "4933bd1b-313c-4992-9f25-af669011d3fa" },
+  { n = 4, title = "Searchlight", mbid = "1aea0f9b-64a1-4f22-aeb0-3755f5b0c874" },
+  { n = 5, title = "Smash Jazz", mbid = "3a2a1114-22c1-4baa-953b-86675499144f" },
+  { n = 6, title = "Sucker in a Cage", mbid = "c320c862-62ca-442a-9989-f8552c87d551" },
+  { n = 7, title = "Patsy Does Dylan", mbid = "b83f1ac0-1076-4a99-bbf7-deb9f93c44ce" },
+  { n = 8, title = "Its Long 'bout Now", mbid = "3c4a0bae-f80f-4b08-9e42-a2f42358cdad" },
+  { n = 9, title = "Lag Craw", mbid = "07ec37b2-1326-4107-9b78-db9affffa3f6" },
+  { n = 10, title = "Loving Cup", mbid = "1201a78f-d199-4e1c-ac9d-605d98ffbb81" },
+  { n = 11, title = "Paved Road to Berlin", mbid = "42973ad0-68c2-4b4d-b80b-2108779d5813" },
+  { n = 12, title = "Anthem", mbid = "6c46fcd2-d822-4193-bf87-05ea826c3f3f" },
+  { n = 13, title = "Picture Shows", mbid = "9289dc92-ae35-4841-b317-2d22094b7542" },
+  { n = 14, title = "Drum & Guitar", mbid = "9b44f57e-7e0f-4a91-a7fb-925a902c1146" },
+  { n = 15, title = "Get to Leave", mbid = "c16c924d-711e-4f58-831c-d76b6de9e444" },
+  { n = 16, title = "Searchlight Cha Cha", mbid = "6dbd0a6f-2d76-4810-b016-afae7eba72d9" },
+  { n = 17, title = "Return of the Big Red Guitar", mbid = "465e888f-8bd3-4108-8866-ed190a17fcf1" },
+  { n = 18, title = "Stuck Dog", mbid = "e133436f-43ad-4234-9ce5-643817fff0f6" },
+  { n = 19, title = "Real Gone Blue Guitar", mbid = "fe8e427c-bcc3-4e7f-872e-59d89fe5f885" },
+  { n = 20, title = "The Jig Zup", mbid = "601529d9-02c2-4ef5-bbea-0c1114ab675d" },
+]
+
+[[release]]
+mbid = "9536bf5b-1828-3f2f-bbce-943fe4966a13"
+title = "Swerve"
+type = "album"
+date = "1990"
+spotify = "4wdgVzWFtHzEjKFlchvhAE"
+tracks = [
+  { n = 1, title = "Trickle Down System", mbid = "1a4609d5-175e-4e5b-a78c-05afe6fb6037" },
+  { n = 2, title = "Dream Stay", mbid = "1c32df58-6ecf-4ce9-9e67-18244b31f0a9" },
+  { n = 3, title = "Former Version of Ourselves", mbid = "0a697368-aeee-4a44-bd72-1c600b213861" },
+  { n = 4, title = "Angels at Night", mbid = "830175e4-9d1b-44b5-a395-4cbd0a67f284" },
+  { n = 5, title = "Can't Find Love", mbid = "45e5ce21-32d5-43ed-9f3d-58a6673460e1" },
+  { n = 6, title = "Swerver", mbid = "3f267dc3-1460-4e87-8b7c-7c10f54e619b" },
+  { n = 7, title = "Sisters and Brothers", mbid = "b32248ca-45c1-4e23-922d-3afb1f8ace5a" },
+  { n = 8, title = "Swerving", mbid = "3c4218e7-aae3-4727-9596-4f8d8daebb2a" },
+  { n = 9, title = "Every Grain of Sand", mbid = "848f913c-8a96-49df-ba1c-c5cc877aa4f0" },
+  { n = 10, title = "Some Kind Of", mbid = "b96b991d-d0ee-4520-93d2-da23d6e502b6" },
+  { n = 11, title = "Swervette", mbid = "3aa3b18b-2d7e-40e4-9ad6-3f6129a7bd7c" },
+  { n = 12, title = "Final Swerve", mbid = "61868e79-0ac6-4e07-b786-df3bd03eb88e" },
+]
+
+[[release]]
+mbid = "f71a6ff8-8069-4fa9-866f-84524f6b702e"
+title = "Ramp"
+type = "album"
+date = "1991"
+spotify = "5rAKEk52Lfh7YObjvVlBeT"
+tracks = [
+  { n = 1, title = "Romance of Falling", mbid = "0adf52b9-5057-428f-acab-d0c8ab642145" },
+  { n = 2, title = "Warm Storm", mbid = "34d777f7-7ed0-4d32-8541-1fc571126740" },
+  { n = 3, title = "Wonder", mbid = "26b320df-a7a2-4b55-95a5-1fe2f2933e7a" },
+  { n = 4, title = "Welcome to My World", mbid = "d2398c18-96b9-4288-b09e-dbee435d69b8" },
+  { n = 5, title = "Anti-Shadow", mbid = "61a0140f-0acc-4d31-9839-f5b7c328d8fc" },
+  { n = 6, title = "Jazzer Snipe", mbid = "c1033dab-e1db-442c-b7dd-3d7ed338c3b3" },
+  { n = 7, title = "Z. Z. Quicker Foot", mbid = "8581c3cb-f7ef-4f17-8364-699a8a152f02" },
+  { n = 8, title = "Neon Filler", mbid = "7751c4c4-4962-477b-89d3-aee2d80d6f73" },
+  { n = 9, title = "Seldom Matters", mbid = "48305e50-e773-4dff-a006-7f58d2953392" },
+  { n = 10, title = "Resolver", mbid = "3a487c0d-a1cc-45ec-a7c1-12c68216298e" },
+  { n = 11, title = "Nowhere", mbid = "1812225b-3b1a-46be-a015-012f8a94eebf" },
+  { n = 12, title = "Always Horses Coming", mbid = "9b507b7f-b301-4f34-8488-a7ff6f7bffe2" },
+  { n = 13, title = "Patsy’s Blues", mbid = "0f1a57cf-331d-4922-a277-d6960d09b60f" },
+  { n = 14, title = "Shadow to You", mbid = "8b1c74ce-b6c0-43b9-badf-7a4446f12593" },
+]
+
+[[release]]
+mbid = "dcb1655b-e421-3ef3-a4d4-73864d5446d1"
+title = "Center of the Universe"
+type = "album"
+date = "1992"
+spotify = "6BLvEE30qUgGToHkXJLWcB"
+tracks = [
+  { n = 1, title = "Seeded (’Tween Bone and Bark)", mbid = "627eea6f-1f23-4ada-8f97-a593079c6757" },
+  { n = 2, title = "Pathfinder", mbid = "34b65e42-dd03-40cc-82a6-912cd4dd2d12" },
+  { n = 3, title = "Center of the Universe", mbid = "f3ca3324-cf62-4d2d-9b99-d31b7d75ad45" },
+  { n = 4, title = "Off Ramp Man", mbid = "b7848850-e7d7-46d7-807a-b0827934452f" },
+  { n = 5, title = "Year of the Dog", mbid = "d8a83418-1e34-49b5-a6ff-3e59d6cbc7d2" },
+  { n = 6, title = "Live to Tell", mbid = "28e370f6-3782-4df7-9622-893083accd9e" },
+  { n = 7, title = "Thrust", mbid = "113d99e3-894d-4d68-b182-77e36136c0bb" },
+  { n = 8, title = "Loretta and the Insect World", mbid = "aaf5fd7a-b7c5-4fa4-b45a-77082f6c447c" },
+  { n = 9, title = "Sonic Drive In", mbid = "f251daa5-c793-42ed-9bea-961334f90c23" },
+  { n = 10, title = "Milkshake Girl", mbid = "faa80c33-3bab-4080-9815-b645e4252dbf" },
+  { n = 11, title = "Stuck", mbid = "719d00b0-b69e-41a1-a4bb-a1bd4ec465a3" },
+  { n = 12, title = "Thing Like That", mbid = "594bc7ee-ecf0-4be1-a0eb-a3352f10f877" },
+  { n = 13, title = "Return to Fodder", mbid = "4397a3df-b323-416d-8a28-ad34fb695607" },
+  { n = 14, title = "Unwed and Well Sped", mbid = "b5654c9e-445c-4513-bb10-eb2300e1b531" },
+  { n = 15, title = "Solomon’s Ride", mbid = "902724f2-5733-4cb2-bd77-a5bbe77aefc4" },
+  { n = 16, title = "[untitled]", mbid = "7483b7e1-d73b-4092-a963-3c4c9b02a367" },
+]
+
+[[release]]
+mbid = "27f93507-f5c2-3279-b87a-a25532486b24"
+title = "Purge & Slouch"
+type = "album"
+date = "1993"
+tracks = [
+  { n = 1, title = "Slander", mbid = "22225e6a-37ae-4cbf-aff3-7986cf0f4839" },
+  { n = 2, title = "Bender", mbid = "8d18da45-67e6-41e6-befb-b256c7733e2b" },
+  { n = 3, title = "Swamp Thing", mbid = "00bae9b9-4929-46c6-a751-7d00a377a9a2" },
+  { n = 4, title = "Santana, Castanada & You", mbid = "5abd67d0-b0a5-4a87-9227-8f34245b8cb2" },
+  { n = 5, title = "Blue Lit Rope", mbid = "e910b4a6-1bcd-493e-85c3-a740fbcbfe85" },
+  { n = 6, title = "Overture, Part I", mbid = "8681caf2-7abf-4d01-970d-806053ab9c97" },
+  { n = 7, title = "Rice Road Rumba", mbid = "b8aa944b-82b0-436c-a8f5-8bb276fd4bb3" },
+  { n = 8, title = "Slice & Dice Blues", mbid = "ba80a131-65d6-4fe7-b791-f3af0d1fbddb" },
+  { n = 9, title = "High Lonesome Curl", mbid = "8ee2a66c-9848-464a-8567-10fd962d0da8" },
+  { n = 10, title = "New Carjack City Blues", mbid = "5e605968-4a8b-4564-b8b7-9b907c8a051d" },
+  { n = 11, title = "Owed Ode", mbid = "a3cafcd9-a275-47a1-8cd0-2dffbd375140" },
+  { n = 12, title = "Overture, Part II", mbid = "ae71d5d7-4968-45ee-97dd-6579e70ed644" },
+  { n = 13, title = "Here on the Planet", mbid = "7d5e0628-cfc7-46fc-a68a-9129a963ebf2" },
+  { n = 14, title = "Elevator Music", mbid = "cb471dcf-5e97-445d-aee6-0c8b4950c06b" },
+  { n = 15, title = "Song for the Accountants", mbid = "135069e8-a6c5-431c-a1ea-2c16920004fe" },
+  { n = 16, title = "Dock of the Bay", mbid = "73877795-87e1-4609-9993-5edcabdc83dd" },
+  { n = 17, title = "Tripping Moon", mbid = "aa5e562b-7bfa-4456-a00a-bca699d90665" },
+  { n = 18, title = "Dance of the Cicadas", mbid = "40db269d-296e-4ec6-ad8a-adf7810d5f27" },
+  { n = 19, title = "Disclaimer", mbid = "fef61a9f-d106-4f4f-91ff-ce6b68d93a78" },
+  { n = 20, title = "Smokey Joe’s Deep Blue Pancakes", mbid = "84ee1aa3-ca42-48df-8419-ed5b2e088bfb" },
+]
+
+[[release]]
+mbid = "1cda2149-b850-38ca-8288-3fa896915452"
+title = "Stromausfall"
+type = "album"
+date = "1994"
+tracks = [
+  { n = 1, title = "October Anywhere", mbid = "cd135e63-7e4e-40a6-99f1-419941b8f24e" },
+  { n = 2, title = "The Y Stop Jumble", mbid = "b2a69633-06c1-4354-a6f1-387fac7070cb" },
+  { n = 3, title = "Steadfast", mbid = "2fe5e845-cd8b-4478-9d81-1de9f7405113" },
+  { n = 4, title = "... Ropes of Bible Black", mbid = "9562bfcd-20e5-462f-8d45-9acb48c53813" },
+  { n = 5, title = "Mt. of Love", mbid = "b9cd3fa3-7569-4340-ae43-4859112500be" },
+  { n = 6, title = "The Replacement", mbid = "8a1ca005-16b8-42c5-97de-c9347153da11" },
+  { n = 7, title = "Severely Altered on the Hill", mbid = "457a835e-f65b-40e2-832f-9f6e9d776597" },
+  { n = 8, title = "Dreamville New Mexico", mbid = "62d67861-40d7-4791-9d05-023a55fb1166" },
+  { n = 9, title = "Seldom Matters", mbid = "24a975e4-1424-46e3-bf31-3081ff53f1d4" },
+]
+
+[[release]]
+mbid = "3ff4ea17-270d-392b-af02-b48552b30919"
+title = "Glum"
+type = "album"
+date = "1994-08-30"
+tracks = [
+  { n = 1, title = "Glum", mbid = "2c4b795b-59be-426c-af0a-09d2235e9f78" },
+  { n = 2, title = "Yer Ropes", mbid = "85f8d0ec-64bf-4ab1-9ca0-991fe8bf5c7f" },
+  { n = 3, title = "Happenstance", mbid = "8b5dad52-31c5-4aea-b8f4-4550a096d396" },
+  { n = 4, title = "Frontage Road", mbid = "bad72104-41c5-4c63-b596-b8a8b91c9328" },
+  { n = 5, title = "1 Helvakowboy Song", mbid = "c387993c-25fa-4f4c-ba4a-5a46641d418c" },
+  { n = 6, title = "Painted Bird", mbid = "fc1ca41f-d4ff-4524-8f59-92d2cf75433c" },
+  { n = 7, title = "Spun", mbid = "c6d0e078-b91f-4cd5-9042-28f2c4303ff1" },
+  { n = 8, title = "Left", mbid = "2faeea9a-4085-431c-a890-e850f1a5e07a" },
+  { n = 9, title = "Faithful", mbid = "582a7f76-b93e-4b2f-b15c-266b09529bb8" },
+  { n = 10, title = "Bird Song", mbid = "786d7175-796f-4443-8295-1dcbb933c2c9" },
+  { n = 11, title = "I'm So Lonesome I Could Cry", mbid = "8a03e83d-9f9e-48e2-8e85-856a0da67ee1" },
+]
+
+[[release]]
+mbid = "34427970-3621-3338-bfae-75b36c4ee9a0"
+title = "Goods and Services"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "Back to Black&Grey", mbid = "51d6db33-1e25-4ef4-9a67-5c2fc855e912" },
+  { n = 2, title = "Opus - Solomon's Ride - Opus", mbid = "aa321294-d13a-4208-a833-11239526514c" },
+  { n = 3, title = "Good & Gone", mbid = "3bff685e-d86b-47cd-85cd-59b263121617" },
+  { n = 4, title = "Bender", mbid = "99d13e7b-963a-42a7-8090-5247c7d16e8b" },
+  { n = 5, title = "Occupied", mbid = "6f03af2c-e32b-4e89-b938-7e15c0a27ad9" },
+  { n = 6, title = "Warm Storm", mbid = "341ed462-81ba-4599-b3f0-5e5018498c6d" },
+  { n = 7, title = "You're So Vain", mbid = "1dd92c2d-d41f-47b3-a9f8-842e7c5bcdf2" },
+  { n = 8, title = "Welcome to My World", mbid = "3de25144-ae04-42b4-8c1e-0134485df229" },
+  { n = 9, title = "surfin' Lean", mbid = "7058116f-bf25-48ff-b70c-bab5a4a21ec3" },
+  { n = 10, title = "Trickle Down System", mbid = "15a4e156-84b0-411c-9de2-c1dcf9f8ec38" },
+]
+
+[[release]]
+mbid = "e7243a99-54af-352e-a3a9-e379d4e95581"
+title = "Official Bootleg Series, Volume 1"
+type = "album"
+date = "1996"
+tracks = [
+  { n = 1, title = "No Name Guitars", mbid = "06c4c00a-9f42-4270-9e68-a026c281ed31" },
+  { n = 2, title = "Sled", mbid = "56c9f357-dc8e-4a6d-b9f1-5ecd12a8f04d" },
+  { n = 3, title = "Elevator Music", mbid = "7dfc7c93-163e-4758-b877-408f34c87631" },
+  { n = 4, title = "Spit", mbid = "b6528a35-7571-409b-92ca-e5518cedb551" },
+  { n = 5, title = "Corridor of Love", mbid = "a77dc7ec-b765-4a06-83be-a10374e548aa" },
+  { n = 6, title = "Mason Card", mbid = "63c2fc57-1b0d-485a-a701-319f3bf34640" },
+  { n = 7, title = "Hank's Rap City", mbid = "334a402f-d542-43d7-9f9a-7ab68fcc0783" },
+  { n = 8, title = "Less the Lie", mbid = "c58b8567-a65c-40e0-9fe6-989ec184f3a0" },
+  { n = 9, title = "Scorcher", mbid = "b4ec2755-1a97-4b6d-82ce-546aa010a281" },
+  { n = 10, title = "Bed of Nails", mbid = "c309575b-f008-4849-9716-b9740497fac2" },
+  { n = 11, title = "Crumb", mbid = "23f85035-23c0-466d-8cbc-5aae18fb7049" },
+  { n = 12, title = "T. W. 's Forgotten Chorus", mbid = "47d1d976-92df-44db-b50d-b1deafb945fc" },
+  { n = 13, title = "Smokey Joe's Deep Blue Pancakes", mbid = "640e52f2-e121-4a3f-9eb7-dd430dc6207c" },
+]
+
+[[release]]
+mbid = "066b5e8e-cffa-3a97-a0ce-e5c6f0191caf"
+title = "Backyard Barbecue Broadcast"
+type = "album"
+date = "1996-04-02"
+tracks = [
+  { n = 1, title = "BBQ Suite", mbid = "d4cfcd33-d4cf-4db9-934d-3437c721a9d3" },
+  { n = 2, title = "Mope-A-Long", mbid = "c60c886b-0a05-468e-944e-f1b3ed8f57a0" },
+  { n = 3, title = "Lean", mbid = "0f93f323-df61-4f4c-bf1f-268079477c07" },
+  { n = 4, title = "Get to Leave", mbid = "df0db97e-570d-446c-9aed-17221efa147f" },
+  { n = 5, title = "Lester Lampshade", mbid = "c6444461-f5f8-4199-a677-11e90205fcf6" },
+  { n = 6, title = "Blue Waltz (reprise)", mbid = "099b8125-4e2c-4159-940c-6499625cebd8" },
+  { n = 7, title = "Untitled (Last 3-4 Minutes of 8 Minute Track)", mbid = "dbe1e752-c976-4956-83f4-d330ba08460a" },
+]
+
+[[release]]
+mbid = "4fc94a75-dcf1-394e-bf18-b8491b645c40"
+title = "Official Bootleg Series, Volume 2: The Rock Opera Years"
+type = "album"
+date = "2000"
+tracks = [
+  { n = 1, title = "Rock Opera", mbid = "985278ee-833f-4267-a7b4-9361a9c80042" },
+  { n = 2, title = "Dusted (In Tucson)", mbid = "94b8e6c9-d83e-49e4-83c0-1f48cfbe9607" },
+  { n = 3, title = "Astonished (In Tucson)", mbid = "ffcb4086-b09d-4201-9225-5fbd68b68adf" },
+  { n = 4, title = "Hard On Things", mbid = "9be8217c-db4b-46a4-9d14-954640b98f38" },
+  { n = 5, title = "Francoise", mbid = "4dd5f49f-30fa-4663-bc24-3b500e6aafad" },
+  { n = 6, title = "Punishing Sun (In Tucson)", mbid = "84bdf937-2ac1-492c-ab76-f2ff2d606bac" },
+  { n = 7, title = "Chore Of Enchantment", mbid = "027e7492-473c-4f0b-a79c-318972c5789e" },
+  { n = 8, title = "Seldom Matters Again", mbid = "b00b4c29-9771-4768-b15c-1254d4af14a8" },
+  { n = 9, title = "Music Arcade", mbid = "3cfad30e-d5ea-46e7-b255-7a91be749e6c" },
+  { n = 10, title = "Shiver (In Tucson)", mbid = "25c9143d-4b80-4d86-872a-1ea2a33846e2" },
+  { n = 11, title = "Catapult", mbid = "2931827f-221b-40ba-b1bf-99ffc5df1b81" },
+  { n = 12, title = "Dilemma", mbid = "29fa2fe5-8579-4d21-a355-2dc22813340a" },
+  { n = 13, title = "Not Good", mbid = "6c4b5abd-e998-413d-bff1-6a41cafbeedb" },
+]
+
+[[release]]
+mbid = "2b10653e-655d-34fe-9db4-77242d817a17"
+title = "Chore of Enchantment"
+type = "album"
+date = "2000-03-07"
+spotify = "6IeqtN9QwL5LUyQw1hlzMu"
+tracks = [
+  { n = 1, title = "Overture", mbid = "fe7f50ba-fb28-404c-8567-88b63681dcc7" },
+  { n = 2, title = "(Well) Dusted (For the Millenium)", mbid = "79cb37ec-dfbb-43c7-81ae-ae176b977840" },
+  { n = 3, title = "Punishing Sun", mbid = "4b06bc9b-b991-45e2-851b-dc223d02ba87" },
+  { n = 4, title = "X-Tra Wide", mbid = "ecc7e77b-084f-41ba-8b19-45566c954213" },
+  { n = 5, title = "1972", mbid = "1d99ef72-2074-478f-adbe-0b24a2a9f967" },
+  { n = 6, title = "Temptation of Egg", mbid = "4e8fc477-2c03-4a66-9c7e-779af215b6ee" },
+  { n = 7, title = "Raw", mbid = "06a0ee71-e06f-4899-9039-c59a807a5e47" },
+  { n = 8, title = "Wolfy", mbid = "eb015c1c-ccab-4cb4-928b-3600d669f59f" },
+  { n = 9, title = "Shiver", mbid = "e788df29-56f0-4db6-ab98-eedd05497269" },
+  { n = 10, title = "Dirty From the Rain", mbid = "fe2ff9d2-5b7b-49ae-9efd-a636a50492bb" },
+  { n = 11, title = "Astonished (In Memphis)", mbid = "a0310487-6980-460a-976f-e992363bdb1f" },
+  { n = 12, title = "No Reply", mbid = "bfe30a1b-0446-4b66-8544-a0e37d8c3a53" },
+  { n = 13, title = "Satellite", mbid = "59eeedb6-ad00-493b-a642-949e52777bc1" },
+  { n = 14, title = "Bottom Line Man", mbid = "70929f03-8258-44a9-9696-dbf1e34a7a12" },
+  { n = 15, title = "Way to End the Day", mbid = "c8212b69-48b8-4791-b10e-c868d14a626e" },
+  { n = 16, title = "Shrine", mbid = "38472461-8831-483b-aa0a-50ae73e773a4" },
+]
+
+[[release]]
+mbid = "bd827888-79bb-316b-9ab8-7ae8989842c7"
+title = "Unsungglum (Official Bootleg)"
+type = "album"
+date = "2001"
+tracks = [
+  { n = 1, title = "Glum", mbid = "3da99a81-7056-4a7e-97bf-fb1bb92b4ed6" },
+  { n = 2, title = "Yer Ropes", mbid = "4516ed38-7b43-4300-b9e6-e890f6cd34b8" },
+  { n = 3, title = "Happenstance", mbid = "80a7bd58-c1c3-4808-b7ff-00c064553387" },
+  { n = 4, title = "Frontage Road", mbid = "89f22767-795e-47be-817d-048ece3438e4" },
+  { n = 5, title = "1 Helvakowboysong", mbid = "68fbe61e-b2a3-437b-9c24-ae38558bd255" },
+  { n = 6, title = "I'm So Lonesome I Could Cry", mbid = "eebbc112-364e-4756-a4d9-db9745253487" },
+  { n = 7, title = "Body's a Boat", mbid = "69c15faf-af8d-4a8b-91a7-5e1870a8bd74" },
+  { n = 8, title = "Remain Distorted", mbid = "7a939d71-432b-41ca-9dfa-46a82d8cd08e" },
+  { n = 9, title = "Water Fuels the Fire", mbid = "e4e73ed6-3273-4cc1-ab62-d6019b34f351" },
+  { n = 10, title = "Occupy", mbid = "bb70b804-566a-489b-b404-046fbd916102" },
+  { n = 11, title = "Painted Bird", mbid = "0329425e-8357-4bc7-98d1-008c6db3e1db" },
+  { n = 12, title = "Spun", mbid = "6e109fb4-02b9-4101-8894-a19e7488164d" },
+  { n = 13, title = "Left", mbid = "b0d7b08c-f505-49f3-a043-71e7eff9f551" },
+  { n = 14, title = "Faithful", mbid = "3f799ac6-2fc7-4d1b-bcd5-8cdfaff60084" },
+  { n = 15, title = "Bird Song", mbid = "7279634e-aaf0-4a5a-8358-2045923cc7e6" },
+  { n = 16, title = "Profess Or", mbid = "3d980354-9e9d-40b6-a942-9c4d673b45f9" },
+]
+
+[[release]]
+mbid = "d62cbebc-493e-3de6-8974-ab4099150131"
+title = "Official Bootleg Series, Volume 5: Too Many Spare Parts in the Yard Too Close at Hand"
+type = "album"
+date = "2002"
+tracks = [
+  { n = 1, title = "The Calexico Audition and Failing It", mbid = "01d318ea-5589-48b7-8baf-1b68ad9a6738" },
+  { n = 2, title = "The Very Last Blue Marble Girl", mbid = "5145f295-96b5-4e0f-8ef5-1ee28ee9e4f9" },
+  { n = 3, title = "Goldfrapp Tribute", mbid = "436526f6-ea31-435d-bce5-630361428ed7" },
+  { n = 4, title = "Available Space", mbid = "50124848-438e-4bb4-9e5b-3f315aecb675" },
+  { n = 5, title = "House of the Punishing Sun", mbid = "e84caeae-845c-4d64-8db9-ed15424352a5" },
+  { n = 6, title = "Hatch", mbid = "8f0ae212-9327-4c37-a223-75ab96ca7b7b" },
+  { n = 7, title = "Tom Waits Tribute", mbid = "c8c8da93-8833-47e3-a65d-6fbbeb07ca29" },
+  { n = 8, title = "The Feel of Original Leather", mbid = "7df74855-a699-403e-8e1e-101dab343c0e" },
+  { n = 9, title = "Colder Than Cool Enough", mbid = "b9c6dc67-b899-4a01-93c9-f1b640066a34" },
+  { n = 10, title = "The Very First Blue Marble Girl", mbid = "709e3d2e-959a-4b30-9e09-1f8981fb6cb6" },
+  { n = 11, title = "Rain Mixed With Parade", mbid = "e82bbaf1-0a87-4e69-80ec-700b1d7caa53" },
+  { n = 12, title = "Loopy", mbid = "c5e881b7-2daa-4666-af6d-af6b3ca449ae" },
+]
+
+[[release]]
+mbid = "2a06693e-f4c3-38f8-ac09-16f38f800abe"
+title = "Cover Magazine"
+type = "album"
+date = "2002-03-19"
+tracks = [
+  { n = 1, title = "El Paso / Out on the Weekend", mbid = "57e81d03-81b9-4086-b44a-7df8d282cf81" },
+  { n = 2, title = "Johnny Hit and Run Pauline", mbid = "59c3b436-5b00-4ee5-a83c-f0b7e12795dc" },
+  { n = 3, title = "Iron Man", mbid = "4f254002-273d-4d75-aee4-3256a57cae58" },
+  { n = 4, title = "Human / Lovely Head", mbid = "09deac55-7471-42c7-971b-5a09e4838c75" },
+  { n = 5, title = "The Beat Goes On", mbid = "6fce27b3-2294-4232-9bfc-fb2a44b454b2" },
+  { n = 6, title = "Plants and Rags", mbid = "deb18f0d-2179-4ad3-97e2-93b483234088" },
+  { n = 7, title = "Wayfaring Stranger / Fly Me to the Moon", mbid = "1332ac7f-4a71-4282-9ed1-722b533ffc95" },
+  { n = 8, title = "Red Right Hand", mbid = "2bef7a98-6b71-460f-bfa9-aba1077d9df1" },
+  { n = 9, title = "King of the Road", mbid = "c2ca5c01-bdbf-4230-8fbd-b1ffc9654084" },
+  { n = 10, title = "I'm Leaving Now", mbid = "210a2ad8-0d3f-429e-9796-def69ee3b2a8" },
+  { n = 11, title = "Blue Marble Girl (live)", mbid = "f1df1951-49a0-43ce-a12b-5dfd79a1f88e" },
+  { n = 12, title = "The Inner Flame (live)", mbid = "77f715c0-dc54-442b-9678-841b11d142d9" },
+  { n = 13, title = "The Beat Goes On (live)", mbid = "9569a3b8-2bd4-473f-809c-ac351d558672" },
+]
+
+[[release]]
+mbid = "da127342-fdff-355c-8a1c-d340cab3c1f8"
+title = "Is All Over the Map"
+type = "album"
+date = "2004"
+tracks = [
+  { n = 1, title = "Classico", mbid = "2f72be91-fa2e-4657-8bd4-a8d4f27ff417" },
+  { n = 2, title = "NYC of Time", mbid = "386a1402-92d0-4b88-965b-0716becbea17" },
+  { n = 3, title = "Remote", mbid = "0d555b2d-5108-4455-8910-13b1e7615ed7" },
+  { n = 4, title = "Flying Around the Sun at Remarkable Speed", mbid = "71151b34-2ea9-4878-a267-714013d6fdc0" },
+  { n = 5, title = "Cracklin Water", mbid = "f3573dba-ba85-4da1-976a-ff6c9fbe46e7" },
+  { n = 6, title = "Rag", mbid = "f25ebecd-cd42-4b78-9c3f-7511a91b29d9" },
+  { n = 7, title = "Muss", mbid = "70caa99f-499a-4ec9-b87c-3ebc383531e7" },
+  { n = 8, title = "Drab", mbid = "98e41b42-d5e6-44e9-97d3-540fd4e52957" },
+  { n = 9, title = "Fool", mbid = "6994d587-72e7-4bca-b337-21f8146fb4e4" },
+  { n = 10, title = "Les Forçats Innocents", mbid = "5ffc2954-00a8-44f3-9c47-3db5e97d83e5" },
+  { n = 11, title = "Napoli", mbid = "c6a3f0ca-95ef-4235-bcf6-f7724b5ab093" },
+  { n = 12, title = "Hood (View from a Heidelburg Hotel)", mbid = "49cf5124-bc74-40ab-9c8c-fefdb41c5cc8" },
+  { n = 13, title = "A Classico Reprise", mbid = "eabe76cc-bf6e-41d0-8bc7-fddbe19a70ba" },
+  { n = 14, title = "Anarchistic Bolshevistic Cowboy Bundle", mbid = "ea7489b3-493c-40d5-a227-a38dc357bd25" },
+  { n = 15, title = "Ploy", mbid = "5b52f7d5-e5bb-4ef7-9764-37ce5e21ca7a" },
+]
+
+[[release]]
+mbid = "d4c5a0e2-0e63-47a9-92a7-30de8b607ffd"
+title = "Provisional Supplement"
+type = "album"
+date = "2008"
+tracks = [
+  { n = 1, title = "Ballad of the Tucson 2 (inst.)", mbid = "fed29633-a984-4384-a442-1539b9d4b936" },
+  { n = 2, title = "Dear Diary", mbid = "a10b9dae-d3fd-453f-8ff7-b7abbd730967" },
+  { n = 3, title = "Saturation", mbid = "21fb0e51-de73-4de1-b06f-992a9a6b37ea" },
+  { n = 4, title = "The New Romance of Falling", mbid = "85e27df7-6908-45c9-b03c-d1f2de241b98" },
+  { n = 5, title = "Love Knows (No Borders)", mbid = "efbea8b2-53ee-4ac3-961b-a9deaebcc7a0" },
+  { n = 6, title = "Dead Horse Blues", mbid = "d598ad8f-0f40-4167-a697-96baed491959" },
+  { n = 7, title = "World's End Park Bench", mbid = "49b67fdd-ad9a-4bdf-96dc-e12505d40657" },
+  { n = 8, title = "Harping Stomp", mbid = "bf7a4fec-9b9f-4bdf-ac07-048de1833019" },
+  { n = 9, title = "Shine on the Piano", mbid = "d825cda1-73b8-4a52-af46-53bd67d0e6c7" },
+  { n = 10, title = "Ok", mbid = "9801e5f1-1e79-4513-9926-f58a292b70c0" },
+  { n = 11, title = "Greyer on the Way", mbid = "b5432033-0093-4de4-9212-e0356eaa47d1" },
+  { n = 12, title = "Ballad of the Tucson 2", mbid = "fddf6d85-1544-4579-9a91-07f51467c343" },
+]
+
+[[release]]
+mbid = "52270983-e9bd-3e61-b6ae-66f32c9142dd"
+title = "*proVISIONS*"
+type = "album"
+date = "2008-01-01"
+spotify = "01hGh57ykhtJXrt6wpwUE1"
+tracks = [
+  { n = 1, title = "Stranded Pearl", mbid = "9d954323-b0c8-49e7-b1e7-60ecf65bf83a" },
+  { n = 2, title = "Without a Word", mbid = "cbd52b38-09c2-40b5-a6ab-5ca11b416247" },
+  { n = 3, title = "Can Do", mbid = "0452fc9f-61c6-4fcc-9ab3-7a836f6544c7" },
+  { n = 4, title = "Out There", mbid = "e30bf7d4-57b4-43ab-8268-90b6600b08d5" },
+  { n = 5, title = "The Desperate Kingdom of Love", mbid = "afda26c2-6d5f-46f9-91eb-6a9f76e8e48c" },
+  { n = 6, title = "Increment of Love", mbid = "421c132f-3733-48eb-a64f-9c8d61f79228" },
+  { n = 7, title = "Spiral", mbid = "d780f6d8-d5e4-405d-afcf-6c7026a6e447" },
+  { n = 8, title = "Pitch & Sway", mbid = "80977711-480f-48c2-be84-017576f0822d" },
+  { n = 9, title = "Muck Machine", mbid = "449366c9-f7fd-43a3-b477-b91be4211d17" },
+  { n = 10, title = "Belly Full of Fire", mbid = "8ac7596e-ee0b-4d2d-89e3-24670640c787" },
+  { n = 11, title = "Saturated Beyond Repair", mbid = "ac1dcdc3-9a1d-4945-afd5-f99572647598" },
+  { n = 12, title = "World’s End State Park", mbid = "24407129-0d07-483a-8eb6-44b19d4095ef" },
+  { n = 13, title = "Well Enough Alone", mbid = "0de165c9-d674-4f0f-9a8f-f8245f936993" },
+]
+
+[[release]]
+mbid = "9b3eb52c-eaf1-4234-bd8a-88968950b479"
+title = "Off Ramp"
+type = "album"
+date = "2009"
+tracks = [
+  { n = 1, title = "Shadow to You", mbid = "839d06d4-b1b6-4911-a1bd-5aee5dcd529a" },
+  { n = 2, title = "Approximation of Joy", mbid = "7f755a5c-62c5-4d66-b6b0-a7df5ad9a4b7" },
+  { n = 3, title = "Nowhere (Howe)", mbid = "48eff8c9-e168-4d47-94c9-e415dfd48693" },
+  { n = 4, title = "Rampled", mbid = "96aa7bf3-48a4-4960-8def-352d769f3884" },
+  { n = 5, title = "Dead Head Instead", mbid = "b46649ce-e39d-40bd-bb1d-54846ba90dc0" },
+  { n = 6, title = "Warm Storm Bridge", mbid = "685016d9-bd30-4681-993f-15df96540c7c" },
+  { n = 7, title = "Endtro (Victoria)", mbid = "1c216e67-4a21-4ce0-bed4-9d9820c48c61" },
+  { n = 8, title = "Love (Victoria)", mbid = "e9ee84ae-4d9e-4bd8-9333-0989b75ce14a" },
+  { n = 9, title = "Arizona Bridge", mbid = "a0d46f33-63ab-43d0-9b61-9b19c0458ea7" },
+  { n = 10, title = "That Vision Thing", mbid = "03124705-e716-40ad-aa12-932458b8de53" },
+  { n = 11, title = "Country Fare (Victoria)", mbid = "1ac63d9a-b86e-4f87-b348-5ab6975f3312" },
+  { n = 12, title = "Welcome to My World (instrumental)", mbid = "593636d9-0f00-4c3b-99e8-3915b1522478" },
+  { n = 13, title = "Dead Air", mbid = "f26515e7-e709-4941-bdbc-1c5e6679d5a9" },
+  { n = 14, title = "Blur of the Sands", mbid = "1e02e973-5a56-4d19-bb61-0b80afe0cc81" },
+  { n = 15, title = "Over and Over Nightmare", mbid = "cdd5c579-49e7-41b1-b1e7-d6abd01d4c5d" },
+  { n = 16, title = "Patsy’s Ballad", mbid = "715a1661-4ea4-4c66-b9e9-d06619466666" },
+]
+
+[[release]]
+mbid = "1bfc48a9-ada4-4947-a13d-56c386cea925"
+title = "Blurry Blue Mountain"
+type = "album"
+date = "2010-10-25"
+spotify = "6U3Xof1tIiJGrOP8bxcDXw"
+tracks = [
+  { n = 1, title = "Fields of Green", mbid = "7d103fe3-535d-4240-af3a-8f596fbb6897" },
+  { n = 2, title = "Chunk of Coal", mbid = "fc5331fd-d5d1-4300-b0c2-8018817d9917" },
+  { n = 3, title = "The Last One", mbid = "4aa4f50e-0067-4d93-a6a1-6e572c4c58c2" },
+  { n = 4, title = "Monk’s Mountain", mbid = "8689eb56-a5ad-4fab-9f7b-a75d84d8e316" },
+  { n = 5, title = "Spell Bound", mbid = "bc576213-4bb6-48ea-b785-3df93b2aaee3" },
+  { n = 6, title = "Ride the Rail", mbid = "5cb54a5f-75ad-418b-af4e-bcb07771eaec" },
+  { n = 7, title = "Lucky Star Love", mbid = "30051ab1-5b3e-4fbf-b84e-8ffa5a782b17" },
+  { n = 8, title = "Thin Line Man", mbid = "04a01357-6c7c-4b12-8cf1-e43586600853" },
+  { n = 9, title = "No Tellin’", mbid = "3eb28014-430d-46d1-9baf-3d6f423722a7" },
+  { n = 10, title = "Brand New Swamp Thing", mbid = "45ae6e34-3a5a-4e0f-ba40-2d591c7471b7" },
+  { n = 11, title = "Erosion", mbid = "6882e189-15db-42a8-8e8a-2ad47d4da785" },
+  { n = 12, title = "Time Flies", mbid = "ce49a4a5-a63c-49bd-9079-baaeed6425f3" },
+  { n = 13, title = "Better Man Than Me", mbid = "a6fcfbfd-39ca-48b4-9706-785c3b1325b6" },
+  { n = 14, title = "Love a Loser", mbid = "966e3845-5bed-4449-ba32-625af2ce9fb6" },
+]
+
+[[release]]
+mbid = "f71074cd-1269-489f-8c8c-647f6853c4c3"
+title = "Black Out"
+type = "album"
+date = "2011-07-25"
+tracks = [
+  { n = 1, title = "October Anywhere", mbid = "f1ba6004-169a-4e09-a767-b1425baae8f7" },
+  { n = 2, title = "The Y Stop Jumble", mbid = "134ef6e7-c0c2-4721-af93-c7c310ac0531" },
+  { n = 3, title = "Steadfast", mbid = "65f049ed-9b96-4693-8d3e-4d9c5e2b1021" },
+  { n = 4, title = "Robes of Bible Black", mbid = "e9e931cf-bb02-4296-a53d-7489f21031d1" },
+  { n = 5, title = "Mt. of Love", mbid = "d2e2555f-379a-485a-9aa2-b5d735621453" },
+  { n = 6, title = "The Replacement", mbid = "4010cf9b-e874-4e2f-8b4c-c98af0aedce6" },
+  { n = 7, title = "Severely Altered on the Hill", mbid = "7b3e4ebe-0f0d-4fb9-83a9-1c12433b67f4" },
+  { n = 8, title = "Dreamville, New Mexico", mbid = "04697e66-ad70-481c-ad67-e4328ded93a4" },
+  { n = 9, title = "Seldom Matters", mbid = "fc5d32bb-63cd-469e-bda2-411a409ec4b2" },
+  { n = 10, title = "Approximation of Joy", mbid = "19216288-a607-41d9-b6bd-92cc0e4ecf31" },
+]
+
+[[release]]
+mbid = "35ee879a-c2e7-4537-80f8-cd6e6ee51024"
+title = "Backyard Barbeque Broadcast"
+type = "album"
+date = "2011-11-21"
+tracks = [
+  { n = 1, title = "Bbq Suite Parts 1, 2, 3, 4 & 5", mbid = "0b0991bf-061e-4183-a945-7c42183dfefc" },
+  { n = 2, title = "Mope-a-Long", mbid = "000c8f9d-0f80-443b-b8f4-33d2bf90fcaf" },
+  { n = 3, title = "Lean", mbid = "51f6b482-97c3-4bcd-a24a-d388cf6f06fa" },
+  { n = 4, title = "Get to Leave", mbid = "12a80f52-3d73-47c5-b0e4-094541e3fa5a" },
+  { n = 5, title = "Lester Lampshade", mbid = "d3fa92f8-afb4-453c-b97a-5ca318cf07e2" },
+  { n = 6, title = "Blue Waltz (Reprise)", mbid = "1254ad0e-86a3-427c-b738-67351aa9c2e3" },
+  { n = 7, title = "Yer Ropes (Bonus Track)", mbid = "7c4b6ab3-adc3-4217-8599-b54eaa7524dd" },
+  { n = 8, title = "Rolling Stones I Am (Bonus Track)", mbid = "64f275c5-854f-4c6f-bfad-a4a2c2efe1de" },
+]
+
+[[release]]
+mbid = "96daddd3-165b-4fdd-a422-e930ee6b3bc8"
+title = "Tucson"
+type = "album"
+date = "2012-06-11"
+tracks = [
+  { n = 1, title = "Wind Blown Waltz", mbid = "848f9f37-1a47-446b-b7f0-e09547738446" },
+  { n = 2, title = "Forever and a Day", mbid = "2373d955-a0e0-49fb-9a87-59ae0a668be0" },
+  { n = 3, title = "Detained", mbid = "d87599ea-1a04-45eb-96a0-c67f7e0ef7e3" },
+  { n = 4, title = "Lost Love", mbid = "a67b3994-a642-441d-9c31-e0a9cb1f38e9" },
+  { n = 5, title = "Plane of Existence", mbid = "e044fce3-ba4b-4790-bd96-b812ceed97a2" },
+  { n = 6, title = "Undiscovered Country", mbid = "84c76147-83eb-4b80-82f0-66817a1de2e8" },
+  { n = 7, title = "Love Comes Over You", mbid = "4d60a557-c3bd-4940-b9ec-22095f95b34f" },
+  { n = 8, title = "Thing Like That", mbid = "c1d8b5e2-95a2-4d86-9bbb-bc40d42cb254" },
+  { n = 9, title = "The Sun Belongs to You", mbid = "ae733e1a-8faa-4644-8ab1-a64136ca2dcc" },
+  { n = 10, title = "We Don’t Play Tonight", mbid = "a68a2e5d-c3be-4dcc-b237-edc0694cf1b5" },
+  { n = 11, title = "Ready or Not", mbid = "dbd091bb-72ae-4c40-b734-b67623a44ce0" },
+  { n = 12, title = "Mostly Wrong", mbid = "eeef74e1-11c2-4753-8e12-f8a5dd8d53e8" },
+  { n = 13, title = "Hard Morning in a Soft Blur", mbid = "659c1bd1-3607-4611-8f67-ec87e06a5ac2" },
+  { n = 14, title = "Recovery Mission", mbid = "712eff08-a688-42ca-bcb5-e470b17371a1" },
+  { n = 15, title = "Slag Heap", mbid = "95374ba6-ba4f-4584-9ba4-ad6b8263930d" },
+  { n = 16, title = "Not the End of the World", mbid = "bc53451c-f9ed-4db6-9c29-59336c30cf2d" },
+  { n = 17, title = "Carinito", mbid = "9383ac70-4f8b-4f3e-bcdc-fb99b9588470" },
+  { n = 18, title = "Out of the Blue", mbid = "0f2e5fd4-7397-468e-ae0e-a6bc373eebce" },
+  { n = 19, title = "New River", mbid = "23e0a9e8-a4e8-4393-a917-822c9de66766" },
+]
+
+[[release]]
+mbid = "18cef5d4-2202-4bdb-ad74-1daa2fbcf55f"
+title = "Return To Tucson"
+type = "album"
+date = "2013-04-20"
+tracks = [
+  { n = 1, title = "Lost Love (John Parish + Ali Chant remix)", mbid = "1485bd5e-041e-4d0a-9cec-e476eb22c5ff" },
+  { n = 2, title = "Undiscovered Country (John Parish remix)", mbid = "b02f3084-b0eb-454d-8f5f-70dd58d8bdb5" },
+  { n = 3, title = "Wind Blown Waltz (John Parish + Ali Chant alternative mix)", mbid = "03c78197-2f17-48b9-b0c3-004cca0431a8" },
+  { n = 4, title = "Thing Like That (Ali Chant extended version)", mbid = "4b5ffd75-f3fc-4c50-925b-2e0324cca2e9" },
+  { n = 5, title = "Carinito (Ali Chant alternative mix)", mbid = "e884095e-0bd1-48af-be1c-9d01cb877543" },
+  { n = 6, title = "Not the End of the World (Ali Chant alternative version)", mbid = "7d8053b1-e793-4a80-8fb5-4d9ebdedca7f" },
+  { n = 7, title = "Hard Morning in a Soft Blur (Chris Schultz extended version)", mbid = "0386d605-e967-4a00-88d3-a8bcf3cdb7ce" },
+  { n = 8, title = "Forever & A Day (John Parish + Ali Chant alternative mix)", mbid = "26d79038-1353-4441-9277-f198970cc102" },
+]
+
+[[release]]
+mbid = "e45cc87b-939d-466e-ac35-b548f3a4eff4"
+title = "Heartbreak Pass"
+type = "album"
+date = "2015-05-04"
+tracks = [
+  { n = 1, title = "Heaventually", mbid = "e6bce661-3233-47fc-8361-0a0185d5f02b" },
+  { n = 2, title = "Texting Feist", mbid = "4206fb13-1c35-4c3a-b6b4-55191689eb85" },
+  { n = 3, title = "Hurtin' Habit", mbid = "577f92af-b119-4430-8efa-56f269becad6" },
+  { n = 4, title = "Transponder", mbid = "8b98bf4b-3578-4bed-8dd0-6ac4f8f4e43d" },
+  { n = 5, title = "Song So Wrong", mbid = "fbf7b15c-1023-4a66-824d-583b8785b437" },
+  { n = 6, title = "Every Now and Then", mbid = "c3b2b390-7cf6-46dc-9492-dd9d4daf42b5" },
+  { n = 7, title = "Man On a String", mbid = "be0df5f8-9c3b-483e-a3c3-996e5d68ac3d" },
+  { n = 8, title = "Home Sweat Home", mbid = "cb7ca4ae-200b-4fda-a530-9d57eb1d6079" },
+  { n = 9, title = "Eye Opening", mbid = "c59d2e2d-2fad-4ee6-b089-f00118bc1954" },
+  { n = 10, title = "Pen to Paper", mbid = "81f9559f-5a20-4a44-81fa-cf92a60a951a" },
+  { n = 11, title = "Bitter Suite", mbid = "6d48b212-40b6-4b56-bf2a-a0615794d618" },
+  { n = 12, title = "House In Order", mbid = "e2cb2412-436c-4579-94d5-7bcabb66140e" },
+  { n = 13, title = "Gypsy Candle", mbid = "7b5faa0c-25b1-491d-9515-31a51a9d2e91" },
+  { n = 14, title = "Done", mbid = "72c07a47-ab3e-4523-9386-6136c4d0f913" },
+  { n = 15, title = "Forever and Always", mbid = "58ee6ed5-7b6b-4a0d-8e01-482ddf8a50a1" },
+]
+
+[[release]]
+mbid = "85a1920c-714e-4228-a524-2d9eebb1052c"
+title = "Returns to Valley of Rain"
+type = "album"
+date = "2018-10-08"
+tracks = [
+  { n = 1, title = "Tumble & Tear", mbid = "a2a4d17b-49d2-45f1-99c2-bdf9c9ac2575" },
+  { n = 2, title = "Valley of Rain", mbid = "3e5fac84-97db-4e5e-ad42-fe20ff76f92f" },
+  { n = 3, title = "Curse of a Thousand Flames", mbid = "a4965b92-a122-4cba-ad99-ba7406eea39b" },
+  { n = 4, title = "Death Dying and Channel 5", mbid = "03f9595a-2f20-4267-b793-92e2d0a46711" },
+  { n = 5, title = "Barrio", mbid = "3444b76e-d45e-453e-9f8d-0b0a93d5d872" },
+  { n = 6, title = "Down on Town (Love’s No Answer)", mbid = "b1fe10ab-5606-4a1c-8f3e-eb3ffb358cd1" },
+  { n = 7, title = "Artists", mbid = "873cace0-c927-4528-8dab-c9a09d927b73" },
+  { n = 8, title = "Man of Want", mbid = "05992671-2471-47e8-ac00-5a4cb53204c4" },
+  { n = 9, title = "Torture of Love", mbid = "6d64fcd8-f0d4-4b76-ac8b-404e3b9122e8" },
+  { n = 10, title = "October Anywhere", mbid = "139cffc7-246d-40bc-928c-1766b2d9a43a" },
+  { n = 11, title = "Black Venetian Blind", mbid = "febfbb02-3bfb-44fa-89c5-1ff3e402e936" },
+]
+
+[[release]]
+mbid = "cf40aa4a-5fd5-44a4-9875-fc0df95b3690"
+title = "Recounting The Ballads Of Thin Line Men"
+type = "album"
+date = "2019-09-20"
+tracks = [
+  { n = 1, title = "Reptillian", mbid = "8a5f28f1-6710-4f69-9e23-1baac942eef6" },
+  { n = 2, title = "A Hard Man to Get to Know", mbid = "c0d06b17-b38b-4d54-99e2-e6a0ef9817a5" },
+  { n = 3, title = "Desperate Man", mbid = "45866fc7-aa98-4622-9c20-2cef50de66c1" },
+  { n = 4, title = "You Can't Put Your Arms Around a Memory", mbid = "2d74cac1-6ae6-4942-a3f2-6c7d7ae85753" },
+  { n = 5, title = "Tantamount", mbid = "2bb9a4e1-16d6-4c94-82af-431b114a2ade" },
+  { n = 6, title = "Who Am I", mbid = "a3a662d3-9ca7-4a28-ad71-c689615e2cf9" },
+  { n = 7, title = "Body of Water", mbid = "53474d3e-377d-466a-b860-697ef6556162" },
+  { n = 8, title = "Graveyard", mbid = "2b71d213-6855-4a44-ae1c-66d603973bf6" },
+  { n = 9, title = "The Chill Outside", mbid = "b4666aa0-89ed-4fe7-a043-7446de03ca2c" },
+  { n = 10, title = "Thin Line Man", mbid = "4ee1214a-c007-4457-a388-08287781bf2c" },
+]

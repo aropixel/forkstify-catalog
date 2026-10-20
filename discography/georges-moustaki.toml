@@ -1,0 +1,542 @@
+format = 1
+
+[[release]]
+mbid = "b0befd39-7521-438e-bb0a-da4cf5da0fa3"
+title = "Eddie Salem, son orchestre et ses chanteurs arabes"
+type = "ep"
+date = "1960"
+tracks = [
+  { n = 1, title = "Ya ma Leili", mbid = "c58fadce-4801-4501-9e33-0b0ab152c986" },
+  { n = 2, title = "Leila", mbid = "ae879589-9932-4d16-8ebe-1e675ee8dc4c" },
+  { n = 3, title = "Ma gargoulette", mbid = "079c0908-d6c5-4468-80ab-f85c70aa81d7" },
+  { n = 4, title = "J’ai déjà dit non", mbid = "4654c903-e921-4024-919c-34259d46cb6e" },
+]
+
+[[release]]
+mbid = "651fdd33-9de1-45b6-84a1-c16f7aa918c2"
+title = "Eddie Salem, son orchestre et ses chanteurs grecs"
+type = "ep"
+date = "1960"
+tracks = [
+  { n = 1, title = "Les Enfants du Pirée", mbid = "6ca4bb5d-2725-4f7f-8f95-345aef83b72f" },
+  { n = 2, title = "Reste avec moi", mbid = "1adcc277-a2c6-4639-b875-7cac12e4a6a2" },
+  { n = 3, title = "Je n’ai jamais pleuré", mbid = "9b1036c3-0d70-4227-8e28-485dbb691499" },
+]
+
+[[release]]
+mbid = "b77040e3-59fa-4d46-b75f-fb1106647f0d"
+title = "Georges Moustaki"
+type = "album"
+date = "1961"
+tracks = [
+  { n = 1, title = "Les Orteils au soleil", mbid = "1bdb2eab-4c28-49d5-a91f-6141dad33d98" },
+  { n = 2, title = "Les Musiciens", mbid = "21ab7a5e-cbcc-4705-a0f3-8b0a3d146503" },
+  { n = 3, title = "Près de chez moi", mbid = "bdc647d9-6bec-4dbc-8ff3-1954fd093176" },
+  { n = 4, title = "Eden Blues", mbid = "d703b3a1-6669-4f83-afef-fec103083048" },
+  { n = 5, title = "Le Jugement dernier", mbid = "062a358a-70f4-427f-80a4-6486a772dc01" },
+  { n = 6, title = "De Shangai à Bangkok", mbid = "4054ddb2-2d01-404f-8d49-375f2ef4abe6" },
+  { n = 7, title = "Ce n’est pas la première fois", mbid = "67312b4c-3860-46bb-9fcc-a86bc805772a" },
+  { n = 8, title = "J’attends le jour", mbid = "0a3e25a2-6a7e-456f-94c4-daff34ff79ee" },
+]
+
+[[release]]
+mbid = "10511f88-393b-48b9-8b9c-2a7351f5cb79"
+title = "Le Roi du village"
+type = "ep"
+date = "1963"
+tracks = [
+  { n = 1, title = "Générique", mbid = "dec0cf74-d1ca-437a-b153-8eb6e13e20b0" },
+  { n = 2, title = "Thème d’Agnès", mbid = "c9a8a9ef-c343-4641-97cb-8eff8764a299" },
+  { n = 3, title = "Venez les filles (Waste No Time)", mbid = "d6f5f8d9-92e0-4841-9aaf-9767f318a098" },
+  { n = 4, title = "Moïse twist", mbid = "1be7f8af-512a-457a-9c97-562b9f66e173" },
+]
+
+[[release]]
+mbid = "dc9d16a5-1775-34e7-b7f7-2f073a0ed987"
+title = "Le Métèque"
+type = "album"
+date = "1969"
+tracks = [
+  { n = 1, title = "Le Métèque", mbid = "d7109dcb-d179-459b-84e9-a297118fa240" },
+  { n = 2, title = "La mer m'a donné", mbid = "fefa5e1c-e808-463b-97bc-75cd99b3d3f7" },
+  { n = 3, title = "Gaspard", mbid = "85009ad7-37e9-45bf-a612-cfca19cd8621" },
+  { n = 4, title = "Voyage", mbid = "ec18bd6b-3780-4a7e-b520-6cf836b2d7e9" },
+  { n = 5, title = "Le Facteur", mbid = "d7206de4-89fa-4160-aece-38284bc0c6ab" },
+  { n = 6, title = "Natalia", mbid = "37abf0f7-2686-4659-a38c-64e2948c7ff8" },
+  { n = 7, title = "Ma solitude", mbid = "600ecc36-5ae2-4a3b-bd21-d1936eb3573c" },
+  { n = 8, title = "Il est trop tard", mbid = "62ce71bc-4911-4312-bc2e-e7f6063bb61d" },
+  { n = 9, title = "La Carte du tendre", mbid = "29aa8515-35ff-408e-a000-37698038b010" },
+  { n = 10, title = "Le Temps de vivre", mbid = "de62c5e3-ba4d-4952-931e-c426a7cef35a" },
+  { n = 11, title = "Joseph", mbid = "49b1c198-1d7d-43c4-a841-fc5debe40cae" },
+  { n = 12, title = "Rue des fosses Saint-Jacques", mbid = "688c45c7-1193-4a06-b026-9293528872bf" },
+]
+
+[[release]]
+mbid = "4bd1f615-b486-40a9-9b1a-c3e20979ed27"
+title = "Le Métèque / Voyage"
+type = "single"
+date = "1969"
+tracks = [
+  { n = 1, title = "Le Métèque", mbid = "d7109dcb-d179-459b-84e9-a297118fa240" },
+  { n = 2, title = "Voyage", mbid = "ec18bd6b-3780-4a7e-b520-6cf836b2d7e9" },
+]
+
+[[release]]
+mbid = "d488f724-f1cb-48df-834b-69968da8320b"
+title = "L'Homme au cœur blessé"
+type = "single"
+date = "1970"
+tracks = [
+  { n = 1, title = "L'Homme au cœur blessé", mbid = "da972f92-791d-4c80-937b-6e3a77a76750" },
+  { n = 2, title = "Requiem pour n'importe qui", mbid = "e15e5448-d622-4637-84c0-ec2bb5d0c487" },
+]
+
+[[release]]
+mbid = "6e4d1a0a-16f6-4705-9be5-e6875612c952"
+title = "Le Facteur / La mer m'a donné"
+type = "single"
+date = "1970-04"
+tracks = [
+  { n = 1, title = "Le Facteur", mbid = "7fd0c107-98c4-4b89-b7a3-ab0311d27aa6" },
+  { n = 2, title = "La mer m’a donné", mbid = "29e58b98-ba9c-48f2-811f-f6e25ee06b1d" },
+]
+
+[[release]]
+mbid = "119d131a-6d97-4c9b-9264-7a6c4d5ecec8"
+title = "Chansons pour Andréas"
+type = "ep"
+date = "1970-06"
+tracks = [
+  { n = 1, title = "Enfant de la Grèce", mbid = "7f755f96-9248-47da-a480-0ea26eb3fd53" },
+  { n = 2, title = "Nous sommes deux", mbid = "bccf05ab-7588-49f6-99ad-833aa4629113" },
+  { n = 3, title = "On t'a déjà beaucoup menti", mbid = "687107c1-63a8-4033-8327-3e16b1b0b338" },
+  { n = 4, title = "Andréas", mbid = "9ceb235b-0906-4fc7-a41d-0b131c512447" },
+]
+
+[[release]]
+mbid = "7039c4c8-3e80-4f2e-b44f-b748a14dbf34"
+title = "Il y avait un jardin"
+type = "album"
+date = "1971"
+tracks = [
+  { n = 1, title = "Il y avait un jardin", mbid = "ca000d6f-87ab-49d9-a5ca-6b8f9bbac2ef" },
+  { n = 2, title = "Je ne sais pas où tu commences", mbid = "eb6b6f5c-a508-4905-bd70-048903d71991" },
+  { n = 3, title = "J’ai vu des rois serviles…", mbid = "8239a9a4-52c6-4bef-94db-40cadc08c7bf" },
+  { n = 4, title = "L’Homme au cœur blessé", mbid = "6439e6d1-fd89-47b2-b797-d821709e6675" },
+  { n = 5, title = "Marche de Sacco et Vanzetti", mbid = "fee50984-f641-49ae-be72-89c7c6a504f0" },
+  { n = 6, title = "Margot (instrumental)", mbid = "1d1326cb-e52d-4419-a365-add82f0ba19f" },
+  { n = 7, title = "Grand‐père", mbid = "f500c987-c400-4305-90bd-7c98d28b6a01" },
+  { n = 8, title = "Où mènent ces routes devant moi", mbid = "94d8a790-8100-406e-b130-f30888d89558" },
+  { n = 9, title = "En Méditerranée", mbid = "a73cea19-57d2-4701-9be1-31b4d9ce609a" },
+  { n = 10, title = "Nous sommes deux", mbid = "de3834a7-904b-428f-8bdc-0e559c63311c" },
+  { n = 11, title = "Tes gestes", mbid = "038d5675-7f8c-4cca-a4be-064b8344b8c0" },
+  { n = 12, title = "Pourquoi mon Dieu", mbid = "494f98c4-14b5-4c3e-99b1-b443960f0c21" },
+]
+
+[[release]]
+mbid = "882ef1c2-ef93-4d9d-8320-560aa4d5a64a"
+title = "Ma solitude / Le Temps de vivre"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Ma solitude", mbid = "600ecc36-5ae2-4a3b-bd21-d1936eb3573c" },
+  { n = 2, title = 'Le Temps de vivre (du film "Le Temps de vivre")', mbid = "de62c5e3-ba4d-4952-931e-c426a7cef35a" },
+]
+
+[[release]]
+mbid = "07922928-5f6b-4691-8003-39fa71e7e08e"
+title = "Marche de Sacco et Vanzetti / En Méditerranée"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Marche de Sacco et Vanzetti (Here's To You)", mbid = "18495d07-4b80-464a-a1bd-3dcb9b0b062e" },
+  { n = 2, title = "En Méditerranée", mbid = "9f80962e-4f5a-425b-b29c-9ba65d74104b" },
+]
+
+[[release]]
+mbid = "321548e5-2256-4526-940c-b7ac2cd085f7"
+title = "Il y avait un jardin / Je ne sais pas où tu commences"
+type = "single"
+date = "1971-03-03"
+tracks = [
+  { n = 1, title = "Il y avait un jardin", mbid = "7e27e26b-0597-415d-b881-5ef5687075e9" },
+  { n = 2, title = "Je ne sais pas où tu commences", mbid = "de749eb5-0eb7-4e2c-9fdc-3b9f0b9bb97c" },
+]
+
+[[release]]
+mbid = "6d463f0b-c2d9-444d-afba-860dfca65255"
+title = "17 ans / Il n’y a plus d’amandes"
+type = "single"
+date = "1972"
+tracks = [
+  { n = 1, title = "17 ans", mbid = "0c895f2f-ab8d-4753-bb65-5302e7d19a09" },
+  { n = 2, title = "Il n’y a plus d’amandes", mbid = "eb5255f8-383c-4227-b01b-b23ccccc789a" },
+]
+
+[[release]]
+mbid = "6156b7b6-b03b-4544-8dd5-c33901b2cc3a"
+title = "En Castellano"
+type = "album"
+date = "1972"
+tracks = [
+  { n = 1, title = "La Balada De Sacco Y Vanzetti = Marche De Sacco Y Vanzetti (Here's To You)", mbid = "589e9730-5b08-4244-a6b5-3baddb26435b" },
+  { n = 2, title = "El Mar = La Mer M'a Donné", mbid = "d69c2e04-6282-44ca-8f60-8116e4f99e98" },
+  { n = 3, title = "Gaspard", mbid = "4813f723-8092-446a-ae6d-e279394c8f79" },
+  { n = 4, title = "El Viaje = Le Voyage", mbid = "eb683385-2f31-4ea8-bd5b-f8ab78619df5" },
+  { n = 5, title = "Requiem Para Cualquiera = Requiem Pour N'importe Qui", mbid = "dda27a46-e10c-42d6-b31c-181ed5248bf1" },
+  { n = 6, title = "Natalia", mbid = "db0354a2-9ee4-405c-a8c5-c8ef7de76c8a" },
+  { n = 7, title = "Mi Soledad = Ma Solitude", mbid = "ad6f0a46-e6bf-42a0-a8ad-0a422f713ed8" },
+  { n = 8, title = "Muy Tarde Es Ya = Il Es Trop Tard", mbid = "90b40614-83b8-4251-9e91-6de1c04f572a" },
+  { n = 9, title = "El Mapa Del Amor = La Carte Du Tendre", mbid = "48af35ea-3477-4214-acd9-77ccb2a6be53" },
+  { n = 10, title = "Tomar La Vida = Le Temps De Vivre", mbid = "0f67553a-a402-4926-b76c-97261694814a" },
+  { n = 11, title = "Jose = Joseph", mbid = "d26a59ae-abfe-4c92-baf0-861653fa47ba" },
+  { n = 12, title = "Rue Des Fosses Saint-Jacques", mbid = "48f02d92-a517-4285-a34b-bbec4e4b683b" },
+]
+
+[[release]]
+mbid = "0489358f-29f3-49fe-99f9-4f2ac204113d"
+title = "Moustaki"
+type = "album"
+date = "1972"
+tracks = [
+  { n = 1, title = "Danse", mbid = "ddc4e5ec-2904-4a3b-b0d6-b2b44a86d7de" },
+  { n = 2, title = "Les Amis", mbid = "47950240-ff09-4aab-a50b-7d5a13f763f4" },
+  { n = 3, title = "Rien n’a changé", mbid = "9014ba64-0e45-469a-9b2d-35b32e613f6e" },
+  { n = 4, title = "Les Marchands", mbid = "326c5809-261d-4e08-b8c2-c179bd08dbc0" },
+  { n = 5, title = "Marchandage (instrumental)", mbid = "985ea4f4-95e1-4875-a2d3-a3afdad6d5cd" },
+  { n = 6, title = "Tu m’attendais", mbid = "15c8ad99-8e45-4cad-9954-e00eb4ab2b91" },
+  { n = 7, title = "Hiroshima", mbid = "65078ec4-d55b-4975-bec9-377e46bf24ad" },
+  { n = 8, title = "Je suis un autre", mbid = "a072a230-b987-4273-90a7-0f4f67507714" },
+  { n = 9, title = "La Ligne droite", mbid = "608dc12b-2b58-4928-8ce9-e4ef8bee656b" },
+  { n = 10, title = "La Ligne droite", mbid = "f9db05e3-0128-4b24-b082-f35fefee1137" },
+  { n = 11, title = "La Rose de Baalbeck", mbid = "488f52a2-c35e-494c-b546-35fedd85b845" },
+  { n = 12, title = "17 ans", mbid = "0c895f2f-ab8d-4753-bb65-5302e7d19a09" },
+]
+
+[[release]]
+mbid = "2dfa8fc2-69ea-432d-9dd5-0700baba2bc4"
+title = "Mendiants et orgueilleux"
+type = "single"
+date = "1972-01-04"
+tracks = [
+  { n = 1, title = "Mendiants et orgueilleux", mbid = "af06306a-553f-463b-9659-c3b3dedb1dee" },
+  { n = 2, title = "Une blessure", mbid = "353d5128-d7d4-4cfc-bc9a-41123a859a00" },
+]
+
+[[release]]
+mbid = "3ebc3cb0-3181-4280-a8df-3448218a94b4"
+title = "Déclaration"
+type = "album"
+date = "1973"
+tracks = [
+  { n = 1, title = "Déclaration", mbid = "80303f2d-9a43-4423-b3bc-20c46f744860" },
+  { n = 2, title = "Les Enfants d’hier", mbid = "ba6be8e4-7797-43bd-9d01-77d8cd2c701e" },
+  { n = 3, title = "Nadjejda", mbid = "2de106a2-c1e0-4039-aec4-f50b3196e3ff" },
+  { n = 4, title = "Le Quotidien", mbid = "b2be561c-f372-40b8-a0bc-c96c9befbbbd" },
+  { n = 5, title = "Why", mbid = "7c6624d4-f22a-45f3-be29-f07a4b368d4b" },
+  { n = 6, title = "Les Eaux de mars", mbid = "0b08600d-ba13-457e-849f-c415ad04d2b4" },
+  { n = 7, title = "Nos quinze ans", mbid = "57b8eb63-f6a7-4087-8f3b-862f8802d81d" },
+  { n = 8, title = "Xu xu beleza", mbid = "441614d8-2db9-4d71-ace0-a1e98c3e744f" },
+  { n = 9, title = "L’Apolitique", mbid = "92236614-a41b-49ce-bfd3-5f911d5835c0" },
+  { n = 10, title = "Ballade pour cinq instruments", mbid = "6e3e619b-72df-4e10-ab80-3c28eb15299d" },
+]
+
+[[release]]
+mbid = "b37e952d-4c1e-43cd-b113-a3cfa547b683"
+title = "Sans la nommer"
+type = "single"
+date = "1973"
+tracks = [
+  { n = 1, title = "Sans la nommer", mbid = "ca430f5b-5395-4772-b9f9-8a7f0d9ff86c" },
+  { n = 2, title = "Mourir", mbid = "be7a0786-3d83-4d81-9aae-4fcbce0a6db3" },
+]
+
+[[release]]
+mbid = "be694307-e674-4885-8e4c-3164f306ce6c"
+title = "Moustaki"
+type = "album"
+date = "1974"
+tracks = [
+  { n = 1, title = "Les Amis de Georges", mbid = "241614c7-b1ec-487d-b11e-b95bdbaa7d5c" },
+  { n = 2, title = "Sarah", mbid = "fd9e6d87-7759-4ae1-a1d8-3d7d0d2cd14b" },
+  { n = 3, title = "Portugal", mbid = "adfa2dd9-3b91-4b35-9f90-88740e587c2b" },
+  { n = 4, title = "L’Habitude", mbid = "fadb6ad3-77df-43bc-aef4-83c0f4a6a730" },
+  { n = 5, title = "Kapou iparkhi I agapimou", mbid = "0ad15cb4-95d5-4002-9b9d-d704c6d1026b" },
+  { n = 6, title = "Dans la maison trop grande et trop vide", mbid = "519a6454-d678-44c5-ae6e-5f3574a0c789" },
+  { n = 7, title = "Ce soir mon amour", mbid = "6609a878-593e-4314-b5da-3c95808394e9" },
+  { n = 8, title = "Le Droit à la paresse", mbid = "e11bd5a8-ebe3-4e69-bb4e-c978005cc3fd" },
+  { n = 9, title = "Les amours finissent un jour", mbid = "c1a9b59e-16e8-4a35-b956-c2f4c0ffe0e5" },
+  { n = 10, title = "Lettre à Marianne", mbid = "74196548-6835-4215-b778-d17df6320753" },
+  { n = 11, title = "Je suis une guitare", mbid = "02367245-3138-4d60-9ff6-173af32267e8" },
+  { n = 12, title = "Chanson pour elle", mbid = "5e7fad3a-9fb6-42e7-a0ce-c9d79c282224" },
+  { n = 13, title = "Sans la nommer", mbid = "811a76cf-29c7-4e58-9bcc-efcb23a0c7d2" },
+  { n = 14, title = "Aphorismes", mbid = "cbba3876-8d27-400a-9e34-9b1546e66c14" },
+]
+
+[[release]]
+mbid = "d95bf73c-bcdf-49a6-b21c-f546f7010de4"
+title = "Moustaki"
+type = "album"
+date = "1975"
+tracks = [
+  { n = 1, title = "Humblement il est venu", mbid = "fd019e81-6c95-4692-935a-a3f4d0d87ef9" },
+  { n = 2, title = "Flamenco", mbid = "fdb2aa0f-e43a-4314-938c-29d7000e47d5" },
+  { n = 3, title = "La Philosophie Batucada", mbid = "13cd2322-5d96-43c1-9f5f-98d5f94135ea" },
+  { n = 4, title = "Le Tango de demain", mbid = "8f0e5768-1fa0-452b-9056-5ecb085070a7" },
+  { n = 5, title = "Pourquoi je chante", mbid = "eca6a451-24ef-405d-ad01-4380875222b0" },
+  { n = 6, title = "On est tous des pédés", mbid = "62756e9b-0ec0-4486-9f18-c47f3b3259a8" },
+  { n = 7, title = "Une petite chanson (pour Étienne)", mbid = "0424fca5-a3ed-487b-965a-b43b000826dc" },
+  { n = 8, title = "Ballade en fumée", mbid = "94c9fe0b-7584-44d3-874b-cff8393db57f" },
+  { n = 9, title = "Les Mille Routes", mbid = "04ea239b-bef7-4c68-9e82-e14f72023acd" },
+  { n = 10, title = "Humbly He Came", mbid = "2602d449-ba7c-4fd9-a55b-fe47591b3bf6" },
+]
+
+[[release]]
+mbid = "e20cd78c-bdfd-4360-84b5-feec2cd3a7f4"
+title = "Moustaki"
+type = "album"
+date = "1976"
+tracks = [
+  { n = 1, title = "Prélude", mbid = "a9147e35-c38c-4178-8dd6-199dc0dc0549" },
+  { n = 2, title = "Alexandrie", mbid = "7e6135a8-b3b7-4577-ad40-b98ad3dea7e2" },
+  { n = 3, title = "Faire cette chanson", mbid = "5b5fadda-c45a-4d65-8816-b4500b3d43d6" },
+  { n = 4, title = "Dame guitare", mbid = "9a1257fd-76af-45a7-87f2-e3554ae4447d" },
+  { n = 5, title = "Chanson cri", mbid = "76c350ad-15ff-42bf-b2ac-13f9f9524142" },
+  { n = 6, title = "La Mémoire", mbid = "5fde49ac-29fa-4178-85d0-391c9d91d795" },
+  { n = 7, title = "On l’appelle folie", mbid = "e98b70e3-a85a-42d8-8680-e9b61edd0532" },
+  { n = 8, title = "L’Amant du soleil et de la musique", mbid = "5ed69c31-163d-4de4-b99a-fcce7b294631" },
+  { n = 9, title = "Nous avons le temps", mbid = "423b29aa-162e-444b-a2bf-42625f2d475d" },
+  { n = 10, title = "Petite fable (Le Nymphettomane)", mbid = "805721f9-6c98-4632-abaa-a0b9b169f8ab" },
+  { n = 11, title = "Homme (Je te salue)", mbid = "62496315-10bc-4343-bf6d-30c605a92808" },
+]
+
+[[release]]
+mbid = "1e4420be-636f-45b2-84e7-aab7750f1bd7"
+title = "Moustaki"
+type = "album"
+date = "1977"
+tracks = [
+  { n = 1, title = "Espérance (Nos enfants)", mbid = "7a07740d-0440-4f3f-a5fc-27f8b6e3d80e" },
+  { n = 2, title = "Il y a quelque part", mbid = "a2740b35-b121-45b6-9816-a3a8ce1c681f" },
+  { n = 3, title = "Blue‐jean blues", mbid = "a9581b5f-db89-473f-b1c2-e05924f90fc0" },
+  { n = 4, title = "Tu n’as plus l’air d’une enfant", mbid = "0b161f48-0b8b-4282-a513-ca4257cbe3c5" },
+  { n = 5, title = "Rock’n roll raté", mbid = "4b552055-67c6-4a78-b2be-82f4449042cc" },
+  { n = 6, title = "Bahia", mbid = "6c80be4f-36ae-4f3e-b9f4-9a090d3037f6" },
+  { n = 7, title = "Mam’zelle Gibson", mbid = "cb98185e-ee76-48ef-bfcb-a4d64b90ae43" },
+  { n = 8, title = "Adolescence", mbid = "f975287d-7d8b-4e31-86bd-22ba2a59a0bc" },
+  { n = 9, title = "Chanter tout haut", mbid = "0f7ba516-9ef6-4ddd-bef0-bc9c5b3dac4b" },
+  { n = 10, title = "Si ce jour‐là…", mbid = "1e5f8690-b9f2-4817-aa98-e44f3be1ea47" },
+  { n = 11, title = "Calix Bento", mbid = "7f6e3789-28e5-42b0-b4f4-2f78dc9348be" },
+  { n = 12, title = "Piano Player", mbid = "34063fe6-b70a-4dbf-9f07-282c8d342565" },
+]
+
+[[release]]
+mbid = "dcfcb6cf-64ba-4a07-8d70-bb264705dc90"
+title = "Georges Moustaki"
+type = "album"
+date = "1979"
+tracks = [
+  { n = 1, title = "Si je pouvais t’aider", mbid = "93a4faee-9db3-4adb-bf09-87d05062221e" },
+  { n = 2, title = "Je ne t’avais pas promis", mbid = "0c71501d-be07-423b-982b-9deb2199811f" },
+  { n = 3, title = "Elle est elle I", mbid = "dbbdd3b3-515b-493f-ad27-527fd1fed399" },
+  { n = 4, title = "La Seine, la cène, la scène", mbid = "7a5807e7-6130-439b-a189-a0ce0a4ea65d" },
+  { n = 5, title = "Filles d’Ève", mbid = "092369f2-1f11-44f2-9cff-ac7c5181fcb1" },
+  { n = 6, title = "Le Petit Homme et le grand homme", mbid = "cfc63c4a-5a26-4b9e-94a3-0cfa92b69c7a" },
+  { n = 7, title = "Kim (instrumental)", mbid = "c88238c8-fb8f-4f25-aa44-dfe3b515e076" },
+  { n = 8, title = "Elle est elle II", mbid = "ae0245be-1fb7-4167-9764-fa8506d1b725" },
+  { n = 9, title = "Les Faiseurs de pluie", mbid = "5b6cb8ad-f31d-4caf-8b55-a91fffef314a" },
+  { n = 10, title = "La Paresse", mbid = "7ff39ef2-d404-4527-b43f-27e06025293c" },
+  { n = 11, title = "Herbe folle", mbid = "60b859af-ac35-4e6a-b456-b12fc57bd076" },
+  { n = 12, title = "L’Éternel Débutant", mbid = "7a74c17a-7edf-4723-9035-d51b7d2d194d" },
+  { n = 13, title = "Le Vieil Homme et la mort", mbid = "80f49aa3-0013-4c4d-8851-0c921139b4ed" },
+  { n = 14, title = "Marta (instrumental)", mbid = "ff7cf675-2a67-4141-8874-f5123282f1bd" },
+]
+
+[[release]]
+mbid = "d5189a7d-2d35-45c9-b881-ca60e8c6d125"
+title = "Moustaki"
+type = "album"
+date = "1979"
+tracks = [
+  { n = 1, title = "Et pourtant dans le monde", mbid = "37f33e75-45ef-4725-b01d-24af078ba49b" },
+  { n = 2, title = "Je réussis ce que je rate", mbid = "607f3e31-0413-4736-a604-474f558734be" },
+  { n = 3, title = "Elle appelle au secours", mbid = "3a041513-c039-47d9-8cc2-74e67f37bde4" },
+  { n = 4, title = "My Heart Is There", mbid = "3b1c429c-fcf2-4cc7-b830-06a446339663" },
+  { n = 5, title = "Dis, l'étranger", mbid = "1aed4959-de21-478b-8112-cbf44cf1f64a" },
+  { n = 6, title = "Fugue en la mineure", mbid = "76110dfa-8c49-41c0-be87-18ad94f89efa" },
+  { n = 7, title = "Nostalgie du tiers monde", mbid = "4e132b3c-fb7c-46c4-af9e-2823e470f2cb" },
+  { n = 8, title = "L'île habitée", mbid = "a52d8f40-2eb7-47ff-ae75-d341b7bb2bb4" },
+  { n = 9, title = "Elle est partie", mbid = "f578eedd-e19f-4e41-b1ad-ae8ea9395eb6" },
+  { n = 10, title = "Reprends ta vieille guitare", mbid = "b72b8263-af59-4243-bda3-44b93ce0774d" },
+  { n = 11, title = "Appendice : Soyez bons pour le poète", mbid = "fdf71406-fb10-4371-b8dc-769f7bc1dc3e" },
+]
+
+[[release]]
+mbid = "d2d95a10-0d1a-45c1-94a6-ad00d60434d5"
+title = "Moustaki"
+type = "album"
+date = "1981"
+tracks = [
+  { n = 1, title = "C’est là", mbid = "608bce81-8bda-413a-875d-24f7a7eeef42" },
+  { n = 2, title = "Si elle entendait ça", mbid = "8a90d6cc-9876-4f9e-892e-8969e0ad7756" },
+  { n = 3, title = "La Vieillesse", mbid = "fe8a371b-7568-4ea6-b4d8-2e460f15eac8" },
+  { n = 4, title = "Je ne suis qu'un lézard", mbid = "6b29dd18-b9a8-46a1-98cf-d55452326c73" },
+  { n = 5, title = "Heureusement qu'il y a de l'herbe", mbid = "e154f2cb-7b89-47f7-a169-08a96c8fc749" },
+  { n = 6, title = "Balancé (J'sais pas danser)", mbid = "51d2f683-bafb-4ed4-b915-80203fb7fddb" },
+  { n = 7, title = "Bye Bye Bahia", mbid = "893b5c59-ff8b-41f5-a06a-e6384d2afa1f" },
+  { n = 8, title = "If You Hold a Stone (Marinheiro Só)", mbid = "4faab7d2-9c0e-422d-8945-c5062ecd808c" },
+  { n = 9, title = "Chante ta nostalgie", mbid = "ec77de0f-ab69-4637-b456-2cb0f3804ddf" },
+  { n = 10, title = "J'improvise", mbid = "70752bc2-7b12-43d4-b9a0-922e690566c2" },
+]
+
+[[release]]
+mbid = "1a7a92a0-a16c-39f9-a244-55f161cd6f7d"
+title = "Moustaki & Flairck"
+type = "album"
+date = "1982"
+tracks = [
+  { n = 1, title = "Chansons", mbid = "c0c2d519-5e26-47cf-9473-cee070338fd0" },
+  { n = 2, title = "La Route", mbid = "80c8775b-9823-41e0-9aba-07fde76965c4" },
+  { n = 3, title = "Ma nouvelle aventure", mbid = "609c46e1-4f12-4f3a-962b-25e8fff8907f" },
+  { n = 4, title = "Blessure", mbid = "3a2d19a2-a08f-40fc-b296-8753aa1c7fd4" },
+  { n = 5, title = "On est les musiciens", mbid = "af68349c-f26f-4251-9158-20e7794f1654" },
+  { n = 6, title = "L’Amour en passant", mbid = "02275384-2afc-4773-9617-9d26a0fa028e" },
+  { n = 7, title = "Pêcheur", mbid = "4afa3f72-7750-481e-8e08-54838f70022a" },
+  { n = 8, title = "Matin", mbid = "66c5d65e-c7c6-4991-9b0e-f6a5c2e1a6c4" },
+]
+
+[[release]]
+mbid = "629ba8c8-252e-4c39-96a3-849e23a58075"
+title = "Espace et Temps"
+type = "album"
+date = "1984"
+tracks = [
+  { n = 1, title = "Pornographie", mbid = "24c688cf-b7bf-4224-a0b0-5287bc85cad1" },
+  { n = 2, title = "L'Ambassadeur", mbid = "2813de6f-5333-4a76-b1a6-a0c2b114e56c" },
+  { n = 3, title = "Sanfoneiro", mbid = "d1c1a770-b061-421b-a5a6-d91c99e56e24" },
+  { n = 4, title = "Si cet amour", mbid = "9f70e161-4803-4f22-8450-2376a3ddb646" },
+  { n = 5, title = "Pour un ami", mbid = "ff423e22-4d9b-4ce9-8038-eb123b79d022" },
+  { n = 6, title = "Lazy Blues", mbid = "efe3f6be-609d-4df0-88f4-a9a0f68dd7d7" },
+  { n = 7, title = "L'Aède", mbid = "9d446fd6-4c4b-48da-bda3-710664d8b29a" },
+  { n = 8, title = "Dans la maison où je suis né", mbid = "cf4cf547-9b0a-4a67-83f7-910c5d41b7df" },
+  { n = 9, title = "En regardant ton corps", mbid = "ba99f993-550f-4400-9f38-725dcd123db1" },
+  { n = 10, title = "L'Instrument de malheur", mbid = "694d01d1-30a8-41cb-970d-07de5ca9a3e1" },
+  { n = 11, title = "Femmes - Fleurs - Fruits", mbid = "44fb3ee9-9e72-44da-b7b3-637a953569ec" },
+  { n = 12, title = "Pau de Chuva", mbid = "7e8480cd-df7a-4657-a9c7-bec29d85d1f6" },
+]
+
+[[release]]
+mbid = "561972e0-c1cb-4c4e-b1d9-09aa49e30ab6"
+title = "Moustaki"
+type = "album"
+date = "1986"
+tracks = [
+  { n = 1, title = "Joujou", mbid = "dfea29cf-1748-4ed0-aa2d-b649e314f346" },
+  { n = 2, title = "Nous voulions", mbid = "4f1465a2-b12e-416a-989e-685aee85c059" },
+  { n = 3, title = "Mon corps", mbid = "4db9fa0e-da5d-4cd9-86a8-01f9d2ac0422" },
+  { n = 4, title = "Haïti chérie", mbid = "5a9c10ac-03b1-467d-8b45-05a9198a77c5" },
+  { n = 5, title = "Un jour tu es parti", mbid = "39d8cc1c-e3e2-4863-b0e1-ad408bbdd8be" },
+  { n = 6, title = "Une cousine", mbid = "c1c53ca1-9969-45c0-93c1-63887226e2e9" },
+  { n = 7, title = "Venez danser", mbid = "30077cd8-7fff-4e07-8b74-02df7e828eed" },
+  { n = 8, title = "L’Espagne au cœur", mbid = "11d47aff-d014-4082-9cc5-0fbef212449b" },
+  { n = 9, title = "Idée folle", mbid = "4e23c99d-2fbc-4599-bead-6505e5059b69" },
+  { n = 10, title = "L’Amour à la musique", mbid = "7344a259-1dbd-457b-8b67-6d336ec25be3" },
+]
+
+[[release]]
+mbid = "041a197c-413e-3370-8a61-133977186358"
+title = "Méditerranéen"
+type = "album"
+date = "1992"
+tracks = [
+  { n = 1, title = "Faut-il avoir", mbid = "7fb06d9d-46fd-43fe-b60c-adf288c021ce" },
+  { n = 2, title = "Je passe", mbid = "37f4e45b-acc6-4be6-b0af-a82319706282" },
+  { n = 3, title = "Pecheur", mbid = "f068d92a-e5ef-4275-a0b7-2ef4dda0ea10" },
+  { n = 4, title = "Méditerranéen", mbid = "2b6d4e4d-9b8a-4514-a9f6-00dd15c2e508" },
+  { n = 5, title = "Rêver", mbid = "cbb754d3-54e6-4db7-a4be-ec1c100297a6" },
+  { n = 6, title = "Nini", mbid = "927d1a4d-5707-42e6-a8b4-29c062be1ce5" },
+  { n = 7, title = "Boucle d'oreille", mbid = "bc649d0e-4a4f-4995-9543-020be7f119a7" },
+  { n = 8, title = "Mes compagnons d'hier", mbid = "bc09cdbf-5d4f-4e01-aad4-d534d507aefb" },
+  { n = 9, title = "Demain", mbid = "437bc46c-753a-4dca-a6b2-e897c058e6c7" },
+  { n = 10, title = "La Chanson de Jérome", mbid = "3df093ba-e3bf-4f9f-b7e4-c232445f79f7" },
+]
+
+[[release]]
+mbid = "c12c6f2d-9f81-45fd-8bfd-652ea02a83c7"
+title = "Tout reste à dire"
+type = "album"
+date = "1996"
+tracks = [
+  { n = 1, title = "Chaque instant est toute une vie", mbid = "d96157d3-d826-4182-9f98-4d0083747d37" },
+  { n = 2, title = "Des mots démodés", mbid = "5295b04c-2a84-4680-a5a0-dd74a7aece66" },
+  { n = 3, title = "Tout reste à dire", mbid = "02558538-0841-4bc3-9f29-4787ed172e50" },
+  { n = 4, title = "La Ruelle", mbid = "68ebb193-97b3-43cb-8977-2edca6350fdd" },
+  { n = 5, title = "Les Lointains Autrefois", mbid = "b508796f-a000-4a79-9d56-89c4a627b720" },
+  { n = 6, title = "Gentle Jack", mbid = "7a36f2e2-f273-4b84-ba87-b63d25625876" },
+  { n = 7, title = "Chanson du mois de juin", mbid = "9d3683ab-9147-4812-a3d2-de1a4d2cad20" },
+  { n = 8, title = "Ave Maria No Morro", mbid = "689b77f6-fc00-435e-87b4-768d5d3c1c72" },
+  { n = 9, title = "Loup blanc", mbid = "5b2e266a-d9ff-47b3-bc54-0f9f45cf10af" },
+  { n = 10, title = "Demande de réparations pour dommages de guerre", mbid = "1ee4f952-d929-4c3d-95b6-e0b8ee4b84c8" },
+  { n = 11, title = "Il faut voyager", mbid = "e596b660-67ed-4281-be46-10e34ef8f177" },
+  { n = 12, title = "L'Acteur", mbid = "e11a817c-8216-454c-9639-43500d527c30" },
+  { n = 13, title = "As-tu brisé un coeur ?", mbid = "5300f6e7-4660-483d-83d8-0a32229b36da" },
+]
+
+[[release]]
+mbid = "5849b27f-9e9c-39e8-ab66-9059d51e5729"
+title = "Moustaki"
+type = "album"
+date = "2003-11-23"
+tracks = [
+  { n = 1, title = "Odéon", mbid = "87c8f06e-4c2a-4469-9401-d73feb024ea0" },
+  { n = 2, title = "Le Promeneur", mbid = "cbd1c5e7-fd15-4e27-bff9-6c362bbd8762" },
+  { n = 3, title = "Emma", mbid = "eca52590-0680-470f-91ea-e298c6fe4c26" },
+  { n = 4, title = "Petit Testament", mbid = "36d18ad6-3d4a-44c5-b35c-7bf0970fea10" },
+  { n = 5, title = "Le Repenti", mbid = "05b1f99d-c624-4f92-bebb-50e65d9067dd" },
+  { n = 6, title = "Gardez vos rêves", mbid = "88cbfa64-2ff7-4d8a-86d8-670988dd66de" },
+  { n = 7, title = "L’Amant de secours", mbid = "494fa882-06d3-442d-9731-a358cb8d4a16" },
+  { n = 8, title = "Petite Âme sœur", mbid = "0b79d8cb-62fa-48f6-b83c-10950d605b1f" },
+  { n = 9, title = "Quand j’étais un voyou", mbid = "b2111845-0572-41d6-a99b-43bac5213d0c" },
+  { n = 10, title = "Ephémère Éternité", mbid = "becefeae-939d-43f6-af4d-e09441254bd1" },
+  { n = 11, title = "Je m’en irai (un jour peut‐être)", mbid = "70d49a9a-c5ab-42c2-88d7-66b97d67e2ca" },
+  { n = 12, title = "Paris a le cœur tendre", mbid = "9bf8cd1a-4537-487f-8264-7176324800d3" },
+]
+
+[[release]]
+mbid = "2668861a-9182-3048-ba3a-31a7c2ca6095"
+title = "Vagabond"
+type = "album"
+date = "2005-09-26"
+tracks = [
+  { n = 1, title = "J’aimerais la vie", mbid = "c00a0c5f-6c7f-4be3-9459-78fe2b55af66" },
+  { n = 2, title = "Tom", mbid = "904e0750-a0f7-4805-b508-ec64fe09cd35" },
+  { n = 3, title = "Les Mères juives", mbid = "a96d3e9f-6ca8-4489-82a3-5119252172e3" },
+  { n = 4, title = "Femme ronde", mbid = "f6894f54-091d-4e6e-b8a0-8da6143776b4" },
+  { n = 5, title = "Cet amour d’été", mbid = "09b45f08-d02a-4d43-8429-848b5964edc6" },
+  { n = 6, title = "Vagabond", mbid = "35052034-f95d-4bba-83ff-5555a2dfcecd" },
+  { n = 7, title = "Le Soldat", mbid = "8c062993-cce7-4f80-836b-2acec2531c65" },
+  { n = 8, title = "J’ai grand faiblesse pour les femmes", mbid = "bec17319-2a7b-4300-a41d-4c3debb575aa" },
+  { n = 9, title = "Bahia", mbid = "b1db22c9-dd44-43b3-bfc4-8a7ff61ce33b" },
+  { n = 10, title = "Amoureuse", mbid = "73b7b0f1-7949-458b-a001-d89e00e50207" },
+  { n = 11, title = "Les Eaux de mars", mbid = "d90c7963-dcad-47c1-9eb7-3638705c0d4d" },
+]
+
+[[release]]
+mbid = "2d898f34-e17d-4ccf-aea0-2117aefb63be"
+title = "Solitaire"
+type = "album"
+date = "2008-05-05"
+tracks = [
+  { n = 1, title = "Le Temps de nos guitares", mbid = "65b74c22-96d3-4ba5-9bc9-aa55c707db11" },
+  { n = 2, title = "Sorelilina", mbid = "823c5c90-fea4-4591-9598-37bc4f72f4aa" },
+  { n = 3, title = "Une fille à bicyclette", mbid = "c86af0df-7479-442f-aadf-7426c7e58b7e" },
+  { n = 4, title = "Mélanie faisait l’amour", mbid = "3510ebbd-69b8-4f98-baac-84d93939d9a2" },
+  { n = 5, title = "Partager les restes", mbid = "a356d94a-d200-4309-a3fb-26c8edbc1c2e" },
+  { n = 6, title = "La Jeune Fille", mbid = "469ceb86-b5f7-4e88-8e8a-ee5e948df3ab" },
+  { n = 7, title = "Ma solitude", mbid = "d9a54948-71cf-4207-87d0-843e2ef7d059" },
+  { n = 8, title = "L’Inconsolable", mbid = "be3fe5d4-2b59-469d-aeb6-5ac4da354e61" },
+  { n = 9, title = "Sans la nommer", mbid = "dbf0c386-18f6-4d42-8660-db91dd8e9ea4" },
+  { n = 10, title = "La Chanson de Jaume", mbid = "1ce755df-2658-4b90-b3be-7c4ab20f90fb" },
+  { n = 11, title = "Solitaire", mbid = "56a6bba1-42c8-434c-b846-3c721ede4e1b" },
+  { n = 12, title = "Donne du rhum à ton homme", mbid = "05a863df-804c-4bc3-a18b-ce8aac55505a" },
+]
