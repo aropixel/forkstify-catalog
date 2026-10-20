@@ -1,0 +1,205 @@
+format = 1
+
+[[release]]
+mbid = "19f3b7aa-472e-330b-9f50-7d8ef4b0f713"
+title = "Badaboum"
+type = "album"
+date = "2003"
+tracks = [
+  { n = 1, title = "Badaboum", mbid = "0972f94b-825f-4f7e-b880-edc8eb059ef3" },
+  { n = 2, title = "Je cours", mbid = "aaefc0dc-16f3-4746-bcbb-0fdf9ad1a38c" },
+  { n = 3, title = "Le Manneken Pis", mbid = "81f7610f-e751-474f-9113-7d49862e431a" },
+  { n = 4, title = "Mauvais Ouvrier", mbid = "85ab0859-6fa7-4551-8b47-683cbfa89383" },
+  { n = 5, title = "L’Averse", mbid = "a201316f-7594-45de-b5b8-f7a1f460d689" },
+  { n = 6, title = "Intermède de qualité", mbid = "e3b66e60-9bc2-4feb-90be-5635e151bbd4" },
+  { n = 7, title = "Côté Punk", mbid = "d9cf3726-b99e-4e42-865a-16d5741fc54e" },
+  { n = 8, title = "Aux étoiles", mbid = "8e62b796-917a-4d5f-b5c7-c7fcb2b4da76" },
+  { n = 9, title = "Deux mains", mbid = "7d322fe2-8041-4faf-a82c-6cd8507853bb" },
+  { n = 10, title = "Capitaine de Marie-Salope", mbid = "30eb6f39-0805-42ce-b178-82f6f0f2baf8" },
+  { n = 11, title = "À l’attaque", mbid = "193df30f-0d12-47d9-b7b8-ae91185d4eb6" },
+  { n = 12, title = "Majid", mbid = "b0348013-b433-4a73-ad40-4187cf519efe" },
+  { n = 13, title = "À travers temps", mbid = "1438abb2-0d94-4fa9-8a7c-934170223803" },
+  { n = 14, title = "Je renais", mbid = "599abb48-7c9e-4626-a0c6-757f56515d6a" },
+]
+
+[[release]]
+mbid = "b43e9b79-f2c0-3c82-936a-61dca6337f1b"
+title = "Tout est calme"
+type = "album"
+date = "2006-11-06"
+tracks = [
+  { n = 1, title = "Tout est calme", mbid = "3ebf17fe-1305-4b51-8a38-0e2806c2a60d" },
+  { n = 2, title = "Bréhal", mbid = "dda3d935-b8bd-4258-9b6a-1e7f3560ef52" },
+  { n = 3, title = "Bientôt", mbid = "377ae9f6-5ef8-4130-b3b4-7c41985bb54c" },
+  { n = 4, title = "La Hache", mbid = "1a37133f-5293-41a8-b4ab-96402aee0f91" },
+  { n = 5, title = "NNY", mbid = "217b70fe-9c1e-461c-90b7-8921ea52bc37" },
+  { n = 6, title = "Pierrot", mbid = "1b27d231-a408-46f3-8cea-9dc3bfbf95f3" },
+  { n = 7, title = "Mais non", mbid = "6494080a-31bb-4441-a09c-5c50feea663e" },
+  { n = 8, title = "La Berceuse", mbid = "bd449b3a-fbf9-4219-b69b-95fbae604c97" },
+  { n = 9, title = "Jour de lessive", mbid = "693f8299-8e8a-48c9-af24-bd0c49310b4c" },
+  { n = 10, title = "Cosmonaute", mbid = "d1574c3b-a5b6-47f1-a972-e21c7c8f7771" },
+  { n = 11, title = "Quand les cigares", mbid = "db6133b9-808b-480b-b4b7-4af6a0cb2840" },
+  { n = 12, title = "Chacun sa tronçonneuse", mbid = "a842598c-7540-43b6-a72b-f57d24e84a61" },
+  { n = 13, title = "Ta tête au carré", mbid = "6bb8e6c3-9457-482a-930f-febbd03f4776" },
+  { n = 14, title = "Mélody Monfort", mbid = "20c0caac-a5f0-473d-90dc-8a9704b69ec7" },
+  { n = 15, title = "La Nouvelle", mbid = "cb6e405c-865e-4412-930e-eaab18cd5169" },
+]
+
+[[release]]
+mbid = "084dec76-9086-3d57-82f8-a884fdd09087"
+title = "À l'attaque"
+type = "album"
+date = "2008-11-03"
+tracks = [
+  { n = 1, title = "Manneken Pis I", mbid = "4d96bc9a-dbb3-45df-a94e-176a26577427" },
+  { n = 2, title = "Aux étoiles", mbid = "12e10b43-2447-4bea-9992-32ac1123de15" },
+  { n = 3, title = "Bientôt", mbid = "36543982-aa7d-452f-80f4-1894eb985b48" },
+  { n = 4, title = "Mauvais ouvrier", mbid = "f518364a-d404-45a9-9202-3f78e5452bef" },
+  { n = 5, title = "Tout est calme", mbid = "6ac53caa-2693-4ef4-a7dc-f1a0f3ab390a" },
+  { n = 6, title = "À l'attaque", mbid = "548acf5c-900e-4231-91e2-d31174be706a" },
+  { n = 7, title = "Je renais", mbid = "4fda16be-158a-4f1e-abff-461773f71520" },
+  { n = 8, title = "Cosmonaute", mbid = "ef8e3bca-e7f9-467e-b94e-585de76fe174" },
+  { n = 9, title = "Quand les cigares", mbid = "fea94a4c-4f4e-4f3a-b53b-da3eb77c6b50" },
+  { n = 10, title = "Manneken Pis II", mbid = "57ae24c2-317e-4e76-9f02-fbcd282d3da5" },
+  { n = 11, title = "Pierrot", mbid = "c39b0600-b000-42d2-86de-2d9fb82de38c" },
+  { n = 12, title = "Badaboum", mbid = "09a92833-3562-43c5-88fb-d11f8fe47a41" },
+  { n = 13, title = "La Berceuse", mbid = "27fbc21d-e7d7-45f0-8a08-d491c6129146" },
+  { n = 14, title = "Jour de lessive", mbid = "826bdfef-f12a-437a-8b37-fdbc8bdb3e73" },
+  { n = 15, title = "Je cours", mbid = "7fa7b0c8-1cb9-4d95-a4cd-660bf1a84e41" },
+  { n = 16, title = "NNY", mbid = "53e23cf5-3653-4acc-b4cf-f00e7ac253b6" },
+  { n = 17, title = "La Hache", mbid = "416630f1-c086-48d5-b8ec-6295bf78aa54" },
+  { n = 18, title = "Manneken Pis III", mbid = "407ea5c5-2cd9-49e9-8181-f36e392b76b5" },
+  { n = 19, title = "Brehal", mbid = "9d5ead68-8eba-41ee-83a1-1c554dbac3c0" },
+  { n = 20, title = "Melody Monfort", mbid = "b4ff76cc-cfd9-43e3-ad9b-5795a5600d17" },
+  { n = 21, title = "La Nouvelle", mbid = "70cab5ba-00ee-4377-add0-858c1aa465a7" },
+]
+
+[[release]]
+mbid = "2cdcdab6-0db7-4d19-aa31-8df0c531d233"
+title = "Ronchonchon et Compagnie"
+type = "album"
+date = "2010-10-27"
+tracks = [
+  { n = 1, title = "Le Bourg de la Grogniardière", mbid = "903ea3ac-82d3-4427-bb87-479bdbce21d3" },
+  { n = 2, title = "La Maison Ronchonchon", mbid = "b77f0576-0e43-4c83-a60b-779439781c0b" },
+  { n = 3, title = "L'Apiculteur", mbid = "b57b410a-a4c2-410c-ba12-5fc9e3eba633" },
+  { n = 4, title = "Abélard", mbid = "4c62fee3-bf59-4451-8360-c16f95fc85d0" },
+  { n = 5, title = "Les Avions", mbid = "e836346e-1efc-45fd-8187-8a70e935b375" },
+  { n = 6, title = "Les Nerfs d'un pilote", mbid = "0251798c-93d4-41c4-b685-602d268990e7" },
+  { n = 7, title = "La Trahison", mbid = "28ba12b6-4960-4aed-9e7f-988ab237d00c" },
+  { n = 8, title = "La Désillusion de Marie-Pierre", mbid = "8746f882-0237-469d-ae61-775a31c50cbc" },
+  { n = 9, title = "Une grande lumière", mbid = "21c6f718-0bab-495e-ab83-fab27f4560c5" },
+  { n = 10, title = "La Maison qui descend du ciel", mbid = "d63736eb-c9e3-43ae-808d-dc672e1fa377" },
+  { n = 11, title = "L'Arrivée de la famille Fonky", mbid = "b8c5ba65-8432-4f1c-8a86-acbd1b326e9b" },
+  { n = 12, title = "La Famille Fonky", mbid = "41b9dd70-eef8-4e45-8438-ec0cb31b5b2d" },
+  { n = 13, title = "Qui sont les Fonky ?", mbid = "e5b97491-5c85-4241-86ea-c0cae7da5f2b" },
+  { n = 14, title = "La Rumeur", mbid = "3e9127cb-a5bc-4c5e-8096-fe16bb73afbe" },
+  { n = 15, title = "La Rencontre", mbid = "abf0d264-e579-4adf-ab61-be895ca5a267" },
+  { n = 16, title = "L'Invitation", mbid = "e19c862e-90c1-4b95-a3d2-8395d879facc" },
+  { n = 17, title = "Le Tour en maison volante", mbid = "0ba5242c-6378-44ee-a992-b1b1e7adeeea" },
+  { n = 18, title = "Un crash d'ULM", mbid = "4cd5d963-dd7c-44c9-9ec7-fa9b70dd2a1e" },
+  { n = 19, title = "Le Retour de Marie-Pierre", mbid = "389567d5-f41b-4657-81f8-b91763b5cec1" },
+  { n = 20, title = "Quelque chose de bizarre", mbid = "ba493a02-0fff-4e63-8aaf-cfd5fa4ed76a" },
+  { n = 21, title = "La Fête au village", mbid = "e5264b8b-71cb-4101-b1bd-28ab76c5db57" },
+  { n = 22, title = "Le Départ", mbid = "8e8503dd-1396-4cde-b9ff-e706acd2c6ee" },
+  { n = 23, title = "Tout a changé", mbid = "d068a6af-3d4a-4f95-923e-65d17933e9ee" },
+]
+
+[[release]]
+mbid = "f599c615-5fb4-4ec2-aed1-fc8e63a0dcab"
+title = "Je ferme"
+type = "single"
+date = "2013-02-25"
+tracks = [
+  { n = 1, title = "Je ferme (radio edit)", mbid = "ce8a06b5-1e6d-4f6a-bbf1-baab63d614e0" },
+]
+
+[[release]]
+mbid = "3b2a8ae7-11c7-4357-a362-fe38f63185b5"
+title = "J'ai changé"
+type = "album"
+date = "2013-04-02"
+tracks = [
+  { n = 1, title = "Je ferme", mbid = "379cd347-7a8d-4152-91d8-dce49dbb9ad2" },
+  { n = 2, title = "Le Grand Matin", mbid = "543ade91-2450-40e7-8d08-d1dae5af06f5" },
+  { n = 3, title = "C'est toi qui moi", mbid = "39df73ef-b584-4e8b-bff6-15cf24d050a8" },
+  { n = 4, title = "J'ai changé", mbid = "8711fa74-6ee3-44dc-bd2d-b9ccc41d8c61" },
+  { n = 5, title = "Au bord de la falaise", mbid = "67aeed12-7aeb-4465-84ac-f71f23f826a9" },
+  { n = 6, title = "Même pas honte", mbid = "059bb7d0-29e3-474c-bf0c-90c4d3070227" },
+  { n = 7, title = "Ne bouge pas", mbid = "c0c64e25-80e9-4ffe-81c8-fa484288c5ac" },
+  { n = 8, title = "Funambule", mbid = "bb454641-a3de-4aec-bb6b-6dee97f5712a" },
+  { n = 9, title = "Un rude chameau", mbid = "fc96a088-8fbf-4ba8-b535-16ddbb7b544f" },
+  { n = 10, title = "Olympe", mbid = "0f071ba5-5c42-4604-8381-aee0dd115c65" },
+  { n = 11, title = "Lui", mbid = "70ecdd45-313a-4713-b7ae-c6f8071246f2" },
+  { n = 12, title = "La Grande Route", mbid = "dff739e6-ec3b-4510-aefb-865030a6a6e8" },
+]
+
+[[release]]
+mbid = "1dbb2f2d-303f-4a33-b27a-7b0b9f5f2292"
+title = "Nous"
+type = "album"
+date = "2017-10-20"
+tracks = [
+  { disc = 1, n = 1, title = "Ça sert à quoi ?", mbid = "3a80e2b6-a403-49b3-a8db-8cbf6c83a95e" },
+  { disc = 1, n = 2, title = "Ça m’ira", mbid = "737920fe-45e4-43db-918f-fb6698c9e1ba" },
+  { disc = 1, n = 3, title = "C’est pour ça", mbid = "86836fd3-3f28-4468-a1d5-bc8123189869" },
+  { disc = 1, n = 4, title = "Le Cheveu Blanc", mbid = "00404b48-f8ea-4a32-9634-fa4bab089f62" },
+  { disc = 1, n = 5, title = "Ne te méfie pas", mbid = "f637ccc9-b60a-44e9-a241-40a4b2122fc9" },
+  { disc = 1, n = 6, title = "Saint Claude", mbid = "7da498eb-1579-494c-b9f0-9ae66632849c" },
+  { disc = 1, n = 7, title = "Poison d’avril", mbid = "53869caf-5b4c-424d-ba7a-a142fde79c30" },
+  { disc = 1, n = 8, title = "Toubitoine", mbid = "07e92e46-1e37-4b57-b3e8-16a482ec340a" },
+  { disc = 1, n = 9, title = "Décalé tout le temps", mbid = "3ebfa65b-73ed-49ce-a96c-86a391706660" },
+  { disc = 1, n = 10, title = "Un hommage", mbid = "1fda7f68-8dfa-4016-8070-7d146a17ba9d" },
+  { disc = 1, n = 11, title = "Eu’l soleil", mbid = "f5765039-130b-438a-8b48-a83f91cb50e4" },
+  { disc = 1, n = 12, title = "Tu me vieux ?", mbid = "d4930ff2-3c7b-4595-a2e9-e3b8826454c9" },
+  { disc = 1, n = 13, title = "L’Eau thermale", mbid = "9ad1b085-fa96-4b2e-8527-95ff13c10ee6" },
+  { disc = 2, n = 1, title = "Le Grand Matin", mbid = "3a405468-1488-4e18-b56e-80ee4816eedf" },
+  { disc = 2, n = 2, title = "L’Averse", mbid = "d42c7bb6-822a-4f60-9266-dc6edb56c567" },
+  { disc = 2, n = 3, title = "Pierrot", mbid = "e95a6be6-ba6d-465c-ba4a-22652011d0a9" },
+  { disc = 2, n = 4, title = "Je cours", mbid = "8032b065-0f0d-4576-978e-531c5e9bcda9" },
+  { disc = 2, n = 5, title = "Ne bouge pas", mbid = "ba55a96d-5f9c-4ba6-a0c5-9f3e7ec53833" },
+  { disc = 2, n = 6, title = "Cosmonaute", mbid = "c8d1b44e-00be-466a-b8b7-e6a4621ded57" },
+  { disc = 2, n = 7, title = "Ta tête au carré", mbid = "ae47346a-4dab-454b-8252-0f82eb493490" },
+  { disc = 2, n = 8, title = "Tout est calme", mbid = "d19729ee-23e3-4710-afd7-1a72d93c5f1a" },
+  { disc = 2, n = 9, title = "Mauvais ouvrier", mbid = "86baa2ff-6c05-42ac-85bb-5110954d2e98" },
+  { disc = 2, n = 10, title = "J’ai chanté aux étoiles", mbid = "51cacd98-83eb-47eb-86d5-95f80f0730bc" },
+  { disc = 2, n = 11, title = "NNY", mbid = "e4089fad-4a5a-4e9e-9972-a02625c651d3" },
+  { disc = 2, n = 12, title = "La Nouvelle", mbid = "b89c209a-2c16-4c9b-a4e1-1a0273122775" },
+]
+
+[[release]]
+mbid = "bdcb53d6-731e-4d5b-8839-dc0a7b0f5230"
+title = "Fiers et tremblants"
+type = "album"
+date = "2021"
+spotify = "3Xdnu6hbq1wTOlfc6pcaHj"
+tracks = [
+  { n = 1, title = "Fiers et tremblants", mbid = "059451da-f136-4451-a442-d7e123d2f4af" },
+  { n = 2, title = "Mélopée", mbid = "610cf49e-7280-45a1-8790-0ca720f7a0a2" },
+  { n = 3, title = "Les fauves", mbid = "11ebd251-f10b-456a-bd9c-d12d558e53b4" },
+  { n = 4, title = "Le visage du clan", mbid = "5914db76-b7e4-4b29-aea2-569450e40d7d" },
+  { n = 5, title = "Les gens qui doutent", mbid = "4683cd6f-fa44-416a-a44c-8b3b438a185d" },
+  { n = 6, title = "Fantaisie", mbid = "4a095f5f-b40a-4787-8c90-7167abfe0c66" },
+  { n = 7, title = "Supernova", mbid = "7725d606-4159-48f9-a5ce-b36aaebf3b79" },
+  { n = 8, title = "Gloire aux perdants", mbid = "33d8e59f-4494-40bd-8bc6-4b686ba534ee" },
+  { n = 9, title = "Dernier vers", mbid = "03a0bd88-9d06-4fa8-9983-19b16361da6b" },
+]
+
+[[release]]
+mbid = "dd245f94-dc86-4482-bdea-b92080982a8f"
+title = "Portraits crachés"
+type = "album"
+date = "2026-01-30"
+tracks = [
+  { n = 1, title = "Franck", mbid = "238e5af6-cc87-4c2d-8182-192a160bad4a" },
+  { n = 2, title = "Bintou", mbid = "ec598e01-ff5e-4579-ae56-9f5f13d4caaa" },
+  { n = 3, title = "Rebecca", mbid = "1a60be1c-2747-4f99-95cf-699e5f419226" },
+  { n = 4, title = "Sophie", mbid = "951c4fd3-94b4-4810-b145-0ae2bff3ee5d" },
+  { n = 5, title = "Yacine", mbid = "7ac04af0-3c01-4551-b384-3fa4da2784f9" },
+  { n = 6, title = "Dylan", mbid = "d4314d17-e298-42b2-81c6-5931f7e2a095" },
+  { n = 7, title = "Sylvia", mbid = "3998541f-3b47-4516-bb81-cf65dd42edb2" },
+  { n = 8, title = "Olga", mbid = "77f147b8-381e-4753-adf0-0c820bf73a14" },
+  { n = 9, title = "Mathieu", mbid = "c3ff1c27-7345-49fb-9340-c50675449c0b" },
+  { n = 10, title = "Bernard JR", mbid = "ae120b07-c379-4c1e-8a95-d2e0b522da37" },
+  { n = 11, title = "Thomas", mbid = "8b7961db-6b54-4bb6-8293-d52e67a7e23a" },
+]

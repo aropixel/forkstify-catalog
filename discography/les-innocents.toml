@@ -1,0 +1,281 @@
+format = 1
+
+[[release]]
+mbid = "2235f4aa-bb2b-4c1d-ab79-de1a8f6d98f9"
+title = "Pamela"
+type = "single"
+date = "1985"
+tracks = [
+  { n = 1, title = "Pamela", mbid = "5c9953fa-6224-4a39-ae5c-07ef6c233930" },
+  { n = 2, title = "Strictement privé", mbid = "32d64670-4170-462d-9387-5b345551255b" },
+]
+
+[[release]]
+mbid = "f00aeb4b-b6a7-44c8-9fba-6a683c23e4d8"
+title = "Jodie"
+type = "single"
+date = "1987"
+tracks = [
+  { n = 1, title = "Jodie", mbid = "94f25e34-f504-4056-a852-c6174848aa46" },
+  { n = 2, title = "Un rêve en radio", mbid = "f85f27b7-a2af-413b-ac6f-2b268a9df1a0" },
+]
+
+[[release]]
+mbid = "d7d4c075-5dff-47ad-b9f6-5ab332b5601a"
+title = "Mini CD"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Jodie", mbid = "94f25e34-f504-4056-a852-c6174848aa46" },
+  { n = 2, title = "Un rêve en radio", mbid = "f85f27b7-a2af-413b-ac6f-2b268a9df1a0" },
+  { n = 3, title = "... et le temps n'attend pas", mbid = "b7a3e805-ef31-4a2f-9494-5f5aae65be9e" },
+  { n = 4, title = "Le Siècle de l'action", mbid = "5e66da36-301b-4f12-876a-878694bf8c0e" },
+  { n = 5, title = "Pleurons, ce soir", mbid = "ef021109-5b30-438a-81ba-0c3f9b4ce425" },
+  { n = 6, title = "Jodie (version longue)", mbid = "4b215d80-0f90-430e-828d-458d7bff3bdb" },
+]
+
+[[release]]
+mbid = "5c6bf6f4-495e-4998-8ba7-0977c02ed011"
+title = "… et le temps n’attend pas"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "… et le temps n’attend pas (remix)", mbid = "0b87d076-efc0-4a67-8232-ad671a943d49" },
+  { n = 2, title = "… et le temps n’attend pas (edit)", mbid = "b7a3e805-ef31-4a2f-9494-5f5aae65be9e" },
+  { n = 3, title = "Le Siècle de l’action (jerk)", mbid = "a5606623-5910-4747-a714-b0c32c93423e" },
+  { n = 4, title = "Pleurons, ce soir (edit)", mbid = "ef021109-5b30-438a-81ba-0c3f9b4ce425" },
+]
+
+[[release]]
+mbid = "a3372df2-6b0a-4825-81cb-6cc6cda52e00"
+title = "Cent mètres au paradis"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Cent mètres au paradis", mbid = "94abc4d7-81f7-435f-88c6-56372570e7b2" },
+  { n = 2, title = "La Longue Nuit", mbid = "816fdde5-96e0-45e0-89f2-ee54e69f5758" },
+]
+
+[[release]]
+mbid = "7f4b51bc-b46e-39f9-9cd8-d604cb2ba85f"
+title = "Saint Sylvestre"
+type = "ep"
+date = "1989"
+tracks = [
+  { n = 1, title = "Saint Sylvestre", mbid = "15bf7da0-25c8-45fb-8f93-849fdf9c52b5" },
+  { n = 2, title = "Il paraît qu'en Angleterre", mbid = "7f45af3a-1953-48f7-b41e-aa0127e18c5c" },
+  { n = 3, title = "Joyeux Noël", mbid = "9b3c6258-5724-4d45-ad6e-0378e7e47373" },
+  { n = 4, title = "Merry X'Mas Everybody", mbid = "faa97082-2026-4976-ab96-b25b3edd388b" },
+  { n = 5, title = "Santa Claus Is Coming to Town", mbid = "4d9b93a4-f6a2-443c-8ed6-228b6b919645" },
+  { n = 6, title = "I Saw Mommy Kissing Santa Claus", mbid = "fc94fded-bfe8-48df-936b-152deb22dfa6" },
+]
+
+[[release]]
+mbid = "55b7daba-ad9c-4262-a76a-31e6e37723b5"
+title = "Saint-Sylvestre"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Saint-Sylvestre", mbid = "15bf7da0-25c8-45fb-8f93-849fdf9c52b5" },
+  { n = 2, title = "Il paraît qu'en Angleterre", mbid = "76caf8d1-c652-4718-b16f-94a32c82e920" },
+]
+
+[[release]]
+mbid = "ce9cf808-f948-3fbf-b1fd-caebb78e03ff"
+title = "Cent mètres au paradis"
+type = "album"
+date = "1989-05"
+tracks = [
+  { n = 1, title = "Saint Sylvestre", mbid = "15bf7da0-25c8-45fb-8f93-849fdf9c52b5" },
+  { n = 2, title = "Miss Monde pleure", mbid = "2c92deca-55bf-44e1-a5c7-abd896af27ae" },
+  { n = 3, title = "En attendant mieux", mbid = "e06228ad-8ee9-41ba-adc6-d47ac0346ad3" },
+  { n = 4, title = "La Brûlure indienne", mbid = "f150df68-a375-4ffb-9461-694a87e96a67" },
+  { n = 5, title = "Ruineville", mbid = "5dc7870c-fd05-4d1b-a958-b6478d00632e" },
+  { n = 6, title = "Un chien en hiver", mbid = "e3b35c29-fa72-4738-abe1-d13b60609e5b" },
+  { n = 7, title = "Cent mètres au paradis", mbid = "94abc4d7-81f7-435f-88c6-56372570e7b2" },
+  { n = 8, title = "Jane (Jusqu'au long adieu)", mbid = "bf05f4e3-63d1-4bed-9dd6-00bdc8cba50b" },
+  { n = 9, title = "Rien n'est vrai", mbid = "cc5945c7-83a4-481b-ac27-d7b88738ce4d" },
+  { n = 10, title = "Les Fantômes de Lorraine", mbid = "aeae30c8-6731-4166-b102-1d34bde5fe4f" },
+]
+
+[[release]]
+mbid = "68374164-2104-41a6-822c-bc2abd7f9427"
+title = "Miss Monde pleure"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "Miss Monde pleure", mbid = "eaf1f4ef-cd78-4fa5-885e-28458e439c89" },
+  { n = 2, title = "Miss Monde pleure (version Garage Beach)", mbid = "7c641fa5-a016-4d82-8470-568e25f342f4" },
+]
+
+[[release]]
+mbid = "7842b1bb-b9f3-4b80-a53a-a2bd60990c89"
+title = "L'Autre Finistère"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "L'Autre Finistère", mbid = "57c95bfd-b302-4d60-973d-2e2389f1379d" },
+  { n = 2, title = "En tapant du poing", mbid = "8263be72-474d-4bdb-a173-f4e24e9628a8" },
+]
+
+[[release]]
+mbid = "04866b65-0823-4b03-b74b-c9d335136df9"
+title = "Mon dernier soldat (Toi mon roi)"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Mon dernier soldat (Toi mon roi)", mbid = "fade0994-4bd8-4019-9042-1916dd578ea5" },
+  { n = 2, title = "Confessions d'un vieux serpent", mbid = "65d5b620-2bda-4aba-80ba-9b8a06181413" },
+]
+
+[[release]]
+mbid = "1b5f21ab-3828-3633-9780-0f8e7e7993a1"
+title = "Fous à lier"
+type = "album"
+date = "1992-03"
+tracks = [
+  { n = 1, title = "Un homme extraordinaire", mbid = "d0f2d580-5003-4bdf-9e13-b72ef0ac55b9" },
+  { n = 2, title = "Je vais à bang-bang", mbid = "d7289a3c-7d2e-44cf-81e4-365d2be8e860" },
+  { n = 3, title = "L'autre finistère", mbid = "fde8bf3f-c9c2-47c9-9895-cfe7773be1cd" },
+  { n = 4, title = "Mon dernier soldat", mbid = "fade0994-4bd8-4019-9042-1916dd578ea5" },
+  { n = 5, title = "Confessions d'un vieux serpent", mbid = "65d5b620-2bda-4aba-80ba-9b8a06181413" },
+  { n = 6, title = "Belladonna mia", mbid = "cf2fec4b-eaa2-4211-8453-00597c1eeb0d" },
+  { n = 7, title = "Fous à lier", mbid = "20deeae4-c43f-4d78-aec9-30c3796d4a63" },
+  { n = 8, title = "Le Paravent", mbid = "4621ac6d-3286-44cb-b7fd-2f59d409db33" },
+  { n = 9, title = "Les Remorques", mbid = "8f745ea2-acfe-4910-8a3a-e309021f8f0c" },
+  { n = 10, title = "En tapant du poing", mbid = "8263be72-474d-4bdb-a173-f4e24e9628a8" },
+  { n = 11, title = "Marie prends ton temps", mbid = "64cb1d73-e879-4169-a1a8-edbee06bf7bc" },
+]
+
+[[release]]
+mbid = "03dc9d2c-381f-4503-8c0d-27477526dc28"
+title = "Fous à lier"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Fous à lier (Remix +30dBF)", mbid = "7cb91802-d1b0-49c1-aac6-e65e052eae58" },
+  { n = 2, title = "Train to the UK", mbid = "15911170-339a-40de-a455-bc0e5ac5f8c5" },
+]
+
+[[release]]
+mbid = "1dadefc4-050f-378d-9932-64996ef358a8"
+title = "Un homme extraordinaire"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Un homme extraordinaire", mbid = "1f06bbcd-9efc-4858-9fae-fe74b8af911d" },
+  { n = 2, title = "Belladonna mia", mbid = "cf2fec4b-eaa2-4211-8453-00597c1eeb0d" },
+]
+
+[[release]]
+mbid = "5d5b4ca3-e4cc-40ca-bac5-a329d8701436"
+title = "Colore"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Colore (edit radio)", mbid = "4014816e-4e7f-4982-afa4-71ef5d3bd057" },
+  { n = 2, title = "Un monde parfait", mbid = "89ffb3d5-d0bf-443d-87c8-d234b2f989e2" },
+  { n = 3, title = "Amours énièmes", mbid = "ba057d09-9970-461b-b7cc-784d523390ac" },
+]
+
+[[release]]
+mbid = "fffd8d39-32f0-468e-bc63-96de8b951115"
+title = "Un monde parfait"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Un monde parfait", mbid = "121dac00-f7fd-4e2f-ab06-5455518c33eb" },
+  { n = 2, title = "La Peau du grizzly", mbid = "97456e6b-e464-4e9d-a58c-0f867cfc372d" },
+]
+
+[[release]]
+mbid = "fe17a8c6-3cd6-3f49-a07f-1c86fbde643a"
+title = "Post-partum"
+type = "album"
+date = "1995-11-10"
+tracks = [
+  { n = 1, title = "Un monde parfait", mbid = "121dac00-f7fd-4e2f-ab06-5455518c33eb" },
+  { n = 2, title = "Long, long, long", mbid = "31adc2e4-142e-4c45-b3d9-11f0f36ca2f0" },
+  { n = 3, title = "Lune de lait", mbid = "a1a5c055-6b9e-4aeb-90e8-3244578d9830" },
+  { n = 4, title = "Dentelle", mbid = "5e42e6d9-f85c-41be-be79-f2f5d1ddd709" },
+  { n = 5, title = "Entre Amos et Amsterdam", mbid = "adb6a169-6392-46a0-a989-a230ca0ff630" },
+  { n = 6, title = "Lésions étrangères", mbid = "ee6eea36-9f93-490b-869f-dae50cd09684" },
+  { n = 7, title = "Des jours adverses", mbid = "e6f6dd3b-2bfe-4625-8447-fceee94b1b86" },
+  { n = 8, title = "La Peau du grizzly", mbid = "97456e6b-e464-4e9d-a58c-0f867cfc372d" },
+  { n = 9, title = "Raide, raide, raide", mbid = "28ed0439-dd35-404e-a75c-8a032486c1b4" },
+  { n = 10, title = "Colore", mbid = "bf4c92b3-47d0-41ea-b9d1-ae9ac39ebb25" },
+  { n = 11, title = "Franges en bataille", mbid = "9a42a96a-c3fc-425b-bc6b-5f9736bbb8b7" },
+  { n = 12, title = "[untitled]", mbid = "b974ddd8-f451-4a2b-8736-d5c4b25c7d2f" },
+  { n = 13, title = "Lésions étrangères (suite)", mbid = "018223f6-b646-426a-af47-57948b933dc6" },
+  { n = 14, title = "[untitled]", mbid = "e8deeaaa-a8b9-47c0-b2db-1496425b682f" },
+]
+
+[[release]]
+mbid = "1a787159-d957-47e0-8cad-723562f019f8"
+title = "Le Cygne"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Le Cygne (version album)", mbid = "4ce7b79b-ca59-4944-8e54-269debfc2640" },
+  { n = 2, title = "Lésions étrangères (live)", mbid = "1d61b745-031e-4e5c-b561-db5b122e6bc9" },
+  { n = 3, title = "Mon dernier soldat (live)", mbid = "3529a871-c6bf-435c-8422-2cbcafaebadc" },
+  { n = 4, title = "Le Cygne (Jt Spring mix)", mbid = "0eba830c-9f0e-4fcc-85d1-d1131834db5c" },
+]
+
+[[release]]
+mbid = "bc6e07fb-79d1-34ef-9d85-3047c6f5a2d6"
+title = "Les Innocents"
+type = "album"
+date = "1999-10-11"
+tracks = [
+  { n = 1, title = "Sur la terre arrosée", mbid = "d9894d4b-29e3-4b8a-b0ac-bd348a70e946" },
+  { n = 2, title = "Une vie moins ordinaire", mbid = "cda896f7-8d4b-49cf-946a-3625937386fd" },
+  { n = 3, title = "Petite flamme", mbid = "62d63660-bca1-42f7-9ccb-7b73c52809f8" },
+  { n = 4, title = "Les Cailloux", mbid = "0c631f55-9341-4e3e-9050-7f34b7a3e489" },
+  { n = 5, title = "Le Cygne", mbid = "4ce7b79b-ca59-4944-8e54-269debfc2640" },
+  { n = 6, title = "Les Moutons", mbid = "a26b8d48-56b2-4169-8c5c-6a7a19f072be" },
+  { n = 7, title = "D'Hendaye à Collioure", mbid = "5188b0e4-1a0e-47e0-a3f2-ac31630f6ba2" },
+  { n = 8, title = "Danny Wilde", mbid = "9badb80b-9b0e-4a58-8ab1-4fccf2b535e1" },
+  { n = 9, title = "Fanfare", mbid = "993e44e8-9b59-4656-a55a-af267d4874bf" },
+  { n = 10, title = "Susan Sarandon", mbid = "b2a09a3e-5a1a-420c-91ff-7620668c2153" },
+  { n = 11, title = "Tu sais lire", mbid = "a3ea0d5c-21f5-490e-b727-10ac51751702" },
+  { n = 12, title = "Maubert", mbid = "a3ca09bd-4d85-4e52-9b8d-8a3f41cd7082" },
+  { n = 13, title = "[unknown]", mbid = "b68b9700-3dbc-41fd-9f5f-fc8fb15743dc" },
+  { n = 14, title = "Himalayas", mbid = "e057a95d-4594-4d7d-95f1-790abf2c920c" },
+]
+
+[[release]]
+mbid = "4970e463-1625-49da-bbac-9d0f4322b285"
+title = "Mandarine"
+type = "album"
+date = "2015-06-01"
+tracks = [
+  { n = 1, title = "Les Philharmonies martiennes", mbid = "6b8e6189-dc8d-434f-8c36-b239aa8354f2" },
+  { n = 2, title = "Love qui peut", mbid = "ec2d809a-46b2-4579-8c6a-ca6b34495216" },
+  { n = 3, title = "Les Souvenirs devant nous", mbid = "976225d2-3bca-4470-a571-d5e04feadc34" },
+  { n = 4, title = "Harry Nilsson", mbid = "c638c1dc-5ffe-4dff-8656-337f8bd9c4bd" },
+  { n = 5, title = "Petite voix", mbid = "c3dd5780-7432-4b08-9493-33b28bfdd72e" },
+  { n = 6, title = "Floués du banjo", mbid = "888abc33-e629-4d70-bc79-b4007f2b6f67" },
+  { n = 7, title = "J'ai couru", mbid = "14be7c4a-14e8-4cd3-b6c2-1f47cbcb8af8" },
+  { n = 8, title = "Erretegia", mbid = "557820bc-4d53-4a14-9057-eba635041373" },
+  { n = 9, title = "Oublier Waterloo", mbid = "4d2c0408-6c09-43a9-b59f-bd84b657ad48" },
+  { n = 10, title = "Sherpa", mbid = "c0956a5b-617c-4e23-933e-db98f2a5f165" },
+]
+
+[[release]]
+mbid = "1db10efa-d7ad-431d-a693-e84d568f7057"
+title = "6 ½"
+type = "album"
+date = "2019-03-15"
+tracks = [
+  { n = 1, title = "Quand la nuit tombe", mbid = "768d7c7c-87ce-46fa-a661-ab29b9feb863" },
+  { n = 2, title = "Apache", mbid = "3598ed4d-3278-4f26-a49d-080f2ad4a007" },
+  { n = 3, title = "Les Îles d'amnésie", mbid = "9c00cb55-6ce9-458d-be6d-651fe0b01b3b" },
+  { n = 4, title = "Opale", mbid = "90d535ca-f93a-445f-8012-769e957d1636" },
+  { n = 5, title = "Les Cascades", mbid = "f63403df-d014-48ea-a903-724240e3897a" },
+  { n = 6, title = "De quoi suis-je mort ?", mbid = "b0bce129-1a63-498b-8cea-ad1db26b217a" },
+  { n = 7, title = "Slow#1", mbid = "52e54ab5-9534-4ccb-9589-f9398e26d204" },
+  { n = 8, title = "Au bord de l'Etna", mbid = "fdbf0f6f-d98e-4526-9c9f-71276bea4183" },
+  { n = 9, title = "Mon homme", mbid = "58d7697a-344c-489c-b88f-a0a833335405" },
+  { n = 10, title = "Aime-moi", mbid = "785b3840-6a57-4c15-94e9-5a90cdbc55d7" },
+]

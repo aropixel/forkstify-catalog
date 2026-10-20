@@ -1,0 +1,23 @@
+format = 1
+
+[[release]]
+mbid = "9c4b3a6e-a242-43db-aeb5-0948c5fc6ba5"
+title = "Cross the Track (We Better Go Back)"
+type = "single"
+date = "1975"
+tracks = [
+  { n = 1, title = "Cross the Track (We Better Go Back)", mbid = "bf1df3bc-993c-4e92-a9da-d905cfd8ea76" },
+  { n = 2, title = "The Soul of a Black Man", mbid = "74d6baf8-82b7-4156-9177-90fd665fa3dc" },
+]
+
+[[release]]
+mbid = "52cf8109-1369-36b5-bb94-0cc04c0c97c4"
+title = "'Cross the Track (We Better Go Back)"
+type = "ep"
+date = "1987"
+tracks = [
+  { n = 1, title = "'Cross the Track (We Better Go Back) (extended version)", mbid = "794393af-50fa-4853-a01d-73a5127fe4ee" },
+  { n = 2, title = "Parrty, Part 1", mbid = "5af04423-79cc-427e-a647-718a199164ee" },
+  { n = 3, title = "Soul Power 74", mbid = "4784eb6a-a221-404e-981d-cb3e4e480980" },
+  { n = 4, title = "'Cross the Track (We Better Go Back)", mbid = "bf1df3bc-993c-4e92-a9da-d905cfd8ea76" },
+]

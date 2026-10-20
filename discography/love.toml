@@ -1,0 +1,287 @@
+format = 1
+
+[[release]]
+mbid = "4c9cdc21-5e46-4759-8b26-787046476ec9"
+title = "7 and 7 Is"
+type = "single"
+date = "1966"
+tracks = [
+  { n = 1, title = "7 and 7 Is", mbid = "d38d480a-32d1-4adc-94c5-e1f57811ad09" },
+  { n = 2, title = "No. Fourteen", mbid = "cbbbf2b2-a693-4898-9b8c-938d6a7618ac" },
+]
+
+[[release]]
+mbid = "3d0ee264-579f-3615-8888-1c53c7df9786"
+title = "Love"
+type = "album"
+date = "1966-04"
+spotify = "36UBSvMuqK8r7WYialQrLV"
+tracks = [
+  { n = 1, title = "My Little Red Book", mbid = "f7adcc2e-4ffd-4b3c-8430-deacb1290189" },
+  { n = 2, title = "Can't Explain", mbid = "1ad36a85-7f7f-4eb5-9cb5-530b4fc94168" },
+  { n = 3, title = "A Message to Pretty", mbid = "77220fe3-7ba0-43d4-927a-2d80bccaf384" },
+  { n = 4, title = "My Flash on You", mbid = "8013e597-7934-4432-aef4-5cd243dea002" },
+  { n = 5, title = "Softly to Me", mbid = "874a9b84-2e41-43b8-9371-dc77f70b93ad" },
+  { n = 6, title = "No Matter What You Do", mbid = "0de8b3c2-8855-458b-a3a1-005eef3fd904" },
+  { n = 7, title = "Emotions", mbid = "7be3702f-bf73-47e4-b60c-1d2b6babc8a2" },
+  { n = 8, title = "You I'll Be Following", mbid = "ced462d8-4b73-4138-a84a-7aa03ac4312d" },
+  { n = 9, title = "Gazing", mbid = "e29c2be8-1099-4acf-8cf9-b591b2c778ef" },
+  { n = 10, title = "Hey Joe", mbid = "9b8c36d1-25db-45c4-822b-4e45b389a92f" },
+  { n = 11, title = "Signed D.C.", mbid = "a5aae263-746e-4275-8302-2d72e3584572" },
+  { n = 12, title = "Colored Balls Falling", mbid = "bc214f51-b984-4974-bec2-4dd8a5e20694" },
+  { n = 13, title = "Mushroom Clouds", mbid = "6bddcc4d-bea0-4e07-9bec-bfbda69cb04e" },
+  { n = 14, title = "And More", mbid = "4562d2b7-b092-42f7-bcd1-1077e56e6523" },
+]
+
+[[release]]
+mbid = "4cc16c40-ef3a-36d9-9f96-89cbf1c61ec6"
+title = "Da Capo"
+type = "album"
+date = "1966-11"
+tracks = [
+  { n = 1, title = "Stephanie Knows Who", mbid = "18bfae4a-ac80-498d-b2d8-cde2623398f5" },
+  { n = 2, title = "Orange Skies", mbid = "eb1487fd-8c3c-47d1-99b4-2d8c1460f4ce" },
+  { n = 3, title = "¡Que Vida!", mbid = "1da5b56a-6f4e-4fc7-9424-15e7905987ad" },
+  { n = 4, title = "Seven & Seven Is", mbid = "2edbe01b-f6ec-4929-9bb1-d89360beae3a" },
+  { n = 5, title = "The Castle", mbid = "b7e570d2-4769-4e51-92ac-99380852ca83" },
+  { n = 6, title = "She Comes in Colors", mbid = "1517b15d-8cb2-4041-91f2-878844cf9026" },
+  { n = 7, title = "Revelation", mbid = "cbdbae16-5e18-4fe8-858a-dfede2e14369" },
+]
+
+[[release]]
+mbid = "c7035bc6-6101-326f-992c-401d451c1716"
+title = "Forever Changes"
+type = "album"
+date = "1967-11-01"
+spotify = "2amHBpP8C0EUy6yBNy6nN6"
+tracks = [
+  { n = 1, title = "Alone Again Or", mbid = "086fef90-7e9a-42d5-b3cb-47b529cafdbe" },
+  { n = 2, title = "A House Is Not a Motel", mbid = "7cf551ac-d3cd-4bbd-b731-8efcaed27fd0" },
+  { n = 3, title = "Andmoreagain", mbid = "cb7097c9-7b20-4239-8d97-8c43f0e10d00" },
+  { n = 4, title = "The Daily Planet", mbid = "b46b3c38-7529-4df5-936c-e54e7525e20a" },
+  { n = 5, title = "Old Man", mbid = "cd70755f-5060-487a-8ba9-3ce1127582a2" },
+  { n = 6, title = "The Red Telephone", mbid = "c66db88c-a350-42cf-9268-f9752dad70ed" },
+  { n = 7, title = "Maybe the People Would Be the Times or Between Clark and Hilldale", mbid = "e5570e63-8281-435c-9a14-8e0552806cb5" },
+  { n = 8, title = "Live and Let Live", mbid = "e6f87002-6ba5-4184-a8a8-b32048ab3fc5" },
+  { n = 9, title = "The Good Humor Man He Sees Everything Like This", mbid = "77a3aeb9-9b1c-4bb1-9410-6221765a7c1e" },
+  { n = 10, title = "Bummer in the Summer", mbid = "8e8538d8-64eb-4088-bc2d-a623310094ea" },
+  { n = 11, title = "You Set the Scene", mbid = "e5215da6-12c2-4120-91c4-4f6fa08d788c" },
+]
+
+[[release]]
+mbid = "3aa3f5b2-1572-415f-8935-987ff86556a5"
+title = "Alone Again Or / A House Is Not a Motel"
+type = "single"
+date = "1968"
+tracks = [
+  { n = 1, title = "Alone Again Or", mbid = "ef5ece6d-0b3b-4655-92e2-c3d77114271e" },
+  { n = 2, title = "A House Is Not a Motel", mbid = "09394815-9afd-49d6-ad79-dcd08b96ed40" },
+]
+
+[[release]]
+mbid = "2c3e8b14-9f8d-4129-943b-3a5e8bc44dca"
+title = "Your Mind and We Belong Together"
+type = "single"
+date = "1968"
+tracks = [
+  { n = 1, title = "Your Mind and We Belong Together", mbid = "cdd085b8-7a91-4836-9ed1-9609754e5498" },
+  { n = 2, title = "Laughing Stock", mbid = "f11ae00e-01ae-460c-a0a3-95a75fad4751" },
+]
+
+[[release]]
+mbid = "beec3856-b239-3c7f-8eb4-838204410340"
+title = "Four Sail"
+type = "album"
+date = "1969"
+tracks = [
+  { n = 1, title = "August", mbid = "c678bd55-870c-4829-bb96-8153e0c98704" },
+  { n = 2, title = "Your Friend and Mine - Neil's Song", mbid = "963a7d09-ab00-4acd-b305-8d7ef2b122d9" },
+  { n = 3, title = "I'm With You", mbid = "cc59ba80-7e07-4948-afb4-0f58ef97892a" },
+  { n = 4, title = "Good Times", mbid = "28618228-84b7-4ec2-817b-cb08ec62920a" },
+  { n = 5, title = "Singing Cowboy", mbid = "d540ff12-45f4-42f5-8f06-745b9ce4e54e" },
+  { n = 6, title = "Dream", mbid = "f7c1d75d-c85c-46ce-abee-283827999c2b" },
+  { n = 7, title = "Robert Montgomery", mbid = "7cea3238-71d8-4e99-9333-f978589f2689" },
+  { n = 8, title = "Nothing", mbid = "74f339e5-a5f9-4043-b12b-cb93d018ba08" },
+  { n = 9, title = "Talking in My Sleep", mbid = "ba95e926-6249-4afa-9197-0c1845bce5df" },
+  { n = 10, title = "Always See Your Face", mbid = "a040d5f4-67f8-4e7d-8852-3f0f2a87326f" },
+]
+
+[[release]]
+mbid = "6502790c-8d9e-3f68-82e6-8a451bf983a8"
+title = "Out Here"
+type = "album"
+date = "1969"
+tracks = [
+  { disc = 1, n = 1, title = "I'll Pray for You", mbid = "acdb748c-9717-4638-a9b6-cedec7a2e8aa" },
+  { disc = 1, n = 2, title = "Abalony", mbid = "caf9173c-5dbb-46ad-b9c6-283cd9e88986" },
+  { disc = 1, n = 3, title = "Signed D.C.", mbid = "d620151b-a9dc-4fae-a913-0f21a6748499" },
+  { disc = 1, n = 4, title = "Listen to My Song", mbid = "54ea7c30-afaa-41bd-9a9c-7cf8d46634de" },
+  { disc = 1, n = 5, title = "I'm Down", mbid = "706a03f7-e89b-4933-8c0d-652015a57a51" },
+  { disc = 1, n = 6, title = "Stand Out", mbid = "e3dfc9d8-ae4a-4aed-8d72-500b0405c9e6" },
+  { disc = 1, n = 7, title = "Discharged", mbid = "d6fc25d0-8d2e-4574-a7c1-b76c79b35edf" },
+  { disc = 1, n = 8, title = "Doggone", mbid = "96b8091f-1385-40a8-a22f-19cbefafc3a0" },
+  { disc = 2, n = 1, title = "I Still Wonder", mbid = "40c99c21-63db-4e0e-883e-a1c60017908d" },
+  { disc = 2, n = 2, title = "Love Is More Than Words or Better Late Than Never", mbid = "d658c45e-c0f9-498a-8a91-fe08cd3a675a" },
+  { disc = 2, n = 3, title = "Nice to Be", mbid = "7625a825-b2cd-4ba8-85a5-a9213283dfb9" },
+  { disc = 2, n = 4, title = "Car Lights on in the Day Time Blues", mbid = "39c46b84-8978-495b-b11e-75fdea0068f1" },
+  { disc = 2, n = 5, title = "Run to the Top", mbid = "a2027465-e72e-43df-80f6-6b18142fea8b" },
+  { disc = 2, n = 6, title = "Willow Willow", mbid = "4a79a684-0be5-4f54-81f9-0aeb986aa34c" },
+  { disc = 2, n = 7, title = "Instra-Mental", mbid = "583cba8d-83be-4e6e-a902-3a47ac3a52d6" },
+  { disc = 2, n = 8, title = "You Are Something", mbid = "f13c2b6c-0669-4bec-975a-803149dfb8ee" },
+  { disc = 2, n = 9, title = "Gather Round", mbid = "8f202925-4d62-4f75-b5c5-b9d2564ee6de" },
+]
+
+[[release]]
+mbid = "99c3fd86-effc-4e42-bd8e-bc908f06e9d2"
+title = "I’ll Pray For You / Stand Out"
+type = "single"
+date = "1970"
+tracks = [
+  { n = 1, title = "I’ll Pray For You", mbid = "d0ef0d4b-e185-4398-b41d-76d5d2e2eb2c" },
+  { n = 2, title = "Stand Out", mbid = "7c954e93-9a12-4757-b270-d717769cf757" },
+]
+
+[[release]]
+mbid = "bff1f06e-d354-38f9-aae2-aa52084d0d5e"
+title = "False Start"
+type = "album"
+date = "1970-12"
+tracks = [
+  { n = 1, title = "The Everlasting First", mbid = "2c8fa635-a0a0-45a7-b02c-b4527f190cf9" },
+  { n = 2, title = "Flying", mbid = "fe5bdeb4-47fa-4125-9d6d-3554b001a258" },
+  { n = 3, title = "Gimi a Little Break", mbid = "386d7de5-4f23-42d7-9750-9b7db06032b9" },
+  { n = 4, title = "Stand Out", mbid = "ae33705d-c5ac-4d61-83bb-d36574fee6dd" },
+  { n = 5, title = "Keep On Shining", mbid = "3331ecfb-cf24-4a54-8f6c-ac1510fe2e45" },
+  { n = 6, title = "Anytime", mbid = "89d0126c-a97b-4b27-bd4a-b28a1b7a3a24" },
+  { n = 7, title = "Slick Dick", mbid = "1adb488e-dc04-40c3-be22-8b6d44507847" },
+  { n = 8, title = "Love Is Coming", mbid = "17102c61-1687-4265-8c9b-8d97b288dd0b" },
+  { n = 9, title = "Feel Daddy Feel Good", mbid = "fc83da5a-eb7b-401e-a2de-51af1069daa4" },
+  { n = 10, title = "Ride That Vibration", mbid = "0c3b57d1-ed3b-4b0d-8cd0-62bb634994a1" },
+]
+
+[[release]]
+mbid = "f2205f1e-2db0-497e-9100-0549e81343d1"
+title = "Reel to Real"
+type = "album"
+date = "1974"
+tracks = [
+  { n = 1, title = "Time Is Like a River", mbid = "9ff2e140-9e27-4bd4-b473-580a26a16e7c" },
+  { n = 2, title = "Stop the Music", mbid = "bc99c3e4-34c7-4e1b-bba1-513cf2b91f9c" },
+  { n = 3, title = "Who Are You?", mbid = "300daa8e-7118-4368-87e3-7fb3fef101b4" },
+  { n = 4, title = "Good Old Fashion Dream", mbid = "3535ad8e-e4a0-4f8a-b836-c9433142d8f0" },
+  { n = 5, title = "Which Witch Is Which", mbid = "556d7781-5153-4607-8c1a-9f66d5738c88" },
+  { n = 6, title = "With a Little Energy", mbid = "8a3241e8-7c0c-4535-89d7-8f5604654a7b" },
+  { n = 7, title = "Singing Cowboy", mbid = "6bca2aca-26e3-4dd6-8c1d-b8ea707c2939" },
+  { n = 8, title = "Be Thankful for What You Got", mbid = "a475d753-58a5-4c13-8c08-f29c57420547" },
+  { n = 9, title = "You Said You Would", mbid = "e34e21cb-dbc8-4384-80ca-ea57ee0206d7" },
+  { n = 10, title = "Busted Feet", mbid = "a7794fda-c942-4aae-81fa-55301cd0052d" },
+  { n = 11, title = "Everybody's Gotta Live", mbid = "e8afcb4f-3361-4f51-905c-ce32885b9d35" },
+]
+
+[[release]]
+mbid = "5b12f01c-c6d8-38dc-a8f4-764210ef35c8"
+title = "Studio/Live"
+type = "album"
+date = "1982"
+tracks = [
+  { n = 1, title = "I Still Wonder", mbid = "e8808bb9-9c8d-4134-8644-dd474cf6d865" },
+  { n = 2, title = "Listen to My Song", mbid = "63031cfd-e365-4016-9df8-5c5f16077b1b" },
+  { n = 3, title = "You Are Something to Me", mbid = "5fdcbed5-0264-418d-93c9-61f8f81f0035" },
+  { n = 4, title = "Dog Gone", mbid = "32f53dab-fbbb-4b83-8b11-50553ed6054d" },
+  { n = 5, title = "Love Is More Than Words or Better Late Than Never", mbid = "812a0eee-e392-48bb-9fc3-7876ac7ef45e" },
+  { n = 6, title = "Willow Willow", mbid = "4a79a684-0be5-4f54-81f9-0aeb986aa34c" },
+  { n = 7, title = "Nice to Be", mbid = "99a7c9b4-d7b0-47f4-8d67-72202ec40459" },
+  { n = 8, title = "Gather Round", mbid = "e0398af7-0a74-4416-a72d-350f45107a72" },
+  { n = 9, title = "Stand Out", mbid = "954baccc-8121-4097-a468-8003c261d53d" },
+  { n = 10, title = "Product of the Times", mbid = "5b6b7956-c015-41f5-8636-ca47c7e933a9" },
+  { n = 11, title = "Keep on Shining", mbid = "774dd32d-a84f-4f82-b27f-a1361bc684fc" },
+  { n = 12, title = "Singing Cowboy", mbid = "ab8cb052-4916-4ad4-a41c-c680cf331013" },
+]
+
+[[release]]
+mbid = "dd466694-03ef-383f-aca8-68c732a4c51b"
+title = "Alone Again Or"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Alone Again Or", mbid = "086fef90-7e9a-42d5-b3cb-47b529cafdbe" },
+  { n = 2, title = "Andmoreagain", mbid = "19341e48-6695-4428-892c-806c025f6f13" },
+]
+
+[[release]]
+mbid = "a9f12f0c-5790-439e-865c-971df4372b90"
+title = "Girl on Fire"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Girl on Fire", mbid = "7e06c624-e051-4556-a8c8-a6f7b3616e11" },
+  { n = 2, title = "Midnight Sun", mbid = "a284a70d-e8b3-4f7e-ad01-0119b7fa5821" },
+]
+
+[[release]]
+mbid = "3f94b6d2-4f36-40ea-9958-be726ecb6711"
+title = "On Earth Must Be"
+type = "ep"
+date = "2004"
+tracks = [
+  { n = 1, title = "Rainbow in the Storm", mbid = "9a8e06a6-7162-4fa4-92b7-f9c5d0af968b" },
+  { n = 2, title = "All I Want Is You", mbid = "0fd99205-35b9-4096-a0fb-a0d2fef80fc2" },
+  { n = 3, title = "Love Me", mbid = "152e88cc-5af5-42a3-97e1-e33bf1083b2a" },
+  { n = 4, title = "Message to Pretty", mbid = "c9a301e3-d10f-486b-a28a-ef336b2e4990" },
+  { n = 5, title = "Feathered Fish", mbid = "cc97eaef-c9ee-47f3-80f3-3c21896f26ef" },
+]
+
+[[release]]
+mbid = "be5b6e6a-d6aa-4df8-ab0b-7edca847bb9a"
+title = "Love Lost"
+type = "album"
+date = "2009-10-27"
+tracks = [
+  { disc = 1, n = 1, title = "Love Jumped Through My Window", mbid = "046492f6-96b6-497b-b7fc-8e828b3d9af0" },
+  { disc = 1, n = 2, title = "I Can’t Find It", mbid = "8540f6d6-30b1-4fb9-86b2-d223220d7ffe" },
+  { disc = 1, n = 3, title = "He Said She Said", mbid = "958c32e9-9ecd-404b-80a0-c3eb5d0659c6" },
+  { disc = 1, n = 4, title = "Product of the Times", mbid = "51aaaf27-a181-4581-8720-a336b214042b" },
+  { disc = 1, n = 5, title = "Sad Song", mbid = "4553f42b-8472-4729-9ce6-f17bbbb9cb19" },
+  { disc = 1, n = 6, title = "Everybody’s Gotta Live", mbid = "c98a1d87-bebe-4b62-820c-e0219577163a" },
+  { disc = 1, n = 7, title = "Midnight Sun", mbid = "4baf0276-0a90-42a3-95e1-ca26faffadcb" },
+  { disc = 1, n = 8, title = "Good & Evil I", mbid = "91aa3594-5079-439b-8d59-86bc9a9a8f09" },
+  { disc = 1, n = 9, title = "He Knows a Lot of Good Women", mbid = "d5d95611-88af-4aea-a1c9-47c343fb89f5" },
+  { disc = 1, n = 10, title = "C.F.I.", mbid = "9e748978-d8ec-4048-a5d9-8ebd81e3b47a" },
+  { disc = 2, n = 1, title = "Find Somebody", mbid = "85188aaa-3ffc-41e4-8e0a-bc355df63020" },
+  { disc = 2, n = 2, title = "For a Day", mbid = "c76dc8e8-25a3-4989-bd7e-8f4130517193" },
+  { disc = 2, n = 3, title = "Good & Evil II", mbid = "e13ce65c-d08d-4009-923d-8a422853e43b" },
+  { disc = 2, n = 4, title = "Looking Glass", mbid = "e4d27c60-23a0-4b40-97fc-11ff54327fd3" },
+  { disc = 2, n = 5, title = "Trippin’ & Slippin’/Ezy Ryder", mbid = "434fb428-cd74-4bae-a9f8-323a9054d541" },
+  { disc = 2, n = 6, title = "He Knows a Lot of Good Women (alternate)", mbid = "9a7401b1-5aa3-48b4-a77f-e2746b98686e" },
+  { disc = 2, n = 7, title = "Find Somebody (alternate)", mbid = "27d3eb09-c084-46a6-8f99-46422037a069" },
+  { disc = 2, n = 8, title = "Midnight Sun (alternate)", mbid = "56169ccc-20d7-4cd0-8801-7b5bf1201cdb" },
+  { disc = 2, n = 9, title = "Product of the Times (alternate)", mbid = "152ae621-e10a-4694-9cf0-bc8d753c2419" },
+]
+
+[[release]]
+mbid = "e82ae900-b6c7-46af-b651-10e0d69c6cce"
+title = "Black Beauty"
+type = "album"
+date = "2012"
+tracks = [
+  { n = 1, title = "Young & Able (Good & Evil)", mbid = "6a09fe5c-c99f-40cf-9529-984086e5ecb2" },
+  { n = 2, title = "Midnight Sun", mbid = "d9a13efc-8e1e-4c63-8fea-c64aac436bb4" },
+  { n = 3, title = "Can't Find It", mbid = "ffe941c5-5154-43fb-8174-a796f813394a" },
+  { n = 4, title = "Walk Right In", mbid = "1c9e14a0-bb23-47d6-bd99-4c3acab251d4" },
+  { n = 5, title = "Skid", mbid = "1198f0f9-44cd-492f-9909-4c4523c3630f" },
+  { n = 6, title = "Beep Beep", mbid = "ee31b752-1b89-47e3-8efa-09afe769fe2b" },
+  { n = 7, title = "Stay Away", mbid = "d21d04be-2582-4385-b71a-c77d962e7d4d" },
+  { n = 8, title = "Lonely Pigs", mbid = "c55b9100-4c0f-47e3-99ef-379065d49a29" },
+  { n = 9, title = "See Myself in You", mbid = "096d497b-4ac3-4404-8999-c062712a2e9a" },
+  { n = 10, title = "Product of the Times", mbid = "bfe1f9ba-2a43-413b-a451-c904fe138970" },
+]
+
+[[release]]
+mbid = "ce75999c-ed4e-4100-ac9d-0f2d8c9b494b"
+title = "7 and 7 Is"
+type = "single"
+date = "2014-04-19"
+tracks = [
+  { n = 1, title = "7 and 7 Is", mbid = "76474752-ba3d-4c56-b752-8088ea8907b2" },
+  { n = 2, title = "7 and 7 Is", mbid = "536f8fc6-9b78-4948-aaaa-17f906939e61" },
+]

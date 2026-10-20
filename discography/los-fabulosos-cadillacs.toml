@@ -1,0 +1,272 @@
+format = 1
+
+[[release]]
+mbid = "b56f8f4f-9e6e-35a7-90c4-ffb1f5e44c16"
+title = "Bares y fondas"
+type = "album"
+date = "1986-08"
+tracks = [
+  { n = 1, title = "Vos sin sentimiento", mbid = "04572174-22a7-4a88-8bb4-f581a1bed9e5" },
+  { n = 2, title = "Yo quiero morirme acá", mbid = "bcf4ff90-a507-47da-b55a-f97d00ef51ed" },
+  { n = 3, title = "Galápagos", mbid = "33f18a6e-9a73-4115-a15d-0a53223ff8dd" },
+  { n = 4, title = "La manera correcta de gritar", mbid = "154c12b7-897b-4483-b7cb-c46b9484d623" },
+  { n = 5, title = "Tus tontas trampas", mbid = "2e40073b-f151-43f8-801c-6b1a7fd9a52a" },
+  { n = 6, title = "Bares y fondas", mbid = "86e50abc-b7a8-438d-adce-255cec9001ef" },
+  { n = 7, title = "En mis venas", mbid = "12ce80e8-7f0c-4b75-a349-a0d00ab3c887" },
+  { n = 8, title = "Silencio hospital", mbid = "95b1b706-17be-43bc-9f51-246d99561ed8" },
+  { n = 9, title = "Noches árabes", mbid = "3d527471-0281-431c-9f6c-4b05bf96cc36" },
+  { n = 10, title = "Estamos perdiendo", mbid = "0fb054ba-0487-41da-8320-92dc0dbf76b2" },
+  { n = 11, title = "Belcha", mbid = "d5a865f6-5226-4d42-8474-9f344316e797" },
+  { n = 12, title = "Basta de llamarme así", mbid = "bde1ef65-6846-4f72-8e5d-b78ab3a66db5" },
+]
+
+[[release]]
+mbid = "ffdb7fcf-7f36-3cc3-969f-753f86bfbe3a"
+title = "¡Yo te avisé!"
+type = "album"
+date = "1987"
+tracks = [
+  { n = 1, title = "El genio del dub", mbid = "59b5f6e6-9bfb-4255-980f-e48892c0449a" },
+  { n = 2, title = "Botellas rotas", mbid = "495ecb09-7d17-43da-8e41-f18a7b0e71ec" },
+  { n = 3, title = "Mi novia se cayó en un pozo ciego", mbid = "be019403-f0cd-4f97-b154-b13dec09d414" },
+  { n = 4, title = "Una ciudad llamada vacío", mbid = "7b7bfacd-15ee-4934-9b52-4c078ef89158" },
+  { n = 5, title = "Cadillacs", mbid = "9ca0dddd-9939-48bb-8ccb-6ee3b70e161f" },
+  { n = 6, title = "Yo no me sentaría en tu mesa", mbid = "23ab8f8f-e8dc-405b-9dbb-aa499e9004d0" },
+  { n = 7, title = "Yo te avisé", mbid = "c2d064ae-0e54-4a06-9e09-8e121dd27f97" },
+  { n = 8, title = "Muy, muy temprano", mbid = "707d32c5-8a91-4f85-971e-a29e245c0ae0" },
+  { n = 9, title = "Estoy harto de verte con otros", mbid = "22268565-40cb-4b90-8ca8-eb2f13d4f0a6" },
+  { n = 10, title = "Aún los escuchamos cantar", mbid = "2da15803-05e5-4671-9bb5-8c8663a3d143" },
+]
+
+[[release]]
+mbid = "f7ec696e-3f3c-30bb-bde4-91aee2ce7222"
+title = "El ritmo mundial"
+type = "album"
+date = "1988"
+tracks = [
+  { n = 1, title = "Es tan lejos aquí", mbid = "ed4b907a-25a5-4bc3-afc9-44803a67f9e3" },
+  { n = 2, title = "Revolution rock", mbid = "d860e181-c5e7-407f-b1a4-eb15cf732a0e" },
+  { n = 3, title = "Vasos vacíos", mbid = "c844ebbe-7439-47b7-9017-05853e911930" },
+  { n = 4, title = "Siempre me hablaste de ella", mbid = "6c987a51-16c6-4cf3-866a-055d43653299" },
+  { n = 5, title = "Botella de humo", mbid = "fe970fdc-26c1-4e85-ade6-bd3192d0d0c5" },
+  { n = 6, title = "Conversación nocturna", mbid = "e8f471df-a220-446a-b215-529d8de7d280" },
+  { n = 7, title = "Tengo solamente dos maneras de estar cerca del cielo", mbid = "a1072752-1c49-47e3-8062-d398b7afda2d" },
+  { n = 8, title = "Más solo que la noche anterior", mbid = "eccbe976-b603-4e3d-9cce-473916c920a7" },
+  { n = 9, title = "Nro. 2 en tu lista", mbid = "d8c70777-90e6-413d-bb3e-61adb7629cbb" },
+  { n = 10, title = "Twist y gritos", mbid = "0baba9ee-17f1-424d-9b13-628eea03db11" },
+  { n = 11, title = "Te tiraré del altar", mbid = "f3420004-158d-4707-8851-35b55c5576b5" },
+]
+
+[[release]]
+mbid = "5be97079-51e6-38c8-91e5-5b885461bf41"
+title = "El satánico Dr. Cadillac"
+type = "album"
+date = "1989"
+tracks = [
+  { n = 1, title = "El satánico Dr. Cadillac", mbid = "e3c5bd02-03b5-48e5-ba30-8b8eb594d234" },
+  { n = 2, title = "El mensaje soy yo", mbid = "880d86ba-da96-4f2d-8387-53917d2b9872" },
+  { n = 3, title = "Chico perdido", mbid = "21b57aad-3d5f-484c-8a19-dbf766dc9cda" },
+  { n = 4, title = "Mi nombre es Travis", mbid = "3f62e4d5-7d0f-4b34-a1bf-7b6c676c9642" },
+  { n = 5, title = "El golpe de tu corazón", mbid = "e4f9f93b-193e-4cbd-aff6-98eadfde7b93" },
+  { n = 6, title = "Contrabando de amor", mbid = "5af80984-cce3-464e-8e2b-dd2682d6de6e" },
+  { n = 7, title = "Fiebre '90", mbid = "14859815-8169-40d7-bb5f-01ea78d1cd40" },
+  { n = 8, title = "Rudy (Un mensaje para vos)", mbid = "8e5ebbd7-4f27-430a-b784-e65f5574aaf4" },
+  { n = 9, title = "El sonido joven de América", mbid = "b42fe7cb-64e7-4b48-9ad2-6f5c35d136d4" },
+  { n = 10, title = "Todas las cosas que ella me dio", mbid = "f2ec623d-91da-4b95-87a1-a5ab928d0a68" },
+  { n = 11, title = "Verano salvaje", mbid = "6f3da8e4-8591-45f4-b247-72c20be7717e" },
+]
+
+[[release]]
+mbid = "ba5bda38-1c06-3b5f-bff0-d3b8f1430037"
+title = "Volumen 5"
+type = "album"
+date = "1990"
+tracks = [
+  { n = 1, title = "Los olvidados", mbid = "fba83439-8205-444b-a82b-a00dc7c4489a" },
+  { n = 2, title = "Demasiada presión", mbid = "9178df51-0a21-4567-841f-53731e4ef29b" },
+  { n = 3, title = "Te extraño (Miss You)", mbid = "896f4bb2-4884-4890-bd06-100083dbf23d" },
+  { n = 4, title = "Radio kriminal", mbid = "d4a224df-2605-400f-8d18-2fa112db08c9" },
+  { n = 5, title = "Caballo de madera", mbid = "d732c753-322b-43dd-8152-a89422bdedc2" },
+  { n = 6, title = "Planeta cero", mbid = "b1617674-6c77-4518-a556-d12194e9e1b2" },
+  { n = 7, title = "La chica de los ojos cafe", mbid = "e77798c0-1ec2-4995-b102-23dc548503d0" },
+  { n = 8, title = "Electrosonic V", mbid = "7752ea6f-27ef-4cc7-86e4-48536d7d4617" },
+  { n = 9, title = "Tanto como un dios", mbid = "94238bba-2864-471f-9cc2-f31d86277aee" },
+]
+
+[[release]]
+mbid = "93d40248-15ef-3bab-8029-47bfa1110a28"
+title = "Sopa de caracol"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "Sopa de caracol", mbid = "9622f8a6-388a-492c-bd00-439da702fb20" },
+  { n = 2, title = "El genio del dub (nueva versión)", mbid = "a7ad3e23-f5ba-45ca-8407-28bde4569dcf" },
+  { n = 3, title = 'Megamix "L.F.C."', mbid = "c8e4257c-e71d-4117-ac23-118393072d6d" },
+  { n = 4, title = "Demasiada presión (remix)", mbid = "c8181f8c-c574-4143-b602-8038b2da7022" },
+]
+
+[[release]]
+mbid = "05d00a7c-3f15-315e-bf4f-dcd9795af607"
+title = "El león"
+type = "album"
+date = "1992-09-10"
+tracks = [
+  { n = 1, title = "Carnaval toda la vida", mbid = "04f99a4c-f6d6-49e5-86d2-07f601f0181b" },
+  { n = 2, title = "Manuel Santillán, el león (Reggae)", mbid = "dfd4120a-044b-4b0a-972b-ca7aabbc1d92" },
+  { n = 3, title = "Gitana", mbid = "35f94e28-4e86-4cab-984c-4e0ee0ea6260" },
+  { n = 4, title = "Siguiendo la Luna", mbid = "73ddbe84-c3f2-48db-937b-71afb6265e14" },
+  { n = 5, title = "Gallo rojo", mbid = "58fff52e-30a5-4266-a305-ed9109168cf1" },
+  { n = 6, title = "El crucero del amor", mbid = "5e1c6e3d-6ebf-41bd-ae2d-589ca89e7a5a" },
+  { n = 7, title = "Destino de paria", mbid = "30824658-a246-4ac0-b2bd-9f9d82552786" },
+  { n = 8, title = "Arde Buenos Aires", mbid = "1489bbce-2fe9-4963-8dd7-da349844028e" },
+  { n = 9, title = "Desapariciones", mbid = "9b4aeb52-b881-42fd-8b15-31c8348ca23b" },
+  { n = 10, title = "Venganza", mbid = "1b7dd860-12c5-468f-81ab-ea2a7cd5af3d" },
+  { n = 11, title = "Cartas, flores y un puñal", mbid = "c33fd9f7-1d9e-40db-ae4a-f7b83876551c" },
+  { n = 12, title = "El aguijón", mbid = "c856e43f-9ecb-41c1-b5a2-c81234a65e36" },
+  { n = 13, title = "Soledad", mbid = "895f4936-f505-4140-b744-d8bd3afb5e73" },
+  { n = 14, title = "Manuel Santillán, el león (Salsa)", mbid = "42283056-f69e-49c7-85ad-69f1d4ca4c35" },
+  { n = 15, title = "Ríos de lágrimas", mbid = "3e800813-4a60-434f-87ce-86df913f3b4b" },
+]
+
+[[release]]
+mbid = "0e71286d-19ae-3ab1-a762-dfed5c4df930"
+title = "Rey azúcar"
+type = "album"
+date = "1995-06-20"
+tracks = [
+  { n = 1, title = "Mal bicho", mbid = "4eaa6110-0e11-4a79-be49-424c37b80141" },
+  { n = 2, title = "Strawberry Fields for Ever", mbid = "f8b3b563-cf0e-46b0-a9b2-e4530817016e" },
+  { n = 3, title = "Carmela", mbid = "0be00415-7846-4bb3-bdb3-85f2e0128b3c" },
+  { n = 4, title = "Paquito", mbid = "cb78f245-d34e-491f-9ba8-ab83227a779b" },
+  { n = 5, title = "Ciego de amor", mbid = "f74f399d-d033-449f-b161-c9baaebc5d89" },
+  { n = 6, title = "Miami", mbid = "a045005b-d363-44cb-9ec1-1100f7f17e5a" },
+  { n = 7, title = "Raggapunkypartyrebelde", mbid = "da70b56e-bdda-4ef0-a30c-40949bd3de7a" },
+  { n = 8, title = "Estrella de mar", mbid = "01b3b642-dfae-421f-b728-01158678ef47" },
+  { n = 9, title = "Las venas abiertas de América latina", mbid = "80aef1e5-3c8b-4405-b7c7-05689b428a00" },
+  { n = 10, title = "Reparito", mbid = "077ea252-673e-41b3-96e6-77c2c658fdb8" },
+  { n = 11, title = "Padre nuestro", mbid = "59bc9f57-6363-4889-ad9f-26d62672f294" },
+  { n = 12, title = "Muerte querida", mbid = "7c3f43a8-30ec-4818-9729-106fc4f45102" },
+  { n = 13, title = "Hora cero", mbid = "2f78345c-6e59-4afe-aa75-134984925c1c" },
+  { n = 14, title = "Queen From the Ghetto", mbid = "4fbb95f1-871e-466b-9945-22778e33cccf" },
+  { n = 15, title = "Saco azul", mbid = "1f76cab7-b47e-4075-96a1-36b9570edba9" },
+  { n = 16, title = "No pienses que fui yo", mbid = "ee75ccf6-d974-4b48-89d4-4ae47c5688f8" },
+]
+
+[[release]]
+mbid = "5b6001a8-502f-35c0-bdce-cb48e8d6c5b1"
+title = "Fabulosos calavera"
+type = "album"
+date = "1997-07"
+tracks = [
+  { n = 1, title = "El muerto", mbid = "71b60d95-8f79-447f-8d23-25278bb75cc1" },
+  { n = 2, title = "Surfer calavera", mbid = "0f5ffdc7-c347-4067-883b-2a84bfa49e03" },
+  { n = 3, title = "El carnicero de giles / sueño", mbid = "3c125c31-fdce-4ee1-946b-2d08745813d7" },
+  { n = 4, title = "Sábato", mbid = "89c3ba8f-0c09-46ea-8b88-ad298f78dd51" },
+  { n = 5, title = "Howen", mbid = "adbfad48-5baa-4b79-bf76-9daf26d807d9" },
+  { n = 6, title = "A amigo J.V.", mbid = "a42c21a8-d0a3-489e-a8d2-063ba7b36430" },
+  { n = 7, title = "Hoy lloré canción", mbid = "647179e6-1ad9-46ce-816e-c871f258af33" },
+  { n = 8, title = "Calaveras y diablitos", mbid = "d7852100-588c-4b50-bbc6-3c412ebe95a7" },
+  { n = 9, title = "Il pajarito", mbid = "ba42368f-8d64-4eb3-b1d0-c81065df172c" },
+  { n = 10, title = "Niño diamante", mbid = "f641e28d-5681-49c1-8d60-65c60579158a" },
+  { n = 11, title = "Piazzolla", mbid = "cc27aee6-5b50-4bae-8d2d-b2b2c8ffba3d" },
+  { n = 12, title = "Amnesia", mbid = "205444bf-03b7-482b-8a79-294ff327eba5" },
+  { n = 13, title = "A.D.R.B. (en busca eterna)", mbid = "02b8e634-3196-44d1-adef-ccb0cd173f89" },
+]
+
+[[release]]
+mbid = "4e0a7e87-6191-3636-9f97-fee1625258a4"
+title = "La marcha del golazo solitario"
+type = "album"
+date = "1999"
+spotify = "2QbQpUf9KGyExi87PPRUsX"
+tracks = [
+  { n = 1, title = "La vida", mbid = "a2517657-1e19-4631-bf68-bf17d747b449" },
+  { n = 2, title = "C.J.", mbid = "7ae630b2-a459-46fc-a304-fedf9bd8206f" },
+  { n = 3, title = "Los condenaditos", mbid = "a421552f-0fb1-4808-994e-bc7da9374725" },
+  { n = 4, title = "Cebolla, el nadador", mbid = "c5125a73-5e02-442b-8060-2e219dfc9559" },
+  { n = 5, title = "Vos sabés", mbid = "03d46915-1eae-40c6-b0c6-5f7d501cbf9e" },
+  { n = 6, title = "Piraña, todos los argentinos somos D.T.", mbid = "dbb7d65c-7377-4435-98a6-18c67a08729b" },
+  { n = 7, title = "El baile de la mar", mbid = "31b1df63-85bb-4530-ae34-deecfcb758af" },
+  { n = 8, title = "Roble", mbid = "fda8e75f-3be3-455a-a53c-b12ced9cc355" },
+  { n = 9, title = "La rosca", mbid = "f6c53afe-031b-45ae-abba-f8c7b64221b6" },
+  { n = 10, title = "La marcha del golazo solitario", mbid = "e5104ea8-ba45-47bd-9545-ad1435125113" },
+  { n = 11, title = "Águila", mbid = "98985cb5-8da2-4438-9288-0be5e2d483d5" },
+  { n = 12, title = "Salvador y los cordones flojos", mbid = "e23d1ec9-c14e-48e6-9f80-e2baf95d53f1" },
+  { n = 13, title = "Necesito una nariz de payaso, ¿no me prestás la tuya...?", mbid = "40f3a8fe-71df-4d4a-80d1-8f06e27b4433" },
+  { n = 14, title = "Negra", mbid = "5d31c742-a14e-446d-af2b-4bebb4351bdb" },
+  { n = 15, title = "57 almas", mbid = "425766c8-0a77-4e84-ae73-cdc129914875" },
+  { n = 16, title = "Álamo", mbid = "c27f020a-62c9-43c4-ba86-b747cb3a2ffc" },
+]
+
+[[release]]
+mbid = "80400128-38d8-409c-80ca-ff3a1f734225"
+title = "Simple Pop Art"
+type = "single"
+date = "2002"
+tracks = [
+  { n = 1, title = "Silencio hospital", mbid = "95b1b706-17be-43bc-9f51-246d99561ed8" },
+  { n = 2, title = "Yo quiero morirme acá", mbid = "bcf4ff90-a507-47da-b55a-f97d00ef51ed" },
+  { n = 3, title = "En mis venas", mbid = "12ce80e8-7f0c-4b75-a349-a0d00ab3c887" },
+]
+
+[[release]]
+mbid = "75832d58-15f7-320f-b416-76ff81e694e9"
+title = "La luz del ritmo"
+type = "album"
+date = "2008-10-30"
+tracks = [
+  { n = 1, title = "La luz del ritmo (Super ritmo tropidelik cha cha version)", mbid = "0ddedf7b-fdd9-4733-a731-6eac6bb28ce9" },
+  { n = 2, title = "Mal bicho (Soulbacho version)", mbid = "51926bc2-6d32-4c3e-9938-0ebfafbe1ea9" },
+  { n = 3, title = "Flores", mbid = "f7df5a12-b0b0-4682-ba5a-d87ae4c04395" },
+  { n = 4, title = "Padre nuestro (Kumbia hot rod version)", mbid = "dc0e1ad4-ea01-4159-9c35-cbd521f28bd0" },
+  { n = 5, title = "Nosotros egoístas", mbid = "2351065e-f194-4edf-9594-5c469c01e0ed" },
+  { n = 6, title = "Hoy", mbid = "0f580f54-da32-40f5-9eb6-86455e25fcfd" },
+  { n = 7, title = "Should I Stay or Should I Go (Guajira Rocker Hispano Parlante version)", mbid = "f19493e1-0f7d-45fc-991b-0601156b6ed7" },
+  { n = 8, title = "El genio del dub (Siambretta hereje version)", mbid = "3328eada-651b-4ad6-af55-ae839ae2473d" },
+  { n = 9, title = "Basta de llamarme así", mbid = "aaaa3109-f256-49bf-b577-e2db1be2c722" },
+  { n = 10, title = "El fin del amor", mbid = "69e1ad72-b4e1-4c3f-a139-eb3065cf29e7" },
+  { n = 11, title = "Muy muy temprano", mbid = "8aee8b7a-9893-46a0-8645-78c9d1cbff88" },
+  { n = 12, title = "Wake Up and Make Love With Me", mbid = "93c8373f-8cdd-404f-ab90-a5d6067f79ea" },
+  { n = 13, title = "Condenaditos (Nueva Orleans Funeral pop version)", mbid = "95f559a5-2387-4b3e-8011-c4dee43972a9" },
+]
+
+[[release]]
+mbid = "f59d0e39-9ae1-4c54-be4d-a4204676a5ad"
+title = "El arte de la elegancia de LFC"
+type = "album"
+date = "2009-10-08"
+tracks = [
+  { n = 1, title = "Contrabando de amor", mbid = "a28bbafd-7dc4-4fe0-b8a2-98a614326fa4" },
+  { n = 2, title = "Siempre me hablaste de ella", mbid = "787b5dd3-aa32-44f2-8216-11dae61ffd23" },
+  { n = 3, title = "Vamos ya! (Move On Up)", mbid = "e2721e89-7678-4fb1-a710-3824c394bf52" },
+  { n = 4, title = "CJ", mbid = "c260dd54-750d-4453-bcf4-64caac590588" },
+  { n = 5, title = "El sonido joven de América", mbid = "83e8e5e5-8a00-4f5d-9d44-a474c1dd5381" },
+  { n = 6, title = "Lanzallamas", mbid = "964393ac-cc46-4c52-8075-600d5ccda317" },
+  { n = 7, title = "Tanto como un dios", mbid = "ae37192a-7050-465b-91d7-b156d188bb38" },
+  { n = 8, title = "Surfer calavera", mbid = "086f6ddd-eebd-4cfa-bf26-b54fe7158af2" },
+  { n = 9, title = "Siete jinetes", mbid = "ddf0485d-255a-4888-ad63-fd0e100ffcb8" },
+  { n = 10, title = "Soledad", mbid = "1b4c0518-0c44-4801-af73-5846507b7e8a" },
+  { n = 11, title = "Más solo que la noche anterior", mbid = "38e3ab45-26c4-45d9-b89a-ba520ddc2d35" },
+]
+
+[[release]]
+mbid = "eff5e9c3-8441-42e5-83d6-a4d9e5cf7c1c"
+title = "La salvación de Solo y Juan"
+type = "album"
+date = "2016-05-27"
+tracks = [
+  { n = 1, title = "Obertura del faro", mbid = "7aedf750-2553-4b4b-befe-cb74d31cf33a" },
+  { n = 2, title = "No era para vos", mbid = "aeb35085-3983-44d5-8e7a-1c7d2128bb14" },
+  { n = 3, title = "Navidad", mbid = "36b51b7a-ba8e-41cb-926a-0033c54acd9b" },
+  { n = 4, title = "Juan", mbid = "707a420c-783b-4663-b3f7-f9a17b7748b3" },
+  { n = 5, title = "El rey del swing", mbid = "0b774e0d-492a-4391-a782-73be25ccd9b9" },
+  { n = 6, title = "La tormenta", mbid = "233c452a-617b-41ca-ac73-0dc0fee88424" },
+  { n = 7, title = "El profesor Galíndez", mbid = "15d7795f-e67e-414e-9964-c9d848c7e4fa" },
+  { n = 8, title = "Mamá", mbid = "2870f7f9-8de7-4165-8ef5-41acf8f803b1" },
+  { n = 9, title = "Averno, el fantasma", mbid = "f53d73ca-8813-4fd7-885a-320cf23f804b" },
+  { n = 10, title = "El impacto", mbid = "ffaccef2-f365-4397-aee0-de3f5fad18da" },
+  { n = 11, title = "1987", mbid = "69ee400c-765d-4426-bd90-a5ca86969964" },
+  { n = 12, title = "Canción de Solo para Juan (Los olvidados)", mbid = "09a31d17-2501-496d-981f-a5b52fd1ed19" },
+  { n = 13, title = "Estratos (A:Números / B:La culpa)", mbid = "0caaf806-b790-40df-ba67-1457907a255b" },
+  { n = 14, title = "La música salvará al mundo (Los olvidados)", mbid = "e7941931-73a2-4d2a-80bb-95e808b0af15" },
+]

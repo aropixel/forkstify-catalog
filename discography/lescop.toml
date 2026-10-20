@@ -1,0 +1,138 @@
+format = 1
+
+[[release]]
+mbid = "e26b2a77-a93b-4eff-abfd-3a87a8753bd7"
+title = "Lescop"
+type = "ep"
+date = "2011-11"
+tracks = [
+  { n = 1, title = "La forêt", mbid = "14a08547-357b-4aa0-beee-1d05da90386f" },
+  { n = 2, title = "Tokyo, la nuit", mbid = "5f9a2247-3c11-48a4-9220-654a54b7f53f" },
+  { n = 3, title = "Marlène", mbid = "cebc07a5-663a-43b8-9005-b114e91dd5ec" },
+  { n = 4, title = "Je danse", mbid = "2d28aca0-a388-41a0-8913-0446fc23575f" },
+]
+
+[[release]]
+mbid = "9fa60e43-442e-4110-afc3-6296c5110386"
+title = "Lescop"
+type = "album"
+date = "2012-10-01"
+tracks = [
+  { n = 1, title = "La forêt", mbid = "0b320a04-aa02-40aa-a1e3-06c98952df57" },
+  { n = 2, title = "La nuit américaine", mbid = "bd3633ec-6fd8-40e9-afc3-1a42f435b864" },
+  { n = 3, title = "Ljubljana", mbid = "a0ae368f-e8d4-44fa-89a1-29da2d894632" },
+  { n = 4, title = "Los Angeles", mbid = "82faa037-4c17-48c4-9c65-a2013b3ba769" },
+  { n = 5, title = "Le mal mon ange", mbid = "2487d67a-02d4-4a67-8f4a-627ed649e8a5" },
+  { n = 6, title = "Tokyo, la nuit", mbid = "4c1df378-3b61-4d5d-884b-83c44e9ad16b" },
+  { n = 7, title = "Hypnose", mbid = "16eab898-e928-48cd-a302-f891426a75a5" },
+  { n = 8, title = "Un rêve", mbid = "3078529f-acd8-4d90-b094-668ceef48f96" },
+  { n = 9, title = "Slow disco", mbid = "4a439765-a96c-46fa-a08b-30754b259c8a" },
+  { n = 10, title = "Paris s'endort", mbid = "7666b657-71ad-4c01-869e-4f9c41baad3a" },
+  { n = 11, title = "Le vent", mbid = "e0b714f9-3b96-4ba4-b820-6c1dcabb8d5d" },
+]
+
+[[release]]
+mbid = "25965e85-76da-4c74-8a15-b0bc5377d7c1"
+title = "Echo"
+type = "album"
+date = "2016-10-21"
+tracks = [
+  { n = 1, title = "David Palmer", mbid = "7d57a261-ede4-4335-9b29-0fd2d86f0407" },
+  { n = 2, title = "Dérangé", mbid = "9fa8c074-223d-4497-be54-1f46c4ece760" },
+  { n = 3, title = "Mauvaise fille", mbid = "ac335b30-f942-46ec-8513-dedfaddc64d5" },
+  { n = 4, title = "Insomnies", mbid = "516c1839-94e6-4f62-b2be-1b0712ebee50" },
+  { n = 5, title = "L", mbid = "bf5b9e91-fcc5-497e-9003-1e453e8a7931" },
+  { n = 6, title = "Quelqu'un à qui penser", mbid = "ab481bf9-8982-49d1-b16c-bac1b9beedfd" },
+  { n = 7, title = "Suivie", mbid = "beaa8d17-7c53-409d-b8a3-22f92eee6d21" },
+  { n = 8, title = "Echo", mbid = "a88d555a-4819-43ee-99df-dbca6c328cb3" },
+  { n = 9, title = "Flash", mbid = "43570d37-a7fc-479c-a981-68052bd65d45" },
+  { n = 10, title = "C’est la nuit", mbid = "8ee457d4-85cf-42e4-8184-023f6f305fd6" },
+]
+
+[[release]]
+mbid = "b149628f-bfb2-4b81-bfef-b21355d8767c"
+title = "Rêve Parti"
+type = "album"
+date = "2023"
+tracks = [
+  { n = 1, title = "Les Garçons", mbid = "a2e83684-1b67-4403-81a8-b759c2fca07a" },
+  { n = 2, title = "Radio", mbid = "0b5e64b1-1feb-4f3e-b81f-76a8f92d3cca" },
+  { n = 3, title = "Rêve parti", mbid = "b556c0cd-0131-4292-8ea7-62fad5b8b717" },
+  { n = 4, title = "Exotica", mbid = "84094b23-0e32-4e67-b648-1b4576b212e9" },
+  { n = 5, title = "La plupart du temps", mbid = "a3035f5a-0946-4e2f-9700-54e434b17d36" },
+  { n = 6, title = "Le Jeu", mbid = "f9990f7a-e894-4b53-8c87-d78b595cb992" },
+  { n = 7, title = "La Femme papillon", mbid = "08724e68-98af-4ce3-b0c9-0221c89a3b93" },
+  { n = 8, title = "Elle", mbid = "0f2a53ed-5f0a-44ec-9a0d-47649b358975" },
+  { n = 9, title = "Effrayé par la nuit", mbid = "92cb707f-3469-4e19-9b8c-9965fa201aba" },
+  { n = 10, title = "Sur ma route", mbid = "f9a24323-2ae8-46d9-9bbc-6177b5b3c6cd" },
+  { n = 11, title = "J'ai oublié ton image", mbid = "6de6084e-6175-4d07-a50e-1a0264c4b469" },
+  { n = 12, title = "Tu peux voir", mbid = "2f053bbf-3ef1-4ae1-8df0-afcf8342b7eb" },
+  { n = 13, title = "Grenadine", mbid = "d996274e-0c1b-45cc-b1fd-ad61c8bbe0cb" },
+]
+
+[[release]]
+mbid = "70ec1e2e-bd9b-4b7b-9ec8-4450db80b9d3"
+title = "After Parti"
+type = "album"
+date = "2025-02-07"
+spotify = "2U6bGUFTgdMdMelxWhSW8n"
+tracks = [
+  { n = 1, title = "Les Garçons", mbid = "8d1c153e-e4cc-4922-bc55-d11b60d167e4" },
+  { n = 2, title = "Radio", mbid = "41017e11-2058-4345-9544-1b03c01550c2" },
+  { n = 3, title = "Rêve parti", mbid = "09e65fe7-140f-4400-9730-cebe2eb48175" },
+  { n = 4, title = "Exotica", mbid = "a2a7e405-6e25-45aa-9f0b-c45e12f63aaa" },
+  { n = 5, title = "La plupart du temps", mbid = "d44efb35-c584-4366-add9-55cc66369541" },
+  { n = 6, title = "Le Jeu", mbid = "33455e7e-9771-4def-be3c-ed2782b45bb6" },
+  { n = 7, title = "La femme papillon", mbid = "43e8782d-d8b8-4b57-bf7f-8d753f604e60" },
+  { n = 8, title = "Elle", mbid = "05004323-3adb-408d-b693-3b5cb6e09fa7" },
+  { n = 9, title = "Effrayé par la nuit", mbid = "6173849d-7792-4967-9cf6-71defc94e337" },
+  { n = 10, title = "Sur ma route", mbid = "b78c5a7e-5e6c-4799-afab-bd520e968823" },
+  { n = 11, title = "J'ai oublié ton image", mbid = "caf00707-3562-4f23-b230-b3b0fa01c138" },
+  { n = 12, title = "Tu peux voir", mbid = "9d44fb3a-5224-45fd-99a8-63ab066527f8" },
+  { n = 13, title = "Grenadine", mbid = "8a868182-837b-4269-ac46-fed10e98cdc3" },
+  { n = 14, title = "Message acide", mbid = "bc2a5247-eed7-4424-bcf5-7ecd1fc3adf5" },
+  { n = 15, title = "Prénom gravé", mbid = "16a5e3d3-8a86-486c-ae73-8fa758510700" },
+  { n = 16, title = "L'hiver sur tes lèvres", mbid = "246cbddc-3dfd-4247-b355-83d532ac9b4d" },
+  { n = 17, title = "Mélancolie", mbid = "1804b855-027c-4cbd-9763-98a89266b744" },
+  { n = 18, title = "Extatique", mbid = "822e39a3-6458-4990-a7c4-7a4fb7602883" },
+  { n = 19, title = "Message acide (Yuksek remix)", mbid = "9cfe44d9-b2dd-4cb4-8552-dbc8753c6d74" },
+  { n = 20, title = "Extatique (Baïda Baïda X Kenzi Bourras remix)", mbid = "2efb5cab-9cd5-475d-ba9b-cf38c0709901" },
+]
+
+[[release]]
+mbid = "f130e903-11da-4773-b76f-6b9587cbba4e"
+title = "La nuit"
+type = "single"
+date = "2026-03-06"
+tracks = [
+  { n = 1, title = "La nuit", mbid = "7af334af-b5c1-48ed-aa49-e5f0822168db" },
+]
+
+[[release]]
+mbid = "aec9b6b8-9e14-471e-8f69-e862ea483964"
+title = "Comète"
+type = "single"
+date = "2026-06-04"
+spotify = "23SkpEIdmzebdNVeenuaDV"
+tracks = [
+  { n = 1, title = "Comète", mbid = "c554377e-d42f-4023-a1df-9a5b2048cb76" },
+]
+
+[[release]]
+mbid = "71963382-f232-416f-bbdf-00fe767ca52e"
+title = "Polaroïds"
+type = "album"
+date = "2026-10-30"
+tracks = [
+  { n = 1, title = "Bleu", mbid = "539713c3-8acf-4030-ba4d-af9a1e39f438" },
+  { n = 2, title = "Traces", mbid = "fa07e597-4683-4ab3-8e29-244125e2e89d" },
+  { n = 3, title = "Boulevards", mbid = "9e572acb-8203-4469-9766-02f5d77dbdc8" },
+  { n = 4, title = "Comète", mbid = "a7deaecb-ea8c-4e43-bb2d-05e369f753d2" },
+  { n = 5, title = "Polaroïds", mbid = "d8570589-f1a2-474c-85cb-b23a3cb0eec8" },
+  { n = 6, title = "Flashback", mbid = "f989c978-4ab8-40a1-8d09-695f69d6a22a" },
+  { n = 7, title = "Blonde", mbid = "f3d1ec56-014a-4225-abce-475ef7563795" },
+  { n = 8, title = "Couleurs", mbid = "7fedecb9-cb32-4f50-80b6-433b2d5f4d65" },
+  { n = 9, title = "Mots", mbid = "0c357ab8-e607-4abc-8b47-794e4743e799" },
+  { n = 10, title = "Loup", mbid = "18e6fb2b-2a20-4c4f-bbf1-305871e5bf6d" },
+  { n = 11, title = "Poèmes", mbid = "9553eb21-8f72-4e86-b548-62112809a818" },
+]

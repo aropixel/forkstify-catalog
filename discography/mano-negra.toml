@@ -1,0 +1,234 @@
+format = 1
+
+[[release]]
+mbid = "dde55ce9-c6a7-4231-be15-73388e78f64c"
+title = "Takin' It Up"
+type = "single"
+date = "1987"
+tracks = [
+  { n = 1, title = "Takin' It Up", mbid = "04851633-8405-42f5-be55-4eb216b0a160" },
+  { n = 2, title = "The Rebel Spell", mbid = "ff18a8e6-8e0d-42c4-ae7d-5f77a3a3849c" },
+  { n = 3, title = "La zarzamora", mbid = "6ba36e8b-b422-4b8f-a6f1-221fabe85de3" },
+]
+
+[[release]]
+mbid = "8f6bd965-64b3-4c11-ab96-e49db2e7bb99"
+title = "Mala vida"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Mala vida", mbid = "b36e2c34-0ca5-4193-a7fc-df9b016c4b05" },
+  { n = 2, title = "Rock Island Line (remix)", mbid = "326d80d2-cbcf-43a0-8d65-817cb7de1bb4" },
+]
+
+[[release]]
+mbid = "2eaabfee-a0ba-41b5-9a01-c05194270238"
+title = "Patchanka"
+type = "album"
+date = "1988-10-24"
+spotify = "1i6RiKDCLS9KqgwfCQ1mRQ"
+tracks = [
+  { n = 1, title = "Mano Negra", mbid = "20904419-7169-4128-adce-5b3cd851f828" },
+  { n = 2, title = "Ronde de nuit", mbid = "ddbeda1c-1b87-4bde-90e7-cf5c53a38a53" },
+  { n = 3, title = "Baby You're Mine", mbid = "fe0c1674-d8bd-4d91-9f9d-7410115f5c63" },
+  { n = 4, title = "Indios de Barcelona", mbid = "df82c533-7e31-49a1-a6a6-6b17245d7262" },
+  { n = 5, title = "Rock Island Line", mbid = "ba9fdb35-9c09-44c2-9f75-5514a92c946e" },
+  { n = 6, title = "Noche de acción", mbid = "ee59ec41-2e64-47bf-8c56-373b6230f36c" },
+  { n = 7, title = "Darling Darling", mbid = "d07202e7-abcb-4d4a-a056-cf6d28dfeb7c" },
+  { n = 8, title = "Killin' Rats", mbid = "e0181795-1638-4f11-8202-4dbcfef76b91" },
+  { n = 9, title = "Mala vida", mbid = "b36e2c34-0ca5-4193-a7fc-df9b016c4b05" },
+  { n = 10, title = "Takin' It Up", mbid = "899e2798-3eda-4648-852a-62c287971c60" },
+  { n = 11, title = "La ventura", mbid = "412db604-6afc-4780-a62f-4f3042de1f1c" },
+  { n = 12, title = "Lonesome Bop", mbid = "5efeae79-46e8-434f-a094-06557bbb8377" },
+  { n = 13, title = "Bragg Jack", mbid = "3c13fc3f-aafe-4330-8c27-c58b9889b51c" },
+  { n = 14, title = "Salga la Luna", mbid = "f1287727-eeec-4028-bf4d-2803b8fda794" },
+]
+
+[[release]]
+mbid = "88e8251b-fcc0-40e7-bc9f-afeb3d53c9da"
+title = "King Kong Five"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "King Kong Five", mbid = "d894ab43-1bd9-4dd2-949b-5ad62ec9b8d4" },
+  { n = 2, title = "Food Fight", mbid = "21dd738f-2c42-4caa-92ea-1bad889e37de" },
+  { n = 3, title = "Soledad", mbid = "c4dfbf10-6756-4620-9f5c-d120477c46e0" },
+]
+
+[[release]]
+mbid = "fd2b7163-17b0-3bad-9519-720b5462b768"
+title = "Puta’s Fever"
+type = "album"
+date = "1989-05-31"
+spotify = "5RRl8EN39JgDo5QsDOFTXz"
+tracks = [
+  { n = 1, title = "Mano Negra", mbid = "aed9967f-7a45-4eb0-a31f-86c6316c196c" },
+  { n = 2, title = "Rock’n’Roll Band", mbid = "14c5b5ab-8d21-478e-9fb2-7f0f8d710c69" },
+  { n = 3, title = "King Kong Five", mbid = "31eef9c0-30b6-4bd4-89d1-4fdb04a5f68c" },
+  { n = 4, title = "Soledad", mbid = "c4dfbf10-6756-4620-9f5c-d120477c46e0" },
+  { n = 5, title = "Sidi’h’bibi", mbid = "cae99b2e-fc1e-4bb4-9ed7-112eafe33d9b" },
+  { n = 6, title = "The Rebel Spell", mbid = "37b32f5c-cb8f-4ff5-a92b-b8a9029c7c28" },
+  { n = 7, title = "Peligro", mbid = "b5311871-d3be-41ef-b404-5ffbbc2f748d" },
+  { n = 8, title = "Pas assez de toi", mbid = "a19be902-0ebc-4e75-aa62-0e6bb74f1d17" },
+  { n = 9, title = "Magic Dice", mbid = "23824e0c-bb18-4d41-99fd-9d2381987c3e" },
+  { n = 10, title = "Mad House", mbid = "c624b726-e5c1-4636-9a71-6bd4dd73c278" },
+  { n = 11, title = "Guayaquil City", mbid = "a0498e02-ee73-4285-ae19-38549f69bcd0" },
+  { n = 12, title = "Voodoo", mbid = "541128f6-c9fb-40ae-adec-23646dbdf7a7" },
+  { n = 13, title = "Patchanka", mbid = "a30db230-0727-4c75-80a3-6b83db81ec72" },
+  { n = 14, title = "La Rançon du succès", mbid = "9fdafb41-b24c-4848-ade6-da52bc19e11d" },
+  { n = 15, title = "The Devil’s Call", mbid = "1f07a135-fbf3-495c-b3c3-dc749231a34b" },
+  { n = 16, title = "Roger Cageot", mbid = "3ecbeac1-8ff4-4d48-85d1-6e315a2d488e" },
+  { n = 17, title = "El sur", mbid = "86246ecf-b056-40f2-a3e6-67eedea4b362" },
+  { n = 18, title = "Patchuko Hop", mbid = "f53e1353-869b-42e2-88ff-54006a7e4ee2" },
+]
+
+[[release]]
+mbid = "38e192b3-0727-346d-846f-50d70bb553ca"
+title = "Pas assez de toi"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "Pas assez de toi", mbid = "a19be902-0ebc-4e75-aa62-0e6bb74f1d17" },
+  { n = 2, title = "El Sur (live)", mbid = "f8009684-3850-4f39-9d56-115854723389" },
+  { n = 3, title = "Junky Beat (live)", mbid = "8864f331-9722-4c6e-854a-db83f296f65b" },
+]
+
+[[release]]
+mbid = "3d963c17-8c97-48d8-8833-29f615982dd3"
+title = "Patchanka"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "Patchanka", mbid = "b79b138e-da8c-450d-9897-1f75554fb550" },
+  { n = 2, title = "Baby You're Mine", mbid = "fe0c1674-d8bd-4d91-9f9d-7410115f5c63" },
+  { n = 3, title = "Salga la Luna", mbid = "78e0d91c-d186-45b6-8d06-0865ba2a7970" },
+  { n = 4, title = "Indios de Barcelona", mbid = "c8df9630-81dc-4d70-a664-eb122eaca18c" },
+]
+
+[[release]]
+mbid = "315f1556-b3fe-4118-b196-7a9c06a55504"
+title = "Madame Oscar"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "Madame Oscar", mbid = "7637d0ec-05d8-46a1-9bda-655278fb640a" },
+  { n = 2, title = "Sally, she's got 3 lovers", mbid = "bf8a9b2f-423d-4738-8fdc-8312a196b6e3" },
+  { n = 3, title = "Rock me baby", mbid = "fc5a9ad0-9707-4dd1-b71a-db080fb16ffa" },
+]
+
+[[release]]
+mbid = "88e0d597-617d-4c4a-b998-895e4326a5de"
+title = "Out of Time Man"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "Out of Time Man", mbid = "ac6767d4-6484-40b1-813b-fcf1508d13a5" },
+  { n = 2, title = "Amerika perdida", mbid = "5df62440-c486-41ab-a659-f5b0fa902d3d" },
+]
+
+[[release]]
+mbid = "593c996c-2fd1-3a5f-8528-394c23d71adb"
+title = "Sidi’h’bibi"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "Sidi'h'bibi", mbid = "135a4389-2efb-4f00-a22a-111cb7e54be5" },
+  { n = 2, title = "Rock & Roll Band (live)", mbid = "74831dc4-ea40-43f0-824f-136c0cc456d8" },
+  { n = 3, title = "Patchuko Hop (live)", mbid = "a2d1025e-e8de-4666-9a94-4debc7d6910e" },
+  { n = 4, title = "Darling Darling (live)", mbid = "e3a3729b-68b7-421a-bd00-6963f11fcaf2" },
+  { n = 5, title = "Sidi'h'bibi (live)", mbid = "8b689f4c-5ddd-4554-9ea6-a21f1ba7b3ed" },
+  { n = 6, title = "Mano Negra II (live)", mbid = "b61c7987-3ee4-4ed2-b422-0c65799274d7" },
+  { n = 7, title = "Magic Dice! (live)", mbid = "cdbb9029-f899-4b61-94d4-95d7c86f2971" },
+]
+
+[[release]]
+mbid = "8343cd71-680b-34f6-a628-9da4a09b5c46"
+title = "King of Bongo"
+type = "album"
+date = "1991-04-15"
+spotify = "5VMwAEtDGtNchZp8PCnx50"
+tracks = [
+  { n = 1, title = "Bring the Fire", mbid = "5a374539-29f4-4379-a2cd-c69b1471676d" },
+  { n = 2, title = "King of Bongo", mbid = "965f746f-f0f0-42ab-ab22-f84420ecf8d6" },
+  { n = 3, title = "Don’t Want You No More", mbid = "b0041e94-9bc8-408d-8715-293cdba2ef93" },
+  { n = 4, title = "Le Bruit du frigo", mbid = "e777718b-10b2-4cef-b90f-41842dbe1ec5" },
+  { n = 5, title = "Letter to the Censors", mbid = "a7027763-bace-47ee-ba43-b717ce9cca6e" },
+  { n = 6, title = "El Jako", mbid = "be74c1b1-2ce8-4feb-94df-91bfc36f3009" },
+  { n = 7, title = "It’s My Heart", mbid = "8f7a7fd9-c07b-4837-b335-66907779b315" },
+  { n = 8, title = "Mad Man’s Dead", mbid = "eb3910de-16f4-4c8a-a0e8-df4fe96e5b5c" },
+  { n = 9, title = "Out of Time Man", mbid = "ac6767d4-6484-40b1-813b-fcf1508d13a5" },
+  { n = 10, title = "Madame Oscar", mbid = "7637d0ec-05d8-46a1-9bda-655278fb640a" },
+  { n = 11, title = "Welcome in Occident", mbid = "3658cd0c-d952-4c46-8806-6cbe0bc82bde" },
+  { n = 12, title = "Furious Fiesta", mbid = "834cea1f-dd70-4109-a988-99f46291b14d" },
+  { n = 13, title = "The Fool", mbid = "f495aac7-e091-4903-931a-8195c98b77f4" },
+  { n = 14, title = "Paris la nuit", mbid = "83240ad7-da71-45bf-8696-bb9865765435" },
+]
+
+[[release]]
+mbid = "f4ab1ae5-bd6a-433b-8def-fc0ecd9c67e9"
+title = "King of Bongo"
+type = "single"
+date = "1991-05"
+tracks = [
+  { n = 1, title = "King of Bongo", mbid = "965f746f-f0f0-42ab-ab22-f84420ecf8d6" },
+  { n = 2, title = "When Good Is One", mbid = "24eee528-4476-4adb-90b3-6a89102bd0f0" },
+]
+
+[[release]]
+mbid = "b182e66c-d838-31f8-b502-61b7de65b70a"
+title = "Santa Maradona (Larchuma Football Club)"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Santa Maradona (Larchuma Football Club)", mbid = "18b29eeb-f17c-458b-a362-eb7e2bd056ca" },
+  { n = 2, title = "This Is My World", mbid = "98e554df-9cfd-47da-870e-782a20d632b7" },
+]
+
+[[release]]
+mbid = "0080320a-238c-4a2d-8d9d-a9811b0584ca"
+title = "Señor Matanza"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Señor Matanza (remix)", mbid = "3ff52cba-a690-42f7-9bce-0056bdbb1751" },
+  { n = 2, title = "Señor Matanza (Afro Ragga version)", mbid = "42cc9323-4659-4eb3-a959-201c367d3ed1" },
+  { n = 3, title = "Señor Matanza (Afro Ragga dub)", mbid = "4e4c4f53-0bf7-4ac6-ac3a-faabf247393b" },
+]
+
+[[release]]
+mbid = "6070c462-fe3f-325a-be85-a672634dee37"
+title = "Casa Babylon"
+type = "album"
+date = "1994-05-10"
+spotify = "0DzXs04hKcMYg7D2JSLptk"
+tracks = [
+  { n = 1, title = "Viva Zapata", mbid = "6d445fa2-2080-4011-9808-a61e3e1975fe" },
+  { n = 2, title = "Casa Babylon", mbid = "c3d1d749-a5d3-4571-bb18-910a5ac59921" },
+  { n = 3, title = "The Monkey", mbid = "f547e3c6-81f4-4a40-9bac-f1f489167ccc" },
+  { n = 4, title = "Señor Matanza", mbid = "0f5b6d7a-2450-4e24-97cd-f0c0d9ac25d4" },
+  { n = 5, title = "Santa Maradona (Larchuma Football Club)", mbid = "18b29eeb-f17c-458b-a362-eb7e2bd056ca" },
+  { n = 6, title = "Super Chango", mbid = "ad959c1e-7f2a-4b3d-bb4b-8d6fded55bd4" },
+  { n = 7, title = "Bala perdida", mbid = "b6b8a99e-7962-43a1-ac2e-10cc7d70375e" },
+  { n = 8, title = "Machine Gun", mbid = "6c2c11c6-7776-4e71-9218-34dcbc21e355" },
+  { n = 9, title = "El Alakrán (La mar está podrida)", mbid = "11b5b93f-84cc-4913-9512-338c521c4b20" },
+  { n = 10, title = "Mamá perfecta", mbid = "7da0bb88-c7cd-4acf-b564-a95fe63a59c0" },
+  { n = 11, title = "Love and Hate", mbid = "3332b997-95d2-477e-ac7f-79ba9a5f753e" },
+  { n = 12, title = "Drives Me Crazy", mbid = "3c1f5fd8-4cb4-4967-81b1-42dbb7b9fc42" },
+  { n = 13, title = "Hamburger Fields", mbid = "c1b7c833-84ab-4607-8214-139ba471ed21" },
+  { n = 14, title = "La vida (La vida me da palo)", mbid = "f1455c90-02c9-4912-b085-4eff6ee288e0" },
+  { n = 15, title = "Sueño de Solentíname", mbid = "52971a97-d3ac-425d-bb14-d6f82bfc07f9" },
+  { n = 16, title = "This Is My World", mbid = "98e554df-9cfd-47da-870e-782a20d632b7" },
+]
+
+[[release]]
+mbid = "1df5d618-6396-3ab0-a75c-bfd062436c2a"
+title = "Mini Negra EP"
+type = "ep"
+date = "2005-10-03"
+spotify = "50EwMYLpsgUYTEO4EiUBLU"
+tracks = [
+  { n = 1, title = "Sally (She Got 3 Lovers)", mbid = "f2aa0bd6-6034-4a71-8b36-2ee4834a3a08" },
+  { n = 2, title = "Out of Time Man", mbid = "7b02a305-dbfe-4580-a648-16219fb064e6" },
+  { n = 3, title = "Song for Jodie", mbid = "f03a1f2d-befa-4f97-9178-526f830a5db3" },
+  { n = 4, title = "When Good Is One (Bad They're Ten)", mbid = "feda557d-00af-4360-ac66-73a2c17c0eaf" },
+]

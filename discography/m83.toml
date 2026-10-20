@@ -1,0 +1,651 @@
+format = 1
+
+[[release]]
+mbid = "b1d19fbd-0840-3b90-ba0c-64832ba9838d"
+title = "M83"
+type = "album"
+date = "2001-04-18"
+spotify = "1AANo3NdYaTxJkIYnlIdhd"
+tracks = [
+  { n = 1, title = "Last Saturday", mbid = "4b0a3c59-a074-4081-88e5-534b7757df78" },
+  { n = 2, title = "Night", mbid = "1e05ec83-dc47-4284-9722-56e5fccd99d4" },
+  { n = 3, title = "At the Party", mbid = "b89fc6d5-507e-475f-b782-a8b8c14a3cdd" },
+  { n = 4, title = "Kelly", mbid = "a20c16af-bb02-45ba-bb36-76b77841f431" },
+  { n = 5, title = "Sitting", mbid = "7ad74fd2-2d03-45b2-a6af-a300f0857f47" },
+  { n = 6, title = "Facing That", mbid = "ef1b45d1-383f-4f3f-84a7-a99b414304f7" },
+  { n = 7, title = "Violet Tree", mbid = "a1f9a45c-6d7e-45ee-94c8-a65ab7a9a1cf" },
+  { n = 8, title = "Staring at Me", mbid = "c5a33534-df5b-40f6-aff1-ceed0067de50" },
+  { n = 9, title = "I’m Getting Closer", mbid = "082768be-9b1a-486c-ad32-8df40e818d09" },
+  { n = 10, title = "She Stands Up", mbid = "024db13d-3326-4ec1-b3b9-a3e86b993f60" },
+  { n = 11, title = "Carresses", mbid = "620701f1-d64e-4b90-90c7-b42ea0cbee5f" },
+  { n = 12, title = "My Face", mbid = "2fdf3822-2962-4f85-bafa-5e53f85b407c" },
+  { n = 13, title = "I’m Happy, She Said", mbid = "534accad-0f65-4ca8-b01b-3c75cf2b56e5" },
+]
+
+[[release]]
+mbid = "528afc2e-39d4-3e78-bb88-40aeb08bd122"
+title = "Dead Cities, Red Seas & Lost Ghosts"
+type = "album"
+date = "2003-04"
+spotify = "5u8hliZZtH3mc6o7BJRmVP"
+tracks = [
+  { n = 1, title = "Birds", mbid = "060b7674-6618-41a0-8266-a48d2c50e50c" },
+  { n = 2, title = "Unrecorded", mbid = "2234145a-0960-4eae-9c85-280f9f82d992" },
+  { n = 3, title = "Run Into Flowers", mbid = "ddfd893c-b877-43fb-a3fb-bcbd27ab2d5b" },
+  { n = 4, title = "In Church", mbid = "980feee3-32e1-48ca-9319-914f9d33d1a2" },
+  { n = 5, title = "America", mbid = "14b434c5-f22f-4a0b-92af-79fba85bc8e9" },
+  { n = 6, title = "On a White Lake, Near a Green Mountain", mbid = "487a449e-d0ca-43dd-86f1-17d8d88418e9" },
+  { n = 7, title = "Noise", mbid = "41f1ec5d-8cd5-4b9a-b686-5b4782c6fa28" },
+  { n = 8, title = "Be Wild", mbid = "f90b6fe8-5cde-4899-a024-8a5690f57f1e" },
+  { n = 9, title = "Cyborg", mbid = "d986465f-7beb-4afe-bde9-490813a62c87" },
+  { n = 10, title = "0078h", mbid = "d0a578cd-b1c9-426f-888a-e3b6eaf7b3ad" },
+  { n = 11, title = "Gone", mbid = "99f993b8-bc05-4b2d-b0bb-0f9299385256" },
+  { n = 12, title = "Beauties Can Die", mbid = "42b2f5c5-4149-4667-b561-e97f9e4b9c60" },
+]
+
+[[release]]
+mbid = "d06db363-761f-3aee-88f8-799766f1fb3a"
+title = "Run Into Flowers"
+type = "single"
+date = "2003-06-16"
+tracks = [
+  { n = 1, title = "Run Into Flowers", mbid = "ddfd893c-b877-43fb-a3fb-bcbd27ab2d5b" },
+  { n = 2, title = "Run Into Flowers (Abstrackt Keal Agram remix)", mbid = "0e9c3c92-90a6-433c-889d-547a24c188e2" },
+  { n = 3, title = "Run Into Flowers (Midnight Fuck remix by Jackson)", mbid = "a89cba7a-95eb-4930-8a49-ff2f37008112" },
+  { n = 4, title = "Run Into Flowers (Ig Farbenvorschlag remix by KG)", mbid = "409f6e7c-d77f-4e18-bd25-a7d6525f1088" },
+]
+
+[[release]]
+mbid = "804e96ed-fd41-3b01-8f1f-19c82289aa6c"
+title = "0078h"
+type = "single"
+date = "2003-12-01"
+tracks = [
+  { n = 1, title = "0078h", mbid = "d0a578cd-b1c9-426f-888a-e3b6eaf7b3ad" },
+  { n = 2, title = "Gone (live)", mbid = "6e468b9d-7ece-44ad-a2c0-a4d4a75ed076" },
+  { n = 3, title = "In Church (Cyann & Ben version)", mbid = "86be2b27-88aa-4c16-b14d-7fdab17cfaad" },
+]
+
+[[release]]
+mbid = "14b254b5-3644-3de9-a23b-5458d307ee1d"
+title = "America"
+type = "single"
+date = "2004-05-24"
+tracks = [
+  { n = 1, title = "America (edit)", mbid = "c43f559d-6b6b-48d9-aefb-ea6f14d41b4a" },
+  { n = 2, title = "Tsubasa", mbid = "72a5f1eb-b638-41fe-a0e8-1041cc847bba" },
+  { n = 3, title = "God of Thunder", mbid = "02bb2a14-9d0f-4c8a-b20d-ccf944777f76" },
+  { n = 4, title = "Dead Cities, Red Seas & Lost Ghosts", mbid = "9b423113-3c4f-4561-81aa-17c7ac4e3d4c" },
+]
+
+[[release]]
+mbid = "d8b2fcc0-f7c4-31e5-929e-62fa83e7db7e"
+title = "A Guitar and a Heart / Safe"
+type = "single"
+date = "2004-10"
+tracks = [
+  { n = 1, title = "A Guitar and a Heart", mbid = "7948ed50-3536-46e9-b6fb-eba2e3880bf8" },
+  { n = 2, title = "Safe", mbid = "61eafc08-ddb8-4c86-8066-659c165fc18e" },
+]
+
+[[release]]
+mbid = "ddaa2d4d-314e-3e7c-b1d0-f6d207f5aa2f"
+title = "Before the Dawn Heals Us"
+type = "album"
+date = "2005-01-24"
+spotify = "0rqPrhpgzR8NrwU86RzE0O"
+tracks = [
+  { n = 1, title = "Moon Child", mbid = "c64cecb0-00f1-4b47-bbd3-117146a8746c" },
+  { n = 2, title = "Don’t Save Us From the Flames", mbid = "a478867e-c17d-41b3-910b-2d66b444c407" },
+  { n = 3, title = "In the Cold I’m Standing", mbid = "88e30d49-ae99-47d0-a204-682b9f62131a" },
+  { n = 4, title = "Farewell / Goodbye", mbid = "ad8db217-880f-45fe-91f3-ca4b9147dfa5" },
+  { n = 5, title = "Fields, Shorelines and Hunters", mbid = "0889e2db-a0e2-4dfb-b8b3-b2f43809a939" },
+  { n = 6, title = "*", mbid = "3c5603f0-dcb3-4d3b-a541-0d81184a38ff" },
+  { n = 7, title = "I Guess I’m Floating", mbid = "a027729b-9363-4865-a751-4fa5a7d69989" },
+  { n = 8, title = "Teen Angst", mbid = "8ca0a1b1-f246-47b5-b5fb-ece8e18c1dd7" },
+  { n = 9, title = "Can’t Stop", mbid = "018b0fc8-68a5-45ea-9dfb-f0ddbf83ab3c" },
+  { n = 10, title = "Safe", mbid = "61eafc08-ddb8-4c86-8066-659c165fc18e" },
+  { n = 11, title = "Let Men Burn Stars", mbid = "a259c1f4-1d19-4c67-ab00-7a4d4a24e424" },
+  { n = 12, title = "Car Chase Terror", mbid = "8d391c31-5e91-4acc-9221-e6578663ce68" },
+  { n = 13, title = "Slight Night Shiver", mbid = "3d038174-91b9-4fab-90da-e80ccb9b89ca" },
+  { n = 14, title = "A Guitar and a Heart", mbid = "7948ed50-3536-46e9-b6fb-eba2e3880bf8" },
+  { n = 15, title = "Lower Your Eyelids to Die With the Sun", mbid = "cd2e7c47-16f5-46c6-a37c-a1eb7bf599ff" },
+]
+
+[[release]]
+mbid = "44cdd34a-9c7c-3bde-945c-01920fdc07ce"
+title = "Don’t Save Us From the Flames"
+type = "single"
+date = "2005-02-07"
+tracks = [
+  { n = 1, title = "Don’t Save Us From the Flames", mbid = "a478867e-c17d-41b3-910b-2d66b444c407" },
+  { n = 2, title = "Until the Night Is Over", mbid = "faf3236a-f5b5-4ef7-b3e3-af7a1f547124" },
+  { n = 3, title = "Don’t Save Us From the Flames (Superpitcher remix)", mbid = "06b4005b-f1b2-4866-8c4d-fa436d262176" },
+  { n = 4, title = "Don’t Save Us From the Flames (Boom Bip remix)", mbid = "1002b16e-7c2e-4d20-9166-833b5f120d9f" },
+]
+
+[[release]]
+mbid = "dcc392da-f6cb-34c8-82f6-ca89d66b6aa4"
+title = "Teen Angst"
+type = "single"
+date = "2005-04-19"
+tracks = [
+  { n = 1, title = "Teen Angst (edit)", mbid = "77290c8d-1476-4b19-ada0-9db9f711614e" },
+  { n = 2, title = "Teen Angst (Montag remix)", mbid = "ef2893ca-81e8-4330-968a-98acf33a1495" },
+]
+
+[[release]]
+mbid = "3e84bc0f-17fc-329a-a95f-7115d30f691c"
+title = "Digital Shades [vol. I]"
+type = "album"
+date = "2007-08-31"
+spotify = "7rMdrNcYIotfAnIzVL5IIW"
+tracks = [
+  { n = 1, title = "Waves, Waves, Waves", mbid = "6001c5ce-7b87-48c5-a833-ca19bd607a0d" },
+  { n = 2, title = "Coloring the Void", mbid = "ff6ce8db-6e1e-4301-93d3-f3d76c704551" },
+  { n = 3, title = "Sister [part I]", mbid = "c84bfe56-9e8c-4bfa-9541-1defe785eb82" },
+  { n = 4, title = "Strong and Wasted", mbid = "a0157f9c-7eec-412d-ab84-699c8dba5f22" },
+  { n = 5, title = "My Own Strange Path", mbid = "2742a57a-e8c5-4a4f-b35a-12bd266935b5" },
+  { n = 6, title = "Dancing Mountains", mbid = "a8e4b65f-7061-4383-9a37-8f58d9521be7" },
+  { n = 7, title = "Sister [part II]", mbid = "b96c29c5-6d1f-49f1-9104-c169cdd66588" },
+  { n = 8, title = "By the Kiss", mbid = "0c646885-cfaa-458c-bf95-bb6a5fcb870a" },
+  { n = 9, title = "Space Fertilizer", mbid = "3529a5e8-ade9-43a6-84e4-751dc65f0b0b" },
+  { n = 10, title = "The Highest Journey", mbid = "80bc50d9-6a69-4085-bf99-bb2a457ded30" },
+]
+
+[[release]]
+mbid = "8f92d7ed-d555-33c4-84a6-b82ec0eaf798"
+title = "Graveyard Girl"
+type = "single"
+date = "2008-04-07"
+tracks = [
+  { n = 1, title = "Graveyard Girl", mbid = "5ef249f6-7abe-4115-b4bf-eb8117090cf1" },
+  { n = 2, title = "Graveyard Girl (Yuksek remix)", mbid = "4afca2a7-c856-43a9-a4d2-b4af8f37ffd8" },
+]
+
+[[release]]
+mbid = "81fa7a0e-451f-3e51-8bc8-b8ab2b599bf0"
+title = "Saturdays = Youth"
+type = "album"
+date = "2008-04-14"
+spotify = "4HshNHpHWtmaw8sDrOXNuE"
+tracks = [
+  { n = 1, title = "You, Appearing", mbid = "24119924-7c51-4a1a-89dd-e623585f9c96" },
+  { n = 2, title = "Kim & Jessie", mbid = "889ecf78-6d1b-4694-9bc7-2d17aff60628" },
+  { n = 3, title = "Skin of the Night", mbid = "fdf4ec39-e927-4148-a0d5-c3b7c85cc634" },
+  { n = 4, title = "Graveyard Girl", mbid = "5ef249f6-7abe-4115-b4bf-eb8117090cf1" },
+  { n = 5, title = "Couleurs", mbid = "c34c07fb-f20d-4251-bc29-4a97d1abbe60" },
+  { n = 6, title = "Up!", mbid = "0d19b210-5877-4d75-91e8-403b493693cb" },
+  { n = 7, title = "We Own the Sky", mbid = "02760fd0-4d6e-4d82-921f-1013f31909eb" },
+  { n = 8, title = "Highway of Endless Dreams", mbid = "01466fe5-d78e-43ee-9577-89e9982efe01" },
+  { n = 9, title = "Too Late", mbid = "adc1e345-027c-45c2-846d-5e12f249a1c6" },
+  { n = 10, title = "Dark Moves of Love", mbid = "61c80ed1-e6a0-4d2b-8f24-3cd5b5ddc155" },
+  { n = 11, title = "Midnight Souls Still Remain", mbid = "48de4feb-8ba0-4248-825b-92d7513fb954" },
+]
+
+[[release]]
+mbid = "9d02be7b-f533-4ab0-a32c-348ac68ac837"
+title = "Black Hole"
+type = "single"
+date = "2010-07-05"
+spotify = "3WiEvckzA95IBG7YDHwifI"
+tracks = [
+  { n = 1, title = "Black Hole", mbid = "ff950bbb-0a2b-443d-bcfb-0921f0512ae2" },
+]
+
+[[release]]
+mbid = "f38c48c9-88a4-43f0-9011-46d312bbc9e6"
+title = "Mirror"
+type = "single"
+date = "2011"
+spotify = "2WqbgScsOiTs0ps64zytjZ"
+tracks = [
+  { n = 1, title = "Mirror", mbid = "ac6a57a5-eb15-4977-af35-045861da89a1" },
+]
+
+[[release]]
+mbid = "d89c6625-790c-471a-9f1a-a9a8592afee7"
+title = "Midnight City"
+type = "single"
+date = "2011-09-26"
+spotify = "6nN5b5w93prVcCpLex1xdZ"
+tracks = [
+  { n = 1, title = "Midnight City (Big Black Delta remix)", mbid = "30081005-1bda-41a6-9941-6b389bc3e1e5" },
+  { n = 2, title = "Midnight City (Trentemøller remix)", mbid = "b7e1f391-c25a-498e-83c5-83f1b3a1bf9c" },
+  { n = 3, title = "Midnight City (Man without Country remix)", mbid = "0d891039-b7b8-47cc-8799-0724962a3034" },
+  { n = 4, title = "Midnight City (Team Ghost remix)", mbid = "54da2912-4e6e-4b38-9857-fc12c0fc6fc7" },
+]
+
+[[release]]
+mbid = "5f898a60-acc5-48fc-a11b-2926084c0924"
+title = "Hurry Up, We’re Dreaming"
+type = "album"
+date = "2011-10-14"
+spotify = "4Milkl2q7KDtlwM8rS7wkt"
+tracks = [
+  { disc = 1, n = 1, title = "Intro", mbid = "5e898bfc-04f5-40f8-a740-83adf715e296" },
+  { disc = 1, n = 2, title = "Midnight City", mbid = "e83bc6ba-eff9-412c-8c11-5153672f25e7" },
+  { disc = 1, n = 3, title = "Reunion", mbid = "c4423a70-1e8e-45c8-98ad-c51bb25de925" },
+  { disc = 1, n = 4, title = "Where the Boats Go", mbid = "5d32705b-db0c-4490-9b11-15c4d32620c7" },
+  { disc = 1, n = 5, title = "Wait", mbid = "9bfa18fd-2dbc-44f9-8048-d86f39dc354c" },
+  { disc = 1, n = 6, title = "Raconte‐moi une histoire", mbid = "42f8045e-7d3d-4f2b-874c-8515b3c8041e" },
+  { disc = 1, n = 7, title = "Train to Pluton", mbid = "92c5ffd3-e485-46f7-8905-fa837d150a4f" },
+  { disc = 1, n = 8, title = "Claudia Lewis", mbid = "7c1f3ff0-47ca-47f2-8315-650dd2a40291" },
+  { disc = 1, n = 9, title = "This Bright Flash", mbid = "a795fea0-dd17-41ac-98a9-1bf7f1a47f75" },
+  { disc = 1, n = 10, title = "When Will You Come Home?", mbid = "ae38d082-ce1e-43c3-8b19-c175c985993d" },
+  { disc = 1, n = 11, title = "Soon, My Friend", mbid = "a3f9479a-7539-40ee-9c98-7c0a7f38896e" },
+  { disc = 2, n = 1, title = "My Tears Are Becoming a Sea", mbid = "f218c190-b26b-47dc-9162-addada7e392d" },
+  { disc = 2, n = 2, title = "New Map", mbid = "e44d57a6-bdf4-4957-ba34-4d679842dd1b" },
+  { disc = 2, n = 3, title = "OK Pal", mbid = "a319cc44-63e4-4081-a06b-997eb0674459" },
+  { disc = 2, n = 4, title = "Another Wave From You", mbid = "fbffcbcb-4086-462a-9e7d-ad06aa93a878" },
+  { disc = 2, n = 5, title = "Splendor", mbid = "e5831da7-ad49-4fc9-a224-3842b26544a8" },
+  { disc = 2, n = 6, title = "Year One, One UFO", mbid = "0c3345a5-3db6-4b70-a68f-0b375b5f984e" },
+  { disc = 2, n = 7, title = "Fountains", mbid = "4b07fbe4-ea00-4aac-8283-13e157020167" },
+  { disc = 2, n = 8, title = "Steve McQueen", mbid = "77ab9e03-bcc4-47f3-b566-c793e9ced1ca" },
+  { disc = 2, n = 9, title = "Echoes of Mine", mbid = "92e8a27b-97c7-460e-8d05-2c357eea26e0" },
+  { disc = 2, n = 10, title = "Klaus I Love You", mbid = "fa3bfcb3-5d29-452a-897e-0d27a2ced059" },
+  { disc = 2, n = 11, title = "Outro", mbid = "fd2a8756-11d5-44ae-8641-0acb1037c019" },
+  { disc = 2, n = 12, title = "Midnight City (Kerrigan RMX)", mbid = "5a0e18e1-60e3-428b-9228-769be9dab65c" },
+  { disc = 2, n = 13, title = "Midnight City (Big Black Delta RMX)", mbid = "30081005-1bda-41a6-9941-6b389bc3e1e5" },
+  { disc = 2, n = 14, title = "Midnight City (Team Ghost RMX)", mbid = "54da2912-4e6e-4b38-9857-fc12c0fc6fc7" },
+]
+
+[[release]]
+mbid = "a9e42baa-59a1-4b2a-8bf5-836b02684a8b"
+title = "Reunion"
+type = "single"
+date = "2012-02-06"
+spotify = "4pONPUcIvTS4JOrOpQbZoT"
+tracks = [
+  { n = 1, title = "Reunion (radio edit)", mbid = "3279a349-7a1a-4b32-b444-1fdd3e21e6a2" },
+  { n = 2, title = "Reunion", mbid = "c4423a70-1e8e-45c8-98ad-c51bb25de925" },
+  { n = 3, title = "Reunion (instrumental)", mbid = "4c791ed1-1a25-4d34-aa55-98783d10426c" },
+]
+
+[[release]]
+mbid = "6d292da4-598e-47e7-803f-7b7c513fa26d"
+title = "Steve McQueen"
+type = "single"
+date = "2012-11-26"
+spotify = "1RzX0ITcpGtGw2gImzZznR"
+tracks = [
+  { n = 1, title = "Steve McQueen", mbid = "77ab9e03-bcc4-47f3-b566-c793e9ced1ca" },
+  { n = 2, title = "Steve McQueen (Maps remix)", mbid = "c1a0499b-295b-418f-bda6-17902832e364" },
+  { n = 3, title = "Steve McQueen (SALM remix)", mbid = "743a7dc7-5215-46ed-af43-7f3c90e1da1a" },
+  { n = 4, title = "Steve McQueen (BeatauCue remix)", mbid = "d433177a-5963-4d47-8a9d-76905ae081d3" },
+  { n = 5, title = "Steve McQueen (Alluxe remix)", mbid = "05d01bda-8f71-4031-9d4c-892b8479a400" },
+]
+
+[[release]]
+mbid = "ab42aa59-2909-42cf-8276-387e71d1a9d4"
+title = "Oblivion: Original Motion Picture Soundtrack"
+type = "album"
+date = "2013-04-09"
+spotify = "5O5pnKHDJrwvL6w9Ne1mka"
+tracks = [
+  { n = 1, title = "Jack’s Dream", mbid = "4f535103-48bd-492e-a5e8-b1b6533d398c" },
+  { n = 2, title = "Waking Up", mbid = "e3cb8141-0a44-4139-a34d-1dd24d9f0e95" },
+  { n = 3, title = "Tech 49", mbid = "9d7f91f7-d0b6-49fa-960d-0e3c3b4c57c9" },
+  { n = 4, title = "StarWaves", mbid = "5ce4433b-6c77-4c87-8062-d32d402040b6" },
+  { n = 5, title = "Odyssey Rescue", mbid = "fe37dd16-29ad-47ac-8282-d30f89c1b6a9" },
+  { n = 6, title = "Earth 2077", mbid = "eddfbc0a-620a-4012-90a1-d06ef6c070d9" },
+  { n = 7, title = "Losing Control", mbid = "a7c0d049-0456-4d0f-9f91-13b2769692fa" },
+  { n = 8, title = "Canyon Battle", mbid = "7b1afb1f-68b8-459d-85d5-ea0b2550fe5b" },
+  { n = 9, title = "Radiation Zone", mbid = "a03f42ff-18ef-4bb0-a095-d53645d63db9" },
+  { n = 10, title = "You Can’t Save Her", mbid = "17b071a7-38b2-4071-aac1-f76cfd3cd176" },
+  { n = 11, title = "Raven Rock", mbid = "8d5728e0-1160-4b7b-9581-8b8e819cd878" },
+  { n = 12, title = "I’m Sending You Away", mbid = "73b9fec7-6a14-41ff-9f15-580baa619ce9" },
+  { n = 13, title = "Ashes of Our Fathers", mbid = "0d12f9e4-f796-44d8-b12a-3d0742504a0e" },
+  { n = 14, title = "Temples of Our Gods", mbid = "b4f451fb-48ea-442b-9ca0-8a399cbb9ea4" },
+  { n = 15, title = "Fearful Odds", mbid = "9d9c4004-7342-494d-8ffe-2081cfbebf40" },
+  { n = 16, title = "Undimmed by Time, Unbound by Death", mbid = "8a6b768b-872b-472d-8832-fb3ee2a0417c" },
+  { n = 17, title = "Oblivion", mbid = "3171e1b4-c19e-4dd2-9ba9-1c415eacff42" },
+]
+
+[[release]]
+mbid = "c76a714f-707f-4c68-b204-235591151135"
+title = "You and the Night"
+type = "album"
+date = "2013-11-18"
+spotify = "30WDqKCZ1h07deOgChVAOU"
+tracks = [
+  { n = 1, title = "L’Inconnu", mbid = "d24af1ad-5bdf-49fb-b684-4eb3b6b0740c" },
+  { n = 2, title = "Nous, Pt. 1", mbid = "045621ef-ce55-4042-8db0-fa2c26b62d63" },
+  { n = 3, title = "Vision, Pt. 1", mbid = "d0bce3a2-2072-49b5-815d-273c071c18eb" },
+  { n = 4, title = "À la lumière des diamants, pt. 1", mbid = "1740d5a3-cb76-44f5-969b-806b74f293c3" },
+  { n = 5, title = "Mon enfant", mbid = "e29d8b2a-672c-461a-84c5-c36bad31bf7a" },
+  { n = 6, title = "First Light", mbid = "3365c2e8-5412-4adc-83d5-8319d41135a6" },
+  { n = 7, title = "Ali & Matthias, Pt. 1", mbid = "c284f7c5-adc3-47dd-b7f7-3d9cb51aae24" },
+  { n = 8, title = "À la lumière des diamants, pt. 2", mbid = "7129cefd-4abe-409b-b02d-d74ed3ad39e3" },
+  { n = 9, title = "Holograms", mbid = "6799addc-43f2-4cfe-a432-001a6d547cbe" },
+  { n = 10, title = "Vision, Pt. 2", mbid = "cc8b0e1e-d070-487e-bddf-4e47b2ec09f1" },
+  { n = 11, title = "Nous, Pt. 2", mbid = "8d762b6f-1a9e-4540-b4e7-f1c2532fd6fa" },
+  { n = 12, title = "Ali & Matthias, Pt. 2", mbid = "886bb1aa-6bbd-4fc5-97ca-d88079f639fa" },
+  { n = 13, title = "To Sudden Silence", mbid = "21d00192-9aea-41d6-986b-1f620c5e1697" },
+  { n = 14, title = "Adieux", mbid = "4d2feb03-e2df-4af5-aaa2-3f4f15725d52" },
+  { n = 15, title = "Un nouveau soleil", mbid = "7452dfee-bed2-4b46-a1d5-0915c8a21d24" },
+]
+
+[[release]]
+mbid = "877ba68a-1cbc-4861-b1d3-3c1f9a8eaf45"
+title = "Suburra: Original Motion Picture Soundtrack"
+type = "album"
+date = "2015"
+tracks = [
+  { n = 1, title = "Midnight City", mbid = "e83bc6ba-eff9-412c-8c11-5153672f25e7" },
+  { n = 2, title = "By the Kiss", mbid = "0c646885-cfaa-458c-bf95-bb6a5fcb870a" },
+  { n = 3, title = "On a White Lake, Near a Green Mountain", mbid = "487a449e-d0ca-43dd-86f1-17d8d88418e9" },
+  { n = 4, title = "We Own the Sky", mbid = "02760fd0-4d6e-4d82-921f-1013f31909eb" },
+  { n = 5, title = "Bruits de train", mbid = "52ad3d09-463a-4495-8809-899182f00aae" },
+  { n = 6, title = "My Own Strange Path", mbid = "2742a57a-e8c5-4a4f-b35a-12bd266935b5" },
+  { n = 7, title = "Violet Tree", mbid = "a1f9a45c-6d7e-45ee-94c8-a65ab7a9a1cf" },
+  { n = 8, title = "Outro", mbid = "94948d51-e9a7-4f53-9e01-1743534ef6a0" },
+  { n = 9, title = "Sister (Part I)", mbid = "c84bfe56-9e8c-4bfa-9541-1defe785eb82" },
+  { n = 10, title = "In the Cold I’m Standing", mbid = "88e30d49-ae99-47d0-a204-682b9f62131a" },
+  { n = 11, title = "Sister (Part II)", mbid = "b96c29c5-6d1f-49f1-9104-c169cdd66588" },
+  { n = 12, title = "Waves, Waves, Waves", mbid = "6001c5ce-7b87-48c5-a833-ca19bd607a0d" },
+  { n = 13, title = "Wait", mbid = "9bfa18fd-2dbc-44f9-8048-d86f39dc354c" },
+]
+
+[[release]]
+mbid = "2371f600-a986-4d95-9f39-886da7ade2cd"
+title = "Glory"
+type = "single"
+date = "2015-05-15"
+spotify = "4NPGusd2WFcnUS0gBMG9xW"
+tracks = [
+  { n = 1, title = "Glory", mbid = "f90ef18e-b8e1-4454-bd84-682f740d9df3" },
+]
+
+[[release]]
+mbid = "1eac57fb-49b2-4ee2-8d42-5c9967e049da"
+title = "Do It, Try It"
+type = "single"
+date = "2016-03-01"
+spotify = "50fVPuzMJ0dRZxaO8LGSs1"
+tracks = [
+  { n = 1, title = "Do It, Try It", mbid = "327c451f-52c9-4bdf-a2b2-f4046f543963" },
+]
+
+[[release]]
+mbid = "0d41d07b-e092-4e43-be21-8aa56388f72c"
+title = "Solitude"
+type = "single"
+date = "2016-03-18"
+spotify = "0nXFlj0ENPZsKiRsmFYqfD"
+tracks = [
+  { n = 1, title = "Solitude", mbid = "23ca6dc3-b4ae-4159-8cec-2d88a99492e8" },
+]
+
+[[release]]
+mbid = "b086a473-6234-4652-8605-ce3c7549b2c6"
+title = "Go!"
+type = "single"
+date = "2016-04-04"
+spotify = "6EnMV0sXw0PDOgSZjg5zhq"
+tracks = [
+  { n = 1, title = "Go!", mbid = "8371ad41-20ee-4aee-975d-c4ae6c5084fd" },
+]
+
+[[release]]
+mbid = "b17c34e8-0f3a-4c85-9592-106b203ac09b"
+title = "Junk"
+type = "album"
+date = "2016-04-08"
+spotify = "2NDfGFApzXItl4hNOj1M4k"
+tracks = [
+  { n = 1, title = "Do It, Try It", mbid = "327c451f-52c9-4bdf-a2b2-f4046f543963" },
+  { n = 2, title = "Go!", mbid = "8371ad41-20ee-4aee-975d-c4ae6c5084fd" },
+  { n = 3, title = "Walkway Blues", mbid = "4838fd36-d795-4cc5-b3ea-9643f6e97d96" },
+  { n = 4, title = "Bibi the Dog", mbid = "cae7cfce-95bc-4559-b194-809a31e8bbbb" },
+  { n = 5, title = "Moon Crystal", mbid = "d38ef720-b900-485a-b3e0-48ebe3f3c3c1" },
+  { n = 6, title = "For the Kids", mbid = "8e110292-f44e-42bf-89ed-af884e5ef917" },
+  { n = 7, title = "Solitude", mbid = "23ca6dc3-b4ae-4159-8cec-2d88a99492e8" },
+  { n = 8, title = "The Wizard", mbid = "f9cd6256-2bb3-435f-9419-db22655aa19e" },
+  { n = 9, title = "Laser Gun", mbid = "8ff5cce2-41f4-404e-9252-bea02e270b36" },
+  { n = 10, title = "Road Blaster", mbid = "3ff4c64c-8c20-48cd-932a-896834020dfb" },
+  { n = 11, title = "Tension", mbid = "6f9ea71b-7564-4f9e-855b-ae023a4a7638" },
+  { n = 12, title = "Atlantique Sud", mbid = "5ed0e0d0-90c3-42a3-91ff-1176f6e6f24a" },
+  { n = 13, title = "Time Wind", mbid = "7992628a-abd7-4085-bd94-147f6f592c35" },
+  { n = 14, title = "Ludivine", mbid = "9dcdb20b-3bdf-4d1f-842f-d3cb545bea28" },
+  { n = 15, title = "Sunday Night 1987", mbid = "2a867469-baa7-4148-ae9f-1d38f0879c72" },
+]
+
+[[release]]
+mbid = "e117e2c3-8132-4f7b-b475-1a7cae9b1c63"
+title = "Knife + Heart"
+type = "album"
+date = "2019-03-08"
+spotify = "0pPHcb9k5gLDmgijz2H5cL"
+tracks = [
+  { n = 1, title = "Thrash Me", mbid = "193c0290-0e5b-4e98-8025-0cf0f984ef97" },
+  { n = 2, title = "Corridor", mbid = "9bc32af2-d9d8-4fd9-954b-08730d532543" },
+  { n = 3, title = "Karl", mbid = "d9290d9d-c58f-4f3d-ac9b-4c1e2042baaf" },
+  { n = 4, title = "Mercedes", mbid = "e70be361-91fa-46e1-947d-cfabb834840f" },
+  { n = 5, title = "Vision 1", mbid = "6649a50c-d352-414f-8e73-31c0e6b47426" },
+  { n = 6, title = "La Flicaille", mbid = "f415324f-f942-4c46-bfb1-8eff5565f561" },
+  { n = 7, title = "Filature", mbid = "bf6a144a-852c-40b7-9bf8-193b3dd7079a" },
+  { n = 8, title = "Malaguena", mbid = "3b76e5f1-b337-4689-8f60-2bf58b607697" },
+  { n = 9, title = "Vision 2", mbid = "c84612e3-4aaf-4271-935d-802b709a27fc" },
+  { n = 10, title = "Tu m’as tuée", mbid = "a8b94afc-41c0-4327-87b5-d999ba1226c5" },
+  { n = 11, title = "Sauna", mbid = "8b53bbc1-1ff7-4959-8fd7-ea105ed4be3e" },
+  { n = 12, title = "Voyance", mbid = "589418a4-7e69-4da7-a83a-0495f27e12da" },
+  { n = 13, title = "Un couteau dans le cœur", mbid = "ddc9fe5d-ff21-4a67-88d6-a2e7cde4bfd4" },
+  { n = 14, title = "Sombre vision", mbid = "a5ea54fa-2f6d-465f-80ba-fc8e557def1a" },
+  { n = 15, title = "Pyramides", mbid = "25748546-0705-4a30-8fd1-be0ec5e488fa" },
+  { n = 16, title = "Lettre lois", mbid = "8a4f4446-7a1a-4acf-841b-2ae8fb53af39" },
+  { n = 17, title = "Detective Rachid", mbid = "2e032416-615d-43f7-90fd-1cd02d884edb" },
+  { n = 18, title = "La Caverne", mbid = "8baf39ab-80e1-41f2-a80b-2f7f88bc8fd1" },
+  { n = 19, title = "Le tueur homo", mbid = "d37e864e-58a5-4efd-8bd5-e2ba2e445840" },
+  { n = 20, title = "Sauna (cheap version)", mbid = "4a564c1d-0a13-4e7e-8b71-a00134def1af" },
+  { n = 21, title = "De sperme et d’eau fraiche", mbid = "efaccdcc-8211-420e-a6c1-f4718630cdb8" },
+  { n = 22, title = "Hicham", mbid = "03761200-afa8-40e1-b4c1-fe5bc725ac83" },
+  { n = 23, title = "Cinéma Kill", mbid = "ad689f0b-df4f-4d62-b7c7-c6b98c6cf40d" },
+  { n = 24, title = "Vision finale", mbid = "669adfaa-7896-442c-9698-04097ab8560f" },
+  { n = 25, title = "Love’s Refrain", mbid = "b4df90df-f1cf-4a35-9f8c-acec4624f7c5" },
+  { n = 26, title = "Un couteau dans le cœur (reprise)", mbid = "6d963c54-6bf5-4882-a9ef-7aff76cf2dd7" },
+  { n = 27, title = "End Credits", mbid = "54f26cba-4609-48ee-95e5-af22cb75ad82" },
+]
+
+[[release]]
+mbid = "736328b6-be9b-4292-80c5-581a76b34172"
+title = "Temple of Sorrow"
+type = "single"
+date = "2019-09-05"
+spotify = "2PvL86NOD24xOMNePc4PBg"
+tracks = [
+  { n = 1, title = "Temple of Sorrow", mbid = "42c6e149-9c16-4554-bbae-b6b9c8bc3f9b" },
+]
+
+[[release]]
+mbid = "a40f2a1d-8774-4c37-be6f-27c74e105634"
+title = "Lune de fiel"
+type = "single"
+date = "2019-09-12"
+spotify = "7ogiYypv2LDe6OKy9MVW3z"
+tracks = [
+  { n = 1, title = "Lune de fiel", mbid = "058c4bf7-948b-4485-ba7e-8f74626439cd" },
+  { n = 2, title = "Temple of Sorrow", mbid = "42c6e149-9c16-4554-bbae-b6b9c8bc3f9b" },
+]
+
+[[release]]
+mbid = "d522067d-18cf-4d97-9dda-09d1a14bf1a3"
+title = "Feelings"
+type = "single"
+date = "2019-09-19"
+spotify = "2Y4NMFEEb0zjQZCw2XezYF"
+tracks = [
+  { n = 1, title = "Feelings", mbid = "86dc839a-a481-49d8-924e-1dd277a44773" },
+  { n = 2, title = "Lune de fiel", mbid = "058c4bf7-948b-4485-ba7e-8f74626439cd" },
+  { n = 3, title = "Temple of Sorrow", mbid = "42c6e149-9c16-4554-bbae-b6b9c8bc3f9b" },
+]
+
+[[release]]
+mbid = "08f2cc79-3817-44c5-a3bd-7b901588ed81"
+title = "DSVII"
+type = "album"
+date = "2019-09-20"
+spotify = "1Pyu7uKUDKNhdsYDL82Wkg"
+tracks = [
+  { n = 1, title = "Hell Riders", mbid = "32154900-714f-42c2-a89e-a0b51703fd03" },
+  { n = 2, title = "A Bit of Sweetness", mbid = "c111e620-31f4-4469-ac19-d3ad1ed29f16" },
+  { n = 3, title = "Goodbye Captain Lee", mbid = "abc7f138-4bb7-43bc-913e-54304c85022b" },
+  { n = 4, title = "Colonies", mbid = "e52c42a0-31d4-41b0-b5fa-2632df64023d" },
+  { n = 5, title = "Meet the Friends", mbid = "4d4429e1-85df-471e-ada3-ba2296694705" },
+  { n = 6, title = "Feelings", mbid = "86dc839a-a481-49d8-924e-1dd277a44773" },
+  { n = 7, title = "A Word of Wisdom", mbid = "1abf9bbf-915f-48e6-8ed9-a80ec6d94634" },
+  { n = 8, title = "Lune de fiel", mbid = "058c4bf7-948b-4485-ba7e-8f74626439cd" },
+  { n = 9, title = "Jeux d’enfants", mbid = "50282b6a-5e71-4176-b0f2-e27623d838f6" },
+  { n = 10, title = "A Taste of the Dusk", mbid = "f736356b-cde0-4161-961d-3561e0e42763" },
+  { n = 11, title = "Lunar Son", mbid = "2655dff0-f742-4049-8ab3-1f4ef00a24ca" },
+  { n = 12, title = "Oh Yes You’re There, Everyday", mbid = "fdd92163-738c-4690-b318-59e0bb62177b" },
+  { n = 13, title = "Mirage", mbid = "39d0ddd7-450a-4fb3-8cb3-404800eaaa7a" },
+  { n = 14, title = "Taifun Glory", mbid = "6b4002aa-761d-4537-bb4a-d79eca8136e8" },
+  { n = 15, title = "Temple of Sorrow", mbid = "42c6e149-9c16-4554-bbae-b6b9c8bc3f9b" },
+]
+
+[[release]]
+mbid = "f9a57d97-9e27-4702-9d80-d6f0de9ef78b"
+title = "Oceans Niagara"
+type = "single"
+date = "2023-01-10"
+spotify = "05lNHHSVcb58JiL1d0kPIr"
+tracks = [
+  { n = 1, title = "Oceans Niagara", mbid = "7b3afbd0-de73-449c-851e-0654c171c48a" },
+]
+
+[[release]]
+mbid = "caf27c9c-f211-4a76-b88c-5aa5ba7d6b7f"
+title = "Fantasy - Chapter 1"
+type = "ep"
+date = "2023-02-09"
+spotify = "4lty9bur48WkllXmSGrFko"
+tracks = [
+  { n = 1, title = "Water Deep", mbid = "deaeb144-2d69-46bf-95b5-0637f262ebcd" },
+  { n = 2, title = "Oceans Niagara", mbid = "7b3afbd0-de73-449c-851e-0654c171c48a" },
+  { n = 3, title = "Amnesia", mbid = "775a0134-1bc2-4cda-810b-9191dd9fae46" },
+  { n = 4, title = "Us and the Rest", mbid = "52de2efe-247f-4a12-8ffd-8f271981bfe7" },
+  { n = 5, title = "Earth to Sea", mbid = "55473d7b-2edd-49ea-8ca8-afe0f6b8a4c7" },
+  { n = 6, title = "Radar, Far, Gone", mbid = "01c39ae9-4b64-4363-bfe0-c9fdf16fa45f" },
+]
+
+[[release]]
+mbid = "f9f36abd-2bb7-4586-b422-26ae2287eb4a"
+title = "Fantasy"
+type = "album"
+date = "2023-03-17"
+spotify = "3OP8x4M096zMaMx3Rk89fw"
+tracks = [
+  { n = 1, title = "Water Deep", mbid = "deaeb144-2d69-46bf-95b5-0637f262ebcd" },
+  { n = 2, title = "Oceans Niagara", mbid = "7b3afbd0-de73-449c-851e-0654c171c48a" },
+  { n = 3, title = "Amnesia", mbid = "775a0134-1bc2-4cda-810b-9191dd9fae46" },
+  { n = 4, title = "Us and the Rest", mbid = "52de2efe-247f-4a12-8ffd-8f271981bfe7" },
+  { n = 5, title = "Earth to Sea", mbid = "55473d7b-2edd-49ea-8ca8-afe0f6b8a4c7" },
+  { n = 6, title = "Radar, Far, Gone", mbid = "01c39ae9-4b64-4363-bfe0-c9fdf16fa45f" },
+  { n = 7, title = "Deceiver", mbid = "f08699bb-974b-4774-b52b-d5d17a121990" },
+  { n = 8, title = "Fantasy", mbid = "f5ad8f2b-56fe-44c5-a5de-3f97d1893a78" },
+  { n = 9, title = "Laura", mbid = "f7bc1689-d14c-401f-aa42-693e8eae6d42" },
+  { n = 10, title = "Sunny Boy", mbid = "43dc7e40-ae16-471f-8487-d997f3d50396" },
+  { n = 11, title = "Kool Nuit", mbid = "f1fe798c-e7a6-471e-8570-e86c44005b1a" },
+  { n = 12, title = "Sunny Boy Part 2", mbid = "ee1e3929-66cd-4b68-b875-5d441dfb8a22" },
+  { n = 13, title = "Dismemberment Bureau", mbid = "ccf49496-6762-48de-a190-5c0c80cba77c" },
+]
+
+[[release]]
+mbid = "04544c61-8833-483d-ae62-278584216edf"
+title = "Bodies/Refuge"
+type = "single"
+date = "2025-03-07"
+tracks = [
+  { n = 1, title = "Bodies/Refuge", mbid = "1b20bf5c-0586-4b1c-a300-f22215674333" },
+]
+
+[[release]]
+mbid = "52802206-f6b3-454e-b86e-80c280605178"
+title = "Aquecimento Wait X Versão Funk RJ"
+type = "single"
+date = "2025-03-18"
+spotify = "5kklKlDMncF01PPOj4D9wj"
+tracks = [
+  { n = 1, title = "Aquecimento Wait X Versão Funk RJ", mbid = "acbe3741-6cf5-46c2-b546-16a83726e651" },
+]
+
+[[release]]
+mbid = "abd9efbb-cdfe-4703-86bf-99401d63bb19"
+title = "A Necessary Escape (part 2)"
+type = "single"
+date = "2025-04-16"
+spotify = "2eIzRLE2sKmMRTz8nvBoRH"
+tracks = [
+  { n = 1, title = "A Necessary Escape (part 2)", mbid = "66854e0a-bfe7-491c-83a2-489db56a72ec" },
+]
+
+[[release]]
+mbid = "4700ee0e-5642-49ba-a922-4d2b40822ec5"
+title = "A Necessary Escape: Dakar Chronicles: Original Soundtrack"
+type = "album"
+date = "2025-05-09"
+spotify = "71nVY2w2jyNpcuE27h4D0D"
+tracks = [
+  { n = 1, title = "A Necessary Escape (part 1)", mbid = "46528bc0-9293-404e-989e-70cb117b4a9f" },
+  { n = 2, title = "Strike Machine", mbid = "0ca52a63-857e-495f-aaf3-4b360866d930" },
+  { n = 3, title = "First Steps Upward", mbid = "bf3dbc2d-c108-44c2-8963-fff07291e9a3" },
+  { n = 4, title = "Members of the Universe", mbid = "902b2a95-cee3-489e-927f-2a67eb0b8e36" },
+  { n = 5, title = "Human Deceleration", mbid = "4e714d0f-ef7e-4c33-850a-7eaf1708a6f4" },
+  { n = 6, title = "Solid State Ricochet", mbid = "ff0c4781-e5fa-4e52-a0d3-68d01e860c7f" },
+  { n = 7, title = "Echoes", mbid = "7bb6c08d-a7b3-420e-a788-dd243c3ac421" },
+  { n = 8, title = "Atlas Imperial", mbid = "0c27cc07-316a-4032-97dc-fdb3905f9621" },
+  { n = 9, title = "Artificial Infinity", mbid = "6bda4c4c-cb61-4f16-9ab9-c7fe0cafe223" },
+  { n = 10, title = "To Our Guided Voices", mbid = "69be80da-7579-4562-adcc-5dee421b66a5" },
+  { n = 11, title = "A Necessary Escape (part 2)", mbid = "66854e0a-bfe7-491c-83a2-489db56a72ec" },
+  { n = 12, title = "A Necessary Escape (part 3)", mbid = "ae32e6fd-ae33-47fd-babc-a794dc25d5e2" },
+]
+
+[[release]]
+mbid = "65bc3d23-b3e7-4979-af8e-1f168c153b60"
+title = "Resurrection: Original Soundtrack"
+type = "album"
+date = "2025-12-10"
+spotify = "2Gvlc723AMrliLB7bgNQ30"
+tracks = [
+  { disc = 1, n = 1, title = "Spinning Fury (Part 1)", mbid = "34320934-5505-4266-8b02-2e118c677445" },
+  { disc = 1, n = 2, title = "Clamor of Time", mbid = "790c0d41-c07a-4853-ad2c-c2643e6bb2d1" },
+  { disc = 1, n = 3, title = "A Scent", mbid = "1c728ef7-cf18-4e62-9dc2-574123d65f2d" },
+  { disc = 1, n = 4, title = "From Bright Lights", mbid = "3d2d97fe-6bed-44d4-bcec-74d32bef756c" },
+  { disc = 1, n = 5, title = "Spectres", mbid = "8776fe92-3eca-4f68-91de-beaf2fd72666" },
+  { disc = 1, n = 6, title = "Transfiguration Overture", mbid = "aa9d9651-4a2c-44ce-9573-f0d40850c531" },
+  { disc = 1, n = 7, title = "Serpentine", mbid = "aedc2ea1-db9f-4d0f-b6b0-3bd3a9b1a8f7" },
+  { disc = 1, n = 8, title = "Resurrection", mbid = "f6d2a72a-7026-4280-90cb-81fbee12bf77" },
+  { disc = 1, n = 9, title = "Sullen Passage", mbid = "d44be4f3-76a2-4e4f-9954-ee0b709e28ed" },
+  { disc = 1, n = 10, title = "Spinning Fury (Part 2)", mbid = "8d7c5086-9f12-4178-8281-623632910bb7" },
+  { disc = 2, n = 1, title = "Fantasmers (Silent Film Part 1)", mbid = "4bbbeb0c-79c7-4051-87d1-6397fe832f41" },
+  { disc = 2, n = 2, title = "Fantasmers (Silent Film Part 2)", mbid = "5e75400f-6ada-47fe-bd22-7a206902f81b" },
+]
+
+[[release]]
+mbid = "3769f035-62e6-47d2-8c9b-038276aab05f"
+title = "Blister Sunrise"
+type = "single"
+date = "2026-09-04"
+spotify = "0YloSzp3b1YxEdYOxfbA5T"
+tracks = [
+  { n = 1, title = "Blister Sunrise", mbid = "0c8528d4-76e8-454c-b39f-438de5b210d5" },
+]
+
+[[release]]
+mbid = "33384986-2021-43fc-b4ba-b9d55acc2712"
+title = "I Wrote You a Letter"
+type = "album"
+date = "2026-09-25"
+spotify = "1EHDAMMjP2UCAEdmqf7704"
+tracks = [
+  { n = 1, title = "Blister Sunrise", mbid = "0c8528d4-76e8-454c-b39f-438de5b210d5" },
+  { n = 2, title = "Opera", mbid = "ae13950f-9932-4b7a-ba18-ca8a32f54579" },
+  { n = 3, title = "Siren / Behold… Beasts", mbid = "4de766c5-3921-49cb-b359-7eb948627d88" },
+  { n = 4, title = "Aged", mbid = "ac657214-e906-4238-bb2b-307a59ffe248" },
+  { n = 5, title = "Losing Ground", mbid = "1105bf2c-3700-4ad8-812b-755b9f51c638" },
+  { n = 6, title = "Soldiers of Lust", mbid = "459a3f85-607d-4ba5-861e-dde28db579bf" },
+  { n = 7, title = "Heart Motion Foto", mbid = "18091966-f86b-46db-ba9b-e921bc2b8b06" },
+  { n = 8, title = "Feeding Time", mbid = "b9ec020c-3798-4c43-bf26-ab141972dd87" },
+  { n = 9, title = "Traces of Love", mbid = "e9c6aa63-353f-4a21-8081-1b21aa9a6d13" },
+]

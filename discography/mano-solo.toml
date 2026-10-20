@@ -1,0 +1,302 @@
+format = 1
+
+[[release]]
+mbid = "dcd09622-eca6-4ef6-86f6-7abca19e08ee"
+title = "Allô Paris"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Allô Paris", mbid = "05e2ad12-9dcd-41f1-8268-8ae200acf335" },
+]
+
+[[release]]
+mbid = "2c3c12ca-a8f0-446e-9d65-6dfa1fae1aef"
+title = "C'est pas du gâteau"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "C'est pas du gâteau", mbid = "01aa24a1-6924-40bb-86a3-d59a77a629ad" },
+  { n = 2, title = "Allô Paris", mbid = "05e2ad12-9dcd-41f1-8268-8ae200acf335" },
+]
+
+[[release]]
+mbid = "b77e834c-adcb-38eb-844d-b78f198ba01a"
+title = "La Marmaille nue"
+type = "album"
+date = "1993-12-03"
+tracks = [
+  { n = 1, title = "La barre est dure", mbid = "6d6cd79f-11d1-4500-b130-900e569d3b7e" },
+  { n = 2, title = "Allo Paris", mbid = "05e2ad12-9dcd-41f1-8268-8ae200acf335" },
+  { n = 3, title = "Je marche seul", mbid = "9175006f-1637-4a0c-8025-4e0a1c454d02" },
+  { n = 4, title = "Sacré Cœur", mbid = "8bd72ec7-5872-4085-8697-808bc9af768e" },
+  { n = 5, title = "Chacun sa peine", mbid = "880ce3bd-b9ba-4557-b261-b1bff5631331" },
+  { n = 6, title = "15 ans du matin", mbid = "acc7f2e6-f9cd-40fd-aec6-26a80781b829" },
+  { n = 7, title = "Pas du gâteau", mbid = "01aa24a1-6924-40bb-86a3-d59a77a629ad" },
+  { n = 8, title = "Julie", mbid = "865e86dd-62f3-40e8-b65d-d0538b9fc43a" },
+  { n = 9, title = "Allez viens", mbid = "7b81de1f-9dce-4927-b784-161581389d99" },
+  { n = 10, title = "Toujours quand tu dors", mbid = "87b64907-6100-4354-88a4-3a651294a13b" },
+  { n = 11, title = "Au creux de ton bras", mbid = "ed15d929-14b1-4c6e-9df0-e2fac9e26f15" },
+  { n = 12, title = "Le Monde entier", mbid = "d12d8ed6-a853-434c-b1e8-d5ca8b34ba4c" },
+  { n = 13, title = "La Lune", mbid = "b9ce8848-2eb4-441a-9f1b-316746879b1f" },
+  { n = 14, title = "On boira de la bière", mbid = "ef974c26-2f4c-4c33-9e32-d4bf762df797" },
+  { n = 15, title = "Trop de silence", mbid = "83629aeb-1220-427e-a401-42767bcf2e2f" },
+]
+
+[[release]]
+mbid = "41b78175-e33e-47ac-a1f6-16b460367e14"
+title = "Au creux de ton bras"
+type = "ep"
+date = "1994"
+tracks = [
+  { n = 1, title = "Au creux de ton bras", mbid = "ed15d929-14b1-4c6e-9df0-e2fac9e26f15" },
+  { n = 2, title = "Allez viens", mbid = "7b81de1f-9dce-4927-b784-161581389d99" },
+]
+
+[[release]]
+mbid = "73adf8c7-e564-42aa-824c-8d9fd8e72aab"
+title = "C'est en vain"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "C'est en vain", mbid = "d44fd814-f112-40a1-9a98-1e279a036215" },
+]
+
+[[release]]
+mbid = "f1d3746a-d315-3ee5-bd61-6b1eeb0bd0f2"
+title = "Les Années sombres"
+type = "album"
+date = "1995-08"
+tracks = [
+  { n = 1, title = "C'est en vain", mbid = "d44fd814-f112-40a1-9a98-1e279a036215" },
+  { n = 2, title = "Tango", mbid = "cdf4a5ca-9d84-44e4-930e-69b0336f9d03" },
+  { n = 3, title = "Soir de retour", mbid = "76dcd85d-ef69-4c7b-bb0a-aada8da7ef46" },
+  { n = 4, title = "Y'a maldonne", mbid = "1e90ea7c-2e61-4c0d-bf2b-51a810072c69" },
+  { n = 5, title = "Paris boulevards", mbid = "794a28b0-a164-4fd2-a1d3-2815fcc1a9ec" },
+  { n = 6, title = "Dis moi", mbid = "9236ae19-9053-431d-94d4-dd22e5652495" },
+  { n = 7, title = "Tu t'envoles", mbid = "8251a476-f04a-4914-abf3-91fbd50b04e2" },
+  { n = 8, title = "Barbès-Clichy", mbid = "a85a728f-fa2f-4dd2-9d88-2509fab32469" },
+  { n = 9, title = "Quand tu me diras", mbid = "53bd80b6-9c4f-48de-9091-3af7ce1843e6" },
+  { n = 10, title = "Une image", mbid = "81cdc17f-366e-4cf6-b307-378463a07698" },
+  { n = 11, title = "À pas de géant", mbid = "d1d73e57-8ef7-40b2-88b6-a11ebfaf0d6a" },
+  { n = 12, title = "Les Poissons", mbid = "da062ea9-868f-443e-ac78-869b78b898a9" },
+  { n = 13, title = "Mes amis d'enfance", mbid = "28c7b9e0-1273-4325-9527-83bfc006800c" },
+  { n = 14, title = "Le Limon", mbid = "af999eb3-6b75-4599-bbaf-95bc265ffff1" },
+  { n = 15, title = "Je reviens", mbid = "88101c78-af72-4cbd-9464-76d3a2c4f165" },
+  { n = 16, title = "Tous les jours", mbid = "34f137d9-198c-445a-a211-5a28b091db25" },
+  { n = 17, title = "Pont d'Austerlitz", mbid = "ac9cf4a5-b6f9-4e8e-b776-0d9022a9aff2" },
+]
+
+[[release]]
+mbid = "497a967c-a9a4-485f-8cba-a8d770454667"
+title = "Il m'arrive encore"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Il m'arrive encore", mbid = "7cbbeb1f-52bc-4370-85f7-1ab3e0f38193" },
+]
+
+[[release]]
+mbid = "29ff71e3-517f-3c77-9caa-4275a60cf97e"
+title = "Je sais pas trop"
+type = "album"
+date = "1997-10-21"
+tracks = [
+  { n = 1, title = "Te souviens-tu", mbid = "27e1f923-3c66-4412-815b-3980f302b57d" },
+  { n = 2, title = "Les Fées", mbid = "3baae11f-332b-4a25-9323-74900950cc32" },
+  { n = 3, title = "La Liberté", mbid = "feddde21-6bc9-482d-85e6-ce9dd658d1b5" },
+  { n = 4, title = "Sens-tu", mbid = "3e861c40-623f-4126-948d-9243718248dc" },
+  { n = 5, title = "Le Drapeau", mbid = "bec58ef7-ad26-4598-a2c5-70de3d3c9cdc" },
+  { n = 6, title = "Ça n'a pas marché", mbid = "696b0db5-0ed5-4db7-815c-17211c975c4b" },
+  { n = 7, title = "Janvier", mbid = "d283d2ae-ed28-457e-aa78-38ff0f82fd44" },
+  { n = 8, title = "Il m'arrive encore", mbid = "7cbbeb1f-52bc-4370-85f7-1ab3e0f38193" },
+  { n = 9, title = "Que reste-t-il à vivre", mbid = "4aa23ab5-5455-4394-8f62-1fcd2fe178b1" },
+  { n = 10, title = "Je suis venu vous voir", mbid = "b3fc183d-81ea-4434-bd86-630b3a85a02d" },
+  { n = 11, title = "C'est plus pareil", mbid = "cf6dbda7-bb17-42fa-a59c-0e90e40e78db" },
+  { n = 12, title = "Novembre", mbid = "640da5e8-1c33-4d12-8183-397831da4864" },
+]
+
+[[release]]
+mbid = "8c0422fa-233b-4f2b-9192-613eca1a3aba"
+title = "La Liberté"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "La Liberté", mbid = "feddde21-6bc9-482d-85e6-ce9dd658d1b5" },
+]
+
+[[release]]
+mbid = "ad9b442d-a4d3-46d4-91dc-dc9ac2e223e9"
+title = "Te souviens-tu"
+type = "ep"
+date = "1998"
+tracks = [
+  { n = 1, title = "Te souviens-tu", mbid = "27e1f923-3c66-4412-815b-3980f302b57d" },
+  { n = 2, title = "Tchou-tchou", mbid = "752813d6-a7a8-4ecc-b241-c93f2d8e864b" },
+  { n = 3, title = "Planète Seultou", mbid = "76f7a465-0e4b-4182-92cc-e1382aece88f" },
+  { n = 4, title = "Naître gitan", mbid = "7140c73c-cd45-49af-bd97-93ae67175a6e" },
+]
+
+[[release]]
+mbid = "31c2589d-f215-4b3e-8b5d-e03f756947b9"
+title = "Julie"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Julie", mbid = "2dd77bed-a593-4ce6-a4fd-0fac7c66b0f0" },
+  { n = 2, title = "Te souviens-tu", mbid = "3fc10d5c-1369-4661-9ab9-0f9f42c1a212" },
+]
+
+[[release]]
+mbid = "c74e0b70-667f-41db-ae49-6af3a3f7d69f"
+title = "Je taille ma route"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Je taille ma route", mbid = "c8758678-5407-4762-b089-78d076e6e446" },
+]
+
+[[release]]
+mbid = "1b1df047-1b33-4495-99ac-f0ed15ac00f5"
+title = "Soif de la vie"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Soif de la vie", mbid = "1173d6d9-61e4-462a-a449-b8722682d8df" },
+]
+
+[[release]]
+mbid = "175540d9-88a2-3fa8-a09a-cd13f31d8121"
+title = "Dehors"
+type = "album"
+date = "2000-01-17"
+tracks = [
+  { n = 1, title = "Des pays", mbid = "05e097f1-b0c0-4cb9-ba99-924fedc52ef5" },
+  { n = 2, title = "Je taille ma route", mbid = "c8758678-5407-4762-b089-78d076e6e446" },
+  { n = 3, title = "El Mungo", mbid = "5560f38f-4519-4234-8769-97bf2a81fd61" },
+  { n = 4, title = "Pour gagner", mbid = "b284c3ab-360d-4c60-89a1-e0650e138b3e" },
+  { n = 5, title = "Les Gitans", mbid = "1b1b1ca8-474c-4a73-805c-27fbbf018588" },
+  { n = 6, title = "Là-bas", mbid = "6a03b8ba-dfff-41a7-bb22-32305804ba77" },
+  { n = 7, title = "Les Habitants du feu rouge", mbid = "8b845810-94ab-423d-b04e-2ed4168b63aa" },
+  { n = 8, title = "Canal du midi", mbid = "db9c521d-ebc9-4d53-aa64-43893863220a" },
+  { n = 9, title = "Le Périph", mbid = "c533bf44-9153-485a-9645-5c3d0211d793" },
+  { n = 10, title = "Soif de la vie", mbid = "1173d6d9-61e4-462a-a449-b8722682d8df" },
+  { n = 11, title = "Les Hommes seuls", mbid = "2473f9ac-eefe-42ba-8002-13f78055f9fc" },
+  { n = 12, title = "Métro", mbid = "ec65847c-3cb3-458f-9553-882bb634f037" },
+  { n = 13, title = "Les Enfants rouges", mbid = "dac094a6-58ed-41a6-ae2f-89548d2bc858" },
+]
+
+[[release]]
+mbid = "783e6817-2345-4992-a49e-f2d1d62b5d68"
+title = "Des pays"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Des pays", mbid = "840f4a5c-8f9d-49af-81a0-e4fb338e27eb" },
+]
+
+[[release]]
+mbid = "386acc8a-325d-4764-aa74-d16bff03976f"
+title = "Barrio Barbès"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "Barrio Barbès", mbid = "3bcc67e2-f833-4135-b436-329a93ecf499" },
+]
+
+[[release]]
+mbid = "a17ce7f1-eb99-4a74-a1fa-9a3c98512a27"
+title = "Du vent"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "Du vent", mbid = "36ca2a4a-3daf-49f8-bd13-6ab73ecdf416" },
+]
+
+[[release]]
+mbid = "33647ea1-cf76-3284-b581-348c397005df"
+title = "Les Animals"
+type = "album"
+date = "2004-09-21"
+tracks = [
+  { n = 1, title = "Savane", mbid = "f9a1e494-1509-41b4-b6dc-53ffd843c031" },
+  { n = 2, title = "Paris avance", mbid = "de7ffb1a-6ced-49e2-8f18-f9a677a9a1b3" },
+  { n = 3, title = "Animals", mbid = "0f89ff7c-97d0-4168-b8bb-1e4345e78719" },
+  { n = 4, title = "Du vent", mbid = "cdee13e6-8a30-4b75-a84e-04969bfd139c" },
+  { n = 5, title = "Je n'y peux rien", mbid = "47b62a34-410e-4f01-b8b3-fe50914ded32" },
+  { n = 6, title = "Les Rêves du cœur", mbid = "4ed377c1-6263-42e6-bfb6-86de375fe5f1" },
+  { n = 7, title = "L'Aventure", mbid = "c8d80326-18d1-4f48-9cae-9fb2b0aad669" },
+  { n = 8, title = "Rien n'est à toi", mbid = "4fb19e38-9713-406b-9b89-006323d7fc68" },
+  { n = 9, title = "Barrio Barbes", mbid = "a0b12420-5b9d-44df-b63f-622991b73e28" },
+  { n = 10, title = "Moi j'y crois", mbid = "73d5aea5-27c6-4dc7-98e7-51182cfcf866" },
+  { n = 11, title = "Botzaris", mbid = "27ce3619-f062-4bca-9326-668f6a9cabee" },
+  { n = 12, title = "La Suie", mbid = "10eadc7a-42e8-49fe-83de-4c65e91a22c6" },
+  { n = 13, title = "Sentiments", mbid = "a89409aa-15a8-4918-8552-c9df4a84d921" },
+]
+
+[[release]]
+mbid = "36c92f25-6e23-37a6-afc2-4933b961293b"
+title = "In the Garden"
+type = "album"
+date = "2007"
+tracks = [
+  { n = 1, title = "In the Garden", mbid = "65b7138d-30d7-44e9-85c3-f5397c07639d" },
+  { n = 2, title = "Les Endurants", mbid = "3a062b25-7908-4241-914f-4b64745275b3" },
+  { n = 3, title = "Les Petits Carrés blancs", mbid = "5c4fd36d-6ab0-4c2d-8984-cd5dc14e3451" },
+  { n = 4, title = "Palace", mbid = "525c764a-530b-4746-a49d-5e154b0df5db" },
+  { n = 5, title = "Aimer d’amour", mbid = "9219f710-8968-4884-997c-7419b5f53339" },
+  { n = 6, title = "La Fortune", mbid = "a7ae39c8-87f0-4cd4-95f7-621d94c49450" },
+  { n = 7, title = "Entre nous", mbid = "018e4554-9030-4104-9a04-514877160a68" },
+  { n = 8, title = "Dans ma mémoire", mbid = "0f0d197d-9bd5-4e24-aedc-1300bbc67944" },
+  { n = 9, title = "Le Repas", mbid = "2e2c9ac9-472d-4782-86e3-04b8b92d8b79" },
+  { n = 10, title = "No future", mbid = "7cef4c8a-bbad-43d4-89ae-5c6cdc011456" },
+  { n = 11, title = "Toujours le même tableau", mbid = "acde9fde-3bc5-4363-ae90-85fb6cf72ab0" },
+  { n = 12, title = "Ne sens‐tu rien venir", mbid = "460f3559-9c4b-48b1-85c0-67f0a18ecd81" },
+]
+
+[[release]]
+mbid = "2663f39c-8260-4737-a7ef-912db61fe086"
+title = "Les chevaux d'Aubervilliers"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Les Chevaux d'Aubervilliers", mbid = "76adbd72-dff0-4d74-889f-d0174d9e61f0" },
+]
+
+[[release]]
+mbid = "59f9e89c-a412-4237-b668-11973734ae05"
+title = "Tu m'as vu"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Tu m’as vu", mbid = "3fd81f2f-fa45-41a5-add7-2a4e7aac48de" },
+]
+
+[[release]]
+mbid = "3fd09046-a4ce-4abe-9947-d536fe1c391e"
+title = "Rentrer au port"
+type = "album"
+date = "2009-09-28"
+tracks = [
+  { n = 1, title = "J’avance", mbid = "0692ee97-6b52-45ef-b8c5-fde142e2020d" },
+  { n = 2, title = "Rentrer au port", mbid = "f4439191-5f3b-473a-8f17-8a768253cf9f" },
+  { n = 3, title = "Des années entières", mbid = "4fcc8c76-ebf7-4c73-96fd-4b9bbcd18f19" },
+  { n = 4, title = "La Rouille", mbid = "86bc1411-9b1b-4e87-965f-5626fedc6385" },
+  { n = 5, title = "Les Enfants des autres", mbid = "e865053a-5270-404d-8b06-586f84612279" },
+  { n = 6, title = "Pantin", mbid = "f7d74d34-e605-45a1-b9a4-5fb47005e323" },
+  { n = 7, title = "Partir ailleurs", mbid = "021984dd-f4db-41a9-86aa-50708284d671" },
+  { n = 8, title = "Les Enfants païens", mbid = "7149e55a-16b9-4121-8e86-d4fcb97f870d" },
+  { n = 9, title = "Tu m’as vu", mbid = "3fd81f2f-fa45-41a5-add7-2a4e7aac48de" },
+  { n = 10, title = "Le bus me réveille", mbid = "ecd8d756-9f8d-4fe3-bbde-0b6bd0125650" },
+  { n = 11, title = "Chaque matin", mbid = "b67ee156-a550-4d1f-bc7b-82f6787a54d9" },
+  { n = 12, title = "Les Chevaux d’Aubervilliers", mbid = "76adbd72-dff0-4d74-889f-d0174d9e61f0" },
+  { n = 13, title = "Ça scintille", mbid = "e9e907e9-86a5-479f-b4ea-2794901fb16d" },
+]
+
+[[release]]
+mbid = "c558301d-f91d-418d-ac91-2c20e8877f5b"
+title = "Le Doigt en l'air"
+type = "single"
+date = "2025-05-16"
+tracks = [
+  { n = 1, title = "Le Doigt en l'air", mbid = "b2f08527-0388-4c79-a255-afba2945e5a0" },
+]

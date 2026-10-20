@@ -1,0 +1,172 @@
+format = 1
+
+[[release]]
+mbid = "67eaf7ee-0653-4de9-808c-c131d2cc4198"
+title = "Morale"
+type = "ep"
+date = "2016-02-28"
+spotify = "4u1tGAlc7wHV4i9cDM0f1J"
+tracks = [
+  { n = 1, title = "Intro", mbid = "23582ddd-1ee6-4990-84a2-327096aebfb4" },
+  { n = 2, title = "Copain", mbid = "203c6f68-ff8a-426e-b637-ae319b48a632" },
+  { n = 3, title = "Poliss massa", mbid = "6a3e5406-4564-4ab4-8eed-7818aa1d7b94" },
+  { n = 4, title = "Assurance", mbid = "89156302-7b26-4e9c-82ed-51c53ac8f85d" },
+  { n = 5, title = "Intwodouckcheun", mbid = "86c8cfd7-3e68-4d8b-b590-cbcfaebc070d" },
+  { n = 6, title = "La Voiture, part I", mbid = "083473af-afa7-4974-a842-4be1ff3f9ed3" },
+  { n = 7, title = "La Valise, part II", mbid = "7f5b75d0-503c-4064-b811-417bc3982ada" },
+  { n = 8, title = "Tu sais ?", mbid = "6d0470e5-e511-4207-819d-4680dc501c32" },
+  { n = 9, title = "Des bulles", mbid = "9b62ee68-04c3-48c4-873a-0402b49640d1" },
+  { n = 10, title = "Morale", mbid = "3f977976-0ff7-43ea-95e4-c184771c6000" },
+  { n = 11, title = "2013", mbid = "e7e2c78b-4629-4594-b900-2ef7291e39e9" },
+]
+
+[[release]]
+mbid = "0a41984a-1872-42f6-80b4-3d8ae60a3a2b"
+title = "Morale 2"
+type = "album"
+date = "2017-03-17"
+spotify = "7HKruX7wpqedqw9D1SIOra"
+tracks = [
+  { n = 1, title = "Nappeux", mbid = "124b5607-fb06-45d4-8617-9ed9a798523c" },
+  { n = 2, title = "Agora", mbid = "8ffe882d-18fe-40c0-84e2-a82aed119284" },
+  { n = 3, title = "Diable", mbid = "31af4f18-e677-4951-a381-18cd6696e59d" },
+  { n = 4, title = "Drôle de question", mbid = "9ecbe184-57a4-4b0e-bf6c-ea266df310d1" },
+  { n = 5, title = "Switchin", mbid = "f5638a60-ec58-4fcc-bd2e-6267ddf2515f" },
+  { n = 6, title = "Bébé aime la drogue", mbid = "466b1336-88f6-462a-99f2-cfdd558eab58" },
+  { n = 7, title = "J'ai vu", mbid = "78b64b50-53dc-4cbc-9ca3-871fe86e871b" },
+  { n = 8, title = "Thalys", mbid = "2961d1b8-1f97-496b-ae91-e10b520bb171" },
+  { n = 9, title = "Lenita", mbid = "624237b9-ae91-4c53-abbf-840ed6fda7ca" },
+  { n = 10, title = "Interlude", mbid = "aaec2670-288f-406a-9183-f7ba11ae3d03" },
+  { n = 11, title = "Les hommes ne pleurent pas", mbid = "e7cae75e-ce00-4f90-bcbd-e77c952871d9" },
+  { n = 12, title = "Sabena", mbid = "2671400c-5529-469d-9f9a-650c34069748" },
+  { n = 13, title = "Ma tête", mbid = "e8cde8ea-1332-41ef-a7a4-291039297b68" },
+]
+
+[[release]]
+mbid = "3bc09782-91d9-4895-b9dc-f9d8a606ae0c"
+title = "Transiro"
+type = "ep"
+date = "2020-01-20"
+tracks = [
+  { n = 1, title = "Ashes", mbid = "a281beb0-db6b-4704-805b-4c937f55ce18" },
+  { n = 2, title = "Wasiwa", mbid = "9d696d73-9a55-4881-8009-b859c5d3edce" },
+  { n = 3, title = "Tewahedo", mbid = "1b2de3db-c4b3-4e63-be11-d391ba5b9e35" },
+  { n = 4, title = "Enono", mbid = "d62098dd-af28-4463-8a6b-6776947df016" },
+  { n = 5, title = "Chamaa", mbid = "6e6ba0e7-0775-400f-b595-34a28f7a74da" },
+  { n = 6, title = "Lean", mbid = "acc269bf-7ed0-4ae2-aeb1-83094c9378ac" },
+]
+
+[[release]]
+mbid = "5f120c91-5b37-42bb-9d4a-781d334b88c0"
+title = "Sueños"
+type = "ep"
+date = "2022-02-25"
+tracks = [
+  { n = 1, title = "Sueños", mbid = "37ce31cf-4102-4566-82f8-79b4e0be80d9" },
+  { n = 2, title = "Love Talk Bad", mbid = "1928031d-145c-4d20-aba0-a6d8e950a640" },
+  { n = 3, title = "Libet's Delay", mbid = "ddc222c0-1c92-4a5b-ba61-9e30d879f521" },
+  { n = 4, title = "Talking to Drums", mbid = "e8ec7224-848b-4781-a7c0-30042d63df6a" },
+  { n = 5, title = "Rápido", mbid = "3ba55531-33d0-4399-8b40-4af0da8bd58a" },
+  { n = 6, title = "Wonteeda", mbid = "1ef49901-661e-4ba0-8ff5-90e7a6164584" },
+]
+
+[[release]]
+mbid = "d5b7df1d-c59a-4ef0-83ee-c2ee6b76b48e"
+title = "Kernel Panic"
+type = "ep"
+date = "2022-12-26"
+spotify = "5BxDtyWcC0BRwbSv75zFJV"
+tracks = [
+  { n = 1, title = "Spirals", mbid = "55007ff6-c4ac-4f46-95b4-ead29017094a" },
+  { n = 2, title = "Raving Crew", mbid = "34689dfe-3401-447b-9740-4236c7df8400" },
+  { n = 3, title = "Piga Makofi", mbid = "11af76c4-38a2-4927-a466-9ad2c48a43ff" },
+  { n = 4, title = "Helix", mbid = "5d40868f-328f-4dc9-8859-a02038c2fe80" },
+  { n = 5, title = "429 Too Many Requests", mbid = "6d178c52-18ad-4a31-adf2-c6f844daf7ab" },
+  { n = 6, title = "Piga Makofi (instrumental)", mbid = "c93095f8-abf1-4641-b5e2-3a247d3d2a05" },
+]
+
+[[release]]
+mbid = "133d8871-d996-4d49-ae71-1b4875b0655b"
+title = "Kindness Weakness"
+type = "ep"
+date = "2023-02-15"
+spotify = "7j6z4PXZjJMgOZ8mKekptG"
+tracks = [
+  { n = 1, title = "On Topper", mbid = "adc9d4c0-c652-49e3-a538-dcafcd898214" },
+  { n = 2, title = "Blend", mbid = "377b7229-ec79-4973-b5fa-6a80173cd796" },
+  { n = 3, title = "Kindness Weakness", mbid = "0661d2d5-3afc-41f8-8e10-48bb17ddf91b" },
+  { n = 4, title = "Let Me Down", mbid = "664aebd1-1109-4ca2-af5b-fc23967cb571" },
+]
+
+[[release]]
+mbid = "00bc6a65-933e-4dda-91f6-166d3377df2e"
+title = "MAAR"
+type = "album"
+date = "2023-04-07"
+tracks = [
+  { n = 1, title = "La Perche", mbid = "eb65d944-8bb3-43d3-aa9e-4e9a7859c062" },
+  { n = 2, title = "Niebla", mbid = "2128f032-1b37-4d22-8b31-562a9610962d" },
+  { n = 3, title = "Microcosmos", mbid = "26b60c19-d853-4c46-8d24-49b87ac506ab" },
+  { n = 4, title = "Nautilius", mbid = "8c87f000-9c2d-491a-8aa4-7f37cb7f2a10" },
+  { n = 5, title = "Captain Ahab", mbid = "54424809-5544-4f63-a5d2-a177f45d7e65" },
+  { n = 6, title = "Seagulls", mbid = "426c9c93-0237-4b47-84ba-fbe56ac043aa" },
+  { n = 7, title = "Blankenberge", mbid = "7476335e-9124-43ab-83af-1d2dcafb03b9" },
+]
+
+[[release]]
+mbid = "592ddbe8-86ee-4ae0-8c41-64f591f7f4a1"
+title = "Odd Numbers / Số Lẻ"
+type = "album"
+date = "2025-02-28"
+spotify = "5wC42h7W0B10l5pEbsHlpz"
+tracks = [
+  { n = 1, title = "I Cried Like a Child of Three / Tôi đã khóc như một đứa trẻ lên ba", mbid = "25f86a81-3199-40a6-8585-6056b4335ab7" },
+  { n = 2, title = "Xăm Hường", mbid = "a05eeb1d-8c39-4415-a64f-e159390e1200" },
+  { n = 3, title = "Early Night With Fa and the Dang Brothers / Đầu hôm với Fa và anh em nhà họ Đặng", mbid = "c1049894-9daf-4182-8be5-faf39928fbc5" },
+  { n = 4, title = "La Palanche / Đòn gánh", mbid = "3396775b-04c0-4bfd-9153-adcd7cfa37d6" },
+  { n = 5, title = "The Universe Is a Rabid Creature / Vũ trụ là con thú điên", mbid = "e3e886ac-f047-41c4-bbe5-c69a5d1c9772" },
+  { n = 6, title = "Hanoi – The Motorcycle Empire / Hà Nội – Đế chế Xe ôm", mbid = "05986f91-31d5-4514-8b4c-f74778694395" },
+  { n = 7, title = "A Conversation Under the Night Sky / Cuộc chuyện dưới trời đêm", mbid = "0ca1b8ea-3c35-44be-8048-611462cdde61" },
+  { n = 8, title = "Altar / Bàn thờ", mbid = "8338343a-cce4-477e-b874-fe30bc405fb3" },
+  { n = 9, title = "Roóng Poọc", mbid = "14110b7e-54cd-4dff-a003-5618f5082517" },
+  { n = 10, title = "Chàm Islands", mbid = "919a14f1-8e52-45c8-96ce-b36a4403f816" },
+  { n = 11, title = "Lục bát", mbid = "db00da11-292f-41b6-9081-e5854fc5b7bd" },
+  { n = 12, title = "The Perfume River / Sông Hương", mbid = "8978a30b-f025-4369-941a-9d2b47c6df5f" },
+  { n = 13, title = "Tuj Lub", mbid = "ae116576-6e2b-40d8-96b5-98680ce12aee" },
+  { n = 14, title = "Đông Ba Market", mbid = "59f5a6b4-34ea-4d43-90d3-726e3a078aed" },
+  { n = 15, title = "Home Is a Fire / Nhà là một ngọn lửa", mbid = "d9e898d7-efdc-4bd5-a6ca-21bd75081744" },
+]
+
+[[release]]
+mbid = "df86f44d-3b71-4f5e-bf96-ef1eec298355"
+title = "Bitter Better"
+type = "album"
+date = "2025-09-24"
+spotify = "08bubTmlwYnVkMW7m6jGUB"
+tracks = [
+  { n = 1, title = "Bad From Day", mbid = "25665e70-5988-4cf7-b2a1-56b8ae45133a" },
+  { n = 2, title = "Bitter Better", mbid = "34600aa0-d19a-426e-8030-16c6383c041f" },
+  { n = 3, title = "No Fear", mbid = "f7f126d7-0035-4397-b9fe-f906312e8ee0" },
+  { n = 4, title = "Gal Dem", mbid = "dff52dd2-f460-47ae-a050-bd87b4e545dd" },
+  { n = 5, title = "Believe", mbid = "86f30db8-9591-41b9-aa84-bee55a251613" },
+  { n = 6, title = "On Topper", mbid = "a600c4d6-c139-4885-9eee-5549ed3d2f5c" },
+  { n = 7, title = "Blend", mbid = "7a95e06c-22d5-4901-81bb-5ecafa58d31b" },
+  { n = 8, title = "Kindness Weakness", mbid = "3f489d8b-bc5b-4edc-81ba-25507242d8dc" },
+  { n = 9, title = "Let Me Down", mbid = "b2f250fe-2fad-4449-a84f-08e90818126d" },
+]
+
+[[release]]
+mbid = "7f1584eb-847e-4dba-a802-0274f52773c3"
+title = "Pozo de Agua"
+type = "album"
+date = "2026-09-15"
+spotify = "6vMtJp5d41Gi2ApvUHhX7j"
+tracks = [
+  { n = 1, title = "Mangrove", mbid = "f0837935-cc6c-4c5d-8bf4-71055a9c77ae" },
+  { n = 2, title = "Yakushima", mbid = "139fbc39-6878-43f8-b44c-639391686fa0" },
+  { n = 3, title = "Cabane", mbid = "4d7288be-2e27-4f20-af8a-bf2e758cd61a" },
+  { n = 4, title = "Sundogs", mbid = "330c5d7d-99f0-4cc9-b69a-43c380859935" },
+  { n = 5, title = "Caracol", mbid = "388dba7b-4856-4798-a876-0b3e1efdf4a2" },
+  { n = 6, title = "Tree Arp", mbid = "5ff99bee-a943-4294-a8d7-7cf507790a61" },
+  { n = 7, title = "Waiting for Kiku", mbid = "6dcb735d-d24b-46f8-8867-274cef88a30b" },
+]

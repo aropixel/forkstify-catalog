@@ -1,0 +1,472 @@
+format = 1
+
+[[release]]
+mbid = "dd3b1603-6498-3c4c-9496-254424d61d0d"
+title = "Lunapark"
+type = "album"
+date = "1992-08-18"
+tracks = [
+  { n = 1, title = "Slide", mbid = "7c7bbf1f-5bab-4581-a67d-5b30431c3370" },
+  { n = 2, title = "Anesthesia", mbid = "16f61cd7-f753-4a52-be66-e10842a19d49" },
+  { n = 3, title = "Slash Your Tires", mbid = "2b7e93cc-2a52-4aa7-bdac-b1f177c74992" },
+  { n = 4, title = "Crazy People", mbid = "3f1ec728-3829-4145-9e96-6076738664ef" },
+  { n = 5, title = "Time", mbid = "7c916f4e-094e-46e0-9151-52f464ee829c" },
+  { n = 6, title = "Smile", mbid = "cb19b52c-ee97-484b-8320-975b45c0ca6b" },
+  { n = 7, title = "I Can’t Wait", mbid = "9b2b43bf-1ad2-491d-a398-4f453a911f60" },
+  { n = 8, title = "Hey Sister", mbid = "7dfa4e53-165b-48fe-91bf-98e976ef3c88" },
+  { n = 9, title = "I Want Everything", mbid = "f7c6a638-a4e1-4020-9154-da25934b5514" },
+  { n = 10, title = "Time to Quit", mbid = "8bbf04f2-accf-4ed1-a432-ba66cd5b640e" },
+  { n = 11, title = "Goodbye", mbid = "33379d4a-22c1-42ef-ada5-752dc725f212" },
+  { n = 12, title = "We’re Both Confused", mbid = "8b7e8c9c-d609-4fff-aeca-bf5a2d233557" },
+]
+
+[[release]]
+mbid = "d84aaecb-15c7-3eb1-b75f-c3b892486922"
+title = "Indian Summer"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Indian Summer", mbid = "bbfe4c7a-13d0-499f-8675-b566c791a2f4" },
+  { n = 2, title = "Egg Nog", mbid = "d19f8689-5f1a-4247-8b56-82c2c200d45b" },
+  { n = 3, title = "Ride Into the Sun", mbid = "eb9d6e55-44d3-4474-a96e-f8c6a9e81621" },
+  { n = 4, title = "That's What You Always Say", mbid = "139bed5f-86b7-4afe-a00b-355c95322548" },
+]
+
+[[release]]
+mbid = "9b4af6d5-882d-394b-994c-96454cce4929"
+title = "Slide"
+type = "ep"
+date = "1993"
+tracks = [
+  { n = 1, title = "Slide", mbid = "7c7bbf1f-5bab-4581-a67d-5b30431c3370" },
+  { n = 2, title = "Indian Summer", mbid = "cb8878b0-7589-46ee-9478-16cd32a67e7c" },
+  { n = 3, title = "Ride Into the Sun", mbid = "4e76b238-14f6-4477-833e-17579524008c" },
+  { n = 4, title = "That's What You Always Say", mbid = "12aa0250-be6a-4c07-8dff-950d57b1c327" },
+  { n = 5, title = "Hey Sister (demo version)", mbid = "e26c51f3-0214-4c5f-87ae-b33bf73f4a5b" },
+  { n = 6, title = "Rollercoaster", mbid = "ed1ed640-0311-49d3-aee7-e74b778b844a" },
+]
+
+[[release]]
+mbid = "25ae2667-12b4-46d6-83cc-c12d27e60dfe"
+title = "Smile"
+type = "ep"
+date = "1993"
+tracks = [
+  { n = 1, title = "Smile", mbid = "80d453c6-c2bc-4c58-960c-32fb15d0284f" },
+  { n = 2, title = "Slash Your Tires", mbid = "1ef63871-2c56-4374-bbe0-b5e947b6c344" },
+  { n = 3, title = "Hey Sister", mbid = "96f27c99-986f-4dd4-8602-8f4e051483ea" },
+  { n = 4, title = "Rollercoaster", mbid = "0349c114-07f9-47df-89e6-e69c464e228c" },
+]
+
+[[release]]
+mbid = "c8646bd8-e1ff-342a-ad8c-a75b020f4bb2"
+title = "Bewitched"
+type = "album"
+date = "1994-03-01"
+tracks = [
+  { n = 1, title = "California (All the Way)", mbid = "f17efe00-549a-4cbd-950c-0ba824de20a2" },
+  { n = 2, title = "Tiger Lily", mbid = "b652362a-5275-4efd-8627-b30705db7dfa" },
+  { n = 3, title = "Friendly Advice", mbid = "41bb7084-8c62-40da-ab59-8add150519bf" },
+  { n = 4, title = "Bewitched", mbid = "5e76aff1-7749-45c6-b85a-2841a461eae4" },
+  { n = 5, title = "This Time Around", mbid = "364f7c46-1ed7-4412-8da3-7f2df63ece72" },
+  { n = 6, title = "Great Jones Street", mbid = "b85f567f-a9ac-4ecf-9f0d-bcb49ab7f178" },
+  { n = 7, title = "Going Home", mbid = "66ab7b3e-dddc-4bad-b636-01ee5e0f75af" },
+  { n = 8, title = "Into the Fold", mbid = "3b7209f1-2e9f-4556-89c7-68d742745b82" },
+  { n = 9, title = "I Know You Tried", mbid = "4ef6dcdf-e232-4253-be69-f48f5168a256" },
+  { n = 10, title = "Sleeping Pill", mbid = "127cecdb-0415-49a7-9988-54194bfc4a67" },
+]
+
+[[release]]
+mbid = "7f96453a-a2eb-32a5-8bae-0504a0f1ee52"
+title = "Bonnie and Clyde / Chinatown"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Bonnie and Clyde (The Bonnie Parker version)", mbid = "a0793542-96e6-40e2-8d39-f962cc381e35" },
+  { n = 2, title = "Chinatown", mbid = "886e7e9b-701e-4a63-a0ea-6725a5a57d98" },
+  { n = 3, title = "Thank You for Sending Me an Angel", mbid = "fa6f3ea4-10d7-47a8-8e36-dffcc109167d" },
+  { n = 4, title = "Bonnie and Clyde (The Clyde Barrow version)", mbid = "2f4fb8b7-8ae1-4b79-9b04-fd34cfc3723d" },
+]
+
+[[release]]
+mbid = "7f8eb350-9934-37c4-8f77-6cbbb96efec1"
+title = "Hedgehog"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Hedgehog", mbid = "6ca84334-cf5b-4cc0-99a4-fa16fd7deacd" },
+  { n = 2, title = "23 Minutes In Brussels", mbid = "1c79af53-bb34-4551-aed9-8e4444bc676e" },
+  { n = 3, title = "No Regrets", mbid = "936158bf-4af9-47b4-b874-d1f43a430577" },
+  { n = 4, title = "Happy New Year", mbid = "5a81433c-7d81-48e3-ac1b-348a8f30692f" },
+]
+
+[[release]]
+mbid = "bf5d98c0-8587-33b2-9487-1e5a7105463f"
+title = "Penthouse"
+type = "album"
+date = "1995-08-08"
+tracks = [
+  { n = 1, title = "Chinatown", mbid = "c7851698-af5e-4201-ae63-9c737cfcbf53" },
+  { n = 2, title = "Sideshow by the Seashore", mbid = "49c0f005-dd77-4925-a546-ff91ce15d789" },
+  { n = 3, title = "Moon Palace", mbid = "087fe809-4c92-4d28-ae1b-865acff323f3" },
+  { n = 4, title = "Double Feature", mbid = "aa35e085-fea9-4d51-ab9f-06994266338d" },
+  { n = 5, title = "23 Minutes in Brussels", mbid = "1c79af53-bb34-4551-aed9-8e4444bc676e" },
+  { n = 6, title = "Lost in Space", mbid = "b19d59a5-61a7-469e-a63e-dc12913e5d3b" },
+  { n = 7, title = "Rhythm King", mbid = "8fb5a365-5ddc-43c7-8550-e376d7fb07fc" },
+  { n = 8, title = "Kalamazoo", mbid = "c4d42ec0-77c7-48cb-832c-9e148eb65fc6" },
+  { n = 9, title = "Hedgehog", mbid = "d6e64d16-f3ea-4a85-aa86-30ef0e58e725" },
+  { n = 10, title = "Freakin' and Peakin'", mbid = "e2bf709c-2acc-49ab-983f-cdc49a548de6" },
+  { n = 11, title = "Bonnie and Clyde (Clyde Barrow version)", mbid = "2f4fb8b7-8ae1-4b79-9b04-fd34cfc3723d" },
+]
+
+[[release]]
+mbid = "73f5ae86-9f1d-3d8d-85d3-dddcbf473097"
+title = "Luna EP"
+type = "ep"
+date = "1996"
+tracks = [
+  { n = 1, title = "Sideshow by the Seashore", mbid = "49c0f005-dd77-4925-a546-ff91ce15d789" },
+  { n = 2, title = "Thank You For Sending Me an Angel", mbid = "42d674fd-fc90-47ea-95d0-6682b4023208" },
+  { n = 3, title = "The Moviegoer", mbid = "3e55445a-3949-40f5-a589-70eab4c2795c" },
+  { n = 4, title = "It's Bringing You Down", mbid = "72c5530b-0dec-43ec-8bdf-0c4d22b1338a" },
+  { n = 5, title = "The Enabler", mbid = "e058ad8f-20cc-4514-b020-020961d6da14" },
+  { n = 6, title = "No Regrets", mbid = "936158bf-4af9-47b4-b874-d1f43a430577" },
+]
+
+[[release]]
+mbid = "b1b0eaf5-9f2c-3af6-93f2-e9bb98e24970"
+title = "Outdoor Miner"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Outdoor Miner", mbid = "45f17171-2ca6-4016-be71-a366c08e9bf8" },
+  { n = 2, title = "Roll in the Sand", mbid = "590ac20b-ab76-4957-a5ff-84cccb907ee2" },
+]
+
+[[release]]
+mbid = "9e4e7669-278e-3902-af9c-7d52012d9207"
+title = "Season of the Witch"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Season of the Witch", mbid = "6c584527-9378-46db-b1aa-a64e0dd13eca" },
+  { n = 2, title = "Indian Summer", mbid = "0469d488-47f3-40b1-9cc6-7951a1b49143" },
+  { n = 3, title = "Lost in Space", mbid = "7b783d23-1515-46a4-891a-53fd95f1d5dc" },
+  { n = 4, title = "23 Minutes in Brussels", mbid = "652a14f1-8d4c-4352-8700-315adba7c316" },
+]
+
+[[release]]
+mbid = "3e62a792-6b4c-33b5-9284-6397f1253620"
+title = "Bobby Peru"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Bobby Peru", mbid = "4050f849-be75-4990-9cb4-9a63cc55b975" },
+  { n = 2, title = "In the Flesh", mbid = "2f80eda4-3ddf-4d04-a429-5e71efdf828a" },
+  { n = 3, title = "Beggar's Bliss (demo)", mbid = "4efaf24e-1c18-46c5-8f63-44a8b1fb9335" },
+  { n = 4, title = "Bob Le Flambeur", mbid = "9c1a979e-0c5c-446e-9008-b962a389f0df" },
+]
+
+[[release]]
+mbid = "0b6b1b4e-ec13-34d0-aaf7-5d686eec7b2a"
+title = "IHOP"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "IHOP", mbid = "313bf0b1-1ed6-416a-ac7a-1bfb7c871139" },
+  { n = 2, title = "Fuzzy Wuzzies", mbid = "348d2c0e-569a-488f-86b0-c81862206c99" },
+  { n = 3, title = "Words Without Wrinkles", mbid = "d8d6f5ae-aff9-4c55-8367-ca04cf225c0f" },
+]
+
+[[release]]
+mbid = "d4ca15d0-aff6-3a7b-8405-6dd281052449"
+title = "In the Flesh"
+type = "single"
+date = "1997-04"
+tracks = [
+  { n = 1, title = "In the Flesh", mbid = "59827051-2b13-4dd4-a384-bfac82a110fb" },
+  { n = 2, title = "Early Morning", mbid = "ed03d187-6f27-46ad-8667-907746252b35" },
+]
+
+[[release]]
+mbid = "3334a0ab-6307-38b4-b2b6-55c61b28630a"
+title = "Pup Tent"
+type = "album"
+date = "1997-07-29"
+tracks = [
+  { n = 1, title = "IHOP", mbid = "313bf0b1-1ed6-416a-ac7a-1bfb7c871139" },
+  { n = 2, title = "Beautiful View", mbid = "558436b7-d28c-423b-89d2-afe0b56a8c93" },
+  { n = 3, title = "Pup Tent", mbid = "1b07b680-43f7-4c20-8b5d-11cb23db0d6b" },
+  { n = 4, title = "Bobby Peru", mbid = "ed9fbf86-da5e-4360-bde3-7b2f60fd095f" },
+  { n = 5, title = "Beggar's Bliss", mbid = "60222d9e-33bd-48e4-a9fc-e97c2be6ed82" },
+  { n = 6, title = "Tracy I Love You", mbid = "3bcb3c62-f486-45df-a6b8-fb971092797e" },
+  { n = 7, title = "Whispers", mbid = "e7852a28-b7ee-4ec0-9a48-b7bd3be15af4" },
+  { n = 8, title = "City Kitty", mbid = "c1a70de4-7d7c-480a-b913-c883d0e5a161" },
+  { n = 9, title = "The Creeps", mbid = "77cfe627-492a-4e48-8ab3-895fafc5d3fb" },
+  { n = 10, title = "Fuzzy Wuzzy", mbid = "4b974628-580f-45cd-8207-7673ba1f856f" },
+]
+
+[[release]]
+mbid = "72f288d6-8c3c-48ac-9216-796bd5ace69f"
+title = "Beautiful View"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Beautiful View", mbid = "558436b7-d28c-423b-89d2-afe0b56a8c93" },
+  { n = 2, title = "Bobby Peru (U.S. radio edit)", mbid = "b5aca0a3-e7ab-40d0-a647-88fb0a3c0714" },
+  { n = 3, title = "California (live)", mbid = "a9c3d834-409b-4362-98dc-03f8a432b097" },
+]
+
+[[release]]
+mbid = "8faa851a-e121-38af-810b-55367311c1d8"
+title = "Dance With Me / Astral Plane"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Dance With Me", mbid = "edbb8547-f9b8-45ea-9c0c-44ad992eaac4" },
+  { n = 2, title = "Astral Plane", mbid = "572d870c-c8a1-4533-880e-041a3b7dd026" },
+]
+
+[[release]]
+mbid = "b67c9d13-7112-3ab9-b217-9a787002bcd9"
+title = "EP"
+type = "ep"
+date = "1998"
+tracks = [
+  { n = 1, title = "Tracy I Love You", mbid = "001244c5-c1b9-4638-be81-60a395b9a0cb" },
+  { n = 2, title = "Pup Tent (live)", mbid = "677f07b8-9186-411c-9576-03211789b8dc" },
+  { n = 3, title = "IHOP (live)", mbid = "25310eea-7166-4982-a8b4-0f81c1801e8c" },
+  { n = 4, title = "Everybody's Talkin' (live)", mbid = "41d3e42b-bf80-4b54-a7e1-62f2eb7fd872" },
+  { n = 5, title = "Friendly Advice (live)", mbid = "1fc85b67-d020-4a1b-a19f-f7d544197e2d" },
+  { n = 6, title = "Bobby Peru (live)", mbid = "2c6e25d5-05af-4631-b635-a5ff92fdbc24" },
+]
+
+[[release]]
+mbid = "d983e5cf-d257-3948-acd9-d9360e7e8e98"
+title = "Everybody's Talkin'"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Everybody's Talkin'", mbid = "dedd36cf-3dc1-413c-a5b7-2d1562e441c8" },
+  { n = 2, title = "Fuzzy Wuzzy (demo)", mbid = "bfca9557-9bf9-4b34-a2bd-aa564a8b8d8f" },
+]
+
+[[release]]
+mbid = "8084aa25-0a21-3880-b1c2-84b3398ed023"
+title = "Dear Paulina"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Dear Paulina", mbid = "1882fe55-9c11-409c-8009-bbe8e01aab07" },
+  { n = 2, title = "Seven-Eleven", mbid = "b01ac251-e407-4d75-98c3-d44a1cd375fd" },
+]
+
+[[release]]
+mbid = "e2a21a21-54d0-4950-b3d9-c1a4ab88677f"
+title = "Superfreaky Memories"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Superfreaky Memories", mbid = "23cbb39f-92bf-464c-8c17-b5a88a2c2dfd" },
+  { n = 2, title = "Neon Lights", mbid = "44b613d9-98c8-4594-99d7-6a4945b60e4c" },
+  { n = 3, title = "The Bad Vibe Merchant", mbid = "4940cf5d-cbe4-4089-aa8a-18c8918ac44c" },
+]
+
+[[release]]
+mbid = "6ac78cf8-3a4e-34d8-ad29-c982725e3961"
+title = "The Days of Our Nights"
+type = "album"
+date = "1999-10-26"
+tracks = [
+  { n = 1, title = "Dear Diary", mbid = "4a509afe-4827-4950-b1a1-dfed9a6fbf8c" },
+  { n = 2, title = "Hello, Little One", mbid = "8c551892-d909-4865-a5c7-86cd7140dd77" },
+  { n = 3, title = "The Old Fashioned Way", mbid = "614d54ec-7e3d-40da-b827-e5092231821e" },
+  { n = 4, title = "Four Thousand Days", mbid = "36207dc1-8810-4155-886c-cf15d44c6c84" },
+  { n = 5, title = "Seven Steps to Satan", mbid = "ed005d01-bf36-49d1-96e3-51a97d0cbfdb" },
+  { n = 6, title = "Superfreaky Memories", mbid = "6d12732a-73d7-4cdb-a8cf-fc9108073ca5" },
+  { n = 7, title = "Math Wiz", mbid = "98e80225-4dc3-4530-9636-7c9a588cc9b4" },
+  { n = 8, title = "Words Without Wrinkles", mbid = "6ac55ccb-664c-41f6-8385-c25fbed78b8a" },
+  { n = 9, title = "The Rustler", mbid = "4c11e282-734a-4375-8e7e-35f0d69a7652" },
+  { n = 10, title = "U.S. Out of My Pants!", mbid = "13524014-15c5-4f17-9175-46f3f589813e" },
+  { n = 11, title = "The Slow Song", mbid = "5695b9ed-c4ac-4af1-a31a-9e64c4c0939b" },
+  { n = 12, title = "Sweet Child o' Mine", mbid = "3ba8be4f-8827-4bd7-920d-be584cf9d858" },
+]
+
+[[release]]
+mbid = "ddf479d7-f5ca-3f5a-8edc-5d2aca183c8f"
+title = "Romantica"
+type = "album"
+date = "2002-04-23"
+tracks = [
+  { n = 1, title = "Lovedust", mbid = "ea53eb02-463d-472d-8e2e-3cb73592ce6a" },
+  { n = 2, title = "Weird and Woozy", mbid = "d09fd5c9-bf53-4093-992f-0751525cb20a" },
+  { n = 3, title = "Black Postcards", mbid = "717885e5-b0ca-4225-8a03-a5eff8c2f0ad" },
+  { n = 4, title = "Black Champagne", mbid = "54696cfc-3f59-4e4c-a54a-c233b9c30496" },
+  { n = 5, title = "Swedish Fish", mbid = "b26b0709-1842-48e3-886b-b0b77a1ee5db" },
+  { n = 6, title = "Renée Is Crying", mbid = "97d7c271-56e0-4741-ad44-9c020b4cb6b5" },
+  { n = 7, title = "Mermaid Eyes", mbid = "e72ba220-efb4-451e-b038-da9fbd3329c1" },
+  { n = 8, title = "1995", mbid = "ee28f38c-5d8b-4879-8c70-552f17bb875b" },
+  { n = 9, title = "Rememories", mbid = "f82e5386-8428-469c-b202-5db36430ac8e" },
+  { n = 10, title = "Dizzy", mbid = "10db8209-3e56-4a89-a8fe-33e405b57867" },
+  { n = 11, title = "Orange Peel", mbid = "e048b248-eb63-4343-817c-b6a8275ca5a0" },
+  { n = 12, title = "Romantica", mbid = "069dd58f-7f45-4947-9ec4-d365b47bb9b5" },
+]
+
+[[release]]
+mbid = "339fe4a2-798d-35f9-95a4-1858ba980024"
+title = "Close Cover Before Striking"
+type = "ep"
+date = "2002-10-08"
+tracks = [
+  { n = 1, title = "Astronaut", mbid = "529ebc22-1525-4387-b541-9dd64f85f497" },
+  { n = 2, title = "Waiting on a Friend", mbid = "dc566a1d-1c9e-41eb-ac4e-b92301d828d2" },
+  { n = 3, title = "Teenage Lightning", mbid = "5b3f28ff-94d7-41c6-b293-becd4b0b219d" },
+  { n = 4, title = "Drunken Whistler", mbid = "cef85dce-a987-4a99-85b2-aaa6cad1fd99" },
+  { n = 5, title = "The Alibi", mbid = "1f69461a-8484-4a58-bda0-3db66b355771" },
+  { n = 6, title = "New Haven Comet", mbid = "45e73c38-856a-4f00-88e8-786238b922e9" },
+  { n = 7, title = "Neon Lights", mbid = "b49bbf3b-587b-4eea-8269-1ab42f4b40dc" },
+]
+
+[[release]]
+mbid = "c0da58ce-452a-3c0a-9b89-b567dc91f1a3"
+title = "Speedbumps"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "Speedbumps", mbid = "42a83f78-09be-4fcb-bb11-68aa52302eb8" },
+  { n = 2, title = "Astronaut", mbid = "5e97136d-59fa-40b5-9956-df9510402259" },
+  { n = 3, title = "Eyes in My Smoke", mbid = "466c26d4-7c44-4dfd-9c82-a9b832db3e35" },
+]
+
+[[release]]
+mbid = "9a6ca889-2389-3ea6-8aff-0a06e71325d9"
+title = "Rendezvous"
+type = "album"
+date = "2004-10-26"
+tracks = [
+  { n = 1, title = "Malibu Love Nest", mbid = "17922da5-c511-4559-98ff-f375b325e772" },
+  { n = 2, title = "Cindy Tastes of Barbecue", mbid = "adf24542-3578-44de-bb3f-31cbb84851b9" },
+  { n = 3, title = "Speedbumps", mbid = "cd672db2-dd9c-459c-8b29-e2dff2b1853d" },
+  { n = 4, title = "The Owl & the Pussycat", mbid = "c3093752-b244-4a55-ba7c-c37f5dca2a25" },
+  { n = 5, title = "Astronaut", mbid = "fb3e2998-10d9-46d7-a9f2-46cef2780507" },
+  { n = 6, title = "Broken Chair", mbid = "fae04ec5-8514-42c5-83a1-f74bcebeb9ed" },
+  { n = 7, title = "Star-Spangled Man", mbid = "36899086-5cea-45fd-a2a1-b2b78d8b4aab" },
+  { n = 8, title = "Motel Bambi", mbid = "a610cfd6-5362-4567-b5c9-460b955a184b" },
+  { n = 9, title = "Still at Home", mbid = "119fed3b-76c1-4180-9785-5a74e0f16b6d" },
+  { n = 10, title = "Buffalo Boots", mbid = "0d4ab46a-488a-43b1-9d50-43af8ab7bed2" },
+  { n = 11, title = "Rainbow Babe", mbid = "a35fe117-61a2-491b-bde7-8dc219caa930" },
+]
+
+[[release]]
+mbid = "a0d3f168-31ab-4e6a-89db-a2dfadfa6edb"
+title = "Luna Demos 1991"
+type = "ep"
+date = "2015-06-27"
+tracks = [
+  { n = 1, title = "Anesthesia", mbid = "779fe8a8-5f7c-4246-9e6b-84b7617d04b5" },
+  { n = 2, title = "I Can't Wait", mbid = "c045a09d-8ab1-4d9b-8ffb-885a03a44aa8" },
+  { n = 3, title = "Time", mbid = "e206b1ec-6cfd-4a20-ab74-e0500e4ad4ce" },
+  { n = 4, title = "Crazy People", mbid = "1594e0dc-abf3-40f2-954d-f48adba26991" },
+  { n = 5, title = "Slash Your Tires", mbid = "9404d3fa-c967-449a-9a43-1f5b13efb15b" },
+]
+
+[[release]]
+mbid = "3a218082-ec5a-4b5a-9d3c-25dc97b127aa"
+title = "California Blue / Rock Yr Baby"
+type = "single"
+date = "2017"
+tracks = [
+  { n = 1, title = "California Blue", mbid = "df391775-e633-45f6-a92d-b9efd50352b6" },
+  { n = 2, title = "Rock Yr Baby", mbid = "aa5b84d3-8912-454a-999e-a2bf20bb0325" },
+]
+
+[[release]]
+mbid = "c786946e-17d9-4b97-b3c6-241467785894"
+title = "Play The Velvet Underground’s “Lonesome Cowboy Bill”"
+type = "single"
+date = "2017"
+tracks = [
+  { n = 1, title = "Lonesome Cowboy Bill", mbid = "39b5ca57-2b53-475b-9781-1867662bf203" },
+  { n = 2, title = "Lonesome Cowboy Bill", mbid = "723d4134-21b0-40c0-b7da-9f8f12ca8e52" },
+]
+
+[[release]]
+mbid = "441a1093-7e9b-4ba3-8a61-5428ac42f80d"
+title = "A Place of Greater Safety"
+type = "ep"
+date = "2017-09-22"
+tracks = [
+  { n = 1, title = "GTX3", mbid = "7e995b21-73c6-4b26-818b-33decef00792" },
+  { n = 2, title = "A Place of Greater Safety", mbid = "50c0d661-fd50-412c-88d7-c123a133da6b" },
+  { n = 3, title = "Captain Pentagon", mbid = "4aa6c562-dd07-425a-9cb4-f4cb6c2fb59b" },
+  { n = 4, title = "Around and Around", mbid = "17ce2755-0fde-4cba-a8fb-7d5bfe7e859c" },
+  { n = 5, title = "Ides of March of the Trolls", mbid = "577c0779-7890-4b6a-8504-a41a9581cd6c" },
+  { n = 6, title = "Spanish Odyssey", mbid = "06206db0-61b5-4d3e-81e0-4673a1d28ebb" },
+]
+
+[[release]]
+mbid = "c938a753-f084-405e-b3ba-27bd3182c9d6"
+title = "A Sentimental Education"
+type = "album"
+date = "2017-09-22"
+tracks = [
+  { disc = 1, n = 1, title = "Fire in Cairo", mbid = "4d031afa-3434-4d83-91d2-9d83e0a02ead" },
+  { disc = 1, n = 2, title = "Gin", mbid = "86699e33-8da0-48da-a60c-8f9c1b5deee1" },
+  { disc = 1, n = 3, title = "Friends", mbid = "1195a216-974c-4466-b23e-78c1b9382873" },
+  { disc = 1, n = 4, title = "One Together", mbid = "c859ec5c-5a90-4632-8d87-186b9977f84d" },
+  { disc = 1, n = 5, title = "Most of the Time", mbid = "7297f12c-d993-49e2-9b95-bcafaf900e55" },
+  { disc = 1, n = 6, title = "Sweetness", mbid = "f1a005d3-6215-4150-91aa-3669cacc639e" },
+  { disc = 1, n = 7, title = "Letter to Hermione", mbid = "54f40590-aeb4-4e58-9853-3b3a8b8eeab5" },
+  { disc = 1, n = 8, title = "(Walking Thru' the) Sleepy City", mbid = "eda5ba4c-770d-4e6d-aff8-d7e1fe9d27a4" },
+  { disc = 1, n = 9, title = "Let Me Dream If I Want To", mbid = "a17656ed-0793-463a-89e6-60a5cd0b69e1" },
+  { disc = 1, n = 10, title = "Car Wash Hair", mbid = "26f23de7-b8ce-4476-bd8e-f8aefa7f0504" },
+  { disc = 2, n = 1, title = "GTX3 (instrumental)", mbid = "1e151f26-a885-414d-8a9d-aac7b9e0bef6" },
+  { disc = 2, n = 2, title = "A Place of Greater Safety (instrumental)", mbid = "73ba1272-f098-479d-b85a-7c2901faf186" },
+  { disc = 2, n = 3, title = "Captain Pentagon (instrumental)", mbid = "9da3ec38-01e3-4b7d-85d3-48db06faf447" },
+  { disc = 2, n = 4, title = "Around and Around (instrumental)", mbid = "a2a1c1fd-ee58-4200-bdbc-4d8ca9004c8f" },
+  { disc = 2, n = 5, title = "Ides of March of the Trolls (instrumental)", mbid = "e22e50db-7e85-4d7b-9cfe-ab47d7c5851f" },
+  { disc = 2, n = 6, title = "Spanish Odyssey (instrumental)", mbid = "fe7350db-f753-4085-8e65-dbe8f27d4428" },
+]
+
+[[release]]
+mbid = "9e0f4a24-cea7-4d95-bd28-36939e0b420c"
+title = "Something In The Air / The Oort Cloud / Kuiper Belt"
+type = "single"
+date = "2019-06-20"
+tracks = [
+  { n = 1, title = "Something in the Air", mbid = "34dd1f74-0ae6-46db-826a-ae34052ead6f" },
+  { n = 2, title = "The Oort Cloud / Kuiper Belt", mbid = "426f1091-1d6f-4151-bb9d-3d437bb25c06" },
+]
+
+[[release]]
+mbid = "87455a0c-3a02-4e46-b6fc-a9d54ca477c3"
+title = "Postscripts"
+type = "ep"
+date = "2019-09-06"
+tracks = [
+  { n = 1, title = "California Blue", mbid = "b7ef683c-110b-4dba-9226-26279f81c566" },
+  { n = 2, title = "Inside Your Heart", mbid = "3028702b-6a11-4817-8a1e-b19502e3ef15" },
+  { n = 3, title = "Lonesome Cowboy Bill", mbid = "25301660-170a-4d48-a2e5-a82c3668c938" },
+  { n = 4, title = "Something in the Air", mbid = "1ba14e16-e26e-4df4-8605-2fb17ea7dc90" },
+  { n = 5, title = "The Oort Cloud and Kuiper Belt", mbid = "81b1ec0f-3899-4f93-8001-d533c51ae703" },
+  { n = 6, title = "Gin (remix)", mbid = "b8674385-5055-4da8-ad87-6efb12d4cf5b" },
+]
+
+[[release]]
+mbid = "7fceecaa-e12e-42d1-a080-51d44b91eecc"
+title = "Marquee Moon"
+type = "single"
+date = "2020-08-21"
+tracks = [
+  { n = 1, title = "Marquee Moon", mbid = "a8749202-1ada-48b3-befe-5203781745e8" },
+]
+
+[[release]]
+mbid = "fdf18d7a-9d8b-419d-ad25-83b35336b2ae"
+title = "Satellite of Love"
+type = "single"
+date = "2023-12-29"
+tracks = [
+  { n = 1, title = "Satellite of Love", mbid = "0a050bcf-6c5d-423e-ba19-7d63146cd4c0" },
+  { n = 2, title = "Starman", mbid = "9d4e11db-0c41-41d4-920e-432a811480c7" },
+]

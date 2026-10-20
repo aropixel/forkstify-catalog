@@ -1,0 +1,122 @@
+format = 1
+
+[[release]]
+mbid = "f11016eb-bd19-4a74-97ad-84bde104e0bb"
+title = "The devil inside me"
+type = "album"
+date = "2021-11-04"
+tracks = [
+  { n = 1, title = "Them", mbid = "95487b29-d952-4a63-9f4a-52ac50b35965" },
+  { n = 2, title = "Waiting for you", mbid = "071020ac-c924-447f-b744-6ea25d4582c0" },
+  { n = 3, title = "Loosing control", mbid = "ecbf080f-9836-424d-9a60-b6adafc8ce46" },
+  { n = 4, title = "A shot of whiskey", mbid = "31164dbf-5193-4a4f-8257-6c4c932f0c1d" },
+  { n = 5, title = "Strange girl", mbid = "00b48a13-d43c-48d9-8d52-3eef08bcdb8a" },
+  { n = 6, title = "Meeting Morrison", mbid = "8474f5ce-cae6-4eb6-a887-dd6a7d5e5b54" },
+  { n = 7, title = "Back to Amanda", mbid = "2c44d1d9-375a-424d-88d7-8704da1524ee" },
+  { n = 8, title = "Oh Lord", mbid = "eecf9ad8-ded0-4e2d-8e0a-327ea49bdbe3" },
+  { n = 9, title = "Love around us", mbid = "cb60287e-c362-4636-95c5-5d1c4dfdf470" },
+  { n = 10, title = "Illusion song", mbid = "5230b230-2fe8-4446-acbf-32f253b47ba5" },
+  { n = 11, title = "USA motorbike", mbid = "2ea54c7a-ba39-4c6d-a4d5-f1d3c021dfea" },
+  { n = 12, title = "Surfing", mbid = "fe452505-614b-4f58-baa8-15fb79f186ba" },
+  { n = 13, title = "The devil inside me", mbid = "d86aa096-d909-4d91-baf0-902b70f03ae6" },
+  { n = 14, title = "Savages", mbid = "60aac14e-1d5a-4b37-ac8e-e63461ffe106" },
+  { n = 15, title = "Westcoast", mbid = "b24e79cd-dd49-4316-8cba-91520b4e1316" },
+  { n = 16, title = "Suicide solution", mbid = "7542c451-6658-4372-b69a-f384e4cd5041" },
+]
+
+[[release]]
+mbid = "95477a27-00f6-4f37-acf1-8a34e08aa353"
+title = "Thatcher's Not Dead"
+type = "album"
+date = "2023-04-22"
+tracks = [
+  { disc = 1, n = 1, title = "Snatcher", mbid = "b2c243da-7212-4b25-a2af-17954c3c1d12" },
+  { disc = 1, n = 2, title = "Downfall Part. A", mbid = "34ba3433-0735-4ce6-98ef-e1e5ceeeb017" },
+  { disc = 1, n = 3, title = "Not Our War", mbid = "1a0a4ac8-21a2-4bd1-bfd4-a9d6d05f06e8" },
+  { disc = 1, n = 4, title = "Heritage", mbid = "775ed56b-69de-4c23-9e53-0a2e8ec648b6" },
+  { disc = 1, n = 5, title = "Bright Future", mbid = "61843cab-03de-4580-8cb4-87854e606df4" },
+  { disc = 1, n = 6, title = "The Iron Lady", mbid = "6236e3fe-8dbf-41b6-9dc1-9b6cd8182c5c" },
+  { disc = 1, n = 7, title = "Master Plan", mbid = "eb302f97-6f43-4db3-9a99-8b65a94e0afe" },
+  { disc = 1, n = 8, title = "Don't Be A Traitor", mbid = "d32b6e36-3c4b-4fd4-8bdf-8e4635d6f8fc" },
+  { disc = 1, n = 9, title = "Fuzzy Thatcher", mbid = "159df47e-65dd-4a9b-aea5-37882f41bd3e" },
+  { disc = 1, n = 10, title = "She Had To Be Believed", mbid = "c40f7db1-a228-474c-a8b1-d6eae3f92bbc" },
+  { disc = 1, n = 11, title = "War", mbid = "98f48862-17c5-4da1-84de-473fdae9ec78" },
+  { disc = 2, n = 1, title = "Broken Dreams", mbid = "649f731c-b26b-4f89-b0cd-8be2927bce69" },
+  { disc = 2, n = 2, title = "Num Confrontation", mbid = "8e8bf3a5-c351-4ff8-bf16-529fcee5fe33" },
+  { disc = 2, n = 3, title = "Chaos", mbid = "fe678572-b635-460d-8a6f-8a1aa2b8cbe3" },
+  { disc = 2, n = 4, title = "Business As Usual", mbid = "27b5e305-471b-489f-885a-2f09595d5c32" },
+  { disc = 2, n = 5, title = "Revolting", mbid = "f4452522-e913-4e77-befc-ccd82f0a3e25" },
+  { disc = 2, n = 6, title = "Tears Don't Lie", mbid = "999151de-5afb-48a9-9090-32e1cb0f038f" },
+  { disc = 2, n = 7, title = "Way Of Her Cross", mbid = "0dd60cee-37a1-454d-a092-6ff3ded080d9" },
+  { disc = 2, n = 8, title = "Ambiguous Memories", mbid = "cffbc9b5-ee03-47e8-82da-c4ec57dd8c5b" },
+  { disc = 2, n = 9, title = "Downfall Part. B", mbid = "d212254e-3ebe-4dbf-92ca-f79998ac6c52" },
+]
+
+[[release]]
+mbid = "0604b38f-17ba-4dc2-a86d-bc4c36967436"
+title = "Boom Boom"
+type = "album"
+date = "2023-11-03"
+tracks = [
+  { n = 1, title = "Le Riffifi brille en jaune", mbid = "8e73ee11-c6ba-4a00-9929-19414fff92ce" },
+  { n = 2, title = "Elvis Has Left the Building", mbid = "aaf76b35-7da8-407f-9e54-6d7716d978c3" },
+  { n = 3, title = "Hypnose en bas de gamme", mbid = "35a592e3-5900-4854-bbe5-e566f1fd94e3" },
+  { n = 4, title = "Fin du monde", mbid = "73e943cf-1e83-4bca-95ae-c405884ea250" },
+  { n = 5, title = "PLAYITLOUDORNOTATALL", mbid = "25f05714-0735-4486-94af-f0bc4e8eb9a1" },
+  { n = 6, title = "Le retour de Black Sabata", mbid = "0e1c2ef5-9dfe-49a5-aead-f73f0ac553b0" },
+  { n = 7, title = "Contortionne-toi toi-même", mbid = "7e8ad3d6-7ec7-4a3e-97b3-9dd914ed82af" },
+  { n = 8, title = "Solo de boxe en conserve", mbid = "0779940b-bda1-46ee-bfb3-9c794138a95a" },
+  { n = 9, title = "Concinacion", mbid = "061cc821-cd9c-4705-9832-fb261bf769f9" },
+  { n = 10, title = "J'entends des voix qui ont mauvaise haleine", mbid = "3ec985d4-4ca0-4cc3-bcdf-187aabcdbc78" },
+  { n = 11, title = "Ceci est un enregistrement magnétique", mbid = "9996b6c0-875a-4d7b-8cf2-27cadba328af" },
+  { n = 12, title = "On ne mange pas la choucroute de Veronica", mbid = "f7ab1a29-1cd9-4be9-8181-ad3a9f3d01f8" },
+]
+
+[[release]]
+mbid = "9f8f1d81-d326-457e-87ca-dc829257269c"
+title = "HEUREUX GAGNANTS (Bande Originale)"
+type = "album"
+date = "2024-03-19"
+tracks = [
+  { n = 1, title = "Heureux Gagnants", mbid = "ae923ac9-5790-40fa-9f1a-cdea4c3284ff" },
+  { n = 2, title = "Bouge ton cul", mbid = "a7707e9f-021a-42da-abdc-9a9c19b99f9e" },
+  { n = 3, title = "Paul poursuite", mbid = "4ad8f33a-c0f7-429d-8fa9-3373681ad99d" },
+  { n = 4, title = "Julie Love Bubble", mbid = "b567dcf9-b792-4922-aa83-ffcd9979d513" },
+  { n = 5, title = "L'Arnaqueur", mbid = "63f6f66b-f429-4a6f-8b22-df37f2c6501a" },
+  { n = 6, title = "Hotel Particulier", mbid = "8ecd5029-63a5-405b-896d-2ed1cb967b5d" },
+  { n = 7, title = "Le gros lot", mbid = "2f2e6a82-a904-4110-8020-197129b083ce" },
+  { n = 8, title = "Metro", mbid = "eb07cd78-18f9-4ac2-ab58-6e88ad1c8a41" },
+  { n = 9, title = "On va faire du bien", mbid = "a804b3b9-149d-4597-bae4-c8801b74a87f" },
+  { n = 10, title = "Sandra, le maléfique", mbid = "58b62d13-0ed6-4e34-9497-e53bb8e1af50" },
+  { n = 11, title = "Vortex", mbid = "c8c8f5d0-342b-4711-9c25-705d82ba423a" },
+  { n = 12, title = "Chronologie d'une pendaison", mbid = "3ab64782-c313-4fab-9315-5d6b185b2cd7" },
+  { n = 13, title = "Shimmering Love", mbid = "0603edf4-9b6d-4752-a32e-f640683bd1f4" },
+]
+
+[[release]]
+mbid = "df158c62-4f78-4e2c-a729-5925c1681240"
+title = "Les règles de l'art"
+type = "album"
+date = "2025-04-12"
+tracks = [
+  { n = 1, title = "Kamic, l'artiste", mbid = "f14ec766-d2c1-4482-8245-e2f28fa7ee01" },
+  { n = 2, title = "Générique début", mbid = "8d7432ca-986f-4b8a-9075-b02f0ebd3651" },
+  { n = 3, title = "Jo vient vendre ses trucs à Moreno", mbid = "96ecf9f3-c94a-4c5a-af95-c621db74168c" },
+  { n = 4, title = "Kamic au bord de la Seine", mbid = "b4819cf4-7422-4db5-a4e8-0c5b6a380acc" },
+  { n = 5, title = "Spaghetti Drums and Tuna Sax", mbid = "c440b009-9859-40a7-8807-1435708b3049" },
+  { n = 6, title = "La Patek, je l'ai vendue", mbid = "938c042d-7228-4b9a-ae4b-7c2ac6a9f14d" },
+  { n = 7, title = "Kamic devant la fenêtre du musée", mbid = "63499a5b-225a-4fc1-9678-58027eb8859c" },
+  { n = 8, title = "Kamic dévisse, démonte et observe", mbid = "0ad6e0ac-a528-4d6a-acfa-1fd31da80d0c" },
+  { n = 9, title = "Moreno Calls", mbid = "3ecd5437-1517-41c0-941d-a95ea639201e" },
+  { n = 10, title = "Cobb découvre les oeuvres", mbid = "f7572075-9678-4ffa-9372-d5341d70872b" },
+  { n = 11, title = "Jo devant son brasero", mbid = "26bc9618-75e3-4012-a878-5747d428b606" },
+  { n = 12, title = "C'est qui M?", mbid = "552b10cb-6921-46b2-bc03-e5baac652cc9" },
+  { n = 13, title = "Cobb achète le Modigliani", mbid = "544c1dfd-f4ac-4eac-be1a-6d4bdfe10476" },
+  { n = 14, title = "Jo chez Cobb", mbid = "59086df6-7ef1-4063-ac21-9c6adb64587d" },
+  { n = 15, title = "Arrestations", mbid = "d5dc5065-4a95-46b7-a84f-740af92c8d01" },
+  { n = 16, title = "Cobb détruit les oeuvres", mbid = "2d0bf242-096f-44cb-8ea6-afe523fc53c4" },
+  { n = 17, title = "Interrogatoires", mbid = "0316a02d-440e-4735-b267-9a9f49485837" },
+  { n = 18, title = "Epilogue", mbid = "6411756f-4396-4937-a25b-091db631a46f" },
+  { n = 19, title = "Cobb en panique avec sa femme", mbid = "88547acf-e678-4889-ae39-9383b3ec8a01" },
+  { n = 20, title = "Late, I Wanna Run Home", mbid = "31e131b8-ef7c-4b42-a910-5fcabcb49567" },
+]

@@ -1,0 +1,425 @@
+format = 1
+
+[[release]]
+mbid = "92d1a8b7-b73f-31e3-8500-0d8eccdf9c81"
+title = "Rue du temps"
+type = "album"
+date = "1997"
+spotify = "2wyCCoSmEbP9cRz5iPP2qk"
+tracks = [
+  { n = 1, title = "Tchayuskov", mbid = "6b4f5eeb-5046-4979-b946-c1170672c6c9" },
+  { n = 2, title = "Les Voyageurs", mbid = "70189d3a-4264-458d-a8b0-ebe7d75027ea" },
+  { n = 3, title = "Grand-Père", mbid = "3838dcd9-6a36-4e63-96d7-e2dbc14f13b9" },
+  { n = 4, title = "P'tit Gars", mbid = "e16c61c3-d801-40af-803c-d737928bbaeb" },
+  { n = 5, title = "Ces tonnes de gens", mbid = "3af92c0d-1450-42bf-bc6e-f46d9f703e7b" },
+  { n = 6, title = "Femme du guerrier", mbid = "2994904f-4a02-4df3-ae3d-38a34b0e85f5" },
+  { n = 7, title = "Accordéon pour les cons", mbid = "8107f7d6-c080-4cc4-aa7e-76af5729a687" },
+  { n = 8, title = "Valkovitch", mbid = "bae8ec16-46a6-4b8e-b794-10a0b0ca27bd" },
+  { n = 9, title = "Le Délire des deux alcooliques", mbid = "7cea39f4-1e28-4035-848d-6fc500445f90" },
+  { n = 10, title = "Kolyn", mbid = "47b745ae-54c1-4739-aff5-0c933c2a9ce6" },
+  { n = 11, title = "Le Voyageur", mbid = "6f405ef6-547a-4b90-8834-c13d66ac31a2" },
+  { n = 12, title = "P'tit Bonhomme", mbid = "f0db6b29-98af-4115-bf64-d18e58cf6a21" },
+  { n = 13, title = "Tout perdu", mbid = "7db8ec98-ecbc-4b8e-ae90-58223314cdd5" },
+  { n = 14, title = "Rue de Panam", mbid = "377fe935-98f7-468a-8664-4c76d89bcf1e" },
+]
+
+[[release]]
+mbid = "e71ad527-71c3-3af9-82cd-edb0399c1601"
+title = "Irfan (Le héros)"
+type = "album"
+date = "1999"
+tracks = [
+  { n = 1, title = "Contes, vents et marées", mbid = "a9fd0b92-b215-4426-8824-ee79d6f52c64" },
+  { n = 2, title = "Little Gentleman", mbid = "16b76184-3dd2-4f36-8a5b-c490fab4845f" },
+  { n = 3, title = "Yo Squatt Bel", mbid = "26ffc88f-2bc7-4c0e-891d-eace946b1c88" },
+  { n = 4, title = "Peuple du moment", mbid = "1269c892-fbf1-4789-87d3-6fb964fa3adf" },
+  { n = 5, title = "Printemps", mbid = "6152dbf6-aefe-4edb-baf0-ae083208f4a5" },
+  { n = 6, title = "Lahoyasrha", mbid = "e19f8911-3a6f-409b-8067-e95d33497791" },
+  { n = 7, title = "De rien !", mbid = "6ad47440-9d69-45e0-93be-a2a6a05e95aa" },
+  { n = 8, title = "Grand-mère", mbid = "39ca1127-963c-4c63-a1c5-43ca66f3c689" },
+  { n = 9, title = "Matelot", mbid = "67a5ae13-6538-4567-87bb-cb48152b25d7" },
+  { n = 10, title = "Banan", mbid = "6da89e56-9e50-4540-905e-c3a8101722e2" },
+  { n = 11, title = "Irfan le héros", mbid = "e7e402f3-3fb2-445d-b595-e4bce37a17c9" },
+  { n = 12, title = "Solène de Grenoble", mbid = "1b840e8d-7fa4-4291-90e5-f33a90841f98" },
+  { n = 13, title = "Rêve d'enfant", mbid = "4cdd9455-d0fd-4733-b360-6740dd854233" },
+  { n = 14, title = "Niev Nietch Nievitch", mbid = "a276e628-0d07-4f39-aa73-1fa28b9fa74d" },
+  { n = 15, title = "Petite hypocrite", mbid = "d9982d8d-1bbb-4b79-ad4c-45239abaf96b" },
+  { n = 16, title = "Voyageur", mbid = "83186b7c-d79b-4014-9ee8-e8763547826f" },
+]
+
+[[release]]
+mbid = "61413aa1-93c1-38cd-a042-d3f03dff5235"
+title = "Fausses notes / Repris de justesse"
+type = "album"
+date = "2000"
+tracks = [
+  { disc = 1, n = 1, title = "Femme du guerrier", mbid = "a7da68f2-5f10-44b7-a8f8-3984207b8c1d" },
+  { disc = 1, n = 2, title = "Printemps", mbid = "ff67eeb2-0182-493a-9fa6-58c5b521904e" },
+  { disc = 1, n = 3, title = "Les voyageurs", mbid = "70aeb01d-4740-476f-9ce7-1e8e202ba2fc" },
+  { disc = 1, n = 4, title = "Grand-Père", mbid = "551aee08-e3f7-46bb-bf06-793d95f76213" },
+  { disc = 1, n = 5, title = "Provençal live", mbid = "d1ee8747-4c4b-4607-ad42-21dfd322b511" },
+  { disc = 2, n = 1, title = "Salut à toi", mbid = "5f308f66-b688-4e91-99ed-8abfb1a6ae06" },
+  { disc = 2, n = 2, title = "Cozette", mbid = "96b8c94b-1c3b-46c9-9e13-01f2d7075164" },
+  { disc = 2, n = 3, title = "Au Café du Canal", mbid = "c2d0bf6b-fb6b-4c27-b6b8-6b57746834c5" },
+  { disc = 2, n = 4, title = "Pour me rendre à mon bureau", mbid = "de403eb3-7cfc-4e0e-9287-4411059a9bdc" },
+  { disc = 2, n = 5, title = "La Ventura", mbid = "75ba46a4-177e-4420-a605-af6adc4cbaff" },
+  { disc = 2, n = 6, title = "Buffalo Débile", mbid = "f81a2932-8c5b-491b-89a7-bd724169cdef" },
+]
+
+[[release]]
+mbid = "74277bef-79f5-3f3d-b005-db0cb4dccff4"
+title = "Croc’ noces"
+type = "album"
+date = "2001"
+tracks = [
+  { n = 1, title = "La Manche", mbid = "b696696c-e1fe-470a-a7ca-3439e7e862e1" },
+  { n = 2, title = "Monde en or", mbid = "82461ab3-f5ac-435f-993b-96d3ae12ae6e" },
+  { n = 3, title = "Avril et toi", mbid = "23a353f6-aa7c-4b62-a853-678894a027e3" },
+  { n = 4, title = "Grosse Tortue", mbid = "c88f0bca-d835-4937-b6e2-38283a337c70" },
+  { n = 5, title = "Allez !", mbid = "0d2a9cd8-56f9-4666-9151-d274e27f7a2e" },
+  { n = 6, title = "Rue du temps", mbid = "b411ce74-57d4-4c68-8331-cdd33a3b9be7" },
+  { n = 7, title = "Vue d’ensemble", mbid = "6dd9f67d-0faa-4e72-a0f6-5914c997d5f9" },
+  { n = 8, title = "Fainéant", mbid = "54212b8a-025f-419b-90ba-03b6a4206903" },
+  { n = 9, title = "Sue", mbid = "97a54718-df69-462c-bfc1-e0d48d302a88" },
+  { n = 10, title = "Latchoska", mbid = "28cee497-326e-4258-a975-f1a6479ccb40" },
+  { n = 11, title = "Tatie", mbid = "c32aaf51-dd74-4777-a471-d89d1435efe9" },
+  { n = 12, title = "Jeanette", mbid = "c420a678-1159-4973-8148-53d6ec8de685" },
+  { n = 13, title = "Flûte !", mbid = "d14e9aea-9ab1-47c8-ba29-7490f1199c35" },
+  { n = 14, title = "Vieux temps", mbid = "5f17300c-a788-409c-8d19-873baf0202cc" },
+  { n = 15, title = "Assassins", mbid = "8d45c629-f874-40cf-b0fa-9b393692516b" },
+  { n = 16, title = "Les Amants sans nuits", mbid = "6b6443ce-5432-4edd-8a66-f0e24c721ee9" },
+  { n = 17, title = "L’Éducation du corps des porcs", mbid = "80154f30-c9a5-4fae-b66f-1832c2c85a57" },
+]
+
+[[release]]
+mbid = "e44fa066-7d79-3d14-9dcf-9443d0563c22"
+title = "La Pittoresque Histoire de Pitt Ocha"
+type = "album"
+date = "2003-04-12"
+tracks = [
+  { n = 1, title = "P'tit chat", mbid = "6423070d-58b6-411a-a3ee-c5e048f52b23" },
+  { n = 2, title = "Le faire part des bébés animaux", mbid = "8a3ce888-08c6-4663-a77e-d38d4a16f1af" },
+  { n = 3, title = "Delo", mbid = "04ddadf5-4cfc-413d-a45f-9dbc4382cde0" },
+  { n = 4, title = "Monde de sons...", mbid = "768dd4d5-4b8d-4cc8-bbb4-443c6a6b50d3" },
+  { n = 5, title = "Pitt Ocha", mbid = "b359c491-0487-4f6a-9ad2-55c705f6b7a9" },
+  { n = 6, title = "Poil aux yeux", mbid = "7c6e7ea3-4b73-436f-a255-c24d6a7cf73d" },
+  { n = 7, title = "Flip, flap, flop", mbid = "d7ae6d80-d1ea-4eae-ad3e-8a0d50ef057c" },
+  { n = 8, title = "Le Temps", mbid = "5a031ce1-391f-4dc7-b18c-1775a3352c40" },
+  { n = 9, title = "Quand vient le petit matin", mbid = "9cd153a8-e65c-46e7-bc27-fb271d18a080" },
+  { n = 10, title = "La Vache enragée", mbid = "767b1855-e832-41bb-be22-ca3d6fcde0dd" },
+  { n = 11, title = "Mécanique", mbid = "29afd44a-2512-430b-8c49-a8cbdfa8d2c6" },
+  { n = 12, title = "Qui m'a piqué mes bruits ?", mbid = "52d85009-3b59-4cdb-b657-420d9a41bede" },
+  { n = 13, title = "Pittoresque", mbid = "16e6bc9f-ab3a-4b13-bf05-74be79b7e873" },
+  { n = 14, title = "Boule de neige et abricot", mbid = "5091320b-5126-4e73-be57-811982266e77" },
+  { n = 15, title = "Dîner naturel", mbid = "7eb66a67-146b-4732-ba89-218b56cbb3ed" },
+  { n = 16, title = "Papa reste là", mbid = "450d436f-4e45-45f3-9feb-d7f99063d061" },
+  { n = 17, title = "Mam'selle Bulle", mbid = "3313ccce-edbc-4465-9098-ee89ee6e4885" },
+  { n = 18, title = "La Dispute des légumes", mbid = "c09cf333-44ef-464c-96ef-8653311b71ca" },
+  { n = 19, title = "Chipoti, chipota", mbid = "4bfd1a60-792b-4760-b804-4ea3e3f70a55" },
+  { n = 20, title = "Maman, papa", mbid = "ede58f00-15a9-4429-b99e-c723a4965412" },
+  { n = 21, title = "Pitt Ocha - l'histoire", mbid = "2292a2ce-9ea7-47b9-8712-11b663d1e5fd" },
+]
+
+[[release]]
+mbid = "33f849e3-6ede-3e34-913b-605514056814"
+title = "Terrain vague"
+type = "album"
+date = "2004"
+tracks = [
+  { n = 1, title = "L’Air bête", mbid = "1d7bdeb3-3d4f-4051-8786-9dfb101d8266" },
+  { n = 2, title = "Angélique", mbid = "632c0d33-5bfc-4af4-9f08-1533fa3b8772" },
+  { n = 3, title = "Même pas mal", mbid = "26e91ad3-e9f7-4e35-bbed-603b57514df4" },
+  { n = 4, title = "L’Arménienne", mbid = "5f6c434f-d293-472f-b684-f44bf5bd8057" },
+  { n = 5, title = "{azadutiun}", mbid = "fe6e7c68-161b-40b8-9aa5-dbf0aa0ab7b3" },
+  { n = 6, title = "Flamme and ’co", mbid = "fe5efaec-6e83-44d2-a04d-8917d5830d77" },
+  { n = 7, title = "3 - 0", mbid = "a0bdc3e0-d321-4881-bbda-fd601e11bf67" },
+  { n = 8, title = "Madame Solène s.v.p.", mbid = "07d13a1b-3801-40f4-891c-5ec015cafa9e" },
+  { n = 9, title = "Petite Société", mbid = "68100480-92b3-4d6a-8e5c-f994ad37c4d1" },
+  { n = 10, title = "Moi je", mbid = "618b6952-dcee-4b32-aeae-5e837d9165ed" },
+  { n = 11, title = "15 Ans", mbid = "738d30e1-00b8-4b99-8c2d-46fe5d173fba" },
+  { n = 12, title = "Une de plus", mbid = "2ad38955-2c45-4aaf-8106-e3b15a52f523" },
+  { n = 13, title = "Monsieur perd ses copains", mbid = "e9eee2e7-3fbc-4ef5-92d0-ea4370629e82" },
+  { n = 14, title = "Rue Mazarine", mbid = "69b8fdf6-b58c-470f-97c8-ee3cfb56c537" },
+  { n = 15, title = "Sous le pont", mbid = "4b83aa71-0081-49fc-927d-c5f9e6211a18" },
+  { n = 16, title = "Salut à vous", mbid = "40f23efd-3f29-4944-ae50-7a25f107d3ed" },
+  { n = 17, title = "Violoncelles", mbid = "64841998-80b3-44da-82b9-5d7e39a81785" },
+]
+
+[[release]]
+mbid = "865866dc-53ad-3328-ae79-87e6eed5e56f"
+title = "Du simple au néant"
+type = "album"
+date = "2007-04-04"
+tracks = [
+  { n = 1, title = "Ma fille", mbid = "73e58efc-ac53-4a36-9fc3-0da38e71bcf3" },
+  { n = 2, title = "Marée basse", mbid = "3f2444b8-2c16-4a45-accb-3c6e9a134c7d" },
+  { n = 3, title = "Et oui !", mbid = "ece08de0-7f04-4421-90f4-84bdbe401f8a" },
+  { n = 4, title = "Pardon Madjid", mbid = "4c02813d-ec3a-4784-8ef0-438bb43ca461" },
+  { n = 5, title = "50 ans", mbid = "cd7660f9-028c-42c8-a280-32eae644ec10" },
+  { n = 6, title = "Pour tant qu'il y aura des hommes", mbid = "7ff1ea44-340f-4fc2-b47c-18b697d2cff2" },
+  { n = 7, title = "Jérôme", mbid = "a0962e09-1045-4e1a-b3d5-627b60e96ed9" },
+  { n = 8, title = "Brebis galeuses", mbid = "57192350-1baa-49bb-b52a-8f0b3a9e902f" },
+  { n = 9, title = "C'est beau", mbid = "849b7f8b-2021-406f-8ea8-4bea3c119833" },
+  { n = 10, title = "Corinna", mbid = "4a22b97c-a18d-4d43-b3da-5090eddad4c0" },
+  { n = 11, title = "Destin artificiel", mbid = "2c92b891-07ba-422d-a465-487d03c7426f" },
+  { n = 12, title = "Vieux", mbid = "6d3e6742-a8ec-42f2-8a2b-b910d51263d1" },
+  { n = 13, title = "Con et blasé", mbid = "4e81b44c-d565-42ed-a455-76538224057f" },
+  { n = 14, title = "Pas bien", mbid = "79c4283f-a6ad-480c-a9c1-808ea495b744" },
+  { n = 15, title = "Ni dieu ni dieue", mbid = "2485deec-2b3e-40b2-93e8-9e5cc505942b" },
+  { n = 16, title = "Il ne restera rien", mbid = "57bfc9dc-dbde-4671-978c-f8d08ae6fdc9" },
+]
+
+[[release]]
+mbid = "4571a478-07e2-482f-819e-30aa4f4834fa"
+title = "Pitt Ocha au Pays des Mille Collines"
+type = "album"
+date = "2009-11-02"
+tracks = [
+  { n = 1, title = "Bumbaïa", mbid = "89dd718b-7fda-49f4-ad7a-536084b3d589" },
+  { n = 2, title = "Touche pas à mon école", mbid = "14b72c4b-8542-46bb-84f6-20ac07daa9f3" },
+  { n = 3, title = "Invitation", mbid = "86a4ba31-e1cb-4313-97cc-87132b569415" },
+  { n = 4, title = "Menteries d'aujourd'hui", mbid = "99c99909-a863-40a4-890c-7f60f8d82946" },
+  { n = 5, title = "Coué coué", mbid = "ac7e70cd-b768-4b15-a6c0-2a9aae42b3f2" },
+  { n = 6, title = "Pile ou face", mbid = "31299206-017a-47e2-9fbe-4b46f4bbde5b" },
+  { n = 7, title = "Le Contraire de tout", mbid = "83db33de-d6da-432e-8cfb-92ff27038c80" },
+  { n = 8, title = "Marchand de rêves", mbid = "70822245-0280-40d0-94f8-a3660d4b89b0" },
+  { n = 9, title = "Papiyouchka-Polka", mbid = "18e0b531-0b09-473c-93f3-f5dd2b179001" },
+  { n = 10, title = "Lundi, mardi, fête !", mbid = "342b9502-90b0-4a1c-8048-27eaf8d7aa4c" },
+  { n = 11, title = "Les Arbres malades", mbid = "88e67ad7-a8b1-4fc7-97f9-a0685ea2a030" },
+  { n = 12, title = "Utule mieutule", mbid = "1c44e1ab-fe67-4c53-9815-23e932c88385" },
+  { n = 13, title = "Chanson d'hiver", mbid = "b2d31958-5156-4c39-8c00-978aef234a89" },
+  { n = 14, title = "Le P'tit Nicolas", mbid = "71c116bb-42b9-4b50-9bfc-952b2e0128b6" },
+  { n = 15, title = "Le monde est dans ma poche", mbid = "71d9723a-f918-4bf9-8409-95fd463da215" },
+  { n = 16, title = "Conte : Pitt Ocha au Pays des Mille Collines", mbid = "8b861c7b-be74-4bb2-ace4-0b289336b113" },
+  { n = 17, title = "Igihozo", mbid = "ce94bc40-fda4-48c7-94b3-a9e5b9838f7e" },
+]
+
+[[release]]
+mbid = "d661c59c-7e29-4531-bfdf-09621ff0bdb7"
+title = "Stéréo pirate"
+type = "ep"
+date = "2011"
+tracks = [
+  { n = 1, title = "Le Roi des kongs", mbid = "b9c2b90d-fbe7-4d8c-bc11-9a03cfe9b363" },
+  { n = 2, title = "Little Rudy", mbid = "c842a3d2-8555-4af1-8da3-66020c983721" },
+  { n = 3, title = "Face au monde", mbid = "3dc4ed11-3bec-4ec6-a55e-8809fd2e31db" },
+  { n = 4, title = "N.L.T", mbid = "b495b271-d934-4c90-96fe-2b2fc9a78fa5" },
+]
+
+[[release]]
+mbid = "29be867f-b56b-4553-82df-465a5edb3ebd"
+title = "Comment je suis devenu voyageur"
+type = "album"
+date = "2011-03-15"
+tracks = [
+  { n = 1, title = "Comment je suis devenu voyageur", mbid = "b0420999-a188-4df4-bc6d-daeb45eda411" },
+  { n = 2, title = "Nos vies en couleurs", mbid = "8f7912ac-0bc8-4af1-ae0e-0dbbf348a245" },
+  { n = 3, title = "Entre tes saints", mbid = "5170e1f4-8571-4e67-bfb4-f6ffe524ae14" },
+  { n = 4, title = "Marcelle de Sarcelles", mbid = "9473136f-9099-481a-ae30-3545217d8dff" },
+  { n = 5, title = "Graine de brigand", mbid = "e036cd0d-b839-4bbe-96c7-39fbda70086b" },
+  { n = 6, title = "Je n’suis pas courageux", mbid = "389306db-40c8-487b-98c2-c1a333e5f721" },
+  { n = 7, title = "Elle fait du zèle (pauvre france)", mbid = "bc17f2a7-7034-4ac7-a2ad-caead83907e5" },
+  { n = 8, title = "Ma tête en mendiant", mbid = "5693b78a-22b8-4906-81d2-c83cb56a67b1" },
+  { n = 9, title = "Petite fleur", mbid = "77637cc1-67af-46b3-beea-f48115953612" },
+  { n = 10, title = "J’m’élance", mbid = "78c91f52-484c-41c8-8a9d-4990c25db8a0" },
+  { n = 11, title = "Donc je fuis", mbid = "7e9b3ef2-c2e1-461a-96c4-f95ff53ccd59" },
+  { n = 12, title = "Cœur arrangé", mbid = "f3fae8b1-fae4-4089-8711-10aa9836986a" },
+  { n = 13, title = "Palestine confession", mbid = "a0d9dac7-a677-451f-be8d-bf836ae89a4b" },
+  { n = 14, title = "Le Daron", mbid = "04faeff5-1469-4bc1-927a-2f87482a418f" },
+  { n = 15, title = "L’Ennui et le jour", mbid = "53cd9851-1e1b-4aa1-a330-b4cb25414d76" },
+  { n = 16, title = "Non remontant", mbid = "75018ff1-1d45-4107-ab85-22949af13059" },
+]
+
+[[release]]
+mbid = "d777e9e6-4fd4-443e-9ff7-ea8f9990cf2d"
+title = "Pitt Ocha et la tisane de couleurs"
+type = "album"
+date = "2013-03-26"
+tracks = [
+  { n = 1, title = "Trip In My Heart", mbid = "a6751d4b-b6bf-4142-a90e-76928fffcfe4" },
+  { n = 2, title = "Le Vagabond", mbid = "74182228-eb47-4d0b-ab86-31556d8c4e7d" },
+  { n = 3, title = "Les Sabots d'Hélène", mbid = "0b3c1cd9-a4d5-4dd0-99bc-ec35376c2ed5" },
+  { n = 4, title = "Dors, dors, mon tout petit", mbid = "045f4dcd-ccd9-44fe-a1ec-fb0f8720b09d" },
+  { n = 5, title = "Varicelle", mbid = "34833e5a-1a62-464e-9bf7-57ae3f576750" },
+  { n = 6, title = "Dans la famille", mbid = "9b2ba0ee-d642-4a92-b09d-27141fa51646" },
+  { n = 7, title = "Adieu Paure Carnavàs", mbid = "2db38da5-2d0d-459d-9838-1b3275ff619a" },
+  { n = 8, title = "La Grotte de Mr. Cosquer", mbid = "aa527c55-b995-4a9a-b53c-ca87036863bb" },
+  { n = 9, title = "Petit frère", mbid = "6c614abf-2afa-4615-9745-da909873f1a0" },
+  { n = 10, title = "Ces petits riens", mbid = "477b53a7-de11-4098-b4b0-8c4dda256ddf" },
+  { n = 11, title = "Petit, petit blues", mbid = "459ec6b7-f368-4bd1-af31-d230148a65e3" },
+  { n = 12, title = "À vous la Terre", mbid = "fd41d988-c4f5-4920-b703-b87e99ec4250" },
+  { n = 13, title = "Ssendu", mbid = "f4f7e16f-f08f-45f1-bfc7-cc3716cd47df" },
+  { n = 14, title = "Par'dis", mbid = "bac328a1-a3eb-4a79-ba23-98467be2f816" },
+  { n = 15, title = "Pitt Ocha et la tisane de couleurs : Intro", mbid = "85adbe69-a014-44cb-9cbf-40d5565ef043" },
+  { n = 16, title = "Pitt Ocha et la tisane de couleurs : La tisane 1", mbid = "7e1c19fe-eb74-4587-a110-46ba8dd3f061" },
+  { n = 17, title = "Pitt Ocha et la tisane de couleurs : Ding, Dong", mbid = "55c85b97-817f-454c-a676-ce2e38022681" },
+  { n = 18, title = "Pitt Ocha et la tisane de couleurs : Les couleurs 1", mbid = "07ab6e22-ad5d-45bf-b28e-3163c815827d" },
+  { n = 19, title = "Pitt Ocha et la tisane de couleurs : La tisane 2", mbid = "3754e814-56a2-445b-bfcd-3bb665a515f6" },
+  { n = 20, title = "Pitt Ocha et la tisane de couleurs : Takadimi", mbid = "2ce5b6ba-247b-4b71-8681-9c8a4f7bf89c" },
+  { n = 21, title = "Pitt Ocha et la tisane de couleurs : Belle tsigane", mbid = "616d6644-606f-4e05-b68c-f556842b8b3c" },
+  { n = 22, title = "Pitt Ocha et la tisane de couleurs : Notre pays est malade", mbid = "fada35d9-544a-4b2f-ad95-094dc6a1b49d" },
+  { n = 23, title = "Pitt Ocha et la tisane de couleurs : L'enquête 1", mbid = "bfa1184c-5b4a-4db1-8056-6efc38896c86" },
+  { n = 24, title = "Pitt Ocha et la tisane de couleurs : Pauvre Papa", mbid = "a69305f7-9d7c-40e6-a7b8-5efc6248ec1f" },
+  { n = 25, title = "Pitt Ocha et la tisane de couleurs : Devant l'usine 1", mbid = "b959bbbd-3600-428b-b87b-228cd84aad81" },
+  { n = 26, title = "Pitt Ocha et la tisane de couleurs : L'enquête 2", mbid = "f0a6c859-8cd7-4431-9f82-5c4108b6d128" },
+  { n = 27, title = "Pitt Ocha et la tisane de couleurs : 1, 2, 3 Pitt Ocha", mbid = "3681d657-1145-4521-9d5d-daef9d654d07" },
+  { n = 28, title = "Pitt Ocha et la tisane de couleurs : Les couleurs 2", mbid = "709203e8-81c0-455a-89b6-40186d55c9e5" },
+  { n = 29, title = "Pitt Ocha et la tisane de couleurs : Devant l'usine 2", mbid = "8bed9237-b613-4457-9501-4429176fe00f" },
+  { n = 30, title = "Pitt Ocha et la tisane de couleurs : Ara More", mbid = "b18a2684-f9bd-4ea1-bd9b-7d3d5ad35d4e" },
+  { n = 31, title = "Pitt Ocha et la tisane de couleurs : Tizan", mbid = "ac724ab9-900a-4f15-8e18-8b5751380198" },
+]
+
+[[release]]
+mbid = "7470bb78-175e-454f-a83d-c270b3e14ff2"
+title = "Pitt Ocha et la tisane de couleurs"
+type = "single"
+date = "2013-07-01"
+tracks = [
+  { n = 1, title = "Varicelle", mbid = "34833e5a-1a62-464e-9bf7-57ae3f576750" },
+  { n = 2, title = "Dors, dors, mon tout petit", mbid = "045f4dcd-ccd9-44fe-a1ec-fb0f8720b09d" },
+  { n = 3, title = "Par'dis", mbid = "bac328a1-a3eb-4a79-ba23-98467be2f816" },
+]
+
+[[release]]
+mbid = "86388b43-8944-4e83-942a-e6980a28f59d"
+title = "Vous m’emmerdez !"
+type = "album"
+date = "2014-02-17"
+tracks = [
+  { n = 1, title = "Carlos Mervil", mbid = "b3cc1e4b-6845-485d-ab9f-79653d9c5164" },
+  { n = 2, title = "Pages de ma vie", mbid = "addbb3d6-8819-43fd-bbc5-4b318e78a0c3" },
+  { n = 3, title = "Crache", mbid = "b82a3960-de19-4619-83de-5e52703da584" },
+  { n = 4, title = "Ohm", mbid = "43363dfb-3916-44c1-82f2-985c54c8802e" },
+  { n = 5, title = "Vous m’emmerdez !", mbid = "2e70c7e4-1349-4ebc-85d9-f9392d512a8f" },
+  { n = 6, title = "Murabeho Imana", mbid = "a56eeb55-5dd2-4b07-b466-438a8e8f54c7" },
+  { n = 7, title = "Expression de sentiments", mbid = "760d61db-a002-48ce-b42c-5617eef28dad" },
+  { n = 8, title = "Condkoï", mbid = "77df5906-26fc-412a-ba37-d602bc5be6ff" },
+  { n = 9, title = "Morsure de mots", mbid = "ea62f91b-170e-46cd-8ac6-700e72746a01" },
+  { n = 10, title = "Sacré fils", mbid = "00b8fcd1-fea6-4a8b-9fd7-21297d77ee7f" },
+  { n = 11, title = "À cœur battant", mbid = "ea79c77f-76d3-42cd-89c6-95a44eaa02de" },
+  { n = 12, title = "Amarisi amari", mbid = "ebd112d8-b73f-4209-a8d2-8fddd3de1c5c" },
+  { n = 13, title = "Sadique et sévère", mbid = "fa038cd1-2f30-48a2-ac1e-77808f8b6a02" },
+  { n = 14, title = "Dos miné", mbid = "ada881da-25ef-46b7-a260-96737adcb63a" },
+  { n = 15, title = "Coups d’poids dans la gueule", mbid = "bb4c66d0-8853-4904-b7d2-08cc283856d3" },
+  { n = 16, title = "Ma guinguette préférée", mbid = "0d2d6f00-7446-48f5-91a4-619eb824f1fd" },
+]
+
+[[release]]
+mbid = "10b8d4f9-8f8a-44f7-971e-5895621bf8cb"
+title = "Amours grises & Colères rouges"
+type = "album"
+date = "2019-03-15"
+tracks = [
+  { n = 1, title = "Pas ma haine", mbid = "30d3b4eb-1c33-44f2-8a5a-344228d0013e" },
+  { n = 2, title = "P’tit Cœur", mbid = "271ff29c-7eb7-4cd4-a7b1-54cac646dac8" },
+  { n = 3, title = "Chanson pour dans 2000 ans", mbid = "3c838db1-30e1-4e6b-8cee-d43edcf9f476" },
+  { n = 4, title = "La Nombrilïte aiguë", mbid = "40df563a-22b7-47fb-8de7-ee54f69cb046" },
+  { n = 5, title = "S’il nous plaît", mbid = "dc6d8de6-fcd5-4dd8-a0cd-a14b06996662" },
+  { n = 6, title = "Tous les matins immondes", mbid = "2720342d-50f0-406c-9a88-31f2acba4c31" },
+  { n = 7, title = "Il y a ta bouche", mbid = "7cbcf6cc-9a65-41ba-90cf-b98ce210372f" },
+  { n = 8, title = "La Corde au coup", mbid = "fabec461-cf8f-41eb-a9cf-fbdde1838b52" },
+  { n = 9, title = "Pour toi", mbid = "3c0e41ab-fb7e-4bb4-bd14-8d9cd9141c7a" },
+  { n = 10, title = "Si tu restes", mbid = "d51985e1-3524-4ff8-abee-82a65bd774d5" },
+  { n = 11, title = "La Rochelle", mbid = "9fe33d03-0174-4f4f-84fe-1ba9953f2edb" },
+  { n = 12, title = "Hé papa", mbid = "eaaceb7e-fcb6-47e4-80ae-fb9d9d903fde" },
+  { n = 13, title = "Latrim’", mbid = "07b3f4cf-3228-429a-938c-d2cc5332df8d" },
+  { n = 14, title = "Pas une femme", mbid = "96e8d389-6bdf-4e7b-be16-8acc9b2f5c35" },
+]
+
+[[release]]
+mbid = "a71a287d-0eb2-45cc-85bd-1296cf97423f"
+title = "Je n'sais pas"
+type = "single"
+date = "2022-09-30"
+tracks = [
+  { n = 1, title = "Je n'sais pas", mbid = "8405bcfc-0206-41c9-943e-69a3fc56c323" },
+]
+
+[[release]]
+mbid = "be472fed-845e-4dca-ad19-5cb25dffa6f6"
+title = "Le Tango des voisins musiciens"
+type = "single"
+date = "2022-10-14"
+tracks = [
+  { n = 1, title = "Le Tango des voisins musiciens", mbid = "b30bad45-53a0-4c7c-b53e-5063ba49a7f9" },
+]
+
+[[release]]
+mbid = "933e8d15-2c88-4ef9-96a8-3fce69e599f6"
+title = "Pitt Ocha et le vélo à propulsion phonique"
+type = "album"
+date = "2022-10-21"
+spotify = "7hWDBS53eQq4eEdLHhVwdl"
+tracks = [
+  { n = 1, title = "Dikastèrion", mbid = "508de938-817c-46f2-bc6d-84c56c274745" },
+  { n = 2, title = "La liste de Pitt Ocha", mbid = "d741bee3-e356-4caf-890c-3ad9354d18d0" },
+  { n = 3, title = "Derrière l’écran", mbid = "6705f8b5-891d-4d41-892a-ddc2ecfffd29" },
+  { n = 4, title = "Histoires de dingues", mbid = "e7789095-254e-4d00-ac4c-fff727636bb8" },
+  { n = 5, title = "Je n’sais pas", mbid = "8405bcfc-0206-41c9-943e-69a3fc56c323" },
+  { n = 6, title = "Le bonheur", mbid = "23d267c0-4089-40f8-ba8e-f012613b5b22" },
+  { n = 7, title = "Libérez les confinés 1", mbid = "3a9b903e-cecb-4a40-becf-5380984defe7" },
+  { n = 8, title = "Tarent’elle", mbid = "ba01776e-ef66-4695-a013-d678a9c78452" },
+  { n = 9, title = "Retour à la terre", mbid = "6e38ee91-14e3-467f-b920-f2028f58612e" },
+  { n = 10, title = "Le tango des voisins musiciens", mbid = "b30bad45-53a0-4c7c-b53e-5063ba49a7f9" },
+  { n = 11, title = "Mon Papa, cher Papa", mbid = "a97a0f1a-e894-4bcc-8036-065f1bb6fea3" },
+  { n = 12, title = "Auberge de jeunesse", mbid = "9b541746-ca7e-4285-bead-83cb91c0b003" },
+  { n = 13, title = "Kisa ou lé", mbid = "93246218-e266-4a29-9db3-1b38902ab57a" },
+  { n = 14, title = "Libérez les confinés 2", mbid = "68de2922-f2db-4ebb-8d44-390b81c3a0fb" },
+  { n = 15, title = "Original", mbid = "ecd11bc4-3c8c-41ed-8bab-22afc0ce0868" },
+  { n = 16, title = "Une sorcière comme les autres", mbid = "25f24959-a880-4a07-91d7-26a42f30f2f0" },
+  { n = 17, title = "Doucement", mbid = "97c67c4c-2ecd-4526-bb28-4481add34d13" },
+  { n = 18, title = "Car je", mbid = "9fbef3de-190e-44ee-bf7a-e4366f4b4d03" },
+  { n = 19, title = "Pitt sur son vélo", mbid = "506b52c2-18e4-4fb9-9cc9-e69117e86e1e" },
+  { n = 20, title = "Ouragan", mbid = "bc60c02d-cf06-4d77-b96a-8425b5f9fb9c" },
+  { n = 21, title = "Zic Zoé", mbid = "a0bb3e49-3173-42c0-b574-90f5d135913a" },
+  { n = 22, title = "Car je t’aime", mbid = "49337549-3091-4ffa-9af8-cfe143a7c8e7" },
+  { n = 23, title = "Zic Zoé 2", mbid = "c22ed63f-0bcc-48be-b5dd-e62d859198b0" },
+]
+
+[[release]]
+mbid = "ea9d9c78-2fa2-4d49-9ec6-54dc3dc5e714"
+title = "La Pitt' danse"
+type = "single"
+date = "2024-02-23"
+tracks = [
+  { n = 1, title = "La Pitt' danse", mbid = "256a1e48-5e24-42f4-8bf3-4fb8debe09f5" },
+]
+
+[[release]]
+mbid = "ffd022f2-51b6-427b-8ea7-bb406a0d934d"
+title = "Perle rare"
+type = "single"
+date = "2024-04-26"
+tracks = [
+  { n = 1, title = "Perle rare", mbid = "93a783dc-a426-45d5-b1b8-e6f51ad10848" },
+]
+
+[[release]]
+mbid = "de8ad52e-512e-4efa-a8d5-8b67a3de7844"
+title = "Cap' ou pas cap' ?"
+type = "single"
+date = "2024-05-31"
+spotify = "1UrpDOR7U1OIduNTsLRDxS"
+tracks = [
+  { n = 1, title = "Cap' ou pas cap' ?", mbid = "7005d275-7ec9-4a81-8ffd-3a59f7b3f57f" },
+]
+
+[[release]]
+mbid = "07deb8a7-9c37-4d0a-b6c9-fad178ef2a9b"
+title = "Lettre ouverte à Élise"
+type = "single"
+date = "2025-04-21"
+spotify = "3hJrQn3QmWDs7aIp1ZtYmM"
+tracks = [
+  { n = 1, title = "Lettre ouverte à Élise", mbid = "d14e1a8f-bf83-478f-aa12-7a82cfeee8e2" },
+]
+
+[[release]]
+mbid = "7fd2b49e-9a36-41c0-8def-c73e1dda3a70"
+title = "Le vent du Caucase"
+type = "single"
+date = "2026-03-27"
+spotify = "4nzillW2vlnPrj0729WqHb"
+tracks = [
+  { n = 1, title = "Le vent du Caucase", mbid = "0573cdc0-d45e-4ed7-b09d-78fc944eaf63" },
+]

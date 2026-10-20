@@ -1,0 +1,290 @@
+format = 1
+
+[[release]]
+mbid = "5bcfd2d7-8c57-476f-a6f7-10f768291b06"
+title = "Summer 2014"
+type = "single"
+date = "2015-08-14"
+tracks = [
+  { n = 1, title = "Summer 2014", mbid = "9a9b36a1-e75e-4291-a3fe-80b8936ec231" },
+]
+
+[[release]]
+mbid = "e0d8fa1c-e067-4a95-99b1-a20cee950d0d"
+title = "Seine-Saint-Denis"
+type = "single"
+date = "2015-08-15"
+tracks = [
+  { n = 1, title = "Seine-Saint-Denis", mbid = "b107bc38-806e-45dd-ab5f-38c35aa1de68" },
+]
+
+[[release]]
+mbid = "7b819fca-88c7-40e8-a046-c52099d40590"
+title = "Summer 2015"
+type = "single"
+date = "2015-08-19"
+tracks = [
+  { n = 1, title = "Summer 2015", mbid = "144bddbb-4425-4efb-ad0e-f977b292c6ca" },
+]
+
+[[release]]
+mbid = "fb2483a5-8c6c-40d9-9d5a-6958cbdbb4f4"
+title = "En attendant l’album…"
+type = "album"
+date = "2015-12-04"
+spotify = "2pFUl1YUwSxGkhdjJkxILr"
+tracks = [
+  { n = 1, title = "Hanging Tree", mbid = "d6e923a1-3ef5-4e36-877d-6ffffe7c0eee" },
+  { n = 2, title = "Can’t Hold Us", mbid = "0f21cf52-8232-4265-a3df-4dcde50471d2" },
+  { n = 3, title = "Le Mojo (medley)", mbid = "df2a6f11-1b3e-495d-8dcb-abb2308c9497" },
+  { n = 4, title = "Jimmy", mbid = "40b0ff1e-de4d-433c-8fad-8580b1be0204" },
+  { n = 5, title = "Summer 2015 (medley)", mbid = "fc6fce36-b805-422d-a24e-108bfdc9ea26" },
+  { n = 6, title = "Survivor", mbid = "92ec0818-f4f9-452e-b5c5-c0ff4634bd4d" },
+  { n = 7, title = "El dulce de leche", mbid = "f4c8e695-307c-4651-8647-ada5886e50ad" },
+  { n = 8, title = "Get Lucky", mbid = "bb2f09cf-ba08-45a3-9886-82748b30104c" },
+  { n = 9, title = "La Dalle", mbid = "0281e606-ec56-435c-bf07-c208308038ed" },
+  { n = 10, title = "Seine-Saint-Denis Style", mbid = "74678230-6e03-4f8a-9cbb-bdd10ec1aa7e" },
+  { n = 11, title = "Hip Hop Mash Up (medley)", mbid = "e8bdcc47-83c2-46dd-b78b-b35d7e816398" },
+]
+
+[[release]]
+mbid = "bc4471df-cda1-475c-a02f-a1a550c59e4a"
+title = "Redemption Song"
+type = "single"
+date = "2016-05-27"
+tracks = [
+  { n = 1, title = "Redemption Song", mbid = "863f60d7-e52d-4e5a-8d04-61c9343ee10a" },
+]
+
+[[release]]
+mbid = "19bfa002-3970-4a1b-bbe3-1f1be10c5f8f"
+title = "Summer 2016 (Medley / Extended)"
+type = "single"
+date = "2016-08-05"
+tracks = [
+  { n = 1, title = "Summer 2016 (Medley / Extended)", mbid = "28c80823-1559-400c-8bd0-f6aa6c7e2e77" },
+]
+
+[[release]]
+mbid = "cc75668c-109a-4544-b36f-491cf777c225"
+title = "Christmas hors d'œuvre"
+type = "single"
+date = "2016-12-02"
+tracks = [
+  { n = 1, title = "Game Of Bells", mbid = "43066b1f-0435-4795-bf2f-999f90439da6" },
+  { n = 2, title = "Little Drummer Boy", mbid = "24226cdf-1193-47bb-9b61-a5e2341952de" },
+  { n = 3, title = "Sound Of Silence", mbid = "9849efed-cb03-4ddd-bcc1-a0ff9d4aa427" },
+]
+
+[[release]]
+mbid = "d3a59136-d072-4981-9c7b-02b743e2f8c7"
+title = "Summer 2017"
+type = "single"
+date = "2017"
+tracks = [
+  { n = 1, title = "Summer 2017", mbid = "239252d5-2d51-4b4b-97dd-f8deb0c6ce4c" },
+]
+
+[[release]]
+mbid = "fedd5933-e63e-4aad-8421-3971f6b880af"
+title = "Summer 2018"
+type = "single"
+date = "2018"
+tracks = [
+  { n = 1, title = "Summer 2018", mbid = "5bac86b3-54fb-46ec-a2f8-f71abcf574db" },
+]
+
+[[release]]
+mbid = "483988ea-17e4-465a-8398-2aad9f6d7daa"
+title = "La nuit"
+type = "single"
+date = "2018-04-06"
+tracks = [
+  { n = 1, title = "La nuit", mbid = "582151cf-92b7-441d-8398-939cca3f0fb3" },
+]
+
+[[release]]
+mbid = "e2f673ba-79e2-4764-a943-58129cbc8b71"
+title = "Poupées Russes"
+type = "album"
+date = "2018-06-08"
+tracks = [
+  { n = 1, title = "Poupées russes", mbid = "a01c9db9-6679-4426-8583-7cf3f8288695" },
+  { n = 2, title = "La nuit", mbid = "1daaa87d-31e9-438b-9ed0-a9047bfde239" },
+  { n = 3, title = "Par ego", mbid = "dc68b30f-4c5d-47cf-9031-2f55c67fea4d" },
+  { n = 4, title = "L'époux d'un soir", mbid = "5d70216b-0a61-4db8-83fb-48fa9d1ea35b" },
+  { n = 5, title = "Acrobates", mbid = "1b49207b-a8be-47a3-98ff-43c55eb2de2c" },
+  { n = 6, title = "Le verbe", mbid = "39542242-1ed4-4994-928c-cd1d48e984c1" },
+  { n = 7, title = "La marée", mbid = "e40a549d-2a14-4be1-907b-526aea1bc061" },
+  { n = 8, title = "Le buzz", mbid = "23dd1423-22ea-4825-8129-49607aeb2ed0" },
+  { n = 9, title = "Dis Siri", mbid = "9afcd318-2a3d-41c2-a2b7-9e38c75e8c9e" },
+  { n = 10, title = "Saine sainte n’y touche", mbid = "c75b9dff-f7b3-49a9-a728-c956293c547f" },
+  { n = 11, title = "Miss Monde", mbid = "e20d57fb-0e0a-4058-973c-4f47705b88d3" },
+  { n = 12, title = "Épilogue", mbid = "0e2a8e22-86b3-4cba-a26c-266213e0476e" },
+]
+
+[[release]]
+mbid = "4200d6a9-9b18-40e1-be9b-172d3b30ce64"
+title = "Liberté, égalité"
+type = "single"
+date = "2018-07-23"
+tracks = [
+  { n = 1, title = "Liberté, égalité", mbid = "4ea2be42-c0a0-4d78-a8ca-3b6132765882" },
+]
+
+[[release]]
+mbid = "babdbfe3-af54-48d5-89bb-2b2877e9f868"
+title = "On fait du bruit (Avec le Village d'Eva)"
+type = "single"
+date = "2018-12-21"
+tracks = [
+  { n = 1, title = "On fait du bruit (Avec le Village d'Eva)", mbid = "f3f55a54-6f97-4abb-a626-56a870eb786a" },
+]
+
+[[release]]
+mbid = "6a5a8dfa-eeb5-42db-9c4b-96fffaf187da"
+title = "Summer 2019"
+type = "single"
+date = "2019"
+tracks = [
+  { n = 1, title = "Summer 2019", mbid = "f15b9b40-c13d-430e-9168-eb6fe99d715d" },
+]
+
+[[release]]
+mbid = "d0360f9e-3a93-4952-9870-df6e9733930e"
+title = "Pas l'time"
+type = "single"
+date = "2019-06-20"
+tracks = [
+  { n = 1, title = "Pas l'time", mbid = "b7fcf630-2f01-4221-8630-03c02c244a1c" },
+]
+
+[[release]]
+mbid = "16501734-2807-4822-a323-659ead2f79c9"
+title = "L'Hymne de nos campagnes 2019"
+type = "single"
+date = "2019-10-24"
+spotify = "6SYK84PLmoWmTUpbeem6d0"
+tracks = [
+  { n = 1, title = "L'Hymne de nos campagnes 2019", mbid = "f210efce-4f71-43df-bc21-b1c65da56c32" },
+]
+
+[[release]]
+mbid = "2e0d6ea6-f830-4b0c-82e9-8e5eb8caa454"
+title = "Emmène-moi"
+type = "single"
+date = "2020"
+tracks = [
+  { n = 1, title = "Emmène-moi", mbid = "63356dc5-a923-4100-a06b-3a1cbf8ce219" },
+]
+
+[[release]]
+mbid = "c6f55cf8-529b-4366-9ce3-d72b289669b5"
+title = "Summer 2020"
+type = "single"
+date = "2020"
+tracks = [
+  { n = 1, title = "Summer 2020", mbid = "51c6fb09-0153-46a0-a7a8-f26d3c449393" },
+]
+
+[[release]]
+mbid = "3e920afe-f3d3-4ffe-867a-b18f5086c904"
+title = "Tous les deux"
+type = "single"
+date = "2020-02-28"
+spotify = "58G20zcEXBgQc1kM21AhAE"
+tracks = [
+  { n = 1, title = "Tous les deux", mbid = "4e83cca8-0801-4378-ace8-07dc9b9d8368" },
+]
+
+[[release]]
+mbid = "d899d4c2-b06a-4aa7-8338-b609caba5fc9"
+title = "Pas peur"
+type = "album"
+date = "2020-05-29"
+spotify = "1Eru3N6Rg0rxbV3DMdhhKU"
+tracks = [
+  { n = 1, title = "C’est pas parce que", mbid = "b205d77f-f345-4dac-b27e-208ea3aa2598" },
+  { n = 2, title = "Tango", mbid = "61aba7d5-1b86-4505-b1b3-f975664d2184" },
+  { n = 3, title = "Pas l'time", mbid = "84d6ab9d-f6e3-403d-94ce-492f791babe4" },
+  { n = 4, title = "Encore", mbid = "99112a01-7884-43f5-8aa5-27e37f1cc293" },
+  { n = 5, title = "Milliards de Roses", mbid = "1cdcacee-043c-4497-9bae-3cb093d0d95c" },
+  { n = 6, title = "Tous les Deux", mbid = "2493028a-56e8-43ce-9ab1-a533ef9eb723" },
+  { n = 7, title = "Mots Noirs", mbid = "78d6d03e-6b61-43f0-8e06-8302845270dd" },
+  { n = 8, title = "Envie D’Elle", mbid = "d5b2e995-c1c0-4f8e-990c-599eef6dd248" },
+  { n = 9, title = "Dentelle", mbid = "6bd9e12f-0f3d-4cb7-b6cf-d4ec4e5e54ee" },
+  { n = 10, title = "Tu Es", mbid = "5c824d4c-171c-49dd-8e9c-3ef100f9b1dd" },
+  { n = 11, title = "Toucher Couler", mbid = "e72644d3-ffa8-4d6b-93e0-a5ed4d6d737f" },
+  { n = 12, title = "Seule", mbid = "8692d9ff-6af0-499e-aa42-0e6c902c07d0" },
+  { n = 13, title = "Paris En Hiver", mbid = "442a045c-6c32-4e15-bf2e-4e6b8d523484" },
+  { n = 14, title = "La Vie N’Est Qu’Un Je", mbid = "4641cb73-79d1-48a5-869e-11d9c0a09747" },
+  { n = 15, title = "Tout Se Dire", mbid = "e43bad74-1a68-42f5-a10a-d07a1819d0b3" },
+  { n = 16, title = "Pas Peur", mbid = "e7f1a0e1-c769-427d-8232-433df22e51a3" },
+]
+
+[[release]]
+mbid = "fe3fd26f-bfe3-4072-9800-48776d0b2ff6"
+title = "Summer 2021"
+type = "single"
+date = "2021"
+tracks = [
+  { n = 1, title = "Summer 2021", mbid = "ae9e3a38-787b-4131-b3fe-6517112b1a03" },
+]
+
+[[release]]
+mbid = "2e6fe3bb-6fa0-49d8-b3c0-c29c9de3bfca"
+title = "VOLUME II"
+type = "album"
+date = "2022-12-16"
+spotify = "3avxfGFFuOEwDzyun31x8I"
+tracks = [
+  { n = 1, title = "La Javanaise", mbid = "6e71fd9d-503c-4620-8e73-3ba973f4944c" },
+  { n = 2, title = "Foule sentimentale x La vie en rose", mbid = "61f7349b-1370-4932-9a9d-939a55c25991" },
+  { n = 3, title = "Mon amant de Saint Jean x Mistral gagnant", mbid = "283a7532-fc86-4297-8b25-67eb6aa31c82" },
+  { n = 4, title = "La bohème", mbid = "1994e4e1-ae98-440d-ae7c-bdb01b1999cd" },
+  { n = 5, title = "Jardin d'hiver x Que reste-t-il de nos amours", mbid = "9db9eaa4-7b11-43cc-9d41-f8167f818157" },
+  { n = 6, title = "Je suis malade", mbid = "ed0d753a-08e6-4dd1-b4e4-3cbb8b234461" },
+  { n = 7, title = "L'aigle noir", mbid = "ec7f3692-defd-4bd8-9c3f-4c3573a80c95" },
+  { n = 8, title = "Céline", mbid = "e1cbc521-6af4-4a8c-b845-07dfae872d33" },
+  { n = 9, title = "Ne me quitte pas", mbid = "a3d409e9-6879-4534-a0dc-0874c7f031b8" },
+  { n = 10, title = "Les feuilles mortes", mbid = "4e089bfb-d3b8-40dd-8e65-39aaf21db84d" },
+]
+
+[[release]]
+mbid = "3ff67a12-ca63-4d80-8880-233f90ef8d97"
+title = "Summer 2023"
+type = "single"
+date = "2023"
+tracks = [
+  { n = 1, title = "Summer 2023", mbid = "80ea71f4-584e-4dcd-89aa-0544ee8c026d" },
+]
+
+[[release]]
+mbid = "e8f4ec28-4812-4ad1-b8b7-64f4f8778ab3"
+title = "Summer 2025"
+type = "single"
+date = "2025"
+tracks = [
+  { n = 1, title = "Summer 2025", mbid = "b69e42cb-eabc-4281-8ee3-0e608e104a17" },
+]
+
+[[release]]
+mbid = "6d399414-5a4f-494b-8d6e-128de7095177"
+title = "S'aimer c'est une galère"
+type = "album"
+date = "2025-10-03"
+spotify = "5Px0oJmH1StNssHG5EjN5t"
+tracks = [
+  { n = 1, title = "Tunnel", mbid = "8b8a8821-41dd-4398-9029-b0c2a11de86b" },
+  { n = 2, title = "Phoebe", mbid = "f3c22de8-ab25-41a1-a297-695969c784ac" },
+  { n = 3, title = "L.A Paris", mbid = "a21ccbe6-9a05-4160-a675-d031d1384cb6" },
+  { n = 4, title = "Tic-Tac", mbid = "3d86b764-e17f-4543-9d80-04595dd21f50" },
+  { n = 5, title = "Sakura", mbid = "ffd4b4c0-3f6f-48ab-bc08-e8771eca666a" },
+  { n = 6, title = "Si demain tout s'arrête", mbid = "eb15127d-1279-4249-ad31-75dbd86e7d1e" },
+  { n = 7, title = "Daft Love", mbid = "b816c4a7-31f9-46d7-8a2a-fc01f949601c" },
+  { n = 8, title = "Parano", mbid = "dc20ad83-7411-4c9c-911a-f628385c095c" },
+  { n = 9, title = "Sweet Anderson", mbid = "7d1faeaf-046a-483b-861a-f4f075bf2a01" },
+  { n = 10, title = "À vous", mbid = "143a3510-3a73-4793-be42-9bce1474d13d" },
+  { n = 11, title = "Mimi", mbid = "a46dde92-b773-4845-9619-52fb3dcf2059" },
+  { n = 12, title = "Changé l'heure", mbid = "d3caadb8-b122-4ff0-99f3-74706a38b0c3" },
+]

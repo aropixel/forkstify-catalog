@@ -1,0 +1,525 @@
+format = 1
+
+[[release]]
+mbid = "34291a49-8df9-304e-bd39-16b11d829d5f"
+title = "Songs of Leonard Cohen"
+type = "album"
+date = "1967-12-27"
+spotify = "6EcqWi6PA9CbvtulGbEsPN"
+tracks = [
+  { n = 1, title = "Suzanne", mbid = "dabf85e1-ce84-467b-a267-1e6a36b600ed" },
+  { n = 2, title = "Master Song", mbid = "9e632ee6-a2b3-461d-8b82-d28c99f73fa9" },
+  { n = 3, title = "Winter Lady", mbid = "8dbbc1e7-41cb-46cc-bd86-d8a6a926264c" },
+  { n = 4, title = "The Stranger Song", mbid = "44fae494-0cc6-4a03-92f6-3cd89b94eb25" },
+  { n = 5, title = "Sisters of Mercy", mbid = "1dfbe751-83d3-4a9e-820e-b8f7c46213ba" },
+  { n = 6, title = "So Long, Marianne", mbid = "03324c96-733a-4f07-8d63-da47d8285294" },
+  { n = 7, title = "Hey, That’s No Way to Say Goodbye", mbid = "f01d27f7-5080-48fe-877a-0176e217cce7" },
+  { n = 8, title = "Stories of the Street", mbid = "ef095d10-ceb5-4ff0-8e32-e33ae176e374" },
+  { n = 9, title = "Teachers", mbid = "9d6a550c-3cb2-440f-81d1-5237d35558ef" },
+  { n = 10, title = "One of Us Cannot Be Wrong", mbid = "a4bb8b08-9a6a-4405-b023-84675169bafa" },
+]
+
+[[release]]
+mbid = "5e3e47e4-7e56-4952-8e86-cc1cad880825"
+title = "So Long, Marianne"
+type = "single"
+date = "1968"
+tracks = [
+  { n = 1, title = "So Long, Marianne", mbid = "c50193d7-0ac5-4e05-807d-85ffe044ace3" },
+  { n = 2, title = "Hey, That's No Way To Say Good Bye", mbid = "f01d27f7-5080-48fe-877a-0176e217cce7" },
+]
+
+[[release]]
+mbid = "a65f998e-a2e8-470f-bc59-cb3e34a5e15c"
+title = "Bird on the Wire"
+type = "single"
+date = "1969"
+tracks = [
+  { n = 1, title = "Bird on the Wire", mbid = "a7e15f12-ea5c-4f4a-85e8-22d7eb7fad2c" },
+  { n = 2, title = "Seems So Long Ago, Nancy", mbid = "7eff29b8-0773-4159-bae8-4d6bdf0a3dc1" },
+]
+
+[[release]]
+mbid = "0c0d5696-5d29-3809-8b79-4bf1320f0353"
+title = "Songs From a Room"
+type = "album"
+date = "1969-04"
+spotify = "2pTyJZOTqFYn2UPP30zZNl"
+tracks = [
+  { n = 1, title = "Bird on the Wire", mbid = "a7e15f12-ea5c-4f4a-85e8-22d7eb7fad2c" },
+  { n = 2, title = "Story of Isaac", mbid = "c122eb1a-532e-4e19-8762-000009d04270" },
+  { n = 3, title = "A Bunch of Lonesome Heroes", mbid = "6df65969-fe42-46fa-b167-7f3abd47ee90" },
+  { n = 4, title = "The Partisan", mbid = "298af3c5-74b0-4308-8b94-c11415fc6ebe" },
+  { n = 5, title = "Seems So Long Ago, Nancy", mbid = "7eff29b8-0773-4159-bae8-4d6bdf0a3dc1" },
+  { n = 6, title = "The Old Revolution", mbid = "3b6dd603-b0c5-4765-97a3-cd859eae82e6" },
+  { n = 7, title = "The Butcher", mbid = "2f90cf1d-e28d-4523-a6f5-037259072178" },
+  { n = 8, title = "You Know Who I Am", mbid = "25e0aba3-4737-4ae2-b9e3-5f5b9979115d" },
+  { n = 9, title = "Lady Midnight", mbid = "943f918e-946e-47e6-9092-ab284cc72784" },
+  { n = 10, title = "Tonight Will Be Fine", mbid = "9650115c-487f-4973-addc-d8047ace294a" },
+]
+
+[[release]]
+mbid = "c69e0ac2-2de4-4f0e-8d69-8c23163fe3c0"
+title = "The Partisan"
+type = "single"
+date = "1969-05-30"
+tracks = [
+  { n = 1, title = "The Partisan", mbid = "298af3c5-74b0-4308-8b94-c11415fc6ebe" },
+  { n = 2, title = "Bird on the Wire", mbid = "a7e15f12-ea5c-4f4a-85e8-22d7eb7fad2c" },
+]
+
+[[release]]
+mbid = "964ccc52-2873-3bce-a806-73d71532c539"
+title = "Songs of Love and Hate"
+type = "album"
+date = "1971"
+spotify = "5WGGkUyTDomzIAdj9Vz6v9"
+tracks = [
+  { n = 1, title = "Avalanche", mbid = "98fd912c-49e7-4f9c-b3c4-25f7b28052ce" },
+  { n = 2, title = "Last Year’s Man", mbid = "3d5b07a8-a641-4cda-a988-c1b5aa4d7aff" },
+  { n = 3, title = "Dress Rehearsal Rag", mbid = "7e032abc-c653-43f2-9de8-982cf62e3688" },
+  { n = 4, title = "Diamonds in the Mine", mbid = "bc07db48-3846-4447-bfa6-0629b86db45e" },
+  { n = 5, title = "Love Calls You by Your Name", mbid = "89006e1c-3466-4606-80c9-448c5dc64007" },
+  { n = 6, title = "Famous Blue Raincoat", mbid = "e208aa92-4c0e-462c-a737-c85e9209d217" },
+  { n = 7, title = "Sing Another Song, Boys", mbid = "12879ba5-6dcb-4279-aafa-8ad0fa91d331" },
+  { n = 8, title = "Joan of Arc", mbid = "8c3f1e33-ce21-4c64-813a-24c10f572d2c" },
+]
+
+[[release]]
+mbid = "2b9c78e2-8758-46b3-865f-da0ddfeb8eb1"
+title = "Winter Lady"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Winter Lady", mbid = "8dbbc1e7-41cb-46cc-bd86-d8a6a926264c" },
+  { n = 2, title = "Sisters of Mercy", mbid = "1dfbe751-83d3-4a9e-820e-b8f7c46213ba" },
+  { n = 3, title = "The Stranger Song", mbid = "44fae494-0cc6-4a03-92f6-3cd89b94eb25" },
+]
+
+[[release]]
+mbid = "9f7f6977-fe6e-41f3-8ff3-683a5498e217"
+title = "The Stranger Song"
+type = "single"
+date = "1972"
+tracks = [
+  { n = 1, title = "The Stranger Song", mbid = "0ac3a253-82d0-4295-9077-ce7d069e14e8" },
+  { n = 2, title = "Sisters of Mercy", mbid = "1dfbe751-83d3-4a9e-820e-b8f7c46213ba" },
+]
+
+[[release]]
+mbid = "e3f7009e-5e46-4719-ae47-91fb0b97f361"
+title = "Suzanne / Bird on the Wire"
+type = "single"
+date = "1973-04-20"
+tracks = [
+  { n = 1, title = "Suzanne", mbid = "d8915df9-890d-4821-a134-d8cdf0b69a62" },
+  { n = 2, title = "Bird on the Wire", mbid = "a7e15f12-ea5c-4f4a-85e8-22d7eb7fad2c" },
+]
+
+[[release]]
+mbid = "cd2bfae6-c07d-4a52-9f39-956e4bfbbd12"
+title = "Lover Lover Lover / Who By Fire"
+type = "single"
+date = "1974"
+tracks = [
+  { n = 1, title = "Lover Lover Lover", mbid = "bdc69de7-c35d-473a-9a32-3143b5cf6c3d" },
+  { n = 2, title = "Who By Fire", mbid = "81b2da23-033b-4985-895d-c19f0cc8258c" },
+]
+
+[[release]]
+mbid = "713b95c0-6259-33a5-9711-6bb791e15e3e"
+title = "New Skin for the Old Ceremony"
+type = "album"
+date = "1974-08-11"
+tracks = [
+  { n = 1, title = "Is This What You Wanted", mbid = "6ea0a938-b4a1-4323-9c7b-d8eb3be043a3" },
+  { n = 2, title = "Chelsea Hotel No. 2", mbid = "9c4da7e7-d936-43f4-84d3-b06f5f5843b2" },
+  { n = 3, title = "Lover Lover Lover", mbid = "bdc69de7-c35d-473a-9a32-3143b5cf6c3d" },
+  { n = 4, title = "Field Commander Cohen", mbid = "5a0ea8c2-f34d-423e-b022-37b4e9803d7c" },
+  { n = 5, title = "Why Don't You Try", mbid = "446e2240-a8e7-4756-b35e-bc4ffdf5b610" },
+  { n = 6, title = "There Is a War", mbid = "7ce96582-4cb0-42f0-9d98-253e1fe36f33" },
+  { n = 7, title = "A Singer Must Die", mbid = "174546b8-28bd-4d61-b1f1-9f7ffd57963e" },
+  { n = 8, title = "I Tried to Leave You", mbid = "456ebc49-9a54-45f8-a3ab-b50bfafeee79" },
+  { n = 9, title = "Who by Fire", mbid = "9313208d-480f-49fc-8616-ad13273e80a3" },
+  { n = 10, title = "Take This Longing", mbid = "e68f1283-5675-485c-b840-8bb9202a7145" },
+  { n = 11, title = "Leaving Green Sleeves", mbid = "b45b3886-b5f6-4a33-a9ee-5dd3307552f6" },
+]
+
+[[release]]
+mbid = "bc7ec3c8-486e-46b1-abf3-765efbbbac89"
+title = "Do I Have To Dance All Night / The Butcher"
+type = "single"
+date = "1976"
+tracks = [
+  { n = 1, title = "Do I Have to Dance All Night", mbid = "1e28e4cc-77b9-4f0a-addf-75bd5fcbbc62" },
+  { n = 2, title = "The Butcher", mbid = "6b2fa9a1-8b7a-4df3-8463-4944de05c47b" },
+]
+
+[[release]]
+mbid = "3e5a67eb-0e18-3a82-922b-789e08c6d8d0"
+title = "Death of a Ladies’ Man"
+type = "album"
+date = "1977-11"
+tracks = [
+  { n = 1, title = "True Love Leaves No Traces", mbid = "a77d295d-8fc1-4092-995d-79f4cd9ee03d" },
+  { n = 2, title = "Iodine", mbid = "119c417d-c944-4dee-a5a3-91ee8b7d2624" },
+  { n = 3, title = "Paper-Thin Hotel", mbid = "f2b77f10-0e9b-4151-93a5-63a8f19b5e98" },
+  { n = 4, title = "Memories", mbid = "6adaca9d-d8a1-4f63-b4b9-dbec59c4fcf1" },
+  { n = 5, title = "I Left a Woman Waiting", mbid = "cbc9208f-c14e-4b5a-8319-6c9750da829e" },
+  { n = 6, title = "Don’t Go Home With Your Hard-On", mbid = "0cceb0d1-a0d0-456b-9557-ff879ee1326d" },
+  { n = 7, title = "Fingerprints", mbid = "e63199ee-f5c9-4cd4-8c0b-ad3af3c175f2" },
+  { n = 8, title = "Death of a Ladies’ Man", mbid = "8077f9cf-ce84-4fca-a162-c9addcb31551" },
+]
+
+[[release]]
+mbid = "1d60df56-dec4-3b33-bca6-ce6f16ef85c5"
+title = "Recent Songs"
+type = "album"
+date = "1979-09"
+tracks = [
+  { n = 1, title = "The Guests", mbid = "9ab9cba8-dc25-4c71-abca-12b879284123" },
+  { n = 2, title = "Humbled in Love", mbid = "40ba62d5-3fc8-4570-9fc0-6bd741551551" },
+  { n = 3, title = "The Window", mbid = "1c54de7c-069a-4023-a8a3-b0cd55400609" },
+  { n = 4, title = "Came So Far for Beauty", mbid = "04360542-ef02-4eae-9826-ee8870e70321" },
+  { n = 5, title = "The Lost Canadian (Un Canadien errant)", mbid = "650c92ba-a9eb-40ec-83dd-30148fc1679a" },
+  { n = 6, title = "The Traitor", mbid = "7d644bc4-e70d-46d9-a3e0-4f47315e5e03" },
+  { n = 7, title = "Our Lady of Solitude", mbid = "5b2cc354-3abb-477d-8143-46394f7c9242" },
+  { n = 8, title = "The Gypsy’s Wife", mbid = "bfe0b37d-fe45-4a5c-9857-386092b5396e" },
+  { n = 9, title = "The Smokey Life", mbid = "90977aa4-eead-4245-9413-92a635cbb4a6" },
+  { n = 10, title = "Ballad of the Absent Mare", mbid = "38e88e6e-16e3-4f7a-8156-db319e0508cd" },
+]
+
+[[release]]
+mbid = "577a9dbd-eda8-4321-abab-555b9075e46b"
+title = "Dance Me to the End of Love"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Dance Me to the End of Love", mbid = "e2964be1-dc2b-455d-b4d7-b510b5b103af" },
+]
+
+[[release]]
+mbid = "0ae9da82-b82d-44da-8ce4-60fb371b0fd6"
+title = "Hallelujah"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Hallelujah", mbid = "0ef6d5e2-78e3-43e8-a32c-36e28fed4834" },
+  { n = 2, title = "The Law", mbid = "7578e206-534a-4985-a7b1-2d268ae6d073" },
+]
+
+[[release]]
+mbid = "19c21cd1-54eb-3f42-a0ab-6fa0f834cee7"
+title = "Various Positions"
+type = "album"
+date = "1984-12"
+tracks = [
+  { n = 1, title = "Dance Me to the End of Love", mbid = "3aa00e9d-e2be-4c3b-a6ac-66193f2a938f" },
+  { n = 2, title = "Coming Back to You", mbid = "ec432f41-4de2-4238-83d3-d3267f1e1d64" },
+  { n = 3, title = "The Law", mbid = "7578e206-534a-4985-a7b1-2d268ae6d073" },
+  { n = 4, title = "Night Comes On", mbid = "4326e410-94d6-4047-b137-734aa9a40f1d" },
+  { n = 5, title = "Hallelujah", mbid = "0ef6d5e2-78e3-43e8-a32c-36e28fed4834" },
+  { n = 6, title = "The Captain", mbid = "2583aade-4757-4570-ad2f-a78b59598a55" },
+  { n = 7, title = "Hunter’s Lullaby", mbid = "a514d6c9-11be-4ed4-9702-ec09fbad7df2" },
+  { n = 8, title = "Heart With No Companion", mbid = "d48c3939-b2a0-4e65-a717-e88859403b07" },
+  { n = 9, title = "If It Be Your Will", mbid = "fd8ad4d2-3ad6-48c7-90da-7975a18bec96" },
+]
+
+[[release]]
+mbid = "18afdfb8-367a-4f39-9563-20b1ebcf9491"
+title = "Ain’t No Cure for Love"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Ain’t No Cure for Love", mbid = "0eaf0546-0a86-419d-b7cb-fac6a77eb55a" },
+  { n = 2, title = "Jazz Police", mbid = "d9352e0c-40a7-4639-9b52-f61ee654560d" },
+  { n = 3, title = "Hey, That’s No Way to Say Goodbye", mbid = "f01d27f7-5080-48fe-877a-0176e217cce7" },
+  { n = 4, title = "So Long, Marianne", mbid = "03324c96-733a-4f07-8d63-da47d8285294" },
+]
+
+[[release]]
+mbid = "3179324f-9413-4f8a-a423-8effa24a90c3"
+title = "First We Take Manhattan"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "First We Take Manhattan", mbid = "ec927de1-530e-422a-bff6-664233d93af6" },
+  { n = 2, title = "Sisters of Mercy", mbid = "1dfbe751-83d3-4a9e-820e-b8f7c46213ba" },
+  { n = 3, title = "Bird on the Wire", mbid = "a7e15f12-ea5c-4f4a-85e8-22d7eb7fad2c" },
+  { n = 4, title = "Suzanne", mbid = "dabf85e1-ce84-467b-a267-1e6a36b600ed" },
+]
+
+[[release]]
+mbid = "19a49d60-c186-32b4-ad02-7580487efc8c"
+title = "I’m Your Man"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "I’m Your Man", mbid = "4150b2a5-1dfb-4781-afd1-c3f887804277" },
+  { n = 2, title = "Chelsea Hotel No. 2", mbid = "9c4da7e7-d936-43f4-84d3-b06f5f5843b2" },
+  { n = 3, title = "Who by Fire", mbid = "9313208d-480f-49fc-8616-ad13273e80a3" },
+]
+
+[[release]]
+mbid = "7f073c9c-f64f-3a79-bbd8-5aa7668e5cd8"
+title = "I’m Your Man"
+type = "album"
+date = "1988-02-21"
+spotify = "3gUw30X6A7WEGcRdv1nFr9"
+tracks = [
+  { n = 1, title = "First We Take Manhattan", mbid = "ec927de1-530e-422a-bff6-664233d93af6" },
+  { n = 2, title = "Ain't No Cure for Love", mbid = "0eaf0546-0a86-419d-b7cb-fac6a77eb55a" },
+  { n = 3, title = "Everybody Knows", mbid = "30f52995-5567-4254-8f5d-7a46ac9b2cfb" },
+  { n = 4, title = "I'm Your Man", mbid = "4150b2a5-1dfb-4781-afd1-c3f887804277" },
+  { n = 5, title = "Take This Waltz", mbid = "7404f68c-94aa-4088-ad98-50b92c260819" },
+  { n = 6, title = "Jazz Police", mbid = "d9352e0c-40a7-4639-9b52-f61ee654560d" },
+  { n = 7, title = "I Can't Forget", mbid = "fae69095-3cde-4156-a91c-99f4d985dcb2" },
+  { n = 8, title = "Tower of Song", mbid = "ed670fc8-0c90-4e95-9b7f-a5764aeb56f6" },
+]
+
+[[release]]
+mbid = "9a1f6118-8e56-41b8-bd35-93119a90582a"
+title = "First We Take Manhattan / Suzanne / So Long Marianne"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "First We Take Manhattan", mbid = "ec927de1-530e-422a-bff6-664233d93af6" },
+  { n = 2, title = "Suzanne", mbid = "dabf85e1-ce84-467b-a267-1e6a36b600ed" },
+  { n = 3, title = "So Long, Marianne", mbid = "03324c96-733a-4f07-8d63-da47d8285294" },
+]
+
+[[release]]
+mbid = "585df2bb-8773-30d7-9d4b-aa88e7846814"
+title = "The Future"
+type = "album"
+date = "1992-11-24"
+tracks = [
+  { n = 1, title = "The Future", mbid = "06cf07c0-b739-4ce7-92c4-56424ee061cc" },
+  { n = 2, title = "Waiting for the Miracle", mbid = "3a824c74-8ed4-4963-aa92-2ea0a173eeeb" },
+  { n = 3, title = "Be for Real", mbid = "93b29043-59f5-4092-b74d-32c267dadaf7" },
+  { n = 4, title = "Closing Time", mbid = "8be14815-92d2-4307-a16f-f47c3a0feeb6" },
+  { n = 5, title = "Anthem", mbid = "34b3b2fc-fe08-429c-90fc-da7929f62846" },
+  { n = 6, title = "Democracy", mbid = "cb970ecf-215f-43d4-8b2c-24ff99a72194" },
+  { n = 7, title = "Light as the Breeze", mbid = "2ed281d2-a440-4a65-ab52-0d88a30ebe1a" },
+  { n = 8, title = "Always", mbid = "a39d2625-9fc7-4c0a-b44c-d0fa4b955055" },
+  { n = 9, title = "Tacoma Trailer", mbid = "579927d8-3ef4-479a-9142-2723fe7f55c5" },
+]
+
+[[release]]
+mbid = "8f629f60-8978-450a-bc8e-cd232d7db751"
+title = "A Thousand Kisses Deep"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "A Thousand Kisses Deep", mbid = "36497e8d-1d2e-4621-bc9c-0d85de60b42d" },
+]
+
+[[release]]
+mbid = "b162cc5a-e4bb-3c65-b321-09245aea3e7a"
+title = "Ten New Songs"
+type = "album"
+date = "2001-10-08"
+tracks = [
+  { n = 1, title = "In My Secret Life", mbid = "3b26072c-426e-41d8-8498-037a4e95bfb7" },
+  { n = 2, title = "A Thousand Kisses Deep", mbid = "36497e8d-1d2e-4621-bc9c-0d85de60b42d" },
+  { n = 3, title = "That Don’t Make It Junk", mbid = "03d237a6-50b0-4d97-9272-6cda1789aa58" },
+  { n = 4, title = "Here It Is", mbid = "c3122495-ce76-40ce-ab37-8213d5ec1735" },
+  { n = 5, title = "Love Itself", mbid = "03f720ba-4f36-4f61-808c-04774705b6f1" },
+  { n = 6, title = "By the Rivers Dark", mbid = "cfcf38f3-b8f5-4cf2-bb15-e839e89a1ea9" },
+  { n = 7, title = "Alexandra Leaving", mbid = "07d39109-cec9-4cec-9678-34041f86e441" },
+  { n = 8, title = "You Have Loved Enough", mbid = "e14acf57-24cc-4e7c-83ef-de3a55eb9104" },
+  { n = 9, title = "Boogie Street", mbid = "46a307fa-16ba-4ca1-8ae2-6b7b4694e21e" },
+  { n = 10, title = "The Land of Plenty", mbid = "846fedd4-3852-46e7-a71b-d0bfd45d96ff" },
+]
+
+[[release]]
+mbid = "28fad854-8a88-3814-b303-8aca625c206d"
+title = "Dear Heather"
+type = "album"
+date = "2004-10-25"
+spotify = "2A2w7NSKKyAfDvwx6GEHEg"
+tracks = [
+  { n = 1, title = "Go No More A-Roving", mbid = "04aaf388-a91b-4606-bd95-c7258c738656" },
+  { n = 2, title = "Because Of", mbid = "3c4bb6b1-d488-4f8a-bbb5-9e721b5f593a" },
+  { n = 3, title = "The Letters", mbid = "0c276747-72d4-4f53-824f-ff82858aba97" },
+  { n = 4, title = "Undertow", mbid = "63457012-014b-4ad8-83bf-b4cbfcbcccae" },
+  { n = 5, title = "Morning Glory", mbid = "c43a75af-4212-4bd0-a9b7-06c0ef319dd7" },
+  { n = 6, title = "On That Day", mbid = "52784e4b-f82b-4fdc-b7b6-c74467b0997a" },
+  { n = 7, title = "Villanelle for Our Time", mbid = "d199627e-fcdb-4d59-8ac2-6a801a417e4f" },
+  { n = 8, title = "There for You", mbid = "65b0fe30-7059-42a5-99c5-dbf4ee89d809" },
+  { n = 9, title = "Dear Heather", mbid = "60094d22-2e2f-46fd-8e42-a290929687b4" },
+  { n = 10, title = "Nightingale", mbid = "b782ea5b-f15a-463f-87c2-5378a472e51c" },
+  { n = 11, title = "To a Teacher", mbid = "e867bfa9-fd8f-49e9-a87d-f00480369844" },
+  { n = 12, title = "The Faith", mbid = "af8cbdca-bbb1-41de-bc4f-19f65d5a7fb0" },
+  { n = 13, title = "Tennessee Waltz (live)", mbid = "2eaf629b-4ef4-480a-a646-640865b2a1d5" },
+]
+
+[[release]]
+mbid = "c9d8ab4e-2277-3c3f-b1d4-51dfb8fa4112"
+title = "Book of Longing"
+type = "album"
+date = "2007-11-19"
+spotify = "4k4HZOT3DShE578kExgPJZ"
+tracks = [
+  { disc = 1, n = 1, title = "Book of Longing: Prologue - I Can't Make the Hills", mbid = "e3e7c1c5-e963-4eb7-9df3-e1a8bd0919a7" },
+  { disc = 1, n = 2, title = "Book of Longing: I Came Down From the Mountain", mbid = "916a7d22-2a0d-49b4-8500-32e4eefbd7e2" },
+  { disc = 1, n = 3, title = "Book of Longing: A Sip of Wine", mbid = "35e77e70-aeb7-46c4-80d3-07815099224f" },
+  { disc = 1, n = 4, title = "Book of Longing: Want to Fly", mbid = "3b2efe2f-2697-49d3-8f63-9b341b196672" },
+  { disc = 1, n = 5, title = "Book of Longing: The Light Came Through the Window", mbid = "11c76a8f-96f2-4f3f-b4b6-dab87e107d93" },
+  { disc = 1, n = 6, title = "Book of Longing: Puppet Time", mbid = "fccd3115-fc88-4ac7-b50f-4b59c5c0b95b" },
+  { disc = 1, n = 7, title = "Book of Longing: G-d Opened My Eyes", mbid = "1774b6ee-2e22-4a6d-b2bd-c492a8fb5b41" },
+  { disc = 1, n = 8, title = "Book of Longing: You Go Your Way", mbid = "1d353965-12c9-435c-89f1-907dca0a104a" },
+  { disc = 1, n = 9, title = "Book of Longing: I Was Doing Something", mbid = "f188c2b1-e0da-49a8-8558-846fbbb7a39a" },
+  { disc = 1, n = 10, title = "Book of Longing: Not a Jew", mbid = "1906d1a1-93af-4183-8d36-8a4e7be35b24" },
+  { disc = 1, n = 11, title = "Book of Longing: How Much I Love You", mbid = "5beb2a63-df33-47a9-82c2-67a8748eb3b7" },
+  { disc = 1, n = 12, title = "Book of Longing: Babylon", mbid = "d59a4c4b-c948-40c8-83cb-f57aa328aaa8" },
+  { disc = 1, n = 13, title = "Book of Longing: I Enjoyed the Laughter", mbid = "4505e15d-b817-4773-808d-7b8277d34373" },
+  { disc = 2, n = 1, title = "Book of Longing: This Morning I Woke Up Again", mbid = "9c271ca5-9331-4f6a-9129-356e102d9f2e" },
+  { disc = 2, n = 2, title = "Book of Longing: I Want to Love You Now", mbid = "17630788-f225-4c03-80ee-79253120e703" },
+  { disc = 2, n = 3, title = "Book of Longing: Don't Have the Proof", mbid = "0154989a-5b64-453d-b30b-0bc603d5acfa" },
+  { disc = 2, n = 4, title = "Book of Longing: The Night of Santiago", mbid = "de25e81c-dfd6-4011-a68b-df82f6f4ae17" },
+  { disc = 2, n = 5, title = "Book of Longing: Mother Mother", mbid = "5ad0f5fb-936f-4f36-b703-0c371682db7e" },
+  { disc = 2, n = 6, title = "Book of Longing: You Came to Me This Morning", mbid = "11bee716-d127-4340-bba9-1ae823b31314" },
+  { disc = 2, n = 7, title = "Book of Longing: I Am Now Able", mbid = "94f58f0e-5904-479b-92ec-eff05ea3246f" },
+  { disc = 2, n = 8, title = "Book of Longing: Roshi's Very Tired", mbid = "50788a57-39fa-4247-bba4-94498a3684d5" },
+  { disc = 2, n = 9, title = "Book of Longing: Epilogue - Merely a Prayer", mbid = "8b5356ef-7340-42fd-a5c3-c2db8d9937df" },
+]
+
+[[release]]
+mbid = "b0f5b9a0-0852-4789-9cf2-243a83c9d5c0"
+title = "Show Me the Place"
+type = "single"
+date = "2011-11-22"
+tracks = [
+  { n = 1, title = "Show Me the Place", mbid = "5ed31323-306e-4286-877c-52873b98275c" },
+]
+
+[[release]]
+mbid = "219db93e-9b42-4d9b-b3dc-c63f679f2b72"
+title = "Darkness"
+type = "single"
+date = "2012-01-16"
+tracks = [
+  { n = 1, title = "Darkness", mbid = "d2835e45-c9f4-4107-8aed-1286616053b9" },
+]
+
+[[release]]
+mbid = "0c52f3aa-0ddc-47fe-8427-9b3d07b655f6"
+title = "Old Ideas"
+type = "album"
+date = "2012-01-27"
+spotify = "0waLDJlCfXkXIwFGdBZ6UK"
+tracks = [
+  { disc = 1, n = 1, title = "Going Home", mbid = "524819cc-ca3a-440e-8b2d-579d586731fc" },
+  { disc = 1, n = 2, title = "Amen", mbid = "f388dcca-0e73-4ff8-b065-5e3477c63196" },
+  { disc = 1, n = 3, title = "Show Me the Place", mbid = "5ed31323-306e-4286-877c-52873b98275c" },
+  { disc = 1, n = 4, title = "Darkness", mbid = "d2835e45-c9f4-4107-8aed-1286616053b9" },
+  { disc = 1, n = 5, title = "Anyhow", mbid = "f56ce16d-642c-4bcc-b2da-c3392a27c8f4" },
+  { disc = 1, n = 6, title = "Crazy to Love You", mbid = "6a295f6a-2676-4bd8-97fa-99ec7d5a8235" },
+  { disc = 1, n = 7, title = "Come Healing", mbid = "b7d9fb6f-e8ed-4fb7-9c12-92c0b50e4a77" },
+  { disc = 1, n = 8, title = "Banjo", mbid = "224c1533-f467-4895-95fa-e0b4cf679a48" },
+  { disc = 1, n = 9, title = "Lullaby", mbid = "4696bdb9-8643-4723-886e-12754456b0f5" },
+  { disc = 1, n = 10, title = "Different Sides", mbid = "1f82bd0e-1e14-4601-976a-3fa9993ff9db" },
+  { disc = 2, n = 1, title = "Going Home", mbid = "524819cc-ca3a-440e-8b2d-579d586731fc" },
+  { disc = 2, n = 2, title = "Amen", mbid = "f388dcca-0e73-4ff8-b065-5e3477c63196" },
+  { disc = 2, n = 3, title = "Show Me the Place", mbid = "5ed31323-306e-4286-877c-52873b98275c" },
+  { disc = 2, n = 4, title = "Darkness", mbid = "d2835e45-c9f4-4107-8aed-1286616053b9" },
+  { disc = 2, n = 5, title = "Anyhow", mbid = "f56ce16d-642c-4bcc-b2da-c3392a27c8f4" },
+  { disc = 2, n = 6, title = "Crazy to Love You", mbid = "6a295f6a-2676-4bd8-97fa-99ec7d5a8235" },
+  { disc = 2, n = 7, title = "Come Healing", mbid = "b7d9fb6f-e8ed-4fb7-9c12-92c0b50e4a77" },
+  { disc = 2, n = 8, title = "Banjo", mbid = "224c1533-f467-4895-95fa-e0b4cf679a48" },
+  { disc = 2, n = 9, title = "Lullaby", mbid = "4696bdb9-8643-4723-886e-12754456b0f5" },
+  { disc = 2, n = 10, title = "Different Sides", mbid = "1f82bd0e-1e14-4601-976a-3fa9993ff9db" },
+]
+
+[[release]]
+mbid = "90b0a0b4-cf3c-44f8-8aca-05031a2db29e"
+title = "Almost Like the Blues"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Almost Like the Blues", mbid = "e070786b-7f7d-430c-aa3f-e3cabf6f1b9f" },
+]
+
+[[release]]
+mbid = "3339bbbc-fce1-404d-9789-e0c07ab6db6e"
+title = "Popular Problems"
+type = "album"
+date = "2014-09-23"
+spotify = "1WkGbKUjhOMru7uYl25jJb"
+tracks = [
+  { n = 1, title = "Slow", mbid = "08ab5ef8-abe8-4462-9459-9f09ec8d5e89" },
+  { n = 2, title = "Almost Like the Blues", mbid = "e070786b-7f7d-430c-aa3f-e3cabf6f1b9f" },
+  { n = 3, title = "Samson in New Orleans", mbid = "ca32cdc5-785e-4780-9cd9-91ec2828086d" },
+  { n = 4, title = "A Street", mbid = "ca0f8aa8-264e-4ec2-8476-d8560d104a50" },
+  { n = 5, title = "Did I Ever Love You", mbid = "f830095a-ad2d-4afb-a239-0b8ff4a2fdb9" },
+  { n = 6, title = "My Oh My", mbid = "df750d80-8b8d-4da4-8171-d94eeca7c247" },
+  { n = 7, title = "Nevermind", mbid = "750f20c1-4f6a-4da4-818d-29d98eb21276" },
+  { n = 8, title = "Born in Chains", mbid = "998e8ed8-9d50-4c21-8a05-d98205c8723a" },
+  { n = 9, title = "You Got Me Singing", mbid = "df6b40da-2d5f-45be-b587-1c3fe9fd2269" },
+]
+
+[[release]]
+mbid = "af035dfc-7a9d-4796-a7d4-3c71d7fd881f"
+title = "You Want It Darker"
+type = "single"
+date = "2016-09-21"
+tracks = [
+  { n = 1, title = "You Want It Darker", mbid = "206feb71-4841-4abe-85ca-8e0c622d308c" },
+]
+
+[[release]]
+mbid = "99599db8-0e36-4a93-b0e8-350e9d7502a9"
+title = "You Want It Darker"
+type = "album"
+date = "2016-10-21"
+spotify = "3jeTB3j3QmUs8SPIVleHtU"
+tracks = [
+  { n = 1, title = "You Want It Darker", mbid = "206feb71-4841-4abe-85ca-8e0c622d308c" },
+  { n = 2, title = "Treaty", mbid = "d63cbbdb-9e64-4d9e-a011-00c631d82873" },
+  { n = 3, title = "On the Level", mbid = "bc5add1e-6e6c-4543-bd12-1da13dceecb1" },
+  { n = 4, title = "Leaving the Table", mbid = "0cbde80d-798c-481d-b9da-0d53d0e9407b" },
+  { n = 5, title = "If I Didn’t Have Your Love", mbid = "3ac46cb2-1d02-410a-80a8-a55925b915e3" },
+  { n = 6, title = "Traveling Light", mbid = "710b0069-36f8-4156-ac5f-5aede2466dcf" },
+  { n = 7, title = "It Seemed the Better Way", mbid = "f4d3cf38-e14a-4006-94b3-b5b6611f9c77" },
+  { n = 8, title = "Steer Your Way", mbid = "b84797f7-7955-4082-8eb8-285c44758ef1" },
+  { n = 9, title = "String Reprise / Treaty", mbid = "bb652c33-6d90-4458-bc99-e61afd825cdc" },
+]
+
+[[release]]
+mbid = "b9c60032-9a27-49ad-ab4c-646746458fc5"
+title = "The Goal"
+type = "single"
+date = "2019-09-20"
+spotify = "78mgPlVbIzu79foxkPABc9"
+tracks = [
+  { n = 1, title = "The Goal", mbid = "ee2a22f6-46e9-4314-af2b-eecc68caf5cc" },
+]
+
+[[release]]
+mbid = "a93f4574-f61d-4b1a-8ecd-77d17b339d63"
+title = "Happens to the Heart"
+type = "single"
+date = "2019-10-25"
+spotify = "3LUJMbiQgdBPOBcdu20cSH"
+tracks = [
+  { n = 1, title = "Happens to the Heart", mbid = "85ecf46c-c85f-4057-b11d-adceb872fb6f" },
+]
+
+[[release]]
+mbid = "54d8e12b-a37a-4071-9c46-b7ca25aff9f8"
+title = "Thanks for the Dance"
+type = "album"
+date = "2019-11-22"
+spotify = "603qWApi8Q89JnkVAbixrb"
+tracks = [
+  { n = 1, title = "Happens to the Heart", mbid = "85ecf46c-c85f-4057-b11d-adceb872fb6f" },
+  { n = 2, title = "Moving On", mbid = "5a62516f-e96d-411d-ae7d-9d575302aca9" },
+  { n = 3, title = "The Night of Santiago", mbid = "90799e5c-3672-4a05-98d5-016a1370c701" },
+  { n = 4, title = "Thanks for the Dance", mbid = "dd5d6c8c-d53e-4c26-8bca-bd65cf988cae" },
+  { n = 5, title = "It’s Torn", mbid = "0108751e-3707-423d-969d-166c9c7e1a66" },
+  { n = 6, title = "The Goal", mbid = "ee2a22f6-46e9-4314-af2b-eecc68caf5cc" },
+  { n = 7, title = "Puppets", mbid = "b5c23d4e-2826-4bed-918c-21e7087cc547" },
+  { n = 8, title = "The Hills", mbid = "8e451644-2819-4356-a47a-19876642902a" },
+  { n = 9, title = "Listen to the Hummingbird", mbid = "a0cd610c-fae8-4b40-bc4d-2066e0dc5c18" },
+]
