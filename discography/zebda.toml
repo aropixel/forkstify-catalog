@@ -1,0 +1,241 @@
+format = 1
+
+[[release]]
+mbid = "1511328e-8af4-48a2-b7f9-d358b91fbe16"
+title = "La France"
+type = "album"
+date = "1990"
+tracks = [
+  { n = 1, title = "Pas le temps", mbid = "60929c91-d5dd-4dc5-a8b3-1f912384a27e" },
+  { n = 2, title = "La France", mbid = "c6beae71-dda7-4c80-87a5-9a361b4a60c5" },
+  { n = 3, title = "Oualdi", mbid = "69a78eca-1cd2-4567-a4fc-23513e53b94b" },
+  { n = 4, title = "Singin’", mbid = "0ecc7ce4-5201-48d6-91dd-222536e89f8f" },
+  { n = 5, title = "La bague à Danielle", mbid = "8672f709-da5b-4e6f-b74f-f1ab4192b0c7" },
+  { n = 6, title = "Militant 3 étoiles", mbid = "76297c96-de8b-497f-8caa-1c6bc344de8e" },
+  { n = 7, title = "Baïonnette", mbid = "89741232-4650-4009-9baa-4c9c0b9f93de" },
+  { n = 8, title = "D’Ève à Lise", mbid = "8c056603-755b-4ac4-b9a1-d625ba888aa4" },
+  { n = 9, title = "Arabadub", mbid = "daace596-befe-4529-a6b4-f55bb25ad5e3" },
+]
+
+[[release]]
+mbid = "98ad72c5-8443-41fa-8fbd-362929bb09fd"
+title = "Arabadub"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Arabadub", mbid = "767c474c-9faf-4086-8a7a-9e503363bf0a" },
+  { n = 2, title = "Mala Diural (à la skabyle)", mbid = "190b2d14-c55f-4d50-8dba-69e5d10e2958" },
+]
+
+[[release]]
+mbid = "d6a9017f-1115-3f72-bb4f-c6d4098f489b"
+title = "L’Arène des rumeurs"
+type = "album"
+date = "1992"
+tracks = [
+  { n = 1, title = "Arabadub", mbid = "767c474c-9faf-4086-8a7a-9e503363bf0a" },
+  { n = 2, title = "Baudis", mbid = "9883e3a6-0515-42c9-ad83-46817781bdee" },
+  { n = 3, title = "Mala Diural", mbid = "87835681-3c22-4794-b14e-dffcda9a4c7e" },
+  { n = 4, title = "Minot des minorités", mbid = "31fbe446-e204-439c-8c8d-fe9c9f054889" },
+  { n = 5, title = "CNN", mbid = "86c7139b-f453-4b81-881e-3662a8b66159" },
+  { n = 6, title = "Singing", mbid = "d3b816dc-94ca-43c7-b291-2e4e732ee6fa" },
+  { n = 7, title = "Le Masque au rade", mbid = "4f101efe-6e03-4173-8b8d-fa98cdd1b846" },
+  { n = 8, title = "La Bague à Danièle", mbid = "2ac11b0e-2e8b-4d0c-a517-067172694e74" },
+  { n = 9, title = "Le Miroir", mbid = "b2494be2-e556-467d-a4c8-ef22e22e597c" },
+  { n = 10, title = "La France", mbid = "27fe0036-fafd-4dc8-8a07-4af42efe1126" },
+  { n = 11, title = "Mala Diural (à la skabyle)", mbid = "190b2d14-c55f-4d50-8dba-69e5d10e2958" },
+  { n = 12, title = "Baïonnettes", mbid = "a9264c81-61ca-4644-9768-3b1c2a05ccce" },
+  { n = 13, title = "D’Ève à Lise", mbid = "3902a93c-1970-4396-8073-805686a8d18b" },
+]
+
+[[release]]
+mbid = "5cf7415b-b4c1-4dd9-8007-3a2f292e9b96"
+title = "Le Bruit et l’Odeur"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Le Bruit et l'Odeur", mbid = "3a2fad38-1201-46a6-93b8-6047f225150a" },
+  { n = 2, title = "Arabadub", mbid = "767c474c-9faf-4086-8a7a-9e503363bf0a" },
+]
+
+[[release]]
+mbid = "c482accc-2368-36af-a184-f5adfa299302"
+title = "Le Bruit et l’Odeur"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "Toulouse", mbid = "2a7b47ec-3510-491e-8f0b-8385c3225243" },
+  { n = 2, title = "Taslima", mbid = "2a345332-c64f-4a66-a474-d9da74c39620" },
+  { n = 3, title = "Le Bruit et l'Odeur", mbid = "3a2fad38-1201-46a6-93b8-6047f225150a" },
+  { n = 4, title = "Cameroun", mbid = "c3a8d051-97d9-45d8-a022-3520fd51822c" },
+  { n = 5, title = "France II", mbid = "5561732e-72c0-4988-b550-0e960328d3eb" },
+  { n = 6, title = "Ma rue", mbid = "c2ab539c-d372-4068-8211-00a76e549215" },
+  { n = 7, title = "Mon père", mbid = "f57b9c27-18fe-4edc-8fcd-acfaaf028481" },
+  { n = 8, title = "La Faucille et le Marteau", mbid = "bca4408d-e835-4a79-bb1e-eaf8c776fffb" },
+  { n = 9, title = "Arabdub", mbid = "767c474c-9faf-4086-8a7a-9e503363bf0a" },
+  { n = 10, title = "Mala Diural (à la Skabyle)", mbid = "62e936f4-e168-47ff-98ec-cb7f50a07286" },
+  { n = 11, title = "Baïonnettes", mbid = "a9264c81-61ca-4644-9768-3b1c2a05ccce" },
+  { n = 12, title = "Singing", mbid = "56c52acc-9fac-4564-a608-577cf49e641e" },
+  { n = 13, title = "Minot des Minorités", mbid = "31fbe446-e204-439c-8c8d-fe9c9f054889" },
+  { n = 14, title = "D'Ève à Lise", mbid = "2b2f35bc-f436-479e-94c1-1aa34fd58067" },
+]
+
+[[release]]
+mbid = "ac9eb5b9-e2ca-402d-9bbc-85757e18ae28"
+title = "Ma rue"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Ma rue (remix)", mbid = "910e6c7d-cfb5-47cf-a060-3bc3070f2811" },
+  { n = 2, title = "Mon père m'a dit", mbid = "e8399ac4-70aa-4958-9025-980773c67f73" },
+]
+
+[[release]]
+mbid = "a6430ca2-5a6a-48fd-b671-2980d9a5997b"
+title = "Toulouse"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Toulouse (Zebda remyx)", mbid = "80fd2a7a-38c5-48fe-924d-cd9fd83b1ccc" },
+  { n = 2, title = "Toulouse (LP version)", mbid = "2a7b47ec-3510-491e-8f0b-8385c3225243" },
+  { n = 3, title = "Toulouse (Asian Dub Foundation remix)", mbid = "e478cab6-6d13-49be-9869-d6f997334621" },
+]
+
+[[release]]
+mbid = "d2bf05ab-3517-3ebe-8c7f-84dfd55523b8"
+title = "Essence ordinaire"
+type = "album"
+date = "1998"
+tracks = [
+  { n = 1, title = "Y’a pas d’arrangement", mbid = "ff0d665c-f89b-4d87-8184-79812ec292f6" },
+  { n = 2, title = "Tomber la chemise", mbid = "af5b6b68-b954-495c-a271-a7752ac2219c" },
+  { n = 3, title = "Double peine", mbid = "d02ead54-992e-4631-84f5-a3add4b98b34" },
+  { n = 4, title = "Tombés des nues", mbid = "96feb1c6-ea50-41c9-91c2-3a450f7c8a23" },
+  { n = 5, title = "Quinze ans", mbid = "d324ff26-9b06-4c4b-b28a-b5ca7cbcddff" },
+  { n = 6, title = "Je crois que ça va pas être possible", mbid = "341c9d1b-9015-4408-916d-23a1d756dd9b" },
+  { n = 7, title = "Je suis", mbid = "83f4d8c2-d7bc-4430-abde-234911bc2b84" },
+  { n = 8, title = "Tout semble si…", mbid = "0cfbbdd3-3d72-4dfc-8dc3-379caa66b62b" },
+  { n = 9, title = "On est chez nous", mbid = "011e3d52-b003-443d-8997-4e48df08a983" },
+  { n = 10, title = "Oualalaradime", mbid = "b356c0ac-98b7-40e6-bd24-f7d33efefb2d" },
+  { n = 11, title = "Le Manouche", mbid = "65202d14-1336-45ba-a0c9-27ecc408219e" },
+  { n = 12, title = "Né dans la rue", mbid = "cb8761e2-00c0-4761-8ca2-0542cee80dc9" },
+  { n = 13, title = "Le Petit Robert", mbid = "0fc39e60-e31c-44a3-bda1-67e33801c98f" },
+]
+
+[[release]]
+mbid = "35edd389-6478-3afb-af12-b1715a602943"
+title = "Tomber la chemise"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Tomber la chemise", mbid = "af5b6b68-b954-495c-a271-a7752ac2219c" },
+  { n = 2, title = "Le Pont du carrousel", mbid = "9112445d-c6a4-4344-824f-7ee1a652feae" },
+  { n = 3, title = "Toulouse (Asian Dub Fundation remix)", mbid = "e478cab6-6d13-49be-9869-d6f997334621" },
+]
+
+[[release]]
+mbid = "2607e1fe-1145-45d3-ade1-6106bb782d04"
+title = "Y’a pas d’arrangement"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Y'a pas d'arrangement (edit version)", mbid = "9426b5dd-08d9-4ebe-b9a8-ae584fc25371" },
+  { n = 2, title = "Le Petit Robert", mbid = "0fc39e60-e31c-44a3-bda1-67e33801c98f" },
+]
+
+[[release]]
+mbid = "1b1a84c1-1d35-4f4c-8881-9c7a714bb89a"
+title = "Oualalaradime"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Oualalaradime", mbid = "b356c0ac-98b7-40e6-bd24-f7d33efefb2d" },
+  { n = 2, title = "Ma rue (Fanfare remix)", mbid = "8eb8d121-7c4e-4255-845b-33a55bca2402" },
+  { n = 3, title = "On est chez nous (High Tone remix)", mbid = "23fd7c2e-750b-49c9-9cbe-d06a7badbb67" },
+  { n = 4, title = "Oualalaradime (live à La Cigale)", mbid = "5bb30f02-c873-4c84-95f9-929c4295d3f3" },
+]
+
+[[release]]
+mbid = "6ac10393-f57d-4b0e-adc1-d43c7c2f2186"
+title = "L’erreur est humaine"
+type = "single"
+date = "2002"
+tracks = [
+  { n = 1, title = "L’erreur est humaine", mbid = "999f891c-a168-40c9-9d39-25f1b01e8437" },
+  { n = 2, title = "Le Bonhomme derrière", mbid = "031ea0f5-6752-405e-a7c9-f273897651b0" },
+  { n = 3, title = "L’erreur est humaine (Madman dub remix)", mbid = "769507da-95da-450f-9b34-82157f027033" },
+]
+
+[[release]]
+mbid = "44771765-06e5-3c2b-864b-06c3eb0f4c53"
+title = "Utopie d’occase"
+type = "album"
+date = "2002-08-26"
+tracks = [
+  { n = 1, title = "L'Erreur Est Humaine", mbid = "999f891c-a168-40c9-9d39-25f1b01e8437" },
+  { n = 2, title = "Du Soleil À La Toque", mbid = "1a3be2c0-1931-4606-9310-b97a6c556a71" },
+  { n = 3, title = "Sheitan", mbid = "986d4b6e-3948-47e6-816e-65b73cb1b416" },
+  { n = 4, title = "Mêlée Ouverte", mbid = "a752f2e0-3750-46d2-8e3a-392481d1dd07" },
+  { n = 5, title = "Le Plus Beau", mbid = "c9295cef-f202-4e90-a9dd-87ec47e2dbb9" },
+  { n = 6, title = "J'y Suis J'y Reste", mbid = "e2c3ee97-f4fe-493f-b0f4-ab94004a140d" },
+  { n = 7, title = "La Fête", mbid = "07a9228f-e4a6-4992-984f-c85e0fae220c" },
+  { n = 8, title = "Kountakinté", mbid = "35c793a4-24ac-4113-96fd-da7986f18fab" },
+  { n = 9, title = "Dans Ma Classe", mbid = "8474a45b-b1d1-4e06-83a4-fdb3c61f29c7" },
+  { n = 10, title = "Le Bonhomme Derrière", mbid = "031ea0f5-6752-405e-a7c9-f273897651b0" },
+  { n = 11, title = "Le Paranoïaque", mbid = "4e50a145-ab36-464c-a29b-c69f995ec7a8" },
+  { n = 12, title = "Ça... La Famille", mbid = "87116065-5e9a-44e5-b997-a32a9ac231e9" },
+  { n = 13, title = "Troisième Degré", mbid = "75f60451-c420-436f-b867-274e53333eb9" },
+  { n = 14, title = "Goota Ma Différence", mbid = "02642ab1-9c5a-49d1-9f11-d394909e3185" },
+  { n = 15, title = "Le Répertoire", mbid = "2d60c5a5-bcc1-4b16-badf-49de46086583" },
+]
+
+[[release]]
+mbid = "1f6b0078-7149-477d-8afb-eba614161f59"
+title = "Le Talent"
+type = "single"
+date = "2012"
+tracks = [
+  { n = 1, title = "Le Talent", mbid = "3ebcf080-3266-45e7-879b-1b518b3bd849" },
+  { n = 2, title = "J'suis pas", mbid = "93014e50-ec64-4958-a58a-bd5750933ec7" },
+]
+
+[[release]]
+mbid = "81068bd3-906a-496d-a875-a76c52bc4782"
+title = "Second tour"
+type = "album"
+date = "2012-01-20"
+tracks = [
+  { n = 1, title = "Les Deux Écoles", mbid = "39fb0240-5be4-401a-bbc8-77913a47e590" },
+  { n = 2, title = "Le Dimanche autour de l'église", mbid = "e8f6bbd3-63f3-48ea-a7ec-8ae6cd2a15d7" },
+  { n = 3, title = "Un je ne sais quoi", mbid = "7cbac679-ba60-4186-8773-2dda6f22c190" },
+  { n = 4, title = "Le Théorème du châle", mbid = "642edac3-03f2-480a-aeef-baa3339fff6b" },
+  { n = 5, title = "J'suis pas", mbid = "93014e50-ec64-4958-a58a-bd5750933ec7" },
+  { n = 6, title = "Harragas (Les Brûlés)", mbid = "0b204a9c-1136-4070-abfc-b8ef457622b7" },
+  { n = 7, title = "Tu peux toujours courir", mbid = "f7c719f1-21bc-4842-b52a-e93c388005a4" },
+  { n = 8, title = "La Promesse faite aux mains", mbid = "021be55a-e660-42c5-90a5-98dfc978df36" },
+  { n = 9, title = "La Chance", mbid = "11b169aa-9b74-496f-842d-ad3b976832ce" },
+  { n = 10, title = "Les Proverbes", mbid = "2e32a3d7-d7e4-4b34-b11f-40ff1d586df5" },
+  { n = 11, title = "Le Talent", mbid = "3ebcf080-3266-45e7-879b-1b518b3bd849" },
+  { n = 12, title = "La Correction", mbid = "003314bb-30c3-4eb5-ba4c-e4ae1dbd04f6" },
+  { n = 13, title = "La Reconnaissance du ventre", mbid = "b5428416-8954-4f2d-9852-a08ec5d9e5b2" },
+  { n = 14, title = "Un je ne sais quoi (live)", mbid = "f4a42ccc-f55d-43c1-a8e0-e02f8e62f5de" },
+  { n = 15, title = "Y'a pas d'arrangement (live)", mbid = "55bc3a63-3d94-481c-bdc6-5c3597b50c51" },
+]
+
+[[release]]
+mbid = "6c258db6-806e-47e6-89a8-50173746578f"
+title = "Comme des Cherokees"
+type = "album"
+date = "2014-08-25"
+tracks = [
+  { n = 1, title = "L'Envie", mbid = "7274b174-ecfd-4e80-9c94-fec807b6b607" },
+  { n = 2, title = "À suivre", mbid = "bd7acd4e-f57d-4d40-a0cf-bdaac36fe638" },
+  { n = 3, title = "Les Petits Pas", mbid = "7c3ae30c-8369-4ca4-a480-ff065eb3fe3f" },
+  { n = 4, title = "L'Accent tué", mbid = "90ebda0d-e6f4-4274-b88c-efb2ef5b1bb6" },
+  { n = 5, title = "Le Panneau", mbid = "452fc914-e0a3-4b94-8b63-d30bca5c319a" },
+  { n = 6, title = "Appel d'air", mbid = "71ba26e4-9387-43d5-adfc-4533cde0387e" },
+  { n = 7, title = "Essai", mbid = "f2f3847b-23fe-4a6f-b18e-605fdfadc485" },
+  { n = 8, title = "Fatou", mbid = "85b55015-31cc-41f7-a82a-0a90ee9ae3b0" },
+  { n = 9, title = "Les Chibanis", mbid = "e6624622-699b-4952-a44b-818ec5a6bd7e" },
+  { n = 10, title = "Les Morfales", mbid = "67a571d4-3cda-434d-8bdf-188a76aa4153" },
+]

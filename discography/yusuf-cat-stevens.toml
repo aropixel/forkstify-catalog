@@ -1,0 +1,521 @@
+format = 1
+
+[[release]]
+mbid = "a959b93a-563d-3f37-a644-619045864488"
+title = "The Life of the Last Prophet"
+type = "album"
+date = "1995-04-01"
+spotify = "0l8CT0Zhi8ZqFYqhgPLXuB"
+tracks = [
+  { disc = 1, n = 1, title = "Early Life: Call To Prayer", mbid = "cbb63022-c380-4586-b33b-7cd984b0be24" },
+  { disc = 1, n = 2, title = "Introduction", mbid = "2f7339ad-d499-45f4-9922-91b68d702aec" },
+  { disc = 1, n = 3, title = "A Lone Orphan", mbid = "00182cba-58b9-438f-9e2f-462a273a37a6" },
+  { disc = 1, n = 4, title = "The Trustworthy", mbid = "761a1637-8d3f-4d9d-9bf9-653580dbe1df" },
+  { disc = 1, n = 5, title = "The Black Stone", mbid = "11236029-995e-45b3-bd81-cb8db7b84a9f" },
+  { disc = 1, n = 6, title = "Polytheists And Idols", mbid = "ee66eff5-403a-4af3-a502-d76f2bfc4b1e" },
+  { disc = 1, n = 7, title = "Prophethood: The Cave", mbid = "1f15742a-dc00-49a2-ac6f-dd3493505041" },
+  { disc = 1, n = 8, title = "Read!", mbid = "b51aa314-cad9-4b4b-b7ea-babda52b72aa" },
+  { disc = 1, n = 9, title = "The Opening", mbid = "0191948c-f900-4316-a353-a106a8f936e0" },
+  { disc = 1, n = 10, title = "Allah; The One", mbid = "90d186c9-d96f-442e-be9b-db887f4ff8d8" },
+  { disc = 1, n = 11, title = "Rejection And Boycott", mbid = "f6ef1328-a10e-4747-9e61-d69e536c3c62" },
+  { disc = 1, n = 12, title = "The Night Journey", mbid = "1914c9de-6f78-41a2-ace9-77a952cec841" },
+  { disc = 1, n = 13, title = "The Lote Tree", mbid = "5447f516-1551-4177-9120-572b046e1f49" },
+  { disc = 1, n = 14, title = "Migration: Five Daily Prayers", mbid = "affed7b6-9ba7-4d49-af04-860507c3128d" },
+  { disc = 1, n = 15, title = "Al-Madinah", mbid = "d037f6a6-fdfb-4175-964f-e08486e368a3" },
+  { disc = 1, n = 16, title = "The First Constitution", mbid = "f586143e-164b-442a-9a22-b50bf7de0615" },
+  { disc = 1, n = 17, title = "Migrants And Helpers", mbid = "497d1dd2-cccf-41fa-9182-617ec407c1bd" },
+  { disc = 1, n = 18, title = "Charity And Fasting", mbid = "e07a48da-b50e-42f4-85e0-e1eddebe93e0" },
+  { disc = 1, n = 19, title = "People Of The Book", mbid = "a411fa2d-ed4b-45ce-9720-dfa425cb4a70" },
+  { disc = 1, n = 20, title = "Permission To Fight", mbid = "64340619-3181-44eb-9a76-b94c0bc61ac6" },
+  { disc = 1, n = 21, title = "Battle Of Badr", mbid = "fa90db8d-6b5c-4260-9a9b-7d1deaa40cd3" },
+  { disc = 1, n = 22, title = "Truce Of Hudaybiyyah", mbid = "7d2f0d09-b831-4ee0-9cdd-249db37d60fd" },
+  { disc = 1, n = 23, title = "Call To The Rulers", mbid = "d87d7d68-2930-4fac-8d4e-d3dd80ff5101" },
+  { disc = 1, n = 24, title = "Common Terms", mbid = "e54b5726-3083-4c86-a31f-8c46ec334d8a" },
+  { disc = 1, n = 25, title = "Conquest Of Makkah: Makkah Opened", mbid = "7a9d89a2-0d49-456c-9511-7e73caaa7aa2" },
+  { disc = 1, n = 26, title = "La Ilaha Illa Allah", mbid = "c2a32580-df15-4fec-a387-148d5306f0d5" },
+  { disc = 1, n = 27, title = "Idols Smashed", mbid = "ac7980fe-bc48-4718-96df-6b7969f824e5" },
+  { disc = 1, n = 28, title = "Religion Of Truth", mbid = "9340d230-1970-42e7-969f-69794f2c59cc" },
+  { disc = 1, n = 29, title = "Farewell Pilgrimage", mbid = "e9ca9582-9f15-45be-b9e1-1c523916f744" },
+  { disc = 1, n = 30, title = "This Day", mbid = "f72c57e8-95b5-4893-b649-0e622d9ac1ef" },
+  { disc = 1, n = 31, title = "The Death Of The Prophet", mbid = "bd1526e8-98a6-4ea6-b8e1-5aa53c45ebbc" },
+  { disc = 1, n = 32, title = "Muhammad Al-Mustafa", mbid = "e42e0736-cefa-4fa6-900d-7788962f6af7" },
+  { disc = 1, n = 33, title = "Supplication", mbid = "9281243a-e52e-4b02-81a8-b46974a7723b" },
+  { disc = 2, n = 1, title = "Tala'a Al-Badru 'Alayna", mbid = "0a953ed6-72e4-466c-b31f-baebf811741b" },
+  { disc = 2, n = 2, title = "La Ilaha Illa Allah", mbid = "aeda4f43-3e60-48cc-a6c2-f79cbcdac0de" },
+  { disc = 2, n = 3, title = "Muhammad Al Mustafa", mbid = "073feb6b-21e2-46c1-a374-94ba11bd8d32" },
+]
+
+[[release]]
+mbid = "333c31ea-702e-3ce6-8c04-e1face244ae1"
+title = "I Have No Cannons That Roar"
+type = "album"
+date = "1997"
+tracks = [
+  { n = 1, title = "Mother, Father, Sister, Brother", mbid = "a3f7f5f8-3563-4bf1-aaf3-aa35ce6806cb" },
+  { n = 2, title = "When Adhans Are Called", mbid = "9ba56eaa-6f18-4d7b-b789-8d2526ed56f9" },
+  { n = 3, title = "The Blossoms Blown", mbid = "d8cabca6-4a68-4961-9f64-c3d6695b876c" },
+  { n = 4, title = "Where Are Makkah and Madinah", mbid = "58f1b57e-1bc9-4c83-8588-83fda5989f9a" },
+  { n = 5, title = "Spring of Tasnim", mbid = "beadc287-2480-438a-8eee-6435c8074b0a" },
+  { n = 6, title = "Hey Homeland", mbid = "a043db49-9581-4da5-b7bb-64393ee14a5b" },
+  { n = 7, title = "Allah Is Enough for Me", mbid = "6f6e55d9-2c66-47cd-8474-16c5b4a0fdfc" },
+  { n = 8, title = "Last Flight", mbid = "70c9d83e-9eb0-4171-8e03-fe17fb21080f" },
+  { n = 9, title = "I Have No Cannons That Roar", mbid = "558c8512-b3ac-4f1f-be4a-ab128054af78" },
+  { n = 10, title = "The Little Ones", mbid = "5e592130-5df4-4a4f-b338-b4b3b7131a1a" },
+  { n = 11, title = "I Am a Son of Yours", mbid = "28835611-1220-4df3-a96f-feb66c6507c2" },
+  { n = 12, title = "Speech of Alia Izetbegovic", mbid = "06d1b9ee-4115-46e6-9b77-88c29b4b37fa" },
+]
+
+[[release]]
+mbid = "5365a5ec-6b32-34cc-8f22-a767aaca9233"
+title = "Prayers of the Last Prophet"
+type = "album"
+date = "1999-09-14"
+spotify = "5mwM6XguP1tm9hoGMhiJxH"
+tracks = [
+  { n = 1, title = "Introduction", mbid = "e9c0b354-63ff-495a-912a-33abf3a4a1b3" },
+  { n = 2, title = "I Am Indeed Close", mbid = "3149ed52-cade-41b2-92bf-fcc39103a2c9" },
+  { n = 3, title = "O Son of Adam", mbid = "677b088f-bd38-4f83-afec-24a7bff10ccd" },
+  { n = 4, title = "Praise Be to Allah", mbid = "c472da67-9f7c-43b3-8fd3-9e4d96677fc3" },
+  { n = 5, title = "Be Mindful of Allah", mbid = "bfb252d5-7888-4b8e-b292-8d9fb046f6a6" },
+  { n = 6, title = "Rabbi Ya Rahman", mbid = "f4b02956-45a7-41e5-9399-7e6228284241" },
+  { n = 7, title = "Chief of Prayers", mbid = "8b02e088-fb6b-4539-abc0-e60e147e71c7" },
+  { n = 8, title = "Bedtime Prayer", mbid = "609c7292-a87a-446e-ba9c-63eada16fddb" },
+  { n = 9, title = "They Forsake Their Beds", mbid = "68169a88-827d-40af-af22-0b3a941ad17a" },
+  { n = 10, title = "Night Prayer", mbid = "695e83a0-1667-4300-a66a-9118575f73bf" },
+  { n = 11, title = "Call to Prayer", mbid = "01587088-c032-4811-86db-84ccfd593f47" },
+  { n = 12, title = "Light", mbid = "3247aca5-8940-447f-8b7d-0b68b5e9e388" },
+  { n = 13, title = "The Morning Prayer", mbid = "36d6de3a-d238-4132-a0c3-59c4eb1a8408" },
+  { n = 14, title = "If You Ask Me", mbid = "bd99bbd1-99f7-4fa0-9be6-8250b683d9bd" },
+  { n = 15, title = "Let Not Our Hearts Deviate", mbid = "edbee29f-a7f4-4066-9c8d-8f222614fa3c" },
+  { n = 16, title = "Istikharah", mbid = "6d7b4c2e-761f-42cb-9d6c-2b07b826eac8" },
+  { n = 17, title = "Sovereignty", mbid = "e4388bd6-0650-4b45-b279-a10d8c6f1a76" },
+  { n = 18, title = "Leaving Home", mbid = "93af3839-88a9-4503-9d67-eb510067ddf3" },
+  { n = 19, title = "Travel Prayers", mbid = "a52ddd54-a60a-4fbf-b99f-69b3be485486" },
+  { n = 20, title = "Visiting the Sick", mbid = "baa48a02-6b24-4ecc-9bec-d27422f95077" },
+  { n = 21, title = "Seventy Thousand Angels", mbid = "3c8f39a6-6900-4202-9e9a-8c069b34720c" },
+  { n = 22, title = "Entering the Mosque", mbid = "7aa59adc-3d89-4f48-96e4-7274150a7353" },
+  { n = 23, title = "Truly My Prayer", mbid = "d30ccabc-1589-454a-a8aa-f1077e514a8c" },
+  { n = 24, title = "Water, Ice and Snow", mbid = "5649f2b1-2313-4084-8433-9ad7e6abec51" },
+  { n = 25, title = "Prostration", mbid = "c3e6f940-2acc-426c-b76f-f6d44b75a1c0" },
+  { n = 26, title = "Al-Tashahhud", mbid = "ed196105-db28-4657-aa41-44062b30c7a1" },
+  { n = 27, title = "O Allah, Help Me", mbid = "463e2741-7504-4a2d-a66e-74b30f8bcb1f" },
+  { n = 28, title = "Leaving the Mosque", mbid = "956ac4b0-7618-49a2-9bc5-a25a2404d9c1" },
+  { n = 29, title = "Rivalry in Worldly Increase", mbid = "0e567311-ee9d-4baf-86cf-6768f33c936f" },
+  { n = 30, title = "Visiting the Graves", mbid = "4bf3788a-55f8-4c35-a299-b02284c67c0a" },
+  { n = 31, title = "Entering the Home", mbid = "943ad497-ac53-4cfe-b2eb-4519167aa423" },
+  { n = 32, title = "Grant Us Wives and Offspring", mbid = "29f3f060-a48c-47c4-86a5-db0ad69cc4fb" },
+  { n = 33, title = "Prayer for Children", mbid = "209e4379-076a-4bc8-94e6-5278421471eb" },
+  { n = 34, title = "Prayer for Parents", mbid = "8b05b077-748d-420a-b53c-fe6a9c18127b" },
+  { n = 35, title = "In Sa'Altu", mbid = "a9f8308e-c2eb-45d2-aae5-cb8ac071a7d0" },
+  { n = 36, title = "Prayers for Eating", mbid = "94ef7326-9724-404c-9097-d3fe9ec9cc74" },
+  { n = 37, title = "O My Servants", mbid = "ef695784-08b6-492b-a50d-7c29d7889582" },
+  { n = 38, title = "Prayers on the Prophet", mbid = "0f2c6336-cc30-427d-a43d-a5386bca9f96" },
+  { n = 39, title = "Blessings on Muhammed", mbid = "e647e635-15c9-49cb-ba6a-b96318e03b63" },
+  { n = 40, title = "Salli 'Ala Muhammad", mbid = "03221143-3d37-4b85-a923-d27e3f923990" },
+]
+
+[[release]]
+mbid = "8d2012c7-ece4-30ab-b828-8b424eedc84a"
+title = "A Is for Allah"
+type = "album"
+date = "2000-07-11"
+spotify = "5EtIfI6EbgS1Jyw80VYDZZ"
+tracks = [
+  { disc = 1, n = 1, title = "Introduction", mbid = "aab82517-451d-4e33-9fcf-07f6e9efb5cb" },
+  { disc = 1, n = 2, title = "A: Allah", mbid = "a9198ba2-5f80-426f-b74d-0b1b90d38590" },
+  { disc = 1, n = 3, title = "Ayat Al-Kursi", mbid = "f65e92a7-3d5b-45ae-9512-d9cefc56155b" },
+  { disc = 1, n = 4, title = "Say He Is Allah", mbid = "c601fd73-94ba-4409-8b8c-de75ea3c1826" },
+  { disc = 1, n = 5, title = "B: Bismillah", mbid = "2a12d4bc-b6ae-4ad4-acec-29c8c40f4b52" },
+  { disc = 1, n = 6, title = "Bismillah (Song) Zain Bikha", mbid = "d452b35f-5b2f-4d0a-b9f2-7dc0a1d3e071" },
+  { disc = 1, n = 7, title = "T: Taqwa", mbid = "15a15a0c-59d3-4897-8096-17b3510bd10c" },
+  { disc = 1, n = 8, title = "Th: Thawab", mbid = "9f6fbb9f-9711-41d3-aba0-e300c4823877" },
+  { disc = 1, n = 9, title = "J: Jannah", mbid = "0a178125-fab0-42b7-8288-9bd4aa90324b" },
+  { disc = 1, n = 10, title = "Surah Al-Kahf", mbid = "0dda1073-dd5c-43d0-87e0-f9ec3168edef" },
+  { disc = 1, n = 11, title = "H: Hajj", mbid = "75bce42c-5d09-416a-88d1-8d8b4b625f53" },
+  { disc = 1, n = 12, title = "Kh: Khatam", mbid = "4f0df186-66e8-4dcf-9ad4-f728d2a668c3" },
+  { disc = 1, n = 13, title = "D: Deen", mbid = "a081e94f-7068-45b0-aff2-7a7f9e317fc3" },
+  { disc = 1, n = 14, title = "Our Guide Is the Qur'an", mbid = "76d95783-e2a7-4441-b217-d06d880964d4" },
+  { disc = 1, n = 15, title = "Dh: Dhikr", mbid = "7c7d88cc-7b98-438d-9729-e7a37b359578" },
+  { disc = 1, n = 16, title = "R: Ramadan", mbid = "51b83b15-6673-45e6-99a3-cf8b35dcd5c3" },
+  { disc = 1, n = 17, title = "Z: Zakah", mbid = "b8c16a01-9641-4722-85de-8ac35a20bb26" },
+  { disc = 1, n = 18, title = "Surat At-Tawbah", mbid = "ed7419ce-e8dc-41bc-831c-0de7815e95a4" },
+  { disc = 1, n = 19, title = "S: Salam", mbid = "9a0083ff-43c9-406d-8dd5-682a57407211" },
+  { disc = 1, n = 20, title = "Salam, Salam", mbid = "f643f2d6-aab5-4ece-b8da-70c4d897d88a" },
+  { disc = 1, n = 21, title = "Sh: Shams", mbid = "7b8b3a1c-44ab-4e59-98a4-f2625ff85ec6" },
+  { disc = 1, n = 22, title = "Surah Al-An'am", mbid = "60e8e1c9-6845-4654-a66b-16413460b499" },
+  { disc = 1, n = 23, title = "S: Salah", mbid = "58da64dd-ec70-40cc-b67e-dec730966c4f" },
+  { disc = 1, n = 24, title = "D: Duha", mbid = "ca72436d-61bf-4d7a-a7d9-c03e55c9add0" },
+  { disc = 1, n = 25, title = "Surah Ad-Duha", mbid = "86cc09ca-2971-43cc-849f-b102ae4c9ed0" },
+  { disc = 1, n = 26, title = "T: Tareeq", mbid = "4297bdae-9956-4afe-90bf-8872ef0a1cb8" },
+  { disc = 2, n = 1, title = "Turn to Allah", mbid = "b7c915c8-4871-4542-b81f-fbc4d4b407ea" },
+  { disc = 2, n = 2, title = "Z: Zill", mbid = "48321dab-40e2-40f7-af71-5f05cec8fe0a" },
+  { disc = 2, n = 3, title = "I: Ilm", mbid = "68053d28-4179-441e-8a38-7a2b9f9ce32f" },
+  { disc = 2, n = 4, title = "Gh: Ghayb", mbid = "2c91cc04-0096-4dc7-b893-9e2771200db0" },
+  { disc = 2, n = 5, title = "F: Fatihah", mbid = "680fce1a-986a-400f-9eef-7a23d973f8d6" },
+  { disc = 2, n = 6, title = "Surah Al-Fatihah", mbid = "e092ae8e-0656-4260-9b02-a3a3ae49e5f2" },
+  { disc = 2, n = 7, title = "Q: Qur'an", mbid = "bf466fa6-31cd-42c1-8552-a70921c76dea" },
+  { disc = 2, n = 8, title = "Surah Al-Qadr", mbid = "e229c844-82f1-482f-b35b-de0c5df6063d" },
+  { disc = 2, n = 9, title = "Qur'anu Robbee", mbid = "970171db-373d-4fbd-b7fe-ce3b50831472" },
+  { disc = 2, n = 10, title = "K: Kalimah", mbid = "6eaf430c-f37e-4b78-bce4-ef8326bc60dd" },
+  { disc = 2, n = 11, title = "L: La Ilaha Illa-Allah", mbid = "d77a55db-93d1-4ec8-a5df-1dcafc5b7286" },
+  { disc = 2, n = 12, title = "M: Muhammad Rasul-Allah", mbid = "05769c33-1672-456a-9da9-ae8e74e24f6f" },
+  { disc = 2, n = 13, title = "Seal of the Prophet", mbid = "04459120-fd53-4f4d-9840-5a6deab9a572" },
+  { disc = 2, n = 14, title = "N: Nawm", mbid = "6472bbaa-6450-4b13-8363-1d0412e4945f" },
+  { disc = 2, n = 15, title = "Surah Al-Sajdah", mbid = "1f141111-30e4-4898-85a0-a3b1fe468a1a" },
+  { disc = 2, n = 16, title = "H: Hijrah", mbid = "3a3a8ff6-6b0e-4359-ad52-f3d21b0c0d24" },
+  { disc = 2, n = 17, title = "W: Wudu", mbid = "00ca12c1-fe79-4261-b55c-0b16f7a1176a" },
+  { disc = 2, n = 18, title = "Surah Al-Muddaththir", mbid = "b5b5e7a6-78e8-441f-b978-68f5c864e26a" },
+  { disc = 2, n = 19, title = "Y: Yawm Ad-Deen", mbid = "fbe81aeb-a52d-490f-8e3f-6b81225e9d43" },
+  { disc = 2, n = 20, title = "Surah Al-Infitar", mbid = "2f3a3169-a826-4df4-8a06-b542bbf489e9" },
+  { disc = 2, n = 21, title = "A Is for Allah", mbid = "62d0a8dd-9ae4-4e68-85f9-a04648e08d39" },
+  { disc = 2, n = 22, title = "Last Word", mbid = "ef3d1791-2b7d-43f7-a7d5-e2b1971e6971" },
+]
+
+[[release]]
+mbid = "5625212f-1792-39ec-b388-7fe07801afcb"
+title = "Bismillah"
+type = "album"
+date = "2001-09-01"
+tracks = [
+  { n = 1, title = "Bismillah", mbid = "187962a3-4b2c-4414-a819-765e21a9ee8e" },
+  { n = 2, title = "Fortunate is He", mbid = "9d5aae37-8d7e-43de-ae36-d294d6c67700" },
+  { n = 3, title = "God is the Light", mbid = "69a7db33-24f5-4bf5-9427-96e5e02016ab" },
+  { n = 4, title = "Syukur", mbid = "c5c01917-ab3d-4d5a-9f9b-e6f3c28bc6eb" },
+  { n = 5, title = "Say He is Allah", mbid = "bf388b49-290b-41b2-bf37-944e20a730b5" },
+  { n = 6, title = "Allah Ta'ala", mbid = "7efed71b-2575-45b4-a6fa-269fdaf99aa0" },
+  { n = 7, title = "Sifat 20", mbid = "2c958243-10b5-4352-bdcb-a00782a58d71" },
+  { n = 8, title = "Rabbi ya Rahman", mbid = "cc84a1d7-3be3-467e-ab56-169314dc1fb6" },
+  { n = 9, title = "Which of Allah's Favours Can We Deny?", mbid = "9be72096-eed5-4010-beec-fd12cccdcfd5" },
+  { n = 10, title = "The Wind", mbid = "e5f95a99-f1f9-48ca-ac16-8e766703e79e" },
+  { n = 11, title = "A is for Allah", mbid = "d3da1520-7ea6-41ee-a50c-c4c21f738ebb" },
+  { n = 12, title = "Thank You Allah", mbid = "baadb1e3-5af3-475b-9448-1627bca27d0f" },
+  { n = 13, title = "Turn to Allah", mbid = "407da344-22ec-44a4-be61-a7b2126da029" },
+  { n = 14, title = "In Sa'altu", mbid = "cde66eae-030b-4e39-bb78-79062cf82c7f" },
+  { n = 15, title = "Alhamdulillah", mbid = "5acb6fc0-c339-4076-a839-a8d4e5d97c2f" },
+  { n = 16, title = "Give Thanks to Allah", mbid = "c2282b63-0628-44ad-8450-b148b31c0d31" },
+  { n = 17, title = "Asmaa al-Husna", mbid = "48340682-dd10-43a3-9d8e-bbc88fea8d7a" },
+  { n = 18, title = "Bismillah", mbid = "3610f7bd-182e-4de9-8843-272f5d806cb7" },
+]
+
+[[release]]
+mbid = "a03bc248-392c-3fbd-ab0f-fbd70e2f9bb7"
+title = "In Praise of the Last Prophet"
+type = "album"
+date = "2002-05-01"
+tracks = [
+  { n = 1, title = "Qur'an- Al-Ahzab Verse 56", mbid = "d5944ca7-a197-479a-84e7-4a66f84f54d9" },
+  { n = 2, title = "In'Nilta", mbid = "bd8461a8-0c48-405c-9e71-15bea3c1b575" },
+  { n = 3, title = "Sunshine Dust & the Messenger of Allah", mbid = "d6a8a8bc-973c-4de6-8c77-43fe6f7c7832" },
+  { n = 4, title = "Ya Rabbi Bil Mustafa", mbid = "a37a9e08-95c4-4eb1-8ba2-befa18d42dcb" },
+  { n = 5, title = "Praise to the Prophet", mbid = "f5a9ccc0-7bb6-41f0-bce7-faad2b2155bf" },
+  { n = 6, title = "Tala' al-Badru 'Alayna", mbid = "ce13ef53-a0fd-48d0-a862-c120900e9d12" },
+  { n = 7, title = "Extracts from the Qasidah Burdah, The Poem of the Mantle", mbid = "7ba0e9f8-a59d-4424-9015-cbcdc9c8c219" },
+  { n = 8, title = "Rakan Selawat - Mawlid", mbid = "d96aca32-c663-47a7-aa98-4bfe55f726a8" },
+  { n = 9, title = "Salli Alla Muhammad", mbid = "d88b972a-a4a5-44a2-8199-dddce9928a01" },
+  { n = 10, title = "Madinah Tun-Nabi", mbid = "d50dd25f-79aa-45e2-87e5-23997d998816" },
+  { n = 11, title = "Blessed Mustafa", mbid = "b4208411-1798-46f1-bf5a-c010e4aafa9b" },
+  { n = 12, title = "Sevdim Seni", mbid = "fdfdfdcd-8a91-44da-979a-217ef4e8d2c4" },
+  { n = 13, title = "Cahaya Selawat", mbid = "f7d6acb2-98be-4a74-8f38-a00250771d35" },
+  { n = 14, title = "May God Bless You", mbid = "bd742bcb-3529-4c93-9791-0b74fd8ee5b2" },
+]
+
+[[release]]
+mbid = "c100fc01-251c-4977-baf0-d2b0d27e2549"
+title = "I Look, I See"
+type = "album"
+date = "2003-01-01"
+tracks = [
+  { n = 1, title = "I Look, I See", mbid = "57e34260-726d-416f-8e22-f1bf50d396c1" },
+  { n = 2, title = "Al-Khaliq", mbid = "3a59ba3b-af3a-4ee5-a88c-af11e5e549e2" },
+  { n = 3, title = "Allahu Allahu", mbid = "8c1c4928-d035-4e2f-89d9-43b40a596379" },
+  { n = 4, title = "Bismillah (I Am a Muslim)", mbid = "323f9e8d-0ace-487f-9164-e148824803b5" },
+  { n = 5, title = "Months in Islam", mbid = "9fd15371-3a15-4125-add0-b32b16377085" },
+  { n = 6, title = "Sing Children of the World", mbid = "0d17cfac-ba7e-4025-9479-6f961b99b600" },
+  { n = 7, title = "Our Guide Is the Qur'an", mbid = "326a5319-b350-4452-b0b2-c1affd01f3b6" },
+  { n = 8, title = "Your Mother", mbid = "126bbc1a-cd19-4d6b-aea2-244cac82f24b" },
+  { n = 9, title = "Tala'a Al-Badru 'Alayna", mbid = "c7b4d214-b2e0-4739-9040-6ed12ce3ca55" },
+]
+
+[[release]]
+mbid = "6eb94fff-3981-3027-b07e-b632225635d1"
+title = "Father and Son"
+type = "single"
+date = "2004-12-13"
+tracks = [
+  { n = 1, title = "Father and Son", mbid = "7156118a-68ba-4d4f-83c8-54c8779f8f5f" },
+  { n = 2, title = "Father and Son (Metrophonic mix)", mbid = "a94ab8a8-1275-47fb-8811-df0f9d1ffd0d" },
+  { n = 3, title = "I Hope You Dance (video)", mbid = "2e9b8576-b5b7-4567-bad2-5937d47a2906" },
+  { n = 4, title = "Father and Son (video)", mbid = "414ceef3-6b11-49c9-ab41-71b157e20ce8" },
+]
+
+[[release]]
+mbid = "c028ab2a-0745-3286-9d6b-062113846024"
+title = "Indian Ocean"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "Indian Ocean", mbid = "e52e839c-3f4d-466b-b678-1d0a66065ea4" },
+]
+
+[[release]]
+mbid = "667c389b-450e-4691-9b2e-1d083e1478f6"
+title = "Heaven / Where True Love Goes"
+type = "single"
+date = "2006-10-03"
+spotify = "19EPSvPDLwHMui5qt4RiWI"
+tracks = [
+  { n = 1, title = "Heaven / Where True Love Goes", mbid = "fd1fb2a3-3e73-45dd-8579-63af34695f27" },
+]
+
+[[release]]
+mbid = "966cc638-7e41-3398-b72a-bf7648380cee"
+title = "An Other Cup"
+type = "album"
+date = "2006-11-10"
+spotify = "4eKk8QRsQ9LMLO1vEzi4j8"
+tracks = [
+  { n = 1, title = "Midday (Avoid City After Dark)", mbid = "e4134476-fab5-4900-9514-f03cccd24470" },
+  { n = 2, title = "Heaven / Where True Love Goes", mbid = "fd1fb2a3-3e73-45dd-8579-63af34695f27" },
+  { n = 3, title = "Maybe There’s a World", mbid = "3ed25af7-2451-469a-82d6-effed8ed74ed" },
+  { n = 4, title = "One Day at a Time", mbid = "4bdee9fc-cf29-4a5d-97f8-24a55fd9ee07" },
+  { n = 5, title = "When Butterflies Leave", mbid = "1a2e58ff-8816-4fc8-98dc-9e27fdc71a22" },
+  { n = 6, title = "In the End", mbid = "4f9ac788-dc3f-4b90-b12d-f65023ff8414" },
+  { n = 7, title = "Don’t Let Me Be Misunderstood", mbid = "e5b49a59-77a7-4bdb-b0c5-b0c2af205453" },
+  { n = 8, title = "I Think I See the Light", mbid = "a91c0b29-fdbd-4dfe-9575-17ff67fdc13e" },
+  { n = 9, title = "Whispers From a Spiritual Garden", mbid = "ae480949-ae66-47ea-bdfe-cac69afad80e" },
+  { n = 10, title = "The Beloved", mbid = "46363c6f-5b57-43d0-9587-e2b055ef3e42" },
+  { n = 11, title = "Greenfields, Golden Sands", mbid = "00fb4bb4-1fdc-41c2-b6e5-da15a23cdf25" },
+]
+
+[[release]]
+mbid = "ea1756ec-ea3e-4153-8877-e78ec187a85a"
+title = "I Look, I See 2"
+type = "album"
+date = "2008-03-16"
+tracks = [
+  { n = 1, title = "Ramadan Moon", mbid = "bec26b17-4564-4927-b461-72673a8eeb19" },
+  { n = 2, title = "El-'Eid", mbid = "eefe1fdf-af5a-4b02-a416-255aaa29e2ae" },
+  { n = 3, title = "Upsy Daisy", mbid = "5ed831a1-ee6a-4e52-b34e-e55d627d30ec" },
+  { n = 4, title = "At-Tahiyat", mbid = "6f69eb1b-4ad8-44c2-8cc2-723167ffeb5f" },
+  { n = 5, title = "Shaytan", mbid = "9de21a94-c019-4406-aabd-41db05998ad4" },
+  { n = 6, title = "All of the Prophets", mbid = "74710e6d-b1b2-4989-997b-47de8a2e3220" },
+  { n = 7, title = "Arkan al-Islam", mbid = "a831a734-408c-4c74-ab32-45ecdba4f555" },
+  { n = 8, title = "Heart of a Muslim", mbid = "8327d43e-71cb-439e-b2a7-c38768640d27" },
+  { n = 9, title = "Silent Sunlight", mbid = "8542d8a2-49f9-40e8-baaa-999aac26818a" },
+  { n = 10, title = "Tala'al Badru Alayna", mbid = "8aaca7d6-dbf0-47ed-80a1-cdae273611e8" },
+]
+
+[[release]]
+mbid = "fe0907ad-aa1a-410b-828d-ee7d69c03454"
+title = "The Day the World Gets 'Round"
+type = "single"
+date = "2009-01-26"
+tracks = [
+  { n = 1, title = "The Day the World Gets 'round", mbid = "6d3eedc1-8c8d-4a6c-aeb1-5f8e9e6c17ad" },
+]
+
+[[release]]
+mbid = "f03a3f87-5ba0-362b-b82a-adea0342f74c"
+title = "Roadsinger"
+type = "album"
+date = "2009-05-01"
+spotify = "4aIsyi6SDwQWTayyfvYmtT"
+tracks = [
+  { n = 1, title = "Welcome Home", mbid = "0d77084d-4260-4e10-b63c-01bcf46a670a" },
+  { n = 2, title = "Thinking 'Bout You", mbid = "755ba186-8ea4-4ad6-9ec5-20d74db7d35a" },
+  { n = 3, title = "Everytime I Dream", mbid = "494a6a69-8431-4fac-a97f-d6f0ba0bb4f4" },
+  { n = 4, title = "The Rain", mbid = "c56d0975-5495-4814-a23e-0d5f426ac70d" },
+  { n = 5, title = "World o' Darkness", mbid = "4396a886-8827-47a8-9191-46090b82f5c0" },
+  { n = 6, title = "To Be What You Must", mbid = "4425bfc0-da19-4c53-b98c-28a330fc04de" },
+  { n = 7, title = "This Glass World", mbid = "5bdb6551-bbfb-4896-97ce-62aae0ff2134" },
+  { n = 8, title = "Roadsinger", mbid = "22bdcef6-fc8b-4b3d-86f1-94caf92745c6" },
+  { n = 9, title = "All Kinds of Roses", mbid = "1da257ab-d9e5-48ea-9ddb-bd6eebb2e120" },
+  { n = 10, title = "Dream On (Until...)", mbid = "bc813ccd-1da1-4593-bb6f-76c0e6cb0b62" },
+  { n = 11, title = "Shamsia", mbid = "64090861-7b57-457c-8a5e-441fe50e3780" },
+]
+
+[[release]]
+mbid = "6d549358-f4bb-4c33-afae-d2ee3004d6d2"
+title = "Roadsinger"
+type = "single"
+date = "2009-07-12"
+spotify = "7jNhvp4BYTdOE8S2mttagi"
+tracks = [
+  { n = 1, title = "Roadsinger", mbid = "22bdcef6-fc8b-4b3d-86f1-94caf92745c6" },
+  { n = 2, title = "Boots and Sand", mbid = "c868e06d-41e7-440e-b959-d5975f92083c" },
+]
+
+[[release]]
+mbid = "9c277baa-7636-4192-ae5f-3815f79ef3a4"
+title = "My People"
+type = "single"
+date = "2011-03-04"
+tracks = [
+  { n = 1, title = "My People", mbid = "5a8bc20c-af9e-48f7-bd7f-1532df7e06ab" },
+]
+
+[[release]]
+mbid = "346f9e0c-f3c9-463e-b839-1819ce03106d"
+title = "The Story of Adam and the Creation"
+type = "album"
+date = "2014-04-10"
+tracks = [
+  { n = 1, title = "Mankind", mbid = "db13f74d-5e41-4fe2-975f-5075049b88a7" },
+  { n = 2, title = "The Lord of the Universe", mbid = "a8343fee-439c-44d0-ae1f-5c349138b40d" },
+  { n = 3, title = "Before Creation", mbid = "b70debac-c079-4f82-a6a8-d7f79cfc388b" },
+  { n = 4, title = "Adam - Father of Mankind", mbid = "ef200aa0-ea68-4bfa-84d7-cc4b60965dbd" },
+  { n = 5, title = "The Rebel", mbid = "d64a40b3-ddaf-4b69-9340-057d2b60f5ad" },
+  { n = 6, title = "Temptation", mbid = "06cf8fca-3128-4268-a6c3-54aa9f5958d6" },
+  { n = 7, title = "The Children of Adam", mbid = "6a64fd4e-022b-4971-871c-eabce08cd38a" },
+  { n = 8, title = "The Long Battle", mbid = "923a1bee-9946-4738-abf8-22278c350240" },
+  { n = 9, title = "The Passing of Adam", mbid = "1ee14696-d4c5-4b86-9943-6d3160ba1716" },
+  { n = 10, title = "The Birth of Humanity", mbid = "afeb3be5-30a5-4e24-bf1f-f2e1b3f04672" },
+  { n = 11, title = "The Divisions of Mankind", mbid = "7adc876e-ab4d-4736-9973-a0e2d1fb0125" },
+]
+
+[[release]]
+mbid = "bcb426c5-40f6-4ed1-b149-f516951d7a47"
+title = "Tell ’Em I’m Gone"
+type = "album"
+date = "2014-10-24"
+spotify = "5oGGhaNyVb2J7lWPctx9MO"
+tracks = [
+  { n = 1, title = "I Was Raised in Babylon", mbid = "0705eb82-a1e7-4983-a72a-6201bba915f7" },
+  { n = 2, title = "Big Boss Man", mbid = "c60cad78-22f6-47be-b7c2-73f824407059" },
+  { n = 3, title = "Dying to Live", mbid = "9517fcdc-7123-4dde-b53b-62d76d89248a" },
+  { n = 4, title = "You Are My Sunshine", mbid = "5a7eb675-3eb8-44a2-b628-05dc0d8c7076" },
+  { n = 5, title = "Editing Floor Blues", mbid = "bd401bfa-03c6-4457-a8bb-f9f6dbad73bf" },
+  { n = 6, title = "Cat & The Dog Trap", mbid = "2a108ec6-b39c-4ba8-8978-ccef32986dbb" },
+  { n = 7, title = "Gold Digger", mbid = "5d56e270-e4cb-4c93-aba5-47e3d0ad8620" },
+  { n = 8, title = "The Devil Came From Kansas", mbid = "9abf23e6-9f37-4d10-aa5a-1bf7d59c5bfe" },
+  { n = 9, title = "Tell ’em I’m Gone", mbid = "e22d3507-767b-4ae5-84fb-5b5f3936eab0" },
+  { n = 10, title = "Doors", mbid = "15663222-7519-4b90-9d7d-edee1dd9c180" },
+]
+
+[[release]]
+mbid = "b7191a75-0c48-4c15-9e30-4eeae5959ba7"
+title = "Blue Room Sessions"
+type = "single"
+date = "2016-11-25"
+tracks = [
+  { n = 1, title = "I Love My Dog", mbid = "de998acf-e4fa-4221-93e8-8a61699c797c" },
+  { n = 2, title = "Matthew and Son", mbid = "c16d35e6-660c-4524-a93f-686a3e9f1823" },
+]
+
+[[release]]
+mbid = "9d988d8a-fa63-4c6d-b6dd-2f7f734bd397"
+title = "The Laughing Apple"
+type = "album"
+date = "2017-09-15"
+spotify = "0E9qwoE99cMbbxM8TnniKZ"
+tracks = [
+  { n = 1, title = "Blackness of the Night", mbid = "02d089be-3e20-4651-b783-78b5c840af7d" },
+  { n = 2, title = "See What Love Did to Me", mbid = "647ec2fb-673e-4736-a64d-eb3aedd51c9e" },
+  { n = 3, title = "The Laughing Apple", mbid = "2d2c6e63-c938-494a-8c94-dfb2224cbf0a" },
+  { n = 4, title = "Olive Hill", mbid = "f27e9743-4ee7-4694-9f95-26141d41b331" },
+  { n = 5, title = "Grandsons", mbid = "ebc2d7ae-0462-4efc-9f06-f465066cec87" },
+  { n = 6, title = "Mighty Peace", mbid = "bbce8dfc-9d7e-4499-a0a4-4077b507b7e7" },
+  { n = 7, title = "Mary and the Little Lamb", mbid = "438536e3-6c05-4147-86d8-8bd816923e53" },
+  { n = 8, title = "You Can Do (Whatever)!", mbid = "afc679e5-84c2-41e5-a3a8-40702e1ab012" },
+  { n = 9, title = "Northern Wind (Death of Billy the Kid)", mbid = "664b5ff0-dcef-4121-a5f7-c107e418885b" },
+  { n = 10, title = "Don’t Blame Them", mbid = "e2a36e18-b60c-49b2-8e75-0adf6926186a" },
+  { n = 11, title = "I’m So Sleepy", mbid = "36c50a0d-3bfb-4827-8c03-623d657a46b6" },
+]
+
+[[release]]
+mbid = "038392ba-1e2e-4b42-bb92-c06f32f6576b"
+title = "The Long and Winding Road"
+type = "single"
+date = "2017-11-03"
+spotify = "4M7DI0qZEbf7MNnBW6ffj4"
+tracks = [
+  { n = 1, title = "The Long and Winding Road", mbid = "917b0c75-e2cb-4259-89b9-1909e5270b95" },
+]
+
+[[release]]
+mbid = "f9b9e620-84ae-41c0-836d-595601b7ff7d"
+title = "Toy Heart"
+type = "single"
+date = "2019-11-01"
+spotify = "1te3FBCl1CRL4SeXIY6orp"
+tracks = [
+  { n = 1, title = "Toy Heart", mbid = "8fc4b25f-bfb8-4693-a8ca-15923d68761c" },
+]
+
+[[release]]
+mbid = "0853e292-94df-47fd-84cd-7b73613d1177"
+title = "Tea for the Tillerman²"
+type = "album"
+date = "2020-05-28"
+tracks = [
+  { n = 1, title = "Where Do the Children Play?", mbid = "254289eb-0bcd-40ab-a98c-6b3edab2bf08" },
+  { n = 2, title = "Hard Headed Woman", mbid = "81af61cc-5d4f-4891-89d6-35321047205b" },
+  { n = 3, title = "Wild World", mbid = "a28d915b-a730-4db0-ab84-0c4dd1e4eac2" },
+  { n = 4, title = "Sad Lisa", mbid = "11760078-26a6-4116-a209-81b93ffdd3af" },
+  { n = 5, title = "Miles From Nowhere", mbid = "4f44d04c-7c42-4d9f-a0f3-e6a63104f6b3" },
+  { n = 6, title = "But I Might Die Tonight", mbid = "241b81d7-31d9-488d-b4ff-cbe0aa99697a" },
+  { n = 7, title = "Longer Boats", mbid = "5ff6dd47-b7d8-432c-9bd8-39e96775631d" },
+  { n = 8, title = "Into White", mbid = "8a85dd6e-3139-45bc-b0f1-b2f164220e59" },
+  { n = 9, title = "On the Road to Find Out", mbid = "417f55d2-d237-43c6-a710-6e08415fd383" },
+  { n = 10, title = "Father and Son", mbid = "85877f02-3cf5-41bc-b97a-f89b359a1bfc" },
+  { n = 11, title = "Tea for the Tillerman", mbid = "97869a73-9362-4513-a1a6-813ff4515005" },
+]
+
+[[release]]
+mbid = "f3d9fcc1-9217-4d71-b6a3-4fd4d066aa00"
+title = "Here Comes the Sun (acoustic)"
+type = "single"
+date = "2023-02-22"
+spotify = "431eyjZ99xg2q86X3aQA7h"
+tracks = [
+  { n = 1, title = "Here Comes the Sun (acoustic)", mbid = "5e8b8dd9-ea3d-4871-b096-3c5fc31d741a" },
+]
+
+[[release]]
+mbid = "87373360-5bf7-4294-a319-9c02d479942c"
+title = "Take the World Apart"
+type = "single"
+date = "2023-03-15"
+spotify = "3rXiySdCNMOD2mB55SpNUd"
+tracks = [
+  { n = 1, title = "Take the World Apart", mbid = "1e60c519-2c4d-4e65-bab2-4f27f7a06e54" },
+]
+
+[[release]]
+mbid = "18e876b1-f25a-404a-aca1-1352133a2057"
+title = "King of a Land"
+type = "single"
+date = "2023-04-26"
+tracks = [
+  { n = 1, title = "King of a Land", mbid = "03de2043-98a1-4288-9862-355e21ef2c8a" },
+]
+
+[[release]]
+mbid = "f255d5b7-3d7a-4a4a-85fd-f471ce069f7b"
+title = "All Nights, All Days"
+type = "single"
+date = "2023-05-17"
+tracks = [
+  { n = 1, title = "All Nights, All Days", mbid = "fc4c938f-c08a-4596-b80e-cb32a7165d21" },
+]
+
+[[release]]
+mbid = "a3243de1-3cc2-4372-b6e2-d75b22353988"
+title = "King of a Land"
+type = "album"
+date = "2023-06-16"
+spotify = "0CzQxtLVM0mYgJXeaTT2pF"
+tracks = [
+  { n = 1, title = "Train on a Hill", mbid = "144e07ed-dfad-4124-9eff-528ff0afbf40" },
+  { n = 2, title = "King of a Land", mbid = "03de2043-98a1-4288-9862-355e21ef2c8a" },
+  { n = 3, title = "Pagan Run", mbid = "1883690f-0e5e-42c0-a3f0-6ce5e8800b4b" },
+  { n = 4, title = "He Is True", mbid = "031dbcbe-e902-447a-a58f-d51931e3c105" },
+  { n = 5, title = "All Nights, All Days", mbid = "fc4c938f-c08a-4596-b80e-cb32a7165d21" },
+  { n = 6, title = "Another Night in the Rain", mbid = "5c8f1397-97af-44ec-a8fd-e7da5e6b3c7c" },
+  { n = 7, title = "Things", mbid = "a7a754f9-8faa-47f4-b6b0-4c8c3c0e4763" },
+  { n = 8, title = "Son of Mary", mbid = "15689e97-bd33-4db2-9f93-1727163c0231" },
+  { n = 9, title = "Highness", mbid = "b6f20314-aa2a-4af8-ac2f-6ff2e09cd537" },
+  { n = 10, title = "The Boy Who Knew How to Climb Walls", mbid = "36e8c336-2a13-42a0-af83-1a5e6c636beb" },
+  { n = 11, title = "How Good It Feels", mbid = "414fc0ba-3234-433e-8f74-6abc8238399b" },
+  { n = 12, title = "Take the World Apart", mbid = "1e60c519-2c4d-4e65-bab2-4f27f7a06e54" },
+]
