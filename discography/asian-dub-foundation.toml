@@ -1,0 +1,460 @@
+format = 1
+
+[[release]]
+mbid = "d0ff6d21-3cb9-4c5a-bdbc-fc17797e4247"
+title = "Conscious EP."
+type = "ep"
+date = "1994-08-30"
+tracks = [
+  { n = 1, title = "Debris", mbid = "007759a8-1a6c-4206-9a84-830819e97ef3" },
+  { n = 2, title = "Tu Meri", mbid = "47679ec6-21d7-48a2-a902-844e807ba872" },
+  { n = 3, title = "Jericho", mbid = "923176c3-f7ea-49c4-81fd-15851f4f5cdd" },
+  { n = 4, title = "Witness", mbid = "bb1ae393-e7a9-4d51-be5e-80a663c0cb43" },
+]
+
+[[release]]
+mbid = "94d8a202-36d7-4b61-a7d1-adc7aadd2887"
+title = "Rebel Warrior ⧸ Strong Culture"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Rebel Warrior", mbid = "832b404e-dc97-4130-a4dc-4aaa8d26b0b8" },
+  { n = 2, title = "Nazrul Dub", mbid = "819a6554-f209-412d-ac3f-101bb36469b6" },
+  { n = 3, title = "Strong Culture", mbid = "791fc973-412c-48e0-8e5a-7bbb0e089ca0" },
+  { n = 4, title = "Rivers of Dub", mbid = "65278594-aebe-48a0-8777-dd7c70453df3" },
+]
+
+[[release]]
+mbid = "dae98f89-d4be-3dde-8523-21cf5c2cd728"
+title = "Facts and Fictions"
+type = "album"
+date = "1995-10-27"
+spotify = "17xzSQuixOlaDOeO4jsZHN"
+tracks = [
+  { n = 1, title = "Witness", mbid = "34bcb756-968a-4dde-8ff7-9ede21729e44" },
+  { n = 2, title = "PKNB", mbid = "09d8155c-88f9-4db1-b52c-bbe6729962fe" },
+  { n = 3, title = "Jericho", mbid = "967ea620-392f-43be-9080-65a58a513c87" },
+  { n = 4, title = "Rebel Warrior", mbid = "71f59ed4-248c-4b42-90e6-76942acf3aab" },
+  { n = 5, title = "Journey", mbid = "ad531e1f-4a8b-4127-8174-4299ae17ddf9" },
+  { n = 6, title = "Strong Culture", mbid = "b61e7382-fdba-4b8e-af21-0ac73a017716" },
+  { n = 7, title = "Th9", mbid = "ce7a7e54-4f8d-45b4-8e96-7ce7db7a4a68" },
+  { n = 8, title = "Tu Meri", mbid = "4b89388e-b55c-4318-8e6e-a10fc4eeb7e9" },
+  { n = 9, title = "Debris", mbid = "3262c3fa-8da4-4c86-865f-114fecabdc15" },
+  { n = 10, title = "Box", mbid = "190549f0-087d-4ee4-9355-030f4b26b9a2" },
+  { n = 11, title = "Thacid 9 (dub version)", mbid = "60023bda-72cc-4439-b74d-322e3c399b2f" },
+  { n = 12, title = "Return to Jericho (dub version)", mbid = "d8f95919-e712-4e2c-a7fd-c5ee5e7464eb" },
+]
+
+[[release]]
+mbid = "ef9fb70c-605d-458f-a22d-009084f770c5"
+title = "Change A Gonna Come"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Change A Gonna Come", mbid = "eaf861fe-d069-473f-aa49-6a73261c562c" },
+  { n = 2, title = "Operation Eagle Lie", mbid = "1319a8ff-9723-4dd6-aa72-cd161487f53d" },
+  { n = 3, title = "C.A.G.C. (Via Pirate Satellite)", mbid = "1381b768-0af3-437a-b941-9042d10630fd" },
+  { n = 4, title = "Jericho (CAPA D Dub)", mbid = "fdf04d83-2d9d-4a3d-9f32-0b811bea7051" },
+]
+
+[[release]]
+mbid = "7431f152-8a35-4278-b055-e6d8e50b9c1e"
+title = "Naxalite"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Naxalite (radio edit)", mbid = "fa51aa2d-7db1-4966-85e2-2569e7a4725d" },
+  { n = 2, title = "Naxalite (main mix)", mbid = "6a0f7a10-1bd0-4db9-bee5-7c76d780a24a" },
+  { n = 3, title = "Charge (main mix)", mbid = "e54b2125-219b-4e36-a2e1-a130d74045b3" },
+  { n = 4, title = "Charge (Sound System remix)", mbid = "81f4ece2-642a-437e-9deb-e2b305835c81" },
+]
+
+[[release]]
+mbid = "e94cbcda-e034-39f9-a60c-17989940a3e6"
+title = "Paranoid / Free Satpal Ram"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Paranoid", mbid = "af355eef-c1ca-40c8-a213-d07b2dc953ed" },
+  { n = 2, title = "Free Satpal Ram", mbid = "8d9fe2a7-787a-4a92-8d35-4280f48a6db9" },
+]
+
+[[release]]
+mbid = "0a7fb4eb-c610-3983-8e04-7ac08f28635d"
+title = "R.A.F.I."
+type = "album"
+date = "1997-04-18"
+tracks = [
+  { n = 1, title = "Assassin", mbid = "8acd4bff-f739-4f1a-9b28-affca47adc32" },
+  { n = 2, title = "Change", mbid = "651cd128-a8c3-44c6-b0e1-48655f8d0ccf" },
+  { n = 3, title = "Black White", mbid = "a6d70b40-4a00-4f70-9774-4aebdc94a1ba" },
+  { n = 4, title = "Buzzing", mbid = "8e3d1966-35ff-4e1b-a590-3eb4add80979" },
+  { n = 5, title = "Free Satpal Ram", mbid = "8760cde0-1e28-4f7c-b793-0a4a15ef0aaa" },
+  { n = 6, title = "Modern Apprentice", mbid = "5f6eabdf-efe2-4f3c-8f1e-9ea576e9756f" },
+  { n = 7, title = "Operation Eagle Lie", mbid = "40284c05-f35d-4584-95eb-89b0116249df" },
+  { n = 8, title = "Hypocrite", mbid = "4415124f-7388-4682-8e88-07264ffcadf6" },
+  { n = 9, title = "Naxalite", mbid = "0c46536b-f792-461f-b6a4-bc7a4831abde" },
+  { n = 10, title = "Loot", mbid = "f6631559-6d18-435a-a885-df432b4c8995" },
+  { n = 11, title = "Dub Mentality", mbid = "c340e2ff-07fa-4848-984f-c711df22ee23" },
+  { n = 12, title = "Culture Move", mbid = "b402ec07-9917-4a31-97f0-3704885eec51" },
+  { n = 13, title = "Real Areas for Investigation", mbid = "ea206755-8ffd-4041-8b08-f30684fb9a30" },
+]
+
+[[release]]
+mbid = "2ef43642-d6ad-3d77-a7c9-2cfaf2ac08de"
+title = "Black White"
+type = "ep"
+date = "1998"
+tracks = [
+  { n = 1, title = "Black White", mbid = "a6d70b40-4a00-4f70-9774-4aebdc94a1ba" },
+  { n = 2, title = "Rafi", mbid = "d8fd50af-f124-4b44-b19b-b220b833826c" },
+  { n = 3, title = "Assassin (live)", mbid = "2d1c8170-3fd2-41d9-b606-474ffe411672" },
+  { n = 4, title = "Buzzin' (live)", mbid = "2f196ddf-d654-4472-b597-52046666d667" },
+]
+
+[[release]]
+mbid = "bdf1821c-8611-3b46-9a13-eaaed99e91a4"
+title = "Naxalite / Culture Move EP"
+type = "ep"
+date = "1998"
+tracks = [
+  { n = 1, title = "Naxalite (main mix)", mbid = "af8e65d1-407f-45c4-b7c6-5d0272883864" },
+  { n = 2, title = "Culture Move (Pusher Sound mix)", mbid = "6930ed45-8810-42be-9227-4eaabe2251e1" },
+  { n = 3, title = "Free Satpal Ram (Russell Simmins remix)", mbid = "e2be45b6-22ab-448e-bbcd-1007ad55e77d" },
+  { n = 4, title = "Culture Move (Urban Decay remix)", mbid = "7ddc2c05-efb7-43bc-b6e9-a50458ea8dbc" },
+  { n = 5, title = "Culture Move (Silver Haze mix)", mbid = "af7d5838-6037-4cb2-a442-abf012eb43b7" },
+]
+
+[[release]]
+mbid = "0dfc4c60-3d60-3627-ac8f-7973983da120"
+title = "Conscious Party"
+type = "album"
+date = "1998-04-17"
+tracks = [
+  { n = 1, title = "Assassin", mbid = "6edae7d4-4fcd-41bc-bfe7-0c0e7b28cc0d" },
+  { n = 2, title = "Black White", mbid = "e3c3f15d-9d06-424f-b32e-e14204c3a3f6" },
+  { n = 3, title = "Naxalite", mbid = "e5b4db15-5cfe-4065-80eb-f7ba5a56a7e6" },
+  { n = 4, title = "Taa Deem", mbid = "340c64a0-5d6d-4e5d-9022-c26191604281" },
+  { n = 5, title = "Dub Mentality", mbid = "cde8d44a-5562-42c5-a5b4-926f6bd85325" },
+  { n = 6, title = "Hypocrite", mbid = "da5ed744-37c7-4a5c-ae37-2b8d06f175d4" },
+  { n = 7, title = "Buzzing", mbid = "cd6e00a2-60cd-46d7-be3d-ef9cd337c263" },
+  { n = 8, title = "Charge", mbid = "f4313149-d9d7-468c-afc0-4e10f61c9a3f" },
+  { n = 9, title = "Free Satpal Ram", mbid = "87ff1656-ec5e-4cc5-bd63-2335a70e6023" },
+  { n = 10, title = "Tribute to John Stevens", mbid = "ba758164-6eae-47a4-8c48-e1008d131965" },
+  { n = 11, title = "Free Satpal Ram (ADF Sound System remix)", mbid = "b21233db-0e17-463b-8174-d8ccb995d941" },
+  { n = 12, title = "Charge (ADF Sound System remix)", mbid = "5a234cd6-508c-4ae8-b5f7-eba542c3cb67" },
+  { n = 13, title = "Digital Underclass", mbid = "596eefd8-02c6-4e37-bd34-2d424ed731ca" },
+  { n = 14, title = "Culture Move (ADF vs. M.C. Navigator Disco Plate)", mbid = "b402ec07-9917-4a31-97f0-3704885eec51" },
+]
+
+[[release]]
+mbid = "47ee720c-71bd-378f-a6f5-565e13fda883"
+title = "Buzzin'"
+type = "single"
+date = "1998-04-20"
+tracks = [
+  { n = 1, title = "Buzzin' (radio edit)", mbid = "832b89d5-4e8c-4376-a205-42319e67331e" },
+  { n = 2, title = "Buzzin' (Dylan Rhymes remix)", mbid = "172eb9ee-9a38-4daa-b69f-85c52f8145a5" },
+  { n = 3, title = "Digital Underclass", mbid = "277590c1-2219-4405-b285-2e4df13569d2" },
+  { n = 4, title = "Buzzin' (Full Length)", mbid = "f0a5beff-9c5f-4fb0-aeba-dc7c5c0bd114" },
+  { n = 5, title = "Free Satpal Ram (live version)", mbid = "6370380d-1d93-4e9c-b466-ee000f0c6657" },
+  { n = 6, title = "Charge (live version)", mbid = "c8c25554-cc4f-4550-985a-65a29be67386" },
+  { n = 7, title = "Naxalite (live version)", mbid = "9b733ce8-210a-4d1e-9dae-817983fa3b84" },
+]
+
+[[release]]
+mbid = "476bbfe6-5578-3ef3-9eb1-bca7c15c76d3"
+title = "Rafi's Revenge"
+type = "album"
+date = "1998-04-29"
+spotify = "6bI22G1Vu3g3Qji8Xs8pjx"
+tracks = [
+  { n = 1, title = "Naxalite", mbid = "23505415-0b8e-4b08-afeb-9e91c9d591a9" },
+  { n = 2, title = "Buzzin'", mbid = "f0a5beff-9c5f-4fb0-aeba-dc7c5c0bd114" },
+  { n = 3, title = "Black White", mbid = "a6d70b40-4a00-4f70-9774-4aebdc94a1ba" },
+  { n = 4, title = "Assassin", mbid = "1573a29f-8715-4b09-ad27-749e5183ef91" },
+  { n = 5, title = "Hypocrite", mbid = "3c57f5a9-288d-41ec-a923-04631934c758" },
+  { n = 6, title = "Charge", mbid = "d5815574-44fe-45b9-ab29-480b430ef212" },
+  { n = 7, title = "Free Satpal Ram", mbid = "31c57c42-df81-44bc-ad24-29a21602d3ba" },
+  { n = 8, title = "Dub Mentality", mbid = "c340e2ff-07fa-4848-984f-c711df22ee23" },
+  { n = 9, title = "Culture Move", mbid = "b402ec07-9917-4a31-97f0-3704885eec51" },
+  { n = 10, title = "Operation Eagle Lie", mbid = "1cbff13a-63d7-48d0-b352-15a4575480ef" },
+  { n = 11, title = "Change", mbid = "651cd128-a8c3-44c6-b0e1-48655f8d0ccf" },
+  { n = 12, title = "Tribute to John Stevens", mbid = "ba758164-6eae-47a4-8c48-e1008d131965" },
+  { n = 13, title = "Raf1", mbid = "8e240b66-b498-40a5-9eef-a5d7f9ad32b5" },
+  { n = 14, title = "Digital Underclass", mbid = "277590c1-2219-4405-b285-2e4df13569d2" },
+]
+
+[[release]]
+mbid = "0f3a7489-0e22-3c89-a7b8-d79e74aa0c76"
+title = "Free Satpal Ram"
+type = "single"
+date = "1998-10-08"
+tracks = [
+  { n = 1, title = "Free Satpal Ram (Primal Scream & Brendan Lynch mix edit)", mbid = "31c57c42-df81-44bc-ad24-29a21602d3ba" },
+  { n = 2, title = "Tribute to John Stevens", mbid = "ba758164-6eae-47a4-8c48-e1008d131965" },
+  { n = 3, title = "Free Satpal Ram", mbid = "29c68803-b974-4d0c-98c9-598a050cea26" },
+  { n = 4, title = "Free Satpal Ram (ADF Sound System remix)", mbid = "29e7966b-04e5-4fd5-94a1-2caa658165c9" },
+]
+
+[[release]]
+mbid = "2b4b1d49-70ba-3e20-bf0e-01db534d25b0"
+title = "Real Great Britain"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Real Great Britain", mbid = "d7f3399c-ef0f-4e2d-8575-427583f3b251" },
+  { n = 2, title = "Real Great Britain (Freqnasty Acid Monsta Vocal Relik)", mbid = "938c6af5-4a5d-4ad8-8899-f0bf79789f33" },
+  { n = 3, title = "Real Great Britain (Freqnasty Acid Monsta Dub)", mbid = "708a3cc8-06f3-42d3-9ca8-4cb39be2fbef" },
+]
+
+[[release]]
+mbid = "e9fc3d2a-be10-3055-9828-e72cb57a031c"
+title = "Community Music"
+type = "album"
+date = "2000-03-08"
+tracks = [
+  { n = 1, title = "Real Great Britain", mbid = "f9774321-eae8-498c-bfed-ec2429ccd320" },
+  { n = 2, title = "Memory War", mbid = "4b0ffb0b-ab17-4e2a-89cb-8c25456f8a2e" },
+  { n = 3, title = "Officer XX", mbid = "e2c3ed94-97fb-4869-9dab-4c653b632eb7" },
+  { n = 4, title = "New Way, New Life", mbid = "745b8bb1-e3b0-4b10-8ad6-32affd886de1" },
+  { n = 5, title = "Riddim I Like", mbid = "f0d08ee6-caa2-42e2-a6c4-6b0074839b84" },
+  { n = 6, title = "Collective Mode", mbid = "e2c133e6-712d-45b4-bb0b-581ffa79481d" },
+  { n = 7, title = "Crash", mbid = "e22ee971-59ba-4066-a79c-82af3a250104" },
+  { n = 8, title = "Colour Line", mbid = "054d2ea0-5e79-4634-b810-e2497bffcacb" },
+  { n = 9, title = "Taa Deem", mbid = "b827c90f-dc5a-459f-977d-cd97ea69dab5" },
+  { n = 10, title = "The Judgement", mbid = "6ac35358-05dd-494c-ba3c-0a48f83cf77f" },
+  { n = 11, title = "Truth Hides", mbid = "672396a0-e474-4619-8cb1-625e83b1631a" },
+  { n = 12, title = "Rebel Warrior", mbid = "d97174c6-dd10-43e3-86b5-385cd06ae4ad" },
+  { n = 13, title = "Committed to Life", mbid = "669e2cfd-b787-4fb9-9b25-352aac854e82" },
+  { n = 14, title = "Scaling New Heights", mbid = "6d17afe2-c5bc-4869-b210-1517a1e354eb" },
+]
+
+[[release]]
+mbid = "98998809-8b0e-3ec9-8e91-0d1e84d3d42d"
+title = "New Way, New Life"
+type = "single"
+date = "2000-05-01"
+tracks = [
+  { n = 1, title = "New Way, New Life (radio edit)", mbid = "bd1f37f3-8396-4ed4-8936-bf10e37b6dbc" },
+  { n = 2, title = "New Way, New Life (Dry and Heavy vocal Relik)", mbid = "8f530beb-23d3-46e5-afd9-1d0d2c9ed438" },
+  { n = 3, title = "New Way, New Life (Dry and Heavy dub I)", mbid = "129caf87-b73e-44a1-8288-42be6f414fa6" },
+]
+
+[[release]]
+mbid = "90c3859b-33ac-450c-bca6-b797c3aa90de"
+title = "Fortress Europe"
+type = "single"
+date = "2002-10-28"
+tracks = [
+  { n = 1, title = "Fortress Europe", mbid = "ad0a4c0a-37cc-44f1-b887-31a509368f4e" },
+  { n = 2, title = "Enemy of the Enemy", mbid = "8585c58e-ca29-4a13-aa24-418444379c26" },
+  { n = 3, title = "Fortress Europe (Audio Active remix)", mbid = "882fe85a-4027-4cff-b46b-d0f2a0504c60" },
+  { n = 4, title = "Fortress Europe (Adrian Sherwood dub)", mbid = "e1f66c04-3318-4ba6-be8b-eef9ce4fb682" },
+]
+
+[[release]]
+mbid = "925ee711-0448-3848-9c97-1d266a80a3f9"
+title = "1000 Mirrors"
+type = "single"
+date = "2003-02"
+tracks = [
+  { n = 1, title = "1000 Mirrors (radio edit by Leeroy Daevis)", mbid = "8dd55741-0aeb-43e1-9fe7-6e1b0e9ef490" },
+  { n = 2, title = "1000 Mirrors (album version)", mbid = "5e680a71-61a1-4aac-a288-f794cc97afcc" },
+  { n = 3, title = "1000 Mirrors (The Sandstorm ILS radio mix)", mbid = "3ca97b3a-68d6-4692-959d-6e211b207baf" },
+  { n = 4, title = "1000 Mirrors (Visionary Underground remix)", mbid = "6cabd383-b33d-467b-97a5-1016c276b453" },
+  { n = 5, title = "1000 Mirrors (Sun-J remix)", mbid = "930c1372-b2ee-4010-8292-238ba9bc0578" },
+]
+
+[[release]]
+mbid = "e9d03256-2bc6-328f-8c75-24c13cff2f79"
+title = "Enemy of the Enemy"
+type = "album"
+date = "2003-02-03"
+tracks = [
+  { n = 1, title = "Fortress Europe", mbid = "ad0a4c0a-37cc-44f1-b887-31a509368f4e" },
+  { n = 2, title = "Rise to the Challenge", mbid = "fd7a65fd-9eeb-4fa1-98c6-ae2d49a7f5e7" },
+  { n = 3, title = "La Haine", mbid = "e5b4c529-af4b-4c78-9e01-aed5667bd9ed" },
+  { n = 4, title = "1000 Mirrors", mbid = "5e680a71-61a1-4aac-a288-f794cc97afcc" },
+  { n = 5, title = "19 Rebellions", mbid = "604c1f14-4c0e-4a3c-a9aa-65e73d7a2979" },
+  { n = 6, title = "Blowback", mbid = "a50aa1eb-c9d8-43da-9daf-e5c6c452b964" },
+  { n = 7, title = "2 Face", mbid = "6c1de700-94ed-46e6-a8cc-8814d9e21ac5" },
+  { n = 8, title = "Power to the Small Massive", mbid = "4f50c12f-9f10-4ad3-907e-c91f32180fa7" },
+  { n = 9, title = "Dhol Rinse", mbid = "9aad40e0-ba1c-42a6-ba30-9ee6c1d8fd14" },
+  { n = 10, title = "Basta", mbid = "55ead83d-7aa1-47b3-b475-f635077dafa3" },
+  { n = 11, title = "Cyberabad", mbid = "5d4b0878-5027-4aef-853e-e6a2a94b02ce" },
+  { n = 12, title = "Enemy of the Enemy", mbid = "5d4a86d9-4e9a-4ddf-8cf8-ec7fb10504e0" },
+]
+
+[[release]]
+mbid = "cca661eb-7e38-3aba-befa-6d3a94061387"
+title = "Tank"
+type = "album"
+date = "2005-02-16"
+tracks = [
+  { n = 1, title = "Flyover", mbid = "b5cf39cc-272e-4515-aa40-380fca41a1f4" },
+  { n = 2, title = "Tank", mbid = "09199785-9828-4e3e-ba58-729d927ea0f8" },
+  { n = 3, title = "Hope", mbid = "d698074e-5c9f-4a7c-8e46-aef77507b7d4" },
+  { n = 4, title = "Round Up", mbid = "25c5aba1-e075-4fb2-b4a0-48b72f31a507" },
+  { n = 5, title = "Oil", mbid = "524f2e28-20c1-4150-b30a-9c0b863a6355" },
+  { n = 6, title = "Powerlines", mbid = "cb868e1e-df9b-4aa4-81ae-d13353ccfcba" },
+  { n = 7, title = "Who Runs the Place", mbid = "3687357d-e036-4b5c-897c-57bd08cc521a" },
+  { n = 8, title = "Take Back the Power", mbid = "e7de25a5-0fb2-4150-9622-b0eb5bd9339a" },
+  { n = 9, title = "Warring Dhol", mbid = "efb72a9d-6c6a-4e55-8b6c-5a7d6b6d824b" },
+  { n = 10, title = "Tomorrow Begins Today", mbid = "a98b6725-0b14-4bfa-9223-176ed7f195ea" },
+  { n = 11, title = "Melody 7", mbid = "b9ee5510-dbce-4b30-98e5-54e06c7422eb" },
+]
+
+[[release]]
+mbid = "d2b5a6d4-c364-313a-a20c-37e2e9ed88a0"
+title = "Punkara"
+type = "album"
+date = "2008-03-26"
+tracks = [
+  { n = 1, title = "Superpower", mbid = "81ceeca3-e63e-4eed-bfe4-0073c4b43182" },
+  { n = 2, title = "Burning Fence", mbid = "3aad8c99-c29b-4152-a9f7-5589180537a5" },
+  { n = 3, title = "No Fun", mbid = "581d498c-c715-4cb6-8268-4c87defc2df3" },
+  { n = 4, title = "Speed of Light", mbid = "94667956-5de2-49e5-806f-4ff5f1cb0f87" },
+  { n = 5, title = "Ease Up Caesar", mbid = "1122fde9-a78e-47a3-b064-051c22fd8fb2" },
+  { n = 6, title = "S.O.C.A.", mbid = "4fb55e06-fec8-4d17-9449-bf7ac2a23d5a" },
+  { n = 7, title = "Target Practice", mbid = "3081456a-006b-4d0b-9793-afadf6cf642c" },
+  { n = 8, title = "Living Under the Radar (Ghostplane)", mbid = "4c03d126-63c4-4254-ad55-007ee048b808" },
+  { n = 9, title = "Altered Statesmen", mbid = "b6e3078d-c53b-4689-9e3c-2c86d60dd4c7" },
+  { n = 10, title = "Bride of Punkara", mbid = "5fd916c6-027e-4acf-994f-a9820e16320f" },
+  { n = 11, title = "Stop the Bleeding", mbid = "cbf1f023-8fce-4b05-b58d-171cac3b9c8a" },
+  { n = 12, title = "Awake/Asleep", mbid = "06ccd483-842d-4166-be08-71c7f29716b5" },
+]
+
+[[release]]
+mbid = "1f523972-8d77-448a-af9d-88c91b6c449d"
+title = "A History of Now"
+type = "album"
+date = "2011-02-06"
+tracks = [
+  { n = 1, title = "A New London Eye", mbid = "c8ad9467-457e-4b4d-be4a-be385682acd8" },
+  { n = 2, title = "Urgency Frequency", mbid = "7ce08117-4a6c-483b-b677-e56f098947e2" },
+  { n = 3, title = "London to Shanghai", mbid = "9d1a3d24-2a8f-4d47-8e27-3dc0dc85373d" },
+  { n = 4, title = "A History of Now", mbid = "1e5abf24-7ae3-4db2-bb11-4cda2b239e55" },
+  { n = 5, title = "Spirit in the Machine", mbid = "cc4f2adf-e720-4071-8bf3-1738b4376504" },
+  { n = 6, title = "Where's All the Money Gone?", mbid = "759351e0-e230-4ec5-a7f4-cc6a3fb5035a" },
+  { n = 7, title = "In Another Life", mbid = "ed4a98fb-18d6-4f24-b30d-44273ec521b8" },
+  { n = 8, title = "Power of 10", mbid = "48ea6602-2ea5-424e-9c30-19bd0d1d1946" },
+  { n = 9, title = "Futureproof", mbid = "5e5d48b8-ac81-4975-bfd9-7881858939b2" },
+  { n = 10, title = "This Land Is Not for Sale", mbid = "5e827277-489f-4e72-8cbe-80a4075d1039" },
+  { n = 11, title = "Temple Siren", mbid = "ec767340-5fa5-4a4a-a443-ef6556733002" },
+  { n = 12, title = "Hey Lalita", mbid = "026e8408-197d-4eec-9733-82f355cf7a13" },
+]
+
+[[release]]
+mbid = "9c2407e5-2e10-4023-b049-ce110dae308a"
+title = "A New London Eye"
+type = "single"
+date = "2011-05-30"
+tracks = [
+  { n = 1, title = "A New London Eye", mbid = "a008e8d2-b42b-4a6e-8a63-6b3497c39ca4" },
+  { n = 2, title = "A New London Eye (Marty Savale Remix)", mbid = "b487f774-a79d-42c7-9fbd-308dafdaedce" },
+  { n = 3, title = "A New London Eye (Radio Edit)", mbid = "ecef4720-4d28-476c-b958-ae59a4281ed1" },
+]
+
+[[release]]
+mbid = "8e36ab15-27fb-42b2-8775-3999eaa02b91"
+title = "The Signal and the Noise"
+type = "album"
+date = "2013"
+tracks = [
+  { n = 1, title = "Zig Zag Nation", mbid = "25264c2b-73ba-4628-8ed5-bf51ad078f52" },
+  { n = 2, title = "The Signal and the Noise", mbid = "935c4d2d-6710-4528-83ca-e4d19288b1a7" },
+  { n = 3, title = "Radio Bubblegum", mbid = "a15e2216-8096-43dc-a31f-273d2d1c8b3a" },
+  { n = 4, title = "Qutab Minar", mbid = "2fc611a1-19b7-4261-9ba8-dc1314b9eb64" },
+  { n = 5, title = "Stand Up", mbid = "64be7a76-7771-4c6b-99c7-14700d96b6d1" },
+  { n = 6, title = "Hovering", mbid = "632b2ed9-8377-43b4-a0fa-dcac2f0bf4cd" },
+  { n = 7, title = "Straight Jacket", mbid = "c0980120-cb9e-48fc-a5c6-3752c17fe35a" },
+  { n = 8, title = "Get Lost Bashar", mbid = "009b21f4-36a0-433a-9b00-a4f490115e5c" },
+  { n = 9, title = "Bnadh Bhenge Dao", mbid = "d650b7cb-4441-41a6-a7bb-55b7619c0667" },
+  { n = 10, title = "Blade Ragga", mbid = "3dab31f0-b86d-4448-a50b-7f86b2644daa" },
+  { n = 11, title = "Your World Has Gone", mbid = "7ab12c8b-0a90-407c-b805-c062f0dcfbe9" },
+  { n = 12, title = "Dubblegum Flute Flavour", mbid = "aef40cd1-664f-49ee-a559-12615378e270" },
+  { n = 13, title = "Psychosamba", mbid = "26518927-fbdd-4fce-ad96-fbf14929ae37" },
+]
+
+[[release]]
+mbid = "d2c80147-80f2-439f-bd8e-b07698b9af2c"
+title = "More Signal More Noise"
+type = "album"
+date = "2015-07-10"
+tracks = [
+  { n = 1, title = "Zig Zag Nation", mbid = "597c3821-f509-43ac-bdd6-d524c14ed117" },
+  { n = 2, title = "The Signal and the Noise", mbid = "7ddc8960-4327-43f0-afc9-f4c97668c286" },
+  { n = 3, title = "Radio Bubblegum", mbid = "fe10c3e6-ee49-4c0f-9fe4-c2d01500917a" },
+  { n = 4, title = "Blade Ragga", mbid = "43a9f7d1-58ee-4492-be70-a60928a9d2a6" },
+  { n = 5, title = "Semira", mbid = "1f3dbc96-f935-415a-9d61-5239bbee5796" },
+  { n = 6, title = "Stand Up", mbid = "ad579a35-cfe7-46d3-ac43-a7a0317556ed" },
+  { n = 7, title = "Flyover 2015", mbid = "b100ba34-57ac-414f-8631-49c184f0006c" },
+  { n = 8, title = "Hovering", mbid = "e8079772-cf88-4300-b118-398f31f6b950" },
+  { n = 9, title = "Get Lost Bashar", mbid = "9a6fe3ec-f92f-47a9-95c4-0dcd30cc835f" },
+  { n = 10, title = "Fall of the House of Cards", mbid = "a7691b82-15da-4336-ad2f-4c5e772e1ca6" },
+  { n = 11, title = "Dubblegum Flute Flavour", mbid = "cbc736a3-08e2-4e11-bdcf-bc1ed677c8fc" },
+]
+
+[[release]]
+mbid = "2c6f4e4a-6e82-4277-abf2-2a4b717cd934"
+title = "Youth Quake, Pt 1 (Greta Speaks)"
+type = "single"
+date = "2019-05-04"
+tracks = [
+  { n = 1, title = "Youth Quake, Pt 1 (Greta Speaks)", mbid = "bb5dd5c4-ef21-4e7b-8316-dcf4d24d3bed" },
+]
+
+[[release]]
+mbid = "b6a1f0e3-674a-4cbe-ace2-d2a623edc526"
+title = "Can't Pay Won't Pay"
+type = "single"
+date = "2020-01-31"
+tracks = [
+  { n = 1, title = "Can't Pay Won't Pay", mbid = "05a94db6-591b-47e6-8411-f3c170e399d6" },
+]
+
+[[release]]
+mbid = "a4d029c0-7d0d-445c-bbb0-cc4c65d48287"
+title = "Access Denied"
+type = "album"
+date = "2020-09-18"
+tracks = [
+  { n = 1, title = "Can't Pay Won't Pay", mbid = "05a94db6-591b-47e6-8411-f3c170e399d6" },
+  { n = 2, title = "Stealing the Future", mbid = "c0591208-4462-46d7-8c36-1bdff62eba45" },
+  { n = 3, title = "Frontline", mbid = "851a27f3-335c-4768-9f0e-9fccc4a29d0b" },
+  { n = 4, title = "Access Denied", mbid = "f8c1ec74-bdfa-44e5-84ed-f67e7c2d9f48" },
+  { n = 5, title = "Realignment", mbid = "1ec93e95-6ba8-4cc5-ba5d-fcff65e7b377" },
+  { n = 6, title = "Comin' Over Here", mbid = "144188f0-e6d5-41fb-b8dd-d8481b93c9d2" },
+  { n = 7, title = "Human 47", mbid = "a2c4fc2a-0aa3-4821-a50d-f018b843f32a" },
+  { n = 8, title = "Mindlock", mbid = "1f1bae73-8c79-4bfb-8236-ec04745459c4" },
+  { n = 9, title = "Swarm", mbid = "ccb24974-92e9-4f18-b158-5fc5b9ecd10b" },
+  { n = 10, title = "Lost in the Shadows", mbid = "9e478a3b-12e3-4b96-b74c-c310e9a8be46" },
+  { n = 11, title = "Youthquake Part 1, Greta Speaks", mbid = "e5ae1373-9ebf-4df1-9b2b-6064c1c1eb9e" },
+  { n = 12, title = "New Alignment", mbid = "7528dbf3-5a2b-4f96-8e27-8a8411f3bebd" },
+  { n = 13, title = "Frontline Santiago", mbid = "66d4bc7b-98b9-44f4-a1d9-7ab80e0b3f62" },
+  { n = 14, title = "Smash and Grab the Future", mbid = "ec1690e3-5fc2-4815-9ed0-918c7f3ba36e" },
+]
+
+[[release]]
+mbid = "345b39cb-6e11-4dcc-b349-7d07b0653711"
+title = "Comin’ Over Here"
+type = "single"
+date = "2020-12-22"
+spotify = "4JFmJxUh4NybsK8D3cDfeA"
+tracks = [
+  { n = 1, title = "Comin’ Over Here", mbid = "144188f0-e6d5-41fb-b8dd-d8481b93c9d2" },
+  { n = 2, title = "Comin’ Over Here (Huguenots & Beaker Folk edit)", mbid = "62d80033-f773-42b4-946f-52206b173d4a" },
+  { n = 3, title = "Comin’ Over Here (Nothing but Fins edit)", mbid = "b41e7dc9-d05f-4d7f-b2f3-494a49ae0e05" },
+  { n = 4, title = "Comin’ Over Here (Singalong version)", mbid = "930b6db5-f571-4272-891e-61dbfb97f9a7" },
+]
+
+[[release]]
+mbid = "f9fd8d1a-3356-41c8-97bd-8ccfa57372d0"
+title = "No Fun (2024 rework)"
+type = "single"
+date = "2024-05-24"
+spotify = "4RMo1eqb2vwG6BqG02vHCo"
+tracks = [
+  { n = 1, title = "No Fun (ADF30 rework)", mbid = "581d498c-c715-4cb6-8268-4c87defc2df3" },
+]

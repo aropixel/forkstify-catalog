@@ -1,0 +1,319 @@
+format = 1
+
+[[release]]
+mbid = "b27a1754-0418-45fe-9353-9b3e96ae55f2"
+title = "Unreleased Demo Disc"
+type = "ep"
+date = "2004"
+tracks = [
+  { n = 1, title = "Snow Song", mbid = "d6268efc-8b1e-4573-a05c-3eba923d4a24" },
+  { n = 2, title = "Bass Song", mbid = "956bc280-08c0-465d-be5d-41f9fe7b1931" },
+  { n = 3, title = "Ghost Song", mbid = "5f9bf31c-4995-4458-acde-f3e8280b0e57" },
+  { n = 4, title = "Pt.2", mbid = "be5eba5a-5f21-4c74-85dc-40ac95e1f518" },
+  { n = 5, title = "Boat to Row", mbid = "0662583b-e164-4bbf-abd5-7cc2bb00a735" },
+]
+
+[[release]]
+mbid = "825528d4-947f-3d2d-b214-91703b0bd0b1"
+title = "Tour EP"
+type = "ep"
+date = "2005"
+tracks = [
+  { n = 1, title = "Savannah Part One (demo)", mbid = "b1fef789-dc93-40e8-a3b3-75f25228b133" },
+  { n = 2, title = "The Snow Fall (demo)", mbid = "3885f7e7-dbcd-4fa8-a970-91a56b587e12" },
+  { n = 3, title = "For Wicked Gill (demo)", mbid = "15df32c0-7971-4130-8312-8fd0b4009119" },
+  { n = 4, title = "The Great Salt Lake (live)", mbid = "a9a4c168-3867-4f52-b9e7-3407e939c102" },
+  { n = 5, title = "Billion Day Funeral (live)", mbid = "026a4275-932d-4fc6-aba2-4483d1324d26" },
+  { n = 6, title = "(Biding Time Is a) Boat Row (live)", mbid = "cf54b56f-ea42-49dd-84ca-093c088b452e" },
+]
+
+[[release]]
+mbid = "f9c3a3db-c1d5-33ec-98ca-8c8de928c17f"
+title = "Everything All the Time"
+type = "album"
+date = "2006-03-21"
+spotify = "7ik4rjxOnmwnAWWzjj5ni3"
+tracks = [
+  { n = 1, title = "The First Song", mbid = "7aa21ee7-c7e6-4675-a8c0-8855d66db632" },
+  { n = 2, title = "Wicked Gil", mbid = "acb7cdd5-dadc-4645-a12e-3eadb5f46907" },
+  { n = 3, title = "Our Swords", mbid = "9e56e865-e653-4c0b-9c39-d73f4eb0e105" },
+  { n = 4, title = "The Funeral", mbid = "ae6cdfe4-f0d5-439f-8318-023ac55a0d89" },
+  { n = 5, title = "Part One", mbid = "c211ca0d-98ec-43d6-b8ac-819369784dc4" },
+  { n = 6, title = "The Great Salt Lake", mbid = "b42b23e1-dd82-45ba-a77d-d86ef87aa70c" },
+  { n = 7, title = "Weed Party", mbid = "4b997649-6f79-448d-9a47-46541ceed3df" },
+  { n = 8, title = "I Go to the Barn Because I Like The", mbid = "39da0196-606c-47c0-aeca-00888a64fbfe" },
+  { n = 9, title = "Monsters", mbid = "87f05b70-0e0a-4f45-bc11-68c84c037008" },
+  { n = 10, title = "St. Augustine", mbid = "836095c0-7a55-42e8-8951-9bfac1971711" },
+]
+
+[[release]]
+mbid = "0d5757a5-1adc-31aa-8204-c70725b5c53b"
+title = "The Funeral"
+type = "single"
+date = "2007-05-21"
+tracks = [
+  { n = 1, title = "The Funeral", mbid = "ae6cdfe4-f0d5-439f-8318-023ac55a0d89" },
+  { n = 2, title = "The End's Not Near", mbid = "bbb2d86b-7f5f-4bc5-b2d4-1bec53fbe6b2" },
+]
+
+[[release]]
+mbid = "b8ecb643-255e-353c-a6c4-6148c05d201d"
+title = "Cease to Begin"
+type = "album"
+date = "2007-10-09"
+spotify = "0zWsqSsamm615uHbVj7uiZ"
+tracks = [
+  { n = 1, title = "Is There a Ghost", mbid = "42e3e83f-498f-4c9c-8fde-1216b6938b68" },
+  { n = 2, title = "Ode to LRC", mbid = "df27d0c9-201d-463d-b937-6fe69512a85a" },
+  { n = 3, title = "No One’s Gonna Love You", mbid = "7a8d8bad-5dbb-426d-83ae-1bbd52425d13" },
+  { n = 4, title = "Detlef Schrempf", mbid = "e246bded-fee0-4997-9a01-ada099539715" },
+  { n = 5, title = "The General Specific", mbid = "ab82d46d-a2cc-44ed-9fb1-98cf464fa2f2" },
+  { n = 6, title = "Lamb on the Lam (In the City)", mbid = "e32b4e15-bf86-47b5-a9cb-f05da69fec2b" },
+  { n = 7, title = "Islands on the Coast", mbid = "3f0d72db-0a87-4d8b-846b-0453ba117154" },
+  { n = 8, title = "Marry Song", mbid = "b52e9718-242e-46d1-9c5c-4ba4ca7151cd" },
+  { n = 9, title = "Cigarettes, Wedding Bands", mbid = "f6d4e045-bdf4-4a1a-bf71-6537acecc1bd" },
+  { n = 10, title = "Window Blues", mbid = "c9cefddd-2f77-46a4-be24-6468e5531473" },
+]
+
+[[release]]
+mbid = "d5269963-60b1-3d55-af05-93265f3f91b3"
+title = "No One's Gonna Love You"
+type = "single"
+date = "2008-02-25"
+spotify = "5Dw1GPGxKN6LfNoiFj3LJY"
+tracks = [
+  { n = 1, title = "No One's Gonna Love You", mbid = "7a8d8bad-5dbb-426d-83ae-1bbd52425d13" },
+  { n = 2, title = "Am I a Good Man", mbid = "33ee49d7-46c6-4190-b134-bd1bca1e83f2" },
+]
+
+[[release]]
+mbid = "1167a752-c235-453c-bfe0-485db7c68fa5"
+title = "Georgia"
+type = "single"
+date = "2010"
+tracks = [
+  { n = 1, title = "Georgia", mbid = "f1380d66-8c09-4bfc-851e-00d1c115de51" },
+]
+
+[[release]]
+mbid = "0fe26c82-4b40-4930-b221-77ce2374af2b"
+title = "Compliments"
+type = "single"
+date = "2010-03-29"
+spotify = "6zXajIawoOSFQ7eOqqgWRf"
+tracks = [
+  { n = 1, title = "Compliments", mbid = "1582e605-b1a3-471f-b641-932eba92140b" },
+]
+
+[[release]]
+mbid = "ceb60aae-5320-4354-8e40-9017a340a43f"
+title = "Laredo"
+type = "single"
+date = "2010-04-13"
+spotify = "5JUZyXs8GAWFrDz3cGn3H9"
+tracks = [
+  { n = 1, title = "Laredo", mbid = "ca8da1e4-32b8-4051-8e0d-e23489f0d142" },
+]
+
+[[release]]
+mbid = "a59f43cd-5628-41e3-9899-99e700488389"
+title = "Infinite Arms"
+type = "album"
+date = "2010-05-14"
+spotify = "08fkw9uDP2KET6cPIl74Xo"
+tracks = [
+  { n = 1, title = "Factory", mbid = "3efbe3e3-9ce8-470f-b64a-1b0f42fc063e" },
+  { n = 2, title = "Compliments", mbid = "1582e605-b1a3-471f-b641-932eba92140b" },
+  { n = 3, title = "Laredo", mbid = "ca8da1e4-32b8-4051-8e0d-e23489f0d142" },
+  { n = 4, title = "Blue Beard", mbid = "7b40016d-209e-4cec-8a68-12053c6cab58" },
+  { n = 5, title = "On My Way Back Home", mbid = "79cccdc8-1568-42ad-8ec0-9398e23bba2e" },
+  { n = 6, title = "Infinite Arms", mbid = "de4f0923-a422-49a3-a113-6b3ad6fefb2e" },
+  { n = 7, title = "Dilly", mbid = "b6a23f72-6001-46fe-8aa7-4968dd30428c" },
+  { n = 8, title = "Evening Kitchen", mbid = "5bc3c501-988c-4792-824c-742793454a28" },
+  { n = 9, title = "Older", mbid = "4eca23d3-f08c-405f-91c9-25c81a8e8c04" },
+  { n = 10, title = "For Annabelle", mbid = "414b27ae-301b-4fbd-a932-a06262964a71" },
+  { n = 11, title = "NW Apt.", mbid = "74ed42ce-6737-41fd-95b7-d5c5d0e864d9" },
+  { n = 12, title = "Neighbor", mbid = "3091f0e0-76ff-4ac3-81a4-6f56de1af22f" },
+]
+
+[[release]]
+mbid = "0144bf51-3e97-4134-81ea-40fabb6a771c"
+title = "Factory"
+type = "single"
+date = "2010-09-10"
+spotify = "43xaJMXy1PzoSWwHhFLM32"
+tracks = [
+  { n = 1, title = "Factory", mbid = "3efbe3e3-9ce8-470f-b64a-1b0f42fc063e" },
+]
+
+[[release]]
+mbid = "a0e3763d-eedc-4051-82c3-1c7fcafb86dc"
+title = "Georgia / No One’s Gonna Love You"
+type = "single"
+date = "2011"
+tracks = [
+  { n = 1, title = "Georgia", mbid = "df502a9d-a425-4850-8b6f-b9e7fefe5821" },
+  { n = 2, title = "No One’s Gonna Love You", mbid = "9fa82b76-4fb4-4784-875c-21d42c58f86a" },
+]
+
+[[release]]
+mbid = "0b3bb31d-ebd0-4a52-b12a-1054698a290a"
+title = "Knock Knock"
+type = "single"
+date = "2012-07-10"
+spotify = "5q3eItGMqcjNvLzjF8oF1n"
+tracks = [
+  { n = 1, title = "Knock Knock", mbid = "1896a7ed-b793-48cb-a440-0895bb095590" },
+]
+
+[[release]]
+mbid = "a23e8553-bfdd-42e7-aa7d-0a4fae1da5ea"
+title = "Mirage Rock"
+type = "album"
+date = "2012-09-14"
+spotify = "5XGwgWYQQK8tHwoNuLMCP9"
+tracks = [
+  { n = 1, title = "Knock Knock", mbid = "1896a7ed-b793-48cb-a440-0895bb095590" },
+  { n = 2, title = "How to Live", mbid = "287fba8e-6397-4d9a-871b-064b2cca8099" },
+  { n = 3, title = "Slow Cruel Hands of Time", mbid = "e9223978-4b71-43bf-8696-8f2980d087f4" },
+  { n = 4, title = "A Little Biblical", mbid = "dcf29dec-c6a5-4043-81f4-7eb9b860a130" },
+  { n = 5, title = "Shut-In Tourist", mbid = "f2d2b6de-4680-4622-a031-c343483810cd" },
+  { n = 6, title = "Dumpster World", mbid = "a1068510-0174-48bf-a940-8937bf962eec" },
+  { n = 7, title = "Electric Music", mbid = "68b3c4e0-220e-472b-97e2-f81a52dd0bea" },
+  { n = 8, title = "Everything’s Gonna Be Undone", mbid = "03dcf99e-6d62-458d-8124-c011f9b9fed5" },
+  { n = 9, title = "Feud", mbid = "2608efd5-c029-4b86-a834-e7b89cd89234" },
+  { n = 10, title = "Long Vows", mbid = "6a276dd9-17d0-4f5e-8581-061a2b0b2988" },
+  { n = 11, title = "Heartbreak on the 101", mbid = "77215446-b201-4b89-816a-9698516565ad" },
+  { n = 12, title = "Ego Nightmare", mbid = "7ed5a690-7e65-4ca7-8166-43988ec5c0d7" },
+]
+
+[[release]]
+mbid = "a4db0ffb-8561-4e98-a733-d18d2ef8e937"
+title = "Hang an Ornament"
+type = "single"
+date = "2014-12-17"
+spotify = "4TtWACdEWAxpTHMciEQ2nX"
+tracks = [
+  { n = 1, title = "Hang an Ornament", mbid = "8f131cea-f2bd-4cc5-8223-1238c9d93e4f" },
+]
+
+[[release]]
+mbid = "065a1fc1-900e-441e-8908-3e0e9eddcb2b"
+title = "Casual Party"
+type = "single"
+date = "2016-04-25"
+spotify = "2vlFcUmXjaQ2wOaGcVNDSR"
+tracks = [
+  { n = 1, title = "Casual Party", mbid = "b32be077-156c-4ff0-8c3b-45258adafbdb" },
+]
+
+[[release]]
+mbid = "fe84ce7b-bae2-46cb-9fe0-851ae674b861"
+title = "Solemn Oath"
+type = "single"
+date = "2016-05-27"
+spotify = "65F4MYzYqVKre6uyJprwji"
+tracks = [
+  { n = 1, title = "solemn oath", mbid = "03c6eaa7-076e-486f-988b-70b96b946c58" },
+]
+
+[[release]]
+mbid = "325f19b6-9495-427c-8962-893b5c6e427c"
+title = "Why Are You OK"
+type = "album"
+date = "2016-06-10"
+spotify = "4xBayAng8qIv3227mj3xjN"
+tracks = [
+  { n = 1, title = "Dull Times / The Moon", mbid = "9b5cdcf5-866e-41c2-9bb8-9aa7d5ab4f36" },
+  { n = 2, title = "Solemn Oath", mbid = "03c6eaa7-076e-486f-988b-70b96b946c58" },
+  { n = 3, title = "Hag", mbid = "544aa35c-a6c1-45b0-92a9-5d655892dabc" },
+  { n = 4, title = "Casual Party", mbid = "b32be077-156c-4ff0-8c3b-45258adafbdb" },
+  { n = 5, title = "In a Drawer", mbid = "0d80e1eb-d485-4e4e-bd31-89f3bb6c10df" },
+  { n = 6, title = "Hold on Gimme a Sec", mbid = "9d46d848-cab6-4e05-92df-ffb5656cdce9" },
+  { n = 7, title = "Lying Under Oak", mbid = "bba0f432-f435-44ca-ad06-a02bb18c9851" },
+  { n = 8, title = "Throw My Mess", mbid = "e10d71af-b0fa-4f8c-b6a6-782154c1e4b1" },
+  { n = 9, title = "Whatever, Wherever", mbid = "606d8ade-a168-4467-b8cc-4fe3eb49bced" },
+  { n = 10, title = "Country Teen", mbid = "28842eb9-4c01-4c55-85a2-658042a72245" },
+  { n = 11, title = "Barrel House", mbid = "dab18712-9a1b-4001-a1be-9704b783d813" },
+  { n = 12, title = "Even Still", mbid = "a0e1df21-b4df-4380-a7e4-26a7ae18777f" },
+]
+
+[[release]]
+mbid = "c9942e47-6194-4e89-83b3-ce0dd88b1cb2"
+title = "Into My Arms"
+type = "single"
+date = "2018-04-06"
+spotify = "2TcUXol1xti07nGrjoxyUG"
+tracks = [
+  { n = 1, title = "Into My Arms", mbid = "d2b659c1-a214-4faf-a822-caa658deeba2" },
+]
+
+[[release]]
+mbid = "5ddc03ca-7d7b-4150-b5b1-9cbdff0d3fd8"
+title = "Nadie Te Va A Amar Como Yo"
+type = "single"
+date = "2018-04-13"
+spotify = "1If8METpGIzxbfJqyjYzNf"
+tracks = [
+  { n = 1, title = "Nadie Te Va A Amar Como Yo", mbid = "24b45fd2-d849-4b35-9d5d-3bc70a6fb200" },
+]
+
+[[release]]
+mbid = "37236fba-6f65-420a-8956-7ff498241788"
+title = "Crutch"
+type = "single"
+date = "2021-10-12"
+spotify = "1rNP32XZdvbJAAhJ20gxdi"
+tracks = [
+  { n = 1, title = "Crutch", mbid = "6c5af17c-aeab-4568-9fb3-ff3c9e470ce1" },
+]
+
+[[release]]
+mbid = "5c72dd91-dcac-439c-8646-17fa13f93229"
+title = "In Need of Repair"
+type = "single"
+date = "2021-11-30"
+spotify = "61vxXUEGkH0Gxz0pFszyny"
+tracks = [
+  { n = 1, title = "In Need of Repair", mbid = "43c8b75b-1b03-4bb9-8cd3-c27fdfdfe002" },
+  { n = 2, title = "Crutch", mbid = "6c5af17c-aeab-4568-9fb3-ff3c9e470ce1" },
+]
+
+[[release]]
+mbid = "3a07fe5c-91ee-4a81-817b-47fa6048306e"
+title = "Lights"
+type = "ep"
+date = "2022-01-19"
+spotify = "4YAEoI4maA0o23Wi1PXhIS"
+tracks = [
+  { n = 1, title = "Lights", mbid = "56be6467-d37b-4613-afe3-3361d0084e40" },
+]
+
+[[release]]
+mbid = "10d53273-c82e-4943-bdc3-8a34d6f4ac46"
+title = "Things Are Great"
+type = "album"
+date = "2022-03-04"
+spotify = "6oDxFhDxCrSxiPgy6Xlact"
+tracks = [
+  { n = 1, title = "Warning Signs", mbid = "00481551-1c0f-4c41-9c89-2e5bfbbcfd71" },
+  { n = 2, title = "Crutch", mbid = "6c5af17c-aeab-4568-9fb3-ff3c9e470ce1" },
+  { n = 3, title = "Tragedy of the Commons", mbid = "2d1adae6-daed-4190-9ad3-1100ee75c09b" },
+  { n = 4, title = "In the Hard Times", mbid = "ebc1021b-53cf-4b5a-819d-6146a39d473f" },
+  { n = 5, title = "In Need of Repair", mbid = "43c8b75b-1b03-4bb9-8cd3-c27fdfdfe002" },
+  { n = 6, title = "Aftermath", mbid = "3cd59860-502c-40a7-b324-5e293e5a491f" },
+  { n = 7, title = "Lights", mbid = "56be6467-d37b-4613-afe3-3361d0084e40" },
+  { n = 8, title = "Ice Night We’re Having", mbid = "0660cde6-9e11-4871-8280-a165e5d74fc5" },
+  { n = 9, title = "You Are Nice to Me", mbid = "d5a2123a-779e-4346-82d7-32950a01736c" },
+  { n = 10, title = "Coalinga", mbid = "760b2f11-ec51-4784-a00b-a49dafe4295e" },
+]
+
+[[release]]
+mbid = "ff8403bf-6702-432e-8106-586ce586768f"
+title = "(Biding Time Is a) Boat to Row"
+type = "single"
+date = "2026-01-12"
+spotify = "6nLiS2fUe7wGUQuNPGLxiY"
+tracks = [
+  { n = 1, title = "(Biding Time Is a) Boat to Row", mbid = "0c2c7acc-5153-4ed5-aba1-687bf1deed27" },
+]

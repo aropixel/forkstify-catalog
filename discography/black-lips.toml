@@ -1,0 +1,616 @@
+format = 1
+
+[[release]]
+mbid = "b7852962-24c5-4d8f-9198-c8fda6cbc53e"
+title = "Ain't Comin Back"
+type = "ep"
+date = "2002"
+tracks = [
+  { n = 1, title = "Ain't Comin Back", mbid = "60d80148-f6dc-4d55-8a38-c4e30e545843" },
+  { n = 2, title = "Stone Cold", mbid = "668e8b5f-40ff-4994-8e91-3c3150a9f13f" },
+  { n = 3, title = "Can’t Get Me Down", mbid = "68dc5b68-e216-4e6f-9c93-6e59e59fcdcb" },
+  { n = 4, title = "B-52 Bomber Boy", mbid = "08b108fe-4ec4-46d9-b0d8-1ccf21c207ea" },
+]
+
+[[release]]
+mbid = "08d2beb2-065a-4eff-8729-f52eb6aace04"
+title = "Freakout"
+type = "ep"
+date = "2002"
+tracks = [
+  { n = 1, title = "Freak Out", mbid = "95e5126c-fd8b-4c05-9d4b-4876adc1addd" },
+  { n = 2, title = "Sweet Kin", mbid = "84a278fb-b72d-4aba-91b8-7f786685e0d1" },
+  { n = 3, title = "Steps", mbid = "f8d34156-272c-47b3-83ce-d304c8e9b72c" },
+  { n = 4, title = "Fad", mbid = "859c3b5e-1bb8-4360-b240-17fc1be3f005" },
+  { n = 5, title = "I’ve Got a Knife", mbid = "3f735c93-99d4-49c9-b8cd-ae7b2e52c8a6" },
+]
+
+[[release]]
+mbid = "497fcd40-8c49-4710-939f-4e46ea116094"
+title = "Ain't Coming Back / Juvenile"
+type = "ep"
+date = "2003"
+tracks = [
+  { n = 1, title = "Ain't Comin Back", mbid = "60d80148-f6dc-4d55-8a38-c4e30e545843" },
+  { n = 2, title = "Juvenile", mbid = "47daa3b6-6dc5-488d-a4bc-b4e42878fd91" },
+  { n = 3, title = "B-52 Bomber Boy", mbid = "08b108fe-4ec4-46d9-b0d8-1ccf21c207ea" },
+  { n = 4, title = "Stone Cold", mbid = "668e8b5f-40ff-4994-8e91-3c3150a9f13f" },
+]
+
+[[release]]
+mbid = "fac8ea81-d2d3-3e28-810f-6a965e59281a"
+title = "Black Lips!"
+type = "album"
+date = "2003-03-18"
+tracks = [
+  { n = 1, title = "Throw It Away", mbid = "dd97c0b1-025c-4829-8c12-0b9eb446cdb5" },
+  { n = 2, title = "Freak Out", mbid = "95e5126c-fd8b-4c05-9d4b-4876adc1addd" },
+  { n = 3, title = "Ain’t No Deal", mbid = "b223ac43-5dea-46d9-8e85-2e3b36b5b23e" },
+  { n = 4, title = "Stone Cold", mbid = "668e8b5f-40ff-4994-8e91-3c3150a9f13f" },
+  { n = 5, title = "I’ve Got a Knife", mbid = "3f735c93-99d4-49c9-b8cd-ae7b2e52c8a6" },
+  { n = 6, title = "Down and Out", mbid = "81569fc6-01a4-4173-a096-9463452daf8f" },
+  { n = 7, title = "Steps", mbid = "f8d34156-272c-47b3-83ce-d304c8e9b72c" },
+  { n = 8, title = "Fad", mbid = "859c3b5e-1bb8-4360-b240-17fc1be3f005" },
+  { n = 9, title = "Sweet Kin", mbid = "84a278fb-b72d-4aba-91b8-7f786685e0d1" },
+  { n = 10, title = "Crazy Girl", mbid = "e44876b1-163d-4358-b6c3-ad7a8cc9a491" },
+  { n = 11, title = "Everybody Loves a Cocksucker", mbid = "4d8c4b88-6dbe-4447-88b3-fe85026b36a0" },
+  { n = 12, title = "Can’t Get Me Down", mbid = "68dc5b68-e216-4e6f-9c93-6e59e59fcdcb" },
+  { n = 13, title = "You’re Dumb", mbid = "c1dfdd6a-d2b7-4fd8-918a-f47ae737f020" },
+  { n = 14, title = "[untitled]", mbid = "5723df23-a929-4c2c-b46d-c386a5e012c9" },
+]
+
+[[release]]
+mbid = "98c1a0cb-314a-31e9-ae85-57fab9a92dde"
+title = "We Did Not Know the Forest Spirit Made the Flowers Grow"
+type = "album"
+date = "2004"
+tracks = [
+  { n = 1, title = "M.I.A.", mbid = "c591d185-eae8-4e09-b951-ab0557cbe9fe" },
+  { n = 2, title = "Time of the Scab", mbid = "6b4e53a0-f02e-4b20-9b3c-b9e7760bf9d5" },
+  { n = 3, title = "Dawn of the Age of Tomorrow", mbid = "5f3b7299-310a-4ebc-8d07-8878eacd9ad1" },
+  { n = 4, title = "Nothing at All", mbid = "8831eba0-7b53-4e0f-ba1a-4ab6eb932ffe" },
+  { n = 5, title = "100 New Faces", mbid = "246708d3-0a97-4224-bb96-751fe8bc282a" },
+  { n = 6, title = "Stranger", mbid = "6e7adecb-497d-4c4d-a17b-9bde7d9f31b9" },
+  { n = 7, title = "Juvenile", mbid = "a73aa61e-2e5d-4779-9a20-fe8409a1d152" },
+  { n = 8, title = "Notown Blues", mbid = "59b88e4b-2cc7-4d57-bc99-e692cea3d673" },
+  { n = 9, title = "Ghetto Cross", mbid = "c3678844-4c9c-48f9-bb84-0c2aa9de4d5f" },
+  { n = 10, title = "Jumpin Around", mbid = "725aee2c-e28f-404d-a5de-518d164fd35f" },
+  { n = 11, title = "Super X-13", mbid = "b7d52c47-3661-412b-a679-5d09446e24c3" },
+]
+
+[[release]]
+mbid = "afba7e90-7f4b-4efa-9101-715d9c5c59ce"
+title = "Born to Be a Man"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "Born to Be a Man", mbid = "09d981af-8dde-4b4e-b025-f30fe256ed5c" },
+  { n = 2, title = "Hippys", mbid = "310e7748-540d-4b9f-94f2-f15870407332" },
+]
+
+[[release]]
+mbid = "fd195d8b-cdd1-4706-9d7c-e69119c4eda0"
+title = "Does She Want"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "Does She Want", mbid = "7c2d8ac6-4eba-4b2a-b848-c266ee9a3e8c" },
+  { n = 2, title = "Stoned", mbid = "2c7d629c-7a7c-4c0b-94a4-72b3eb49e79a" },
+]
+
+[[release]]
+mbid = "cdba103a-bc94-4464-90e1-1a317cbe41d8"
+title = "In & Out"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "In & Out", mbid = "422df648-a99d-42b9-899f-ca170594761d" },
+  { n = 2, title = "Stuck in My Mind", mbid = "ef408bd4-e06f-4b82-8f2b-bf19ef4d7fb8" },
+]
+
+[[release]]
+mbid = "41cb282f-fcb0-32f5-855c-bad92203f85f"
+title = "Let It Bloom"
+type = "album"
+date = "2005-11-22"
+tracks = [
+  { n = 1, title = "Sea of Blasphemy", mbid = "ecc9ef77-d0d5-459d-8d8f-4f2e9632909c" },
+  { n = 2, title = "Can't Dance", mbid = "6bfafb76-4a66-43f9-b326-459e86d2f190" },
+  { n = 3, title = "Boomerang", mbid = "747fa546-1991-4fd6-9cd0-1d095121ac38" },
+  { n = 4, title = "Hippie, Hippie, Hoorah", mbid = "2210d274-6b76-4f89-9f65-bec850d43757" },
+  { n = 5, title = "Not a Problem", mbid = "9714bac3-3c7f-456a-abe6-d48c8c28b3f7" },
+  { n = 6, title = "Gung Ho", mbid = "571fd94b-1773-4b25-8ade-01dc4e6af9d1" },
+  { n = 7, title = "Everybody's Doin' It", mbid = "ae4440eb-e9ec-4683-90a1-7d0f663e5031" },
+  { n = 8, title = "Feeling Gay", mbid = "0a0d74e7-5fca-42c3-9a19-bef63a20e818" },
+  { n = 9, title = "Take Me Home (Back to Boone)", mbid = "a99fef1d-e46a-4e52-8084-9858271edb9f" },
+  { n = 10, title = "Gentle Violence", mbid = "80ab0669-9995-4c9b-9f30-05b0e05d617f" },
+  { n = 11, title = "She's Gone", mbid = "70b8a3b3-5bfb-4f28-99b8-f61db51376b2" },
+  { n = 12, title = "Fairy Stories", mbid = "dc8906ff-0f5f-420a-bb07-c58ce68e4ea0" },
+  { n = 13, title = "Dirty Hands", mbid = "535073f9-caf2-4de8-805b-48a57bf01ff0" },
+  { n = 14, title = "Workin'", mbid = "f9a52c12-b75e-4e80-acc5-034137ba770d" },
+  { n = 15, title = "Punk Slime", mbid = "0a57c051-8e04-43a7-8f95-96c61c8c3f66" },
+  { n = 16, title = "Emphassant", mbid = "73603717-d9a4-4ec5-845f-257df18f068b" },
+]
+
+[[release]]
+mbid = "934dfc0f-4d36-4549-b4ff-73d7432fc350"
+title = "Black Stereo/Dirt Mono"
+type = "single"
+date = "2006"
+tracks = [
+  { n = 1, title = "Make It", mbid = "189067d1-85c7-40a2-a8bf-2467579d2e95" },
+  { n = 2, title = "Missionary Man", mbid = "e591ce16-32ea-49dc-ba02-39b4fe0a94ea" },
+]
+
+[[release]]
+mbid = "1305a6ac-9f05-46f3-a4e6-80655c846cfa"
+title = "Merry Christmas"
+type = "single"
+date = "2007"
+tracks = [
+  { n = 1, title = "Christmas in Baghdad", mbid = "cdc5561d-6040-4dff-80b8-e43306c870f9" },
+  { n = 2, title = "Plump Righteous", mbid = "b9bf45cf-c24e-4d67-b65c-3ae0fa6e2b06" },
+]
+
+[[release]]
+mbid = "595e90dd-503d-4e40-a5bc-69a8386c68f6"
+title = "Cold Hands"
+type = "single"
+date = "2007-06-04"
+tracks = [
+  { n = 1, title = "Cold Hands", mbid = "f912e7e0-f9db-4365-a1a5-f99e8dac2afb" },
+  { n = 2, title = "My Struggle", mbid = "c460d4a5-0442-43eb-bd82-4818db84d2c1" },
+]
+
+[[release]]
+mbid = "99e7ac31-959a-4d3f-9bc5-fe8d8e1e1cd3"
+title = "Wild Man / No Favors Policy"
+type = "single"
+date = "2007-06-19"
+tracks = [
+  { n = 1, title = "Wild Man", mbid = "d8fa7d1e-37b8-4664-962b-6df37ac23f47" },
+]
+
+[[release]]
+mbid = "ba959752-d539-3dbc-97ef-b6041a28f765"
+title = "Good Bad Not Evil"
+type = "album"
+date = "2007-09-01"
+spotify = "6sDyIpIg0vjpKOR9VrvagJ"
+tracks = [
+  { n = 1, title = "I Saw a Ghost (Lean)", mbid = "23aedaf7-1345-4d85-8ada-724692d67290" },
+  { n = 2, title = "O Katrina!", mbid = "be03d7b6-a4b5-4ea6-92a7-9c045085785d" },
+  { n = 3, title = "Veni Vidi Vici", mbid = "078d046b-eff8-46c5-a8d2-0eef49cf931a" },
+  { n = 4, title = "It Feels Alright", mbid = "4313f3ea-c189-4a5d-ac16-a317c1428057" },
+  { n = 5, title = "Navajo", mbid = "848b213d-f956-47b8-830c-52b0ef5e6513" },
+  { n = 6, title = "Lock and Key", mbid = "95fa64d6-6116-4307-a92d-23fc08aa4891" },
+  { n = 7, title = "How Do You Tell a Child That Someone Has Died?", mbid = "199015ab-bc69-4017-9e7d-9712892e2996" },
+  { n = 8, title = "Bad Kids", mbid = "e22637c8-893b-4d53-8139-89285dc2115d" },
+  { n = 9, title = "Step Right Up", mbid = "16a0b92d-794c-4a6e-9565-79f0f6783980" },
+  { n = 10, title = "Cold Hands", mbid = "f912e7e0-f9db-4365-a1a5-f99e8dac2afb" },
+  { n = 11, title = "Off the Block", mbid = "d5b603ab-9341-4553-a8b7-c6458d35e31c" },
+  { n = 12, title = "Slime & Oxygen", mbid = "e21230d3-96af-4c6f-9bfd-e73fe219ad87" },
+  { n = 13, title = "Transcendental Light", mbid = "bb467dca-fd2f-4c6a-9340-61186967a77d" },
+]
+
+[[release]]
+mbid = "18c10d60-015b-4fef-9de4-df0619005014"
+title = "Katrina"
+type = "single"
+date = "2007-09-03"
+tracks = [
+  { n = 1, title = "Katrina", mbid = "3654df17-e1f2-49a0-95e7-c81d3af5adda" },
+  { n = 2, title = "Italian Sexual Frustration", mbid = "25dba2b2-d98b-44d6-93f8-3843b259e7a8" },
+]
+
+[[release]]
+mbid = "e6970b06-6c17-4898-945e-987de50f6fd0"
+title = "O Katrina!"
+type = "single"
+date = "2007-09-03"
+spotify = "6k9pdf96JsW3sH5x3v72RS"
+tracks = [
+  { n = 1, title = "O Katrina!", mbid = "be03d7b6-a4b5-4ea6-92a7-9c045085785d" },
+  { n = 2, title = "Boomerang", mbid = "747fa546-1991-4fd6-9cd0-1d095121ac38" },
+]
+
+[[release]]
+mbid = "2550b36a-e2c0-4ea2-a472-67404fe6c456"
+title = "Veni Vidi Vici"
+type = "single"
+date = "2007-12-07"
+tracks = [
+  { n = 1, title = "Veni Vidi Vici", mbid = "078d046b-eff8-46c5-a8d2-0eef49cf931a" },
+  { n = 2, title = "Veni Vidi Vici (Diplo remix)", mbid = "faf040ef-bd26-460c-a25c-521b589bc377" },
+]
+
+[[release]]
+mbid = "cfc76956-aeee-4d96-a236-3dc47233a341"
+title = "Bad Kids / Leroy Faster"
+type = "single"
+date = "2008-05-09"
+spotify = "1FnyD8C9WihrKhOjUFxypC"
+tracks = [
+  { n = 1, title = "Bad Kids", mbid = "e22637c8-893b-4d53-8139-89285dc2115d" },
+  { n = 2, title = "Leroy Faster", mbid = "e21d935a-9007-4e67-b405-c18dcc76f2a7" },
+]
+
+[[release]]
+mbid = "20cafae8-72cf-49de-8296-f8e57fb59d20"
+title = "Fairy Stories"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Fairy Stories", mbid = "dc8906ff-0f5f-420a-bb07-c58ce68e4ea0" },
+  { n = 2, title = "Can't Dance", mbid = "6bfafb76-4a66-43f9-b326-459e86d2f190" },
+]
+
+[[release]]
+mbid = "1d2d906f-8ab3-3fb8-a4be-4eac6d255f68"
+title = "200 Million Thousand"
+type = "album"
+date = "2009-02-24"
+spotify = "1Nl9D4EsSmV6lTEWBczD4K"
+tracks = [
+  { n = 1, title = "Take My Heart", mbid = "60a8c41f-8132-4b9b-b4b3-e508fa1831f0" },
+  { n = 2, title = "Drugs", mbid = "3d876a46-273c-47af-b6ab-ba3891367d36" },
+  { n = 3, title = "Starting Over", mbid = "26b09f1e-7d77-4920-8099-5dc012e3512c" },
+  { n = 4, title = "Let It Grow", mbid = "e861bb4d-6a08-40ef-bad1-dd13bded9336" },
+  { n = 5, title = "Trapped in a Basement", mbid = "5778b5e8-aa1a-4868-9b6f-b27a822444f4" },
+  { n = 6, title = "Short Fuse", mbid = "7a15b7ae-e8dc-4ae2-972d-980b2ddd6525" },
+  { n = 7, title = "I'll Be With You", mbid = "8e35d26c-2a95-40f5-8822-cd56f32dedd0" },
+  { n = 8, title = "Big Black Baby Jesus of Today", mbid = "38aad358-e9d0-45a8-8388-d5a77284df91" },
+  { n = 9, title = "Again & Again", mbid = "02cf5a9c-f9b3-4c5a-bcb5-359ab88570dd" },
+  { n = 10, title = "Old Man", mbid = "e02aaf66-c449-4e79-89ea-f095c9974e51" },
+  { n = 11, title = "The Drop I Hold", mbid = "33914e3c-44f4-402a-bdab-5602f16771fb" },
+  { n = 12, title = "Body Combat", mbid = "a036e279-afe7-48a6-b97e-ebe421a0480b" },
+  { n = 13, title = "Elijah", mbid = "e1d22479-5dc5-423b-ac75-4bd3a5900951" },
+  { n = 14, title = "I Saw God", mbid = "844eacf5-1f75-4bab-97fd-2b45b4895e50" },
+  { n = 15, title = "Meltdown", mbid = "0316eaf0-effe-4e4a-b648-aa76b618e421" },
+]
+
+[[release]]
+mbid = "ee8bc548-cde7-4ed2-8ddc-9ac82a9ef3fe"
+title = "Short Fuse"
+type = "single"
+date = "2009-03-09"
+tracks = [
+  { n = 1, title = "Short Fuse", mbid = "850e07a8-b1ac-4c0c-b6ae-9b9d67c32f84" },
+  { n = 2, title = "Born to Be a Man", mbid = "09d981af-8dde-4b4e-b025-f30fe256ed5c" },
+]
+
+[[release]]
+mbid = "ad3bb9b6-1bed-35da-86c7-64bfa7ba346b"
+title = "Disconnection / 99 Victs"
+type = "single"
+date = "2009-04-01"
+tracks = [
+  { n = 1, title = "Disconnection", mbid = "b41a1260-0cd3-4be9-ac78-09c428323f1f" },
+  { n = 2, title = "99 Victs", mbid = "83449514-0618-4035-835b-5d78d8cfd293" },
+]
+
+[[release]]
+mbid = "c6e4cebb-72a7-432a-ae98-ac6c6c08d43d"
+title = "Drop I Hold"
+type = "ep"
+date = "2009-05-05"
+tracks = [
+  { n = 1, title = "Drop I Hold", mbid = "6b091ca9-0c60-49b5-a223-1b5e65eda6c6" },
+  { n = 2, title = "Drop I Hold", mbid = "abf4eec7-3d2b-45b1-9bf4-0f1c5cd6fa94" },
+  { n = 3, title = "Drop I Hold (instrumental)", mbid = "b691a790-0a42-43ec-a34f-32ad13787cb9" },
+]
+
+[[release]]
+mbid = "13708b21-4a4e-4117-952d-c96bde3776c0"
+title = "I'll Be With You"
+type = "single"
+date = "2009-05-18"
+tracks = [
+  { n = 1, title = "I'll Be With You", mbid = "8e35d26c-2a95-40f5-8822-cd56f32dedd0" },
+  { n = 2, title = "You Know", mbid = "ef41a542-2974-471e-b1b2-6b661ff735ed" },
+]
+
+[[release]]
+mbid = "2d8fcb7e-00bd-4091-a97d-69271046b80e"
+title = "Drugs / I'll Be With You"
+type = "single"
+date = "2009-08-29"
+tracks = [
+  { n = 1, title = "Drugs", mbid = "3d876a46-273c-47af-b6ab-ba3891367d36" },
+  { n = 2, title = "I'll Be With You", mbid = "50fcedf5-46a6-4339-b308-6fe4e574a770" },
+]
+
+[[release]]
+mbid = "9a496969-cc0a-44de-9d46-82d8a20b5098"
+title = "Best Napkin I Ever Had / The Doorway"
+type = "single"
+date = "2010"
+tracks = [
+  { n = 1, title = "Best Napkin I Ever Had", mbid = "ed7abbad-d561-4a07-942f-edd10d5841b5" },
+  { n = 2, title = "The Doorway", mbid = "54450e56-7c55-4bc3-904f-4fbc64c86529" },
+]
+
+[[release]]
+mbid = "3fa64e47-ade8-4d91-a11d-318234238a86"
+title = "Black Lips / K-Holes"
+type = "ep"
+date = "2010"
+tracks = [
+  { n = 1, title = "Robitussin", mbid = "698867f5-9bab-423f-bcef-da97156e05dc" },
+  { n = 2, title = "Make It", mbid = "301c1a7b-e11e-4e5a-9815-6459ea246bd6" },
+  { n = 3, title = "The Ballad of Ray Marsh", mbid = "07eb8994-e9c4-4b73-88b2-c21d7025d3fe" },
+  { n = 4, title = "She Don't Love", mbid = "324171b4-161f-45c7-ba8b-bf31712f4750" },
+  { n = 5, title = "She's Not White", mbid = "f23cb58b-07b3-4127-8390-fac8d218a088" },
+  { n = 6, title = "K-Holes Theme", mbid = "4c179849-4adf-463f-9a42-f111c8dd6cf8" },
+  { n = 7, title = "Step + Fetch It", mbid = "788faf6f-6cb5-461b-a23e-3e41e3ab3a42" },
+  { n = 8, title = "Short Zippers", mbid = "1f101aa3-f7a9-4459-8ab2-a6afcc634621" },
+  { n = 9, title = "Native Tongues", mbid = "42a8cd44-c745-470c-b46f-69e1f24204d9" },
+  { n = 10, title = "Pigeon", mbid = "7e2f43e9-d19e-41b3-84b3-c8a92718b5fc" },
+]
+
+[[release]]
+mbid = "427e5091-8925-4d47-85c7-58b7c29e1839"
+title = "Before You Judge Me"
+type = "single"
+date = "2010-10-15"
+tracks = [
+  { n = 1, title = "Before You Judge Me", mbid = "b2cf3e89-32bb-40be-93fb-f883c0b87820" },
+]
+
+[[release]]
+mbid = "41ddb538-9daa-45bc-a790-5b47040d9ef7"
+title = "Arabia Mountain"
+type = "album"
+date = "2011-06-06"
+tracks = [
+  { n = 1, title = "Family Tree", mbid = "28b3e988-c508-48ea-972c-c0e0e0591bf2" },
+  { n = 2, title = "Modern Art", mbid = "60e50fab-719c-4178-b12f-9c63da99f8c6" },
+  { n = 3, title = "Spidey’s Curse", mbid = "67b17aec-39fc-47f2-ad6b-068c61b5f111" },
+  { n = 4, title = "Mad Dog", mbid = "f053e3bc-0148-4539-8baa-525796983240" },
+  { n = 5, title = "Mr. Driver", mbid = "1153daeb-19e1-4f66-849c-796ab90050d7" },
+  { n = 6, title = "Bicentennial Man", mbid = "3a14b32c-aac1-43e3-ba6d-2c42c39955a4" },
+  { n = 7, title = "Go Out and Get It", mbid = "2649ef35-0234-442f-be10-bb7eb98b9210" },
+  { n = 8, title = "Raw Meat", mbid = "b3713e87-e07d-4bc9-b9de-3d40bb269698" },
+  { n = 9, title = "Bone Marrow", mbid = "d198bcc1-83b7-47b6-a589-e79fa0918af1" },
+  { n = 10, title = "The Lie", mbid = "e2080804-8d51-41ac-b14d-af439f0165dd" },
+  { n = 11, title = "Time", mbid = "6c215a29-af0a-4eaf-8dfb-7459aeec30e1" },
+  { n = 12, title = "Dumpster Dive", mbid = "247e8625-0a1f-4c38-a0c4-08bd138397f8" },
+  { n = 13, title = "New Direction", mbid = "fa692551-3d80-4566-8294-d7578162fa2f" },
+  { n = 14, title = "Noc‐A‐Homa", mbid = "ae45153a-c590-400a-935e-5b21fc4b67b2" },
+  { n = 15, title = "Don’t Mess My Baby", mbid = "47097c9a-adbb-4bcd-a5d6-f73ae15463ea" },
+  { n = 16, title = "You Keep on Running", mbid = "5afec806-dea4-4d2a-a3e0-1c619e026066" },
+]
+
+[[release]]
+mbid = "6d0d5f61-a406-4865-90c0-be19fa39c4b0"
+title = "Sick of You"
+type = "single"
+date = "2012-04-10"
+tracks = [
+  { n = 1, title = "Sick of You", mbid = "2e347fac-ec14-4384-bbcc-63403d0d4455" },
+  { n = 2, title = "Dance With You", mbid = "7f4f2a64-c036-42a3-ba72-b47a13d00079" },
+]
+
+[[release]]
+mbid = "306ecda2-4e87-42cd-af5c-271227abbd71"
+title = "Cowboy Knights"
+type = "single"
+date = "2013-04-20"
+tracks = [
+  { n = 1, title = "Mamas Don't Let Your Babies Grow Up to Be Cowboys", mbid = "a91e867d-e71c-4ba0-b0bf-9d466dd2cf19" },
+  { n = 2, title = "Arabian Knights", mbid = "77f45729-d391-4a71-9e7e-cbed30d1f88e" },
+]
+
+[[release]]
+mbid = "983e7dc6-3ee4-4ba9-8bd8-a51f7ede37c0"
+title = "Boys in the Wood"
+type = "single"
+date = "2014-01-21"
+spotify = "3NdftEsBgEvlj54v1UQqvf"
+tracks = [
+  { n = 1, title = "Boys in the Wood", mbid = "eb2b0144-e8bf-4362-99e2-30474e2c7166" },
+]
+
+[[release]]
+mbid = "2014c358-730f-4cf5-be13-14d113b37a73"
+title = "Underneath the Rainbow"
+type = "album"
+date = "2014-03-18"
+tracks = [
+  { n = 1, title = "Drive‐By Buddy", mbid = "4033a93a-0e57-4d56-b600-dae9ccf3032b" },
+  { n = 2, title = "Smiling", mbid = "7eac7475-a481-4a7e-bb72-eb9f097ae623" },
+  { n = 3, title = "Make You Mine", mbid = "e3985054-ea46-4581-b9cc-456b67550213" },
+  { n = 4, title = "Funny", mbid = "5e0035ec-2398-4ebb-b9e1-69c9bddd2ad2" },
+  { n = 5, title = "Dorner Party", mbid = "cb2bea1a-204a-4752-ab7c-1baa28a35cf3" },
+  { n = 6, title = "Justice After All", mbid = "6dcbb136-71ff-4e83-b752-c3f0bb4f2ec0" },
+  { n = 7, title = "Boys in the Wood", mbid = "eb2b0144-e8bf-4362-99e2-30474e2c7166" },
+  { n = 8, title = "Waiting", mbid = "c40a8396-873e-4ae6-b644-cab5ba423761" },
+  { n = 9, title = "Do the Vibrate", mbid = "787b2e20-5981-4509-86aa-72895d57026d" },
+  { n = 10, title = "I Don’t Wanna Go Home", mbid = "3b401c80-97d2-40a2-87f2-482d1be4281a" },
+  { n = 11, title = "Dandelion Dust", mbid = "162c8ede-369f-427d-b8fa-b1581ab964ab" },
+  { n = 12, title = "Dog Years", mbid = "c661f60e-4d79-43be-a173-8de1269ee8fb" },
+  { n = 13, title = "Nightmare Field", mbid = "464177b2-b64c-445e-84aa-e12eecfed057" },
+]
+
+[[release]]
+mbid = "1657d35b-21fb-42e5-980e-a0f9bc6935bc"
+title = "Funny"
+type = "single"
+date = "2014-04-19"
+tracks = [
+  { n = 1, title = "Funny", mbid = "5e0035ec-2398-4ebb-b9e1-69c9bddd2ad2" },
+  { n = 2, title = "Funny (alternate version)", mbid = "e407dbb3-84b2-40d0-b30e-f64a184754d8" },
+]
+
+[[release]]
+mbid = "ecc71ce9-b14e-4727-923f-da416f41587d"
+title = "Freedom Fries / Watch Your Back"
+type = "single"
+date = "2015-11-13"
+tracks = [
+  { n = 1, title = "Freedom Fries", mbid = "4bd794ea-a08d-4a57-bea7-0d23c6c76fc8" },
+  { n = 2, title = "Watch Your Back", mbid = "cdcfec9c-55f5-4384-9c6d-7e7394ecf323" },
+]
+
+[[release]]
+mbid = "7e6e2d52-30d9-4385-b1ca-0c4468ba5e42"
+title = "Deaf Dumb and Blind"
+type = "single"
+date = "2016-11-09"
+tracks = [
+  { n = 1, title = "Deaf Dumb And Blind", mbid = "47a83cfa-11cc-45bc-8ece-6665254fdaa3" },
+]
+
+[[release]]
+mbid = "73286724-e318-416f-b3db-a4fec0787d36"
+title = "Satan’s Graffiti or God’s Art?"
+type = "album"
+date = "2017-05-05"
+spotify = "02RIhDlOzPJjGzgjHD8vzU"
+tracks = [
+  { n = 1, title = "Overture: Sunday Mourning", mbid = "6a1a1753-7e3c-4507-89d0-73e636ddddee" },
+  { n = 2, title = "Occidental Front", mbid = "e29c0ce6-17e2-44e5-8be7-94053d4707ff" },
+  { n = 3, title = "Can’t Hold On", mbid = "145138d3-a2f7-4260-8541-690a240ac984" },
+  { n = 4, title = "The Last Cul de Sac", mbid = "5f9a0577-b03a-4904-a3ab-8c58b82af658" },
+  { n = 5, title = "Interlude: Got Me All Alone", mbid = "7456cd25-92c2-46a2-aad3-af1cc4c54907" },
+  { n = 6, title = "Crystal Night", mbid = "3f8a0b4d-0246-4a4f-bed0-174c9642f147" },
+  { n = 7, title = "Squatting in Heaven", mbid = "faa58013-6d0e-483f-8ea3-ba855316c230" },
+  { n = 8, title = "Interlude: Bongo’s Baby", mbid = "e72a922e-4430-400b-b30e-40bfb4dca5e6" },
+  { n = 9, title = "Rebel Intuition", mbid = "f0f9835e-d543-4f6d-9a50-ea3b153c6bce" },
+  { n = 10, title = "Wayne", mbid = "be8b3f67-b89b-4b9a-ba65-0ea0ccfc48eb" },
+  { n = 11, title = "Interlude: E’lektric Spider Webz", mbid = "c8b587ec-6504-4abd-8d6c-fd5a1824c451" },
+  { n = 12, title = "We Know", mbid = "17f13ec1-e527-49d5-b80d-c0de8c8e619b" },
+  { n = 13, title = "In My Mind There’s a Dream", mbid = "5ca3e101-894f-4568-a298-4f84f0438dd0" },
+  { n = 14, title = "Lucid Nightmare", mbid = "8a44c9a0-4321-46f7-88c7-f5258b8140f6" },
+  { n = 15, title = "Come Ride With Me", mbid = "ed94de5f-fcd6-4318-a4b3-b2b4fae0cb66" },
+  { n = 16, title = "It Won’t Be Long", mbid = "223f0376-e4b4-488c-bb78-7f50181bf01f" },
+  { n = 17, title = "Loser’s Lament", mbid = "8c63f70a-92f0-40e9-aca1-e3f54e430dda" },
+  { n = 18, title = "Finale: Sunday Mourning", mbid = "97dd7702-a015-4b16-9d22-c637384893e7" },
+]
+
+[[release]]
+mbid = "bf3f89b9-d0f7-4017-8852-d0eaeb1d6439"
+title = "This Sick Beat!"
+type = "ep"
+date = "2017-11-24"
+tracks = [
+  { n = 1, title = "The Last Cul de Sac", mbid = "5f9a0577-b03a-4904-a3ab-8c58b82af658" },
+  { n = 2, title = "52 Drops", mbid = "03a5c85e-57e4-4565-868c-3749b8a905ec" },
+  { n = 3, title = "It Won’t Be Long", mbid = "223f0376-e4b4-488c-bb78-7f50181bf01f" },
+  { n = 4, title = "Ask for the Wolfman", mbid = "4f608896-5b1b-4054-bca8-ae1d8db0526c" },
+]
+
+[[release]]
+mbid = "d4ea593c-5aae-495e-a7c8-ed6ee52b30d7"
+title = "Play Safe"
+type = "ep"
+date = "2018-04-21"
+tracks = [
+  { n = 1, title = "Play Safe", mbid = "936ede01-eedb-44b3-ae40-f281c0225a22" },
+  { n = 2, title = "52 Drops", mbid = "3aeffd3a-95c5-4b6b-bfd9-080d9f3cd4cf" },
+  { n = 3, title = "Too Much in Love", mbid = "5ad03e21-3f74-446f-9a66-fc66bf697571" },
+  { n = 4, title = "Play Safe", mbid = "008d06e1-afdf-4608-8a87-2df18faf1cca" },
+  { n = 5, title = "52 Drops", mbid = "9abc36df-074a-4ccf-a6e2-76ea9f3154c8" },
+]
+
+[[release]]
+mbid = "c965e5ed-b77f-401d-bcbd-9dec32275534"
+title = "Odelia"
+type = "single"
+date = "2019-10-17"
+tracks = [
+  { n = 1, title = "Odelia", mbid = "58351fcc-334b-4953-8f04-1aa2d62c216e" },
+]
+
+[[release]]
+mbid = "b251f3f4-fb87-40fc-aa6f-917d5f51bff1"
+title = "Sing in a World That's Falling Apart"
+type = "album"
+date = "2020-01-24"
+tracks = [
+  { n = 1, title = "Hooker Jon", mbid = "320b1767-c793-4fb3-bb50-31e99a28d126" },
+  { n = 2, title = "Chainsaw", mbid = "cf7c9aa6-0d87-47f0-98d9-26a60aad5856" },
+  { n = 3, title = "Rumbler", mbid = "586efa39-f35a-40b5-a85d-58ed4d03777f" },
+  { n = 4, title = "Holding Me Holding You", mbid = "4e4d9bed-2c5e-4a48-bf0b-9bdc7a913c8b" },
+  { n = 5, title = "Gentleman", mbid = "37402259-8110-480d-bcda-a5b57551331e" },
+  { n = 6, title = "Get It on Time", mbid = "5061a87c-14ec-4492-83cc-25f9e900507b" },
+  { n = 7, title = "Angola Rodeo", mbid = "c6bc0b2f-09df-41e2-a5ab-e4aa89d9f4df" },
+  { n = 8, title = "Georgia", mbid = "89b5b208-2bcd-4d58-a6a3-4317757acb49" },
+  { n = 9, title = "Odelia", mbid = "8059ccfe-0505-4abb-92c3-b385c9baf8a0" },
+  { n = 10, title = "Dishonest Men", mbid = "33ace291-87f1-4a90-9454-757dbb4cf539" },
+  { n = 11, title = "Locust", mbid = "d941d9b1-b4b3-4a42-aa2e-89d9ee72613c" },
+  { n = 12, title = "Live Fast Die Slow", mbid = "beb1afcb-a0bc-4c83-9a46-8ede81f74b7e" },
+]
+
+[[release]]
+mbid = "26787390-c539-4eab-b36b-75a7db910727"
+title = "Lagniappe Sessions"
+type = "ep"
+date = "2020-03-22"
+tracks = [
+  { n = 1, title = "Alone and Forsaken", mbid = "7f8a459b-6dca-4bb4-b770-557357a2a4e1" },
+  { n = 2, title = "Get It on Time", mbid = "75aa9db3-f24f-413c-bbc0-ea6d215182cb" },
+  { n = 3, title = "Look Here Satan", mbid = "49536f80-e8b2-4f8c-9750-73de63faa54f" },
+]
+
+[[release]]
+mbid = "57906a33-a7cf-4ce0-a541-a40c243e0931"
+title = "Apocalypse Love"
+type = "album"
+date = "2022-10-14"
+tracks = [
+  { n = 1, title = "No Rave", mbid = "ebc7d660-56bf-4879-bb75-ca49db4ce9b0" },
+  { n = 2, title = "Love Has Won", mbid = "d06593ae-1bed-4e34-9371-972624ba4763" },
+  { n = 3, title = "Stolen Valor", mbid = "3c8d9e82-f122-4fa5-b3ac-5c130c8c4544" },
+  { n = 4, title = "Lost Angel", mbid = "414daacc-3c3c-4318-adf7-09433e69c71f" },
+  { n = 5, title = "Whips of Holly", mbid = "3fc41546-85a8-4551-9d6e-8bbad12f7249" },
+  { n = 6, title = "Apocalypse Love", mbid = "c77ece36-91af-413e-b4bd-43cd05d4d3bf" },
+  { n = 7, title = "Operation Angela", mbid = "d84f95b0-4681-4f48-8ec0-f0db5af06054" },
+  { n = 8, title = "Crying on a Plane", mbid = "c1505323-8539-473c-9595-68770b13ee8c" },
+  { n = 9, title = "Sharing My Cream", mbid = "6f641500-7e39-4236-9ca3-69d5dfa72188" },
+  { n = 10, title = "Among the Dunes", mbid = "cca88dd6-8d89-4995-9b4b-7dd2d722c830" },
+  { n = 11, title = "Tongue Tied", mbid = "04245c4f-aa75-4869-b7b7-178bca21fea7" },
+  { n = 12, title = "Antiaris Toxicaria", mbid = "47ccc460-118b-4591-a92e-7060fd15a2b2" },
+  { n = 13, title = "The Concubine", mbid = "c055cba3-9a9f-4303-a8ef-62ad9250e1f3" },
+]
+
+[[release]]
+mbid = "ed3d2e4b-7730-4809-b6e5-a5d0fdb4acae"
+title = "Wild One"
+type = "single"
+date = "2025-05-20"
+tracks = [
+  { n = 1, title = "Wild One", mbid = "f6a9c5af-3520-4017-828b-ee344df578af" },
+]
+
+[[release]]
+mbid = "b5d7e7e1-6763-4a85-b448-0368b5dca59c"
+title = "Season of the Peach"
+type = "album"
+date = "2025-09-19"
+tracks = [
+  { n = 1, title = "The Illusion Part Two", mbid = "953ef04d-be7a-4c65-ae5a-6ce333b3ac7f" },
+  { n = 2, title = "Zulu Saints", mbid = "b4e0f3af-5358-4d98-8a57-6885167be91b" },
+  { n = 3, title = "Sx Sx Sx Men", mbid = "b5872029-a8ed-403e-9e28-548f878a7dd0" },
+  { n = 4, title = "Wild One", mbid = "2ad8ee94-9e3e-4973-9942-c3635f0e31c7" },
+  { n = 5, title = "So Far Gone", mbid = "9fc52d35-4ce4-4d51-a1c0-999d867ef608" },
+  { n = 6, title = "Judas Pig", mbid = "e40c9064-d4e8-46a4-a8d5-7ba277ec5244" },
+  { n = 7, title = "Kassandra", mbid = "649abc59-caa7-4ace-ac60-43a1f64b8d76" },
+  { n = 8, title = "Baptism in the Death House", mbid = "f408b31a-e0ca-466a-90b2-b0f9e689edc8" },
+  { n = 9, title = "Until We Meet Again", mbid = "b7019c71-66bb-453d-bb4e-3fea2415e486" },
+  { n = 10, title = "Tippy Tongue", mbid = "cd4ae3d7-3856-4d47-9f69-4c3d3d7e9300" },
+  { n = 11, title = "Happy Place", mbid = "cc9fd968-659f-4ec1-b140-2f32e85fa5fa" },
+  { n = 12, title = "Prick", mbid = "ecc2c3af-04ff-48f6-ab22-15107b125d9b" },
+  { n = 13, title = "Hatman", mbid = "02270515-d93c-4b54-aabc-c0af7fe8a06a" },
+  { n = 14, title = "The Illusion Part One", mbid = "470fc05e-1ff9-494f-94a6-514e94788607" },
+]
+
+[[release]]
+mbid = "830881b9-9b22-4363-979a-9e6165bea6e1"
+title = "Kingdom Come"
+type = "single"
+date = "2026-08-10"
+spotify = "6raV6eHqsTKFsCu0vIXjQA"
+tracks = [
+  { n = 1, title = "Kingdom Come", mbid = "c804d7f1-ffb0-440c-8482-8808f2652175" },
+]

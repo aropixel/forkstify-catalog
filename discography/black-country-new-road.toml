@@ -1,0 +1,208 @@
+format = 1
+
+[[release]]
+mbid = "b800c325-abfb-4408-b69a-2b42de5acf64"
+title = "Athen’s, France"
+type = "single"
+date = "2019-01-25"
+tracks = [
+  { n = 1, title = "Athen’s, France, Part 1", mbid = "d6cfe699-1fff-4215-b7a8-35f8b8d82207" },
+  { n = 2, title = "Athen’s, France, Part 2", mbid = "5faaf2cd-8401-447e-b14e-4b337dad21ee" },
+]
+
+[[release]]
+mbid = "e43029ba-371f-4da0-84b3-ef6e3504bd70"
+title = "Sunglasses"
+type = "single"
+date = "2019-07-26"
+spotify = "1tFEygt6xxuQJgGfP3rSPx"
+tracks = [
+  { n = 1, title = "Sunglasses", mbid = "5c78c4c8-7b09-454e-a256-644fc32748bc" },
+]
+
+[[release]]
+mbid = "4429c9ad-127a-4f29-8322-3dac0e25164a"
+title = "Manchester xx/xx/20 (improvised)"
+type = "single"
+date = "2020-07-03"
+tracks = [
+  { n = 1, title = "Manchester xx/xx/20 (improvised)", mbid = "bb9c857c-5561-435f-b034-45d41a47fd2c" },
+]
+
+[[release]]
+mbid = "da0ada98-5418-408a-9fa4-d6896df74433"
+title = "Science Fair"
+type = "single"
+date = "2020-10-28"
+spotify = "6O6mwM5RhR27oacgA7xxMU"
+tracks = [
+  { n = 1, title = "Science Fair", mbid = "00c76a8e-3d01-4da8-9296-97607bd57adb" },
+]
+
+[[release]]
+mbid = "e74a3cb9-3473-4334-8767-07562badbc8b"
+title = "Track X"
+type = "single"
+date = "2021-01-11"
+spotify = "1to5nlqVrZzV3X5iJ8qf7t"
+tracks = [
+  { n = 1, title = "Track X", mbid = "0ca37179-36a7-4266-bf3d-4ddade323a69" },
+  { n = 2, title = "Science Fair", mbid = "00c76a8e-3d01-4da8-9296-97607bd57adb" },
+]
+
+[[release]]
+mbid = "968b13bb-026b-410e-831e-a7bb7418ea60"
+title = "For the First Time"
+type = "album"
+date = "2021-02-05"
+spotify = "2PfgptDcfJTFtoZIS3AukX"
+tracks = [
+  { n = 1, title = "Instrumental", mbid = "fff68215-a2f0-4def-bf57-c8eb889b170f" },
+  { n = 2, title = "Athens, France", mbid = "88304da8-ed81-4278-a876-85d045dcc300" },
+  { n = 3, title = "Science Fair", mbid = "00c76a8e-3d01-4da8-9296-97607bd57adb" },
+  { n = 4, title = "Sunglasses", mbid = "63476e9b-0a6e-4e6e-96d6-cf30f648602a" },
+  { n = 5, title = "Track X", mbid = "0ca37179-36a7-4266-bf3d-4ddade323a69" },
+  { n = 6, title = "Opus", mbid = "a4f838a8-32fd-4254-a669-313b97f5fa61" },
+]
+
+[[release]]
+mbid = "668d3fb5-6b87-49aa-91d9-e02e39d0cc3d"
+title = "Chaos Space Marine"
+type = "single"
+date = "2021-10-12"
+spotify = "2huSLowZzNhStzbu9C1Eko"
+tracks = [
+  { n = 1, title = "Chaos Space Marine", mbid = "a3878518-5b93-4b3f-beb1-8320a49364e2" },
+]
+
+[[release]]
+mbid = "5440717e-66bb-4f64-b9e5-24cdf3298512"
+title = "Bread Song"
+type = "single"
+date = "2021-11-02"
+spotify = "3iiJLvaV4MaU3xH5hophL1"
+tracks = [
+  { n = 1, title = "Bread Song", mbid = "bdbb90d5-b122-4631-8c6a-68572e3e73a9" },
+  { n = 2, title = "Chaos Space Marine", mbid = "a3878518-5b93-4b3f-beb1-8320a49364e2" },
+]
+
+[[release]]
+mbid = "cb8c96e5-f199-498d-a6db-7db29c0eb9fa"
+title = "Concorde"
+type = "single"
+date = "2021-11-30"
+spotify = "0xDUwM9EVHyOmUhL9KGOwa"
+tracks = [
+  { n = 1, title = "Concorde", mbid = "65d13473-dd9c-45f2-8db7-cb118098c4e9" },
+  { n = 2, title = "Chaos Space Marine", mbid = "a3878518-5b93-4b3f-beb1-8320a49364e2" },
+  { n = 3, title = "Bread Song", mbid = "bdbb90d5-b122-4631-8c6a-68572e3e73a9" },
+]
+
+[[release]]
+mbid = "45243a13-4401-4d8d-b6d7-e81114edce3a"
+title = "Never Again"
+type = "ep"
+date = "2021-12-03"
+tracks = [
+  { n = 1, title = "Mamma Mia", mbid = "9b4aa2ab-8268-474e-8218-a1f4f9f08e16" },
+  { n = 2, title = "Chiquitita", mbid = "12643b13-b068-4f68-ae45-5e1539c46f95" },
+  { n = 3, title = "Time to Pretend", mbid = "92be2eee-fd0a-44d3-9ff6-9490f3ee4b18" },
+  { n = 4, title = "Someone Like You", mbid = "f0420a6c-2d23-4d1e-89fa-7e320ce6071f" },
+]
+
+[[release]]
+mbid = "f2fe2c37-64ef-402c-82bb-41634db48a69"
+title = "Snow Globes"
+type = "single"
+date = "2022-01-19"
+spotify = "1cdB6veqHH2BhCURbjNV5s"
+tracks = [
+  { n = 1, title = "Snow Globes", mbid = "a7d27429-a9d6-4154-bab0-c813d25cf541" },
+  { n = 2, title = "Chaos Space Marine", mbid = "a3878518-5b93-4b3f-beb1-8320a49364e2" },
+  { n = 3, title = "Concorde", mbid = "65d13473-dd9c-45f2-8db7-cb118098c4e9" },
+  { n = 4, title = "Bread Song", mbid = "bdbb90d5-b122-4631-8c6a-68572e3e73a9" },
+]
+
+[[release]]
+mbid = "d622ed70-ccc3-4658-8a0a-b7a2d577c28d"
+title = "Ants From Up There"
+type = "album"
+date = "2022-02-04"
+spotify = "21xp7NdU1ajmO1CX0w2Egd"
+tracks = [
+  { disc = 1, n = 1, title = "Intro", mbid = "7d703f69-fb86-4d43-9b93-a85459e0ca34" },
+  { disc = 1, n = 2, title = "Chaos Space Marine", mbid = "a3878518-5b93-4b3f-beb1-8320a49364e2" },
+  { disc = 1, n = 3, title = "Concorde", mbid = "65d13473-dd9c-45f2-8db7-cb118098c4e9" },
+  { disc = 1, n = 4, title = "Bread Song", mbid = "bdbb90d5-b122-4631-8c6a-68572e3e73a9" },
+  { disc = 1, n = 5, title = "Good Will Hunting", mbid = "7c0bcdb4-38fc-4f27-81c9-7f3f79efa755" },
+  { disc = 1, n = 6, title = "Haldern", mbid = "fdb5ac68-c3b4-407c-b2b0-902b8e5c93d9" },
+  { disc = 1, n = 7, title = "Mark’s Theme", mbid = "68927239-c6af-4d07-9304-9e477e84eaf6" },
+  { disc = 2, n = 1, title = "The Place Where He Inserted the Blade", mbid = "ae4094ea-7ce3-49a6-9c22-eadd163c46ce" },
+  { disc = 2, n = 2, title = "Snow Globes", mbid = "a7d27429-a9d6-4154-bab0-c813d25cf541" },
+  { disc = 2, n = 3, title = "Basketball Shoes", mbid = "0d0ccee9-a832-4b41-8db6-0e5ed4a374e4" },
+]
+
+[[release]]
+mbid = "3ddfa06b-3d1d-4427-8825-139359f37639"
+title = "Never Again, Pt. 2"
+type = "ep"
+date = "2022-11-15"
+tracks = [
+  { n = 1, title = "Us", mbid = "31149e9e-ed07-473f-b667-9825c1d434bc" },
+  { n = 2, title = "So Hot You’re Hurting My Feelings", mbid = "673a1498-303b-4ee8-beeb-6f6107326e4f" },
+  { n = 3, title = "I Think I Need a New Heart", mbid = "5c0f59b6-1acf-41b5-a9d1-b7cca97d9944" },
+  { n = 4, title = "Happier Than Ever", mbid = "e69600df-dcec-417b-a385-bc97c477db7b" },
+]
+
+[[release]]
+mbid = "56b55e5d-adf7-48c3-b4ba-68eca204e854"
+title = "Besties"
+type = "single"
+date = "2025-01-30"
+spotify = "4vzxEXWrTCI4AZQJ3x8gy1"
+tracks = [
+  { n = 1, title = "Besties", mbid = "bf156dcc-67c5-46e4-8938-aae9633388f0" },
+]
+
+[[release]]
+mbid = "4f4c1a11-dab3-4a78-a8ee-09694042ce50"
+title = "Happy Birthday"
+type = "single"
+date = "2025-03-03"
+spotify = "6kO3263HiKYG5gl38uN9yb"
+tracks = [
+  { n = 1, title = "Happy Birthday", mbid = "844dbac4-680e-44af-935b-fbc8be7bb144" },
+  { n = 2, title = "Besties", mbid = "bf156dcc-67c5-46e4-8938-aae9633388f0" },
+]
+
+[[release]]
+mbid = "2796f7a8-985a-4bba-bd93-16af3549a0d5"
+title = "For the Cold Country"
+type = "single"
+date = "2025-03-26"
+spotify = "6HnC12N2Ir7bb6jUj67RfY"
+tracks = [
+  { n = 1, title = "For the Cold Country", mbid = "c56f2cb1-0388-4f11-8b18-d9bb681ea8c5" },
+  { n = 2, title = "Besties", mbid = "bf156dcc-67c5-46e4-8938-aae9633388f0" },
+  { n = 3, title = "Happy Birthday", mbid = "844dbac4-680e-44af-935b-fbc8be7bb144" },
+]
+
+[[release]]
+mbid = "23a9b1c2-3dd1-408e-89cb-ca0b81429176"
+title = "Forever Howlong"
+type = "album"
+date = "2025-04-04"
+spotify = "5FjaEW3Hi8vD2aoJNWln4t"
+tracks = [
+  { n = 1, title = "Besties", mbid = "bf156dcc-67c5-46e4-8938-aae9633388f0" },
+  { n = 2, title = "The Big Spin", mbid = "30e90d44-1caa-4157-b3cc-d4a6adb553f1" },
+  { n = 3, title = "Socks", mbid = "2e267340-63fa-4431-998a-2ea522677aeb" },
+  { n = 4, title = "Salem Sisters", mbid = "437aa9be-b54a-46f3-9d14-0200821030ee" },
+  { n = 5, title = "Two Horses", mbid = "7cd3d726-5507-40c5-9adc-eff9731631d4" },
+  { n = 6, title = "Mary", mbid = "db3a9a40-1209-4db4-9a3c-4e2c6a9d1492" },
+  { n = 7, title = "Happy Birthday", mbid = "844dbac4-680e-44af-935b-fbc8be7bb144" },
+  { n = 8, title = "For the Cold Country", mbid = "c56f2cb1-0388-4f11-8b18-d9bb681ea8c5" },
+  { n = 9, title = "Nancy Tries to Take the Night", mbid = "22498698-51d9-41d0-b7d9-ed463969f0d3" },
+  { n = 10, title = "Forever Howlong", mbid = "9b5f6413-3c2a-412b-b5f6-746600b739de" },
+  { n = 11, title = "Goodbye (Don’t Tell Me)", mbid = "63eaceb7-e9a7-43c1-b535-ca39a3a09e90" },
+]

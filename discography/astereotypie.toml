@@ -1,0 +1,95 @@
+format = 1
+
+[[release]]
+mbid = "2134ff2d-58c3-40f4-8053-e0f9869e6a64"
+title = "Astéréotypie"
+type = "album"
+date = "2012-09-10"
+tracks = [
+  { n = 1, title = "La Soufflante", mbid = "e6a9ab83-e2b7-42ff-9405-75610cef0b64" },
+  { n = 2, title = "Le Cachet", mbid = "164c7ebe-965e-42d5-88c4-1d8ef060aae6" },
+  { n = 3, title = "Les peintres du temps", mbid = "2ddd0604-6c7a-4686-a14a-d2b6c314576f" },
+  { n = 4, title = "Je bloque je débloque", mbid = "f3bc5542-706a-4e04-9b69-13bb5bb17751" },
+  { n = 5, title = "Air TGV", mbid = "419a1377-773a-411e-9049-aa337e28954d" },
+  { n = 6, title = "Astéréotypie", mbid = "36ccf604-8c2c-4f4b-9ed1-ae65ea937bf5" },
+  { n = 7, title = "L'école de Paris", mbid = "68ce897d-5044-455e-83e9-1b64398da6a2" },
+  { n = 8, title = "Prisonniers", mbid = "f93066a0-a45a-4b19-810d-ddd41676d2e5" },
+  { n = 9, title = "Mes mots", mbid = "8730354e-9ac5-4c05-b906-96880c648164" },
+  { n = 10, title = "Mon plus beau rêve", mbid = "863757ec-e415-4dbc-b475-093ffe6d3d57" },
+  { n = 11, title = "La Compétition", mbid = "f8087b7f-927e-4b7f-bd22-bd9ce127d68d" },
+]
+
+[[release]]
+mbid = "49cf7e76-57ae-4bcd-9472-f4a741e2ad3b"
+title = "L’Énergie positive des Dieux"
+type = "album"
+date = "2018-03-01"
+tracks = [
+  { n = 1, title = "Colère", mbid = "a044ac5f-2e83-4b9e-99af-c120272a602e" },
+  { n = 2, title = "La Soufflante", mbid = "5ae63d0d-67b8-47b2-88f8-0dec3c85abe1" },
+  { n = 3, title = "Le Cachet", mbid = "ce992c42-3298-44ca-a1f5-f84447c61c49" },
+  { n = 4, title = "Prisonniers", mbid = "522139f7-3d27-451b-84fe-8785cd06a66f" },
+  { n = 5, title = "500 euros", mbid = "b5e106d4-8370-431c-bffb-efcf354903df" },
+  { n = 6, title = "Le Septième Art", mbid = "d1e492b2-8815-4733-aee1-530cbd3d8b89" },
+  { n = 7, title = "Angoisse", mbid = "2f2ad13f-0f25-497f-83d1-1b62767db274" },
+  { n = 8, title = "J’ai attrapé un rhume", mbid = "a2aca5b0-2dd1-443f-a004-78c7ebdc877d" },
+  { n = 9, title = "Les peintres du temps", mbid = "232565cd-baf7-4206-bf6b-c995d0aaa316" },
+  { n = 10, title = "Alphabetix", mbid = "5ac435da-99a7-4e01-988f-c1d60341abb3" },
+  { n = 11, title = "This Is the Captain Speaking", mbid = "31268af6-95a0-4ed4-b898-fc5f6f0eef4d" },
+  { n = 12, title = "Je crois que je l’aimerais", mbid = "ae27ad81-f49d-4d58-b4db-330ea8282f44" },
+  { n = 13, title = "Marie Antoinette", mbid = "5549a5c1-9cf5-493d-9966-e9d24b849813" },
+  { n = 14, title = "L’Énergie poisitive des Dieux", mbid = "54800fbd-75f3-4d62-ab6b-bcbca28e44ad" },
+]
+
+[[release]]
+mbid = "ff86de00-9ad1-445c-97c4-8a44107cb596"
+title = "Aucun mec ne ressemble à Brad Pitt dans la Drôme"
+type = "album"
+date = "2022-04-29"
+spotify = "1POjEAquHo8mTJZDuanBeF"
+tracks = [
+  { n = 1, title = "Le Pacha", mbid = "28236642-79bc-4969-9936-dcad91587787" },
+  { n = 2, title = "Aucun mec ne ressemble à Brad Pitt dans la Drôme", mbid = "fa841a20-b240-42ac-986b-fadfc36a507e" },
+  { n = 3, title = "Mon chat a 44 ans", mbid = "f9ae2981-a34a-45d3-8585-594c0f8587e7" },
+  { n = 4, title = "Vivre soit 2", mbid = "076650fa-5a64-45ef-a6c7-d2806b3a9b31" },
+  { n = 5, title = "Iphone X", mbid = "75751b63-c3f3-45ab-9be6-c778b4382471" },
+  { n = 6, title = "Du vélo à Saint-Malo, du kayak à Saint-Briac", mbid = "48fc8ab4-39f8-4291-8d5e-da78fe3c18ce" },
+  { n = 7, title = "Joseph Da-xrus", mbid = "ff706be2-4533-4ab7-9d38-a77e90750745" },
+  { n = 8, title = "Bonjour", mbid = "db76ca29-51f3-4667-a46b-9375a8d324c8" },
+  { n = 9, title = "Ponio", mbid = "f078af4a-35de-4e9a-bab1-1021dd4278ff" },
+  { n = 10, title = "Reine d'un sort", mbid = "51d2b124-fd08-4e0f-9f04-566c3101a1d6" },
+  { n = 11, title = "20 euros", mbid = "78b28fa5-0658-467f-9242-3fc89af2ca6e" },
+  { n = 12, title = "Fantôme de Broglie, Fantôme de Strasbourg", mbid = "6d0f850b-b9e5-4514-b56c-310f5f1f5be6" },
+  { n = 13, title = "Les dates dans ma tête", mbid = "e9532be0-c264-4033-ba5c-7cc13650594a" },
+]
+
+[[release]]
+mbid = "8570eae7-76d7-4fb9-8bef-b6b1371ec86b"
+title = "PATAMI"
+type = "album"
+date = "2024-11-08"
+tracks = [
+  { n = 1, title = "Les orques adorent le foie de requin", mbid = "d17d315f-90e6-4f1d-b9d2-2526a8a2ffd1" },
+  { n = 2, title = "Je ris pour autre chose", mbid = "e4edff7f-e790-49f1-a710-ca81fd84dd18" },
+  { n = 3, title = "Calme-toi bouge tes genoux", mbid = "f5cda1af-39c5-46fb-b7da-d08130db5924" },
+  { n = 4, title = "Que la biche soit en nous", mbid = "a4382a6c-d7df-4281-bc51-03b46c1babe8" },
+  { n = 5, title = "Dieux", mbid = "7ddf87f0-62a1-4fc3-8fa2-e3dcdf12be1a" },
+  { n = 6, title = "C5", mbid = "b4b6695d-ed06-4513-b77c-c9437d4dd09e" },
+  { n = 7, title = "Soirée parfaite", mbid = "1226c3e2-eeee-40d0-9ed6-e9be88c04ce2" },
+  { n = 8, title = "Ce requin-baleine ne me sert à rien", mbid = "8f7f31a3-be44-473a-be2e-dd8c2e8a01bc" },
+  { n = 9, title = "Cheese bad girl", mbid = "d9b6c85c-d189-41bc-905c-9a9205d11216" },
+  { n = 10, title = "UNO", mbid = "36cb2b0b-b746-4ed8-b574-00aa978231af" },
+  { n = 11, title = "L'archère", mbid = "44c78942-6965-4829-a784-e661a1b237b6" },
+  { n = 12, title = "Texte sur les vivants", mbid = "8e656bbf-2c23-42a8-9d42-8739d495081d" },
+  { n = 13, title = "Faux Comptes", mbid = "6a337c32-134f-4ba6-91ab-3af25e59bd87" },
+  { n = 14, title = "Goûter soir apéro", mbid = "f419a9a1-cc79-4ece-b2bf-ca8e7541f235" },
+]
+
+[[release]]
+mbid = "9ea1a24d-0b84-44d1-8770-9874041ff941"
+title = "240 000 Pro"
+type = "single"
+date = "2025-11-14"
+tracks = [
+  { n = 1, title = "240 000 Pro", mbid = "52310acc-82d3-4a67-a89c-758c601cf508" },
+]

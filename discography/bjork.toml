@@ -1,0 +1,811 @@
+format = 1
+
+[[release]]
+mbid = "e7190579-8711-3422-af2f-16337139ed67"
+title = "Björk"
+type = "album"
+date = "1977-12-18"
+tracks = [
+  { n = 1, title = "Arabadrengurinn", mbid = "123db7c8-25c6-4edd-9e09-eda9234d74db" },
+  { n = 2, title = "Búkolla", mbid = "4a0fffb0-26f4-4799-befc-a77bb86f366c" },
+  { n = 3, title = "Alta Mira", mbid = "346df238-4bec-4444-8d84-146d83216d04" },
+  { n = 4, title = "Jóhannes Kjarval", mbid = "2bc7aea0-bcd8-4ed3-82dc-3a27dc3f5c4b" },
+  { n = 5, title = "Fúsi hreindýr", mbid = "0a8b606d-a201-46af-947f-acfa1fa0e59d" },
+  { n = 6, title = "Himnaför", mbid = "136b6e25-3ba4-473f-9baf-42500b252d68" },
+  { n = 7, title = "Óliver", mbid = "1f83fc00-0c47-4b7a-8311-c96f0ca57a54" },
+  { n = 8, title = "Álfur út úr hól", mbid = "aa35e1cd-3ffb-46d3-9265-c37c89afc0c5" },
+  { n = 9, title = "Músastiginn", mbid = "05cab122-8abf-4ea6-ac1a-ea46ae41cfa7" },
+  { n = 10, title = "Bænin", mbid = "97703657-4034-43a0-93f2-f4d338d8cdf0" },
+]
+
+[[release]]
+mbid = "7b0e60ce-ad06-3578-ad5e-5d5ca4353379"
+title = "Gling‐Gló"
+type = "album"
+date = "1990-10"
+spotify = "2sQPWw7fUNaasm5B0wRkOk"
+tracks = [
+  { n = 1, title = "Gling Gló", mbid = "2330e15e-b7f3-482e-9e3d-297f9d1f3e2d" },
+  { n = 2, title = "Luktar‐Gvendur", mbid = "2248251d-7bc6-4bf7-af4a-8f0b37d59041" },
+  { n = 3, title = "Kata rokkar", mbid = "b7e0a1ba-471a-4e11-b2dd-cbd7be1aec62" },
+  { n = 4, title = "Pabbi minn", mbid = "bba5a8ba-462b-45ca-b79b-c3a725b4f655" },
+  { n = 5, title = "Brestir og brak", mbid = "c55f4495-7e25-4b12-80ef-2d09ce1b74ae" },
+  { n = 6, title = "Ástartöfrar", mbid = "c12d35dd-eb62-4827-bb32-38a894c3c633" },
+  { n = 7, title = "Bella símamær", mbid = "14daacd1-f85e-4d76-894c-c3e29d50c213" },
+  { n = 8, title = "Litli tónlistarmaðurinn", mbid = "310015af-9c49-4fb5-bf75-c9bf8159b536" },
+  { n = 9, title = "Það sést ekki sætari mey", mbid = "c63d4fb2-ae34-439a-9be6-4c5feb556a19" },
+  { n = 10, title = "Bílavísur", mbid = "35027857-f587-4658-adbe-094699fd522c" },
+  { n = 11, title = "Tondeleyo", mbid = "f2af36f0-c63f-42e9-ac3a-595aa8472e87" },
+  { n = 12, title = "Ég veit ei hvað skal segja", mbid = "fc8863ae-8e90-4bb2-b2c9-59ed6491e234" },
+  { n = 13, title = "Í dansi með þér", mbid = "edbd507d-5cf7-4169-bddc-2c0e78168510" },
+  { n = 14, title = "Börnin við Tjörnina", mbid = "9f92fdc0-d8d5-4015-924d-2ee45ab113a8" },
+  { n = 15, title = "Ruby Baby", mbid = "f2c0deda-2b72-4b30-9f6e-9215cad0e9a9" },
+  { n = 16, title = "I Can’t Help Loving That Man", mbid = "2b4d3e1a-1064-4e0f-b7b8-327fa063cffb" },
+]
+
+[[release]]
+mbid = "327fba60-3752-3b7a-b7d8-ab4db4946300"
+title = "Ooops"
+type = "single"
+date = "1991-04-05"
+spotify = "67Wjrp6U1FzEb1v3Az16FS"
+tracks = [
+  { n = 1, title = "Ooops", mbid = "be5404e2-409a-4f90-a439-5a2243469fc2" },
+  { n = 2, title = "Ski Family", mbid = "d17e1c34-590a-4e23-b21c-a69f7b5d9a9b" },
+]
+
+[[release]]
+mbid = "90f2be3c-c6c4-3f52-ad76-d6aaf34be5f5"
+title = "Violently Happy"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Violently Happy (edited version)", mbid = "09dd25ed-d39b-41af-865a-0757abf4ba54" },
+  { n = 2, title = "Violently Happy (album version)", mbid = "8b7bfe87-e12e-47c8-9508-963939a9663f" },
+]
+
+[[release]]
+mbid = "d8d1f213-7c4d-3c4a-b103-4fe2a7ea20de"
+title = "Human Behaviour"
+type = "single"
+date = "1993-06-07"
+tracks = [
+  { n = 1, title = "Human Behaviour (original)", mbid = "ffb680e8-d587-4f37-88b9-2b330fbf5014" },
+  { n = 2, title = "Human Behaviour (“Close to Human” mix)", mbid = "bb0e67ec-016b-4c88-824a-6ec065a1a291" },
+  { n = 3, title = "Human Behaviour (Dom T. mix)", mbid = "6e67c25c-e099-42a2-80da-29560539b670" },
+  { n = 4, title = "Human Behaviour (Bassheads edit)", mbid = "6f621360-9329-47ea-99fb-77f97b7e26ee" },
+]
+
+[[release]]
+mbid = "6891a28c-5865-36e2-9e5f-c9fac1d3595f"
+title = "Debut"
+type = "album"
+date = "1993-07-12"
+spotify = "7qopDhMKBIfoIM2gJcecbr"
+tracks = [
+  { n = 1, title = "Human Behaviour", mbid = "ffb680e8-d587-4f37-88b9-2b330fbf5014" },
+  { n = 2, title = "Crying", mbid = "ebc57bc2-c7ec-4ac5-97c7-bb8cd84ca9c7" },
+  { n = 3, title = "Venus as a Boy", mbid = "9ef4eceb-ec2e-4059-a199-1ec081138a28" },
+  { n = 4, title = "There’s More to Life Than This (recorded live at the Milk Bar toilets)", mbid = "c2cfef9c-bf5d-4801-aa65-db9922235f8d" },
+  { n = 5, title = "Like Someone in Love", mbid = "b707bcfd-de10-4f0c-ac49-6d774285fe81" },
+  { n = 6, title = "Big Time Sensuality", mbid = "724efad4-d577-476a-86c2-1da15842271b" },
+  { n = 7, title = "One Day", mbid = "be8d4ffa-2907-46ad-8cd7-1fa46100678e" },
+  { n = 8, title = "Aeroplane", mbid = "804bb666-0488-459c-9f3b-dcfa0d640018" },
+  { n = 9, title = "Come to Me", mbid = "d705b9c7-ad58-4df1-a790-cb86f180cb7f" },
+  { n = 10, title = "Violently Happy", mbid = "8b7bfe87-e12e-47c8-9508-963939a9663f" },
+  { n = 11, title = "The Anchor Song", mbid = "a47cfa4e-cebe-4aa7-a1de-0c7fa01236e0" },
+]
+
+[[release]]
+mbid = "c38c41df-aade-39c5-93ba-eeab699a899c"
+title = "Venus as a Boy"
+type = "single"
+date = "1993-08-23"
+spotify = "4lHzKrYdmSiL1bLdLqRKKk"
+tracks = [
+  { n = 1, title = "Venus as a Boy (edit)", mbid = "1c31a70a-fb55-4746-8518-8c2a3d4ab7d2" },
+  { n = 2, title = "Venus as a Boy (7″ Dream mix)", mbid = "1332b1a8-2b7d-42c2-9db1-59fea528dcef" },
+]
+
+[[release]]
+mbid = "34eb198a-74f1-346d-ab68-6dd477b6713a"
+title = "Big Time Sensuality"
+type = "single"
+date = "1993-10"
+tracks = [
+  { disc = 1, n = 1, title = "Big Time Sensuality (The Fluke Magimix)", mbid = "a84cdeac-f6d4-4c9b-883e-6792529f7ad8" },
+  { disc = 1, n = 2, title = "Big Time Sensuality (Dom T. Growly dub mix)", mbid = "92fe475b-965d-4142-9dfc-91c6188c7401" },
+  { disc = 1, n = 3, title = "Big Time Sensuality (Morales Def Klub mix)", mbid = "5064757d-7bc2-4fec-8c40-b0162d35b4e9" },
+  { disc = 1, n = 4, title = "Big Time Sensuality (Justin Robertson Lionrock Wigout mix)", mbid = "837646b2-fb9b-44ae-8273-93ee346f6ce8" },
+  { disc = 2, n = 1, title = "Big Time Sensuality (Morales USA mix)", mbid = "b8c5d72f-c941-4f9c-b809-b85702aad2dd" },
+  { disc = 2, n = 2, title = "Big Time Sensuality (The Fluke Minimix)", mbid = "61c93962-3df5-427b-9948-5d7c191dc41d" },
+  { disc = 2, n = 3, title = "Big Time Sensuality (Nellee Hooper extended mix)", mbid = "aa9d7f71-70aa-4557-9b6a-4944f767c821" },
+  { disc = 2, n = 4, title = "Big Time Sensuality (LP version)", mbid = "724efad4-d577-476a-86c2-1da15842271b" },
+  { disc = 2, n = 5, title = "Violently Happy (Masters at Work dub)", mbid = "9d0be618-f18b-472d-b8cd-8b1256cc0b5c" },
+]
+
+[[release]]
+mbid = "da11f0bf-e35c-48c3-9742-58ed58019a92"
+title = "Play Dead"
+type = "single"
+date = "1993-10"
+tracks = [
+  { n = 1, title = "Play Dead (Tim Simenon 7″ remix)", mbid = "ecd48bff-e216-4662-8fa6-1d57d8357d3f" },
+  { n = 2, title = "Play Dead (Tim Simenon orchestral mix)", mbid = "4d665fe6-6401-4a83-a5b1-96a51d58a7f3" },
+]
+
+[[release]]
+mbid = "cf8297e4-9891-3858-9eef-614803b23161"
+title = "Hyperballad"
+type = "single"
+date = "1995"
+spotify = "7iQMtcI1EufeTDdl6y9WNO"
+tracks = [
+  { n = 1, title = "Hyper‐Ballad (radio edit)", mbid = "e2781c78-7315-4444-b741-c0224881cc5d" },
+  { n = 2, title = "Hyper‐Ballad (Robin Hood Riding Through the Glen mix)", mbid = "786fb761-dff1-456a-8cad-5abf0e95d38e" },
+  { n = 3, title = "Hyper‐Ballad (Subtle Abuse mix)", mbid = "ec442110-62bf-4b68-9c97-3f973d5c9367" },
+  { n = 4, title = "Hyper‐Ballad (Tee’s Freeze mix)", mbid = "de4a40b6-f558-4b39-a722-e15571efa865" },
+  { n = 5, title = "Hyper‐Ballad (David Morales Classic mix)", mbid = "e31b1a1a-ef13-4f24-af1a-a341536fc3b1" },
+  { n = 6, title = "Hyper‐Ballad (Towa Tei Choice mix)", mbid = "47b1f691-d213-4843-9813-bf580d2c7e19" },
+]
+
+[[release]]
+mbid = "78d9a35e-4e06-42a3-9770-163b9a56ab56"
+title = "Army of Me"
+type = "single"
+date = "1995-04-21"
+spotify = "5QK5pO9Ka4pzUYmZiD2vaN"
+tracks = [
+  { n = 1, title = "Army of Me", mbid = "8b189d0c-8a13-4813-8882-3e648938ef2d" },
+  { n = 2, title = "Cover Me (Cave version)", mbid = "6a045c61-7989-4bdf-a638-b116ed65d528" },
+]
+
+[[release]]
+mbid = "b2a6e057-087d-3ae5-a6e5-7f5fa39808ff"
+title = "Post"
+type = "album"
+date = "1995-06-09"
+spotify = "3p7WXDBxhC5KS9IFXnwae7"
+tracks = [
+  { n = 1, title = "Army of Me", mbid = "8b189d0c-8a13-4813-8882-3e648938ef2d" },
+  { n = 2, title = "Hyper‐Ballad", mbid = "65bf94b8-6d5d-4254-aa5f-a939b1794303" },
+  { n = 3, title = "The Modern Things", mbid = "c13c35df-b6d6-4a48-9f05-91cc1308407b" },
+  { n = 4, title = "It’s Oh So Quiet", mbid = "21b06466-19bd-4089-808e-5bb762dab782" },
+  { n = 5, title = "Enjoy", mbid = "932345be-a9d0-4965-b584-cd780d1a17bc" },
+  { n = 6, title = "You’ve Been Flirting Again", mbid = "a616960a-4327-4359-82b0-4692417ee4a5" },
+  { n = 7, title = "Isobel", mbid = "3ffa5562-21a4-4ea1-9b3d-1b28c895fc4f" },
+  { n = 8, title = "Possibly Maybe", mbid = "a6287b52-f085-4548-8c60-2740af19b3d7" },
+  { n = 9, title = "I Miss You", mbid = "4ae3d628-e2ae-4ef4-acc6-d645d1f36a2c" },
+  { n = 10, title = "Cover Me", mbid = "5ce0208f-1841-4626-b2e7-9bc5c5c2f156" },
+  { n = 11, title = "Headphones", mbid = "5a9658c9-e9d1-4e75-bdd0-dbd4d7499280" },
+]
+
+[[release]]
+mbid = "3728be4b-6435-3deb-9e03-9f28b56e915b"
+title = "Isobel"
+type = "single"
+date = "1995-08-07"
+tracks = [
+  { n = 1, title = "Isobel", mbid = "3ffa5562-21a4-4ea1-9b3d-1b28c895fc4f" },
+  { n = 2, title = "Isobel (Deodato mix)", mbid = "7bb58348-96a8-46b6-868c-4657ab1ccc84" },
+  { n = 3, title = "I Go Humble", mbid = "ed95c8fb-3da9-4039-8021-40be54a25839" },
+  { n = 4, title = "Sweet Intuition", mbid = "a28ac7c1-6251-4681-b594-1705f6de32d4" },
+]
+
+[[release]]
+mbid = "925a9637-ddd2-3eb7-b5d2-6e06b829f239"
+title = "It’s Oh So Quiet"
+type = "single"
+date = "1995-11-13"
+tracks = [
+  { n = 1, title = "It’s Oh So Quiet", mbid = "21b06466-19bd-4089-808e-5bb762dab782" },
+  { n = 2, title = "You’ve Been Flirting Again (Icelandic mix)", mbid = "e7d8914c-192d-4447-be86-6d1983919495" },
+]
+
+[[release]]
+mbid = "9c144bd9-3af0-3cb5-bab1-654ca02d54f5"
+title = "I Miss You"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "I Miss You (Dobie’s Rub, Part One: Sunshine mix)", mbid = "ec13f2f4-c0be-4d54-9104-bb1e54edf230" },
+  { n = 2, title = "Hyperballad (3AM mix by LFO)", mbid = "34c544e5-b169-4bdd-9b4f-9e3709aa1b2b" },
+  { n = 3, title = "Violently Happy (live)", mbid = "c53e7e0f-0d2f-438b-867e-80fbee74134a" },
+  { n = 4, title = "Headphones (Ø remix by Mika Vainio)", mbid = "91324c8f-0729-44ab-93f0-850917e6d243" },
+]
+
+[[release]]
+mbid = "2937b22b-0ec2-3faa-baad-8d8927e32f30"
+title = "Possibly Maybe"
+type = "single"
+date = "1996-10-28"
+spotify = "6c1wSOXdENMCS9uE4xPBzQ"
+tracks = [
+  { n = 1, title = "Cover Me (Dillinja mix)", mbid = "cfdb26b1-31a8-4dd0-83da-699b25f1b03c" },
+  { n = 2, title = "One Day (Trevor Morais mix)", mbid = "3f9772cd-827c-45ac-9cbd-334d13bc953f" },
+  { n = 3, title = "Possibly Maybe (Calcutta Cyber Café dub mix)", mbid = "e37bee17-3471-4342-9bc7-aa8474fabfa9" },
+  { n = 4, title = "I Miss You (Photek mix)", mbid = "c7750833-0040-4858-8371-8ba88b030f01" },
+]
+
+[[release]]
+mbid = "72dfbc41-7043-45bd-95e7-62da39b0ba2b"
+title = "Big Time Sensuality / One Day"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Big Time Sensuality (Plaid mix)", mbid = "6deb5f9e-17fa-4ca0-95b6-6ba02c97c35d" },
+  { n = 2, title = "One Day (Trevor Morais remix)", mbid = "3f9772cd-827c-45ac-9cbd-334d13bc953f" },
+]
+
+[[release]]
+mbid = "c2c91dc1-9eac-3ae2-bced-efa531fc7a1a"
+title = "I Miss You / Cover Me"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "I Miss You (Photek mix)", mbid = "5aa3c2a6-9ed0-41f3-8fe3-0eb3830f2548" },
+  { n = 2, title = "Cover Me (Dillinja mix)", mbid = "cfdb26b1-31a8-4dd0-83da-699b25f1b03c" },
+]
+
+[[release]]
+mbid = "ecb0a296-2813-36cb-9470-dae14b44fda3"
+title = "Jóga"
+type = "single"
+date = "1997-05"
+tracks = [
+  { n = 1, title = "Jóga (Howie B main mix)", mbid = "f4f74344-3145-4e47-952a-8f5613789a44" },
+  { n = 2, title = "Jóga (String & vocal version)", mbid = "3742187d-34d8-4152-9e44-a8f53ff7fa3f" },
+  { n = 3, title = "Jóga (Buzz Water mix)", mbid = "f91967ba-9147-4f60-8468-87244708f204" },
+  { n = 4, title = "All Is Full of Love (Choice mix)", mbid = "6d528991-c666-43bf-a798-1238c47b14b0" },
+]
+
+[[release]]
+mbid = "810272e0-aef1-3d85-b2d3-e512e87fc38c"
+title = "Homogenic"
+type = "album"
+date = "1997-09-20"
+spotify = "0HMsmYvoT1h2x1C4di5faf"
+tracks = [
+  { n = 1, title = "Hunter", mbid = "95be89c5-f55f-40a8-96bd-7a285c348096" },
+  { n = 2, title = "Jóga", mbid = "83534ada-9f60-4093-bbf3-ca182a03cf8b" },
+  { n = 3, title = "Unravel", mbid = "20af32c5-38f3-4717-a65b-8dcb26ce53b8" },
+  { n = 4, title = "Bachelorette", mbid = "8ddbc4f1-f3db-47f1-b727-b4ceaf98cef8" },
+  { n = 5, title = "All Neon Like", mbid = "e7dacee3-36f2-4a40-a658-61fd2ce04d28" },
+  { n = 6, title = "5 Years", mbid = "ca9bb619-50d9-45f5-a65c-bd0b53dcf848" },
+  { n = 7, title = "Immature", mbid = "5125ec6f-b7cb-4573-a255-26a1227ae160" },
+  { n = 8, title = "Alarm Call", mbid = "32abc30c-3655-460d-b910-1086bf10e48b" },
+  { n = 9, title = "Pluto", mbid = "d6febbc3-1495-45f5-a987-0f236d094086" },
+  { n = 10, title = "All Is Full of Love", mbid = "7f527f79-3303-4f30-add1-3b58b65181d9" },
+]
+
+[[release]]
+mbid = "ddf48f2f-1e80-33c1-99e8-57ba9d7ff8fa"
+title = "Hunter"
+type = "single"
+date = "1998-07"
+tracks = [
+  { n = 1, title = "Hunter (radio edit)", mbid = "50f0cf69-0d91-4774-809e-05f52e6da64f" },
+  { n = 2, title = "All Is Full of Love (In Love with Funkstörung remix)", mbid = "13b66c1e-8d29-43cf-82c6-c2b01aaedbce" },
+  { n = 3, title = "Hunter (µ‐Ziq remix)", mbid = "c30edc0d-198d-46eb-b299-79697b746411" },
+]
+
+[[release]]
+mbid = "3f9c1bf3-ff34-3691-9da3-5cd395b81cf9"
+title = "All Is Full of Love"
+type = "single"
+date = "1998-11-01"
+tracks = [
+  { n = 1, title = "All Is Full of Love (In Love With Funkstörung mix)", mbid = "13b66c1e-8d29-43cf-82c6-c2b01aaedbce" },
+  { n = 2, title = "This Shit", mbid = "39d66de6-79e5-4ecc-9ca0-c42e4f37ad37" },
+  { n = 3, title = "All Is Full of Love (Secondotted by Funkstörung)", mbid = "77d71b29-459e-4944-b1b4-c659110905ca" },
+]
+
+[[release]]
+mbid = "aaf53048-4c5a-3724-afc2-b14692ffcc41"
+title = "All Is Full of Love / This Shit"
+type = "single"
+date = "1998-11-01"
+tracks = [
+  { n = 1, title = "All Is Full of Love (In Love With Funkstörung remix)", mbid = "13b66c1e-8d29-43cf-82c6-c2b01aaedbce" },
+  { n = 2, title = "This Shit", mbid = "50ae7a29-659e-4128-b9f0-da7606ac6018" },
+]
+
+[[release]]
+mbid = "0b944244-3dd2-3f26-91d8-67b3a37afa73"
+title = "Alarm Call"
+type = "single"
+date = "1998-11-30"
+tracks = [
+  { n = 1, title = "Alarm Call (Alan Braxe & Benjamin Diamond dub)", mbid = "044b0451-f520-448b-8c06-7fa054dcea77" },
+  { n = 2, title = "Alarm Call (Teasmade dub)", mbid = "e4b5f96b-60a7-4594-8d86-b235b7341a61" },
+  { n = 3, title = "Alarm Call (Alan Braxe & Benjamin Diamond edit)", mbid = "202dbb66-ee12-467d-b7c0-40fae9edac4c" },
+]
+
+[[release]]
+mbid = "14a8c576-44af-36a1-b896-81901705b5b0"
+title = "Selmasongs"
+type = "album"
+date = "2000-08-30"
+tracks = [
+  { n = 1, title = "Overture", mbid = "30b056d4-8867-48e8-8915-2f962d98db86" },
+  { n = 2, title = "Cvalda", mbid = "b7fd5850-bb10-43f9-9e6a-a72e235eb528" },
+  { n = 3, title = "I’ve Seen It All", mbid = "77978516-c4e9-42f2-8b9c-f2b04c6447b7" },
+  { n = 4, title = "Scatterheart", mbid = "3846ed3d-a02a-45c2-9daa-c628acda5a23" },
+  { n = 5, title = "In the Musicals", mbid = "fafc230a-6a27-4740-adf4-422db82f1122" },
+  { n = 6, title = "107 Steps", mbid = "88d18815-0fc9-444e-850f-3d4f4409a765" },
+  { n = 7, title = "New World", mbid = "342eb70c-6003-4dc1-ba64-758b8364e1c0" },
+]
+
+[[release]]
+mbid = "10996280-e2e9-3654-a2b8-615bcca8e633"
+title = "Hidden Place"
+type = "single"
+date = "2001-08-06"
+spotify = "2qNHzSck27fWe9bJX3vAT6"
+tracks = [
+  { n = 1, title = "Hidden Place (edit)", mbid = "68d468a6-fb0c-4525-a110-a9be352e56da" },
+  { n = 2, title = "Generous Palmstroke", mbid = "e146b61b-40c7-4ff9-a564-b7739ad03933" },
+  { n = 3, title = "Verandi", mbid = "17b5ca14-da6f-44e3-aab1-bdafc8546273" },
+]
+
+[[release]]
+mbid = "271faeb3-fdd1-3ebb-80aa-97b3116e9341"
+title = "Vespertine"
+type = "album"
+date = "2001-08-18"
+spotify = "6XRKE2Mh2dyOZWXtw6B6tx"
+tracks = [
+  { n = 1, title = "Hidden Place", mbid = "b37ac7fc-4866-497b-b6cb-7fc643cf40fe" },
+  { n = 2, title = "Cocoon", mbid = "01737b34-e7de-46f1-91bb-8918efaf8efd" },
+  { n = 3, title = "It’s Not Up to You", mbid = "537893ef-12b5-4e53-9fda-e23bb0504184" },
+  { n = 4, title = "Undo", mbid = "94db0c98-33d8-4348-8a15-cdf299b25b25" },
+  { n = 5, title = "Pagan Poetry", mbid = "66dd332c-d163-4dd6-8b3d-7f5900112e99" },
+  { n = 6, title = "Frosti", mbid = "37ad1cd4-7750-43fe-9c21-d89421b8913e" },
+  { n = 7, title = "Aurora", mbid = "a8ecddff-32ff-4cb4-a711-982b4333eff6" },
+  { n = 8, title = "An Echo, a Stain", mbid = "a03c5af8-5a08-46ab-91bc-a0bbb971b464" },
+  { n = 9, title = "Sun in My Mouth", mbid = "3eae854c-1488-409c-a13e-275ea309753d" },
+  { n = 10, title = "Heirloom", mbid = "4fda7d40-e9fa-4721-93c3-0011b99c4e2b" },
+  { n = 11, title = "Harm of Will", mbid = "9d9b1536-28ba-46c5-b794-262abc32208b" },
+  { n = 12, title = "Unison", mbid = "cb4c54ad-91ea-4ea2-8d55-925d8406f7fe" },
+]
+
+[[release]]
+mbid = "12f7311f-1706-315e-8366-1cd038a90750"
+title = "Pagan Poetry"
+type = "single"
+date = "2001-11-05"
+tracks = [
+  { n = 1, title = "Pagan Poetry (video edit)", mbid = "2f2acd65-a9a8-4eba-86fc-4b2eb408b229" },
+  { n = 2, title = "Pagan Poetry (Matthew Herbert Handshake mix)", mbid = "5d727501-b00f-4a65-9ea4-3bd0e6c8cd0a" },
+  { n = 3, title = "Aurora (Opiate version)", mbid = "8d961e3f-a8e1-4ded-a1ec-ac2e7c59f426" },
+]
+
+[[release]]
+mbid = "e45c0d4e-6d6b-356a-a258-08184a196ae5"
+title = "Cocoon"
+type = "single"
+date = "2002-03-11"
+spotify = "1juVUwm1peIrRwYNZHBUsw"
+tracks = [
+  { n = 1, title = "Cocoon", mbid = "01737b34-e7de-46f1-91bb-8918efaf8efd" },
+  { n = 2, title = "Pagan Poetry (Music Box)", mbid = "823d6d2c-380a-4471-accf-5388e5e23537" },
+  { n = 3, title = "Sun in My Mouth (recomposed by Ensemble)", mbid = "21e07987-c89b-4ee7-a772-575666e3bd24" },
+]
+
+[[release]]
+mbid = "c724f74e-a7da-371b-b419-770c675518bf"
+title = "It’s in Our Hands"
+type = "single"
+date = "2002-11-25"
+tracks = [
+  { n = 1, title = "It’s in Our Hands (Soft Pink Truth mix)", mbid = "28ef1c53-5d67-4ebd-8cbf-f4a2d758a8b9" },
+  { n = 2, title = "It’s in Our Hands (Arcade mix)", mbid = "638ac9b1-842a-419f-a65c-e81d385d1722" },
+]
+
+[[release]]
+mbid = "9052bfeb-f4da-33a6-9901-c3fa94b3f613"
+title = "Oceania"
+type = "single"
+date = "2004-08-10"
+spotify = "1yPAKBX6mr9VAbylA00mdx"
+tracks = [
+  { n = 1, title = "Oceania", mbid = "d0423e9d-c956-4de3-b91f-9521b76331db" },
+]
+
+[[release]]
+mbid = "4b2ee53c-6527-30e5-940c-c426a7a6f618"
+title = "Medúlla"
+type = "album"
+date = "2004-08-25"
+spotify = "12n9nyAJ5Q4FHRldrciIPG"
+tracks = [
+  { disc = 1, n = 1, title = "Pleasure Is All Mine", mbid = "27f8ff45-675c-47e3-a17c-f92d6fdb5794" },
+  { disc = 1, n = 2, title = "Show Me Forgiveness", mbid = "3ac42f3e-8e21-44e4-b141-ca00a73103ec" },
+  { disc = 1, n = 3, title = "Where Is the Line", mbid = "89f6db5b-d2b4-49d0-8bea-94d7cf18a130" },
+  { disc = 1, n = 4, title = "Vökuró", mbid = "1669418a-b796-429d-8ef6-033fea0a079d" },
+  { disc = 1, n = 5, title = "Öll birtan", mbid = "9632c30e-49c7-4282-8910-6d7919c5e8fd" },
+  { disc = 1, n = 6, title = "Who Is It (Carry My Joy on the Left, Carry My Pain on the Right)", mbid = "76a58a60-c943-495f-8fe8-6b22bf8fd5f7" },
+  { disc = 1, n = 7, title = "Submarine", mbid = "ba4f6d9a-ba24-4455-b21e-f273195b1d12" },
+  { disc = 1, n = 8, title = "Desired Constellation", mbid = "1ef4c5f2-0991-447a-b51c-d9d8702d0b7c" },
+  { disc = 1, n = 9, title = "Oceania", mbid = "d0423e9d-c956-4de3-b91f-9521b76331db" },
+  { disc = 1, n = 10, title = "Sonnets/Unrealities XI", mbid = "2aace5f4-6cd2-43c2-92aa-dd1491de0e76" },
+  { disc = 1, n = 11, title = "Ancestors", mbid = "a1fc968c-d1bc-49f4-9a7e-41ae861918fb" },
+  { disc = 1, n = 12, title = "Mouth’s Cradle", mbid = "be7a5f8e-48e2-47ae-ba57-33b4f51e9a77" },
+  { disc = 1, n = 13, title = "Miðvikudags", mbid = "b89495f9-49e9-4fda-9fee-b82338eda926" },
+  { disc = 1, n = 14, title = "Triumph of a Heart", mbid = "4a8dd669-559f-4784-8f5c-91876a51eb38" },
+  { disc = 2, n = 1, title = "Pleasure Is All Mine", mbid = "27f8ff45-675c-47e3-a17c-f92d6fdb5794" },
+  { disc = 2, n = 2, title = "Show Me Forgiveness", mbid = "3ac42f3e-8e21-44e4-b141-ca00a73103ec" },
+  { disc = 2, n = 3, title = "Where Is the Line", mbid = "89f6db5b-d2b4-49d0-8bea-94d7cf18a130" },
+  { disc = 2, n = 4, title = "Vökuró", mbid = "1669418a-b796-429d-8ef6-033fea0a079d" },
+  { disc = 2, n = 5, title = "Öll birtan", mbid = "9632c30e-49c7-4282-8910-6d7919c5e8fd" },
+  { disc = 2, n = 6, title = "Who Is It (Carry My Joy on the Left, Carry My Pain on the Right)", mbid = "76a58a60-c943-495f-8fe8-6b22bf8fd5f7" },
+  { disc = 2, n = 7, title = "Submarine", mbid = "ba4f6d9a-ba24-4455-b21e-f273195b1d12" },
+  { disc = 2, n = 8, title = "Desired Constellation", mbid = "1ef4c5f2-0991-447a-b51c-d9d8702d0b7c" },
+  { disc = 2, n = 9, title = "Oceania", mbid = "d0423e9d-c956-4de3-b91f-9521b76331db" },
+  { disc = 2, n = 10, title = "Sonnets/Unrealities XI", mbid = "2aace5f4-6cd2-43c2-92aa-dd1491de0e76" },
+  { disc = 2, n = 11, title = "Ancestors", mbid = "a1fc968c-d1bc-49f4-9a7e-41ae861918fb" },
+  { disc = 2, n = 12, title = "Mouth’s Cradle", mbid = "be7a5f8e-48e2-47ae-ba57-33b4f51e9a77" },
+  { disc = 2, n = 13, title = "Miðvikudags", mbid = "b89495f9-49e9-4fda-9fee-b82338eda926" },
+  { disc = 2, n = 14, title = "Triumph of a Heart", mbid = "19bb6d5d-8e3c-4113-8dd1-ac3289d6363a" },
+  { disc = 3, n = 1, title = "Pleasure Is All Mine", mbid = "f091aff3-a308-4c95-9e3a-3416bf85a965" },
+  { disc = 3, n = 2, title = "Show Me Forgiveness", mbid = "30b72b98-ad03-4e42-b51c-6f96750b9220" },
+  { disc = 3, n = 3, title = "Where Is the Line", mbid = "beef9ab1-a89b-4a3f-9aad-95ace82d10b6" },
+  { disc = 3, n = 4, title = "Vökuró", mbid = "3226a042-ef93-44bc-b404-d18c8643967c" },
+  { disc = 3, n = 5, title = "Öll birtan", mbid = "f7d2b9c0-3b83-475f-a678-8efec7ea0a99" },
+  { disc = 3, n = 6, title = "Who Is It (Carry My Joy on the Left, Carry My Pain on the Right)", mbid = "cfbc7473-24d9-4a48-9ba4-984be051717e" },
+  { disc = 3, n = 7, title = "Submarine", mbid = "b1f1fbf7-f9ae-4ed1-a691-7c41b53e1ed2" },
+  { disc = 3, n = 8, title = "Desired Constellation", mbid = "27c9d22c-945d-4565-899a-54c1fcd4e34b" },
+  { disc = 3, n = 9, title = "Oceania", mbid = "f3b146b5-373e-4b9f-8236-2195809b97fe" },
+  { disc = 3, n = 10, title = "Sonnets/Unrealities XI", mbid = "492ffef4-13d5-431c-bcac-3abe86eab771" },
+  { disc = 3, n = 11, title = "Ancestors", mbid = "8dad0fef-50ed-4b31-886e-c380c0072a2c" },
+  { disc = 3, n = 12, title = "Mouth’s Cradle", mbid = "7be2c63e-ac7b-4fdb-9d83-fd8e232a9cbe" },
+  { disc = 3, n = 13, title = "Miðvikudags", mbid = "71e4dc52-809a-432b-8b54-e1059a63b495" },
+  { disc = 3, n = 14, title = "Triumph of a Heart", mbid = "e65cff94-e76b-44b6-ad41-ab75bb1eec78" },
+]
+
+[[release]]
+mbid = "4a311145-f4a4-31cc-b174-a2097f52f947"
+title = "Who Is It"
+type = "single"
+date = "2004-09"
+tracks = [
+]
+
+[[release]]
+mbid = "26d457a3-1232-3e37-a8b5-f3a0c17a0dc1"
+title = "Triumph of a Heart"
+type = "single"
+date = "2005-02-28"
+tracks = [
+  { n = 1, title = "Triumph of a Heart (Audition mix)", mbid = "c9ae912e-0197-440e-9872-1ac0364876b5" },
+  { n = 2, title = "Vökuró (VV mix)", mbid = "e5e8121f-b11e-4c8b-8c7a-df4c61f91f3e" },
+  { n = 3, title = "Mouth’s Cradle (Mouth Recomposed by Ensemble)", mbid = "55a6195a-0727-47fd-94b4-9b3d982c9ec0" },
+  { n = 4, title = "Desired Constellation (Ben Frost’s School of Emotional Engineering mix)", mbid = "152b2041-8f68-40d8-ace5-a2677c2e4c3f" },
+  { n = 5, title = "Triumph of a Heart (radio edit)", mbid = "27345891-0c5f-466f-a993-94e9d82189d4" },
+]
+
+[[release]]
+mbid = "74cb57f7-b5f9-3464-aa12-914a4d306598"
+title = "Drawing Restraint 9"
+type = "album"
+date = "2005-07-25"
+tracks = [
+  { n = 1, title = "Gratitude", mbid = "ddf25f6a-8c45-4518-b61b-907b7990434d" },
+  { n = 2, title = "Pearl", mbid = "585b2efb-71f9-463f-899b-8149c38a7fb4" },
+  { n = 3, title = "Ambergris March", mbid = "263f6507-635f-4198-86f5-a8d1ae5076c6" },
+  { n = 4, title = "Bath", mbid = "5b147c9e-f6c2-417a-b2f1-497943354c29" },
+  { n = 5, title = "Hunter Vessel", mbid = "23f26097-ac1e-4a7c-95e7-31373afaa40b" },
+  { n = 6, title = "Shimenawa", mbid = "5e444628-3016-44c8-be1c-04da4397539a" },
+  { n = 7, title = "Vessel Shimenawa", mbid = "291990d8-f0ab-483b-8b7e-db2ba23aa90c" },
+  { n = 8, title = "Storm", mbid = "2b26d11d-ee16-4241-bbe6-064fafa95687" },
+  { n = 9, title = "Holographic Entrypoint", mbid = "ee0cf82b-128e-4178-8e3c-1af1dbbdad94" },
+  { n = 10, title = "Cetacea", mbid = "115546e4-2a66-4d1d-9249-71f34f1a975a" },
+  { n = 11, title = "Antarctic Return", mbid = "0ed2a8a2-5485-4098-b431-38db28808fc8" },
+]
+
+[[release]]
+mbid = "77905789-366f-332c-a280-fdd0686e8832"
+title = "Earth Intruders"
+type = "single"
+date = "2007-04-09"
+tracks = [
+  { n = 1, title = "Earth Intruders (Mark Stent extended mix)", mbid = "95d9941b-935f-406f-8aa9-086e0c4506bb" },
+]
+
+[[release]]
+mbid = "dd749dc7-dd75-35e7-86fe-3c1db24483c0"
+title = "Volta"
+type = "album"
+date = "2007-04-23"
+spotify = "64EKrS1Ubw2rQ9qn9QRUq3"
+tracks = [
+  { n = 1, title = "Earth Intruders", mbid = "e65ddfe1-8b2c-492f-a734-dafaa3cc7322" },
+  { n = 2, title = "Wanderlust", mbid = "00b07689-ec4c-4773-94ce-06f3d198431e" },
+  { n = 3, title = "The Dull Flame of Desire", mbid = "49f8a823-b59b-4b84-a4a6-5c2abfa819bf" },
+  { n = 4, title = "Innocence", mbid = "90fffd7f-ab93-4b5d-9cde-a4acd3af0829" },
+  { n = 5, title = "I See Who You Are", mbid = "0aa7be96-678d-4b2f-98ff-68624af0e019" },
+  { n = 6, title = "Vertebræ by Vertebræ", mbid = "a9ef17cf-0524-4f13-b9e8-f0406cf9f53f" },
+  { n = 7, title = "Pneumonia", mbid = "897c585f-c0ed-4ea2-ad20-457ed9e1c0cc" },
+  { n = 8, title = "Hope", mbid = "19853c9a-49e5-4800-948c-b29c180ed9ba" },
+  { n = 9, title = "Declare Independence", mbid = "fa5155e9-e6f6-4ccb-ba22-710d24eacd79" },
+  { n = 10, title = "My Juvenile", mbid = "94864522-ca83-48ed-93fb-efefaa2f7b7a" },
+]
+
+[[release]]
+mbid = "0cf8932b-a103-30c9-ae12-9ab5dcce9bae"
+title = "Innocence"
+type = "single"
+date = "2007-06-30"
+tracks = [
+  { n = 1, title = "Innocence (Mark Stent mix)", mbid = "f90cec50-7524-442d-94ff-782a7253a702" },
+  { n = 2, title = "Innocence (Simian Mobile disco 12″)", mbid = "39b6b220-fc21-4f81-bfc8-f669ef0d30e0" },
+  { n = 3, title = "Innocence (Alva Noto Unitxt Remodel 12″)", mbid = "f0182f30-135e-4891-8f58-4884f246fa40" },
+  { n = 4, title = "Innocence (Ghostigital Untouchable Innocence Still Amazes 12″)", mbid = "da5f42e4-a7ac-41a2-a474-bbc819de8b14" },
+]
+
+[[release]]
+mbid = "9d54d32c-8003-32df-81b9-a4d3fe006271"
+title = "Declare Independence"
+type = "single"
+date = "2008-01-01"
+tracks = [
+  { n = 1, title = "Declare Independence (Mark Stent mix)", mbid = "ef3aa3e0-5ed4-44e3-8be2-7982ce104e6f" },
+  { n = 2, title = "Declare Independence (Ghostigital in deep end dance 12″ remix)", mbid = "77654dff-66a7-4185-9b31-2769f9998f62" },
+  { n = 3, title = "Declare Independence (Matthew Herbert 12″ mix)", mbid = "e3023c3d-58db-4f73-8625-9a792c0d8f60" },
+  { n = 4, title = "Declare Independence (Mark Stent instrumental)", mbid = "4d5fc286-aafb-4524-9807-0dfebfe1f242" },
+]
+
+[[release]]
+mbid = "7cd4b89a-c9b3-3645-9d0d-9ffc04aa2787"
+title = "Wanderlust"
+type = "single"
+date = "2008-03-10"
+tracks = [
+  { n = 1, title = "Wanderlust (Mark Stent mix)", mbid = "d9d63650-4137-461f-a877-ac2856941872" },
+  { n = 2, title = "Wanderlust (Matthew Herbert remix)", mbid = "7cec93d5-b6da-46e7-ac1d-7b46f7295f19" },
+  { n = 3, title = "Wanderlust (Ratatat remix)", mbid = "48560970-3a98-406e-ad56-3e2ce467bf74" },
+  { n = 4, title = "Wanderlust (Mark Stent instrumental)", mbid = "930c76d9-48bc-4352-8b20-def7ebd1d70d" },
+  { n = 5, title = "Wanderlust", mbid = "b3a63952-d6ec-431b-bf98-6694cd2e6bd4" },
+]
+
+[[release]]
+mbid = "8a184e23-bb96-3808-a127-b0d9f6d661d8"
+title = "Dull Flame of Desire"
+type = "single"
+date = "2008-08"
+tracks = [
+  { n = 1, title = "Dull Flame of Desire (Modeselektor remix for Girls)", mbid = "b7f094e7-5ebf-4d3f-abdf-c3a41e25bb5c" },
+  { n = 2, title = "Dull Flame of Desire (Modeselektor remix for Boys)", mbid = "b565a5a5-857e-4f8d-82a9-97d7ffee1ff6" },
+]
+
+[[release]]
+mbid = "54276e60-7fdc-3c99-98bb-7f038f5fce0e"
+title = "Náttúra"
+type = "single"
+date = "2008-10-20"
+tracks = [
+  { n = 1, title = "Náttúra", mbid = "00218e24-e3ad-4e0a-b88f-8dbb9c64473b" },
+]
+
+[[release]]
+mbid = "cc15b83c-3952-4d71-91f9-ad9ebb863685"
+title = "Mount Wittenberg Orca"
+type = "ep"
+date = "2010-06-30"
+spotify = "1C9sn8azB8qNZyPSCgkNJz"
+tracks = [
+  { n = 1, title = "Ocean", mbid = "ee57d41a-783f-41ab-b692-948c54366b0e" },
+  { n = 2, title = "On and Ever Onward", mbid = "d088848b-38c3-441c-904f-6572d3dba6a4" },
+  { n = 3, title = "When the World Comes to an End", mbid = "c52309e0-6d2a-45a5-ae3c-29371c38dd0f" },
+  { n = 4, title = "Beautiful Mother", mbid = "ca443d64-e0c6-411c-b701-cd0013c20889" },
+  { n = 5, title = "Sharing Orb", mbid = "5cf249be-d098-4cce-8892-232c61641270" },
+  { n = 6, title = "No Embrace", mbid = "466b89b9-76aa-49d1-b45f-79b09b173fd8" },
+  { n = 7, title = "All We Are", mbid = "44f1ebd9-0530-4fb4-8bdd-0d1c804dec92" },
+]
+
+[[release]]
+mbid = "98b5cf70-9ca1-4fbb-a6a4-3bf328220b05"
+title = "The Comet Song"
+type = "single"
+date = "2010-09-06"
+spotify = "3lFLcRsCRxtIFxZeLRebfr"
+tracks = [
+  { n = 1, title = "The Comet Song", mbid = "bec22ac7-e4af-4923-96bd-217b47f8a13e" },
+]
+
+[[release]]
+mbid = "1ca32aa8-3bf3-4748-bdfa-34642a44eace"
+title = "Cosmogony"
+type = "single"
+date = "2011-07-19"
+tracks = [
+  { n = 1, title = "Cosmogony (Serban Ghenea mix)", mbid = "cde136e5-c24d-4190-a8d2-86c12191df14" },
+]
+
+[[release]]
+mbid = "02c74661-2f8b-43e4-9078-e2ff0c285508"
+title = "Virus"
+type = "single"
+date = "2011-08-08"
+tracks = [
+  { n = 1, title = "Virus", mbid = "12c68b61-c8ef-4c5a-b5a4-fac36c32f579" },
+]
+
+[[release]]
+mbid = "71f4a0a1-b588-4aa8-98fd-594c3eebbac2"
+title = "Moon"
+type = "single"
+date = "2011-09-06"
+tracks = [
+  { n = 1, title = "Moon", mbid = "ee6a8d32-27b8-4aca-87d8-2a1ed5cb5c97" },
+]
+
+[[release]]
+mbid = "61db2db8-1775-4663-9dff-d5ec2139dbea"
+title = "Biophilia"
+type = "album"
+date = "2011-10-05"
+spotify = "5GV4CBWPqU7P05KUaKyDZ1"
+tracks = [
+  { disc = 1, n = 1, title = "Moon", mbid = "ee6a8d32-27b8-4aca-87d8-2a1ed5cb5c97" },
+  { disc = 1, n = 2, title = "Thunderbolt", mbid = "cf2038f5-1050-47d4-b3b1-c0b7a9294d2d" },
+  { disc = 1, n = 3, title = "Crystalline", mbid = "ded534e0-8e0e-41f8-9a0d-6d5b135a33d9" },
+  { disc = 1, n = 4, title = "Cosmogony", mbid = "e05802d4-39c5-47b8-a74c-c07522a2340b" },
+  { disc = 1, n = 5, title = "Dark Matter", mbid = "f8e49581-8924-4443-91b3-aa33a26a1310" },
+  { disc = 2, n = 1, title = "Hollow", mbid = "89ea2b40-96d9-4e08-91df-14c2a95862fb" },
+  { disc = 2, n = 2, title = "Virus", mbid = "12c68b61-c8ef-4c5a-b5a4-fac36c32f579" },
+  { disc = 2, n = 3, title = "Sacrifice", mbid = "6bab5282-5ee5-45f9-8bf3-af9bb880aa35" },
+  { disc = 2, n = 4, title = "Mutual Core", mbid = "5a91d9b9-7040-4f31-8351-5d3210273c91" },
+  { disc = 2, n = 5, title = "Solstice", mbid = "f128ee41-995c-438c-9f50-8a0dd9ad5f1e" },
+]
+
+[[release]]
+mbid = "73efadfc-07db-42bd-81ab-7a35a2601990"
+title = "Vulnicura"
+type = "album"
+date = "2015-01-20"
+spotify = "6sJTyQHzjefi0GgknYCgBf"
+tracks = [
+  { n = 1, title = "Stonemilker", mbid = "d5381101-4d6b-4331-b7c9-709188d7dca2" },
+  { n = 2, title = "Lionsong", mbid = "b0069a45-df23-4a20-883c-d032985747f3" },
+  { n = 3, title = "History of Touches", mbid = "70026b20-d981-48ef-a12a-7300ab156fe2" },
+  { n = 4, title = "Black Lake", mbid = "d61b45ac-2167-4ffd-80f0-7a49ebd6c00b" },
+  { n = 5, title = "Family", mbid = "cef1d961-4660-4b45-a02c-74d6c5bd7121" },
+  { n = 6, title = "Notget", mbid = "083b56f6-4fe6-4ff7-900b-f9e009404151" },
+  { n = 7, title = "Atom Dance", mbid = "47376f61-e186-43f8-afcb-91852c066696" },
+  { n = 8, title = "Mouth Mantra", mbid = "31c025a4-471a-48a7-8c57-2af66e7821c9" },
+  { n = 9, title = "Quicksand", mbid = "bf1e290b-7506-4a89-9e46-6c20c0c937fc" },
+]
+
+[[release]]
+mbid = "3c1ca5e3-ef25-4902-87cb-8c3dda84d642"
+title = "The Gate"
+type = "single"
+date = "2017-09-15"
+spotify = "1HPL1gEeGKq3KqIZQacSky"
+tracks = [
+  { n = 1, title = "The Gate", mbid = "a7395cbb-38e9-4f7b-a20d-1a8ac9cad663" },
+]
+
+[[release]]
+mbid = "5440ac8c-b27e-4f15-821e-5e18db8a613d"
+title = "Blissing Me"
+type = "single"
+date = "2017-11"
+tracks = [
+  { n = 1, title = "Blissing Me", mbid = "3ce2791f-6a02-4e7b-a688-e0fa4217e71b" },
+]
+
+[[release]]
+mbid = "c137e1f0-00bf-4bee-8d69-631664b52d1f"
+title = "Utopia"
+type = "album"
+date = "2017-11-24"
+tracks = [
+  { n = 1, title = "Arisen My Senses", mbid = "9b42deb7-e336-4dd3-9710-2ffad6596bde" },
+  { n = 2, title = "Blissing Me", mbid = "3ce2791f-6a02-4e7b-a688-e0fa4217e71b" },
+  { n = 3, title = "The Gate", mbid = "a7395cbb-38e9-4f7b-a20d-1a8ac9cad663" },
+  { n = 4, title = "Utopia", mbid = "92b61526-9169-4eea-8067-ef9dca0c758c" },
+  { n = 5, title = "Body Memory", mbid = "1e2db8b7-98c4-492e-9453-b9e58f40c5d5" },
+  { n = 6, title = "Features Creatures", mbid = "7be51eb1-3424-41d3-af44-ed3273edd8cb" },
+  { n = 7, title = "Courtship", mbid = "0439c64d-1d38-49e1-ba17-7d11fcda08fa" },
+  { n = 8, title = "Losss", mbid = "b0bd3afd-5a53-4aff-a3cb-c398b9ab0481" },
+  { n = 9, title = "Sue Me", mbid = "c6cbbeb9-7628-47e8-a987-de55a4cbad83" },
+  { n = 10, title = "Tabula Rasa", mbid = "b3ae5bcc-3b1b-4731-ba0b-9a9837fa7bfc" },
+  { n = 11, title = "Claimstaker", mbid = "3870b8a5-dd22-475c-b510-199646eecbae" },
+  { n = 12, title = "Paradisia", mbid = "e07544d5-41ff-4562-bb5a-adb87a4c21c4" },
+  { n = 13, title = "Saint", mbid = "28b91ac6-adcb-463f-bb0b-dd64f5cd3735" },
+  { n = 14, title = "Future Forever", mbid = "721f8ccb-867a-4d97-b2a4-52a804fe8f36" },
+]
+
+[[release]]
+mbid = "7b994f69-d884-4a03-b7a0-002f3836ad3b"
+title = "Cosmogony"
+type = "single"
+date = "2021-07-17"
+tracks = [
+  { n = 1, title = "Cosmogony", mbid = "e05802d4-39c5-47b8-a74c-c07522a2340b" },
+  { n = 2, title = "Cosmogony", mbid = "e1cdf81b-7bfb-4b1e-903f-3a669735c46d" },
+]
+
+[[release]]
+mbid = "4acb2470-2d62-4ad2-8a0f-38278c1a4dfc"
+title = "Atopos"
+type = "single"
+date = "2022-09-06"
+spotify = "4gsVIuKRUMJCdNhHTx5GrI"
+tracks = [
+  { n = 1, title = "Atopos", mbid = "155eb431-d481-4372-a8dd-422e4ffb41bb" },
+]
+
+[[release]]
+mbid = "37bb2392-a650-47b3-af5b-3e707fee8021"
+title = "Ovule"
+type = "single"
+date = "2022-09-14"
+spotify = "5GQmiJ4JRv6pvcTZbBD4Wu"
+tracks = [
+  { n = 1, title = "Ovule", mbid = "cd960dc6-bcb8-4191-aedb-307dc7d774f1" },
+]
+
+[[release]]
+mbid = "0684e720-b02c-4346-81f3-8a4035e62c94"
+title = "Ancestress"
+type = "single"
+date = "2022-09-22"
+spotify = "0jCkMoUbLY2mRk5K0bsm2u"
+tracks = [
+  { n = 1, title = "Ancestress", mbid = "5f2224ba-1e1d-421a-89a1-3094bf173e09" },
+]
+
+[[release]]
+mbid = "ee4d0453-8f59-4dde-a20f-49f60903721d"
+title = "Fossora"
+type = "single"
+date = "2022-09-27"
+spotify = "7e6uoS4ZUhqdj913eyhefg"
+tracks = [
+  { n = 1, title = "Fossora", mbid = "82ac478f-9756-43d2-858a-a8363d6420a3" },
+]
+
+[[release]]
+mbid = "b1977359-d45c-4e49-8ae7-1dbbb37f0811"
+title = "Fossora"
+type = "album"
+date = "2022-09-30"
+spotify = "0KVdzmHHGGE8STv19uYPiL"
+tracks = [
+  { disc = 1, n = 1, title = "Atopos", mbid = "155eb431-d481-4372-a8dd-422e4ffb41bb" },
+  { disc = 1, n = 2, title = "Ovule", mbid = "cd960dc6-bcb8-4191-aedb-307dc7d774f1" },
+  { disc = 1, n = 3, title = "Mycelia", mbid = "9e560a39-6cb5-4a26-bc1e-f76693f25cc1" },
+  { disc = 1, n = 4, title = "Sorrowful Soil", mbid = "ed9b52f6-7f9b-43cc-a8a0-a367ed0f29fa" },
+  { disc = 1, n = 5, title = "Ancestress", mbid = "5f2224ba-1e1d-421a-89a1-3094bf173e09" },
+  { disc = 1, n = 6, title = "Fagurt er í Fjörðum", mbid = "34f74929-8fe9-4d74-b852-72c01cb83331" },
+  { disc = 2, n = 1, title = "Victimhood", mbid = "ee0f2530-fd22-48ae-bb53-f2efc61e6678" },
+  { disc = 2, n = 2, title = "Allow", mbid = "7d6ab109-e683-4081-854f-0ab485d18090" },
+  { disc = 2, n = 3, title = "Fungal City", mbid = "ac4b8dfd-a287-47fe-a46d-b99645c008ac" },
+  { disc = 2, n = 4, title = "Trölla‐Gabba", mbid = "55ba7b66-16df-48bb-9eee-41edc1028d8a" },
+  { disc = 2, n = 5, title = "Freefall", mbid = "c06a3275-c473-4b9f-b7d9-beb6be5eb6a8" },
+  { disc = 2, n = 6, title = "Fossora", mbid = "82ac478f-9756-43d2-858a-a8363d6420a3" },
+  { disc = 2, n = 7, title = "Her Mother’s House", mbid = "b14871a9-f299-42d1-8170-c2f6465ad59d" },
+]
+
+[[release]]
+mbid = "2aa90433-5cf4-4fd8-9a7f-44ed16064d7c"
+title = "Oral"
+type = "single"
+date = "2023-11-21"
+spotify = "0Jldmuyjx6v7nMefI7y00r"
+tracks = [
+  { n = 1, title = "Oral", mbid = "7d535b41-4340-43bc-9efe-3ff09a0b2794" },
+]
+
+[[release]]
+mbid = "05be6a78-16b4-4010-b57c-be8b9ed71600"
+title = "Berghain"
+type = "single"
+date = "2025-10-27"
+spotify = "0avVU24xBfXW7ItE0xtzN2"
+tracks = [
+  { n = 1, title = "Berghain", mbid = "3b0c03a0-d334-43a1-b501-4a7aa29f1459" },
+]

@@ -1,0 +1,224 @@
+format = 1
+
+[[release]]
+mbid = "3a713876-82bb-40f3-9f01-04e261aa8f09"
+title = "Bertrand Belin"
+type = "album"
+date = "2005-02-14"
+spotify = "223xryYEA52HZ3YSH6bJqf"
+tracks = [
+  { n = 1, title = "Porto", mbid = "2021f862-04e0-4ef4-b3a3-40a8d550fc4a" },
+  { n = 2, title = "Amoureux fou", mbid = "ac2acffc-8a32-4ee4-9faf-7b24a072f2f5" },
+  { n = 3, title = "Le Colosse", mbid = "390200b7-12db-4f9f-aa17-3d467daa415e" },
+  { n = 4, title = "Madeleine", mbid = "01d8164f-3877-4bc6-9dd9-697e8eb6fa19" },
+  { n = 5, title = "La Fleur", mbid = "7fd73d94-c8a7-4eb2-8079-0ec9d6207f69" },
+  { n = 6, title = "T'as l'vin t'as pas l'vin", mbid = "d13620b3-366a-4659-9ef9-eb7f17ad9a51" },
+  { n = 7, title = "La Longue Danseuse", mbid = "261c992f-c79f-4472-a69d-19668fe8be68" },
+  { n = 8, title = "Neptune", mbid = "895afcc1-e29d-412e-8cf2-f8b4bb93a227" },
+  { n = 9, title = "Barcelone", mbid = "96600bfe-ca59-42f5-8603-f2dabcd72e54" },
+  { n = 10, title = "Carminha Minha", mbid = "bbd19484-a76f-4681-8a72-8607a5227e72" },
+  { n = 11, title = "Terminus le treport", mbid = "e97f2a45-3fed-46b2-8119-dff87e3a5996" },
+  { n = 12, title = "Le Tatouage", mbid = "624130b7-9aac-4c21-94df-7315f68d4950" },
+]
+
+[[release]]
+mbid = "15c03e4a-d047-3cc3-85c2-4927299c5913"
+title = "La Perdue"
+type = "album"
+date = "2007-03-05"
+spotify = "31FCkOFrPEszeuYjlZ2ppb"
+tracks = [
+  { n = 1, title = "Le trou dans ta poitrine", mbid = "31770274-6b70-4f09-b3b9-a9bb05a3e9e1" },
+  { n = 2, title = "Rien à la ville", mbid = "f769e351-c178-4598-a0bd-f22add4fae4b" },
+  { n = 3, title = "La perdue", mbid = "9d5e3682-12d4-4b05-a98f-180da79d5f43" },
+  { n = 4, title = "La tranchée", mbid = "4cb1e506-452f-4754-b9c8-40336c37c357" },
+  { n = 5, title = "Tes délices", mbid = "329f6261-b187-4601-87f9-8ace6c614009" },
+  { n = 6, title = "Ali et Maria", mbid = "a39b8327-6427-4bf7-ba80-079226d5fee4" },
+  { n = 7, title = "Des os de seiche", mbid = "575bdc1f-7b9b-4e30-a386-67728575a2a3" },
+  { n = 8, title = "Les oiseaux", mbid = "59e98c3a-3b43-4520-97b2-05dbc0452723" },
+  { n = 9, title = "L'aube posée", mbid = "2bb612fb-74e4-4d90-9f12-0ddea156d6f1" },
+  { n = 10, title = "Au coeur des astres", mbid = "04a44195-1dd8-47a4-bb57-8edb522d2d05" },
+  { n = 11, title = "Menuet", mbid = "e777cf52-af2b-45a1-b6a5-d1ddc93089b8" },
+  { n = 12, title = "Les orchidées", mbid = "8334f9e4-b911-4205-a720-e37888df3aee" },
+]
+
+[[release]]
+mbid = "365d5d07-80f8-4c3b-8060-e62673c767cd"
+title = "Hypernuit"
+type = "album"
+date = "2010-09-20"
+spotify = "2Li845dBQntGkdo1medcj9"
+tracks = [
+  { n = 1, title = "Y en a-t-il", mbid = "4c17f400-60d2-4f83-8665-87bf0bc705f8" },
+  { n = 2, title = "Hypernuit", mbid = "b8b9120a-e115-441d-9f00-80c94cb8f303" },
+  { n = 3, title = "Tout a changé", mbid = "346c83c8-4332-4893-b8b8-966115fe93d8" },
+  { n = 4, title = "Avant les forêts", mbid = "0806e699-0acc-4d84-bcfc-e0da2365d29c" },
+  { n = 5, title = "Neige au soleil", mbid = "1762afcb-d533-4952-951c-f885d5daece1" },
+  { n = 6, title = "Ne sois plus mon frère", mbid = "cae3d7a3-890d-4bd4-883b-d42c24266082" },
+  { n = 7, title = "Vertige horizontal", mbid = "c26c0a41-3781-4b28-bef7-7f19a56ca691" },
+  { n = 8, title = "Long lundi", mbid = "f2d0053f-2555-4660-b92f-63690ad6a0af" },
+  { n = 9, title = "Nord de tout", mbid = "432f1122-a0f2-4fc8-a4f6-7b9756708f15" },
+  { n = 10, title = "Ta peau", mbid = "4a106417-6d47-404e-bff0-bbab92ecf183" },
+  { n = 11, title = "La Chaleur", mbid = "55c351b7-ed59-4e6c-8d79-317cffb128f9" },
+]
+
+[[release]]
+mbid = "9a0eeec9-3969-4eb8-83b9-25ff6da80c3e"
+title = "Parcs"
+type = "album"
+date = "2013-05-27"
+tracks = [
+  { n = 1, title = "Comment ça se danse", mbid = "950e28d2-463e-4aa8-af2a-089fa1606f3b" },
+  { n = 2, title = "Ruine", mbid = "13830ca7-ca9e-477a-8c11-6d46b0dda749" },
+  { n = 3, title = "Aller sans but", mbid = "ee24909d-373d-40e6-9b78-6b080d687352" },
+  { n = 4, title = "Un déluge", mbid = "cee30319-c864-4415-a8cf-c311c8aa721f" },
+  { n = 5, title = "Ça va ça va ça va ça va", mbid = "b2aa1300-74de-483d-a9c6-1377f9d11699" },
+  { n = 6, title = "Plonge", mbid = "04ce3343-51d8-45c2-b6f4-406a47e1887f" },
+  { n = 7, title = "Pour un oui pour un non", mbid = "d99d4a22-48be-4fc1-bde1-439df45731b5" },
+  { n = 8, title = "Requin", mbid = "54d9f9b1-c724-427f-9067-a6bc0ae08ad4" },
+  { n = 9, title = "Peggy", mbid = "da48b66c-9df9-4eb4-ba77-37a23211ec03" },
+  { n = 10, title = "Sous les pas", mbid = "8eeb274e-70b9-4b19-ad02-1100aeeef304" },
+  { n = 11, title = "Pauvre grue", mbid = "61103974-4e98-4f75-9b49-6821d58e5fd3" },
+  { n = 12, title = "Capucine", mbid = "e0653938-e9d6-4b7b-aa8c-03c0c281cc43" },
+]
+
+[[release]]
+mbid = "f4a16278-21bb-4db3-8b43-407a466b0b69"
+title = "Folle Folle Folle"
+type = "single"
+date = "2015-06-22"
+tracks = [
+  { n = 1, title = "Folle Folle Folle", mbid = "0b60f70a-c03c-4038-9bbd-25593a6d6ece" },
+]
+
+[[release]]
+mbid = "70751176-1ebf-44f2-80dd-bc41eda5f91c"
+title = "Cap Waller"
+type = "album"
+date = "2015-10-13"
+spotify = "37bXHEgdIlT2MhbPfkNDO8"
+tracks = [
+  { n = 1, title = "Que tu dis", mbid = "db0509fd-942b-4e69-8235-5f7e4d238bcd" },
+  { n = 2, title = "Folle folle folle", mbid = "c34eb43c-7788-42ac-ad6c-6628c17c47f7" },
+  { n = 3, title = "Douves", mbid = "60191db2-c70c-4278-b6f2-bc8010eb7ae6" },
+  { n = 4, title = "Je parle en fou", mbid = "f8534c07-b932-409f-ad28-c0fbe0a0d941" },
+  { n = 5, title = "Altesse", mbid = "54c07988-1514-486b-8733-15b2d89d138a" },
+  { n = 6, title = "L'Ajournement", mbid = "984c0c20-58ab-4963-ab2b-ad76e5f9576d" },
+  { n = 7, title = "Le Mot juste", mbid = "1d8c146c-fd82-46a8-b81e-64b8f4be282b" },
+  { n = 8, title = "D'une dune", mbid = "586bb5b5-9617-40f0-870c-ef08848e0b8b" },
+  { n = 9, title = "Au jour le jour", mbid = "47c50d09-3cf2-4603-a407-b815cf4fe9be" },
+  { n = 10, title = "Entre les ifs", mbid = "d79632ca-4cd5-4e0a-9a82-95e253659188" },
+  { n = 11, title = "Soldat", mbid = "bd57d374-abd1-4648-a8e1-1b2b0d91e8dc" },
+]
+
+[[release]]
+mbid = "b5d04eb1-4aae-412b-96d1-a120c2623097"
+title = "Persona"
+type = "album"
+date = "2019-01-15"
+tracks = [
+  { n = 1, title = "Bec", mbid = "e9426897-108b-4495-8fd0-edf9cbea5d34" },
+  { n = 2, title = "Glissé redressé", mbid = "0096e896-ef2d-4d85-ba83-6a7967880eed" },
+  { n = 3, title = "De corps et d'esprit", mbid = "a08e457f-9f73-438b-9b36-9f2a01debba0" },
+  { n = 4, title = "Bronze", mbid = "9c202230-3179-49c3-a5a3-f87661dbb6b6" },
+  { n = 5, title = "Grand duc", mbid = "3904a810-8e4a-43fe-9dde-4914ddb951cd" },
+  { n = 6, title = "Choses nouvelles", mbid = "39e15a97-7bbb-477d-9c2b-d9186b001682" },
+  { n = 7, title = "Sous les lilas", mbid = "ae2db109-b1e8-4a4b-bee8-38ccc078a9a6" },
+  { n = 8, title = "Sur le cul", mbid = "dd09a1b1-04bc-4494-aab4-124a4f300ea0" },
+  { n = 9, title = "Camarade", mbid = "91323c76-fc1e-456f-9b25-e3416075191e" },
+  { n = 10, title = "Vertical (Dindon)", mbid = "40322dc3-5e8e-4f6f-b6cb-879f9a91fd33" },
+  { n = 11, title = "Nuits bleues", mbid = "5f75b09b-9296-44d2-ab53-c982cf24cf73" },
+  { n = 12, title = "L'Opéra", mbid = "d538f0dd-8a31-4b21-8891-787f4dd5223c" },
+  { n = 13, title = "En rang (Euclide)", mbid = "57298156-04e7-49e7-8743-4950a796d3d2" },
+]
+
+[[release]]
+mbid = "3dddfb48-aa93-4c1a-91af-935a493e23cc"
+title = "Ô Le Coeur (We Are Not Machines remix by Brett Bullion)"
+type = "single"
+date = "2022-01-28"
+spotify = "1oZSNL2gboO14uF3VWuh5I"
+tracks = [
+  { n = 1, title = "Ô Le Coeur (We Are Not Machines remix by Brett Bullion)", mbid = "af226a7b-dc98-44f2-b5a2-cefabd3b0d42" },
+]
+
+[[release]]
+mbid = "cc38b89a-90e6-4518-8176-42ec86ffb3c7"
+title = "Tambour Vision"
+type = "album"
+date = "2022-05-06"
+spotify = "7dzdBlEXzOJFacmsWPkfHM"
+tracks = [
+  { n = 1, title = "Carnaval", mbid = "b92b0996-502b-486b-bb6e-1c127488ff08" },
+  { n = 2, title = "Que dalle tout", mbid = "8f0d7e7d-1fe2-4dfb-899f-b4acd8192aad" },
+  { n = 3, title = "Tambour", mbid = "e8be998d-d6e9-48fd-9e26-5143ddd976d2" },
+  { n = 4, title = "T'as vu sa figure", mbid = "d232a7b0-9b71-4338-a59c-2df9e85b0b32" },
+  { n = 5, title = "Alleluia", mbid = "210ca2df-2181-4266-b93b-225e88a9ea37" },
+  { n = 6, title = "Marguerite", mbid = "cf4c4c18-3394-4a03-93be-a38d3a421841" },
+  { n = 7, title = "Lavé de tes doutes", mbid = "c474c29e-9fbb-4339-b53a-ad58f714fa5d" },
+  { n = 8, title = "National", mbid = "62f80b74-b593-4d81-99d9-3ea6fad1709b" },
+  { n = 9, title = "Pipe", mbid = "baca7ecc-3410-47f4-91d0-a2b195d6410c" },
+  { n = 10, title = "La Comédie", mbid = "0bca94d1-2615-43aa-b65e-b4d64c75e2d6" },
+  { n = 11, title = "Maître du Luth", mbid = "953c322b-bdda-4625-919f-76b82db02c10" },
+]
+
+[[release]]
+mbid = "913a2637-4f2f-4a83-9100-e092e2582c4e"
+title = "Encore"
+type = "album"
+date = "2022-09-20"
+spotify = "19FD8npCTwKhHW9aaL5TGt"
+tracks = [
+  { n = 1, title = "Party", mbid = "6fa13e63-1012-4b16-83ee-4830e11f4948" },
+  { n = 2, title = "The Rich", mbid = "40573aa7-5a9b-438f-b266-3d4f2d44ce2c" },
+  { n = 3, title = "22 Minutes", mbid = "9b6c56fa-e8f2-459c-b10a-11adc73d89b3" },
+  { n = 4, title = "Chaud", mbid = "01db5f2c-fb48-4ad7-9d5b-6e9b808bae83" },
+  { n = 5, title = "Get a Lake", mbid = "adf9331a-568e-4957-8fb9-427f757dfcfa" },
+  { n = 6, title = "Mutation", mbid = "b9667829-82eb-444e-935c-1aebb30ad678" },
+  { n = 7, title = "Manu Tension", mbid = "55250dd6-afe7-484d-b813-9071ad6994ae" },
+  { n = 8, title = "Aie Aie Aie", mbid = "af45e820-fbf9-455a-954b-55d01a2c77af" },
+  { n = 9, title = "Mois De Mai", mbid = "09cd1524-1d4c-4a1a-ae72-5a5d1935b6a6" },
+  { n = 10, title = "That's All", mbid = "8a1ae31c-730e-4d3e-a741-916f0c7e06c6" },
+]
+
+[[release]]
+mbid = "3fc826db-aab5-4c48-b8ac-052eb24c2c4e"
+title = "J'adore le monde"
+type = "single"
+date = "2024-11-28"
+tracks = [
+  { n = 1, title = "J'adore le monde", mbid = "e2aaf1bb-e9ee-4a3f-af1d-31d59311ddeb" },
+  { n = 2, title = "J'adore le monde (Short Version)", mbid = "1a4155fc-3d0b-45b9-a605-6e06e9c526bc" },
+  { n = 3, title = "Prisoner of Beauty", mbid = "a95d9b0c-04a1-479b-8789-7f96d03e1b02" },
+]
+
+[[release]]
+mbid = "26847adb-14f2-4e7d-b88b-8c88e05609d1"
+title = "Watt"
+type = "album"
+date = "2025-10-03"
+tracks = [
+  { n = 1, title = "L'inconnu en personne", mbid = "c835c523-ecff-4ca3-befb-95b62a5e2858" },
+  { n = 2, title = "Sur mon 31", mbid = "f4efc5e3-6c4d-4802-a023-bd097c0c75a7" },
+  { n = 3, title = "La béatitude", mbid = "5bebf15a-48b0-4f34-9892-1c9b6f0647aa" },
+  { n = 4, title = "Rembobine", mbid = "d33097ef-923a-4852-b913-3dd3a90b88a6" },
+  { n = 5, title = "Watt", mbid = "dcc45a6d-86fa-4c9f-8405-d37584bb7525" },
+  { n = 6, title = "Tel qu'en moi-même", mbid = "b1c85255-762a-468a-b6e1-7324042e3263" },
+  { n = 7, title = "Berger", mbid = "65bd0ba0-53e3-4ec4-954d-e1328b71349c" },
+  { n = 8, title = "Seul", mbid = "55c3f0db-02d9-43e7-a94c-57d2f70509d0" },
+  { n = 9, title = "Certains jours", mbid = "a818afa4-a5ba-47d6-b7d5-b1c696a13b76" },
+  { n = 10, title = "Pluie de data", mbid = "ecfd163c-b3d4-4d22-a698-a6341b37fb27" },
+  { n = 11, title = "Amour ordinaire", mbid = "a57f730c-19c0-4216-810f-34da9ac165ef" },
+  { n = 12, title = "Ni bien ni mal", mbid = "eaf015e4-25c3-4f5f-b7d0-707ffc6ff7bc" },
+  { n = 13, title = "L'inconnu en personne (Radio Edit)", mbid = "f7cf3178-05d4-4572-b53b-9fc61ad730b2" },
+]
+
+[[release]]
+mbid = "f65b201b-a52c-460c-bf2d-d45ce7a5b510"
+title = "Song VII: Her Shoes Off, so Silent (Duet)"
+type = "single"
+date = "2026-05-08"
+spotify = "0bNKpTRAaG8oHcvGNReK0p"
+tracks = [
+  { n = 1, title = "Song VII: Her Shoes Off, so Silent (Duet)", mbid = "5168999f-8e07-4884-af47-b4194d70988d" },
+]

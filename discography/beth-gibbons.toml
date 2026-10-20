@@ -1,0 +1,89 @@
+format = 1
+
+[[release]]
+mbid = "20c64f88-7893-3ff1-8ec2-ff53ac7fcf33"
+title = "Out of Season"
+type = "album"
+date = "2002-10-28"
+spotify = "6nTOCPzj8JiohYlZxW5Zl1"
+tracks = [
+  { n = 1, title = "Mysteries", mbid = "ffc2d688-69ca-4a24-b4b4-a9cbc8ef46d5" },
+  { n = 2, title = "Tom the Model", mbid = "96976901-4486-493a-90d6-4254c87fe7a1" },
+  { n = 3, title = "Show", mbid = "5e4b8325-b62d-4ba7-b3b7-fc24e1ca6777" },
+  { n = 4, title = "Romance", mbid = "e5957b01-b0e2-4155-9e65-fc5a8022740e" },
+  { n = 5, title = "Sand River", mbid = "09b1aef5-c5b4-478c-b5c2-c8fc2c7b9108" },
+  { n = 6, title = "Spider Monkey", mbid = "b92b76b8-3e31-4024-a325-d6153c8e496d" },
+  { n = 7, title = "Resolve", mbid = "ed7dc7bc-ba07-4553-a890-defb2e3f5945" },
+  { n = 8, title = "Drake", mbid = "49bbfc0b-750b-45cd-8775-c15d6909f7d5" },
+  { n = 9, title = "Funny Time of Year", mbid = "2c9bbc1e-218a-4f7f-b6cb-c0bb569878a3" },
+  { n = 10, title = "Rustin Man", mbid = "992cdf56-9c5d-4eed-970a-34559f1f5bf3" },
+]
+
+[[release]]
+mbid = "02392a0a-8f14-32ae-916b-c3e14d386072"
+title = "Tom the Model"
+type = "single"
+date = "2003-03-03"
+tracks = [
+  { n = 1, title = "Tom the Model", mbid = "96976901-4486-493a-90d6-4254c87fe7a1" },
+  { n = 2, title = "Spider Monkey (L'Olympia, Paris 11 Nov '02)", mbid = "bb168f6d-9b28-42ac-ac2e-ce2ce176b79b" },
+  { n = 3, title = "Tom the Model (L'Olympia, Paris 11 Nov '02)", mbid = "863f58ff-040a-4703-a057-9f19dde42411" },
+]
+
+[[release]]
+mbid = "ce47cc06-2f12-4599-8069-3019cd4ed54f"
+title = 'Symphony no. 3, op. 36 "Symphony of Sorrowful Songs"'
+type = "album"
+date = "2019-03-29"
+tracks = [
+  { n = 1, title = "Symphony no. 3, op. 36: I. Lento - Sostenuto tranquillo ma cantabile", mbid = "8e558967-6978-4af7-b1ec-885b4d677aa6" },
+  { n = 2, title = "Symphony no. 3, op. 36: II. Lento e largo, Tranquillissimo - Cantabilissimo - Dolcissimo - Legatissimo", mbid = "0c713285-5aa8-425c-84ef-836c85b49fcd" },
+  { n = 3, title = "Symphony no. 3, op. 36: III. Lento - Cantabile semplice", mbid = "02ea54a4-ad39-4c23-9bae-626741364961" },
+]
+
+[[release]]
+mbid = "1a34439a-d1d1-45ce-837c-6963a5e7b7b4"
+title = "Floating on a Moment"
+type = "single"
+date = "2024-02-07"
+tracks = [
+  { n = 1, title = "Floating on a Moment", mbid = "d3a3429a-9a29-4e96-88dc-821f0d2fd35c" },
+]
+
+[[release]]
+mbid = "662f1836-4ca5-4393-b9ab-943c906201ec"
+title = "Reaching Out"
+type = "single"
+date = "2024-04-10"
+tracks = [
+  { n = 1, title = "Reaching Out", mbid = "ebc0598b-e25b-4a94-ab89-da3ff943d107" },
+  { n = 2, title = "Floating On A Moment", mbid = "d3a3429a-9a29-4e96-88dc-821f0d2fd35c" },
+]
+
+[[release]]
+mbid = "cb9bd966-b573-42a8-9be3-7548686b3eaa"
+title = "Lost Changes"
+type = "single"
+date = "2024-05-15"
+tracks = [
+  { n = 1, title = "Lost Changes", mbid = "729f7799-7cbe-4cd3-9ab1-287bd0eea87c" },
+]
+
+[[release]]
+mbid = "eaa72e4a-0e22-471f-bc92-97fd5d93d7d3"
+title = "Lives Outgrown"
+type = "album"
+date = "2024-05-17"
+spotify = "0YC5MWwUmsTpJrRumtBdZA"
+tracks = [
+  { n = 1, title = "Tell Me Who You Are Today", mbid = "305615ec-4166-43fb-a35a-d4560c16f5fd" },
+  { n = 2, title = "Floating on a Moment", mbid = "d3a3429a-9a29-4e96-88dc-821f0d2fd35c" },
+  { n = 3, title = "Burden of Life", mbid = "49e67863-2fe1-438e-807e-1b13be9a5669" },
+  { n = 4, title = "Lost Changes", mbid = "729f7799-7cbe-4cd3-9ab1-287bd0eea87c" },
+  { n = 5, title = "Rewind", mbid = "b8d3f3d6-6c91-4196-8149-25c05f913a7e" },
+  { n = 6, title = "Reaching Out", mbid = "ebc0598b-e25b-4a94-ab89-da3ff943d107" },
+  { n = 7, title = "Oceans", mbid = "babd34f5-bf36-43ac-8eda-f21f0d43fbaa" },
+  { n = 8, title = "For Sale", mbid = "5f8bf661-9eeb-49b3-a2db-6a5960181f41" },
+  { n = 9, title = "Beyond the Sun", mbid = "571b00e0-4b52-4aee-9eb3-260b680976c9" },
+  { n = 10, title = "Whispering Love", mbid = "08c58a3d-0c32-443b-9681-c8ef12303688" },
+]

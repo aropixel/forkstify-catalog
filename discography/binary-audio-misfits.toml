@@ -1,0 +1,21 @@
+format = 1
+
+[[release]]
+mbid = "2904a3ad-9ea1-4d02-9ad3-e9bb88938cd8"
+title = "Bam!"
+type = "album"
+date = "2010-03-30"
+tracks = [
+  { n = 1, title = "B.A.M Intro", mbid = "4b85d30b-a667-4626-9624-a25783bb1d70" },
+  { n = 2, title = "Get Loud or Get Dyin'", mbid = "563de342-65d6-45f8-8e2d-e23e71c4e2b4" },
+  { n = 3, title = "Church of Disorder", mbid = "f2e70f47-a7a3-4163-bed2-0b81cacee53d" },
+  { n = 4, title = "Soundversus", mbid = "88417283-c67c-4e05-894d-1d40a91303b0" },
+  { n = 5, title = "Melting Wings", mbid = "4616946f-b188-4a28-99db-2f8063d0299d" },
+  { n = 6, title = "Visionary People", mbid = "fb86a1f3-d2ee-4a03-95f8-1649e2665404" },
+  { n = 7, title = "BAM Theme", mbid = "231d15fe-4822-494b-b4e1-bb92064b9816" },
+  { n = 8, title = "Vik Skit", mbid = "b0bf72e9-2bdd-4d6b-8ecf-0cf2490326c0" },
+  { n = 9, title = "Brain Drain Generation", mbid = "219b2407-92c6-4430-a3c6-92544eaec81b" },
+  { n = 10, title = "No Time Like Now", mbid = "295d3ccf-851d-44d8-a4ab-6f9f0fad12ff" },
+  { n = 11, title = "Lâchez les chiens", mbid = "c5e029e4-0653-43eb-9cc2-27a59d814aec" },
+  { n = 12, title = "BAM Outro", mbid = "abc31c84-5b3f-4ddb-998c-8f1b42dfbaa2" },
+]

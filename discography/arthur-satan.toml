@@ -1,0 +1,81 @@
+format = 1
+
+[[release]]
+mbid = "a19909a6-2a1d-4371-8407-76711a4e9b76"
+title = "Four Naked Sons"
+type = "ep"
+date = "2018-05-03"
+tracks = [
+  { n = 1, title = "Can I be your pet", mbid = "02bd82b1-8179-435e-9bc7-2500a0afefd2" },
+  { n = 2, title = "Lucky you are", mbid = "3bbb8a89-a333-4d63-88a5-5d32f16efcc3" },
+  { n = 3, title = "My Heart", mbid = "d1238a8e-0714-48d0-b8d0-593b7c74092c" },
+  { n = 4, title = "Four naked sons", mbid = "9b88e5c6-ffd3-4259-9d82-c93d81fc5efe" },
+  { n = 5, title = "Wonder to my eyes", mbid = "0c8438ed-eee0-4674-ae3e-2a6c6c272f93" },
+]
+
+[[release]]
+mbid = "5c0b166b-a552-4d47-8722-719c9f8f38b4"
+title = "Arthur Satàn"
+type = "ep"
+date = "2018-05-26"
+tracks = [
+  { n = 1, title = "Do You Want Another Drink Pierre 2vel", mbid = "6e62ea3c-29be-48f6-82f5-393ea08e5f92" },
+  { n = 2, title = "Leon's Lullaby", mbid = "a5952579-8950-4366-aa3b-9d45d466d77b" },
+  { n = 3, title = "Love is an Assassin", mbid = "24136cd3-45aa-4396-8297-708b4e6a9760" },
+  { n = 4, title = "The Singer and the Dragon", mbid = "4dd556a5-afc8-4c94-a7d2-07827d2b56e0" },
+]
+
+[[release]]
+mbid = "ddb030ab-6bec-4de5-a9d6-f43f546ad6fd"
+title = "So Far So Good"
+type = "album"
+date = "2021-06-25"
+tracks = [
+  { n = 1, title = "Summer", mbid = "91604a8a-e039-4034-906b-fad8ac6c0ec2" },
+  { n = 2, title = "Free", mbid = "f028945d-bd78-479b-b81b-17c590b63499" },
+  { n = 3, title = "Love Blee", mbid = "cfbd4194-356c-496e-a3ed-e978a7d4abb9" },
+  { n = 4, title = "She's Long Gone", mbid = "b7813355-eea0-42bd-b0c1-335e291d8683" },
+  { n = 5, title = "She's Hotter Than the Sun", mbid = "7d224ada-3ee4-46f3-8227-29aa4349dfdc" },
+  { n = 6, title = "The Boy in the Frame", mbid = "ffac7c63-fa41-4c98-8055-5cafb2770bc4" },
+  { n = 7, title = "It's All the Same", mbid = "c3e6f0f1-11b0-4ba6-96ac-8b81feb121fc" },
+  { n = 8, title = "Time Is Mine", mbid = "9b289d61-fd22-46ae-80ce-2bbc816f0e2f" },
+  { n = 9, title = "The Nap", mbid = "0d671eb5-10dc-4a29-903f-4c25cb4e66ac" },
+  { n = 10, title = "Boredom Is Quiet", mbid = "6761ae3b-ebdb-41c5-bdac-1d9dc18955a2" },
+]
+
+[[release]]
+mbid = "653a4aff-78a7-4ce8-bb70-c35121d51a3c"
+title = "EP de Noël"
+type = "ep"
+date = "2021-12-21"
+spotify = "4XEmFYIGTKBWC6wzaQ7NEM"
+tracks = [
+  { n = 1, title = "Happy New Year", mbid = "76dedf49-6ccc-4af5-9fd4-55244d48f3c7" },
+  { n = 2, title = "Merry Christmas Lonely People", mbid = "d8bdeffe-e4ec-462b-846c-9cdb88748d39" },
+  { n = 3, title = "Cold Season", mbid = "b7cfb68e-6402-4a07-85d5-e0105c2c753b" },
+]
+
+[[release]]
+mbid = "12ce21c1-b4e9-4d2a-a17c-ab7dfe2a42c9"
+title = "A Journey That Never Was"
+type = "album"
+date = "2025-04-04"
+tracks = [
+  { n = 1, title = "The Death of a King", mbid = "5052886b-8e7c-4c0a-a8ec-c8cf3d98c625" },
+  { n = 2, title = "The Killer", mbid = "04082577-f96b-416a-8456-b444f1aaae9e" },
+  { n = 3, title = "A Cold Morning", mbid = "83b15470-f174-4f60-aeb1-eeacb1ae55bc" },
+  { n = 4, title = "Crucify Me", mbid = "e3048e00-66f2-4925-8ef8-ffebbaed536a" },
+  { n = 5, title = "My Valentine", mbid = "24ebba08-8664-4606-9ff6-d347eda9e798" },
+  { n = 6, title = "Losing Hand", mbid = "ba78ad4d-f7fa-41a7-819b-75cd5a23a66b" },
+  { n = 7, title = "Loner Perspective", mbid = "27d464a5-2157-49b7-8c52-146d242c92b6" },
+  { n = 8, title = "Lovely Suzy", mbid = "c8e917a5-1d6e-4d57-b0a4-a4eaf53cf0bb" },
+  { n = 9, title = "Son of the Atom", mbid = "a1bd8fa2-c963-403d-80a8-e4028a7f820f" },
+  { n = 10, title = "After the Night", mbid = "993c4c58-3816-4150-b502-b6a8fa162cac" },
+  { n = 11, title = "Glamosaurus Rex", mbid = "04abcc6b-ac2a-4ef6-8b31-14c54fbfc768" },
+  { n = 12, title = "The Farmer / The Soldier", mbid = "7f3ef12b-a255-451d-b792-e06e684add43" },
+  { n = 13, title = "Melatonine 1.9", mbid = "a50e9658-b402-457c-8ea4-eae5f9a9ced3" },
+  { n = 14, title = "To Please You", mbid = "5afc216a-454b-415c-8682-d27652ed79a9" },
+  { n = 15, title = "The Pagan Truth", mbid = "324ffdc0-5f2c-4c2d-9284-53fae46953cf" },
+  { n = 16, title = "Life Goes Wrong", mbid = "e224be4b-e84d-4941-af14-e3652961132b" },
+  { n = 17, title = "It's Over (The Last dance)", mbid = "e48e062e-f6be-4e95-8cf4-c74f4e459718" },
+]
