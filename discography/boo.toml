@@ -1,0 +1,38 @@
+format = 1
+
+[[release]]
+mbid = "2f0843a5-7afa-3eb1-911d-1e7d90a51286"
+title = "Boo"
+type = "album"
+date = "1999"
+tracks = [
+  { n = 1, title = "Orgoj Chorchoj", mbid = "5ebaefcc-e84e-423f-9741-788c87f092c4" },
+  { n = 2, title = "Don't Touch It", mbid = "8b5da9ea-b18a-4481-87f9-b63a95de2e9c" },
+  { n = 3, title = "Gossip", mbid = "5fb43e6b-1fea-47ce-bfc3-d9133951964f" },
+  { n = 4, title = "La Vie Prochaine", mbid = "18ad698a-6352-4e5c-b340-808c2662868e" },
+  { n = 5, title = "It Is So Easy", mbid = "b04a8ce5-375e-4107-930d-43f319f966af" },
+  { n = 6, title = "Augen", mbid = "074cdc84-26e6-4294-8e34-fb05a8d040e2" },
+  { n = 7, title = "Lies", mbid = "2baf5674-c19d-4476-a488-dacb3cd445ae" },
+  { n = 8, title = "Show Mee", mbid = "a9674542-eb64-4082-bc73-23d807eb3e44" },
+  { n = 9, title = "Fish", mbid = "69d55fdd-8da4-4574-b643-efd3d754dd99" },
+  { n = 10, title = "Normal Night", mbid = "42fa603e-cf9f-4497-b92f-643c95ea004f" },
+  { n = 11, title = "Picture", mbid = "087384da-6ed1-4051-9eba-7b378e00c113" },
+  { n = 12, title = "Coffee", mbid = "4438ae1c-6dc5-4949-b7ed-a15e089e2c57" },
+  { n = 13, title = "Dream", mbid = "5a206ccf-cc0d-4620-8a49-fc39fd3a6b73" },
+]
+
+[[release]]
+mbid = "987300e3-ffc2-3235-aa21-a3064a27786e"
+title = "Listen"
+type = "album"
+date = "2002-02-15"
+tracks = [
+  { n = 1, title = "The Sea", mbid = "7ed89764-4694-4112-8690-6f3bb8f62083" },
+  { n = 2, title = "Don't Speak to Me", mbid = "e283ffd1-5413-4a1c-8b8d-b1a7fb14eb3e" },
+  { n = 3, title = "Don't Worry", mbid = "469652af-e24c-4b36-a7f4-1668a4cf9e4f" },
+  { n = 4, title = "Stones", mbid = "5377d330-4e55-4a82-a3e2-317ab7b7d7e6" },
+  { n = 5, title = "Lost on the Way", mbid = "e52b5f9f-3979-4c16-adbc-d494644469d7" },
+  { n = 6, title = "Sunbeams", mbid = "218cdca5-eeb2-443a-b52c-538713a09357" },
+  { n = 7, title = "Listen", mbid = "41925a33-2145-44ef-ae90-59c02d789bb4" },
+  { n = 8, title = "The Answer", mbid = "1a283dd5-cee4-4333-8f05-b2017dac5c51" },
+]

@@ -1,0 +1,319 @@
+format = 1
+
+[[release]]
+mbid = "cd9a34f8-b501-484e-befb-55524a47416d"
+title = "Bad Bad Things"
+type = "album"
+date = "2010-05-28"
+tracks = [
+  { disc = 1, n = 1, title = "Nautilus", mbid = "965b637d-3d3e-468d-b513-4c57920c2107" },
+  { disc = 1, n = 2, title = "Voices", mbid = "34dc290f-2148-4b2d-a33f-ec3077bec15e" },
+  { disc = 1, n = 3, title = "Mustang", mbid = "e1e2fc5e-cc6a-4ff4-917e-ef14e12e2b27" },
+  { disc = 1, n = 4, title = "Mi Condena", mbid = "c518d0fb-4b8c-4fb7-9a27-5b1d33f0438d" },
+  { disc = 1, n = 5, title = "Cuban Shirt", mbid = "4d12bfb2-b053-4622-a1a8-0b685427f35a" },
+  { disc = 1, n = 6, title = "Party Animals", mbid = "5a994e84-5276-4609-b0d5-585132fb7582" },
+  { disc = 2, n = 1, title = "White Birds", mbid = "fd471340-ba2f-4d27-b6eb-e65c45f692a4" },
+  { disc = 2, n = 2, title = "My One Girl", mbid = "a298ceb7-aa5a-44fe-ba8b-13c2ff4d3738" },
+  { disc = 2, n = 3, title = "Ken Park", mbid = "93b63f99-cf51-428b-86ae-7bea7d5a0cdf" },
+  { disc = 2, n = 4, title = "La Carretilla", mbid = "d9f4638c-cf68-4be6-a474-18ffd3b9aeeb" },
+  { disc = 2, n = 5, title = "Bad Bad Things", mbid = "ac52bed4-3cd5-4f01-a1d7-185a22303e3a" },
+  { disc = 2, n = 6, title = "Sunset Stroll", mbid = "f6543c75-078d-4215-8c6c-bf5a34f7db6a" },
+]
+
+[[release]]
+mbid = "f12d076c-58ea-4af3-a32b-52829dbf7f80"
+title = "Warm My Soul"
+type = "single"
+date = "2012"
+tracks = [
+  { n = 1, title = "Warm My Soul", mbid = "2185cca7-6310-4dd8-88d2-2f6c1d81190d" },
+  { n = 2, title = "Warm My Soul (alternative reggae version)", mbid = "07feac04-52f2-4e7d-ae80-d68c5a06414f" },
+]
+
+[[release]]
+mbid = "53d4f841-fa84-4655-88ef-55736c9cb6c6"
+title = "Warm My Soul"
+type = "album"
+date = "2012-02-10"
+tracks = [
+  { n = 1, title = "Rocroy", mbid = "82ea38e0-cd64-439c-b2d1-a35829964069" },
+  { n = 2, title = "Hercules", mbid = "3b03d484-4913-4613-8ed2-ab5e4b556ff3" },
+  { n = 3, title = "It's All About", mbid = "3f4809ab-2eb6-49c1-9dce-1292d6041ca0" },
+  { n = 4, title = "Crowded places", mbid = "e6373bcb-83fb-4194-87b0-00ef6856be0a" },
+  { n = 5, title = "Warm My Soul", mbid = "801c0fbb-f730-49c4-a353-68d82df3ff6a" },
+  { n = 6, title = "I'll Be Home Later", mbid = "aa56c141-6538-429f-acc6-4030998edf0f" },
+  { n = 7, title = "Final Good Bye", mbid = "d68bfe22-8faa-4446-869d-0bc64bca77bb" },
+  { n = 8, title = "Treat Me Like That", mbid = "34be9758-9a7e-4f1f-a595-9372d8497252" },
+  { n = 9, title = "Walk Away Now", mbid = "23971323-6257-40c8-9af5-256288f60723" },
+  { n = 10, title = "Since You've Been Gone", mbid = "18be688a-30ea-42eb-8e35-1f9d2180e209" },
+  { n = 11, title = "Hercules Dub", mbid = "0b4cde46-5226-4c24-b182-ce7faedeb73f" },
+]
+
+[[release]]
+mbid = "80cdb84e-b02d-4092-bcda-70e6dfa4003f"
+title = "World Of"
+type = "album"
+date = "2015-04-18"
+tracks = [
+  { n = 1, title = "Hands for Silver", mbid = "1ab9233f-e8e6-49cd-9a5c-d02656b2e49f" },
+  { n = 2, title = "Above the Water", mbid = "37ab24bc-d20a-474d-982a-3f02e6ca0dd1" },
+  { n = 3, title = "Last Broken Bones", mbid = "9dbba463-8901-4318-9ac9-bd567e8eb7d9" },
+  { n = 4, title = "Matanza", mbid = "4c547a3a-ade8-4968-a6ac-c513055c9405" },
+  { n = 5, title = "Love Me", mbid = "b731f787-2bf2-4f5c-aca4-cfe3b127478a" },
+  { n = 6, title = "Mahayana", mbid = "138cceb3-1b08-46b6-9a0f-1b23770efe10" },
+  { n = 7, title = "Work", mbid = "bf6f8610-1b49-4af6-bea8-ac26b63674df" },
+  { n = 8, title = "World of", mbid = "7363ad02-a9d6-48e5-b41b-da0f91e3b8ee" },
+  { n = 9, title = "Beggars", mbid = "6ce4af50-5f90-4aff-b966-936dbc60e76e" },
+  { n = 10, title = "Only One Stand", mbid = "868a1c93-e99f-432d-9983-e9bc915301cc" },
+  { n = 11, title = "Every Little Things", mbid = "30fbe676-985e-4dcc-9198-41959bef37e3" },
+  { n = 12, title = "Seed Balls", mbid = "75df70c3-ae7f-48e2-9097-ab78853fd1eb" },
+]
+
+[[release]]
+mbid = "a6f5130c-dfd9-45f2-97b1-c9bce43d8488"
+title = "World of Dub"
+type = "album"
+date = "2015-11-20"
+tracks = [
+  { n = 1, title = "Idiots Dub", mbid = "9bdefbab-d9c2-4a1e-b232-d9d50bdffd14" },
+  { n = 2, title = "Little Things Dub", mbid = "9661981a-ebcd-4b42-b627-c3b4f412e6f3" },
+  { n = 3, title = "Work a Dub", mbid = "a0eba0ca-9d39-45ac-9d7a-486974ab751d" },
+  { n = 4, title = "Love Me Dub", mbid = "8626c8f7-2fea-413a-adc3-29d4e4f10bdd" },
+  { n = 5, title = "The Sun Goes Down", mbid = "d6406ee9-125f-4651-817f-5b006f9ae9eb" },
+  { n = 6, title = "Hard Til I Dub", mbid = "8a02bc26-7e96-470d-a92e-56d2f16e6b0f" },
+  { n = 7, title = "Above the Dub", mbid = "91e4b43f-124d-4e0a-82bc-f103b3f0ee05" },
+  { n = 8, title = "Last Broken Dub", mbid = "3eb30ef8-e094-4103-a91f-621419d30708" },
+  { n = 9, title = "World of Dub", mbid = "6efc675d-eede-4034-b5ed-0cf957663fc7" },
+]
+
+[[release]]
+mbid = "c17a2273-2bd2-479c-8d89-df272a07858c"
+title = "Have a Little Faith"
+type = "single"
+date = "2018-02-23"
+tracks = [
+  { n = 1, title = "Have a Little Faith", mbid = "53fad0ff-ec2b-4f67-ae48-558b451f4ce9" },
+  { n = 2, title = "Have a Little Faith (Dub)", mbid = "291087e2-0081-4ea2-bae1-00a67380133c" },
+]
+
+[[release]]
+mbid = "278ab137-0b8d-4a24-9880-98a4dc13b9ab"
+title = "Slow Dance"
+type = "album"
+date = "2018-05-25"
+tracks = [
+  { n = 1, title = "Slow Dance", mbid = "4802a0a9-0d48-4cb5-806d-021b4836d36e" },
+  { n = 2, title = "Good Ol’ Days", mbid = "11e56373-e66b-44c2-99a8-5520296d5ed0" },
+  { n = 3, title = "My Weed My Queen", mbid = "1e7c6d18-d949-476d-bdd3-349cd6d8083e" },
+  { n = 4, title = "Passed the Worst", mbid = "83ac70c9-6ad1-4955-ba43-22ddab10b087" },
+  { n = 5, title = "OP1 Home Again", mbid = "8ac60502-4222-4af2-8ee4-114cc9a97ab5" },
+  { n = 6, title = "Have a Little Faith", mbid = "12abf9cb-714b-4523-8be5-cd14de2fc92e" },
+  { n = 7, title = "Colombette", mbid = "ea365602-8a5d-462c-9d5a-38ed541ff9ca" },
+  { n = 8, title = "Story Never Told", mbid = "388907ce-7332-4bf9-8fa1-892cd01da7c0" },
+  { n = 9, title = "Chamber Dub", mbid = "2cd96bb9-9a5b-4504-b498-bbca6113ba3c" },
+  { n = 10, title = "History Dance", mbid = "516e52e4-9239-46b4-bf5f-f87cd7bf005c" },
+  { n = 11, title = "Satta", mbid = "9b2dcdfe-e73c-49d8-8a7b-f177c0a76d04" },
+  { n = 12, title = "Pontius Pilate", mbid = "91379ba9-f0b6-48d9-bc4c-1d1a4bf280a7" },
+]
+
+[[release]]
+mbid = "f766db12-1cea-4e9d-993b-0e446ef0b0cb"
+title = "Cousin Zaka (Vol. I)"
+type = "album"
+date = "2019-02-15"
+tracks = [
+  { n = 1, title = "Lord of the Field", mbid = "15cba1d6-44e7-4472-89eb-d194f3a1d8b2" },
+  { n = 2, title = "Movin’in", mbid = "cbc595a3-7a6a-4eb1-b97a-b0c7a5d4cba5" },
+  { n = 3, title = "From the Floor", mbid = "697e782c-31df-47cd-9970-c67bddb89e5a" },
+  { n = 4, title = "Illegal", mbid = "73b5c942-a5df-40d5-9311-8c08ccbd7b39" },
+  { n = 5, title = "Gumbo", mbid = "9a420190-d3bb-4fbb-a878-d3a2c2b51353" },
+  { n = 6, title = "Ken Park", mbid = "7f71c263-411c-4de3-9a73-9f4cd7c050de" },
+  { n = 7, title = "Their Spirit", mbid = "23ee0a9e-9d49-42a0-99f6-c52db8e46cb9" },
+  { n = 8, title = "Minuit", mbid = "811d1375-8c3d-4489-a38e-22d78f200df3" },
+  { n = 9, title = "The Bells", mbid = "4b9c15c9-0cda-4aa0-bfb5-0cc6cae54bd5" },
+  { n = 10, title = "Attends-toi", mbid = "910b9078-23cb-4c71-9c2d-fb45c730b354" },
+  { n = 11, title = "All About", mbid = "54c95310-1e86-4a6a-bda6-cc1fb7d65eb7" },
+  { n = 12, title = "Shameless", mbid = "69fdd4f6-1b2b-49d5-a3cf-491cfd8e4a56" },
+]
+
+[[release]]
+mbid = "3bbbcbcc-a133-40fd-93d5-d7d508348728"
+title = "Good Good Things"
+type = "album"
+date = "2020-06-18"
+tracks = [
+  { n = 1, title = "Menina Mulher da Pele Preta", mbid = "78d60942-b5d6-4abe-82b0-840dceb16433" },
+  { n = 2, title = "Feel the Cold", mbid = "45eb4f2e-8ac2-4dca-ad86-9db01228e700" },
+  { n = 3, title = "Bingi", mbid = "35e27363-2300-4f2d-8218-4e3b199cd276" },
+  { n = 4, title = "Barcelona", mbid = "38954065-1a73-4f04-b088-dea27c852b41" },
+  { n = 5, title = "Sunday in the Club", mbid = "c8047016-cd56-49e4-b1fb-beb86a4f536b" },
+  { n = 6, title = "Canasta", mbid = "1d784a9e-dcc6-4804-9ba1-801fc02b6f62" },
+  { n = 7, title = "Paseo", mbid = "815b7d22-0834-4868-b58a-7e604ccdd238" },
+  { n = 8, title = "Fly High", mbid = "6807ae78-9a54-4581-8036-3948ca51736a" },
+  { n = 9, title = "Pais Azucar", mbid = "b0078516-402d-41c0-ad30-0baf4deb745b" },
+  { n = 10, title = "Tengo Fe", mbid = "8ce4023c-4d46-401b-bdfc-dfd2fd4a59c6" },
+  { n = 11, title = "Mo’ Dinero", mbid = "cb4c69f0-54c0-4e45-9936-013662dc8def" },
+  { n = 12, title = "Atras Desse Céu", mbid = "d4657d92-f72d-4d79-8c60-851bbe9771b7" },
+  { n = 13, title = "Antiguas", mbid = "13e37521-9843-4f08-8a97-cf8c6d8dcf97" },
+]
+
+[[release]]
+mbid = "265ff30b-4f61-4f3e-8b02-280634f1a482"
+title = "VTC"
+type = "album"
+date = "2021-10-29"
+tracks = [
+  { n = 1, title = "Evidences Are Bases Of Conclusion", mbid = "a98e8b3d-2897-47c7-959a-ac80312c88a9" },
+  { n = 2, title = "Tunnel", mbid = "61687b51-8a47-414d-ac0d-d3261a961ed1" },
+  { n = 3, title = "Half Blind Dog", mbid = "d121b7ce-3975-4c76-8ba9-17faa9dc3d22" },
+  { n = 4, title = "Rooster", mbid = "ff46a8e3-0300-4919-a110-d22a845dd427" },
+  { n = 5, title = "La chapelle", mbid = "5a8ce29c-befe-46ce-9c3e-2ad566b80394" },
+  { n = 6, title = "The Meeting", mbid = "ee5907b5-74a0-4e63-80d3-cf91e163fdce" },
+  { n = 7, title = "L'espace", mbid = "5b1082b7-881a-4e00-9424-6207add5b82f" },
+  { n = 8, title = "This Is A Trap", mbid = "d487e261-5e28-4616-af86-b44fe5d58a7c" },
+  { n = 9, title = "Half Blind Drive", mbid = "651728d9-6c91-4199-a6d3-3df49cde49ea" },
+  { n = 10, title = "The Liquid Chase", mbid = "61878a07-3a3d-47e6-8c84-884fb185fb39" },
+  { n = 11, title = "Mapesa", mbid = "264baaf7-f318-485b-b5c1-738d73efd959" },
+  { n = 12, title = "Walk A Mile In My Mind", mbid = "912c8e23-9127-4048-ae88-236cb7f31381" },
+  { n = 13, title = "Les flammes", mbid = "c5058e79-7454-4384-82b3-446b2a69e5da" },
+]
+
+[[release]]
+mbid = "b1e06d6e-94c4-4379-80d1-b574de870f39"
+title = "Cousin Zaka (Vol. II)"
+type = "album"
+date = "2022-04-22"
+tracks = [
+  { n = 1, title = "Count Duke", mbid = "85c031bd-014a-45cb-b8fa-57678b608432" },
+  { n = 2, title = "Mama Genso", mbid = "ec36d963-0709-4dd1-badf-146d72ae7ad6" },
+  { n = 3, title = "La puce", mbid = "4a48e377-6db6-4faf-a6fd-32569c64edd5" },
+  { n = 4, title = "Capuche", mbid = "97a47cd9-da7d-45da-a0e5-e73555dc9416" },
+  { n = 5, title = "Les Dumands", mbid = "09a20e16-1268-489e-905c-a048e7e66079" },
+  { n = 6, title = "Doucement", mbid = "08045287-88cc-45f7-86fc-a83f7f415a75" },
+  { n = 7, title = "Melloguinch", mbid = "8396d4fa-c1f9-4e9b-91c8-a7a9f4d7bfd2" },
+  { n = 8, title = "West Highland", mbid = "aac951cc-9aec-47b4-9696-3230d21253f2" },
+  { n = 9, title = "Nanana", mbid = "96dc8576-a382-4a1f-90aa-949a9700c561" },
+  { n = 10, title = "Les fleurs de Carole", mbid = "675a23be-184d-4bdb-b08d-acfeea259c02" },
+  { n = 11, title = "Old Guard In A Yard", mbid = "66f5bbe5-3477-4ef8-aac9-15ffb291aefb" },
+  { n = 12, title = "Mama Genso (Single Version)", mbid = "e5a499ff-9dff-4b4e-9fb5-6f44c90e3c85" },
+]
+
+[[release]]
+mbid = "e2911b2e-3f73-4f71-878e-4c657e7ff9d9"
+title = "Ordures EP"
+type = "ep"
+date = "2023-09-01"
+tracks = [
+  { n = 1, title = "Ordures", mbid = "7d70beff-70ee-40a3-a619-a653ab2f66a4" },
+  { n = 2, title = "Ordub", mbid = "83743878-9c1f-4981-987e-df33fce6a6ad" },
+  { n = 3, title = "Lampadaires", mbid = "c8fcdd51-328c-4768-bcc2-8f2eb2effa6e" },
+  { n = 4, title = "Lampadub", mbid = "73398d7b-9547-4324-89a1-2df0c4066f76" },
+  { n = 5, title = "Groenland", mbid = "0ceb0f1e-1eac-4492-a19d-b0be2f2b3e0a" },
+  { n = 6, title = "Groendub", mbid = "eaaa0992-99e4-4915-83d9-1ce59efbc42d" },
+]
+
+[[release]]
+mbid = "a178bd5c-e23c-4fea-b40a-ab6c5d5a5a5b"
+title = "Blundetto x Di Ruption - Lonely Road EP"
+type = "ep"
+date = "2023-11-24"
+tracks = [
+  { n = 1, title = "Sunshine", mbid = "e810709d-4b66-49db-9748-2a0d2829a307" },
+  { n = 2, title = "Princess", mbid = "bffd42ba-c326-4271-9b87-0954cc4214ce" },
+  { n = 3, title = "Lonely Road", mbid = "e2a9a518-6f39-479f-abac-ef9dc41225f7" },
+  { n = 4, title = "Sunshine Dub", mbid = "a203d902-be15-48b6-b694-a18ba362448e" },
+  { n = 5, title = "Princess Dub", mbid = "ad238080-4479-462c-9f23-d853ac7903d4" },
+  { n = 6, title = "Lonely Dub", mbid = "8e5608a4-ad0f-4a17-9826-f3e4f56af09b" },
+]
+
+[[release]]
+mbid = "63d7f3ae-3640-4ea0-993a-451b6330110c"
+title = "Lonely Road EP"
+type = "ep"
+date = "2023-11-24"
+tracks = [
+  { n = 1, title = "Sunshine", mbid = "10f48200-19e3-446a-843f-0ec278b25200" },
+  { n = 2, title = "Princess", mbid = "398972ac-64ed-4d84-a866-27421288441e" },
+  { n = 3, title = "Lonely Road", mbid = "67fefe11-620b-4c48-8157-9ea5bf6c6d5c" },
+  { n = 4, title = "Sunshine Dub", mbid = "9c1cee02-d430-4f74-b236-0fb9ed9c7ac5" },
+  { n = 5, title = "Princess Dub", mbid = "da8d63ec-f250-449e-9266-8fbc1d3177ae" },
+  { n = 6, title = "Lonely Dub", mbid = "e66a4813-ab58-4bbc-a7e9-473e12382acf" },
+]
+
+[[release]]
+mbid = "36f6d8ff-69ca-4eb7-b433-2a8a6f406a9d"
+title = "Tancarville"
+type = "album"
+date = "2024-02-16"
+tracks = [
+  { n = 1, title = "Rivage", mbid = "a72f43e6-08d6-4872-b91e-7c50b768a9b6" },
+  { n = 2, title = "Groenland", mbid = "0ceb0f1e-1eac-4492-a19d-b0be2f2b3e0a" },
+  { n = 3, title = "Tancarville", mbid = "ff1bb1bb-62ce-4059-93ce-ba1fefffdec7" },
+  { n = 4, title = "Lampadaires", mbid = "c8fcdd51-328c-4768-bcc2-8f2eb2effa6e" },
+  { n = 5, title = "Les Plages du 22", mbid = "f29c6f4f-eade-4ed0-9d88-7672563b3609" },
+  { n = 6, title = "Cartons", mbid = "40444d6d-6b2e-45e4-9c8f-afc86759a944" },
+  { n = 7, title = "Ordures", mbid = "a3cf22ee-b100-437f-9fe6-c3933d5c9d48" },
+  { n = 8, title = "Parenthèses", mbid = "d77e7795-735f-4e23-8303-a1e0ed9f52f8" },
+]
+
+[[release]]
+mbid = "e3ebb742-b804-4d24-8fad-9a8810b5467a"
+title = "Tancardub"
+type = "album"
+date = "2024-03-07"
+tracks = [
+  { n = 1, title = "Lampadub", mbid = "3d70816e-a2b5-4502-819b-d390c104e4ab" },
+  { n = 2, title = "Rive Dub", mbid = "a13f7de7-d055-414e-b244-9cc2396dc1c5" },
+  { n = 3, title = "Groendub", mbid = "48b14185-0805-492a-8f51-1446be2fc981" },
+  { n = 4, title = "Cartons Dub", mbid = "0f745fb1-a6c2-4f4b-8084-66c28be1ff7e" },
+  { n = 5, title = "Dub du 22", mbid = "10f7e385-c49b-4e92-8688-930ea33848c9" },
+  { n = 6, title = "Ordub", mbid = "c9939b78-041d-4180-93d8-525595aaeef5" },
+  { n = 7, title = "Dub Parenthèses", mbid = "e67939a1-6864-4fcf-b465-e0a3999a170d" },
+  { n = 8, title = "Tancarville (Alternate version)", mbid = "5402a3be-27bf-4c4f-a049-b103268a854a" },
+]
+
+[[release]]
+mbid = "d9cd49b3-1a8c-4412-a5f8-f13de5ca29a1"
+title = "Eugenio"
+type = "single"
+date = "2024-03-29"
+tracks = [
+  { n = 1, title = "Eugenio", mbid = "21094dfd-2b70-4664-906b-adc232fc4da0" },
+  { n = 2, title = "Eugenio (Reggae Version)", mbid = "fb9e8a5f-2cb1-4a78-b445-e0e83d3d9a19" },
+]
+
+[[release]]
+mbid = "17e4930e-235d-49e9-a310-3789f515b848"
+title = "Heavy Soul"
+type = "album"
+date = "2024-07-05"
+tracks = [
+  { n = 1, title = "Heavy Soul", mbid = "7d978466-bf23-4a07-bffb-8547f11aeac0" },
+  { n = 2, title = "Stand Alone", mbid = "bbfead9a-4104-4268-8cdd-9d5a7a83ee09" },
+  { n = 3, title = "Out In The Streets", mbid = "b5970079-205a-4c2c-a165-725030394af1" },
+  { n = 4, title = "Seasons Change", mbid = "1459a7d2-2eb3-48d9-9e34-4cb13a5749f5" },
+  { n = 5, title = "Heavy Dub", mbid = "be685e41-6eca-4eaa-b8c3-1f2b08e747c8" },
+  { n = 6, title = "Stand Dub", mbid = "56b4eeee-d1c8-44a0-968f-da3dc2e19bdf" },
+  { n = 7, title = "Out In The Dub", mbid = "dab6bc02-31b4-4c6f-9b8c-4cd64d23d2cb" },
+  { n = 8, title = "Season Dub", mbid = "dcc89b14-a5a0-4bf4-92f2-456d3eab68bf" },
+  { n = 9, title = "Stand Together", mbid = "38f3d785-8745-40b3-a515-2543d0250161" },
+]
+
+[[release]]
+mbid = "a029c2d5-ca62-4c9b-8ad3-f52673820930"
+title = "Cousin Zaka (Vol. III)"
+type = "album"
+date = "2025-12-05"
+tracks = [
+  { n = 1, title = "Les Marie Louise", mbid = "1ad30c77-a1e0-48f1-80b9-82ff36c37e17" },
+  { n = 2, title = "Ces gredins de légumes", mbid = "22d8749d-1b79-47d5-845f-52dfd5cf0c4c" },
+  { n = 3, title = "Le rêve de la maison dans la maison", mbid = "9a73f912-73e4-4566-9203-89bf885b6c07" },
+  { n = 4, title = "Coteau caché", mbid = "661544ab-bc60-4602-be70-be9752fc4c22" },
+  { n = 5, title = "Le feu au bout du chemin", mbid = "e02729bd-9503-421f-bbb5-6d21a38dc4f6" },
+  { n = 6, title = "La paix du dimanche", mbid = "6d99c735-ecc5-4315-aa4e-e40bfb53c3e8" },
+  { n = 7, title = "Ce que le chien veut", mbid = "46face71-7dc4-4652-a8d0-be9de2c7e775" },
+  { n = 8, title = "A qui n'a rien", mbid = "aaaf00d0-8dde-422f-8e33-d634fddc1b7d" },
+  { n = 9, title = "Le jus d'une cerise", mbid = "568d7520-6b43-4139-aba9-ac37e694aafb" },
+  { n = 10, title = "Sur les chemins de contrebande", mbid = "c2b3f4f5-fd82-4244-8a53-b1dcf64f73e5" },
+  { n = 11, title = "Les morsures d'escargot", mbid = "02a786d0-2093-4326-b94f-984ee26187ef" },
+]

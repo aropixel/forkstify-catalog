@@ -1,0 +1,260 @@
+format = 1
+
+[[release]]
+mbid = "d002fc69-7f3f-3c2a-9e5f-e76d607859d4"
+title = "Café Tacuba"
+type = "album"
+date = "1992-07-28"
+spotify = "4nTUHZSed3ZiQjKs8f5Zbr"
+tracks = [
+  { n = 1, title = "Noche oscura", mbid = "6ceaffef-a964-4297-bab4-e72b3f800f77" },
+  { n = 2, title = "Las batallas", mbid = "7f68f0b5-37c2-46a3-b07d-ed6605930d69" },
+  { n = 3, title = "Las persianas", mbid = "8df1db51-6153-4557-a8ef-fd14fa4a7b00" },
+  { n = 4, title = "Rarotonga", mbid = "b5be4a96-81ed-4fe7-b16b-06df76239a1d" },
+  { n = 5, title = "María", mbid = "1b9a103b-8501-4bdf-88c6-cd2a366bb67c" },
+  { n = 6, title = "Cometer suicidio", mbid = "f5421c2a-c1fe-45be-bca0-e898c34bfb14" },
+  { n = 7, title = "La chica banda", mbid = "5454ae2f-1853-4f2a-a1e4-da35f72b8e98" },
+  { n = 8, title = "El catrín", mbid = "48473cf6-adfd-4c7b-93b1-24168906a493" },
+  { n = 9, title = "Pinche Juan", mbid = "671fb39d-ccb7-4caa-ac57-bd297cf272d9" },
+  { n = 10, title = "Labios jaguar", mbid = "c0d45533-c2fc-4338-b2a6-cc8da2137f05" },
+  { n = 11, title = "Debajo del mar", mbid = "6a0823cc-a09c-4131-a590-5d10b4664b57" },
+  { n = 12, title = "La zonaja", mbid = "808c297b-6d64-407d-a96f-9c90c9f05d89" },
+  { n = 13, title = "Bar Tacuba", mbid = "f64523bc-caae-4ea6-bc1b-1a39ae42bef5" },
+]
+
+[[release]]
+mbid = "05548ae5-6e3d-3e7b-baee-5e03a80fe5d2"
+title = "Re"
+type = "album"
+date = "1994-07-22"
+spotify = "7EJ5pXrSqqfybKyfbvlz84"
+tracks = [
+  { n = 1, title = "El aparato", mbid = "b1177b79-7c60-4e22-993c-3ff20a57685a" },
+  { n = 2, title = "La ingrata", mbid = "0653af2b-baa1-4efa-ba1b-94010b3d27b7" },
+  { n = 3, title = "El ciclón", mbid = "1d79e665-5f95-42bd-b17f-3547705613c5" },
+  { n = 4, title = "El borrego", mbid = "8af77a7f-500a-4ef8-b3d6-75ecc704c3e4" },
+  { n = 5, title = "Esa noche", mbid = "beb91e6e-2a6e-460c-8bc0-11d52bbe5dac" },
+  { n = 6, title = "24 horas", mbid = "7262c9c8-dd5f-4067-957b-7c1f14788451" },
+  { n = 7, title = "Ixtepec", mbid = "da71e062-331e-45f2-97bc-5c27fd9f521c" },
+  { n = 8, title = "Trópico de Cáncer", mbid = "f24fbf74-fe0b-4710-94d2-7b935cb9702f" },
+  { n = 9, title = "El metro", mbid = "83abdbf3-451b-46b7-bacf-fa931bcc3516" },
+  { n = 10, title = "El fin de la infancia", mbid = "f4cc27aa-eea4-4712-826d-6c4dcee3bdb5" },
+  { n = 11, title = "Madrugal", mbid = "9dd92fe8-f78c-4b7b-8d41-3d2c36892f70" },
+  { n = 12, title = "Pez", mbid = "3efa642b-a54b-40c4-88de-382248cfc0f6" },
+  { n = 13, title = "Verde", mbid = "133cc735-e244-4055-b3be-0f0aa179788a" },
+  { n = 14, title = "La negrita", mbid = "948bb86e-671d-484c-8684-5da368b7e232" },
+  { n = 15, title = "El tlatoani del barrio", mbid = "29f40c1e-4db8-4e3d-8ecf-bf69277c19d5" },
+  { n = 16, title = "Las flores", mbid = "1bb2421a-0c05-41be-ad38-36133a0d03f5" },
+  { n = 17, title = "La pinta", mbid = "a98e9d08-c3a2-4060-9072-1ed90b28ed75" },
+  { n = 18, title = "El baile y el salón", mbid = "a54216b7-a588-4b6d-aebf-8db078f9957f" },
+  { n = 19, title = "El puñal y el corazón", mbid = "eb9255b3-c13c-47c8-93e0-9ba8bdb56f37" },
+  { n = 20, title = "El balcón", mbid = "c0eb6418-8646-415a-85cc-93cf2911c18d" },
+]
+
+[[release]]
+mbid = "a62d4b1a-adef-349f-9660-2511bb20dd82"
+title = "Avalancha de éxitos"
+type = "album"
+date = "1996-10-25"
+tracks = [
+  { n = 1, title = "Chilanga banda", mbid = "1a1360c8-4c6d-4e11-8717-6cbc394400f8" },
+  { n = 2, title = "Metamorfosis", mbid = "03583a72-08fe-4f32-850a-2d5ffaf12512" },
+  { n = 3, title = "No controles", mbid = "e0774621-1a8a-4341-a82e-54ef8f2213d0" },
+  { n = 4, title = "No me comprendes", mbid = "d12f7cb4-3122-415d-b5a6-08cea1cd34c2" },
+  { n = 5, title = "Alármala de tos", mbid = "4e67003e-f2bc-4754-b912-674087aa3e6f" },
+  { n = 6, title = "Perfidia (instrumental)", mbid = "6a65763f-8d17-4987-a561-d5edb0dc3d10" },
+  { n = 7, title = "Ojalá que llueva café", mbid = "d204016f-e99f-42bd-bd0b-82341bcdd990" },
+  { n = 8, title = "Cómo te extraño mi amor", mbid = "e86ff1d6-92f4-4350-bea1-268c106083ef" },
+]
+
+[[release]]
+mbid = "f6d307da-707f-4cff-ae2d-cbfafd9fed2c"
+title = "Revés/Yo soy"
+type = "album"
+date = "1999-07-20"
+tracks = [
+  { n = 1, title = "11", mbid = "fcc6042b-2958-4580-ae59-623623da791b" },
+  { n = 2, title = "2", mbid = "ef58f1a6-f28a-43c7-9b03-1ac52cfa2f1c" },
+  { n = 3, title = "9", mbid = "451cf4da-acc5-4b9a-a0ef-1f2869c135c2" },
+  { n = 4, title = "5", mbid = "4900f900-1436-4a84-bad7-288c6c7571dc" },
+  { n = 5, title = "3", mbid = "fa242a96-8364-409d-a479-60aa87a1fc53" },
+  { n = 6, title = "8", mbid = "b26ecbd6-9798-449a-95a4-e87422d33687" },
+  { n = 7, title = "10", mbid = "7aaa87a1-84dd-40a7-9007-e8787c3a8108" },
+  { n = 8, title = "5.1", mbid = "8837c546-f6bf-4983-905f-6b4981edda97" },
+  { n = 9, title = "13", mbid = "28c1e38b-6c22-40ea-ad2d-4678035d630b" },
+  { n = 10, title = "M.C.", mbid = "66b9c030-f377-42dd-b667-b0ab34fca2f3" },
+  { n = 11, title = "6", mbid = "f18c776b-e1e8-4be1-b243-db7920335dd6" },
+  { n = 12, title = "7", mbid = "e2a98dab-6364-4131-9807-eba7fd50246a" },
+]
+
+[[release]]
+mbid = "a9867373-a61c-3e56-8542-f8405e4d172c"
+title = "Vale callampa"
+type = "ep"
+date = "2002-10-29"
+spotify = "2g8ZPvnPmmW4KGGnwVXoB1"
+tracks = [
+  { n = 1, title = "Déjate caer", mbid = "7e1f80c8-81d9-41a2-8d22-6d8fdc6d6fdc" },
+  { n = 2, title = "Olor a gas", mbid = "f82fca66-e367-491e-a632-d9d9403f69c8" },
+  { n = 3, title = "Amor violento", mbid = "1533cb11-8e23-453d-aa00-2f04a07486a4" },
+  { n = 4, title = "Tírate", mbid = "a80e9607-6cbf-4d87-ba1a-438f4c3d5389" },
+]
+
+[[release]]
+mbid = "9a44d631-7dc5-346d-bcf7-fe7fb010a758"
+title = "Cuatro caminos"
+type = "album"
+date = "2003-06-04"
+spotify = "3ifA4OUPiT92YB4vYtAdVh"
+tracks = [
+  { n = 1, title = "Cero y uno", mbid = "f441d9a7-6bc6-4855-8282-35a6ae7f76f1" },
+  { n = 2, title = "Eo", mbid = "4bf00f09-85bb-42a1-bcb0-2b4ba051551a" },
+  { n = 3, title = "Mediodía", mbid = "81957855-d6aa-4bde-a3d8-528b466624df" },
+  { n = 4, title = "Qué pasará", mbid = "5079c9b4-e1d1-4383-8b7b-2333d0430a2c" },
+  { n = 5, title = "Camino y vereda", mbid = "cf0057c9-1a91-4e63-9792-15c4ea0c4eec" },
+  { n = 6, title = "Eres", mbid = "b0c5e206-7fb3-4d01-ae87-d6677f7fd5a7" },
+  { n = 7, title = "Soy o estoy", mbid = "f1087577-e792-4bfb-858b-56c700c7a51a" },
+  { n = 8, title = "Encantamiento inútil", mbid = "32bad4f2-40b9-4738-87b5-3d2c470c4108" },
+  { n = 9, title = "Recuerdo prestado", mbid = "f4f6daba-100f-4a0e-8499-160c05dc2773" },
+  { n = 10, title = "Puntos cardinales", mbid = "7f6b3aba-bd92-40bc-8509-65e1c1d38964" },
+  { n = 11, title = "Desperté", mbid = "2d33ec2e-57b4-481b-a615-67d9554f43fb" },
+  { n = 12, title = "Tomar el fresco", mbid = "c1798174-d73a-43a2-bb86-9f4dbbfd20bd" },
+  { n = 13, title = "Hoy es", mbid = "53c3e833-0490-4574-aac2-9d56907c8df2" },
+  { n = 14, title = "Hola adiós", mbid = "e17612ce-76bb-4967-9f0d-24b96a4437ce" },
+]
+
+[[release]]
+mbid = "6706c4c3-7987-330b-93c2-507142cd791e"
+title = "Sino"
+type = "album"
+date = "2007-08-09"
+spotify = "4yLlkceQbuq64zdFnxdCYB"
+tracks = [
+  { n = 1, title = "Seguir siendo", mbid = "471fbc01-c3cb-4736-8727-f1e05fcb24a4" },
+  { n = 2, title = "Tengo todo", mbid = "67178fd6-86a6-4d83-b517-23427bc4c087" },
+  { n = 3, title = "53100", mbid = "6eb13a6f-7c86-46c1-a9a9-62772f9ae47a" },
+  { n = 4, title = "El Outsider", mbid = "6464f3ee-2b93-4952-beb3-78ca4e1b40ce" },
+  { n = 5, title = "Volver a comenzar", mbid = "02ee9d80-776d-410b-8996-b8ce8a839843" },
+  { n = 6, title = "Arrullo", mbid = "01ceae56-954a-4681-819c-20feb9d41427" },
+  { n = 7, title = "Vámonos", mbid = "6adc6cca-4600-4620-b1e7-f91a84b3dd92" },
+  { n = 8, title = "Cierto o falso", mbid = "ecb319dd-d794-4d31-af05-c99beef8bed9" },
+  { n = 9, title = "Esta vez", mbid = "7f773f9b-ef7d-4954-9a67-778fce87a19e" },
+  { n = 10, title = "De acuerdo", mbid = "b4040b28-0838-4ca5-80da-b122f8d123df" },
+  { n = 11, title = "Abandonado", mbid = "52fd487e-6b25-40d8-9874-195cd54383ee" },
+  { n = 12, title = "Y es que...", mbid = "4f7329f3-6529-41e4-8a3b-0916fc8089aa" },
+  { n = 13, title = "Quiero ver", mbid = "1742f5fc-2b9a-4d9f-87b0-dd1ba0b62704" },
+  { n = 14, title = "Agua", mbid = "831bd631-88ae-4dbb-94f0-4bd4a276deeb" },
+  { n = 15, title = "Gracias", mbid = "b0f87076-8e0d-43f9-8b9f-b3fb12f4fbf9" },
+]
+
+[[release]]
+mbid = "8602f461-2e12-4fe1-9031-0b687550b472"
+title = "De este lado del camino"
+type = "single"
+date = "2012"
+tracks = [
+  { n = 1, title = "De este lado del camino", mbid = "2a4478eb-a4ec-4e1c-b1de-f58c47382570" },
+]
+
+[[release]]
+mbid = "7e3be4ee-c7f4-4c9b-a43a-4d3837182e42"
+title = "El objeto antes llamado disco"
+type = "album"
+date = "2012-10-22"
+tracks = [
+  { n = 1, title = "Pájaros", mbid = "a78ea850-e1b9-476c-b0a8-f48610580caa" },
+  { n = 2, title = "Andamios", mbid = "a5608b46-2cbc-49e4-a6ae-d55eeb60bc6e" },
+  { n = 3, title = "De este lado del camino", mbid = "2a4478eb-a4ec-4e1c-b1de-f58c47382570" },
+  { n = 4, title = "Espuma", mbid = "31655f8d-eef1-4a93-bbd7-368111560f46" },
+  { n = 5, title = "Olita del altamar", mbid = "1bd3f182-7d92-45ce-9df6-c9317bf1de46" },
+  { n = 6, title = "Aprovéchate", mbid = "bdf96fb5-b574-4d04-8493-19d9c15e33c9" },
+  { n = 7, title = "Zopilotes", mbid = "f1a522aa-6c7a-4338-bdb8-7e65527795f4" },
+  { n = 8, title = "Yo busco", mbid = "d5eae7ce-8d69-478b-8bac-a0a7c3f1f6b2" },
+  { n = 9, title = "Tan mal", mbid = "f9affde6-aa3f-4042-87e5-6ffd3cf7d59b" },
+  { n = 10, title = "Volcán", mbid = "a4c99829-5be8-4208-a688-5fbea2dcf21b" },
+]
+
+[[release]]
+mbid = "acb61632-19d9-4f6c-ae63-8bea22c8135a"
+title = "Aprovéchate"
+type = "single"
+date = "2013"
+tracks = [
+  { n = 1, title = "Aprovéchate", mbid = "eff7d7cf-cf8e-42ce-ab6d-49215fa5e29a" },
+]
+
+[[release]]
+mbid = "418e3418-167f-40ce-a22e-a781a5ac3459"
+title = "Un par de lugares"
+type = "single"
+date = "2016-09-23"
+tracks = [
+  { n = 1, title = "Un par de lugares", mbid = "0c1bffd5-a2ea-4644-8aea-01260d8b5bc5" },
+]
+
+[[release]]
+mbid = "06f96f08-6095-4b30-ab8e-55f0bb88f793"
+title = "Disolviéndonos"
+type = "single"
+date = "2017"
+tracks = [
+  { n = 1, title = "Disolviéndonos", mbid = "94769571-1c07-4038-a84f-c5570bb111cb" },
+]
+
+[[release]]
+mbid = "29a361a7-72c0-4257-b187-031075d36a4b"
+title = "Futuro"
+type = "single"
+date = "2017-01-01"
+tracks = [
+  { n = 1, title = "Futuro", mbid = "ca90e185-3e05-4a2f-947c-e7621fa126ed" },
+]
+
+[[release]]
+mbid = "fab48db7-74fd-4d6e-9277-a263a295fcc7"
+title = "Que No"
+type = "single"
+date = "2017-03-24"
+tracks = [
+  { n = 1, title = "Que No", mbid = "6b73c594-4f8f-4516-ac71-5cb89b9c9325" },
+]
+
+[[release]]
+mbid = "4d5dd55d-e6fc-4ea2-a66a-53bda4765326"
+title = "Jei Beibi"
+type = "album"
+date = "2017-05-05"
+tracks = [
+  { n = 1, title = "1-2-3", mbid = "85f7e194-6a7e-4780-a1c1-5bdac4007339" },
+  { n = 2, title = "Matando", mbid = "d50ebc14-0466-4701-a7b8-43d4fbc915e7" },
+  { n = 3, title = "Automático", mbid = "e243ef07-f736-4bad-bbe6-d8ee8dbe3a01" },
+  { n = 4, title = "Enamorada", mbid = "df182a66-b4fb-4a54-9e03-32a8204ff745" },
+  { n = 5, title = "Futuro", mbid = "ca90e185-3e05-4a2f-947c-e7621fa126ed" },
+  { n = 6, title = "Resolana de luna", mbid = "c0e96201-19df-4d7c-a95b-1fb69d2920f7" },
+  { n = 7, title = "El mundo en que nací", mbid = "bc04121b-a297-433b-8bac-f331a5a3f092" },
+  { n = 8, title = "Me gusta tu manera", mbid = "5fc3a0d8-71c7-4a74-8f54-74bfff0b6a37" },
+  { n = 9, title = "Vaivén", mbid = "ab8f8668-f1d3-4f9a-ac60-a22066070807" },
+  { n = 10, title = "Que no", mbid = "6b73c594-4f8f-4516-ac71-5cb89b9c9325" },
+  { n = 11, title = "Diente de león", mbid = "7a51a6ac-1bbd-4453-8293-9deaa57ede61" },
+  { n = 12, title = "Disolviéndonos", mbid = "f078a982-1629-4437-a713-4f9d033549ff" },
+  { n = 13, title = "Celebración", mbid = "825913f9-f9bf-4476-902d-ac32721980fe" },
+]
+
+[[release]]
+mbid = "aae3e3f1-1bc1-4223-b308-670cca83afef"
+title = "Eres"
+type = "single"
+date = "2023-08-09"
+spotify = "503JdbgCMQzgpYU4sEDKSC"
+tracks = [
+  { n = 1, title = "Eres", mbid = "4ca0f047-d2f5-458c-8459-683f51d424c7" },
+]
+
+[[release]]
+mbid = "c0de1a66-fd27-43f9-bcbc-1fae41cf2790"
+title = "La bas(e)"
+type = "single"
+date = "2024-05-22"
+tracks = [
+  { n = 1, title = "La bas(e)", mbid = "fdd2d1d8-8548-47d4-8b5b-50393dc25755" },
+]

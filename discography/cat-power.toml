@@ -1,0 +1,576 @@
+format = 1
+
+[[release]]
+mbid = "aa9fbfeb-0b87-3d66-b41e-0dfec7e983e9"
+title = "Headlights"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Headlights", mbid = "b8e18c2a-0a85-4c51-af4e-7b73ededddfa" },
+  { n = 2, title = "Darling Said Sir", mbid = "319c97de-9ba1-44c7-9ccd-88f21086c50d" },
+]
+
+[[release]]
+mbid = "b1d7bce1-68e4-38c7-8b17-164e0dceced3"
+title = "Dear Sir"
+type = "album"
+date = "1995-10-23"
+spotify = "3ShbWtXth9ZL0HoCpXOdV0"
+tracks = [
+  { n = 1, title = "3 Times", mbid = "c425b2f7-85fe-4ccd-abc3-c425bbad07f6" },
+  { n = 2, title = "Rockets", mbid = "d36f2cb4-d40a-467c-9cac-e6bf9d75f317" },
+  { n = 3, title = "Itchyhead", mbid = "7beda06c-4431-42f3-af2f-73be86f02f47" },
+  { n = 4, title = "Yesterday Is Here", mbid = "e597f927-bed3-4aef-8501-af18e8fff6ed" },
+  { n = 5, title = "The Sleepwalker", mbid = "154809e8-72e4-434f-a8d6-8c9c076126b7" },
+  { n = 6, title = "Mr. Gallo", mbid = "8be5153e-ca18-4e37-8a77-5bd142f1d3bc" },
+  { n = 7, title = "No Matter", mbid = "c5e8274d-df71-438c-a83c-37c539a6275a" },
+  { n = 8, title = "Great Expectations", mbid = "850f3970-fd4c-4b08-90ea-654aacd1a271" },
+  { n = 9, title = "Headlights", mbid = "3ffb394e-0e54-42cd-a104-50ab302aad65" },
+]
+
+[[release]]
+mbid = "dc58d3f2-cdea-3006-a998-21d614bed5e1"
+title = "Myra Lee"
+type = "album"
+date = "1996-03-04"
+spotify = "6PL6ypUuA52EvfZ0xJO7x7"
+tracks = [
+  { n = 1, title = "Enough", mbid = "227a6026-bf80-40b3-9cc0-1e7771ed87cb" },
+  { n = 2, title = "We All Die", mbid = "b66b18a8-9690-4e48-b63e-fca693f7aed2" },
+  { n = 3, title = "Great Expectations", mbid = "ce5ee5be-3826-4ef7-b837-b43f4b850663" },
+  { n = 4, title = "Top Expert", mbid = "8d3e62c4-476e-4295-8868-e4bca68f9349" },
+  { n = 5, title = "Ice Water", mbid = "bbf5df7c-3014-47ea-b28b-d3600637c0c5" },
+  { n = 6, title = "Still in Love", mbid = "03439552-24cf-431b-8ccc-e02c7e74ec40" },
+  { n = 7, title = "Rockets", mbid = "d36f2cb4-d40a-467c-9cac-e6bf9d75f317" },
+  { n = 8, title = "Faces", mbid = "3b612bc8-1d06-4a80-a857-f78dcc284290" },
+  { n = 9, title = "Fiance", mbid = "f2672d38-f6af-4f32-868d-c0ff49af13b1" },
+  { n = 10, title = "Wealthy Man", mbid = "f1960a57-3c01-4f65-986e-16042b4771d9" },
+  { n = 11, title = "Not What You Want", mbid = "b7b74fb7-3868-411f-93bd-aa8ed6f349b0" },
+]
+
+[[release]]
+mbid = "eadb8f2e-3924-314e-9565-eaee3b6a51e5"
+title = "What Would the Community Think"
+type = "album"
+date = "1996-09-10"
+spotify = "7bQqrdbMzEBXsJZi1z2Xg2"
+tracks = [
+  { n = 1, title = "In This Hole", mbid = "8c254f07-1930-42f5-bb15-64a4187f2685" },
+  { n = 2, title = "Good Clean Fun", mbid = "520a8917-a8bb-40ea-9ae6-d11bde46e981" },
+  { n = 3, title = "What Would the Community Think", mbid = "22d64e6a-a02b-4dbc-a698-dd3cb93ea3c0" },
+  { n = 4, title = "Nude as the News", mbid = "5e0f7385-5690-422e-af12-8fc75fcd0252" },
+  { n = 5, title = "They Tell Me", mbid = "5361151b-4bda-4ddf-9c02-6b4d9cd5d579" },
+  { n = 6, title = "Taking People", mbid = "a5d2f4eb-ba5a-416c-b3be-f14493e38c5e" },
+  { n = 7, title = "The Fate of the Human Carbine", mbid = "380c5adf-a533-4a10-b99a-696ab92af485" },
+  { n = 8, title = "King Rides By", mbid = "dc0d7734-82ba-49b8-bc4e-ada2bb441b61" },
+  { n = 9, title = "Bathysphere", mbid = "00104142-e5fb-43aa-acb3-fd71523355aa" },
+  { n = 10, title = "Water & Air", mbid = "7aa5c1b8-b23a-4b2c-b9cb-ff2409d6fd01" },
+  { n = 11, title = "Enough", mbid = "c9ba8280-b48c-4e4d-a87b-e188ed95986b" },
+  { n = 12, title = "The Coat Is Always On", mbid = "3e1d23d9-ad9d-4e34-98d1-be073cbdd4d9" },
+]
+
+[[release]]
+mbid = "697734b8-ddae-3044-a415-3bba520baa16"
+title = "Undercover"
+type = "ep"
+date = "1996-11-10"
+tracks = [
+  { n = 1, title = "Psychic Hearts", mbid = "75f01df7-a7c3-400c-afcd-56fc2a35620e" },
+  { n = 2, title = "We Dance", mbid = "0760cb93-7f57-44f4-8553-13503b3f0384" },
+  { n = 3, title = "Johnny's Got a Gun", mbid = "7a982b73-72ab-4070-8771-65415b9fa954" },
+]
+
+[[release]]
+mbid = "4c547d68-8192-3aa4-b979-c7bda79c38a0"
+title = "Nude as the News"
+type = "single"
+date = "1996-12-09"
+tracks = [
+  { n = 1, title = "Nude as the News", mbid = "5e0f7385-5690-422e-af12-8fc75fcd0252" },
+  { n = 2, title = "Schizophrenia's Weighted Me Down", mbid = "1b4ee11b-083c-4fac-a012-545e817100f7" },
+]
+
+[[release]]
+mbid = "88d34969-dd30-32ee-a28b-eb8015f07116"
+title = "Moon Pix"
+type = "album"
+date = "1998-09-22"
+tracks = [
+  { n = 1, title = "American Flag", mbid = "e4c04c47-e6a7-4a99-be25-c9595797cc4e" },
+  { n = 2, title = "He Turns Down", mbid = "1e12fe09-d665-4f59-818b-e26d6d515896" },
+  { n = 3, title = "No Sense", mbid = "d43544da-0ded-4e29-b7a2-dba25a10ba54" },
+  { n = 4, title = "Say", mbid = "0eaf9136-0b39-48e4-9021-2df4ee427082" },
+  { n = 5, title = "Metal Heart", mbid = "5972647f-744b-4cc4-a124-cbd5090aaa1d" },
+  { n = 6, title = "Back of Your Head", mbid = "dd65e113-71fb-4335-8187-00e2b9cc6b37" },
+  { n = 7, title = "Moonshiner", mbid = "ff2cc8b0-94a0-4168-9fb4-c204169d51ae" },
+  { n = 8, title = "You May Know Him", mbid = "b9480b03-a52f-4064-be24-31aee232e9cb" },
+  { n = 9, title = "Colors and the Kids", mbid = "099b148e-fe99-4b79-be6e-5078e4bb7415" },
+  { n = 10, title = "Cross Bones Style", mbid = "6daca46f-981a-426d-a32f-29c324746a48" },
+  { n = 11, title = "Peking Saint", mbid = "b730c3ae-138c-4db3-a92d-cd0b9c112e5f" },
+]
+
+[[release]]
+mbid = "f79e58f0-f2d0-3037-9251-b0564cab654e"
+title = "The Covers Record"
+type = "album"
+date = "2000-03-10"
+spotify = "4dZBOO1PjjmtPA974xHMND"
+tracks = [
+  { n = 1, title = "(I Can’t Get No) Satisfaction", mbid = "233a986d-d897-4329-8d4b-6eb2fe07e52c" },
+  { n = 2, title = "Kingsport Town", mbid = "751b1da3-cf0c-4e2c-be17-12fe6b893263" },
+  { n = 3, title = "Troubled Waters", mbid = "cf530b2c-560c-4bc4-aad0-925695b432bc" },
+  { n = 4, title = "Naked If I Want To", mbid = "38aacd05-1ea4-4287-ab27-ccd0039d1692" },
+  { n = 5, title = "Sweedeedee", mbid = "1b46692f-6692-4134-95f0-3d281dc53b72" },
+  { n = 6, title = "In This Hole", mbid = "10871f63-37de-4291-935a-30ced4398f69" },
+  { n = 7, title = "I Found a Reason", mbid = "ffd56ff1-9b57-4ce5-84f0-3403e755bd13" },
+  { n = 8, title = "Wild Is the Wind", mbid = "2529f07b-51ce-4a82-b753-c764c871bc22" },
+  { n = 9, title = "Red Apples", mbid = "d9e3e60b-496b-421d-ba89-a54904b23a55" },
+  { n = 10, title = "Paths of Victory", mbid = "45141d3e-6995-4b92-a922-19fdd097df62" },
+  { n = 11, title = "Salty Dog", mbid = "89c37020-a20c-4bfe-862a-bb4641bc42cb" },
+  { n = 12, title = "Sea of Love", mbid = "ef875846-9c88-4064-a753-04c690e352c1" },
+]
+
+[[release]]
+mbid = "b24234fc-1afd-34df-9c42-92cb51cc0a36"
+title = "You Are Free"
+type = "album"
+date = "2003-01-25"
+spotify = "1ILPBTSa7KJCPIs39Bp11d"
+tracks = [
+  { n = 1, title = "I Don't Blame You", mbid = "36867bd1-6348-4733-8763-683216c19ae2" },
+  { n = 2, title = "Free", mbid = "908af1de-35f5-4a78-8eb0-2e296a86c5ae" },
+  { n = 3, title = "Good Woman", mbid = "95a0f78a-5064-486e-b7be-e66c5df90b8a" },
+  { n = 4, title = "Speak For Me", mbid = "fb4906e0-3748-4882-8a71-060f0c3f5763" },
+  { n = 5, title = "Werewolf", mbid = "c71f5199-e16a-4c6c-98b7-9a941a4a6542" },
+  { n = 6, title = "Fool", mbid = "5eb53bba-e6c7-4fe3-9076-b620be085a78" },
+  { n = 7, title = "He War", mbid = "1601c29b-7753-4b75-afd0-d1c12d249d68" },
+  { n = 8, title = "Shaking Paper", mbid = "f7d1f396-f0b0-49df-97e2-64428ff6ebe4" },
+  { n = 9, title = "Babydoll", mbid = "997a45c6-a449-441a-9629-2ed782fc34c4" },
+  { n = 10, title = "Maybe Not", mbid = "b207dec0-bc5e-4db6-9312-7e80cc5d4754" },
+  { n = 11, title = "Names", mbid = "ff9eb3a9-375f-4ad5-bba8-77490a2d4a89" },
+  { n = 12, title = "Half Of You", mbid = "0aaab02e-9492-4c0b-8c7d-fffcddc08d93" },
+  { n = 13, title = "Keep On Runnin'", mbid = "27cf8134-62bd-42d2-9a9f-180a50046b7c" },
+  { n = 14, title = "Evolution", mbid = "7589e2f7-ccc6-43b7-b0e8-09cdba39c155" },
+]
+
+[[release]]
+mbid = "8760642b-642f-3797-b233-4d14e6b7c8ee"
+title = "Speaking for Trees"
+type = "album"
+date = "2004-10-26"
+tracks = [
+  { n = 1, title = "Willie Deadwilder", mbid = "cee25f5c-4c7b-4f56-a500-db9c14e10359" },
+]
+
+[[release]]
+mbid = "1d09530d-2a86-3495-9de1-6636e5f8a0f1"
+title = "The Greatest"
+type = "album"
+date = "2006-01-07"
+spotify = "5wvLz9X3xLD3tXNm84NymM"
+tracks = [
+  { n = 1, title = "The Greatest", mbid = "ef375fc6-ffcd-4d3d-a422-2c5e775fc02c" },
+  { n = 2, title = "Living Proof", mbid = "532fcec1-666e-4f90-95c0-29d31a180547" },
+  { n = 3, title = "Lived in Bars", mbid = "193f69c5-5fd1-4a53-8d47-cf0ab5da47ee" },
+  { n = 4, title = "Could We", mbid = "c1cd6647-1021-4f25-afe8-06a95b505fce" },
+  { n = 5, title = "Empty Shell", mbid = "048b9d76-ff19-44ed-91d7-72af3c0bb7df" },
+  { n = 6, title = "Willie", mbid = "8146d3a0-a773-4365-9b25-f9ca75096d40" },
+  { n = 7, title = "Where Is My Love", mbid = "aa4a0633-55c8-4afb-9f02-eb5201c34b48" },
+  { n = 8, title = "The Moon", mbid = "58783c4b-c5e4-49e0-a530-67dff864d9de" },
+  { n = 9, title = "Islands", mbid = "a84414b7-bd1b-4a03-aaa6-f90e274f0149" },
+  { n = 10, title = "After It All", mbid = "9f275ebc-ecd1-42b5-8550-279a1d636c34" },
+  { n = 11, title = "Hate", mbid = "a9a79b07-805a-41d6-bfeb-fcbdf0ba1837" },
+  { n = 12, title = "Love & Communication", mbid = "5e78cd3e-4114-4c7f-9602-b9e022d60305" },
+]
+
+[[release]]
+mbid = "501bfb69-9f55-3cfb-8683-688624e4fdc8"
+title = "The Greatest / Hate"
+type = "single"
+date = "2006-01-16"
+tracks = [
+  { n = 1, title = "The Greatest", mbid = "ef375fc6-ffcd-4d3d-a422-2c5e775fc02c" },
+  { n = 2, title = "Hate", mbid = "b1d00735-adf1-41c3-a464-00e801ae3e15" },
+]
+
+[[release]]
+mbid = "aef4e0ae-3b02-3243-bbfe-3104ec6fe802"
+title = "Could We"
+type = "single"
+date = "2006-05-08"
+tracks = [
+  { n = 1, title = "Could We", mbid = "c1cd6647-1021-4f25-afe8-06a95b505fce" },
+  { n = 2, title = "Dreams", mbid = "79ec2ca0-8d37-4632-893b-e8017a7fdb3b" },
+]
+
+[[release]]
+mbid = "ba20eb27-02a6-40e0-9254-a29813cb950c"
+title = "Lived in Bars"
+type = "single"
+date = "2006-06-20"
+spotify = "0MCenYvDxgczjSioMw34Ns"
+tracks = [
+  { n = 1, title = "Lived in Bars", mbid = "193f69c5-5fd1-4a53-8d47-cf0ab5da47ee" },
+]
+
+[[release]]
+mbid = "02900824-48ba-3ffb-819e-eebaabba4a3a"
+title = "eMusic Session EP"
+type = "ep"
+date = "2006-10-03"
+tracks = [
+  { n = 1, title = "The Greatest (eMusic solo version)", mbid = "3b8fbb6a-5041-421a-b496-0dd55d271d04" },
+  { n = 2, title = "Remember Me (eMusic solo version)", mbid = "b8f1aaf8-d49f-45ac-aeeb-8738485b16b2" },
+  { n = 3, title = "Ramblin’ Man (eMusic solo version)", mbid = "4df1a86f-da55-4fef-bb40-1bfde37c50c9" },
+  { n = 4, title = "Good Woman (eMusic solo version)", mbid = "aabf1ee4-6ee3-4bc3-932a-edabdaca42cf" },
+]
+
+[[release]]
+mbid = "f758e34d-8595-4e42-9697-3893f09591e9"
+title = "The Greatest"
+type = "single"
+date = "2007-02-12"
+tracks = [
+  { n = 1, title = "The Greatest", mbid = "ef375fc6-ffcd-4d3d-a422-2c5e775fc02c" },
+  { n = 2, title = "Love & Communication", mbid = "66b2693d-b935-4fbf-bb59-705baa9e3e7a" },
+]
+
+[[release]]
+mbid = "e42ec5a5-276b-4ca5-bca5-5dd9165ea498"
+title = "Up and Gone"
+type = "single"
+date = "2007-06-12"
+tracks = [
+  { n = 1, title = "Up and Gone", mbid = "e7f29dd0-4c65-4522-92f7-9ae3e95c8f89" },
+]
+
+[[release]]
+mbid = "a15a60ba-8394-4156-b3b8-c77f40f248f4"
+title = "Song to Bobby"
+type = "single"
+date = "2007-11-13"
+tracks = [
+  { n = 1, title = "Song to Bobby", mbid = "b69d6d6c-407e-404d-8e1e-78240914c906" },
+]
+
+[[release]]
+mbid = "a466f221-9e95-4dd0-860c-7562f33b64ed"
+title = "Naked, If I Want To"
+type = "single"
+date = "2007-12-17"
+tracks = [
+  { n = 1, title = "Naked, If I Want To", mbid = "ab5bfc91-4d04-48e0-86ce-51d17fbde24c" },
+]
+
+[[release]]
+mbid = "5215626d-3664-3d34-a36f-b91bba827127"
+title = "Jukebox"
+type = "album"
+date = "2008-01-18"
+spotify = "6jZJ0Fh9wr8dOikicCOLU9"
+tracks = [
+  { n = 1, title = "New York", mbid = "beb2e5a3-4c70-411d-a35c-5bec5974afcc" },
+  { n = 2, title = "Ramblin’ (Wo)man", mbid = "f5344533-f963-48f1-8056-f0dc74ae4f2b" },
+  { n = 3, title = "Metal Heart", mbid = "fb7d9988-eb63-4cfc-ac27-5ed87c9ebb38" },
+  { n = 4, title = "Silver Stallion", mbid = "fd214752-1a9b-4e07-88bf-16bf5288406d" },
+  { n = 5, title = "Aretha, Sing One for Me", mbid = "04f92aad-4fdc-4be3-8f02-7f5048b16db3" },
+  { n = 6, title = "Lost Someone", mbid = "bc88b6e2-857f-4a23-be6b-d8df4fee6eec" },
+  { n = 7, title = "Lord, Help the Poor & Needy", mbid = "cd7092f8-1986-4bf6-8b80-d18df1f98250" },
+  { n = 8, title = "I Believe in You", mbid = "4c01ff05-b72b-4ed8-992b-c4e76e795380" },
+  { n = 9, title = "Song to Bobby", mbid = "b69d6d6c-407e-404d-8e1e-78240914c906" },
+  { n = 10, title = "Don’t Explain", mbid = "33e1b8b7-ee55-4210-9e4c-40e930d00443" },
+  { n = 11, title = "Woman Left Lonely", mbid = "4d195952-b65c-40d9-a83e-50d841b5406e" },
+  { n = 12, title = "Blue", mbid = "d6e03f2b-f6f7-49a5-83bb-45f1c7affb33" },
+  { n = 13, title = "Breathless", mbid = "f9df3051-93e5-4b50-94fe-b933acc1f56d" },
+]
+
+[[release]]
+mbid = "f7882213-dc4d-3cc3-831e-80667ad877da"
+title = "Dark End of the Street"
+type = "ep"
+date = "2008-12-09"
+spotify = "3LIqCQr42ebKwepJpkYERp"
+tracks = [
+  { n = 1, title = "Dark End of the Street", mbid = "3bf5ba8f-001b-4a15-bb50-acba2d825b43" },
+  { n = 2, title = "Fortunate Son", mbid = "787ea3ae-c5ab-4028-b8c4-9205e6c46121" },
+  { n = 3, title = "Ye Auld Triangle", mbid = "11d79c13-2b25-4aab-bd41-341bc4e9635f" },
+  { n = 4, title = "I've Been Loving You Too Long", mbid = "869d799f-70d6-477b-bcb4-7a918e23c34f" },
+  { n = 5, title = "Who Knows Where the Time Goes", mbid = "d18d42c1-1907-4b16-b6b5-1dffcb01786c" },
+  { n = 6, title = "It Ain't Fair", mbid = "90fc90c6-e331-45a7-9b1f-7942cdb6cd4c" },
+]
+
+[[release]]
+mbid = "f9ed73e0-2db0-445a-af65-6703136334b4"
+title = "King Rides By"
+type = "single"
+date = "2011-12-24"
+tracks = [
+  { n = 1, title = "King Rides By", mbid = "c0fbe3b2-84bb-4d69-acf6-75483ccaaac1" },
+]
+
+[[release]]
+mbid = "954e5d5b-bd85-4e40-8579-b7acaf704a5d"
+title = "Ruin"
+type = "single"
+date = "2012-06-19"
+spotify = "1G0NESbzRwxI3ccy51qTkH"
+tracks = [
+  { n = 1, title = "Ruin", mbid = "ea4b0b14-8f57-4332-a9f9-a5d4d60b341a" },
+]
+
+[[release]]
+mbid = "d8bd0aa6-1cb7-4ace-9410-a7bca30d6c47"
+title = "Cherokee (Nicolas Jaar Remix)"
+type = "single"
+date = "2012-08-06"
+spotify = "3BupJi8sR4UpAVQ99JetZM"
+tracks = [
+  { n = 1, title = "Cherokee - Nicolas Jaar Remix", mbid = "5e81f9a2-edb0-402c-bb45-3227099ff128" },
+]
+
+[[release]]
+mbid = "07191370-deab-41e4-8ea6-be1159e80a38"
+title = "Cherokee"
+type = "single"
+date = "2012-08-07"
+tracks = [
+  { n = 1, title = "Cherokee (album version)", mbid = "3432c0cd-5a9d-4141-be2a-e3fe622e1056" },
+  { n = 2, title = "Cherokee (Nicolas Jaar remix)", mbid = "0beb7aaa-38cf-48b6-ad37-a94cf26a6d08" },
+]
+
+[[release]]
+mbid = "71ca1851-2de4-42e4-b72e-40917118dfa9"
+title = "Sun"
+type = "album"
+date = "2012-08-29"
+spotify = "1IoiJGsAHdL0OL9IOjTflm"
+tracks = [
+  { n = 1, title = "Cherokee", mbid = "3432c0cd-5a9d-4141-be2a-e3fe622e1056" },
+  { n = 2, title = "Sun", mbid = "5a1a2a35-bec3-4d3b-ae3a-b6384446ed7e" },
+  { n = 3, title = "Ruin", mbid = "304aad63-ddd7-47a0-a0bf-2b2e2dea5ffc" },
+  { n = 4, title = "3, 6, 9", mbid = "52b6c94e-547f-460e-a506-005d950fa2e9" },
+  { n = 5, title = "Always on My Own", mbid = "09bb335b-92f9-4333-a4b2-2bf9b8c2a8c0" },
+  { n = 6, title = "Real Life", mbid = "e91d4bf0-af11-4316-a953-d8c20558c3c6" },
+  { n = 7, title = "Human Being", mbid = "4a238d29-df5d-4bec-bc0c-ff1d48dbb81c" },
+  { n = 8, title = "Manhattan", mbid = "0dc6539b-f21d-4f82-8ad7-08af115f7ebe" },
+  { n = 9, title = "Silent Machine", mbid = "e2f873e8-74d6-499b-ad83-5354fc85d332" },
+  { n = 10, title = "Nothin but Time", mbid = "e70e36dd-0980-4b8b-9e08-7a853873eba9" },
+  { n = 11, title = "Peace and Love", mbid = "ec024b25-efd8-4131-98b2-5443689e4be2" },
+]
+
+[[release]]
+mbid = "ebf46457-9b31-4407-8b51-f3bbd7d20e46"
+title = "Back in the Days"
+type = "single"
+date = "2012-09-04"
+tracks = [
+  { n = 1, title = "Back in the Days", mbid = "083abb01-6ab7-41d7-8b63-daafeff6bef2" },
+  { n = 2, title = "Fire", mbid = "5e71b0ad-47cc-4a4f-aec0-ac6d8c9ed923" },
+]
+
+[[release]]
+mbid = "b7d238ea-40be-4131-9cc1-2280c1040c53"
+title = "Have Yourself a Merry Little Christmas"
+type = "single"
+date = "2013-12-18"
+tracks = [
+  { n = 1, title = "Have Yourself a Merry Little Christmas", mbid = "4b44d235-3989-4c4c-a353-3081b270eff3" },
+]
+
+[[release]]
+mbid = "c092f32d-b836-47c6-b5ab-9693e32b9af1"
+title = "Wish I Was Here"
+type = "single"
+date = "2014"
+spotify = "3ehc0OQ4fmdsVLhQp5SBTE"
+tracks = [
+  { n = 1, title = "Wish I Was Here", mbid = "84974eba-549b-4424-9240-1537ad8ae7bc" },
+]
+
+[[release]]
+mbid = "2e6659e1-f448-43d5-b4da-4ba260c8cc40"
+title = "Go Up"
+type = "single"
+date = "2016-11-25"
+spotify = "0myPqY5YfIJ1iOOYWyEfa7"
+tracks = [
+  { n = 1, title = "Go Up (radio edit)", mbid = "a29ec709-a19f-481d-842c-10122e3c3a3f" },
+  { n = 2, title = "Go Up (Trago & Troxler Present TT Music Factory remix)", mbid = "3a9b122a-008f-42a3-ad41-e70a48b7717b" },
+  { n = 3, title = "Go Up (Butch remix)", mbid = "ba606f42-2cff-43c3-8ed3-4dd0ac30887d" },
+  { n = 4, title = "Go Up (Kaytronic remix)", mbid = "2b5029c4-3017-4623-a85d-29f078ed7443" },
+  { n = 5, title = "Go Up (Ejeca remix)", mbid = "8ebe3506-3773-4672-aee2-ba64ffea2b16" },
+  { n = 6, title = "Go Up (Kolja Gerstenberg remix)", mbid = "4f1e22f3-fd23-4698-9274-9b0704f732a1" },
+  { n = 7, title = "Go Up (Body Body Jackson remix)", mbid = "16b15d46-d624-451e-afd2-5759daaee46e" },
+  { n = 8, title = "Go Up (XXL)", mbid = "7336feaa-625a-460b-9347-7fcfdfa77f0c" },
+]
+
+[[release]]
+mbid = "8746971f-5e8f-4d5e-8d96-85d4505c91c0"
+title = "Woman"
+type = "single"
+date = "2018-08-16"
+spotify = "5pBcDtTiPzadrV8p4uJ9Jh"
+tracks = [
+  { n = 1, title = "Woman (single version)", mbid = "8af7d800-cb8c-4301-b685-947ea0284705" },
+]
+
+[[release]]
+mbid = "6e97dc20-9038-40c8-a48d-1962a0c96d79"
+title = "Stay"
+type = "single"
+date = "2018-09-19"
+spotify = "3yeNHm7OxzDXZldWFcd9ka"
+tracks = [
+  { n = 1, title = "Stay", mbid = "2cf1ee66-333b-498b-bb68-eae822d83f29" },
+]
+
+[[release]]
+mbid = "83720f3f-3207-4a95-8fca-0d68c2b049b3"
+title = "Wanderer"
+type = "album"
+date = "2018-10-05"
+spotify = "28SMXZ4p2uQGJZJpFXw8em"
+tracks = [
+  { n = 1, title = "Wanderer", mbid = "8b304a8a-326d-4089-8d2e-c32b20fb5196" },
+  { n = 2, title = "In Your Face", mbid = "ebbfc51a-cbd1-479d-9dfc-decfc2b25024" },
+  { n = 3, title = "You Get", mbid = "1165e070-6f1f-42ec-b692-5edb0380d6b3" },
+  { n = 4, title = "Woman", mbid = "a4f21743-63cc-42a0-92ed-cd2a85a7c886" },
+  { n = 5, title = "Horizon", mbid = "6c5777bf-90c4-4318-84c5-99caa551cc41" },
+  { n = 6, title = "Stay", mbid = "2cf1ee66-333b-498b-bb68-eae822d83f29" },
+  { n = 7, title = "Black", mbid = "628ff3af-263d-4b14-9002-febde942b783" },
+  { n = 8, title = "Robbin Hood", mbid = "d1df9bac-a4de-42e5-8958-6d369e4b6163" },
+  { n = 9, title = "Nothing Really Matters", mbid = "c0b5d5b0-7a22-41d2-81f4-243d09f6b14a" },
+  { n = 10, title = "Me voy", mbid = "b3e5fcb9-d793-41ba-9877-b53386f37d20" },
+  { n = 11, title = "Wanderer/Exit", mbid = "080937aa-91c7-4e0e-bcf2-41759b026d14" },
+]
+
+[[release]]
+mbid = "d244a528-ce11-4191-9093-4de60e36427f"
+title = "What the World Needs Now"
+type = "single"
+date = "2018-12-03"
+spotify = "5OUM0sfRz3zGucUOCfhvJD"
+tracks = [
+  { n = 1, title = "What the World Needs Now", mbid = "d4715983-a17c-4cfd-b8f6-43611465c9bc" },
+]
+
+[[release]]
+mbid = "63899d21-fa94-4c68-a8fc-1ea281a4c875"
+title = "Toop Toop (A Tribute to Zdar)"
+type = "single"
+date = "2020-06-19"
+spotify = "3fLFvoDM0iaW1zdbI51uqP"
+tracks = [
+  { n = 1, title = "Toop Toop (A Tribute to Zdar)", mbid = "f79df64c-ff45-4b11-8e68-e75675162579" },
+]
+
+[[release]]
+mbid = "8cf7b6ad-2309-4f71-b216-dde49808cee5"
+title = "Flag Day: Original Soundtrack"
+type = "album"
+date = "2021-08-20"
+tracks = [
+  { n = 1, title = "My Father’s Daughter", mbid = "921a78f2-49a4-401a-a151-3ce393481d80" },
+  { n = 2, title = "Flag Day", mbid = "659e454f-100e-426f-ba19-896911e73222" },
+  { n = 3, title = "I Think of Angels", mbid = "090bebaa-cd5e-4059-9a8f-5505c74ed966" },
+  { n = 4, title = "Tender Mercies", mbid = "81dc7af1-8aca-4c79-9217-cb544de631e3" },
+  { n = 5, title = "Rather Be Home", mbid = "fd4892b5-1ce4-4e3e-9c45-d65978f0a2ce" },
+  { n = 6, title = "I Am a Map", mbid = "01046976-0d48-4c1b-8187-b15e75bc0d9b" },
+  { n = 7, title = "As You Did Before", mbid = "bc27f117-4eb0-42fb-acdc-88accdd80ba7" },
+  { n = 8, title = "There’s a Girl", mbid = "3762c7b7-d9df-4c03-b3a4-990ba930987d" },
+  { n = 9, title = "I’ll Be Waiting", mbid = "9a5dc13c-0a1e-4d37-bb6f-e45b9553a819" },
+  { n = 10, title = "I Will Follow", mbid = "d3b26eb0-2c16-40bc-96fa-464e47b60668" },
+  { n = 11, title = "Wave", mbid = "d6983f46-9e16-4cbf-8a08-08d9d1a0c5ad" },
+  { n = 12, title = "Drive", mbid = "5c83e673-64b7-4625-aee9-2dc23dc63270" },
+  { n = 13, title = "Dream", mbid = "47f6f8b5-e53a-4340-b08e-20f67bc22cac" },
+]
+
+[[release]]
+mbid = "1a74a3a9-a579-4965-aaf3-7b0792ea583e"
+title = "Bad Religion / A Pair of Brown Eyes"
+type = "single"
+date = "2021-10-07"
+tracks = [
+  { n = 1, title = "Bad Religion", mbid = "9f1a0c76-dcc1-4588-87a0-9d872fc45e0a" },
+  { n = 2, title = "A Pair of Brown Eyes", mbid = "4151dc45-66fd-4b4c-9804-2391494b8bb3" },
+]
+
+[[release]]
+mbid = "b9e6418b-fbd3-4633-86ac-5e9daa88c0a0"
+title = "Pa Pa Power"
+type = "single"
+date = "2021-11-01"
+spotify = "6yzop5v36lZtkaFQVDRpnF"
+tracks = [
+  { n = 1, title = "Pa Pa Power", mbid = "a5e3bb43-4575-4eaf-a87f-f3753c0d1cb8" },
+]
+
+[[release]]
+mbid = "1adaab4d-5ee5-4498-881d-d0256b9f277d"
+title = "Covers"
+type = "album"
+date = "2022-01-14"
+spotify = "58z5GjZRjt6XIz5GOS0PJh"
+tracks = [
+  { n = 1, title = "Bad Religion", mbid = "9f1a0c76-dcc1-4588-87a0-9d872fc45e0a" },
+  { n = 2, title = "Unhate", mbid = "769551a0-749d-405f-945c-4105ec87a107" },
+  { n = 3, title = "Pa Pa Power", mbid = "a5e3bb43-4575-4eaf-a87f-f3753c0d1cb8" },
+  { n = 4, title = "White Mustang", mbid = "b232e20f-6b5d-48e1-8458-f1621c226089" },
+  { n = 5, title = "A Pair of Brown Eyes", mbid = "4151dc45-66fd-4b4c-9804-2391494b8bb3" },
+  { n = 6, title = "Against the Wind", mbid = "723e5b13-05b9-4416-8b67-e0b1d73728a8" },
+  { n = 7, title = "Endless Sea", mbid = "16b7c7b0-af11-47c7-a7cb-52567b576bf0" },
+  { n = 8, title = "These Days", mbid = "324da3a4-8d72-4b14-b2df-edc65c909c7f" },
+  { n = 9, title = "It Wasn’t God Who Made Honky Tonk Angels", mbid = "df017b16-1656-444e-ae05-bf8ac0be9e7d" },
+  { n = 10, title = "I Had a Dream Joe", mbid = "80aeedf5-8c15-4237-9c77-0cf9abf8308a" },
+  { n = 11, title = "Here Comes a Regular", mbid = "da83c32b-9130-4fd7-b7e3-83587e195785" },
+  { n = 12, title = "I’ll Be Seeing You", mbid = "ed49fbfd-3d03-4f98-b752-fbf3961e088e" },
+  { n = 13, title = "You Got the Silver", mbid = "bef1a394-39c7-46ba-9c3c-56267bdf5ede" },
+]
+
+[[release]]
+mbid = "2652e9b9-3c7e-497c-b5b1-2d683390b278"
+title = "You Got the Silver"
+type = "single"
+date = "2022-05-31"
+tracks = [
+  { n = 1, title = "You Got the Silver", mbid = "394ba6ec-35e9-4d71-b3f1-24f6013a3e0b" },
+]
+
+[[release]]
+mbid = "cf6c21d8-3ded-488f-9e6b-57eb243fed7a"
+title = "Working Class Hero"
+type = "single"
+date = "2023-12-05"
+spotify = "4yKyXtKhmN6izhfnpPNlqg"
+tracks = [
+  { n = 1, title = "Working Class Hero", mbid = "65bc49f5-9b1f-4438-ada4-329f5f57dcc1" },
+]
+
+[[release]]
+mbid = "e5416a16-4cf5-47cd-999d-86f04d25b49e"
+title = "Try Me"
+type = "single"
+date = "2025-11-04"
+tracks = [
+  { n = 1, title = "Try Me", mbid = "72b4f16f-4987-4751-981b-5a0d2a3de619" },
+]
+
+[[release]]
+mbid = "33d2ca98-e2fa-4207-abcc-65aa34be2716"
+title = "Redux"
+type = "ep"
+date = "2026-01-23"
+tracks = [
+  { n = 1, title = "Try Me", mbid = "72b4f16f-4987-4751-981b-5a0d2a3de619" },
+  { n = 2, title = "Could We", mbid = "4c6d03d7-54e0-4c5a-8b37-34e44d78537b" },
+  { n = 3, title = "Nothing Compares 2 U", mbid = "c04b5cd2-59ca-4692-8988-92a84b29a75e" },
+]
+
+[[release]]
+mbid = "4735b863-10f5-49b7-ab78-e6bfd4b4baf3"
+title = "Don't You Want Me"
+type = "single"
+date = "2026-08-07"
+tracks = [
+  { n = 1, title = "Don’t You Want Me", mbid = "f09f1c7a-3c82-4b99-8845-9bead36d188a" },
+]

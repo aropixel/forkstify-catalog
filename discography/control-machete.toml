@@ -1,0 +1,80 @@
+format = 1
+
+[[release]]
+mbid = "e83030c3-b47c-3542-80c5-4861e03e382c"
+title = "Mucho barato…"
+type = "album"
+date = "1996"
+spotify = "1OGemrG3upLMC7nVj8OZX2"
+tracks = [
+  { n = 1, title = "Control Machete", mbid = "936b8efb-d058-49ec-a362-65911c4adba6" },
+  { n = 2, title = "¿Comprendes Mendes?", mbid = "0f177d13-8aae-4df1-a32f-fd9682718b4a" },
+  { n = 3, title = "Andamos armados", mbid = "ad69a24d-17b9-4ee2-bb20-9b816d0d1d7b" },
+  { n = 4, title = "Humanos mexicanos", mbid = "d140b1e3-bad0-4548-84b5-eac478a1e650" },
+  { n = 5, title = "Cheve", mbid = "fa6f3f49-bd48-494f-831a-d911789db748" },
+  { n = 6, title = "Así son mis días", mbid = "79ce45c9-2999-48fd-9458-4134906d0eb1" },
+  { n = 7, title = "¿Te aprovechas del limite?", mbid = "7e3160b5-35a1-40db-8717-c804187e9a7c" },
+  { n = 8, title = "Justo’n", mbid = "346c0b5b-8c0e-46b2-a999-d4208da80f45" },
+  { n = 9, title = "La Lupita", mbid = "11f4a325-a332-4d4e-ac28-07fb1071de0e" },
+  { n = 10, title = "Grin-gosano", mbid = "6d0325b1-7793-48c4-8eed-b88a37ad6cf3" },
+  { n = 11, title = "El son divo", mbid = "b704322f-4d4b-49c6-bbe1-855c44c71947" },
+  { n = 12, title = "Mexican curios", mbid = "a127efb5-35f4-4242-b5c9-2890f4ed0aac" },
+]
+
+[[release]]
+mbid = "8f161c51-7d1c-3253-817e-8c236408b69d"
+title = "Danzón"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Danzón Versión Original", mbid = "9dad4977-e826-45bd-93e4-6e3185f995cb" },
+  { n = 2, title = "Danzón Versión Danzonera", mbid = "59173560-cea1-428c-92c5-ef1b07cbb547" },
+  { n = 3, title = "Danzón Radio Edit", mbid = "594f4874-d91a-4ae8-8566-ec838415e06f" },
+  { n = 4, title = "Danzón Danzonera Radio", mbid = "929f05cc-d24a-4556-8ea3-88ad467d2c87" },
+  { n = 5, title = "Danzón Instrumental", mbid = "12a27e64-b2ac-4093-82e3-5d93eec2d1ff" },
+  { n = 6, title = "Danzón Danzonera Instrumental", mbid = "e379816e-6d1e-453e-b9f5-fca01043a208" },
+]
+
+[[release]]
+mbid = "c2883c16-2096-3a4c-9cc4-e485755f02bd"
+title = "Artilleria pesada, presenta…"
+type = "album"
+date = "1999-03-30"
+spotify = "31fEHaKaTwJc7hPH2mc9k2"
+tracks = [
+  { n = 1, title = "Pesada", mbid = "ea00b5cb-8ad4-4ce5-930c-8ed07391a30f" },
+  { n = 2, title = "Sí señor", mbid = "a26c0541-94b3-4f32-9b0a-4cdf8dfa40eb" },
+  { n = 3, title = "Presente", mbid = "af8ed621-69e2-42f2-b422-54633da45468" },
+  { n = 4, title = "Unísono", mbid = "be1a330b-d4d9-4e47-8ef7-09cc45a1defd" },
+  { n = 5, title = "Instancias (Los vigilantes)", mbid = "7f11f24e-ff3b-4147-893d-b48425f506b9" },
+  { n = 6, title = "Los vigilantes", mbid = "8b3e8434-190d-477d-ae68-07d4bf2a7e34" },
+  { n = 7, title = "Ileso", mbid = "75fc9335-c4fa-43d4-918a-14e55f3cfdd9" },
+  { n = 8, title = "Desde la Tierra (El tercer planeta)", mbid = "e24126f8-516c-45cf-b3a5-d08d777d3977" },
+  { n = 9, title = "Esperanza", mbid = "335aef26-fa2d-465d-bda6-ed4aba3ad39e" },
+  { n = 10, title = "Danzón", mbid = "e9f3ea0e-87a6-451d-b398-7dc94b26ab56" },
+  { n = 11, title = "Grita", mbid = "937b4343-0974-42df-8e37-e976e4f2bcfc" },
+  { n = 12, title = "La artillería", mbid = "e1d4f40b-3f0e-45a6-91b4-be09d2544b83" },
+  { n = 13, title = "Loco", mbid = "c64a137a-cb25-42e4-bb09-2f43b1e26d82" },
+]
+
+[[release]]
+mbid = "379b1117-2e4d-3774-b33e-8eeeef1ccced"
+title = "Uno, dos: Bandera"
+type = "album"
+date = "2003-11-11"
+spotify = "4ogBq4tJ1HueoZwzi9wwj9"
+tracks = [
+  { n = 1, title = "Bandera", mbid = "eb41bc49-6897-4f1b-819d-d16161914b55" },
+  { n = 2, title = "Bien, bien", mbid = "5c0ec726-285e-4ece-a7e5-d9ac6c8d7ed8" },
+  { n = 3, title = "Como ves", mbid = "c0350329-c285-48f7-a8f5-9b7564a7543b" },
+  { n = 4, title = "Paciencia", mbid = "0116bf77-a5e6-4ae8-85da-e4b3e40b4b3e" },
+  { n = 5, title = "Toda la casa", mbid = "ab3e63e0-97c8-4d95-bff8-b78b85b12b06" },
+  { n = 6, title = "Nostalgia", mbid = "28dff7bb-9e2b-4d35-a55d-581c5b416475" },
+  { n = 7, title = "En el camino", mbid = "3cc6d243-17a9-4bab-8658-04b2a12f8ef4" },
+  { n = 8, title = "El apostador", mbid = "353aec84-a8e5-4de6-856d-979e38f983ff" },
+  { n = 9, title = "De", mbid = "742f3025-82d1-4895-9099-410f1bc614af" },
+  { n = 10, title = "Ahora", mbid = "99c223e6-8305-4f83-ab06-1924a7fa1914" },
+  { n = 11, title = "Nociones (En alta)", mbid = "b3f0f7e6-9c12-4ce8-86dc-d8761aace2c4" },
+  { n = 12, title = "Verbos", mbid = "27eea0c3-4d93-47c9-8592-d8f64112c6e2" },
+  { n = 13, title = "El genio del dub", mbid = "e092dd19-9882-4c01-b343-97234f471a09" },
+]

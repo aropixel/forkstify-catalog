@@ -1,0 +1,72 @@
+format = 1
+
+[[release]]
+mbid = "e3ee6a55-8773-4ed2-8618-44a2b59f9677"
+title = "14 grammes de bordel"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "14 grammes de bordel", mbid = "80127b38-c225-4bf7-ad98-a1bdf2ce4ddd" },
+]
+
+[[release]]
+mbid = "8dae444f-eaad-4fa8-95e4-ee928470fefb"
+title = "Orelsan et Gringe sont les Casseurs Flowters"
+type = "album"
+date = "2013-11-18"
+spotify = "2TGMa7UcpLmLkPhn1p3Ff4"
+tracks = [
+  { n = 1, title = "14h58 - Casseurs Flowters Opening", mbid = "b87907ff-d1a6-4313-9c83-20b14aa43b0c" },
+  { n = 2, title = "15h02 - Regarde comme il fait beau (dehors)", mbid = "e9312cbf-426d-404e-81a8-633b23169643" },
+  { n = 3, title = "15h45 - Stupide ¡ Stupide ¡ Stupide ¡", mbid = "ded93f6f-8f77-4adb-b82d-edcdc5652e0d" },
+  { n = 4, title = "16h00 - Tu m'dois d'l'oseille", mbid = "8d1add32-b4f3-4044-a01a-f1ac1b671316" },
+  { n = 5, title = "16h22 - Deux connards dans un abribus", mbid = "29b42c38-a5e1-4d1f-8ea8-dcd7bb17a0b2" },
+  { n = 6, title = "17h04 - Prends des pièces", mbid = "292db3a9-16fb-48d9-bfb3-2f51b4e3c8ba" },
+  { n = 7, title = "18h30 - Bloqué", mbid = "a1291f0d-8d38-474c-93e3-3bd6df6ec585" },
+  { n = 8, title = "19h26 - La Mort du disque", mbid = "9893e320-e297-495d-aca8-8b93c1072057" },
+  { n = 9, title = "20h08 - Dans la place pour être", mbid = "59b3e4a0-0070-4e30-aa80-1ab2953502f0" },
+  { n = 10, title = "20h13 - La Nouvelle Paire", mbid = "75f84c3b-f197-42b0-a96e-c8c41ea17703" },
+  { n = 11, title = "22h31 - Fais les backs", mbid = "e68c790b-3c5e-4f7e-8cb9-e99ad36f5a92" },
+  { n = 12, title = "01H14 - Couplet de Claude (interlude)", mbid = "9c27daa7-ff8b-4cd8-ae92-b9f5fd66476a" },
+  { n = 13, title = "01h16 - Les putes et moi", mbid = "09a7e2a7-6e8b-4b10-80f9-69033d999e8d" },
+  { n = 14, title = "01h25 - Johnny Galoche", mbid = "d9a92bbc-0e78-4704-8df0-279d24219a32" },
+  { n = 15, title = "01h47 - Change de pote", mbid = "b1da2b9b-7c29-4cba-b243-6661095280ab" },
+  { n = 16, title = "03h53 - Manger c'est tricher", mbid = "e3f57a8b-77a3-4e5f-ad35-9cdaeb5a5a93" },
+  { n = 17, title = "04h41 - Greenje et Orselane", mbid = "c453371d-5521-4934-801c-c31db24608b5" },
+  { n = 18, title = "06h16 - Des histoires à raconter", mbid = "cd1dcdcb-321e-4c98-9675-3fc2cc2984ad" },
+]
+
+[[release]]
+mbid = "82650b56-986c-49a1-9720-9546cffab45b"
+title = "À l’heure où je me couche"
+type = "single"
+date = "2015-10-29"
+tracks = [
+  { n = 1, title = "À l’heure où je me couche", mbid = "30f8c6b8-d074-4623-a811-236911d48d54" },
+]
+
+[[release]]
+mbid = "6c5ddad7-2068-414e-bb7a-c8979ac46d06"
+title = "Comment c'est loin"
+type = "album"
+date = "2015-12-09"
+spotify = "1jfBSA8KgMLol7Iahnq8wv"
+tracks = [
+  { n = 1, title = "Nouvelle journée", mbid = "36af349f-cd63-40d2-8eb1-051aca6b4e79" },
+  { n = 2, title = "À l’heure où je me couche", mbid = "e5e0005e-1bfb-4858-bdbc-8d275f566c58" },
+  { n = 3, title = "Quand ton père t’engueule", mbid = "4666e7cd-31e5-45b3-b987-e63506ef6c90" },
+  { n = 4, title = "En boucle", mbid = "d377712f-ce71-41b0-85f6-494584180228" },
+  { n = 5, title = "Faut qu’on rentre bosser", mbid = "62e4079a-89e6-42ae-b04d-40b775e44b47" },
+  { n = 6, title = "Freestyle Radio Phoenix", mbid = "141c9d27-430e-4cd1-bdac-6489a90f15d7" },
+  { n = 7, title = "Le mal est fait", mbid = "57e25d22-1718-4188-b39a-183aaddac532" },
+  { n = 8, title = "C’est toujours 2 connards dans un abribus", mbid = "aee1efe5-87d3-4027-a049-095e6aeadddb" },
+  { n = 9, title = "Pas n’importe quel toon", mbid = "0fb89d1e-aadb-496d-b369-5176e0f06b69" },
+  { n = 10, title = "J’essaye, j’essaye", mbid = "772a3335-c0c4-4787-834b-68bbae493764" },
+  { n = 11, title = "Promenade imprévue", mbid = "3c56d408-e8ec-4f2b-bfae-4c61267d4e6b" },
+  { n = 12, title = "Xavier", mbid = "c7d02122-2327-4a48-a1d2-c86d62232eea" },
+  { n = 13, title = "Wondercash", mbid = "9d752a16-808b-47f0-bdfd-78b1cfdb5ceb" },
+  { n = 14, title = "On est resté à l’hôtel", mbid = "9401e5a3-9fed-4722-adc7-59ee8fcec934" },
+  { n = 15, title = "Si facile", mbid = "0d92b0c9-8ed5-4b8e-b162-563d57c7a6db" },
+  { n = 16, title = "Inachevés", mbid = "9a86b6bc-242d-4d1d-a870-0c5f82042c92" },
+  { n = 17, title = "Quand on descend vers le centre", mbid = "19c950b1-ceca-41d7-9394-f579154721b0" },
+]

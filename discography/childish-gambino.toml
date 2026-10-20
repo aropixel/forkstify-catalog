@@ -1,0 +1,445 @@
+format = 1
+
+[[release]]
+mbid = "c64e849f-277f-4664-9bfa-008c36e3592d"
+title = "EP"
+type = "ep"
+date = "2011-03-08"
+spotify = "6L4gtDcKB0RBRpx2DhHrsQ"
+tracks = [
+  { n = 1, title = "Be Alone", mbid = "fb28ea11-7371-4dfb-8bf5-1a457264aed9" },
+  { n = 2, title = "Freaks and Geeks", mbid = "f75d53a9-1c7f-496b-aaab-d916828db614" },
+  { n = 3, title = "My Shine", mbid = "f7f669ff-98d6-4d9a-b55f-cecd6d768924" },
+  { n = 4, title = "Lights Turned On", mbid = "e3be70bb-6e0b-44ef-a927-04501cdaddb4" },
+  { n = 5, title = "Not Going Back", mbid = "71c8c670-1423-4546-839a-a1b99f534eda" },
+]
+
+[[release]]
+mbid = "26a2a782-90bf-43b3-9f86-fe566a6308ba"
+title = "Bonfire"
+type = "single"
+date = "2011-09-23"
+spotify = "73SMd1TIe8IanKtzReN9Y9"
+tracks = [
+  { n = 1, title = "Bonfire", mbid = "59717e31-48e1-418a-bf45-2bfd14a0e13a" },
+]
+
+[[release]]
+mbid = "5253c012-f7d3-440e-919b-5bac6d91ae7e"
+title = "Camp"
+type = "album"
+date = "2011-11-14"
+spotify = "4yE6WFFun0KjJXbdWkoVrp"
+tracks = [
+  { n = 1, title = "Outside", mbid = "3f8ae947-fcee-4ec5-9e57-befa870a4259" },
+  { n = 2, title = "Fire Fly", mbid = "6b50de5d-ab8a-472c-a4c0-2e6505e167db" },
+  { n = 3, title = "Bonfire", mbid = "8c18221a-becb-44d1-b23c-3d5e2b369b2e" },
+  { n = 4, title = "All the Shine", mbid = "0f0a8e85-ea6f-4b2b-a15b-2c86f612c30d" },
+  { n = 5, title = "Letter Home", mbid = "0ba839aa-7df7-4648-a7c2-0999334889fd" },
+  { n = 6, title = "Heartbeat", mbid = "f721e713-fc13-4b34-b04f-1546026afd3d" },
+  { n = 7, title = "Backpackers", mbid = "03f6aec8-30be-4304-a366-755fb0e14447" },
+  { n = 8, title = "LES", mbid = "aab4c449-63d6-4509-a3a8-06727091d866" },
+  { n = 9, title = "Hold You Down", mbid = "c4d8b7f9-4e44-4ada-9706-2543091604fd" },
+  { n = 10, title = "Kids", mbid = "029055b9-4ffe-4cbc-8f9f-7be5696b91f9" },
+  { n = 11, title = "You See Me", mbid = "6352f515-eff3-4989-994d-74581f46082b" },
+  { n = 12, title = "Sunrise", mbid = "f12890c9-1577-406f-996e-d9f8b7900172" },
+  { n = 13, title = "That Power", mbid = "8429925c-d619-47ec-8963-70b3ba6c63e0" },
+  { n = 14, title = "Freaks and Geeks", mbid = "f75d53a9-1c7f-496b-aaab-d916828db614" },
+  { n = 15, title = "Not Going Back", mbid = "1d58884e-715e-4a1f-82cf-8937e93b2412" },
+  { n = 16, title = "Heartbeat (Treasure Fingers remix)", mbid = "3fcdf58f-9dfe-42b9-a410-f750d9b69863" },
+  { n = 17, title = "Heartbeat (OLIVER remix)", mbid = "b33e8e10-63be-47ec-aaaf-538fcb609257" },
+]
+
+[[release]]
+mbid = "e8fbdc33-7d90-48e1-8c3c-bf1776c3d985"
+title = "Camp Side D"
+type = "ep"
+date = "2011-11-15"
+tracks = [
+  { n = 1, title = "Freaks and Geeks", mbid = "f75d53a9-1c7f-496b-aaab-d916828db614" },
+  { n = 2, title = "My Shine", mbid = "1752144e-3fee-4691-9b0c-f28c084a25c9" },
+  { n = 3, title = "Not Going Back", mbid = "1d58884e-715e-4a1f-82cf-8937e93b2412" },
+  { n = 4, title = "Longest Text Message", mbid = "df36d595-18f9-4b0f-8ca6-2c3a0e7f72e4" },
+]
+
+[[release]]
+mbid = "1e80cc3f-1dea-4614-b8af-b5bdec222ab1"
+title = "Heartbeat"
+type = "single"
+date = "2011-11-25"
+spotify = "1ggioHYkuCAwO0ZIEB27Pm"
+tracks = [
+  { n = 1, title = "Heartbeat (Oliver remix)", mbid = "b33e8e10-63be-47ec-aaaf-538fcb609257" },
+  { n = 2, title = "Heartbeat (Treasure Fingers remix)", mbid = "3fcdf58f-9dfe-42b9-a410-f750d9b69863" },
+  { n = 3, title = "Heartbeat (Michael Brun remix)", mbid = "a1e024fd-adce-4061-ae95-31a42950c6ad" },
+  { n = 4, title = "Heartbeat (Tommie Sunshine remix)", mbid = "e026f980-82fa-469b-8d7c-9d84209dc25e" },
+  { n = 5, title = "Heartbeat (Peter Wade / MNDR remix)", mbid = "ad20246b-a8e7-4e24-b469-dfc0e75d0d4b" },
+  { n = 6, title = "Heartbeat (Ashworth IV remix)", mbid = "35480536-168f-48b2-9e50-9f7cfe8e84e5" },
+  { n = 7, title = "Heartbeat (Religion remix)", mbid = "3ce4688a-1e19-41c0-8687-34428a3c98a3" },
+  { n = 8, title = "All the Shine (Little Dragon remix)", mbid = "1fdcd6f7-ea20-45d6-a4bc-7109e143241e" },
+]
+
+[[release]]
+mbid = "01c33efb-c315-4433-87b3-bee9d407f942"
+title = "L.E.S. / Backpackers (Terilekst remixes)"
+type = "single"
+date = "2012"
+tracks = [
+  { n = 1, title = "L.E.S. (Terilekst remix)", mbid = "869abd81-6122-48fa-94f4-ba921da39d1d" },
+  { n = 2, title = "Backpackers (Terilekst remix)", mbid = "2dac222e-13a2-42a4-9ec4-905e20bcd562" },
+]
+
+[[release]]
+mbid = "7d7134e8-3da7-43b1-ac46-91e281e4b9d2"
+title = "Black Faces"
+type = "single"
+date = "2012-05-26"
+tracks = [
+  { n = 1, title = "Black Faces", mbid = "cd024d93-50c8-4421-84e9-c5385e21cf6e" },
+]
+
+[[release]]
+mbid = "c8ee8ff3-64d7-4590-8b1f-2b51f36cc5c4"
+title = "Bed Peace"
+type = "single"
+date = "2013-01-01"
+spotify = "6p7RdcdybcwieOlJ6srWiW"
+tracks = [
+  { n = 1, title = "Bed Peace", mbid = "3483bc67-9f59-44f2-82b4-ee0b0c77b5e4" },
+]
+
+[[release]]
+mbid = "3a8cea94-3656-457f-afae-1f9d0f4d5496"
+title = "centipede"
+type = "single"
+date = "2013-07-16"
+tracks = [
+  { n = 1, title = "centipede", mbid = "55541cbd-b476-470f-a7df-120b5ba0e118" },
+]
+
+[[release]]
+mbid = "187576e1-f13e-451f-8fa6-75c9f38a3906"
+title = "yaphet kotto (freestyle)"
+type = "single"
+date = "2013-10-08"
+tracks = [
+  { n = 1, title = "yaphet kotto (freestyle)", mbid = "f51d398e-fe7a-4e33-be5f-89d42af63289" },
+]
+
+[[release]]
+mbid = "a62dd516-e945-4976-a643-0313ba1b0b44"
+title = "3005"
+type = "single"
+date = "2013-10-22"
+spotify = "0lIj4Llbmgdg720vmXMGZX"
+tracks = [
+  { n = 1, title = "3005", mbid = "ee292c70-30b7-4093-b9b1-4cf19163fb3f" },
+]
+
+[[release]]
+mbid = "b4cd9557-d56e-4ff5-a155-8f67b9d956bd"
+title = "Relations"
+type = "single"
+date = "2013-11-12"
+spotify = "6owfM9Z5yFrLLRC305JMCh"
+tracks = [
+  { n = 1, title = "Relations", mbid = "20584d07-a60a-4b3f-b207-96d17b4d1d11" },
+]
+
+[[release]]
+mbid = "f7b59bee-62d7-4bc8-ad47-cda988cd8ded"
+title = "Because the Internet"
+type = "album"
+date = "2013-12-06"
+spotify = "5h0KYWMZIg8xT6eRGYkNMh"
+tracks = [
+  { n = 1, title = "The Library (intro)", mbid = "780b3c22-776f-4018-8259-ebde514ddcbe" },
+  { n = 2, title = "I. Crawl", mbid = "7b4c94fc-a975-4e1d-9a33-d77cb2782e61" },
+  { n = 3, title = "II. Worldstar", mbid = "e054ff98-0893-4b3a-a1b4-a8049f43ba9b" },
+  { n = 4, title = "Dial Up", mbid = "e34598b1-54e4-47d7-a73e-fad4b90d0f74" },
+  { n = 5, title = "I. The Worst Guys", mbid = "4368f9c5-de7f-42e7-ad8c-5226b544f63b" },
+  { n = 6, title = "II. Shadows", mbid = "01f22d46-c3ba-408a-89ac-6dbe463f40b3" },
+  { n = 7, title = 'III. Telegraph Ave. ("Oakland" by Lloyd)', mbid = "c697be09-6f2c-4c09-af46-7403d90a4f36" },
+  { n = 8, title = "IV. Sweatpants", mbid = "19e1e5a4-e9ce-4649-b428-17f5b4223532" },
+  { n = 9, title = "V. 3005", mbid = "851a749a-6526-445d-ba36-7a5ae437e0f7" },
+  { n = 10, title = "Playing Around Before the Party Starts", mbid = "fb97e4b2-25ed-43a2-a454-d391aa7204dc" },
+  { n = 11, title = "I. The Party", mbid = "d78e1795-a202-4581-9184-793c2c8af6d9" },
+  { n = 12, title = "II. No Exit", mbid = "b8d92a71-d689-483b-92e0-d68e8359cadd" },
+  { n = 13, title = "Death by Numbers", mbid = "f15180fe-1a34-4470-8e51-6a3bf6234241" },
+  { n = 14, title = "I. Flight of the Navigator", mbid = "f7a2e16b-5831-4f85-8888-f6ccb80e48cd" },
+  { n = 15, title = "II. Zealots of Stockholm [Free Information]", mbid = "f3d7b39c-02e2-4ca3-89a0-c54c048b3663" },
+  { n = 16, title = "III. Urn", mbid = "c97d33aa-4add-4d67-8c19-cf5ac31c2be0" },
+  { n = 17, title = "I. Pink Toes", mbid = "59533955-0c04-4b63-bf16-30c213b9f4aa" },
+  { n = 18, title = "II. Earth: The Oldest Computer (The Last Night)", mbid = "8de59146-733a-4ebd-8bb1-f4246a8fa593" },
+  { n = 19, title = "III. Life: The Biggest Troll [Andrew Auernheimer]", mbid = "61a68462-d2c8-4d29-ae12-a32478a5a1a1" },
+]
+
+[[release]]
+mbid = "a470331d-63bf-46ce-80a2-a3d25b88da7f"
+title = "What Kind of Love"
+type = "single"
+date = "2013-12-06"
+spotify = "0PPVwafHNaXDjyeWorZMKx"
+tracks = [
+  { n = 1, title = "what kind of love", mbid = "6d407d8e-d887-460b-879d-46ef71b681d4" },
+]
+
+[[release]]
+mbid = "61e3744a-9d97-415d-b19b-fb95e6f3c2a9"
+title = "Kauai"
+type = "ep"
+date = "2014-10-03"
+spotify = "7DtpLngwHYD5j0lZlMFuwU"
+tracks = [
+  { n = 1, title = "Sober", mbid = "d9a13430-1603-4deb-bdc9-2a5ac0406971" },
+  { n = 2, title = "Pop Thieves (Make It Feel Good)", mbid = "b851d50b-a7b5-44c4-89bd-78d970332807" },
+  { n = 3, title = "Retro (Rough)", mbid = "a6400a81-80ae-4287-b60c-c55260fc373e" },
+  { n = 4, title = "The Palisades", mbid = "b2a7d30d-fb6b-4684-a1e2-7e3e1eedb393" },
+  { n = 5, title = "Poke", mbid = "d1c8f6fc-ed2f-497c-9863-3940afc09a28" },
+  { n = 6, title = "Late Night in Kauai", mbid = "fa61b8b9-a592-473d-a334-84fc06501533" },
+  { n = 7, title = "V. 3005 (Beach Picnic version)", mbid = "87f102fa-37be-4871-8935-4d603cff77b1" },
+]
+
+[[release]]
+mbid = "74ed1a52-3fdf-4a61-9da5-184acb1db2ae"
+title = "Together"
+type = "single"
+date = "2014-11-20"
+spotify = "6zuncMC9ZZlBXmfPBnuSUy"
+tracks = [
+  { n = 1, title = "Together", mbid = "d87b6b46-d699-4ea5-996d-217c981662d6" },
+]
+
+[[release]]
+mbid = "5d907071-b526-4d12-9097-5115b210d19a"
+title = "Me and Your Mama"
+type = "single"
+date = "2016-11-10"
+spotify = "0QgTI8cJUk2BbJAG83Lw44"
+tracks = [
+  { n = 1, title = "Me and Your Mama", mbid = "0d432f1e-60d7-40bd-b52a-2b89b1332d08" },
+]
+
+[[release]]
+mbid = "e1adb327-2619-427c-acec-d8bb3efb5dca"
+title = "Redbone"
+type = "single"
+date = "2016-11-17"
+spotify = "6yHxhbYjUfv2xTOMI6RFFL"
+tracks = [
+  { n = 1, title = "Redbone", mbid = "7408f11c-6c4e-41e5-b81b-6a15bf6cb268" },
+]
+
+[[release]]
+mbid = "fd817615-3d43-4f07-9509-d0a46b2bc278"
+title = "“Awaken, My Love!”"
+type = "album"
+date = "2016-12-02"
+spotify = "4JCybsNZUXWrK2Jpyn12Ni"
+tracks = [
+  { n = 1, title = "Me and Your Mama", mbid = "0d432f1e-60d7-40bd-b52a-2b89b1332d08" },
+  { n = 2, title = "Have Some Love", mbid = "d54e7be4-7bfc-4910-822f-cdf096c32ade" },
+  { n = 3, title = "Boogieman", mbid = "798ef77f-6609-4981-aa95-ecd36e206f0d" },
+  { n = 4, title = "Zombies", mbid = "20f29d3a-692b-4f2e-bb2b-af29b4224312" },
+  { n = 5, title = "Riot", mbid = "cb69afdb-195c-4c66-bf0a-dabe1a9abbbe" },
+  { n = 6, title = "Redbone", mbid = "7408f11c-6c4e-41e5-b81b-6a15bf6cb268" },
+  { n = 7, title = "California", mbid = "1f2a570b-75d4-40cc-b414-8bc3a3af9742" },
+  { n = 8, title = "Terrified", mbid = "990c3a6e-137a-4012-9dcd-fc5d2304af87" },
+  { n = 9, title = "Baby Boy", mbid = "8e310e73-33d4-4b80-afaf-620d064749e7" },
+  { n = 10, title = "The Night Me and Your Mama Met", mbid = "314326c2-95e9-4047-aa36-9842ecbe352e" },
+  { n = 11, title = "Stand Tall", mbid = "004cf3eb-b668-4ade-b22a-87cb488830cd" },
+]
+
+[[release]]
+mbid = "25672ceb-8f48-4974-ac5e-6c478ea12947"
+title = "This Is America"
+type = "single"
+date = "2018-05-06"
+spotify = "5K9oSoVFz06kKmT7G65LIr"
+tracks = [
+  { n = 1, title = "This Is America", mbid = "dc316772-0627-4e8e-a2fd-18c1fc5b791c" },
+]
+
+[[release]]
+mbid = "0b70db54-0070-4863-a432-7a51057f43b2"
+title = "Feels Like Summer"
+type = "single"
+date = "2018-07-11"
+tracks = [
+  { n = 1, title = "Feels Like Summer", mbid = "f363ff62-b887-4f72-9742-e835fb051b8b" },
+]
+
+[[release]]
+mbid = "ee19600a-a680-4d82-a7da-0b30194c7dff"
+title = "Summer Pack"
+type = "ep"
+date = "2018-07-11"
+spotify = "15k99o4mZJ9mfpQGIOrZ45"
+tracks = [
+  { n = 1, title = "Summertime Magic", mbid = "5c8e5874-3934-40e9-9c80-ac49bf376bd3" },
+  { n = 2, title = "Feels Like Summer", mbid = "f363ff62-b887-4f72-9742-e835fb051b8b" },
+]
+
+[[release]]
+mbid = "004218e6-acc3-496e-90b0-6705be0f6f88"
+title = "Summertime Magic"
+type = "single"
+date = "2018-07-11"
+tracks = [
+  { n = 1, title = "Summertime Magic", mbid = "5c8e5874-3934-40e9-9c80-ac49bf376bd3" },
+]
+
+[[release]]
+mbid = "6fa3edad-a844-4bb7-8b3a-b8d26a82b7db"
+title = "MOOD 4 EVA"
+type = "single"
+date = "2019-07-19"
+tracks = [
+  { n = 1, title = "MOOD 4 EVA (extended version)", mbid = "3b2b738e-377f-4893-8eef-3935db02b6c4" },
+]
+
+[[release]]
+mbid = "47f9980d-8a1d-434c-86c8-43a0c07fbb31"
+title = "3.15.20"
+type = "album"
+date = "2020-03-15"
+spotify = "5qteDmbjYSYe4lxOYSwjoj"
+tracks = [
+  { n = 1, title = "0.00", mbid = "b99a5567-671f-4241-b6da-bac3c62669d1" },
+  { n = 2, title = "Algorhythm", mbid = "ede23d77-3cb2-4211-8ac3-795d098d22a7" },
+  { n = 3, title = "Time", mbid = "9c42f7a8-0c67-413d-a557-ee8b01699657" },
+  { n = 4, title = "12.38", mbid = "d4328eb0-9f94-456e-a16b-67cc6faf8ab0" },
+  { n = 5, title = "19.10", mbid = "aa6e52b0-2f21-43f0-890b-db39728f8147" },
+  { n = 6, title = "24.19", mbid = "94be95d4-be4b-4bcf-9a62-77fde9dacf1c" },
+  { n = 7, title = "32.22", mbid = "bbf73be6-d505-4ac8-855e-e48549d36142" },
+  { n = 8, title = "35.31", mbid = "7f07ac35-a10a-4a09-8bb6-6d8a22227e9f" },
+  { n = 9, title = "39.28", mbid = "55d81ffe-4b35-4d37-abff-5fd79cde9c4a" },
+  { n = 10, title = "42.26", mbid = "5dd780d2-6c17-4d45-9692-ec38f78361f3" },
+  { n = 11, title = "47.48", mbid = "325fcf16-d7b9-40a3-8d4a-a43a0da8f377" },
+  { n = 12, title = "53.49", mbid = "ee4aedc8-b912-4403-9080-59e0cc6c7288" },
+]
+
+[[release]]
+mbid = "58072eac-255f-460b-b55d-f236d6019c7d"
+title = "Stay High (Childish Gambino version)"
+type = "single"
+date = "2021-07-20"
+spotify = "5w21QoxyOOxullkebghzu0"
+tracks = [
+  { n = 1, title = "Stay High (Childish Gambino version)", mbid = "26b3a9b5-fd8b-454d-853a-3d821342595f" },
+]
+
+[[release]]
+mbid = "9d9a1c97-447f-417c-b78b-4305e389078e"
+title = "I Love You More Than You Know"
+type = "single"
+date = "2022-08-04"
+spotify = "0c4uWzsyeeV2EZ9PtKHfXF"
+tracks = [
+  { n = 1, title = "I Love You More Than You Know", mbid = "7cd694c8-51e6-4ad2-967c-384dd721e915" },
+]
+
+[[release]]
+mbid = "743164de-dee1-4ec3-85b1-42056d349801"
+title = "MORE DOLLARS, MORE SENSE 1994"
+type = "single"
+date = "2023-10-31"
+spotify = "0nFO3E9RTRETid92EVp5Q8"
+tracks = [
+  { n = 1, title = "MORE DOLLARS, MORE SENSE 1994", mbid = "bc3e199a-5ea5-45f6-8051-62d598c094e6" },
+]
+
+[[release]]
+mbid = "0d953a46-791b-4e93-a921-6f0cd7e163c4"
+title = "Atavista"
+type = "album"
+date = "2024-05-13"
+spotify = "692R05mxz7V6eOFoj5PMlQ"
+tracks = [
+  { n = 1, title = "Atavista", mbid = "d3079f58-9311-4c72-8045-7239f55e0c75" },
+  { n = 2, title = "Algorhythm", mbid = "794f5dae-8da0-4ebe-8c37-a3b848a776f2" },
+  { n = 3, title = "Time", mbid = "954f7426-02d5-47a4-8c7a-d6f02d7d5fed" },
+  { n = 4, title = "Psilocybae (Millenial Love)", mbid = "8ec4ce8a-dbc7-4487-ac70-cf73e1ade63b" },
+  { n = 5, title = "To Be Hunted", mbid = "5c4ce0c2-4724-41ec-8d17-256469c69dfe" },
+  { n = 6, title = "Sweet Thang", mbid = "5040a4b2-1dd3-44d8-bcfd-ac07f6a09186" },
+  { n = 7, title = "Little Foot Big Foot", mbid = "f3dd7187-0ea2-4b91-ad90-d0eaec4db0ba" },
+  { n = 8, title = "Why Go to the Party", mbid = "52e8425d-8923-43de-a15d-d80cf974952e" },
+  { n = 9, title = "Human Sacrifice", mbid = "73942423-50ed-4e44-beb0-0420c531fea8" },
+  { n = 10, title = "The Violence", mbid = "a85e5502-7a78-4171-99d7-3a0f81192514" },
+  { n = 11, title = "Final Church", mbid = "004e91d0-b97b-485a-a67e-4721426d99de" },
+]
+
+[[release]]
+mbid = "66019678-a3bc-4552-bf43-76a2bfe952f6"
+title = "Lithonia"
+type = "single"
+date = "2024-07-02"
+spotify = "1hfI7lik7Q3ENibeUxfsf3"
+tracks = [
+  { n = 1, title = "Lithonia", mbid = "249422d6-1453-414d-bf05-c82e3bc61665" },
+]
+
+[[release]]
+mbid = "b2907928-4e97-4835-9912-5dc438c3daa5"
+title = "In the Night"
+type = "single"
+date = "2024-07-15"
+spotify = "5oG9sgHBJXG4QFHaUHTZwe"
+tracks = [
+  { n = 1, title = "In the Night", mbid = "b178a5ab-7716-4bfe-82ce-ccd09100dfad" },
+]
+
+[[release]]
+mbid = "cd265612-3dd1-4703-b50b-289a6af72377"
+title = "Bando Stone and the New World"
+type = "album"
+date = "2024-07-19"
+spotify = "4yUqNSK6jMi7Y6eWl03U5r"
+tracks = [
+  { n = 1, title = "H3@RT$ W3RE M3@NT T0 F7¥", mbid = "643bd6c0-ab04-4e12-bad8-ef98db26116d" },
+  { n = 2, title = "Lithonia", mbid = "249422d6-1453-414d-bf05-c82e3bc61665" },
+  { n = 3, title = "Survive", mbid = "0d634fe9-760a-4369-8f93-27cdcb54f33a" },
+  { n = 4, title = "Steps Beach", mbid = "ea83d4ec-fe26-43fe-bae7-68b596767e07" },
+  { n = 5, title = "Talk My Shit", mbid = "b478705e-7271-4927-a8b4-3ebcf8a814a9" },
+  { n = 6, title = "Got to Be", mbid = "a6738014-e436-4b18-8821-3e6019d34d36" },
+  { n = 7, title = "Real Love", mbid = "0db2865d-6c68-4c8b-ae69-57ddc633e8c6" },
+  { n = 8, title = "In the Night", mbid = "b178a5ab-7716-4bfe-82ce-ccd09100dfad" },
+  { n = 9, title = "Yoshinoya", mbid = "95f1a941-6fdf-4a9d-811f-267e8b9c31b2" },
+  { n = 10, title = "Can You Feel Me", mbid = "d96d3f6d-12b1-40b5-9617-20a1c2aef70b" },
+  { n = 11, title = "No Excuses", mbid = "ac8ed8e0-930e-42a5-85e3-45c1ced48c88" },
+  { n = 12, title = "Cruisin’", mbid = "2be67d6f-01f5-4a3f-84d4-f3e3f3bba764" },
+  { n = 13, title = "We Are God", mbid = "f9a8eaf3-182c-4b95-acc3-9431cec51b35" },
+  { n = 14, title = "Running Around", mbid = "6dfe84e0-0c11-490a-8f5a-b263a508d5eb" },
+  { n = 15, title = "Dadvocate", mbid = "2fa40bc2-5ea5-4cd3-8068-d4fe6c807028" },
+  { n = 16, title = "Happy Survival", mbid = "0bbbfbe5-e081-4ca8-9b0a-bcc869d17650" },
+  { n = 17, title = "A Place Where Love Goes", mbid = "81731f2c-b2f7-485b-9cf0-157e7d0052d9" },
+]
+
+[[release]]
+mbid = "bcd635cc-06f7-4b82-b97c-f754db346413"
+title = "One Wish"
+type = "single"
+date = "2024-07-26"
+spotify = "4zqd0pJeSANOHYaNRlR4hV"
+tracks = [
+  { n = 1, title = "One Wish", mbid = "34e83cf4-bdfd-46fc-b306-d9cd386e3d3f" },
+]
+
+[[release]]
+mbid = "24b14d0b-5cbc-44ca-9768-f3ecfa090950"
+title = "Damn Right"
+type = "single"
+date = "2025-03-07"
+spotify = "00Ged0bypCbZfUOg1ccoMR"
+tracks = [
+  { n = 1, title = "Damn Right", mbid = "863c7f9f-781b-4976-9632-111aee29d1a5" },
+]
+
+[[release]]
+mbid = "24d654ca-c78a-46ef-b11d-7b408648fb17"
+title = "Running"
+type = "single"
+date = "2026-07-10"
+tracks = [
+  { n = 1, title = "Running", mbid = "b0823228-afa7-41e7-afab-a853f0ca0f3f" },
+]

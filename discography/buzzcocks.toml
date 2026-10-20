@@ -1,0 +1,601 @@
+format = 1
+
+[[release]]
+mbid = "143e6629-c5a9-3c48-8483-55b10cf75bb1"
+title = "Spiral Scratch"
+type = "ep"
+date = "1977-01-29"
+tracks = [
+  { n = 1, title = "Breakdown", mbid = "1f554d00-c9f5-46f6-9500-389468b99ebe" },
+  { n = 2, title = "Time’s Up", mbid = "50cb12a2-07c8-4e65-b9f6-5800e271cc09" },
+  { n = 3, title = "Boredom", mbid = "48d4938e-b7be-4c7b-a331-20b9bdd1a8cc" },
+  { n = 4, title = "Friends of Mine", mbid = "ff180da5-6230-46ed-a663-bafbaf4516cd" },
+]
+
+[[release]]
+mbid = "e5169181-c3e9-4c9c-bc9d-78fa62a208f1"
+title = "Orgasm Addict"
+type = "single"
+date = "1977-10-08"
+tracks = [
+  { n = 1, title = "Orgasm Addict", mbid = "a4bef59f-af0b-4849-85a7-a9229f17cf30" },
+  { n = 2, title = "Whatever Happened To?", mbid = "9486b8eb-0e63-4367-9ea8-a67dfb0bdf35" },
+]
+
+[[release]]
+mbid = "246da55a-05ae-4fe3-b9d1-8fb600367a93"
+title = "I Am the Amazing Buzzcocks 12″ Clear Vinyl Maxi Single"
+type = "single"
+date = "1978"
+tracks = [
+  { n = 1, title = "What Do I Get?", mbid = "973c6eeb-aa2f-43d1-81d1-9b34a9719598" },
+  { n = 2, title = "Fast Cars", mbid = "59a7bc3a-a830-4a1d-9e1e-e256714fdb1c" },
+  { n = 3, title = "Moving Away From the Pulsebeat", mbid = "2131e060-d4e8-4387-9b56-a7e47ac46424" },
+]
+
+[[release]]
+mbid = "7475c9a4-a735-4301-bca0-67b2210b114d"
+title = "What Do I Get?"
+type = "single"
+date = "1978-02-03"
+tracks = [
+  { n = 1, title = "What Do I Get?", mbid = "d3892700-d0d1-45c2-99f7-66c610dd09b7" },
+  { n = 2, title = "Oh Shit", mbid = "f93587cf-64b2-45fb-9598-b50bd158d95e" },
+]
+
+[[release]]
+mbid = "7a82f652-2300-3ce6-a6ae-dd0efa8e4b15"
+title = "Another Music in a Different Kitchen"
+type = "album"
+date = "1978-03-10"
+spotify = "09IXN25ZAfR272CVFcdeqh"
+tracks = [
+  { n = 1, title = "Fast Cars", mbid = "015b2976-e4fb-461f-bc02-f55fa67d4064" },
+  { n = 2, title = "No Reply", mbid = "976b51c5-0d86-4bdf-ad0d-52a59412e47f" },
+  { n = 3, title = "You Tear Me Up", mbid = "1947098a-0c7c-4397-ac32-d61ea74b3464" },
+  { n = 4, title = "Get on Our Own", mbid = "3d13217f-2a7f-44fc-ade1-3e9ef16566ad" },
+  { n = 5, title = "Love Battery", mbid = "f6f71973-cc19-483f-917f-754cc8d77911" },
+  { n = 6, title = "Sixteen", mbid = "18eb1071-9a2b-4d3e-88e9-fef4bef1c80d" },
+  { n = 7, title = "I Don’t Mind", mbid = "21fa8fa2-ccc2-4e67-bddd-56ece8cdebf3" },
+  { n = 8, title = "Fiction Romance", mbid = "798b9c3a-3a13-4bb5-a94d-0ecaec65901e" },
+  { n = 9, title = "Autonomy", mbid = "1e2ef0e3-c4aa-462f-b441-b56fc8ca6927" },
+  { n = 10, title = "I Need", mbid = "69ce4f08-f9fa-489d-8b6c-c04863a69be5" },
+  { n = 11, title = "Moving Away From the Pulsebeat", mbid = "3cef7b6d-3bb3-4c08-8120-a835f77c935e" },
+]
+
+[[release]]
+mbid = "b1252aaa-3435-34e0-8be3-27cf015487cc"
+title = "I Don’t Mind"
+type = "single"
+date = "1978-04-14"
+tracks = [
+  { n = 1, title = "I Don’t Mind", mbid = "7d9725cd-acce-48bb-b844-c59b9646f153" },
+  { n = 2, title = "Autonomy", mbid = "d1c0c5b9-89ab-43be-9de0-270e0c11b709" },
+]
+
+[[release]]
+mbid = "32c5a9b3-acc0-4f9d-ac7a-603b379419a9"
+title = "Love You More"
+type = "single"
+date = "1978-06-30"
+tracks = [
+  { n = 1, title = "Love You More", mbid = "de892eaf-f3db-49df-bb17-4680c6c39818" },
+  { n = 2, title = "Noise Annoys", mbid = "75bcd993-eb72-401c-b65c-6203d1e90372" },
+]
+
+[[release]]
+mbid = "62e1e0f8-ad03-3af4-93b9-e59ffddf75d0"
+title = "Ever Fallen in Love (With Someone You Shouldn’t’ve?)"
+type = "single"
+date = "1978-09-08"
+tracks = [
+  { n = 1, title = "Ever Fallen in Love (With Someone You Shouldn’t’ve?)", mbid = "ed2341bc-1db8-4464-826f-d8ad134099cb" },
+  { n = 2, title = "Just Lust", mbid = "fe1d2472-159f-4c44-b65f-27d94e1faeb4" },
+]
+
+[[release]]
+mbid = "b92e2659-2d33-344b-982e-7c4f4201e479"
+title = "Love Bites"
+type = "album"
+date = "1978-09-22"
+spotify = "5rMPmOj5n5TRtphgHpqEVg"
+tracks = [
+  { n = 1, title = "Real World", mbid = "89fad947-5999-4ad8-b79d-147244a387bc" },
+  { n = 2, title = "Ever Fallen in Love (With Someone You Shouldn’t’ve)", mbid = "ed2341bc-1db8-4464-826f-d8ad134099cb" },
+  { n = 3, title = "Operators Manual", mbid = "f1e624e4-00a0-42c9-879b-829b8a1162ca" },
+  { n = 4, title = "Nostalgia", mbid = "e48686f3-078c-4ad9-a3b7-fed6ea2ba94b" },
+  { n = 5, title = "Just Lust", mbid = "b45a2573-680d-4446-ba6f-7d886b8b2f67" },
+  { n = 6, title = "Sixteen Again", mbid = "aa9f198b-83aa-48bf-8964-4657277945a0" },
+  { n = 7, title = "Walking Distance", mbid = "c935d28f-57b8-4630-8af8-5b6c0a3ab1ec" },
+  { n = 8, title = "Love Is Lies", mbid = "7b67cb64-e863-426d-ab23-82b7f0aa84da" },
+  { n = 9, title = "Nothing Left", mbid = "087d6a07-60d6-4711-a7ff-addd38d517e3" },
+  { n = 10, title = "E.S.P.", mbid = "3297efbf-6015-4d63-a7a0-f2d6643ada38" },
+  { n = 11, title = "Late for the Train", mbid = "0109486b-953c-429c-b21a-cf83414219aa" },
+]
+
+[[release]]
+mbid = "972d3dc4-d46f-4e5a-928d-6675291e06cb"
+title = "Promises"
+type = "single"
+date = "1978-11-17"
+tracks = [
+  { n = 1, title = "Promises", mbid = "d856b38b-11a4-4464-9455-2af7daeadc6e" },
+  { n = 2, title = "Lipstick", mbid = "195fa4cf-808d-4edb-acbf-1442142e2c69" },
+]
+
+[[release]]
+mbid = "9f09a907-bfbc-3c4d-84c0-0431b945129d"
+title = "Everybody’s Happy Nowadays"
+type = "single"
+date = "1979-03-02"
+tracks = [
+  { n = 1, title = "Everybody’s Happy Nowadays", mbid = "5e0b4dd2-ddfb-4d1c-9c82-d95ad81ac544" },
+  { n = 2, title = "Why Can’t I Touch It?", mbid = "680212a2-29f5-4063-8595-d715f26791c0" },
+]
+
+[[release]]
+mbid = "e3da0afb-5195-30fc-a85b-7a826df0c281"
+title = "Harmony in My Head"
+type = "single"
+date = "1979-07-13"
+tracks = [
+  { n = 1, title = "Harmony in My Head", mbid = "e9890546-9924-403e-8ffb-009c91fc5d50" },
+  { n = 2, title = "Something’s Gone Wrong Again", mbid = "033d87f4-af3d-4a90-8d79-6d4c440bb959" },
+]
+
+[[release]]
+mbid = "bc8cf447-b0a5-37fe-9178-76aae0c5495b"
+title = "A Different Kind of Tension"
+type = "album"
+date = "1979-09"
+spotify = "6e7mGGPd2eYf6iWx6rEjDd"
+tracks = [
+  { n = 1, title = "Paradise", mbid = "2872eb15-04d6-428d-8025-7b74422e0a5f" },
+  { n = 2, title = "Sitting Round at Home", mbid = "8ddade5a-72a9-467e-8a78-966ae51a076b" },
+  { n = 3, title = "You Say You Don’t Love Me", mbid = "b6b456c9-9566-4338-b68c-c1ddb061cee9" },
+  { n = 4, title = "You Know You Can’t Help It", mbid = "2fb7c0f9-e2e8-4346-9885-97da1190e0c2" },
+  { n = 5, title = "Mad Mad Judy", mbid = "3e9f8bbd-fb8f-42bb-9658-51276f745e54" },
+  { n = 6, title = "Raison d’Etre", mbid = "c487a99e-18fe-4f04-ab74-21c7995ad777" },
+  { n = 7, title = "I Don’t Know What to Do With My Life", mbid = "c627a049-b737-4db2-bb6a-c9c1c3c6a831" },
+  { n = 8, title = "Money", mbid = "e41f3789-d8b8-49b2-9bdc-15f3224e9761" },
+  { n = 9, title = "Hollow Inside", mbid = "90195e70-95e8-40b2-94e0-ceb7f86ba5e0" },
+  { n = 10, title = "A Different Kind of Tension", mbid = "7525a31f-7f7c-4ab5-a1af-0d5d78875051" },
+  { n = 11, title = "I Believe", mbid = "7fcbad98-7f21-402f-95d0-d0095f2b4158" },
+  { n = 12, title = "Radio Nine", mbid = "57d04be4-900c-4b59-9fe9-20ea57bce0ea" },
+]
+
+[[release]]
+mbid = "3b463577-9751-4cad-8d0e-b4bdc02f33dd"
+title = "You Say You Don’t Love Me"
+type = "single"
+date = "1979-09"
+tracks = [
+  { n = 1, title = "You Say You Don’t Love Me", mbid = "f56b6a94-6915-4936-81d9-3891c4c3af8f" },
+  { n = 2, title = "Raison d’Etre", mbid = "1d87cb0a-4bb2-4da7-aa50-0a65daf0471a" },
+]
+
+[[release]]
+mbid = "600485f3-47cb-4fd5-9f9d-87e4e7d405ea"
+title = "I Believe"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "I Believe", mbid = "12a4fd18-7ad2-4a18-a869-aa68ea3abe7d" },
+  { n = 2, title = "Something’s Gone Wrong Again", mbid = "21bc81f2-4892-4db9-b94b-e0a13793e7a6" },
+]
+
+[[release]]
+mbid = "5bf2bc69-4993-3c9f-be55-b6ec78b6a1c9"
+title = "Part 1"
+type = "single"
+date = "1980-08"
+tracks = [
+  { n = 1, title = "Why She’s a Girl From the Chainstore", mbid = "b16b6c73-6ba4-4da1-bc2e-1958bbed19e0" },
+  { n = 2, title = "Are Everything", mbid = "f7172021-0134-4146-9595-24fab71748af" },
+]
+
+[[release]]
+mbid = "6f198224-583e-3da1-92ec-036446a4a60c"
+title = "Part 2"
+type = "single"
+date = "1980-10-13"
+tracks = [
+  { n = 1, title = "Strange Thing", mbid = "2b622918-74c7-41ca-957f-e78bd360dc8e" },
+  { n = 2, title = "Airwaves Dream", mbid = "72dc764b-dd9b-4427-be9b-d5e6fa9f97f6" },
+]
+
+[[release]]
+mbid = "80c6f81e-7075-39c3-9a4a-aea3cb215902"
+title = "Part 3"
+type = "single"
+date = "1980-12"
+tracks = [
+  { n = 1, title = "Running Free", mbid = "cb7ce10b-5c65-4e53-a0ed-b3efee2b0661" },
+  { n = 2, title = "What Do You Know?", mbid = "5c268959-437f-4cda-95f2-dfc46e29eb53" },
+]
+
+[[release]]
+mbid = "4ffe3d61-2c6f-4a3b-9b0c-29bb4bebd3a3"
+title = "Peel Sessions"
+type = "ep"
+date = "1987"
+tracks = [
+  { n = 1, title = "Fast Cars", mbid = "6d2b2ac8-9b4d-4746-a695-1d49d395991e" },
+  { n = 2, title = "(Moving Away From the) Pulsebeat", mbid = "808c9c49-19bc-427e-9177-253190f1041d" },
+  { n = 3, title = "What Do I Get", mbid = "9cfd3be8-d0da-4b15-953e-893c057ac454" },
+]
+
+[[release]]
+mbid = "0fe75e8c-37ea-44ba-9f90-2b08091944f5"
+title = "Alive Tonight"
+type = "ep"
+date = "1991"
+tracks = [
+  { n = 1, title = "Alive Tonight", mbid = "0703d664-0d7f-470c-8051-d3c9ad912edd" },
+  { n = 2, title = "Serious Crime", mbid = "7c644af2-d5a7-4d18-a0cd-a78251bdbabc" },
+  { n = 3, title = "Last to Know", mbid = "ed772adb-eb84-45a3-8fd3-935147899735" },
+  { n = 4, title = "Successful Street", mbid = "e29a1235-a09d-49ff-a5c4-5c52ea85a71c" },
+]
+
+[[release]]
+mbid = "c119103d-62c5-4e2c-9231-fe61a9894313"
+title = "Innocent"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Innocent", mbid = "b2f23202-b758-4d6a-b670-85761be9585d" },
+  { n = 2, title = "Who’ll Help Me to Forget?", mbid = "e83f188d-b275-47a3-81fb-0440e32b9116" },
+  { n = 3, title = "Inside", mbid = "8ef2ab67-71e5-4e14-b217-978d3ad52126" },
+]
+
+[[release]]
+mbid = "5f87537b-72a1-39e3-a7d3-70d65758b985"
+title = "Trade Test Transmissions"
+type = "album"
+date = "1993-06-02"
+spotify = "3EaVZIWT0pbCsjBfzXfCMN"
+tracks = [
+  { n = 1, title = "Do It", mbid = "16f8fba3-2182-4ed7-8f78-1ee911839a9a" },
+  { n = 2, title = "Innocent", mbid = "993939f1-704b-4ae0-961d-9a3fab24dca2" },
+  { n = 3, title = "T T T", mbid = "2a464de2-cf6d-42d8-b920-5f05d5c19b23" },
+  { n = 4, title = "Isolation", mbid = "d587ef02-b4f2-49d9-bdb7-cc7e1e21e39a" },
+  { n = 5, title = "Smile", mbid = "446c8446-bb45-4249-be4c-a8a50dcfead9" },
+  { n = 6, title = "Last to Know", mbid = "0145eb56-7a7f-49cd-bfde-00604e40feab" },
+  { n = 7, title = "When Love Turns Around", mbid = "094f42d0-daa0-49c1-b792-22434d4bbbd4" },
+  { n = 8, title = "Never Gonna Give It Up", mbid = "532508a6-cac9-461c-82eb-f874252978f2" },
+  { n = 9, title = "Energy", mbid = "82280f4b-2ca1-4766-a49e-85bf05981c35" },
+  { n = 10, title = "Palm of Your Hand", mbid = "4c27f225-11aa-4a51-81cc-fc6f97127699" },
+  { n = 11, title = "Alive Tonight", mbid = "4d339dc6-d0e1-4a3c-abe2-e8c412f85765" },
+  { n = 12, title = "Who’ll Help Me to Forget?", mbid = "ab3dc35e-d38a-448a-bfba-319658e6af98" },
+  { n = 13, title = "Unthinkable", mbid = "f829e06f-be0a-4583-893b-f4aae2b7c083" },
+  { n = 14, title = "Crystal Night", mbid = "ea589cef-f421-4b23-be9a-6c04489b5dbd" },
+  { n = 15, title = "369", mbid = "97cb97ff-009f-4b0b-a161-342c1785fbdc" },
+]
+
+[[release]]
+mbid = "4c280cf9-04b1-4948-9fcb-6311d01c65ca"
+title = "Do It"
+type = "single"
+date = "1993-08"
+tracks = [
+  { n = 1, title = "Do It", mbid = "404df6d3-4a89-47aa-ac03-e1d429d71dad" },
+  { n = 2, title = "Trash Away (live)", mbid = "607eeea6-1706-4911-a168-b70d5dfa00be" },
+  { n = 3, title = "All Over You (live)", mbid = "e997d0b2-38e7-4699-a482-aabe8d09dab7" },
+]
+
+[[release]]
+mbid = "0220f19c-a856-3a9d-b2d0-39f71e5b0782"
+title = "All Set"
+type = "album"
+date = "1996-05-14"
+spotify = "4ubGU8SjVhFbCBe9POpDd6"
+tracks = [
+  { n = 1, title = "Totally From the Heart", mbid = "870870b8-8823-4227-b135-949153be85f6" },
+  { n = 2, title = "Without You", mbid = "ba5140c1-6aa0-4235-bd7c-22d744fd6f62" },
+  { n = 3, title = "Give It to Me", mbid = "1a039fdb-ba2c-4bb5-851b-2df446ff9719" },
+  { n = 4, title = "Your Love", mbid = "dfe13328-1ab3-4e4b-8a7f-b151f8961292" },
+  { n = 5, title = "Point of No Return", mbid = "8c020ff7-8513-4c1d-8282-4b1a212d7933" },
+  { n = 6, title = "Hold Me Close", mbid = "c85a784c-6ef6-4c9e-8edc-38e42a030cf6" },
+  { n = 7, title = "Kiss ’n’ Tell", mbid = "da45e8bc-fe83-4546-aa3a-4e69abcb5e77" },
+  { n = 8, title = "What Am I Supposed to Do", mbid = "c207b7af-c8bf-4f64-a946-f2f50e457a8c" },
+  { n = 9, title = "Some Kinda Wonderful", mbid = "d4a56d80-0844-4e95-b52f-756439366b9d" },
+  { n = 10, title = "What You Mean to Me", mbid = "e1a77c31-1e65-4734-ad28-dba987d8dc40" },
+  { n = 11, title = "Playing for Time", mbid = "b8f2024f-e0e7-49c4-9ff4-5f15519131fb" },
+  { n = 12, title = "Pariah", mbid = "6e936899-4b43-4549-8f90-6daad39fc4aa" },
+  { n = 13, title = "Back With You", mbid = "4f20cfb7-5c17-4b7a-ba6a-427ee86f9c73" },
+]
+
+[[release]]
+mbid = "9ed98516-3108-3eb3-94c3-da5f59a7fc94"
+title = "Modern"
+type = "album"
+date = "1999-09-07"
+spotify = "6OfbIf1gj2eX97O2eoHIQw"
+tracks = [
+  { disc = 1, n = 1, title = "Soul on a Rock", mbid = "e6b63acb-415e-4785-8d85-70a65e1db565" },
+  { disc = 1, n = 2, title = "Rendezvous", mbid = "5259c095-c5bd-4bbd-99ec-c59a765bc97d" },
+  { disc = 1, n = 3, title = "Speed of Life", mbid = "a8fd4379-2af8-4fc3-99e1-1c22fce20059" },
+  { disc = 1, n = 4, title = "Thunder of Hearts", mbid = "669cd2d1-6455-4f3b-90aa-fe1fe8906b8a" },
+  { disc = 1, n = 5, title = "Why Compromise?", mbid = "e007683c-67da-4430-a4cd-cfd428bab9a6" },
+  { disc = 1, n = 6, title = "Don’t Let the Car Crash", mbid = "f7131ceb-b47a-4794-a092-f038606adbb7" },
+  { disc = 1, n = 7, title = "Runaround", mbid = "2d3369b4-b433-4462-85ea-c0fb954ca7d5" },
+  { disc = 1, n = 8, title = "Doesn’t Mean Anything", mbid = "436f707c-772c-4e3f-8430-1cd6a9d2c59e" },
+  { disc = 1, n = 9, title = "Phone", mbid = "5b7bed11-6e50-4afe-9299-6966d8fc425e" },
+  { disc = 1, n = 10, title = "Under the Sun", mbid = "19b5b510-a3c6-4ea1-b064-b864639175c6" },
+  { disc = 1, n = 11, title = "Turn of the Screw", mbid = "3e5629e5-c039-43b2-a153-0c8e8d397820" },
+  { disc = 1, n = 12, title = "Sneaky", mbid = "c43106bc-1a56-4f49-b6b9-41e7d0464512" },
+  { disc = 1, n = 13, title = "Stranger in Your Town", mbid = "e63d33db-e23e-4d14-bbf5-954e3f50b7e8" },
+  { disc = 1, n = 14, title = "Choices", mbid = "fcfd6e0b-f28d-4d09-8287-d83958443f6f" },
+  { disc = 2, n = 1, title = "Orgasm Addict", mbid = "264a795b-7ab0-49f2-be2a-1f8dc53e97e9" },
+  { disc = 2, n = 2, title = "What Do I Get?", mbid = "d3892700-d0d1-45c2-99f7-66c610dd09b7" },
+  { disc = 2, n = 3, title = "I Don’t Mind", mbid = "21fa8fa2-ccc2-4e67-bddd-56ece8cdebf3" },
+  { disc = 2, n = 4, title = "Love You More", mbid = "890f5d96-b1c9-4786-875d-879f31ef1936" },
+  { disc = 2, n = 5, title = "Ever Fallen in Love (With Someone You Shouldn’t’ve)", mbid = "ed2341bc-1db8-4464-826f-d8ad134099cb" },
+  { disc = 2, n = 6, title = "Promises", mbid = "d519a2fa-55c0-4a6f-a86a-d97072f806a5" },
+  { disc = 2, n = 7, title = "Lipstick", mbid = "86a31a3b-8908-4c18-a336-ab4f083f98aa" },
+  { disc = 2, n = 8, title = "Harmony in My Head", mbid = "3d597987-f5fb-4a85-ae1f-0c5519bf6513" },
+  { disc = 2, n = 9, title = "Everybody’s Happy Nowadays", mbid = "5e0b4dd2-ddfb-4d1c-9c82-d95ad81ac544" },
+  { disc = 2, n = 10, title = "You Say You Don’t Love Me", mbid = "632ce541-4607-4efa-8544-bb6e4a54e257" },
+  { disc = 2, n = 11, title = "Why She’s a Girl From the Chainstore", mbid = "ab46f15c-d49a-4850-ac1d-bcc92ae6505f" },
+  { disc = 2, n = 12, title = "What Do You Know", mbid = "ab93252d-747d-49f0-b1c6-154f8d801f3e" },
+]
+
+[[release]]
+mbid = "9765d930-dbd6-3866-81cb-ccbc864f3c2a"
+title = "Buzzcocks"
+type = "album"
+date = "2003-03-18"
+spotify = "0xdZg7xsazPzRabSpRFNTi"
+tracks = [
+  { n = 1, title = "Jerk", mbid = "641be5fe-2d11-434b-b8bb-ce82fd7ffe47" },
+  { n = 2, title = "Keep On", mbid = "4a8e5025-8822-4a66-a5c7-5af160a430c5" },
+  { n = 3, title = "Wake Up Call", mbid = "d63ef59b-a96b-45d5-8f91-20b15e771649" },
+  { n = 4, title = "Friends", mbid = "60c5a9fa-f714-4bb8-a130-8585fdcce9e2" },
+  { n = 5, title = "Driving You Insane", mbid = "e30110f1-c4ae-4942-a2fb-8f1e39abd9d8" },
+  { n = 6, title = "Morning After", mbid = "2a449d98-42a9-4a65-91e0-f0bc49fa10da" },
+  { n = 7, title = "Sick City Sometimes", mbid = "6b450afe-cdaa-4a08-8fdd-ceeeb74017a9" },
+  { n = 8, title = "Stars", mbid = "de168871-7013-41db-a32c-6a5737865859" },
+  { n = 9, title = "Certain Move", mbid = "7d0d3c10-0388-4643-8284-19ddef54cc99" },
+  { n = 10, title = "Lester Sands", mbid = "ad0945bf-ba8d-451c-bb2f-3128ebae5a66" },
+  { n = 11, title = "Up for the Crack", mbid = "03ffa940-a99f-4e2c-92ad-0a9f7e01bf30" },
+  { n = 12, title = "Useless", mbid = "71f62728-c79c-4812-a819-0920f2b12c6e" },
+]
+
+[[release]]
+mbid = "71ccb186-9bf4-3faf-b3ca-ea98c95afe8a"
+title = "Wish I Never Loved You"
+type = "single"
+date = "2006-02-20"
+tracks = [
+  { n = 1, title = "Wish I Never Loved You", mbid = "229e10a2-8f22-4ec6-815b-7eb143b919e3" },
+  { n = 2, title = "Don’t Matter What You Say", mbid = "677f0201-4e80-4c67-9abc-5f4710302978" },
+  { n = 3, title = "Orion", mbid = "c02a9bd9-c541-4ea9-bb0a-cd1c1697e0b9" },
+]
+
+[[release]]
+mbid = "39d072d9-dd3d-3ac1-bad4-65858814c390"
+title = "Flat‐Pack Philosophy"
+type = "album"
+date = "2006-03-07"
+spotify = "04WQNIJUvVGvxamYQiBKvu"
+tracks = [
+  { n = 1, title = "Flat‐Pack Philosophy", mbid = "c50df03f-6459-4d69-af70-243196bfe614" },
+  { n = 2, title = "Wish I Never Loved You", mbid = "b993b3bb-5c9b-46a0-83ea-b66e4c0e77d9" },
+  { n = 3, title = "Sell You Everything", mbid = "c4e706db-1e4b-4000-b0ad-eef85d1fd9b3" },
+  { n = 4, title = "Reconciliation", mbid = "be01e6bf-0adb-4933-80a6-a694ed6d440c" },
+  { n = 5, title = "I Don’t Exist", mbid = "93254e31-523b-4861-8a32-ae912fe145d8" },
+  { n = 6, title = "Soul Survivor", mbid = "8492944e-d556-4ff4-8267-b614b40bcc61" },
+  { n = 7, title = "God, What Have I Done", mbid = "02a874c1-502e-4a45-81da-991d0165cc17" },
+  { n = 8, title = "Credit", mbid = "dd4138bb-3b5a-4225-9031-fb649aac0433" },
+  { n = 9, title = "Big Brother Wheels", mbid = "61a741ba-00e6-4c48-a1aa-c771abe46a0a" },
+  { n = 10, title = "Dreamin’", mbid = "ce7006a6-49cf-4d6f-baa0-9ec6edea7af3" },
+  { n = 11, title = "Sound of a Gun", mbid = "f983b8e3-2f53-490b-bf33-4a331afbf6dd" },
+  { n = 12, title = "Look at You Now", mbid = "e5006640-5767-4025-8e1d-2f54ad93dfb1" },
+  { n = 13, title = "I’ve Had Enough", mbid = "19591107-1020-439e-8adf-775b20bbf8b6" },
+  { n = 14, title = "Between Heaven and Hell", mbid = "8d51199b-b079-4645-bb65-61588908909f" },
+]
+
+[[release]]
+mbid = "7f465ad1-6294-377e-83c1-5700bf2dba87"
+title = "Sell You Everything"
+type = "single"
+date = "2006-08-14"
+tracks = [
+  { n = 1, title = "Sell You Everything", mbid = "04e7c3ae-f306-4097-bdd4-2b2c4b9a8282" },
+  { n = 2, title = "Sixteen", mbid = "887b4d7f-8983-4c20-b8a6-55a98afcab0a" },
+  { n = 3, title = "Every Day and Every Night", mbid = "a27906db-8c27-44c2-9c28-050d16962cc2" },
+]
+
+[[release]]
+mbid = "e41e521d-d1be-3d06-9510-12a60787b8c6"
+title = "Reconciliation"
+type = "single"
+date = "2006-12-04"
+tracks = [
+  { n = 1, title = "Reconciliation", mbid = "fc2b3357-0921-4799-8189-eb95a8b3eab8" },
+  { n = 2, title = "See Through You", mbid = "2f639723-c591-4a81-9558-57c2f7425b3d" },
+  { n = 3, title = "Holding Me Down", mbid = "d033cb50-ccb6-43c9-9c83-4c19439d963e" },
+]
+
+[[release]]
+mbid = "627fc608-6638-4bd7-aaff-982371e200b4"
+title = "John Peel Session (10th April 1978)"
+type = "single"
+date = "2010-02-05"
+tracks = [
+  { n = 1, title = "Noise Annoys (John Peel Show 10th Apr 1978)", mbid = "5fc79123-f8be-4b58-82f3-5bdbeb2c439c" },
+  { n = 2, title = "Walking Distance (John Peel Show 10th Apr 1978)", mbid = "445837e8-e82f-4cad-822a-66f082a862d1" },
+  { n = 3, title = "Late for the Train (John Peel Show 10th Apr 1978)", mbid = "e9109ef3-efd3-49c9-bca2-8989e9d969c0" },
+]
+
+[[release]]
+mbid = "0f5de2b5-26ad-4384-96de-362fa89bb63f"
+title = "John Peel Session (18th October 1978)"
+type = "ep"
+date = "2010-02-05"
+tracks = [
+  { n = 1, title = "Promises (John Peel Show 23/10/78)", mbid = "a204a30f-b21a-4aff-baad-e94ffda5498b" },
+  { n = 2, title = "Lipstick (John Peel Show 23/10/78)", mbid = "b4c8ddcd-8f31-41c4-92af-7375738656c9" },
+  { n = 3, title = "Sixteen Again (John Peel Show 23/10/78)", mbid = "182497a6-5814-4ccd-a71d-ac90fda71f88" },
+  { n = 4, title = "Everybody’s Happy Nowadays (John Peel Show 23/10/78)", mbid = "6409503c-6d0e-4bd9-a09d-5512684119cb" },
+]
+
+[[release]]
+mbid = "ad269d20-ca7d-4da1-a5cf-2f188282763f"
+title = "John Peel Session (21st May 1979)"
+type = "ep"
+date = "2010-02-05"
+tracks = [
+  { n = 1, title = "E.S.P (John Peel Show 21st May 1979)", mbid = "03c17045-3995-4712-857e-704977ed6b9f" },
+  { n = 2, title = "I Don’t Know What To Do With My Life (John Peel Show 21st May 1979)", mbid = "0e3f00b3-8a6b-42ce-b9b3-42e2e199737c" },
+  { n = 3, title = "Mad Mad Judy (John Peel Show 21st May 1979)", mbid = "c942e4f3-229c-4711-ac90-8877a2fa8d13" },
+  { n = 4, title = "Hollow Inside (John Peel Show 21st May 1979)", mbid = "8e3cb3d7-56a6-412f-8505-4fedae11dcc3" },
+]
+
+[[release]]
+mbid = "d89c5f76-da3f-46aa-bc17-ad49360302fc"
+title = "John Peel Session (7th September 1977)"
+type = "single"
+date = "2010-02-05"
+tracks = [
+  { n = 1, title = "Fast Cars (John Peel Show 7th Sep 1977)", mbid = "6d2b2ac8-9b4d-4746-a695-1d49d395991e" },
+  { n = 2, title = "(Moving Away From the) Pulsebeat (John Peel Show 7th Sep 1977)", mbid = "808c9c49-19bc-427e-9177-253190f1041d" },
+  { n = 3, title = "What Do I Get (John Peel Show 7th Sep 1977)", mbid = "9cfd3be8-d0da-4b15-953e-893c057ac454" },
+]
+
+[[release]]
+mbid = "f687964b-c840-40d7-9d13-37314c3a5863"
+title = "The Way"
+type = "album"
+date = "2014-05-01"
+tracks = [
+  { n = 1, title = "Keep On Believing", mbid = "e70445fe-c9d1-4f1d-a08f-14cc1ebdb171" },
+  { n = 2, title = "People Are Strange Machines", mbid = "febb91a6-deb3-4c69-90e8-6268d1f3d80a" },
+  { n = 3, title = "The Way", mbid = "58a45c8c-fa54-4e96-a694-3847cada74fb" },
+  { n = 4, title = "In the Back", mbid = "e06af7cc-7347-44d0-9cd3-6945d1054338" },
+  { n = 5, title = "Virtually Real", mbid = "99d8372b-e04f-4099-961b-0bac7cad4bdd" },
+  { n = 6, title = "Third Dimension", mbid = "40fcce70-3b7e-4210-96dc-90536682582d" },
+  { n = 7, title = "Out of the Blue", mbid = "fd318551-87d3-4820-b63b-72a92678ecc1" },
+  { n = 8, title = "Chasing Rainbows / Modern Times", mbid = "50f1c87f-c1d9-4b16-a9c6-4e02e501671a" },
+  { n = 9, title = "It’s Not You", mbid = "166caceb-7354-4018-b09c-3e6ce80052e3" },
+  { n = 10, title = "Saving Yourself", mbid = "938ec0cb-a332-420b-85db-6a9f3c77c57a" },
+  { n = 11, title = "Disappointment (outtake)", mbid = "aed2bde5-5f37-44fc-9a64-377b4479f69a" },
+  { n = 12, title = "Generation Suicide (outtake)", mbid = "d547bee9-d786-48ac-8299-ae590248a8c2" },
+  { n = 13, title = "Happen (outtake)", mbid = "082a0b6f-2b15-47e9-8c4a-cbdbcb22af53" },
+  { n = 14, title = "Dream On Baby (outtake)", mbid = "58332318-09b0-427b-9d05-503a96eed79d" },
+]
+
+[[release]]
+mbid = "fc8d41b7-6863-42b6-98fe-6e021e0cb7bd"
+title = "The 1991 Demo Album"
+type = "album"
+date = "2020"
+spotify = "5Lw0uSKJ3gQZxLYB3w49rO"
+tracks = [
+  { n = 1, title = "Dreamin", mbid = "a750a51e-240a-46b6-8930-b18fd16670da" },
+  { n = 2, title = "Alive Tonight", mbid = "be89d9a2-0af9-4e0a-9275-fc9ed589ab2f" },
+  { n = 3, title = "Never Gonna Give It Up", mbid = "8c365bbb-4b2c-480b-92d3-81a7c9421467" },
+  { n = 4, title = "Wallpaper World", mbid = "748143c4-5f30-48bc-b4a1-3b9fbf81620f" },
+  { n = 5, title = "Successful Street", mbid = "81aacc2d-94d7-4ff2-bee2-0ed38f81a51c" },
+  { n = 6, title = "Who’ll Help Me to Forget", mbid = "b8c4b8cc-5e13-4891-a9a9-c69a334303f2" },
+  { n = 7, title = "Serious Crime", mbid = "0239fff9-a413-4c4d-93ff-afadb527d1ea" },
+  { n = 8, title = "Why Compromise", mbid = "00972415-5b3c-453e-8142-45fd0feafbd6" },
+  { n = 9, title = "Last to Know", mbid = "b0d79cfe-4edc-4d74-af0a-42ef4ca12df9" },
+  { n = 10, title = "Run Away From Home", mbid = "ae4b1008-8b42-4ca5-84e3-a84c5f8ade1e" },
+  { n = 11, title = "Searching for Your Love", mbid = "425dcce3-f518-40f8-a94c-e9e53e12ab31" },
+  { n = 12, title = "Tranquillizer", mbid = "51a21a05-1167-4af8-a48f-c336a72bb572" },
+  { n = 13, title = "When Love Turns Around You", mbid = "4eb6b5e6-aebb-44e8-b385-c4e962916d9b" },
+  { n = 14, title = "All Over You (demo)", mbid = "ac3484a5-8dc4-432e-8b2a-edda88e91876" },
+  { n = 15, title = "Isolation (demo)", mbid = "d000e20d-7c8a-4e97-9599-aac7741cdc24" },
+  { n = 16, title = "Trash Away (demo)", mbid = "cbf0f2d1-dca7-48de-b037-7a8dfb3ad26b" },
+  { n = 17, title = "Inside (demo)", mbid = "8b721151-d018-4d16-9da2-60b95b7a6fb2" },
+  { n = 18, title = "Alive Tonight (alternate version)", mbid = "0703d664-0d7f-470c-8051-d3c9ad912edd" },
+  { n = 19, title = "Serious Crime (alternate version)", mbid = "7c644af2-d5a7-4d18-a0cd-a78251bdbabc" },
+  { n = 20, title = "Last to Know (alternate version)", mbid = "ed772adb-eb84-45a3-8fd3-935147899735" },
+  { n = 21, title = "Successful Street (alternate version)", mbid = "e29a1235-a09d-49ff-a5c4-5c52ea85a71c" },
+]
+
+[[release]]
+mbid = "a3210d04-77e5-4af3-854e-986528df2662"
+title = "Gotta Get Better"
+type = "single"
+date = "2020-02-14"
+tracks = [
+  { n = 1, title = "Gotta Get Better", mbid = "2d5fb2d3-fa2f-4d6f-a750-987724e4f052" },
+  { n = 2, title = "Destination Zero", mbid = "ae74d98a-e646-4bad-9d5d-d62a7d6fab21" },
+]
+
+[[release]]
+mbid = "7f24bf6d-73a3-4eec-a7a2-938c6b5fca9d"
+title = "Senses Out of Control"
+type = "ep"
+date = "2022-03-11"
+spotify = "5G5nUiVQdRHnpLtHdzJ5e5"
+tracks = [
+  { n = 1, title = "Senses Out of Control", mbid = "3c566a3e-0e11-4b8c-aa42-cdf346f59fab" },
+  { n = 2, title = "Carnival of Illusion", mbid = "76d5523e-b730-4af9-a1f4-cf42231e5d21" },
+  { n = 3, title = "Hope Heaven Loves You", mbid = "9ea886de-9110-4be0-ba1a-bcc2972072e8" },
+]
+
+[[release]]
+mbid = "c0789d0a-3e6d-415d-968f-0ce0f55ef5b3"
+title = "Sonics in the Soul"
+type = "album"
+date = "2022-09-23"
+spotify = "1YRlTnn02qdI3tOi66xcF8"
+tracks = [
+  { n = 1, title = "Senses Out of Control", mbid = "3c566a3e-0e11-4b8c-aa42-cdf346f59fab" },
+  { n = 2, title = "Manchester Rain", mbid = "1a1f094f-5ff4-46a8-a953-66e74e8bd04b" },
+  { n = 3, title = "You’ve Changed Everything Now", mbid = "051b6af8-3e72-4d37-9f43-b849fe6ec067" },
+  { n = 4, title = "Bad Dreams", mbid = "a7b5a182-9c29-4bb1-bcc6-e7a050b2dd9a" },
+  { n = 5, title = "Nothingless World", mbid = "7e6d2c4d-e48f-4a48-8860-53939daa0ef3" },
+  { n = 6, title = "Don’t Mess With My Brain", mbid = "d9e14bdd-ff2d-48f6-ab31-56eca4ac13da" },
+  { n = 7, title = "Just Got to Let It Go", mbid = "27468027-00a0-45db-a138-19ac3761bd42" },
+  { n = 8, title = "Everything Is Wrong", mbid = "5645a8a2-6cb9-43b3-910a-287f367030c5" },
+  { n = 9, title = "Experimental Farm", mbid = "4c224cd9-c69b-4545-89c7-b4f56cd248ab" },
+  { n = 10, title = "Can You Hear Tomorrow", mbid = "27695d75-722e-4ec2-b2c8-b1e8edf0576e" },
+  { n = 11, title = "Venus Eyes", mbid = "d2a1a0ea-0a6e-4130-90c9-b2aff3588f21" },
+]
+
+[[release]]
+mbid = "f992d2a1-70a0-48da-bccf-f35bacbccb26"
+title = "Queen of the Scene"
+type = "single"
+date = "2025-11-28"
+spotify = "2vyP3w6SkeSmuiMSFE8Rup"
+tracks = [
+  { n = 1, title = "Queen of the Scene", mbid = "d288ede8-8212-436f-b328-18445f5f0513" },
+]
+
+[[release]]
+mbid = "90835a93-f711-42b4-a1f4-948764b2a325"
+title = "Poetic Machine Gun"
+type = "single"
+date = "2026-01-16"
+spotify = "5Gstc7UsioF0ZbEmnhiNaS"
+tracks = [
+  { n = 1, title = "Poetic Machine Gun", mbid = "b2230c7a-4df8-490c-b19f-5a84ae61d8f0" },
+]
+
+[[release]]
+mbid = "d40ee036-92de-4421-a5ea-73c067e133cd"
+title = "Attitude Adjustment"
+type = "album"
+date = "2026-01-30"
+spotify = "1gcAl3qytDpuAMzK2dKNjo"
+tracks = [
+  { n = 1, title = "Queen of the Scene", mbid = "d288ede8-8212-436f-b328-18445f5f0513" },
+  { n = 2, title = "Games", mbid = "c51d5c5a-1b36-402d-9524-d501a8b7525e" },
+  { n = 3, title = "Seeing Daylight", mbid = "38d3153f-996f-4c35-be44-1cec1c55225b" },
+  { n = 4, title = "Poetic Machine Gun", mbid = "8765a727-f656-4bc4-a24e-8c8117d47b55" },
+  { n = 5, title = "Tear of a Golden Girl", mbid = "d395ebbc-2165-4b34-96fa-377924aa1c65" },
+  { n = 6, title = "Heavy Streets", mbid = "a634b0ae-556c-427f-b02f-5346b654cae6" },
+  { n = 7, title = "One of the Universe, Pt. 1", mbid = "04267e37-324d-4f9a-86ac-514dd71ea973" },
+  { n = 8, title = "All Gone to War", mbid = "0421691e-dcee-455d-a3af-7947cf7719a1" },
+  { n = 9, title = "One of the Universe, Pt. 2", mbid = "e4126185-133f-446d-ad51-40d2cced8e2a" },
+  { n = 10, title = "Jesus at the Wheel", mbid = "60a870e7-6856-4cbf-81c9-6c2c9c43495d" },
+  { n = 11, title = "Just a Dream I Followed", mbid = "71d6f5bf-63a1-4b35-9734-53366350941e" },
+  { n = 12, title = "Feeling Uptight", mbid = "f57d180b-e17d-423f-82b5-ab9f8797f333" },
+  { n = 13, title = "Break That Ball and Chain", mbid = "83495169-a878-4ebd-ba22-35e42ab2ad50" },
+  { n = 14, title = "The Greatest of Them All", mbid = "fdb4a094-d2af-407d-9910-5ee88e119d70" },
+]

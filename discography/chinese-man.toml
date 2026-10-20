@@ -1,0 +1,353 @@
+format = 1
+
+[[release]]
+mbid = "bb2ba1bc-d46c-3865-95ac-d071bf6ed615"
+title = "The Pandi Groove EP"
+type = "ep"
+date = "2005-03"
+tracks = [
+  { n = 1, title = "Pandi Groove", mbid = "19f7b4f2-bc6f-4585-897c-42a0c9c16183" },
+  { n = 2, title = "DJ Tools", mbid = "00fe4bb5-c3fd-4ba0-8686-967e76ca6f91" },
+  { n = 3, title = "Searching for the Space Monkey", mbid = "5b4595de-3cb2-4f63-9a46-755219e79625" },
+  { n = 4, title = "Eight Y Cinco", mbid = "5c5cfdf4-6ad5-48fb-b935-3d1dd56e5163" },
+]
+
+[[release]]
+mbid = "53727e41-f0e3-346c-b4e1-8bc4c63fd567"
+title = "The Bunni Groove EP"
+type = "ep"
+date = "2006"
+tracks = [
+  { n = 1, title = "Bunni Groove", mbid = "ff236a6e-c01f-4436-a386-4512b16abd4c" },
+  { n = 2, title = "Washington Square", mbid = "2992f246-ef0c-416a-9742-8322e91da430" },
+  { n = 3, title = "DJ Tools 1", mbid = "1e83f0b9-9b7f-4396-b31a-a137e70bda8f" },
+  { n = 4, title = "I’ve Got That Tune", mbid = "ed0aedfa-22a1-4b65-85f1-dc53b1348db0" },
+  { n = 5, title = "You Suck Me", mbid = "5a8e2eb0-8c7f-4b83-8e43-dc485b3bf190" },
+  { n = 6, title = "DJ Tools 2", mbid = "65efda37-7906-4cac-b8c7-1a2456893558" },
+]
+
+[[release]]
+mbid = "c5055302-59b7-3ebf-8abb-e07748550342"
+title = "The Indi Groove EP"
+type = "ep"
+date = "2007"
+tracks = [
+  { n = 1, title = "Indi Groove", mbid = "5503bdf6-0c8c-4a10-a659-aceaf78b68e9" },
+  { n = 2, title = "Skank in the Air", mbid = "058c7349-d63d-42f1-8cde-2d9f44dfa35f" },
+  { n = 3, title = "Artichaut", mbid = "04b86250-e41b-43fc-997f-06d685c4bbab" },
+  { n = 4, title = "More", mbid = "1faa68b3-f54e-4b45-9496-21ce09d78f91" },
+  { n = 5, title = "DJ Tools", mbid = "d5498b5a-d817-476f-8d4b-c4ad4adc87a3" },
+]
+
+[[release]]
+mbid = "02fb7aa8-693c-3d05-9ee3-5c62440512ae"
+title = "The Groove Sessions, Volume 1: 2004-2007"
+type = "album"
+date = "2007-10-08"
+tracks = [
+  { n = 1, title = "Pandi Groove", mbid = "3a872192-ab08-4f6f-84af-e23f327024a0" },
+  { n = 2, title = "Searching for the Space Monkey", mbid = "9147a9f1-3430-4d1b-a637-8fa4caefc02a" },
+  { n = 3, title = "Eight Y Cinco", mbid = "30f77f89-6cff-4d67-abff-97286a2613ac" },
+  { n = 4, title = "Bunni Groove", mbid = "f851d133-712e-410e-9e70-f3f13ef8de92" },
+  { n = 5, title = "Washington Square", mbid = "7f31c467-43d2-48e5-89d0-4015da83c9a9" },
+  { n = 6, title = "I’ve Got That Tune", mbid = "fb7c3420-02e8-4043-ab98-67be4ddde37e" },
+  { n = 7, title = "You Suck Me", mbid = "92d87e44-1b1a-4b8e-9617-f41047a918e1" },
+  { n = 8, title = "Indi Groove", mbid = "e97523ed-563b-446b-811d-568455b868f9" },
+  { n = 9, title = "Skank in the Air", mbid = "bb109cf8-6ae0-4464-9483-68e1d9081e4a" },
+  { n = 10, title = "Artichaut", mbid = "04b86250-e41b-43fc-997f-06d685c4bbab" },
+  { n = 11, title = "More", mbid = "56e041c9-debe-4864-a4d9-73d2ce7d7cbd" },
+  { n = 12, title = "Chinese Man", mbid = "f6fb8e7c-1a95-47c1-b627-ca5b8d997c3a" },
+]
+
+[[release]]
+mbid = "7666051c-4ae2-33c7-8603-da8ccda00623"
+title = "Hong Kong Dragon Speaking"
+type = "ep"
+date = "2009-03"
+tracks = [
+  { n = 1, title = "Jumpin' in Havana", mbid = "dec78826-90e0-4a91-90cf-455aaf7c1740" },
+  { n = 2, title = "Calling Bombay", mbid = "4a998c7d-c8f6-4972-a93b-6884e2d4dfec" },
+  { n = 3, title = "Ayoyo", mbid = "8b53c974-27fa-47ca-b7ff-1d6a32f25a59" },
+  { n = 4, title = "Ordinary Man", mbid = "ad7b8410-789e-4d5b-a33d-d661fb0ec744" },
+]
+
+[[release]]
+mbid = "916593f9-3d81-3430-ad4a-f0e497d034df"
+title = "The Groove Sessions, Volume 2"
+type = "album"
+date = "2009-03-30"
+tracks = [
+  { n = 1, title = "Intro", mbid = "3ab01402-74c6-4454-a357-9e7d9bfeecb9" },
+  { n = 2, title = "Calling Bombay", mbid = "d70217f1-4894-41a0-940c-fa0e5dc6075a" },
+  { n = 3, title = "Elysean Fields", mbid = "8aaacb14-be83-4596-ba8e-c0804864ae27" },
+  { n = 4, title = "Post Trauma", mbid = "d1f8b97a-5652-419d-afdc-4f7d443219e5" },
+  { n = 5, title = "Jumpin' in Havana", mbid = "ee3039ea-29a0-4d9e-ba35-08c134af2995" },
+  { n = 6, title = "7th Street", mbid = "9adaf7e4-19e7-4208-be87-fa0da5e5b024" },
+  { n = 7, title = "Ordinary Man", mbid = "8eee07a4-0a11-432b-a2ec-cbf5ed48b159" },
+  { n = 8, title = "Ayoyo", mbid = "16c581d0-ef80-4864-98c2-0b67a2927088" },
+  { n = 9, title = "Batteries Not Included", mbid = "3ab49bb3-2a71-46d7-a5de-022b249fd451" },
+  { n = 10, title = "He Said", mbid = "f6a1a460-613d-4efe-835a-0e18b9f2d8a3" },
+  { n = 11, title = "Our Time", mbid = "69e22683-4ce3-4460-aca9-4e6742af47a9" },
+  { n = 12, title = "Day by Day", mbid = "efd56d1c-d536-4fa2-8282-e429bc880b8d" },
+  { n = 13, title = "Ayoyo na Macumbinha (DJ Sandrinho remix)", mbid = "2888b99f-70da-4049-a227-8aba373e83c9" },
+  { n = 14, title = "Outro", mbid = "e1c00a8c-9933-40d5-8689-27b610591a64" },
+]
+
+[[release]]
+mbid = "63f126de-a01c-4202-9885-0c7d749d2d43"
+title = "Miss Chang"
+type = "ep"
+date = "2011-02-21"
+tracks = [
+  { n = 1, title = "Miss Chang", mbid = "33e447a1-3356-4e15-b860-da7792f0cb50" },
+  { n = 2, title = "If You Please", mbid = "cebabea3-9e52-4c71-9081-e2105d422e48" },
+  { n = 3, title = "You're Listening to the Worlds (Chinese Man remix)", mbid = "9ffd10ea-23ea-4d42-8680-9fef5704e66e" },
+  { n = 4, title = "Ganja (Chinese Man remix)", mbid = "851e314c-7982-4839-bcd6-3acc2967c7f1" },
+]
+
+[[release]]
+mbid = "43351191-ad91-4263-83ad-5c0bdd6cdd48"
+title = "Racing With the Sun"
+type = "album"
+date = "2011-04-11"
+tracks = [
+  { n = 1, title = "Introduction (Morning Sun)", mbid = "b506e6f5-af76-40b3-9a7e-daea3daf8294" },
+  { n = 2, title = "One Past", mbid = "aa5f5d18-88fb-487e-9346-f918b2621a43" },
+  { n = 3, title = "If You Please", mbid = "2355c647-0869-46d5-a4dc-0cae4cea7a52" },
+  { n = 4, title = "Miss Chang", mbid = "a50d7c02-4846-4400-97e4-092037fe917f" },
+  { n = 5, title = "Saudade", mbid = "944b409f-820f-420f-83d6-37abafbc8ed0" },
+  { n = 6, title = "Stand!", mbid = "1d1bd94e-cf86-492d-af53-738168ca3146" },
+  { n = 7, title = "Racing With the Sun", mbid = "f1bf8138-fa79-4379-814e-1272d483d3a4" },
+  { n = 8, title = "Down", mbid = "a17ae8a7-00ca-4b85-b859-8444f7d372b9" },
+  { n = 9, title = "In My Room", mbid = "dbd86fb3-3f61-4370-8350-abd8a3728555" },
+  { n = 10, title = "Get Up", mbid = "1619f74e-60f6-444f-a65c-c6ff5cf44740" },
+  { n = 11, title = "Ta Bom", mbid = "468ce446-f5a0-4200-81cd-33b1e46ce6df" },
+  { n = 12, title = "J.O.G.J.A.", mbid = "d27408cd-93fe-4099-8fb1-1a630ec3b610" },
+  { n = 13, title = "The King", mbid = "c5ec28f3-dc43-433c-ba60-5f1569615db4" },
+]
+
+[[release]]
+mbid = "9a926f90-6ea7-499a-905e-b71ec3b0ffe9"
+title = "Once Upon a Time"
+type = "ep"
+date = "2014-02-24"
+tracks = [
+  { n = 1, title = "Once Upon a Time", mbid = "4e6996c9-4b8f-4160-804d-a4649ac41a57" },
+  { n = 2, title = "Once Upon a Time (Hugo Kant remix)", mbid = "1a1bbc41-d46b-437e-9dbf-d2aa8233c5fb" },
+  { n = 3, title = "Once Upon a Time (instrumental version)", mbid = "6ee5bbb3-e77d-484e-9b92-999fe4d02676" },
+  { n = 4, title = "Independant Music (Wrongtom Pon Cassette remix)", mbid = "a6c02b43-777c-4a69-8504-989dba679c88" },
+  { n = 5, title = "Independant Music", mbid = "583e370c-71de-42b6-98ee-19ece711ceee" },
+  { n = 6, title = "Independant Music (instrumental version)", mbid = "80310a6c-6125-4694-b71d-4cb93fa8cdc0" },
+]
+
+[[release]]
+mbid = "39a11b00-aed7-4984-ae4a-ca193c368ca2"
+title = "The Groove Sessions, Volume 3"
+type = "album"
+date = "2014-04-12"
+tracks = [
+  { n = 1, title = "Scatter (There They Go)", mbid = "d4e2dac5-a8a1-4817-a9d5-87d013ebc806" },
+  { n = 2, title = "Tall Ground", mbid = "951b5a3b-2f5b-470c-9fba-e287fbc62d1e" },
+  { n = 3, title = "Siempre estás", mbid = "79d177f8-9323-447f-89d8-b92fc156a1f1" },
+  { n = 4, title = "Rosita", mbid = "c182359e-2a54-4338-9138-7e69b219ebc7" },
+  { n = 5, title = "Once Upon a Time", mbid = "25b54071-b420-4293-9014-154bdb5f9816" },
+  { n = 6, title = "Balma", mbid = "db585567-e699-43f6-8416-a85c1f086251" },
+  { n = 7, title = "Breaking News", mbid = "9d7f3286-3dee-4c5d-9729-a39943df928e" },
+  { n = 8, title = "Hova", mbid = "4f76a158-1762-44b5-a42c-c7f3b5143c0b" },
+  { n = 9, title = "Don’t Scream", mbid = "712a286c-9e50-44d8-95be-439f81515eaf" },
+  { n = 10, title = "A.M. Horrorscope", mbid = "71a73db8-912f-47e8-90bb-fa1148ea0a9e" },
+  { n = 11, title = "Kamakura", mbid = "7d4c9ce2-5ceb-4e7b-bf3f-f49b3d8424a8" },
+  { n = 12, title = "Independent Music", mbid = "5b31589e-637c-45a6-afbb-28efd93a9e56" },
+  { n = 13, title = "Hancock", mbid = "988f1096-9f00-47f0-b415-2559e80c9676" },
+  { n = 14, title = "The Old Man", mbid = "e46c34a7-ef94-419b-ad96-c2542ba70f19" },
+]
+
+[[release]]
+mbid = "bded4b72-c364-44b2-a20f-1333f0efe0d9"
+title = "I’ve Got That Tune [10 Years Edition]"
+type = "single"
+date = "2014-09-29"
+tracks = [
+  { n = 1, title = "I’ve Got That Tune", mbid = "0bab6a9d-1011-4cbb-86a6-faee85f3541a" },
+  { n = 2, title = "I’ve Got That Tune (Tha Trickaz Remix)", mbid = "03596cb3-9639-48b0-bd24-9f8015f071f5" },
+]
+
+[[release]]
+mbid = "16982ada-2ca2-4902-82b9-a41a7d60348f"
+title = "Sho-Bro"
+type = "ep"
+date = "2015-03-30"
+tracks = [
+  { n = 1, title = "Sho-Bro", mbid = "a1e6b37f-c946-4c5e-aa9d-aae52f14c594" },
+  { n = 2, title = "The Reminder", mbid = "a99945e4-3c3f-4c19-a9f6-487c58e37dc5" },
+  { n = 3, title = "Run Run Run (Scatter) (Chill Bump remix)", mbid = "d2f0dc85-fccb-426c-af18-c39e94bbd060" },
+  { n = 4, title = "Siempre estás, Pt. 1 (High Tone remix)", mbid = "5c37e0cf-220a-4819-9066-ad122318d79a" },
+  { n = 5, title = "Hancock (Al’Tarba & DJ Nix’On remix)", mbid = "0db499d6-081d-439e-b57b-f9b2b91fe9b4" },
+  { n = 6, title = "Sho-Bro (DJ Nu-Mark remix)", mbid = "24b81e77-1511-4717-8f97-dd07f8cc4ca3" },
+  { n = 7, title = "Siempre estás, Pt. 2 (High Tone remix)", mbid = "6e888639-1646-4384-918c-6c5808541b2e" },
+  { n = 8, title = "Don’t Scream (Smokey Joe & The Kid remix)", mbid = "41f4c368-77f6-4bc7-989b-71c35ef575eb" },
+]
+
+[[release]]
+mbid = "a077adfb-a60e-4ff7-957d-390213aee113"
+title = "The Journey"
+type = "album"
+date = "2015-10-23"
+tracks = [
+  { n = 1, title = "Jungle Boogie", mbid = "39d60a6b-f426-4417-bbd1-d362a899bfa1" },
+  { n = 2, title = "Better That Way", mbid = "20d9681c-ab2c-419f-9aed-3c6157ca7e20" },
+  { n = 3, title = "Ronin", mbid = "068c3b59-813e-4a57-b47e-7e10cd65b3cd" },
+  { n = 4, title = "Pills for Your Ills", mbid = "254abb64-ec47-4f72-81e5-bac5fe241204" },
+  { n = 5, title = "Past Your Time", mbid = "14c46164-daf2-4e13-bf16-747cc79095fc" },
+  { n = 6, title = "The Journey", mbid = "0b5fcc1e-e874-4b4a-b755-ef2e3df1402e" },
+  { n = 7, title = "Jungle Boogie (Scratch Version)", mbid = "d0cfa161-90e4-4234-b4c0-5be7f1dab585" },
+  { n = 8, title = "Better That Way (Jazz Reworked)", mbid = "7b8a9fd8-6e49-4464-94b5-3a077d658dea" },
+  { n = 9, title = "Ronin (Dub)", mbid = "bb15570a-b722-4e87-9545-523d4cf56ea1" },
+  { n = 10, title = "Pills for Your Ills (Afghan Beat)", mbid = "72107363-1dc2-4024-a5e5-d3346f5a9a24" },
+  { n = 11, title = "Past Your Time (Trap Reboot)", mbid = "ea5ee85a-0178-4a29-839d-8a271c38d6bf" },
+  { n = 12, title = "The Journey (Lost Mix)", mbid = "661cd14e-4752-4abd-b675-45ce882c62ba" },
+]
+
+[[release]]
+mbid = "362c93dd-2f19-44af-b04e-896461c518d9"
+title = "Shikantaza"
+type = "album"
+date = "2017-02-03"
+tracks = [
+  { n = 1, title = "Shikantaza", mbid = "cf3a8def-de6a-4288-8684-193a81b45105" },
+  { n = 2, title = "Liar", mbid = "92a18bd9-e937-4666-96bf-db170faf27b1" },
+  { n = 3, title = "Maläd", mbid = "f0fa9fd0-b588-461f-9330-069a3c9d0495" },
+  { n = 4, title = "Step Back", mbid = "5162cf7d-0186-43bb-b45b-a95ee3253014" },
+  { n = 5, title = "The New Crown", mbid = "6d6ee5e2-e0f8-4977-b1c9-e9dd2e1a5f23" },
+  { n = 6, title = "Escape", mbid = "753e11bd-6b48-4221-a1bb-710ae9fe75df" },
+  { n = 7, title = "Stone Cold", mbid = "1741913c-09f3-4649-84fa-cfddd24e4f8a" },
+  { n = 8, title = "Modern Slave", mbid = "f49071ce-6199-4992-92ce-6848687981be" },
+  { n = 9, title = "Warriors", mbid = "6339c9d0-76bc-4f87-926d-591395a497a2" },
+  { n = 10, title = "What You Need", mbid = "0570efde-54da-4cf9-955d-f3971d88426a" },
+  { n = 11, title = "Wolf", mbid = "efc934ee-e078-4088-ac19-49ad9ba68d27" },
+  { n = 12, title = "Blah!", mbid = "265d8d2d-60fe-49cd-a6bb-ac8cbc4e658f" },
+  { n = 13, title = "Golden Age", mbid = "44d43b11-5f5d-4c2c-a53d-8e7df4149303" },
+  { n = 14, title = "L’Aurore", mbid = "13746ec8-a5ab-4679-8c32-7cc049557d12" },
+  { n = 15, title = "Anvoyé", mbid = "9a69c4bd-4d80-445f-a053-a231abd80ed1" },
+  { n = 16, title = "Good Night", mbid = "eb153be4-2818-4bce-a317-4a53bcadb389" },
+]
+
+[[release]]
+mbid = "eae7df0e-b41c-44c6-908d-120010f15366"
+title = "Operaz"
+type = "single"
+date = "2017-07-21"
+spotify = "6sxlq3oTpk3i7j6RfhsKJc"
+tracks = [
+  { n = 1, title = "Operaz (Instrumental Version)", mbid = "761ce068-4b52-4934-9b62-e4bedbc8428a" },
+  { n = 2, title = "Operaz", mbid = "5ac9d13a-88e8-4460-a231-aadf20ad9eda" },
+  { n = 3, title = "Operaz (Acapella)", mbid = "39ffea53-6115-46e5-87aa-155c26a598e7" },
+]
+
+[[release]]
+mbid = "d0183338-601a-4126-935f-c45fa57fe447"
+title = "Blah! (L'Entourloop Remix)"
+type = "single"
+date = "2018-06-22"
+tracks = [
+  { n = 1, title = "Blah! (L'Entourloop Remix)", mbid = "31e15ea7-b849-4b4f-955a-ed98f4010794" },
+]
+
+[[release]]
+mbid = "1d295045-65f7-43bb-81f6-ab7a49d73823"
+title = "Anvoyé (Clap! Clap! Remix)"
+type = "single"
+date = "2018-07-27"
+tracks = [
+  { n = 1, title = "Anvoyé (Clap! Clap! Remix)", mbid = "1e4d6e97-6b44-4f38-b268-c9b45073519d" },
+]
+
+[[release]]
+mbid = "27694a86-5467-416b-bd67-59ba0fb4219e"
+title = "The Groove Sessions, Volume 5"
+type = "album"
+date = "2020-02-02"
+spotify = "0VInPJhXPUeIOkPNqnbde3"
+tracks = [
+  { n = 1, title = "Hold Tight", mbid = "a42ec955-ae49-4547-8682-598ff7d92f78" },
+  { n = 2, title = "Break Down", mbid = "37a7fd3b-0fd0-4a33-9de1-db8e6dd6c58a" },
+  { n = 3, title = "No Man", mbid = "e817a029-8ff7-4f51-86e4-9bb4df2ef463" },
+  { n = 4, title = "Party at Jay's", mbid = "b054d596-0955-420f-9e18-50930042bc21" },
+  { n = 5, title = "The Drop", mbid = "98b1a09d-f27b-4f1d-b323-849044392a99" },
+  { n = 6, title = "Be Mine", mbid = "56a553b0-b25e-41eb-bf8d-427d9b108057" },
+  { n = 7, title = "Beast Is Loose", mbid = "77e4fd4d-8069-4935-8d93-39cb7d7ee9ed" },
+  { n = 8, title = "This One", mbid = "b468c8fc-44dd-4c65-9601-d277cf2e5cef" },
+  { n = 9, title = "Ayalamih", mbid = "00625ff8-69f5-4ae6-a343-dcb89b334329" },
+  { n = 10, title = "To The Beat", mbid = "18e85994-7fea-45f4-ad6d-de1be1d3d38d" },
+  { n = 11, title = "Bonde Do Gigi", mbid = "d8d818d5-e5d9-4dad-ae40-95b2d39d31e1" },
+  { n = 12, title = "Leng It Off", mbid = "8e28a239-6d3b-4a1c-b152-5eab426449bb" },
+  { n = 13, title = "You Can Go...", mbid = "99995358-1e1a-4757-a1b8-cd62cb71a035" },
+  { n = 14, title = "Not So Samba", mbid = "34e87db5-8288-4959-8e72-2c8cc2fc7846" },
+  { n = 15, title = "Just Before", mbid = "a0297efc-9ebd-4b4c-b650-6c6c4f7fdaaf" },
+]
+
+[[release]]
+mbid = "5d46e578-1a3d-42bf-b6d2-8983e8678856"
+title = "We’ve Been Here Before"
+type = "single"
+date = "2023-10-20"
+spotify = "5au6JsgHq2N8tEL3B87PuZ"
+tracks = [
+  { n = 1, title = "We’ve Been Here Before", mbid = "766b4d8d-cd5f-495c-a3b5-f3e00ed4ee61" },
+]
+
+[[release]]
+mbid = "4c1436e3-c427-4ce9-b55b-a27a1a4517fd"
+title = "¡Que Sí!"
+type = "single"
+date = "2023-12-01"
+spotify = "2mt4XkHYgcL4GdjqT71QC6"
+tracks = [
+  { n = 1, title = "¡Que Sí!", mbid = "aa581abf-e9c1-405e-9253-49cc017bef0b" },
+  { n = 2, title = "We’ve Been Here Before", mbid = "766b4d8d-cd5f-495c-a3b5-f3e00ed4ee61" },
+]
+
+[[release]]
+mbid = "8e8a48f4-19d2-415c-bbdc-9e4367039cf5"
+title = "We’ve Been Here Before"
+type = "album"
+date = "2024-03-01"
+tracks = [
+  { n = 1, title = "Salune", mbid = "a6c5cec8-56bb-435e-afbd-a1973e1912bb" },
+  { n = 2, title = "We’ve Been Here Before", mbid = "766b4d8d-cd5f-495c-a3b5-f3e00ed4ee61" },
+  { n = 3, title = "¡Que sí!", mbid = "aa581abf-e9c1-405e-9253-49cc017bef0b" },
+  { n = 4, title = "Trouble", mbid = "6f02b27c-5577-4802-91e4-8e2243e4d54c" },
+  { n = 5, title = "Cycle", mbid = "49b747ad-ff74-4608-9e97-4bfb86d7be33" },
+  { n = 6, title = "Too Late", mbid = "450459c8-019d-4460-b939-cb27f9710ed1" },
+  { n = 7, title = "No One Left", mbid = "b155f938-6e2b-4f38-9617-237b064339cf" },
+  { n = 8, title = "The Code", mbid = "45294faf-5365-44d7-bb21-3b8d7e16b4da" },
+  { n = 9, title = "Déjà Vu", mbid = "507296cc-8364-4918-87f9-8d8d0e970f92" },
+  { n = 10, title = "Where I Go", mbid = "4a955535-e254-4b6f-8a77-354f685ee558" },
+  { n = 11, title = "Fidelio", mbid = "1340d7a6-b0b6-46b8-bdd1-b2e5dc5aa9ed" },
+  { n = 12, title = "Sacre Bleu", mbid = "4c22c731-ce42-4e93-a5e1-56d706367ab4" },
+  { n = 13, title = "Lune", mbid = "55b70b1c-6df3-4015-99ae-29c5903a72f9" },
+]
+
+[[release]]
+mbid = "fe90c365-3364-439b-942d-ca2b78ac30f2"
+title = "We've Been Here Before 2"
+type = "album"
+date = "2025-07-11"
+tracks = [
+  { n = 1, title = "Salune", mbid = "9283d3f4-0d9c-4280-8db7-8ac51703ef51" },
+  { n = 2, title = "Hands of the Clock", mbid = "e9d66e28-fca7-4881-8923-eb759405c79b" },
+  { n = 3, title = "Agüita", mbid = "9588d70f-a8dc-4fbb-8079-c921430d3ece" },
+  { n = 4, title = "The Code", mbid = "c604772d-f1ee-4462-a229-08dc744464bd" },
+  { n = 5, title = "Lune", mbid = "91f6a507-eed6-43ee-89e1-5adf2668a3c4" },
+  { n = 6, title = "Get Up", mbid = "b11dbf31-0ae0-4e3a-9baf-9c0eeb5740e0" },
+  { n = 7, title = "Trouble", mbid = "26f14148-6644-45ac-ada5-e7c64e4d88d4" },
+  { n = 8, title = "Fidelio", mbid = "832f72ff-7330-43ea-ab0a-20574d88674f" },
+  { n = 9, title = "Too Late", mbid = "0955cf4f-9fe7-46a0-ab6b-2c787413bcea" },
+  { n = 10, title = "No One Left", mbid = "a30780c0-7867-48ea-abe9-1a6ec1644d34" },
+  { n = 11, title = "Where I Go", mbid = "7e4d5dc9-c2d4-43ff-94f8-532bf469ab51" },
+  { n = 12, title = "Trouble", mbid = "cee9f60b-9e54-459b-a3b9-5a4a5d2ce110" },
+  { n = 13, title = "Ronin", mbid = "24130d22-43b1-4945-aa88-34c18ab872fe" },
+  { n = 14, title = "Pills for Your Ills", mbid = "db250724-d813-4551-ba9f-bb8cacc550d1" },
+  { n = 15, title = "I've Got That Tune", mbid = "140bb103-9025-44ff-bc58-bb10ad30c0da" },
+  { n = 16, title = "Cycle", mbid = "f3f3e726-551e-47f8-9bc3-696f26124ad0" },
+]

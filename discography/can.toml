@@ -1,0 +1,310 @@
+format = 1
+
+[[release]]
+mbid = "2a03875e-05c1-3b8f-8b8a-6bdc82f8f412"
+title = "Monster Movie"
+type = "album"
+date = "1969-08"
+spotify = "4ywODFXuBebgICYWRl9VtB"
+tracks = [
+  { n = 1, title = "Father Cannot Yell", mbid = "976781f2-7790-4112-be6c-81b970173499" },
+  { n = 2, title = "Mary, Mary So Contrary", mbid = "7eb4a991-7dab-4955-a13a-60cd7ffffdb7" },
+  { n = 3, title = "Outside My Door", mbid = "e964b299-48d9-4bd6-8bbc-fab656e48417" },
+  { n = 4, title = "Yoo Doo Right", mbid = "cdae5cf4-62db-4e39-be35-8f9432a1ee5e" },
+]
+
+[[release]]
+mbid = "890087ae-2487-489e-a687-76ff70223283"
+title = "Spoon"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Spoon", mbid = "7bfb3e8b-9d67-4eb9-8607-eafdea35d309" },
+  { n = 2, title = "Shikako Maru Ten", mbid = "5d42ef75-1a51-4354-875c-04e2aab57632" },
+]
+
+[[release]]
+mbid = "13d08c0e-14e2-30b2-9ad7-5f501761a8ea"
+title = "Tago Mago"
+type = "album"
+date = "1971"
+spotify = "1txmvzex0gtGwbqQCcXEtt"
+tracks = [
+  { disc = 1, n = 1, title = "Paperhouse", mbid = "1035d312-48db-4e41-9b10-cf3174449130" },
+  { disc = 1, n = 2, title = "Mushroom", mbid = "fed0026c-8953-4dec-aa53-f8d9b66e4dec" },
+  { disc = 1, n = 3, title = "Oh Yeah", mbid = "3261442b-ec93-456d-bbd0-9be4f3449346" },
+  { disc = 1, n = 4, title = "Halleluwah", mbid = "23c0f1f6-7c49-4f4b-bd1d-2fda8b110476" },
+  { disc = 2, n = 1, title = "Aumgn", mbid = "5de3c624-778c-48e1-92de-559280953dfe" },
+  { disc = 2, n = 2, title = "Peking O.", mbid = "49f3ce31-4542-47b2-a39a-6c86aef7faed" },
+  { disc = 2, n = 3, title = "Bring Me Coffee or Tea", mbid = "2bdfc9b1-09d7-4536-a959-5894acabc6ad" },
+]
+
+[[release]]
+mbid = "61698ec9-cffb-4e9d-b8ea-2ca4420401eb"
+title = "Turtles Have Short Legs"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Turtles Have Short Legs", mbid = "7f5b9be0-bc62-47f5-804e-fe721fcfef52" },
+  { n = 2, title = "Halleluwah", mbid = "b2e12080-a2f0-45a9-991a-11a0413d2c32" },
+]
+
+[[release]]
+mbid = "a4b405a6-0577-3b77-b46d-06af1b98fbd2"
+title = "Ege Bamyası"
+type = "album"
+date = "1972-11"
+spotify = "4aO3DouRdBDGzbkmMM3hOK"
+tracks = [
+  { n = 1, title = "Pinch", mbid = "3b3c45be-8cd7-448f-a1a2-2d197d3112f6" },
+  { n = 2, title = "Sing Swan Song", mbid = "d1db6711-6ca2-4c61-8958-01e8831af0c0" },
+  { n = 3, title = "One More Night", mbid = "3529f980-e60b-4ae2-bd88-b19ec8c9ed55" },
+  { n = 4, title = "Vitamin C", mbid = "6a882e6c-c944-4347-8e29-163d238413aa" },
+  { n = 5, title = "Soup", mbid = "fedf58f8-aaaa-4ebd-bdcb-7c20a373bf4b" },
+  { n = 6, title = "I'm So Green", mbid = "ac557eb0-f264-4d61-9187-41e1fa4d6635" },
+  { n = 7, title = "Spoon", mbid = "271a1e18-0119-42df-a92c-a58a46391a91" },
+]
+
+[[release]]
+mbid = "aa41b178-9f16-3dc4-84b6-e9ad8b5be4b8"
+title = "Future Days"
+type = "album"
+date = "1973"
+spotify = "75o5qK7yKZIGyPDa7bWOPn"
+tracks = [
+  { n = 1, title = "Future Days", mbid = "60817679-045f-4cf4-92f7-6929c9ed108c" },
+  { n = 2, title = "Spray", mbid = "df6dcaca-8598-42e1-aae4-de9027b8f786" },
+  { n = 3, title = "Moonshake", mbid = "0e8ffea2-44fe-4390-9d6e-7da0d5929eb6" },
+  { n = 4, title = "Bel Air", mbid = "6fc2e720-e1fb-49cb-90b6-1b37af6bb5b4" },
+]
+
+[[release]]
+mbid = "225b41f4-bf87-3b99-95f6-3db2df882dd0"
+title = "Soon Over Babaluma"
+type = "album"
+date = "1974"
+spotify = "2zQeigA4bFAlTqQqBiVe6Y"
+tracks = [
+  { n = 1, title = "Dizzy Dizzy", mbid = "d727c21c-1873-45ca-b1fd-a30d62232349" },
+  { n = 2, title = "Come sta, la Luna", mbid = "4f6b03a1-57d8-4a1a-9eca-f05bf4562e14" },
+  { n = 3, title = "Splash", mbid = "fbb9dfac-bbf0-4ce7-a7db-2611087d23e3" },
+  { n = 4, title = "Chain Reaction", mbid = "685dfaa4-bfb0-436a-8d8a-6d1a3b7158ba" },
+  { n = 5, title = "Quantum Physics", mbid = "22b0693c-b5b0-4cd3-b30d-780553d0da78" },
+]
+
+[[release]]
+mbid = "c7badb2f-ae27-4877-add6-ffee918556c0"
+title = "Hunters & Collectors"
+type = "single"
+date = "1975"
+tracks = [
+  { n = 1, title = "Hunters and Collectors", mbid = "d06f504b-9bbb-464f-8faa-2f150c029ac3" },
+  { n = 2, title = "Vernal Equinox", mbid = "777d9364-7b53-4955-8a1b-985b9d669518" },
+]
+
+[[release]]
+mbid = "38f91cf1-cc22-3ff7-94ae-a721b9e5e283"
+title = "Landed"
+type = "album"
+date = "1975"
+tracks = [
+  { n = 1, title = "Full Moon on the Highway", mbid = "fe4dd2a7-fa02-45ac-ab80-66ae1d177961" },
+  { n = 2, title = "Half Past One", mbid = "40c030eb-24d5-494d-afb9-6161157c1698" },
+  { n = 3, title = "Hunters and Collectors", mbid = "19fd78f4-3d1c-4c3f-8b57-e5ebfaeeae60" },
+  { n = 4, title = "Vernal Equinox", mbid = "e2778223-ec6a-469a-9c50-4b76d6a2f7dc" },
+  { n = 5, title = "Red Hot Indians", mbid = "37a210af-91ef-46a1-94a1-35edeee24482" },
+  { n = 6, title = "Unfinished", mbid = "d8e156fa-80b4-4619-997a-5eab0e16a8bd" },
+]
+
+[[release]]
+mbid = "4f19b897-f996-357e-a0a0-605711829e36"
+title = "Flow Motion"
+type = "album"
+date = "1976"
+tracks = [
+  { n = 1, title = "I Want More", mbid = "8f3dce4a-2ec6-4a48-8d48-d4fcc0a5d8ab" },
+  { n = 2, title = "Cascade Waltz", mbid = "760e188d-87e7-458e-8602-8fecb5b64657" },
+  { n = 3, title = "Laugh Till You Cry - Live Till You Die (O.R.N.)", mbid = "3758561e-3284-46cf-935e-91050a880802" },
+  { n = 4, title = "…And More", mbid = "e90ecc75-998b-44d6-ae06-0662cc85001f" },
+  { n = 5, title = "Babylonian Pearl", mbid = "21cf6afc-6fee-4f51-bcad-b195a4290da1" },
+  { n = 6, title = "Smoke (E.F.S. Nr. 59)", mbid = "779187a4-abd8-40d8-9481-2930eb946346" },
+  { n = 7, title = "Flow Motion", mbid = "8d47bcf6-71d5-49e3-b1c0-5041dddab932" },
+]
+
+[[release]]
+mbid = "5511b20f-47d5-465c-bf76-a8637f8f0231"
+title = "I Want More"
+type = "single"
+date = "1976"
+tracks = [
+  { n = 1, title = "I Want More", mbid = "567e9d50-cf78-49fe-8874-b07c5070e1c6" },
+  { n = 2, title = "More", mbid = "cbdbf259-ad9a-4a26-801c-2ec8f2d47ab4" },
+]
+
+[[release]]
+mbid = "ccda9754-82f4-3043-9d26-4d491b91b4a0"
+title = "Silent Night"
+type = "single"
+date = "1976"
+tracks = [
+  { n = 1, title = "Silent Night", mbid = "111bc104-d924-447d-a252-e24c61a48b7a" },
+  { n = 2, title = "Cascade Waltz", mbid = "7e0a83f3-0c11-4983-b3a5-2e56faf07ed4" },
+]
+
+[[release]]
+mbid = "44d9ce30-b6da-349e-8b43-d4a97ec9cc9b"
+title = "Saw Delight"
+type = "album"
+date = "1977"
+tracks = [
+  { n = 1, title = "Don’t Say No", mbid = "e2eb2a9a-dbe7-4173-9df6-e3a8e44f3e22" },
+  { n = 2, title = "Sunshine Day and Night", mbid = "18630bbe-f238-439a-9b4c-270b2ae7b489" },
+  { n = 3, title = "Call Me", mbid = "d1dd9b1f-dd3b-454a-8767-1799d9015c19" },
+  { n = 4, title = "Animal Waves", mbid = "411b5ef1-a82f-4ac2-940a-67adb8e96056" },
+  { n = 5, title = "Fly by Night", mbid = "1185b1a9-319b-43e3-a761-cc298b399807" },
+]
+
+[[release]]
+mbid = "a58318e7-0893-3484-ab5f-63aa2998bea3"
+title = "Can"
+type = "album"
+date = "1978"
+tracks = [
+  { n = 1, title = "All Gates Open", mbid = "3776f064-973d-4036-9f01-28488c403743" },
+  { n = 2, title = "Safe", mbid = "9b14a77b-e0ea-49c8-950c-2d963499ec41" },
+  { n = 3, title = "Sunday Jam", mbid = "c6500229-e299-42c8-a6ec-6297a01374e1" },
+  { n = 4, title = "Sodom", mbid = "f77da6bb-8ffa-4cff-8ad1-5089690b177c" },
+  { n = 5, title = "Aspectacle", mbid = "13b35fb1-f02b-45ac-8700-61a5da0f2f4a" },
+  { n = 6, title = 'E.F.S. No. 99: "CAN CAN"', mbid = "3e6f151f-b508-4040-8a67-814d90d7ef67" },
+  { n = 7, title = "Ping Pong", mbid = "8d28b6bb-5c41-427a-b560-da34ffefd7ca" },
+  { n = 8, title = "Can Be", mbid = "91aa364b-dd81-4e8c-b633-790b41bd8cfb" },
+]
+
+[[release]]
+mbid = "33eac78f-44fd-4cd5-a779-da845560f031"
+title = "Can-Can"
+type = "single"
+date = "1978"
+tracks = [
+  { n = 1, title = "Can-Can", mbid = "c96acbfe-7c85-483b-980f-91cfef22701f" },
+  { n = 2, title = "Can-Can Disco", mbid = "a39eb2c7-8b41-4d80-80bc-4facde416916" },
+]
+
+[[release]]
+mbid = "3b29f632-2c69-3b16-a55a-179218df8ee0"
+title = "Out of Reach"
+type = "album"
+date = "1978"
+spotify = "3KvwdNesB1IOtMzkdI74JH"
+tracks = [
+  { n = 1, title = "Serpentine", mbid = "8aaab57f-d276-447a-b5f6-bed4ee422769" },
+  { n = 2, title = "Pauper’s Daughter and I", mbid = "89df02bd-0703-40c1-9d5d-3639f4a9097f" },
+  { n = 3, title = "November", mbid = "5796fef7-799a-4fbb-b246-e51f22f35008" },
+  { n = 4, title = "Seven Days Awake", mbid = "7b79436f-fcfb-4fdf-ad50-226ba3df151f" },
+  { n = 5, title = "Give Me No “Roses”", mbid = "04e4efcc-71ee-4edb-b8ce-02538d679369" },
+  { n = 6, title = "Like INOBE GOD", mbid = "005362d1-d497-4031-9f84-51fb7fea1f04" },
+  { n = 7, title = "One More Day", mbid = "17b6f06a-7915-46b3-af71-08d2fa6377ac" },
+]
+
+[[release]]
+mbid = "810b330f-97ee-4c0a-9bc8-67ea538dd6ca"
+title = "Onlyou"
+type = "album"
+date = "1982"
+tracks = [
+  { n = 1, title = "Mister Schmidt", mbid = "8a71a2e6-2440-444f-89f9-471b106e453c" },
+  { n = 2, title = "Machine Dance II", mbid = "2cbfe9f3-6cf8-43b2-ae33-59fbd061b67d" },
+  { n = 3, title = "Comment: Brain", mbid = "9ee859db-341e-4e99-b68d-43ca823bf0c3" },
+  { n = 4, title = "Alone", mbid = "5f8bb405-c042-4366-a453-734a0b0b03f3" },
+  { n = 5, title = "Comment: Commercial", mbid = "859cf544-95b1-4f4d-8dee-0f1a87303d45" },
+  { n = 6, title = "Spanish Drive", mbid = "8b95bd54-3cac-4db2-9dfa-d924a80a6fa9" },
+  { n = 7, title = "Comment: Axe", mbid = "ff96b809-ff75-4dd6-90b8-0f225ab92d78" },
+  { n = 8, title = "End of a Party", mbid = "258dc0ea-f9f0-47a8-b4f7-ee6d1f18ec86" },
+  { n = 9, title = "Comment: Influence", mbid = "2a369ecf-6706-4883-b472-9bfa035e8593" },
+  { n = 10, title = "Under the Surface", mbid = "fba07da6-787c-45c8-a8bc-53d9d92230ec" },
+  { n = 11, title = "Comment: Cheers", mbid = "e4edc802-5b67-421a-818c-8f29dfc0b81d" },
+  { n = 12, title = "Only You One", mbid = "f33eec93-b868-401d-a2ab-2781398dec95" },
+  { n = 13, title = "Comment: Art", mbid = "5fd16276-4cf8-4086-9c52-79479d6067af" },
+  { n = 14, title = "Comment: Finger", mbid = "b9b3bb65-66d0-45e6-915e-d2854592fc23" },
+  { n = 15, title = "Shall I Get You More", mbid = "092001af-b165-47f1-bf72-262cf93b5d6b" },
+  { n = 16, title = "Comment: God", mbid = "f4aa4e8f-811a-4cba-b017-410408f5992b" },
+  { n = 17, title = "A Radio Beam", mbid = "57900580-cef3-4b9f-93ff-49a00a5e7be3" },
+  { n = 18, title = "Comment: Hands", mbid = "d1a645d2-8126-4852-b2ed-aea8b7e8efe9" },
+  { n = 19, title = "Machine Dance I", mbid = "c5749c93-70c7-4867-8a8b-2406c6b2213d" },
+  { n = 20, title = "Howdoyoudooright", mbid = "bd957eb7-8a89-4607-ab6d-06b2c50268a7" },
+  { n = 21, title = "Comment: Musician", mbid = "df943d70-fc57-4a2c-a2e2-77e89849425c" },
+  { n = 22, title = "The Can Telefon Jingle", mbid = "33a00841-5f6e-4704-a3c8-1413d9c4a49c" },
+  { n = 23, title = "Only You Two", mbid = "c97648e9-879b-4b00-afda-f19b513cd323" },
+  { n = 24, title = "The Master and the Needle", mbid = "fb25ffa4-b2bb-433f-b26e-e1149a932aaa" },
+  { n = 25, title = "Rose", mbid = "234f2d52-20cb-43cf-a8e8-e8c497995b2a" },
+  { n = 26, title = "Comment: Next LP", mbid = "dd9a7c1a-0b57-49f9-b470-58d4a53554ff" },
+  { n = 27, title = "Harry: The Thief", mbid = "a5e6b20e-5251-46fb-a175-93775bbcd2da" },
+]
+
+[[release]]
+mbid = "0f7f7036-2752-42f6-8170-1b59e1934091"
+title = "Moonshake"
+type = "single"
+date = "1983"
+tracks = [
+  { n = 1, title = "Moonshake", mbid = "cdb3c3ca-fa82-45bf-94fc-53527268e79f" },
+  { n = 2, title = "Turtles Have Short Legs", mbid = "ee5fb88e-0c7b-4c6d-96a5-0a6bc3d68a8c" },
+  { n = 3, title = "One More Night", mbid = "3529f980-e60b-4ae2-bd88-b19ec8c9ed55" },
+]
+
+[[release]]
+mbid = "9ce99438-1c16-30d5-9f06-7cfa351b04ee"
+title = "Rite Time"
+type = "album"
+date = "1989"
+tracks = [
+  { n = 1, title = "On the Beautiful Side of a Romance", mbid = "7721466f-7eb0-4325-9c23-9e99a2c9fab0" },
+  { n = 2, title = "The Withoutlaw Man", mbid = "92fcf3b9-9acb-4f84-a494-d281a651b25c" },
+  { n = 3, title = "Below This Level (Patient's Song)", mbid = "e4793b6a-2c16-4faf-8473-a8a0b2bfbdd1" },
+  { n = 4, title = "Movin' Right Along", mbid = "fee6caca-c758-4db1-879d-ed7c5bcaceb8" },
+  { n = 5, title = "Like a New Child", mbid = "b5eac4e7-54b4-413f-bcba-b9681b89bf85" },
+  { n = 6, title = "Hoolah Hoolah", mbid = "95b74ae0-7d77-4f5a-84fa-053fa15b1511" },
+  { n = 7, title = "Give the Drummer Some", mbid = "360adc09-be16-430e-9b52-ee52d7fefeeb" },
+  { n = 8, title = "In the Distance Lies the Future", mbid = "ae9bb576-7ac4-4798-81e4-9db519592c99" },
+]
+
+[[release]]
+mbid = "1b299828-3c32-3ab3-b825-747f09876804"
+title = "Hoolah Hoolah"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "Hoolah Hoolah (Double-mix)", mbid = "bfd51a83-2a1c-401e-8c6f-9d96b7d3c7a4" },
+  { n = 2, title = "Hoolah Hoolah (Sun Electric mix)", mbid = "94e8e083-bd5c-42dd-894b-e2705d604e88" },
+]
+
+[[release]]
+mbid = "2462fe76-0db7-4167-9d70-0caeab79da7e"
+title = "... And More"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "... And More", mbid = "8ed6875d-f3ee-42ea-8784-8290c436cc00" },
+  { n = 2, title = "Death-Mix", mbid = "3de38507-fb73-4fdd-9f22-0ec9bf5f21ef" },
+  { n = 3, title = "... And More (short mix)", mbid = "b2336eb6-0cb2-4183-a724-7147b2cea43b" },
+]
+
+[[release]]
+mbid = "80e06d63-786e-4b3a-8c14-a13719c969ff"
+title = "Hanging With The Machineheads / ...And More"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Hanging With the Machineheads", mbid = "7759d577-345a-43e8-8c3b-2aa03b678858" },
+  { n = 2, title = "... And More", mbid = "8ed6875d-f3ee-42ea-8784-8290c436cc00" },
+]
+
+[[release]]
+mbid = "1aa1c0ca-bb60-3e4f-80f6-586cec346ae5"
+title = "Serpentine / Barbie Hymne: Für Barbie & Can"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Serpentine", mbid = "ca5adb4b-c339-4063-9f31-d45be7d56883" },
+  { n = 2, title = "Barbie Hymne: Für Barbie & Can", mbid = "1335fe84-3984-4b0d-bf59-07273f15666b" },
+]

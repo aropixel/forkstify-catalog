@@ -1,0 +1,331 @@
+format = 1
+
+[[release]]
+mbid = "e7d37b78-e901-3f57-9be4-79d32276b7f2"
+title = "Rock 'n' Roll Lifestyle"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Rock 'n' Roll Lifestyle", mbid = "275c9d4e-e5c4-4783-8672-bfc82953aeb8" },
+  { n = 2, title = "Jolene", mbid = "60f0bfa4-8da9-4840-b5fe-23c1fc470f34" },
+]
+
+[[release]]
+mbid = "af7c7ca3-e3a8-3d30-9984-05fe07ead521"
+title = "Motorcade of Generosity"
+type = "album"
+date = "1994-02-07"
+spotify = "7sdz6zUhXNwbwzqVRskzj9"
+tracks = [
+  { n = 1, title = "Comanche", mbid = "3239ded7-f649-400d-8d6c-1e0a851eca84" },
+  { n = 2, title = "Ruby Sees All", mbid = "2dbdf375-d6bd-4378-8b14-7914701c5bf6" },
+  { n = 3, title = "Up So Close", mbid = "9bf2553c-bbd2-4cba-a3d4-ff132ecbf1ca" },
+  { n = 4, title = "Pentagram", mbid = "24ca9a8b-0adb-4957-bd6a-067fe0af03a4" },
+  { n = 5, title = "Jolene", mbid = "60f0bfa4-8da9-4840-b5fe-23c1fc470f34" },
+  { n = 6, title = "Haze of Love", mbid = "86428e00-8a2f-45fa-8121-31c6dc4db049" },
+  { n = 7, title = "You Part the Waters", mbid = "a0547165-0c0c-49f4-9034-f9631d9c4b3b" },
+  { n = 8, title = "Is This Love?", mbid = "39b663be-3fd7-4df8-9e8f-41614d1a00a2" },
+  { n = 9, title = "Jesus Wrote a Blank Check", mbid = "c8a5f3b8-c812-44ff-9bd2-45e3f66ecfd8" },
+  { n = 10, title = "Rock 'n' Roll Lifestyle", mbid = "275c9d4e-e5c4-4783-8672-bfc82953aeb8" },
+  { n = 11, title = "I Bombed Korea", mbid = "7bfcf59b-452c-4008-a44f-14b7808976d1" },
+  { n = 12, title = "Mr. Mastodon Farm", mbid = "6bee681c-ddce-42ba-92f2-9772c59d1408" },
+  { n = 13, title = "Ain't No Good", mbid = "aa4e66c9-e6a8-423b-b5e0-352817bfcbc2" },
+]
+
+[[release]]
+mbid = "0967e00e-4c91-352d-aa52-31fab9de3d24"
+title = "I Will Survive"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "I Will Survive (radio edit)", mbid = "f46d72f8-2fca-4db8-808e-95e0faedff2b" },
+  { n = 2, title = "Ruby Sees All", mbid = "2dbdf375-d6bd-4378-8b14-7914701c5bf6" },
+  { n = 3, title = "Rock'N'Roll Lifestyle", mbid = "275c9d4e-e5c4-4783-8672-bfc82953aeb8" },
+  { n = 4, title = "I Will Survive (album version)", mbid = "ec6ded2c-d6ef-4f8f-880e-b25ab434304c" },
+]
+
+[[release]]
+mbid = "5129187c-b6a8-36d5-a03b-5beef4f11825"
+title = "The Distance"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "The Distance", mbid = "d2bb7650-bdf4-476a-b74d-35345cc1dbfe" },
+  { n = 2, title = "Multiply the Heartaches", mbid = "8ddf4dd1-e4c6-4447-b6de-d564ed939eca" },
+  { n = 3, title = "Jolene (live version)", mbid = "75453303-6cb9-4680-b1fd-0d2c8feb5352" },
+  { n = 4, title = "It’s Coming Down", mbid = "c3cb461c-8d57-4834-aaef-3dc042468cca" },
+]
+
+[[release]]
+mbid = "3bd5a388-774f-3b47-b3f8-5b3463cbcb13"
+title = "Fashion Nugget"
+type = "album"
+date = "1996-09-17"
+spotify = "0xqBjioTJ32aszn90qV2m1"
+tracks = [
+  { n = 1, title = "Frank Sinatra", mbid = "8cbffe04-066b-4a68-a1a2-67814f9b5da1" },
+  { n = 2, title = "The Distance", mbid = "d2bb7650-bdf4-476a-b74d-35345cc1dbfe" },
+  { n = 3, title = "Friend Is a Four Letter Word", mbid = "2557aa5f-b101-481c-9a9e-ce7dad5512bd" },
+  { n = 4, title = "Open Book", mbid = "38412f4a-ab3d-4b91-a7c1-4f83e02ad1e6" },
+  { n = 5, title = "Daria", mbid = "a3f65f77-cc00-42eb-a336-52cfd7bee22e" },
+  { n = 6, title = "Race Car Ya‐Yas", mbid = "f4849f58-50f2-4427-9e3b-03a1ee949d80" },
+  { n = 7, title = "I Will Survive", mbid = "ec6ded2c-d6ef-4f8f-880e-b25ab434304c" },
+  { n = 8, title = "Stickshifts and Safetybelts", mbid = "8657c138-fed2-478f-abd7-bf7fe9cc2d68" },
+  { n = 9, title = "Perhaps, Perhaps, Perhaps", mbid = "aba92f0a-ff91-4c85-aca2-b7f43ad9e9e6" },
+  { n = 10, title = "It’s Coming Down", mbid = "c3cb461c-8d57-4834-aaef-3dc042468cca" },
+  { n = 11, title = "Nugget (edit)", mbid = "90236c0e-25f0-48de-a47b-99615e5cf536" },
+  { n = 12, title = "She’ll Come Back to Me", mbid = "d18df159-c100-42cf-bfd1-77a14c55751c" },
+  { n = 13, title = "Italian Leather Sofa", mbid = "a80d04f3-f941-4053-a537-26516e12da1e" },
+  { n = 14, title = "Sad Songs and Waltzes", mbid = "17514e31-e00e-44aa-8450-c4a7fffa317b" },
+]
+
+[[release]]
+mbid = "b9468c07-c7ef-3c93-819d-38f80713376e"
+title = "Frank Sinatra"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Frank Sinatra", mbid = "8cbffe04-066b-4a68-a1a2-67814f9b5da1" },
+  { n = 2, title = "Mr. Mastodon Farm", mbid = "6bee681c-ddce-42ba-92f2-9772c59d1408" },
+  { n = 3, title = "Frank Sinatra (live)", mbid = "dc6a74a7-5296-4d83-82e5-d11bf0740f6c" },
+]
+
+[[release]]
+mbid = "e19b2006-13c7-3109-8d31-acc860ca5219"
+title = "Friend Is a Four Letter Word"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Friend Is a Four Letter Word", mbid = "2557aa5f-b101-481c-9a9e-ce7dad5512bd" },
+  { n = 2, title = "Daria", mbid = "a3f65f77-cc00-42eb-a336-52cfd7bee22e" },
+  { n = 3, title = "Never Gonna Give You Up (remix)", mbid = "23d21797-a050-450c-af94-b9b7f590ab45" },
+]
+
+[[release]]
+mbid = "34cc7616-0e7e-34aa-a42d-bc9c17755f18"
+title = "Prolonging the Magic"
+type = "album"
+date = "1998-10-06"
+spotify = "1vbpW28Od2ATmVyAZ0QZ3j"
+tracks = [
+  { n = 1, title = "Satan Is My Motor", mbid = "0e7e78b3-3575-4f73-848d-931c764c3f19" },
+  { n = 2, title = "Mexico", mbid = "8b1fa2c8-40c8-41d8-b50d-c2b4f6009d28" },
+  { n = 3, title = "Never There", mbid = "5b65195a-d447-448e-a7ba-af5f5d4d9e79" },
+  { n = 4, title = "Guitar", mbid = "2dabc0d9-00ef-4631-99b8-3dc23ac0c744" },
+  { n = 5, title = "You Turn the Screws", mbid = "457121ac-9948-4ef8-950b-67bdf4e90eb9" },
+  { n = 6, title = "Walk On By", mbid = "db15df4f-f4c4-480b-b7ac-59debb1c1830" },
+  { n = 7, title = "Sheep Go to Heaven", mbid = "d3921495-0b5f-4402-91a4-09e875e92da8" },
+  { n = 8, title = "When You Sleep", mbid = "8e71a5cc-6a46-45da-8a1f-592583e82553" },
+  { n = 9, title = "Hem of Your Garment", mbid = "151cd5b2-c5ee-4cc9-b35e-f9fb95ac4d4c" },
+  { n = 10, title = "Alpha Beta Parking Lot", mbid = "c562f51c-4dbd-4280-95be-7e232dd6e3b8" },
+  { n = 11, title = "Let Me Go", mbid = "235efc48-16f8-4b48-8688-bf88010c1a32" },
+  { n = 12, title = "Cool Blue Reason", mbid = "8e7901e5-9d52-4738-bb0c-395d6ca17d59" },
+  { n = 13, title = "Where Would I Be?", mbid = "c93d771b-a673-451e-ba57-cb7a59d5933f" },
+]
+
+[[release]]
+mbid = "3f863cc9-3d24-3855-9da4-355ba6f01938"
+title = "Never There"
+type = "single"
+date = "1998-10-19"
+tracks = [
+  { n = 1, title = "Never There", mbid = "5b65195a-d447-448e-a7ba-af5f5d4d9e79" },
+  { n = 2, title = "Cool Blue Reason", mbid = "8e7901e5-9d52-4738-bb0c-395d6ca17d59" },
+  { n = 3, title = "Half as Much", mbid = "497067b2-5e2e-42e5-88a1-50a8185c9569" },
+]
+
+[[release]]
+mbid = "88ae35ea-bf7d-3a77-bedc-9a19e1b2e72d"
+title = "Sheep Go to Heaven"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Sheep Go to Heaven (radio edit)", mbid = "e239435e-d70d-45b8-9f22-9d26a5d5e52b" },
+  { n = 2, title = "Never There (live)", mbid = "862b6159-645e-4c28-804a-7be895a2e58a" },
+  { n = 3, title = "Is This Love? (live)", mbid = "94f57fc4-51d3-48e5-964a-eda728b8f8f8" },
+  { n = 4, title = "Sheep Go to Heaven", mbid = "d3921495-0b5f-4402-91a4-09e875e92da8" },
+]
+
+[[release]]
+mbid = "cdb7197f-ed14-3238-a402-d0e554bcc0c8"
+title = "Comfort Eagle"
+type = "album"
+date = "2001-07-23"
+spotify = "5OCg9OWnL1PY4tW2ON8ssj"
+tracks = [
+  { n = 1, title = "Opera Singer", mbid = "1e4a58e5-ab73-4156-91c9-868b0f0a3ce7" },
+  { n = 2, title = "Meanwhile, Rick James…", mbid = "44826b8c-2c84-4d3a-9452-e4ca6735afdd" },
+  { n = 3, title = "Shadow Stabbing", mbid = "b286b752-61b5-46de-83a2-ccc1bccce023" },
+  { n = 4, title = "Short Skirt/Long Jacket", mbid = "96d80e5a-9055-432e-b3c2-f9180adab3c9" },
+  { n = 5, title = "Commissioning a Symphony in C", mbid = "d5727e60-156a-4b62-9538-06f198e49d27" },
+  { n = 6, title = "Arco Arena", mbid = "472946f5-29c9-4ee8-a8f3-914972f67c40" },
+  { n = 7, title = "Comfort Eagle", mbid = "e9f29444-564b-46b8-a581-1ca86fcb2fa9" },
+  { n = 8, title = "Long Line of Cars", mbid = "b7d5e8ad-6256-461a-bac0-30684f0deed1" },
+  { n = 9, title = "Love You Madly", mbid = "2ecc4d9c-a1d6-412f-a693-5850e6375cb1" },
+  { n = 10, title = "Pretty Pink Ribbon", mbid = "0293c8c3-3a68-460a-b095-96c158dcb28a" },
+  { n = 11, title = "World of Two", mbid = "3b583932-ce6e-4859-8199-203d0d8c4805" },
+]
+
+[[release]]
+mbid = "da145704-fbe9-3ebe-8591-88a310141de6"
+title = "Short Skirt/Long Jacket"
+type = "single"
+date = "2001-07-23"
+tracks = [
+  { n = 1, title = "Short Skirt/Long Jacket", mbid = "96d80e5a-9055-432e-b3c2-f9180adab3c9" },
+  { n = 2, title = "Arco Arena (vocal version)", mbid = "17c10f2d-d97c-4fcc-983c-a0eda809a3df" },
+]
+
+[[release]]
+mbid = "98f5cb30-3064-3bfb-963b-21c9d0d2aff2"
+title = "No Phone"
+type = "single"
+date = "2004-08-24"
+spotify = "239KURGsNhMGun36MDcLF6"
+tracks = [
+  { n = 1, title = "No Phone", mbid = "eb52d546-3de3-45e0-b056-85afa4c557bd" },
+]
+
+[[release]]
+mbid = "84bf56d1-4f0d-35b2-9195-fc4b44ddd6b2"
+title = "Pressure Chief"
+type = "album"
+date = "2004-10-04"
+spotify = "6CWKuAxMXAv4s4tfPyMQY8"
+tracks = [
+  { n = 1, title = "Wheels", mbid = "f35e4912-e807-426c-bba4-ed416b2edbe3" },
+  { n = 2, title = "No Phone", mbid = "eb52d546-3de3-45e0-b056-85afa4c557bd" },
+  { n = 3, title = "Take It All Away", mbid = "db699311-5402-460d-9242-19d4ae70ea99" },
+  { n = 4, title = "Dime", mbid = "047e982d-7c5e-4b33-9318-aa3a15ab0f71" },
+  { n = 5, title = "Carbon Monoxide", mbid = "6246f54d-f765-490e-aacb-51d3fdb09674" },
+  { n = 6, title = "The Guitar Man", mbid = "59066f12-b4d9-4552-adff-5dadb529939f" },
+  { n = 7, title = "Waiting", mbid = "917210c8-9fb9-4bbe-8a00-c139a545860c" },
+  { n = 8, title = "She’ll Hang the Baskets", mbid = "18235df6-1468-4367-a7d3-1d0250928519" },
+  { n = 9, title = "End of the Movie", mbid = "1f78deb7-5e0d-4a08-a260-d1adcffe14c0" },
+  { n = 10, title = "Palm of Your Hand", mbid = "4ab3feb6-6428-4129-a1d1-18ea300a4f70" },
+  { n = 11, title = "Tougher Than It Is", mbid = "1750f8ca-410e-4bdc-bf90-b0146cb5ee35" },
+]
+
+[[release]]
+mbid = "f0a1a615-a3dd-396f-95ad-243ceeb9628a"
+title = "Wheels"
+type = "ep"
+date = "2005-03-03"
+spotify = "1prr5hSEg6S6jwcwjGibR9"
+tracks = [
+  { n = 1, title = "Wheels (live at Sirius Satellite Radio Studios, NYC, NY - October 2004)", mbid = "b8637f31-44f5-499d-b1e7-18f7b92a3f58" },
+  { n = 2, title = "No Phone (live at Sirius Satellite Radio Studios, NYC, NY - October 2004)", mbid = "7b76a2ea-6aaa-4591-9f55-9b1bb0dfc1fa" },
+  { n = 3, title = "Daria (live at Sirius Satellite Radio Studios, NYC, NY - October 2004)", mbid = "0dfe2da5-f264-4805-9b92-cadfaa2bdac0" },
+  { n = 4, title = "Excuse Me (I Think I've Got a Heartache) (live at Sirius Satellite Radio Studios, NYC, NY - October 2004)", mbid = "a98762b1-b302-4400-a9c9-9421dbd022ef" },
+  { n = 5, title = "Ruby, Don't Take Your Love to Town", mbid = "13e1723f-3d5b-4fdd-8963-3810d2afb01b" },
+]
+
+[[release]]
+mbid = "1ff0e9a5-0a0b-46fc-b6b8-9290fb48f2ee"
+title = "Sick of You"
+type = "single"
+date = "2010-10-05"
+spotify = "2eLYIGuEVLlw0Y2aQpu5ZA"
+tracks = [
+  { n = 1, title = "Sick Of You", mbid = "dfdfd2a3-8f36-4a01-a69a-fc7fa01df16c" },
+]
+
+[[release]]
+mbid = "e57af447-a712-4368-8742-895de26b2271"
+title = "Mustache Man (Wasted)"
+type = "single"
+date = "2011"
+tracks = [
+  { n = 1, title = "Mustache Man (Wasted)", mbid = "aa8026f9-9ec7-4731-b766-f7404e9e030d" },
+  { n = 2, title = "The Federal Funding March", mbid = "bdc76c9b-04d1-4b38-ba54-44d2b9bdcd50" },
+]
+
+[[release]]
+mbid = "2dfae19e-d2d4-4cfb-901f-9c2f21b0cd1b"
+title = "Showroom of Compassion"
+type = "album"
+date = "2011-01-11"
+spotify = "01VQW8EUe8ZG0MrkiukGL8"
+tracks = [
+  { n = 1, title = "Federal Funding", mbid = "40beaf43-43ec-4122-8b9f-4b01b074e5f5" },
+  { n = 2, title = "Long Time", mbid = "9d7e2d13-ec35-4569-b855-e3a9fc3cfab0" },
+  { n = 3, title = "Got to Move", mbid = "39c3b799-45c6-4117-8289-09203dc3a7e9" },
+  { n = 4, title = "What's Now Is Now", mbid = "501620e7-957b-47e0-b3d6-258c12ce0999" },
+  { n = 5, title = "Mustache Man (Wasted)", mbid = "aa8026f9-9ec7-4731-b766-f7404e9e030d" },
+  { n = 6, title = "Teenage Pregnancy", mbid = "34c465b0-f52d-4918-b0b2-c3689f8b981b" },
+  { n = 7, title = "Sick of You", mbid = "dfdfd2a3-8f36-4a01-a69a-fc7fa01df16c" },
+  { n = 8, title = "Easy to Crash", mbid = "237b744a-8dd9-426d-91dd-e952a19321bf" },
+  { n = 9, title = "Bound Away", mbid = "609e7568-2487-4537-ba46-c55d6e42f871" },
+  { n = 10, title = "The Winter", mbid = "7fc70de5-da98-47f6-a39e-6df3c04253eb" },
+  { n = 11, title = "Italian Guy", mbid = "8e353175-cea9-4cbc-9608-981586342dee" },
+  { n = 12, title = "The Federal Funding March", mbid = "bdc76c9b-04d1-4b38-ba54-44d2b9bdcd50" },
+]
+
+[[release]]
+mbid = "22be76ad-b993-419a-925d-98c52e77bdaf"
+title = "Bound Away"
+type = "single"
+date = "2014-05-27"
+tracks = [
+  { n = 1, title = "Bound Away", mbid = "609e7568-2487-4537-ba46-c55d6e42f871" },
+  { n = 2, title = "Got to Move", mbid = "39c3b799-45c6-4117-8289-09203dc3a7e9" },
+]
+
+[[release]]
+mbid = "47f8ea53-c46f-47b2-968e-6f7cf9d65613"
+title = "Long Time"
+type = "single"
+date = "2014-05-27"
+tracks = [
+  { n = 1, title = "Long Time", mbid = "9d7e2d13-ec35-4569-b855-e3a9fc3cfab0" },
+  { n = 2, title = "Teenage Pregnancy", mbid = "34c465b0-f52d-4918-b0b2-c3689f8b981b" },
+]
+
+[[release]]
+mbid = "c1612bc5-7f65-465b-ae68-01eee0c9ede0"
+title = "The Winter"
+type = "single"
+date = "2014-05-27"
+tracks = [
+  { n = 1, title = "The Winter", mbid = "7fc70de5-da98-47f6-a39e-6df3c04253eb" },
+  { n = 2, title = "Easy to Crash", mbid = "237b744a-8dd9-426d-91dd-e952a19321bf" },
+]
+
+[[release]]
+mbid = "f2518abd-a5a8-4457-bc4f-13a08246cbcb"
+title = "What’s Now Is Now"
+type = "single"
+date = "2014-05-27"
+tracks = [
+  { n = 1, title = "What’s Now Is Now", mbid = "501620e7-957b-47e0-b3d6-258c12ce0999" },
+  { n = 2, title = "Huge Misunderstanding", mbid = "5fccacb5-7dd8-4e06-a25e-15b24ca1c63d" },
+]
+
+[[release]]
+mbid = "98d39205-68fe-4060-9aaf-502e6838a401"
+title = "Age of Aquarius"
+type = "single"
+date = "2018"
+tracks = [
+  { n = 1, title = "Age of Aquarius", mbid = "5268b60d-11fa-4bfb-bc9b-268213904c7a" },
+]
+
+[[release]]
+mbid = "3debb250-ad9c-4ed1-97aa-6975f1301c6d"
+title = "Sinking Ship"
+type = "single"
+date = "2018-08-03"
+spotify = "5cgO47wOmnJZS9FIjmE2Bb"
+tracks = [
+  { n = 1, title = "Sinking Ship", mbid = "3ffb1fa3-3a9e-4998-a077-a8d83eee187f" },
+]
+
+[[release]]
+mbid = "5eb5c406-1fd6-4c10-a1ba-133f7b3e57ca"
+title = "Long Jacket"
+type = "single"
+date = "2026-08-28"
+spotify = "4fuu8b29TGQdCknJDSPzr1"
+tracks = [
+  { n = 1, title = "Long Jacket (extended mix)", mbid = "10404aee-7c4d-473a-8d05-5e38ca03f9fc" },
+]

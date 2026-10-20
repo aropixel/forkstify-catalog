@@ -1,0 +1,164 @@
+format = 1
+
+[[release]]
+mbid = "b79b7aeb-4c83-488a-bd23-97683672e345"
+title = "13ème À Table"
+type = "ep"
+date = "2008"
+tracks = [
+  { n = 1, title = "T'es Connnu ?", mbid = "e8dc9e8f-f544-44bd-89f9-537b843ca4d6" },
+  { n = 2, title = "Fiston", mbid = "ac869b2a-7840-4f4c-9bb5-a726d6431a69" },
+  { n = 3, title = "Circus Sarko", mbid = "818c74fd-760c-4e30-95f5-33d0f68bd799" },
+  { n = 4, title = "L'Odeurs du Temps", mbid = "66d6c35a-ebd2-4054-8357-681d07c157fd" },
+]
+
+[[release]]
+mbid = "00dc246a-0407-4d07-a771-50ec6c5a0dda"
+title = "Émeute de souffles"
+type = "album"
+date = "2009"
+tracks = [
+  { n = 1, title = "Monde casino", mbid = "2bed1471-82c8-4b6d-a022-a5546436f3a9" },
+  { n = 2, title = "Qu'espérer ?", mbid = "f0a04b85-2022-4643-ad3a-781190ad1135" },
+  { n = 3, title = "Question n°1", mbid = "a3b4a153-536d-4f3a-a2ff-805157ee3eee" },
+  { n = 4, title = "La Machine à rêves", mbid = "2d30f2c8-1501-45cf-bdf3-8a37e066b5ac" },
+  { n = 5, title = "53 %", mbid = "f861ae39-e84f-4771-be67-12566bfb7205" },
+  { n = 6, title = "Question n°2", mbid = "79635c1e-79b3-4801-846b-c16ca9ce2ccf" },
+  { n = 7, title = "Il était tard...", mbid = "21cbcf76-c323-4913-979e-8ad85ac0596d" },
+  { n = 8, title = "Song", mbid = "2b83b91b-4ac0-44d3-93f9-daa0533562e3" },
+  { n = 9, title = "Fiston", mbid = "46cea022-c7ff-4f67-aeb0-99910806fa40" },
+  { n = 10, title = "Brel, Frida", mbid = "9ef98453-99c2-40b1-9afb-a08847720f27" },
+  { n = 11, title = "Question n°3", mbid = "74665907-2729-4d8d-9fa8-d24c61e0cf79" },
+  { n = 12, title = "Les Gens et les Chiens", mbid = "e0797bb2-5864-40a8-9b41-a4330033ff25" },
+  { n = 13, title = "T'es connu ?", mbid = "08e1d92b-00b2-4b54-9ab5-9cfa14e3bf6c" },
+  { n = 14, title = "Question n°4", mbid = "63e2d7f5-4569-447c-a480-b996b8e889ac" },
+  { n = 15, title = "La Réponse", mbid = "20c5156e-7074-4519-bfa4-ca82fe428e86" },
+]
+
+[[release]]
+mbid = "0300f40c-3cbb-427d-95fd-ac1ef631db06"
+title = "Digère et recrache"
+type = "album"
+date = "2012-02-27"
+spotify = "3u8jcokpKlTb1JA9M5puWN"
+tracks = [
+  { n = 1, title = "Lâchons-les", mbid = "6b94367b-bf52-4b8c-a656-928533e99833" },
+  { n = 2, title = "Avant eux", mbid = "52547a01-1f72-492e-94c7-6b1f289b38c0" },
+  { n = 3, title = "Cruel", mbid = "a6d12ff5-be8e-443a-a1c0-4d5751cb22ce" },
+  { n = 4, title = "Le temps passe", mbid = "fede36f8-1faf-4765-a190-be1baccf5a7c" },
+  { n = 5, title = "Nicolas, Jean-Pierre et Michel", mbid = "18c432c1-72f0-4ef0-9c6f-18b78f88f0be" },
+  { n = 6, title = "J'aime pas Noël", mbid = "d8bd24f3-d531-45ff-9c99-60898bf8f090" },
+  { n = 7, title = "Piscines et gamines en string", mbid = "2f76a5ec-68ba-4e0e-8579-39b5fd6f3241" },
+  { n = 8, title = "Interlude", mbid = "8ad6b9ca-a4b8-4ec6-a63e-c5de16d59530" },
+  { n = 9, title = "Princesse", mbid = "96fd8392-04f2-4855-bd36-35f7ba342847" },
+  { n = 10, title = "Trader", mbid = "f30518d7-a888-4511-8b4e-cdea4187e85c" },
+  { n = 11, title = "Robots", mbid = "c0ab789f-31bc-4d20-a44b-56e931c4036d" },
+  { n = 12, title = "Lidl des jeunes", mbid = "78a6d605-61ad-438c-b7f0-da2e9904991d" },
+  { n = 13, title = "On voulait juste", mbid = "85450d04-e269-4cfa-bea1-8043d04dc97b" },
+  { n = 14, title = "Digère et recrache", mbid = "3999d5e7-f452-42f6-9bb5-458f08f495d6" },
+]
+
+[[release]]
+mbid = "4050d143-9374-43ae-86ee-b444b598da5a"
+title = "Digère et recrache"
+type = "album"
+date = "2012-02-27"
+tracks = [
+  { n = 1, title = "Lâchons-les", mbid = "984ae6d8-00f3-45af-aeb7-3edfdfd86abc" },
+  { n = 2, title = "Avant eux", mbid = "d3bbbc7e-02ee-44b8-aad0-32a8eca221c0" },
+  { n = 3, title = "Cruel(le)", mbid = "750e6ce0-7af1-4795-8dd3-0186be4d6c89" },
+  { n = 4, title = "Le temps passe", mbid = "ae561c4b-1a57-4726-8ef5-f41e695e3266" },
+  { n = 5, title = "Nicolas, Jean-Pierre et Michel", mbid = "6f2f48b1-4119-4413-82c4-8d2b5182b91e" },
+  { n = 6, title = "J’aime pas Noël", mbid = "c69da136-38c2-43c6-9218-36971f19f577" },
+  { n = 7, title = "Piscines et gamines en strings", mbid = "f2c8ebb4-2fb2-42bf-8288-f4c3572b88ce" },
+  { n = 8, title = "Interlude", mbid = "9d825098-1f3f-4cf3-a965-1548b7b8173f" },
+  { n = 9, title = "Princesse", mbid = "16b9492a-f70e-4962-8a1d-3056d346eb5f" },
+  { n = 10, title = "Trader", mbid = "51b919a6-8998-4e64-83e0-6dd3b02c6552" },
+  { n = 11, title = "Robots", mbid = "c3fc1a4c-e99e-4f85-ba1b-9103cee1053e" },
+  { n = 12, title = "Lidl des jeunes", mbid = "0f0028cc-61d9-43cb-9500-2c4dc306e440" },
+  { n = 13, title = "On voulait", mbid = "85a9c453-f2e1-4102-948a-6bf60d357355" },
+  { n = 14, title = "Digère et recrache", mbid = "91e3ff56-f1a4-4843-a792-df0ea0c05804" },
+]
+
+[[release]]
+mbid = "e458e0da-79f0-440f-816e-ae9337e2d32a"
+title = "Des angles et des épines"
+type = "album"
+date = "2014-09-22"
+tracks = [
+  { n = 1, title = "Féroces intimes", mbid = "f7ebd781-f658-4c18-ad2f-336db13c453e" },
+  { n = 2, title = "Le Bruit des portes", mbid = "9951237a-d0f8-4f7d-ae61-b51e649aee33" },
+  { n = 3, title = "Cent fois", mbid = "68471ad8-aab8-4f93-8996-14a905f38837" },
+  { n = 4, title = "Nous sommes deux femmes", mbid = "ea4eaa22-2f2b-48e8-9b0d-e88f5be3fbe8" },
+  { n = 5, title = "Mon ami", mbid = "b046ba8a-6f61-464a-ba24-35e73bc8f323" },
+  { n = 6, title = "Plus sombre", mbid = "293f9724-6a07-4bbe-973a-9387b774468e" },
+  { n = 7, title = "Cancre ultime", mbid = "2194a2db-a1ef-4faa-bbb8-5d067eeb2fff" },
+  { n = 8, title = "L'Odeur", mbid = "fa9782aa-ee4a-4a89-99de-eb6dacd4a6b3" },
+  { n = 9, title = "Messe noire", mbid = "d3f2570c-dd1d-4ec1-82dd-f859f5714e2f" },
+  { n = 10, title = "D'en haut la ville est belle en bas", mbid = "83c2f108-8fe8-482d-8437-399374507743" },
+  { n = 11, title = "S'aimer vite", mbid = "890716b3-cf09-4b9e-8634-da4a7f72de7d" },
+]
+
+[[release]]
+mbid = "8e387b2f-361e-4e15-9848-e3b4da3d3c99"
+title = "Cabadzi x Blier"
+type = "album"
+date = "2017-09-22"
+tracks = [
+  { n = 1, title = "Bouche", mbid = "a982fff0-bb73-450b-8a50-f9997ca54c90" },
+  { n = 2, title = "Oui", mbid = "6a9ac507-3cd9-4114-ac1b-989a935e25bb" },
+  { n = 3, title = "Grave", mbid = "13701825-abdf-455c-9745-0ee1b0229911" },
+  { n = 4, title = "Polaroïd", mbid = "77a804eb-2b3d-42a5-8fc7-6b84375f80da" },
+  { n = 5, title = "Un deux trois", mbid = "de23b51d-5ed2-49a5-9263-150f54ea9548" },
+  { n = 6, title = "Reste", mbid = "f212a8b3-f25c-492d-9f6e-e68849bd581d" },
+  { n = 7, title = "Rouge", mbid = "c6b0a092-bdae-4313-ba54-f484d8130ce8" },
+  { n = 8, title = "Jamais", mbid = "b133e000-e33e-43ca-a7ae-2cf6bc53531c" },
+  { n = 9, title = "Fatiguée", mbid = "ff5d395b-8e10-4e76-964e-33b357a0671f" },
+  { n = 10, title = "Bain", mbid = "99d580fa-5b8f-4e06-830f-c26e25fa68cb" },
+  { n = 11, title = "Dansable", mbid = "c9157947-bfca-4073-a389-804028c88a76" },
+]
+
+[[release]]
+mbid = "b35546ba-f9ce-458d-b0b9-c962eb2e2348"
+title = "Mélanco"
+type = "single"
+date = "2020-11-04"
+spotify = "1z5AcIOfSILBonMIu5YFoX"
+tracks = [
+  { n = 1, title = "Mélanco", mbid = "45db492f-6d48-4b81-82ee-c71d0b9b36cc" },
+]
+
+[[release]]
+mbid = "c99da993-785e-4208-8575-4f3c810ee0b0"
+title = "Burrhus"
+type = "album"
+date = "2021-03-05"
+tracks = [
+  { n = 1, title = "Mélanco", mbid = "9778e276-0e6e-4e11-b2ee-af6831eca66e" },
+  { n = 2, title = "Cabane", mbid = "08b9fe78-d9aa-4e4b-8d33-f71441845703" },
+  { n = 3, title = "Puzzle", mbid = "fa631d0a-5427-4a97-9187-ab4435164d73" },
+  { n = 4, title = "Les pigeons de Skinner I", mbid = "1a678365-45a2-44f1-87bd-60be9ef47e0f" },
+  { n = 5, title = "Animal", mbid = "0daf74a5-3dda-481e-87a6-d652e0bca4c1" },
+  { n = 6, title = "Périphérie", mbid = "9585f9cc-1610-43e9-9453-39191ad916e4" },
+  { n = 7, title = "Perdu", mbid = "87491b35-99a8-4da9-a8c2-816573136551" },
+  { n = 8, title = "Voudrait", mbid = "5a0b7520-510d-426c-912b-d2763511561a" },
+  { n = 9, title = "Gambino", mbid = "51e3e795-18ba-40dc-ae19-080d799a046b" },
+  { n = 10, title = "Ma part", mbid = "f0b9f783-0370-4865-92a7-e727dcbbf645" },
+  { n = 11, title = "Je mens", mbid = "a22e4e82-b567-408c-90b9-7c7d4fd6f849" },
+  { n = 12, title = "Palindrome", mbid = "01852c1e-8964-4985-83e4-7553ea27f832" },
+  { n = 13, title = "Me réveiller", mbid = "975b6170-183a-4cbb-8775-2d9528f2063f" },
+  { n = 14, title = "Les pigeons de Skinner II", mbid = "ec0a28a2-313c-4767-b2cd-a5ad5bb6de58" },
+  { n = 15, title = "Athazagoraphobe", mbid = "cc1549c9-d6d8-4e38-8ccf-06ee1bdb6087" },
+  { n = 16, title = "Taré", mbid = "9b67fd48-18e1-43b3-bd25-db9846a36d83" },
+]
+
+[[release]]
+mbid = "f2d598c2-b9d3-4dd9-9a86-de43e9f7c470"
+title = "Poudrière"
+type = "single"
+date = "2026-04-15"
+spotify = "0IS0w3O5JrQ9G9KVvq1xKR"
+tracks = [
+  { n = 1, title = "Poudrière", mbid = "4d1313a5-626f-4be3-ad1a-f3a059b33d28" },
+  { n = 2, title = "La Fable", mbid = "e9b92ee8-b33f-4ad1-97ca-99cc406749a1" },
+]

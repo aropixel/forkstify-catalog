@@ -1,0 +1,211 @@
+format = 1
+
+[[release]]
+mbid = "d4ee6b51-2836-43f9-b16e-5a2e01f9e44a"
+title = "Dog"
+type = "single"
+date = "2006"
+tracks = [
+  { n = 1, title = "Dog", mbid = "5aef1699-4e5f-4a00-a103-cdfb41e5947b" },
+  { n = 2, title = "Make My Day", mbid = "2f3a70cf-74ee-4d7c-93f3-ae0547f01fa4" },
+]
+
+[[release]]
+mbid = "d1f59f23-b3f0-4bec-86fe-12e3c687b356"
+title = "My Answer Is Yes!"
+type = "single"
+date = "2007"
+tracks = [
+  { n = 1, title = "My Answer Is Yes! But I Don't Remember the Question?", mbid = "458e1c90-46ca-4a7e-9823-4bd16e522653" },
+  { n = 2, title = "Lola Langusta", mbid = "492686c2-a804-425a-a00d-f3f4cd013bef" },
+]
+
+[[release]]
+mbid = "6e0dc649-9e46-434e-b88a-ae8c2b2d21f4"
+title = "Chevus / Tyvek"
+type = "single"
+date = "2007-07"
+tracks = [
+  { n = 1, title = "Future Junk", mbid = "77fb6de0-1e33-4df3-b784-e2c08d87e8d2" },
+  { n = 2, title = "El Tortuga", mbid = "2a2fb2b0-4fbe-4610-9221-75f6287ef391" },
+]
+
+[[release]]
+mbid = "7d77d115-bec7-372c-b854-ab1aa5428cf7"
+title = "Cheveu"
+type = "album"
+date = "2008"
+tracks = [
+  { n = 1, title = "Jacob's Fight", mbid = "a4ab0021-52de-460b-a36a-014e1165dbc1" },
+  { n = 2, title = "Clara Vénus", mbid = "67d0825a-974c-4089-b25a-5299856670b3" },
+  { n = 3, title = "Happiness", mbid = "25370f37-1dc2-4924-a2a7-f5c8994dcf53" },
+  { n = 4, title = "Dog", mbid = "6c401798-11a7-4604-b363-b5fd58a38e48" },
+  { n = 5, title = "Herman Choune", mbid = "dfe86615-a34c-4bdf-b9b7-fb1a8c60b397" },
+  { n = 6, title = "Superhero", mbid = "b80fed60-f6c3-4ea8-8a19-81dc35aad072" },
+  { n = 7, title = "A Great Competitor", mbid = "89796142-aa42-4d4c-a62b-21f4693522ae" },
+  { n = 8, title = "Lola Langusta", mbid = "3fa68ccb-8b1d-4e47-b911-9767932aa905" },
+  { n = 9, title = "Hot", mbid = "250aa7e0-59a7-4eae-976a-0feb38e81c50" },
+  { n = 10, title = "Hello Friends", mbid = "c42f37e3-3735-4b76-b427-2d3a350188c4" },
+  { n = 11, title = "Unemployment Blues", mbid = "17a15903-58a5-4b8b-b4cc-816aada49313" },
+]
+
+[[release]]
+mbid = "15860fe1-f5c7-4df0-89da-f401c9f0963a"
+title = "Crash Normal / Cheveu"
+type = "single"
+date = "2008"
+tracks = [
+  { n = 1, title = "[untitled]", mbid = "28710f83-9c42-4290-a764-a8ce08e0550b" },
+  { n = 2, title = "[untitled]", mbid = "5e2013e3-2dd6-4c04-a4b0-2ad6bbf647f0" },
+  { n = 3, title = "La Cerise", mbid = "cd8211f5-13e9-4bb0-8ed5-5df95cbf1a81" },
+]
+
+[[release]]
+mbid = "babb8511-344f-48e4-9883-875db95cbc8e"
+title = "Cheveau"
+type = "album"
+date = "2009"
+tracks = [
+  { n = 1, title = "Pangolin", mbid = "f8704afa-bf1d-42bf-a095-68395f350cdd" },
+  { n = 2, title = "Kador du porno", mbid = "b9bed26b-e634-4b32-9a1b-f7b68020010d" },
+  { n = 3, title = "Palestine", mbid = "e37a3039-a35f-4590-aaf2-98b45bcd78ad" },
+  { n = 4, title = "Saint Jazz", mbid = "7ded963e-8593-4bae-abe2-7214d7f0515d" },
+  { n = 5, title = "Sasha", mbid = "8921e504-2cf9-49bb-9f10-2edb60115a76" },
+  { n = 6, title = "Espace détente", mbid = "cecbd00d-0390-4ca1-9714-86ed00a5dca9" },
+  { n = 7, title = "Elvis", mbid = "7c26bbb2-7b05-4805-a5a5-23f9577f1189" },
+  { n = 8, title = "Ballade", mbid = "7711d4e0-5e4c-4762-96a3-52f4899942b6" },
+  { n = 9, title = "PsyX", mbid = "c95957f6-9370-4b34-87ce-19be2b0766cd" },
+  { n = 10, title = "Planet camping", mbid = "d69305a1-1839-4f7c-8946-e5e74523807d" },
+  { n = 11, title = "Chabada", mbid = "662d8bcb-82c6-4b76-9c40-940a83871c8c" },
+  { n = 12, title = "Touloulou", mbid = "f074e50f-fafe-4d0a-bea5-dfdf76fbd5e2" },
+  { n = 13, title = "Rupture mouvement 1&2", mbid = "2129bd7a-be5b-4735-9181-c03e87c0d2a8" },
+  { n = 14, title = "Daft cheveu", mbid = "35e0e559-67f6-4dd5-a98a-95046489a197" },
+]
+
+[[release]]
+mbid = "acdd9906-9450-42aa-b7a0-82944b02417d"
+title = "Like a Deer in the Headlights"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Like a Deer in the Headlights", mbid = "71e72d61-8e0b-465b-a6d6-e9a4e047a56a" },
+  { n = 2, title = "C'est ça l'amour", mbid = "3214e2b0-4345-4a72-b5e9-5398b0131271" },
+]
+
+[[release]]
+mbid = "55ecd500-6e1d-41fa-be09-fb20d37aa58a"
+title = "1000"
+type = "album"
+date = "2010"
+spotify = "3mLbPcELJyamqxt6AYmYMf"
+tracks = [
+  { n = 1, title = "Quattro Stagioni", mbid = "43e8e12d-4898-4ad7-860a-9c3e3ccb2377" },
+  { n = 2, title = "Charlie Sheen", mbid = "98e28048-3a57-4cd6-9adc-4c14be6b3929" },
+  { n = 3, title = "No Birds", mbid = "df1d0bdb-eef8-4f06-aa7a-bde5bf7ec99e" },
+  { n = 4, title = "Impossible Is Not French", mbid = "f6b8aa5f-5eb6-4887-ba41-8f66598e974e" },
+  { n = 5, title = "Sensual Drug Abuse Show!", mbid = "80582569-cd90-4e00-9068-2e71661113e6" },
+  { n = 6, title = "The Show!", mbid = "c9188bb9-8553-4488-9cd4-e22d945143c4" },
+  { n = 7, title = "Ice Ice Baby", mbid = "55de649b-cb49-4e98-ae6b-56562be1bf55" },
+  { n = 8, title = "Push Push in the Bush Bush", mbid = "0177856f-d0b2-4128-88b8-322ff8704a44" },
+  { n = 9, title = "Like a Deer in the Headlights", mbid = "d726d3a3-9b40-4c78-8e51-b914158e5b6d" },
+  { n = 10, title = "The Return Game", mbid = "08bdbf55-5fe6-4756-9e48-c62ef479a0ca" },
+  { n = 11, title = "La Fin au début", mbid = "c0784141-eba4-426b-8399-50859c6738ef" },
+  { n = 12, title = "My First Song", mbid = "e17651e4-12bf-4bdc-b37d-b36eaa98c456" },
+  { n = 13, title = "Bonne nuit Chéri", mbid = "e503e23c-e398-445a-ba17-8db9d9dcb72d" },
+]
+
+[[release]]
+mbid = "b0ae4c13-5eab-430b-9679-f946350473c4"
+title = "Si Je M'énerve Encore / RNR2"
+type = "single"
+date = "2011"
+tracks = [
+  { n = 1, title = "Si je m'enerve encore", mbid = "d3de3f55-3ff6-4594-9e10-c1b193c0fc51" },
+  { n = 2, title = "RNR2", mbid = "8c0434d6-6f6e-4a4d-ade0-5b2f9f9b085d" },
+]
+
+[[release]]
+mbid = "7581e2b5-7823-443f-b2a9-7263b88d4f9d"
+title = "B-Sides, Rarities & Stupidities"
+type = "album"
+date = "2012-04-24"
+tracks = [
+  { n = 1, title = "My Answer Is Yes! (But What's the Question?)", mbid = "4de0d768-1b71-4b28-aaae-3d5eea018b97" },
+  { n = 2, title = "Tortuga", mbid = "7722123f-bea9-47d5-82bb-7e7ca0b97172" },
+  { n = 3, title = "Make My Day", mbid = "b0381448-e8c8-47bb-afb2-41385ae6b180" },
+  { n = 4, title = "La Cerise", mbid = "3ba2b504-4fd3-40f5-9364-5d92c1003fa6" },
+  { n = 5, title = "Carrey", mbid = "dc0bd16c-a400-4786-aeea-345f3c62bd1e" },
+  { n = 6, title = "Clara Vénus (early version)", mbid = "4bae5226-a1b9-41ce-bf78-af67433f8406" },
+  { n = 7, title = "Truck", mbid = "b86e3af3-ab16-49d3-8de9-55e81d07a02c" },
+  { n = 8, title = "La Truite", mbid = "c757c5d7-9f67-45ee-ad1e-e366a5b32fa6" },
+  { n = 9, title = "Lola Langusta (early version)", mbid = "d6c143dc-20f9-4f0a-be07-07b1eb5be8f3" },
+  { n = 10, title = "Herman Choune (demo)", mbid = "04c80b32-7bf0-4cde-aa72-4b8ef3eb716c" },
+  { n = 11, title = "Gérard (unreleased)", mbid = "813b2f85-d4ad-4da6-ae7b-e2d779829fe7" },
+  { n = 12, title = "Shiva Dog (unreleased)", mbid = "ce09ab07-ec9d-41af-a596-549a759a747c" },
+  { n = 13, title = "C'est ça l'amour", mbid = "22466fd7-f3a8-4961-8ce5-e4b8f62c85a5" },
+]
+
+[[release]]
+mbid = "b30b5238-6826-47d0-8ca5-31d5411d1e23"
+title = "Worms"
+type = "single"
+date = "2013-08-14"
+tracks = [
+  { n = 1, title = "Worms", mbid = "fd5e69e8-14b0-419a-a008-de2a50a3096c" },
+]
+
+[[release]]
+mbid = "f3182a92-3964-4009-966e-d5692d118605"
+title = "Bum"
+type = "album"
+date = "2014-01-20"
+tracks = [
+  { n = 1, title = "Pirate Bay", mbid = "3ac20134-3d8c-4069-8bf8-022348b15886" },
+  { n = 2, title = "Slap and Shot", mbid = "dca27254-6cf4-4e15-b498-b3bf13e62fcc" },
+  { n = 3, title = "Polonia", mbid = "33372724-a4a9-4ec6-b5d0-8a0b9218d29a" },
+  { n = 4, title = "Juan in a Million", mbid = "93d280a7-9e04-4956-9a9f-a5df8236c80a" },
+  { n = 5, title = "Stadium", mbid = "e28cc028-9370-40bb-968f-2f492e4b2d27" },
+  { n = 6, title = "Albinos", mbid = "fb334e8c-3a4a-4a79-abe1-32bdd806256c" },
+  { n = 7, title = "Madame Pompidou", mbid = "6da1bf3c-6d97-4abe-b2b0-3a8cc7b90584" },
+  { n = 8, title = "Monsieur Perrier", mbid = "870c51bd-71d9-47de-965e-8dba004bc353" },
+  { n = 9, title = "Blood and Gore", mbid = "0dc829aa-2b1a-45d2-adc5-df37f1b16f1e" },
+  { n = 10, title = "Johnny Hurry Up", mbid = "e3a4e070-4fd2-43c2-a314-13c41aff00bb" },
+]
+
+[[release]]
+mbid = "b03a8354-b577-4eae-9680-550d2957b3a0"
+title = "Dakhla Sahara Session"
+type = "album"
+date = "2017-02-03"
+tracks = [
+  { n = 1, title = "Moto deux places", mbid = "71761c44-0c66-4ca8-863b-0ec3bef15102" },
+  { n = 2, title = "Bord de mer", mbid = "6ad14035-fec4-4dc8-8db5-4a4547a26470" },
+  { n = 3, title = "Tout droit", mbid = "86eaa0ce-dbc7-436a-9594-faf238aca3cf" },
+  { n = 4, title = "Skit 1", mbid = "042d992d-de6d-43b9-a61e-799ef31e79bb" },
+  { n = 5, title = "Azaouane", mbid = "8984c7fa-4ad0-421c-b739-77adeba97be2" },
+  { n = 6, title = "Charaa", mbid = "d17e49bb-401b-442c-b7ab-17f3425c9113" },
+  { n = 7, title = "Ach had lak ya khay", mbid = "8c1fc04b-7ea9-4d75-91cb-1909ad7993f8" },
+  { n = 8, title = "Je penche", mbid = "3c5c5a2d-39db-4085-adeb-485cfa65e791" },
+  { n = 9, title = "Hamadi", mbid = "0a7ee507-56eb-403b-b85a-efa40a09d556" },
+  { n = 10, title = "Skit 2", mbid = "7e01b248-8ad0-44e0-8886-40f394fd704d" },
+]
+
+[[release]]
+mbid = "eb83e9f7-6deb-4211-9c9c-9f017838bcaa"
+title = "Jamais contents ! Un album carrément Souchon"
+type = "album"
+date = "2023-10-20"
+tracks = [
+  { n = 1, title = "J'ai dix ans", mbid = "24e1e9d6-fc4b-4049-a558-787df1ae994b" },
+  { n = 2, title = "Nouveau", mbid = "1695b59d-dbe9-4096-89da-021e9800baf5" },
+  { n = 3, title = "Les oiseaux", mbid = "f13e4212-1971-43d3-9b2d-bf9d36b6145b" },
+  { n = 4, title = "Poulailler's song", mbid = "ac4fef6c-914d-408d-828f-028879c79593" },
+  { n = 5, title = "Papa Mambo", mbid = "4dff00d0-65a4-447a-bbca-0563267457fb" },
+  { n = 6, title = "Tout me fait peur", mbid = "a0ce4c50-1203-48c0-a688-0880879d103c" },
+  { n = 7, title = "Allo Maman bobo", mbid = "e32dcafa-3714-4acb-95d0-84e771c2997e" },
+  { n = 8, title = "Jamais Content", mbid = "e49497dd-59c5-4742-8550-3df417cde599" },
+  { n = 9, title = "La p'tite Bill elle est malade", mbid = "2554bdae-0506-4b01-ac0c-7190b944041b" },
+  { n = 10, title = "Marchand de sirop", mbid = "095edfec-033a-4d4e-9a3b-327baeb4d624" },
+  { n = 11, title = "Et si en plus y a personne", mbid = "02105373-eea0-4b16-be03-83a5c805a578" },
+  { n = 12, title = "Le monde change de peau", mbid = "e19510d8-0720-46c9-a630-a44e827b5c49" },
+]

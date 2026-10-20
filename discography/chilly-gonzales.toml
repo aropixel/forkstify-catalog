@@ -1,0 +1,811 @@
+format = 1
+
+[[release]]
+mbid = "2c5d84bd-6688-45e6-b502-8dc7f0357731"
+title = "O.P. Original Prankster"
+type = "ep"
+date = "1999"
+tracks = [
+  { n = 1, title = "Past Your Bedtime", mbid = "18480e28-d8bd-4adb-a5ba-4a09f1cb2b25" },
+  { n = 2, title = "The Worst MC", mbid = "b7bc01f4-fb28-4de8-bb75-228d1c8a1890" },
+  { n = 3, title = "Let's Groove Again", mbid = "cfcc0ab1-94b4-4c3d-8100-2dd4b272af92" },
+  { n = 4, title = "Freedom", mbid = "bbdbad4c-a613-4c59-a377-ecb91f72f47e" },
+]
+
+[[release]]
+mbid = "8732e29c-5cb9-39de-aac5-007b5e2d3b04"
+title = "Gonzales über alles"
+type = "album"
+date = "2000-02-25"
+spotify = "2zUdl92rXjrpPwq56ssi8o"
+tracks = [
+  { n = 1, title = "Chilly in F Minor", mbid = "85644d46-036b-4620-bc49-3a01d6a939f4" },
+  { n = 2, title = "Real Motherf***in' Music", mbid = "dadcdec9-b212-43af-a564-fd600efd5c34" },
+  { n = 3, title = "The Worst MC", mbid = "5fb9edbf-20b3-4aac-a52e-96a727ac26ff" },
+  { n = 4, title = "Let's Groove Again", mbid = "cfcc0ab1-94b4-4c3d-8100-2dd4b272af92" },
+  { n = 5, title = "Why Don't We Disappear?", mbid = "0ebe62c2-7379-4e62-b88a-dd514cf981e1" },
+  { n = 6, title = "Gringo Star", mbid = "1e431508-f4fc-46ae-ae0e-b3cd0420ca5c" },
+  { n = 7, title = "Walked for Hours", mbid = "5701a4f6-f120-4755-afc9-fe0f2c011fbc" },
+  { n = 8, title = "Chilly in Bb Minor", mbid = "ad33730a-2f54-45fd-93a0-abb6d286b35f" },
+  { n = 9, title = "Clarinets", mbid = "e9aa11b0-79b8-4aff-bc82-57a9891f90c2" },
+  { n = 10, title = "Love Scene", mbid = "309717a0-e130-40a5-96c9-15d7e7ef5794" },
+  { n = 11, title = "You Are", mbid = "1704e919-1f9c-4e59-927b-29604015bfea" },
+  { n = 12, title = "Past Your Bedtime", mbid = "18480e28-d8bd-4adb-a5ba-4a09f1cb2b25" },
+  { n = 13, title = "Chilly in D Minor", mbid = "eff6e52b-9a98-41c8-a3dc-68ab9adc5272" },
+]
+
+[[release]]
+mbid = "6f759b70-b9f7-3202-b4e8-d39e71950ebe"
+title = "Red Leather"
+type = "single"
+date = "2000-10-13"
+tracks = [
+  { n = 1, title = "Red Leather", mbid = "66dd0b66-aa7e-43be-9985-f3677f6f5de1" },
+  { n = 2, title = "We Want It", mbid = "a63fbd81-4e72-4b03-bfb4-a62f7bf44764" },
+  { n = 3, title = "Hot Pink Hot Sex", mbid = "9edcc573-f4d3-44bc-8531-2134812baa08" },
+]
+
+[[release]]
+mbid = "8f7c4ae0-95cb-3024-8cd3-d6782f0f5b11"
+title = "The Entertainist"
+type = "album"
+date = "2000-11-03"
+tracks = [
+  { n = 1, title = "Candy", mbid = "fca97e8c-5d92-488d-896b-ca96c19152bb" },
+  { n = 2, title = "The Worst MC, Part 2", mbid = "eda3fc53-cd2a-4411-a2cf-2dc4a9829997" },
+  { n = 3, title = "No Beats", mbid = "6e2d952c-0cc0-4a8a-97e1-056374ba27c7" },
+  { n = 4, title = "Futuristic Ain’t Shit to Me", mbid = "6a7a12a1-6c42-4e64-9901-71916c7fb14c" },
+  { n = 5, title = "This One Jam", mbid = "985a89dd-ae25-4e4a-8be8-63412767fd21" },
+  { n = 6, title = "Cum on You", mbid = "5f8c39e5-edb5-466f-89c6-701f43798c0e" },
+  { n = 7, title = "Meditation", mbid = "baeac3ec-0b09-430f-bf61-8a8d3b8059ba" },
+  { n = 8, title = "Feedom Freestyle", mbid = "3eab8d63-f9f5-434b-94d2-79deb3fda173" },
+  { n = 9, title = "Higher Than You", mbid = "423a10cb-a2a7-45e8-b987-439e2bebf3af" },
+  { n = 10, title = "The Name They Gave Me", mbid = "1f809d2b-681f-4ee1-bd38-68c27a2b7e48" },
+  { n = 11, title = "So What da Fuck?", mbid = "46ead51f-b031-44d8-928c-070348622e60" },
+  { n = 12, title = "Figga Please", mbid = "ec1076ca-44f1-4844-8f3b-a68b76475632" },
+  { n = 13, title = "Prankster Fly", mbid = "700f19ca-c50c-4734-af6e-5cad341555dc" },
+  { n = 14, title = "Ain’t No Stoppin’ the Poppin’", mbid = "032e8344-a9f1-4194-a9c0-f57bbea71a5f" },
+]
+
+[[release]]
+mbid = "c2a06031-79c3-3e15-88ba-a7e8c405d496"
+title = "Take Me to Broadway"
+type = "single"
+date = "2001-11-01"
+tracks = [
+  { n = 1, title = "Take Me to Broadway", mbid = "cae25b97-a369-4e5d-afbe-9e41cc63c847" },
+  { n = 2, title = "Return of the Sugar Plum Fairy", mbid = "735ceaa2-e0bd-4042-9032-f86157a0d4dc" },
+  { n = 3, title = "Concerto in E Minor", mbid = "6882a21a-b3d0-4755-823f-a2a11e3c39a1" },
+]
+
+[[release]]
+mbid = "bacd72ec-794c-3c93-aba1-c3993d5118a7"
+title = "Gonzales III - “Presidential Suite” / “Switched-On Gonzo”"
+type = "album"
+date = "2002"
+tracks = [
+  { disc = 1, n = 1, title = "So Called Party Over There", mbid = "f19697f1-04f0-4ab5-8f48-5ecf0120fb42" },
+  { disc = 1, n = 2, title = "Shameless Eyes", mbid = "fae7ae89-be62-42e1-b1c1-632d93d03876" },
+  { disc = 1, n = 3, title = "Scheme and Variations", mbid = "bd51a90e-6789-4072-8003-813afedfba89" },
+  { disc = 1, n = 4, title = "You Snooze You Lose", mbid = "29e64074-2eb4-48f9-9f65-a44fc87ce3b4" },
+  { disc = 1, n = 5, title = "1000 Faces", mbid = "1c8eb015-3051-4688-9c9e-a96a4315aef4" },
+  { disc = 1, n = 6, title = "Political Platform Shoes", mbid = "b5c8822d-a5d0-4e6d-8158-6fa6c29c8b26" },
+  { disc = 1, n = 7, title = "Take Me to Broadway", mbid = "cae25b97-a369-4e5d-afbe-9e41cc63c847" },
+  { disc = 1, n = 8, title = "The Joy of Thinking", mbid = "d6d6ed55-3413-4886-a1d9-7af40ca26bf2" },
+  { disc = 1, n = 9, title = "Decisions", mbid = "d778c98f-1ec7-4aa9-8afd-71d255e64013" },
+  { disc = 1, n = 10, title = "Chilly in F Major", mbid = "3a90f554-40cb-46aa-b30c-b88d077ce2ca" },
+  { disc = 1, n = 11, title = "Starlight", mbid = "71645b4a-2d61-4e6c-99fd-13207200ad25" },
+  { disc = 1, n = 12, title = "Bottom of the Pops", mbid = "98a3fa36-a535-48ab-b994-c57d3f2c9f1c" },
+  { disc = 1, n = 13, title = "Salieri Serenade", mbid = "7573ae84-971e-45a3-9b0f-ea92e4c0d01a" },
+  { disc = 1, n = 14, title = "Headstone Park", mbid = "b564ddfe-63a2-441f-a6d6-c07057efed23" },
+  { disc = 1, n = 15, title = "Melodika", mbid = "664cf4c4-d6b9-4cf1-a2f1-9088c517e4c7" },
+  { disc = 2, n = 1, title = "Andante", mbid = "f83e2ff0-72d8-40ae-938f-2b4e2b907b82" },
+  { disc = 2, n = 2, title = "Allegro", mbid = "c0cca716-995f-42cf-94d8-d1300dd939e8" },
+  { disc = 2, n = 3, title = "Fortissimo", mbid = "70602f33-9f0f-40c6-bde9-7c264c22b551" },
+  { disc = 2, n = 4, title = "Gonzissimo", mbid = "a3d2c9a8-ef19-4d18-9226-ebb379787116" },
+]
+
+[[release]]
+mbid = "f2caa5ef-a41c-32fa-bef1-586d8a76d44a"
+title = "Presidential Suite"
+type = "album"
+date = "2002"
+tracks = [
+  { n = 1, title = "So Called Party Over There", mbid = "f19697f1-04f0-4ab5-8f48-5ecf0120fb42" },
+  { n = 2, title = "Shameless Eyes", mbid = "fae7ae89-be62-42e1-b1c1-632d93d03876" },
+  { n = 3, title = "Scheme and Variations", mbid = "bd51a90e-6789-4072-8003-813afedfba89" },
+  { n = 4, title = "You Snooze You Lose", mbid = "29e64074-2eb4-48f9-9f65-a44fc87ce3b4" },
+  { n = 5, title = "1000 Faces", mbid = "1c8eb015-3051-4688-9c9e-a96a4315aef4" },
+  { n = 6, title = "Political Platform Shoes", mbid = "b5c8822d-a5d0-4e6d-8158-6fa6c29c8b26" },
+  { n = 7, title = "Take Me to Broadway", mbid = "cae25b97-a369-4e5d-afbe-9e41cc63c847" },
+  { n = 8, title = "The Joy of Thinking", mbid = "d6d6ed55-3413-4886-a1d9-7af40ca26bf2" },
+  { n = 9, title = "Decisions", mbid = "d778c98f-1ec7-4aa9-8afd-71d255e64013" },
+  { n = 10, title = "Chilly in F Major", mbid = "3a90f554-40cb-46aa-b30c-b88d077ce2ca" },
+  { n = 11, title = "Starlight", mbid = "71645b4a-2d61-4e6c-99fd-13207200ad25" },
+  { n = 12, title = "Bottom of the Pops", mbid = "98a3fa36-a535-48ab-b994-c57d3f2c9f1c" },
+  { n = 13, title = "Salieri Serenade", mbid = "7573ae84-971e-45a3-9b0f-ea92e4c0d01a" },
+  { n = 14, title = "Headstone Park", mbid = "b564ddfe-63a2-441f-a6d6-c07057efed23" },
+  { n = 15, title = "Melodika", mbid = "664cf4c4-d6b9-4cf1-a2f1-9088c517e4c7" },
+]
+
+[[release]]
+mbid = "91b6f573-3e93-39b3-8643-bdd9e3513c63"
+title = "Z"
+type = "album"
+date = "2003"
+tracks = [
+  { n = 1, title = "Chilly in F Minor", mbid = "a831eac5-dfb0-4c83-aba6-170dd14de29c" },
+  { n = 2, title = "Variations on a Scheme", mbid = "356f06a5-b883-4063-a25a-b8690f61aef0" },
+  { n = 3, title = "(Another) So Called Party", mbid = "84050c65-f69f-448e-b419-e33baf9e2f75" },
+  { n = 4, title = "This One Jam", mbid = "709aee3f-f37a-4fdb-b071-0b92656b9372" },
+  { n = 5, title = "Lovertits", mbid = "f48ec9c3-b8d9-41d6-a5cf-3318560c19bc" },
+  { n = 6, title = "Soft Shoe Snoozin'", mbid = "a4e14bf0-26b5-4c8c-a837-16b294656d1f" },
+  { n = 7, title = "You Are", mbid = "6e3e1621-7690-4b16-ac0a-f2334d450d8a" },
+  { n = 8, title = "Why Don't We Disappear", mbid = "cd0dcf78-76c6-4391-9dcd-d6e6a9726598" },
+  { n = 9, title = "The Joy of Thinking", mbid = "96a87e61-4904-442e-946d-1e112cdc02f7" },
+  { n = 10, title = "Decisions", mbid = "e1f0d01c-1d01-4b2a-958e-968207412463" },
+  { n = 11, title = "Take Me to Broadway", mbid = "f5dff4e7-448f-4db9-87cb-818c83ecd960" },
+  { n = 12, title = "Starlight", mbid = "8df1bb3a-1ab0-4002-b817-d734b754e1d7" },
+  { n = 13, title = "Let's Groove Again", mbid = "86d41ea7-8942-4bd7-b08b-471cf559ccfc" },
+  { n = 14, title = "Dans Tes Yeux", mbid = "faac54d7-aa9a-499e-b339-d388f6e4682a" },
+  { n = 15, title = "Love Scene / Higher Than You", mbid = "d1e5e6bd-f95d-4ffd-9ef6-5263f53121e2" },
+]
+
+[[release]]
+mbid = "52993260-67f5-3776-90ff-5792db9cf360"
+title = "Solo Piano"
+type = "album"
+date = "2004"
+spotify = "79hPlit22yH2TfyeW1a32K"
+tracks = [
+  { n = 1, title = "Gogol", mbid = "daf21dc6-4511-4d6b-ad5b-88f71e52b7f3" },
+  { n = 2, title = "Manifesto", mbid = "2b668f46-a531-44da-930a-188669fcb8a9" },
+  { n = 3, title = "Overnight", mbid = "d467c263-b7bc-4dc5-acd9-8ab88185aeac" },
+  { n = 4, title = "Bermuda Triangle", mbid = "494a3101-26fe-4c4f-92aa-ede877339712" },
+  { n = 5, title = "Dot", mbid = "9c00823a-c67f-461a-a506-7e572652fd3d" },
+  { n = 6, title = "Armellodie", mbid = "4e01d11a-8933-442d-afad-1230b6615cd9" },
+  { n = 7, title = "Carnivalse", mbid = "a53a9c67-e869-4800-bd56-7d650a22f8eb" },
+  { n = 8, title = "Meischeid", mbid = "1096ee36-a70e-4d5d-812e-12e4766edc7e" },
+  { n = 9, title = "Paristocrats", mbid = "f297bbba-5e42-42f3-aa7f-faaa46afb49e" },
+  { n = 10, title = "Gentle Threat", mbid = "6d22ec34-643d-435d-80c0-b23499e3c586" },
+  { n = 11, title = "The Tourist", mbid = "068381d7-a5a9-4d8b-b55f-374e38ae26a6" },
+  { n = 12, title = "Salon Salloon", mbid = "e16e7389-b8bd-4812-80b0-15110fbc5ee9" },
+  { n = 13, title = "Oregano", mbid = "caedc643-85c2-48f8-b2fb-1331e501856e" },
+  { n = 14, title = "Basmati", mbid = "695d6c79-1209-43cb-a995-f5cfa73212e0" },
+  { n = 15, title = "C.M Blues", mbid = "361711ac-0cf4-468f-9853-a1d104559416" },
+  { n = 16, title = "One Note at a Time", mbid = "8b27391f-7c0e-49b7-85e1-e15dd47a42f4" },
+]
+
+[[release]]
+mbid = "9c7b2c85-ddb3-31eb-8406-1fd5620f9a3b"
+title = "Soft Power"
+type = "album"
+date = "2008-03-31"
+tracks = [
+  { n = 1, title = "Working Together", mbid = "d5cfefdc-1ac4-48db-b30a-5b83a7b053d6" },
+  { n = 2, title = "Slow Down", mbid = "5b079efb-1ebd-46b2-8d32-be8d906db2cf" },
+  { n = 3, title = "Theme From In-Between", mbid = "56737b58-6513-45cd-bd4c-2e6838af5a5f" },
+  { n = 4, title = "Unrequited Love", mbid = "d419bc3e-b4be-4eb0-92a2-0095b2cac8b5" },
+  { n = 5, title = "Map of the World", mbid = "e34f6125-5a60-4295-9872-d6bed17d27a4" },
+  { n = 6, title = "Modalisa", mbid = "b0cd06da-36a5-4f95-9b69-88340de87b9a" },
+  { n = 7, title = "Apology", mbid = "8ca2b7bc-9f55-482a-be01-eee64cf2ae75" },
+  { n = 8, title = "Let's Ride", mbid = "468bb4f5-4a77-4120-9583-6d2bfff89a95" },
+  { n = 9, title = "C Major", mbid = "2fe70dd2-f4fc-4895-b211-2b8ac7edeff4" },
+  { n = 10, title = "Singing Something", mbid = "23d83f85-2b0f-45fc-98aa-7fa25bb85de6" },
+  { n = 11, title = "Fortunately, Unfortunately", mbid = "d45aa309-26d7-432c-8e97-f3b0f5d71b7e" },
+  { n = 12, title = "Let's Ride Megamix", mbid = "6a1f9c8d-0541-4826-a0ec-34e9477babed" },
+]
+
+[[release]]
+mbid = "e4dedfbd-738e-4b0f-a234-fccd1da33aba"
+title = "Le Guinness World Record 'The Works'"
+type = "album"
+date = "2009-07-09"
+tracks = [
+  { disc = 1, n = 1, title = "Meished", mbid = "3a118c91-f1e6-4ad4-a31c-98b932f432d0" },
+  { disc = 1, n = 2, title = "Singalong", mbid = "bc1e4622-e6f2-4169-a2e8-5300320cbdef" },
+  { disc = 1, n = 3, title = "Scheme and Variations", mbid = "fff4d4f4-ca49-4b0a-ac97-bdf12ed004b3" },
+  { disc = 1, n = 4, title = "Cm Blues", mbid = "2550d9a6-9a4a-401e-9e57-0203d086de7d" },
+  { disc = 1, n = 5, title = "Manifesto", mbid = "ddd2ca68-e3a3-4900-a06f-dfd78bf0f41e" },
+  { disc = 1, n = 6, title = "Gentle Threat", mbid = "b5e75c50-248b-4101-b5cd-e470aa42fca5" },
+  { disc = 1, n = 7, title = "Boss Bossa", mbid = "09dd809b-e1a0-4cb1-b330-6e4d062b931e" },
+  { disc = 1, n = 8, title = "C Major", mbid = "94b8686a-e5a5-4de8-9e77-d3e11482e34f" },
+  { disc = 1, n = 9, title = "Chilly in F Minor", mbid = "979706a8-d798-4de6-aaa3-3008c4ccda8f" },
+  { disc = 1, n = 10, title = "Modalisa", mbid = "43a74cde-1f4b-4a5b-84df-4dcfdae307b5" },
+  { disc = 1, n = 11, title = "Armellodie", mbid = "b8ededbe-14c6-4ce2-a069-1175bd4eef6c" },
+  { disc = 1, n = 12, title = "King of Pain", mbid = "4f3f5cea-10c8-45db-ad90-9e3f81cadc35" },
+  { disc = 1, n = 13, title = "Faith", mbid = "28b0c1b0-12b5-4c41-ac05-ae93f5db6f5c" },
+  { disc = 1, n = 14, title = "In the Air Tonight", mbid = "95e36d79-3a65-4adb-8dc8-e659f967914a" },
+  { disc = 1, n = 15, title = "Super Freak", mbid = "5eb5bada-b3f7-42c4-8352-7195839849f8" },
+  { disc = 1, n = 16, title = "I Love Rock N Roll", mbid = "a1c03fe6-8962-44e5-b591-258f753b2907" },
+  { disc = 1, n = 17, title = "Hello", mbid = "db8bb19b-1261-42b6-868c-599dcb3dfb6f" },
+  { disc = 1, n = 18, title = "When Doves Cry", mbid = "dae20360-ed75-4c9d-a1b6-0a2a0626316b" },
+  { disc = 1, n = 19, title = "Cars", mbid = "68b53f67-51af-4cbf-bea8-bb668b61dd1b" },
+  { disc = 1, n = 20, title = "Eye of the Tiger", mbid = "d8bf9a07-0c2c-46b4-af08-212a686d3b12" },
+  { disc = 1, n = 21, title = "Careless Whisper", mbid = "5adee731-b3e1-4cdf-a849-23534fa42449" },
+  { disc = 2, n = 1, title = "Blue Moon", mbid = "2a5315df-0c20-4f70-a4f7-daa3f8c77559" },
+  { disc = 2, n = 2, title = "Caravan", mbid = "4cd39a50-b07f-479f-821a-0706cee484df" },
+  { disc = 2, n = 3, title = "Hey That's No Way to Say Goodbye / The First Time I Ever Saw Your Face", mbid = "2cc1e664-6753-4ba2-8054-512f4e62d285" },
+  { disc = 2, n = 4, title = "My Girl", mbid = "6be26b4d-cef8-4dda-a0f8-6cf4e273ed0d" },
+  { disc = 2, n = 5, title = "Autumn Lives", mbid = "dfda7fb4-12b7-4357-9d76-7517b03c1d6f" },
+  { disc = 2, n = 6, title = "It Was a Very Good Year", mbid = "71b837bb-1d02-4ead-897b-62df780accb2" },
+  { disc = 2, n = 7, title = "Hit the Road Jack", mbid = "7d72d1a8-b13a-4c23-8ad7-1e6684bb3cce" },
+  { disc = 2, n = 8, title = "In a Sentimental Mood", mbid = "fb0191d6-49e6-4b98-bde9-6d47d3226626" },
+  { disc = 2, n = 9, title = "Body and Soul", mbid = "506075e9-ba6f-424b-8559-ca2dfc82d163" },
+  { disc = 2, n = 10, title = "My Moon My Man", mbid = "ce01ff4f-384d-4bb5-8ea3-bee9efbfcb18" },
+  { disc = 2, n = 11, title = "You Are Never Alone", mbid = "833e6af4-b299-418a-ac18-915c0177096f" },
+  { disc = 2, n = 12, title = "Something About Us", mbid = "d64b4ae2-abf7-4e4a-a52d-7c44320e7800" },
+  { disc = 2, n = 13, title = "One Morning in May", mbid = "7780d73b-b987-4f88-86e6-5edf943562e9" },
+  { disc = 2, n = 14, title = "Limit to Your Love", mbid = "7d419dbf-6d4c-48ea-99a1-7ae15355260c" },
+  { disc = 2, n = 15, title = "Multiply", mbid = "299c51e7-2380-4340-b32f-b76ea6e65b3a" },
+  { disc = 2, n = 16, title = "One Evening", mbid = "aad986b2-afc3-45c9-906e-fa8371160771" },
+  { disc = 2, n = 17, title = "Numéro", mbid = "838137c4-8de1-4b98-b3c9-88e5aee9c186" },
+]
+
+[[release]]
+mbid = "4053df82-395c-4412-8e25-8c84210e9f81"
+title = "Never Stop"
+type = "single"
+date = "2010-04-25"
+tracks = [
+  { n = 1, title = "Never Stop (Original Mix)", mbid = "c6dfaf75-aa37-42e4-b7d8-543f230e2f68" },
+  { n = 2, title = "Never Stop (Erol Alkan’s Piano-Pella)", mbid = "324ae677-4c95-498e-b8a5-24acb33b5e4b" },
+  { n = 3, title = "Never Stop (Chilly Gonzales Rap)", mbid = "91863d26-a986-41c3-a9e4-afa3e21d4811" },
+  { n = 4, title = "Never Stop (Erol Alkan Rework)", mbid = "4e869644-536e-43a2-a35b-cd7dcfffb770" },
+]
+
+[[release]]
+mbid = "9556d1ce-b4d8-4d98-abd2-b5b1641d587a"
+title = "Ivory Tower"
+type = "album"
+date = "2010-08-04"
+spotify = "5UPASQg1ok3XDfjRdizGWd"
+tracks = [
+  { n = 1, title = "Knight Moves", mbid = "b931a314-df6b-4b09-9e39-36a5075d0586" },
+  { n = 2, title = "I Am Europe", mbid = "77686a53-999a-4d72-8d19-6d93721511bb" },
+  { n = 3, title = "Bittersuite", mbid = "fcf27fb4-85e3-4c9e-a17e-b92178087069" },
+  { n = 4, title = "Smothered Mate", mbid = "9db5de91-743d-48b4-9c31-f7c87b20d14b" },
+  { n = 5, title = "The Grudge", mbid = "ff7e8f12-22db-4197-bdda-49e356345a25" },
+  { n = 6, title = "Rococo Chanel", mbid = "4ee450fa-5e29-460e-a973-e4ae82d4185d" },
+  { n = 7, title = "Never Stop", mbid = "81ec9612-36d0-4fc5-baac-d584deb14516" },
+  { n = 8, title = "Pixel Paxil", mbid = "499b80cb-b6a1-4ab8-915d-ebca5450c1c6" },
+  { n = 9, title = "You Can Dance", mbid = "2fe3d5a3-5c1b-4f3d-88cc-5b95f728e009" },
+  { n = 10, title = "Crying", mbid = "707f4407-2caa-42a3-8918-ffdcccc1cef7" },
+  { n = 11, title = "Final Fantasy", mbid = "3758d314-69be-4ca3-b869-59357a714d24" },
+  { n = 12, title = "Siren Song", mbid = "fe9bed6a-35f0-443e-b2e6-7a1efe262ab1" },
+  { n = 13, title = "Never Stop (Chilly Gonzales rap)", mbid = "425d2ffa-4ed5-416d-b075-8694dc9b5cad" },
+]
+
+[[release]]
+mbid = "c70cfea6-f6c3-4769-90ae-cf272a972964"
+title = "I Am Europe"
+type = "single"
+date = "2010-08-10"
+tracks = [
+  { n = 1, title = "I Am Europe", mbid = "b3b35b20-cde1-40df-8e18-3070f0e38e8f" },
+  { n = 2, title = "I Am Europe (Claude Von Stroke take a Trip mix)", mbid = "a3216444-e0ea-40ae-8134-5f962a349e4b" },
+  { n = 3, title = "I Am Europe (Claude Von Stroke dub mix)", mbid = "c17488e6-d320-4b17-870e-69b0d3ac8f6d" },
+  { n = 4, title = "I Am Europe (Djedjotronic remix)", mbid = "c84a806d-21c3-48aa-bc7d-af8c56c28b7c" },
+  { n = 5, title = "I Am Europe (dirty Doering remix)", mbid = "2739cf7a-0b16-4107-b0bd-83899d7cf427" },
+  { n = 6, title = "I Am Europe (a cappella)", mbid = "2bcec5ef-dbaf-4ab7-ad40-114ac73c043e" },
+]
+
+[[release]]
+mbid = "27edc956-6576-4594-97c6-3eaf2bdfb13e"
+title = "Bande Originale"
+type = "album"
+date = "2010-11"
+tracks = [
+  { n = 1, title = "Oh Nine", mbid = "ad8bc199-fc47-414f-996e-de50cd0c19ce" },
+  { n = 2, title = "Carolina", mbid = "4acf766f-c1dd-424e-9ebd-c2232df3b537" },
+  { n = 3, title = "Ingredients", mbid = "51fe2c3d-2e82-485f-9e3b-2d823cd823a7" },
+  { n = 4, title = "Magic", mbid = "77d50870-4a0f-4a45-aa46-50dce290dd72" },
+  { n = 5, title = "Two Notes at a Time", mbid = "cdea1355-5a94-4c3f-8b0d-38cebbab40dd" },
+  { n = 6, title = "Pony", mbid = "f6466f42-560a-4aef-809c-54fb398f8678" },
+  { n = 7, title = "Celeste", mbid = "43f7d6b9-c086-4c2f-bb2a-0dddc7d46645" },
+  { n = 8, title = "Ballad", mbid = "1989e98d-0a0d-4edd-b322-b311d5dbd25b" },
+  { n = 9, title = "Minor Blues", mbid = "8367c661-5b29-4c14-b6dd-82ca025c02ab" },
+  { n = 10, title = "Jam", mbid = "3d026629-c305-418e-a3de-e61f8b904bda" },
+  { n = 11, title = "Melodica", mbid = "b5b1e86e-8d8e-49f0-88ae-006120612757" },
+  { n = 12, title = "Timpani", mbid = "0cff0bc3-21c2-4709-82a0-9679e076f985" },
+  { n = 13, title = "Gospel", mbid = "9c540b51-f138-4d5c-9cc1-229d9a34f1e2" },
+]
+
+[[release]]
+mbid = "6b8f46c5-5679-44b9-9b06-163e1d584957"
+title = "You Can Dance"
+type = "single"
+date = "2011-01"
+tracks = [
+  { n = 1, title = "You Can Dance (Album Version)", mbid = "71afe42b-7f4f-43f8-8d1e-41ab4acc39b2" },
+  { n = 2, title = "You Can Dance (Rokotaki Remix)", mbid = "26809041-f3d5-4648-93e7-78e8c43a9314" },
+  { n = 3, title = "You Can Dance (Shadow Dancer Remix)", mbid = "7cf5718d-3837-4a10-889e-6cc42665c608" },
+  { n = 4, title = "You Can Dance (Edwin Van Cleef Remix)", mbid = "b833b08b-4cc7-440a-886d-de2275b1a760" },
+  { n = 5, title = "You Can Dance (Popular Computer Remix)", mbid = "ae3dce4c-1396-4ff2-8e05-7defd05ef0fa" },
+  { n = 6, title = "You Can Dance (Gemini Club Remix)", mbid = "a8b06443-b79a-45c1-99f9-8bf66ed9cdb5" },
+  { n = 7, title = "You Can Dance (Walter Sobcek Remix)", mbid = "3730d398-1d92-4899-b265-079f08df0da6" },
+  { n = 8, title = "You Can Dance (Max Tundra Remix)", mbid = "61c5a9d6-3e7f-4306-b96f-502d89171acf" },
+  { n = 9, title = "You Can Dance (Cosmonaut Grechko Remix)", mbid = "bde663e1-0700-4a47-86c0-7adac7d2a171" },
+  { n = 10, title = "You Can Dance (Radio Edit)", mbid = "9cf94ff4-24a7-4a55-b0a0-59ed414aea66" },
+]
+
+[[release]]
+mbid = "39b02ad0-30c4-482b-aef9-0658a798ffb5"
+title = "Knight Moves"
+type = "single"
+date = "2011-05-23"
+tracks = [
+  { n = 1, title = "Knight Moves", mbid = "aafd7a83-b36b-4fd9-a6b4-1cbb3f4c233c" },
+  { n = 2, title = "Knight Moves (DJ Koze remix)", mbid = "ca0dcb8f-db15-4fd9-9333-f27aa23c1b6c" },
+  { n = 3, title = "Knight Moves (Lone remix)", mbid = "d3f2e935-582e-4d21-a392-69c27b0626ba" },
+  { n = 4, title = "Knight Moves (Chilly Gonzales solo piano)", mbid = "1af837c9-619a-408a-a571-0923a2820138" },
+]
+
+[[release]]
+mbid = "f4a53f54-cf6c-4acd-b8b6-535745b46f08"
+title = "The Unspeakable Chilly Gonzales"
+type = "album"
+date = "2011-06-20"
+tracks = [
+  { n = 1, title = "Supervillain Music", mbid = "fbf29b13-1184-42f4-8741-13ce778a0992" },
+  { n = 2, title = "Self Portrait", mbid = "19bcee8f-21c3-4585-8feb-9c82f62dafe0" },
+  { n = 3, title = "Party in My Mind", mbid = "29265b13-1d61-496e-acc4-b3b3e7830a01" },
+  { n = 4, title = "Different Kind of Prostitute", mbid = "1535c9e9-48fb-480a-a810-bfaa49c59c43" },
+  { n = 5, title = "Rap Race", mbid = "cb1d2bd2-b2da-49fe-888a-45625b81f884" },
+  { n = 6, title = "Beans", mbid = "cfd71437-ff9a-4832-ab9e-efab61e6c418" },
+  { n = 7, title = "Bongo Monologue", mbid = "2a4dc57d-a2f2-4095-a9c2-7df1cd51ae1b" },
+  { n = 8, title = "Who Wants to Hear This?", mbid = "90105af0-43e7-4404-874e-05f5231e9dd4" },
+  { n = 9, title = "Shut Up and Play the Piano", mbid = "7fdf59f6-d1a5-4a9f-84c7-f464e4e58959" },
+  { n = 10, title = "Different Kind of Prostitute (instrumental)", mbid = "8fb6ef7b-3912-4240-a4c4-f4ea69a5ad0c" },
+  { n = 11, title = "Self Portrait (instrumental)", mbid = "b7f4c4a9-6ad2-4d58-8940-520c49eb224a" },
+  { n = 12, title = "Beans (instrumental)", mbid = "1d719adc-ef5c-45be-a1e1-1ffd8486c429" },
+  { n = 13, title = "Who Wants to Hear This? (instrumental)", mbid = "3592e9d7-dee0-4c08-91e0-f93d06bebffa" },
+]
+
+[[release]]
+mbid = "5a2a63fe-7753-4162-b421-0eda6e41d1c0"
+title = "Solo Piano II"
+type = "album"
+date = "2012-07-09"
+spotify = "2ja8SLCZPMkgPHELcdDsgF"
+tracks = [
+  { n = 1, title = "White Keys", mbid = "a3b793e6-8afe-4b64-824a-0756006ed459" },
+  { n = 2, title = "Kenaston", mbid = "af1200fe-82dd-4fcd-9267-c67ff9c44c73" },
+  { n = 3, title = "Minor Fantasy", mbid = "ceaf08a1-30a2-4849-825b-b22cd3e3a2e0" },
+  { n = 4, title = "Escher", mbid = "cca06602-5b48-4859-b7ae-c23826f9d63c" },
+  { n = 5, title = "Rideaux Lunaires", mbid = "b2cd0520-f371-42cc-a93b-4a6db7690c5b" },
+  { n = 6, title = "Nero's Nocturne", mbid = "9972057a-2101-4b4e-b896-26d8986d46a5" },
+  { n = 7, title = "Venetian Blinds", mbid = "08f0bcb9-bdb8-421a-82bd-fad9007401c6" },
+  { n = 8, title = "Evolving Doors", mbid = "46a30e6c-ec35-4561-b6bd-c9f6ecfe5e5d" },
+  { n = 9, title = "Epigram in E", mbid = "8bc86327-5e69-4cf0-bce7-4dbba578373c" },
+  { n = 10, title = "Othello", mbid = "cb4c28fe-0cfb-4f9f-8546-209088441c92" },
+  { n = 11, title = "Train of Thought", mbid = "f33fa870-5829-4d80-ba53-eacf36f5909a" },
+  { n = 12, title = "Wintermezzo", mbid = "6c578a7b-a811-4be0-8fbe-d67cfbed731d" },
+  { n = 13, title = "La Bulle", mbid = "890c5a21-00bb-4bff-a2a1-2b05f41f1ccc" },
+  { n = 14, title = "Papa Gavotte", mbid = "9b044378-c12c-4aaa-92d4-7485ef957b24" },
+  { n = 15, title = "26 December 2011", mbid = "b613898c-d32e-46b1-a669-b6bcb0814c67" },
+]
+
+[[release]]
+mbid = "dd3111ef-5e8d-4483-8746-1b24df050029"
+title = "Re-Introduction Etudes"
+type = "album"
+date = "2014"
+tracks = [
+  { n = 1, title = "Five Spot", mbid = "c3ea0cdd-9877-4d52-bcd3-25f14da42c15" },
+  { n = 2, title = "Pavane", mbid = "0009f580-03ad-429f-917c-0085a8551c3c" },
+  { n = 3, title = "Pleading the Fifth", mbid = "3a065e5f-b57a-432a-8dfb-dfc1485627b4" },
+  { n = 4, title = "Mansbridge", mbid = "c1a2de48-3422-477b-bfa6-d268e46bdc9d" },
+  { n = 5, title = "Red Thread", mbid = "775310e5-b244-42cd-bbbd-54b26d87aadd" },
+  { n = 6, title = "Cloches Tristes", mbid = "6162716d-e628-4b9d-a7ef-211abdc16739" },
+  { n = 7, title = "Sunday Unsung", mbid = "d93aac6c-4dcd-4bb4-8adc-780f7cd99310" },
+  { n = 8, title = "Climbing and Falling", mbid = "6f6ac3aa-f7fb-4143-877a-835c6a0a4598" },
+  { n = 9, title = "Tarantula", mbid = "12e67d7e-5e77-4ea9-94a8-96ec2a536ef5" },
+  { n = 10, title = "Odessa", mbid = "abd28316-bb2d-4c2b-9e2e-d20a5d992e14" },
+  { n = 11, title = "Aquamarine", mbid = "b7c146d5-28fb-4f80-b8a8-8d03da9f154f" },
+  { n = 12, title = "Dressed in Green", mbid = "83f89091-faf2-4c0a-b147-7ef70c935197" },
+  { n = 13, title = "In-Between", mbid = "de7ef865-3813-4630-b961-6e139dfbba7d" },
+  { n = 14, title = "Glad and Sad", mbid = "e9a87a0b-f2e7-416c-83de-a917d4627503" },
+  { n = 15, title = "Resolutions Per Minute", mbid = "34fb1a30-b7cb-4690-8632-5c117a33b071" },
+  { n = 16, title = "Cycle Therapy", mbid = "d8b13d4c-dfe4-498d-ad66-6611caa43496" },
+  { n = 17, title = "Early Bird", mbid = "add08f00-f99d-42d3-ad73-09bb63f4172d" },
+  { n = 18, title = "College Triads", mbid = "6e74dec2-b3f6-4fd9-bdf8-62d6a3891649" },
+  { n = 19, title = "Les Accords", mbid = "3ac8c681-96d2-4cbe-bf78-6d2b6008b337" },
+  { n = 20, title = "White Litany", mbid = "48b575c5-24a3-439a-a040-2fc80bd3e80f" },
+  { n = 21, title = "Chaconne and On", mbid = "f62e7670-fcb9-4df7-a063-c5779c1778ba" },
+  { n = 22, title = "80's and Gentlemen", mbid = "3efcd7c7-1b3a-4b6c-8f5b-8fa8cae356e4" },
+  { n = 23, title = "Lefties", mbid = "d827891e-3def-42da-a41e-ca18ada99e79" },
+  { n = 24, title = "Knight Moves Solo Piano", mbid = "25f98b18-a68c-4691-9dc7-569fa2e60392" },
+]
+
+[[release]]
+mbid = "27496b29-88bb-4db8-b409-9ddc0d1d73aa"
+title = "Chambers"
+type = "album"
+date = "2015-03-17"
+spotify = "2ppryqB9FjrkUFKREMSf66"
+tracks = [
+  { n = 1, title = "Prelude to a Feud", mbid = "836ba573-d60f-4b12-8b83-d544de9e9196" },
+  { n = 2, title = "Advantage Points", mbid = "26ad14da-ba55-4833-ab77-f05714e6777b" },
+  { n = 3, title = "Sweet Burden", mbid = "a1ef8ec3-198e-4faa-bd65-8f607103037f" },
+  { n = 4, title = "Green’s Leaves", mbid = "8a31f860-c20b-4d40-b818-fd549fda81a2" },
+  { n = 5, title = "Freudian Slippers", mbid = "edaeb5f9-05b5-47d5-892e-64554aab8061" },
+  { n = 6, title = "Solitaire", mbid = "e3868b6b-f0ca-4a06-b46b-e1c5a61b8e63" },
+  { n = 7, title = "Odessa", mbid = "6b0c3aa3-ca0b-426d-b7b1-0480f9978dc3" },
+  { n = 8, title = "Sample This", mbid = "b4179958-91f0-489e-831d-d1cbf916a7b2" },
+  { n = 9, title = "The Difference", mbid = "8fc4fdd8-17b7-4cec-8f74-bce16686173c" },
+  { n = 10, title = "Cello Gonzales", mbid = "9cec5f09-2e7d-4183-832b-a58ca8ce7af2" },
+  { n = 11, title = "Switchcraft", mbid = "f88649dd-e832-4a02-af02-6a4fe7123b0c" },
+  { n = 12, title = "Myth Me", mbid = "53a860db-30ce-4e5e-a6f1-7f9658c82ef2" },
+  { n = 13, title = "(Not) A Musical Genius", mbid = "a4b74696-c922-4330-a922-56fabc32b149" },
+]
+
+[[release]]
+mbid = "68975f70-977f-4101-928b-5c10d7fd00f5"
+title = "Room 29"
+type = "album"
+date = "2017-03-17"
+tracks = [
+  { n = 1, title = "Room 29", mbid = "c12be2d8-fb47-4a5a-a60d-d9c699ed8d65" },
+  { n = 2, title = "Marmont Overture", mbid = "ffa048b0-2c51-40d6-9de3-3630204963da" },
+  { n = 3, title = "Tearjerker", mbid = "f0e027c1-2e96-4af0-842f-c356449ed98f" },
+  { n = 4, title = "Interlude 1 - Hotel Stationery", mbid = "4dcdf4e7-e9e3-45e2-87b6-bcf0db51456e" },
+  { n = 5, title = "Clara", mbid = "9a06204e-08b4-4080-b08a-280554fe7812" },
+  { n = 6, title = "Bombshell", mbid = "225b6819-f32b-4852-baa3-a642462368cc" },
+  { n = 7, title = "Belle Boy", mbid = "82336197-df0f-4e1d-a5b4-f7dc71bd924a" },
+  { n = 8, title = "Howard Hughes Under the Microscope", mbid = "00890817-4c9d-48e7-be8e-c99a95f6b1eb" },
+  { n = 9, title = "Salomé", mbid = "89152454-a6a9-457c-aeb1-8026a56b9bd6" },
+  { n = 10, title = "Interlude 2 - 5 Hours a Day", mbid = "cd74c55e-d5f9-4f6e-9736-ccc32c25bc41" },
+  { n = 11, title = "Daddy, You're Not Watching Me", mbid = "717bf69a-2220-475b-857b-f63dc979bbcc" },
+  { n = 12, title = "The Other Side", mbid = "9c9db86e-6e8f-40f9-b39a-71a7d1293ce2" },
+  { n = 13, title = "The Tearjerker Returns", mbid = "6f41be83-eabd-4781-aa0d-26b90f98c81f" },
+  { n = 14, title = "A Trick of the Light", mbid = "de60e6f1-bcdb-4b16-bb46-ec964f69c1d9" },
+  { n = 15, title = "Room 29 (reprise)", mbid = "30594c84-47cf-4a04-bdc5-34e626df84bd" },
+  { n = 16, title = "Ice Cream as Main Course", mbid = "6b0d8cd8-4b61-4eb8-a1f6-2241f8055a7b" },
+]
+
+[[release]]
+mbid = "99abac75-db1a-43e6-b3a7-1174dbb4455a"
+title = "Other People's Pieces"
+type = "album"
+date = "2018-04-16"
+tracks = [
+  { n = 1, title = "Daft Punk Medley", mbid = "3f3a14a3-659a-448c-a960-d1bbf6959e73" },
+  { n = 2, title = "Something About Us Chilly Gonzales Version", mbid = "032ca32c-5594-4cc8-968b-134343473663" },
+  { n = 3, title = "Weezer Medley", mbid = "8ca53dd4-0840-475d-a83e-800f9a0135ba" },
+  { n = 4, title = "Damage in Your Heart Chilly Gonzales Version", mbid = "8a34a374-e7bc-4001-ad8b-87864c2a2e1b" },
+  { n = 5, title = "Drake Medley", mbid = "58a65028-3ac8-4944-936c-b0d94f67a74a" },
+  { n = 6, title = "Take Care Medley", mbid = "154d7ec8-ac13-4b9e-b897-9066c52fa567" },
+  { n = 7, title = "Lana Del Rey Medley", mbid = "6c75a4dd-1ab0-4de2-ae03-8dbd53c64c9e" },
+  { n = 8, title = "Old Money Chilly Gonzales Version", mbid = "17a79423-cd7b-4f14-89ff-fc23750b3d30" },
+  { n = 9, title = "The Traveller Chilly Gonzales Version", mbid = "7545f128-9792-4879-8ffd-b8430992d4dd" },
+  { n = 10, title = "10:37 She's So Lovely Medley", mbid = "cf0ab7f0-ed7f-439a-a1ab-4966d9b0f13e" },
+  { n = 11, title = "Rap Piano Medley", mbid = "3745f0ff-bc02-471e-a554-cda8c9da246d" },
+]
+
+[[release]]
+mbid = "6fef5563-f0f8-496a-b96e-4d363b636413"
+title = "Solo Piano III"
+type = "album"
+date = "2018-09-07"
+spotify = "6980dSuVArqFiWikMp846E"
+tracks = [
+  { n = 1, title = "Treppen", mbid = "da9d7728-f7bb-43c0-8a76-3e89d7393a41" },
+  { n = 2, title = "Pretenderness", mbid = "b66fc323-1aaf-436d-bd27-f6fd90fcbbf0" },
+  { n = 3, title = "Prelude in C Sharp Major", mbid = "e58035ab-e9d2-4f00-ad01-d85c8a13ac45" },
+  { n = 4, title = "Famous Hungarians", mbid = "b7242ed6-65f7-431c-91fd-eb7d7fac2796" },
+  { n = 5, title = "Chico", mbid = "7f226d98-8c0f-4457-96d9-e747d0360399" },
+  { n = 6, title = "Nimbus", mbid = "d48b2dae-9855-4621-bb89-694824d02800" },
+  { n = 7, title = "Be Natural", mbid = "02785ab4-4a8e-45bf-9d24-bb1243eb2db3" },
+  { n = 8, title = "Ellis Eye", mbid = "64b3cfdd-8f35-4c74-8471-78f58e743b01" },
+  { n = 9, title = "Present Tense", mbid = "26be8cf4-a2ec-4a56-94fe-4da21e9e6d47" },
+  { n = 10, title = "Cactus Impromptu", mbid = "15394cf3-6133-455f-9ad0-5b4b5443cc5d" },
+  { n = 11, title = "Lost Ostinato", mbid = "25fece24-b104-408a-9bbf-c23e8dab23be" },
+  { n = 12, title = "Blizzard in B Flat Minor", mbid = "bd6f4f33-43c2-47ad-a02a-8bcce1c567dd" },
+  { n = 13, title = "October 3rd", mbid = "7551e9aa-0786-4f30-9c16-cfb142216ede" },
+  { n = 14, title = "Kopfkino", mbid = "9601dee5-29f2-41e8-9c8b-967c4125c574" },
+  { n = 15, title = "Whist", mbid = "171ca6ee-11f8-4fcb-8bc4-07b422082c36" },
+]
+
+[[release]]
+mbid = "080fce3f-f64b-49b0-ae5d-535f32f18cc8"
+title = "Prelude In C Sharp Major (Victor le Masne remake)"
+type = "single"
+date = "2019-06-14"
+tracks = [
+  { n = 1, title = "Prelude In C Sharp Major (Victor le Masne remake)", mbid = "a431666f-048f-4505-8ba7-bd79fcfe1e94" },
+]
+
+[[release]]
+mbid = "48478f71-011a-42cd-9b5f-c6f9057ac8d5"
+title = "Tearjerker"
+type = "single"
+date = "2020-03-13"
+spotify = "7K0DF7SQ53wcCNHLdh5Sd9"
+tracks = [
+  { n = 1, title = "Tearjerker", mbid = "2e89b10b-63f4-4972-8d99-0f7f45fb2bb7" },
+]
+
+[[release]]
+mbid = "ce76c657-9fe6-4d7e-becc-5adb9eaf44b0"
+title = "Ivory Tower The Remixes"
+type = "album"
+date = "2020-10-23"
+tracks = [
+  { n = 1, title = "Knight Moves", mbid = "ff709381-ffd7-4620-a880-987ad902efc6" },
+  { n = 2, title = "Knight Moves (DJ Koze Remix)", mbid = "ee96c1c5-0974-41b1-b9be-51a13d65041f" },
+  { n = 3, title = "Knight Moves (Lone Remix)", mbid = "37f95e75-1e20-4308-b495-6d089b4baeaa" },
+  { n = 4, title = "Knight Moves (Solo Piano Version)", mbid = "7d55fa4a-5fa7-4146-b251-429b6de43f76" },
+  { n = 5, title = "Never Stop", mbid = "911acc7a-380b-4bcb-848c-389e9dfbcb9c" },
+  { n = 6, title = "Never Stop (Chilly Gonzales Rap)", mbid = "7ff2ba4b-0b55-40d2-8afa-d13840e9b9d5" },
+  { n = 7, title = "Never Stop (Erol Alkan's Rework)", mbid = "74ea3c25-d6ec-4809-b9b3-1495c9e605cd" },
+  { n = 8, title = "Never Stop (Erol Alkan's Piano-Pella)", mbid = "54e3e9a8-ff6e-4c89-904f-698123ad6b8d" },
+  { n = 9, title = "I Am Europe", mbid = "0dbfa43b-3094-4204-9902-1e843d1bc76b" },
+  { n = 10, title = "I Am Europe (Claude Von Stroke Take a Trip Mix)", mbid = "9af6337d-e88d-47a1-83be-3f6a5b8b3a7f" },
+  { n = 11, title = "I Am Europe (Claude Von Stroke Dub Mix)", mbid = "ca4ffdf2-beb7-4e20-b6a9-fecd9d6df485" },
+  { n = 12, title = "I Am Europe (Djedjotronic Remix)", mbid = "b6bc87a5-85aa-4f4f-9933-f8413bd0517d" },
+  { n = 13, title = "I Am Europe (Dirty Doering Remix)", mbid = "a3a1e115-1d3e-4cbd-a312-e26d107abf12" },
+  { n = 14, title = "I Am Europe (Accapella)", mbid = "b944fc48-b44f-4d45-80d7-f21dcceceaf8" },
+  { n = 15, title = "You Can Dance", mbid = "5b8c9ba2-9e02-4231-8f61-0b174fd723fb" },
+  { n = 16, title = "You Can Dance (Radio Edit)", mbid = "7d70ba7f-d2b5-4660-99c8-0d8c2de20018" },
+  { n = 17, title = "You Can Dance (Shadow Dancer Remix)", mbid = "50c5de18-2df5-40e8-bb56-190b20de1f57" },
+  { n = 18, title = "You Can Dance (Robotaki Remix)", mbid = "df7a0326-0ca8-41ce-a405-8e09a8b33f57" },
+  { n = 19, title = "You Can Dance (Cosmonaut Grechko Remix)", mbid = "719de52d-eeb5-428a-a73f-58c9985cedcb" },
+  { n = 20, title = "You Can Dance (Edwin Van Cleef Remix)", mbid = "3b268f21-16de-41e7-9b1c-91901c45d971" },
+  { n = 21, title = "You Can Dance (Popular Computer Remix)", mbid = "95d84909-2b56-4e41-ac44-a97c3bcb5291" },
+  { n = 22, title = "You Can Dance (Kris Baha Banana Acid Remix)", mbid = "a785b932-169d-45e0-a985-66a452d0b8bb" },
+  { n = 23, title = "You Can Dance (Peking Duk Remix)", mbid = "6095f0a3-e11c-4b84-a6f0-1d8606332875" },
+  { n = 24, title = "You Can Dance (Max Tundra Remix)", mbid = "0f122730-02b1-40e2-9b56-646afdc1f48d" },
+  { n = 25, title = "You Can Dance (Gemini Club Remix)", mbid = "c63f735b-2b8a-442a-9ab7-952df9cfd04a" },
+  { n = 26, title = "You Can Dance (Walter Sobcek Remix)", mbid = "927c3354-0d61-4dec-9e74-aecba00b5a9a" },
+]
+
+[[release]]
+mbid = "d8c56a08-f3bd-45ae-aa8a-e39f7472ce2f"
+title = "A Very Chilly Christmas"
+type = "album"
+date = "2020-11-13"
+spotify = "5zGUxhLWJ5Jd4q3Jy7kjAc"
+tracks = [
+  { n = 1, title = "Silent Night", mbid = "c95f7d52-054f-4acf-941c-a4b729c068db" },
+  { n = 2, title = "Good King Wenceslas", mbid = "964bb633-3db8-48d6-942c-2501f4555587" },
+  { n = 3, title = "Silver Bells", mbid = "9f694692-002f-4f52-b104-489abd52f0fe" },
+  { n = 4, title = "God Rest Ye Merry Gentlemen", mbid = "be1c0bfe-861f-434c-9b50-30ad28618c5a" },
+  { n = 5, title = "Last Christmas", mbid = "aac5cb15-bfe7-4406-bb24-015ab2c0d773" },
+  { n = 6, title = "The Banister Bough", mbid = "43021d19-2ae2-41a1-abb5-58b2ba375fac" },
+  { n = 7, title = "Jingle Bells", mbid = "bdbda49e-9454-4987-beec-d07e446446b0" },
+  { n = 8, title = "All I Want for Christmas Is You", mbid = "e8e2a86d-89eb-4139-8eb3-ca0c1b2152d8" },
+  { n = 9, title = "In the Bleak Midwinter", mbid = "16aec46a-13f8-475f-bb66-b21b801d9a52" },
+  { n = 10, title = "Snow Is Falling In Manhattan", mbid = "06592f10-399f-43a3-be71-50ad390159e4" },
+  { n = 11, title = "O Tannenbaum", mbid = "b0c3b4fc-9047-4111-8581-4378dcf2a95e" },
+  { n = 12, title = "Maria durch ein Dornwald ging", mbid = "5448cbd5-b104-40c2-909a-1379d866e6e9" },
+  { n = 13, title = "O Come All Ye Faithful", mbid = "225187a5-396d-4b3e-bf88-0818003b38a0" },
+  { n = 14, title = "We Three Kings", mbid = "7d930339-a50a-4b55-aead-fbdfdbcf5634" },
+  { n = 15, title = "Auld Lang Mynor", mbid = "4ffe0c28-e396-4ab7-a991-1a16efca9d1d" },
+]
+
+[[release]]
+mbid = "41b63f15-c035-4180-b664-f5ea29f268bf"
+title = "Music Is Back"
+type = "single"
+date = "2021-07-09"
+spotify = "0JODjr6teqyIP2ClzmLd17"
+tracks = [
+  { n = 1, title = "Music Is Back", mbid = "2908be85-10e7-4516-a5d3-3ff2b73d5072" },
+]
+
+[[release]]
+mbid = "7404bddc-dedf-45d8-aac0-ab4cdcccf209"
+title = "Consumed in Key"
+type = "album"
+date = "2022-04-01"
+spotify = "4AH4iK86ZygXBQWFYviX3Q"
+tracks = [
+  { n = 1, title = "Contain (In Key)", mbid = "22a92c2e-b526-485b-9d18-28fd1c94cc0e" },
+  { n = 2, title = "Consume (In Key)", mbid = "b3a19b5d-b8a7-491c-93c4-ba9b52557fd0" },
+  { n = 3, title = "Passage (In Key)", mbid = "5dd10f0c-9973-4da8-ab73-17edda1279e7" },
+  { n = 4, title = "Cor Ten (In Key)", mbid = "cfb6f50c-a86f-4215-9269-477cb175127c" },
+  { n = 5, title = "Ekko (In Key)", mbid = "f01fbccb-b13a-469d-a87d-077ad82b313f" },
+  { n = 6, title = "Converge (In Key)", mbid = "ca9c0c69-8b94-42f9-bec8-94114f959d25" },
+  { n = 7, title = "Locomotion (In Key)", mbid = "07c59b7d-f559-4085-becb-896ab1654b73" },
+  { n = 8, title = "In Side (In Key)", mbid = "254b6f29-f045-4fde-9498-871a1d54bfbd" },
+  { n = 9, title = "Consumed (In Key)", mbid = "496e26c2-088a-4e5c-9372-63e2f6dca01d" },
+  { n = 10, title = "Passage Out (In Key)", mbid = "94b5b01e-9aca-4edd-bda2-3cc9a6e24b68" },
+]
+
+[[release]]
+mbid = "8dad12fb-8ba2-448d-be4e-bf356e4541ba"
+title = "Lobby"
+type = "single"
+date = "2022-05-20"
+spotify = "67e9EOl7l38uFWF0QPLD9b"
+tracks = [
+  { n = 1, title = "LOBBY", mbid = "368f3f43-baed-4481-8106-706e32b45a96" },
+]
+
+[[release]]
+mbid = "2855e2c3-7710-4717-8a8e-3bc9c83cc32f"
+title = "Wonderfoule"
+type = "single"
+date = "2022-07-08"
+tracks = [
+  { n = 1, title = "Wonderfoule", mbid = "15d1d09b-4c7b-4722-b746-8da431a5f142" },
+]
+
+[[release]]
+mbid = "dd076c69-584b-4fd9-8a52-4cf068220d0f"
+title = "He Thinks That I’m an Angel"
+type = "single"
+date = "2022-09-08"
+spotify = "5VfTK9MOoYqK1xkWGSKhYU"
+tracks = [
+  { n = 1, title = "He Thinks That I’m an Angel", mbid = "f58e7a68-73f2-4190-8303-b5ecfff28e78" },
+]
+
+[[release]]
+mbid = "e503d725-279a-4853-9acf-68de04bef66e"
+title = "Cut Dick"
+type = "single"
+date = "2023-06-22"
+tracks = [
+  { n = 1, title = "Cut Dick (original version)", mbid = "8082f49f-1055-4537-b2b6-390b1b46245a" },
+  { n = 2, title = "Cut Dick (Myd remix)", mbid = "9be33489-7aae-45c7-b9e0-3d9eaac2a23d" },
+]
+
+[[release]]
+mbid = "02e224c6-fd7d-4ee3-b506-cb68b5397ebd"
+title = "French Kiss"
+type = "album"
+date = "2023-09-15"
+spotify = "0AkbIHMEMNIlknPTtnOXYW"
+tracks = [
+  { n = 1, title = "French Kiss", mbid = "5f207372-2ae5-4843-a475-7b2510c236a7" },
+  { n = 2, title = "Il pleut sur Notre‐Dame", mbid = "b0d5313a-5500-4b24-83cb-290f00eab61c" },
+  { n = 3, title = "Lac du cerf", mbid = "838f45dd-fee0-47b2-ab71-f9263afadf88" },
+  { n = 4, title = "Nos meilleures vies", mbid = "77348c5c-9859-4241-8c55-30b2f6ac9b6c" },
+  { n = 5, title = "Wonderfoule", mbid = "9bb0cbcf-df90-4bb1-a8dc-46e97cc45ca9" },
+  { n = 6, title = "Cut Dick", mbid = "268fdb7a-d883-41e6-8a65-7844a64d9411" },
+  { n = 7, title = "Romance sans paroles no 3", mbid = "8376b034-3e5b-4043-9983-6775786bcb37" },
+  { n = 8, title = "Gangstavour", mbid = "0abc9f53-cb95-4074-938f-5e89769cfa98" },
+  { n = 9, title = "Piano a Paris", mbid = "e5c61c9f-20d8-4bb1-9b00-607e515aeae0" },
+  { n = 10, title = "Richard et moi", mbid = "2ebb417a-1ccd-4cb3-86b3-90db0ffd469d" },
+  { n = 11, title = "Message personnel", mbid = "ac333058-083e-4a80-b43a-4695555099a5" },
+]
+
+[[release]]
+mbid = "5e6e215c-1df0-488e-a652-14f2fbe41119"
+title = "I.C.E."
+type = "single"
+date = "2024-06-12"
+spotify = "75Jk74BdwZnN4gog08tzF3"
+tracks = [
+  { n = 1, title = "I.C.E.", mbid = "dcc099c7-ea1b-4e18-b59a-fe33c3e81630" },
+]
+
+[[release]]
+mbid = "0c6bc20e-585c-4d78-80ed-48abbac551b5"
+title = "I.C.E. 2"
+type = "single"
+date = "2024-06-26"
+spotify = "74u87GFTbOrj1PiRtY8Nh1"
+tracks = [
+  { n = 1, title = "I.C.E. 2", mbid = "51274258-3142-4888-a0b6-24fa663f9380" },
+]
+
+[[release]]
+mbid = "4507fbc8-dd56-49c1-9750-1a935ce9e5a7"
+title = "Gonzo"
+type = "album"
+date = "2024-09-13"
+spotify = "2yyAwvLUsgsdxE8loUzNa3"
+tracks = [
+  { n = 1, title = "Gonzo", mbid = "8f1bf544-602c-40e7-9109-31b61fe44d73" },
+  { n = 2, title = "Surfing the Crowd", mbid = "fb5afff7-47a9-4a96-b605-1143aeabd71f" },
+  { n = 3, title = "High as a Kite", mbid = "68825190-f1e9-433c-ab8a-d9b9e069082e" },
+  { n = 4, title = "Fidelio", mbid = "98aea60d-76d8-4f9b-a3f0-f46f37ace4c9" },
+  { n = 5, title = "Open the Kimono", mbid = "e39fceaa-a133-4392-bc20-3e472f37882a" },
+  { n = 6, title = "Neoclassical Massacre", mbid = "62b14fe3-40b8-41ef-abef-e3f1b972aa88" },
+  { n = 7, title = "Cadenza", mbid = "f1013b66-c375-4973-b199-c9df2d7deb33" },
+  { n = 8, title = "F*ck Wagner", mbid = "856a5c9a-9eaf-4c94-9f0e-6053020ec07c" },
+  { n = 9, title = "I.C.E.", mbid = "3739e845-0deb-4407-9de5-21a6a5edc67a" },
+  { n = 10, title = "Eau de Cologne", mbid = "b659642c-2be9-447a-8c49-657352826884" },
+  { n = 11, title = "Poem", mbid = "a51fb340-1de8-44f4-9b95-3a5ed80aaec6" },
+]
+
+[[release]]
+mbid = "a5449a26-660e-4035-88d8-c2d135e59f3d"
+title = "Songs With Words"
+type = "album"
+date = "2025-03-21"
+spotify = "5XelV08Iwo9I7zSDQrLoBJ"
+tracks = [
+  { n = 1, title = "Dry Old Rose", mbid = "5c00c4ec-f9a7-444f-8cf3-e43406f4301c" },
+  { n = 2, title = "Shadow Changes into Bone", mbid = "51c7f811-6f29-425d-a006-515a812ebd74" },
+  { n = 3, title = "When I Died, Love", mbid = "3d0d884c-ab4e-4d07-b358-182480843e11" },
+  { n = 4, title = "See the World Go Wild", mbid = "deaed991-bcc4-4306-8765-0c2a2c77ab63" },
+  { n = 5, title = "Interlude #A", mbid = "a4268cec-9c32-49d7-9e25-9e2b64e7bdf4" },
+  { n = 6, title = "A Strange Wild Leaf", mbid = "dc73992c-d321-44cc-bd83-bd91a60ec46f" },
+  { n = 7, title = "The Weight of the World Is Love", mbid = "0ea27759-8d55-4588-9b98-d8ccad45552b" },
+  { n = 8, title = "Until They Try", mbid = "df376a5a-135b-4276-8107-92bd166f6422" },
+  { n = 9, title = "An Empty Hungry Ghost", mbid = "74e37734-643e-4b0b-be6a-2fcf43ab0ee8" },
+  { n = 10, title = "Interlude #B", mbid = "fef0ae9c-8b27-4b0d-b1ce-bb8a9a91d09c" },
+  { n = 11, title = "One Day", mbid = "124f40f8-f581-4ab4-a66b-b87f0cf65438" },
+  { n = 12, title = "The Nightingale at Night", mbid = "c3af835b-9c92-4e58-9c83-6bd12960e2d4" },
+  { n = 13, title = "Dawn", mbid = "5d29b5bf-da45-4e28-80ab-a20efa72061f" },
+  { n = 14, title = "Awake", mbid = "e9cf9a8c-0ce0-4794-b8eb-62a875a1bd2c" },
+]
+
+[[release]]
+mbid = "df4663c4-7e71-4223-b5aa-313b0cbb4754"
+title = "CO2"
+type = "ep"
+date = "2025-11-26"
+spotify = "40ZUHqyTGLHBiT8Do4oEEx"
+tracks = [
+  { n = 1, title = "Kleenex", mbid = "a1516b95-40d9-4e13-99f9-219f1cc50396" },
+  { n = 2, title = "Carnavoile", mbid = "b2835044-5ec5-4180-9b24-ce63954df73a" },
+  { n = 3, title = "Larry David x Tony Soprano", mbid = "453c4766-d752-48ec-a705-40d3afdd3642" },
+]
+
+[[release]]
+mbid = "ef3f8191-53b8-4e4a-8b46-0170949f5542"
+title = "ZUSHILEAKS"
+type = "single"
+date = "2025-11-28"
+spotify = "4eyVL6bqiud9gTIWMfTSK6"
+tracks = [
+  { n = 1, title = "ZUSHILEAKS", mbid = "4fec44df-1d99-4db5-879e-53995a1540e4" },
+]
+
+[[release]]
+mbid = "c7b62f91-7948-4a20-9a19-d1b263d126ec"
+title = "miraculée"
+type = "single"
+date = "2026-01-30"
+tracks = [
+  { n = 1, title = "miraculée", mbid = "6399fb99-ccab-443f-9f51-0d32f9b14b99" },
+]
+
+[[release]]
+mbid = "505470c7-7e1d-481a-bcb8-fed32b354f7b"
+title = "Chaupard & Chopin"
+type = "ep"
+date = "2026-06-26"
+spotify = "4YaYgKtMJWSoztm0P1Cy2G"
+tracks = [
+  { n = 1, title = "Chaupard & Chopin", mbid = "e7603339-02f9-4ce4-9f9a-b59fea93f439" },
+  { n = 2, title = "Calliope", mbid = "96d65035-7e8e-456c-9793-facc9d3fdb35" },
+  { n = 3, title = "Pacino pacino", mbid = "a1937ba3-6180-4d41-a91e-567880f9774c" },
+  { n = 4, title = "Méridien", mbid = "3f302379-6746-4b98-8cc8-bfc9444d02f8" },
+  { n = 5, title = "Live at studio 54", mbid = "e8e85c9a-4ab0-4afd-9c12-7665b22407b3" },
+]
+
+[[release]]
+mbid = "b10448b8-85d5-415f-b7f3-c1d0b7b471ad"
+title = "Springer Freestyle"
+type = "single"
+date = "2026-08-10"
+spotify = "33DfYdfsplSd6WvF1NqMnv"
+tracks = [
+  { n = 1, title = "Springer Freestyle", mbid = "393e0244-30b9-4c73-9cfd-e6d30cbcb65d" },
+]
+
+[[release]]
+mbid = "e6c1cc9a-a0cd-4753-8333-980d4f73b3c0"
+title = "DAS MINIMUM"
+type = "single"
+date = "2026-09-18"
+spotify = "5qRr377m0YrwgUpdrMgLkj"
+tracks = [
+  { n = 1, title = "DAS MINIMUM", mbid = "2d5698ec-3897-4ee7-a11a-f7c62a24e91b" },
+]
+
+[[release]]
+mbid = "e999bd6a-a629-4736-84d2-a9f671ba7092"
+title = "NI MAL NI BIEN"
+type = "single"
+date = "2026-10-06"
+spotify = "4VL9z6l93kPdpq0sle82Zw"
+tracks = [
+  { n = 1, title = "NI MAL NI BIEN", mbid = "1312cbfc-dd27-4111-811d-f8097444e968" },
+]

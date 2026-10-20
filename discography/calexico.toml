@@ -1,0 +1,742 @@
+format = 1
+
+[[release]]
+mbid = "b73d29dd-2c84-4ea8-8af7-6fe6c08cf61a"
+title = "Spark / The Ride"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Spark", mbid = "67b6fa98-9489-4534-b8fb-4d749e8789ac" },
+  { n = 2, title = "The Ride", mbid = "6bfbc15d-826f-40ef-9fb3-3b0139f03e9c" },
+]
+
+[[release]]
+mbid = "81f7e32b-bc7c-3647-8c82-cbb5eed40eff"
+title = "Spoke"
+type = "album"
+date = "1996"
+tracks = [
+  { n = 1, title = "Low Expectations", mbid = "1c99acc1-52fb-486b-b935-d3d8c4b355df" },
+  { n = 2, title = "Mind the Gap", mbid = "2b06a937-8178-46df-8f48-64cbdd33ce1b" },
+  { n = 3, title = "Mazurra", mbid = "8601894f-fe1d-4679-ace8-17a7f6120037" },
+  { n = 4, title = "Sanchez", mbid = "f3d7290b-f95f-4583-89b5-0ecf0ed02755" },
+  { n = 5, title = "Haul", mbid = "6a947be0-4bcc-408d-b7a0-43b0d7907795" },
+  { n = 6, title = "Slag", mbid = "f2375945-a0e7-472c-8519-f3545d6f1c63" },
+  { n = 7, title = "Paper Route", mbid = "d9c95de2-4e6c-47aa-acf8-00be59ca9c5b" },
+  { n = 8, title = "Glimpse", mbid = "59c5f3c0-e814-456a-aec1-824cbe8f7635" },
+  { n = 9, title = "Navy Cut", mbid = "acad00f8-be0b-4cea-b33b-ba99963b8d8b" },
+  { n = 10, title = "Spokes", mbid = "7538aeee-5bf1-4fca-baf7-78934569ebaf" },
+  { n = 11, title = "Scout", mbid = "302abe6f-50e6-43b8-9d77-d1a9cc1aa43f" },
+  { n = 12, title = "Point Vicente", mbid = "daed5cf3-2390-471e-9005-d972de5410aa" },
+  { n = 13, title = "Wash", mbid = "746c92c2-6dd1-4a5f-b9da-595ac7239b7c" },
+  { n = 14, title = "Ice Cream Jeep", mbid = "ab8b9624-d47b-4e65-a783-d9e89049adfb" },
+  { n = 15, title = "Windjammer", mbid = "af9ce18b-8fbf-4d8f-9090-3cc58277fd37" },
+  { n = 16, title = "Mazurka", mbid = "856f3d6b-9a74-4ef8-b397-6e4f8b831f5f" },
+  { n = 17, title = "Removed", mbid = "02fd1f00-6e1d-4987-9589-917278782b60" },
+  { n = 18, title = "Hitch", mbid = "588799f1-4a56-405f-95f8-a7aaf968a5ec" },
+  { n = 19, title = "Stinging Nettle", mbid = "eccda5b6-1a16-4198-a68b-257fc04a1343" },
+]
+
+[[release]]
+mbid = "1be246ed-54cf-490d-a040-de7d0773cda0"
+title = "Stray"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Stray", mbid = "d32a31c0-79c2-440f-b648-5e7ddbd3b9cf" },
+  { n = 2, title = "Lacquer", mbid = "8e1e0503-da8c-4f01-87e2-dad73b2ea4b0" },
+  { n = 3, title = "Drape", mbid = "6981620f-fe7d-49b7-9fb5-d7f3b3e356f6" },
+]
+
+[[release]]
+mbid = "12036cff-0132-3172-9479-e857a19b3e37"
+title = "The Black Light"
+type = "album"
+date = "1998-05-18"
+tracks = [
+  { n = 1, title = "Gypsy's Curse", mbid = "288f18c3-f290-440a-b399-e763469e44c4" },
+  { n = 2, title = "Fake Fur", mbid = "20a6f21c-5734-4a8b-a010-6c6a7a12a0c5" },
+  { n = 3, title = "The Ride, Part II", mbid = "cc0ad679-9e47-452b-b311-3eddf0106baf" },
+  { n = 4, title = "Where Water Flows", mbid = "c394e9ef-9ac2-472d-9687-53f931953d78" },
+  { n = 5, title = "The Black Light", mbid = "1bfd46fe-1f5a-40f6-9e57-a29322ee989e" },
+  { n = 6, title = "Sideshow", mbid = "ccc5f270-208d-4bb9-af44-0b175ad4f81b" },
+  { n = 7, title = "Chach", mbid = "7ed61686-d7f5-452d-bd2d-39e31166c873" },
+  { n = 8, title = "Missing", mbid = "f2aeeae6-4f2a-4015-9242-c1520c2d72b7" },
+  { n = 9, title = "Minas de cobre (For Better Metal)", mbid = "394ffa80-503c-4399-84fe-8df2b90e2f98" },
+  { n = 10, title = "Over Your Shoulder", mbid = "291e98a6-7170-48bd-9695-1594af557490" },
+  { n = 11, title = "Vinegaroon", mbid = "1c532d19-3f89-44b6-8fb8-c393ffc6d470" },
+  { n = 12, title = "Trigger", mbid = "5ca2d44c-1b2c-4925-9d6f-57311e2c5f93" },
+  { n = 13, title = "Sprawl", mbid = "59dba947-a098-4ecb-b1d8-fe7f9e6102ba" },
+  { n = 14, title = "Stray", mbid = "d5049d58-6ff9-4a2c-bb78-788a8d58dded" },
+  { n = 15, title = "Old Man Waltz", mbid = "8ff4bcc1-c1c5-41e9-853d-6748360dedba" },
+  { n = 16, title = "Bloodflow", mbid = "cafc3879-e0f8-4fa7-8ea1-272be269953c" },
+  { n = 17, title = "Frontera", mbid = "bd7c1bcc-f2fa-4ce6-ae0e-ef970b84040d" },
+]
+
+[[release]]
+mbid = "984b2953-09a9-3bc5-b9b9-058048a29d06"
+title = "98 - 99 Road Map"
+type = "ep"
+date = "1999"
+tracks = [
+  { n = 1, title = "El Morro", mbid = "9408a347-0065-466e-abbb-4a7746117557" },
+  { n = 2, title = "Minas De Cobre (acoustic version)", mbid = "2687973d-bd51-4fb2-8728-929edb05ffe3" },
+  { n = 3, title = "Man Goes Where Water Flows", mbid = "cbce8f28-a136-4150-8a0a-8f7d9f83e1c5" },
+  { n = 4, title = "Glowing Heart of the World", mbid = "85bf9b42-185a-4c02-a974-17a4e2a2c467" },
+  { n = 5, title = "Too Much Sprawl", mbid = "aa7a5ef0-f1c1-49b9-8eb7-08f0f294d24a" },
+  { n = 6, title = "Rollbar", mbid = "5b376694-28ec-4fa8-9b2d-9213be75f33d" },
+]
+
+[[release]]
+mbid = "ed6b6a4d-ce8c-4c1e-855c-b134d4cda304"
+title = "The Ride (Pt. 2)"
+type = "single"
+date = "1999-04-19"
+tracks = [
+  { n = 1, title = "The Ride (Pt. 2)", mbid = "cc0ad679-9e47-452b-b311-3eddf0106baf" },
+  { n = 2, title = "Minas de Cobre (Extend-O-mix)", mbid = "d813e2e2-95cd-4db6-a882-b2ebf9719a0d" },
+  { n = 3, title = "Minas de Cobre (Spatial mix)", mbid = "ff47f1ea-2e41-48ba-b412-8a658dee5d0c" },
+  { n = 4, title = "Minas de Cobre (acoustic version)", mbid = "4c9a84ca-2067-4c3a-9195-e27cd21efe60" },
+]
+
+[[release]]
+mbid = "be502112-4fbd-397a-ae81-3dd969676471"
+title = "Ballad of Cable Hogue"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Ballad of Cable Hogue", mbid = "f281e9c3-9c8c-4d97-a5ff-ca0e5ca2e64a" },
+  { n = 2, title = "The Crystal Frontier", mbid = "5374ece5-c596-4d17-b3c8-8c4ced4bd0b3" },
+  { n = 3, title = "Hard Hat", mbid = "77724ad4-1653-4f6a-948e-b06503504562" },
+]
+
+[[release]]
+mbid = "35d1ccc0-1e42-3c71-a26a-47e1b9358be8"
+title = "Travelall"
+type = "album"
+date = "2000"
+tracks = [
+  { n = 1, title = "The Waves Crashing Silently Through the Dominator’s Hull", mbid = "11c72720-977a-4cdb-ae6f-16d921023289" },
+  { n = 2, title = "Fine Patina", mbid = "065212d3-88db-480c-bee2-05dc2653928c" },
+  { n = 3, title = "The Night Is Upon Us", mbid = "afe850b9-f72b-451b-aa06-71281454b300" },
+  { n = 4, title = "Cachaça", mbid = "a8d5b5fe-7c11-4184-91b5-3e51c943eee8" },
+  { n = 5, title = "Driving to Get Away", mbid = "dc7117d9-ee1a-4406-b392-2f0f19c9cd71" },
+  { n = 6, title = "Comes With a Smile", mbid = "0568ef28-281c-478b-be60-02e2a8752e7c" },
+  { n = 7, title = "Lunada Lando", mbid = "c159cd06-8165-4153-9ea6-765e727b8994" },
+  { n = 8, title = "Piker Sam", mbid = "0cf4620c-304e-4084-a3fc-d006c765dd52" },
+  { n = 9, title = "Flat Handed and on the Wing", mbid = "ce3b10fd-4871-4f13-b966-80e77d450687" },
+]
+
+[[release]]
+mbid = "34e3cbd6-649a-39b4-b5db-e2d4c857eb3c"
+title = "Hot Rail"
+type = "album"
+date = "2000-05-08"
+tracks = [
+  { n = 1, title = "El picador", mbid = "d39bb193-113d-4215-9487-ebd865ad75e7" },
+  { n = 2, title = "Ballad of Cable Hogue", mbid = "f281e9c3-9c8c-4d97-a5ff-ca0e5ca2e64a" },
+  { n = 3, title = "Ritual Road Map", mbid = "33a7d2d1-edbc-47a2-9d4f-ad1b583c440d" },
+  { n = 4, title = "Fade", mbid = "37786ea2-badd-4674-bf6b-18c11fe7bde0" },
+  { n = 5, title = "Untitled III", mbid = "1db2d46e-1a42-4c59-8737-92bacc2ca986" },
+  { n = 6, title = "Sonic Wind", mbid = "cb4d6dd3-9fad-406c-a7dd-76db4efab191" },
+  { n = 7, title = "Muleta", mbid = "593703fd-9e78-4524-a883-da92810105e2" },
+  { n = 8, title = "Mid-Town", mbid = "2b378838-ea80-49cf-9d71-814e2cb08dfd" },
+  { n = 9, title = "Service and Repair", mbid = "3f64bc6d-dffd-45da-95b5-58cd3a40ca86" },
+  { n = 10, title = "Untitled II", mbid = "75b083db-59a7-4763-a80f-ca95c8de603b" },
+  { n = 11, title = "Drenched", mbid = "3c5b7641-3136-454e-8e1d-457bcd5de013" },
+  { n = 12, title = "16 Track Scratch", mbid = "a84514a2-2a49-4b15-827b-ff951d66a329" },
+  { n = 13, title = "Tres avisos", mbid = "b4383bcf-99aa-4a5e-bcb7-d3de2425e127" },
+  { n = 14, title = "Hot Rail", mbid = "01bfed77-9093-427b-9767-ed79cd6999ba" },
+]
+
+[[release]]
+mbid = "80c1cb16-bf90-3b5e-a849-861ebffb53ae"
+title = "Service & Repair"
+type = "single"
+date = "2000-09-25"
+tracks = [
+  { n = 1, title = "Service & Repair", mbid = "3f64bc6d-dffd-45da-95b5-58cd3a40ca86" },
+  { n = 2, title = "Crooked Road and the Briar", mbid = "53836733-a587-45b8-bde5-fc5ec9b400a0" },
+  { n = 3, title = "Banderilla", mbid = "ac237a7e-d89b-4459-971b-9f85eaf9c7df" },
+]
+
+[[release]]
+mbid = "14064ebe-550f-4cc0-bade-73df5d10ee10"
+title = "Aerocalexico"
+type = "album"
+date = "2001"
+tracks = [
+  { n = 1, title = "All the Pretty Horses", mbid = "7992c95b-1abf-4e05-a49d-14c1b0d2e17b" },
+  { n = 2, title = "Blacktop", mbid = "0fa6a66d-f48e-4efc-938c-0f5ef5a39475" },
+  { n = 3, title = "’64 Ford Fairlane", mbid = "8a2c9bb2-1631-4468-a19a-c49b2f00521a" },
+  { n = 4, title = "Transistorites", mbid = "3b0f95d8-92fc-4629-93cd-704861018ad1" },
+  { n = 5, title = "Clothes of Sand", mbid = "f84bcd2a-d720-4de3-8fbd-466c7a7dd1f9" },
+  { n = 6, title = "Train of Thought", mbid = "a0e520c0-fc21-4fbf-93b1-2efbc5140ffa" },
+  { n = 7, title = "Redwood", mbid = "2eddf5b1-87a2-482e-a8d2-6b9537e10707" },
+  { n = 8, title = "Gift X-Change", mbid = "b821f5f5-3683-49ca-ae5b-bd890c86a359" },
+  { n = 9, title = "TV Room", mbid = "0ab73838-2f78-47f0-a8bc-9697f11cef2f" },
+  { n = 10, title = "Inch by Inch", mbid = "00e4ffb4-6ddf-41f6-b84f-a27c803cf05c" },
+  { n = 11, title = "Reverse Ranch", mbid = "41eef78e-4994-4bbc-a7dc-c821520071f3" },
+  { n = 12, title = "Crooked Road and the Briar", mbid = "0eb7999f-0a20-449d-a2e3-5ee68e9baa2e" },
+  { n = 13, title = "Impromptu for Piano and Contrabass", mbid = "74c1ac5f-5c98-49a0-b225-32dc8fa28d09" },
+  { n = 14, title = "6 White Horses", mbid = "f951b00d-4b7a-4cca-946e-328b01b45a00" },
+  { n = 15, title = "Sequoia", mbid = "ee768003-6269-4c61-9b17-d69b01e8ad50" },
+  { n = 16, title = "Crawlspace", mbid = "f57eeb1a-3e75-4cf5-8305-7c216a2126a4" },
+  { n = 17, title = "Humano (instrumental)", mbid = "18742b5a-35ef-4f81-8178-14720489c082" },
+  { n = 18, title = "At the Table He Sat Alone With a Glass and Bottle of Wine", mbid = "51df45e1-c26f-462a-9525-e834a703abec" },
+  { n = 19, title = "AZ Room", mbid = "1fb9fed0-0191-4f07-80b9-154882bfb236" },
+  { n = 20, title = "Bees and the Flies", mbid = "2323572e-8917-42d6-9a5d-34d42f1dfabe" },
+  { n = 21, title = "Crystal Frontier (original version)", mbid = "5374ece5-c596-4d17-b3c8-8c4ced4bd0b3" },
+  { n = 22, title = "Hush A-Bye / Singing Wind Ranch", mbid = "eced44e4-f1cb-4f7e-b932-b9f51aae9665" },
+]
+
+[[release]]
+mbid = "af23364e-a3f6-3de2-b7be-f8ad5614e9f7"
+title = "Crystal Frontier"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Crystal Frontier", mbid = "e7cbcc74-d6de-49d1-ad23-9e3294a7474d" },
+  { n = 2, title = "Crystal Frontier (Buscemi’s vocal mix)", mbid = "e7ebd441-5b88-4917-8a99-786dd3cb28cd" },
+]
+
+[[release]]
+mbid = "b24a97cc-12f1-3361-a0e7-652ad874016c"
+title = "Even My Sure Things Fall Through"
+type = "ep"
+date = "2001-05-22"
+tracks = [
+  { n = 1, title = "Sonic Wind (instrumental mix)", mbid = "99d8d8cf-bf62-4f7f-8287-b30450a7429d" },
+  { n = 2, title = "Crystal Frontier (Widescreen version)", mbid = "9838c5c9-c688-44cd-8d04-f2ee026dce33" },
+  { n = 3, title = "Untitled III (remix by Two Loneswordsmen)", mbid = "b9a8aae4-3afc-4827-b5a6-abdeb88a7cd4" },
+  { n = 4, title = "Chanel No. 5", mbid = "0e037cb7-d114-4606-ab25-fd17606c69df" },
+  { n = 5, title = "Banderilla", mbid = "19b8c2c0-aee4-46a5-98c7-bff97bb57011" },
+  { n = 6, title = "Crooked Road and the Briar", mbid = "822f8c16-317e-4dee-b026-5f716524c728" },
+  { n = 7, title = "Crystal Frontier (acoustic version)", mbid = "64b9b3b0-94fe-467f-b4aa-5bbe8aa91f8c" },
+  { n = 8, title = "Blacktop", mbid = "0fa6a66d-f48e-4efc-938c-0f5ef5a39475" },
+  { n = 9, title = "'64 Ford Fairlane", mbid = "8a2c9bb2-1631-4468-a19a-c49b2f00521a" },
+  { n = 10, title = "Transistorites", mbid = "3b0f95d8-92fc-4629-93cd-704861018ad1" },
+  { n = 11, title = "Piker Sam", mbid = "0cf4620c-304e-4084-a3fc-d006c765dd52" },
+]
+
+[[release]]
+mbid = "592c7fb3-ecd8-3972-b0a9-0c93bce719ce"
+title = "Quattro (World Drifts In)"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Quattro (radio edit)", mbid = "e09ad7c4-84ec-42e0-9db4-ff7a4d3ada98" },
+  { n = 2, title = "Praskovia", mbid = "b1af2253-a79c-4f81-aa1c-fdf244116c2f" },
+  { n = 3, title = "Pampa", mbid = "fdbb4907-3afe-448d-8018-a43205497c70" },
+]
+
+[[release]]
+mbid = "a22417bc-7068-3caa-8572-52af24a486eb"
+title = "Feast of Wire"
+type = "album"
+date = "2003-02-10"
+spotify = "68iWmI9QJDOWxFxucdIFN3"
+tracks = [
+  { n = 1, title = "Sunken Waltz", mbid = "e196c775-9879-477f-9e80-7dc7d972db7d" },
+  { n = 2, title = "Quattro (World Drifts In)", mbid = "78cd5844-b4b0-4679-81fe-127f3124f587" },
+  { n = 3, title = "Stucco", mbid = "aff84091-3b28-4c22-ba9f-4afcd66303c0" },
+  { n = 4, title = "Black Heart", mbid = "993bb2ce-79b5-4937-be67-2e66934bf195" },
+  { n = 5, title = "Pepita", mbid = "90e78c94-006e-4735-869d-38e0f33ab489" },
+  { n = 6, title = "Not Even Stevie Nicks…", mbid = "554dab08-e0a5-4f72-a99d-3cf8188e3b96" },
+  { n = 7, title = "Close Behind", mbid = "52eceacc-fa44-400b-831c-52572a9094fb" },
+  { n = 8, title = "Woven Birds", mbid = "f1293591-7c53-4a93-9c0e-1009e5b0aabb" },
+  { n = 9, title = "The Book and the Canal", mbid = "551701cc-d0ee-45cc-bf7a-49d3e35fb43e" },
+  { n = 10, title = "Attack El Robot! Attack!", mbid = "5eabc5d2-ff9a-4282-9c01-215784cdbd0c" },
+  { n = 11, title = "Across the Wire", mbid = "227df862-9096-4c47-9d8d-0a19ddba77f4" },
+  { n = 12, title = "Dub Latina", mbid = "15bf8efe-afd5-470c-8991-7a49886d85b4" },
+  { n = 13, title = "Güero Canelo", mbid = "aada7d66-1183-4ace-af21-3612ed271601" },
+  { n = 14, title = "Whipping the Horse’s Eyes", mbid = "51dff611-7e83-4fac-a827-1f993231ab5b" },
+  { n = 15, title = "Crumble", mbid = "c442962d-020c-4278-99e4-67a004f5e28b" },
+  { n = 16, title = "No Doze", mbid = "c1e9cb14-c55b-4641-b472-5ddf590edd99" },
+]
+
+[[release]]
+mbid = "a634932d-a347-34e5-acb2-b0d1d87f684f"
+title = "Alone Again Or"
+type = "single"
+date = "2003-06-30"
+tracks = [
+  { n = 1, title = "Alone Again Or", mbid = "9408b8ce-9b95-4fb0-ac70-595d054a15c6" },
+  { n = 2, title = "Woven Birds (Cinematic Orchestra Remixico)", mbid = "64d280a9-d9ab-4047-94c6-9461668a8d69" },
+  { n = 3, title = "Convict Pool", mbid = "5730c7ee-a538-49a6-83e3-ee4f4687a29d" },
+  { n = 4, title = "Woven Birds (Stratus remix)", mbid = "11685d38-d852-40f9-8e4e-adf4825968c0" },
+]
+
+[[release]]
+mbid = "8bc7cb34-4e74-301d-969c-e750deea884c"
+title = "Convict Pool"
+type = "ep"
+date = "2004-04-06"
+spotify = "2OHPi5M4JlhCTlA5zzUXoq"
+tracks = [
+  { n = 1, title = "Alone Again Or", mbid = "9408b8ce-9b95-4fb0-ac70-595d054a15c6" },
+  { n = 2, title = "Convict Pool", mbid = "5730c7ee-a538-49a6-83e3-ee4f4687a29d" },
+  { n = 3, title = "Si Tu Disais", mbid = "57f80ef6-6d37-4ef3-9554-63775c0f6c76" },
+  { n = 4, title = "Corona", mbid = "0037970d-87b9-4dcd-ac69-661d31f8ff8c" },
+  { n = 5, title = "Praskovia", mbid = "e29ba5a1-0416-45f2-84fd-f6c3d6725bbe" },
+  { n = 6, title = "Sirena", mbid = "8e5f0818-8a44-465d-b4f7-73782dec980d" },
+]
+
+[[release]]
+mbid = "7ccefd83-25d4-3125-ad2b-6dc3e9986c50"
+title = "Black Heart"
+type = "single"
+date = "2004-04-19"
+tracks = [
+  { n = 1, title = "Black Heart (original version)", mbid = "993bb2ce-79b5-4937-be67-2e66934bf195" },
+  { n = 2, title = "Black Heart (Jazzanova’s White Soul Dub)", mbid = "24d5ef93-b649-47d4-8389-7eda856be057" },
+  { n = 3, title = "Attack El Robot! Attack! (… And How He Lost remix)", mbid = "6c45736a-f404-4354-a824-592e21a2462e" },
+  { n = 4, title = "Quattro (Gotan Project remix)", mbid = "1ad59c92-54f4-4aea-ab91-ef526ee99a7a" },
+  { n = 5, title = "Guero Canelo (Nortec mix by Panoptica)", mbid = "47b0b21e-6dae-463f-8a08-c80bbd92592c" },
+  { n = 6, title = "Pepito (iso68 remix)", mbid = "e9830bc1-b929-4fbf-9cc2-6546b4e6999c" },
+]
+
+[[release]]
+mbid = "72a2323b-8ad2-313d-a539-0d019d65e987"
+title = "The Book and the Canal"
+type = "album"
+date = "2005"
+tracks = [
+  { n = 1, title = "Half a Smidge", mbid = "f3150af8-c88d-42a3-868e-a53d0b5a0dc2" },
+  { n = 2, title = "What’s a Little Wait", mbid = "b6520982-d4b9-4c79-bae3-248083c49c9a" },
+  { n = 3, title = "Griptape", mbid = "ad22ff74-406c-4b06-ad4b-13d3bdf14c2e" },
+  { n = 4, title = "Muddy Meadow", mbid = "f91b781c-929e-40f0-b92d-5991b6603707" },
+  { n = 5, title = "Near the Woodpile", mbid = "800ba3fc-f111-4198-8018-7b637194a44b" },
+  { n = 6, title = "Unter unserem Himmel", mbid = "153fa1db-8a8d-464b-8602-6b5608fca29f" },
+  { n = 7, title = "Painted Over", mbid = "eed2128f-4dc2-463b-9a7d-bff974bf9f8a" },
+  { n = 8, title = "Electric Relay", mbid = "7f060f85-0186-4d83-84c7-4ce14d7af530" },
+  { n = 9, title = "Ghostwriter", mbid = "a77862fb-ffcd-4ef9-ac29-07399c9b3603" },
+  { n = 10, title = "Dredging", mbid = "84667700-0120-40ea-b7f6-4002a055e844" },
+  { n = 11, title = "Heavy With the Bass", mbid = "e2821689-5d52-4d5f-bc12-b547bee8de7f" },
+  { n = 12, title = "Arco Chato", mbid = "09a1d56a-1bd3-4ac4-b8fe-4f45f02363b1" },
+  { n = 13, title = "Break to Barranca", mbid = "fd08de0d-cea8-495d-8fb9-fa1c0e46303b" },
+  { n = 14, title = "Kiss and Tell", mbid = "ea93f430-773a-4a5d-8e9f-2e090c3181af" },
+  { n = 15, title = "In the Cut", mbid = "c0bef3a9-974a-4a30-acaf-364a0d8e2692" },
+  { n = 16, title = "Drag Storm Around", mbid = "e9fef9f9-ee1e-493e-9f9b-8d580c2db8df" },
+  { n = 17, title = "One Last Panoramic", mbid = "525a3b4e-0997-405c-ad96-c6bef6bb16ae" },
+]
+
+[[release]]
+mbid = "c705097d-438c-3033-ad29-a006588c761f"
+title = "In the Reins"
+type = "ep"
+date = "2005-09-12"
+spotify = "0s1mKAEcqr7od5xY3pZ921"
+tracks = [
+  { n = 1, title = "He Lays in the Reins", mbid = "bcbe06bf-ff3b-486b-adf1-b3680b002de9" },
+  { n = 2, title = "Prison on Route 41", mbid = "b0fdcd53-4c82-4556-863d-dbc08ddf0a1b" },
+  { n = 3, title = "A History of Lovers", mbid = "446e8121-bb6c-40fe-b686-8ad6f8c44ebf" },
+  { n = 4, title = "Red Dust", mbid = "d77eb73b-e5d5-45b8-8004-c1793a39a99a" },
+  { n = 5, title = "Sixteen, Maybe Less", mbid = "2e6ade70-ba87-466e-aa96-5daaf7186166" },
+  { n = 6, title = "Burn That Broken Bed", mbid = "acd21685-27cc-4eef-8572-8765a53e9932" },
+  { n = 7, title = "Dead Man’s Will", mbid = "56f0f260-c475-438c-afe2-5e788b3e2bdc" },
+]
+
+[[release]]
+mbid = "cedd9e0d-c220-300f-8f27-2e5eec451d1f"
+title = "Garden Ruin"
+type = "album"
+date = "2006-03-31"
+tracks = [
+  { n = 1, title = "Cruel", mbid = "8f1f58e8-6e29-4bd7-970a-3f8b1f3a3fb2" },
+  { n = 2, title = "Yours and Mine", mbid = "cb3ffc0e-0f8d-465f-a260-f276e1139c79" },
+  { n = 3, title = "Bisbee Blue", mbid = "ba493eb4-6bbf-45f0-b673-34f44fc762b1" },
+  { n = 4, title = "Panic Open String", mbid = "72cd3885-431a-486a-963c-63ea30885125" },
+  { n = 5, title = "Letter to Bowie Knife", mbid = "d325a19e-b25a-4f99-bfb4-2e952cf545a0" },
+  { n = 6, title = "Roka", mbid = "773abaf9-e970-4ebd-8280-db0f838e3f90" },
+  { n = 7, title = "Lucky Dime", mbid = "7aa335da-9613-4ba5-b427-98187bdaefe6" },
+  { n = 8, title = "Smash", mbid = "27af49e9-cf9d-417d-99ec-5bbba5c5f78c" },
+  { n = 9, title = "Deep Down", mbid = "db4d60ee-01e6-4ddf-b9f9-6e5e7a928c24" },
+  { n = 10, title = "Nom de Plume", mbid = "b7d62ea6-37dd-4544-864b-c1c4c2db8181" },
+  { n = 11, title = "All Systems Red", mbid = "57775ffd-abab-40bc-b85e-6e8d94e78bcd" },
+]
+
+[[release]]
+mbid = "e80046b7-f96d-44f8-81aa-5e94041956c8"
+title = "Bisbee Blue"
+type = "single"
+date = "2006-05-01"
+tracks = [
+  { n = 1, title = "Bisbee Blue", mbid = "ba493eb4-6bbf-45f0-b673-34f44fc762b1" },
+  { n = 2, title = "Lucky Dime (alternate version)", mbid = "17342b22-0d9a-4d28-86ae-880510d34847" },
+]
+
+[[release]]
+mbid = "36b8fd0f-7a22-42cb-a9c0-aae8e04cfaf0"
+title = "Cruel"
+type = "single"
+date = "2006-08-16"
+tracks = [
+  { n = 1, title = "Cruel", mbid = "8f1f58e8-6e29-4bd7-970a-3f8b1f3a3fb2" },
+  { n = 2, title = "Deep Down (acoustic version)", mbid = "a16bbb20-420b-4192-b46d-ff39a1c51021" },
+]
+
+[[release]]
+mbid = "9df6406e-fb3f-3b0a-9859-74f98df1ef4c"
+title = "Guns of Brixton / Interior of a Dutch House"
+type = "single"
+date = "2006-11-13"
+tracks = [
+  { n = 1, title = "The Guns of Brixton", mbid = "e3fc932e-c0cd-434b-96da-b9ae98bec3e3" },
+  { n = 2, title = "Interior of a Dutch House", mbid = "6fcb9c14-8c55-4022-ac07-5e994fb01872" },
+]
+
+[[release]]
+mbid = "273b663d-692f-3ab1-b8c7-5ac25274056e"
+title = "Tool Box"
+type = "album"
+date = "2007-06-26"
+tracks = [
+  { n = 1, title = "Above the Branch", mbid = "0d6520c3-8176-4cb4-8506-73743943ec64" },
+  { n = 2, title = "When Bellows Crack", mbid = "f3ed9120-ebe2-4807-b98e-fd89a8dfe546" },
+  { n = 3, title = "Lo-Fi Moon", mbid = "5df6f7e8-a4af-4b93-af6b-67d27bbe60dc" },
+  { n = 4, title = "Barcelona Mosaico", mbid = "c3af69e4-2fdf-4c41-89a9-6502ee5cf17e" },
+  { n = 5, title = "Hair Like Spanish Moss", mbid = "34672604-556d-4fda-a1fb-ea8ea7b6ce6e" },
+  { n = 6, title = "Vinyassa", mbid = "1abae9ba-d62f-45f7-a8f4-b3a9d2685876" },
+  { n = 7, title = "The News About William", mbid = "3e539bba-3bb6-4f1c-bbd7-29ed10fdf44e" },
+  { n = 8, title = "The Road Back", mbid = "a796838b-a867-41f7-a964-05f6cb13c1f8" },
+  { n = 9, title = "In the Quiet", mbid = "03259eed-6db1-42c7-abc8-8a7e30e16c9b" },
+  { n = 10, title = "Maria Chuchena", mbid = "42d58687-684e-4864-a0c4-e5b046f5df43" },
+  { n = 11, title = "Waitomo", mbid = "59c19216-acd0-4b79-8a4e-21bc32941ad6" },
+  { n = 12, title = "Detroit Steam", mbid = "b2109524-30d6-452e-bcac-9c82f4c1af8b" },
+  { n = 13, title = "Departure in F Minor", mbid = "5765f062-48c7-43a4-8f5f-2be5fd0761be" },
+  { n = 14, title = "When Only the Ashes Are Left", mbid = "8b8c2c5a-ef0b-42c5-b106-1eff549c4c57" },
+]
+
+[[release]]
+mbid = "ed7717c8-3dc8-48cc-af85-5e1532a2d5e0"
+title = "Two Silver Trees"
+type = "single"
+date = "2008-07-22"
+tracks = [
+  { n = 1, title = "Two Silver Trees", mbid = "5720e786-bdfa-4228-99cf-76dc629ec564" },
+]
+
+[[release]]
+mbid = "07cba9b4-47a0-3484-8c06-d3823c9e9093"
+title = "Carried to Dust"
+type = "album"
+date = "2008-09-08"
+spotify = "4RGeyUZ3s0Sv6EVak8KoTX"
+tracks = [
+  { n = 1, title = "Victor Jara’s Hands", mbid = "fafe4435-3289-4440-9da4-3622a0f4b1cd" },
+  { n = 2, title = "Two Silver Trees", mbid = "5720e786-bdfa-4228-99cf-76dc629ec564" },
+  { n = 3, title = "The News About William", mbid = "8c5b37cd-5d9a-4126-8987-103ebd394f78" },
+  { n = 4, title = "Sarabande in Pencil Form", mbid = "15eb51c8-3f73-4f49-88c8-b156aa33c495" },
+  { n = 5, title = "Writer’s Minor Holiday", mbid = "3405776e-ca65-40bb-bbab-7233aa6be2bd" },
+  { n = 6, title = "Man Made Lake", mbid = "fc509349-3d4f-40e9-87b0-d4e6e9ed7039" },
+  { n = 7, title = "Inspiración", mbid = "3b9e4347-ec98-4cb5-bc94-bb10ceffb162" },
+  { n = 8, title = "House of Valparaiso", mbid = "9566b0f7-7cd7-472e-8342-96a2821fd55b" },
+  { n = 9, title = "Slowness", mbid = "f0ee57cd-73a0-45e9-91b1-4926300a9522" },
+  { n = 10, title = "Bend to the Road", mbid = "3637f150-02bd-4cfb-8f42-412833e4b7c4" },
+  { n = 11, title = "El Gatillo (Trigger Revisited)", mbid = "533e9404-896e-4cbf-a4f8-d5d8c0f438c2" },
+  { n = 12, title = "Fractured Air (Tornado Watch)", mbid = "82ef9052-ea4a-414e-82e5-7de28c3c7b97" },
+  { n = 13, title = "Falling From Sleeves", mbid = "d262f45c-5dd6-4e7c-95d3-3ce2eb2b5166" },
+  { n = 14, title = "Red Blooms", mbid = "09edf75a-ccc5-4a67-9638-2a2ea144b01d" },
+  { n = 15, title = "Contention City", mbid = "a42e343b-6127-4621-af63-3450399ede12" },
+]
+
+[[release]]
+mbid = "da27a06b-d678-4b57-8dad-8f4d8dc7ec82"
+title = "Frank's Tavern"
+type = "single"
+date = "2009-04-28"
+tracks = [
+  { n = 1, title = "Frank's Tavern", mbid = "ab062390-ddd2-4051-a6a7-9c0b7e400dcd" },
+]
+
+[[release]]
+mbid = "ace57366-819d-4f48-b74b-243cf26b3106"
+title = "Circo"
+type = "album"
+date = "2010-11-18"
+tracks = [
+  { n = 1, title = "Gran Circo Mexico", mbid = "55d23f1b-c321-4bd3-badc-b32a6e3bf1b4" },
+  { n = 2, title = "Casitas Mexicanas", mbid = "2cdb77f5-9390-4af1-bbc2-b5ddc3aae2e5" },
+  { n = 3, title = "Boletos", mbid = "9d338ee9-bf1b-405c-909e-3c5037c17222" },
+  { n = 4, title = "Moises en cadenas", mbid = "3edf9b35-5d93-41b0-89e3-e793461bd4c4" },
+  { n = 5, title = "Dueto de Ivonne y Tino", mbid = "de8d0861-999f-402a-9815-4c4e277ac980" },
+  { n = 6, title = "Los que se quedan", mbid = "e7315c5b-50e0-4b39-81eb-07e057e42c4d" },
+  { n = 7, title = "Naydelin", mbid = "dc88ace7-205e-4837-aea2-278d0af09780" },
+  { n = 8, title = "Tiempo de lluvia", mbid = "60807001-3721-411b-b682-5b3ad7f7acde" },
+  { n = 9, title = "Globo de la muerte", mbid = "3385ff99-f28b-4715-99b6-4e4d92d0e663" },
+  { n = 10, title = "Camacos", mbid = "2d6fec52-4ffd-4cd3-906d-bc08a08afd82" },
+  { n = 11, title = "El escape del circo", mbid = "13df64ef-980c-4f14-8646-77d469611f48" },
+  { n = 12, title = "Don Gilberto", mbid = "33e8349d-0f64-4bc6-8e19-74a6e1696855" },
+  { n = 13, title = "Los Suenos de Tino", mbid = "3fc4fcc7-8459-44db-998c-d022f9987cb4" },
+  { n = 14, title = "Entrenandos a los tigres", mbid = "8671b2d3-1878-4083-8985-c156f0b6af55" },
+  { n = 15, title = "Perseverancia", mbid = "ad014a6f-fa32-46ea-b9e3-02333cd6311e" },
+  { n = 16, title = "Dona Lupe", mbid = "eb0eab9e-5061-4771-849d-dc00d0c23bc9" },
+  { n = 17, title = "Cuerdas astrales", mbid = "1217dba7-2a61-4a7a-ba96-2f116a606f90" },
+  { n = 18, title = "Dueto de Ivonne y Tino II", mbid = "b46298a4-3f21-48dc-9895-ceae8b2b4c7b" },
+  { n = 19, title = "Vals escrito a mano", mbid = "0db337d6-e964-4764-8c86-230cf8637e18" },
+  { n = 20, title = "La carga hace andar al burro", mbid = "ec90da10-70d5-4709-86d4-f633b7eeba47" },
+  { n = 21, title = "La familia Ponce", mbid = "12502921-dff1-4246-8f18-3d2796d7118a" },
+  { n = 22, title = "El hervir rojo", mbid = "f786ced9-8a47-4892-b797-016b6b0caaa5" },
+  { n = 23, title = "Amor adolescente", mbid = "865ad6ec-e3f9-484e-9653-c55f1229f257" },
+  { n = 24, title = "La cuerda floja", mbid = "7d2e49a7-382b-452e-a486-b6e1b1f07d8a" },
+  { n = 25, title = "Pulsadas en los semaforos", mbid = "2310b76f-cd94-4486-9372-9800ebd4f858" },
+  { n = 26, title = "El cemeterio", mbid = "89ad1e2d-93d6-4210-99e9-8c85b10dade0" },
+  { n = 27, title = "Escrito en la piedra", mbid = "89b93727-ce3a-4303-bc1a-2abeffa5bfbf" },
+  { n = 28, title = "Mi vida y el circo", mbid = "add00ba6-2b46-4f5c-ac81-45a6da116071" },
+]
+
+[[release]]
+mbid = "f8871957-fefc-4e52-9e27-7813969a292c"
+title = "The Guard"
+type = "album"
+date = "2011-08-21"
+spotify = "2IpoU4LgbHS92PkW3QHlKs"
+tracks = [
+  { n = 1, title = "Boyle Gets Dressed", mbid = "15b91526-2215-46a1-bbbb-74a72d0bb1f0" },
+  { n = 2, title = "Boyle and McBride Discuss Motives", mbid = "9618d500-0317-4979-82b0-8f118293bc66" },
+  { n = 3, title = "Eugene Wheels Past", mbid = "5af8ca0c-9e2f-4ae7-99a7-38887cd78b77" },
+  { n = 4, title = "Bourbon in the Jar", mbid = "fef629b5-34fa-41b9-8dfc-7e7df0853ebf" },
+  { n = 5, title = "Black Car, Black Night", mbid = "be202428-caf2-495e-ae57-2046dd8048eb" },
+  { n = 6, title = "Tap at Cornell’s Window", mbid = "301fb7a6-8509-47a0-a723-cdbbe5a68c09" },
+  { n = 7, title = "Into the West", mbid = "4362b713-5de4-4858-a30d-7d38d7bdf907" },
+  { n = 8, title = "Boyle Swims Ashore", mbid = "91fed6a5-26ed-47f2-bc75-b6ed913c08e4" },
+  { n = 9, title = "All in a Day’s Work", mbid = "ac3c3b39-811e-4621-b70e-a871169a566e" },
+  { n = 10, title = "McBride’s Car Abandoned", mbid = "c08efdf4-edcc-4e92-b114-e4ae4092411c" },
+  { n = 11, title = "Malice Aforethought", mbid = "13b9c88b-779f-4935-b2b1-6213c4b6a36b" },
+  { n = 12, title = "Hanley’s Bar", mbid = "77b0f14c-d3d2-4494-9026-8f22e8fd727e" },
+  { n = 13, title = "Meeting by the Sea", mbid = "555e4e1b-8f38-4a2b-8e37-2d84d0faa2bd" },
+  { n = 14, title = "From Beyond", mbid = "ac6ab97f-b60e-4b06-bdaa-a02b30fa88ad" },
+  { n = 15, title = "I Like Sharks", mbid = "6fedb67f-bdec-4d4c-b3b1-f92c6981fdc0" },
+  { n = 16, title = "Boot Full of Guns", mbid = "0acf844d-470d-4b2c-b1cd-8f13045d7353" },
+  { n = 17, title = "Good to Go", mbid = "2425541a-fc0e-4033-81c8-74348fa9b247" },
+  { n = 18, title = "Everett’s Goodbye", mbid = "4fa29882-1948-4a3c-b465-799a035e0d7e" },
+  { n = 19, title = "Boyle Ready for Action", mbid = "3f428e2c-edd8-455b-9801-5cf043cc61b2" },
+  { n = 20, title = "Leaving Gabriela", mbid = "900309c3-20a2-48cf-bfe6-3dd0d6c70599" },
+  { n = 21, title = "Down to Two", mbid = "739db434-f738-4761-bca0-a58aaab32621" },
+  { n = 22, title = "Firestorm of Impossible Odds", mbid = "4fc9aef3-0ac8-4e4f-ab97-b74dd0a760a3" },
+  { n = 23, title = "Beautiful Fucking Day", mbid = "ece65b11-cc1c-4f35-ab93-6b9be8baf3dc" },
+]
+
+[[release]]
+mbid = "9d1cc7ba-87b7-4066-99d2-115069d04ec1"
+title = "Algiers"
+type = "album"
+date = "2012-09-07"
+tracks = [
+  { n = 1, title = "Epic", mbid = "30fdbf50-8557-4887-b7f6-14895dea4aa2" },
+  { n = 2, title = "Splitter", mbid = "5dbff12b-780c-453b-a3ef-253d14ac250d" },
+  { n = 3, title = "Sinner in the Sea", mbid = "c4487c0b-8d9b-4660-96b7-2986aab4a654" },
+  { n = 4, title = "Fortune Teller", mbid = "7c5cd0fd-d957-4f65-a6d7-fab0aca6e764" },
+  { n = 5, title = "Para", mbid = "1e5c624a-570d-4b12-9d34-42b497799cb4" },
+  { n = 6, title = "Algiers", mbid = "0bba57c5-2c92-47b9-ab69-d924ebe67f55" },
+  { n = 7, title = "Maybe on Monday", mbid = "5403cb37-83df-4d0b-af77-a83f31213d80" },
+  { n = 8, title = "Puerto", mbid = "34adf94c-1696-4593-9dd8-703c53824bc1" },
+  { n = 9, title = "Better and Better", mbid = "324b8de6-3ecf-442e-8798-2bd77ca8a81c" },
+  { n = 10, title = "No te vayas", mbid = "3a513941-5009-4601-8b5f-e51f55667778" },
+  { n = 11, title = "Hush", mbid = "3b34acf9-cfe3-40ba-936d-232aaebef7b8" },
+  { n = 12, title = "The Vanishing Mind", mbid = "63cd01f4-b4ea-4ed9-9a5a-1f3b92ec7c21" },
+  { n = 13, title = "Dead Moon", mbid = "4fad6972-494a-4367-9f0e-42b715b16903" },
+  { n = 14, title = "La Maqunina", mbid = "35514e1a-7495-4caa-9747-104678bef6d3" },
+  { n = 15, title = "Ghost of a River", mbid = "6fc17d2e-ddf0-4957-b3b6-fbcb87aeed2b" },
+]
+
+[[release]]
+mbid = "1381c2ab-f74c-48ed-9055-b9c8337364b0"
+title = "Maybe on Monday"
+type = "ep"
+date = "2013-06-13"
+tracks = [
+  { n = 1, title = "Maybe on Monday (alternate version)", mbid = "60255490-983a-4697-94fd-36fd6fbd1c17" },
+  { n = 2, title = "The Walls Came Down", mbid = "acb6d85d-64f1-414d-97a7-06ef98d0fee2" },
+  { n = 3, title = "Shabby Doll", mbid = "000254e6-9285-4fcb-b5c5-0565f42487be" },
+  { n = 4, title = "Unsatisfied", mbid = "3fe2bb0f-d200-45e7-915e-ad7488cde08c" },
+  { n = 5, title = "Maybe on Monday (demo version)", mbid = "41c622d2-3922-4325-8b50-0436a82ebf7d" },
+]
+
+[[release]]
+mbid = "eec871d1-c5fd-4495-b35b-e2b687f39e92"
+title = "Cumbia de Donde"
+type = "single"
+date = "2015-01-30"
+tracks = [
+  { n = 1, title = "Cumbia de Donde", mbid = "ed9ba737-f231-4fac-af25-91849eba8ce4" },
+  { n = 2, title = "Worn Right Thru", mbid = "24ef4f32-3a14-4df3-a392-63b4f7380532" },
+]
+
+[[release]]
+mbid = "ce81622a-5696-4042-945a-1367848ca34a"
+title = "Edge of the Sun"
+type = "album"
+date = "2015-04-10"
+tracks = [
+  { n = 1, title = "Falling From the Sky", mbid = "500838e5-80e8-4cbc-a42e-7e030ab46176" },
+  { n = 2, title = "Bullets & Rocks", mbid = "fafd2302-7f36-4149-9299-7c7eee14d8bc" },
+  { n = 3, title = "When the Angels Played", mbid = "1226b7a2-e8fe-4f24-8586-dad1269764f0" },
+  { n = 4, title = "Tapping on the Line", mbid = "d71badc9-4fa4-4eb2-8fd1-065cef44c1e6" },
+  { n = 5, title = "Cumbia de Donde", mbid = "ed9ba737-f231-4fac-af25-91849eba8ce4" },
+  { n = 6, title = "Miles from the Sea", mbid = "bdac38f7-d932-4cd8-9006-4f95076f0cdf" },
+  { n = 7, title = "Coyoacán", mbid = "01a7675f-6719-4294-9548-9535f57424af" },
+  { n = 8, title = "Beneath the City of Dreams", mbid = "a91984a2-cdd4-47d7-be5c-71b8c8c2aef1" },
+  { n = 9, title = "Woodshed Waltz", mbid = "1e2b7a76-a432-4fde-aa58-16920a15014d" },
+  { n = 10, title = "Moon Never Rises", mbid = "1d488c35-08aa-4971-a8a7-f63ed84d647f" },
+  { n = 11, title = "World Undone", mbid = "589b4793-2c8c-4307-850a-52cced4f4a79" },
+  { n = 12, title = "Follow the River", mbid = "bf52a15c-749c-4f14-baf7-b5b11944c0f8" },
+]
+
+[[release]]
+mbid = "23e55da7-a342-4346-aac1-8b8643c61635"
+title = "Roll Tango"
+type = "single"
+date = "2016-04-30"
+tracks = [
+  { n = 1, title = "Roll Tango (Moscoman remix)", mbid = "dc3ef08f-6f82-4907-aafb-f7738fab5f10" },
+]
+
+[[release]]
+mbid = "9cd058a3-587d-4b66-a36e-a3d7c2e8c99c"
+title = "Under the Wheels"
+type = "single"
+date = "2018-01-16"
+spotify = "0CDNUSfY7cpywpM2gmyP5p"
+tracks = [
+  { n = 1, title = "Under the Wheels", mbid = "4b004235-a09e-4cbc-9d98-b19d216fd4dd" },
+]
+
+[[release]]
+mbid = "242a4265-9d26-4cac-8af6-a01cf8faf8d3"
+title = "The Thread That Keeps Us"
+type = "album"
+date = "2018-01-26"
+tracks = [
+  { disc = 1, n = 1, title = "End of the World With You", mbid = "3d80f01d-3fad-45c2-b155-b6f7d4ed20a4" },
+  { disc = 1, n = 2, title = "Voices in the Field", mbid = "168047cc-e1bb-48ce-ae93-41f4f825039d" },
+  { disc = 1, n = 3, title = "Bridge to Nowhere", mbid = "875ea7e2-42e0-464d-856a-fb5fea994e45" },
+  { disc = 1, n = 4, title = "Spinball", mbid = "6f72a2db-40f4-472b-a087-19c0dfebdb25" },
+  { disc = 1, n = 5, title = "Under the Wheels", mbid = "4b004235-a09e-4cbc-9d98-b19d216fd4dd" },
+  { disc = 1, n = 6, title = "The Town & Miss Lorraine", mbid = "35c3011b-b839-4279-9980-a07eacaa3255" },
+  { disc = 1, n = 7, title = "Flores y tamales", mbid = "7334fdc8-0569-4a7f-96be-9e17d672c2bc" },
+  { disc = 1, n = 8, title = "Another Space", mbid = "87a8fb72-3d9a-47af-8087-5959e95babb0" },
+  { disc = 1, n = 9, title = "Unconditional Waltz", mbid = "bcdfbdc5-35f1-436e-ab87-4a8493cc69cf" },
+  { disc = 1, n = 10, title = "Girl in the Forest", mbid = "e7c56056-119a-4736-9205-37577b19b9d4" },
+  { disc = 1, n = 11, title = "Eyes Wide Awake", mbid = "73f1eb8e-43c7-4dd4-99ac-a986e62a531d" },
+  { disc = 1, n = 12, title = "Dead in the Water", mbid = "031188f4-9a09-458c-93d4-a00e5fa773d8" },
+  { disc = 1, n = 13, title = "Shortboard", mbid = "80cd5512-a41c-4958-9c62-d05d0c7ee1fd" },
+  { disc = 1, n = 14, title = "Thrown to the Wild", mbid = "7d072d12-43bb-46ac-bc23-073428beb419" },
+  { disc = 1, n = 15, title = "Music Box", mbid = "7e8e37b7-0436-4cc4-9b0c-aaa459a15821" },
+  { disc = 2, n = 1, title = "Longboard", mbid = "4e96dede-c2cc-4323-a6e5-995470acacfe" },
+  { disc = 2, n = 2, title = "Luna Roja", mbid = "a9f299fc-2dcd-4c48-94b9-4dc07d7ef44b" },
+  { disc = 2, n = 3, title = "Curse of the Ride", mbid = "d8b2a2a3-5e03-4db8-ac75-3ff3b7edaa1f" },
+  { disc = 2, n = 4, title = "Inside the Energy Field", mbid = "7cbc7a87-8d55-4e0a-a545-a926fa226dfc" },
+  { disc = 2, n = 5, title = "Lost Inside", mbid = "67e704c1-bb36-48ab-b0c9-b097433852f5" },
+  { disc = 2, n = 6, title = "End of the Night", mbid = "8da126bf-5393-4fd0-ad97-4f40882db4a9" },
+  { disc = 2, n = 7, title = "Dream on Mount Tam", mbid = "ec809f55-78fe-45c1-941a-bf27ea033375" },
+]
+
+[[release]]
+mbid = "04f8be25-b8f4-4104-84a7-8144266e5d83"
+title = "Father Mountain"
+type = "single"
+date = "2019-03-21"
+spotify = "4UpFlmmv7tnZ9qXhWpS82s"
+tracks = [
+  { n = 1, title = "Father Mountain", mbid = "3011da49-1cbb-47be-aadc-127d52d43c7d" },
+]
+
+[[release]]
+mbid = "fb59c066-7187-4a8c-a866-2b34b10bc98d"
+title = "Years to Burn"
+type = "album"
+date = "2019-06-14"
+spotify = "3InGlpjjfAvSi7fa7Vkuf0"
+tracks = [
+  { n = 1, title = "What Heaven’s Left", mbid = "4d46904c-7d0c-4719-9158-1694438af0f4" },
+  { n = 2, title = "Midnight Sun", mbid = "19982c26-d0d7-46e1-b480-efced89a53ed" },
+  { n = 3, title = "Father Mountain", mbid = "3011da49-1cbb-47be-aadc-127d52d43c7d" },
+  { n = 4, title = "Outside El Paso", mbid = "4eebe26e-6694-45ca-84f8-c6d55270ec55" },
+  { n = 5, title = "Follow the Water", mbid = "e52915de-6c09-4adc-9fbd-44e881e39407" },
+  { n = 6, title = "The Bitter Suite (Pájaro / Evil Eye / Tennessee Train)", mbid = "d99c1d12-5b46-496c-b799-576b9af03639" },
+  { n = 7, title = "Years to Burn", mbid = "540f0087-ff41-4210-9751-16a097d6a19b" },
+  { n = 8, title = "In Your Own Time", mbid = "f480303d-0caa-4aeb-bbd6-ca55d2eae03f" },
+]
+
+[[release]]
+mbid = "1811bf0f-00b5-4b23-b8af-31c9f3dd427b"
+title = "Hear the Bells"
+type = "single"
+date = "2020-10-28"
+spotify = "7dhSGscJUEeQQTyByvPuLY"
+tracks = [
+  { n = 1, title = "Hear the Bells", mbid = "42ecdd16-6cc2-4a50-a424-74adb8dd5308" },
+]
+
+[[release]]
+mbid = "65c94b0e-bb67-4458-b65c-9e5539af64bb"
+title = "Happy Xmas (War Is Over)"
+type = "single"
+date = "2020-11-16"
+spotify = "1Udv8YnxLXbYjyLkN9aIST"
+tracks = [
+  { n = 1, title = "Happy Xmas (War Is Over)", mbid = "a2752d5a-4a45-4b7b-a9ac-0fb84c4c92ca" },
+]
+
+[[release]]
+mbid = "29b5d04d-042b-4b03-96e8-b41e239d4dae"
+title = "Seasonal Shift"
+type = "album"
+date = "2020-12-04"
+tracks = [
+  { n = 1, title = "Hear the Bells", mbid = "42ecdd16-6cc2-4a50-a424-74adb8dd5308" },
+  { n = 2, title = "Christmas All Over Again", mbid = "cb407601-d358-41cb-b4fc-9d7cd1bd1b41" },
+  { n = 3, title = "Mi burrito Sabanero", mbid = "48d5c62e-c211-4c3a-9c45-286547143c20" },
+  { n = 4, title = "Heart of Downtown", mbid = "4358f54c-3335-4c21-ac19-5b7437078cbc" },
+  { n = 5, title = "Seasonal Shift", mbid = "31fef90c-e826-4bd7-b0e6-1a4db078e267" },
+  { n = 6, title = "Nature's Domain", mbid = "e4c29855-43a5-438b-8e64-57e45d3d6f91" },
+  { n = 7, title = "Happy Xmas (War is Over)", mbid = "a6c94549-4e0d-47e6-a46f-46b227663aa5" },
+  { n = 8, title = "Glory's Hope", mbid = "baae1823-f6fc-4561-b200-db177fb7213c" },
+  { n = 9, title = "Tanta tristeza", mbid = "7304a0d0-43dc-44e1-b07d-af9e74edb851" },
+  { n = 10, title = "Peace of Mind", mbid = "076746c5-18f2-42dd-bade-3cb24864b617" },
+  { n = 11, title = "Sonoran Snoball", mbid = "30cce080-ce58-42e7-bae8-c7057291a333" },
+  { n = 12, title = "Mi burrito Sabanero (Reprise)", mbid = "f525ef85-9b9d-4e83-9eac-e33c9f9b4a53" },
+]
+
+[[release]]
+mbid = "64fe1449-d815-4f84-96f0-3b23acaf0de9"
+title = "El mirador"
+type = "album"
+date = "2022-04-08"
+spotify = "63AiuIrU9tVW6o0UuAJMtV"
+tracks = [
+  { n = 1, title = "El mirador", mbid = "0e3064ea-9e47-45a4-882b-a4329d05389a" },
+  { n = 2, title = "Harness the Wind", mbid = "7a2926e2-01e4-4256-8597-98ec2cc254ac" },
+  { n = 3, title = "Cumbia peninsula", mbid = "d3f8672f-5b7d-4c49-8726-d4e00353830f" },
+  { n = 4, title = "Then You Might See", mbid = "217f1eb5-7856-4fe8-a033-ac398c8af3d3" },
+  { n = 5, title = "Cumbia del polvo", mbid = "c58098e7-72fb-4e88-bc98-e19025f6d2fe" },
+  { n = 6, title = "El Paso", mbid = "12fe8cfc-0440-4245-a606-d4d8ee57890d" },
+  { n = 7, title = "The El Burro Song", mbid = "84221771-0cb5-49e0-9407-bff3301ad88c" },
+  { n = 8, title = "Liberada", mbid = "be2e0c40-71f2-4d34-b8af-bc5c476527f4" },
+  { n = 9, title = "Turquoise", mbid = "9c062177-670d-4bbb-80ff-a88a9ab3d560" },
+  { n = 10, title = "Constellation", mbid = "39e642a9-e710-4396-894d-57a1ef7f28b0" },
+  { n = 11, title = "Rancho azul", mbid = "3163b047-9318-491f-a036-2a38bef12fd5" },
+  { n = 12, title = "Caldera", mbid = "5d73f6f2-0e83-4607-a83e-a2f291d7e92a" },
+]
+
+[[release]]
+mbid = "ee3b3692-3dfb-4895-8fae-029939d338d4"
+title = "Rambler"
+type = "single"
+date = "2022-09-20"
+tracks = [
+  { n = 1, title = "Rambler", mbid = "75401af3-f492-4b92-9259-a9b98e811dc0" },
+]
+
+[[release]]
+mbid = "c3b933ef-eac8-45bb-b4ee-7e3c136cb1c4"
+title = "Morning Flight"
+type = "single"
+date = "2025-01-03"
+spotify = "6dL6EYa2r5kw3uxkNzSuMm"
+tracks = [
+  { n = 1, title = "Morning Flight", mbid = "f23888f3-24a6-438c-86e5-63f15d5b9ebe" },
+  { n = 2, title = "Afterglow", mbid = "7dc667e1-2605-4cbb-85dc-c1a943518e2b" },
+]

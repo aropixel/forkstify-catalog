@@ -1,0 +1,770 @@
+format = 1
+
+[[release]]
+mbid = "fe469be9-50bc-46bd-a1f6-14db45dd4fa5"
+title = "12 chansons d'avant le déluge"
+type = "album"
+date = "1966"
+tracks = [
+]
+
+[[release]]
+mbid = "b2207484-282b-3ea2-b69c-cc4f37ba7daf"
+title = "13 chansons décadentes et fantasmagoriques"
+type = "album"
+date = "1966"
+tracks = [
+  { n = 1, title = "Je suis décadente (La Concierge Gamberge)", mbid = "c549db11-d101-46a7-aae6-df863a0735aa" },
+  { n = 2, title = "C’est pas de ma faute", mbid = "37888384-4d5d-4c86-85fc-c26a2a634cd0" },
+  { n = 3, title = "Hallucinante aventure", mbid = "6cba8ea6-50c6-413f-85ab-4b492f6163d5" },
+  { n = 4, title = "Le Mauvais Coton", mbid = "ad18d6b3-dc08-474b-a5af-da41752c2953" },
+  { n = 5, title = "Les dieux sont dingues", mbid = "57dd02c9-a9c2-4661-b27d-99911372008a" },
+  { n = 6, title = "Dévaste‐moi", mbid = "175c00f3-dd5c-42f9-b644-602156c77976" },
+  { n = 7, title = "La Côtelette (Je suis la femme)", mbid = "88321a7a-e049-4a51-81bc-b3cd767781cb" },
+  { n = 8, title = "Quand tu n’es pas là", mbid = "6053917e-e20e-4d9f-989b-d83ddf9a9520" },
+  { n = 9, title = "On n’est pas des chiens", mbid = "28d8045e-cc9d-4448-b0c4-9066a3f7ec35" },
+  { n = 10, title = "Le Train", mbid = "9945fc94-b9c2-40d8-9dab-5899a94a52b9" },
+  { n = 11, title = "La vie sur les bras", mbid = "5cef6376-b1b9-4bcf-9fab-9e61f355a4b4" },
+  { n = 12, title = "La Vache enragée", mbid = "40e4e678-1948-484e-a244-e70e3c2625a9" },
+  { n = 13, title = "Le Sac", mbid = "0db9129a-9998-4581-a619-1c4a25d42d6d" },
+]
+
+[[release]]
+mbid = "fab9ec48-4f7c-4687-bd06-ee86deb08172"
+title = "Maman, j'ai peur ! ou (Est-ce que les veaux font des manières ?)"
+type = "ep"
+date = "1966"
+tracks = [
+  { n = 1, title = "La Grippe", mbid = "3fc7c684-0c8f-4bea-ba25-34723451bf00" },
+  { n = 2, title = "On est là pour ça", mbid = "9172de86-4264-44eb-a4e8-09690a6c0e37" },
+  { n = 3, title = "Maman j'ai peur", mbid = "27c5e02e-6a71-453b-87cc-66690b3d26f6" },
+  { n = 4, title = "Fleur de pavot", mbid = "97c091e2-33f0-4261-a7c5-7967790619cf" },
+]
+
+[[release]]
+mbid = "a9502d47-1a3b-4302-8867-e71d575ebcf0"
+title = "N°1- L'Éternel féminin"
+type = "ep"
+date = "1966"
+tracks = [
+  { n = 1, title = "Dévaste-moi", mbid = "5f43798b-9a1c-47b9-a0ac-f58a3df587d0" },
+  { n = 2, title = "On n'est pas des chiens", mbid = "28d8045e-cc9d-4448-b0c4-9066a3f7ec35" },
+  { n = 3, title = "La Côtelette (Je suis la femme)", mbid = "e91a810a-e74b-49e6-838c-9ae8df2c81ba" },
+  { n = 4, title = "Les dieux sont dingues", mbid = "57dd02c9-a9c2-4661-b27d-99911372008a" },
+]
+
+[[release]]
+mbid = "627c71a5-56c1-3d26-9884-ccfafea419e5"
+title = "Brigitte Fontaine est... ?"
+type = "album"
+date = "1968"
+tracks = [
+  { n = 1, title = "Il pleut", mbid = "e6743185-6a7b-483f-ae68-1eb92b77725a" },
+  { n = 2, title = "Le Beau Cancer", mbid = "2058bf70-e251-4935-9b3a-0710786672de" },
+  { n = 3, title = "Il se passe des choses", mbid = "17a3703a-78e5-4458-aab7-6e05fae0b709" },
+  { n = 4, title = "Une fois mais pas deux", mbid = "3a0a8d78-760b-47fd-b120-a6b4d8607c44" },
+  { n = 5, title = "L'Homme objet", mbid = "4cf57057-c9c2-42a4-a9b9-59caed4b3273" },
+  { n = 6, title = "Éternelle", mbid = "6c7b4562-8b2a-4301-9bc1-1abdb4fdaa0d" },
+  { n = 7, title = "Blanche Neige", mbid = "0cfa5526-c332-4eb8-a3e9-22caa2682587" },
+  { n = 8, title = "Comme Rimbaud", mbid = "6318b52d-2d64-4aae-9a81-4910f08c7da7" },
+  { n = 9, title = "Dommage que tu sois mort", mbid = "b708b8f8-31a2-41c6-90c7-00e2c786de2c" },
+  { n = 10, title = "Je suis inadaptée", mbid = "9caf3629-7d1b-4b0f-9075-7d28c979ecac" },
+  { n = 11, title = "Cet enfant que je t'avais fait", mbid = "7e6194c7-02d3-4c0a-bd2a-7ced159999d1" },
+]
+
+[[release]]
+mbid = "526e00d4-1577-4c7f-8b79-a97a4bf69f9d"
+title = "Les Encerclés"
+type = "ep"
+date = "1968"
+tracks = [
+  { n = 1, title = "Cet enfant que je t'avais fait", mbid = "7e6194c7-02d3-4c0a-bd2a-7ced159999d1" },
+  { n = 2, title = "Les Encerclés", mbid = "d60e8195-7bb8-4824-9b0b-786a2b9b50c6" },
+  { n = 3, title = "Le Roi de la naphtaline", mbid = "5d2d73f7-8bfc-47c3-926c-b13695cf2ecc" },
+]
+
+[[release]]
+mbid = "587af4ad-0aa7-421d-8169-40ccf9d70d30"
+title = "Brigitte Fontaine et..."
+type = "single"
+date = "1969"
+tracks = [
+  { n = 1, title = "Le noir c'est mieux choisi", mbid = "7eff706b-ab64-475d-9cb5-c532f4806682" },
+  { n = 2, title = "Lettre à monsieur le chef de gare de la Tour de Carol", mbid = "feb62841-8ccf-41af-b676-af424423c35b" },
+]
+
+[[release]]
+mbid = "f5608d6e-c6e9-4cad-85ec-d26d947b2903"
+title = "Le Goudron / Les Beaux Animaux"
+type = "single"
+date = "1969"
+tracks = [
+  { n = 1, title = "Le Goudron", mbid = "a8c1846a-076a-4eb0-96ff-9cc552a6db4e" },
+  { n = 2, title = "Les Beaux Animaux", mbid = "7f41ba00-2ade-42f5-acd0-30f2d8a4a844" },
+]
+
+[[release]]
+mbid = "f957a1aa-81bc-33cd-9009-ee2a75df2dfa"
+title = "Comme à la radio"
+type = "album"
+date = "1969-11-15"
+tracks = [
+  { n = 1, title = "Comme à la radio", mbid = "5b5d4c11-a883-4dae-8639-b9112bebaad0" },
+  { n = 2, title = "Tanka II", mbid = "21c07bec-13b3-4fa0-96e6-5bc666174c2a" },
+  { n = 3, title = "Léo", mbid = "d8d8f17a-9ed2-4604-9224-8201257d0394" },
+  { n = 4, title = "Le Brouillard", mbid = "173510dc-9b53-4682-8e53-5731bec58e56" },
+  { n = 5, title = "J’ai vingt‐six ans", mbid = "446313c4-384a-4cea-956b-73100a0b60cb" },
+  { n = 6, title = "L’Été, l’été", mbid = "fe3b46de-f210-4bcd-ae8c-dd0f6c17aa2d" },
+  { n = 7, title = "Encore", mbid = "a63252a6-c2f5-459b-8015-12631f73963f" },
+  { n = 8, title = "Les Petits Chevaux", mbid = "d7727093-b2b0-4efd-999b-f9c16dbfa755" },
+  { n = 9, title = "Tanka I", mbid = "e9e2926d-8636-497c-b4ce-418ee6a79086" },
+  { n = 10, title = "Lettre à monsieur le chef de gare de la Tour de Carol", mbid = "feb62841-8ccf-41af-b676-af424423c35b" },
+]
+
+[[release]]
+mbid = "85aa1edc-513e-445a-87b9-3434bea50479"
+title = "L'Été, l'été / Tankas"
+type = "single"
+date = "1970"
+tracks = [
+  { n = 1, title = "L’Été, l’été", mbid = "fe3b46de-f210-4bcd-ae8c-dd0f6c17aa2d" },
+  { n = 2, title = "Tanka 1", mbid = "e9e2926d-8636-497c-b4ce-418ee6a79086" },
+  { n = 3, title = "Tanka 2", mbid = "56771bb1-40bb-4ce1-b3cf-27f3692ec720" },
+]
+
+[[release]]
+mbid = "83ec27c7-a778-499c-85a1-b10bbd545c51"
+title = "Brigitte"
+type = "single"
+date = "1972"
+tracks = [
+  { n = 1, title = "Brigitte", mbid = "a3df6e0e-efd0-447d-a806-7752bab8fa3d" },
+  { n = 2, title = "Moi aussi", mbid = "b43bea1e-9f5b-4909-a79a-a61096bdddd4" },
+]
+
+[[release]]
+mbid = "5e2d63f9-7a43-3930-b1d3-7592de96a640"
+title = "Brigitte Fontaine"
+type = "album"
+date = "1972"
+tracks = [
+  { n = 1, title = "Brigitte", mbid = "a3df6e0e-efd0-447d-a806-7752bab8fa3d" },
+  { n = 2, title = "Pour le patron", mbid = "204dffba-5f9f-4a29-bbc0-14116cffb92b" },
+  { n = 3, title = "Moi aussi", mbid = "b43bea1e-9f5b-4909-a79a-a61096bdddd4" },
+  { n = 4, title = "Famille", mbid = "1e2b1d96-a154-4f32-9eaa-595f8293f0ef" },
+  { n = 5, title = "L’Auberge", mbid = "8bc59629-cb20-478c-bbe9-1e431a284a51" },
+  { n = 6, title = "Premier juillet", mbid = "daef2ef7-ae11-4047-ba9e-391b24a999a1" },
+  { n = 7, title = "Le Dragon", mbid = "cccef5cd-718b-418e-b14c-dd06c0c46a90" },
+  { n = 8, title = "Vingt secondes", mbid = "505abc73-2b76-46d9-b59f-6e3c505b9adf" },
+  { n = 9, title = "Eros", mbid = "86c28917-9492-4570-80b2-136b4bdbff06" },
+  { n = 10, title = "Une minute cinquante‐cinq", mbid = "94cbb341-4157-4697-b4df-6ff599c0dd83" },
+  { n = 11, title = "Où vas‐tu petit garcon?", mbid = "01ebb020-3955-45a4-bc12-f6a0abeebf59" },
+  { n = 12, title = "Marcelle", mbid = "de5a9aad-0eca-44db-b670-66406700b94f" },
+  { n = 13, title = "Merry‐Go‐Round", mbid = "ebbade1f-f93a-42b8-bc1f-d1a63b599a18" },
+]
+
+[[release]]
+mbid = "8d5dd6d2-c400-47e2-853e-9d293a8127f6"
+title = "Jamai-ai-ai-ai-ai-ais / J'ai 26 ans"
+type = "single"
+date = "1972"
+tracks = [
+  { n = 1, title = "Jamai-ai-ai-ai-ai-ais", mbid = "89c20ccb-e6f0-4cd8-8272-679f10935049" },
+  { n = 2, title = "J'ai 26 ans", mbid = "e3a94675-4a02-46ee-847d-636a5edac1d8" },
+]
+
+[[release]]
+mbid = "3892c96e-dbcd-3e11-ad3e-fb7fbb94926d"
+title = "Je ne connais pas cet homme"
+type = "album"
+date = "1973"
+tracks = [
+  { n = 1, title = "Depuis", mbid = "37b3d731-b1d8-4b7f-a295-a4059d53cba4" },
+  { n = 2, title = "J’ai 26 ans, madame", mbid = "356b9ed4-7a90-4eb7-b120-a112d412fe79" },
+  { n = 3, title = "La Fille du curé", mbid = "24338907-3cea-47ed-896b-a0cfce99c046" },
+  { n = 4, title = "Comment ça va", mbid = "2367739d-c46c-431c-aeee-5239562a7d65" },
+  { n = 5, title = "Montparnasse", mbid = "99e81eba-1a01-4914-91e3-e2f61eb5d9d4" },
+  { n = 6, title = "La Recherche de l’hiver", mbid = "5cdc8881-962f-4d79-abcc-8ade51a7318f" },
+  { n = 7, title = "Les Blanchisseuses", mbid = "d820281c-366f-4948-a70a-1cfea2b428de" },
+  { n = 8, title = "C’est normal", mbid = "b479403b-4f26-4cb1-b6e6-6735742225e2" },
+  { n = 9, title = "Dis-moi / Insert", mbid = "c8d10e8d-b170-4f4e-9d61-73c95c3dcf32" },
+  { n = 10, title = "On n’est pas des arbres", mbid = "aa82fb04-b73a-4a11-85ae-800d529889fa" },
+  { n = 11, title = "La Renarde et le Bélier touffu / Insert", mbid = "f7f4569f-dea3-4bc1-9303-1ab44724dbb3" },
+  { n = 12, title = "Je ne connais pas cet homme", mbid = "7f3ebc52-24bd-4891-bedf-4191dd901761" },
+  { n = 13, title = "Nous ne pourrons plus dormir", mbid = "eae10a6d-75a8-43b2-bb39-983b17244982" },
+  { n = 14, title = "La Morvien", mbid = "56e19956-e728-45c0-8e19-690b0ad53076" },
+  { n = 15, title = "Le Silence / Final", mbid = "dda4b0d2-0525-4a2e-bdab-3315686e8675" },
+]
+
+[[release]]
+mbid = "0f0cef9f-855c-3bc1-8b10-cd7f0b3dbd4f"
+title = "L'Incendie"
+type = "album"
+date = "1974"
+tracks = [
+  { n = 1, title = "Le 6 Septembre", mbid = "839582b1-cb39-4276-aab1-a1f741f793d2" },
+  { n = 2, title = "Ragilia", mbid = "4139ac0b-e87b-4a21-b531-7977ed9b4230" },
+  { n = 3, title = "Il pleut sur la gare", mbid = "da50fdae-5ea1-48f5-8820-cbef6b8a5aec" },
+  { n = 4, title = "Déclaration de sinistre", mbid = "fa3a7c21-2f68-43c2-b4ed-f2c0d868d0d6" },
+  { n = 5, title = "Les Murailles", mbid = "8244bff1-de0e-4843-82eb-77c4e3f7dfba" },
+  { n = 6, title = "L'Engourdie", mbid = "fe48af02-5372-435f-9b44-1016b0f2f334" },
+  { n = 7, title = "Nous avons tant parlé", mbid = "bec914d7-e124-4079-812e-c3158cc5509e" },
+  { n = 8, title = "Les Borgias", mbid = "8e540dec-8cdd-48d9-84a8-f395ff4afdf2" },
+  { n = 9, title = "Les Petites Madones", mbid = "e868e594-08e9-415c-9309-9398507aa8ae" },
+  { n = 10, title = "L'Abeille", mbid = "6253fe50-0367-4431-9a14-e25293d53878" },
+  { n = 11, title = "Après la guerre", mbid = "603eb422-7cd0-4692-8ae0-ad35d66523b1" },
+  { n = 12, title = "La Tête bandée", mbid = "6af69572-8da3-4d29-a290-9154d4d85422" },
+  { n = 13, title = "Le Chant des chants", mbid = "665b26ef-c169-4630-b4a6-eb5ca944ad63" },
+]
+
+[[release]]
+mbid = "9adb667f-68d7-4e0b-8889-dd8f00940250"
+title = "Quand les ghettos brûleront ça va faire un hit"
+type = "single"
+date = "1974"
+tracks = [
+  { n = 1, title = "Ça va faire un hit", mbid = "30f73154-4aa5-4225-b63a-a112875d6f40" },
+  { n = 2, title = "Quand les ghettos brûleront", mbid = "03c7b754-bdda-4a35-b5a7-f9fb58a58e8a" },
+]
+
+[[release]]
+mbid = "3875769c-663d-3148-abcf-fe5e94e043f7"
+title = "Le Bonheur"
+type = "album"
+date = "1975"
+tracks = [
+  { n = 1, title = "La Citrouille", mbid = "5f5e781d-28c1-4756-8177-2f1587606d15" },
+  { n = 2, title = "Théâtre", mbid = "e76f8958-ee5c-4200-86c6-6e7a119108fe" },
+  { n = 3, title = "Les étoiles et les cochons", mbid = "7c3b7597-af65-4d97-a7af-32cf30339c63" },
+  { n = 4, title = "Le propriétaire", mbid = "6dc3be30-e406-4680-9201-d7c8d4aa2f5e" },
+  { n = 5, title = "Boudali", mbid = "3f744c34-4990-4d13-a74e-3befb42415ce" },
+  { n = 6, title = "Bobo", mbid = "aa03c060-28be-4222-940e-640ee95fcc1e" },
+  { n = 7, title = "Les vergers", mbid = "943df211-dee8-4c05-a52d-aef2d0c39a83" },
+  { n = 8, title = "Mephisto", mbid = "2d3279d6-9cff-4eab-9a09-b370fcf17eb0" },
+  { n = 9, title = "Y'a du lard", mbid = "5a1a8425-7d80-4857-b669-6311e506942e" },
+  { n = 10, title = "Le bonheur", mbid = "ba93369d-aef5-45e1-ba1f-7ef6239a37f2" },
+  { n = 11, title = "L’oubliana", mbid = "4528d707-8cb3-4fba-a1df-08d0fd04bd4a" },
+]
+
+[[release]]
+mbid = "f37656cf-ea15-31b6-a48d-53281cb833bc"
+title = "Vous et nous"
+type = "album"
+date = "1977"
+tracks = [
+  { disc = 1, n = 1, title = "Vous et nous", mbid = "b80d3eb2-4b98-4650-9ef4-78c9a2def45b" },
+  { disc = 1, n = 2, title = "Patriarcat", mbid = "41bd5a09-d03d-465c-977d-9864360e3c78" },
+  { disc = 1, n = 3, title = "Mon enfance", mbid = "01e3bb1f-4052-4642-855c-8c7d013b4789" },
+  { disc = 1, n = 4, title = "Ce n'est rien", mbid = "9bf079a7-0da7-420b-9af1-b9f3ba225f44" },
+  { disc = 1, n = 5, title = "Le Serveur du dôme", mbid = "9637b005-8637-41fc-bad0-de67172a7ddb" },
+  { disc = 1, n = 6, title = "Je suis venu te voir", mbid = "cc054b70-dd2e-4d6e-8c57-696226659040" },
+  { disc = 1, n = 7, title = "Rien que changer", mbid = "bbac4b9a-5f0c-44cb-b842-069c86339cef" },
+  { disc = 1, n = 8, title = "Le ciel est doux", mbid = "be201009-3d65-4d6d-af20-91c5dcbd4968" },
+  { disc = 1, n = 9, title = "Les Épis", mbid = "f70ad349-19a4-425a-8145-aab9ca0c53d4" },
+  { disc = 1, n = 10, title = "Le Repas des dromadaires", mbid = "8605e637-206f-42e8-b97e-bd0fa3bb10ce" },
+  { disc = 1, n = 11, title = "Vous et nous (orchestré)", mbid = "3a2134a6-f9a7-472b-91b8-72588fe02d82" },
+  { disc = 1, n = 12, title = "L'Amour parfait", mbid = "d87035db-fb29-4ab6-b729-c2534a658713" },
+  { disc = 1, n = 13, title = "Un soleil", mbid = "f7022a47-e14f-42c3-920e-8b45ccf8569c" },
+  { disc = 1, n = 14, title = "Dans ma rue", mbid = "3ee2c1b3-ed76-4a29-a9a6-91e3143e52c1" },
+  { disc = 1, n = 15, title = "L'orage est fini", mbid = "a16fc5ca-fa12-44e6-a9a4-0354b1daf29e" },
+  { disc = 1, n = 16, title = "Le Sergent de ville", mbid = "0ddc51ff-1ea5-4484-9698-d168bfafa5f1" },
+  { disc = 2, n = 1, title = "Le Brin d'herbe", mbid = "c2d7eb74-4467-42fc-a631-26a18316d6b2" },
+  { disc = 2, n = 2, title = "La Harpe jaune", mbid = "24c7363f-9ccd-4fae-8a6e-5d23f34c29a5" },
+  { disc = 2, n = 3, title = "Je t'aimerai", mbid = "17051032-5359-45fe-9aca-21285a913ee9" },
+  { disc = 2, n = 4, title = "Diabolo", mbid = "dad4f561-4127-4216-9935-8f1b832f742d" },
+  { disc = 2, n = 5, title = "Cher", mbid = "fcdf39b0-036f-4ab3-a848-548373026b22" },
+  { disc = 2, n = 6, title = "Ce n'est pas un ennemi", mbid = "41d6e07d-a0ad-4aeb-bc1a-7bf5674e7cf9" },
+  { disc = 2, n = 7, title = "Encaustique", mbid = "ce96ef26-d246-4c39-b47b-1cf26ecf2a76" },
+  { disc = 2, n = 8, title = "Petit sapin", mbid = "765f6c0b-dca0-4886-84ab-04105c2edb7f" },
+  { disc = 2, n = 9, title = "Mon lit", mbid = "d5b9dae7-6ff1-4a7d-9f7a-df54bec1a5a1" },
+  { disc = 2, n = 10, title = "Je t'aimerai", mbid = "2e8f0a9e-bbc7-48ad-8b41-bd1d1908f264" },
+  { disc = 2, n = 11, title = "La Déchirure", mbid = "c033b3c7-d5bd-447b-880d-3e4f1e9d9caf" },
+  { disc = 2, n = 12, title = "Le Petit Cheval bleu", mbid = "1328e3c5-3a33-4175-87e9-d61ed57fb246" },
+  { disc = 2, n = 13, title = "Personne", mbid = "a7807f64-baa9-4a97-9c95-9d971d87b484" },
+  { disc = 2, n = 14, title = "Les roses sont farouches", mbid = "3fdfb766-9509-4f09-8988-7dc9b2d4e47c" },
+  { disc = 2, n = 15, title = "Le Bouc", mbid = "c3dcf6c5-47c7-4e0b-8926-e85d076ac36a" },
+  { disc = 2, n = 16, title = "Les Muzdus", mbid = "207a9f34-0ece-48c3-92f0-e9cd879b919b" },
+]
+
+[[release]]
+mbid = "2b750ef8-c19e-4961-a092-72038c9d0187"
+title = "Les églantines sont peut-être formidables"
+type = "album"
+date = "1980"
+tracks = [
+  { n = 1, title = "Le Ménage", mbid = "0663b552-2b62-43be-b055-2606559fce93" },
+  { n = 2, title = "L'Éternel Retour", mbid = "acdd1640-2116-4edd-aa2b-3e255080dda1" },
+  { n = 3, title = "La Traversée", mbid = "7eb51d71-a5a7-4187-b859-7c7ee6182be2" },
+  { n = 4, title = "Le Light Show", mbid = "7875514e-aad2-4c9e-ac93-320f602f3eda" },
+  { n = 5, title = "La Vache", mbid = "d28c02d7-aeb8-41df-a9fc-03ad601fd932" },
+  { n = 6, title = "Pif", mbid = "b7a810fb-82e7-49ee-9ff4-f7b1eff4bbd3" },
+  { n = 7, title = "Tout le monde se rappelle peut-être de quoi il s'agit", mbid = "ab312133-470a-4dd4-9cf3-859edfb0b189" },
+  { n = 8, title = "La Maison du café", mbid = "6dd228e2-f9c1-4c7d-93fa-db86cd649664" },
+  { n = 9, title = "Baby boum-boum", mbid = "da5bd250-71e5-4f0b-92e5-f270cc6ad523" },
+]
+
+[[release]]
+mbid = "a6617775-8f68-4738-b5dc-e62ce7780a19"
+title = "L'inconciliabule"
+type = "single"
+date = "1981"
+tracks = [
+  { n = 1, title = "Le train 2110.", mbid = "c5998ca8-9fef-435a-8ea8-a657114c388b" },
+  { n = 2, title = "L'éternel retour. 2ème.", mbid = "ff388041-7399-4326-8e4b-fdb4c654c4eb" },
+]
+
+[[release]]
+mbid = "23a923e5-2011-4327-937e-6e3e2f714ffc"
+title = "Cet enfant que je t’avais fait"
+type = "single"
+date = "1983"
+tracks = [
+  { n = 1, title = "Cet enfant que je t’avais fait", mbid = "7e6194c7-02d3-4c0a-bd2a-7ced159999d1" },
+  { n = 2, title = "C’est normal", mbid = "b479403b-4f26-4cb1-b6e6-6735742225e2" },
+]
+
+[[release]]
+mbid = "f83943f3-680c-496c-aa6d-c8864011e570"
+title = "Les Filles d’aujourd'hui / La Dérive"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Les Filles d’aujourd'hui", mbid = "3acd5798-a0f9-47ac-8ff1-999305f55942" },
+  { n = 2, title = "La Dérive", mbid = "9419685b-e301-4b93-858e-bff302fc0310" },
+]
+
+[[release]]
+mbid = "05fc82af-fcb5-3dd6-ae30-9944594d8ca1"
+title = "French Corazon"
+type = "album"
+date = "1990"
+tracks = [
+  { n = 1, title = "French Corazon", mbid = "b1c71b32-d9a8-4e72-9866-e67e92635b6e" },
+  { n = 2, title = "La Cantatrice chauve", mbid = "4bce3dfd-d938-45fd-a2a9-ac5a7174bd81" },
+  { n = 3, title = "Le Nougat", mbid = "bfbfc7a8-0565-460a-9d3d-2df7ff2286c4" },
+  { n = 4, title = "Hollywood", mbid = "d1dff840-eea4-438a-b42f-0766decb9ac6" },
+  { n = 5, title = "Mauviette", mbid = "0e0ef8e6-e4e5-4a99-afaf-4a06c63a958c" },
+  { n = 6, title = "Leila", mbid = "8197e674-079d-438f-8ccb-75ee5b65d226" },
+  { n = 7, title = "Welcome Pingouin", mbid = "66306521-f688-4d38-9c75-7949d10f6691" },
+  { n = 8, title = "Dis", mbid = "26a3cdd0-b1a9-4290-9064-8a9ae64e731f" },
+  { n = 9, title = "In nomine matrice", mbid = "0c59a3c5-9316-47a3-a6e0-c51bcffd4108" },
+  { n = 10, title = "Les Carmens", mbid = "c3fcc6e6-2255-476f-ac9f-432e40810b13" },
+  { n = 11, title = "Plaisanterie classique", mbid = "b9c30297-67d1-43a9-a6c0-4a317574a027" },
+  { n = 12, title = "Folie furieuse", mbid = "c7d8bd5b-4334-4d5f-be0c-c145cd3074db" },
+  { n = 13, title = "D'ailleurs", mbid = "2cce5f3d-6f16-466c-bd0a-29cd76dff650" },
+]
+
+[[release]]
+mbid = "9543a2ac-3a0d-4f71-86f8-edd2ba300018"
+title = "Le Nougat"
+type = "ep"
+date = "1992"
+tracks = [
+  { n = 1, title = "Le Nougat (Version LP)", mbid = "6ed923f1-c46d-4ed0-8a3a-0e077b52c79c" },
+  { n = 2, title = "Le Nougat (Soft Mix)", mbid = "634d7f0d-aeb6-4534-8a88-32cd86fe375a" },
+  { n = 3, title = "Le Nougat (Remix Club)", mbid = "7583c26d-a7b7-4c59-b559-f30fdabc702a" },
+  { n = 4, title = "Le Nougat (Tarbouka Mix)", mbid = "36074b82-98f5-4453-8ef8-8f434138e3ba" },
+  { n = 5, title = "Le Nougat (Rought Mix)", mbid = "49528628-79e6-47e0-98ef-107101cccde7" },
+  { n = 6, title = "Le Nougat (Brapj Mix)", mbid = "4735c658-1a1a-4e24-a9a9-12621f3766d0" },
+]
+
+[[release]]
+mbid = "9999d0a7-0a7e-4604-b53b-b0c148f59168"
+title = "Le Nougat"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Le Nougat (version LP)", mbid = "6ed923f1-c46d-4ed0-8a3a-0e077b52c79c" },
+  { n = 2, title = "Le Nougat (soft mix)", mbid = "3d53fab9-9567-4f61-a2e1-156be902b7c0" },
+]
+
+[[release]]
+mbid = "d5538ed7-6ac5-37fc-bf9c-beb092cd4b8e"
+title = "Genre humain"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "La Femme à barbe", mbid = "caf9e0b3-01b2-4a3b-bbff-5b508cefe9fc" },
+  { n = 2, title = "Genre humain", mbid = "7f0ebf34-4e40-4cc9-8ec3-1eacc6f65393" },
+  { n = 3, title = "Le Magnum", mbid = "70fd1ca8-1f73-4b35-97b4-1eac1116b579" },
+  { n = 4, title = "Conne", mbid = "6e8d46d7-230a-4268-a0b2-251f79b6ba39" },
+  { n = 5, title = "Belle abandonnée", mbid = "c3163ff8-2195-49f1-837b-c93832423493" },
+  { n = 6, title = "Dans la cuisine", mbid = "f4bf7a4e-7742-415c-b93c-321656eae6a0" },
+  { n = 7, title = "Comme à la radio", mbid = "c6a9b0a3-24dc-4ae8-b330-4ba378178c58" },
+  { n = 8, title = "Intérieur nuit", mbid = "85626fb0-d579-43a8-8e37-2b711325ef39" },
+  { n = 9, title = "Hammam en plein-air", mbid = "ab651da9-cafc-456e-bfe7-76c945c86f24" },
+  { n = 10, title = "Le Train deux-mille-cent-dix", mbid = "2155acc0-e542-4c92-9add-84666f088fea" },
+  { n = 11, title = "Il se mèle à tout ça", mbid = "e5ec78ed-d448-43c4-bffc-671e53c84412" },
+  { n = 12, title = "J'adore pas", mbid = "d9532f66-9242-4d57-b76d-c1f101994174" },
+]
+
+[[release]]
+mbid = "87b3f514-0f5e-4096-8776-64ebedb753e6"
+title = "Ah que la vie est belle"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Ah que la vie est belle", mbid = "5db2ee64-f078-4378-8fce-37c8b44dac9c" },
+]
+
+[[release]]
+mbid = "5f1e7d77-2248-3838-87ab-81e3b99ee92c"
+title = "Les Palaces"
+type = "album"
+date = "1997"
+tracks = [
+  { n = 1, title = "Ah que la vie est belle", mbid = "530c3362-ab1a-49fa-9703-b6a1bd64b338" },
+  { n = 2, title = "La Cour", mbid = "e13e6206-880e-4963-9389-a3dd823bc9f7" },
+  { n = 3, title = "Les Palaces", mbid = "b4bcec53-9743-479e-94cf-347c7b18fdef" },
+  { n = 4, title = "Chat", mbid = "c1cf42c4-753a-41b7-847b-0e4e5fdfcb1b" },
+  { n = 5, title = "Le Musée des horreurs", mbid = "8ebbfbe0-e9c0-43b1-81f6-ea8be22e3028" },
+  { n = 6, title = "City", mbid = "77c73cf9-ee98-4387-bcd2-fc736b4ac793" },
+  { n = 7, title = "L’Île", mbid = "404adf7e-04a9-471c-9ac9-6e980193e87f" },
+  { n = 8, title = "Ali", mbid = "c76acfc5-ce7b-49d6-b189-2164b4d4c48b" },
+  { n = 9, title = "C’est normal", mbid = "672f7836-9e05-45b9-b7bb-2da7aea61ee2" },
+  { n = 10, title = "Délices et orgue", mbid = "f45f29ba-acaa-4748-918a-13158cd7e158" },
+  { n = 11, title = "La Symphonie pastorale", mbid = "d5302299-856a-4079-8c0b-b09640d39904" },
+]
+
+[[release]]
+mbid = "6ca56da6-f2a7-318f-afbe-27d764649a5a"
+title = "Le Nougat"
+type = "album"
+date = "1999"
+tracks = [
+  { n = 1, title = "La Cantatrice chauve", mbid = "066229e4-afcd-4941-9057-64902d3fbfb1" },
+  { n = 2, title = "Le Nougat", mbid = "7c728db6-0851-4731-a4b0-819dc1c7d383" },
+  { n = 3, title = "Hollywood", mbid = "85855646-d921-44c6-8b9a-16f7a932eb09" },
+  { n = 4, title = "Mauviette", mbid = "22d5e2f4-e15e-4bb8-8fbe-2b04cf0204b4" },
+  { n = 5, title = "Leila", mbid = "7932bd1c-09a6-4395-99a6-339c5a16d2e0" },
+  { n = 6, title = "Welcome pingouin", mbid = "c0386cd5-f87e-45f7-99c6-3cc665b2de84" },
+  { n = 7, title = "Dis", mbid = "c0ddc1df-cd38-4a89-9eae-e2c3126f26b3" },
+  { n = 8, title = "In nomine matrice", mbid = "d0a601af-a259-4f95-ba0b-b6a92b59e93b" },
+  { n = 9, title = "Les Carmens", mbid = "be4bd651-6c5d-4a43-b195-42041b4bb093" },
+  { n = 10, title = "Plaisanterie classique", mbid = "25351cf5-3bf3-4ba0-8932-f3274e07f37c" },
+  { n = 11, title = "Folie furieuse", mbid = "b6e72092-0f48-47bc-8602-c2c1d39f98ba" },
+  { n = 12, title = "D'ailleurs", mbid = "ce5ef79f-230d-4040-838d-7aeb4c730896" },
+]
+
+[[release]]
+mbid = "f0ce22db-dde9-3630-8d5f-946bd96c4349"
+title = "Caliméro / Cache Cache"
+type = "single"
+date = "1999-08-06"
+tracks = [
+  { n = 1, title = "Caliméro", mbid = "655600cc-c77f-4992-9b96-05c3aeacaa93" },
+  { n = 2, title = "Cache Cache", mbid = "2056a84c-be8b-4626-9f50-52246d5c4d5b" },
+]
+
+[[release]]
+mbid = "598ac97b-78a2-49d0-a6ae-d7df9237175e"
+title = "Y’a des zazous"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Y'a Des Zazous", mbid = "8a688fa8-577e-40fa-8018-52c2bd82e18d" },
+  { n = 2, title = "Tango Pipeau", mbid = "51e7c451-167e-4b9b-a56b-0597dfe1cce7" },
+  { n = 3, title = "God's Nightmare", mbid = "d46cbd43-f0a2-4045-9f64-3f1f0526443b" },
+  { n = 4, title = "Y'a Des Zazous (Jack Lahana Remix)", mbid = "5a5a4d83-75a3-4e11-b9c5-d0500fe103d9" },
+]
+
+[[release]]
+mbid = "2cdc6548-9a6b-388c-be30-e13b652655eb"
+title = "Kékéland"
+type = "album"
+date = "2001-08-20"
+tracks = [
+  { n = 1, title = "Demie Clocharde", mbid = "472ab77d-837b-46db-b4d2-53b935f13173" },
+  { n = 2, title = "Bis Baby Boum Boum", mbid = "03d6d154-e282-4a52-b06c-8d1f54f7aaae" },
+  { n = 3, title = "Pipeau", mbid = "f904e5c9-9026-49fc-92b2-2eaddd689277" },
+  { n = 4, title = "Y’a des Zazous", mbid = "8a688fa8-577e-40fa-8018-52c2bd82e18d" },
+  { n = 5, title = "Kekeland", mbid = "e079da5d-78e8-42ef-bdb3-88da2082be7a" },
+  { n = 6, title = "Je fume", mbid = "a98b1507-f8e1-4131-a274-95c896df6d36" },
+  { n = 7, title = "Je t’aime encore", mbid = "5a84b940-7485-4c32-81be-097a872a0064" },
+  { n = 8, title = "God’s Nightmare", mbid = "d46cbd43-f0a2-4045-9f64-3f1f0526443b" },
+  { n = 9, title = "Guadalquivir", mbid = "39c78b3c-5efe-4b8e-95b4-7d50d9d293cd" },
+  { n = 10, title = "Les Filles d’aujourd’hui", mbid = "fe2d4f53-1606-4168-8c91-ee37bd2bf827" },
+  { n = 11, title = "Rififi", mbid = "f764e511-5c33-47a0-b550-f84af1a60a96" },
+  { n = 12, title = "Profond", mbid = "cbfcf847-6811-4f6f-8974-450ec2987f44" },
+  { n = 13, title = "NRV", mbid = "f68a82ab-7ab9-4ad8-9b28-87932c26585c" },
+]
+
+[[release]]
+mbid = "93b0eb9e-3ac8-3ecf-967c-50d5f78b8c89"
+title = "Rue Saint Louis en l'Île"
+type = "album"
+date = "2004-10-26"
+tracks = [
+  { n = 1, title = "Betty Boop en août", mbid = "13e2665b-0daf-4c3e-b19a-b0a687ba1eed" },
+  { n = 2, title = "Sous 200 watts", mbid = "9d577343-76e3-4610-80fd-a8317057a92e" },
+  { n = 3, title = "Rue Saint-Louis en l'Île", mbid = "df8c1e85-e545-4dbf-95f1-86df5ed6b1d4" },
+  { n = 4, title = "La Veuve Clicquot", mbid = "221f14f8-4b2f-4601-a865-df73ea154251" },
+  { n = 5, title = "Fréhel", mbid = "7f85c4b7-7d1f-4d57-988d-61a605674330" },
+  { n = 6, title = "Le Voile à l'école", mbid = "b2a37c84-7de5-4a83-8188-f6f703e13cba" },
+  { n = 7, title = "Mado", mbid = "fe60cc5a-f6fe-46f1-b4f9-23df753247b3" },
+  { n = 8, title = "La Chanson de Simone", mbid = "fd890e9d-7ec4-43cc-8ec8-092d2f5aca3b" },
+  { n = 9, title = "Le Nougat (feat. Mouss & Hakim)", mbid = "a117ddeb-5c97-4708-9263-842cbfc8ab66" },
+  { n = 10, title = "Et caetera...", mbid = "f88f7a59-6cb7-4774-884d-f221d5c81951" },
+  { n = 11, title = "Éloge de l'hiver", mbid = "964bb4fe-1caf-4feb-9186-c8ea73d80d3d" },
+  { n = 12, title = "Le Grand Jamais", mbid = "3357cf2c-c085-40df-838c-9ea1ea9e98e6" },
+  { n = 13, title = "Folie", mbid = "7c8da5cf-69ed-4bff-ab35-0fc348ca1063" },
+  { n = 14, title = "L'Homme à la moto", mbid = "d65d5195-336b-4ba7-a1b3-2915cb92593b" },
+]
+
+[[release]]
+mbid = "ccc1554f-0fd7-4b57-a02b-daf49bb4f07e"
+title = "Betty Boop en août"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "Betty Boop en août", mbid = "13e2665b-0daf-4c3e-b19a-b0a687ba1eed" },
+]
+
+[[release]]
+mbid = "18630641-625f-4059-a758-e4934dfbd4a6"
+title = "Barbe à papa"
+type = "single"
+date = "2006"
+tracks = [
+  { n = 1, title = "Barbe à papa", mbid = "4bf9fc77-78e7-4cd4-bf61-05ae167f79dc" },
+]
+
+[[release]]
+mbid = "49ee1726-8bc3-34dd-8daa-de0812d8cd49"
+title = "Libido"
+type = "album"
+date = "2006-10-30"
+tracks = [
+  { n = 1, title = "Château intérieur", mbid = "9fb309d4-8607-4f83-90f4-4c443ec09b12" },
+  { n = 2, title = "La Metro", mbid = "8c012c1d-1783-42dc-84b2-72d4f26f6c45" },
+  { n = 3, title = "Cul béni", mbid = "c6e5d398-a274-490b-a346-aedd6a288fb0" },
+  { n = 4, title = "Elvire", mbid = "a4c6e448-08d9-4c36-a37f-e9d5e5d8117e" },
+  { n = 5, title = "La Nacre et le Porphyre", mbid = "59e13e65-7607-4b13-bdb0-6273a02399ab" },
+  { n = 6, title = "Barbe à papa", mbid = "4bf9fc77-78e7-4cd4-bf61-05ae167f79dc" },
+  { n = 7, title = "Mendelssohn", mbid = "57e4fa8d-2c14-4b37-8162-167c7096dd4c" },
+  { n = 8, title = "Les Babas", mbid = "c4e1e446-1650-49a1-a365-747aeda94020" },
+  { n = 9, title = "Ex paradis", mbid = "f6bc703d-7ad3-461b-993b-661d694268d1" },
+  { n = 10, title = "La Viande", mbid = "a4a90d22-18c1-48c8-9092-135da6316729" },
+  { n = 11, title = "Mister mystère", mbid = "4bd74574-ae2b-4363-b960-9a4c055dffde" },
+  { n = 12, title = "Noces", mbid = "a60c1d98-f300-42f7-9700-e87f2f6e458a" },
+]
+
+[[release]]
+mbid = "140a10f7-7378-3c5c-9863-2f688280f72a"
+title = "Partir ou rester"
+type = "single"
+date = "2007"
+tracks = [
+  { n = 1, title = "Partir ou rester", mbid = "93d5027a-d4c9-4a1c-9601-cedd6f4e57b6" },
+]
+
+[[release]]
+mbid = "48fcd486-a65d-488e-b0f1-dcec4d5559a6"
+title = "Fine Mouche EP"
+type = "ep"
+date = "2009-05-29"
+tracks = [
+  { n = 1, title = "Fine Mouche (Original Version)", mbid = "7a9ded6d-d992-4956-b55d-c76f4a9ec859" },
+  { n = 2, title = "Fine Mouche (Piano Version)", mbid = "56e7392a-5657-4129-b267-089ec4eaeb91" },
+  { n = 3, title = "Fine Mouche (Kerosene Remix)", mbid = "f272882f-c719-414a-bcdd-0de69251233c" },
+  { n = 4, title = "Fine Mouche (Athletikk Remix)", mbid = "85b3a8db-4f5c-4c5c-990d-71e50814fa78" },
+]
+
+[[release]]
+mbid = "140385b9-729b-4dcd-9089-53f154f99c11"
+title = "Prohibition"
+type = "album"
+date = "2009-10-05"
+tracks = [
+  { n = 1, title = "Dura Lex", mbid = "e6ade3a4-f67a-48ef-880b-de555af874d2" },
+  { n = 2, title = "Entre guillemets", mbid = "7435aaf1-0129-4cfb-9647-7ac0c0a01365" },
+  { n = 3, title = "La Fiancée de Frankenstein", mbid = "7765db93-65c8-42ef-89f9-5a6738267a55" },
+  { n = 4, title = "Prohibition", mbid = "3790da74-36de-4b28-a08e-1f7adb10de1a" },
+  { n = 5, title = "Il s'en passe", mbid = "f50cfbf0-c760-4fa6-948b-a48593f114ec" },
+  { n = 6, title = "Harem", mbid = "7c2fd580-fb7a-43e5-bf04-1e89392cb4bb" },
+  { n = 7, title = "Pas ce soir", mbid = "e6992428-f7c4-412a-a67d-eae038e82f73" },
+  { n = 8, title = "Soufi", mbid = "4474f1f0-fde6-433a-b87a-4e17ddd2cc4c" },
+  { n = 9, title = "Just You and Me", mbid = "827d81b7-7072-47fa-a20b-75c6aa727954" },
+  { n = 10, title = "Partir ou rester", mbid = "53f17bd4-1988-404f-a650-6d25029b8b83" },
+  { n = 11, title = "Je suis un poète", mbid = "ac892f1c-a4fc-49c0-b176-b396e4aec01b" },
+]
+
+[[release]]
+mbid = "d31cb04f-b701-42b9-91d6-2c7af7fb1d84"
+title = "L’un n’empêche pas l’autre"
+type = "album"
+date = "2011-01-01"
+spotify = "0j49cGW6mbH1AyETk1ANs1"
+tracks = [
+  { n = 1, title = "Dancefloor", mbid = "52a80c50-fb19-464d-9f12-158c5d592516" },
+  { n = 2, title = "Supermarket", mbid = "d03bb4ae-403e-4737-b3ab-f4c1cf9d378c" },
+  { n = 3, title = "Rue Saint‐Louis en l’ile", mbid = "efdc1956-b081-40f7-8adb-b9290d90f638" },
+  { n = 4, title = "Hollywood", mbid = "5df14552-6e07-4d0b-bf17-4d0e9878db62" },
+  { n = 5, title = "Pipeau", mbid = "22b2d1ce-2b22-4991-9d36-808edbcf35b8" },
+  { n = 6, title = "Les Vergers", mbid = "4099e270-1ec4-4d9d-a009-2b44eb07b637" },
+  { n = 7, title = "Gilles de la Tourette", mbid = "b3b7b944-45ff-4afb-9ac8-263cb773e350" },
+  { n = 8, title = "Duel", mbid = "a5bdb157-cb44-4875-8a99-c5720251a4c0" },
+  { n = 9, title = "La Caravane", mbid = "676afe57-2082-4680-9b34-e4f770d253b6" },
+  { n = 10, title = "Inadaptée", mbid = "20139bbe-dbd1-4c8f-9f78-9156685095e3" },
+  { n = 11, title = "Dressing", mbid = "5814743a-e806-4530-8175-47efe85b1beb" },
+  { n = 12, title = "God’s Nightmare", mbid = "54141ee6-2b73-48e8-9f47-a9daa4dd9e9e" },
+  { n = 13, title = "Le Grand Père", mbid = "e9f8154d-1700-498e-a945-1ae8774c3d3c" },
+]
+
+[[release]]
+mbid = "09b81d5a-f4a1-484b-9f19-b4cd287e5764"
+title = "J’ai l’honneur d’être"
+type = "album"
+date = "2013-09-16"
+spotify = "5S8Mesmef9WU9OEnyt0kUa"
+tracks = [
+  { n = 1, title = "Crazy Horse", mbid = "13b7e6cf-9b0e-4ee5-8628-2d4e3839a6ab" },
+  { n = 2, title = "Au diable Dieu", mbid = "dd08ab4e-7f3f-451a-88bf-a5c0883dc86e" },
+  { n = 3, title = "Sur une mer gelée", mbid = "4e814b1a-0bd3-49ba-b741-ea00475d3176" },
+  { n = 4, title = "Delta", mbid = "a4e930f9-da9e-4215-a627-ae41482e70fa" },
+  { n = 5, title = "Les Crocs", mbid = "b5f775e0-aa51-4fcf-9f4c-83342ff41811" },
+  { n = 6, title = "Amour poubelle", mbid = "4af39dbb-5198-4e38-b726-f5079b8fe677" },
+  { n = 7, title = "L’Île au cœur d’enfant", mbid = "e6b099ce-0319-49e8-a1d5-907af3e79377" },
+  { n = 8, title = "Dîner en ville", mbid = "536a392e-8d46-429a-88f2-bffc1843d953" },
+  { n = 9, title = "J’ai l’honneur d’être", mbid = "7e2d678c-9d7c-4073-92fc-f2487414d304" },
+  { n = 10, title = "La Pythonisse", mbid = "7ba73b9a-5854-4717-993d-63a48f661d0c" },
+  { n = 11, title = "Les hommes préfèrent les hommes", mbid = "c786d5c3-2b2e-459a-902f-9e598b43f945" },
+  { n = 12, title = "J’aime", mbid = "dbd1c5a3-a44f-4b14-be42-afbdf4dc5f77" },
+  { n = 13, title = "Père", mbid = "f0cedff7-bd74-4332-910b-b608c77dfb6e" },
+]
+
+[[release]]
+mbid = "9e303458-d034-4453-8788-e467195cc0ad"
+title = "Crazy Horse"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Crazy Horse", mbid = "13b7e6cf-9b0e-4ee5-8628-2d4e3839a6ab" },
+  { n = 2, title = "Les hommes préfèrent les hommes", mbid = "c786d5c3-2b2e-459a-902f-9e598b43f945" },
+]
+
+[[release]]
+mbid = "d292a167-e920-49fa-b4fb-30a542353ac0"
+title = "Vendetta"
+type = "single"
+date = "2019-12-13"
+spotify = "7ypxxheHuVGQcEF725vu6p"
+tracks = [
+  { n = 1, title = "Vendetta", mbid = "90413768-2f2d-49aa-8832-2cf3207ded98" },
+]
+
+[[release]]
+mbid = "5ec2fd20-a919-482b-94a2-bff43f3f02c4"
+title = "Terre neuve"
+type = "album"
+date = "2020-01-24"
+tracks = [
+  { n = 1, title = "Le Tout pour le tout", mbid = "67ed3007-892a-4d17-be7a-e24915119726" },
+  { n = 2, title = "Les Beaux Animaux", mbid = "970d04a3-9933-4b25-961c-117eca2aaf84" },
+  { n = 3, title = "J'irai pas", mbid = "1852a541-0e60-4b5d-8ef7-59c7ad28b004" },
+  { n = 4, title = "Je vous déteste", mbid = "88629950-7630-4330-9f25-9c3c4ab3e662" },
+  { n = 5, title = "Chrysler", mbid = "d39e608b-6dd6-4063-ba6a-61ce32a9c2c3" },
+  { n = 6, title = "Haute sécurité", mbid = "139a8cfb-995c-4e25-9a8c-9274e952b1ca" },
+  { n = 7, title = "Break 1", mbid = "8e5ee893-c3a6-44e6-8d8a-4ac29f0baf0f" },
+  { n = 8, title = "Ragilia", mbid = "282daa22-4d9b-4ec6-b4f2-a206e7f2334a" },
+  { n = 9, title = "God Go to Hell", mbid = "9efea9de-8962-4d65-bc41-f71f6cfa4122" },
+  { n = 10, title = "Blues kenavo", mbid = "7760cd1a-d480-4c9b-8462-ac2e1ac06327" },
+  { n = 11, title = "Vendetta", mbid = "90413768-2f2d-49aa-8832-2cf3207ded98" },
+  { n = 12, title = "Terre neuve", mbid = "c08a972e-eda3-4a5b-8140-41816be85f4e" },
+  { n = 13, title = "Break 2", mbid = "2c0028d0-82fd-4315-ab64-f8db66d2332c" },
+  { n = 14, title = "Hermaphrodite", mbid = "7b17ec1a-c431-42cb-a067-2cc6c55d8380" },
+  { n = 15, title = "Break 3", mbid = "41d99c7b-588f-41b4-ad28-a7a6490a389c" },
+  { n = 16, title = "Parlons d'autre chose", mbid = "90e3af26-bcf8-47d0-8be2-cb6f1ed9552f" },
+  { n = 17, title = "Break 4", mbid = "6458af2d-0d1c-4b8b-8b89-b558911c2c75" },
+]
+
+[[release]]
+mbid = "43f29e18-64ae-4746-9bda-9ae26d552b8c"
+title = "Cantilène"
+type = "single"
+date = "2024-08-30"
+spotify = "09omCG1obwa1akM7aO2kru"
+tracks = [
+  { n = 1, title = "Cantilène", mbid = "1c1fec55-5735-4513-a0ea-1a7d78c529d5" },
+]
+
+[[release]]
+mbid = "b3c3f7d0-620e-438d-b147-e90fa72d7899"
+title = "Pick Up"
+type = "album"
+date = "2024-10-25"
+spotify = "0dL0NFrif6yxFTuBPXJiNY"
+tracks = [
+  { disc = 1, n = 1, title = "Neuf trois", mbid = "d38a48fe-522e-45bb-88db-704b74f3da8b" },
+  { disc = 1, n = 2, title = "Mariage (1)", mbid = "a9564592-07e4-40b5-a175-fe75b01c3e37" },
+  { disc = 1, n = 3, title = "Cantilène", mbid = "c472d22b-a6d5-4b0b-8fb4-f38a71e717b8" },
+  { disc = 1, n = 4, title = "Sac d’os", mbid = "7b769bc0-40c5-4ad8-9fc4-6196a95faf27" },
+  { disc = 1, n = 5, title = "Mariage (2)", mbid = "b74eb121-de58-460b-b189-afd24ec83b03" },
+  { disc = 1, n = 6, title = "Les Animaux", mbid = "2afd23a1-67c0-4c19-aa8a-27a4f0f6f4ed" },
+  { disc = 1, n = 7, title = "Embrassons‐nous", mbid = "355bb6e7-f095-47ec-81a0-11c49e546540" },
+  { disc = 1, n = 8, title = "Comme il est tard", mbid = "0fe38d67-f034-4eb6-a195-ac8e3c2a6a3d" },
+  { disc = 1, n = 9, title = "Crack Boom Crack", mbid = "79e0d6c3-2965-4dd7-89dc-f296f8557f3d" },
+  { disc = 1, n = 10, title = "Mary Poppins", mbid = "f941925c-25fc-424c-8e04-9356084ff2de" },
+  { disc = 1, n = 11, title = "Crevards miteux, pauvres errants", mbid = "5bfa68d3-9009-4a6a-97fa-812d1201331a" },
+  { disc = 1, n = 12, title = "Le beau temps", mbid = "8e5cc4ef-3a56-4b05-bddc-dcb250fd2902" },
+  { disc = 2, n = 1, title = "Neuf trois", mbid = "d38a48fe-522e-45bb-88db-704b74f3da8b" },
+  { disc = 2, n = 2, title = "Mariage (1)", mbid = "a9564592-07e4-40b5-a175-fe75b01c3e37" },
+  { disc = 2, n = 3, title = "Cantilène", mbid = "c472d22b-a6d5-4b0b-8fb4-f38a71e717b8" },
+  { disc = 2, n = 4, title = "Sac d’os", mbid = "7b769bc0-40c5-4ad8-9fc4-6196a95faf27" },
+  { disc = 2, n = 5, title = "Mariage (2)", mbid = "b74eb121-de58-460b-b189-afd24ec83b03" },
+  { disc = 2, n = 6, title = "Les Animaux", mbid = "2afd23a1-67c0-4c19-aa8a-27a4f0f6f4ed" },
+  { disc = 2, n = 7, title = "Embrassons‐nous", mbid = "355bb6e7-f095-47ec-81a0-11c49e546540" },
+  { disc = 2, n = 8, title = "Comme il est tard", mbid = "0fe38d67-f034-4eb6-a195-ac8e3c2a6a3d" },
+  { disc = 2, n = 9, title = "Crack Boom Crack", mbid = "79e0d6c3-2965-4dd7-89dc-f296f8557f3d" },
+  { disc = 2, n = 10, title = "Mary Poppins", mbid = "f941925c-25fc-424c-8e04-9356084ff2de" },
+  { disc = 2, n = 11, title = "Crevards miteux, pauvres errants", mbid = "5bfa68d3-9009-4a6a-97fa-812d1201331a" },
+  { disc = 2, n = 12, title = "Le beau temps", mbid = "8e5cc4ef-3a56-4b05-bddc-dcb250fd2902" },
+]
+
+[[release]]
+mbid = "d6c677f0-a5f0-4ed3-9496-166a7a6e14e8"
+title = "Merde à la mer"
+type = "single"
+date = "2025-05-23"
+spotify = "4Y0qxZssGRDLxtUEO4obK4"
+tracks = [
+  { n = 1, title = "Merde à la mer", mbid = "6d695856-8981-424c-9a35-dcb3b623cc30" },
+]
+
+[[release]]
+mbid = "8805a419-71a3-4b85-8934-4ea4ce94f3c6"
+title = "Baraka 1980"
+type = "album"
+date = "2025-06-13"
+spotify = "0BAfTPOfJC6tWBuj0Czg9N"
+tracks = [
+  { n = 1, title = "Le Ménage", mbid = "4c5198b9-0ec6-4089-9ca0-c57712608d0a" },
+  { n = 2, title = "L’Éternel retour", mbid = "5d79ea39-a86d-4fa5-a6f2-4d626af3adce" },
+  { n = 3, title = "La Traversée", mbid = "09a29e23-8520-45cb-993f-4dcbda673807" },
+  { n = 4, title = "Le Light show", mbid = "82dfa47e-4cf3-4c1f-9682-fa67122be583" },
+  { n = 5, title = "La Vache", mbid = "e4208220-df1b-404a-919e-6c29d255e94c" },
+  { n = 6, title = "Pif", mbid = "fd35a410-7635-4ac0-b8df-90c7a92151fd" },
+  { n = 7, title = "Tout le monde se rappelle peut-être de quoi il s’agit", mbid = "9de67d45-925e-4bad-940b-968bf9e960ac" },
+  { n = 8, title = "La Maison du café", mbid = "5a3132d4-8c6b-4cf8-9730-a9b455ebd800" },
+  { n = 9, title = "Baby boum boum", mbid = "1dd73e86-1a95-4a01-ab8b-1e91969ababb" },
+]
+
+[[release]]
+mbid = "acaa41d7-31a3-4568-8853-9ba7c734403d"
+title = "Inédit 2"
+type = "single"
+date = "2025-11-21"
+spotify = "4LkU1AKuje8kDPDQOBZXYb"
+tracks = [
+  { n = 1, title = "Inédit 2", mbid = "89bcc796-ca3f-48c8-9673-a5395e600913" },
+]
+
+[[release]]
+mbid = "16a76206-b335-4419-a67f-52214a6cbdcd"
+title = "L'été l'été"
+type = "single"
+date = "2026-10-09"
+spotify = "0abhcLV8lrSQDMWgPE5Wma"
+tracks = [
+  { n = 1, title = "L'été l'été", mbid = "fe3b46de-f210-4bcd-ae8c-dd0f6c17aa2d" },
+]
