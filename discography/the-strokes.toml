@@ -1,0 +1,423 @@
+format = 1
+
+[[release]]
+mbid = "2138869a-6cd9-432e-b6df-2644f921a3f1"
+title = "Hard To Explain / New York City Cops"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Hard to Explain", mbid = "48d8d703-806e-47bd-8c5e-3dd1dcbd831b" },
+  { n = 2, title = "New York City Cops", mbid = "97bac3eb-f356-4e2e-912c-30b578eeeb0f" },
+]
+
+[[release]]
+mbid = "8ab12b1c-7071-35b3-a697-12bf55e31f8c"
+title = "Someday"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Someday", mbid = "e8d5c3f6-494f-439a-8f6c-889df2b7a4b8" },
+  { n = 2, title = "Alone, Together (home recording)", mbid = "a44091c3-ab6b-497c-a768-c851d5559726" },
+  { n = 3, title = "Is This It (home recording)", mbid = "30dfa8ce-e520-4b49-8c7f-cdc93d027b0d" },
+]
+
+[[release]]
+mbid = "3d303d4a-b91e-3fb6-8f0d-805a290fd153"
+title = "The Modern Age"
+type = "ep"
+date = "2001-01-22"
+tracks = [
+  { n = 1, title = "The Modern Age", mbid = "32df3c20-ab95-4277-ae9c-b07f352bf05d" },
+  { n = 2, title = "Last Nite", mbid = "c988fa34-8382-43f3-87af-49dc94018c1e" },
+  { n = 3, title = "Barely Legal", mbid = "6cf11791-6278-421e-a620-168259cf237d" },
+]
+
+[[release]]
+mbid = "efea26d1-a016-30f6-b8e2-bc8c02336b0a"
+title = "Is This It"
+type = "album"
+date = "2001-01-27"
+spotify = "2k8KgmDp9oHrmu0MIj4XDE"
+tracks = [
+  { n = 1, title = "Is This It", mbid = "824ec953-d221-4488-8c11-aff83ee7646e" },
+  { n = 2, title = "The Modern Age", mbid = "51e15585-2a4d-4243-b1d6-32ec4fda85ff" },
+  { n = 3, title = "Soma", mbid = "6b72c707-1329-44e5-842d-8c8fae3a2b4d" },
+  { n = 4, title = "Barely Legal", mbid = "f4e25493-e6c0-457c-85cf-144035ddeec2" },
+  { n = 5, title = "Someday", mbid = "e8d5c3f6-494f-439a-8f6c-889df2b7a4b8" },
+  { n = 6, title = "Alone, Together", mbid = "b7bfdd1f-7b50-4498-a742-87b1b65279b5" },
+  { n = 7, title = "Last Nite", mbid = "c988fa34-8382-43f3-87af-49dc94018c1e" },
+  { n = 8, title = "Hard to Explain", mbid = "5105e2ef-4f42-44c5-967d-b1343d4b5827" },
+  { n = 9, title = "New York City Cops", mbid = "501655d7-ceb5-4c76-bd42-312922d38ffa" },
+  { n = 10, title = "Trying Your Luck", mbid = "4468200b-a01a-41a8-9a98-22150e0cc1be" },
+  { n = 11, title = "Take It or Leave It", mbid = "76cdf238-fa93-49a8-a256-fd8cda83338b" },
+]
+
+[[release]]
+mbid = "21012a0d-057d-3364-8240-0cd6cbfe2186"
+title = "Hard to Explain"
+type = "single"
+date = "2001-06-25"
+tracks = [
+  { n = 1, title = "Hard to Explain", mbid = "5105e2ef-4f42-44c5-967d-b1343d4b5827" },
+  { n = 2, title = "New York City Cops", mbid = "501655d7-ceb5-4c76-bd42-312922d38ffa" },
+]
+
+[[release]]
+mbid = "f1132d45-414f-3ce8-b835-16b6a68c58e9"
+title = "Last Nite"
+type = "single"
+date = "2001-11-05"
+tracks = [
+  { n = 1, title = "Last Nite", mbid = "c988fa34-8382-43f3-87af-49dc94018c1e" },
+  { n = 2, title = "When It Started", mbid = "e982a296-6302-4f47-8ccd-db997221bcf3" },
+  { n = 3, title = "Last Nite (live)", mbid = "a153ddb5-1e68-4254-b9d1-a12c3fb42af9" },
+  { n = 4, title = "Take It or Leave It (live)", mbid = "bd4fbfba-1b42-412f-9eab-4e84edea5c47" },
+]
+
+[[release]]
+mbid = "e1805efb-185c-4770-a7f7-04eaa86f97d6"
+title = "Alone, Together (home recording)"
+type = "single"
+date = "2002-09-23"
+spotify = "7Ll34Ibt4hcqonus8MR6o3"
+tracks = [
+  { n = 1, title = "Alone, Together (home recording)", mbid = "8b8ba2e9-490f-4761-8c25-f2df1d1a451d" },
+]
+
+[[release]]
+mbid = "fc2db9ea-43fa-38c3-9fc7-b058e0d34992"
+title = "Reptilia"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Reptilia", mbid = "8f9dec01-c479-4ad4-96b5-0950a97c1a91" },
+  { n = 2, title = "Modern Girls & Old Fashion Men", mbid = "7c1a0e78-7d35-4689-a30a-bbb0d2aff960" },
+  { n = 3, title = "The Way It Is (home demo)", mbid = "3e655962-1daf-4bef-b86d-9fe04775460b" },
+]
+
+[[release]]
+mbid = "6d44b57a-2b9d-372a-b7c2-c670dca997d3"
+title = "Is This It"
+type = "single"
+date = "2003-09-23"
+tracks = [
+  { n = 1, title = "Is This It (home recording)", mbid = "7d7fc155-8b82-4539-9ee6-2ef4e5fb4c2a" },
+]
+
+[[release]]
+mbid = "076ceff7-46f7-41ba-bfe8-02e3719c952c"
+title = "12:51"
+type = "single"
+date = "2003-10-06"
+tracks = [
+  { n = 1, title = "12:51 (album version)", mbid = "661a883e-89b2-4b35-bac5-c8534ed9f39d" },
+  { n = 2, title = "The Way It Is (Home demo)", mbid = "3e655962-1daf-4bef-b86d-9fe04775460b" },
+]
+
+[[release]]
+mbid = "1e9db573-5671-301f-87fc-846a605fe35b"
+title = "Room on Fire"
+type = "album"
+date = "2003-10-16"
+spotify = "3HFbH1loOUbqCyPsLuHLLh"
+tracks = [
+  { n = 1, title = "What Ever Happened?", mbid = "d7fe2aa0-8019-496c-9bb9-f2cfca51951b" },
+  { n = 2, title = "Reptilia", mbid = "8f9dec01-c479-4ad4-96b5-0950a97c1a91" },
+  { n = 3, title = "Automatic Stop", mbid = "67f3edb0-df9b-4dd1-bf96-35293ffa7b57" },
+  { n = 4, title = "12:51", mbid = "661a883e-89b2-4b35-bac5-c8534ed9f39d" },
+  { n = 5, title = "You Talk Way Too Much", mbid = "1b9d85bb-be50-45aa-8c92-2c1b9c008eed" },
+  { n = 6, title = "Between Love & Hate", mbid = "660a3183-ac77-4d31-a636-77901ed1fdd3" },
+  { n = 7, title = "Meet Me in the Bathroom", mbid = "38187971-abb3-42c6-ab69-592791fd4c7d" },
+  { n = 8, title = "Under Control", mbid = "443b203c-7a80-41e7-9c86-2f4e47f025ec" },
+  { n = 9, title = "The Way It Is", mbid = "64943243-20b9-4c70-a62c-a64d9d4359d1" },
+  { n = 10, title = "The End Has No End", mbid = "c01a25e2-f059-47bc-b3ac-8c2acc033887" },
+  { n = 11, title = "I Can’t Win", mbid = "c94c77f3-6f80-400d-993f-203a2988c073" },
+]
+
+[[release]]
+mbid = "a5a70cc4-5c3c-4265-bbf8-d95d657f4f39"
+title = "Elephant Song"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "Elephant Song", mbid = "615341d3-25f5-44ac-a3c1-2db3eff94754" },
+  { n = 2, title = "When It Started (live in Iceland)", mbid = "216c01b9-5552-495a-8a69-16e3ade44d00" },
+]
+
+[[release]]
+mbid = "9fa1d9c5-7da1-37dc-b6e8-33476f846596"
+title = "Modern Girls & Old Fashion Men"
+type = "single"
+date = "2004-02-10"
+spotify = "1JS6yTcVopsE6ROReK30ik"
+tracks = [
+  { n = 1, title = "Modern Girls & Old Fashion Men", mbid = "7c1a0e78-7d35-4689-a30a-bbb0d2aff960" },
+]
+
+[[release]]
+mbid = "16bce75b-9eb2-3dac-8110-d85ae840c9fb"
+title = "The End Has No End"
+type = "single"
+date = "2004-11-01"
+tracks = [
+  { n = 1, title = "The End Has No End", mbid = "c01a25e2-f059-47bc-b3ac-8c2acc033887" },
+  { n = 2, title = "Clampdown (live)", mbid = "5b011c30-fde6-4bb6-9e4e-7085a6527045" },
+]
+
+[[release]]
+mbid = "fcb6d470-c66a-30af-8b7b-0f6bf13e8aaa"
+title = "Juicebox"
+type = "single"
+date = "2005-10-04"
+tracks = [
+  { n = 1, title = "Juicebox", mbid = "db067411-52bf-4569-942d-93f78dea8f6d" },
+]
+
+[[release]]
+mbid = "5ef51a9b-55eb-3400-99a8-47b892e11df7"
+title = "First Impressions of Earth"
+type = "album"
+date = "2005-12-30"
+spotify = "1HQ61my1h3VWp2EBWKlp0n"
+tracks = [
+  { n = 1, title = "You Only Live Once", mbid = "4f9c026f-e959-4edc-9c99-e2b805590a0a" },
+  { n = 2, title = "Juicebox", mbid = "db067411-52bf-4569-942d-93f78dea8f6d" },
+  { n = 3, title = "Heart in a Cage", mbid = "f644cb28-39aa-4530-af8f-e2448b3813ea" },
+  { n = 4, title = "Razorblade", mbid = "66f2f2e3-7d17-428d-907f-dfc2e94be26f" },
+  { n = 5, title = "On the Other Side", mbid = "af8ddd8c-095f-4b88-9ecd-a3d4137bc907" },
+  { n = 6, title = "Vision of Division", mbid = "26232f00-456c-4e1a-ad25-273a7457dcd3" },
+  { n = 7, title = "Ask Me Anything", mbid = "5f96cced-2229-43d8-982b-8f40bc967b4b" },
+  { n = 8, title = "Electricityscape", mbid = "0ccdd189-4390-40c6-bd6b-258a4e91107c" },
+  { n = 9, title = "Killing Lies", mbid = "95d406f5-d872-4f7d-b329-412fff3b439c" },
+  { n = 10, title = "Fear of Sleep", mbid = "7822a77b-7583-4fcd-a438-f1367354175f" },
+  { n = 11, title = "15 Minutes", mbid = "7bb0a7e9-2c1c-4b5d-9503-9ad5693008ec" },
+  { n = 12, title = "Ize of the World", mbid = "be030d26-bdfc-47c2-b190-8bc205feca20" },
+  { n = 13, title = "Evening Sun", mbid = "111dd63e-5d9f-40d0-9fa5-6c7577e25e01" },
+  { n = 14, title = "Red Light", mbid = "96dd7560-f18d-4ef4-a016-93acbc3c0973" },
+]
+
+[[release]]
+mbid = "97189881-85be-3ed1-a8f5-ac1a547ac51a"
+title = "Heart in a Cage"
+type = "single"
+date = "2006-03-20"
+tracks = [
+  { n = 1, title = "Heart in a Cage", mbid = "f644cb28-39aa-4530-af8f-e2448b3813ea" },
+  { n = 2, title = """I'll Try Anything Once ("You Only Live Once" demo)""", mbid = "8cacde9c-547c-4f2c-a064-2ef6eb2cddc7" },
+  { n = 3, title = "Life's a Gas", mbid = "2b3e22ab-6169-4e7f-90c0-7a47e87b0376" },
+]
+
+[[release]]
+mbid = "9a960507-a12e-383e-ac33-61143f20a295"
+title = "You Only Live Once"
+type = "single"
+date = "2006-07-24"
+tracks = [
+  { n = 1, title = "You Only Live Once", mbid = "c7a994fa-617a-4636-8b2a-da957349d68d" },
+  { n = 2, title = "Mercy Mercy Me (The Ecology)", mbid = "5b49bc0c-539d-4e3f-8afc-907c8fc6217d" },
+]
+
+[[release]]
+mbid = "a7c02f93-9c21-4402-9ced-5cabf3f94ff6"
+title = "Under Cover of Darkness"
+type = "single"
+date = "2011-02-10"
+tracks = [
+  { n = 1, title = "Under Cover of Darkness", mbid = "edef8b05-50f3-4b8f-acff-153d29cf46ca" },
+]
+
+[[release]]
+mbid = "82534223-127b-489c-9e52-45091d425208"
+title = "Angles"
+type = "album"
+date = "2011-03-18"
+spotify = "6Jx4cGhWHewTcfKDJKguBQ"
+tracks = [
+  { n = 1, title = "Machu Picchu", mbid = "daef8926-364f-4b4e-a34b-4606a82ebe72" },
+  { n = 2, title = "Under Cover of Darkness", mbid = "edef8b05-50f3-4b8f-acff-153d29cf46ca" },
+  { n = 3, title = "Two Kinds of Happiness", mbid = "4bbe375b-dd2a-4fa4-8801-6561a0f4fa32" },
+  { n = 4, title = "You’re So Right", mbid = "1f4f8b37-cf52-44ff-8da9-896db4ab1af2" },
+  { n = 5, title = "Taken for a Fool", mbid = "10685c32-454b-47d8-bcb7-4b2fc1ac35df" },
+  { n = 6, title = "Games", mbid = "95eedc33-6795-4338-b5d1-0eb6d0a1e484" },
+  { n = 7, title = "Call Me Back", mbid = "c0f95dc9-f1c8-40f7-a141-0ce03c230699" },
+  { n = 8, title = "Gratisfaction", mbid = "09203f1f-7758-410f-8315-0dfe0dfa7a5b" },
+  { n = 9, title = "Metabolism", mbid = "1e84ef48-12c8-49f0-8101-93201ae127a0" },
+  { n = 10, title = "Life Is Simple in the Moonlight", mbid = "b0f1a533-2a53-4885-b377-f8eaf48e485d" },
+]
+
+[[release]]
+mbid = "70177857-9487-4e2b-95f4-6872ca5b3e4a"
+title = "Taken for a Fool"
+type = "single"
+date = "2011-06-24"
+tracks = [
+  { n = 1, title = "Taken for a Fool", mbid = "10685c32-454b-47d8-bcb7-4b2fc1ac35df" },
+  { n = 2, title = "Taken for a Fool (live from Madison Square Garden)", mbid = "f159bfd0-628d-4bd8-865b-63c51297605b" },
+]
+
+[[release]]
+mbid = "98f409c5-425e-4110-9e12-fab9a5e44072"
+title = "All the Time"
+type = "single"
+date = "2013-02-25"
+tracks = [
+  { n = 1, title = "All the Time", mbid = "f23596ab-1984-45d4-bb63-015b89427d23" },
+]
+
+[[release]]
+mbid = "461e255f-b56e-4788-b989-8ff610242b94"
+title = "Comedown Machine"
+type = "album"
+date = "2013-03-22"
+spotify = "4WnkQO4xD9ljQooB3VIxCV"
+tracks = [
+  { n = 1, title = "Tap Out", mbid = "f447b43c-8a15-4996-bf31-779b10b99be0" },
+  { n = 2, title = "All the Time", mbid = "f23596ab-1984-45d4-bb63-015b89427d23" },
+  { n = 3, title = "One Way Trigger", mbid = "92fdd852-9898-40e3-998f-ed35b4657907" },
+  { n = 4, title = "Welcome to Japan", mbid = "f440c86b-d164-4c9d-9129-1a3dffe3ba41" },
+  { n = 5, title = "80’s Comedown Machine", mbid = "199288bb-1da4-40bb-b902-b941355676ff" },
+  { n = 6, title = "50/50", mbid = "0c82c4d7-64ab-4022-ab27-b045b12e1006" },
+  { n = 7, title = "Slow Animals", mbid = "78930281-85f9-464b-9517-a368f2a00ddd" },
+  { n = 8, title = "Partners in Crime", mbid = "220e109e-0f4f-42f3-ad09-37dfe633939a" },
+  { n = 9, title = "Chances", mbid = "1780a0a6-abff-4899-b14f-013754b9d780" },
+  { n = 10, title = "Happy Ending", mbid = "fb82dab4-7273-455a-b6be-78d17d43dafa" },
+  { n = 11, title = "Call It Fate, Call It Karma", mbid = "f77547b6-b113-485b-a327-1ecb3325c47a" },
+]
+
+[[release]]
+mbid = "8e2b0e21-3477-4053-a7d6-0d2713d8ff21"
+title = "One Way Trigger"
+type = "single"
+date = "2013-03-22"
+tracks = [
+  { n = 1, title = "One Way Trigger", mbid = "d09c4d27-6061-4d2f-9768-6b53bb008ece" },
+]
+
+[[release]]
+mbid = "7ab2d537-3ba0-458a-9e28-4289f7143049"
+title = "Fast Animals"
+type = "single"
+date = "2013-03-26"
+spotify = "6sKy9KhjloDKHcoyfY8UgZ"
+tracks = [
+  { n = 1, title = "Fast Animals", mbid = "f8051748-9b99-42a8-99f9-aa830a844a71" },
+]
+
+[[release]]
+mbid = "30a1fa9d-b8c3-4f35-891f-455a978453c8"
+title = "Future Present Past"
+type = "ep"
+date = "2016-06-03"
+spotify = "2OkdkfVKqje8mj7g1iLroV"
+tracks = [
+  { n = 1, title = "Drag Queen", mbid = "9fa16374-fad6-4f69-964a-64769aea986f" },
+  { n = 2, title = "Oblivius", mbid = "009c35c4-8a10-4e82-8c1f-e12414f94962" },
+  { n = 3, title = "Threat of Joy", mbid = "6b093f88-53dc-40fa-ab76-197a64ec26a7" },
+  { n = 4, title = "Oblivius (Fab Moretti remix)", mbid = "135afb35-e32a-44c8-aa35-4d6bf657c72d" },
+]
+
+[[release]]
+mbid = "f9d3fa7c-55bc-44df-a658-1a079e6537d4"
+title = "At the Door"
+type = "single"
+date = "2020-02-11"
+spotify = "2s38at0L4RuSQfDSjQ2Fwr"
+tracks = [
+  { n = 1, title = "At the Door", mbid = "e41b78b9-af0c-44d6-b08c-a85d50517348" },
+]
+
+[[release]]
+mbid = "721ecff9-dae0-4eff-a98a-69599c3aaf41"
+title = "Bad Decisions"
+type = "single"
+date = "2020-02-18"
+spotify = "0XhfCV0t2XTMc5TLirBmT1"
+tracks = [
+  { n = 1, title = "Bad Decisions", mbid = "11afc665-ba01-4a01-b823-4e7af8ea50af" },
+]
+
+[[release]]
+mbid = "b992399f-ae40-4afd-b2d2-e20272c680e2"
+title = "Brooklyn Bridge to Chorus"
+type = "single"
+date = "2020-04-06"
+spotify = "65PUx9jZOVDQJJsid4WbnZ"
+tracks = [
+  { n = 1, title = "Brooklyn Bridge to Chorus", mbid = "e2317c60-3c97-46b2-ad85-8a3965caddac" },
+]
+
+[[release]]
+mbid = "43ca5aa6-92de-47e9-8f0b-9112e4881426"
+title = "The New Abnormal"
+type = "album"
+date = "2020-04-10"
+spotify = "2xkZV2Hl1Omi8rk2D7t5lN"
+tracks = [
+  { n = 1, title = "The Adults Are Talking", mbid = "57b269a0-99eb-4b31-a4d4-ff311f965a3e" },
+  { n = 2, title = "Selfless", mbid = "489416b0-7fce-4261-908b-b8b16b2a9f12" },
+  { n = 3, title = "Brooklyn Bridge to Chorus", mbid = "e2317c60-3c97-46b2-ad85-8a3965caddac" },
+  { n = 4, title = "Bad Decisions", mbid = "11afc665-ba01-4a01-b823-4e7af8ea50af" },
+  { n = 5, title = "Eternal Summer", mbid = "c62e535f-caa2-485a-99ff-e0e847f61f66" },
+  { n = 6, title = "At the Door", mbid = "e41b78b9-af0c-44d6-b08c-a85d50517348" },
+  { n = 7, title = "Why Are Sundays So Depressing", mbid = "a5682ccd-06cc-4fef-904e-b37482ff6689" },
+  { n = 8, title = "Not the Same Anymore", mbid = "99b6ce7b-b268-4c72-b7b0-d98f559dba36" },
+  { n = 9, title = "Ode to the Mets", mbid = "3d5ba249-0bf6-42ec-ae85-52cb31750ea3" },
+]
+
+[[release]]
+mbid = "314720a7-16da-4ab7-9047-51a3ae935875"
+title = "The Modern Age (Rough Trade version)"
+type = "single"
+date = "2023-01-13"
+spotify = "15mVurX4QcbZo1vrsya2VL"
+tracks = [
+  { n = 1, title = "The Modern Age (Rough Trade version)", mbid = "2d195f31-5a9d-46cb-a31f-946f8e666cd9" },
+]
+
+[[release]]
+mbid = "42639e77-f220-4f80-8aa0-a79f76a01fd4"
+title = "Dancing on a Moonbeam"
+type = "single"
+date = "2024-03-15"
+spotify = "2ipcDj0giW3BcFjCd6NjyU"
+tracks = [
+  { n = 1, title = "Dancing on a Moonbeam", mbid = "3146c01b-5237-4ba2-a5ad-85b3c7ec8e93" },
+]
+
+[[release]]
+mbid = "28129d85-0d45-44b6-a10b-1ead53b0a400"
+title = "Going Shopping"
+type = "single"
+date = "2026-04-07"
+spotify = "4XCAqkLSm0CozIX5dQRXPI"
+tracks = [
+  { n = 1, title = "Going Shopping", mbid = "ca036ec4-51b2-42d0-9ba7-2eea9de4eb0a" },
+]
+
+[[release]]
+mbid = "80f31143-a0d0-4ec5-b60f-c4bd0e151605"
+title = "Falling out of Love"
+type = "single"
+date = "2026-05-13"
+spotify = "6VokQYFXJb6vXJJfWtdsQJ"
+tracks = [
+  { n = 1, title = "Falling Out of Love", mbid = "34e894f4-d823-477c-bdc3-d446e746a9d2" },
+]
+
+[[release]]
+mbid = "b9df3445-4699-4221-9994-734c1c912468"
+title = "Reality Awaits"
+type = "album"
+date = "2026-07-24"
+spotify = "6x0nmCMjHeuN3rYBmI5Bor"
+tracks = [
+  { n = 1, title = "Psycho Shit", mbid = "f1f4ec05-451a-4faa-9bbe-eae6aa163b7b" },
+  { n = 2, title = "Dine N’Dash", mbid = "e84c7dc7-0b5c-4a1f-8f4d-213d77e75408" },
+  { n = 3, title = "Lonely in the Future", mbid = "1b037594-c14a-4c31-8e4b-5b7b27c62f37" },
+  { n = 4, title = "Falling out of Love", mbid = "34e894f4-d823-477c-bdc3-d446e746a9d2" },
+  { n = 5, title = "Going to Babble On", mbid = "eb562d11-626c-4b44-a952-8c373305e0ed" },
+  { n = 6, title = "Going Shopping", mbid = "ca036ec4-51b2-42d0-9ba7-2eea9de4eb0a" },
+  { n = 7, title = "Liar’s Remorse", mbid = "9669a092-5ea8-4e02-871b-911d4bf3338d" },
+  { n = 8, title = "The Fruits of Conquest", mbid = "9f894a78-0dbd-452d-aa7d-fd2014e020ab" },
+  { n = 9, title = "Tyrants of the Mellow Moon", mbid = "94c80ab7-8cd4-4651-b26f-7b9cbc16fb6a" },
+]

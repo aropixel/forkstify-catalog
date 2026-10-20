@@ -1,0 +1,326 @@
+format = 1
+
+[[release]]
+mbid = "c38cfa67-5e3d-4661-bdba-4c0760e51f58"
+title = "Greatest sHits"
+type = "album"
+date = "2007-05"
+tracks = [
+  { n = 1, title = "Golden Vine", mbid = "9a40b84e-0465-4328-8ce1-174f5117fb46" },
+  { n = 2, title = "Barnacle Beat", mbid = "c0e9b9b9-a816-4bd6-9a67-8be4c571675f" },
+  { n = 3, title = "Big Wednesday", mbid = "e5a826ca-8bb7-4d0c-8735-8124aa38d820" },
+  { n = 4, title = "Old 8 Legs", mbid = "d7edd6db-66a1-466e-913e-817a90b3bd50" },
+  { n = 5, title = "Red Tide", mbid = "10c0ac8d-43cd-431a-8d61-1ff23e9542fb" },
+  { n = 6, title = "Cobblestone Creep", mbid = "df67395c-d9fd-49e0-a6a6-d6b2e0bd9c03" },
+  { n = 7, title = "Sunset Girl", mbid = "cbecdd91-6281-430f-8b8a-cd9b03c0d116" },
+  { n = 8, title = "Freedom Children", mbid = "5f00c2e7-f0e2-445a-a065-3c035e89e5b9" },
+  { n = 9, title = "Slack Back Boot Man", mbid = "b2101b69-11e3-42cb-a5e5-6ad1518cee50" },
+  { n = 10, title = "Mad Dad the Crusty Crab", mbid = "316854fa-b56a-4344-9984-c2a51c47011a" },
+  { n = 11, title = "Soul of Coral", mbid = "21d75c6d-bcf2-4ed9-8144-61ced96b00ca" },
+  { n = 12, title = "Conquered Sun", mbid = "82449061-7074-48f8-9492-0dca23de8943" },
+  { n = 13, title = "Her Command", mbid = "2b3b379d-d62e-4468-9365-ecdbcc6f349a" },
+  { n = 14, title = "We Think France Sounds Like This", mbid = "7700bd91-a14a-4573-9f10-61503548a7ef" },
+  { n = 15, title = "Swamp Stomp", mbid = "99d2dc44-f168-4434-926a-c353970dd6e4" },
+  { n = 16, title = "Tijuana", mbid = "349089ca-ba3e-4cdb-a99c-7a3dc3e94806" },
+  { n = 17, title = "Lenny Sinpablo Juliano 36th", mbid = "ba1265d1-8311-4cd4-9542-2cb3e1812511" },
+  { n = 18, title = "My Forehead's Dripping Ocean", mbid = "75fd7918-ab89-4ddd-9422-d40978f17dbf" },
+  { n = 19, title = "Oh, Sweet Spirit", mbid = "f940f6e0-87c6-43c2-897a-b2d371c2778e" },
+  { n = 20, title = "Average Man", mbid = "b5870169-8d48-41a2-a744-695b1e448b39" },
+  { n = 21, title = "No Trees in the Desert", mbid = "07c7c95f-391c-4189-9c36-8e7ad8716b11" },
+  { n = 22, title = "Killed My Woman", mbid = "ef342ea2-4c9b-4e55-ba3c-70fdc1b16a28" },
+  { n = 23, title = "Jonesey's Bowl", mbid = "e95cc163-82fd-43ae-a992-86c51f413181" },
+  { n = 24, title = "Johnson's Gone", mbid = "0152a64d-5d95-419b-bcea-0cf41861550c" },
+  { n = 25, title = "The Spell That Made A Word", mbid = "74837ff4-6c52-4f50-9ba0-6cdb0ca4c85d" },
+]
+
+[[release]]
+mbid = "40a13a2a-6fa2-49d1-882f-f2d4c57e5c49"
+title = "Are You in or Out"
+type = "album"
+date = "2009-10-06"
+tracks = [
+  { n = 1, title = "Something Someone Jr.", mbid = "602a37c6-ed2a-4c72-8739-b88eb826ef4c" },
+  { n = 2, title = "A Man With No God", mbid = "bb9cc2e7-4bc4-4846-be85-aedca02f8db6" },
+  { n = 3, title = "Red Tide", mbid = "b27988f4-135c-4918-bd2a-999affe09394" },
+  { n = 4, title = "Swallowed Whole", mbid = "6cafe495-555f-4112-aa11-2a2002d04d60" },
+  { n = 5, title = "Old Cold River", mbid = "894eb9c7-8d9c-4414-a4e4-f3b306dc9b93" },
+  { n = 6, title = "Hoopity Hip", mbid = "d2bff76d-7d3e-46c9-b792-100f6795d170" },
+  { n = 7, title = "Wet Dreams", mbid = "396435d0-f410-4e29-92b1-f1cd9838738b" },
+  { n = 8, title = "Stranger's Road", mbid = "111d78d7-7a8f-44ed-85b4-bb185a5f829a" },
+  { n = 9, title = "Heehaw Stomp", mbid = "b11a0efa-a1c2-437b-87b4-2c4544dcde02" },
+  { n = 10, title = "Barnacle Beat", mbid = "5ac12c40-e507-4d3f-8738-c45f2fa785b8" },
+  { n = 11, title = "Wandering Eyes", mbid = "38261618-64ae-4b77-b7a9-7b2622387850" },
+  { n = 12, title = "Tijuana", mbid = "db279b94-8f36-4518-9054-18523232c659" },
+  { n = 13, title = "Lenny Sinpablo Juliano 36th", mbid = "bae8eeaf-db0f-44e1-80e6-2f02388dd7d9" },
+  { n = 14, title = "Black Jungle Supreme", mbid = "0cba8142-6b8d-4640-9d5d-7353c176544f" },
+  { n = 15, title = "Old 8 Legs", mbid = "7ecfc877-52d4-4460-b2fc-acc68afb76b1" },
+  { n = 16, title = "Acid Rain", mbid = "a24d2862-faeb-4df6-8993-999d7f560814" },
+  { n = 17, title = "Empty Bones", mbid = "47e606a5-268a-47ca-b7bc-c28d02a092a0" },
+  { n = 18, title = "Swamp Stomp", mbid = "7504c00d-2ccf-4f5b-ace6-281d82ed66a0" },
+]
+
+[[release]]
+mbid = "0b7ae4a6-5ea6-4f22-9452-37f316030df0"
+title = "Hot Tropics"
+type = "ep"
+date = "2010-10-06"
+tracks = [
+  { n = 1, title = "Graveyard’s Full", mbid = "1dde4743-fca0-4d48-8d8e-2066e6c65f1f" },
+  { n = 2, title = "Nosebleed Sun", mbid = "011df145-c613-42a9-8228-a2da7733d4ec" },
+  { n = 3, title = "What It Is", mbid = "32f18a04-2692-4e80-b2a6-11e0d80bb756" },
+  { n = 4, title = "The Moaning Man From Shanty Town", mbid = "43005ec5-8108-4380-866c-40d2268b0621" },
+  { n = 5, title = "Sea Lion Goth Blues", mbid = "4ab0fd1e-ab64-48f1-9f03-1ac48fb3625e" },
+  { n = 6, title = "Badlands", mbid = "2d8855d9-65af-490f-ab78-8674ac540e3c" },
+  { n = 7, title = "Let It Be Known", mbid = "c2fb1ae9-0c93-4e3a-bae2-fe9fefcd52a1" },
+  { n = 8, title = "Camino Muerto", mbid = "ce9d8d0f-ea35-4e6a-a612-b52b0e8396c6" },
+  { n = 9, title = "Underneath Our Palms", mbid = "c5eb92c7-5e25-4eb1-8e10-52435e2f5070" },
+  { n = 10, title = "Hula Hula Hideout", mbid = "fe1f5a44-1af2-40bb-822f-56ddc9061561" },
+]
+
+[[release]]
+mbid = "95ba5a10-6c5b-4ed4-941e-64a0f2b8eebe"
+title = "Gay Thoughts"
+type = "single"
+date = "2011"
+tracks = [
+  { n = 1, title = "Gay Thoughts", mbid = "77736af9-3739-4d5a-bf86-238a3d652222" },
+  { n = 2, title = "Feelin’ Good", mbid = "74fa00fd-8014-431c-9db7-c277617446f7" },
+]
+
+[[release]]
+mbid = "3858b038-f950-467e-a99b-e2675c822ad3"
+title = "Growlers / Thee Ludds"
+type = "ep"
+date = "2011-10-03"
+spotify = "6fIfS1ZOwMZ0MvaWrSCYJT"
+tracks = [
+  { n = 1, title = "Graveyard’s Full", mbid = "1dde4743-fca0-4d48-8d8e-2066e6c65f1f" },
+  { n = 2, title = "Something Someone Jr", mbid = "602a37c6-ed2a-4c72-8739-b88eb826ef4c" },
+  { n = 3, title = "Sea Lion Goth Blues", mbid = "a57539f1-9bff-4b91-84e7-c59f765830ec" },
+  { n = 4, title = "Drinkin’ The Juice Blues", mbid = "814683f0-44a2-475d-84c8-4df9c89ae8f1" },
+  { n = 5, title = "People Don’t Change Blues", mbid = "7f873bca-c08b-42d2-8c77-f60c18da4305" },
+  { n = 6, title = "Astral Plane", mbid = "4ae41e50-7610-4971-8f72-1c2581463ec0" },
+  { n = 7, title = "Go Outside", mbid = "a77cff02-faff-4008-9bf8-fbfd6c834427" },
+  { n = 8, title = "Jagged Prowl", mbid = "3d4d3967-9bd1-4a55-ad22-9761a75d9e81" },
+  { n = 9, title = "Feeding Time", mbid = "7a5f1be1-2057-4173-ae5a-317a4a4a5d61" },
+  { n = 10, title = "Hypnagogo", mbid = "afdd3cb3-2e46-4c56-849f-9c2c4b77f6fc" },
+  { n = 11, title = "Parabolic Reflector", mbid = "402ab427-0d5d-4b3e-9fa5-b20dd83fac6c" },
+]
+
+[[release]]
+mbid = "831dfb62-f890-4d60-b087-543cc31d6b10"
+title = "Uncle Sam's A DICK / Drinking Song For Kids"
+type = "single"
+date = "2012-08-08"
+tracks = [
+  { n = 1, title = "Uncle Sam's A DICK", mbid = "0596c1cd-7478-45d1-90b3-04eeff26643e" },
+  { n = 2, title = "Drinking Song For Kids", mbid = "19728ad9-70f9-4d92-bf38-e201da3a3723" },
+]
+
+[[release]]
+mbid = "154aa974-7514-4834-88e7-01d2bbad8751"
+title = "Hung at Heart"
+type = "album"
+date = "2013-01-22"
+tracks = [
+  { n = 1, title = "Someday", mbid = "06249804-5763-40d6-867e-17fbcb1e82b6" },
+  { n = 2, title = "Naked Kids", mbid = "ca65b6f4-7c64-4988-8479-eb3bbc41fe7a" },
+  { n = 3, title = "Salt on a Slug", mbid = "e810b5f0-2305-4823-a22c-67164dca77a2" },
+  { n = 4, title = "One Million Lovers", mbid = "ab963172-ceb3-4d92-99a8-d46ebae4a7cc" },
+  { n = 5, title = "No Need for Eyes", mbid = "2e57149c-7ad7-43f9-9e4a-2c4d16cfc765" },
+  { n = 6, title = "Living in a Memory", mbid = "97e661bc-8bfc-4b12-8bf7-3ee6193dd30b" },
+  { n = 7, title = "Pet Shop Eyes", mbid = "6edac91a-e878-42de-95b3-2aac7d24471b" },
+  { n = 8, title = "In Between", mbid = "86cf652f-1ee9-492d-b2d1-eb22902ef3f9" },
+  { n = 9, title = "Burden of the Captain", mbid = "ab3effcc-9bb5-4eb5-9672-96c3df12ccf7" },
+  { n = 10, title = "Row", mbid = "31cdf8c9-e15d-4481-a73c-42f234a259e2" },
+  { n = 11, title = "It’s No Use", mbid = "3a1bc481-a41b-40e2-a341-84f8e63c0605" },
+  { n = 12, title = "Use Me for Your Eggs", mbid = "5a29648f-39c8-4240-8534-3bdf0e396a4d" },
+  { n = 13, title = "Derka Blues", mbid = "d03b4d06-6931-41c6-aeb7-e62e14d09dd8" },
+  { n = 14, title = "Beach Rats", mbid = "26fdba62-93c5-44eb-87cb-1802387db831" },
+  { n = 15, title = "The Fruit Is for Everyone", mbid = "ea825202-1e73-43dc-b46c-442465ca3a13" },
+]
+
+[[release]]
+mbid = "02599c6b-c1b5-4708-b8fc-02fbf6e460a3"
+title = "Not. Psych!"
+type = "ep"
+date = "2013-10-14"
+tracks = [
+  { n = 1, title = "Dogheart II", mbid = "6b7ab1e6-eef5-479e-a37c-358d332c7ee4" },
+  { n = 2, title = "Hiding Under Covers", mbid = "759b38ec-4210-49b8-925d-4ceac0b3608b" },
+  { n = 3, title = "Tell It How It Is", mbid = "02b8e0ab-7770-48a5-80f0-a19696f8b563" },
+  { n = 4, title = "Humdrum Blues", mbid = "359687ba-379f-4a2d-b079-1b0c3ab07ad4" },
+  { n = 5, title = "Ol' Rat Face", mbid = "fc7af642-21c0-4cdf-ad1d-02f10681de61" },
+  { n = 6, title = "Change In Your Veins", mbid = "9db4f7b3-aa00-48dd-aa70-c2f05c0aaee8" },
+  { n = 7, title = "Nobody Owns You", mbid = "90a975e6-4650-4ad6-9100-33c0ef9d7b54" },
+]
+
+[[release]]
+mbid = "6e83bc6d-879c-4968-b120-cf2be9e8a214"
+title = "Gilded Pleasures"
+type = "ep"
+date = "2013-11-12"
+tracks = [
+  { n = 1, title = "Dogheart 2", mbid = "61061ce4-3cb3-4ac8-bf1b-d0a9d194c6f9" },
+  { n = 2, title = "Hiding Under Covers", mbid = "16a58f95-dbf1-4572-a9dc-984d5ef5c400" },
+  { n = 3, title = "Tell It How It Is", mbid = "8b9bf948-513a-4d2c-90f7-980ee73dc478" },
+  { n = 4, title = "Humdrum Blues", mbid = "66935a48-f319-4313-a6b2-675401b32a1c" },
+  { n = 5, title = "Ol’ Rat Face", mbid = "1f3aa80c-bb32-402f-96fe-202f430c63de" },
+  { n = 6, title = "Change in Your Veins", mbid = "6cfb69cf-7d40-4e84-bf20-f6f8ab00ebcb" },
+  { n = 7, title = "Pretend I’m Gay", mbid = "6d083d08-5271-49b7-8cdd-02b4b911beeb" },
+  { n = 8, title = "Ego of a Man", mbid = "c53a1939-5c50-4bb6-b741-8d8c8a2141d6" },
+  { n = 9, title = "Nobody Owns You", mbid = "d659bb55-6208-421f-9ea6-0020c2699e48" },
+]
+
+[[release]]
+mbid = "042547a6-a910-4ea3-a269-3b024721a6d8"
+title = "Chinese Fountain"
+type = "album"
+date = "2014-09-23"
+tracks = [
+  { n = 1, title = "Big Toe", mbid = "2197a311-eedd-4f77-82f1-8bdcbc1ba4ea" },
+  { n = 2, title = "Black Memories", mbid = "940bea28-3918-4141-bd2a-b39f28a1daab" },
+  { n = 3, title = "Chinese Fountain", mbid = "dea10a72-287b-44b6-b913-e3032ea42756" },
+  { n = 4, title = "Dull Boy", mbid = "95fb58ad-0365-4271-b47a-31a85a8529c8" },
+  { n = 5, title = "Good Advice", mbid = "de48c5ae-1c0e-487e-9813-a6bacf6de1bb" },
+  { n = 6, title = "Going Gets Tough", mbid = "5b504b45-0e72-4027-990e-c93adabd965f" },
+  { n = 7, title = "Magnificent Sadness", mbid = "82e5568a-f793-4c60-a507-3acdc30c12b5" },
+  { n = 8, title = "Love Test", mbid = "bae9dd1f-cae4-41a1-b7f2-a38d6755267d" },
+  { n = 9, title = "Not the Man", mbid = "87f0a05c-7c53-4033-8caf-332cd35ee248" },
+  { n = 10, title = "Rare Hearts", mbid = "1891810f-b77b-4299-86ea-e9993cce59b8" },
+  { n = 11, title = "Purgatory Drive", mbid = "d278e82d-aa75-441f-a854-c4c59f38f156" },
+]
+
+[[release]]
+mbid = "5ebd31ea-7037-4f04-85f7-488c981b1a76"
+title = "Gay Thoughts"
+type = "ep"
+date = "2015-12-08"
+spotify = "1O8EEUmMnk1EmsReCzW1KT"
+tracks = [
+  { n = 1, title = "Gay Thoughts", mbid = "70ad2c77-1d24-482c-99a1-ee2774be02ff" },
+  { n = 2, title = "Feelin Good", mbid = "bf8f0804-d506-41c1-aee5-58555c3760d4" },
+  { n = 3, title = "Uncle Sam's a Dick", mbid = "8d1d4c7b-5440-4a02-a4b4-5ca38ae4d72e" },
+  { n = 4, title = "Drinking Song for Kids", mbid = "b6bf2e15-cd0c-4397-9c78-24465086784f" },
+]
+
+[[release]]
+mbid = "4c2efec8-83eb-47f4-b522-3dbcccce0558"
+title = "City Club"
+type = "album"
+date = "2016-09-30"
+spotify = "4LO26juP3UnGdO3mB2imxl"
+tracks = [
+  { n = 1, title = "City Club", mbid = "4ff76913-32be-446d-ac57-45ac390eb2d9" },
+  { n = 2, title = "I’ll Be Around", mbid = "9f2680bb-8b9f-4bcb-ad46-d0ee7c21ba44" },
+  { n = 3, title = "Vacant Lot", mbid = "84ae7037-ef2c-4dca-bc7b-c4af9210d9f1" },
+  { n = 4, title = "Night Ride", mbid = "7cce4ada-0d3e-44d7-a417-88b81e193c29" },
+  { n = 5, title = "Dope on a Rope", mbid = "9dfd9fc8-7742-42f2-b8ce-05f752c4ed32" },
+  { n = 6, title = "When You Were Made", mbid = "528f7c58-3de7-4d03-8a6d-053f1be85289" },
+  { n = 7, title = "Rubber & Bone", mbid = "37c3f840-caad-48d2-8e79-aad9a66ae84f" },
+  { n = 8, title = "The Daisy Chain", mbid = "9eafaac0-eab3-47af-8b29-98e98f487b4f" },
+  { n = 9, title = "World Unglued", mbid = "533efec8-590a-4a23-80fd-bb879bbe8f9d" },
+  { n = 10, title = "Neverending Line", mbid = "cff6e998-b408-4745-b5b6-e4fa11e1f794" },
+  { n = 11, title = "Too Many Times", mbid = "bc5a85dc-fa63-474d-84e6-7ab38a6308fc" },
+  { n = 12, title = "Blood of a Mutt", mbid = "2404e070-9b8e-4765-8c79-a2f3c3542f16" },
+  { n = 13, title = "Speed Living", mbid = "4ec825f0-24ce-45e4-b4e5-5881beb76a7a" },
+]
+
+[[release]]
+mbid = "e0d85780-33cc-4cdf-9ad9-1cedf3f1be40"
+title = "Late Bloomers"
+type = "single"
+date = "2017-06-02"
+tracks = [
+  { n = 1, title = "Late Bloomers", mbid = "cf73b1d4-9801-4429-bbda-18f937d6d5d0" },
+]
+
+[[release]]
+mbid = "ea164424-9979-4ff2-b5a4-d040311512fc"
+title = "Monotonia"
+type = "single"
+date = "2017-10-06"
+tracks = [
+  { n = 1, title = "Monotonia", mbid = "43115ddd-35c4-4a55-b2a0-b18b96d2cacd" },
+]
+
+[[release]]
+mbid = "cd777569-8a5f-43b4-8ece-6e41b4738486"
+title = "California"
+type = "single"
+date = "2017-11-28"
+tracks = [
+  { n = 1, title = "California", mbid = "459c6962-74a9-4679-91ee-948fba2e9993" },
+]
+
+[[release]]
+mbid = "88585251-4549-429d-aef1-5d8b8e068539"
+title = "Who Loves the Scum?"
+type = "single"
+date = "2018-12-14"
+tracks = [
+  { n = 1, title = "Who Loves the Scum?", mbid = "fe74569c-e9c7-4627-bd78-a6dca6f27bf4" },
+]
+
+[[release]]
+mbid = "4e5aa387-ce5f-4885-886f-39a51679a799"
+title = "Natural Affair"
+type = "single"
+date = "2019-08-02"
+tracks = [
+  { n = 1, title = "Natural Affair", mbid = "6bb61922-5cfe-4682-8539-7aead46c16bd" },
+]
+
+[[release]]
+mbid = "d38c9b3f-56f6-4832-a2c8-4b1615af54e5"
+title = "Natural Affair"
+type = "album"
+date = "2019-10-25"
+tracks = [
+  { n = 1, title = "Natural Affair", mbid = "4420e130-3f91-45f5-9914-a7755d07438c" },
+  { n = 2, title = "Long Hot Night (Halfway To Certain)", mbid = "3e580e3e-6395-4417-9b5e-e1c934d6d79b" },
+  { n = 3, title = "Pulp Of Youth", mbid = "84d31d74-fcca-4133-be50-b7f234812e74" },
+  { n = 4, title = "Social Man", mbid = "f562e892-8193-48d9-a75f-07bac8a294c5" },
+  { n = 5, title = "Foghorn Town", mbid = "d414daa4-b078-4ee7-9937-2f5f8c15d53b" },
+  { n = 6, title = "Shadow Woman", mbid = "93578bbb-83f6-4308-92ed-95ad1fa13d3c" },
+  { n = 7, title = "Truly", mbid = "568637d0-b519-4f17-853a-fb63fe486b5f" },
+  { n = 8, title = "Tune Out", mbid = "587002e6-16d2-4ae0-8445-a8443fc31ea9" },
+  { n = 9, title = "Coinstar", mbid = "9326a0c4-1f3c-4f9e-b42c-050968cc106e" },
+  { n = 10, title = "Stupid Things", mbid = "80f21cd7-1f4b-4f57-99ff-7e941f7b033e" },
+  { n = 11, title = "Try Hard Fool", mbid = "8759be89-944a-4804-9ec7-10e356f97131" },
+  { n = 12, title = "Die and Live Forever", mbid = "5deef83d-8b62-4e73-a312-e8574fa39914" },
+]
+
+[[release]]
+mbid = "1eb20dc0-5dd9-4348-b4f7-b29edf43eb92"
+title = "Dream World"
+type = "single"
+date = "2020-05-08"
+spotify = "0JNNqeHwFn7aJt29hu6oR8"
+tracks = [
+  { n = 1, title = "Dream World", mbid = "789913eb-fb76-489a-8fe9-b62c4aad7bae" },
+  { n = 2, title = "Random Everyone", mbid = "9a18d8c4-c741-43a4-9899-8fc1150b9988" },
+]
+
+[[release]]
+mbid = "ff7d5a20-7730-48ed-9c41-d5d2bc5ee13d"
+title = "Feel My Funk"
+type = "ep"
+date = "2025-09-12"
+tracks = [
+  { n = 1, title = "Feel My Funk", mbid = "a1c7e9d2-75cc-45ed-8fb9-881580518778" },
+  { n = 2, title = "Spider-Eyed / Don't Care", mbid = "d984519b-5af7-4f80-b9ce-7be137f87062" },
+  { n = 3, title = "Tried It All Too Soon", mbid = "1cbb29a9-02e4-40ae-8e83-74db670b1420" },
+  { n = 4, title = "Feel My Funk", mbid = "6d7ac385-fbd7-48db-bad5-16052eeac26b" },
+]
+
+[[release]]
+mbid = "ea619d65-fdc8-487f-9631-d3bb043570a4"
+title = "Unordinary"
+type = "ep"
+date = "2026-03-06"
+tracks = [
+  { n = 1, title = "Unordinary", mbid = "9bec476f-4cd5-40bf-8656-82edae5d4f66" },
+  { n = 2, title = "The Hard Parade", mbid = "ab58657a-17de-4d38-b221-97add4723954" },
+  { n = 3, title = "No Trouble", mbid = "bfeae79d-7c5b-4f1d-a57b-e19b38d45b08" },
+]

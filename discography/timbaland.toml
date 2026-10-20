@@ -1,0 +1,889 @@
+format = 1
+artists = [
+  "daa09819-5da5-4c7a-8bef-eb372bb27ff1",  # Timbaland
+  "a692b7dc-0420-4d00-8b31-1d3773d44116",  # Timbaland & Magoo
+]
+
+[[release]]
+mbid = "9d91c40f-13f5-32d2-8444-002664e121dd"
+title = "Welcome to Our World"
+type = "album"
+date = "1997"
+tracks = [
+  { n = 1, title = "Beep Beep", mbid = "589f0020-db19-4d55-a57e-04d8136925be" },
+  { n = 2, title = "Feel It", mbid = "fc5c4c71-f713-4f32-bc3b-76fa2f0f2227" },
+  { n = 3, title = "Up Jumps da’ Boogie", mbid = "3b8cb2a7-aec0-4cfb-9252-065357bd30ce" },
+  { n = 4, title = "Clock Strikes", mbid = "3769e3a6-7c40-4626-acbd-e6bbed1276fd" },
+  { n = 5, title = "15 After da’ Hour", mbid = "7d3d0b51-8fd6-4bd1-a2bc-b5acd0a8be4d" },
+  { n = 6, title = "Ms. Parker", mbid = "d4307b60-6f25-480c-9660-b2793bfe969a" },
+  { n = 7, title = "Luv 2 Luv U (remix)", mbid = "be2c9352-19c9-4913-a019-5534e9b02053" },
+  { n = 8, title = "Luv 2 Luv U", mbid = "58cc7ea5-17f3-429b-a15a-2eeb31579a39" },
+  { n = 9, title = "Smoke in da’ Air", mbid = "a3504589-36b0-4f22-b33b-882d9b80706c" },
+  { n = 10, title = "Intro Buddha", mbid = "b3acdf1b-fcdc-47f8-9140-abacd693bf0e" },
+  { n = 11, title = "Peepin’ My Style", mbid = "3783253c-73d8-4274-b29a-a2c0ec69a576" },
+  { n = 12, title = "Writtin’ Rhymes", mbid = "fd110ea3-11ef-4ecc-b7b2-0bdb2661815e" },
+  { n = 13, title = "Deep in Your Memory", mbid = "797399e7-9cc0-4852-9440-15c9b2961d5f" },
+  { n = 14, title = "Clock Strikes (remix)", mbid = "26f41da4-28f1-4889-a111-c69ac2c41b18" },
+  { n = 15, title = "Sex Beat (interlude)", mbid = "edac041e-8769-4f15-8dbe-0a3348df6fa4" },
+  { n = 16, title = "Man Undercover", mbid = "6760b55b-3239-48c4-bf37-8860f9a38a9c" },
+  { n = 17, title = "Joy", mbid = "4ed3348e-73c7-47e8-991a-dc98e8d66c64" },
+  { n = 18, title = "Up Jumps da’ Boogie (remix)", mbid = "f0bb5e11-c131-490f-8b97-a157905339b0" },
+]
+
+[[release]]
+mbid = "cf8c05f6-d56e-3c8c-994e-19fab63183f6"
+title = "Up Jumps da Boogie"
+type = "single"
+date = "1997-07-11"
+tracks = [
+  { n = 1, title = "Up Jumps da Boogie (radio version)", mbid = "5819e796-1f74-4df2-a9d7-df4fcd4ddbdc" },
+  { n = 2, title = "Up Jumps da Boogie (short version)", mbid = "44af0fb2-809f-4a1a-9c4b-d67c0cbc29b3" },
+]
+
+[[release]]
+mbid = "b841db13-07f7-3018-812e-24ae66d34559"
+title = "Here We Come"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Here We Come", mbid = "868d3a5e-6562-4892-9bcd-f73eb11a1358" },
+  { n = 2, title = "Talkin' Trash", mbid = "7ae16d9f-ca62-4d3a-9f83-ecff83f8fe92" },
+  { n = 3, title = "I Get It On", mbid = "6ad1d3b0-a649-4f70-99c9-2fa4dea12228" },
+]
+
+[[release]]
+mbid = "aa467199-3dbe-4b9b-a2ac-5f2eb8fc02eb"
+title = "Indian Flute / Naughty Eye"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Indian Flute (Clean)", mbid = "0bf90ede-16c0-42dd-96e4-8b87db81d099" },
+  { n = 2, title = "Indian Flute (Dirty)", mbid = "04293214-8667-4125-9060-3308703104bd" },
+  { n = 3, title = "Indian Flute (Instrumental)", mbid = "be8438a1-2927-406b-af30-3b01fb738eed" },
+  { n = 4, title = "Naughty Eye (Clean)", mbid = "8ec065e3-c982-460d-a27e-59bec54bfa35" },
+  { n = 5, title = "Naughty Eye (Dirty)", mbid = "9608df21-6c88-4943-b8be-2ce45bde8ef5" },
+  { n = 6, title = "Naughty Eye (Instrumental)", mbid = "128dd211-7181-46e4-9b0d-12f377b528f1" },
+]
+
+[[release]]
+mbid = "58e7b65d-5285-4d6f-8f0f-0823d8c2e630"
+title = "Lobster & Scrimp"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Lobster & Scrimp (radio edit)", mbid = "db673d6b-67c1-4a7c-b27d-2245c3e2beba" },
+  { n = 2, title = "Lobster & Scrimp (album version)", mbid = "3b7aa12d-6a8f-406f-bc5f-3332a015db1a" },
+  { n = 3, title = "3:30 in the Morning", mbid = "704ed0ef-95b6-463b-a37c-030a715ad5b7" },
+]
+
+[[release]]
+mbid = "b387dd2a-5b49-47b7-a1fe-2cea2cfd658f"
+title = "Clock Strikes"
+type = "single"
+date = "1998-04-14"
+tracks = [
+  { n = 1, title = "Clock Strikes (remix radio edit)", mbid = "26f41da4-28f1-4889-a111-c69ac2c41b18" },
+  { n = 2, title = "Clock Strikes (remix extended)", mbid = "1680db7b-e10b-4ecc-9d3e-aa0e9fc65768" },
+  { n = 3, title = "Clock Strikes (album version)", mbid = "3769e3a6-7c40-4626-acbd-e6bbed1276fd" },
+  { n = 4, title = "Clock Strikes (remix extended instrumental)", mbid = "dc215ce7-9d68-487a-ad79-51844aecf39f" },
+  { n = 5, title = "Clock Strikes (remix extended a cappella)", mbid = "4188a61f-d0bc-45db-914a-4831801c3412" },
+]
+
+[[release]]
+mbid = "748587d3-03eb-4709-8681-14a0e97db944"
+title = "Get on the Bus"
+type = "single"
+date = "1998-12-07"
+tracks = [
+  { n = 1, title = "Get on the Bus (radio version)", mbid = "4e2532ff-f591-49d0-ba0d-0faf3104fcc8" },
+  { n = 2, title = "Get on the Bus (radio edit w/o rap)", mbid = "b976dff0-a3c0-4c59-9bc4-e1893bb25ae8" },
+  { n = 3, title = "Birthday", mbid = "f061e9ed-ef33-4ebc-ab55-67b732146cff" },
+]
+
+[[release]]
+mbid = "5510043b-4325-4244-8c01-bcf19f16ef6e"
+title = "Can't Nobody"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Can't Nobody (Album Version)", mbid = "46f93307-4df0-42f4-bf4e-426900261dc3" },
+  { n = 2, title = "Can't Nobody (Clean Version)", mbid = "ffc7ce68-55a9-4404-b5d3-dfc9e0a4f95e" },
+  { n = 3, title = "Can't Nobody (Instrumental)", mbid = "98f82755-4f68-4333-97b3-72a8ba8982c6" },
+  { n = 4, title = "Can't Nobody (Acappella)", mbid = "9088ac88-5c2f-405c-855f-a879b1d0d5b8" },
+  { n = 5, title = "You Don't Know (Album Version)", mbid = "fc5c0f91-01ba-41b5-a2ac-dfbd65166e72" },
+  { n = 6, title = "You Don't Know (Clean Version)", mbid = "b6f8ef35-df81-4f0a-b58d-c3a59f586432" },
+  { n = 7, title = "You Don't Know (Instrumental)", mbid = "78d5225c-ed98-4cc7-95e6-4be5a08b03d2" },
+  { n = 8, title = "You Don't Know (Acappella)", mbid = "61a25942-054c-421d-bfd7-a809355a66c5" },
+]
+
+[[release]]
+mbid = "3b2a216f-cfa2-41e9-8c5f-bce978a1308e"
+title = "We At It Again"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "We At It Again (Video Remix)", mbid = "39b71c56-bd30-4507-9852-870bfbfc45fe" },
+  { n = 2, title = "We At It Again (Instrumental Version)", mbid = "b73fd53b-8552-41a0-9487-f45f2d3a5001" },
+  { n = 3, title = "We At It Again (Album Version)", mbid = "b681c6d0-53da-4eed-ba5d-97b1d24b2ef8" },
+]
+
+[[release]]
+mbid = "cf5b67c7-311e-3bb4-90db-2bd1eb49acf9"
+title = "We Need a Resolution"
+type = "single"
+date = "2001-07-09"
+tracks = [
+  { n = 1, title = "We Need a Resolution", mbid = "e36406cb-1680-4da8-999a-c9df6afe6bee" },
+  { n = 2, title = "We Need a Resolution (instrumental)", mbid = "764a6f20-1b0c-46bb-af59-108d8706f525" },
+  { n = 3, title = "We Need a Resolution (no rap)", mbid = "5ec9c60e-4db3-4d8d-a9b2-f7dd0d25aadf" },
+  { n = 4, title = "We Need a Resolution (a cappella)", mbid = "a5a441fb-3e6e-4622-a1d6-02e7cedba54a" },
+]
+
+[[release]]
+mbid = "08725be1-06f3-3015-a9f9-f4403e3eae7b"
+title = "Indecent Proposal"
+type = "album"
+date = "2001-11-19"
+tracks = [
+  { n = 1, title = "Intro", mbid = "100fc528-966f-4b57-8dd5-69fe68cce221" },
+  { n = 2, title = "Drop", mbid = "300b9a0b-dba8-43af-98f1-a78726a2b57f" },
+  { n = 3, title = "All Y’all", mbid = "0ce0e6c6-bf26-497c-9ec9-e950df909162" },
+  { n = 4, title = "It’s Your Night", mbid = "5801ea5e-449d-4911-a67e-cda97ffab1e5" },
+  { n = 5, title = "Indian Carpet", mbid = "b3281982-0816-4ee9-9525-2e208979f736" },
+  { n = 6, title = "Party People", mbid = "cf66369f-8eec-4d7e-8025-841bdbfb79be" },
+  { n = 7, title = "People Like Myself", mbid = "17d72738-54a3-40de-8a58-d9cd37bce860" },
+  { n = 8, title = "Voice Mail", mbid = "750af18c-5f43-4a8a-8ee4-1cc3fb31efb6" },
+  { n = 9, title = "Serious", mbid = "d53d0c77-3d82-466c-b6e7-acef6a98a9ba" },
+  { n = 10, title = "Roll Out", mbid = "53812770-decd-4f9a-93e6-d8a8454155e9" },
+  { n = 11, title = "Love Me", mbid = "dfa55f20-6fa3-4201-aee8-70fcc3af1dda" },
+  { n = 12, title = "Baby Bubba", mbid = "7251fd87-3121-47ce-ac89-97b78cab89d3" },
+  { n = 13, title = "In Time", mbid = "7ed7d801-d0f3-4a7a-ae3f-338e0dea86e5" },
+  { n = 14, title = "Mr. Richards", mbid = "5390fd0d-8951-4648-bb2a-b9c4884e8ffc" },
+  { n = 15, title = "Considerate Brotha", mbid = "89b26444-805c-46cd-a251-84461de5e018" },
+  { n = 16, title = "Beat Club", mbid = "cebabedf-b1c4-4cb9-8036-26e0a6c142dc" },
+  { n = 17, title = "I Am Music", mbid = "d9913bad-8076-484c-ae30-57c4c1bcfb0d" },
+]
+
+[[release]]
+mbid = "c5887e21-5e49-3210-b052-6b43960b19d6"
+title = "Cop That Shit"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Cop That Shit (clean radio edit)", mbid = "375d6c0f-1318-49ae-9b50-5c1b03225b65" },
+  { n = 2, title = "Cop That Shit (Mentor remix) (dirty)", mbid = "5c1fe1f2-7e09-41d5-a938-d36fe9bde9fd" },
+  { n = 3, title = "Drop", mbid = "47c988c2-a0e6-47e5-8555-732900209363" },
+]
+
+[[release]]
+mbid = "f9627e91-88ec-3ab3-82e6-fc9f12288dcb"
+title = "Under Construction, Part II"
+type = "album"
+date = "2003-11-18"
+tracks = [
+  { n = 1, title = "Intro / Straight Outta Virginia", mbid = "756663cf-99ff-4c84-ab94-6fc0909191e5" },
+  { n = 2, title = "Cop That Shit", mbid = "8de7657c-6094-4a6f-864f-cacd84ba7170" },
+  { n = 3, title = "Shenanigans", mbid = "966dc29a-9b14-4080-bcb0-35a5681f03f7" },
+  { n = 4, title = "Leavin’", mbid = "3385c0ad-e22c-45f0-8003-5bc3d9a3d3e4" },
+  { n = 5, title = "That Shit Ain’t Gonna Work", mbid = "4591a541-c7af-40dd-8e03-7d63b4985586" },
+  { n = 6, title = "Don’t Make Me Take It There", mbid = "b4be8fb7-1a1c-4366-a763-0fbf8b7b687a" },
+  { n = 7, title = "Indian Flute", mbid = "a24b3d14-a880-4203-bb49-927a42dfad87" },
+  { n = 8, title = "Can We Do It Again", mbid = "6c21f9ca-726d-4887-919e-07623b3a92e6" },
+  { n = 9, title = "Naughty Eye", mbid = "0616a2ab-00ae-42b7-b89b-cae6b7dc2bc0" },
+  { n = 10, title = "N 2 da Music", mbid = "57d53fe0-8336-4cfe-8335-aeb56c581226" },
+  { n = 11, title = "Hold On", mbid = "d367b308-1552-46cb-8660-e9bfb134411a" },
+  { n = 12, title = "Insane", mbid = "d05da6cb-2ae7-4f7c-bf01-d7ea198014a6" },
+  { n = 13, title = "Throwback", mbid = "53434ec7-d5e1-42ae-91aa-75cb198d89b6" },
+  { n = 14, title = "Hold Cutz", mbid = "a5800052-2de8-4b3d-880c-f8698997303f" },
+  { n = 15, title = "I Got Luv 4 Ya", mbid = "38a2d446-a9d5-420d-91cc-1954def45dd5" },
+  { n = 16, title = "Naughty Eye II (“Hips”)", mbid = "186589ae-ad5b-476a-9294-3e54895164b5" },
+]
+
+[[release]]
+mbid = "04555eea-c758-35d8-be41-58d7bba9cebf"
+title = "Promiscuous"
+type = "single"
+date = "2006-01-01"
+spotify = "1jiR4AiGmajU5oeHXkSwli"
+tracks = [
+  { n = 1, title = "Promiscuous (radio edit)", mbid = "ad2ecc01-e611-4816-8f53-8973b3004459" },
+  { n = 2, title = "Crazy (Radio 1 Live Lounge session)", mbid = "6620e454-5eef-4cd8-b5c3-9b6c4ba0b3a8" },
+]
+
+[[release]]
+mbid = "8ea532ca-03e3-36e7-aea6-1c21e2f4cdb9"
+title = "Give It to Me"
+type = "single"
+date = "2007-02-06"
+tracks = [
+  { n = 1, title = "Give It to Me (radio edit)", mbid = "e19f1f08-9824-4d95-b189-d14ca3d8c7fc" },
+  { n = 2, title = "Give It to Me (instrumental)", mbid = "ce53de51-618a-47c7-8ee7-80aa651d5e84" },
+]
+
+[[release]]
+mbid = "54b13731-592c-340e-b7dc-339691ba54ab"
+title = "Shock Value"
+type = "album"
+date = "2007-03-31"
+spotify = "5gHtwgh9wTdWilWhCmUcYr"
+tracks = [
+  { n = 1, title = "Oh Timbaland", mbid = "95b16bbf-a3a0-4fc4-b55e-e29bcab8843e" },
+  { n = 2, title = "Give It to Me", mbid = "97e92778-b873-400a-89d5-9b9807bbf26a" },
+  { n = 3, title = "Release", mbid = "5abe4a24-88fa-4e5e-80f2-771051f51488" },
+  { n = 4, title = "The Way I Are", mbid = "07e01b4e-0dac-4422-943f-ec6742a822ee" },
+  { n = 5, title = "Bounce", mbid = "1ecf2ee5-92a1-47f4-95b6-c5738cf959e2" },
+  { n = 6, title = "Come and Get Me", mbid = "ef5b3136-c1ca-4dd2-b635-e4d5f2f76851" },
+  { n = 7, title = "Kill Yourself", mbid = "1086ebaf-ad62-42ad-a450-cdfc60830256" },
+  { n = 8, title = "Boardmeeting", mbid = "2c64d893-3000-4068-9b6a-846132691841" },
+  { n = 9, title = "Fantasy", mbid = "98430828-9b4c-4645-b7cf-a93f1e655e01" },
+  { n = 10, title = "Scream", mbid = "2e8dadbe-0415-4f6c-afc2-ad8625c6f71c" },
+  { n = 11, title = "Miscommunication", mbid = "e70a9f79-8eef-4fd0-8d0e-23e554909384" },
+  { n = 12, title = "Bombay", mbid = "b98b0a71-d902-4682-9c24-9eb88f0595a3" },
+  { n = 13, title = "Throw It on Me", mbid = "5118cb2e-df0f-41e7-a9f8-90cc7a4734a9" },
+  { n = 14, title = "Time", mbid = "b77d8750-cb8b-40a2-a796-bc9e717bfbdf" },
+  { n = 15, title = "One and Only", mbid = "12940f64-e3d4-48b2-8ab7-7c5cef793122" },
+  { n = 16, title = "Apologize", mbid = "3c44fba8-01fc-4eb3-8587-1a7f5e9603ae" },
+  { n = 17, title = "2 Man Show", mbid = "9a36bb89-8133-4f3a-964b-fcd402c1b6d9" },
+]
+
+[[release]]
+mbid = "3f942a70-0be8-302b-82f6-73742d1ba116"
+title = "Ayo Technology"
+type = "single"
+date = "2007-07"
+tracks = [
+  { n = 1, title = "Ayo Technology (clean)", mbid = "4ff5923e-e78b-4fad-b516-d912bf771c6a" },
+  { n = 2, title = "Ayo Technology", mbid = "5f9fd972-c5d5-4ff8-8599-f5fd9b8526b9" },
+  { n = 3, title = "Ayo Technology (instrumental)", mbid = "3c0c38a2-64d6-478b-8899-6f72a120b1e9" },
+  { n = 4, title = "Ayo Technology (a cappella)", mbid = "79f22fe0-4d1b-41f0-ad18-23024243d553" },
+]
+
+[[release]]
+mbid = "743e3360-d52e-42fe-8237-5c60ffad5d40"
+title = "Anonymous"
+type = "single"
+date = "2007-07-02"
+tracks = [
+  { n = 1, title = "Anonymous", mbid = "d00051cb-59fb-47b1-b691-9c1a5090edbd" },
+  { n = 2, title = "Let's Go", mbid = "e9ba81e4-3d6f-4205-932c-e1b4b86b6cbc" },
+]
+
+[[release]]
+mbid = "36b606cb-8959-376d-aa75-b4c5b1660f86"
+title = "The Way I Are"
+type = "single"
+date = "2007-07-23"
+tracks = [
+  { n = 1, title = "The Way I Are (France Only version)", mbid = "a43b1eb4-bad2-4416-9f22-86700106853b" },
+  { n = 2, title = "The Way I Are (radio edit)", mbid = "2313cb68-fe6c-4bdd-b165-0edd46247b18" },
+]
+
+[[release]]
+mbid = "37cdf902-b77e-4841-8c95-33095c0941c4"
+title = "Scream"
+type = "single"
+date = "2008-03-07"
+tracks = [
+  { n = 1, title = "Scream (Radio Edit)", mbid = "d41660a3-1bbc-4164-9097-6478d5f7482a" },
+  { n = 2, title = "Scream (A Cappella)", mbid = "28abfadf-6370-4949-ad73-8f407a8481c8" },
+  { n = 3, title = "Scream (Instrumental)", mbid = "862ea2a4-4727-4b19-a412-07dc3d14c426" },
+]
+
+[[release]]
+mbid = "ad529da6-5d93-4e04-9005-a551f2bc39a1"
+title = "Elevator"
+type = "single"
+date = "2008-05-12"
+spotify = "5j2MZwJ4dAGYXzx1zliyRt"
+tracks = [
+  { n = 1, title = "Elevator", mbid = "3666ba61-6b60-4706-bdff-352ee2ef0beb" },
+  { n = 2, title = "Low (Travis Barker remix)", mbid = "16e83ae9-76dd-453f-85df-3ead974a6bf0" },
+  { n = 3, title = "Gotta Eat", mbid = "5fddfe42-d081-4985-a67e-b44837fba757" },
+]
+
+[[release]]
+mbid = "81e83716-06a8-46c9-a664-387d5c8ad5e4"
+title = "Get Involved"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Get Involved (Radio)", mbid = "229c75d7-bd90-4d4c-8122-8ea468405789" },
+  { n = 2, title = "Get Involved (Instrumental)", mbid = "a9c981b0-6dab-44a2-bb10-a1254ba3e330" },
+]
+
+[[release]]
+mbid = "8a4f1172-4e83-489b-94d8-48cbd45b9717"
+title = "Shock Value II"
+type = "album"
+date = "2009-01-01"
+spotify = "2a8Sh6tRZgKM5oQ2KRTfaj"
+tracks = [
+  { disc = 1, n = 1, title = "Intro", mbid = "e1c8e321-1b01-4b3f-8eda-968bdb6a525f" },
+  { disc = 1, n = 2, title = "Carry Out", mbid = "b6515ca0-7a21-4d98-9134-3bdac043c5be" },
+  { disc = 1, n = 3, title = "Lose Control", mbid = "29048bef-39d8-496a-9e47-228acac3ee19" },
+  { disc = 1, n = 4, title = "Meet in tha Middle", mbid = "4e9b133a-ec85-4425-b3e6-1e11ffbfb610" },
+  { disc = 1, n = 5, title = "Say Something", mbid = "9dc51669-f015-484c-a164-3b61f822f5fd" },
+  { disc = 1, n = 6, title = "Tomorrow in the Bottle", mbid = "0a6fc030-19e7-4c02-95d4-35edae11d0d9" },
+  { disc = 1, n = 7, title = "We Belong to the Music", mbid = "3d39d087-305b-4e80-ad4b-a016b52fad53" },
+  { disc = 1, n = 8, title = "Morning After Dark", mbid = "e2756b89-be54-4b71-9e9e-ed86143ab533" },
+  { disc = 1, n = 9, title = "If We Ever Meet Again", mbid = "bd559cdb-71eb-4296-ae97-a797b70fc809" },
+  { disc = 1, n = 10, title = "Can You Feel It", mbid = "bc1e4e3c-339a-46af-9369-8d1268523c77" },
+  { disc = 1, n = 11, title = "Ease Off the Liquor", mbid = "bb327f35-7155-49e7-9131-541f6cbcf650" },
+  { disc = 1, n = 12, title = "Undertow", mbid = "095123a9-d6cf-4fde-9eb7-567c0e077bb0" },
+  { disc = 1, n = 13, title = "Timothy Where You Been", mbid = "e133c981-8f33-4fc9-b04b-249840391b72" },
+  { disc = 2, n = 1, title = "Long Way Down", mbid = "0b7d02c1-62a7-40c2-bc30-ac6ba7395fe8" },
+  { disc = 2, n = 2, title = "Marchin On (Timbo version)", mbid = "ef08163e-1851-4db3-94b2-ac95da6f9bd4" },
+  { disc = 2, n = 3, title = "The One I Love", mbid = "4980bf0b-9794-4410-a149-7dedef64d138" },
+  { disc = 2, n = 4, title = "Symphony", mbid = "3b0ce080-0e46-471d-9861-39889a5350ae" },
+]
+
+[[release]]
+mbid = "7398536e-11a1-4b68-bc4b-9a92d62ca178"
+title = "Return the Favor"
+type = "single"
+date = "2009-04-27"
+tracks = [
+  { n = 1, title = "Return the Favor (radio version)", mbid = "526e34ab-d218-436c-a90d-05ae602da4d5" },
+  { n = 2, title = "Return the Favor (instrumental)", mbid = "6b47afea-a462-475e-813b-d10396d5c5f1" },
+]
+
+[[release]]
+mbid = "ab5e4a5a-4ded-4c29-9512-405ac73b0a2d"
+title = "Morning After Dark"
+type = "single"
+date = "2009-11-29"
+tracks = [
+  { n = 1, title = "Morning After Dark", mbid = "e2756b89-be54-4b71-9e9e-ed86143ab533" },
+  { n = 2, title = "Morning After Dark (Chew Fu 2016 B-Boy Fix remix)", mbid = "efe55259-29ff-442a-8872-2fc27a1abe0e" },
+]
+
+[[release]]
+mbid = "33f07599-23cb-4f01-b2a8-010ce46eb430"
+title = "If We Ever Meet Again"
+type = "single"
+date = "2010-02-14"
+spotify = "7vRchjIhxXVAz5B22h30EY"
+tracks = [
+  { n = 1, title = "If We Ever Meet Again (international radio edit)", mbid = "d097e9e2-5ae5-4b63-8e24-e3eeb886b295" },
+  { n = 2, title = "If We Ever Meet Again (Digital Dog radio remix)", mbid = "7755f18b-20db-4053-a1ac-611c02d7f248" },
+  { n = 3, title = "If We Ever Meet Again (Chew Fu Deja Fix)", mbid = "f0c2cfab-0a78-4722-8291-84725e160ec8" },
+  { n = 4, title = "If We Ever Meet Again (Starsmith remix)", mbid = "24538ff9-b410-46ea-a96a-4da56e76aac3" },
+]
+
+[[release]]
+mbid = "93016351-6874-43ff-b69c-3a4b1c7b9823"
+title = "Talk That"
+type = "single"
+date = "2010-04-13"
+spotify = "2RX7q5uVQFvydPYwaIvK6L"
+tracks = [
+  { n = 1, title = "Talk That", mbid = "d42f626d-9d33-4027-a5bd-96a260ceaa09" },
+]
+
+[[release]]
+mbid = "4eb710f5-82af-4cf6-862f-d8b0530bee62"
+title = "Carry Out"
+type = "single"
+date = "2010-04-26"
+tracks = [
+  { n = 1, title = "Carry Out (album version)", mbid = "bea5ceaa-eb86-49ea-825b-d9b097f4811c" },
+  { n = 2, title = "Carry Out (Chew Fu No MSG Fix remix)", mbid = "c6279cca-dea8-44b8-b32d-a81091c76241" },
+]
+
+[[release]]
+mbid = "7621970f-39eb-4f36-9c85-5c1d8f989377"
+title = "Getaway"
+type = "single"
+date = "2010-06-28"
+spotify = "1xebkj7odw4lr6xStqJbGx"
+tracks = [
+  { n = 1, title = "Getaway", mbid = "e47c6c15-9c11-49b1-b755-0576d440fe73" },
+]
+
+[[release]]
+mbid = "e59771e4-e7d2-4a50-a7ff-f193d93e36aa"
+title = "Pass at Me"
+type = "single"
+date = "2011-09-13"
+spotify = "2XUK6ygHx1aaGvMMArErym"
+tracks = [
+  { n = 1, title = "Pass at Me", mbid = "0aa8a138-6d84-4cfd-919c-9beba538904e" },
+]
+
+[[release]]
+mbid = "d8192da6-23f2-4436-824f-2538bfe8740b"
+title = "Amnesia"
+type = "single"
+date = "2012-01-23"
+spotify = "3I5ODgzwrA1IRe5jQwMEdJ"
+tracks = [
+  { n = 1, title = "Amnesia (Club Mix)", mbid = "658c764e-c7ad-409f-a792-a8ed4e09f565" },
+  { n = 2, title = "Amnesia (Extended Mix)", mbid = "ebb3c230-198b-428a-b921-783850aee645" },
+  { n = 3, title = "Amnesia (CAZZETTE Another Sugar Hunt Mix)", mbid = "a89dbb41-5543-4197-9a5e-d3e06faf9c98" },
+  { n = 4, title = "Amnesia (Firebeatz Remix)", mbid = "e92c6d32-618d-4587-909e-de4e0da109fd" },
+  { n = 5, title = "Amnesia (Ziggy Stardust Remix)", mbid = "d369bfbf-56b5-412d-b4c9-e1a15c163233" },
+  { n = 6, title = "Amnesia (Ralph Good & Chris Gant Remix)", mbid = "23949228-6cc5-4049-ad16-0fda732c00ca" },
+  { n = 7, title = "Amnesia (Yves V Remix)", mbid = "e5d4d837-eb67-4368-85ea-c6c04fe97596" },
+]
+
+[[release]]
+mbid = "c567432c-e905-4538-b46b-54961d6a00bc"
+title = "Break Ya Back"
+type = "single"
+date = "2012-04-17"
+spotify = "1oEWjQjMWCgd57b5iHFBWk"
+tracks = [
+  { n = 1, title = "Break Ya Back", mbid = "4134241b-1e4f-4337-bd70-2aaa02119b40" },
+]
+
+[[release]]
+mbid = "fd69518f-27f0-4f6a-9887-d34f7a78038b"
+title = "Hands in the Air"
+type = "single"
+date = "2012-08-06"
+tracks = [
+  { n = 1, title = "Hands in the Air", mbid = "c614c643-c439-48ed-8933-4b40f60e45c8" },
+]
+
+[[release]]
+mbid = "62a213d0-6be5-49c6-a6d9-2f2973b0767c"
+title = "Pass Out"
+type = "single"
+date = "2012-08-24"
+tracks = [
+  { n = 1, title = "Pass Out", mbid = "7c2267ce-1099-4403-b0be-6595f0625513" },
+]
+
+[[release]]
+mbid = "b8d4283d-541b-449a-9a1a-6009517d9114"
+title = "9th Inning"
+type = "single"
+date = "2012-09-18"
+spotify = "7epMH623fWhzxWOgX7lgZa"
+tracks = [
+  { n = 1, title = "9th Inning", mbid = "88471fd6-8a8c-479d-9061-3c379e1132ac" },
+]
+
+[[release]]
+mbid = "1808bcd7-8353-439e-a520-f1936c65ad3f"
+title = "Missy Elliott"
+type = "single"
+date = "2012-09-18"
+tracks = [
+  { n = 1, title = "Triple Threat", mbid = "3fc16868-c020-4f92-b42c-ff95724fbe6f" },
+]
+
+[[release]]
+mbid = "70a550fb-7dd9-43a2-9089-9ef1b925e015"
+title = "Cop That Shit"
+type = "single"
+date = "2013-06-28"
+spotify = "16hFDQmnjocHSs7q8fMaZJ"
+tracks = [
+  { n = 1, title = "Cop That Shit - Mousse T’s Full Vocal Mix", mbid = "67f49402-11d9-4a86-b8c5-e925fe32abb6" },
+  { n = 2, title = "Cop That Shit - Mousse T’s Instrumental Mix", mbid = "ac8d932e-f27a-4790-b934-b91835e476bd" },
+  { n = 3, title = "Cop That Shit - Mousse T’s Fierce Mix", mbid = "7617c522-07ba-4e3f-addf-e0a7119a3b03" },
+  { n = 4, title = "Cop That Shit - Mousse T’s Fierce Instrumetal Mix", mbid = "802bdf2e-7ff0-4d42-8265-4065ecb620db" },
+]
+
+[[release]]
+mbid = "9e506fa8-56e7-4eac-b1d8-dee92e21aab6"
+title = "Know Bout Me"
+type = "single"
+date = "2013-11-22"
+tracks = [
+  { n = 1, title = "Know Bout Me", mbid = "c4d344ca-5c3a-4e77-964e-4baac8188fa9" },
+]
+
+[[release]]
+mbid = "03246269-fdde-47f8-95ca-0a857cab8862"
+title = "Coke Bottle"
+type = "single"
+date = "2013-12-15"
+tracks = [
+  { n = 1, title = "Coke Bottle", mbid = "c2e25359-85ed-4385-b6a7-0e9f732b0738" },
+]
+
+[[release]]
+mbid = "bd95ef44-f744-430b-b2f9-504348200ca5"
+title = "Smile"
+type = "single"
+date = "2015-09-25"
+tracks = [
+  { n = 1, title = "Smile", mbid = "08641536-e4a9-4758-977d-e4bb845eaa9b" },
+]
+
+[[release]]
+mbid = "692e0b74-c5ab-4b88-aed8-24ea8faa8cbb"
+title = "UFO"
+type = "single"
+date = "2015-10-02"
+spotify = "6AKnI6Xi541knYjiP3JqKW"
+tracks = [
+  { n = 1, title = "UFO", mbid = "aee91b54-156a-437b-876d-17b7d9392a74" },
+]
+
+[[release]]
+mbid = "26e8b16a-1ed4-478a-9efd-18eb821691ba"
+title = "Don't Get No Betta"
+type = "single"
+date = "2016-02-10"
+tracks = [
+  { n = 1, title = "Don't Get No Betta", mbid = "be974f1b-f741-4479-900b-a4e3e88b2a21" },
+]
+
+[[release]]
+mbid = "91b2d634-80eb-4efc-a183-e24cc5a725ea"
+title = "Harmony (From “Skylanders Academy”)"
+type = "single"
+date = "2016-10-27"
+spotify = "2iQUqu44Ff600X4U2cDdxA"
+tracks = [
+  { n = 1, title = "Harmony (From “Skylanders Academy”)", mbid = "bdfee09a-2fff-4ff6-9536-83efa524f913" },
+]
+
+[[release]]
+mbid = "ba018c50-2cb2-4d3e-af9e-bcdc86fee5a4"
+title = "BODY"
+type = "single"
+date = "2016-12-03"
+tracks = [
+  { n = 1, title = "BODY", mbid = "a5eb6b7a-59df-41e5-b89e-ac4c078ae321" },
+]
+
+[[release]]
+mbid = "8305caec-d468-45f0-bc52-9cb8d248ef0c"
+title = "Road"
+type = "single"
+date = "2017-10-13"
+tracks = [
+  { n = 1, title = "Road", mbid = "3fc1463e-6cd9-4383-9eae-2004f747c843" },
+]
+
+[[release]]
+mbid = "aff7067b-e49b-4545-894a-0d69e20b7ea7"
+title = "Grab the Wheel"
+type = "single"
+date = "2017-12-15"
+tracks = [
+  { n = 1, title = "Grab the Wheel", mbid = "a9d45a4e-8d9d-49c5-8d16-efb765987cc1" },
+]
+
+[[release]]
+mbid = "bfbfb27d-ec3a-4aad-bdb7-72adf7d45e71"
+title = "Too Much"
+type = "single"
+date = "2018-08-02"
+tracks = [
+  { n = 1, title = "Too Much", mbid = "a5be0aea-6450-4ae5-b93e-63190f512052" },
+]
+
+[[release]]
+mbid = "e39b9449-2f6b-49b2-8e0e-dd9d230ea436"
+title = "10 Bands"
+type = "single"
+date = "2019-07-11"
+spotify = "4lHpq1nWiVbzo2wTuXWW6q"
+tracks = [
+  { n = 1, title = "10 Bands", mbid = "e7ee1fb5-6ca5-4bf8-a475-dc46a3e8aa43" },
+]
+
+[[release]]
+mbid = "42a4d9e9-e174-4804-8cea-9f9c28b755ee"
+title = "Chase Me"
+type = "single"
+date = "2019-09-23"
+spotify = "1VOT211krIvVC84LHFxUHx"
+tracks = [
+  { n = 1, title = "Chase Me", mbid = "9e9826db-2565-4609-bb0d-68186d7459fc" },
+]
+
+[[release]]
+mbid = "8afa402e-13d2-423d-94d6-8cdafb619fdc"
+title = "Timbaland’s Beat Saber Music Pack by BeatClub"
+type = "ep"
+date = "2020-03-26"
+spotify = "0huZW5ISjHtFKTGHhxkJwm"
+tracks = [
+  { n = 1, title = "Has a Meaning", mbid = "5024f356-717b-45a7-bd6b-0001ade19e43" },
+  { n = 2, title = "Dumb Thingz", mbid = "2297fbf0-5a6a-484a-974b-974ea92de190" },
+  { n = 3, title = "What I Like", mbid = "11709a51-aa88-420d-8932-e28fd9f74174" },
+  { n = 4, title = "Famous", mbid = "c8664d7f-6681-4edd-abc7-35f0ab799394" },
+  { n = 5, title = "While We're Young", mbid = "e4fb8823-8334-40c5-bb91-f2f3973eb335" },
+]
+
+[[release]]
+mbid = "4f70cf5f-aabf-419f-8797-6e58bbab061a"
+title = "Bend the Knee"
+type = "single"
+date = "2020-08-21"
+spotify = "6QWKhJk5owLQ1sr4Aq7QXE"
+tracks = [
+  { n = 1, title = "Bend the Knee", mbid = "4945bff5-31ac-4213-b77a-552fd03ad839" },
+]
+
+[[release]]
+mbid = "6c24d7a3-6a5d-4b77-987a-64e63279cc1c"
+title = "Skin"
+type = "single"
+date = "2020-09-10"
+tracks = [
+  { n = 1, title = "Skin", mbid = "e5e7c39e-d4f1-4661-b7a5-1449cfe61b12" },
+]
+
+[[release]]
+mbid = "39167c98-dd70-46c7-bbea-2128e4fb4024"
+title = "Intruded"
+type = "single"
+date = "2021-02-19"
+tracks = [
+  { n = 1, title = "Intruded", mbid = "0370d6ea-1345-4f8c-a3bd-57843888eb0f" },
+]
+
+[[release]]
+mbid = "1b604d8a-dae8-422e-8fe6-4fb626b3d838"
+title = "The Ugly Song"
+type = "single"
+date = "2021-07-22"
+tracks = [
+  { n = 1, title = "The Ugly Song", mbid = "28001156-d4f8-46a1-84c3-0ecab0d7e9bb" },
+]
+
+[[release]]
+mbid = "e41c34dd-b735-4d5c-9d42-0f564dcd2e11"
+title = "Toc Toc"
+type = "single"
+date = "2022-11-22"
+tracks = [
+  { n = 1, title = "Toc Toc", mbid = "4e29304a-2758-4ee7-b20d-75f0c9c1c89e" },
+]
+
+[[release]]
+mbid = "b12a7dd8-960a-41a0-8440-dc7003cec381"
+title = "I’M THAT BITCH"
+type = "single"
+date = "2023-03-24"
+spotify = "3XZmrh1D5RI5kvz5N6i6Lp"
+tracks = [
+  { n = 1, title = "I’M THAT BITCH", mbid = "d0fa65f0-a134-43dc-8c48-9ca75d7652b6" },
+]
+
+[[release]]
+mbid = "926df38c-791b-4bdb-ba8d-2703d0f74fdd"
+title = "Keep Going Up"
+type = "single"
+date = "2023-09-01"
+spotify = "0leO4lM0iYTks8dy039b7c"
+tracks = [
+  { n = 1, title = "Keep Going Up", mbid = "6cdf5c32-695c-4b04-9f5a-f7daf30782d6" },
+]
+
+[[release]]
+mbid = "40f0fa22-acd3-40bc-9e0a-ba790a25b731"
+title = "Cowboy Capone"
+type = "single"
+date = "2023-09-27"
+spotify = "0Cy64A0Me95BhPop86hQFl"
+tracks = [
+  { n = 1, title = "Cowboy Capone", mbid = "250be05d-a6f8-4be1-a872-6c9dfa554ade" },
+]
+
+[[release]]
+mbid = "eb25228d-e382-4b14-922a-6634b2f20786"
+title = "My Way"
+type = "single"
+date = "2023-10-20"
+spotify = "2kmx7iuGnBVuNlFscd2xky"
+tracks = [
+  { n = 1, title = "My Way", mbid = "79578126-3f2b-4d27-977a-56731888b348" },
+]
+
+[[release]]
+mbid = "49eda01a-7d1b-4c90-a046-a13789ea9411"
+title = "Desire"
+type = "single"
+date = "2023-11-17"
+tracks = [
+  { n = 1, title = "Desire", mbid = "435f318b-3f23-47b6-8ef5-df6aa8f64fc1" },
+]
+
+[[release]]
+mbid = "ec51f6d2-134f-4f74-9e0e-f00229010e05"
+title = "CH3RRY (with N3WYRKLA)"
+type = "single"
+date = "2024-06-14"
+tracks = [
+  { n = 1, title = "CH3RRY (with N3WYRKLA)", mbid = "65eaf7cb-69af-432f-a9f5-cf8a3cb46c46" },
+]
+
+[[release]]
+mbid = "a5f8ed01-e462-4b96-9a3d-e2849b134d04"
+title = "Feel Much Better"
+type = "single"
+date = "2024-11-22"
+spotify = "48EGqDWPVh0n2NPYuQhtvF"
+tracks = [
+  { n = 1, title = "Feel Much Better (extended)", mbid = "e6952638-a693-405b-8bd8-fdabc8a8afeb" },
+]
+
+[[release]]
+mbid = "1d8fd731-848a-4fdd-8c55-9de8c356ce89"
+title = "If It Wasn't Up To Me"
+type = "single"
+date = "2024-11-22"
+tracks = [
+  { n = 1, title = "If It Wasn't Up To Me", mbid = "47181e92-61f7-480e-846b-d6211d58b3a3" },
+]
+
+[[release]]
+mbid = "7b5bf4e7-525b-4557-ba8e-f974bcb8dba2"
+title = "Yellow"
+type = "album"
+date = "2024-12-05"
+tracks = [
+  { n = 1, title = "Far Away", mbid = "7420320d-9efd-46cf-824b-f833baf5ca73" },
+  { n = 2, title = "Solar Eye", mbid = "d7fd7fb4-fcd8-442c-9848-ef4b5c69917f" },
+  { n = 3, title = "Feel Good", mbid = "9955ea69-bfc1-49c9-8893-f953c535550c" },
+  { n = 4, title = "Follow the Flow", mbid = "297f502e-fb4b-42bc-983d-4cb1801a4e71" },
+  { n = 5, title = "Winds of Change", mbid = "5e5ff743-9245-4631-9c19-4ab695d9da3d" },
+  { n = 6, title = "Dreams", mbid = "fa1cee70-92b8-47df-a10d-f8c14620c974" },
+  { n = 7, title = "Simplicity", mbid = "2cf6fef9-5b33-4371-b46e-1b35fdb50b81" },
+  { n = 8, title = "Calling You Home", mbid = "69120cf4-4475-428e-bc23-8974d13707be" },
+  { n = 9, title = "At Night", mbid = "d540fc52-d42d-4859-95b9-aa00f632ed2e" },
+  { n = 10, title = "Equinox", mbid = "ecfafb91-c752-450b-9758-45c2f422690a" },
+]
+
+[[release]]
+mbid = "2fa1b2b8-d40a-426d-b9d4-1f59b2a25ccf"
+title = "Pure Devotion"
+type = "single"
+date = "2025-02-21"
+spotify = "7DZnDNzEp8LsegyVwTL8J1"
+tracks = [
+  { n = 1, title = "Pure Devotion", mbid = "c1a2bff3-2169-4e40-83f9-735e01e93439" },
+]
+
+[[release]]
+mbid = "2510a0fd-39a0-4edc-8223-8bc48b638ad3"
+title = "TIMBO PROGRESSION"
+type = "album"
+date = "2025-03-28"
+spotify = "70u6cm5Wp983688TTctIGW"
+tracks = [
+  { n = 1, title = "Kent's Bounce, Pt. 1", mbid = "10a8e5b3-4ecb-4100-ae9e-a76fb75938f3" },
+  { n = 2, title = "Kent's Bounce, Pt. 2", mbid = "857f4e2e-c23c-4e50-83d8-3b1a893ab7b3" },
+  { n = 3, title = "Motherland", mbid = "aefba482-a161-4ac9-8762-567a5ae9627f" },
+  { n = 4, title = "Lion's Roar", mbid = "ee694eae-b546-4762-9e31-9e1786814522" },
+  { n = 5, title = "KpanLogo Bounce", mbid = "3d955617-ec16-4f00-b7db-1c2cf1fec797" },
+  { n = 6, title = "Gahu Bounce", mbid = "73ecf1c5-0988-486f-a853-ad91634b42f2" },
+  { n = 7, title = "Sabar Bounce", mbid = "ac051b29-a117-4e99-98ad-097b2efef154" },
+  { n = 8, title = "Azonto Bounce", mbid = "e41d1a06-069a-4af6-bc41-4b16238284a7" },
+  { n = 9, title = "Shaku Shaku", mbid = "51a428f1-8892-466e-9fda-a0cbf539aff3" },
+  { n = 10, title = "Takamba", mbid = "2d20de98-891c-4825-a7a1-bd4612253ed6" },
+]
+
+[[release]]
+mbid = "ea9d2366-8e23-4a36-a534-5e22e880676a"
+title = "Treasure"
+type = "single"
+date = "2025-04-25"
+tracks = [
+  { n = 1, title = "Treasure", mbid = "9ea62991-3662-4a13-ae86-290ea5e255ec" },
+]
+
+[[release]]
+mbid = "2d88e5ec-a3f9-4024-bf8c-6a27d0739903"
+title = "Give It to Me 2025"
+type = "single"
+date = "2025-07-11"
+spotify = "0tPiQFFUeHaHJ2FPOcPHcS"
+tracks = [
+  { n = 1, title = "Give It to Me 2025", mbid = "1a719354-4f78-42ff-a55d-885183f819d7" },
+]
+
+[[release]]
+mbid = "833fc033-b7b9-4864-b559-5dad20a54066"
+title = "Toastyyy"
+type = "single"
+date = "2025-07-18"
+tracks = [
+  { n = 1, title = "Toastyyy", mbid = "26dd435d-8e0d-454e-8e8e-b3b453f56137" },
+]
+
+[[release]]
+mbid = "089b80a6-4e5b-417f-8bea-eb390246027b"
+title = "Cry Me a River"
+type = "single"
+date = "2025-08-15"
+tracks = [
+  { n = 1, title = "Cry Me a River", mbid = "acfe8764-66ee-4625-9f1c-f1d114e23b68" },
+]
+
+[[release]]
+mbid = "953ea364-d3a7-415f-9f0d-7111cd54b3a5"
+title = "Cry Me a River"
+type = "single"
+date = "2025-08-15"
+spotify = "1iyL5MD15REXnRbw769U5W"
+tracks = [
+  { n = 1, title = "Cry Me A River", mbid = "8d084e37-c54c-4d5d-90bc-511a2ef95992" },
+]
+
+[[release]]
+mbid = "0a3d5912-ca37-4830-9c26-2a4a758ef941"
+title = "The Message"
+type = "single"
+date = "2025-09-05"
+spotify = "7qYumC5VEhsuYAJKInY7HD"
+tracks = [
+  { n = 1, title = "The Message", mbid = "4e63bd1c-b079-4bb9-a3a7-c076828fbf6a" },
+]
+
+[[release]]
+mbid = "ed674716-659f-4bb4-b6af-c9d298ab3064"
+title = "No Exes"
+type = "single"
+date = "2025-09-19"
+tracks = [
+  { n = 1, title = "No Exes", mbid = "cc78f5be-8cd4-4115-a90e-12037de710e7" },
+]
+
+[[release]]
+mbid = "55eabdec-c3c5-4cbf-8005-11a7e7d132d4"
+title = "Houseboy"
+type = "single"
+date = "2026-03-20"
+spotify = "04lXyW1kr6xRKw89cnqNJO"
+tracks = [
+  { n = 1, title = "Houseboy", mbid = "1cc87887-2dca-4e2d-927d-8dad7b6a3ae5" },
+]
+
+[[release]]
+mbid = "574313e5-407e-407e-aa6e-cf2dd294efa1"
+title = "Red People"
+type = "single"
+date = "2026-07-23"
+spotify = "65jjbesYWCmUM1tq73shbZ"
+tracks = [
+  { n = 1, title = "Red People", mbid = "9ea0becf-4789-4a43-8667-24385c0317c3" },
+]
+
+[[release]]
+mbid = "d0bf3470-43da-4b6f-9704-dbd0510da787"
+title = "SEVEN TRUMPETS"
+type = "album"
+date = "2026-10-30"
+tracks = [
+  { n = 1, title = "GIANTS", mbid = "94b57d40-f675-4912-b7d7-6bcc0a84961f" },
+  { n = 2, title = "WALK ON WATER", mbid = "4fbbe26f-b8e5-4fce-84ae-b18eb6dc783a" },
+  { n = 3, title = "NEW HEAVEN", mbid = "2ade804e-24fc-4ce6-a098-3088bcddf8a2" },
+  { n = 4, title = "GP", mbid = "85a18cf2-ffa3-4306-8e8c-f2358c13ac30" },
+  { n = 5, title = "SAFE!", mbid = "5135cc81-10d3-457b-ade7-23a3f9553fc0" },
+  { n = 6, title = "SCRIPTURES", mbid = "1b20fca5-649e-4bf7-bd49-8a0cb22203e2" },
+  { n = 7, title = "TOP UH IT", mbid = "74d97878-7b6b-4d2f-a97e-a530999188f1" },
+  { n = 8, title = "MERCY", mbid = "cc6b3a39-2e0d-4c23-802a-8d43089ca9f0" },
+  { n = 9, title = "GOD FLOW", mbid = "2b7b4a9c-bcc3-4cec-95ba-6f5aeb44c3aa" },
+  { n = 10, title = "GOODNESS SAKES", mbid = "11e12e56-ba86-4642-ab99-049576f86ffe" },
+  { n = 11, title = "ALL OF YOU", mbid = "efce1544-486e-4e29-ae83-f02cf3506635" },
+  { n = 12, title = "RIGHT OR WRONG", mbid = "a4049e10-25c6-4d30-8e19-04434d6e9930" },
+]

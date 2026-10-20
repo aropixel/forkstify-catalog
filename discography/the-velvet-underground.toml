@@ -1,0 +1,174 @@
+format = 1
+
+[[release]]
+mbid = "65323b00-e2b6-37e0-bebc-b6b4033780ab"
+title = "All Tomorrow’s Parties / I’ll Be Your Mirror"
+type = "single"
+date = "1966-07"
+tracks = [
+  { n = 1, title = "All Tomorrow’s Parties", mbid = "41d13e52-f4c2-4939-8aac-f26da3ba1e4b" },
+  { n = 2, title = "I’ll Be Your Mirror", mbid = "9af03ec8-6b7d-4b4e-8e64-5967d084eb9a" },
+]
+
+[[release]]
+mbid = "a391b4bb-eee7-3eb1-b225-6ee901eb47f7"
+title = "Sunday Morning / Femme Fatale"
+type = "single"
+date = "1966-12"
+tracks = [
+  { n = 1, title = "Sunday Morning", mbid = "5187616d-baf0-4aff-b650-25ff32ab19d8" },
+  { n = 2, title = "Femme Fatale", mbid = "5020a167-874c-4295-b995-f481314d5e9e" },
+]
+
+[[release]]
+mbid = "0a2479fb-880e-40be-8ec8-487443bb0e80"
+title = "White Wind / Loop"
+type = "single"
+date = "1966-12"
+tracks = [
+  { n = 1, title = "White Wind (A Love Raga)", mbid = "df380f24-7812-49d1-ba96-476101f0d301" },
+  { n = 2, title = "Loop", mbid = "5e9761d6-d59a-42be-8b64-ebdcab852a32" },
+]
+
+[[release]]
+mbid = "5cbd9d7b-597a-3c5e-bfd1-c2b364215560"
+title = "The Velvet Underground & Nico"
+type = "album"
+date = "1967-03"
+spotify = "4xwx0x7k6c5VuThz5qVqmV"
+tracks = [
+  { n = 1, title = "Sunday Morning", mbid = "f0d80089-d2b5-40b3-8359-1b0b752249ba" },
+  { n = 2, title = "I’m Waiting for the Man", mbid = "2236688e-d48e-441a-a5bf-57a2c847f62e" },
+  { n = 3, title = "Femme Fatale", mbid = "7778a905-27a7-49b3-adee-d5d7a0ddeb12" },
+  { n = 4, title = "Venus in Furs", mbid = "b38283c0-552d-44c0-b08c-681826e297dd" },
+  { n = 5, title = "Run Run Run", mbid = "cd7749c5-8d67-4f43-94ea-cc8c2e4be415" },
+  { n = 6, title = "All Tomorrow’s Parties", mbid = "c0b5d1e6-5e90-4aa1-9274-c57dea327452" },
+  { n = 7, title = "Heroin", mbid = "1c27e38f-3d61-4b31-ad1c-eeb9a48a8418" },
+  { n = 8, title = "There She Goes Again", mbid = "e78b4430-cec3-4d21-b7a5-413f703c37ac" },
+  { n = 9, title = "I’ll Be Your Mirror", mbid = "27abbab8-834e-44ff-b170-f3e34de8a942" },
+  { n = 10, title = "The Black Angel’s Death Song", mbid = "166d5156-09e8-4cc7-a777-3f7d11fe3bfb" },
+  { n = 11, title = "European Son", mbid = "0f4bd780-01b5-451f-9c8f-f741a6c10f5e" },
+]
+
+[[release]]
+mbid = "88d1da56-ce51-4109-a5ab-bf3b04edd833"
+title = "White Light/White Heat"
+type = "single"
+date = "1967-11"
+tracks = [
+  { n = 1, title = "White Light/White Heat", mbid = "3882c627-e287-4fd9-b9e9-7f42505391bb" },
+  { n = 2, title = "Here She Comes Now", mbid = "6f8ae645-87b7-4082-9ee7-1defa2a5e8d0" },
+]
+
+[[release]]
+mbid = "fc0885e0-0284-3f9d-81ee-17c5e7196346"
+title = "White Light/White Heat"
+type = "album"
+date = "1968-01-30"
+spotify = "0HHmJpwOXXRJu9HI9iQiEO"
+tracks = [
+  { n = 1, title = "White Light/White Heat", mbid = "c7070224-9860-4851-b5df-999222c0aec7" },
+  { n = 2, title = "The Gift", mbid = "6631e51b-75e1-4daa-8f9a-3861840a357d" },
+  { n = 3, title = "Lady Godiva’s Operation", mbid = "0bc262e0-9fed-4e3d-8815-a81dc41c2af2" },
+  { n = 4, title = "Here She Comes Now", mbid = "6f8ae645-87b7-4082-9ee7-1defa2a5e8d0" },
+  { n = 5, title = "I Heard Her Call My Name", mbid = "44ca957f-73f7-49ef-b5b6-95832fa4f815" },
+  { n = 6, title = "Sister Ray", mbid = "8e4b966b-7690-47cf-9891-5de2e1b023a1" },
+]
+
+[[release]]
+mbid = "a616dcf5-7a1f-3afe-a53b-27281c2bf75e"
+title = "The Velvet Underground"
+type = "album"
+date = "1969-03-01"
+spotify = "2HOf3Nb44Us8U9oEtKLSrX"
+tracks = [
+  { n = 1, title = "Candy Says", mbid = "62986d4d-8a72-4f24-b8c7-f5cd5a9cc8f9" },
+  { n = 2, title = "What Goes On", mbid = "d745b2da-ae03-4587-9dd5-b342dc26e981" },
+  { n = 3, title = "Some Kinda Love", mbid = "0afe21eb-9fe9-4e17-8394-6c7a615dba21" },
+  { n = 4, title = "Pale Blue Eyes", mbid = "f756e289-1c53-4450-a7af-93e8b8cb0ac2" },
+  { n = 5, title = "Jesus", mbid = "ba31552e-2761-45ba-9978-c57ee355b255" },
+  { n = 6, title = "Beginning to See the Light", mbid = "2e54bb4e-cef7-469f-89c5-7d17d173ead0" },
+  { n = 7, title = "I’m Set Free", mbid = "3d157b56-b37a-4622-8073-33d5be27f58a" },
+  { n = 8, title = "That’s the Story of My Life", mbid = "0167b5ba-6dae-4828-a088-1d16c72df5cf" },
+  { n = 9, title = "The Murder Mystery", mbid = "ad33efe3-0eb3-4aae-a7ff-dfe35341ca29" },
+  { n = 10, title = "After Hours", mbid = "e2bcb1a4-efde-42dc-b410-0ac0a3cb9233" },
+]
+
+[[release]]
+mbid = "4be9d91f-6ed7-34b8-aa5e-45be79819273"
+title = "Loaded"
+type = "album"
+date = "1970-09"
+spotify = "4RMGrhJRnGiNqmKqhqpLlX"
+tracks = [
+  { n = 1, title = "Who Loves the Sun", mbid = "8c30b395-3c3a-44ce-86f5-47cd5469c165" },
+  { n = 2, title = "Sweet Jane", mbid = "ee12e8d2-516f-41af-ad35-d6b38bc124c6" },
+  { n = 3, title = "Rock & Roll", mbid = "a96ff12c-41aa-40ff-aa66-995d4e305220" },
+  { n = 4, title = "Cool It Down", mbid = "a6e32771-eefe-432f-98f8-948cc6a5087a" },
+  { n = 5, title = "New Age", mbid = "1a939474-18c1-471d-bec3-dfb94e14fa05" },
+  { n = 6, title = "Head Held High", mbid = "3ef09ef4-605d-4a9d-8801-27c7de94402f" },
+  { n = 7, title = "Lonesome Cowboy Bill", mbid = "347e2a2d-28d7-4856-87a5-30c6107fbb59" },
+  { n = 8, title = "I Found a Reason", mbid = "346ab4a2-1d94-4b1e-a688-495e1bae37bb" },
+  { n = 9, title = "Train Round the Bend", mbid = "747e1761-ddda-4e0c-8e58-77e72308dfe6" },
+  { n = 10, title = "Oh! Sweet Nuthin’", mbid = "a9aa3d47-ac20-49b7-ae7a-7d24efc4b85b" },
+]
+
+[[release]]
+mbid = "f5a202e7-94e1-41a9-a853-671c005ed470"
+title = "Sweet Jane / Rock And Roll"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Sweet Jane", mbid = "7067a77c-b9b3-446a-a45a-34056e3fc822" },
+  { n = 2, title = "Rock And Roll", mbid = "d12da802-db35-4fd0-96cc-b12ade891afc" },
+]
+
+[[release]]
+mbid = "4e4dd311-d834-4b7b-9f0f-c842ff21657e"
+title = "Who Loves The Sun"
+type = "single"
+date = "1971-04-30"
+tracks = [
+  { n = 1, title = "Who Loves The Sun", mbid = "8c30b395-3c3a-44ce-86f5-47cd5469c165" },
+  { n = 2, title = "Sweet Jane", mbid = "b9fc190a-0339-47bb-8e20-062d9f81e862" },
+]
+
+[[release]]
+mbid = "d1952e89-80fa-3746-a3c8-dd10f855f832"
+title = "Squeeze"
+type = "album"
+date = "1972"
+spotify = "1OtiNKc6jbz5Ycz1BoCBDb"
+tracks = [
+  { n = 1, title = "Little Jack", mbid = "8bc5e100-b803-4fdc-b814-6cc9db44b286" },
+  { n = 2, title = "Crash", mbid = "06de8e62-52fc-4b59-aa77-0fdb7f22fa71" },
+  { n = 3, title = "Caroline", mbid = "ae975efe-7450-4278-8381-834a5aa7ac0a" },
+  { n = 4, title = "Mean Old Man", mbid = "559d066d-74ee-466b-9858-e6edb5923bd0" },
+  { n = 5, title = "Dopey Joe", mbid = "74961a59-a536-4ac4-9070-cbff97b7ea0f" },
+  { n = 6, title = "Wordless", mbid = "4f9e45ff-2de8-4641-aef4-388b6ff45ae2" },
+  { n = 7, title = "She’ll Make You Cry", mbid = "c3b56557-5fe1-4247-9237-71dd21f07ba9" },
+  { n = 8, title = "Friends", mbid = "198b28de-7e6a-46e3-86c0-032b566feb3a" },
+  { n = 9, title = "Send No Letter", mbid = "fcc646a0-5437-4705-9298-8becd5add5d9" },
+  { n = 10, title = "Jack & Jane", mbid = "36a85848-05f6-499d-80e4-69c7ac13529a" },
+  { n = 11, title = "Louise", mbid = "87c4fa4e-a082-4114-9681-fc67c1248213" },
+]
+
+[[release]]
+mbid = "9b47c8c2-7873-4f35-b7e5-38c6e7254188"
+title = "Foggy Notion / I Can't Stand It"
+type = "single"
+date = "2011-04-16"
+tracks = [
+  { n = 1, title = "Foggy Notion", mbid = "a133666d-ca20-4da5-a607-5594db6e7dde" },
+  { n = 2, title = "I Can't Stand It", mbid = "dec91505-c6e7-40aa-8aaa-09da8d3e2fca" },
+]
+
+[[release]]
+mbid = "b97eead1-5ae5-47fc-a10d-602bf12995d4"
+title = "Rock & Roll (mono)"
+type = "single"
+date = "2015-10-21"
+spotify = "5PmtnEdYPuMpE92ob4iQfH"
+tracks = [
+  { n = 1, title = "Rock & Roll (mono; 2015 remaster)", mbid = "20f68be4-4d96-4cbb-ad05-52fe8941ff99" },
+]

@@ -1,0 +1,376 @@
+format = 1
+
+[[release]]
+mbid = "90df90fa-365b-3215-93d3-b33245e7b8a3"
+title = "Hand in Glove"
+type = "single"
+date = "1983-05-13"
+tracks = [
+  { n = 1, title = "Hand in Glove", mbid = "b30b7a78-a338-4e24-881e-962292e691da" },
+  { n = 2, title = "Handsome Devil (live)", mbid = "070d0873-bb53-4d50-a185-f147d65f07c2" },
+]
+
+[[release]]
+mbid = "16d80b1e-b179-4e9a-9b70-814d5011bc33"
+title = "This Charming Man"
+type = "single"
+date = "1983-10-28"
+tracks = [
+  { n = 1, title = "This Charming Man", mbid = "518e815a-f1a6-41ec-a302-98e6605deafb" },
+  { n = 2, title = "Accept Yourself", mbid = "570b1ba2-b303-4042-b8a3-ef7f637b7aeb" },
+  { n = 3, title = "Wonderful Woman", mbid = "3d2ede89-f119-4fb3-a0b2-3b485e84e0b8" },
+  { n = 4, title = "This Charming Man (US remixed)", mbid = "6d39443c-f024-4e88-8064-b4f77f40b1f1" },
+]
+
+[[release]]
+mbid = "49945a24-096a-3e99-aa1b-5226e39b44af"
+title = "How Soon is Now?"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "How Soon Is Now? (long version)", mbid = "cae8bbec-c2ff-4972-9218-8f90acb07b1b" },
+  { n = 2, title = "Girl Afraid", mbid = "725ff6ce-094f-433f-88b7-c53c3cf86301" },
+  { n = 3, title = "How Soon Is Now? (edit)", mbid = "661fa050-251c-4f98-91d3-d71ab8ee95b6" },
+]
+
+[[release]]
+mbid = "dd877f79-acef-3320-b4f8-587c52fc3def"
+title = "What Difference Does It Make?"
+type = "single"
+date = "1984-01-16"
+tracks = [
+  { n = 1, title = "What Difference Does It Make?", mbid = "a3a5be8a-3fb2-4a32-a739-ddcfaa603dec" },
+  { n = 2, title = "Back to the Old House", mbid = "f80ec10d-2d9d-4a6e-b562-ed5d0039909b" },
+]
+
+[[release]]
+mbid = "c3ecaf4d-d994-3ca1-b804-620690fb8f38"
+title = "Still Ill"
+type = "single"
+date = "1984-02"
+tracks = [
+  { n = 1, title = "Still Ill", mbid = "e37c0027-af34-4062-a8f5-f12f46136494" },
+  { n = 2, title = "Reel Around the Fountain", mbid = "9657a222-c178-4f41-9d3d-b46f4e77a243" },
+  { n = 3, title = "Please, Please, Please, Let Me Get What I Want", mbid = "8bfcdf04-af90-4a12-adfd-73a5d38b47ba" },
+]
+
+[[release]]
+mbid = "91811b68-aa6e-35b3-a5e1-6a2733eb6ae9"
+title = "The Smiths"
+type = "album"
+date = "1984-02-20"
+spotify = "6cI1XoZsOhkyrCwtuI70CN"
+tracks = [
+  { n = 1, title = "Reel Around the Fountain", mbid = "5fa2484b-f2e0-4391-b755-f4f1d85d7789" },
+  { n = 2, title = "You’ve Got Everything Now", mbid = "2cc340db-714a-45ab-9708-5aabf9860a0e" },
+  { n = 3, title = "Miserable Lie", mbid = "a489a3e3-26f9-43c2-bd6c-40163196302b" },
+  { n = 4, title = "Pretty Girls Make Graves", mbid = "89b8fc25-0c38-4f89-a093-a501e27a369e" },
+  { n = 5, title = "The Hand That Rocks the Cradle", mbid = "a190b4f7-7699-45d7-a59f-7817a2a1365b" },
+  { n = 6, title = "Still Ill", mbid = "8fb07b65-3d0a-45b5-9d05-7d9953fe5801" },
+  { n = 7, title = "Hand in Glove", mbid = "5c51973e-c569-473f-bfe7-0a48b70c1879" },
+  { n = 8, title = "What Difference Does It Make?", mbid = "ca51dca9-58e1-4a94-9ad9-fed58af17c13" },
+  { n = 9, title = "I Don’t Owe You Anything", mbid = "735c2c49-f309-4060-bb6a-19bb291916c9" },
+  { n = 10, title = "Suffer Little Children", mbid = "7bad20d3-e2e9-4c8f-a275-13ddb67fa8fc" },
+]
+
+[[release]]
+mbid = "7911bec3-8ef7-320e-aea1-4e16d9c62ad4"
+title = "Heaven Knows I’m Miserable Now"
+type = "single"
+date = "1984-05-25"
+tracks = [
+  { n = 1, title = "Heaven Knows I’m Miserable Now", mbid = "69cabdb6-0909-4177-b41d-6f39e75c250b" },
+  { n = 2, title = "Girl Afraid", mbid = "725ff6ce-094f-433f-88b7-c53c3cf86301" },
+  { n = 3, title = "Suffer Little Children", mbid = "7ee91f22-10b9-42b8-b484-e2fc7e5a453c" },
+]
+
+[[release]]
+mbid = "1f5c65c1-52f8-3bfc-8171-bd951350e5e0"
+title = "William, It Was Really Nothing"
+type = "single"
+date = "1984-08-20"
+tracks = [
+  { n = 1, title = "William, It Was Really Nothing", mbid = "218f0f63-2d0d-4819-be71-ae548c8b2cd2" },
+  { n = 2, title = "How Soon Is Now?", mbid = "cae8bbec-c2ff-4972-9218-8f90acb07b1b" },
+  { n = 3, title = "Please Please Please Let Me Get What I Want", mbid = "8bfcdf04-af90-4a12-adfd-73a5d38b47ba" },
+]
+
+[[release]]
+mbid = "014345b3-ccec-36ac-ade9-71dc6c812bcc"
+title = "The Headmaster Ritual"
+type = "single"
+date = "1985"
+tracks = [
+  { n = 1, title = "The Headmaster Ritual", mbid = "ca78240d-0721-44ff-8d20-e469c8759770" },
+  { n = 2, title = "Nowhere Fast (live)", mbid = "c693199c-5ab7-4cf5-a8e3-bd276f2ac4ce" },
+  { n = 3, title = "Stretch Out and Wait (live)", mbid = "32d6327a-199d-48e0-9ba7-1a503a4a2b67" },
+  { n = 4, title = "Shakespeare’s Sister (live)", mbid = "f3bc4fc7-0ce5-4a5c-8e88-6281cfba48b5" },
+  { n = 5, title = "Meat Is Murder (live)", mbid = "386c49c7-1c89-447c-b32e-27fa500b6976" },
+]
+
+[[release]]
+mbid = "0d56a04c-045a-37db-bcc3-6c7099e94f16"
+title = "Meat Is Murder"
+type = "album"
+date = "1985-02-11"
+spotify = "5DM1qCdgGt2zbknnsVn1Ca"
+tracks = [
+  { n = 1, title = "The Headmaster Ritual", mbid = "ffa57215-f864-4e1d-a5b2-b24927b681ce" },
+  { n = 2, title = "Rusholme Ruffians", mbid = "dd06868b-ff3b-4149-8014-0ba025c9a191" },
+  { n = 3, title = "I Want the One I Can’t Have", mbid = "eac92695-aeea-49d6-8c39-63ea348ca54d" },
+  { n = 4, title = "What She Said", mbid = "94233dce-00a3-4c97-8843-0eb838fc3ee2" },
+  { n = 5, title = "That Joke Isn’t Funny Anymore", mbid = "686e7534-cab9-4c01-b9f9-b01983da9faf" },
+  { n = 6, title = "How Soon Is Now?", mbid = "cae8bbec-c2ff-4972-9218-8f90acb07b1b" },
+  { n = 7, title = "Nowhere Fast", mbid = "70b5e517-72e2-400d-9e68-c7ac7139c66c" },
+  { n = 8, title = "Well I Wonder", mbid = "86439501-9ded-4d39-ae90-9dafa5e228d1" },
+  { n = 9, title = "Barbarism Begins at Home", mbid = "66b5aa0f-d7af-444f-ba55-9923d4486392" },
+  { n = 10, title = "Meat Is Murder", mbid = "be97c58a-e25d-4166-8909-a891f7fdb0a3" },
+]
+
+[[release]]
+mbid = "7c56b520-1f24-3d5b-a400-3f1168958953"
+title = "Shakespeare’s Sister"
+type = "single"
+date = "1985-03-18"
+tracks = [
+  { n = 1, title = "Shakespeare’s Sister", mbid = "6b124644-5e08-4a6a-ae5b-07494854f369" },
+  { n = 2, title = "What She Said", mbid = "7f3880d1-080a-4604-a387-097e06413862" },
+]
+
+[[release]]
+mbid = "09478f3b-4c91-3f3c-bdd6-a6665f92d15d"
+title = "Barbarism Begins at Home / Shakespeare’s Sister"
+type = "single"
+date = "1985-04"
+tracks = [
+  { n = 1, title = "Barbarism Begins at Home", mbid = "0eef4729-8b7d-4fa0-b8cf-a530773a8931" },
+  { n = 2, title = "Shakespeare's Sister", mbid = "6b124644-5e08-4a6a-ae5b-07494854f369" },
+]
+
+[[release]]
+mbid = "83ad7c80-87a3-3d5f-971e-8ed167049503"
+title = "That Joke Isn’t Funny Anymore"
+type = "single"
+date = "1985-07-01"
+tracks = [
+  { n = 1, title = "That Joke Isn’t Funny Anymore", mbid = "76d1981b-c8f1-4927-9aa6-5d0d16a4faf0" },
+  { n = 2, title = "Meat Is Murder", mbid = "fc4bdc51-3279-4f64-8e53-5696653b2dd4" },
+]
+
+[[release]]
+mbid = "02bda10d-10cc-3825-a896-05a527b5cd0b"
+title = "The Boy With the Thorn in His Side"
+type = "single"
+date = "1985-09-16"
+tracks = [
+  { n = 1, title = "The Boy With the Thorn in His Side", mbid = "958fd167-0305-4021-85fc-e8ee5cc7fc45" },
+  { n = 2, title = "Rubber Ring", mbid = "8d542c99-bdac-4a65-9aed-a442213e2e04" },
+  { n = 3, title = "Asleep", mbid = "18d55f71-75fc-4fe7-a645-7828456483ca" },
+]
+
+[[release]]
+mbid = "abbedf44-264d-3f72-9555-9272c5ab1ed2"
+title = "I Started Something I Couldn’t Finish"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "I Started Something I Couldn’t Finish", mbid = "f784d584-9e02-49e1-89b5-3fe861deabb6" },
+  { n = 2, title = "Pretty Girls Make Graves", mbid = "7ec8430a-4719-4304-8647-bbb8d3926f27" },
+  { n = 3, title = "Some Girls Are Bigger Than Others (live London 12/12/86)", mbid = "173c57c0-203d-406c-a090-d8609a80ddec" },
+]
+
+[[release]]
+mbid = "144834b7-8502-3555-926b-f29ba5c21f60"
+title = "Some Girls Are Bigger Than Others"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "Some Girls Are Bigger Than Others", mbid = "7341b790-6a07-416d-94f1-7ed1d7a5e498" },
+  { n = 2, title = "Frankly Mr. Shankly", mbid = "a9e06b60-9c61-4a04-9be1-7abb7e281c59" },
+  { n = 3, title = "The Draize Train", mbid = "d2ebe563-62f9-4aa1-b3fb-f96494b79958" },
+]
+
+[[release]]
+mbid = "2d3e6e37-f376-459a-8b5a-89138708116a"
+title = "Bigmouth Strikes Again"
+type = "single"
+date = "1986-05-22"
+tracks = [
+  { n = 1, title = "Bigmouth Strikes Again", mbid = "e4f88967-7f88-4e46-9de5-270f85f296a2" },
+  { n = 2, title = "Money Changes Everything", mbid = "23a08fca-48d6-4781-bc59-0562b070cf39" },
+]
+
+[[release]]
+mbid = "d8dde278-482c-3cc8-a530-fea70476f3a5"
+title = "The Queen Is Dead"
+type = "album"
+date = "1986-06-16"
+spotify = "5Y0p2XCgRRIjna91aQE8q7"
+tracks = [
+  { n = 1, title = "The Queen Is Dead", mbid = "a054c935-a346-4533-92f4-00e0ed590680" },
+  { n = 2, title = "Frankly, Mr. Shankly", mbid = "a9e06b60-9c61-4a04-9be1-7abb7e281c59" },
+  { n = 3, title = "I Know It’s Over", mbid = "c0dbdec0-17c5-4b47-8e3a-9fd5d2a09305" },
+  { n = 4, title = "Never Had No One Ever", mbid = "52caf2de-5f68-4ffc-8ace-3cf937f3f2e8" },
+  { n = 5, title = "Cemetry Gates", mbid = "03c2ee5d-ee00-416c-8237-1e5fc60cb714" },
+  { n = 6, title = "Bigmouth Strikes Again", mbid = "2c5ffe3e-509e-4607-9b4c-e846b4b50e0f" },
+  { n = 7, title = "The Boy With the Thorn in His Side", mbid = "958fd167-0305-4021-85fc-e8ee5cc7fc45" },
+  { n = 8, title = "Vicar in a Tutu", mbid = "f3f14db5-36a8-4e0b-8291-5d62c5b43e74" },
+  { n = 9, title = "There Is a Light That Never Goes Out", mbid = "f87a0c54-60ef-4db1-9628-96677504692d" },
+  { n = 10, title = "Some Girls Are Bigger Than Others", mbid = "25411ee0-663d-45a8-add3-cdd65d4cc71c" },
+]
+
+[[release]]
+mbid = "e86ff14b-6ead-3161-9baa-5219b7c11cdd"
+title = "Panic"
+type = "single"
+date = "1986-07-21"
+tracks = [
+  { n = 1, title = "Panic", mbid = "bd05becf-fc0a-45fe-b057-01681cf66db4" },
+  { n = 2, title = "There's a Light That Never Goes Out", mbid = "eb087812-83de-40f7-8afc-6d8278b7c469" },
+  { n = 3, title = "The Queen Is Dead", mbid = "3560a818-3948-4539-b189-7302d3e4c2a0" },
+]
+
+[[release]]
+mbid = "700e2651-fa87-39dc-b56d-89f9fa2a4317"
+title = "Ask"
+type = "single"
+date = "1986-10-20"
+tracks = [
+  { n = 1, title = "Ask", mbid = "23705d61-20ab-4129-b4e6-36b37c2b8ae2" },
+  { n = 2, title = "Cemetry Gates", mbid = "03c2ee5d-ee00-416c-8237-1e5fc60cb714" },
+  { n = 3, title = "Golden Lights", mbid = "3212c592-0296-4b99-b3e8-faba4704a5bd" },
+]
+
+[[release]]
+mbid = "d2c8b94d-0419-3559-92c6-b299076b5331"
+title = "Stop Me If You Think You've Heard This One Before"
+type = "single"
+date = "1987"
+tracks = [
+  { n = 1, title = "Stop Me If You Think You’ve Heard This One Before", mbid = "e1e43ae0-64c0-40f4-ab58-d41bea9d34bf" },
+  { n = 2, title = "Work Is a Four Letter Word", mbid = "6800b786-73ab-45bc-8fe3-5e89f6efddcf" },
+  { n = 3, title = "Girlfriend in a Coma", mbid = "42608546-7fc9-49d9-84fa-cac346c2415c" },
+  { n = 4, title = "I Keep Mine Hidden", mbid = "7b246eb1-f1d2-45ca-ab9b-08aa1e335741" },
+]
+
+[[release]]
+mbid = "b3be40d5-0bdb-3931-8d5e-185f3b4bcc85"
+title = "There Is a Light That Never Goes Out"
+type = "single"
+date = "1987-01"
+tracks = [
+  { n = 1, title = "There Is a Light That Never Goes Out", mbid = "f87a0c54-60ef-4db1-9628-96677504692d" },
+  { n = 2, title = "Half a Person", mbid = "7491af94-2967-4355-9f78-3be52a5d598e" },
+]
+
+[[release]]
+mbid = "6318cb6a-20b7-33ce-8d75-7987a9d3b37c"
+title = "Shoplifters of the World Unite"
+type = "single"
+date = "1987-01-26"
+tracks = [
+  { n = 1, title = "Shoplifters of the World Unite", mbid = "26a858fb-33d8-4554-91e8-4636b28f7b83" },
+  { n = 2, title = "Half a Person", mbid = "7491af94-2967-4355-9f78-3be52a5d598e" },
+]
+
+[[release]]
+mbid = "9a1d8a6b-b4d2-3371-ae9d-7fd8631313d2"
+title = "Sheila Take a Bow"
+type = "single"
+date = "1987-04-13"
+tracks = [
+  { n = 1, title = "Sheila Take a Bow", mbid = "3b4d7383-a75c-458b-829e-a0ad575f7e33" },
+  { n = 2, title = "Is It Really So Strange?", mbid = "cf924ef5-3d04-4810-a80e-a03bc2e29c02" },
+]
+
+[[release]]
+mbid = "2fc0201c-3baf-3636-84f9-1a5a6dd49a93"
+title = "Girlfriend in a Coma"
+type = "single"
+date = "1987-08-10"
+tracks = [
+  { n = 1, title = "Girlfriend in a Coma", mbid = "54b61503-bb87-4d2d-bb07-778bd6d0d315" },
+  { n = 2, title = "Work Is a Four‐Letter Word", mbid = "2cec262f-1fc5-48c4-be80-6d3d46952836" },
+  { n = 3, title = "I Keep Mine Hidden", mbid = "79cb1834-a2e4-4ab7-90b1-394f1b5b1f53" },
+]
+
+[[release]]
+mbid = "53bcf9cf-db1e-3887-80f5-9f23c87a0f64"
+title = "Strangeways, Here We Come"
+type = "album"
+date = "1987-09-21"
+spotify = "7jfexk2w5aDI25njkN0UGg"
+tracks = [
+  { n = 1, title = "A Rush and a Push and the Land Is Ours", mbid = "324dc00d-5824-4952-982a-b43c7077802d" },
+  { n = 2, title = "I Started Something I Couldn’t Finish", mbid = "9e8c6270-a42a-4c0a-92f4-b542ddf615d2" },
+  { n = 3, title = "Death of a Disco Dancer", mbid = "ca3a0238-f689-441d-95b7-37e0b5defddb" },
+  { n = 4, title = "Girlfriend in a Coma", mbid = "42608546-7fc9-49d9-84fa-cac346c2415c" },
+  { n = 5, title = "Stop Me If You Think You’ve Heard This One Before", mbid = "e1e43ae0-64c0-40f4-ab58-d41bea9d34bf" },
+  { n = 6, title = "Last Night I Dreamt That Somebody Loved Me", mbid = "eb872832-1385-41ea-b4f4-ebc8248d21b6" },
+  { n = 7, title = "Unhappy Birthday", mbid = "546c2148-7f26-4431-bac1-7458ec35666e" },
+  { n = 8, title = "Paint a Vulgar Picture", mbid = "e63fc9c2-0c28-45d1-9c95-d45853d1c331" },
+  { n = 9, title = "Death at One’s Elbow", mbid = "b6a8843d-f69c-49d1-8050-b612f7f6e7cd" },
+  { n = 10, title = "I Won’t Share You", mbid = "968e28b8-f0d1-41d6-82f8-ac4d385ff035" },
+]
+
+[[release]]
+mbid = "2a28518f-b89e-39e0-91b3-7be94727fceb"
+title = "Last Night I Dreamt That Somebody Loved Me"
+type = "single"
+date = "1987-12-11"
+tracks = [
+  { n = 1, title = "Last Night I Dreamt That Somebody Loved Me", mbid = "eb872832-1385-41ea-b4f4-ebc8248d21b6" },
+  { n = 2, title = "Rusholme Ruffians", mbid = "76481df4-4c7f-4f58-ae23-572e4e9f1db0" },
+  { n = 3, title = "Nowhere Fast", mbid = "b304e5a3-3efb-417d-85c7-163a5d42fee0" },
+]
+
+[[release]]
+mbid = "ed1caf43-56d8-407b-b260-66cdfd40c9b9"
+title = "The 12″ Mixes"
+type = "ep"
+date = "1988"
+tracks = [
+  { n = 1, title = "This Charming Man (New York)", mbid = "13d92a18-d336-41da-a464-40b411583409" },
+  { n = 2, title = "How Soon Is Now?", mbid = "cae8bbec-c2ff-4972-9218-8f90acb07b1b" },
+  { n = 3, title = "Stop Me If You Think You’ve Heard This One Before", mbid = "7ebc5561-f6e4-4c50-8ac9-f78341ad8760" },
+  { n = 4, title = "Bigmouth Strikes Again", mbid = "58cb20e8-cbb8-4ad3-8858-8a1a5ffef296" },
+  { n = 5, title = "Ask", mbid = "ce627480-02bc-4932-a486-5da8b5021c5f" },
+]
+
+[[release]]
+mbid = "05fc33f9-db55-321a-a001-ae084632e53b"
+title = "This Charming Man"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "This Charming Man (Manchester)", mbid = "ed35bedc-f432-4886-922a-dbe5c47a4236" },
+  { n = 2, title = "This Charming Man (London)", mbid = "54ea2f32-9015-4d4e-9dd3-b2bd7754952b" },
+  { n = 3, title = "This Charming Man (New York Vocal)", mbid = "6d39443c-f024-4e88-8064-b4f77f40b1f1" },
+  { n = 4, title = "This Charming Man (New York Instrumental)", mbid = "f8bf7a87-fa4b-4902-9aa4-ce70df1a4c07" },
+  { n = 5, title = "This Charming Man (Peel Session)", mbid = "3a083282-c43b-4669-8381-1b64111a7a5e" },
+  { n = 6, title = "This Charming Man (single remix)", mbid = "34ace08c-5484-4929-8b40-1deb523f7588" },
+  { n = 7, title = "This Charming Man (original single version)", mbid = "4460d1e7-8f1d-4410-948f-1e40ace0554e" },
+  { n = 8, title = "Wonderful Woman", mbid = "658d717a-762b-46ac-9dc0-2308b5760b4d" },
+]
+
+[[release]]
+mbid = "e831e444-9827-3903-8ae5-52b317e87436"
+title = "Sweet and Tender Hooligan"
+type = "single"
+date = "1995-05-23"
+tracks = [
+  { n = 1, title = "Sweet and Tender Hooligan", mbid = "42a30c50-9c30-45c0-9b3f-d781ac6ffeb3" },
+  { n = 2, title = "I Keep Mine Hidden", mbid = "7b246eb1-f1d2-45ca-ab9b-08aa1e335741" },
+  { n = 3, title = "Work Is a Four-Letter Word", mbid = "a1b99da0-4563-4130-be99-f00f0a2248c2" },
+  { n = 4, title = "What's the World?", mbid = "d3032c55-a0ca-48e2-991a-8dea1cb889a7" },
+]
+
+[[release]]
+mbid = "a8a87f86-4a04-44f5-aa83-91cb182ed4d6"
+title = "There Is a Light That Never Goes Out (take 1)"
+type = "single"
+date = "2017-07-19"
+spotify = "6rxWj1ng8FnY7dsq5YhvIp"
+tracks = [
+  { n = 1, title = "There Is a Light That Never Goes Out (take 1)", mbid = "7766a789-0e98-4efc-937d-9507334a3407" },
+]

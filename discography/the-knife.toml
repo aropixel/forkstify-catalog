@@ -1,0 +1,411 @@
+format = 1
+
+[[release]]
+mbid = "37db4f08-ae2b-3696-a52d-37925a8663f5"
+title = "Afraid of You"
+type = "single"
+date = "2000-08-14"
+tracks = [
+  { n = 1, title = "Afraid of You", mbid = "d3fa859d-a48e-49ee-b2c5-19b1f0a8f17f" },
+  { n = 2, title = "Bird", mbid = "e7923a82-7553-406f-957c-94b87676d70d" },
+]
+
+[[release]]
+mbid = "f6a6b266-a28c-360e-aac4-44ed2c82ad14"
+title = "The Knife"
+type = "album"
+date = "2001-02-05"
+spotify = "1wJoVeXNwlbkVR17e7MFcz"
+tracks = [
+  { n = 1, title = "Neon", mbid = "22714ddd-9c24-420c-807d-e66c764ead2b" },
+  { n = 2, title = "Lasagna", mbid = "8a2bee15-7954-4971-8037-029cf79965ff" },
+  { n = 3, title = "Kino", mbid = "ac659ee2-3d19-4138-9b2d-6047a33f1c78" },
+  { n = 4, title = "I Just Had to Die", mbid = "8901fbef-95fe-406a-a0a7-79a8692616ec" },
+  { n = 5, title = "I Take Time", mbid = "5b40064d-f40c-4d39-aa40-d9e31cc41957" },
+  { n = 6, title = "Parade", mbid = "49d74cdf-c176-4c89-95db-b09a5a4870f4" },
+  { n = 7, title = "Zapata", mbid = "8f0a3e97-e4cd-4127-8ce7-2d50240c7e7c" },
+  { n = 8, title = "Bird", mbid = "e7923a82-7553-406f-957c-94b87676d70d" },
+  { n = 9, title = "N.Y. Hotel", mbid = "579b91ce-6cf3-411c-b273-720c30023d42" },
+  { n = 10, title = "A Lung", mbid = "e22d16b5-3195-4870-ac20-1413ad4b807f" },
+  { n = 11, title = "Reindeer", mbid = "d204bfb5-3bdc-4cde-9cc1-89a48cd4999d" },
+]
+
+[[release]]
+mbid = "b714ee62-d86c-37d2-bdf9-ccf37f70a6f2"
+title = "N.Y. Hotel"
+type = "single"
+date = "2001-05-01"
+tracks = [
+  { n = 1, title = "N.Y. Hotel", mbid = "579b91ce-6cf3-411c-b273-720c30023d42" },
+  { n = 2, title = "I Live in a Tree", mbid = "5d698b54-fad3-4967-8eac-f7cf98408df9" },
+]
+
+[[release]]
+mbid = "b45c9015-acc5-3d64-bff6-bfdd94f32b0a"
+title = "Got 2 Let U"
+type = "single"
+date = "2002-05-06"
+tracks = [
+  { n = 1, title = "Got 2 Let U", mbid = "b36eb148-48d4-42bc-a602-0179d308d49e" },
+  { n = 2, title = "Manhood", mbid = "392f8ef7-ba9b-474c-a8d9-6fb93d66df6b" },
+  { n = 3, title = "Got 2 Let U (remix by Paul Källman)", mbid = "41047f0e-eb1f-4716-bf45-645484fa3430" },
+]
+
+[[release]]
+mbid = "8c5b2f57-decd-3553-be0b-33c51c67bba0"
+title = "Nedsvärtning"
+type = "single"
+date = "2002-09-25"
+tracks = [
+  { n = 1, title = "Nedsvärtning", mbid = "ac660669-5e70-4b0f-b1b2-4409cd63226e" },
+]
+
+[[release]]
+mbid = "38c1c21d-248c-314f-9c92-5c7ce379f415"
+title = "Heartbeats"
+type = "single"
+date = "2002-12-27"
+spotify = "4HuzmBQia3RZEE2ixc0z10"
+tracks = [
+  { n = 1, title = "Heartbeats", mbid = "db4c9220-df76-4b42-b6f5-8bf52cc80f77" },
+  { n = 2, title = "Heartbeats (Techno remix)", mbid = "f225ae97-cce2-4667-932c-8952ed348e2e" },
+  { n = 3, title = "I Just Had to Die (remix)", mbid = "3214005f-3567-4bfa-9d20-3452aa308326" },
+]
+
+[[release]]
+mbid = "e35a847b-d4cb-3dfe-b2ea-047f8fe0d95b"
+title = "Deep Cuts"
+type = "album"
+date = "2003-01-17"
+spotify = "7lbXNgtug37CDpS7N7NkrL"
+tracks = [
+  { n = 1, title = "Heartbeats", mbid = "db4c9220-df76-4b42-b6f5-8bf52cc80f77" },
+  { n = 2, title = "Girls’ Night Out", mbid = "6f6f0478-61dd-45c2-a093-13041b9a40f9" },
+  { n = 3, title = "Pass This On", mbid = "8eb06790-2cd6-4793-87f5-0d4f95acda28" },
+  { n = 4, title = "One for You", mbid = "a46bf536-adc0-439f-84af-06897fd5007f" },
+  { n = 5, title = "The Cop", mbid = "befb4f18-f34d-4688-b5f2-e5fd417c0b2d" },
+  { n = 6, title = "Listen Now", mbid = "8b5a7af9-5a8f-4503-8c1f-9af6a1d1b81f" },
+  { n = 7, title = "She’s Having a Baby", mbid = "d9efac50-f25e-431b-b2ea-8653fa3ee001" },
+  { n = 8, title = "You Take My Breath Away", mbid = "d29371b5-d3ba-458d-959d-9463cdc55c8b" },
+  { n = 9, title = "Rock Classics", mbid = "be379afa-73e8-48ac-abb4-52825d6a62f2" },
+  { n = 10, title = "Is It Medicine", mbid = "2546cd7f-3038-44ce-a6cd-ca26cc9c38a0" },
+  { n = 11, title = "You Make Me Like Charity", mbid = "64dee0c1-9a5f-4147-a4c8-6237570d6db5" },
+  { n = 12, title = "Got 2 Let U", mbid = "b36eb148-48d4-42bc-a602-0179d308d49e" },
+  { n = 13, title = "Behind the Bushes", mbid = "019d8b86-6bff-40b8-9de9-2738c34d495f" },
+  { n = 14, title = "Hangin’ Out", mbid = "0052639a-c393-47ee-85f0-c69a2bacfeae" },
+]
+
+[[release]]
+mbid = "e420fefb-b92a-4d10-adaa-c3deff331f0a"
+title = "You Take My Breath Away"
+type = "single"
+date = "2003-03-28"
+tracks = [
+  { n = 1, title = "You Take My Breath Away", mbid = "d29371b5-d3ba-458d-959d-9463cdc55c8b" },
+  { n = 2, title = "You Take My Breath Away (Puppetmasters remix)", mbid = "f361c063-6bcc-4d3f-94d9-ffb9d3d4901b" },
+  { n = 3, title = "You Take My Breath Away (Emmon remix)", mbid = "4ae9daad-903d-49a1-9c3d-4e5cca1f6370" },
+]
+
+[[release]]
+mbid = "89bf6932-5405-46c4-92d5-ce9ee9fd7d9c"
+title = "Handy‐Man"
+type = "single"
+date = "2003-11-12"
+spotify = "3kCNinFKKknasPgQoTi8ul"
+tracks = [
+  { n = 1, title = "Handy‐Man (extended mix)", mbid = "387169b8-e814-4de5-97ff-3d67a7a48765" },
+  { n = 2, title = "Handy‐Man (Revl9n remix)", mbid = "457eff86-0800-4d32-a3fd-3792d728ab2a" },
+  { n = 3, title = "Handy‐Man (Tobias von Hofsten remix)", mbid = "3f3295e8-a6e9-4bb4-9107-7c522652d1b7" },
+  { n = 4, title = "Handy‐Man (FPU remix)", mbid = "bb9e73e4-6e29-41a9-be76-114aefba58c8" },
+]
+
+[[release]]
+mbid = "04ad4c2c-f4bc-361b-8007-da78dd5ff4f0"
+title = "Hannah med H Soundtrack"
+type = "album"
+date = "2003-11-23"
+spotify = "7BbvEzWwHsVnVLFEByRe5N"
+tracks = [
+  { n = 1, title = "Real Life Television", mbid = "4508ba84-00f7-4b21-8559-ee8dfc1934ba" },
+  { n = 2, title = "Hannah’s Conscious", mbid = "bda5fb90-6111-4bdb-8700-1fe30d1662af" },
+  { n = 3, title = "Handy‐Man", mbid = "b1ab96a6-c761-4d12-951b-76cf723af4c3" },
+  { n = 4, title = "High School Poem", mbid = "74658964-03c7-4831-a6aa-eeeabacec6b8" },
+  { n = 5, title = "New Year’s Eve", mbid = "dffcb188-02c7-4bbc-89a8-804363f37834" },
+  { n = 6, title = "Three Boys", mbid = "9fc98c98-4ebe-4bcf-be30-34da1414a2dc" },
+  { n = 7, title = "This Is Now", mbid = "b52c1706-a7dc-4f8f-bafc-bf02fb330e7a" },
+  { n = 8, title = "The Bridge", mbid = "83e23b46-4c15-4570-b840-27199f0b23dd" },
+  { n = 9, title = "Copenhagen", mbid = "d80d434f-ae3a-468f-8e82-ae68aab648be" },
+  { n = 10, title = "Wanting to Kill", mbid = "81424af4-aea6-4760-a0fa-573828dca1b1" },
+  { n = 11, title = "Jens’s Sneaking", mbid = "390f77ac-72ef-4162-8617-feb6f6bc8fc3" },
+  { n = 12, title = "Vegetarian Restaurant", mbid = "8c4f5294-cfb4-46a6-b657-ef75b3eb7984" },
+  { n = 13, title = "At the Café", mbid = "544db33c-5a86-4a32-a1c6-35076198570e" },
+  { n = 14, title = "A Different Way", mbid = "7dabdbb7-c5c8-4396-ad3b-d5624a290369" },
+  { n = 15, title = "Poetry by Night", mbid = "b7d56fa0-648f-4584-85c2-3bade72ccfb4" },
+  { n = 16, title = "Listen Now", mbid = "8b5a7af9-5a8f-4503-8c1f-9af6a1d1b81f" },
+]
+
+[[release]]
+mbid = "1ca9e3c1-2e8e-47b9-803d-500715562193"
+title = "The Knife"
+type = "ep"
+date = "2004-02-23"
+tracks = [
+  { n = 1, title = "Kino", mbid = "ac659ee2-3d19-4138-9b2d-6047a33f1c78" },
+  { n = 2, title = "Bird", mbid = "e7923a82-7553-406f-957c-94b87676d70d" },
+  { n = 3, title = "N.Y. Hotel", mbid = "579b91ce-6cf3-411c-b273-720c30023d42" },
+  { n = 4, title = "High School Poem", mbid = "74658964-03c7-4831-a6aa-eeeabacec6b8" },
+]
+
+[[release]]
+mbid = "198e9f00-d84a-49ba-a03c-6331ca413f76"
+title = "Gender Bender"
+type = "ep"
+date = "2004-12-13"
+tracks = [
+  { n = 1, title = "Handy‐Man", mbid = "b1ab96a6-c761-4d12-951b-76cf723af4c3" },
+  { n = 2, title = "Manhood", mbid = "392f8ef7-ba9b-474c-a8d9-6fb93d66df6b" },
+  { n = 3, title = "You Make Me Like Charity", mbid = "64dee0c1-9a5f-4147-a4c8-6237570d6db5" },
+  { n = 4, title = "Hangin’ Out", mbid = "0052639a-c393-47ee-85f0-c69a2bacfeae" },
+]
+
+[[release]]
+mbid = "18e8f168-260d-39d6-8618-643b4a209bcf"
+title = "Pass This On"
+type = "single"
+date = "2005-05"
+spotify = "3r0N0iiPaRBz11gH77Hs95"
+tracks = [
+  { n = 1, title = "Pass This On", mbid = "8eb06790-2cd6-4793-87f5-0d4f95acda28" },
+  { n = 2, title = "Pass This On (Dahlbäck & Dahlbäck mix)", mbid = "db0c7419-c5dd-4622-9f30-e841c563a893" },
+  { n = 3, title = "Pass This On (M.A.N.D.Y Knifer mix)", mbid = "d972e4be-78ca-4cf8-95d8-f085567e8e0b" },
+]
+
+[[release]]
+mbid = "02c05025-e031-30a0-afee-d92cea9d79dd"
+title = "Silent Shout"
+type = "album"
+date = "2006-02-15"
+spotify = "1UdCT7t0rfNPu5Bn957U8r"
+tracks = [
+  { n = 1, title = "Silent Shout", mbid = "61267686-d9d4-4c68-b08a-ab356ea49cae" },
+  { n = 2, title = "Neverland", mbid = "5eb6ecca-2e04-4dcb-92ce-9ff82c54abf0" },
+  { n = 3, title = "The Captain", mbid = "90050f94-6c17-491f-9c37-cbb5004819f0" },
+  { n = 4, title = "We Share Our Mothers’ Health", mbid = "87fba8d7-30d9-4b1b-809b-0c46d3f27306" },
+  { n = 5, title = "Na Na Na", mbid = "44c09423-8dd9-4183-bb41-3d8043e73f71" },
+  { n = 6, title = "Marble House", mbid = "e8c91f1f-8f76-4c03-a3d3-7eac215be3d8" },
+  { n = 7, title = "Like a Pen", mbid = "8f4bdf02-78eb-477e-abca-f2368badbf5b" },
+  { n = 8, title = "From Off to On", mbid = "edda2531-d646-433f-bcb1-06785d4e088d" },
+  { n = 9, title = "Forest Families", mbid = "b119089f-eb88-492f-ad49-d8c33b264c1d" },
+  { n = 10, title = "One Hit", mbid = "e0e3cd99-a505-4ec7-98a6-1fd3291b1e2c" },
+  { n = 11, title = "Still Light", mbid = "646b8dde-63e6-4fb2-a76c-a225a38924c5" },
+]
+
+[[release]]
+mbid = "8b39b099-3676-326f-bcef-112fea1e8cb7"
+title = "Silent Shout"
+type = "single"
+date = "2006-02-15"
+spotify = "4he6mFSbcn2WBQIhe34Bcc"
+tracks = [
+  { n = 1, title = "Silent Shout (radio edit)", mbid = "6d274c7e-0887-4e26-987f-49beb605d096" },
+  { n = 2, title = "Silent Shout (Williams Acidic Circuits remix)", mbid = "aa1de90b-b1a9-433e-9eef-86a39ffe8c48" },
+  { n = 3, title = "Silent Shout (Troy Pierce Barado en Locombia mix)", mbid = "b665e8b3-877b-45bd-8df6-d2161fc7c19e" },
+  { n = 4, title = "Silent Shout (Shinedoe remix)", mbid = "24b743e0-dd1f-4f6f-bb8b-2e4ddba3cdc9" },
+  { n = 5, title = "Silent Shout (album version)", mbid = "61267686-d9d4-4c68-b08a-ab356ea49cae" },
+]
+
+[[release]]
+mbid = "10717559-5875-38c0-ab2a-46dc19a97601"
+title = "Marble House"
+type = "single"
+date = "2006-03-01"
+tracks = [
+  { n = 1, title = "Marble House (radio edit)", mbid = "744848ba-5b44-4d31-9d77-72908e1973e7" },
+  { n = 2, title = "Marble House (album version)", mbid = "e8c91f1f-8f76-4c03-a3d3-7eac215be3d8" },
+  { n = 3, title = "Marble House (PTR remix)", mbid = "dc89e218-1700-4191-bb8a-957b9b59bd2b" },
+]
+
+[[release]]
+mbid = "0f9840a8-4973-410a-a5b7-54a01c7c0926"
+title = "Heartbeats"
+type = "single"
+date = "2006-04-05"
+tracks = [
+  { n = 1, title = "Heartbeats", mbid = "e9ba89bd-ab94-465a-8c6f-9d37b4b5d2cd" },
+  { n = 2, title = "Heartbeats", mbid = "db4c9220-df76-4b42-b6f5-8bf52cc80f77" },
+]
+
+[[release]]
+mbid = "0e80b1a9-5b6f-3569-a06f-2659dbf6f9c4"
+title = "We Share Our Mothers’ Health"
+type = "single"
+date = "2006-05-15"
+spotify = "3TSgAliURl0BQpLISAzbiO"
+tracks = [
+  { n = 1, title = "We Share Our Mothers’ Health (radio edit)", mbid = "2817a70d-b172-456e-a6f6-48f7b157bd94" },
+  { n = 2, title = "We Share Our Mothers’ Health (Trentemøller remix)", mbid = "1598f30e-348a-42a3-914c-98d2ad5c2718" },
+  { n = 3, title = "We Share Our Mothers’ Health (original version)", mbid = "87fba8d7-30d9-4b1b-809b-0c46d3f27306" },
+]
+
+[[release]]
+mbid = "e0256ad1-d8d2-3aef-bb9e-2d9069cc1265"
+title = "Like a Pen"
+type = "single"
+date = "2006-09-26"
+spotify = "5oWuRBAATHbnYAEsMaVxsw"
+tracks = [
+  { n = 1, title = "Like a Pen (radio edit)", mbid = "fd5f90d1-9198-4767-88ef-73ad59b41990" },
+  { n = 2, title = "Like a Pen (album version)", mbid = "8f4bdf02-78eb-477e-abca-f2368badbf5b" },
+  { n = 3, title = "Like a Pen (club mix)", mbid = "50871ec6-2729-463a-b2f8-6360a4ae33c6" },
+  { n = 4, title = "Like a Pen (demo version)", mbid = "a3815639-b98b-4628-bc9e-5938d4345068" },
+  { n = 5, title = "Like a Pen (Heartthrob remix)", mbid = "a99afe6b-084e-419f-8426-c3130d8a9ce5" },
+  { n = 6, title = "Like a Pen (Thomas Schumacher dub)", mbid = "7129a06b-6bd1-441d-b875-962e797b744f" },
+  { n = 7, title = "Like a Pen (Heartthrob dub)", mbid = "60b07c59-6cad-44ae-98be-e79d27ab6386" },
+]
+
+[[release]]
+mbid = "302ca9df-7fe4-4e91-b0d1-cd48975e0fba"
+title = "Tomorrow, in a Year"
+type = "album"
+date = "2010-01-28"
+spotify = "5692ZaIRRmlkpC1rfU6PLa"
+tracks = [
+  { disc = 1, n = 1, title = "Intro", mbid = "4416c14f-2ed3-46c6-aae6-8a306de8558a" },
+  { disc = 1, n = 2, title = "Epochs", mbid = "956192a1-f1c2-4fdc-b5a6-b09d71897369" },
+  { disc = 1, n = 3, title = "Geology", mbid = "a2baf5df-bd5a-41cc-bf85-65580ef764b2" },
+  { disc = 1, n = 4, title = "Upheaved", mbid = "f5a0143e-8c4a-4912-99c7-82708a6cbc04" },
+  { disc = 1, n = 5, title = "Minerals", mbid = "f4106cd3-bd70-459f-b9cb-f69eadc5949e" },
+  { disc = 1, n = 6, title = "Ebb Tide Explorer", mbid = "dd76843e-6751-450c-ae48-75ef0959fa1e" },
+  { disc = 1, n = 7, title = "Variation of Birds", mbid = "6d5dc6e3-3b38-49fc-99cf-1070ba487103" },
+  { disc = 1, n = 8, title = "Letter to Henslow", mbid = "780b5d21-2fa1-4050-88e5-410730e80e41" },
+  { disc = 1, n = 9, title = "Schoal Swarm Orchestra", mbid = "cde516b2-3d7d-4b5a-b0fc-b0e9a9ea1ad6" },
+  { disc = 2, n = 1, title = "Annie’s Box", mbid = "97229221-4c76-4323-94b7-4e46702c7518" },
+  { disc = 2, n = 2, title = "Tumult", mbid = "0803f77d-ebc0-4f07-b195-9d959372df21" },
+  { disc = 2, n = 3, title = "Colouring of Pigeons", mbid = "7c173077-bf35-4c5e-b2d5-d7f1e5d1da31" },
+  { disc = 2, n = 4, title = "Seeds", mbid = "f299f989-7579-4bc9-b9b4-c016961a5c9e" },
+  { disc = 2, n = 5, title = "Tomorrow, in a Year", mbid = "903ae5c7-ab52-499b-9fde-f4642e14bc41" },
+  { disc = 2, n = 6, title = "The Height of Summer", mbid = "cfe3dab4-5e0a-4c35-86d3-6829fdcd1c6b" },
+  { disc = 2, n = 7, title = "Annie’s Box (alternative vocals)", mbid = "2a11d08c-059e-49f7-89f4-da119bc72943" },
+]
+
+[[release]]
+mbid = "2b1116ba-9900-4aa8-abfd-11578fc1a41c"
+title = "Seeds"
+type = "single"
+date = "2010-11-19"
+spotify = "0qiCKXmsMWbWBe4fX9iPZo"
+tracks = [
+  { n = 1, title = "Seeds (Portable a.k.a. Bodycode remix)", mbid = "2bf895b2-2d50-44fc-b6c9-eb401bd0d853" },
+  { n = 2, title = "Seeds (Shinedoe remix)", mbid = "dc8ffab9-1dff-4918-a25e-8492115bf298" },
+]
+
+[[release]]
+mbid = "75e221f5-88d2-40ce-85a0-ed7aa5d55ff5"
+title = "Full of Fire"
+type = "single"
+date = "2013-01-27"
+tracks = [
+  { n = 1, title = "Full of Fire", mbid = "5b787c85-49f9-425a-a85f-5b0544e3c950" },
+]
+
+[[release]]
+mbid = "c8bfe819-c888-4dba-a7bb-80ca94a3f8f8"
+title = "A Tooth for an Eye"
+type = "single"
+date = "2013-02-25"
+tracks = [
+  { n = 1, title = "A Tooth for an Eye", mbid = "813991ff-cb60-40b7-b72a-c7af49e32407" },
+]
+
+[[release]]
+mbid = "06448e12-18d8-4d52-a51f-d4c83d07ec09"
+title = "Shaking the Habitual"
+type = "album"
+date = "2013-04-05"
+spotify = "4CAtc82qDn2xOdXTX0ElRs"
+tracks = [
+  { n = 1, title = "A Tooth for an Eye", mbid = "813991ff-cb60-40b7-b72a-c7af49e32407" },
+  { n = 2, title = "Full of Fire", mbid = "5b787c85-49f9-425a-a85f-5b0544e3c950" },
+  { n = 3, title = "A Cherry on Top", mbid = "31c16861-a1b7-4707-b046-83122e41c11b" },
+  { n = 4, title = "Without You My Life Would Be Boring", mbid = "ea62ae4c-f97f-4e25-a9d8-d8fa45554e54" },
+  { n = 5, title = "Wrap Your Arms Around Me", mbid = "2d500a19-aa0f-4017-84f8-e46439d24456" },
+  { n = 6, title = "Crake", mbid = "105a9c9d-f23a-411b-80b4-5ab00fc98d3a" },
+  { n = 7, title = "Old Dreams Waiting to Be Realized", mbid = "3ffc6210-c4f5-46e3-b3dc-508583bff036" },
+  { n = 8, title = "Raging Lung", mbid = "ccf40436-fc0d-40e5-b7dd-9ca911b84060" },
+  { n = 9, title = "Networking", mbid = "bde8e90c-0f4c-4311-a2cb-b96f22acb068" },
+  { n = 10, title = "Oryx", mbid = "452f0aa1-ef12-462c-a54f-cb9d1e2a5e4a" },
+  { n = 11, title = "Stay Out Here", mbid = "4bab45b0-e649-45b0-82ba-17d621c4887d" },
+  { n = 12, title = "Fracking Fluid Injection", mbid = "d79e71ce-df01-4be0-995e-b40876269356" },
+  { n = 13, title = "Ready to Lose", mbid = "4983499c-2da0-4711-82bb-f60be2f8cd43" },
+]
+
+[[release]]
+mbid = "a1903922-4f88-4803-bd05-341550520dbf"
+title = "Raging Lung"
+type = "single"
+date = "2013-09-02"
+tracks = [
+  { n = 1, title = "Raging Lung (Hannah Holland remix)", mbid = "ce392e44-0a6b-4741-ad04-c8046086e972" },
+]
+
+[[release]]
+mbid = "f252ca23-9fb2-458f-8975-d2648979e7f7"
+title = "Without You My Life Would Be Boring"
+type = "single"
+date = "2014-05-19"
+spotify = "3gmvlLRFPsSmmRMcpSH6h7"
+tracks = [
+  { n = 1, title = "Without You My Life Would Be Boring (Shaken-Up version)", mbid = "0c014940-e5e6-49cb-a8cc-718cafd24f8f" },
+  { n = 2, title = "Without You My Life Would Be Boring", mbid = "ea62ae4c-f97f-4e25-a9d8-d8fa45554e54" },
+  { n = 3, title = "Without You My Life Would Be Boring (J Phlip remix)", mbid = "c7c568c1-0493-4a2e-9036-4882f8648ce1" },
+  { n = 4, title = "Without You My Life Would Be Boring (rRoxymore remix)", mbid = "07d5d5a5-cf6a-4229-908d-49c86c3578e5" },
+  { n = 5, title = "Without You My Life Would Be Boring (Kat Knix remix)", mbid = "adfd7f90-6942-414a-8e39-f99d67d77f4a" },
+]
+
+[[release]]
+mbid = "fee9879f-607c-45cb-a10d-b140b9df2861"
+title = "För alla namn vi inte får använda"
+type = "single"
+date = "2014-06-06"
+spotify = "6krSiAF7KpfVL50uWcbDMQ"
+tracks = [
+  { n = 1, title = "För alla namn vi inte får använda", mbid = "35faca70-b426-4746-a619-c8089f459a92" },
+]
+
+[[release]]
+mbid = "5d20ac68-68f3-488b-bac7-520f44bf901e"
+title = "Shaken‐Up Versions"
+type = "ep"
+date = "2014-06-10"
+spotify = "6lLZSDdUIl8oCkbUGPvHFs"
+tracks = [
+  { n = 1, title = "We Share Our Mothers’ Health", mbid = "01138bbe-a6d2-4837-8322-62f3a8251fc2" },
+  { n = 2, title = "Got 2 Let U", mbid = "916e2f7d-d6fc-4163-8f17-c3de53196119" },
+  { n = 3, title = "Bird", mbid = "dbb22b44-f4e9-45f9-8b65-895de1c14a42" },
+  { n = 4, title = "Without You My Life Would Be Boring", mbid = "0c014940-e5e6-49cb-a8cc-718cafd24f8f" },
+  { n = 5, title = "Pass This On", mbid = "246222f5-9fb2-4e68-90fb-fb8eddc1f757" },
+  { n = 6, title = "Ready to Lose", mbid = "f7e12525-714a-430a-badc-998003b14ecb" },
+  { n = 7, title = "Stay Out Here", mbid = "6cd249f3-3764-44f0-95ab-39ca2556cb52" },
+  { n = 8, title = "Silent Shout", mbid = "c7360669-6d46-42f5-b62e-ae9203c6f525" },
+]
+
+[[release]]
+mbid = "ca5b9562-1aae-479f-9b45-1d34860f98e7"
+title = "Bird / Afraid of You"
+type = "single"
+date = "2021-07-07"
+spotify = "1BIDjySFVxx3E1NtZBj06k"
+tracks = [
+  { n = 1, title = "Bird (edit)", mbid = "362cf7cb-07bb-4233-9dda-0e29f485a468" },
+  { n = 2, title = "Afraid of You", mbid = "d3fa859d-a48e-49ee-b2c5-19b1f0a8f17f" },
+]
+
+[[release]]
+mbid = "ecfc43df-7691-47f7-9a3a-404f3ea88030"
+title = "Manhood"
+type = "single"
+date = "2021-08-14"
+spotify = "1edH8MF3p5y7uH5mOhOjzJ"
+tracks = [
+  { n = 1, title = "Manhood", mbid = "392f8ef7-ba9b-474c-a8d9-6fb93d66df6b" },
+]

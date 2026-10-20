@@ -1,0 +1,394 @@
+format = 1
+
+[[release]]
+mbid = "e1395987-a2c4-44f5-bded-8910d6c47291"
+title = "I'm Dead / Migas 2000"
+type = "single"
+date = "2010"
+tracks = [
+  { n = 1, title = "I'm Dead", mbid = "3c2570b1-3167-46ba-bdd4-40cea42788a1" },
+  { n = 2, title = "Migas 2000", mbid = "04cd6f5a-0c91-4878-bf0e-2f77b5d9a7d5" },
+]
+
+[[release]]
+mbid = "a533d87b-c524-4147-ba76-5e840c1470d4"
+title = "Je ne suis pas très drogue"
+type = "single"
+date = "2010"
+tracks = [
+  { n = 1, title = "Je ne suis pas très drogue", mbid = "58aff82c-7aeb-4055-8112-a02710909879" },
+  { n = 2, title = "Berceuse pour Clive", mbid = "2b07eb23-553c-4e68-a08f-9096c6696fcf" },
+]
+
+[[release]]
+mbid = "5bc5c11c-9bc4-4e25-8def-10169f5e3cda"
+title = "The Limiñanas"
+type = "album"
+date = "2010"
+tracks = [
+  { n = 1, title = "The Darkside", mbid = "bed997b7-c139-46b8-94bb-392878f4974f" },
+  { n = 2, title = "Down Underground", mbid = "902ff286-e738-480d-9669-1869c7e2b02b" },
+  { n = 3, title = "Je ne suis pas très drogue", mbid = "801f7529-3c70-44a8-9435-a090e51919f8" },
+  { n = 4, title = "Funeral Baby", mbid = "7e9a8213-285a-4982-8577-eb1dcb762ad6" },
+  { n = 5, title = "Chocolate in My Milk", mbid = "5a279bcb-4dab-4c78-92a8-03b295243837" },
+  { n = 6, title = "Tigre du bengale (instrumental)", mbid = "bfa432e3-dde2-4e94-936f-9ce301aed87b" },
+  { n = 7, title = "Mountain", mbid = "42351d93-2919-4447-b644-804291870e40" },
+  { n = 8, title = "Je suis une go-go girl", mbid = "f3c67de6-5768-4a28-b7c9-4c6ebc37994a" },
+  { n = 9, title = "Berçeuse pour Clive", mbid = "5ff32ddc-9e31-41ee-ae35-80fe2fc98e57" },
+  { n = 10, title = "Tears", mbid = "6d9010b8-ca6b-43e7-856b-55af5effcd4e" },
+  { n = 11, title = "Tigre du bengale", mbid = "f23509d9-cfe6-4fd5-bc0c-f986893e7c5c" },
+  { n = 12, title = "Got Nothin' to Say", mbid = "47f3c728-18ef-4296-8eec-9e488ae280c6" },
+]
+
+[[release]]
+mbid = "005b6113-752c-4fa7-9e03-925de069833e"
+title = "(I've Got) Trouble in Mind"
+type = "single"
+date = "2011"
+tracks = [
+  { n = 1, title = "(I've Got) Trouble in Mind", mbid = "2d06fa9a-08e8-4f01-b0fb-c0039c465316" },
+  { n = 2, title = "Je M'en Vais", mbid = "36558d0d-e622-43a2-ab31-732c50c70e93" },
+]
+
+[[release]]
+mbid = "63985fd7-ce99-48f0-b94a-c42cf6c36d96"
+title = "Af3458 / Betty and Johnny"
+type = "single"
+date = "2011"
+tracks = [
+  { n = 1, title = "AF3458", mbid = "64387115-2b17-4704-8de7-6a7294aea962" },
+  { n = 2, title = "Betty and Johnny", mbid = "b9ce2f4f-293c-4f89-a397-903b5831a954" },
+]
+
+[[release]]
+mbid = "cba282f4-375d-49ef-98ff-f6cc7fc69bbe"
+title = "Crystal Anis"
+type = "album"
+date = "2012-07-30"
+tracks = [
+  { n = 1, title = "Salvation", mbid = "a3e7787d-aeb8-486a-b664-825972e5203e" },
+  { n = 2, title = "Longanisse", mbid = "3c4720d0-ccdc-4c40-85da-5b7e6066cc94" },
+  { n = 3, title = "AF3458", mbid = "033cedde-04e5-48ae-896b-de07d5a6cfe9" },
+  { n = 4, title = "Kinam Baby", mbid = "74d9e775-2980-47a7-97ef-7de7e57f5608" },
+  { n = 5, title = "Hospital Boogie", mbid = "a4d2bb35-5070-418a-9251-cf6620551d9f" },
+  { n = 6, title = "Bad Lady Goes to Jail", mbid = "cdeed029-77b6-48ef-929d-de878b6d744e" },
+  { n = 7, title = "Crystal Anis", mbid = "277e006a-df82-434c-852d-e6c2a1f50477" },
+  { n = 8, title = "Belmondo", mbid = "cab98777-cce0-4bfe-9c6b-81d31e6af5f5" },
+  { n = 9, title = "Betty and Johnny", mbid = "337c0d89-58eb-4dc2-8b16-2352c723137c" },
+  { n = 10, title = "Une ballade pour Clive", mbid = "efcb3db6-0ddf-477d-a3bb-612fdbd46960" },
+  { n = 11, title = "I’m Dead (instrumental)", mbid = "3c7a3836-996e-497c-a445-eefaf83eeeda" },
+]
+
+[[release]]
+mbid = "e4dbc8d5-f555-472e-8383-593b9dc75477"
+title = "La Fille de la ligne 15"
+type = "single"
+date = "2012-12"
+tracks = [
+  { n = 1, title = "La Fille de la ligne 15", mbid = "612be1ac-639b-4247-8e33-d4031bc41841" },
+  { n = 2, title = "Mobylette", mbid = "cc1fb5f0-ed67-44d6-b937-c7957da3d91a" },
+]
+
+[[release]]
+mbid = "b464b49b-09ed-45f3-93fd-71763b2da1bd"
+title = "Costa Blanca"
+type = "album"
+date = "2013-11-18"
+tracks = [
+  { n = 1, title = "Je me souviens comme si j’y étais", mbid = "2b12909e-28cc-41b6-b772-d7d3bc9a3cd3" },
+  { n = 2, title = "My Black Sabbath", mbid = "34e216e6-18df-44a9-a499-855f38441af6" },
+  { n = 3, title = "Alicante", mbid = "0ebae6a4-81f1-4c1c-96cb-9893b31d3c0d" },
+  { n = 4, title = "Votre coté yéyé m’emmerde", mbid = "0d4f5644-cd1a-4628-8116-31e09555725f" },
+  { n = 5, title = "Cold Was the Ground", mbid = "88f9a8de-537a-4bff-ae8d-198a524774ae" },
+  { n = 6, title = "I miei occhi sono i tuoi occhi", mbid = "cbf74558-ae98-4fbe-90c6-a2e97bca5940" },
+  { n = 7, title = "La Mercedes de couleur gris métallisé", mbid = "51abcefd-4a5c-416a-bbee-bc352cac15d1" },
+  { n = 8, title = "Rosas", mbid = "774ebf4b-edae-493e-a41b-c07f7579505d" },
+  { n = 9, title = "Barrio chino", mbid = "146a1872-4df6-4d18-b741-f06a87da884d" },
+  { n = 10, title = "BB", mbid = "da94ccbc-89b1-451e-8f18-02e7cfb62f8c" },
+  { n = 11, title = "La Mélancolie", mbid = "743549b1-bc8c-4c66-84c5-f2c1bedeef4a" },
+  { n = 12, title = "La Méditerranée", mbid = "9945050a-14e3-42f5-9f39-da870bb85d3b" },
+  { n = 13, title = "Liverpool", mbid = "704f80f3-25d3-4c29-b323-2f83e70a451e" },
+]
+
+[[release]]
+mbid = "c29926d2-d8d6-463b-afde-9a731f5310e8"
+title = "Traité de guitarres triolectiques (à l'usage des portugaises ensablées)"
+type = "album"
+date = "2015-02-02"
+tracks = [
+  { n = 1, title = "Stella Star", mbid = "dc277bed-ebf9-4d86-bff1-4aca3331edaa" },
+  { n = 2, title = "Carnival of Souls", mbid = "a5ccd739-9010-4f22-812f-e300395b77b6" },
+  { n = 3, title = "The Nothing-Twist", mbid = "1b221ea8-d408-43f7-a16c-99f8bfa87667" },
+  { n = 4, title = "(They Call Me) Black Sabata", mbid = "06a008be-6b6e-47cb-84ee-81f62eaee8d9" },
+  { n = 5, title = "You're Never Alone With a Schizo", mbid = "5781d35a-4ba5-41a4-95a6-57aa8d8772cd" },
+  { n = 6, title = "Why Are We Sleeping ?", mbid = "50cc7ff9-9622-4ba2-8195-ab5822cbd113" },
+  { n = 7, title = "El Vici Birra-Crucis", mbid = "0a762845-fc61-47de-93ad-6dd23441bed8" },
+  { n = 8, title = "Green Fuz", mbid = "dda8d419-eefd-40b7-bc73-d49c4b0993b0" },
+  { n = 9, title = "T.B. JerK +++", mbid = "9512a1b8-93ce-438f-8d30-f7d0dc2aa561" },
+  { n = 10, title = "Wunderbar", mbid = "63213b3a-0df7-4099-a888-bd6db547ceec" },
+  { n = 11, title = "A Wall of Perrukes", mbid = "c67d9526-bee8-41cf-bd85-00bed613cbb7" },
+  { n = 12, title = "One of Us, One of Us, One of Us...", mbid = "2ac93ae6-a812-44fa-962a-a0c42b2e32a5" },
+  { n = 13, title = "Dick Dale n'était pas de Bompas", mbid = "595e7a7f-1181-4d8f-be34-5f6c680e0fdc" },
+  { n = 14, title = "Ramblin' Rose", mbid = "b0283e80-cb0f-4070-9b5d-9d8ee3270a75" },
+  { n = 15, title = "Yesterday Man", mbid = "d4d1621a-ca2b-48a6-8dd0-8b373bd20cb3" },
+  { n = 16, title = "I'm Dead", mbid = "e434d498-3626-4a19-81e9-6d692be6683f" },
+]
+
+[[release]]
+mbid = "24130d4d-c41c-48b5-826a-83128defe61d"
+title = "Malamore"
+type = "album"
+date = "2016-04-22"
+tracks = [
+  { n = 1, title = "Athen I.A.", mbid = "3dfc5bfe-6216-4c51-a1ae-62e4cd61e517" },
+  { n = 2, title = "El Beach", mbid = "bb52c6cc-a9b1-4710-a991-88c8e1fd64ca" },
+  { n = 3, title = "Prisunic", mbid = "23e0285a-39bd-467b-9d7d-9ee2747b7c77" },
+  { n = 4, title = "Garden of Love (feat. Peter Hook)", mbid = "13d604a4-ecd7-4bc1-a046-54af61704526" },
+  { n = 5, title = "Malamore", mbid = "63f46c73-d283-42c9-8997-e8e835a58825" },
+  { n = 6, title = "El Sordo", mbid = "77f3e75a-b23b-4040-a58f-c32dd345f537" },
+  { n = 7, title = "Dahlia Rouge", mbid = "58695240-4401-4c7b-9619-2fab43f70f14" },
+  { n = 8, title = "The Dead Are Walking", mbid = "60d9945a-0184-4e4a-bf8c-52d13bd6202b" },
+  { n = 9, title = "Kostas", mbid = "2c80a3bf-a754-4b79-a0af-cda2ca6b1009" },
+  { n = 10, title = "Zippo", mbid = "0087ea8b-7ae9-433b-bdf7-748180fc6b88" },
+  { n = 11, title = "Paradise Now", mbid = "fa8fb3b6-d4f5-4113-85f6-9bc989eec294" },
+  { n = 12, title = "The Train Creep A-Loopin", mbid = "6fdca69e-0568-48d4-ab83-81a5201e068f" },
+]
+
+[[release]]
+mbid = "ca98554b-4e61-4d52-bbb3-37e021ef4f79"
+title = "Shadow People"
+type = "album"
+date = "2018-01-19"
+tracks = [
+  { n = 1, title = "Ouverture.", mbid = "4fadca60-ba8e-42cc-9a2b-9ac41307fd42" },
+  { n = 2, title = "Le Premier Jour", mbid = "c075b812-83ad-45e3-af15-908625a6a887" },
+  { n = 3, title = "Istanbul Is Sleepy", mbid = "29145741-7405-4cb4-9501-2c31d408e414" },
+  { n = 4, title = "Shadow People", mbid = "2036b4bb-5668-4783-a1c5-0a7d763ca55c" },
+  { n = 5, title = "Dimanche", mbid = "3149c3b4-a6c7-4379-8711-63a5464cc688" },
+  { n = 6, title = "The Gift", mbid = "9516f43f-e4a9-4096-a5e1-5cf44db2e600" },
+  { n = 7, title = "Motorizatti Marie", mbid = "3ca0a289-b94c-4e3a-a790-9e4eb91a0033" },
+  { n = 8, title = "Pink Flamingos", mbid = "33530bf4-c187-4520-bb5e-03c5a4b4a85e" },
+  { n = 9, title = "Trois Bancs", mbid = "581fe671-ad7f-4b0d-9fe0-832c51cf3157" },
+  { n = 10, title = "De la part des copains", mbid = "5393f1a3-1de1-4a7d-a20a-ef9b1fbaaa3e" },
+]
+
+[[release]]
+mbid = "9ff7479c-58d1-4167-ac8d-59bb66f07884"
+title = "The Limiñanas remix"
+type = "single"
+date = "2018-04-21"
+tracks = [
+  { n = 1, title = "Dimanche (Laurent Garnier remix)", mbid = "988f3f35-8781-49d1-ba99-ef455d6bbd80" },
+  { n = 2, title = "Istanbul is sleepy (Arnaud Rebotini remix)", mbid = "7a79ee58-7f8f-4c9d-b2ae-ad8c067afa8e" },
+]
+
+[[release]]
+mbid = "01d31af6-9e9e-4574-a3c7-b2a90da1f00e"
+title = "One Blood Circle"
+type = "single"
+date = "2019-10-25"
+tracks = [
+  { n = 1, title = "One Blood Circle", mbid = "020a403f-eea8-447f-baff-1652353dceb0" },
+  { n = 2, title = "Non, non, rien n'a changé", mbid = "2f02981d-8f9b-437b-a448-1dfdb00ab8c1" },
+]
+
+[[release]]
+mbid = "0c5db9e2-533a-4b03-b809-ea5267758f0a"
+title = "Le Bel Eté"
+type = "album"
+date = "2019-11-15"
+tracks = [
+  { disc = 1, n = 1, title = "One Blood Circle", mbid = "6c40dae1-bbe6-4d16-9763-9540353be1c1" },
+  { disc = 1, n = 2, title = "Dernier dîner de l'été", mbid = "99d6b5ed-b0ab-4daa-8bcd-4feecabf5fe8" },
+  { disc = 1, n = 3, title = "Simon", mbid = "30a3ec21-38af-4497-bf01-04af6b6749bb" },
+  { disc = 1, n = 4, title = "De la part des copains", mbid = "5393f1a3-1de1-4a7d-a20a-ef9b1fbaaa3e" },
+  { disc = 1, n = 5, title = "Ocean Kids", mbid = "6b6cae1c-a699-46b0-86ad-563233477f30" },
+  { disc = 2, n = 1, title = "Sophie seule sur le ferry", mbid = "96b3fafa-635c-42ee-b15d-b710205e364c" },
+  { disc = 2, n = 2, title = "Le Bel Été", mbid = "a8a0e8be-88e0-4e1c-976e-e3ea3acadad3" },
+  { disc = 2, n = 3, title = "One Blood Circle", mbid = "c6291983-2297-4c4d-9959-7dd0343047a8" },
+  { disc = 2, n = 4, title = "L'Atelier", mbid = "208f08e6-d1e4-4c44-a671-29fcb5d79b13" },
+  { disc = 2, n = 5, title = "Maria's Theme", mbid = "88fe79b5-f016-401b-abb9-0baadfe8b3d5" },
+  { disc = 2, n = 6, title = "One Blood Circle", mbid = "a30cb87e-e394-407c-adfa-a6a1fdcd344d" },
+]
+
+[[release]]
+mbid = "c3072b7e-4a9b-4cc5-94bf-ef1c6b1cf6cd"
+title = "Calentita EP"
+type = "ep"
+date = "2020"
+tracks = [
+  { n = 1, title = "Calentita (Single Version)", mbid = "1f216262-530e-4756-870a-0d9ce72a8c49" },
+  { n = 2, title = "Calentita (Unloved Remix)", mbid = "e29b593e-5d2e-4056-a698-15a5ea0bb0a7" },
+  { n = 3, title = "Calentita (Alternative Version)", mbid = "fc276116-b7c0-40a6-a1dd-0e39c5a2ded6" },
+  { n = 4, title = "Calentita (Unloved Remix Instrumental)", mbid = "63159d71-724b-471d-b340-ca451ac06b9a" },
+]
+
+[[release]]
+mbid = "4be09cac-7f39-4fb6-a805-053302a02608"
+title = "Variation sur 3 Bancs"
+type = "ep"
+date = "2021-02-19"
+tracks = [
+  { n = 1, title = "Variation sur 3 Bancs (Original)", mbid = "83c4277d-7674-43d3-bd1d-6f17eac9c5c9" },
+  { n = 2, title = "Variation sur 3 Bancs (Pilooski Massane Love Remix)", mbid = "ed53c42e-e50b-44b5-8058-8139b1c5d26c" },
+  { n = 3, title = "Variation sur 3 Bancs (Superpitcher Remix)", mbid = "479346d3-33e4-4863-b820-c1344c44d7ac" },
+  { n = 4, title = "Variation sur 3 Bancs (DESTIINO Remix)", mbid = "10862c49-c8f3-4214-9516-c48bd8b87f33" },
+  { n = 5, title = "Variation sur 3 Bancs (Instrumental)", mbid = "f9a78bf6-8b50-45e8-923b-0c3cc4838dfc" },
+  { n = 6, title = "Variation sur 3 Bancs (Pilooski Madeloc Love Remix)", mbid = "291985b7-e2f8-4b42-ab0c-13cda0aa7a63" },
+]
+
+[[release]]
+mbid = "49ec43fa-af28-438f-8125-997bb6bfe18b"
+title = "The World We Knew (OST)"
+type = "album"
+date = "2021-06-18"
+tracks = [
+  { n = 1, title = "Stoker", mbid = "b1455b06-9259-4d4b-9b30-50a9aa7d043c" },
+  { n = 2, title = "Une saison en enfer", mbid = "a058b8df-ffa8-421b-9fa5-83e616a22d9c" },
+  { n = 3, title = "Les hommes et les ombres", mbid = "1c4a7a8b-8c5f-4a8c-a328-33e1ada65f2b" },
+  { n = 4, title = "Les rêves des mourrants", mbid = "1335caf0-6f96-480b-97c1-11c075c264be" },
+  { n = 5, title = "L'homme hanté", mbid = "5dd10a87-4de2-4d77-b808-f90412c8ebb6" },
+  { n = 6, title = "The Fuzz Theme", mbid = "7c960575-77de-4040-bd55-cc32ab209ab1" },
+  { n = 7, title = "Variation sur Stoker", mbid = "b4eee865-48f7-48cf-9eae-414a80344272" },
+  { n = 8, title = "Gangsters contre fantômes", mbid = "ef2d4680-4fe6-4608-ba2d-e4d4e0096ce7" },
+  { n = 9, title = "Les rêves des mourrants part 2", mbid = "1cd5a342-a52d-4409-a139-d9d1519e0c53" },
+  { n = 10, title = "The world we knew", mbid = "299af2e0-0120-44d4-b688-cb263e540751" },
+  { n = 11, title = "The pale moon Light", mbid = "851243bb-48a4-4737-b65a-d69851e83e26" },
+  { n = 12, title = "Stoker the smoker", mbid = "fec0f2c3-0b2b-47f7-9482-9cef9ff4e059" },
+]
+
+[[release]]
+mbid = "719046c0-b336-487c-962c-9c479d6ce86c"
+title = "De Película"
+type = "album"
+date = "2021-09-07"
+spotify = "6Dpr7VxwL4dcuJQ623t4nh"
+tracks = [
+  { n = 1, title = "Saul", mbid = "d8d3ac63-9106-433e-a741-025a1bb24ca0" },
+  { n = 2, title = "Je rentrais par le bois... BB", mbid = "7aefafcd-ace2-4200-8cd1-1f8ebbe2ed29" },
+  { n = 3, title = "Juliette dans la caravane", mbid = "e081667d-7c3a-40f7-bcee-bb7cfcec7f09" },
+  { n = 4, title = "Que calor!", mbid = "cf2f98c2-e6dd-4f11-a3f6-4003465f1522" },
+  { n = 5, title = "Promenade oblique", mbid = "3068f13c-eb74-4185-b416-9b395edb6cdc" },
+  { n = 6, title = "Tu tournes en boucle", mbid = "2a9bad35-6e67-492c-8be2-7d2198007d03" },
+  { n = 7, title = "Steeplechase", mbid = "e34694be-a2a4-4d13-9486-d70d96b0fbce" },
+  { n = 8, title = "Juliette", mbid = "b7fc64ec-cf14-4e3c-9e9a-7103a027edc0" },
+  { n = 9, title = "Ne gâche pas l’aventure humaine", mbid = "d4022f6c-cae8-4092-b447-2e06e011068f" },
+  { n = 10, title = "Au début, c’était le début", mbid = "99abe3cb-1f97-43e9-bed2-719591d9225a" },
+  { n = 11, title = "Saul s’est fait planter", mbid = "cef27a0f-5154-4acc-a821-27ee9ef8c1f3" },
+  { n = 12, title = "Que calor! (edit)", mbid = "375fea11-da8c-4893-b202-fbad632f471e" },
+]
+
+[[release]]
+mbid = "67fba122-9c08-4c62-82e9-08eb0b5537d7"
+title = "The Ballad of Linda L. (OST)"
+type = "album"
+date = "2022-03-25"
+tracks = [
+  { n = 1, title = "Prologue", mbid = "dcf48697-6bd1-4ffb-869e-a4aa98192983" },
+  { n = 2, title = "Deep", mbid = "9368fc18-0c71-4897-a8a9-cb049cefe2a1" },
+  { n = 3, title = "Doin' It", mbid = "242d86e1-cb3a-4bad-a996-1b685219512d" },
+  { n = 4, title = "The Ballad of Linda L.", mbid = "24a7716a-bc85-4334-9ed5-8b7b0e401772" },
+  { n = 5, title = "80's Score Part. A", mbid = "06ff96d9-46cd-41ff-b7cc-ae39ecfebc93" },
+  { n = 6, title = "80's Score Part. B", mbid = "4eff316e-635b-4703-8491-0593964f8efe" },
+  { n = 7, title = "Friends on Fire", mbid = "430975c2-33d2-43be-80ce-d77eedd048cd" },
+  { n = 8, title = "Desolation", mbid = "e8dae0b5-f92e-4a4d-8b49-87298ca59b15" },
+  { n = 9, title = "Romance", mbid = "1f80eb7e-8a80-418c-b99c-f458d09da399" },
+  { n = 10, title = "Punky Disco", mbid = "a4ae134f-7d38-4aa7-bea2-dee4c2aa53db" },
+  { n = 11, title = "Linda's Lament", mbid = "ee6e2e42-6744-4b6a-a9dc-9cd7737bab4a" },
+  { n = 12, title = "Get Up and Fight", mbid = "f3c8b9e7-7a81-422c-9f9e-0bb03d510cae" },
+]
+
+[[release]]
+mbid = "6f4c7e35-1c44-4aef-ad53-f4323096a98d"
+title = "L'effet domino"
+type = "single"
+date = "2024-03-06"
+tracks = [
+  { n = 1, title = "L'effet domino", mbid = "ccaa5e4f-1429-4e9b-9282-4f36d4fb31c8" },
+  { n = 2, title = "L'effet domino (Instrumental)", mbid = "b6680768-53dc-4463-99b1-80fe88250a59" },
+]
+
+[[release]]
+mbid = "9f8f1d81-d326-457e-87ca-dc829257269c"
+title = "HEUREUX GAGNANTS (Bande Originale)"
+type = "album"
+date = "2024-03-19"
+tracks = [
+  { n = 1, title = "Heureux Gagnants", mbid = "ae923ac9-5790-40fa-9f1a-cdea4c3284ff" },
+  { n = 2, title = "Bouge ton cul", mbid = "a7707e9f-021a-42da-abdc-9a9c19b99f9e" },
+  { n = 3, title = "Paul poursuite", mbid = "4ad8f33a-c0f7-429d-8fa9-3373681ad99d" },
+  { n = 4, title = "Julie Love Bubble", mbid = "b567dcf9-b792-4922-aa83-ffcd9979d513" },
+  { n = 5, title = "L'Arnaqueur", mbid = "63f6f66b-f429-4a6f-8b22-df37f2c6501a" },
+  { n = 6, title = "Hotel Particulier", mbid = "8ecd5029-63a5-405b-896d-2ed1cb967b5d" },
+  { n = 7, title = "Le gros lot", mbid = "2f2e6a82-a904-4110-8020-197129b083ce" },
+  { n = 8, title = "Metro", mbid = "eb07cd78-18f9-4ac2-ab58-6e88ad1c8a41" },
+  { n = 9, title = "On va faire du bien", mbid = "a804b3b9-149d-4597-bae4-c8801b74a87f" },
+  { n = 10, title = "Sandra, le maléfique", mbid = "58b62d13-0ed6-4e34-9497-e53bb8e1af50" },
+  { n = 11, title = "Vortex", mbid = "c8c8f5d0-342b-4711-9c25-705d82ba423a" },
+  { n = 12, title = "Chronologie d'une pendaison", mbid = "3ab64782-c313-4fab-9315-5d6b185b2cd7" },
+  { n = 13, title = "Shimmering Love", mbid = "0603edf4-9b6d-4752-a32e-f640683bd1f4" },
+]
+
+[[release]]
+mbid = "28b34e27-b77e-45cf-8fa1-a400512a9a0b"
+title = "Hi No Tori"
+type = "single"
+date = "2024-05-22"
+tracks = [
+  { n = 1, title = "Hi No Tori", mbid = "7cf0708e-ab19-4d60-9648-6a094c108c7c" },
+  { n = 2, title = "Hi No Tori (Instrumental)", mbid = "fa274d6f-3ec9-4076-8047-81c0687916f1" },
+]
+
+[[release]]
+mbid = "9574da1f-2f37-45ee-b573-c38f2b81ef85"
+title = "Prisoner of Beauty"
+type = "single"
+date = "2024-10-23"
+tracks = [
+  { n = 1, title = "Prisoner of Beauty", mbid = "d13c667b-3175-4002-81b4-d284bba8da3d" },
+]
+
+[[release]]
+mbid = "3fc826db-aab5-4c48-b8ac-052eb24c2c4e"
+title = "J'adore le monde"
+type = "single"
+date = "2024-11-28"
+tracks = [
+  { n = 1, title = "J'adore le monde", mbid = "e2aaf1bb-e9ee-4a3f-af1d-31d59311ddeb" },
+  { n = 2, title = "J'adore le monde (Short Version)", mbid = "1a4155fc-3d0b-45b9-a605-6e06e9c526bc" },
+  { n = 3, title = "Prisoner of Beauty", mbid = "a95d9b0c-04a1-479b-8789-7f96d03e1b02" },
+]
+
+[[release]]
+mbid = "a49e77d6-db53-4d69-a1b6-f253f326f599"
+title = "Faded"
+type = "album"
+date = "2025-02-21"
+spotify = "2ZhmKc7LGzKJ1s0n5EDwcJ"
+tracks = [
+  { n = 1, title = "Spirale", mbid = "c53e2449-402b-4eaf-8207-9b2fe9c69359" },
+  { n = 2, title = "Prisoner of Beauty", mbid = "330aa415-4bfb-4315-ab45-d68249c8105c" },
+  { n = 3, title = "J'adore le monde", mbid = "ffd379b9-2ca7-4abd-b356-3ea993bd40c2" },
+  { n = 4, title = "Shout", mbid = "51cceb24-f1f8-4262-beeb-3070149a785b" },
+  { n = 5, title = "Faded", mbid = "88b3ad17-55d9-4abf-b23d-42937f3fc97a" },
+  { n = 6, title = "Catherine", mbid = "441309d6-b576-43c0-95a6-c3e3d82b06e7" },
+  { n = 7, title = "The Dancer", mbid = "6f635e6f-ecbf-421a-b1be-d2105b618ab3" },
+  { n = 8, title = "Space Baby", mbid = "1d27ba23-0f6e-440f-84d6-aaccc2b93975" },
+  { n = 9, title = "Tu viens Marie ?", mbid = "df3284b4-e797-4c32-a575-7656417bfe4f" },
+  { n = 10, title = "Louie Louie", mbid = "79fbc7ab-346a-4405-8718-2eb7f06510b6" },
+  { n = 11, title = "Autour de chez moi", mbid = "3990c218-eb62-4ae1-8a87-b24320fe6cd7" },
+  { n = 12, title = "Degenerate Star", mbid = "69ec2868-9e11-456e-94e9-a84c84d3c67b" },
+  { n = 13, title = "Où va la chance (Françoise Hardy cover)", mbid = "5b4074c8-4ee7-4e56-bce6-ca5a6600a3be" },
+]
+
+[[release]]
+mbid = "14b59043-1f7e-4183-99e1-4c5195a6945b"
+title = "Extra Faded"
+type = "ep"
+date = "2025-04-12"
+tracks = [
+  { n = 1, title = "Autour de chez moi (version longue)", mbid = "d5c286ba-61e1-4829-8f5a-51cb7b62916f" },
+  { n = 2, title = "Sleaford", mbid = "64f6d5a2-bbd3-44a8-8cd3-b2f771bae04e" },
+  { n = 3, title = "Tu viens Marie ? (version longue)", mbid = "15e995ba-f50c-497f-98a5-576644eefebb" },
+  { n = 4, title = "Louie Louie (instrumental)", mbid = "6e0aaf3a-b52f-4fc9-9354-e9f14f77c6a2" },
+]

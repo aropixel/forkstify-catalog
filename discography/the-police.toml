@@ -1,0 +1,391 @@
+format = 1
+
+[[release]]
+mbid = "ef504c04-861f-40c5-952b-a3b16f06f975"
+title = "Fall Out / Nothing Achieving"
+type = "single"
+date = "1977-05-01"
+tracks = [
+  { n = 1, title = "Fall Out", mbid = "d00b7461-48fc-427d-a350-494b35472211" },
+  { n = 2, title = "Nothing Achieving", mbid = "54763928-759f-40d1-876b-5ee299b1a316" },
+]
+
+[[release]]
+mbid = "b7e293d2-7109-3423-962f-aa43ad9f72a5"
+title = "Can’t Stand Losing You"
+type = "single"
+date = "1978"
+tracks = [
+  { n = 1, title = "Can’t Stand Losing You", mbid = "da9c479c-aadb-4b45-b770-e57a5d485be2" },
+  { n = 2, title = "Dead End Job", mbid = "beea30ad-26bb-434d-8409-c0e3de90248f" },
+]
+
+[[release]]
+mbid = "d09afa16-c145-308b-b6b1-cc23cfc65fd2"
+title = "Roxanne"
+type = "single"
+date = "1978-04-07"
+tracks = [
+  { n = 1, title = "Roxanne", mbid = "93e7d85b-0e15-454f-880f-e6cd67bc7d3b" },
+  { n = 2, title = "Peanuts", mbid = "7887a769-f8f8-461c-9f0a-e2f8f7bca26d" },
+]
+
+[[release]]
+mbid = "188d416a-59b7-4e65-b5ca-8499209d3208"
+title = "So Lonely"
+type = "single"
+date = "1978-11"
+tracks = [
+  { n = 1, title = "So Lonely", mbid = "866e152a-1f13-4d69-bb4b-5ba36a10db58" },
+  { n = 2, title = "No Time This Time", mbid = "d57a93d0-4157-4756-92bc-0c4ce4cbc451" },
+]
+
+[[release]]
+mbid = "3d55b5a4-a81f-3b8e-8d7e-802ce1c86596"
+title = "Outlandos d’Amour"
+type = "album"
+date = "1978-11-02"
+spotify = "1H9g6j4Wwj6wh6p8YHVtkf"
+tracks = [
+  { n = 1, title = "Next to You", mbid = "69b41447-ab77-4937-be4d-1f6ae31907ec" },
+  { n = 2, title = "So Lonely", mbid = "8d8e61ca-92b8-4244-9d4f-c8fc4782e3a5" },
+  { n = 3, title = "Roxanne", mbid = "68aaa830-20c5-4e4a-bc5c-3bfcecc43fde" },
+  { n = 4, title = "Hole in My Life", mbid = "012a8005-68c1-46eb-aa12-117525683491" },
+  { n = 5, title = "Peanuts", mbid = "cfe400a6-df78-454b-8281-195426d962ea" },
+  { n = 6, title = "Can’t Stand Losing You", mbid = "da9c479c-aadb-4b45-b770-e57a5d485be2" },
+  { n = 7, title = "Truth Hits Everybody", mbid = "6f0b46b2-5618-4495-8fcc-0f26ea3f27dc" },
+  { n = 8, title = "Born in the 50’s", mbid = "5c9d6c6c-0249-4229-a505-99278bf7dcca" },
+  { n = 9, title = "Be My Girl‐Sally", mbid = "91825c9f-03d2-4901-aa77-aa332d665252" },
+  { n = 10, title = "Masoko Tanga", mbid = "9285904d-89a4-4e06-a631-052e9b3e1a93" },
+]
+
+[[release]]
+mbid = "9c278969-b961-4ca9-872a-ffa3c4c3b029"
+title = "Bring On the Night"
+type = "single"
+date = "1979"
+tracks = [
+  { n = 1, title = "Bring On the Night", mbid = "0fb7b7bc-13bc-4ab5-95cc-c7b2845ba898" },
+  { n = 2, title = "Roxanne", mbid = "68aaa830-20c5-4e4a-bc5c-3bfcecc43fde" },
+]
+
+[[release]]
+mbid = "c57ba03d-836a-423b-9ba1-2b495531bba3"
+title = "Message in a Bottle"
+type = "single"
+date = "1979-09"
+tracks = [
+  { n = 1, title = "Message in a Bottle", mbid = "f507f931-34c3-42ec-9738-585c8e9e39d5" },
+  { n = 2, title = "Landlord", mbid = "2cc28b16-a6f4-4e49-9ac8-e594aac549dd" },
+]
+
+[[release]]
+mbid = "2b98e6d7-a521-332f-961e-d281ba33ba3d"
+title = "Reggatta de Blanc"
+type = "album"
+date = "1979-10-05"
+spotify = "2EpuND32cO7CX0gXZl2NB6"
+tracks = [
+  { n = 1, title = "Message in a Bottle", mbid = "b9264011-47c5-4603-b840-7c27b0ccb2b9" },
+  { n = 2, title = "Reggatta de Blanc", mbid = "d87c9e75-31c8-4407-97cf-d3e66b547a2c" },
+  { n = 3, title = "It's Alright for You", mbid = "9e021edb-2273-470a-8981-e12171f2f932" },
+  { n = 4, title = "Bring on the Night", mbid = "0fb7b7bc-13bc-4ab5-95cc-c7b2845ba898" },
+  { n = 5, title = "Deathwish", mbid = "15d640a7-eaa3-43fb-88e8-a3ce1663d476" },
+  { n = 6, title = "Walking on the Moon", mbid = "f167e61d-5117-4e80-b7f1-2f99eef286ce" },
+  { n = 7, title = "On Any Other Day", mbid = "b5895e95-8097-4ceb-b83e-2a671e6e39d9" },
+  { n = 8, title = "The Bed's Too Big Without You", mbid = "352c30a9-a8fc-4c4d-8c14-70d80758f125" },
+  { n = 9, title = "Contact", mbid = "c7f0491a-19da-4a7c-9edf-48aada636888" },
+  { n = 10, title = "Does Everyone Stare", mbid = "1078c266-04f3-4c93-b118-be0d9e66b5d8" },
+  { n = 11, title = "No Time This Time", mbid = "d57a93d0-4157-4756-92bc-0c4ce4cbc451" },
+]
+
+[[release]]
+mbid = "84f3990f-cc45-4c05-a4e8-b3a5e8f08f76"
+title = "Walking on the Moon"
+type = "single"
+date = "1979-11"
+tracks = [
+  { n = 1, title = "Walking on the Moon", mbid = "b2025a58-1e2d-43a0-9cb5-a81ad45705b5" },
+  { n = 2, title = "Visions of the Night", mbid = "157b53bb-f48b-448b-a8a3-48d36a759387" },
+]
+
+[[release]]
+mbid = "6d730627-c9d1-392b-950f-53e4e55fe531"
+title = "De Do Do Do, De Da Da Da"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "De Do Do Do, de da da Da", mbid = "66eb9308-6b98-4cf0-8127-830508000a98" },
+  { n = 2, title = "Friends", mbid = "f7ce15f2-4631-457f-977c-e47db191b931" },
+]
+
+[[release]]
+mbid = "10441184-2096-4447-85d3-104be8d8fb0a"
+title = "The Bed’s Too Big Without You"
+type = "single"
+date = "1980-06"
+tracks = [
+  { n = 1, title = "The Bed’s Too Big Without You", mbid = "9408605a-d172-4ac9-b047-7444be0a7ce8" },
+  { n = 2, title = "Truth Hits Everybody", mbid = "b8efc04f-5126-4c8e-a9a0-c46112236f47" },
+]
+
+[[release]]
+mbid = "add82f85-f688-4bb3-8f13-0fecc6bafa5e"
+title = "Don’t Stand So Close to Me"
+type = "single"
+date = "1980-09-19"
+tracks = [
+  { n = 1, title = "Don’t Stand So Close to Me", mbid = "1f6a3ea0-70af-49d4-baf9-af6373c1c921" },
+  { n = 2, title = "Friends", mbid = "4832fc2f-2f01-40b8-9e92-645602d2dc9e" },
+]
+
+[[release]]
+mbid = "99ca0e36-f4bb-3a15-b016-0cf7b79c5792"
+title = "Zenyattà Mondatta"
+type = "album"
+date = "1980-10-03"
+spotify = "23enz9nXJhH1BR1Rm5CzDJ"
+tracks = [
+  { n = 1, title = "Don’t Stand So Close to Me", mbid = "1f6a3ea0-70af-49d4-baf9-af6373c1c921" },
+  { n = 2, title = "Driven to Tears", mbid = "63c88bef-322a-4b02-9d49-95584a4f7cc8" },
+  { n = 3, title = "When the World Is Running Down, You Make the Best of What’s Still Around", mbid = "a0fbd960-4f2e-4a18-9e25-8ea60467014a" },
+  { n = 4, title = "Canary in a Coalmine", mbid = "bca28527-18ca-45b2-a208-33a413733830" },
+  { n = 5, title = "Voices Inside My Head", mbid = "d0cc590b-a478-45fd-ae4b-91c6861bdd10" },
+  { n = 6, title = "Bombs Away", mbid = "0b84024e-9df3-4573-aee8-b9fa964f3e86" },
+  { n = 7, title = "De Do Do Do, De Da Da Da", mbid = "66eb9308-6b98-4cf0-8127-830508000a98" },
+  { n = 8, title = "Behind My Camel", mbid = "5319fbcf-1d52-4f74-89f3-31ea01bf7383" },
+  { n = 9, title = "Man in a Suitcase", mbid = "e5fa9044-1b16-403d-b1b9-9d294b7423ac" },
+  { n = 10, title = "Shadows in the Rain", mbid = "fa094e04-c72d-4983-aa0a-1e42a7314816" },
+  { n = 11, title = "The Other Way of Stopping", mbid = "47c87dc1-ab97-4733-8e5a-6122130695aa" },
+]
+
+[[release]]
+mbid = "fcaa90f9-04a7-49c9-adf3-b264ac703b95"
+title = "Invisible Sun"
+type = "single"
+date = "1981"
+tracks = [
+  { n = 1, title = "Invisible Sun", mbid = "c8dc5da3-f07e-491a-a906-f2abc0a7d594" },
+  { n = 2, title = "Shambelle", mbid = "5a3a802e-9c0d-4e47-8442-87e7e56d1eee" },
+]
+
+[[release]]
+mbid = "83b72bc0-b91a-4ad0-9f97-d8341d190967"
+title = "Spirits in the Material World"
+type = "single"
+date = "1981"
+tracks = [
+  { n = 1, title = "Spirits in the Material World", mbid = "c2a56b2c-606b-45cf-8513-bc0b3754af5e" },
+  { n = 2, title = "Low Life", mbid = "2a534633-9057-41ba-9d27-d9c79caad69a" },
+]
+
+[[release]]
+mbid = "85a87213-6b28-4e4b-808a-82f1b0b9b82e"
+title = "Every Little Thing She Does Is Magic"
+type = "single"
+date = "1981-09"
+tracks = [
+  { n = 1, title = "Every Little Thing She Does Is Magic", mbid = "9994e0f3-4574-4a66-a226-118df77a2934" },
+  { n = 2, title = "Shambelle", mbid = "b294fa0d-f6b0-4c9a-940c-94f1fef7f0a4" },
+]
+
+[[release]]
+mbid = "b25caa9e-e35d-3243-82d7-954da613b782"
+title = "Ghost in the Machine"
+type = "album"
+date = "1981-10-06"
+spotify = "5jkwdY6jS1Hzi8epr6HW7h"
+tracks = [
+  { n = 1, title = "Spirits in the Material World", mbid = "c2a56b2c-606b-45cf-8513-bc0b3754af5e" },
+  { n = 2, title = "Every Little Thing She Does Is Magic", mbid = "612eacef-bc8a-4797-aa72-5f811e0ffda8" },
+  { n = 3, title = "Invisible Sun", mbid = "3de64aae-8bbe-4d65-b1d2-b38c3b6a2bf3" },
+  { n = 4, title = "Hungry for You (j'aurais toujours faim de toi)", mbid = "4910276c-1986-4ae0-8ccb-a2dd46024d4d" },
+  { n = 5, title = "Demolition Man", mbid = "ad415c35-18c3-41f9-ade7-b458376013c4" },
+  { n = 6, title = "Too Much Information", mbid = "225d6830-1d4a-4a1a-a24b-e74be8c282b2" },
+  { n = 7, title = "Rehumanize Yourself", mbid = "995b8e74-7984-4631-8523-8513ef132f26" },
+  { n = 8, title = "One World (Not Three)", mbid = "600b11a3-c118-4449-bcec-d4ca66d139b4" },
+  { n = 9, title = "Omegaman", mbid = "91ba8783-813b-4150-b8d4-7c368e9cc13c" },
+  { n = 10, title = "Secret Journey", mbid = "2e29ff6d-2188-44c0-8f9f-0bb3f7513316" },
+  { n = 11, title = "Darkness", mbid = "5eb0da1b-a684-4edd-a8ad-2d126b388285" },
+]
+
+[[release]]
+mbid = "ee992652-a4c2-4720-ab53-821586e439ce"
+title = "I Burn for You / Only You"
+type = "single"
+date = "1982-10-21"
+tracks = [
+  { n = 1, title = "I Burn for You", mbid = "85705a6f-2b1d-4106-8299-b778117b20b8" },
+  { n = 2, title = "Only You", mbid = "b8d499c2-92ef-4dc4-9792-261f1548045c" },
+]
+
+[[release]]
+mbid = "e671ae83-ed2e-468e-a2c1-ebcabb802b9b"
+title = "Every Breath You Take (backing track) / Roxanne (backing track)"
+type = "single"
+date = "1983"
+tracks = [
+  { n = 1, title = "Every Breath You Take (backing track)", mbid = "d915301f-8272-4d60-8b31-b111056cd1a5" },
+  { n = 2, title = "Roxanne (backing track)", mbid = "93094ac5-4a11-4db7-a19b-4ccccf365974" },
+]
+
+[[release]]
+mbid = "716f3f3f-b0e3-4c45-9a39-8fc886c4c36b"
+title = "Four Big Hits, Vol. 2"
+type = "ep"
+date = "1983"
+tracks = [
+  { n = 1, title = "Total Eclipse of the Heart", mbid = "d17185df-a693-4bdf-8b43-9ab55881d1fb" },
+  { n = 2, title = "Overkill", mbid = "9a661bba-cfdf-4132-b509-20831fc55a91" },
+  { n = 3, title = "Every Breath You Take", mbid = "ad704170-12b0-4353-9805-aa1372bcda7f" },
+  { n = 4, title = "Rock ’n’ Roll Is King", mbid = "fe7eea8d-fc03-41e5-ac42-54d53568f7ee" },
+]
+
+[[release]]
+mbid = "19700d58-aaf3-4f34-b991-7c6162c720ba"
+title = "Next To You"
+type = "single"
+date = "1983"
+tracks = [
+  { n = 1, title = "Next to You", mbid = "69b41447-ab77-4937-be4d-1f6ae31907ec" },
+  { n = 2, title = "Be My Girl", mbid = "91825c9f-03d2-4901-aa77-aa332d665252" },
+]
+
+[[release]]
+mbid = "8c102670-f3d4-45e9-be3b-72c96ef69c88"
+title = "Every Breath You Take"
+type = "single"
+date = "1983-05-20"
+tracks = [
+  { disc = 1, n = 1, title = "Every Breath You Take", mbid = "3e19df7a-3f9a-4d42-adbf-31867646f602" },
+  { disc = 1, n = 2, title = "Murder By Numbers", mbid = "5d9f14e5-ee6b-4553-bacb-498656566971" },
+  { disc = 2, n = 1, title = "Truth Hits Everybody (Remix)", mbid = "1f8e06f7-fcac-40ba-a999-22fdae78cc29" },
+  { disc = 2, n = 2, title = "Man In A Suitcase (Live)", mbid = "716ce2d7-fb55-4e50-b60f-4177dea01993" },
+]
+
+[[release]]
+mbid = "f6df6292-fd40-37c3-bd61-22c53abfe773"
+title = "Synchronicity"
+type = "album"
+date = "1983-06-01"
+spotify = "5W9OT0a5iZlBr83a9WMKFY"
+tracks = [
+  { n = 1, title = "Synchronicity I", mbid = "52217089-2a90-4d8b-b0d3-19c5ffae4a0a" },
+  { n = 2, title = "Walking in Your Footsteps", mbid = "a2313ee6-ccce-4ced-bc3c-af7d4b06f09f" },
+  { n = 3, title = "O My God", mbid = "c4a51c5a-8ae7-4a45-a958-d5604a2e9bf2" },
+  { n = 4, title = "Mother", mbid = "51e34659-a888-4f60-9eb0-be9dd1063cd9" },
+  { n = 5, title = "Miss Gradenko", mbid = "b2bfd04d-9105-478a-8cbc-5c7021ebf742" },
+  { n = 6, title = "Synchronicity II", mbid = "98b40d21-fa86-40b4-a280-9f16269b5846" },
+  { n = 7, title = "Every Breath You Take", mbid = "3e19df7a-3f9a-4d42-adbf-31867646f602" },
+  { n = 8, title = "King of Pain", mbid = "a10f1f4c-0ab5-4bee-8329-a81317fd6aa3" },
+  { n = 9, title = "Wrapped Around Your Finger", mbid = "6438c6b1-f956-4d58-9cc4-227c6d0d7d8a" },
+  { n = 10, title = "Tea in the Sahara", mbid = "25dc959d-b68e-43c6-820c-b27b4cb3f05e" },
+  { n = 11, title = "Murder by Numbers", mbid = "5d9f14e5-ee6b-4553-bacb-498656566971" },
+]
+
+[[release]]
+mbid = "f191fc41-b189-44d6-acb4-6fd277d6845c"
+title = "Wrapped Around Your Finger"
+type = "single"
+date = "1983-07-01"
+tracks = [
+  { n = 1, title = "Wrapped Around Your Finger", mbid = "6438c6b1-f956-4d58-9cc4-227c6d0d7d8a" },
+  { n = 2, title = "Someone to Talk To", mbid = "9a2b5f29-b6bf-4a86-b159-38f71a06a409" },
+]
+
+[[release]]
+mbid = "ebae0d3d-a690-4ad6-be3e-9aacfa98e308"
+title = "Synchronicity II"
+type = "single"
+date = "1983-10"
+tracks = [
+  { n = 1, title = "Synchronicity II", mbid = "98b40d21-fa86-40b4-a280-9f16269b5846" },
+  { n = 2, title = "Once Upon A Daydream", mbid = "585ff1f7-4433-4e53-b41c-8bc4353c09dc" },
+]
+
+[[release]]
+mbid = "5bf28bae-8c43-4499-8b47-d6173648a779"
+title = "King of Pain"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "King of Pain", mbid = "a10f1f4c-0ab5-4bee-8329-a81317fd6aa3" },
+  { n = 2, title = "Tea in the Sahara (live)", mbid = "1bd812e4-bf5e-4511-8748-b4a25ad424dc" },
+]
+
+[[release]]
+mbid = "dc45ce06-e631-40cf-9d1a-bf82587abb86"
+title = "Don’t Stand So Close to Me ’86"
+type = "single"
+date = "1986-10"
+tracks = [
+  { n = 1, title = "Don’t Stand So Close to Me ’86", mbid = "2ca093f8-a25e-42fe-8cde-e4a73df0617e" },
+  { n = 2, title = "Don’t Stand So Close to Me (live)", mbid = "81ab591d-14d0-42db-8208-c0d4fa11bc1d" },
+]
+
+[[release]]
+mbid = "de5ff3e9-7b82-4bbb-8c3a-b13116493225"
+title = "Compact Hits Limited Edition"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Roxanne", mbid = "a54823f7-d7fc-449e-a58d-04a2143fcfbd" },
+  { n = 2, title = "Canary in a Coalmine", mbid = "bca28527-18ca-45b2-a208-33a413733830" },
+  { n = 3, title = "The Bed’s Too Big Without You", mbid = "9bf2311b-2cdd-45cc-beb5-1c82fe6573bd" },
+  { n = 4, title = "Can’t Stand Losing You", mbid = "e2e77d29-2dfc-45d0-8961-5dd6f2cc3df8" },
+]
+
+[[release]]
+mbid = "899a5de5-ee2b-4e97-b68d-3df3b56168ac"
+title = "Don’t Stand So Close to Me / King of Pain"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Don’t Stand So Close to Me", mbid = "1f6a3ea0-70af-49d4-baf9-af6373c1c921" },
+  { n = 2, title = "King of Pain", mbid = "38fd84b7-2417-44bc-8661-b09359e02991" },
+]
+
+[[release]]
+mbid = "eade88a2-8795-4dbf-84f3-f8ca98a6fad1"
+title = "Walking on the Moon"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Walking on the Moon (Roger Sanchez EVA edit)", mbid = "b9e2cf08-2356-4d73-a1c1-325f1ff27907" },
+  { n = 2, title = "Walking on the Moon (Roger Sanchez EVA mix)", mbid = "17d00805-c742-468f-b28f-bbba86448fed" },
+  { n = 3, title = "Walking on the Moon (Roger Sanchez Darkside of the Moon mix)", mbid = "e08f6cfd-9e30-4d46-ab3a-fbed9a10a46c" },
+  { n = 4, title = "Walking on the Moon (Roger Sanchez EVA instrumental)", mbid = "ed79a22c-11a0-474e-83a8-ee1e013836f3" },
+]
+
+[[release]]
+mbid = "4f7242ab-9966-36a9-a575-6d93696b5782"
+title = "Roxanne ’97"
+type = "single"
+date = "1997-12-10"
+tracks = [
+  { n = 1, title = "Roxanne ’97 (Puff Daddy remix – album version)", mbid = "6ddf03b1-cfa4-428a-8217-8691be2507f0" },
+  { n = 2, title = "Roxanne ’97 (Puff Daddy remix – instrumental)", mbid = "5f9ea812-0a6f-4af9-87c3-bf3ba1569d18" },
+  { n = 3, title = "Roxanne ’97 (Puff Daddy remix – edit)", mbid = "ec34df04-13cd-435d-9afe-737c7de5cdce" },
+  { n = 4, title = "Roxanne ’97 (Puff Daddy remix – a cappella)", mbid = "1409acd4-de90-49ca-ad0e-dc1e18a4f7d3" },
+]
+
+[[release]]
+mbid = "1ecd9713-d56c-3fe3-9669-ba1716890462"
+title = "When the World Is Running Down (You Can’t Go Wrong)"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "When the World Is Running Down (You Can’t Go Wrong) (radio edit)", mbid = "8b07060b-3f23-404c-a33f-82b900b5b4ff" },
+  { n = 2, title = "When the World Is Running Down (You Can’t Go Wrong) (original bootleg mix)", mbid = "a6d21773-579c-41e4-8cbf-ac2e10e02138" },
+  { n = 3, title = "When the World Is Running Down (You Can’t Go Wrong) (Different Gear club)", mbid = "0a54400c-f51b-4b0d-9adb-7f3fd7743f3f" },
+]
+
+[[release]]
+mbid = "54b97e35-f046-4f03-9028-eedc793dc9e7"
+title = "King of Pain (demo)"
+type = "single"
+date = "2024-05-30"
+spotify = "01eQ5d9ozwnYAdAFVzPo7z"
+tracks = [
+  { n = 1, title = "King of Pain (demo)", mbid = "2f216cdd-cf57-4bee-b35e-6e45265c7370" },
+]

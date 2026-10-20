@@ -1,0 +1,599 @@
+format = 1
+
+[[release]]
+mbid = "4629c877-bd4c-3bb2-bfe5-26f5f3a77de5"
+title = "What Evil Lurks"
+type = "ep"
+date = "1991-02-25"
+spotify = "6vuZboPTHMAefguzzqAhwo"
+tracks = [
+  { n = 1, title = "Android", mbid = "62f5da9d-e3f9-4357-9225-68a08c0d72f4" },
+  { n = 2, title = "Everybody in the Place", mbid = "c9b8cc06-6205-4ed4-a7d2-a0f113d8b96d" },
+  { n = 3, title = "What Evil Lurks", mbid = "5b585811-07e7-4757-b405-01b5b89b0e2c" },
+  { n = 4, title = "We Gonna Rock", mbid = "bee03726-ce83-47cf-81a5-27ae395276f3" },
+]
+
+[[release]]
+mbid = "8dd77f9d-fe09-3a24-b7fc-85b3409915ef"
+title = "Charly"
+type = "single"
+date = "1991-08-12"
+spotify = "42ppdb9Efk52eDFnr7ZCnU"
+tracks = [
+  { n = 1, title = "Charly (original mix)", mbid = "eafbbb78-299e-485c-8a5c-f5629a56b0ad" },
+  { n = 2, title = "Pandemonium", mbid = "4419b2db-fd0b-4d1a-b231-d6f8bbf5e374" },
+  { n = 3, title = "Your Love", mbid = "a593bc35-3f69-4f05-a3f7-966367209ae9" },
+  { n = 4, title = "Charly (Alley Cat mix)", mbid = "6114b130-be40-4a74-b9e1-105988903ba9" },
+]
+
+[[release]]
+mbid = "10fb9bcc-e71c-352d-90dd-a500eca65ba3"
+title = "Everybody in the Place"
+type = "single"
+date = "1991-12-30"
+tracks = [
+  { n = 1, title = "Everybody in the Place (Fairground remix)", mbid = "46658fcc-427c-4f70-8933-c1f3f0152b99" },
+  { n = 2, title = "Crazy Man", mbid = "2efa4e28-6405-4b9f-b794-543ede42edbf" },
+  { n = 3, title = "G-Force (Energy Flow)", mbid = "899cfc0a-d846-46e7-b81e-9f6293ca0661" },
+  { n = 4, title = "Rip Up the Sound System", mbid = "e8ba2c06-e7e2-4c36-a3ac-d9a437481a80" },
+]
+
+[[release]]
+mbid = "8f10e988-3ed5-36da-90ff-d4f1fc2dedd9"
+title = "Charly / Everybody in the Place"
+type = "single"
+date = "1992-06-18"
+tracks = [
+  { n = 1, title = "Charly (Beltram Says mix)", mbid = "510a80d5-0bd7-4c9c-a927-09cf31b4d037" },
+  { n = 2, title = "Charly (Alley Cat mix)", mbid = "6114b130-be40-4a74-b9e1-105988903ba9" },
+  { n = 3, title = "Everybody in the Place (Dance Hall version)", mbid = "5a00b365-eafe-4331-9691-0bb500a6f7d8" },
+  { n = 4, title = "Everybody in the Place (Fairground mix)", mbid = "46658fcc-427c-4f70-8933-c1f3f0152b99" },
+  { n = 5, title = "Your Love (The Original Excursion)", mbid = "476306f4-69ab-4c4f-8531-49af38e37d9e" },
+  { n = 6, title = "G-Force, Part 1", mbid = "899cfc0a-d846-46e7-b81e-9f6293ca0661" },
+]
+
+[[release]]
+mbid = "5c6a23f6-a36b-3ddd-9226-6268a538a95b"
+title = "Fire / Jericho"
+type = "single"
+date = "1992-09-07"
+tracks = [
+  { n = 1, title = "Fire (edit)", mbid = "0c07982e-975b-4308-ae53-0b22d369e5a5" },
+  { n = 2, title = "Jericho (original version)", mbid = "93b0f3e3-dc7f-436b-93a7-285a0dfae829" },
+  { n = 3, title = "Fire (Sunrise version)", mbid = "bfbac2b9-679d-4a6b-9acd-36b97e0b5a0c" },
+  { n = 4, title = "Jericho (Genaside II remix)", mbid = "91efba4e-d225-4848-a911-261ffd153069" },
+]
+
+[[release]]
+mbid = "a3f046a8-8edd-3b8c-bb51-112950b0839c"
+title = "Experience"
+type = "album"
+date = "1992-09-21"
+spotify = "6ps0BkH76wpg48HoUfVbB6"
+tracks = [
+  { n = 1, title = "Jericho", mbid = "93b0f3e3-dc7f-436b-93a7-285a0dfae829" },
+  { n = 2, title = "Music Reach (1/2/3/4)", mbid = "f455f8c3-5b40-4316-9e1e-cf002ec1a1c5" },
+  { n = 3, title = "Wind It Up", mbid = "18027ae5-23ad-4e61-8474-36cb1c314741" },
+  { n = 4, title = "Your Love (remix)", mbid = "607f0209-b05a-4c30-bed4-770972cd7486" },
+  { n = 5, title = "Hyperspeed (G-Force, Part 2)", mbid = "b2ed7ec3-500e-4040-baa4-d54b7221a9fb" },
+  { n = 6, title = "Charly (Trip Into Drum and Bass version)", mbid = "951b8b22-1a55-41e9-a475-a4826d094dcf" },
+  { n = 7, title = "Out of Space", mbid = "fde1d9c5-b18e-407c-a508-97c71047b2c6" },
+  { n = 8, title = "Everybody in the Place (155 and Rising)", mbid = "8fffe1e4-f1ed-4b15-8698-d966275f6929" },
+  { n = 9, title = "Weather Experience", mbid = "f4467064-33eb-41f5-ab22-cdd18f326ba5" },
+  { n = 10, title = "Fire (Sunrise version)", mbid = "bfbac2b9-679d-4a6b-9acd-36b97e0b5a0c" },
+  { n = 11, title = "Ruff in the Jungle Bizness", mbid = "81493b79-bf7d-42ba-a5f2-5342eb7d985e" },
+  { n = 12, title = "Death of the Prodigy Dancers (live)", mbid = "3d953e11-c417-4034-a5d1-d0f41405337e" },
+]
+
+[[release]]
+mbid = "64251686-2317-3275-8afb-c8e30b41a482"
+title = "Out of Space"
+type = "single"
+date = "1992-10"
+tracks = [
+  { n = 1, title = "Out of Space (edit)", mbid = "2a291fe7-9dbb-4a7c-82a2-c609df06e39a" },
+  { n = 2, title = "Out of Space (Techno Underworld remix)", mbid = "dddff36f-4a9b-4faf-9ca3-bf2940b9d534" },
+  { n = 3, title = "Ruff in the Jungle Bizness (Uplifting Vibes remix)", mbid = "764f8e26-d7f7-4bb0-8c73-dfe0d26f9c9f" },
+  { n = 4, title = "Music Reach (1/2/3/4) (live)", mbid = "4206d821-edfc-4dd5-8ec7-d305f940f386" },
+]
+
+[[release]]
+mbid = "0a3ef90a-c8aa-33bf-85ff-2d13b89b01e6"
+title = "Wind It Up (Rewound)"
+type = "single"
+date = "1993-03-29"
+spotify = "197mDIl4NRaXvqIloMK2z9"
+tracks = [
+  { n = 1, title = "Wind It Up (The Rewound edit)", mbid = "107336a4-241f-492e-b8f1-3904d5675de1" },
+  { n = 2, title = "Wind It Up (Tightly Wound)", mbid = "9926127d-3392-447c-b361-683076c93ca2" },
+  { n = 3, title = "Wind It Up (Forward Wind)", mbid = "0319ab09-8588-45a2-b0b5-318dc4ac6570" },
+  { n = 4, title = "Wind It Up (Unwind)", mbid = "002041ab-0c9b-43b8-80b5-e4827a8311f6" },
+]
+
+[[release]]
+mbid = "dcc08d3b-2671-3e7d-b757-0adec2f4eeb6"
+title = "One Love"
+type = "single"
+date = "1993-08"
+tracks = [
+  { n = 1, title = "One Love (edit)", mbid = "17aef4b4-b73b-4d9b-810e-5f0989b50ae5" },
+  { n = 2, title = "Rhythm of Life (original mix)", mbid = "f8746690-2bb4-4856-8c5d-8f9f4e3d40fe" },
+  { n = 3, title = "Full Throttle (original mix)", mbid = "3b6fa084-0863-4791-8c3e-f4abf549afa7" },
+  { n = 4, title = "One Love (Jonny L remix)", mbid = "3c72376f-97a7-4844-8129-f15369dd4124" },
+]
+
+[[release]]
+mbid = "100ad1ed-f84d-35a9-bf08-06ed1e97c9e3"
+title = "No Good (Start the Dance)"
+type = "single"
+date = "1994-05-16"
+spotify = "3SLSkHLC2fLZznR5dqmiPs"
+tracks = [
+  { n = 1, title = "No Good (Start the Dance) (edit)", mbid = "1e37b0e2-a8b1-416d-80c3-2133080d4345" },
+  { n = 2, title = "No Good (Start the Dance) (CJ Bolland's mix)", mbid = "b3b11a3e-6972-4ee5-8f2b-01e76098c95f" },
+  { n = 3, title = "One Love (Jonny L remix)", mbid = "3c72376f-97a7-4844-8129-f15369dd4124" },
+  { n = 4, title = "Jericho (Genaside II remix)", mbid = "91efba4e-d225-4848-a911-261ffd153069" },
+  { n = 5, title = "G-Force (Energy Flow)", mbid = "899cfc0a-d846-46e7-b81e-9f6293ca0661" },
+]
+
+[[release]]
+mbid = "f9fa083f-db00-3048-99e7-5b186672bb09"
+title = "Music for the Jilted Generation"
+type = "album"
+date = "1994-07-04"
+spotify = "02Lkjh6NyUJCey2brMNQcg"
+tracks = [
+  { n = 1, title = "Intro", mbid = "01bffd8a-59c8-451b-b79c-600b416ac1af" },
+  { n = 2, title = "Break & Enter", mbid = "daa9e1bd-56aa-48bf-9c7b-6cd7cac8c223" },
+  { n = 3, title = "Their Law", mbid = "e21fbc12-8f9d-4c7b-8bfe-d4d6e1bcabbf" },
+  { n = 4, title = "Full Throttle", mbid = "c3c53dbe-2ec4-461e-86b0-a669e64e029f" },
+  { n = 5, title = "Voodoo People", mbid = "81add81c-b2de-4966-9ef3-23dbf9b15c48" },
+  { n = 6, title = "Speedway (Theme From Fastlane)", mbid = "41586ae8-d018-4ac7-8c9b-096feaa3d03f" },
+  { n = 7, title = "The Heat (The Energy)", mbid = "7b6f19ab-2b39-465d-b628-375f547f7e3a" },
+  { n = 8, title = "Poison", mbid = "f8032b9f-c85a-4289-a4fb-f21ab3c65921" },
+  { n = 9, title = "No Good (Start the Dance)", mbid = "2fb4b45f-6988-47a0-9ae1-4eb90b020313" },
+  { n = 10, title = "One Love (edit)", mbid = "17aef4b4-b73b-4d9b-810e-5f0989b50ae5" },
+  { n = 11, title = "The Narcotic Suite: 3 Kilos", mbid = "12591238-4498-4d0c-9fd8-e6f0f643d582" },
+  { n = 12, title = "The Narcotic Suite: Skylined", mbid = "ef47f67b-e87d-4eae-9228-afe02ae05199" },
+  { n = 13, title = "The Narcotic Suite: Claustrophobic Sting", mbid = "6cc55423-dbe7-46e8-8ba2-7b3393cfce87" },
+]
+
+[[release]]
+mbid = "4ae088e6-5d11-3f43-a7b5-2336d7410e1e"
+title = "Voodoo People"
+type = "ep"
+date = "1994-08-04"
+tracks = [
+  { n = 1, title = "Voodoo People (edit)", mbid = "7a4958da-12b2-465f-9bb6-1126356f0c22" },
+  { n = 2, title = "Voodoo People (Dust Brothers remix)", mbid = "68b71cbd-9ce7-435f-bd0c-c25b124488b8" },
+  { n = 3, title = "Goa (The Heat the Energy, Part 2)", mbid = "fc4a638a-e25a-4e58-af72-883ac6fba9b7" },
+  { n = 4, title = "Voodoo People (original mix)", mbid = "81add81c-b2de-4966-9ef3-23dbf9b15c48" },
+]
+
+[[release]]
+mbid = "6786fc98-0ec8-3dbd-8d76-e42974343913"
+title = "Poison"
+type = "single"
+date = "1995-02-27"
+tracks = [
+  { n = 1, title = "Poison (95 EQ)", mbid = "995049c0-e159-4265-a9f1-bc2a62f2137e" },
+  { n = 2, title = "Rat Poison", mbid = "f2576873-eab6-479a-98ae-444f034db3eb" },
+  { n = 3, title = "Scienide", mbid = "0efca266-f9cf-4cec-91d8-3079a533b924" },
+  { n = 4, title = "Poison (Environmental Science dub mix)", mbid = "e4fb6cf7-ddf3-4f0f-b811-39562187a590" },
+]
+
+[[release]]
+mbid = "7eb4a100-9812-39ea-91e9-b364527e7c5e"
+title = "Firestarter"
+type = "single"
+date = "1996-03-15"
+spotify = "1eNZJrCNY84DuvOIXkRasY"
+tracks = [
+  { n = 1, title = "Firestarter (edit)", mbid = "63b74bd6-0cf5-4d5f-8364-5111ab6d1883" },
+  { n = 2, title = "Firestarter (Empirion mix)", mbid = "19d09928-4b94-45a6-99be-1b31b5b47d19" },
+]
+
+[[release]]
+mbid = "dcccfd93-aa36-388c-a884-99547cb3b989"
+title = "Breathe"
+type = "single"
+date = "1996-11-11"
+tracks = [
+  { n = 1, title = "Breathe (edit)", mbid = "fecf93dd-f3e8-4ac8-94c2-aa6959b0c3bb" },
+  { n = 2, title = "Their Law (live at Phoenix Festival '96)", mbid = "2a85c86d-c566-4ee9-872f-ec19e2978b4a" },
+  { n = 3, title = "Poison (live at the Torhout-Werchter Festival '96)", mbid = "4a218354-5ae7-43a4-ada0-38dd16b55240" },
+  { n = 4, title = "The Trick", mbid = "179117b8-f625-48c0-b9b3-09e33b10faff" },
+]
+
+[[release]]
+mbid = "ac9138ce-6331-3f8d-86d7-69f13e4ab4f4"
+title = "The Fat of the Land"
+type = "album"
+date = "1997-06-30"
+spotify = "6JbXxDthPPvA6DGq2d8GL6"
+tracks = [
+  { n = 1, title = "Smack My Bitch Up", mbid = "3752e069-27a6-4819-99d5-11aec26d90a7" },
+  { n = 2, title = "Breathe", mbid = "4f063cd8-1c74-4ef1-8d68-236123ef6438" },
+  { n = 3, title = "Diesel Power", mbid = "7aa0241d-0786-42be-8cf3-3151c85347f4" },
+  { n = 4, title = "Funky Shit", mbid = "632e9ad4-5f69-4c1a-9d8a-64aacede00b2" },
+  { n = 5, title = "Serial Thrilla", mbid = "9ae3b957-59bb-4277-9043-222f223be201" },
+  { n = 6, title = "Mindfields", mbid = "bf5197ab-31f0-4861-b81b-91372145dc8e" },
+  { n = 7, title = "Narayan", mbid = "c00382c2-5c52-4c14-85d2-d7438a4b1fa2" },
+  { n = 8, title = "Firestarter", mbid = "3dabfc40-33b4-4dba-8d94-79e77c4d1448" },
+  { n = 9, title = "Climbatize", mbid = "6b224a56-f932-4e31-ab78-5d5b4e9a4d92" },
+  { n = 10, title = "Fuel My Fire", mbid = "83fe377d-2b58-4a02-a779-02fbb7b35644" },
+]
+
+[[release]]
+mbid = "daeb5f4a-50f8-3f79-ada2-b0f53d3afc58"
+title = "Smack My Bitch Up"
+type = "single"
+date = "1997-11-17"
+tracks = [
+  { n = 1, title = "Smack My Bitch Up (edit)", mbid = "5555d1fc-6773-4eba-b80e-e99354cbc4b4" },
+  { n = 2, title = "No Man Army", mbid = "d04a90e8-e68b-460f-a03f-0e315943706c" },
+  { n = 3, title = "Mindfields (Headrock dub)", mbid = "d0f6d6d4-d993-4086-b4a1-02cb1f63f611" },
+  { n = 4, title = "Smack My Bitch Up (DJ Hype remix)", mbid = "f1110d6e-a654-4d16-97f0-05e17d26b587" },
+]
+
+[[release]]
+mbid = "3647800b-0613-3ece-ba78-dc6f6232d825"
+title = "Baby’s Got a Temper"
+type = "single"
+date = "2002-07-01"
+tracks = [
+  { n = 1, title = "Baby’s Got a Temper (original version)", mbid = "492176ae-545e-4d6c-bb54-5a732b512720" },
+  { n = 2, title = "Baby’s Got a Temper (dub)", mbid = "77e1a9f2-da30-40db-90dd-bca8e0fa4f51" },
+  { n = 3, title = "Baby’s Got a Temper (instrumental)", mbid = "ff55c322-17fc-4fc2-85bc-0ca84128a372" },
+  { n = 4, title = "Baby’s Got a Temper (a cappella)", mbid = "b6aebaa5-3d20-47f5-9b97-5307d997d45c" },
+]
+
+[[release]]
+mbid = "aa9a5ef4-6496-3721-80db-36f1320e480e"
+title = "Girls"
+type = "single"
+date = "2004-06-21"
+spotify = "16E3TbJAUZJKnpARJR2aOV"
+tracks = [
+  { n = 1, title = "Girls", mbid = "d36b60a1-6ca0-4621-a83c-08911ffa4717" },
+  { n = 2, title = "More Girls", mbid = "b4593fbc-b8a8-4927-b982-14b56c47e6bb" },
+  { n = 3, title = "Under My Wheels (original mix)", mbid = "1a2d1fc0-febe-4cb2-a8ff-adbd9a791c48" },
+]
+
+[[release]]
+mbid = "50da1a12-ca69-3287-b89f-33775e396870"
+title = "Always Outnumbered, Never Outgunned"
+type = "album"
+date = "2004-08-11"
+spotify = "6kjD6MJ95xECin1kxGeAlM"
+tracks = [
+  { n = 1, title = "Spitfire", mbid = "334b90ba-0130-46ba-8e0f-8ffda04a9aa6" },
+  { n = 2, title = "Girls", mbid = "d36b60a1-6ca0-4621-a83c-08911ffa4717" },
+  { n = 3, title = "Memphis Bells", mbid = "99320680-659b-43c2-a2f0-9d25c601a89e" },
+  { n = 4, title = "Get Up Get Off", mbid = "deefebea-7eee-48c3-8aee-8a2786acb408" },
+  { n = 5, title = "Hotride", mbid = "05d6e89e-54cf-45a0-a25f-e79156d00664" },
+  { n = 6, title = "Wake Up Call", mbid = "b84a8e7a-3f1f-48ce-a18d-6533433e654a" },
+  { n = 7, title = "Action Radar", mbid = "d3ea5dd8-98ad-425e-a116-941565a92655" },
+  { n = 8, title = "Medusa’s Path", mbid = "522b3add-2a39-42a6-9306-5b71a097e53e" },
+  { n = 9, title = "Phoenix", mbid = "3cba05e3-9ccc-4d4f-970b-5caaf79d069a" },
+  { n = 10, title = "You’ll Be Under My Wheels", mbid = "a098e3a0-f251-4a67-b6a8-12487b4017fa" },
+  { n = 11, title = "The Way It Is", mbid = "5e75f3a9-8357-4d11-8f1b-b39a975de2bd" },
+  { n = 12, title = "Shoot Down", mbid = "661bf14a-558e-4393-8359-ffa9be4cc4ec" },
+]
+
+[[release]]
+mbid = "80418c8b-34fd-319e-a624-2611516be9c0"
+title = "Hotride"
+type = "single"
+date = "2004-11-01"
+tracks = [
+  { n = 1, title = "Hotride", mbid = "05d6e89e-54cf-45a0-a25f-e79156d00664" },
+  { n = 2, title = "Who U Foolin", mbid = "37131e8a-8e45-4980-8f8f-04ae9658aaa6" },
+  { n = 3, title = "Girls (Rex the Dog mix)", mbid = "d0f266c8-b3fb-43dc-92a1-fd05a1a8484b" },
+  { n = 4, title = "Hotride (El Batori mix)", mbid = "6e02d2e1-98a2-4b28-a800-3600718b653e" },
+]
+
+[[release]]
+mbid = "d3afcf25-3a96-3277-9b70-0d969f3ca615"
+title = "Spitfire"
+type = "single"
+date = "2005-03-28"
+spotify = "3BqsF27XFw76aNkWPNXSfP"
+tracks = [
+  { n = 1, title = "Spitfire (05 version)", mbid = "fe254636-aade-49ac-8b49-e305f7bc74b0" },
+  { n = 2, title = "Spitfire (Nightbreed remix)", mbid = "110982f7-c5ea-4bcd-a896-a66b692e74fe" },
+  { n = 3, title = "Spitfire (Future Funk Squad's 'Dogfight' remix)", mbid = "49f9100f-c138-4004-adef-4bc270956654" },
+]
+
+[[release]]
+mbid = "868f71e6-7cc0-49e6-b363-dcd709d07952"
+title = "Voodoo People / Out of Space"
+type = "single"
+date = "2005-10-03"
+spotify = "2SwoEYyfgwSIvrRJq8F1D0"
+tracks = [
+  { n = 1, title = "Out of Space (Audio Bullys Remix)", mbid = "5492d857-7267-44a2-8ec1-a8c54593e154" },
+  { n = 2, title = "Voodoo People (Wonder Remix)", mbid = "0eaae488-967f-4b59-9810-ce94e7b3cb01" },
+]
+
+[[release]]
+mbid = "aed4dac0-1f3b-303c-9805-56fa1ebf996e"
+title = "Invaders Must Die"
+type = "single"
+date = "2008-11-25"
+tracks = [
+  { n = 1, title = "Invaders Must Die (Liam H Re-Amped version)", mbid = "03c37199-b1e4-4c37-b0e4-31ab35379de8" },
+  { n = 2, title = "Mescaline", mbid = "67d1a1c5-02fd-4308-9ae8-4ff936e6825f" },
+  { n = 3, title = "Thunder (Arveene & Misk's Storm Warning remix)", mbid = "5f7136dd-4cd3-490a-a501-c3048a8ac9bc" },
+  { n = 4, title = "Invaders Must Die (Proxy remix)", mbid = "e1eadc9b-3500-453a-ab48-97ca856824c7" },
+]
+
+[[release]]
+mbid = "a7c2f3dd-4fd1-305a-b075-616f8b755ebe"
+title = "Omen"
+type = "single"
+date = "2009-01"
+tracks = [
+  { n = 1, title = "Omen (Noisia remix)", mbid = "dcbbb103-02c8-471d-9021-a8e10014b90b" },
+  { n = 2, title = "Invaders Must Die (Chase & Status remix)", mbid = "d87e94a8-f244-4608-83e1-5d9f68621864" },
+]
+
+[[release]]
+mbid = "dafbb45b-e06f-3a2b-b4fd-981d3d99a3a4"
+title = "Invaders Must Die"
+type = "album"
+date = "2009-02-18"
+spotify = "13PiGMs22YuX1kq7w8WNGM"
+tracks = [
+  { n = 1, title = "Invaders Must Die", mbid = "2e0cf182-54d5-4209-8416-e18b967dd6ea" },
+  { n = 2, title = "Omen", mbid = "c71786ed-6b2e-42a1-9be4-bbb039176b1f" },
+  { n = 3, title = "Thunder", mbid = "0579363a-cad9-4da7-97a8-2bec12aacff9" },
+  { n = 4, title = "Colours", mbid = "758279dc-9cfd-4918-af55-dfbf439de7f3" },
+  { n = 5, title = "Take Me to the Hospital", mbid = "57fbc22c-862f-4ac5-b4ad-28cffec38ced" },
+  { n = 6, title = "Warrior’s Dance", mbid = "fe5a81c7-16e9-49f5-855f-3695e2815563" },
+  { n = 7, title = "Run With the Wolves", mbid = "e5f39207-57fe-49f7-a96d-060fe42ffb53" },
+  { n = 8, title = "Omen (reprise)", mbid = "bfe8de59-57ac-4af7-8e86-64fb41c3384e" },
+  { n = 9, title = "World’s on Fire", mbid = "17df123a-a479-478c-b201-4b2e79a0e289" },
+  { n = 10, title = "Piranha", mbid = "8908e4e5-4062-4976-9080-4f76039e75e2" },
+  { n = 11, title = "Stand Up", mbid = "d44a768d-f3c4-4460-8ede-c73e43ffd2fa" },
+]
+
+[[release]]
+mbid = "5c19b934-9631-48a8-a6bf-e18ea95a3fcc"
+title = "Warrior’s Dance"
+type = "single"
+date = "2009-04"
+tracks = [
+  { n = 1, title = "Warrior’s Dance (Benga remix)", mbid = "ee4fb781-9150-40d6-a137-4a41f51d2f0c" },
+  { n = 2, title = "Warrior’s Dance (South Central remix)", mbid = "a49bb6fc-5820-4ddc-98a1-eabfe2049499" },
+]
+
+[[release]]
+mbid = "d88ba898-3184-4883-8e08-bcc96bd3e7e5"
+title = "Take Me to the Hospital"
+type = "single"
+date = "2009-08-10"
+tracks = [
+  { n = 1, title = "Take Me to the Hospital (’09 Eq)", mbid = "873c2cdf-b098-4f2a-8124-e91efe35d493" },
+  { n = 2, title = "Take Me to the Hospital (instrumental ’09 Eq)", mbid = "f62566f0-27f1-434f-9fab-d07904296ffa" },
+  { n = 3, title = "Take Me to the Hospital", mbid = "57fbc22c-862f-4ac5-b4ad-28cffec38ced" },
+  { n = 4, title = "Take Me to the Hospital (Josh Homme & Liam H’s Wreckage mix)", mbid = "23d59594-e8dc-4e2f-960d-0527ef9b162c" },
+]
+
+[[release]]
+mbid = "3b03e381-a5fd-46ea-8313-71234d203a02"
+title = "Run With the Wolves"
+type = "single"
+date = "2009-11-12"
+tracks = [
+  { n = 1, title = "Run With the Wolves", mbid = "338f90be-a97a-46f3-8d23-0edb6f35f558" },
+]
+
+[[release]]
+mbid = "facadfdd-d0d9-45b2-a1f9-1ea63204c62b"
+title = "Time Forward / No Good Bootleg"
+type = "single"
+date = "2012-04-23"
+tracks = [
+  { n = 1, title = "Time Forward! (Georgy Sviridov Tribute)", mbid = "4db1f242-771a-4b8f-bf07-2d633ef8b797" },
+  { n = 2, title = "No Good (Dyamorph Bootleg)", mbid = "1ae88067-e508-44df-9e08-a070dd201e64" },
+]
+
+[[release]]
+mbid = "0667cb99-ff4a-44f7-96ed-224ed0a966ce"
+title = "Nasty"
+type = "single"
+date = "2015-01-12"
+spotify = "5E6I4DHH0CQkKKq73gbga9"
+tracks = [
+  { n = 1, title = "Nasty", mbid = "76b4d6ca-cde1-4642-bf77-3161295b6cc5" },
+]
+
+[[release]]
+mbid = "a90996f1-c7ec-45f7-a178-c8ee2eeb4dd9"
+title = "The Day Is My Enemy"
+type = "single"
+date = "2015-01-27"
+spotify = "1e6B6z4l8ejXXnbQoljTNN"
+tracks = [
+  { n = 1, title = "The Day Is My Enemy", mbid = "87125a97-75cc-4e32-9c59-f38290db5757" },
+]
+
+[[release]]
+mbid = "0e904781-3ab0-4b5e-b406-dba05d8ff8f5"
+title = "Wild Frontier"
+type = "single"
+date = "2015-02-25"
+tracks = [
+  { n = 1, title = "Wild Frontier", mbid = "ae905620-5c8a-4969-b054-9d896fedfdd6" },
+]
+
+[[release]]
+mbid = "c49b9e03-e3e3-4c0f-aa4b-6a1a272fc555"
+title = "Wall of Death"
+type = "single"
+date = "2015-03-17"
+tracks = [
+  { n = 1, title = "Wall of Death", mbid = "008a79ea-9068-4c22-8a1f-c7e05eddf033" },
+]
+
+[[release]]
+mbid = "e4c31a6f-bbdc-44e8-91ee-096effa6a7e3"
+title = "Ibiza"
+type = "single"
+date = "2015-03-24"
+spotify = "5sQNruJBJCzZdHxz5GPhDv"
+tracks = [
+  { n = 1, title = "Ibiza", mbid = "7eadf74f-0530-4268-99e9-2e1f4e0115e8" },
+]
+
+[[release]]
+mbid = "a1d287e4-b052-4d6a-b1a9-0803bc7fd030"
+title = "Rhythm Bomb"
+type = "single"
+date = "2015-03-25"
+tracks = [
+  { n = 1, title = "Rhythm Bomb", mbid = "6a4fa3cf-6931-408e-890d-5d506828fd04" },
+]
+
+[[release]]
+mbid = "587069d1-05f9-49f4-a5e0-26be5ac7b4da"
+title = "Get Your Fight On"
+type = "single"
+date = "2015-03-26"
+tracks = [
+  { n = 1, title = "Get Your Fight On", mbid = "fda74ae8-e33d-44c3-bd5b-57459246aa42" },
+]
+
+[[release]]
+mbid = "b935bfda-dd9b-4f30-8e43-ea9561a7e751"
+title = "The Day Is My Enemy"
+type = "album"
+date = "2015-03-27"
+spotify = "64B6CA8cnu2jP43z0BZ2KI"
+tracks = [
+  { n = 1, title = "The Day Is My Enemy", mbid = "87125a97-75cc-4e32-9c59-f38290db5757" },
+  { n = 2, title = "Nasty", mbid = "76b4d6ca-cde1-4642-bf77-3161295b6cc5" },
+  { n = 3, title = "Rebel Radio", mbid = "446a45b2-ce73-45ba-8f13-7f2ed9c008c0" },
+  { n = 4, title = "Ibiza", mbid = "7eadf74f-0530-4268-99e9-2e1f4e0115e8" },
+  { n = 5, title = "Destroy", mbid = "496e9f74-a57b-44c7-8728-fa69dca2b7f8" },
+  { n = 6, title = "Wild Frontier", mbid = "ae905620-5c8a-4969-b054-9d896fedfdd6" },
+  { n = 7, title = "Rok-Weiler", mbid = "762e9aba-ee99-482c-be28-b5397a8868bb" },
+  { n = 8, title = "Beyond the Deathray", mbid = "1f6ac723-fe9e-40ca-993c-b68fe4dbeb33" },
+  { n = 9, title = "Rhythm Bomb", mbid = "6a4fa3cf-6931-408e-890d-5d506828fd04" },
+  { n = 10, title = "Roadblox", mbid = "bf030ec8-9e62-4c65-8f74-52eff6b8b37c" },
+  { n = 11, title = "Get Your Fight On", mbid = "fda74ae8-e33d-44c3-bd5b-57459246aa42" },
+  { n = 12, title = "Medicine", mbid = "61f739e7-8c6f-428c-b608-bb2eb5fb0f0e" },
+  { n = 13, title = "Invisible Sun", mbid = "7df5476b-0e03-44b7-bb27-79dd3c5f0cd7" },
+  { n = 14, title = "Wall of Death", mbid = "008a79ea-9068-4c22-8a1f-c7e05eddf033" },
+]
+
+[[release]]
+mbid = "206bb25e-9bcc-4f3f-8b00-3f076e599de1"
+title = "The Night Is My Friend EP"
+type = "ep"
+date = "2015-07-31"
+tracks = [
+  { n = 1, title = "Get Your Fight On (Re Eq)", mbid = "d7fcfb59-5064-4a6f-a0e9-2c6983947f9e" },
+  { n = 2, title = "AWOL (Strike One)", mbid = "1ddc7aa9-2262-4a2f-9c8b-d9e8dca7995d" },
+  { n = 3, title = "Rhythm Bomb (edit)", mbid = "38eec411-5c0c-45cf-807f-5e2492c6436a" },
+  { n = 4, title = "Rebel Radio (René LaVice’s Start a Fucking Riot remix)", mbid = "b827e775-133d-403b-8313-1f3ab07a3bb2" },
+  { n = 5, title = "The Day Is My Enemy (Caspa remix)", mbid = "ae747b13-91db-47f7-9855-37fb7326610e" },
+]
+
+[[release]]
+mbid = "bdd4b638-86a1-4934-8053-ea6292fbcca4"
+title = "Titan (Derc edit)"
+type = "single"
+date = "2018-01-07"
+tracks = [
+  { n = 1, title = "Titan (Derc edit)", mbid = "b82d4d95-1e7f-4ae4-b968-054ac92065f9" },
+]
+
+[[release]]
+mbid = "4d6db368-2c0a-494d-b8d7-2256a5420c26"
+title = "Need Some1"
+type = "single"
+date = "2018-07-19"
+tracks = [
+  { n = 1, title = "Need Some1", mbid = "2c3c2e79-4bbf-424b-8a99-95d98cf55022" },
+]
+
+[[release]]
+mbid = "aa093ede-d3d7-4f0c-b720-aeb9604c2663"
+title = "Light Up the Sky"
+type = "single"
+date = "2018-09-26"
+tracks = [
+  { n = 1, title = "Light Up the Sky", mbid = "468e1d36-eecd-42ff-8b9e-bcd78b833d46" },
+]
+
+[[release]]
+mbid = "f6105f6b-48cf-4e48-9e41-834b3525a7f7"
+title = "Fight Fire With Fire"
+type = "single"
+date = "2018-10-11"
+tracks = [
+  { n = 1, title = "Fight Fire With Fire", mbid = "2e283a88-3983-4a40-9f25-e8f4424c1678" },
+]
+
+[[release]]
+mbid = "2e58652f-0c12-45cf-a2d5-0ad0fbaabe4c"
+title = "We Live Forever"
+type = "single"
+date = "2018-10-25"
+tracks = [
+  { n = 1, title = "We Live Forever", mbid = "12e2059a-a88b-4a7c-b764-b96c2fcc8f49" },
+]
+
+[[release]]
+mbid = "b8f58ed0-ea06-41cb-87d2-6027caeea1cd"
+title = "No Tourists"
+type = "album"
+date = "2018-11-02"
+spotify = "53McTme1ugOjYfqMMmyZre"
+tracks = [
+  { n = 1, title = "Need Some1", mbid = "2c3c2e79-4bbf-424b-8a99-95d98cf55022" },
+  { n = 2, title = "Light Up the Sky", mbid = "468e1d36-eecd-42ff-8b9e-bcd78b833d46" },
+  { n = 3, title = "We Live Forever", mbid = "12e2059a-a88b-4a7c-b764-b96c2fcc8f49" },
+  { n = 4, title = "No Tourists", mbid = "c0b11ecb-986e-4416-8e71-dc987e2e6273" },
+  { n = 5, title = "Fight Fire With Fire", mbid = "2e283a88-3983-4a40-9f25-e8f4424c1678" },
+  { n = 6, title = "Timebomb Zone", mbid = "227f4a59-006d-4c34-9a96-ed0e808fd51f" },
+  { n = 7, title = "Champions of London", mbid = "1477351b-6c08-4446-b556-663d2e457dd1" },
+  { n = 8, title = "Boom Boom Tap", mbid = "c9efd173-143b-4dd1-8b43-3426ef9095c0" },
+  { n = 9, title = "Resonate", mbid = "4ec68ca6-4db9-438b-97d7-e25c5d22ca55" },
+  { n = 10, title = "Give Me a Signal", mbid = "a918ca52-11db-4cc3-b22c-d5bb2f16ebf4" },
+]
+
+[[release]]
+mbid = "e79b838f-81d9-419e-8fc6-870d1d9bfdcc"
+title = "Breathe (Liam H and Rene LaVice re‐amp)"
+type = "single"
+date = "2021-06-18"
+spotify = "1knBB8KE96lxOpeexCNDKq"
+tracks = [
+  { n = 1, title = "Breathe (Liam H and Rene LaVice re‐amp)", mbid = "b00eb752-5c41-483f-861d-c23b588be546" },
+]
+
+[[release]]
+mbid = "cb33bcb1-83b0-428f-89c2-9d81180ea980"
+title = "ROCKET FUEL"
+type = "single"
+date = "2023-04-28"
+spotify = "70M5xxRiUvfJKzuYMyg2Ur"
+tracks = [
+  { n = 1, title = "ROCKET FUEL (Kasabian vs The Prodigy)", mbid = "195f0a3a-ab7c-4225-bf2b-8e542f402399" },
+]
+
+[[release]]
+mbid = "b01d8882-efe8-44e9-889d-b65bf2c216ed"
+title = "The Fat of the Land 25th Anniversary – Remixes"
+type = "ep"
+date = "2023-07-28"
+spotify = "7LUXpnR6FiZVzFr87HERjV"
+tracks = [
+  { n = 1, title = "Breathe (Mefjus & Camo & Krooked remix)", mbid = "4bab2da2-0fc2-4f42-8fa8-678865b2cbd7" },
+  { n = 2, title = "Diesel Power (Gydra remix)", mbid = "75cd6f86-c132-4fb2-8b17-fc1b617a2cd8" },
+  { n = 3, title = "Firestarter (Andy C remix)", mbid = "1241c328-1ce6-40c5-a177-04de28e0d353" },
+  { n = 4, title = "Mindfields (René LaVice remix)", mbid = "e694cc06-086e-4788-a453-c38e4eaea133" },
+]

@@ -1,0 +1,277 @@
+format = 1
+
+[[release]]
+mbid = "9b8818fd-62c0-423b-9395-bad7a73dc217"
+title = "One in Versailles"
+type = "album"
+date = "1975"
+tracks = [
+  { n = 1, title = "Dance in Your Sleep", mbid = "a65b6c9c-3cd9-422b-9110-834d1c96592e" },
+  { n = 2, title = "Do I Get So Shy", mbid = "bc927783-f26a-4421-a45e-0152cd1b0831" },
+  { n = 3, title = "Un dans Versailles", mbid = "64009ef1-339d-4eae-b139-2db028f41ecc" },
+  { n = 4, title = "Kristine", mbid = "64ba6c9e-1011-4189-9e3e-d564edfebc71" },
+  { n = 5, title = "Something I Can't See", mbid = "9491aea3-a3d0-41c3-b024-de00d1ec071c" },
+  { n = 6, title = "Eggroll Rock", mbid = "ce245bc4-dfad-4203-82c8-de0ada1e1339" },
+  { n = 7, title = "Song for Her", mbid = "605b5ab0-f214-45fb-8ff8-628e3a1930c2" },
+  { n = 8, title = "One Night", mbid = "2a6df527-7e16-452b-ab5b-144801df5b5a" },
+  { n = 9, title = "No, I Don't", mbid = "40b934fa-52e1-4c15-a52d-0fdcae11b6b5" },
+  { n = 10, title = "The Sun", mbid = "bc16d9d2-91c9-4c04-8467-4581dae0bbdf" },
+  { n = 11, title = "One in Versailles", mbid = "68d65ec8-7791-4531-b19a-7c2ad6ab7953" },
+  { n = 12, title = "Banjo", mbid = "b01d7f9d-1d1f-49ea-adfc-b3e99cc18335" },
+]
+
+[[release]]
+mbid = "aa3f0f27-0055-3a8f-b66a-f1592fab2c62"
+title = "Black Vinyl Shoes"
+type = "album"
+date = "1977"
+tracks = [
+  { n = 1, title = "Boys Don't Lie", mbid = "22d5787b-69cd-41cf-b698-7aa2047f2245" },
+  { n = 2, title = "Do You Wanna Get Lucky?", mbid = "9bd88f7b-e9cb-475b-80ca-516c71f6de40" },
+  { n = 3, title = "She'll Disappear", mbid = "f54cdb0b-8b1c-4094-b67b-54b5de301345" },
+  { n = 4, title = "Tragedy", mbid = "5734bbfa-70b6-42c7-b2da-2e9628295e51" },
+  { n = 5, title = "Writing a Postcard", mbid = "68aca4a3-b508-4cf0-b94c-f36b8b11af3f" },
+  { n = 6, title = "Not Me", mbid = "96963cde-ffa9-4dd2-ba1a-6f41f9711d0d" },
+  { n = 7, title = "Someone Finer", mbid = "c752a10b-7de0-4971-b806-f1dffed67e4d" },
+  { n = 8, title = "Capital Gain", mbid = "0e5f5198-5f77-4eb5-afd3-982cf0557070" },
+  { n = 9, title = "Fatal", mbid = "76db32ae-6e6c-4158-8697-45fd2c363ce6" },
+  { n = 10, title = "Running Start", mbid = "a8c342ea-ac95-4b9f-adcc-66fb34e074da" },
+  { n = 11, title = "Okay", mbid = "51164f9d-b76d-4e64-8fd6-4b78f86fe020" },
+  { n = 12, title = "It Really Hurts", mbid = "44e79a43-9c98-4d7a-9453-ecf5c958e1ae" },
+  { n = 13, title = "Fire for Awhile", mbid = "34d06e08-f65e-40a8-81f3-1655f7f5c447" },
+  { n = 14, title = "If You'd Stay", mbid = "6967cc8a-9d48-484c-9503-78a5e9008855" },
+  { n = 15, title = "Nowhere So Fast", mbid = "b4d193fa-2de2-4168-87c6-d39d1d3c99e2" },
+]
+
+[[release]]
+mbid = "db7b3b1d-534a-4951-adab-0b14fca75305"
+title = "Tomorrow Night / Okay"
+type = "single"
+date = "1978-06"
+tracks = [
+  { n = 1, title = "Tomorrow Night", mbid = "4bf618e1-4ce7-4f7e-8435-1432abef655c" },
+  { n = 2, title = "Okay", mbid = "cfdb944b-2257-4307-afa4-e6c40b56eb29" },
+]
+
+[[release]]
+mbid = "a03efcaa-47ca-3a6c-847b-a5fa0607a968"
+title = "Too Late"
+type = "single"
+date = "1979"
+tracks = [
+  { n = 1, title = "Too Late", mbid = "8a93c73a-4e10-47c6-bdcd-ab39804c8e81" },
+  { n = 2, title = "Now and Then", mbid = "f9a1f922-466a-4bfe-8975-8206d5515875" },
+]
+
+[[release]]
+mbid = "1eecbcab-9144-3f3b-985a-1853e8988137"
+title = "Present Tense"
+type = "album"
+date = "1979-09"
+tracks = [
+  { n = 1, title = "Tomorrow Night", mbid = "db065364-f3ad-47b6-aed1-c893f441689b" },
+  { n = 2, title = "Too Late", mbid = "ce477d0d-8c2b-40c1-ab73-c97ddfa49e68" },
+  { n = 3, title = "Hangin’ Around With You", mbid = "6d81f238-c311-495d-b70f-53657f21967d" },
+  { n = 4, title = "Your Very Eyes", mbid = "43887c5f-5f75-45d4-acc9-9fcb5f915b7d" },
+  { n = 5, title = "In My Arms Again", mbid = "2069c463-7f1d-4645-85f5-483bfe53397c" },
+  { n = 6, title = "Somebody Has What I Had", mbid = "1d2d69b5-8b66-42fa-adee-681f28953eec" },
+  { n = 7, title = "Now and Then", mbid = "5dc0ef3a-4bc6-40d9-9969-dbf8535a7eb2" },
+  { n = 8, title = "Every Girl", mbid = "9042caa3-7aab-4c09-868f-0cd01d3d2044" },
+  { n = 9, title = "I Don’t Miss You", mbid = "96c3b376-8296-410c-851e-756fa916c384" },
+  { n = 10, title = "Cruel You", mbid = "e96f3776-c0f6-46b5-be4b-5a4284c5b95b" },
+  { n = 11, title = "Three Times: See Me / Say It / Listen", mbid = "e0870e91-67b3-4731-945e-d1f8b887f6c8" },
+  { n = 12, title = "I Don’t Wanna Hear It", mbid = "bdaf9567-5e59-4f3e-b730-d72c7325a857" },
+]
+
+[[release]]
+mbid = "83d6843c-e4d8-489e-8e2c-dd95590726e5"
+title = "Shoes on Ice"
+type = "ep"
+date = "1981"
+tracks = [
+  { n = 1, title = "Too Late", mbid = "e8be79eb-5a95-4687-bc56-4e1584caaa73" },
+  { n = 2, title = "Hangin’ Around With You", mbid = "2acbef0a-078e-473d-966a-6bbeeae9c21e" },
+  { n = 3, title = "Cruel You", mbid = "d2ad4b70-2b4d-4524-a55e-0e9678628466" },
+  { n = 4, title = "In My Arms Again", mbid = "b64f5ea8-10ed-4424-9f52-68c1c6de593e" },
+  { n = 5, title = "She Satisfies", mbid = "9876797b-5dcd-4d05-a5ba-af29afc830ea" },
+  { n = 6, title = "Hate to Run", mbid = "01b9e35b-209d-4ea2-adc5-76ad0eb69e05" },
+]
+
+[[release]]
+mbid = "afcff330-2aca-4aab-8cde-1b4992613d21"
+title = "Tongue Twister"
+type = "album"
+date = "1981-01"
+tracks = [
+  { n = 1, title = "Your Imagination", mbid = "f0167c26-bfb0-4d0a-8973-69c5bb486e0c" },
+  { n = 2, title = "Burned Out Love", mbid = "07f2799d-e1ca-403c-9943-23940a656c08" },
+  { n = 3, title = "The Things You Do", mbid = "5fadca45-d0cd-448e-8ee0-71c4600e0ef0" },
+  { n = 4, title = "Only in My Sleep", mbid = "31a1d8e8-08b6-4c05-8b2d-f7642a15448b" },
+  { n = 5, title = "Karen", mbid = "00a61e73-0eca-49d4-9a0b-1c5a100e05ec" },
+  { n = 6, title = "She Satisfies", mbid = "d3db7582-f99b-4f1b-92b9-010dc9dcd58b" },
+  { n = 7, title = "Girls of Today", mbid = "7ca85457-ab0e-414e-b9d5-3cd321b48cde" },
+  { n = 8, title = "Hopin' She's the One", mbid = "24580b93-f078-405d-a3e8-b0baeb1816f5" },
+  { n = 9, title = "When It Hits", mbid = "96183279-d432-4220-98ca-f208f8aba316" },
+  { n = 10, title = "Yes or No", mbid = "187a15c5-874d-405b-8641-d1e0176438de" },
+  { n = 11, title = "Found a Girl", mbid = "560b0c5f-cf5a-403f-a921-57b7dbba40c6" },
+  { n = 12, title = "Hate to Run", mbid = "23a85098-3d6c-4ae5-a926-47f14c21bb1a" },
+]
+
+[[release]]
+mbid = "912ecd18-854c-44cf-ad96-a4ae7ca41781"
+title = "Boomerang"
+type = "album"
+date = "1982-08"
+tracks = [
+  { n = 1, title = "In Her Shadow", mbid = "899456fc-a8af-4cf3-9bfc-293db8787899" },
+  { n = 2, title = "Curiosity", mbid = "bc465085-c852-4423-9676-d5746db6006d" },
+  { n = 3, title = "Mayday", mbid = "5e9bdac9-a66c-45b3-8001-9f96a5ed5fef" },
+  { n = 4, title = "Too Soon", mbid = "2cca3d02-8b72-42aa-816f-66675f6ad4d6" },
+  { n = 5, title = "Double Talk", mbid = "bdc773d4-725c-43b9-845b-3685c049e51e" },
+  { n = 6, title = "The Summer Rain", mbid = "717bfdb4-0ca4-4b4a-90e7-1b1bd53bd65c" },
+  { n = 7, title = "Under the Gun", mbid = "4013d04c-353f-426d-af0a-b94fa5d0ddd8" },
+  { n = 8, title = "The Tube", mbid = "afabb17b-9cf8-4ab9-afef-ed1a9f598ffe" },
+  { n = 9, title = "What Love Means", mbid = "75c5124d-eb93-403b-8a53-f7bf082ef6dc" },
+  { n = 10, title = "Bound to Be a Reason", mbid = "b6e370e1-18aa-4ade-bacf-f3d2fc8afb98" },
+  { n = 11, title = "Shake It Away", mbid = "c72556fa-3ee3-405b-9862-e979c40854b1" },
+  { n = 12, title = "Tested Charms", mbid = "e06f3bd1-51d0-4ca6-bd7c-5ab482265921" },
+]
+
+[[release]]
+mbid = "0313bbb2-d190-3296-9653-bdab83c8a5b4"
+title = "Silhouette"
+type = "album"
+date = "1984"
+tracks = [
+  { n = 1, title = "Get My Message", mbid = "2a247c17-76ba-45f1-aa9f-dfac5b7a94b1" },
+  { n = 2, title = "Will You Spin for Me?", mbid = "90ec3509-cefd-43cb-a2d3-5063cfdb9074" },
+  { n = 3, title = "When Push Comes to Shove", mbid = "a0498bb2-b118-4bb0-b884-3b794299dcbb" },
+  { n = 4, title = "Shining", mbid = "1277d3be-2696-4854-8e66-9e63480984e2" },
+  { n = 5, title = "It's Only You", mbid = "1497d8d8-f556-43ef-9447-e9e770a1deea" },
+  { n = 6, title = "Twist and Bend It", mbid = "591248c5-3a7e-4d2e-92c4-44e1a7e34046" },
+  { n = 7, title = "I Wanna Give It to You", mbid = "62a30ac0-3861-4c15-9dfa-6b041d7b70bd" },
+  { n = 8, title = "Turnaround", mbid = "3b7331f2-1ab2-4b55-a5af-14165f40f70f" },
+  { n = 9, title = "Running Wild", mbid = "85397152-d235-4482-ac2e-e8b7b5e03278" },
+  { n = 10, title = "Oh, Angeline", mbid = "a7b1d405-4996-480d-8d46-d38af50b0a1c" },
+  { n = 11, title = "Bound to Fade", mbid = "0f4665c5-9de9-4aa6-872e-2bae5cb41807" },
+  { n = 12, title = "Suspicion", mbid = "0e2a0f50-05c5-4617-8118-761fef8e60df" },
+]
+
+[[release]]
+mbid = "18170e7c-2b62-400f-bf6b-7a4fcbc01a44"
+title = "Stolen Wishes"
+type = "album"
+date = "1989"
+tracks = [
+  { n = 1, title = "Feel the Way That I Do", mbid = "1f16d0cd-3b29-40b5-9c4a-bd5bec4823ca" },
+  { n = 2, title = "I'll Follow You", mbid = "b4468714-c19b-463c-af11-8b7667c46086" },
+  { n = 3, title = "Love Does", mbid = "7510b1bb-1cdf-4ef9-a234-59f03db71037" },
+  { n = 4, title = "Let It Go", mbid = "5dfc054f-aa60-4c4e-ae10-f843af32fc04" },
+  { n = 5, title = "Your Devotion", mbid = "a86fd59e-2984-4dd9-9bb3-ae8423f48f01" },
+  { n = 6, title = "I Knew You'd Be Mine", mbid = "d0d728c8-f0dd-4346-ae26-1609b59ef434" },
+  { n = 7, title = "Want You Bad", mbid = "6e4b792c-b134-499f-b55b-cb6e7319bb36" },
+  { n = 8, title = "Torn in Two", mbid = "e0de7075-2a1a-4f94-84f1-50d8849bfb1d" },
+  { n = 9, title = "She's Not the Same", mbid = "64ca0636-d83b-4d09-aefb-7a0f2ac76f78" },
+  { n = 10, title = "Untangled", mbid = "b27a68c9-f6a9-4aec-8ec8-afa7c213538f" },
+  { n = 11, title = "I Don't Know Why", mbid = "1c02149c-82c0-484c-8884-8bea59bbd538" },
+  { n = 12, title = "Inside of You", mbid = "a3cbfb96-d536-4f91-87ea-28451641ad71" },
+  { n = 13, title = "I Can't Go Wrong", mbid = "5c60bffa-c3d2-4527-be4c-297f5310fe54" },
+  { n = 14, title = "Love Is Like a Bullet", mbid = "2baaedb2-d494-4984-8b79-fcf38f16bff0" },
+  { n = 15, title = "Never Had It Better", mbid = "f726e16c-a902-4713-b9e3-6f332519aac9" },
+]
+
+[[release]]
+mbid = "ad204d34-fcd1-3cd8-a7ab-271ca3362c27"
+title = "Propeller"
+type = "album"
+date = "1994"
+tracks = [
+  { n = 1, title = "Animal Attraction", mbid = "bc45cc20-7160-4240-809c-05da8c7fb23c" },
+  { n = 2, title = "Treading Water", mbid = "d6c8b26e-be97-475e-b8bf-61ee7f87ecab" },
+  { n = 3, title = "Don't Do This to Me", mbid = "7c3ff1dc-497e-4d0a-8925-0b663a135e43" },
+  { n = 4, title = "The Last of You", mbid = "76f54458-0abe-4db0-ba54-6a1c90c5b91f" },
+  { n = 5, title = "Slipping Through Your Fingers", mbid = "2cf6a9f5-5c19-4754-9766-911e52493057" },
+  { n = 6, title = "Tore a Hole", mbid = "43420c85-bdda-4a92-82fa-e850142ffc11" },
+  { n = 7, title = "Bittersweet", mbid = "80ca503f-0387-4968-9cb8-7355caefe44a" },
+  { n = 8, title = "If All I Had Was You", mbid = "b9fd0b52-cb8f-45d9-b86a-5c8472f6f5ba" },
+  { n = 9, title = "In My Mind", mbid = "edcaa552-7499-4793-8ca6-6c5cc44c5f77" },
+  { n = 10, title = "Silence Is Deadly", mbid = "8d7f90b7-5cf7-41cf-84ca-bedc5014d2f9" },
+  { n = 11, title = "A Thing of the Past", mbid = "8da6a57c-062d-4bc5-aac2-67e2c785a902" },
+  { n = 12, title = "Never Ending", mbid = "2770e122-ab01-41b5-bbca-cc7b2c5d3d96" },
+]
+
+[[release]]
+mbid = "eb52c07d-e322-42b8-a930-686ad353f9d0"
+title = "Tore A Hole"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Tore A Hole", mbid = "be1319bb-e3a3-4ff9-8b50-d15c61b22723" },
+  { n = 2, title = "Tore A Hole (Live)", mbid = "d212e03f-14ef-41e8-84eb-70c08aaa5b88" },
+  { n = 3, title = "Never Ending (Live)", mbid = "113e696a-f973-490f-8ab3-a5e95db915e0" },
+  { n = 4, title = "Tomorrow Night (Live)", mbid = "75aae11b-4fc3-47d7-b7cf-545fb1df81a8" },
+]
+
+[[release]]
+mbid = "79bd0f20-8f2b-4591-8de0-8a14282c8371"
+title = "Bazooka"
+type = "album"
+date = "2012"
+tracks = [
+  { n = 1, title = "Pinheads", mbid = "3396dc28-07ad-45a6-8b2b-aa90aa215f2d" },
+  { n = 2, title = "Move It or Lose It", mbid = "abc6a30b-4868-4717-8151-020b08c77672" },
+  { n = 3, title = "Rock Your Own", mbid = "13998f30-a07a-489d-a398-22a559960ee2" },
+  { n = 4, title = "Along With Love", mbid = "ca1a5a27-795d-4ab0-b366-024ed730544a" },
+  { n = 5, title = "Love Took a Turn", mbid = "b8844396-fc4e-47bd-8fcd-ce410e566190" },
+  { n = 6, title = "Alone but Satisfied", mbid = "8147b5a1-f830-445d-8121-4d9e4b78270b" },
+  { n = 7, title = "New Meat", mbid = "31695bd3-e25f-4ccb-9405-c9e6825942fa" },
+  { n = 8, title = "I'm Brazen", mbid = "cb76c780-5955-46a2-aee2-f511d898dbe6" },
+  { n = 9, title = "The Atlantic", mbid = "70104985-bc24-4524-a3e2-59953cb58c56" },
+  { n = 10, title = "My Anisette", mbid = "f4babe0b-1f31-4e6c-bed6-8e3023faeccd" },
+  { n = 11, title = "Snap!", mbid = "e33fca7c-f804-4f4a-9890-fbcc397549b2" },
+  { n = 12, title = "Educated", mbid = "2ec80be6-6bea-4dc0-93c3-2b90a63f29ad" },
+  { n = 13, title = "Like I Told You", mbid = "270adbbf-3473-4cf1-ac7d-99ce6cfa89b3" },
+]
+
+[[release]]
+mbid = "37253c46-b04f-4bed-b689-d35964449f3c"
+title = "Ignition"
+type = "album"
+date = "2012"
+tracks = [
+  { n = 1, title = "Head vs. Heart", mbid = "e2d6e979-b8e3-4fe5-9918-0c096c1ac3c0" },
+  { n = 2, title = "The Joke’s on You", mbid = "15b5da34-c6a8-448e-ae05-b5a1375c184a" },
+  { n = 3, title = "Diminishing Returns", mbid = "ffacd84d-335d-411f-a3c8-8fafc544a27f" },
+  { n = 4, title = "Heaven Help Me", mbid = "5ed0983b-aa34-475b-a7bc-91f86c1ce55c" },
+  { n = 5, title = "Maybe Now", mbid = "1acf949a-cc08-4f3a-a9fb-910fb5b65600" },
+  { n = 6, title = "Wrong Idea", mbid = "af9a02a0-cd17-4f1c-acf5-ad2436551f49" },
+  { n = 7, title = "Sign of Life", mbid = "e9947ac2-fbf3-4ee0-844b-2d404318420d" },
+  { n = 8, title = "Hot Mess", mbid = "760fe26c-d222-434e-9882-1f11ceb8ca6e" },
+  { n = 9, title = "Where Will It End", mbid = "63899958-5e2f-4034-9ec5-cfff658c2ea7" },
+  { n = 10, title = "Say It Like You Mean It", mbid = "881c1bab-e583-4318-a44a-5f11e0249d8d" },
+  { n = 11, title = "I Thought You Knew", mbid = "aa1cdf13-d54d-4173-bd95-9ec3ff4a689c" },
+  { n = 12, title = "Nobody to Blame", mbid = "f403c2c2-9fae-441d-8475-ec96356e44b6" },
+  { n = 13, title = "Out of Round", mbid = "61daadf6-f541-40dc-85a1-59efdd00b2bd" },
+  { n = 14, title = "In on You", mbid = "3e7faf30-2f0d-4c43-a1e6-00c195c65ff5" },
+  { n = 15, title = "Only We Remain", mbid = "17b6e23e-e848-40b7-8cf1-34b18766d170" },
+]
+
+[[release]]
+mbid = "f511155b-a1c0-4dec-9bad-263a419ee246"
+title = "Primal Vinyl"
+type = "album"
+date = "2015"
+tracks = [
+  { n = 1, title = "Tomorrow Night", mbid = "2ed2efd7-1adb-4bb0-b7ad-e952e20378a0" },
+  { n = 2, title = "Don’t Do This To Me", mbid = "25b9892c-87e9-460e-bfde-6daae2223714" },
+  { n = 3, title = "Too Late", mbid = "78cec318-8592-4101-a52a-62d79b2e5f94" },
+  { n = 4, title = "Girls of Today (Demo)", mbid = "69f8f560-2471-4d0f-8419-0ab91a1d4496" },
+  { n = 5, title = "Okay", mbid = "207f9ad3-7a4f-4774-86b0-7e8fde4fcd00" },
+  { n = 6, title = "I Don’t Wanna Hear It (Live)", mbid = "c9380eb2-d16c-400a-ba49-7629ec728c9e" },
+  { n = 7, title = "Boys Don’t Lie", mbid = "12eb8a6f-e596-4ab5-ac53-e8d124f6e5d8" },
+  { n = 8, title = "She Satisfies", mbid = "be5e4d66-818c-43a9-b906-9cebcedc59a2" },
+  { n = 9, title = "The Summer Rain", mbid = "e270a818-254f-47bf-beab-aed4ada78c6e" },
+  { n = 10, title = "Burned Out Love (Demo)", mbid = "46266d7c-3b02-4bde-a06e-7fbfe5652c65" },
+  { n = 11, title = "Love Is Like A Bullet", mbid = "cdf4ea0f-6943-4407-95fa-d6f3310d6b61" },
+  { n = 12, title = "Hate to Run (Demo)", mbid = "7bd08567-98ab-4c78-98f3-43f8cda2a13c" },
+]

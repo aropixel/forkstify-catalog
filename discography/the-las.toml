@@ -1,0 +1,76 @@
+format = 1
+
+[[release]]
+mbid = "f57d03ff-b0a5-3b73-a14c-a5ed5f8cd956"
+title = "The La’s"
+type = "album"
+date = "1990"
+spotify = "4tCf15W7qHi3jE0PdljddW"
+tracks = [
+  { n = 1, title = "Son of a Gun", mbid = "efa3b696-54cb-4997-8377-1fd5b6e491ec" },
+  { n = 2, title = "I Can’t Sleep", mbid = "1608a1c7-11e0-4658-a935-d4d3b83e260c" },
+  { n = 3, title = "Timeless Melody", mbid = "3842a48e-8dee-40e5-9b47-536d41ef8e8d" },
+  { n = 4, title = "Liberty Ship", mbid = "02918f6a-c1df-4aad-902b-9bbb14d46a51" },
+  { n = 5, title = "There She Goes", mbid = "913f97a2-96c8-4aec-98b6-9eeeee9de1f8" },
+  { n = 6, title = "Doledrum", mbid = "226ea6f2-73b8-4121-bec1-0b332b0cc217" },
+  { n = 7, title = "Feelin’", mbid = "9fb7bd01-b2a4-483c-98ff-69b447b53186" },
+  { n = 8, title = "Way Out", mbid = "d1cd2a8d-e87d-46c3-8e0c-048fc2f2bfae" },
+  { n = 9, title = "I.O.U.", mbid = "da1aa531-736d-41e1-9dc8-a534f1f2a04f" },
+  { n = 10, title = "Freedom Song", mbid = "50d06579-47c2-4bfc-a3ec-e20c153b8da9" },
+  { n = 11, title = "Failure", mbid = "1fa7dde2-fda7-4382-bfa4-dff620bc06c3" },
+  { n = 12, title = "Looking Glass", mbid = "a664a1f3-3fab-4d58-8714-ba8e58944150" },
+]
+
+[[release]]
+mbid = "b9e4619a-6a54-44d6-b162-1d30ee7d0dc1"
+title = "Timeless Melody"
+type = "single"
+date = "1990-09"
+tracks = [
+  { n = 1, title = "Timeless Melody", mbid = "88d59406-5698-4fa2-aecf-e73e1521f929" },
+  { n = 2, title = "Clean Prophet", mbid = "78edf8d5-1437-4b64-8e2a-5207796b4e79" },
+  { n = 3, title = "Knock Me Down", mbid = "5c2217cd-cd81-4a49-a776-05893d7f6c9e" },
+  { n = 4, title = "Over", mbid = "b472e2ac-493c-488a-97f6-548e9d0ca683" },
+]
+
+[[release]]
+mbid = "ed36dd14-b176-3465-b88a-0973e8216bb6"
+title = "There She Goes"
+type = "single"
+date = "1990-10"
+tracks = [
+  { n = 1, title = "There She Goes", mbid = "913f97a2-96c8-4aec-98b6-9eeeee9de1f8" },
+  { n = 2, title = "Freedom Song", mbid = "3f30db8f-78d6-400c-9024-8d4c31372482" },
+  { n = 3, title = "All by Myself", mbid = "059d2a7f-abbc-4a62-b9ec-33aaa8cb09a0" },
+]
+
+[[release]]
+mbid = "5fd8456c-6bc0-4150-8185-1b3c0607b2b6"
+title = "Feelin’"
+type = "ep"
+date = "1991"
+tracks = [
+  { n = 1, title = "Feelin’", mbid = "d80b6137-9e3d-4a2a-814e-751780d69fd0" },
+  { n = 2, title = "I.O.U. (alternate version)", mbid = "0526f279-7342-4f60-99da-dc80b33a0af8" },
+  { n = 3, title = "Feelin’ (alternate version)", mbid = "16e10ce9-b1ba-40e2-aea7-b679ca8ba764" },
+  { n = 4, title = "Doledrum", mbid = "96c62938-b8e0-4fcc-8e1d-aecad68c7c9c" },
+]
+
+[[release]]
+mbid = "c29955d8-d59f-461d-ab7f-abfd4870a7f3"
+title = "There She Goes"
+type = "single"
+date = "2025-05-16"
+spotify = "3gHDnPPOgXcueJrL1r03q2"
+tracks = [
+  { n = 1, title = "There She Goes", mbid = "2898bbfb-20e5-4319-849e-b6b9084f78f4" },
+]
+
+[[release]]
+mbid = "499aa696-4f44-4d20-8ebf-a7656182a1d8"
+title = "Open Your Heart"
+type = "single"
+date = "2025-06-27"
+tracks = [
+  { n = 1, title = "Open Your Heart", mbid = "f7a07307-9082-45e8-93f2-7b32a537aa69" },
+]
