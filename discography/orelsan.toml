@@ -1,0 +1,296 @@
+format = 1
+
+[[release]]
+mbid = "c1e3c824-4275-4efa-bb27-edf83cac92b7"
+title = "Sale pute"
+type = "single"
+date = "2006"
+tracks = [
+  { n = 1, title = "Sale pute", mbid = "c59bac6e-fbe9-41ab-aaed-74dcbe33b6ed" },
+]
+
+[[release]]
+mbid = "84897957-8914-4928-8b36-2543bee02371"
+title = "Sous influence"
+type = "single"
+date = "2007-06-27"
+tracks = [
+  { n = 1, title = "Sous influence", mbid = "d5b6d92d-74a3-4856-b5ad-5bf94615458d" },
+]
+
+[[release]]
+mbid = "5546f504-66cc-3249-b78c-8bb6ddac9e4a"
+title = "Perdu d’avance"
+type = "album"
+date = "2009-02-16"
+spotify = "4gYYj72vV1tZrU6QV0waJK"
+tracks = [
+  { n = 1, title = "Étoiles invisibles", mbid = "612c3c9c-233c-4a43-8392-762c23db258b" },
+  { n = 2, title = "Changement", mbid = "b6ff5e0b-9f60-4e64-b122-bd763ae60e31" },
+  { n = 3, title = "Soirée ratée", mbid = "43d76e8f-aaca-44d2-8346-e121f68039b1" },
+  { n = 4, title = "Différent", mbid = "51c551ce-961a-4c36-a842-8af1f24335d3" },
+  { n = 5, title = "No Life", mbid = "c93ca559-3b84-4a28-b85e-e7a35852925f" },
+  { n = 6, title = "Pour le pire", mbid = "b12c2d9c-06b9-43f3-ac25-c5d11f3fd626" },
+  { n = 7, title = "Perdu d'avance", mbid = "09ad8da2-d329-4c7f-9520-c161d6e4968a" },
+  { n = 8, title = "Gros poissons dans une petite mare", mbid = "45c0e216-e875-48a4-be73-20d438fc811d" },
+  { n = 9, title = "Logo dans le ciel", mbid = "ddd9d120-b3b2-42ef-8e45-7c526772ffef" },
+  { n = 10, title = "50 pourcents", mbid = "fcee01a7-8f6d-4b1b-b4b5-fd73b055e384" },
+  { n = 11, title = "Jimmy Punchline", mbid = "843bef24-218a-4224-857b-0e62e050ebe9" },
+  { n = 12, title = "Entre bien et mal", mbid = "f06492a2-0e1a-46b6-bbfc-0cf2334fc47c" },
+  { n = 13, title = "Courez courez", mbid = "e9016cf1-52d6-4328-8174-dd489fcaa536" },
+  { n = 14, title = "La Peur de l'échec", mbid = "919bbc5f-3ec1-466e-964f-071f1c569492" },
+]
+
+[[release]]
+mbid = "0305831c-8eb1-444f-ae95-3267a5fe84e4"
+title = "N’importe comment"
+type = "single"
+date = "2010-06-14"
+spotify = "4XCJcaAaWCzmGeaT0heJRJ"
+tracks = [
+  { n = 1, title = "N'importe comment", mbid = "ecd51da2-0335-4f26-af2b-7d918a961c82" },
+  { n = 2, title = "N'importe comment (Nikkfurie remix from La Caution)", mbid = "5b0be655-d455-43a2-9966-ccec63e420d4" },
+  { n = 3, title = "N'importe comment (Make the Girl Dance remix)", mbid = "291a2e51-947a-46a0-9ff9-48fa75682395" },
+  { n = 4, title = "N'importe comment (Haezer remix)", mbid = "9e96b697-edd9-43f1-9224-2fab1f05a214" },
+  { n = 5, title = "N'importe comment (Sawgood remix)", mbid = "0a3df31d-f183-422c-bb7f-e99cee2613f4" },
+  { n = 6, title = "N'importe comment (Pyjamix)", mbid = "1057396e-302c-44bd-b072-20a103362f2f" },
+  { n = 7, title = "N'importe comment (Barletta remix)", mbid = "ffc882f0-bdc1-40ec-83e0-e52a20b816f0" },
+  { n = 8, title = "N'importe comment (Crusz remix)", mbid = "11a401ef-99c5-4ee0-b601-85eed73ab1cc" },
+  { n = 9, title = "N'importe comment (radio edit)", mbid = "ecd41205-eb76-4e56-9986-6b10a2352868" },
+]
+
+[[release]]
+mbid = "278d63b8-3647-438c-a046-a57a0196127d"
+title = "Je rêve en enfer"
+type = "single"
+date = "2010-10-11"
+tracks = [
+  { n = 1, title = "Je rêve en enfer", mbid = "e4b86b03-ee8a-4942-b550-5e76280294e6" },
+]
+
+[[release]]
+mbid = "3cfeae98-f2f6-448c-b986-5a6811293b34"
+title = "Plus rien ne m'étonne"
+type = "single"
+date = "2011-07-25"
+tracks = [
+  { n = 1, title = "Plus Rien Ne M'Étonne", mbid = "6d165403-44b5-4266-805e-5783fb95119f" },
+]
+
+[[release]]
+mbid = "899c87ab-093c-4ef6-b868-8f9a4b456dea"
+title = "Suicide social"
+type = "single"
+date = "2011-09-12"
+tracks = [
+  { n = 1, title = "Suicide social", mbid = "962f1cd3-7cf4-4fc0-be9f-941f13cbb1cc" },
+]
+
+[[release]]
+mbid = "8324a2f1-c9b9-492f-9941-835625d34641"
+title = "Le Chant des sirènes"
+type = "album"
+date = "2011-09-26"
+tracks = [
+  { n = 1, title = "Raelsan", mbid = "c7ac1861-5712-4fd3-a730-208008cf3173" },
+  { n = 2, title = "Le Chant des sirènes", mbid = "d7845574-8758-4af9-86dc-524fa8f5cf14" },
+  { n = 3, title = "Plus rien ne m'étonne", mbid = "6d165403-44b5-4266-805e-5783fb95119f" },
+  { n = 4, title = "Mauvaise idée", mbid = "a92240e7-75f4-4a11-8986-467e45ff00f3" },
+  { n = 5, title = "Double vie", mbid = "2f2b6e89-e63f-4c00-b15b-6c52aa3c5034" },
+  { n = 6, title = "Finir mal", mbid = "0dac059d-c8fb-4080-bc94-08373bb0421f" },
+  { n = 7, title = "Si seul", mbid = "47b1f0f9-f538-4259-8530-941543e0c60d" },
+  { n = 8, title = "Des trous dans la tête", mbid = "6910bb83-fe5a-45a2-a765-9d7d2ac6fbeb" },
+  { n = 9, title = "La Petite marchande de porte-clefs", mbid = "4fc96a6b-fc00-4382-899d-61267148a1b2" },
+  { n = 10, title = "La Terre est ronde", mbid = "d5081ed2-6d32-42ad-b238-29052389ff35" },
+  { n = 11, title = "1990", mbid = "dad46311-f25a-4a78-bc6c-d6b163485e80" },
+  { n = 12, title = "2010", mbid = "da8765ef-5caa-4564-a34e-95cc49faf026" },
+  { n = 13, title = "La Morale", mbid = "7cd18ba8-b9dd-4b0b-9ed1-23564c648ce7" },
+  { n = 14, title = "Ils sont cools", mbid = "e692336d-a76c-48fc-a92f-d641aa121710" },
+  { n = 15, title = "Suicide social", mbid = "962f1cd3-7cf4-4fc0-be9f-941f13cbb1cc" },
+  { n = 16, title = "Elle viendra quand même", mbid = "ab16f9f4-dc17-4026-9d40-079a13acb214" },
+]
+
+[[release]]
+mbid = "eeaadf46-f52b-4fab-8c0d-e910acd4f35b"
+title = "J'aime les licornes"
+type = "single"
+date = "2012-01-03"
+tracks = [
+  { n = 1, title = "J'aime les licornes", mbid = "4be89976-6854-4d6b-937a-9370806d8cfa" },
+]
+
+[[release]]
+mbid = "c19c211a-f709-44f1-9f73-37f68a12e403"
+title = "Basique"
+type = "single"
+date = "2017-09-20"
+tracks = [
+  { n = 1, title = "Basique", mbid = "1291cf5a-0d0f-45b7-a82f-c3cc895cb16e" },
+]
+
+[[release]]
+mbid = "393bb42a-a98f-41f5-9886-3ca323712503"
+title = "La fête est finie"
+type = "album"
+date = "2017-10-20"
+spotify = "04mHlwou1RaPDo8SigFfKf"
+tracks = [
+  { n = 1, title = "San", mbid = "6fb7cf02-482e-44bb-82ee-a1b456269ab3" },
+  { n = 2, title = "La fête est finie", mbid = "008bbb72-ec2e-43b2-8ee8-543f9a8bbc67" },
+  { n = 3, title = "Basique", mbid = "1291cf5a-0d0f-45b7-a82f-c3cc895cb16e" },
+  { n = 4, title = "Tout va bien", mbid = "760b443f-9e87-4077-bf58-512b9fec7a6c" },
+  { n = 5, title = "Défaite de famille", mbid = "1a04c82e-4159-46bd-a635-c37ff0c9a136" },
+  { n = 6, title = "La lumière", mbid = "5d01c92e-0ef8-4c0b-829b-11ab800f8b1e" },
+  { n = 7, title = "Bonne meuf", mbid = "785ee32b-e701-4aca-b587-7a2e950d77b4" },
+  { n = 8, title = "Quand est-ce que ça s’arrête", mbid = "ee28b3c8-52e8-4609-ae9a-2fb5f26c0591" },
+  { n = 9, title = "Christophe", mbid = "dfa27076-2085-4204-8f4a-58906fd394b1" },
+  { n = 10, title = "Zone", mbid = "f3b1487b-93c3-43f2-83b5-b84c567f3be5" },
+  { n = 11, title = "Dans ma ville, on traîne", mbid = "9839b732-4887-4f73-8875-293c6beac4c5" },
+  { n = 12, title = "La Pluie", mbid = "17353d4c-3014-43e6-a029-08709b1125b6" },
+  { n = 13, title = "Paradis", mbid = "c97c785b-93e7-44f5-97c1-455806a5b5e1" },
+  { n = 14, title = "Notes pour trop tard", mbid = "4c1e5990-56c4-4c73-8382-3c45c1b7d857" },
+]
+
+[[release]]
+mbid = "22d9bc0a-d121-4104-85c4-bed2d76bc603"
+title = "Tout va bien"
+type = "single"
+date = "2017-11-15"
+spotify = "3U36tYiu0FMwNdASmfTSKI"
+tracks = [
+  { n = 1, title = "Tout va bien", mbid = "8b90c28e-09f4-47a0-98f3-b2af2d45610c" },
+]
+
+[[release]]
+mbid = "2a9e639c-7abb-4338-91d5-1e4ec08ed4a0"
+title = "La pluie"
+type = "single"
+date = "2018-04-11"
+tracks = [
+  { n = 1, title = "La pluie", mbid = "17353d4c-3014-43e6-a029-08709b1125b6" },
+]
+
+[[release]]
+mbid = "4c5968f3-c1c0-4f3b-8bb0-d89a09a7a1b6"
+title = "Paradis"
+type = "single"
+date = "2018-09-01"
+tracks = [
+  { n = 1, title = "Paradis", mbid = "c97c785b-93e7-44f5-97c1-455806a5b5e1" },
+]
+
+[[release]]
+mbid = "0fce88f0-0369-4383-b3ad-6d15c4da657d"
+title = "Rêves bizarres"
+type = "single"
+date = "2018-11-14"
+tracks = [
+  { n = 1, title = "Rêves bizarres", mbid = "5e359524-7332-48b6-b1e5-429cce1d2235" },
+]
+
+[[release]]
+mbid = "54058ced-d215-45dd-8727-ac40e3ede901"
+title = "Fantômes"
+type = "single"
+date = "2019-11-16"
+tracks = [
+  { n = 1, title = "Fantômes", mbid = "60e64fd1-dd6f-41d6-a40a-e2852b409a2a" },
+]
+
+[[release]]
+mbid = "95a4a80a-8328-4e4c-be92-6db2c0eb48f2"
+title = "Millions"
+type = "single"
+date = "2021-06-18"
+spotify = "11HeVcLDKQI362IGgGxysq"
+tracks = [
+  { n = 1, title = "Millions", mbid = "845109f1-c961-4ada-9427-a79e463270dd" },
+]
+
+[[release]]
+mbid = "8ffdc8ed-b649-4cf8-9a9c-7412508753d9"
+title = "Civilisation"
+type = "album"
+date = "2021-11-19"
+spotify = "1M9gSrMf9GN0XPC3PJIby7"
+tracks = [
+  { n = 1, title = "Shonen", mbid = "dad3c323-f3ee-46ac-af48-09eb42a4369e" },
+  { n = 2, title = "La Quête", mbid = "10ae4100-c73f-4b71-831f-e4f24f11e8eb" },
+  { n = 3, title = "Du propre", mbid = "544ca617-75a3-46fb-be0c-2ec7b5bae889" },
+  { n = 4, title = "Bébéboa", mbid = "b8516023-8e96-4f79-a66c-bf35376f7386" },
+  { n = 5, title = "Rêve mieux", mbid = "d6fa1b77-6c97-4c9f-a375-8d4b96dd92e9" },
+  { n = 6, title = "Seul avec du monde autour", mbid = "df50b1dd-70a7-401f-a595-26e78d06d29c" },
+  { n = 7, title = "Manifeste", mbid = "afea91c6-645a-4fd1-aa97-a1868c3aa256" },
+  { n = 8, title = "L’Odeur de l’essence", mbid = "91705d1b-4b6f-4fff-ac4c-e1ec6236eb1b" },
+  { n = 9, title = "Jour meilleur", mbid = "7c1b0271-0a1b-4f10-a5f6-403407c012a3" },
+  { n = 10, title = "Baise le monde", mbid = "e5f3981d-4164-42fe-8870-80b2a783899d" },
+  { n = 11, title = "Casseurs Flowters Infinity", mbid = "827370ce-91ce-4095-a5be-d5665121ef10" },
+  { n = 12, title = "Dernier verre", mbid = "4b195559-820d-4cef-bc9d-f4e07cf10f0e" },
+  { n = 13, title = "Ensemble", mbid = "6b4767bf-c684-4b21-8171-038493addec7" },
+  { n = 14, title = "Athéna", mbid = "ba65ebbb-95c1-4ab4-93df-dd973c7a0422" },
+  { n = 15, title = "Civilisation", mbid = "11f771c2-35fe-4c4c-8c81-731b5fbcb8ec" },
+]
+
+[[release]]
+mbid = "2199a997-4b2c-43c0-9c32-c3cb69f9380c"
+title = "Tous les jours dimanche"
+type = "single"
+date = "2022-03-24"
+tracks = [
+  { n = 1, title = "Tous les jours dimanche", mbid = "78847ca8-e1c8-4894-864a-ede258b5e41f" },
+]
+
+[[release]]
+mbid = "013d3c0c-afef-446d-b2e0-7ba395d702e9"
+title = "Jour meilleur (Lost Frequencies edit)"
+type = "single"
+date = "2023-06-07"
+spotify = "3Rky9cN8foqbu8S8A7y9T2"
+tracks = [
+  { n = 1, title = "Jour meilleur (Lost Frequencies edit)", mbid = "f7fd8a8e-c432-4972-a7d7-08aed9ccc9d8" },
+]
+
+[[release]]
+mbid = "66038ed4-a5f3-4133-a1e9-c725d48034a2"
+title = "Yoroï"
+type = "single"
+date = "2025-11-06"
+tracks = [
+  { n = 1, title = "Yoroï", mbid = "d64e3e31-2bac-4f0b-bbe5-926c64bdf7fe" },
+]
+
+[[release]]
+mbid = "336b317f-81e7-4a7b-8571-f9139d001566"
+title = "La fuite en avant"
+type = "album"
+date = "2025-11-07"
+spotify = "130L3uMANE28R0eH0GtmZS"
+tracks = [
+  { n = 1, title = "Le Pacte", mbid = "756282ec-9a3d-4e17-b41c-cd65013e5559" },
+  { n = 2, title = "Plus rien", mbid = "b62e98b2-a1f7-465e-aacd-8b88f6450ae9" },
+  { n = 3, title = "Ailleurs", mbid = "fd961042-0f8e-43c0-967e-fc2f4d790325" },
+  { n = 4, title = "Boss", mbid = "82bbde9f-28e0-4400-a424-da4120db2fd1" },
+  { n = 5, title = "Deux et demi", mbid = "eae1297f-6663-4c3b-abf3-157cbbe4c164" },
+  { n = 6, title = "Osaka", mbid = "767c4ba6-83bb-40cd-a2f8-2005a1aef06c" },
+  { n = 7, title = "Encore une fois", mbid = "3f3492e5-42ab-4d83-95a4-c0b65b005c6c" },
+  { n = 8, title = "Internet", mbid = "6ca9b9d4-3ebf-42a9-b1bc-646d01957c0c" },
+  { n = 9, title = "Dans quelques mois", mbid = "c5a7d94b-1e8d-4b6c-aa7c-da3da79e19f0" },
+  { n = 10, title = "Oulalalala", mbid = "7bf555ee-9ded-4bf4-a934-0ec329af2477" },
+  { n = 11, title = "Tellement d'amis", mbid = "85607e62-7e9c-402d-bc92-5838d19156d2" },
+  { n = 12, title = "La petite voix", mbid = "5446c48e-75ae-4c96-9f05-edfaa9b3ff50" },
+  { n = 13, title = "Sama", mbid = "400554bb-5c33-42f3-9ca8-6c659378d5f4" },
+  { n = 14, title = "Soleil levant", mbid = "5cc6af59-9531-4e20-b57c-60203714284b" },
+  { n = 15, title = "Les Monstres", mbid = "3ee18e37-afc8-4026-bbe8-0665fbc3e6b7" },
+  { n = 16, title = "Epiphanie", mbid = "33956817-11ca-40c4-aff1-06f8cdb2e85e" },
+  { n = 17, title = "Yoroï", mbid = "d64e3e31-2bac-4f0b-bbe5-926c64bdf7fe" },
+]
+
+[[release]]
+mbid = "606bef90-8d36-4e33-bcfc-9df77cd757ca"
+title = "Mentir au psy"
+type = "single"
+date = "2026-09-29"
+spotify = "5ZyA2oZrTciyWMJJOjtVMG"
+tracks = [
+  { n = 1, title = "Mentir au psy", mbid = "032cc697-1a76-4575-84df-873abb8bf774" },
+]

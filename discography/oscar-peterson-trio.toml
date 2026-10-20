@@ -1,0 +1,670 @@
+format = 1
+
+[[release]]
+mbid = "2e1af5ad-578d-3d2d-84bb-fb0790d74afd"
+title = "Lester Young with The Oscar Peterson Trio #1"
+type = "album"
+date = "1954"
+tracks = [
+  { n = 1, title = "Ad Lib Blues", mbid = "280ed22c-c3b5-482b-a482-a3ee3c3041bb" },
+  { n = 2, title = "I Can't Get Started", mbid = "31a42392-1db3-4d14-abc6-7f49bb63a928" },
+  { n = 3, title = "Just You, Just Me", mbid = "53dad26d-d125-4856-8a2b-870ee20d0af3" },
+  { n = 4, title = "Almost Like Being in Love", mbid = "679ad688-44ed-48bc-9c2f-d15c24be00ce" },
+]
+
+[[release]]
+mbid = "020bbca5-13e6-4620-8e60-57e3ad65d58c"
+title = "Lester Young with the Oscar Peterson Trio #2"
+type = "album"
+date = "1954"
+tracks = [
+  { n = 1, title = "Tea for Two", mbid = "04400abd-8992-4e96-b867-d112495a9159" },
+  { n = 2, title = "There Will Never Be Another You", mbid = "bb6e6d48-170b-4eee-9e55-d8c9c63352cf" },
+  { n = 3, title = "(Back Home Again in) Indiana", mbid = "b7908f31-4309-4cc6-ad40-9f71f14be389" },
+  { n = 4, title = "On the Sunny Side of the Street", mbid = "38dfbb37-a152-4fc7-870e-ae9696e85ef5" },
+]
+
+[[release]]
+mbid = "c51a586b-ed0d-4db8-89c3-c73ff855d80c"
+title = "Oscar Peterson Plays Jerome Kern"
+type = "album"
+date = "1954-03-08"
+spotify = "2aVD21lkPvCymSRM0l0QTu"
+tracks = [
+  { n = 1, title = "The Way You Look Tonight", mbid = "0ad58dea-fcc5-4d12-aa62-2501310658be" },
+  { n = 2, title = "Pick Yourself Up", mbid = "174bf752-d0b9-440f-ad2c-85bc6483ae5e" },
+  { n = 3, title = "Yesterdays", mbid = "eaacb2eb-8939-4341-9386-1b5c4b329683" },
+  { n = 4, title = "I Won't Dance", mbid = "696aa428-1601-489c-b59f-dc64178cfe51" },
+  { n = 5, title = "Long Ago And Far Away", mbid = "7e50df7c-b2df-42f8-bf0a-04e221361786" },
+  { n = 6, title = "Lovely To Look At", mbid = "8dde4f5a-67d8-41e5-a573-9389668b0c35" },
+  { n = 7, title = "A Fine Romance", mbid = "60888eb7-cb8b-4afe-b457-2029f90014f3" },
+  { n = 8, title = "Smoke Gets In Your Eyes", mbid = "a17505e5-3d6d-4af1-84f0-ecf506e44e4f" },
+  { n = 9, title = "Ol Man River", mbid = "decf2418-9b8d-4276-b0e2-32b802661e4f" },
+  { n = 10, title = "Bill", mbid = "4ee5d1b3-95b4-4932-b765-2dc3bfeca7ce" },
+  { n = 11, title = "The Song Is You", mbid = "5cb8ece7-e0e5-4b14-8263-35fc6d77cca1" },
+  { n = 12, title = "Can't Help Loving That Man", mbid = "d88be7be-4257-4148-bc47-e0b76308e747" },
+]
+
+[[release]]
+mbid = "dd46e67f-6a0f-3a16-9455-ed3d614de89a"
+title = "Stan Getz and The Oscar Peterson Trio"
+type = "album"
+date = "1957"
+tracks = [
+  { n = 1, title = "I Want to Be Happy", mbid = "a3c8cf0a-5b87-4373-9972-e26c4874fc5e" },
+  { n = 2, title = "Pennies From Heaven", mbid = "108a74da-86ff-496a-b73f-fe7a61912b4a" },
+  { n = 3, title = "Ballad Medley: Bewitched, Bothered, and Bewildered / I Don't Know Why I Just Do / How Long Has This Been Going On / I Can't Get Started / Polka Dots and Moonbeams", mbid = "c099a128-a1e3-467a-acd2-9bda80d81c62" },
+  { n = 4, title = "I'm Glad There Is You", mbid = "a17ff916-cdca-48a8-816a-df047d0e1452" },
+  { n = 5, title = "Tour’s End", mbid = "d54d6706-c4eb-401e-8b99-ec7f13752a87" },
+  { n = 6, title = "I Was Doing All Right", mbid = "b22b7934-ea25-44f0-a97d-1fec7a9db20a" },
+  { n = 7, title = "Bronx Blues", mbid = "f5a42945-b550-49e3-b075-f9c78f02ed3e" },
+]
+
+[[release]]
+mbid = "0328e27c-7072-4ac5-b37f-35df77b02031"
+title = "The Oscar Peterson Trio at Newport"
+type = "album"
+date = "1958"
+tracks = [
+  { n = 1, title = "Will You Still Be Mine", mbid = "970cc1c2-d28e-4abc-970a-6a9f3e9c4d71" },
+  { n = 2, title = "Joy Spring", mbid = "2febcf52-005a-4d2e-ab5d-b2ef9da0d474" },
+  { n = 3, title = "Gal in Calico", mbid = "cc5f0869-d3fc-48fa-a99e-dc7e07e602a0" },
+  { n = 4, title = "52nd Street Theme", mbid = "6fe8f8e9-8dda-4b4f-bc93-526697cf7a44" },
+  { n = 5, title = "[Jo Jones introduction]", mbid = "80e3244e-c96d-4a03-bd26-7449d0984a75" },
+  { n = 6, title = "Monitor Blues", mbid = "0e551c1a-aa14-482a-a4d4-e6090fe12520" },
+  { n = 7, title = "Willow Weep for Me", mbid = "c43eb4cb-12c0-47e9-8ed3-47d828894ee7" },
+  { n = 8, title = "Autumn in New York", mbid = "c128ce06-85b1-4131-9fd7-e63cbc8f40c7" },
+  { n = 9, title = "Roy's Son", mbid = "84795dbc-4365-425c-a3e6-770a9d77295d" },
+]
+
+[[release]]
+mbid = "ccd7f10b-0d3b-334b-8eae-7c1716e858a5"
+title = "A Jazz Portrait of Frank Sinatra"
+type = "album"
+date = "1959"
+tracks = [
+  { n = 1, title = "You Make Me Feel So Young", mbid = "cb98cb9e-9e1b-4c9d-b31c-23a5213a0f12" },
+  { n = 2, title = "Come Dance With Me", mbid = "9a2d649d-15c0-4d79-bce7-4d9e44af1779" },
+  { n = 3, title = "Learnin' the Blues", mbid = "87a53fd5-78fe-4dee-804b-1ab1fb5e58fd" },
+  { n = 4, title = "Witchcraft", mbid = "c57b08ff-436a-4725-9622-4c2f61684491" },
+  { n = 5, title = "The Tender Trap", mbid = "51320f92-f708-4113-b30e-b96b0819e71b" },
+  { n = 6, title = "Saturday Night (Is the Loneliest Night in the Week)", mbid = "74f148f6-b15a-4d56-bdfe-dcb8d769a618" },
+  { n = 7, title = "Just in Time", mbid = "99bbe260-a336-47a7-9e66-cf7da488b76d" },
+  { n = 8, title = "It Happened in Monterey", mbid = "53040c03-0ee7-4e52-b5eb-de48cb237802" },
+  { n = 9, title = "I Get a Kick Out of You", mbid = "3f39f3c6-2ce5-40fa-be82-c7f3f9db8d55" },
+  { n = 10, title = "All of Me", mbid = "a5c47a7e-27ae-430f-8343-5fd602121103" },
+  { n = 11, title = "The Birth of the Blues", mbid = "e5828fa7-c23f-4545-b96b-5dc32fb35c44" },
+  { n = 12, title = "How About You?", mbid = "fbe3beff-c4ff-41f5-8375-bf3dac4c0d7c" },
+]
+
+[[release]]
+mbid = "32c2b126-b77f-4d58-9408-b1ce75ca2965"
+title = "Swinging Brass"
+type = "album"
+date = "1960"
+tracks = [
+  { n = 1, title = "Stockholm Sweetnin'", mbid = "fed53d23-5f9a-4908-802d-3456b95b99bf" },
+  { n = 2, title = "Blues For Big Scotia", mbid = "7796fc5c-a096-4c7b-927a-286f79de42fa" },
+  { n = 3, title = "Close Your Eyes", mbid = "6f736a55-0248-402f-90ef-0a0b2c4f43c1" },
+  { n = 4, title = "Spirit Feel", mbid = "cbdb4bdd-53ee-4cb1-88c6-9335ba94e45c" },
+  { n = 5, title = "Cubana Chant", mbid = "9c7df2e6-cf36-4af2-b044-5b79b015ecd1" },
+  { n = 6, title = "Con Alma", mbid = "777f3271-94c9-46f1-b94f-f89f8284a419" },
+  { n = 7, title = "O.P.", mbid = "326906ff-ab60-4b8e-ab4c-0ad913bd98bb" },
+  { n = 8, title = "Little Pea's Blues", mbid = "95dd2054-07d8-4974-821c-d5ff05ee866e" },
+]
+
+[[release]]
+mbid = "194429a6-a890-41c2-8aad-5dc78ea15000"
+title = "Affinity"
+type = "album"
+date = "1962"
+spotify = "58CWbbKTO4CCEEERtgk89g"
+tracks = [
+  { n = 1, title = "Waltz for Debby", mbid = "25c8977d-b7cc-49a2-9724-f62a27f5959e" },
+  { n = 2, title = "Tangerine", mbid = "73f267b6-be48-4375-8358-3cc553f3b10f" },
+  { n = 3, title = "The Gravy Waltz", mbid = "5603a4da-29ee-487a-a2a4-2396e8128d8d" },
+  { n = 4, title = "This Could Be the Start of Something", mbid = "100456a9-cadf-4ba4-872a-29810e965b27" },
+  { n = 5, title = "Baubles, Bangles and Beads", mbid = "fbbf58de-666f-4896-8515-888f11bea057" },
+  { n = 6, title = "Six and Four", mbid = "48fe2fc8-fcb6-4e9f-8c17-2414ce5c265f" },
+  { n = 7, title = "I'm a Fool to Want You", mbid = "bc001b80-b0da-4801-a879-978e0553811a" },
+  { n = 8, title = "Yours Is My Heart Alone", mbid = "ec29e4ea-74ad-4324-a79d-b123aeaa8d34" },
+]
+
+[[release]]
+mbid = "f4f6e869-058b-3b93-aa6d-2bb02a92d39c"
+title = "Bursting Out With the All Star Big Band!"
+type = "album"
+date = "1962"
+tracks = [
+  { n = 1, title = "Blues for Big Scotia", mbid = "c4f6a71d-bc74-4260-8dc8-30b612859986" },
+  { n = 2, title = "West Coast Blues", mbid = "a7b466f9-f08f-42c4-9498-9474a49a08e6" },
+  { n = 3, title = "Here’s That Rainy Day", mbid = "a4beff9a-be15-468a-9a5d-215bb7143658" },
+  { n = 4, title = "I Love You", mbid = "4f8370dd-ae63-44ff-b502-74665e0669f1" },
+  { n = 5, title = "Daahoud", mbid = "b5b71eb9-2586-44bf-a204-4d464fb413cd" },
+  { n = 6, title = "Tricrotism", mbid = "28a79218-3a1c-482c-84b5-2fcd6b8ed62d" },
+  { n = 7, title = "I’m Old Fashioned", mbid = "7a018239-9563-4088-87bd-53e17399c4a7" },
+  { n = 8, title = "Young and Foolish", mbid = "47e12e2f-a3df-458b-b749-d910c21d87b0" },
+  { n = 9, title = "Manteca", mbid = "f8baa70a-5de3-463e-a7e0-1face92ceee0" },
+]
+
+[[release]]
+mbid = "380e0b4e-60c8-39f4-b0ad-e589b6f1cc94"
+title = "Very Tall"
+type = "album"
+date = "1962"
+tracks = [
+  { n = 1, title = "Green Dolphin Street", mbid = "029dbd0a-d8b0-4314-972b-acab20c904f9" },
+  { n = 2, title = "Heartstrings", mbid = "161a6f30-0a91-43d2-b036-ae4417039f8e" },
+  { n = 3, title = "The Work Song", mbid = "4139bd6b-b1fc-46a6-98a5-9ef479a78395" },
+  { n = 4, title = "John Brown's Body", mbid = "adcb93bc-a6ac-4c9f-b258-f9dbb4506359" },
+  { n = 5, title = "A Wonderful Guy", mbid = "842294dc-4f64-43b9-91c2-4c25b1960832" },
+  { n = 6, title = "Reunion Blues", mbid = "d624ecc1-2ff6-49c3-9232-df1511041149" },
+]
+
+[[release]]
+mbid = "ba4e48c2-79d9-375b-906b-d65c14a23588"
+title = "West Side Story"
+type = "album"
+date = "1962-02-15"
+spotify = "00j5Y8CWTG2bpCZUnP0DRD"
+tracks = [
+  { n = 1, title = "Something’s Coming", mbid = "1506b02a-ad43-4cf1-bb87-92768bec2885" },
+  { n = 2, title = "Somewhere", mbid = "9d48aab3-7a44-49d3-a355-9d6e37159dcf" },
+  { n = 3, title = "Jet Song", mbid = "e39a538d-2bb3-4131-b76d-c447085cdeee" },
+  { n = 4, title = "Tonight", mbid = "74a9e6ce-5dd8-4031-855b-bc75765d60ce" },
+  { n = 5, title = "Maria", mbid = "b176bc26-40ec-4794-aeb8-dbf645b95165" },
+  { n = 6, title = "I Feel Pretty", mbid = "e20375cd-c0cb-4e3a-9443-878a8e5a15c0" },
+  { n = 7, title = "Reprise", mbid = "ac638e74-dc0a-40a8-9ed4-0660639692b7" },
+]
+
+[[release]]
+mbid = "9ce4b9ee-9ad4-3deb-95a4-4cb4e68c145e"
+title = "Night Train"
+type = "album"
+date = "1963"
+spotify = "3gPOWmWT0q7Ygp95Xiuw1v"
+tracks = [
+  { n = 1, title = "Night Train", mbid = "af6ed8ac-28bf-4936-86a3-1829fd4840f0" },
+  { n = 2, title = "C Jam Blues", mbid = "a4db7317-a1f9-4957-86e2-0f3a2306a682" },
+  { n = 3, title = "Georgia on My Mind", mbid = "6120f2f7-de9b-483e-a269-e5c3f63e2f70" },
+  { n = 4, title = "Bags’ Groove", mbid = "b2aa41e5-52fd-4d0f-9386-63f3c1eaaf0e" },
+  { n = 5, title = "Moten Swing", mbid = "4b417e2e-8896-4dbe-ac00-d042c7760de9" },
+  { n = 6, title = "Easy Does It", mbid = "9b41a1cd-0c81-4164-99b8-0a58eb97d71e" },
+  { n = 7, title = "Honey Dripper", mbid = "b498d90e-0c4e-45ef-911f-a9ea2d6ebb32" },
+  { n = 8, title = "Things Ain’t What They Used to Be", mbid = "09cdc1af-32f0-4985-aab1-040bd8b60ca9" },
+  { n = 9, title = "I Got It Bad and That Ain’t Good", mbid = "9fc1da97-9b26-44b2-a0e6-265956163cca" },
+  { n = 10, title = "Band Call", mbid = "01a2ab5d-dc82-4ffb-b6b4-a33c9933cbcb" },
+  { n = 11, title = "Hymn to Freedom", mbid = "c83d841f-38bf-4f4a-9542-1096c5216528" },
+]
+
+[[release]]
+mbid = "1a06ee47-42ec-332c-bc4b-d1120b2d8496"
+title = "Oscar Peterson Trio + One: Clark Terry"
+type = "album"
+date = "1964"
+tracks = [
+  { n = 1, title = "Brotherhood of Man", mbid = "f7a5dce0-f179-4ebf-816d-1be112f612c8" },
+  { n = 2, title = "Jim", mbid = "25600895-8e72-49eb-a042-6f9292a6946f" },
+  { n = 3, title = "Blues for Smedley", mbid = "c148b63e-d92e-4ff5-80e0-a2b4e7a14706" },
+  { n = 4, title = "Roundalay", mbid = "d0b0f633-d778-4f2e-99ad-b6b6d0afc462" },
+  { n = 5, title = "Mumbles", mbid = "1752116a-c5b8-4e09-b21a-b6374424d5e6" },
+  { n = 6, title = "Mack the Knife", mbid = "37a90aec-1803-4a1e-9a2d-bf0032600375" },
+  { n = 7, title = "They Didn’t Believe Me", mbid = "1c400b91-3653-4d05-adf2-fed5cdbc4a28" },
+  { n = 8, title = "Squeaky’s Blues", mbid = "62b2a270-6d61-466d-a24f-d76541d627dd" },
+  { n = 9, title = "I Want a Little Girl", mbid = "5a23652c-4acf-4d75-9339-08ad935b748c" },
+  { n = 10, title = "Incoherent Blues", mbid = "236861d3-0ae1-4086-b498-62ad810b1271" },
+]
+
+[[release]]
+mbid = "99fc13e1-2832-403d-99b1-b0239e78affd"
+title = "The Oscar Peterson Trio Plays"
+type = "album"
+date = "1964"
+tracks = [
+  { n = 1, title = "The Strut", mbid = "31b6e958-586d-4da6-b938-d4e0fdaeabcb" },
+  { n = 2, title = "Let's Fall in Love", mbid = "85b65264-b7d6-4a1f-ba6f-ffbc7ec5a852" },
+  { n = 3, title = "Satin Doll", mbid = "d114acde-44a9-427e-b281-9c05ab8920ec" },
+  { n = 4, title = "Little Right Foot", mbid = "7a85ee3f-bd17-4123-8eb7-c0dd42756157" },
+  { n = 5, title = "Fly Me to the Moon", mbid = "91222c27-c769-4d67-9186-4d11a0103708" },
+  { n = 6, title = "Lil' Darlin'", mbid = "06b160fc-6398-4dc2-baf3-b2b80bf1c67d" },
+  { n = 7, title = "This Nearly Was Mine", mbid = "6cd9503f-6f6f-4f4b-8e8d-ed9648601572" },
+  { n = 8, title = "Shiny Stockings", mbid = "f4365228-e4f6-4b8e-ae8d-077afcf229de" },
+  { n = 9, title = "You Stepped Out of a Dream", mbid = "a81a0381-b8a5-457d-98ec-a1330accf9ba" },
+]
+
+[[release]]
+mbid = "63c29e2d-69d4-3b99-9658-9e2dcb20fa6c"
+title = "We Get Requests"
+type = "album"
+date = "1964"
+tracks = [
+  { n = 1, title = "Corcovado (Quiet Nights of Quiet Stars)", mbid = "9606e21f-0252-4264-b777-d64687b3e247" },
+  { n = 2, title = "Days of Wine and Roses", mbid = "1df3250e-5996-4f12-afe1-298bba4fd9e1" },
+  { n = 3, title = "My One and Only Love", mbid = "7fc3ac93-f092-495a-b09e-5c287f500e87" },
+  { n = 4, title = "People", mbid = "7bf701f2-f9eb-4e45-932f-1a03f9b9ec08" },
+  { n = 5, title = "Have You Met Miss Jones?", mbid = "a1b1c4d8-b36c-4f29-bedd-f6bc78e984a0" },
+  { n = 6, title = "You Look Good to Me", mbid = "94c8d44d-36d5-406b-b403-f108d7a3257f" },
+  { n = 7, title = "The Girl From Ipanema", mbid = "e8f6d354-e6da-4424-8e38-027c9cf7e149" },
+  { n = 8, title = "D & E", mbid = "58663e57-3f4e-4c62-a7c4-2ce57cc4597d" },
+  { n = 9, title = "Time and Again", mbid = "1358a421-405c-4459-8ae6-756740bfa0ce" },
+  { n = 10, title = "Goodbye, J.D.", mbid = "8c11825a-7821-46ac-a665-0077a5945a5c" },
+]
+
+[[release]]
+mbid = "ab0ab37d-fd4e-3c63-96bb-1e7194c20f60"
+title = "With Respect to Nat"
+type = "album"
+date = "1965"
+spotify = "1MS5ICC5f8SkA5YHt9cuWH"
+tracks = [
+  { n = 1, title = "When My Sugar Walks Down the Street", mbid = "0dbb128c-f1fa-49c0-bdb7-cedb413e00b1" },
+  { n = 2, title = "It's Only a Paper Moon", mbid = "6ddef4e6-c7b0-422a-a08c-63188002cd21" },
+  { n = 3, title = "Walkin' My Baby Back Home", mbid = "79438376-33e6-4bc3-8c01-cd6ee63a2473" },
+  { n = 4, title = "Sweet Loraine", mbid = "ef19ad08-6b4e-40a7-9a61-6b1f6b962049" },
+  { n = 5, title = "Unforgettable", mbid = "138b6a9e-b254-4660-a14b-238b3f91f027" },
+  { n = 6, title = "Little Girl", mbid = "31c601ec-bc8f-4a5f-83e6-157ffb51d8df" },
+  { n = 7, title = "Gee Baby, Aint I Good to You", mbid = "723b4ef4-59c4-41b7-854b-f8275413a19d" },
+  { n = 8, title = "Orange Colored Sky", mbid = "8207c7d6-dc62-4b38-a01e-b4e0b338d346" },
+  { n = 9, title = "Straighten Up and Fly Right", mbid = "1628340d-1e26-47ed-b223-11d18d667d4c" },
+  { n = 10, title = "Calypso Blues", mbid = "13bbd6cf-4cd7-4a1e-8868-697c0b2a2319" },
+  { n = 11, title = "(What Can I Say) After I Say I Am Sorry?", mbid = "b0ca909e-5dfd-4ea9-bc68-bac67352dc31" },
+  { n = 12, title = "Easy Listening Blues", mbid = "9f893c21-864a-4c7f-beb0-424ff3124ab0" },
+]
+
+[[release]]
+mbid = "584efeb8-fbf3-4e8a-9f5e-7a90f2c1f14c"
+title = "Soulville Samba"
+type = "album"
+date = "1967"
+tracks = [
+  { n = 1, title = "Soulville Samba", mbid = "9a775a07-23be-4f2b-a78c-24dd5996825e" },
+  { n = 2, title = "Amanha", mbid = "48856272-1230-4761-9b74-d1d69bca562e" },
+  { n = 3, title = "Meditation (Meditacao)", mbid = "854b8015-0d8c-4a66-95e1-b9f887691f81" },
+  { n = 4, title = "Samba Sensitive", mbid = "694b8607-97db-41f9-961c-6886c99394ca" },
+  { n = 5, title = "Samba De Orfeo", mbid = "02e178ad-13e4-4c23-92ef-c197957ddd7f" },
+  { n = 6, title = "Mas Que Nada", mbid = "194305f9-54ee-4eb9-bf7a-66b18ebcc059" },
+  { n = 7, title = "Manha De Carnaval", mbid = "d4f0d74d-e6b0-44e6-9244-1bb708b89071" },
+  { n = 8, title = "Call Me", mbid = "d4c50edd-2a90-4d58-848b-c96af5bfb05d" },
+  { n = 9, title = "How Insensitive", mbid = "cc657737-dd8a-46fa-87d8-820e3cda92fc" },
+  { n = 10, title = "Carioca", mbid = "160f8b2f-ca2f-421b-ad86-53bee6e27d2c" },
+]
+
+[[release]]
+mbid = "8174cd46-17b4-4364-baab-43ebcb9359c9"
+title = "Hello Herbie"
+type = "album"
+date = "1970"
+tracks = [
+  { n = 1, title = "Naptown Blues", mbid = "e9f21cc3-46c0-4401-b1ab-f91fc0c15d68" },
+  { n = 2, title = "Exactly Like You", mbid = "47ccf3a4-f3d4-4152-b57e-8b2ef811a443" },
+  { n = 3, title = "Day by Day", mbid = "5ae5ff19-d27d-4690-993d-0f740e7698d1" },
+  { n = 4, title = "Hamp's Blues", mbid = "a184f002-c68b-4556-86e6-b3f0b7489223" },
+  { n = 5, title = "Blues for H.G.", mbid = "f856aba3-daf9-4e0a-ae73-c03b0f366220" },
+  { n = 6, title = "A Lovely Way to Spend an Evening", mbid = "9c1cd82f-3bbb-4146-a75d-adb8c800ea31" },
+  { n = 7, title = "Seven Come Eleven", mbid = "b07a9387-eeb7-4550-b4ce-6b2e666190f7" },
+]
+
+[[release]]
+mbid = "d8a41fdb-6b15-3ba2-8a8a-6778180eca36"
+title = "Tristeza on Piano"
+type = "album"
+date = "1970"
+spotify = "40pcBAvWoFC4aPdV8hHwV8"
+tracks = [
+  { n = 1, title = "Tristeza", mbid = "55736745-695f-4703-a51b-637db2db7324" },
+  { n = 2, title = "Nightingale", mbid = "8a3bd7dd-17d2-47c5-b37c-216ba9f9157c" },
+  { n = 3, title = "Porgy", mbid = "832b2925-4f51-42af-8eba-71df95ee26ce" },
+  { n = 4, title = "Triste", mbid = "ba9700f3-58aa-4c7f-bcf6-2951e6777baf" },
+  { n = 5, title = "You Stepped Out of a Dream", mbid = "43e2fd27-4df4-4304-9cb4-1ed6264e5739" },
+  { n = 6, title = "Watch What Happens", mbid = "719f583d-cb4e-441d-808d-558c57f7e10b" },
+  { n = 7, title = "Down Here on the Ground", mbid = "4024a98e-51fe-43a3-a335-7b65ea1c865b" },
+  { n = 8, title = "Fly Me to the Moon", mbid = "53a13b46-2a93-44fe-82b2-30eb496bb89c" },
+]
+
+[[release]]
+mbid = "680ba8ee-1167-4c8e-b075-86060a51993a"
+title = "Another Day"
+type = "album"
+date = "1971"
+spotify = "2j5Cb61i6HgSUQlwSj7y8a"
+tracks = [
+  { n = 1, title = "Blues for Martha", mbid = "5a4da853-eb1a-4e81-b8b6-20cf6175e11f" },
+  { n = 2, title = "Greensleeves", mbid = "987ae3c6-bbb9-4c8b-8900-3c738b4eeb22" },
+  { n = 3, title = "I'm Old Fashioned", mbid = "9f722219-313a-4f30-a1d4-f901db2eeaac" },
+  { n = 4, title = "All the Things You Are", mbid = "64746e1d-219d-4375-83cc-d378a900d703" },
+  { n = 5, title = "Too Close for Comfort", mbid = "361014cd-175a-4ad1-ab63-6e7152962f44" },
+  { n = 6, title = "The Jamf's Are Coming", mbid = "5a6fc346-3ce2-431e-859d-dd13b53c2fad" },
+  { n = 7, title = "It Never Entered My Mind", mbid = "38e35c34-840a-4b0b-a622-ac87f3d9683c" },
+  { n = 8, title = "Carolina Shout", mbid = "96ac1283-2001-4a3a-ad63-1fb143fc1696" },
+]
+
+[[release]]
+mbid = "42a5ca86-3f9d-40e3-8a5c-c5f541dd72b7"
+title = "Nigerian Marketplace"
+type = "album"
+date = "1982"
+tracks = [
+  { n = 1, title = "Nigerian Marketplace", mbid = "ee040e0a-f4ba-4d3c-82a9-00f10b658aaa" },
+  { n = 2, title = "Au Privave", mbid = "bf7b6de6-4c44-4fa5-b689-2e4d5b474dc0" },
+  { n = 3, title = "Nancy With The Laughing Face", mbid = "5a993d44-2c30-4887-9f80-076ea9987c8d" },
+  { n = 4, title = "Medley a) Misty b) Waltz For Debby", mbid = "78483c79-f480-4323-9d4d-accbcb4ccb42" },
+  { n = 5, title = "Cakewalk", mbid = "de06340e-a396-4f4f-b774-22be4b90d0da" },
+  { n = 6, title = "You Look Good To Me", mbid = "4839a6ec-4f30-4977-9d72-e6a129f8892d" },
+]
+
+[[release]]
+mbid = "d4019d42-abce-478c-8495-1e023cdd7520"
+title = "Oscar Peterson plays My Fair Lady and the Music from Fiorello!"
+type = "album"
+date = "1994"
+tracks = [
+  { n = 1, title = "I've Grown Accustomed to Her Face", mbid = "11b329cd-7478-4083-adb0-e5ff490ec927" },
+  { n = 2, title = "Get Me to the Church on Time", mbid = "4ffabbf4-5b4e-49f9-a9d7-dd64a39f554c" },
+  { n = 3, title = "Show Me", mbid = "58fef64e-fa77-4cbe-964f-594f958bbc80" },
+  { n = 4, title = "I Could Have Danced All Night", mbid = "3dacc47f-dd08-48ac-936f-72417310067d" },
+  { n = 5, title = "On the Street Where You Live", mbid = "d2dd3db4-3fba-4d7d-a202-dd78998630f7" },
+  { n = 6, title = "Wouldn't It Be Loverly", mbid = "00242566-bfae-4efd-a972-7f0db585df68" },
+  { n = 7, title = "The Rain in Spain", mbid = "216ca4d8-7d92-49b2-8392-c9337039c05c" },
+  { n = 8, title = "When Did I Fall in Love", mbid = "d27d7e03-1638-4852-bf71-b4c37c89c200" },
+  { n = 9, title = "Little Tin Box", mbid = "28752fd2-5227-4393-ac62-75cae3bf4bf7" },
+  { n = 10, title = "Home Again", mbid = "daeab74d-4063-4de7-b5fa-8b7648ddc369" },
+  { n = 11, title = "Till Tomororow", mbid = "cd0b9f12-c6b8-40ae-b2c1-e0f09d9ed233" },
+  { n = 12, title = "Politics and Poker", mbid = "fa0e06ca-ce7c-4000-9466-6b8b0048fea1" },
+  { n = 13, title = "Gentleman Jimmy", mbid = "16e378b3-734f-4336-8965-498e812581c7" },
+  { n = 14, title = "Unfair", mbid = "f6eeeddd-dc2d-4483-886a-b14161a46a42" },
+  { n = 15, title = "On the Side of the Angels", mbid = "c6ba3586-1768-46c3-a0c4-2f921ae6ceba" },
+  { n = 16, title = "Where Do I Go From Here", mbid = "66fc7c45-9291-446b-93e9-d66880014eac" },
+]
+
+[[release]]
+mbid = "9a1b5625-89eb-4c45-981c-8513db78f94e"
+title = "Complete 1952 Verve Studios Sessions with Lester Young"
+type = "album"
+date = "2001"
+tracks = [
+  { n = 1, title = "Ad Lib Blues", mbid = "1faa378d-4904-4118-9ac9-54e041252e80" },
+  { n = 2, title = "Just You, Just Me", mbid = "5616bca6-b871-4a09-9322-cc027dc0c3dc" },
+  { n = 3, title = "Tea for Two", mbid = "59e86c64-ea3b-4406-9e8d-975e497381ca" },
+  { n = 4, title = "Indiana", mbid = "9caa2ca7-5219-4a3d-96a5-9618456416e8" },
+  { n = 5, title = "These Foolish Things", mbid = "abc7ca4a-6fa5-47a2-936e-432bc9119649" },
+  { n = 6, title = "I Can't Get Started", mbid = "b25a7b2e-0d56-4ef0-9d16-5da77590b64d" },
+  { n = 7, title = "Stardust", mbid = "d2152399-c823-4998-86e6-d91ea8016c2c" },
+  { n = 8, title = "It Takes Two to Tango", mbid = "54c43cad-2ef1-4859-8d07-7d2fdb2885d7" },
+  { n = 9, title = "On the Sunny Side of the Street", mbid = "7ab94054-5434-44c9-a7cf-653cbe4ac19c" },
+  { n = 10, title = "Almost Like Being in Love", mbid = "d3a9bbe1-4912-469f-af0a-f5c86c328201" },
+  { n = 11, title = "I Can’t Give You Anything but Love", mbid = "f3bd71ed-ff9c-444e-9ad9-ed60ee177087" },
+  { n = 12, title = "There Will Never Be Another You", mbid = "65803480-aa5d-46c7-91a2-cf58ce85de51" },
+  { n = 13, title = "I'm Confessin'", mbid = "c7aa4351-34c2-4529-a10d-299566c24ecb" },
+  { n = 14, title = "It Takes Two to Tango", mbid = "eb415fda-e2d3-448c-8cf6-61554d9bddc1" },
+]
+
+[[release]]
+mbid = "0a74d460-360b-46ef-adf1-bbc82975e8ec"
+title = "I Grandi Del Jazz - Stan Gets & The Oscar Peterson Trio"
+type = "album"
+date = "2002"
+tracks = [
+  { n = 1, title = "I Want To Be Happy", mbid = "76ff96e4-ff34-4c44-b2de-2bd5c4bd6510" },
+  { n = 2, title = "Pennies From Heaven", mbid = "1fe90b69-31b0-4580-a52b-a23ce52ad397" },
+  { n = 3, title = "Medley: Bewitched/I Don't Know Why/How Long", mbid = "5c88c25a-1de1-4e86-b452-904772e21b3c" },
+  { n = 4, title = "I'm Glad There Is You", mbid = "480765bf-c968-4b9f-9869-7fd2b6a185d8" },
+  { n = 5, title = "Tour's End", mbid = "b57acbce-ce14-4005-8851-71469b221398" },
+  { n = 6, title = "I Was Doing All Right", mbid = "b22b7934-ea25-44f0-a97d-1fec7a9db20a" },
+  { n = 7, title = "Bronx Blues", mbid = "c77548b4-7fc2-4cac-b38e-1f312980e83a" },
+  { n = 8, title = "Three Little Words", mbid = "064d7e5b-5324-4946-856a-c5646b6b0114" },
+  { n = 9, title = "Detour Ahead", mbid = "dad24376-7aab-4d49-88ad-dcb5469bdb59" },
+  { n = 10, title = "Sunday", mbid = "97bdba9d-ea63-4059-8064-26e5f41c5057" },
+  { n = 11, title = "Blues for Herky", mbid = "bc3d98a3-d962-486c-8529-b91058030e3d" },
+]
+
+[[release]]
+mbid = "c44ccdd6-b890-370f-8df2-742da3e7d2a0"
+title = "Canadiana Suite"
+type = "album"
+date = "2002-07-24"
+tracks = [
+  { n = 1, title = "Ballad to the East", mbid = "6d606a7a-4798-4adb-aef8-00706abfb3e4" },
+  { n = 2, title = "Laurentide Waltz", mbid = "e1f37125-85dd-4e5f-920f-f66f1cef8f6f" },
+  { n = 3, title = "Place St. Henri", mbid = "0436bd76-0385-497c-887a-08b02ef1c7cc" },
+  { n = 4, title = "Hogtown Blues", mbid = "89a473d7-9385-48fe-8843-54a53002c66d" },
+  { n = 5, title = "Blues of the Prairies", mbid = "ff372eb5-d63d-4e69-a067-6ac2a531cbb5" },
+  { n = 6, title = "Wheatland", mbid = "bc4e20bb-c327-4a1b-adae-b03f545ea805" },
+  { n = 7, title = "March Past", mbid = "f5594c8c-361b-4d73-b9bf-ab4c227a3101" },
+  { n = 8, title = "Land of the Misty Giants", mbid = "c0b3e75d-5c88-4374-a1bd-6a1f3b297246" },
+]
+
+[[release]]
+mbid = "2fde9d65-1b83-3e68-a053-bb096587626b"
+title = "The Music From Fiorello"
+type = "album"
+date = "2005-05-01"
+tracks = [
+  { n = 1, title = "When Did I Fall in Love?", mbid = "b223e123-b3a9-45e7-96e9-50df2be16bdb" },
+  { n = 2, title = "Little Tin Box", mbid = "74c76422-9482-48cc-8943-6e1c6567ce31" },
+  { n = 3, title = "Home Again", mbid = "c4269218-f83f-458e-aed3-5fec70f08631" },
+  { n = 4, title = "Till Tomorrow", mbid = "40e59d6f-2bfc-4287-9b9a-ee2ad17b1e91" },
+  { n = 5, title = "Politics and Poker", mbid = "78dca690-22e3-4276-870a-df60bf497540" },
+  { n = 6, title = "Gentleman Jimmy", mbid = "879be003-d049-470b-91ee-b1227cee07c8" },
+  { n = 7, title = "Unfair", mbid = "e28895ab-6abd-450c-8074-a4383f6a280d" },
+  { n = 8, title = "On the Side of the Angels", mbid = "5db9f091-1561-4acc-995f-df0cb8f9d102" },
+  { n = 9, title = "Where Do I Go From Here?", mbid = "6e5b3331-6090-4ebc-841e-e09735bd0282" },
+]
+
+[[release]]
+mbid = "91538d70-1203-4015-8067-fc71cbea6545"
+title = "In Tune"
+type = "album"
+date = "2005-10-18"
+spotify = "0oTtARc2WdGccztaqhghPW"
+tracks = [
+  { n = 1, title = "Sesame Street", mbid = "13b13f0f-bace-46d9-ba33-c16a9de0d8b3" },
+  { n = 2, title = "It Never Entered My Mind", mbid = "a4c91d28-d6ee-4d44-97e7-5188fd4e4f59" },
+  { n = 3, title = "Children's Game", mbid = "f5794fb8-da1b-460f-be6a-5aec802f9e38" },
+  { n = 4, title = "The Gentle Rain", mbid = "88648c24-5ce0-4e7a-9ec0-8956d8638ae3" },
+  { n = 5, title = "A Child Is Born", mbid = "7b9392bb-6746-4e1a-bb3f-111a56976bdd" },
+  { n = 6, title = "The Shadow of Your Smile", mbid = "a0723750-9356-4463-8250-c9fc4014fc84" },
+  { n = 7, title = "Catherine", mbid = "17c03ec5-2d42-46c1-92c3-92a0f214c34a" },
+  { n = 8, title = "Once Upon a Summertime", mbid = "f04cc0d6-fed9-4d4b-89dc-5a91f00ffd99" },
+  { n = 9, title = "Here's That Rainy Day", mbid = "a3f5f2a3-fd23-437b-87f0-4e7d325507cf" },
+]
+
+[[release]]
+mbid = "84f70849-bdd6-474f-b75b-3d4fba9eaa4b"
+title = "Ella & Louis (and Oscar Too)"
+type = "album"
+date = "2008"
+tracks = [
+  { disc = 1, n = 1, title = "Can’t We Be Friends?", mbid = "6ffdfaa2-68f0-4359-b404-090b4abbf40c" },
+  { disc = 1, n = 2, title = "Isn’t This a Lovely Day", mbid = "ab9c282a-0ff0-4200-8420-df9fad8dd7ee" },
+  { disc = 1, n = 3, title = "Moonlight in Vermont", mbid = "58d211a3-4b73-4ec4-9366-54c30b4e32d8" },
+  { disc = 1, n = 4, title = "They Can’t Take That Away From Me", mbid = "f736d26e-b062-4eff-a738-c9eb708691e5" },
+  { disc = 1, n = 5, title = "Under a Blanket of Blue", mbid = "ea184bf3-4a00-4c46-9252-f61ba8468d6a" },
+  { disc = 1, n = 6, title = "Tenderly", mbid = "90dbbdbf-3d58-44f2-baff-2c43687e7e4f" },
+  { disc = 1, n = 7, title = "A Foggy Day (in London Town)", mbid = "063b84d7-4313-4770-92e9-79954a4f0fef" },
+  { disc = 1, n = 8, title = "Stars Fell on Alabama", mbid = "b6167abb-6832-4561-b3b6-c70e17c1590c" },
+  { disc = 1, n = 9, title = "Cheek to Cheek", mbid = "fe83e7a0-2682-4145-8449-40bf2e4ba38e" },
+  { disc = 1, n = 10, title = "The Nearness of You", mbid = "daac9233-40dd-4a36-8955-ea3c0b00fea8" },
+  { disc = 1, n = 11, title = "Don’t Be That Way", mbid = "ac03f331-1cff-476d-887d-3f345ba7f0a0" },
+  { disc = 1, n = 12, title = "Makin’ Whoopee", mbid = "7fae19ea-aced-4983-9983-0ac79683ee8e" },
+  { disc = 1, n = 13, title = "They All Laughed", mbid = "3471bbe2-16ab-4691-b10b-53488a86db01" },
+  { disc = 1, n = 14, title = "Comes Love", mbid = "ed109678-481b-44e6-8768-1d74a926bf32" },
+  { disc = 1, n = 15, title = "Autumn in New York", mbid = "880af0f4-3ef2-449d-b5ae-47ea2af2e0f3" },
+  { disc = 2, n = 1, title = "Let’s Call the Whole Thing Off", mbid = "45f40c9c-8846-4731-82f7-d716d1679de8" },
+  { disc = 2, n = 2, title = "These Foolish Things", mbid = "0ee65602-918d-4f32-86c2-5c8b71f80557" },
+  { disc = 2, n = 3, title = "I’ve Got My Love to Keep Me Warm", mbid = "c82b721e-da77-4512-942d-1329f55d3d70" },
+  { disc = 2, n = 4, title = "Willow Weep for Me", mbid = "6767ec02-587a-4329-b2f1-c1e21e12a55b" },
+  { disc = 2, n = 5, title = "I’m Putting All My Eggs in One Basket", mbid = "849baf79-3bf1-4131-aa56-136ddd64c410" },
+  { disc = 2, n = 6, title = "A Fine Romance", mbid = "e491e392-d63f-435f-b6c5-a4059245a235" },
+  { disc = 2, n = 7, title = "Ill Wind", mbid = "1236170a-5147-4cbc-9263-89363eb1123f" },
+  { disc = 2, n = 8, title = "Our Love Is Here to Stay", mbid = "d06f9a23-ee2d-4bbc-93ac-8bf400514c5b" },
+  { disc = 2, n = 9, title = "I Get a Kick Out of You", mbid = "39b3cd7d-a5b5-4dba-9c27-6b245a76d634" },
+  { disc = 2, n = 10, title = "Learnin’ the Blues", mbid = "c1282111-18d4-4717-8b44-7a71fca0dd59" },
+  { disc = 2, n = 11, title = "Let’s Do It (Let’s Fall in Love)", mbid = "e3b32295-67a0-4fd3-b6fc-9b1d6eec4761" },
+  { disc = 2, n = 12, title = "Stompin’ at the Savoy", mbid = "1a0b566f-caf4-4949-8a2f-c2c9bc0b7a2b" },
+  { disc = 2, n = 13, title = "I Won’t Dance", mbid = "cba1c403-6718-4b24-a1d3-53a5972deeaf" },
+  { disc = 2, n = 14, title = "Gee Baby, Ain’t I Good to You", mbid = "b46b43cf-7428-4749-9f88-3f44199d063e" },
+]
+
+[[release]]
+mbid = "b9414f9f-332a-4fcc-b464-de73e1252d89"
+title = "Jazz Giants '58"
+type = "album"
+date = "2008-03-18"
+tracks = [
+  { n = 1, title = "Chocolate Sundae", mbid = "545883ac-0013-4aee-b8a2-e542015cb9ee" },
+  { n = 2, title = "When Your Lover Has Gone", mbid = "75c520e9-1832-474f-bd1e-9d65b63864af" },
+  { n = 3, title = "Candy", mbid = "7fcdc743-cb12-4885-90e8-2eada3e52749" },
+  { n = 4, title = "Ballade: Lush Life / Lullaby of the Leaves / Makin' Whoopee / It Never Entered My Mind", mbid = "0ac904fc-6ded-412f-83d4-3eeba3e6fe95" },
+  { n = 5, title = "Woody'n You", mbid = "163e4cbf-26b2-4b42-ae7d-3ab8186401d1" },
+]
+
+[[release]]
+mbid = "147de315-be9b-4f22-854b-dd306a6ca46d"
+title = "Jazzplus: Night Train / The Jazz Soul of Oscar Peterson"
+type = "album"
+date = "2012-10-12"
+tracks = [
+  { n = 1, title = "Night Train", mbid = "af6ed8ac-28bf-4936-86a3-1829fd4840f0" },
+  { n = 2, title = "C Jam Blues", mbid = "a4db7317-a1f9-4957-86e2-0f3a2306a682" },
+  { n = 3, title = "Georgia on My Mind", mbid = "6120f2f7-de9b-483e-a269-e5c3f63e2f70" },
+  { n = 4, title = "Bags' Groove", mbid = "b2aa41e5-52fd-4d0f-9386-63f3c1eaaf0e" },
+  { n = 5, title = "Moten Swing", mbid = "4b417e2e-8896-4dbe-ac00-d042c7760de9" },
+  { n = 6, title = "Easy Does It", mbid = "9b41a1cd-0c81-4164-99b8-0a58eb97d71e" },
+  { n = 7, title = "Honey Dripper", mbid = "b498d90e-0c4e-45ef-911f-a9ea2d6ebb32" },
+  { n = 8, title = "Things Ain't What They Used to Be", mbid = "09cdc1af-32f0-4985-aab1-040bd8b60ca9" },
+  { n = 9, title = "I Got It Bad (and That Ain't Good)", mbid = "9fc1da97-9b26-44b2-a0e6-265956163cca" },
+  { n = 10, title = "Band Call", mbid = "01a2ab5d-dc82-4ffb-b6b4-a33c9933cbcb" },
+  { n = 11, title = "Hymn to Freedom", mbid = "0866394d-0243-455d-91d8-d80d5c31804c" },
+  { n = 12, title = "Liza", mbid = "79531cf4-b39b-4179-abd5-0088511ae288" },
+  { n = 13, title = "Con Alma", mbid = "ec8a587f-cdb4-4fe6-990e-d19051048a5e" },
+  { n = 14, title = "Close Your Eyes", mbid = "d4ec0a27-d8ae-4772-a63c-c8f7a654d203" },
+  { n = 15, title = "The Maidens of Cadiz", mbid = "31c72be4-8222-469e-b43e-6c1b132421a1" },
+  { n = 16, title = "My Heart Stood Still", mbid = "2330ea95-c34d-4db7-bd70-a850465441fe" },
+  { n = 17, title = "Woody 'n You", mbid = "a7a7a2e5-d601-49a0-abe1-118502bb476e" },
+]
+
+[[release]]
+mbid = "dd3369c4-a7db-489a-af85-37df90ae1a69"
+title = "West Side Story / Oscar Peterson Plays Porgy & Bess"
+type = "album"
+date = "2012-11-23"
+tracks = [
+  { n = 1, title = "Something’s Coming", mbid = "1506b02a-ad43-4cf1-bb87-92768bec2885" },
+  { n = 2, title = "Somewhere", mbid = "9d48aab3-7a44-49d3-a355-9d6e37159dcf" },
+  { n = 3, title = "Jet Song", mbid = "e39a538d-2bb3-4131-b76d-c447085cdeee" },
+  { n = 4, title = "Tonight", mbid = "74a9e6ce-5dd8-4031-855b-bc75765d60ce" },
+  { n = 5, title = "Maria", mbid = "b176bc26-40ec-4794-aeb8-dbf645b95165" },
+  { n = 6, title = "I Feel Pretty", mbid = "e20375cd-c0cb-4e3a-9443-878a8e5a15c0" },
+  { n = 7, title = "Reprise", mbid = "ac638e74-dc0a-40a8-9ed4-0660639692b7" },
+  { n = 8, title = "I Got Plenty o’ Nuttin’", mbid = "acc37438-af72-4617-96f0-be0a886e4546" },
+  { n = 9, title = "I Wants to Stay Here", mbid = "41377472-da71-432b-9899-7dbfdbc8b4da" },
+  { n = 10, title = "Summertime", mbid = "1ef3a1ba-2cdb-4e5f-97a6-31b711cb8154" },
+  { n = 11, title = "Oh Dey’s So Fresh and Fine (Strawberry Woman)", mbid = "c56235ff-5661-4544-8cfc-3d8358959876" },
+  { n = 12, title = "Oh Lawd, I’m on My Way", mbid = "21b23016-087b-47a6-914f-5eb4eb9ba47e" },
+  { n = 13, title = "It Ain’t Necessarily So", mbid = "aadc1e26-5a77-4993-855f-48ed0bcf20b5" },
+  { n = 14, title = "There’s a Boat Dat’s Leavin’ Soon for New York", mbid = "edc6c772-9c60-40e8-a310-9595a948b113" },
+  { n = 15, title = "Bess, Oh Were’s My Bess?", mbid = "3f3eef53-e1b7-471c-b3fb-ca042a681173" },
+  { n = 16, title = "Here Come de Honey Man", mbid = "b26d392d-1a41-4539-a16c-4a9ec6413896" },
+  { n = 17, title = "Bess, You Is My Woman Now", mbid = "1213878a-893f-4e5e-9b9d-6dd02386d6fc" },
+]
+
+[[release]]
+mbid = "945468a1-b140-4292-b674-46360ea912f5"
+title = "Walking The Line"
+type = "album"
+date = "2014-01-31"
+spotify = "202J6MK3C2GBAZKpiQPABP"
+tracks = [
+  { n = 1, title = "I Love You", mbid = "d6e695d7-bced-4313-b53e-b6207361d787" },
+  { n = 2, title = "Rock of Ages", mbid = "16d02636-8292-4198-8bd1-83b687eb6cd8" },
+  { n = 3, title = "Once Upon a Summertime", mbid = "64b9a2aa-834a-4109-8a7e-d24773812bba" },
+  { n = 4, title = "Just Friends", mbid = "93a978bb-5d1d-424f-a3ff-12f9a611f6bc" },
+  { n = 5, title = "Teach Me Tonight", mbid = "e6cb5958-7895-4f98-911f-e5da68030d12" },
+  { n = 6, title = "The Windmills of Your Mind", mbid = "78e1e9df-f70c-4355-bf26-0829af12a6f5" },
+  { n = 7, title = "I Didn't Know What Time It Was", mbid = "2948b377-f48c-4728-9c7b-72a704012e9e" },
+  { n = 8, title = "All of You", mbid = "7ebdc5e1-21e9-4e22-8bc7-89067811a9e8" },
+]
+
+[[release]]
+mbid = "9e12fd48-50b7-41e8-a221-f469817ed18d"
+title = "Merry Christmas and a Happy New Year from Oscar Peterson Trio"
+type = "album"
+date = "2014-04-08"
+tracks = [
+  { n = 1, title = "Waltz for Debby", mbid = "7dca11aa-2872-4478-af15-dd5d854ede70" },
+  { n = 2, title = "This Could Be the Start of Something", mbid = "0bfa8534-440a-49e4-b2a2-f6f3060469ae" },
+  { n = 3, title = "I'm a Fool to Want You", mbid = "1cfcecb3-2a9e-43d2-a91b-a49dcaf209b4" },
+  { n = 4, title = "Six and Four", mbid = "f98e1d91-70b2-41e1-ad35-fee9a03bfab1" },
+  { n = 5, title = "Come Dance With Me", mbid = "5143e1ed-6756-486c-8b79-1d580232d0de" },
+  { n = 6, title = "Tangerine", mbid = "11a5a2c2-33f9-440a-b67e-949ca0a153b4" },
+  { n = 7, title = "Falling in Love With Love", mbid = "f45c7f35-0094-488d-87ab-b4a4e4740b64" },
+  { n = 8, title = "Gravy Waltz", mbid = "bd40dfa4-664b-4d68-8878-903109de691e" },
+  { n = 9, title = "Yours Is My Heart Alone", mbid = "23b6d452-ff59-43f4-812a-34dd5a2f8586" },
+  { n = 10, title = "Baubles, Bangles and Beads", mbid = "fadd4ab4-be45-4f28-a702-9e3b9f0705c8" },
+]
+
+[[release]]
+mbid = "04de4413-e3ee-4fe1-8753-1625cf04edb4"
+title = "Stan Getz and Gerry Mulligan / Stan Getz and the Oscar Peterson Trio"
+type = "album"
+date = "2020-01-24"
+spotify = "4Q0U8YpUSIcQ8cl08SbYkf"
+tracks = [
+  { n = 1, title = "Three Little Words", mbid = "0d66154c-3b0f-469b-88af-14280f84d3f6" },
+  { n = 2, title = "Detour Ahead", mbid = "c03c91fd-aca7-4fee-bc03-36afd402aa61" },
+  { n = 3, title = "Sunday", mbid = "518dd039-b182-4995-9a39-b4ec073d1d2f" },
+  { n = 4, title = "Blues for Herky", mbid = "68d66f38-ffe6-4207-84a2-e5a45ecddc81" },
+  { n = 5, title = "I Didn't Know What Time It Was", mbid = "21d9c616-9d85-4e04-8d6f-afaba459d96a" },
+  { n = 6, title = "Scrapple From the Apple", mbid = "be4c7bea-d194-4351-9f40-ae131f25aeb6" },
+]
+
+[[release]]
+mbid = "6fdc66b7-5dde-4846-830c-9dbeeca7dee8"
+title = "Reunion Blues Live"
+type = "album"
+date = "2020-05-05"
+spotify = "4270ratEPCjhvnDG9dbMi9"
+tracks = [
+  { n = 1, title = "Reunion Blues", mbid = "3c2a5b51-8a2f-4191-8273-249c481c5e95" },
+  { n = 2, title = "The Lamp Is Low", mbid = "90d6fb0d-136d-4973-ae78-b3838f87df93" },
+  { n = 3, title = "Someday My Prince Will Come", mbid = "da525a81-19b4-4951-bbdf-007c464c3226" },
+  { n = 4, title = "Con Alma", mbid = "2c8cd9b3-5924-45ba-a069-f14b139e542c" },
+  { n = 5, title = "Tangerine", mbid = "92324421-8978-46fe-9732-21fa6da40329" },
+  { n = 6, title = "Like Someone in Love", mbid = "3f7dd52f-e508-434e-b56e-d7e7fbedce48" },
+  { n = 7, title = "Satin Doll", mbid = "1a25bc93-6ede-49a9-bbbf-b25367abdb31" },
+  { n = 8, title = "All Right", mbid = "423d13d9-7669-4f5a-ba1a-278ada5fabd7" },
+  { n = 9, title = "Waltz for Debby", mbid = "7b95bd18-65af-4125-a5b4-325b440d3c37" },
+  { n = 10, title = "Noreen's Nocturne", mbid = "23b593e6-5985-4d16-a0b2-515de13d271e" },
+  { n = 11, title = "I Remember Clifford", mbid = "b43e9a54-2889-48cf-9e86-488f4a216265" },
+  { n = 12, title = "Lil' Darlin", mbid = "f708b767-41cb-4286-afa3-b6d04728a561" },
+]
+
+[[release]]
+mbid = "6cad7807-745b-46bd-aa00-a6534e915fc7"
+title = "RTE Radio Broadcast Theatre des Champs-Elysees 25th & 26th April 1964."
+type = "album"
+date = "2020-12-23"
+tracks = [
+  { n = 1, title = "Reunion Blues", mbid = "a2a8c1ae-607e-4ad5-8c40-ed4abb266b7a" },
+  { n = 2, title = "Wheatland", mbid = "b879bfa8-fc9d-44e8-9ec0-d44e27a84dd0" },
+  { n = 3, title = "Nightingale", mbid = "59a37463-9345-4744-b207-59334bf45496" },
+  { n = 4, title = "Hymn To Freedom", mbid = "4bae2c26-d40f-4272-9c1e-9747f2d19dfc" },
+  { n = 5, title = "Yours Is My Heart Alone / Blues For Big Scotia", mbid = "7fd46d46-77c3-49fd-b339-c5d25aa2055d" },
+]
+
+[[release]]
+mbid = "6ca5edb5-a4a5-47c5-a1a4-b642fec19e49"
+title = "At Baker's Keyboard Lounge"
+type = "album"
+date = "2026-04-17"
+tracks = [
+  { n = 1, title = "Politics and Poker", mbid = "9cc57c2f-acc6-4e1e-ae27-4416677f6038" },
+  { n = 2, title = "Dancing on the Ceiling", mbid = "fe47821a-3e1b-4759-8f78-8b5dc86f4d3c" },
+  { n = 3, title = "S'posin'", mbid = "7dac957a-5f9c-4a33-8e7a-a5c5ba3fc590" },
+  { n = 4, title = "Django", mbid = "4c431a4a-1b82-4897-ad27-3a1b27695eb9" },
+  { n = 5, title = "Liza (All the Clouds'll Roll Away)", mbid = "019dd7a7-1e53-42db-b98c-ecce6e0541e6" },
+  { n = 6, title = "Where Do I Go From Here?", mbid = "35321e65-21cc-4ab1-83d7-5ca9aae3aa3c" },
+  { n = 7, title = "Yesterdays", mbid = "b5a0d36f-78bb-4c27-bf5b-99cd320869c7" },
+  { n = 8, title = "Softly, as in a Morning Sunrise", mbid = "0af2e892-6be3-4529-9b21-c2d503d03c99" },
+  { n = 9, title = "The Touch of Your Lips", mbid = "36401556-2b75-48d3-a0ae-622c19c54419" },
+]

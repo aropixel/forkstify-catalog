@@ -1,0 +1,347 @@
+format = 1
+
+[[release]]
+mbid = "446db386-7180-41b2-b532-99215abf2a5f"
+title = "Live to Tell (Dance Pop Mix)"
+type = "single"
+date = "1994-12-01"
+tracks = [
+  { n = 1, title = "Live to Tell", mbid = "77c7b915-7a1a-41f5-87bb-472f3e9bc4d4" },
+]
+
+[[release]]
+mbid = "df993b0c-7858-4a69-a691-20c4af33f83a"
+title = "Love and Pride (Factory Team Classic mix)"
+type = "single"
+date = "1994-12-01"
+tracks = [
+  { n = 1, title = "Love and Pride (Factory Team Classic mix)", mbid = "836b7e5b-bff8-4420-bf57-2e44f036dbf4" },
+]
+
+[[release]]
+mbid = "d16b3b05-6f30-3242-9544-dba1083eb21e"
+title = "Nouvelle Vague"
+type = "album"
+date = "2004-05-11"
+spotify = "5odsgd8X7BBy1azAyyKZGY"
+tracks = [
+  { n = 1, title = "A Forest (KCRW session)", mbid = "443fce4a-dbc7-4b55-b3e1-e637d7894346" },
+  { n = 2, title = "Just Can’t Get Enough (KCRW session)", mbid = "ae7e431b-b17e-425f-b75d-1a293ff09c7e" },
+  { n = 3, title = "Bizarre Love Triangle (KCRW session)", mbid = "d5e09760-d03e-4836-97c3-684f2dafab7d" },
+  { n = 4, title = "This Is Not a Love Song (KCRW session)", mbid = "f64a110b-b38a-458f-8c7e-47c6301df79f" },
+  { n = 5, title = "Making Plans For Nigel (KCRW session)", mbid = "12e7f039-9228-4fbc-804f-c2dc0b6ce341" },
+  { n = 6, title = "Even Fallen In Love (KCRW session)", mbid = "808b3b2a-63f4-47c4-aad0-c3a023f3f7d3" },
+  { n = 7, title = "Guns of Brixton (KCRW session)", mbid = "40cda897-6518-4d63-ac77-925dd521939b" },
+  { n = 8, title = "Love Will Tear Us Apart (KCRW session)", mbid = "1a8b3c57-7266-4718-a855-3dc4218aeb7d" },
+  { n = 9, title = "In a Manner of Speaking (KCRW session)", mbid = "e6d5de16-81b1-4d11-a839-008bc1a846ef" },
+  { n = 10, title = "Mongoloid (KCRW session)", mbid = "d310527f-2d76-4d45-b46e-d47c2b477f88" },
+]
+
+[[release]]
+mbid = "5eb6e9ca-04a5-35c1-88cf-c57bcad6b863"
+title = "EP 1"
+type = "ep"
+date = "2004-06-21"
+tracks = [
+  { n = 1, title = "Love Will Tear Us Apart", mbid = "04dbb940-6f46-4298-8c82-e3bda2cdeacb" },
+  { n = 2, title = "Just Can't Get Enough", mbid = "d339f09f-8af2-4f4a-a536-13a96e102b03" },
+]
+
+[[release]]
+mbid = "ecc86198-3d7e-33c9-bd08-93b5a4f01cc4"
+title = "EP 2"
+type = "ep"
+date = "2004-06-21"
+tracks = [
+  { n = 1, title = "Guns of Brixton", mbid = "eea22499-b931-46d9-afbd-168165170054" },
+  { n = 2, title = "In a Manner of Speaking", mbid = "f205db8c-505d-456a-bc78-f43609a8cb2e" },
+]
+
+[[release]]
+mbid = "0ee3bb5d-d7d0-38f6-a0fd-0bccf28ff0c0"
+title = "I Melt With You / Teenage Kicks"
+type = "single"
+date = "2006-03-20"
+tracks = [
+  { n = 1, title = "I Melt With You", mbid = "f0e4adae-6c2a-437a-9b43-4cbba23eda70" },
+  { n = 2, title = "Teenage Kicks", mbid = "1ecf4ab2-c4f8-41a8-9da9-a458c8b22581" },
+]
+
+[[release]]
+mbid = "3bd05831-be8a-3f9b-a446-a7a754bbfa6d"
+title = "Ever Fallen in Love / Fade to Grey"
+type = "single"
+date = "2006-05-15"
+tracks = [
+  { n = 1, title = "Ever Fallen in Love", mbid = "7788bca5-e510-4663-a323-c8d48c14d4be" },
+  { n = 2, title = "Fade to Grey", mbid = "c6902601-e929-4bad-8006-daa41f5beb1c" },
+]
+
+[[release]]
+mbid = "78d941f2-0a39-3e7a-b2db-d01f3c324ee1"
+title = "The Killing Moon / Dancing With Myself"
+type = "single"
+date = "2006-05-15"
+tracks = [
+  { n = 1, title = "The Killing Moon", mbid = "f757fc41-5d30-46eb-8068-f7d3d9a2cb48" },
+  { n = 2, title = "Dancing With Myself", mbid = "0b894c6e-8c7b-493e-932f-28c365674442" },
+]
+
+[[release]]
+mbid = "bbfd2ed3-aaec-3448-84eb-6a0abbd6ba96"
+title = "Bande à part"
+type = "album"
+date = "2006-06-12"
+tracks = [
+  { n = 1, title = "The Killing Moon", mbid = "f757fc41-5d30-46eb-8068-f7d3d9a2cb48" },
+  { n = 2, title = "Ever Fallen in Love", mbid = "7788bca5-e510-4663-a323-c8d48c14d4be" },
+  { n = 3, title = "Dance With Me", mbid = "e1a5ae9e-eafd-4455-84ea-61d9aab772ff" },
+  { n = 4, title = "Don't Go", mbid = "9f9a7478-84e5-4d16-b8bb-429521f1ca20" },
+  { n = 5, title = "Dancing With Myself", mbid = "0b894c6e-8c7b-493e-932f-28c365674442" },
+  { n = 6, title = "Heart of Glass", mbid = "d630bc2a-0baa-4127-ac08-e2413ceb0392" },
+  { n = 7, title = "O Pamela", mbid = "231ae501-24ef-4616-bd3b-abbcb1845f94" },
+  { n = 8, title = "Blue Monday", mbid = "63486bab-2d65-4065-91d1-f3bfdcd7bef6" },
+  { n = 9, title = "Human Fly", mbid = "07be2ae5-0139-4048-b20b-192815b8cf22" },
+  { n = 10, title = "Bela Lugosi's Dead", mbid = "f8b851b2-9262-4ff0-85b5-9d1a80fd34b8" },
+  { n = 11, title = "Escape Myself", mbid = "b121dc65-8298-4d8f-b6f5-d894a5655458" },
+  { n = 12, title = "Let Me Go", mbid = "9341ed18-8ca6-4ac5-b5e3-be9ef7566e29" },
+  { n = 13, title = "Fade to Grey", mbid = "c6902601-e929-4bad-8006-daa41f5beb1c" },
+  { n = 14, title = "Waves", mbid = "99570d82-106e-490a-aca2-1d4db0f82dfe" },
+  { n = 15, title = "Eisbaer", mbid = "9debd30a-3ac8-4a8d-bef1-9426f750238a" },
+]
+
+[[release]]
+mbid = "44c48a76-70d8-34d2-9548-de9ce5eb872f"
+title = "Eisbär"
+type = "single"
+date = "2006-08-25"
+tracks = [
+  { n = 1, title = "Eisbär", mbid = "9debd30a-3ac8-4a8d-bef1-9426f750238a" },
+  { n = 2, title = "O Pamela", mbid = "231ae501-24ef-4616-bd3b-abbcb1845f94" },
+  { n = 3, title = "Sweet and Tender Hooligan (Live)", mbid = "805cc66a-df84-4a4f-ad43-17053dda3725" },
+]
+
+[[release]]
+mbid = "ca910316-154f-43a6-8ea1-c6b2d4c4559a"
+title = "Come On Eileen (LateNightTales)"
+type = "single"
+date = "2007-02-05"
+tracks = [
+  { n = 1, title = "Come On Eileen", mbid = "075b3909-20b7-47b7-a0a2-927123e1a240" },
+  { n = 2, title = "What I Ate", mbid = "194cf1d0-a671-42e6-8749-42832613c925" },
+]
+
+[[release]]
+mbid = "b7e37009-1329-483c-bcf6-e71617fae32b"
+title = "LaLaLa"
+type = "single"
+date = "2007-05-25"
+tracks = [
+  { n = 1, title = "LaLaLa", mbid = "38ca559d-6b8d-498f-9018-94a88b36978d" },
+]
+
+[[release]]
+mbid = "07337098-805a-48f9-987d-c0f9a096de9f"
+title = "3"
+type = "album"
+date = "2009-06-15"
+spotify = "4Dc1hteL0Flq3oVW3pEa1Y"
+tracks = [
+  { n = 1, title = "Master and Servant", mbid = "c1692a27-59b2-4b63-8eda-2568936e1946" },
+  { n = 2, title = "Blister in the Sun", mbid = "693f58bd-d513-43a8-9f7f-67cc051983bb" },
+  { n = 3, title = "Road to Nowhere", mbid = "23964f5b-20b9-48f6-92e6-76c35b00d41f" },
+  { n = 4, title = "All My Colours", mbid = "63589708-f967-4f53-989f-ff785538ebb7" },
+  { n = 5, title = "The American", mbid = "047a8b75-390b-4a25-a812-6efd9af6cbfa" },
+  { n = 6, title = "Heaven", mbid = "1ca259da-dc46-4cb6-add4-523284605ae3" },
+  { n = 7, title = "Parade", mbid = "d9db2aaa-dcf7-46da-ba36-83bcae085d4a" },
+  { n = 8, title = "Metal", mbid = "c63019e6-4601-40af-9149-e921266ca5bc" },
+  { n = 9, title = "Ça plane pour moi", mbid = "3d069009-7f89-419d-adf1-2caee88cd4c8" },
+  { n = 10, title = "Our Lips Are Sealed", mbid = "d1795327-ecda-4488-82d8-38112ba42c6c" },
+  { n = 11, title = "God Save the Queen", mbid = "4e85ad21-0228-412b-9bc0-3c1e3315a04b" },
+  { n = 12, title = "Say Hello, Wave Goodbye", mbid = "dd1893a2-5685-4cdb-9471-e3f85a16004a" },
+  { n = 13, title = "So Lonely", mbid = "1619945b-7f08-4bc7-963f-96ff7d727bfb" },
+]
+
+[[release]]
+mbid = "e1e880c6-c6f9-4e66-8182-7d8520ae6dbd"
+title = "Couleurs sur Paris"
+type = "album"
+date = "2010-01-01"
+spotify = "6H5IarikP2Ii37Pe7gSf9U"
+tracks = [
+  { n = 1, title = "Voilà les anges", mbid = "4b7c9ac6-f0b8-4356-92fe-c67c3880d99a" },
+  { n = 2, title = "L’Aventurier", mbid = "c08231b2-e409-4011-94a6-2cc3a033c7d0" },
+  { n = 3, title = "Week‐end à Rome", mbid = "deca536b-46ae-45d3-9887-59a187d36691" },
+  { n = 4, title = "Putain putain", mbid = "01eb0f28-9647-41d6-8f95-8cbafc3c327e" },
+  { n = 5, title = "Marcia Baïla", mbid = "7c1bb57a-0468-48cc-b991-9b2b93cc0507" },
+  { n = 6, title = "Anne cherchait l’amour", mbid = "e0cd4dcf-29b4-414b-9e3e-54a89ff1ca87" },
+  { n = 7, title = "Ophélie", mbid = "abeb8ce7-009b-456f-9a3b-f049662cbfe5" },
+  { n = 8, title = "So Young but So Cold", mbid = "927efba9-5ba6-4812-81aa-4f8e412ed299" },
+  { n = 9, title = "Sandy Sandy", mbid = "d308fee7-f818-4b85-85e0-2f65f00e81c2" },
+  { n = 10, title = "Mala vida", mbid = "bb901183-c124-4ed2-9508-c92c10a2cca7" },
+  { n = 11, title = "Oublions l’Amérique", mbid = "9c235b26-d76f-4ead-a417-952a6ddab76f" },
+  { n = 12, title = "Amoureux solitaires", mbid = "e10fbef7-bf73-4d34-a4da-058d950d44e0" },
+  { n = 13, title = "Two People in a Room", mbid = "da1e9f44-b9dd-4b7e-a6cd-4eb32242f124" },
+  { n = 14, title = "Sur ma mob", mbid = "a7d91dbf-ad0f-4562-8a00-a344a849b6a3" },
+  { n = 15, title = "Déréglée", mbid = "a827623b-6772-4649-a77c-c52d60566953" },
+  { n = 16, title = "Je suis déjà parti", mbid = "c27815be-027a-46d4-afc4-6421d02f01a0" },
+]
+
+[[release]]
+mbid = "f6e94570-0488-4191-8a0f-a1ce43caf931"
+title = "Athol Brose"
+type = "ep"
+date = "2016-09-02"
+tracks = [
+  { n = 1, title = "Athol Brose", mbid = "a1e7d2d6-c1e6-47d2-b4aa-da009d0bc276" },
+  { n = 2, title = "La Pluie et le Beau Temps", mbid = "0c82f705-5068-44cd-b852-55a8e63d727c" },
+  { n = 3, title = "Love Will Tear Us Apart (Dream Koala remix)", mbid = "7a58ddea-04f7-439e-8039-3631fdedf41d" },
+  { n = 4, title = "Ever Fallen in Love", mbid = "4a752aa6-1a70-4c4a-92d1-463120fcd00f" },
+]
+
+[[release]]
+mbid = "60e92eb3-d73d-48aa-acf5-eaac79dcd12a"
+title = "I Could Be Happy"
+type = "album"
+date = "2016-11-04"
+spotify = "6yJVZEa8WVUBGVso0Uez2x"
+tracks = [
+  { n = 1, title = "Athol-Brose", mbid = "a1e7d2d6-c1e6-47d2-b4aa-da009d0bc276" },
+  { n = 2, title = "Love Comes in Spurts", mbid = "c9b5fe41-d1fe-479f-90e2-33fb7b16a92b" },
+  { n = 3, title = "I Wanna Be Sedated", mbid = "bba9f4f2-4d0d-472e-8b49-2821f41f91c7" },
+  { n = 4, title = "I Could Be Happy", mbid = "ecce5278-9a9b-4bda-a2ba-0b73dc4c1683" },
+  { n = 5, title = "All Cats Are Grey", mbid = "e0af4785-f06c-4fd4-898a-c8fe6ced3e9c" },
+  { n = 6, title = "No One Is Receiving", mbid = "33dc7040-e7f2-4231-84da-20109cdc885b" },
+  { n = 7, title = "Maladroit", mbid = "cba1a5fc-edf5-4b2e-a887-306a8bc0b34f" },
+  { n = 8, title = "Algo Familiar", mbid = "9b0d3909-56ac-4220-a2d2-9b461b7a4e2b" },
+  { n = 9, title = "Loneliness", mbid = "c70d60e3-210c-4008-a2ba-d3bfc9cd4884" },
+  { n = 10, title = "La Pluie et le beau Temps", mbid = "0c82f705-5068-44cd-b852-55a8e63d727c" },
+]
+
+[[release]]
+mbid = "c027f6ba-f207-4bca-9c29-08e124ff7759"
+title = "Algo Familiar"
+type = "single"
+date = "2017-11-24"
+spotify = "3BEsfyYUPwqPff8CdIIhDX"
+tracks = [
+  { n = 1, title = "Algo Familiar", mbid = "9b0d3909-56ac-4220-a2d2-9b461b7a4e2b" },
+  { n = 2, title = "I Could Be Happy (Saycet remix)", mbid = "cad4477d-133c-446a-bd26-122b4c76972b" },
+]
+
+[[release]]
+mbid = "1248d6eb-6e14-49ee-bedc-8412cdbf8f8e"
+title = "Night Shift"
+type = "single"
+date = "2023-07-24"
+tracks = [
+  { n = 1, title = "Night Shift", mbid = "1652cd31-a772-444d-acdc-03fb0c1b6121" },
+]
+
+[[release]]
+mbid = "bf13edc9-07b4-4c63-8427-e8fa650ca396"
+title = "Shout"
+type = "single"
+date = "2024-01-16"
+tracks = [
+  { n = 1, title = "Shout", mbid = "387c9ad7-3922-4d62-b72c-e6ad4c5d229f" },
+  { n = 2, title = "Only You", mbid = "d90c5ae1-28d2-4847-b549-a29446d5a8e4" },
+]
+
+[[release]]
+mbid = "c7ccd87b-6aac-42ea-9b6c-e5f7c38837bb"
+title = "Should I Stay or Should I Go"
+type = "album"
+date = "2024-02-16"
+spotify = "24u41k1HrbUwvSWYKQcx4T"
+tracks = [
+  { n = 1, title = "What I Like Most About You is Your Girlfriend", mbid = "478739d9-7ea0-41e3-b9d6-336edb24d94d" },
+  { n = 2, title = "People are People", mbid = "04b8de2c-178b-496f-8bd7-0dd93fe9d1a4" },
+  { n = 3, title = "You Spin Me Round", mbid = "1954f72d-323b-4d5d-8bd7-1ba405e80ec0" },
+  { n = 4, title = "Only You", mbid = "2f2ab600-af11-428d-b7c4-85e2cc6ff20f" },
+  { n = 5, title = "She’s in Parties", mbid = "50aa4254-49d8-4939-b6cc-104f53c3fb61" },
+  { n = 6, title = "The Look of Love", mbid = "49af77c8-8ed6-4b03-8b19-b5dc1cd19451" },
+  { n = 7, title = "Shout", mbid = "7acd371a-ff66-4cdf-8e5f-2662f55c105b" },
+  { n = 8, title = "Should I Stay or Should I Go?", mbid = "22ac3f1f-1b18-4cad-b466-87d098d267ea" },
+  { n = 9, title = "Rebel Yell", mbid = "c485fe69-39c8-4092-bbdb-c64fc9949de0" },
+  { n = 10, title = "Breakfast", mbid = "5699a2fd-8742-46a3-8dfd-44423b204f68" },
+  { n = 11, title = "Girls on Film", mbid = "c355036b-37bb-47c8-bb6e-43161c4b3e54" },
+  { n = 12, title = "Rapture", mbid = "939e5bfe-337c-46d2-b6cd-78d1d38d84d6" },
+  { n = 13, title = "This Charming Man", mbid = "23f06bcb-8d9c-4328-8416-b17b8876b936" },
+]
+
+[[release]]
+mbid = "4a64468c-cf82-432d-8fc9-098cf132f0b7"
+title = "BAD"
+type = "single"
+date = "2024-08-12"
+tracks = [
+  { n = 1, title = "BAD", mbid = "7a521294-1077-470d-8975-35795d4dc3f3" },
+]
+
+[[release]]
+mbid = "4911d10f-3af7-453e-a72c-952edc486cae"
+title = "Bleu comme toi"
+type = "single"
+date = "2024-08-30"
+tracks = [
+  { n = 1, title = "Bleu comme toi", mbid = "c4731543-2b07-40c1-a6d5-9f015f871ba9" },
+]
+
+[[release]]
+mbid = "9433b503-3803-455f-84a4-eb493f334dfd"
+title = "Drôle de vie"
+type = "single"
+date = "2024-10-18"
+tracks = [
+  { n = 1, title = "Drôle de vie", mbid = "9e5830b3-c3e3-42ed-be10-fdbaafc06964" },
+]
+
+[[release]]
+mbid = "a21a7c85-95a3-476a-b0fa-31b3a3a37f3e"
+title = "The Power of Love"
+type = "single"
+date = "2024-11-13"
+tracks = [
+  { n = 1, title = "The Power of Love", mbid = "3e40a800-29bc-4b06-aaa2-4bf5df7eb55d" },
+]
+
+[[release]]
+mbid = "a52678cf-bd99-45c8-9c15-a02984711496"
+title = "Do You Really Want To Hurt Me"
+type = "single"
+date = "2025-02-10"
+spotify = "3G6U5RUmv62g83By4TF3nA"
+tracks = [
+  { n = 1, title = "Do You Really Want to Hurt Me", mbid = "b69acce5-89f2-42cf-bfbe-8aaad3ef6a7f" },
+]
+
+[[release]]
+mbid = "c6f4265a-e6cf-4833-8aa7-be0114dd274a"
+title = "Enjoy the Silence"
+type = "single"
+date = "2026-06-03"
+tracks = [
+  { n = 1, title = "Enjoy the Silence", mbid = "98163731-124d-493c-95a2-f21d46c1b11f" },
+]
+
+[[release]]
+mbid = "dbff1ed6-1c6a-4756-960f-82abb830ce1f"
+title = "A Date with Depeche Mode"
+type = "album"
+date = "2026-10-30"
+tracks = [
+  { n = 1, title = "Enjoy the Silence", mbid = "98163731-124d-493c-95a2-f21d46c1b11f" },
+  { n = 2, title = "Never Let Me Down Again", mbid = "d24c3b65-bc3f-4227-a292-baff2cbab04d" },
+  { n = 3, title = "Only When I Lose Myself", mbid = "c3e8f05c-8b74-4672-a651-f325402de4af" },
+  { n = 4, title = "Shake the Disease", mbid = "aabf5e04-2d71-48c8-b8ce-a784bcebf658" },
+  { n = 5, title = "A Question of Lust", mbid = "62a2d1ef-3c3f-4963-835e-9301854d9e13" },
+  { n = 6, title = "Behind the Wheel", mbid = "677a1969-c4e4-42ba-8c0f-6f476c411629" },
+  { n = 7, title = "Personal Jesus", mbid = "b55191d0-71ea-4ab2-973b-8cea77681f3a" },
+  { n = 8, title = "Halo", mbid = "4b0da143-71a9-40f4-9ee3-3ed6b140a7bf" },
+  { n = 9, title = "Leave in Silence", mbid = "3fcce3a9-cc90-44f6-a671-2ed7ad2b3a74" },
+  { n = 10, title = "Any Second Now", mbid = "3154fbfd-0b1c-4c70-8975-01f22d6e451c" },
+  { n = 11, title = "Just Can't Get Enough", mbid = "f7bb2ee3-7683-42dd-9c3f-60732eaf15ae" },
+  { n = 12, title = "Stripped", mbid = "a2a7524a-2912-4fcb-b082-ec903f82bfb3" },
+  { n = 13, title = "Ice Machine", mbid = "1f9c77b9-c30b-4c46-93f4-98f410b225c8" },
+]

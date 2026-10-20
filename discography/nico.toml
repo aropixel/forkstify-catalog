@@ -1,0 +1,204 @@
+format = 1
+
+[[release]]
+mbid = "8b74c7ff-2f7f-3b8a-85f4-f69c9e0ae10c"
+title = "I’m Not Sayin / The Last Mile"
+type = "single"
+date = "1965-08-19"
+tracks = [
+  { n = 1, title = "I’m Not Sayin", mbid = "dc6925fb-e4c6-4d99-bd9a-0f0adda5b5b9" },
+  { n = 2, title = "The Last Mile", mbid = "0e03443a-d7bb-4d53-8ff7-9e3aa382cd14" },
+]
+
+[[release]]
+mbid = "65323b00-e2b6-37e0-bebc-b6b4033780ab"
+title = "All Tomorrow’s Parties / I’ll Be Your Mirror"
+type = "single"
+date = "1966-07"
+tracks = [
+  { n = 1, title = "All Tomorrow’s Parties", mbid = "41d13e52-f4c2-4939-8aac-f26da3ba1e4b" },
+  { n = 2, title = "I’ll Be Your Mirror", mbid = "9af03ec8-6b7d-4b4e-8e64-5967d084eb9a" },
+]
+
+[[release]]
+mbid = "a391b4bb-eee7-3eb1-b225-6ee901eb47f7"
+title = "Sunday Morning / Femme Fatale"
+type = "single"
+date = "1966-12"
+tracks = [
+  { n = 1, title = "Sunday Morning", mbid = "5187616d-baf0-4aff-b650-25ff32ab19d8" },
+  { n = 2, title = "Femme Fatale", mbid = "5020a167-874c-4295-b995-f481314d5e9e" },
+]
+
+[[release]]
+mbid = "5cbd9d7b-597a-3c5e-bfd1-c2b364215560"
+title = "The Velvet Underground & Nico"
+type = "album"
+date = "1967-03"
+spotify = "4xwx0x7k6c5VuThz5qVqmV"
+tracks = [
+  { n = 1, title = "Sunday Morning", mbid = "f0d80089-d2b5-40b3-8359-1b0b752249ba" },
+  { n = 2, title = "I’m Waiting for the Man", mbid = "2236688e-d48e-441a-a5bf-57a2c847f62e" },
+  { n = 3, title = "Femme Fatale", mbid = "7778a905-27a7-49b3-adee-d5d7a0ddeb12" },
+  { n = 4, title = "Venus in Furs", mbid = "b38283c0-552d-44c0-b08c-681826e297dd" },
+  { n = 5, title = "Run Run Run", mbid = "cd7749c5-8d67-4f43-94ea-cc8c2e4be415" },
+  { n = 6, title = "All Tomorrow’s Parties", mbid = "c0b5d1e6-5e90-4aa1-9274-c57dea327452" },
+  { n = 7, title = "Heroin", mbid = "1c27e38f-3d61-4b31-ad1c-eeb9a48a8418" },
+  { n = 8, title = "There She Goes Again", mbid = "e78b4430-cec3-4d21-b7a5-413f703c37ac" },
+  { n = 9, title = "I’ll Be Your Mirror", mbid = "27abbab8-834e-44ff-b170-f3e34de8a942" },
+  { n = 10, title = "The Black Angel’s Death Song", mbid = "166d5156-09e8-4cc7-a777-3f7d11fe3bfb" },
+  { n = 11, title = "European Son", mbid = "0f4bd780-01b5-451f-9c8f-f741a6c10f5e" },
+]
+
+[[release]]
+mbid = "ffa420fb-1bb3-3b67-8577-165429008835"
+title = "Chelsea Girl"
+type = "album"
+date = "1967-10"
+spotify = "6O62Cqi0YqOytEbFmeLyjU"
+tracks = [
+  { n = 1, title = "The Fairest of the Seasons", mbid = "4f45fc15-168f-4199-b4ae-15b908c6c749" },
+  { n = 2, title = "These Days", mbid = "db571671-ddb0-44f3-9e1d-221a6a884b07" },
+  { n = 3, title = "Little Sister", mbid = "f4c0eb73-368b-43d3-89e1-9a8fa866dff7" },
+  { n = 4, title = "Winter Song", mbid = "1d21cd07-bb63-4f27-b999-809d3b480195" },
+  { n = 5, title = "It Was a Pleasure Then", mbid = "6757218f-affb-4301-8b4f-d00cd92e5991" },
+  { n = 6, title = "Chelsea Girls", mbid = "5314150c-b385-4db4-bd09-f0f3d0ebfed9" },
+  { n = 7, title = "I'll Keep It With Mine", mbid = "8b66f9de-7ee6-4aed-94a0-3fad9e8c7d0e" },
+  { n = 8, title = "Somewhere There's a Feather", mbid = "10406d3a-d752-4806-b219-2aae4673bfb4" },
+  { n = 9, title = "Wrap Your Troubles in Dreams", mbid = "e493633d-388f-46ea-8ac8-2b00c5a58fec" },
+  { n = 10, title = "Eulogy to Lenny Bruce", mbid = "babb1d60-7f4f-4d9b-b4cf-b99546b6d7c7" },
+]
+
+[[release]]
+mbid = "3050773a-bf29-4fa7-84c8-6f975c3c24b4"
+title = "The Marble Index"
+type = "album"
+date = "1968-09-19"
+spotify = "3loiESaJCNxhBfNN1urGA8"
+tracks = [
+  { n = 1, title = "Prelude", mbid = "867f785a-3915-422b-934c-0e2258cd272a" },
+  { n = 2, title = "Lawns of Dawns", mbid = "45bf51e9-629b-47bb-9a14-8facbe55d87f" },
+  { n = 3, title = "No One Is There", mbid = "8a6b0bad-cf87-49af-b4f6-ac1c511df004" },
+  { n = 4, title = "Ari's Song", mbid = "0fa5eae6-9901-4d3b-9ed4-0e0b3562dfb2" },
+  { n = 5, title = "Facing the Wind", mbid = "798e4ac8-00d3-4c73-a74e-cf80fbba181f" },
+  { n = 6, title = "Julius Caesar (Memento Hodie)", mbid = "7e193fa7-025c-4747-a166-00ace5352175" },
+  { n = 7, title = "Frozen Warnings", mbid = "752ab62d-e48c-4300-b9d7-450f141052ff" },
+  { n = 8, title = "Evening of Light", mbid = "8951a374-f87b-4729-a410-db1b69f8a029" },
+]
+
+[[release]]
+mbid = "8c6a8264-be71-33ea-b94f-02c6f83dc6f9"
+title = "Desertshore"
+type = "album"
+date = "1970-12-20"
+spotify = "6qPIn2oZYFyJa2ORv9rAyh"
+tracks = [
+  { n = 1, title = "Janitor of Lunacy", mbid = "af4c3a4c-9524-4d21-a329-bdfd7882197c" },
+  { n = 2, title = "The Falconer", mbid = "a13d330e-834b-4d45-b93a-e31fc3c3d498" },
+  { n = 3, title = "My Only Child", mbid = "a8c6a3bf-c0bd-4105-bc86-d362928a5f00" },
+  { n = 4, title = "Le Petit Chevalier", mbid = "f15c0a56-8f28-4cf3-ab00-a5821a0f9e56" },
+  { n = 5, title = "Abschied", mbid = "c48db9a0-4c80-4a61-8d5e-d239168c8521" },
+  { n = 6, title = "Afraid", mbid = "3dc366fd-b565-4c31-aac0-01784927ff08" },
+  { n = 7, title = "Mütterlein", mbid = "b64f3582-b074-419e-aad6-6dd5a3529455" },
+  { n = 8, title = "All That Is My Own", mbid = "ff66aed7-a54d-4419-b3a7-c44b586bb03d" },
+]
+
+[[release]]
+mbid = "24cb805d-b6ca-3cf2-860f-e2426829cd1d"
+title = "The End…"
+type = "album"
+date = "1974-11-01"
+tracks = [
+  { n = 1, title = "It Has Not Taken Long", mbid = "499cae00-41e7-4080-bcf4-7a1527c74213" },
+  { n = 2, title = "Secret Side", mbid = "ce0bed08-33e8-475d-8fe8-56b3a918c044" },
+  { n = 3, title = "You Forgot to Answer", mbid = "beda91e6-2a40-40fd-a72b-09a8361ed3bb" },
+  { n = 4, title = "Innocent and Vain", mbid = "a6748d9c-7f82-4b3f-afd8-de070154e796" },
+  { n = 5, title = "Valley of the Kings", mbid = "3482a161-7903-4844-b036-e8b97b41e344" },
+  { n = 6, title = "We’ve Got the Gold", mbid = "d743def2-5101-4689-b30a-7f0a27113457" },
+  { n = 7, title = "The End", mbid = "0224a3f0-4764-489c-9869-023bea9cdbd5" },
+  { n = 8, title = "Das Lied der Deutschen", mbid = "92fa6d4b-797c-4169-a7e1-d972dd4f8054" },
+]
+
+[[release]]
+mbid = "378454c1-2fc0-4bf7-afc0-88b2a59b5035"
+title = "Drama of Exile"
+type = "album"
+date = "1981-07"
+spotify = "0Xc19liTjnLOc5Bv93AV0r"
+tracks = [
+  { n = 1, title = "Genghis Khan", mbid = "d50fb0f4-015c-40e5-a6fd-8886fae2e378" },
+  { n = 2, title = "Purple Lips", mbid = "87f612b9-38ce-4d76-9bd9-3303578f2ef8" },
+  { n = 3, title = "One More Chance", mbid = "5c77a963-6114-4142-93e0-269baf1b90d1" },
+  { n = 4, title = "Henry Hudson", mbid = "ff4f878c-414c-40b6-853a-5c63890155ca" },
+  { n = 5, title = "Waiting for the Man", mbid = "269a2c26-5f87-4a4a-bc38-8fb0d2311f26" },
+  { n = 6, title = "Sixty Forty", mbid = "bb322d0c-9aac-4ed6-898e-3783b335637f" },
+  { n = 7, title = "The Sphinx", mbid = "a6bb5efc-a1b6-435a-8ef0-710eac190019" },
+  { n = 8, title = "Orly Flight", mbid = "263d98d9-3b61-4be0-a791-303b780e670f" },
+  { n = 9, title = "Heroes", mbid = "1045eae2-7eed-4248-8d10-6b23d96747f3" },
+]
+
+[[release]]
+mbid = "9deceead-4096-44b1-89fc-8a71cc1e8446"
+title = "Heroes"
+type = "single"
+date = "1983-06"
+tracks = [
+  { n = 1, title = "Heroes", mbid = "717361ed-1cc9-4cca-83ca-38f35ab6d9ad" },
+  { n = 2, title = "One More Chance", mbid = "5c77a963-6114-4142-93e0-269baf1b90d1" },
+]
+
+[[release]]
+mbid = "dc0af0a1-70c2-4f63-8ab3-f92bfff6b552"
+title = "The Drama of Exile"
+type = "album"
+date = "1983-07"
+tracks = [
+  { n = 1, title = "One More Chance", mbid = "4f17dedb-55ab-472d-87e8-3394bf556545" },
+  { n = 2, title = "The Sphinx", mbid = "5c5581c2-cc47-4a29-bff1-eb813de40191" },
+  { n = 3, title = "Saeta", mbid = "3bfd2ffd-26dc-4a71-a2ec-06adeb494801" },
+  { n = 4, title = "Genghis Khan", mbid = "f257ae4e-a75f-4be2-931a-4b52a1a07700" },
+  { n = 5, title = "Heroes", mbid = "7571b29f-99f6-405c-8f98-88e08e730a5d" },
+  { n = 6, title = "Henry Hudson", mbid = "8041974b-edd8-43b5-bd06-fc19a0a97265" },
+  { n = 7, title = "60/40", mbid = "7c56de72-4171-41af-b549-111e184ed7f2" },
+  { n = 8, title = "Orly Flight", mbid = "67a56496-8555-42cc-a036-888cf08025f9" },
+  { n = 9, title = "Vegas", mbid = "398a2a22-405a-4edd-b76a-9e9af662a5a8" },
+  { n = 10, title = "I'm Waiting for the Man", mbid = "7e538112-8a0c-4ff1-8db5-5ec8c2d943df" },
+]
+
+[[release]]
+mbid = "d3ef134e-6ca2-4e9a-9a5c-584a11aca6c7"
+title = "My Funny Valentine"
+type = "single"
+date = "1985-06-28"
+tracks = [
+  { n = 1, title = "My Funny Valentine", mbid = "dc9da65c-57a7-47f7-8ab4-c178cc3c1d0c" },
+  { n = 2, title = "My Heart Is Empty", mbid = "0be2d545-325e-4b13-afce-fb5036905163" },
+]
+
+[[release]]
+mbid = "36517072-70f1-3b92-84ec-99e97db1452a"
+title = "Camera Obscura"
+type = "album"
+date = "1985-07-12"
+tracks = [
+  { n = 1, title = "Camera Obscura", mbid = "15d50257-2f35-4a95-a942-8e01e280ab5f" },
+  { n = 2, title = "Tananore", mbid = "d95df991-e14b-4a6f-bced-7e0405c5af04" },
+  { n = 3, title = "Win a Few", mbid = "8adcf326-8a43-464e-a522-ee7496f94995" },
+  { n = 4, title = "My Funny Valentine", mbid = "f00313fa-da82-4509-b06e-92a68198ebc5" },
+  { n = 5, title = "Das Lied von einsanen Mädchens", mbid = "3da12b44-e61d-451f-acfd-a044e4a91f04" },
+  { n = 6, title = "Fearfully in Danger", mbid = "3d013a60-590c-425d-b63f-f7a2c3de108a" },
+  { n = 7, title = "My Heart Is Empty", mbid = "901addd5-bc36-4e4a-a359-f0a1978ef997" },
+  { n = 8, title = "Into the Arena", mbid = "36d04003-86a5-4696-9904-4fd82b2534fb" },
+  { n = 9, title = "König", mbid = "ba8d3590-d8db-4b2c-964c-841466d0c287" },
+]
+
+[[release]]
+mbid = "d57fd9a3-d8b5-377f-bcf7-38cc106b3395"
+title = "Reich der Träume"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Reich der Träume", mbid = "a87013b0-8c8a-46c6-b673-1bf26ec8befa" },
+  { n = 2, title = "Reich der Träume (remix)", mbid = "8ea2f05d-0c6e-4cc4-9a8c-9d6987f2f445" },
+  { n = 3, title = "Reich der Träume (radio edit)", mbid = "deef4163-4513-4f6d-a4f3-163b664ddca4" },
+]

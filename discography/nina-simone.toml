@@ -1,0 +1,726 @@
+format = 1
+
+[[release]]
+mbid = "19ca48c1-af98-3000-bc9a-97ef5fa3e3be"
+title = "Little Girl Blue"
+type = "album"
+date = "1958-06-24"
+spotify = "58gOQaPc4RCw8eWdTDRes7"
+tracks = [
+  { n = 1, title = "Mood Indigo", mbid = "27c49e38-69b8-48ae-bf8e-0f6f0afad3d3" },
+  { n = 2, title = "Don’t Smoke in Bed", mbid = "421ee3bc-7da1-4e92-bd24-4a9d77e26300" },
+  { n = 3, title = "He Needs Me", mbid = "d970015a-3b3f-41bc-8c5c-843969af6e1d" },
+  { n = 4, title = "Little Girl Blue", mbid = "b9c130ff-9c7f-4ef6-9d44-943f67683004" },
+  { n = 5, title = "Love Me or Leave Me", mbid = "2773d0b5-cb8a-4f48-a0da-4f673cedca13" },
+  { n = 6, title = "My Baby Just Cares for Me", mbid = "a2c3d299-167c-47d4-ae4a-2f8b607645c6" },
+  { n = 7, title = "Good Bait", mbid = "721a4b68-2e91-4780-8e42-6c0fa9315ab7" },
+  { n = 8, title = "Plain Gold Ring", mbid = "dd0dae0c-4d13-4302-8dc8-beae52f450db" },
+  { n = 9, title = "You’ll Never Walk Alone", mbid = "10d72b72-3094-422f-b04d-8401f2dbac71" },
+  { n = 10, title = "Porgy", mbid = "87c06608-a5f9-40b8-84ec-92c2a4b86ebb" },
+  { n = 11, title = "Central Park Blues", mbid = "02676543-7534-4ea2-830b-e2cd49deb43d" },
+]
+
+[[release]]
+mbid = "d06e8f13-c57f-3b4a-a417-e28f75cc9440"
+title = "The Amazing Nina Simone"
+type = "album"
+date = "1959"
+spotify = "4JkBP8M8fQdsxbmR1rlAMj"
+tracks = [
+  { n = 1, title = "Blue Prelude", mbid = "4e4a941c-2ab5-4337-a4c8-cfb3bb4cfbad" },
+  { n = 2, title = "Children Go Where I Send You", mbid = "689c090b-e27d-42c8-a8de-3f6e765384ff" },
+  { n = 3, title = "Tomorrow (We Will Meet Once More)", mbid = "e8e92d11-9251-49b8-ae2c-cc39bfd95c1f" },
+  { n = 4, title = "Stompin’ at the Savoy", mbid = "8c686073-d6ae-44bb-90f5-2bd53889ea39" },
+  { n = 5, title = "It Might as Well Be Spring", mbid = "2719a1bc-73e1-4c37-8556-fee09d9430bc" },
+  { n = 6, title = "You’ve Been Gone Too Long", mbid = "0ac2421d-a87e-4667-a42b-79baf28a5ff3" },
+  { n = 7, title = "That’s Him Over There", mbid = "efe7f054-768e-44c7-9750-1b1723f1600a" },
+  { n = 8, title = "Chilly Winds Don’t Blow", mbid = "54e0bec3-070e-4e4f-b2f5-46ece34bb88e" },
+  { n = 9, title = "Theme from “Middle of the Night”", mbid = "57e483e8-d50f-4f34-9bab-c32a7670689f" },
+  { n = 10, title = "Can’t Get Out of This Mood", mbid = "72d35529-34f5-44ff-a21c-2914fd3a5e71" },
+  { n = 11, title = "Willow Weep for Me", mbid = "0d56fdb1-4362-4756-ac8a-f91b0f045f41" },
+  { n = 12, title = "Solitaire", mbid = "8e64bc42-cdbf-4ee2-bd0f-5fb9802eb353" },
+]
+
+[[release]]
+mbid = "dff9b302-3fe6-49ad-a014-c6f39b4c0ab1"
+title = "Central Park"
+type = "single"
+date = "1960"
+tracks = [
+  { n = 1, title = "Central Park", mbid = "02676543-7534-4ea2-830b-e2cd49deb43d" },
+  { n = 2, title = "He's got the whole world in his hands", mbid = "2a89921b-4ab7-4cdf-8bca-5751dcc2c995" },
+]
+
+[[release]]
+mbid = "986fb2cb-9093-4c6a-8221-dbc132faa240"
+title = "Don’t Smoke in Bed / African Mailman"
+type = "single"
+date = "1960"
+tracks = [
+  { n = 1, title = "Don’t Smoke in Bed", mbid = "f9f42eab-fd18-47e1-a464-2c5edecc2250" },
+  { n = 2, title = "African Mailman", mbid = "0bf3365c-8b02-4f51-9908-90dc71c2d2f7" },
+]
+
+[[release]]
+mbid = "b41b008f-d987-419f-8a5f-5d1b814fcc6f"
+title = "Nobody Knows You When You’re Down And Out"
+type = "single"
+date = "1960"
+tracks = [
+  { n = 1, title = "Nobody Knows You When You’re Down and Out", mbid = "5b81ffa6-59c5-4a34-8411-9206857fbb38" },
+  { n = 2, title = "Black Is the Color of My True Love’s Hair", mbid = "55f5c44f-78f5-48e3-97d7-925942023137" },
+]
+
+[[release]]
+mbid = "a1592306-01c0-4fce-9b1e-9a8cb6351f41"
+title = "Since My Love Has Gone"
+type = "single"
+date = "1960"
+tracks = [
+  { n = 1, title = "Since My Love Has Gone", mbid = "3f37cf3c-6a26-4665-a627-ac58efb0306c" },
+  { n = 2, title = "Tomorrow (We Shall Meet Once More)", mbid = "e8e92d11-9251-49b8-ae2c-cc39bfd95c1f" },
+]
+
+[[release]]
+mbid = "c6c17f7e-b5fc-4ab9-8af1-aae79c7a2da7"
+title = "For all we know"
+type = "single"
+date = "1960-02"
+tracks = [
+  { n = 1, title = "For all we know", mbid = "39e3b980-aace-4c1f-b9cb-958c79ae794a" },
+  { n = 2, title = "Good bait", mbid = "f3fb51db-31bb-4342-b0d8-e796f5f58ecf" },
+]
+
+[[release]]
+mbid = "ac89578a-1e4d-4737-9875-cd84a1ed8d01"
+title = "Come on Back, Jack / You've Been Gone Too Long"
+type = "single"
+date = "1961"
+tracks = [
+  { n = 1, title = "Come on Back, Jack", mbid = "e7b1e4b5-6355-46cb-86fc-e00b7a564cd3" },
+  { n = 2, title = "You've Been Gone Too Long", mbid = "0ac2421d-a87e-4667-a42b-79baf28a5ff3" },
+]
+
+[[release]]
+mbid = "49d04c21-e3f6-399a-a4df-79a876259e8a"
+title = "Forbidden Fruit"
+type = "album"
+date = "1961"
+spotify = "0sEbfFIU1tqV99rjnnqPZS"
+tracks = [
+  { n = 1, title = "Rags and Old Iron", mbid = "5c649b73-20eb-4636-a91d-7ebe0582bb06" },
+  { n = 2, title = "No Good Man", mbid = "c601e532-8987-4cb6-89da-3d1db39e9912" },
+  { n = 3, title = "Gin House Blues", mbid = "bfb52b7d-d4a5-49cc-b0a5-b7a74931902e" },
+  { n = 4, title = "I'll Look Around", mbid = "e5fcfa8a-5253-4bb0-a59e-c37341cac855" },
+  { n = 5, title = "I Love to Love", mbid = "323c4166-052b-403f-b97f-398362c7c202" },
+  { n = 6, title = "Work Song", mbid = "158f3820-85af-48f2-83fd-f881b7fec20a" },
+  { n = 7, title = "Where Can I Go Without You", mbid = "6f897daa-505c-4965-b9a7-f32d22c187b6" },
+  { n = 8, title = "Just Say I Love Him", mbid = "a22c74c3-f76e-4b09-8b77-603a8a246d54" },
+  { n = 9, title = "Memphis in June", mbid = "5a54eb28-da49-4abc-89e9-f3a42d17b3f4" },
+  { n = 10, title = "Forbidden Fruit", mbid = "366c2918-3f8e-4f9c-a895-bc000bf37504" },
+]
+
+[[release]]
+mbid = "57c8810a-8238-4504-aff9-d75fc38d5a35"
+title = "I Got It Bad"
+type = "single"
+date = "1962"
+tracks = [
+  { n = 1, title = "I Got It Bad", mbid = "9f54b40e-ecfa-46ce-9548-43db9cdea877" },
+  { n = 2, title = "I Want a Little Sugar in My Bowl", mbid = "ef37dd39-1304-4ab0-9545-88ab7e82ae74" },
+]
+
+[[release]]
+mbid = "ddc6a917-31ce-366e-a344-290671667b30"
+title = "My Baby Just Cares for Me"
+type = "single"
+date = "1962"
+spotify = "4uxePThbwXFBvfuSGaaVw6"
+tracks = [
+  { n = 1, title = "My Baby Just Cares for Me", mbid = "a2c3d299-167c-47d4-ae4a-2f8b607645c6" },
+  { n = 2, title = "He Needs Me", mbid = "d970015a-3b3f-41bc-8c5c-843969af6e1d" },
+]
+
+[[release]]
+mbid = "62bd0a78-fb3c-3043-b44f-fe7f29003cf6"
+title = "Nina Simone Sings Ellington"
+type = "album"
+date = "1962"
+spotify = "4O1uLlNwEIVbwUXrpKL7rB"
+tracks = [
+  { n = 1, title = "Do Nothin’ ’til You Hear From Me", mbid = "f64bf741-6aa7-48e0-b582-ebe82db53b6b" },
+  { n = 2, title = "I Got It Bad", mbid = "cd5edbf9-9352-4c55-85c5-29fc308522ec" },
+  { n = 3, title = "Hey, Buddy Bolden", mbid = "673233fa-b05d-4f77-ace4-35a3fbcc6579" },
+  { n = 4, title = "Merry Mending", mbid = "38ad70c1-a6fd-440d-9e96-2111ef5da4da" },
+  { n = 5, title = "Something to Live For", mbid = "75f8458b-56f4-444c-a385-7a24e46af69d" },
+  { n = 6, title = "You Better Know It", mbid = "7cd0158c-fbb3-425b-837a-617e48ec9baa" },
+  { n = 7, title = "I Like the Sunrise", mbid = "436da8c6-a180-4f6e-bc9d-a863ebda466c" },
+  { n = 8, title = "Solitude", mbid = "3be23b46-5040-4932-81e4-66f2771c52ae" },
+  { n = 9, title = "The Gal From Joe’s", mbid = "53dbb85e-0422-44c3-9ced-b84356f7f462" },
+  { n = 10, title = "Satin Doll", mbid = "a5777a8d-e836-4e55-8412-6fa000491682" },
+  { n = 11, title = "It Don’t Mean a Thing", mbid = "1b45744d-59a5-4552-9d63-dce77dad2b3c" },
+]
+
+[[release]]
+mbid = "2058576a-5538-4c02-9ad0-25bee2e949a6"
+title = "I Am Blessed / How Can I"
+type = "single"
+date = "1964"
+tracks = [
+  { n = 1, title = "I Am Blessed", mbid = "e1300ece-c392-49bb-9943-8de93596b7d1" },
+  { n = 2, title = "How Can I", mbid = "f242c152-5cd0-4057-8eae-6b6fd6b50714" },
+]
+
+[[release]]
+mbid = "3b609dff-a314-4af6-ab20-2f6d77a2fd89"
+title = "Don’t Let Me Be Misunderstood"
+type = "single"
+date = "1964-10"
+tracks = [
+  { n = 1, title = "Don’t Let Me Be Misunderstood", mbid = "61bf8dcc-5362-4947-ae4d-3a6ac3345486" },
+  { n = 2, title = "A Monster", mbid = "03643876-ae9c-467d-afb8-9d2c5c05c41b" },
+]
+
+[[release]]
+mbid = "4bdc5ce3-9ae1-36f2-ada0-fde51bcde8c1"
+title = "Broadway Blues Ballads"
+type = "album"
+date = "1964-11"
+tracks = [
+  { n = 1, title = "Don’t Let Me Be Misunderstood", mbid = "61bf8dcc-5362-4947-ae4d-3a6ac3345486" },
+  { n = 2, title = "Night Song (from the musical “Golden Boy”)", mbid = "633a22de-a87b-4a9f-b39e-c425a4981467" },
+  { n = 3, title = "The Laziest Gal in Town", mbid = "fc7d9a1b-40ba-4ed6-af4a-347e7aaa23cb" },
+  { n = 4, title = "Something Wonderful (from “The King and I”)", mbid = "be114480-c09b-4211-a002-b8e2907ac9a4" },
+  { n = 5, title = "Don’t Take All Night", mbid = "1f5c06a0-1bad-48cf-8fc1-f55c63f07acf" },
+  { n = 6, title = "Nobody", mbid = "a3e204b3-9476-4ba9-8a67-d7286d977a17" },
+  { n = 7, title = "I Am Blessed", mbid = "e1300ece-c392-49bb-9943-8de93596b7d1" },
+  { n = 8, title = "Of This I’m Sure", mbid = "b83841d4-6c32-49a0-bc6c-86c7b6c5ae70" },
+  { n = 9, title = "See-Line Woman", mbid = "e95a8db9-7b26-4280-aa02-6a16def9580d" },
+  { n = 10, title = "Our Love (Will See Us Through)", mbid = "5ae5b2e0-391d-4de4-8b1e-f4f580471dde" },
+  { n = 11, title = "How Can I", mbid = "f242c152-5cd0-4057-8eae-6b6fd6b50714" },
+  { n = 12, title = "The Last Rose of Summer", mbid = "4d4f499e-4108-4d27-87e7-9b28e96b5ea2" },
+]
+
+[[release]]
+mbid = "37b80fea-0129-3546-9ffe-00a719ee9e61"
+title = "I Put a Spell on You"
+type = "album"
+date = "1965"
+spotify = "3ofZeSWPHZOE5WC2tNZDez"
+tracks = [
+  { n = 1, title = "I Put a Spell on You", mbid = "de488d7f-c86c-4cab-99e2-4c1c5c345508" },
+  { n = 2, title = "Tomorrow Is My Turn", mbid = "21d21bb5-e910-49b1-9b66-f6a0358ec900" },
+  { n = 3, title = "Ne me quitte pas", mbid = "f129c4f6-58c8-48b6-b735-b0c71e41b826" },
+  { n = 4, title = "Marriage Is for Old Folks", mbid = "18d2ca25-7473-432b-a70a-14b121febefa" },
+  { n = 5, title = "July Tree", mbid = "8b371ef7-3f9f-4cce-8cce-1f140ded9aaa" },
+  { n = 6, title = "Gimme Some", mbid = "549594cf-b572-4ef6-aaef-b7dbc820ad70" },
+  { n = 7, title = "Feeling Good", mbid = "96b8213c-48ab-435a-bd70-7f9d491fd107" },
+  { n = 8, title = "One September Day", mbid = "e0044977-6647-43dc-802d-f8159bab5303" },
+  { n = 9, title = "Blues on Purpose", mbid = "784cac26-0a98-4973-9ee8-3cd3dd94a44f" },
+  { n = 10, title = "Beautiful Land", mbid = "a7bb8b47-5e52-4d2d-b0a6-8439f2cee8e6" },
+  { n = 11, title = "You’ve Got to Learn", mbid = "8d368edc-6da3-4bac-800e-2d6ab178f86c" },
+  { n = 12, title = "Take Care of Business", mbid = "6ab01c0d-6576-4f33-81f6-36949bb6145c" },
+]
+
+[[release]]
+mbid = "c8fd5044-d9b5-3824-998c-5331e79df99d"
+title = "Let It All Out"
+type = "album"
+date = "1965"
+spotify = "4bGiPtwVEKcXbXs7oKCMqD"
+tracks = [
+  { n = 1, title = "Mood Indigo", mbid = "11e17ce9-ed85-4d75-9a83-27d9d1e40ebb" },
+  { n = 2, title = "The Other Woman", mbid = "c42d637b-0e2e-4e1a-a8c7-159d19ff13d9" },
+  { n = 3, title = "Love Me or Leave Me", mbid = "e37d79a8-54ac-471c-8ad4-d3ee3d82fd9e" },
+  { n = 4, title = "Don’t Explain", mbid = "15c31f1c-1ca2-4b7c-843d-6ef0f9a18989" },
+  { n = 5, title = "Little Girl Blue", mbid = "ca3aa102-1af3-422a-8fb5-1a77bb643e20" },
+  { n = 6, title = "Chauffeur", mbid = "2402741f-9771-465a-9cd5-398c0c3c74d8" },
+  { n = 7, title = "For Myself", mbid = "d9664052-5571-401e-9a67-904978cd597a" },
+  { n = 8, title = "The Ballad of Hollis Brown", mbid = "e3d4976e-28a0-4fbb-b860-497de1cc8481" },
+  { n = 9, title = "This Year’s Kisses", mbid = "2609cb75-b1c3-49cd-8e73-6207f85b0ef0" },
+  { n = 10, title = "Images", mbid = "e2e27763-5dfe-45e2-ada1-85a0487be10f" },
+  { n = 11, title = "Nearer Blessed Lord", mbid = "62b194ad-0447-4c29-9002-169a8554fadd" },
+]
+
+[[release]]
+mbid = "5b82ec3a-0726-4115-a41f-3515b08596bc"
+title = "Ne me quitte pas"
+type = "ep"
+date = "1965"
+tracks = [
+  { n = 1, title = "Ne me quitte pas", mbid = "f129c4f6-58c8-48b6-b735-b0c71e41b826" },
+  { n = 2, title = "Gimme Some", mbid = "549594cf-b572-4ef6-aaef-b7dbc820ad70" },
+  { n = 3, title = "I Put a Spell on You", mbid = "de488d7f-c86c-4cab-99e2-4c1c5c345508" },
+  { n = 4, title = "You’ve Got To Learn (Il faut savoir)", mbid = "8d368edc-6da3-4bac-800e-2d6ab178f86c" },
+]
+
+[[release]]
+mbid = "1b3233e2-15ed-344e-bc8e-6630455db87f"
+title = "Pastel Blues"
+type = "album"
+date = "1965-10-01"
+spotify = "31pd81sWDaK2pP3ok5892z"
+tracks = [
+  { n = 1, title = "Be My Husband", mbid = "9e134a45-b25d-430f-9ebb-4d5e0e21c218" },
+  { n = 2, title = "Nobody Knows You When You’re Down and Out", mbid = "3a6af5c1-2e3e-4c88-8646-a49fe5b49278" },
+  { n = 3, title = "End of the Line", mbid = "122bdd09-f67a-4d54-ab54-b8e82fdbb7b0" },
+  { n = 4, title = "Trouble in Mind", mbid = "640919cc-f099-4028-bb50-787da17d1aa0" },
+  { n = 5, title = "Tell Me More and More and Then Some", mbid = "25a54b37-a2fa-458d-9c2c-5448b7248884" },
+  { n = 6, title = "Chilly Winds Don’t Blow", mbid = "03c10921-2fe1-4e14-a659-9e529fefa5ec" },
+  { n = 7, title = "Ain’t No Use", mbid = "4af29582-7382-4f6a-acd0-b7aa923f99b6" },
+  { n = 8, title = "Strange Fruit", mbid = "5a316823-ecc2-45f4-9f8b-f64f92fa7d08" },
+  { n = 9, title = "Sinnerman", mbid = "bc0e9d24-8b23-41ca-a389-3196e071c56e" },
+]
+
+[[release]]
+mbid = "ff4a12a1-d2db-370e-8b15-ab11789bee8c"
+title = "Nina Simone With Strings"
+type = "album"
+date = "1966"
+tracks = [
+  { n = 1, title = "I Love You Porgy", mbid = "b65d3802-7be8-4acb-b9c5-d2ad1500b68f" },
+  { n = 2, title = "Blackbird", mbid = "ce7d6479-d51f-4c2f-b78c-04f88143dd2a" },
+  { n = 3, title = "Falling in Love Again (Can’t Help It)", mbid = "83108f95-31c4-451d-8573-dd103e8cb3be" },
+  { n = 4, title = "Baubles, Bangles and Beads", mbid = "b4408140-77a8-4a11-9d5d-c5ecef814245" },
+  { n = 5, title = "Spring Is Here", mbid = "25ec5460-1f6d-4b86-b0d3-4ace4fe78330" },
+  { n = 6, title = "That’s All", mbid = "f84cfaec-8abd-427a-b4cd-350e19fa36c9" },
+  { n = 7, title = "Chain Gang", mbid = "795f421c-6609-457b-b44b-c6149e656631" },
+  { n = 8, title = "The Man With a Horn", mbid = "e46e2c25-7c4f-44a5-8c39-e52ec04b2130" },
+  { n = 9, title = "Porgy, I Is Your Woman (Bess, You Is My Woman)", mbid = "9809ebdb-bc24-4300-af86-9424ebe2340a" },
+  { n = 10, title = "Pigs Foot and a Bottle of Beer", mbid = "9517943a-648f-4307-910a-5399bdc84d58" },
+]
+
+[[release]]
+mbid = "b4433a3e-d5ad-3d99-965c-96bfb6a0f071"
+title = "Wild Is the Wind"
+type = "album"
+date = "1966-09-16"
+spotify = "2EYVXfypcucR62WMKJl6Mr"
+tracks = [
+  { n = 1, title = "I Love Your Lovin’ Ways", mbid = "2d197d5a-2f58-439b-a0df-10084ff0577c" },
+  { n = 2, title = "Four Women", mbid = "3a3f7456-40a2-4979-8fb6-76944ed24281" },
+  { n = 3, title = "What More Can I Say", mbid = "b727db56-abc7-4823-8782-b03dfde995ff" },
+  { n = 4, title = "Lilac Wine", mbid = "c324ae81-6cad-4d09-8d71-3f711c046266" },
+  { n = 5, title = "That’s All I Ask", mbid = "0a05770c-7faa-453c-8107-3a4bdfd7902c" },
+  { n = 6, title = "Break Down and Let It All Out", mbid = "ea5f8974-50a3-4256-8d78-40af8aa4f4b1" },
+  { n = 7, title = "Why Keep on Breaking My Heart", mbid = "f008905c-6627-477d-811d-9a46b01a3653" },
+  { n = 8, title = "Wild Is the Wind", mbid = "5574a28a-0871-4080-8e6c-7b8ccb75cc1c" },
+  { n = 9, title = "Black Is the Color of My True Love’s Hair", mbid = "ce387928-116a-49e0-a4d8-60fdea564885" },
+  { n = 10, title = "If I Should Lose You", mbid = "9518a772-9365-47f4-abf1-770abec657f9" },
+  { n = 11, title = "Either Way I Lose", mbid = "fe1aaff2-2672-4462-ba9a-2930f90b9c3c" },
+]
+
+[[release]]
+mbid = "3e756ef5-ffa4-3d48-83ae-f7f856a2b989"
+title = "Nina Simone Sings the Blues"
+type = "album"
+date = "1967"
+tracks = [
+  { n = 1, title = "Do I Move You?", mbid = "def28994-51a9-43a0-b37c-cbb8ab5604b8" },
+  { n = 2, title = "Day and Night", mbid = "c43b5cbb-d9ae-46cc-909a-9127d52a4661" },
+  { n = 3, title = "In the Dark", mbid = "aa53cae6-6843-4cdb-823c-18944ddc8a25" },
+  { n = 4, title = "Real Real", mbid = "f12f8773-270b-4b6a-92a2-01049f61c06b" },
+  { n = 5, title = "My Man’s Gone Now", mbid = "2804e326-2392-42db-bb0c-3a31372a0a3f" },
+  { n = 6, title = "Backlash Blues", mbid = "6ca33d8a-937e-4ec0-944f-5cdbf16b9e57" },
+  { n = 7, title = "I Want a Little Sugar in My Bowl", mbid = "57fddfef-e84b-4da4-863f-25b21397332f" },
+  { n = 8, title = "Buck", mbid = "78901b48-9703-406f-93de-e39b48addaaa" },
+  { n = 9, title = "Since I Fell for You", mbid = "7154d32b-994b-4723-8e08-efd66a3d3e8d" },
+  { n = 10, title = "The House of the Rising Sun", mbid = "3e84a6b0-976c-43dd-8f77-305f74ef7f22" },
+  { n = 11, title = "Blues for Mama", mbid = "e2194ed6-3049-47c9-855d-9c8001e2ef49" },
+]
+
+[[release]]
+mbid = "84c5ae6a-c2f6-3f69-bc2c-54a7013bfe67"
+title = "Silk & Soul"
+type = "album"
+date = "1967"
+tracks = [
+  { n = 1, title = "It Be's That Way Sometime", mbid = "37de0fbc-206a-460b-ae98-e952eac5696d" },
+  { n = 2, title = "The Look of Love", mbid = "a7fc1e0c-b721-434f-bf40-759e4e41d06d" },
+  { n = 3, title = "Go to Hell", mbid = "ae1753ae-c3c1-43b3-a149-17ac1bda5c25" },
+  { n = 4, title = "Love O' Love", mbid = "121403af-c968-42bd-a603-7e343bf0a686" },
+  { n = 5, title = "Cherish", mbid = "b46747ba-1be6-48f2-b348-b78888626b22" },
+  { n = 6, title = "I Wish I Knew How It Would Feel to Be Free", mbid = "2bc5585c-0c00-413a-b6ec-be8cdd855bcd" },
+  { n = 7, title = "Turn Me On", mbid = "ddd8c9c4-081b-4758-aec5-93ef1efd4f51" },
+  { n = 8, title = "Turning Point", mbid = "eb6cf4ac-5f0c-4868-8abc-8a4502747a8c" },
+  { n = 9, title = "Some Say", mbid = "b050b31f-b8e9-40d4-ad21-376ff456ec84" },
+  { n = 10, title = "Consummation", mbid = "e6c1b821-9001-475b-9cd8-12febaac0e9c" },
+]
+
+[[release]]
+mbid = "eb21fe65-ef66-3c10-8f9c-71865771c444"
+title = "High Priestess of Soul"
+type = "album"
+date = "1967-01-01"
+tracks = [
+  { n = 1, title = "Don’t You Pay Them No Mind", mbid = "aeb6bd97-c3b9-4217-8c95-436883773345" },
+  { n = 2, title = "I’m Gonna Leave You", mbid = "222939f5-1730-469a-bcd2-974eafa95dc1" },
+  { n = 3, title = "Brown Eyed Handsome Man", mbid = "8423cb1c-e84b-45ac-90b4-5bb1b5a9612f" },
+  { n = 4, title = "Keeper of the Flame", mbid = "3f0a4e45-b037-4ede-808a-c9530cea855b" },
+  { n = 5, title = "The Gal From Joe’s", mbid = "2aac2b86-6b1c-4e90-93ee-0173db6a82d5" },
+  { n = 6, title = "Take Me to the Water", mbid = "a877d28e-ac99-4cbc-ae48-1de4fe25b6a0" },
+  { n = 7, title = "I’m Going Back Home", mbid = "61cbaf85-be83-4802-8be7-1b28b9ccaa7c" },
+  { n = 8, title = "I Hold No Grudge", mbid = "b518335c-46a0-44f7-ba6f-116dd66f19d2" },
+  { n = 9, title = "Come Ye", mbid = "e14f61b0-a390-436d-9ef9-0579c82711c5" },
+  { n = 10, title = "He Ain’t Comin’ Home No More", mbid = "cf7662c9-caad-480e-84f1-364a3e795b88" },
+  { n = 11, title = "Work Song", mbid = "7697d8ae-fb0d-45f2-a3f1-d844dd085f79" },
+  { n = 12, title = "I Love My Baby", mbid = "d3962628-3e2e-4bc9-8ded-44c0693042f0" },
+]
+
+[[release]]
+mbid = "9a0907bc-d45e-45b5-9266-4baf8015524e"
+title = "Do what you gotta do"
+type = "single"
+date = "1968"
+tracks = [
+  { n = 1, title = "Do what you gotta do", mbid = "25fbcfb2-0cac-4680-a70c-190d2d993ea6" },
+  { n = 2, title = "Peace of mind", mbid = "e79c49a1-045a-466e-9951-0da887760275" },
+]
+
+[[release]]
+mbid = "3da8d072-3a4d-4914-8ab3-02ef618c2a1d"
+title = "To Love Somebody / I Can’t See Nobody"
+type = "single"
+date = "1968"
+tracks = [
+  { n = 1, title = "To Love Somebody", mbid = "27361782-d011-4235-8f7a-9cf32b1c22ce" },
+  { n = 2, title = "I Can’t See Nobody", mbid = "0ea4fb70-9786-4dcc-869c-68fdc98e1548" },
+]
+
+[[release]]
+mbid = "13ccbbc1-28f3-4532-9e41-c2c410adf971"
+title = "Ain’t Got No; I Got Life"
+type = "single"
+date = "1968-11"
+tracks = [
+  { n = 1, title = "Ain’t Got No; I Got Life", mbid = "c2e74aee-c7fd-4219-9f35-a0a79f93a79d" },
+  { n = 2, title = "Real Real", mbid = "f12f8773-270b-4b6a-92a2-01049f61c06b" },
+]
+
+[[release]]
+mbid = "abb74c32-c9c3-30e7-bf72-93e1ead55db8"
+title = "Nina Simone and Piano!"
+type = "album"
+date = "1969"
+tracks = [
+  { n = 1, title = "Seems I’m Never Tired of Lovin’ You", mbid = "d2500d6c-7fa7-4791-9336-31efe820c6d0" },
+  { n = 2, title = "Nobody’s Fault but Mine", mbid = "95d41cfc-790d-4432-af2a-361fbde158e1" },
+  { n = 3, title = "I Think It’s Gonna Rain Today", mbid = "3725093f-18b9-4581-9f88-17d45aa40403" },
+  { n = 4, title = "Everyone’s Gone to the Moon", mbid = "4a7dd182-32ea-43eb-8fb0-df3a987c4ef7" },
+  { n = 5, title = "Compensation", mbid = "595615b4-db0c-43fb-99de-f6bd01c99974" },
+  { n = 6, title = "Who Am I", mbid = "33505acc-8465-4eee-a9c5-6def01fda0ae" },
+  { n = 7, title = "Another Spring", mbid = "25deef16-62fc-4577-b560-03e1bfae8a6d" },
+  { n = 8, title = "The Human Touch", mbid = "eb1a2c97-6ab7-40b5-a4e3-9215fc313597" },
+  { n = 9, title = "I Get Along Without You Very Well (Except Sometimes)", mbid = "40bba53e-f738-443e-b929-0baaa7dc0771" },
+  { n = 10, title = "The Desperate Ones", mbid = "baed035f-dc89-43a1-8726-20cd83732f18" },
+]
+
+[[release]]
+mbid = "892e5b73-5d84-4b26-8d8a-7936caddc178"
+title = "To Be Young, Gifted, and Black"
+type = "single"
+date = "1969"
+tracks = [
+  { n = 1, title = "To Be Young, Gifted, and Black", mbid = "969be6eb-d794-4c45-a76c-385d6971be9f" },
+  { n = 2, title = "Save Me", mbid = "24921a36-37d9-42ce-b84a-5fdea2ff3acc" },
+]
+
+[[release]]
+mbid = "15445b78-ec7e-3d22-b8fc-cfc92590d8f0"
+title = "To Love Somebody"
+type = "album"
+date = "1969"
+spotify = "6T4nAC6CRLciyg4tQbgovi"
+tracks = [
+  { n = 1, title = "Suzanne", mbid = "4e3011ca-1c80-4e99-8812-fd96669124cb" },
+  { n = 2, title = "Turn! Turn! Turn! (To Everything There Is a Season)", mbid = "d9742f2c-b0b9-40b8-aabc-7f6551005319" },
+  { n = 3, title = "Revolution, Part 1", mbid = "9fc6fed5-b3ce-4332-adf6-e7da98ba414c" },
+  { n = 4, title = "Revolution, Part 2", mbid = "3e9223ce-a9f0-4f9b-9dfd-d4cfc673190c" },
+  { n = 5, title = "To Love Somebody", mbid = "27361782-d011-4235-8f7a-9cf32b1c22ce" },
+  { n = 6, title = "I Shall Be Released", mbid = "afb53bd7-1a35-48ae-81cd-c3ebac10db8c" },
+  { n = 7, title = "I Can’t See Nobody", mbid = "0ea4fb70-9786-4dcc-869c-68fdc98e1548" },
+  { n = 8, title = "Just Like Tom Thumb’s Blues", mbid = "cf4f0271-cfe6-4597-904d-a740c82329de" },
+  { n = 9, title = "The Times They Are A‐Changin’", mbid = "ba64d74c-c608-4f80-8ae2-90b069ff7cd6" },
+]
+
+[[release]]
+mbid = "06398deb-e28c-4cc5-8b60-c9e3fb6658d4"
+title = "In the morning"
+type = "single"
+date = "1969-10"
+tracks = [
+  { n = 1, title = "In the morning", mbid = "03bbdcf9-6157-4a74-9b20-937c8934fb95" },
+  { n = 2, title = "Cherish", mbid = "b46747ba-1be6-48f2-b348-b78888626b22" },
+]
+
+[[release]]
+mbid = "4073528e-ed80-4355-8b77-f0aca8717fd6"
+title = "Gifted & Black"
+type = "album"
+date = "1970"
+tracks = [
+  { n = 1, title = "Black Is the Color", mbid = "72f95ced-2438-49c4-a677-3d836b00f5be" },
+  { n = 2, title = "Since My Love Is Gone", mbid = "d0ab0171-4168-4d96-b489-ed299b3beb59" },
+  { n = 3, title = "Blue Prelude", mbid = "b610f3d9-fcc5-4a81-bdc4-37ac37932b8f" },
+  { n = 4, title = "Spring Is Here", mbid = "699155d1-f556-4709-9cbd-9d09381bd40a" },
+  { n = 5, title = "Porgy", mbid = "2e79bf93-0bdc-4c37-b0dd-a825fcfeedcb" },
+  { n = 6, title = "Remind Me", mbid = "43d3612b-919d-460f-a448-04a777ab3806" },
+  { n = 7, title = "Near to You", mbid = "e23d93e8-56fb-438b-83ac-edde9df3d600" },
+  { n = 8, title = "The Thrill Is Gone", mbid = "889df754-2831-4133-84b9-e33d42506ea6" },
+]
+
+[[release]]
+mbid = "a69703c6-e1e5-41ca-ab6b-15185baa0335"
+title = "Whatever I Am You Made Me"
+type = "single"
+date = "1970"
+tracks = [
+  { n = 1, title = "Whatever I Am You Made Me", mbid = "fba8175d-e7c7-4f0a-8607-e6cebbef7963" },
+  { n = 2, title = "Why Must Your Love Well Be So Dry", mbid = "d9b7820d-2fa3-434d-9f9f-29fd19746ff6" },
+]
+
+[[release]]
+mbid = "1513cb88-3022-4c92-b64e-b2c9f89fd2ad"
+title = "Isn't It A Pity / Tell It Like It Is"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Isn't It A Pity", mbid = "180b351b-899c-4bca-b127-aa95a876258e" },
+  { n = 2, title = "Tell It Like It Is", mbid = "33abecf5-b9bf-484f-b39e-c94411d9f9ff" },
+]
+
+[[release]]
+mbid = "206be05e-0692-49e6-8a2d-f693fe85e732"
+title = "My Way (Comme d'habitude)"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "My Way (Comme d'habitude)", mbid = "53dffcf8-b1af-4a58-b14f-699a1c5be8f4" },
+  { n = 2, title = "Angel of the Morning", mbid = "d080a4f4-4c95-4e22-91ea-34ab00347264" },
+]
+
+[[release]]
+mbid = "993a71e2-2a0f-34e7-b6f5-9fe819409708"
+title = "Here Comes the Sun"
+type = "album"
+date = "1971-09"
+spotify = "3bm8jq96m8I1FZc8BsfG8g"
+tracks = [
+  { n = 1, title = "Here Comes the Sun", mbid = "64cc258d-c41b-4dc2-b756-c17d96793736" },
+  { n = 2, title = "Just Like a Woman", mbid = "fc88c7f0-7bea-4d51-b580-5c7c00663d9b" },
+  { n = 3, title = "O-O-H Child", mbid = "60af337d-5a7a-4e0b-9283-55d0f6299fbd" },
+  { n = 4, title = "Mr Bojangles", mbid = "1debac0c-18eb-4421-9df0-baee2cf77d05" },
+  { n = 5, title = "New World Coming", mbid = "8c256b9e-04f8-471c-9281-24c226c9b747" },
+  { n = 6, title = "Angel of the Morning", mbid = "d080a4f4-4c95-4e22-91ea-34ab00347264" },
+  { n = 7, title = "How Long Must I Wander", mbid = "97770dec-6f7b-4bca-b47b-03372e7349be" },
+  { n = 8, title = "My Way", mbid = "53dffcf8-b1af-4a58-b14f-699a1c5be8f4" },
+]
+
+[[release]]
+mbid = "df8adddb-b622-4eb4-981f-94c1797cb8cd"
+title = "Gospel According to Nina Simone"
+type = "album"
+date = "1973"
+tracks = [
+  { n = 1, title = "Anytime, Anywhere", mbid = "1b9c7137-c7df-4700-b572-990d59af209f" },
+  { n = 2, title = "Sunday in Savannah", mbid = "0c0d518a-936d-4451-b416-26ae03fe4d44" },
+  { n = 3, title = "You Can’t Hide", mbid = "acdb96af-8bfd-42a4-9311-e2dbf886e510" },
+  { n = 4, title = "Nobody’s Fault But Mine", mbid = "fdeb7b8d-81ca-418d-8243-6c3366cab4c0" },
+  { n = 5, title = "To Be Young, Gifted & Black", mbid = "d7800f23-6f01-4135-913a-f6ccec94b19b" },
+  { n = 6, title = "Brown Baby", mbid = "b64eb982-12b1-49e1-a406-d8dd0cc0f503" },
+  { n = 7, title = "Sinnerman", mbid = "eedb5d61-2402-4ab5-bfbe-401787fb3350" },
+]
+
+[[release]]
+mbid = "4fa78391-c883-3941-8ce3-ba1ffa8e5f12"
+title = "Baltimore"
+type = "album"
+date = "1978"
+tracks = [
+  { n = 1, title = "Baltimore", mbid = "e77dcc17-52ca-4c83-ac30-ac6368b0445a" },
+  { n = 2, title = "Everything Must Change", mbid = "81fc279f-0723-4727-9409-7aefe9430504" },
+  { n = 3, title = "The Family", mbid = "418e3da5-82c2-4850-ac0b-fc44e10a09cc" },
+  { n = 4, title = "My Father", mbid = "fec5352c-87c7-4872-a85e-f9c3a24378fe" },
+  { n = 5, title = "Music for Lovers", mbid = "22723040-8e26-4ad2-a754-1d2c0fe674cc" },
+  { n = 6, title = "Rich Girl", mbid = "44609788-2923-4461-97c5-b46811d92510" },
+  { n = 7, title = "That’s All I Want From You", mbid = "b5af051a-7280-419f-be3c-86044d65c9f2" },
+  { n = 8, title = "Forget", mbid = "eaddf7d3-da6b-46af-86c5-d6bd49551856" },
+  { n = 9, title = "Balm in Gilead", mbid = "04117321-2d68-4f80-b0a2-39b6b7b987b3" },
+  { n = 10, title = "If You Pray Right", mbid = "778e08b8-0d73-43a8-b37b-3f191bd072dd" },
+]
+
+[[release]]
+mbid = "faab02bc-9367-35f9-a9d0-d3cb9cad0976"
+title = "Fodder on My Wings"
+type = "album"
+date = "1982-01-01"
+tracks = [
+  { n = 1, title = "I Sing Just to Know That I’m Alive", mbid = "8f105fc0-1461-4b51-8fb7-ed90c8e13619" },
+  { n = 2, title = "Fodder in Her Wings", mbid = "c48fe848-c055-45ff-8efb-5f673ee79cf7" },
+  { n = 3, title = "Vous êtes seuls, mais je désire être avec vous", mbid = "30b2bb8b-86dc-476e-a3bc-6970c46b53fc" },
+  { n = 4, title = "Il y a un baume à Gilead", mbid = "f4529660-259c-4cb2-af91-a250a1baf5a5" },
+  { n = 5, title = "Heaven Belongs to You", mbid = "8ac387db-4ac1-4be3-989d-a34f79350be9" },
+  { n = 6, title = "Liberian Calypso", mbid = "087efe2b-356e-4dfa-8611-e74864a255d3" },
+  { n = 7, title = "Thandewye", mbid = "d96cbe46-a6a1-4e80-9774-b55cb64a3597" },
+  { n = 8, title = "I Was Just a Stupid Dog to Them", mbid = "f22961ac-1ede-441b-9e6b-77362a88673d" },
+  { n = 9, title = "Color Is a Beautiful Thing", mbid = "7e895cdb-a800-48b0-a16c-c75618643c07" },
+  { n = 10, title = "There Is No Returning (Le Peuple en Suisse)", mbid = "e4dc33b1-0870-4bff-8a79-a092f96e1402" },
+]
+
+[[release]]
+mbid = "aab7bc21-2ab0-359b-bbfd-aa0cbb52fb0d"
+title = "Nina’s Back"
+type = "album"
+date = "1985"
+tracks = [
+  { n = 1, title = "It's Cold Out Here", mbid = "3e4740ec-5952-4dbf-99fc-76b9aba6eacd" },
+  { n = 2, title = "Porgy", mbid = "075dae9c-1666-46b6-ab9a-ff908bebda1d" },
+  { n = 3, title = "I Sing Just to Know That I'm Alive", mbid = "5ed7383b-e9a8-44c5-b9d2-a624695713f6" },
+  { n = 4, title = "For a While", mbid = "876a2132-3439-4df2-bbea-9fb821f274c0" },
+  { n = 5, title = "Fodder on Her Wings", mbid = "13d17c1e-6b0a-4d3a-9897-56205c06cd20" },
+  { n = 6, title = "Touching and Caring", mbid = "526bb66f-bc3b-4a70-87fb-688227b227be" },
+  { n = 7, title = "Saratoga", mbid = "a240204c-2431-4f4c-8888-2b930d692f56" },
+  { n = 8, title = "You Must Have Another Lover", mbid = "6bc4654a-449d-426d-b9b3-2e6d6a717b29" },
+]
+
+[[release]]
+mbid = "ac723aa2-0a8a-4b74-a980-e4220e6c8fcd"
+title = "It’s Cold Out Here"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "It’s Cold Out Here (extended version)", mbid = "3e4740ec-5952-4dbf-99fc-76b9aba6eacd" },
+  { n = 2, title = "I Sing Just to Know That I Am Alive", mbid = "5ed7383b-e9a8-44c5-b9d2-a624695713f6" },
+  { n = 3, title = "Mississippi Goddamn (live version)", mbid = "c4630584-df05-487a-8a6a-3dc6efb4caa8" },
+  { n = 4, title = "My Baby Just Cares for Me (live version)", mbid = "9dbaeb12-7e29-41f2-852c-977d81e51447" },
+]
+
+[[release]]
+mbid = "ca8da20c-1707-352a-8a3b-46e590634ff2"
+title = "A Single Woman"
+type = "album"
+date = "1993-08-03"
+spotify = "1NOuLNCoZQjvuXwanQaCKu"
+tracks = [
+  { n = 1, title = "A Single Woman", mbid = "c484cdcd-2263-4fcb-9aa6-264ae83422d0" },
+  { n = 2, title = "Lonesome Cities", mbid = "9243fbbb-a538-490f-a5cc-099428d2f9da" },
+  { n = 3, title = "If I Should Lose You", mbid = "9518a772-9365-47f4-abf1-770abec657f9" },
+  { n = 4, title = "The Folks Who Live On the Hill", mbid = "f1009169-3d36-46c5-8b42-8fa92c3e1c89" },
+  { n = 5, title = "Love’s Been Good to Me", mbid = "b9cceed8-fb50-4d45-a8e8-20530dc6ea99" },
+  { n = 6, title = "Papa, Can You Hear Me?", mbid = "2a355923-f94e-4049-b85d-fa019da5ae7b" },
+  { n = 7, title = "Il n’y a pas d’amour heureux", mbid = "da957694-eee9-469f-be6b-77a09715bb8f" },
+  { n = 8, title = "Just Say I Love Him", mbid = "2dc96b61-3331-4463-940f-5450046d6e53" },
+  { n = 9, title = "The More I See You", mbid = "740a0cd9-ce5d-4573-8284-49bb1ba2a8c3" },
+  { n = 10, title = "Marry Me", mbid = "8c91cd57-a5a4-455c-bc49-a00fac484310" },
+]
+
+[[release]]
+mbid = "b59e4a10-f3bf-4558-93c6-2108bf470d6a"
+title = "Feeling Good"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Feeling Good", mbid = "96b8213c-48ab-435a-bd70-7f9d491fd107" },
+  { n = 2, title = "My Baby Just Cares for Me (live)", mbid = "f1d928ed-d0ee-4b43-96d8-b94d2fb05301" },
+  { n = 3, title = "I Put A Spell on You", mbid = "de488d7f-c86c-4cab-99e2-4c1c5c345508" },
+]
+
+[[release]]
+mbid = "5080cc0e-e48c-4f7b-9c2e-d816376f4f4e"
+title = "Funkier Than a Mosquito’s Tweeter / Save Me"
+type = "single"
+date = "2002"
+tracks = [
+  { n = 1, title = "Funkier Than a Mosquito’s Tweeter", mbid = "468b5ecb-546f-492a-8a1d-1428ede6ffc2" },
+  { n = 2, title = "Save Me", mbid = "24921a36-37d9-42ce-b84a-5fdea2ff3acc" },
+]
+
+[[release]]
+mbid = "e63696c5-fac6-4228-ae5a-133a1fca88db"
+title = "See-Line Woman"
+type = "single"
+date = "2002-03"
+tracks = [
+  { n = 1, title = "See-Line Woman (Masters at Work remix)", mbid = "215c7027-3dc9-4f2e-a3c8-dc5d08027c6f" },
+  { n = 2, title = "See-Line Woman", mbid = "e95a8db9-7b26-4280-aa02-6a16def9580d" },
+]
+
+[[release]]
+mbid = "c7714f8f-fb06-3b91-8567-d7bd173e0450"
+title = "Sinnerman"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Sinnerman (Felix da Housecat’s Heavenly House mix - extended vocal)", mbid = "65c2b0fd-9723-43d0-8d54-ec677c393f23" },
+  { n = 2, title = "Sinnerman (Felix da Housecat’s Heavenly House mix - extended instrumental)", mbid = "cd3ae2f4-7773-40be-9871-4494f971a854" },
+  { n = 3, title = "Sinnerman (Felix da Housecat’s Heavenly House mix)", mbid = "98452629-481b-4667-94e7-3a320d199b30" },
+  { n = 4, title = "Sinnerman", mbid = "bc0e9d24-8b23-41ca-a389-3196e071c56e" },
+]
+
+[[release]]
+mbid = "10116bb7-32c2-4883-b234-e42a5c09f45a"
+title = "Ain't Got No, I Got Life"
+type = "single"
+date = "2006-04-26"
+tracks = [
+  { n = 1, title = "Ain’t Got No, I Got Life (radio edit)", mbid = "938b7895-a85c-4a9c-890f-334b37482e6f" },
+  { n = 2, title = "Ain’t Got No, I Got Life (instrumental)", mbid = "4467618b-fc70-47c9-8410-f48e07af20f8" },
+  { n = 3, title = "Ain’t Got No, I Got Life (original version)", mbid = "22c43c94-aeb2-4e33-bd6e-3b4c91add1c5" },
+]
+
+[[release]]
+mbid = "445a8773-4292-4928-a114-96f64474ce65"
+title = "Portrait"
+type = "album"
+date = "2016-12-21"
+tracks = [
+  { n = 1, title = "Work Song", mbid = "2eaa2214-1ddf-48cf-9662-12983536ae57" },
+  { n = 2, title = "Lonesome Cities (Remastered)", mbid = "e97c5a9a-eb36-4707-9830-2419d2569cc8" },
+  { n = 3, title = "You've Been Gone Too Long", mbid = "978fd37d-409b-4ce5-bd27-009222d5ac55" },
+  { n = 4, title = "The Gal from Joe's", mbid = "a36d05db-53e9-46ca-85cb-723696c29eab" },
+  { n = 5, title = "No Good Man", mbid = "a3272c87-3a39-4ae7-a954-7f64aa9dbdd6" },
+  { n = 6, title = "It Don't Mean a Thing (If It Ain't Got That Swing)", mbid = "01fabb63-2847-49a6-a230-3610613a0c7f" },
+  { n = 7, title = "Forbidden Fruit", mbid = "fdf9b98d-8420-4fe1-a3bf-913d250e0a99" },
+  { n = 8, title = "I Got It Bad (And That Ain't Good)", mbid = "50da09e3-c0ef-4018-97a8-66523bf0eb5c" },
+  { n = 9, title = "Just Say I Love Him (Remastered)", mbid = "55f74146-e95f-4585-85e0-e46906887e98" },
+  { n = 10, title = "It Might As Well Be Spring", mbid = "0c172717-064c-4b16-b401-7bbe6ac38913" },
+  { n = 11, title = "I'll Look Around", mbid = "42afd83d-6e60-49c5-ab23-86ceeeaa9d50" },
+  { n = 12, title = "If I Should Lose You (Remastered)", mbid = "16b852d7-28a1-42ed-ba00-40d9ff05a9f8" },
+  { n = 13, title = "I Love to Love", mbid = "e2a72cb3-5e7c-4f9a-bcb1-b0e58637d4cf" },
+  { n = 14, title = "Merry Mending", mbid = "9c02b345-e7e7-4a57-ac95-0491e5460b72" },
+  { n = 15, title = "Marry Me (Remastered)", mbid = "554281bc-fb1c-492f-8592-ad4812e31e1a" },
+  { n = 16, title = "I Like the Sunrise", mbid = "c7d4f707-b8a1-42e9-aa06-84c0832bde9c" },
+  { n = 17, title = "You Can Sing a Rainbow", mbid = "e25b95f7-10ed-445e-bc60-d10ac5f09e59" },
+  { n = 18, title = "Hey, Buddy Bolden", mbid = "d3c38a98-070b-46f1-a67d-1c683ed8714e" },
+  { n = 19, title = "Stompin' at the Savoy", mbid = "d0d69c33-0dd9-4aad-8663-efda71e329de" },
+  { n = 20, title = "Gin House Blues", mbid = "e3f68cb7-b203-46d6-b0b1-a6c50fe1f15a" },
+  { n = 21, title = "Where Can I Go Without You ?", mbid = "5d5a6cc1-38d1-4af0-930f-e9f0697e2890" },
+  { n = 22, title = "Willow Weep For Me", mbid = "a0c68b7c-cadf-4660-a27c-5eeb28797792" },
+  { n = 23, title = "That's Him Over There", mbid = "03810616-6bf0-4af7-9aca-fb2d53c66f90" },
+  { n = 24, title = "Tomorrow (We Will Meet Once More)", mbid = "1d7393d6-2794-4ee9-b551-347fb2867cbb" },
+  { n = 25, title = "The Man With a Horn", mbid = "860a6081-f4ff-470a-918a-6b1aa8aa7077" },
+  { n = 26, title = 'Theme from "Middle of the Night"', mbid = "39a7aafd-681c-4b47-91d1-847256a1e993" },
+  { n = 27, title = "That's All", mbid = "bde7075b-eabe-40f5-a3e1-b6ccf0265f9c" },
+  { n = 28, title = "No Woman, No Cry (Outtake)", mbid = "588e92b8-cf35-42b2-9af8-557295d6f499" },
+  { n = 29, title = "Satin Doll", mbid = "52a7f810-0cf2-45ce-afef-acb1b68ff422" },
+  { n = 30, title = "Solitude", mbid = "37bb014b-6090-48f3-96f0-060630a33f1e" },
+  { n = 31, title = "Rags and Old Iron", mbid = "d80cdcdd-d5b6-42aa-b00b-dafd8eb2cc95" },
+  { n = 32, title = "Papa, Can You Hear Me? (Remastered)", mbid = "a99b0b10-508a-4246-9ca4-524b1f540598" },
+  { n = 33, title = "Falling In Love Again", mbid = "9274a26c-be0c-4f60-8c7d-a5431ec7cec3" },
+  { n = 34, title = "Do Nothin' Till You Hear from Me", mbid = "c6ee2ff5-4a7f-40ae-9697-1c5b1ac671bc" },
+  { n = 35, title = "Chilly Winds Don't Blow", mbid = "3d2e96be-b95b-4763-86ab-1542850d439c" },
+  { n = 36, title = "Memphis In June", mbid = "a2da2b32-3b55-4a2a-ba3b-ddec83385c34" },
+  { n = 37, title = "Can't Get Out of This Mood", mbid = "5870bd1a-d1b9-43dc-a25e-7c20eba88e1f" },
+  { n = 38, title = "Love's Been Good to Me (Remastered)", mbid = "421e7670-0345-4c58-bf6b-910fba6bb736" },
+  { n = 39, title = "Blue Prelude", mbid = "a7c9ef40-b453-46f0-9ae8-489e3f129715" },
+  { n = 40, title = "A Single Woman (Remastered)", mbid = "1ae5b206-eb8a-4de6-ad90-3ab1920f3fec" },
+]
+
+[[release]]
+mbid = "7c92faa4-cdf0-49a1-931d-09edebceb034"
+title = "Feeling Good"
+type = "single"
+date = "2021-10-08"
+tracks = [
+  { n = 1, title = "Feeling Good (Joel Corry Remix Extended)", mbid = "7f2693ba-aa1d-410d-9a90-97934317be3c" },
+]

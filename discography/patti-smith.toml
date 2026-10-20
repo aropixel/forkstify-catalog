@@ -1,0 +1,484 @@
+format = 1
+artists = [
+  "d135874d-9cae-4fef-97e3-36acbd9f5a26",  # Patti Smith
+  "26638df8-ef34-40d1-8d93-616836b72878",  # Patti Smith Group
+]
+
+[[release]]
+mbid = "113a6198-e5ab-317f-98fd-c8fed9bfbe86"
+title = "Hey Joe (version) / Piss Factory"
+type = "single"
+date = "1974-11"
+tracks = [
+  { n = 1, title = "Hey Joe (version)", mbid = "f55cd2c1-e5ce-4781-afa7-7db116bbd3c6" },
+  { n = 2, title = "Piss Factory", mbid = "1b259429-75ea-42b1-b267-9da3d818a980" },
+]
+
+[[release]]
+mbid = "ff8f533c-3cb3-3877-9209-11f433edaad2"
+title = "Horses"
+type = "album"
+date = "1975-11"
+spotify = "5wfqCy3E6SOkH16Qhv7QRm"
+tracks = [
+  { n = 1, title = "Gloria", mbid = "06821d3d-c57c-466a-b0aa-060344945c2f" },
+  { n = 2, title = "Redondo Beach", mbid = "3aaabe8a-330c-4bac-90c6-6894ff49fe31" },
+  { n = 3, title = "Birdland", mbid = "7fe95863-b37a-4e08-b50e-65cf3b2ecca6" },
+  { n = 4, title = "Free Money", mbid = "7dad4e3d-2b22-44e6-bc26-3f9af45f022f" },
+  { n = 5, title = "Kimberly", mbid = "94b75fe9-6cbd-4949-993c-cf81de6657c0" },
+  { n = 6, title = "Break It Up", mbid = "d15576e6-ce05-4def-83fe-357337c82af4" },
+  { n = 7, title = "Land", mbid = "dbe01cc9-386d-430f-88a2-fd243aca0bc1" },
+  { n = 8, title = "Elegie", mbid = "d16e45c5-cfe1-4119-aae1-24047f60e9a5" },
+]
+
+[[release]]
+mbid = "5a1c9edb-c8e1-4317-8fe7-ee5002a2d65c"
+title = "Gloria"
+type = "single"
+date = "1976"
+tracks = [
+  { n = 1, title = "Gloria: In Excelsis Deo / Gloria (version)", mbid = "105f2591-7473-4334-960c-20b21fdd1e0f" },
+  { n = 2, title = "My Generation", mbid = "42d500ed-75be-4e4c-b8cd-d9c66eb191b3" },
+]
+
+[[release]]
+mbid = "eb233fd7-0ae3-38c7-b8c2-61f21bc84a35"
+title = "Radio Ethiopia"
+type = "album"
+date = "1976-10"
+tracks = [
+  { n = 1, title = "Ask the Angels", mbid = "923f5f3a-62e3-4f34-8fdc-4fe0f038bb7d" },
+  { n = 2, title = "Ain't It Strange", mbid = "9d9df48a-01d0-4eeb-a246-69cb4c1228a4" },
+  { n = 3, title = "Poppies", mbid = "80338d1d-4f7a-47f3-bd90-f5f3ef82b3df" },
+  { n = 4, title = "Pissing in a River", mbid = "038d8ae5-65ca-437e-9c40-a65997244521" },
+  { n = 5, title = "Pumping (My Heart)", mbid = "d1f9db50-b399-4651-a676-cc3450f4b760" },
+  { n = 6, title = "Distant Fingers", mbid = "23af1a5d-5e96-4f8f-9444-ae655891b549" },
+  { n = 7, title = "Radio Ethiopia", mbid = "ead41183-acca-46ee-b27b-3c5bbc2e44ea" },
+  { n = 8, title = "Abyssinia", mbid = "a8dfe333-e7ba-419b-a6ff-165a40496c2e" },
+]
+
+[[release]]
+mbid = "622a31b9-ffe9-4545-9d39-84d3339420a9"
+title = "Because the Night"
+type = "single"
+date = "1978"
+tracks = [
+  { n = 1, title = "Because the Night", mbid = "e6830714-5edf-43d2-838a-9138ffee4a76" },
+  { n = 2, title = "God Speed", mbid = "9a66af3e-49e9-4cc8-8c8c-40b23135cd11" },
+]
+
+[[release]]
+mbid = "6547165d-a986-4088-abe8-de940d021ab4"
+title = "Set Free"
+type = "ep"
+date = "1978"
+tracks = [
+  { n = 1, title = "Privilege (Set Me Free)", mbid = "74842bef-2041-4e37-b60d-5d11c5ca7004" },
+  { n = 2, title = "Ask the Angels", mbid = "923f5f3a-62e3-4f34-8fdc-4fe0f038bb7d" },
+  { n = 3, title = "25th Floor (live version)", mbid = "dfb3cac2-5cbf-4997-a11a-2117d1365a47" },
+  { n = 4, title = "Babelfield", mbid = "cecf1213-182f-472a-955c-db8f06a68d2f" },
+]
+
+[[release]]
+mbid = "93e9dc29-9c7b-334a-9765-a6fa0186b1e2"
+title = "Easter"
+type = "album"
+date = "1978-03-03"
+tracks = [
+  { n = 1, title = "Till Victory", mbid = "40f8f5d2-e175-4916-b2fc-b4362daceb19" },
+  { n = 2, title = "Space Monkey", mbid = "28f670a9-2d4d-4c8a-a91b-785f19646df7" },
+  { n = 3, title = "Because the Night", mbid = "f6655c59-8b0f-475e-8962-516ee897e7bb" },
+  { n = 4, title = "Ghost Dance", mbid = "65865536-228d-4cc1-befe-2708ed2dc9b8" },
+  { n = 5, title = "Babelogue / Rock n Roll Nigger", mbid = "302f9f88-2bbe-4c38-ac68-d33b8bc83845" },
+  { n = 6, title = "Privilege (Set Me Free)", mbid = "ff50e822-4f01-417d-9544-20600dda40d3" },
+  { n = 7, title = "We Three", mbid = "274d1852-86ae-4ced-b834-04003e03cca8" },
+  { n = 8, title = "25th Floor / High on Rebellion", mbid = "34f4c419-67c3-40c3-ad44-cca428af8379" },
+  { n = 9, title = "Easter", mbid = "abc96226-ff1f-4518-97a9-c18bfaa03457" },
+]
+
+[[release]]
+mbid = "412f2b72-9ab2-3033-a52f-e41bc5e595fa"
+title = "Wave"
+type = "album"
+date = "1979-04-27"
+tracks = [
+  { n = 1, title = "Frederick", mbid = "3f09dbc0-13f2-48eb-8c45-ee18025df4ec" },
+  { n = 2, title = "Dancing Barefoot", mbid = "adb78591-c082-4c3b-93a6-c84168dc23e4" },
+  { n = 3, title = "So You Want to Be (A Rock 'n' Roll Star)", mbid = "7ad6ea73-bb59-455c-b570-f0d5a6194cac" },
+  { n = 4, title = "Hymn", mbid = "ecd4c62d-17e9-45b5-8af5-92d09ae302c5" },
+  { n = 5, title = "Revenge", mbid = "458df733-4b9c-4d22-b758-99e022f18cc9" },
+  { n = 6, title = "Citizen Ship", mbid = "e7f511d3-51eb-419f-8d9e-1c6dbe767d47" },
+  { n = 7, title = "Seven Ways of Going", mbid = "103ae81e-d616-4c71-b39b-4043a1debc1b" },
+  { n = 8, title = "Broken Flag", mbid = "18c3bb96-8629-4792-a0fb-f5c2ce58e71f" },
+  { n = 9, title = "Wave", mbid = "7d32b6bb-bb3a-424d-86c9-b070433d2851" },
+]
+
+[[release]]
+mbid = "354f0f37-dd01-378f-96f5-0e977dcba84e"
+title = "So You Want to Be a Rock 'n' Roll Star"
+type = "single"
+date = "1979-08"
+tracks = [
+  { n = 1, title = "So You Want to Be a Rock 'n' Roll Star", mbid = "7ad6ea73-bb59-455c-b570-f0d5a6194cac" },
+  { n = 2, title = "5-4-3-2-1 (live)", mbid = "476195f7-687f-440f-a6e0-33586b782579" },
+  { n = 3, title = "A Fire of Unknown Origin", mbid = "8c10a4c4-5adb-4ad8-a240-b61b7e67853c" },
+]
+
+[[release]]
+mbid = "3314b780-46dd-4975-8a6a-e2c81ea7c9f5"
+title = "Because the Night"
+type = "ep"
+date = "1983"
+tracks = [
+  { n = 1, title = "Because the Night", mbid = "5af2e48a-4f40-4b38-b2ca-a41989e140b8" },
+  { n = 2, title = "Redondo Beach", mbid = "e91c3bd0-208f-4957-8148-b25f859e8445" },
+  { n = 3, title = "Dancing Barefoot", mbid = "adb78591-c082-4c3b-93a6-c84168dc23e4" },
+  { n = 4, title = "Free Money", mbid = "7dad4e3d-2b22-44e6-bc26-3f9af45f022f" },
+]
+
+[[release]]
+mbid = "6c19b327-660a-3001-a911-3a6bd2d79b19"
+title = "Because the Night"
+type = "single"
+date = "1983"
+tracks = [
+  { n = 1, title = "Because the Night", mbid = "5af2e48a-4f40-4b38-b2ca-a41989e140b8" },
+  { n = 2, title = "Gloria", mbid = "95d9dde5-8540-47d1-8d64-bbec0cb0ad7a" },
+]
+
+[[release]]
+mbid = "8ed73aa6-e77b-4dff-95f2-1e2e52d5f9ef"
+title = "Looking for You (I Was)"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Looking for You (I Was)", mbid = "59f80755-fcde-46f7-b5fe-9ebaa34eb7b0" },
+  { n = 2, title = "Up There Down There", mbid = "84cb412c-5def-4865-bc25-0b5d98aef59e" },
+]
+
+[[release]]
+mbid = "92f0659b-0d81-3491-a2ad-6028ddcbd628"
+title = "Dream of Life"
+type = "album"
+date = "1988-06"
+tracks = [
+  { n = 1, title = "People Have the Power", mbid = "1b7cabaf-2462-48b0-b62e-22c21594522b" },
+  { n = 2, title = "Going Under", mbid = "161e61d5-907a-4f9a-a442-9e541079a5e2" },
+  { n = 3, title = "Up There Down There", mbid = "84cb412c-5def-4865-bc25-0b5d98aef59e" },
+  { n = 4, title = "Paths That Cross", mbid = "a381b156-9dfd-429d-bfe3-bdcc5339d411" },
+  { n = 5, title = "Dream of Life", mbid = "7ba4aa28-6888-4cfb-bee6-33db79103864" },
+  { n = 6, title = "Where Duty Calls", mbid = "86eb3517-0eae-4f07-b855-14da1cd03492" },
+  { n = 7, title = "Looking for You (I Was)", mbid = "74971d94-e869-4dcf-a71b-89b7a3c5e175" },
+  { n = 8, title = "The Jackson Song", mbid = "151c390c-7e11-4f10-bf1f-17d502cfabbf" },
+]
+
+[[release]]
+mbid = "c94d1275-84bd-3a43-b281-3594b985b3fe"
+title = "People Have the Power"
+type = "single"
+date = "1988-06"
+tracks = [
+  { n = 1, title = "People Have the Power", mbid = "4339c1cc-e694-4d6b-a81e-84bff32f8459" },
+  { n = 2, title = "People Have the Power (single version)", mbid = "c6cf9fc7-25f0-4abc-b868-8155dade67af" },
+  { n = 3, title = "Where Duty Calls", mbid = "0d6bc500-19c8-44ea-9716-4b8e7c6ceb09" },
+  { n = 4, title = "Wild Leaves", mbid = "f2615a2f-ac3b-4b6e-a75d-c096b9f27c9a" },
+]
+
+[[release]]
+mbid = "f1f9a109-407f-41ad-adb1-6a4f47bac9e1"
+title = "Summer cannibals"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Summer Cannibals", mbid = "b7eadd8e-8905-4e98-9606-78c46302333d" },
+  { n = 2, title = "Come Back Little Sheba", mbid = "aeaae24b-585e-4350-913d-9b9f42f6ad44" },
+  { n = 3, title = "Come On In My Kitchen", mbid = "a9c11c2c-7e7e-4a8b-a62d-d71d89945f96" },
+  { n = 4, title = "People Have the Power", mbid = "1b7cabaf-2462-48b0-b62e-22c21594522b" },
+]
+
+[[release]]
+mbid = "498d5023-1c87-38e3-b24c-065691b8586f"
+title = "Gone Again"
+type = "album"
+date = "1996-06-18"
+spotify = "70BHwvG9ikXsffsWfHrWzi"
+tracks = [
+  { n = 1, title = "Gone Again", mbid = "a0bb6605-cb71-402f-8ecf-150768baa6ee" },
+  { n = 2, title = "Beneath the Southern Cross", mbid = "dfc0e952-c063-42bf-b208-f330be044798" },
+  { n = 3, title = "About a Boy", mbid = "c5b908ff-d67d-46cc-865b-73a007eccc5a" },
+  { n = 4, title = "My Madrigal", mbid = "57cad02d-e128-4656-a545-5c7c48e38f7a" },
+  { n = 5, title = "Summer Cannibals", mbid = "b7eadd8e-8905-4e98-9606-78c46302333d" },
+  { n = 6, title = "Dead to the World", mbid = "9a184396-0551-4aef-a06a-6364ce28033d" },
+  { n = 7, title = "Wing", mbid = "2ff3940f-e796-4190-bbb4-03fe32981f72" },
+  { n = 8, title = "Ravens", mbid = "d8cfc8e8-6064-497e-8be9-91ea5a8e70b5" },
+  { n = 9, title = "Wicked Messenger", mbid = "f45e09a8-f3e4-4d94-b8be-8b7dbd12bbb8" },
+  { n = 10, title = "Fireflies", mbid = "099d265f-f639-43b8-870d-f44317b5dc8f" },
+  { n = 11, title = "Farewell Reel", mbid = "76e3e18c-14ed-4139-ba3c-a28be4b70a34" },
+]
+
+[[release]]
+mbid = "c27e99ad-6ab4-35dd-b424-204c68755ba6"
+title = "Peace and Noise"
+type = "album"
+date = "1997-09-30"
+tracks = [
+  { n = 1, title = "Waiting Underground", mbid = "1fb75f7f-6606-400d-a262-d4d8ac2958c3" },
+  { n = 2, title = "Whirl Away", mbid = "b2cb1dfb-961e-4dfe-9459-7bc028322a1b" },
+  { n = 3, title = "1959", mbid = "88ab89cc-6e3c-4972-a5d5-370494a17beb" },
+  { n = 4, title = "Spell", mbid = "a0267c5f-39c1-44a3-b9d3-9006d57e8ad5" },
+  { n = 5, title = "Don't Say Nothing", mbid = "662ef867-8a9b-42c4-999c-714ede7717bb" },
+  { n = 6, title = "Dead City", mbid = "cf4b0135-b990-4dcd-a54e-e6a3bb473ab3" },
+  { n = 7, title = "Blue Poles", mbid = "3c6feb13-9696-430c-9c22-f6f401779701" },
+  { n = 8, title = "Death Singing", mbid = "44dded21-2e94-49e7-804c-621fe052524d" },
+  { n = 9, title = "Memento Mori", mbid = "5548545c-871d-4bba-8ecf-65ef8332bd81" },
+  { n = 10, title = "Last Call", mbid = "e40c0f59-dd00-43c3-be1f-284558e7beec" },
+]
+
+[[release]]
+mbid = "6d5520df-b433-3376-a0c3-3dba9dc5973a"
+title = "Gung Ho"
+type = "album"
+date = "2000-03-20"
+tracks = [
+  { n = 1, title = "One Voice", mbid = "ec119bec-36ce-42e1-b12d-d7bb57e424a6" },
+  { n = 2, title = "Lo and Beholden", mbid = "dd5f326a-bf5a-4a19-b6e3-a7dd3ccc7e45" },
+  { n = 3, title = "Boy Cried Wolf", mbid = "ac220561-d05b-4788-8e17-d062c8ff6c20" },
+  { n = 4, title = "Persuasion", mbid = "b15248d4-bdec-44bd-98e3-b3e87bba5fe3" },
+  { n = 5, title = "Gone Pie", mbid = "e11aaad0-ad1f-4228-aab5-d5a8c286a909" },
+  { n = 6, title = "China Bird", mbid = "ae8c8e9a-9b96-4bd7-8266-ee611d90948f" },
+  { n = 7, title = "Glitter in Their Eyes", mbid = "c60f1666-eb3d-46f5-99a3-08a0f52bb2c4" },
+  { n = 8, title = "Strange Messengers", mbid = "b2d7a551-c58d-4844-a473-e97548d7b0cf" },
+  { n = 9, title = "Grateful", mbid = "9d272a89-02b6-44f3-aefc-ae3e366d0a07" },
+  { n = 10, title = "Upright Come", mbid = "7e98c9ca-d63b-4ca4-8c23-784bf0c77558" },
+  { n = 11, title = "New Party", mbid = "4f97cef5-a9dc-4890-b34b-d974e997f3c7" },
+  { n = 12, title = "Libbie's Song", mbid = "81f87da3-7777-4966-9a15-5806226a6691" },
+  { n = 13, title = "Gung Ho", mbid = "9cb8dec3-5df3-4220-a39c-f73f80f3484a" },
+]
+
+[[release]]
+mbid = "dccc8ac2-da0c-3563-95ff-21f9de4cef8c"
+title = "Trampin’"
+type = "album"
+date = "2003"
+tracks = [
+  { n = 1, title = "Jubilee", mbid = "49a9e0d8-bda8-4f72-ac9c-364e731493d2" },
+  { n = 2, title = "Mother Rose", mbid = "01d82686-1e66-461d-af16-8fbc11d3e9b8" },
+  { n = 3, title = "Stride of the Mind", mbid = "b0436a44-820e-486b-bd1f-b387a62f23eb" },
+  { n = 4, title = "Cartwheels", mbid = "caf64aeb-04c5-4172-aa5e-ee092d387060" },
+  { n = 5, title = "Gandhi", mbid = "1917890d-0506-4e87-ae13-5e45da8afe6d" },
+  { n = 6, title = "Trespasses", mbid = "828adf75-49d8-496a-8ed7-f71e527439c9" },
+  { n = 7, title = "My Blakean Year", mbid = "4bb401d8-f6a5-4dd3-b845-85c695e45c18" },
+  { n = 8, title = "Cash", mbid = "2641a23e-3e53-47d9-92cd-a779515cf43d" },
+  { n = 9, title = "Peaceable Kingdom", mbid = "f3390b76-d73c-4755-a69c-4a59ccb6a3b2" },
+  { n = 10, title = "Radio Baghdad", mbid = "a8c1110f-bc09-44f9-b9f7-dc5faca6807c" },
+  { n = 11, title = "Trampin’", mbid = "58d77540-1446-4b20-9f51-fd45b7836409" },
+]
+
+[[release]]
+mbid = "0e395193-c6b2-407a-9dd4-da762ce34187"
+title = "Jubilee"
+type = "single"
+date = "2004-04-13"
+tracks = [
+  { n = 1, title = "Jubilee", mbid = "a5b1f648-ae08-47b0-937c-3988a1f47b67" },
+]
+
+[[release]]
+mbid = "9850b99e-05b7-4bbd-b69f-aef44c88e358"
+title = "Gimme Shelter"
+type = "single"
+date = "2007-04-13"
+tracks = [
+  { n = 1, title = "Gimme Shelter", mbid = "1873d231-f217-4c3f-8242-16a0e207ff61" },
+]
+
+[[release]]
+mbid = "60b69db0-3651-3bb2-9d5b-87d8c09fdf59"
+title = "Twelve"
+type = "album"
+date = "2007-04-13"
+spotify = "3hlHi5Mz5hRao09uUvT0ta"
+tracks = [
+  { n = 1, title = "Are You Experienced?", mbid = "83dcdc74-ed72-4bb1-b2d6-5747715fbf89" },
+  { n = 2, title = "Everybody Wants to Rule the World", mbid = "25a45cd4-b447-4923-9bc5-b4d5db91e504" },
+  { n = 3, title = "Helpless", mbid = "a8c8ba6e-eb51-4e48-8844-c8aab8cd3852" },
+  { n = 4, title = "Gimme Shelter", mbid = "47af09fe-2a69-46bc-8d1b-aec59aec810c" },
+  { n = 5, title = "Within You Without You", mbid = "1c8f5ae1-da87-4348-98d9-9e4100b4ce1a" },
+  { n = 6, title = "White Rabbit", mbid = "71fac0b6-115b-446c-8fa2-2b3e5a455d6c" },
+  { n = 7, title = "Changing of the Guards", mbid = "31805318-5b1a-4d26-9393-e25da464773a" },
+  { n = 8, title = "The Boy in the Bubble", mbid = "7bdde5a8-ae61-4925-b36a-bdeee5f54b24" },
+  { n = 9, title = "Soul Kitchen", mbid = "81698df6-f954-4739-8a1f-e68089096bbd" },
+  { n = 10, title = "Smells Like Teen Spirit", mbid = "849a119a-b38b-4b90-9168-072bcb86265c" },
+  { n = 11, title = "Midnight Rider", mbid = "08da5bf1-7369-4eb3-a0e3-50b93c186d67" },
+  { n = 12, title = "Pastime Paradise", mbid = "5dd4d18f-7a82-4c2c-ab4c-790c16022fe6" },
+]
+
+[[release]]
+mbid = "9161b942-016b-478d-8d49-daa9ff46f3e7"
+title = "April Fool"
+type = "single"
+date = "2012-04-01"
+spotify = "4Nhtp0iSdvBp5mTJaAYFoz"
+tracks = [
+  { n = 1, title = "April Fool", mbid = "a923973a-795a-47ce-95e7-bccebdab4c40" },
+]
+
+[[release]]
+mbid = "bfcf3e2e-f81f-4cb5-acbc-8679a6e7c4ed"
+title = "Banga"
+type = "album"
+date = "2012-06-04"
+tracks = [
+  { n = 1, title = "Amerigo", mbid = "18611439-1ccc-4a7f-b10e-4314ca3c2157" },
+  { n = 2, title = "April Fool", mbid = "a923973a-795a-47ce-95e7-bccebdab4c40" },
+  { n = 3, title = "Fuji-san", mbid = "a169905b-c874-4c40-8ae8-dc96e3eb6441" },
+  { n = 4, title = "This Is the Girl", mbid = "08b561d4-6869-48aa-8c28-be6608b6d905" },
+  { n = 5, title = "Banga", mbid = "69699cb5-be3d-4bb2-8b1f-d8be2514cb28" },
+  { n = 6, title = "Maria", mbid = "449916d3-296a-4560-813b-e4a08641058a" },
+  { n = 7, title = "Mosaic", mbid = "b323c3b4-1ba1-4f36-a3ab-5f23ba2bd5b3" },
+  { n = 8, title = "Tarkovsky (The Second Stop Is Jupiter)", mbid = "e3201ec2-0000-4e7b-9b38-32477a9a4c83" },
+  { n = 9, title = "Nine", mbid = "8581cdbe-3d1d-4e39-8b33-849a12c3d179" },
+  { n = 10, title = "Seneca", mbid = "fe622c13-8e16-410f-b1b1-94b571881ef1" },
+  { n = 11, title = "Constantine's Dream", mbid = "22e25f87-71a3-4dd2-ad02-d338953ae85b" },
+  { n = 12, title = "After the Gold Rush", mbid = "6c17666c-c3a0-4976-a992-6b4e572bb2ad" },
+]
+
+[[release]]
+mbid = "6388bf4a-72c6-407e-b88f-c9038dc82c2c"
+title = "Killer Road"
+type = "album"
+date = "2016-06-02"
+spotify = "6JRr5NUJL1hhY4KtK5ifLC"
+tracks = [
+  { n = 1, title = "Killer Road", mbid = "24167138-fa59-402c-93ab-2ecf4f42c1e9" },
+  { n = 2, title = "My Heart Is Empty", mbid = "918a5456-ad72-4186-86c7-521733cc4c20" },
+  { n = 3, title = "Evening of Light", mbid = "474e9de1-1305-4107-825c-5e255987ce52" },
+  { n = 4, title = "Saeta", mbid = "382bbc92-07a4-4607-8266-57cf8d79b9c1" },
+  { n = 5, title = "Secret Side", mbid = "246810c7-793d-461b-81c3-fcaf43469212" },
+  { n = 6, title = "Fearfully in Danger (live)", mbid = "bc6518e4-5aef-4ffc-8dfc-e2b74d7dccea" },
+  { n = 7, title = "I Will Be Seven (live)", mbid = "39d4680a-bfd8-4806-9132-4f47f6319758" },
+  { n = 8, title = "The Sphinx (live)", mbid = "53c46822-d3dd-4023-a2eb-5fbb3de1ddb4" },
+  { n = 9, title = "My Only Child", mbid = "b2251929-5340-4ded-a431-bd9317f5d48e" },
+]
+
+[[release]]
+mbid = "09e1c54a-626e-45f8-97a7-46376f248681"
+title = "These Are the Words (from “Pope Francis: A Man of His Word”)"
+type = "single"
+date = "2018-07-13"
+spotify = "2fXB301xeX4kcuMd4lD5x6"
+tracks = [
+  { n = 1, title = "These Are the Words (from “Pope Francis: A Man of His Word”)", mbid = "160f890f-2c7f-441f-b8ac-10f545323eaa" },
+]
+
+[[release]]
+mbid = "e3fca626-4e21-4303-a3e9-59c5e6d90d11"
+title = "The Peyote Dance"
+type = "album"
+date = "2019-05-31"
+spotify = "3Gfv4jQB9nyd5oMsyuoX8O"
+tracks = [
+  { n = 1, title = "Una nota sobre el peyote", mbid = "1603b63e-4a00-4be4-a77e-b500552fcab4" },
+  { n = 2, title = "Indian Culture", mbid = "1ee069ec-9898-4e69-a88a-ec6882cad008" },
+  { n = 3, title = "Tutuguri: The Rite of the Black Sun", mbid = "ead93a13-cfc9-467a-8878-3cec9f2c17b0" },
+  { n = 4, title = "Tutuguri: The Rite of Black Night", mbid = "8d7b8a5c-07b2-4960-b98b-866f9c260fea" },
+  { n = 5, title = "The New Revelations of Being", mbid = "c4f41bca-aa81-475a-8b5e-e4d5a2739f4d" },
+  { n = 6, title = "Alienation and Black Magic", mbid = "72ff5912-0fb3-4b3e-9215-4ceffe92d522" },
+  { n = 7, title = "Ivry", mbid = "58934338-27cd-4edb-8138-5837c0b3f492" },
+  { n = 8, title = "Basalówala Aminá Ralámuli Paísila", mbid = "c7b3cce0-bf14-4334-bc1f-e645c5d00f18" },
+]
+
+[[release]]
+mbid = "6d1d821c-7da7-41c8-a7a0-9f00de3c49a0"
+title = "Farewell"
+type = "single"
+date = "2019-10-15"
+spotify = "5HeLFT2g320WrwFxsLevrx"
+tracks = [
+  { n = 1, title = "Farewell", mbid = "ea527a1a-1d6e-46be-a6d3-c1763da6e0a8" },
+]
+
+[[release]]
+mbid = "0070d13d-51a7-49c6-8908-5735faab7174"
+title = "Mummer Love"
+type = "album"
+date = "2019-11-08"
+spotify = "7CGzxOiNER9RMNsnfWh1W1"
+tracks = [
+  { n = 1, title = "Aw Abadir", mbid = "1ee6e500-74cc-4e7b-9b39-fa6e365434fa" },
+  { n = 2, title = "La Maison de Rimbaud", mbid = "0f6796c9-bdbf-402d-b464-7a840df1aa73" },
+  { n = 3, title = "Eternity", mbid = "cc6551e9-6fcf-44e6-b471-546f0b78ffc6" },
+  { n = 4, title = "Song of the Highest Tower", mbid = "5290122a-91b0-4b79-9cb1-fa95d6215512" },
+  { n = 5, title = "Mummer Love", mbid = "fd739e41-0aa1-43bc-a020-bb8f55bac4f0" },
+  { n = 6, title = "Farewell", mbid = "ea527a1a-1d6e-46be-a6d3-c1763da6e0a8" },
+  { n = 7, title = "Bad Blood", mbid = "39779f5b-2e1b-40a9-97be-52822eb178cd" },
+  { n = 8, title = "Sensation", mbid = "37950387-077b-4132-9802-df694a97ac38" },
+]
+
+[[release]]
+mbid = "9ec80a72-524f-4175-b963-c7efad08fb78"
+title = "Peradam"
+type = "single"
+date = "2020-06-16"
+spotify = "4M3eXQSC6HdiNQFRoFq0Z2"
+tracks = [
+  { n = 1, title = "Peradam", mbid = "378a5735-b7df-4dd7-9fbe-0ed7b7a67a52" },
+]
+
+[[release]]
+mbid = "9436144b-3545-4417-974a-b7e982bcd05f"
+title = "Knowledge of the Self"
+type = "single"
+date = "2020-07-28"
+spotify = "7ilRgubZLA5U0YVop2nicM"
+tracks = [
+  { n = 1, title = "Knowledge of the Self", mbid = "01da194e-9436-416a-a9c7-8dbc55417d71" },
+]
+
+[[release]]
+mbid = "2fe77004-980d-4ebf-921a-cb0d44b3dd14"
+title = "Peradam"
+type = "album"
+date = "2020-09-03"
+spotify = "1Tcth0kNqr71gxFMCvoqQi"
+tracks = [
+  { n = 1, title = "Nanda Devi", mbid = "70164a44-d712-4114-b6d6-4f40653f757c" },
+  { n = 2, title = "Peradam", mbid = "378a5735-b7df-4dd7-9fbe-0ed7b7a67a52" },
+  { n = 3, title = "Knowledge of the Self", mbid = "01da194e-9436-416a-a9c7-8dbc55417d71" },
+  { n = 4, title = "Dawn in Rishikesh", mbid = "28463c1e-9f39-478b-a30b-f370962cc807" },
+  { n = 5, title = "Spiritual Death", mbid = "48432dc7-c644-407a-aea7-80005677fdf0" },
+  { n = 6, title = "The Four Cardinal Times", mbid = "9672013d-b960-48ea-b79a-8cf11e86b692" },
+  { n = 7, title = "Hymn to the Liquid", mbid = "7a094c4a-089f-40b8-b5e7-8f7e051dc8f0" },
+  { n = 8, title = "Vera", mbid = "608879dc-79bb-4fce-9769-6c54d0999db9" },
+  { n = 9, title = "The Rat", mbid = "35656f8f-f45d-4cf4-b431-d20671c12a98" },
+]
+
+[[release]]
+mbid = "ce5de1d1-07f3-49d8-aae2-7da52151ccba"
+title = "Correspondences, Vol. 1"
+type = "album"
+date = "2024-05-03"
+tracks = [
+  { n = 1, title = "Pasolini", mbid = "8a7a9380-d55b-42a9-89b9-6460db55b63d" },
+  { n = 2, title = "Medea", mbid = "98216ccb-bd87-41df-9841-4c3e6c4bb97f" },
+]
+
+[[release]]
+mbid = "02bf5478-3408-409b-9e27-be608f2ca064"
+title = "Correspondences, Volume Two"
+type = "album"
+date = "2025-05"
+tracks = [
+  { n = 1, title = "Children of Cherbobyl", mbid = "cd91ae72-3816-405a-8ddf-5a519d959cd3" },
+  { n = 2, title = "The Acolyte, the Artist and Nature", mbid = "15aef7fd-7dcb-4877-a0c5-0df6e106a68a" },
+]
+
+[[release]]
+mbid = "8d020709-67b8-4a24-8712-dcc8e9d41004"
+title = "Snowball"
+type = "single"
+date = "2025-08-22"
+spotify = "36qDPABaXGNyc4bdbWDjwL"
+tracks = [
+  { n = 1, title = "Snowball", mbid = "3c61d144-7d13-4b1c-9bdc-4396bc300208" },
+]

@@ -1,0 +1,66 @@
+format = 1
+
+[[release]]
+mbid = "a256ac5f-fe93-4411-a385-242c6a0da0f8"
+title = "Baton Rouge"
+type = "ep"
+date = "2016-10-22"
+tracks = [
+  { n = 1, title = "Baton Rouge", mbid = "9ef0e4e0-c3cb-48a5-980f-b7b63071e032" },
+  { n = 2, title = "Noir Nord", mbid = "a3bc8d2f-ec60-45f0-a08d-762974102a5b" },
+  { n = 3, title = "The Darkest City", mbid = "2c7ff25c-fa9b-43a2-8de3-1a5338d1baff" },
+  { n = 4, title = "Comme il se dissout", mbid = "05889e06-63ff-474f-9c2c-ee7f24af9e89" },
+  { n = 5, title = "Orange Sylvestre", mbid = "dd61e97a-7297-46cf-80fe-a0e1a4dbe1c8" },
+  { n = 6, title = "Dame Damoclès", mbid = "b6b05adc-54a4-4dad-a742-eaf8afd42fb2" },
+]
+
+[[release]]
+mbid = "6c41f75b-6f7c-4e33-9eae-330f0f2f2eaf"
+title = "Grand Paon de Nuit"
+type = "album"
+date = "2018-05-04"
+spotify = "7JVXv1B0WlLxPMmKoYsL12"
+tracks = [
+  { n = 1, title = "Comme ce rouge me plaît", mbid = "142eadba-9163-44b3-b9c6-4cb8cc03ceb3" },
+  { n = 2, title = "Paris - l'ombre", mbid = "e4a34cf6-dce0-4b15-bc79-77584ef2c6b9" },
+  { n = 3, title = "Baton rouge", mbid = "96fa1a27-9c1b-4882-95fd-ad6a293ba90b" },
+  { n = 4, title = "City of Light", mbid = "cb1c181d-994f-4ba0-b0c1-25191ae6005a" },
+  { n = 5, title = "Ecchymose", mbid = "12720db3-417d-40c4-92fc-76459f4058b3" },
+  { n = 6, title = "Golden Trinckets", mbid = "deffb684-b3ba-46d7-b743-b75e2511ae83" },
+  { n = 7, title = "Marions-nous", mbid = "929de505-6d55-43ee-8245-e938d82cff4b" },
+  { n = 8, title = "Stockholm", mbid = "261f86fd-0f5f-4c6d-a571-711a2dcd2a63" },
+  { n = 9, title = "Faux brouillards", mbid = "b067254d-8506-4e51-949f-020f1fca1c30" },
+  { n = 10, title = "Grand paon de nuit", mbid = "d343b61f-81e6-4d04-ae64-ca01fa0caa00" },
+  { n = 11, title = "C'était un loup", mbid = "4b97df90-ebcb-425e-b5df-e462e5814050" },
+]
+
+[[release]]
+mbid = "3ba6774d-a6c9-4b01-84eb-35044e0bdaab"
+title = "Talismanie"
+type = "ep"
+date = "2021-11-05"
+tracks = [
+  { n = 1, title = "Elénore", mbid = "4c29f102-ca99-44e7-96ad-8a5d93069555" },
+  { n = 2, title = "Jane Jane", mbid = "c44d63b3-cb77-4c29-97c2-81fa1537abb8" },
+  { n = 3, title = "La Main", mbid = "e65be877-71f7-40bf-afff-b0ff55e1160b" },
+  { n = 4, title = "The Everynight Banshee", mbid = "1da0e1d4-ed2e-4919-b93a-39b0f4624aeb" },
+  { n = 5, title = "Samovar", mbid = "53aa5e3c-e57a-4133-b306-7d28a258a90c" },
+]
+
+[[release]]
+mbid = "d3cee224-ac5a-4c2a-ad16-f2fc06a284e9"
+title = "Phantômaton"
+type = "album"
+date = "2023-01-20"
+tracks = [
+  { n = 1, title = "Château Lointaine", mbid = "ca6d21ec-9073-4849-ac66-c08fe0d99b5a" },
+  { n = 2, title = "Calice", mbid = "9e95ebdb-eccf-4e23-afb2-af8c6b8c783d" },
+  { n = 3, title = "I Waltz Unseen", mbid = "b1cf8883-9512-4bd1-aedf-31e5b065a043" },
+  { n = 4, title = "Ma peau", mbid = "a686d580-a683-48c4-ba1f-5474afe32fd7" },
+  { n = 5, title = "La Sentinelle Amadouée", mbid = "c09bc53a-13e3-48a3-93a6-93c3613f70a6" },
+  { n = 6, title = "Dangereuses", mbid = "23256141-9442-4599-9848-fcc638af1abb" },
+  { n = 7, title = "Go Fast", mbid = "9f40ad16-953e-400c-a3b1-d56c3c341c64" },
+  { n = 8, title = "Les glaces ou le feu", mbid = "a3878512-8cd2-4e5b-b350-deb18d41304b" },
+  { n = 9, title = "Killer Moon", mbid = "9f1fce60-ce14-489d-a801-ea09a08c118d" },
+  { n = 10, title = "Orée", mbid = "ec129bf1-0654-4d56-b470-ce014c637540" },
+]

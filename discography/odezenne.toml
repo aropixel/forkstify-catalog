@@ -1,0 +1,367 @@
+format = 1
+
+[[release]]
+mbid = "34b1a0d0-67bb-47d9-86ff-df90790393d6"
+title = "Sans. Chantilly"
+type = "album"
+date = "2008-11-25"
+tracks = [
+  { n = 1, title = "Préambule", mbid = "e51a8f9d-2bf3-4bf3-9ee0-8b247c782650" },
+  { n = 2, title = "Assez", mbid = "1e8a752d-f1e2-4d60-9ace-45fc569f5b56" },
+  { n = 3, title = "En bas de ma fenêtre", mbid = "5659e766-e7ef-4091-bd86-883877b0cfb9" },
+  { n = 4, title = "Dis moi", mbid = "ae17e454-453e-4938-8e32-b5a6fd77d20f" },
+  { n = 5, title = "Tic tac", mbid = "5597ddf6-a7d9-4554-afdb-79eea4afaa9b" },
+  { n = 6, title = "Danse des morts", mbid = "bcb3b9c3-bfc9-40f6-a794-1982e1e40362" },
+  { n = 7, title = "Interlude I", mbid = "edab66e8-2393-4122-8267-dc6573ef9afd" },
+  { n = 8, title = "Feuille blanche", mbid = "82cc154b-66e5-4a2d-bdd8-bb4d9166a627" },
+  { n = 9, title = "Destin croisé", mbid = "e9c7d240-6793-404e-9ac5-8b50e288bd0c" },
+  { n = 10, title = "Existe petit bout de rien", mbid = "5c0776ac-b6de-4e32-8d4a-3e39ae43f0ba" },
+  { n = 11, title = "Ca va ça vient", mbid = "ed1f7072-6887-4e42-aa50-17eca159170b" },
+  { n = 12, title = "Interlude II", mbid = "2bdc08ff-8cd3-4cbb-8e70-3c9f3fcfddaa" },
+  { n = 13, title = "Bonus track : Chat suicide", mbid = "36017b4a-1ad3-4b41-8aeb-ce3fa88e2326" },
+  { n = 14, title = "Impalpable", mbid = "9320ab2e-adff-4478-8885-b3815d26a1d9" },
+  { n = 15, title = "Souvenir", mbid = "b4f4cf96-f1fc-40da-a688-6d3739461bd0" },
+  { n = 16, title = "Mr 2007", mbid = "10113f5f-172d-4176-8848-a7744879ea74" },
+  { n = 17, title = "Interlude III", mbid = "2a60aa6e-6783-4b27-a784-d3585f4fe218" },
+  { n = 18, title = "Le plus beau cul du monde", mbid = "388fa9cd-59f3-454b-9cbd-d3dc949a8973" },
+  { n = 19, title = "Schizo", mbid = "78f45841-73a8-48a0-8116-317321df8d60" },
+  { n = 20, title = "1 meuge", mbid = "a95f36ad-c8e6-4c0b-81c6-72de17ef9705" },
+]
+
+[[release]]
+mbid = "768ed3fa-b450-403e-9b68-808449101c3b"
+title = "OVNI"
+type = "album"
+date = "2012-03-22"
+tracks = [
+  { n = 1, title = "I - DES CHAPEAUX DANS DES LAPINS", mbid = "ec3eebe2-8b7b-4ea6-b132-2d709a404437" },
+  { n = 2, title = "Saxophone", mbid = "39e4017f-493f-4183-b9d3-0257556885b1" },
+  { n = 3, title = "Chewing Gum", mbid = "f4ec3285-9f0b-44ef-a71a-4ec2b4f18dc4" },
+  { n = 4, title = "Dedans", mbid = "bd31277d-c9e6-4f12-b545-d2df8d4c4942" },
+  { n = 5, title = "Nasty", mbid = "08c15154-c3ce-4cdf-af2c-b13c692690a1" },
+  { n = 6, title = "Gomez", mbid = "f755f74f-0e13-4039-92f0-dd3a20a17625" },
+  { n = 7, title = "Deux dix cent", mbid = "3f51a68e-ca84-49e3-92eb-c17f7edc6c69" },
+  { n = 8, title = "VIII - L’ESPRIT DU TANK", mbid = "01a0e567-0b41-4e04-8ee2-7e7efc220403" },
+  { n = 9, title = "Méli-mélo", mbid = "0dcb0b0b-e24b-4ea5-8a7e-5fa87b4d91e2" },
+  { n = 10, title = "Taxi", mbid = "b3d5e9fb-d93f-4c86-b5fa-1955e6f941d7" },
+  { n = 11, title = "Maux doux", mbid = "cf6f2914-f239-45ff-a3eb-58bb25b0ebd1" },
+  { n = 12, title = "Boom boom", mbid = "2cacb583-98e9-4f9a-9978-fbbc3146beb6" },
+  { n = 13, title = "Hirondelles", mbid = "ac825e74-3664-449f-bfaf-8a2b2c12cca0" },
+  { n = 14, title = "XIV - MAISON CLOSE", mbid = "3dc03062-a254-458e-8fd5-db9de7c51956" },
+  { n = 15, title = "Mérédith", mbid = "3ba5769f-6d6f-4fcb-9d2b-9783344e01dd" },
+  { n = 16, title = "Tu pu du cu", mbid = "4146814e-5c59-4329-8e6d-fafbeed9c756" },
+  { n = 17, title = "Paranoïd", mbid = "7bfbc7f3-1a84-4298-bff5-4019f7e26d61" },
+  { n = 18, title = "La Pomme", mbid = "5c058de8-d714-4476-ab2c-0f8d5a43458f" },
+  { n = 19, title = "Fable", mbid = "4a41955b-cd2b-4d10-8bd9-2a1ba6fa99a8" },
+  { n = 20, title = "XX - PETIT ABRICOT", mbid = "6c152b91-59a9-48b8-a914-acd3c878b9ed" },
+]
+
+[[release]]
+mbid = "2e2dd32b-463d-4070-8d1f-82d8ecee7d44"
+title = "Bûche"
+type = "single"
+date = "2013-12-25"
+tracks = [
+  { n = 1, title = "Bûche", mbid = "428f0c45-1884-4aec-9898-1847af4f319e" },
+]
+
+[[release]]
+mbid = "130bfa84-6dfa-4167-a024-12224295e412"
+title = "Rien"
+type = "ep"
+date = "2014-05-26"
+tracks = [
+  { n = 1, title = "Rien", mbid = "0fda2a42-d296-46ca-8d66-991b682949fa" },
+  { n = 2, title = "Chimpanzé", mbid = "2f531315-dbb7-4929-b324-b0a6c168e893" },
+  { n = 3, title = "Je veux te baiser", mbid = "6c35a01b-f465-4153-8aed-d4568f88acc1" },
+  { n = 4, title = "Novembre", mbid = "bd079bcc-9241-4011-8361-e0b9a8209a80" },
+  { n = 5, title = "Dieu était grand", mbid = "9b23c795-554c-4a0f-872b-65fe1899eb2d" },
+]
+
+[[release]]
+mbid = "ae8ebc85-918a-4f31-84fb-1758d09c7c98"
+title = "Dolziger Str. 2"
+type = "album"
+date = "2015-11-13"
+tracks = [
+  { n = 1, title = "Un corps à prendre", mbid = "6dd9373f-caaa-448d-8ae0-7f7f040faee3" },
+  { n = 2, title = "Bouche à lèvres", mbid = "150ebed6-c10b-4769-bfe1-53122767960a" },
+  { n = 3, title = "Vilaine", mbid = "8cf0ae75-5616-4548-ad9e-75dcf6d4eb2c" },
+  { n = 4, title = "Cabriolet", mbid = "21bedb9b-84ea-4f7f-b607-f579e85c1b5d" },
+  { n = 5, title = "Souffle le vent", mbid = "85f09709-da14-468c-a8ea-0675fc436ef7" },
+  { n = 6, title = "Vodka", mbid = "0ef80287-9ec9-4930-ab8e-d8cf063f0d00" },
+  { n = 7, title = "Boubouche", mbid = "89d3b734-a6a9-46d6-b9d9-7e53d49724af" },
+  { n = 8, title = "Ciao ciao", mbid = "cf18bb04-e476-4675-8442-9d420951f62c" },
+  { n = 9, title = "Satana", mbid = "6abc0aed-e470-4b9d-a53a-5188f23371af" },
+  { n = 10, title = "On nait on vit on meurt", mbid = "5e31f69d-a42a-4fcb-bcb9-e79153f065f1" },
+]
+
+[[release]]
+mbid = "a96a5b69-8bf0-4d27-a3a6-5f039f1c9fd5"
+title = "Nucléaire"
+type = "single"
+date = "2018-04-25"
+tracks = [
+  { n = 1, title = "Nucléaire", mbid = "f3715a28-5018-43f0-a821-eab991d8a97b" },
+]
+
+[[release]]
+mbid = "8256f31e-9ec9-44ae-94e7-2cc118ba8008"
+title = "Lost"
+type = "single"
+date = "2018-05-30"
+tracks = [
+  { n = 1, title = "Lost", mbid = "b574cfda-9139-455e-84fe-82dfce2dd91c" },
+]
+
+[[release]]
+mbid = "112a72ee-ece7-4293-a79c-03bae111b1f2"
+title = "Bonnie"
+type = "single"
+date = "2018-07-04"
+tracks = [
+  { n = 1, title = "Bonnie", mbid = "3c070e8b-544f-4635-bf61-1addb559ac8b" },
+]
+
+[[release]]
+mbid = "b4334a8d-baae-4872-8e77-9597334c4870"
+title = "Bébé"
+type = "single"
+date = "2018-07-04"
+tracks = [
+  { n = 1, title = "Bébé", mbid = "a01a7c93-896b-4963-926c-b4598ba8ef02" },
+]
+
+[[release]]
+mbid = "8ba5ae1e-2568-465b-8c90-5f5afc049dee"
+title = "Au Baccara"
+type = "album"
+date = "2018-10-12"
+tracks = [
+  { n = 1, title = "Nucléaire", mbid = "58cb56c7-2b6c-411a-91ee-e6193cd7bdaf" },
+  { n = 2, title = "Lost", mbid = "9b689cc6-ddcd-4bf7-b768-36d00fb7f4a3" },
+  { n = 3, title = "Bébé", mbid = "a01a7c93-896b-4963-926c-b4598ba8ef02" },
+  { n = 4, title = "En L", mbid = "d558c564-6dbd-4dc3-b6f0-067d12cad5aa" },
+  { n = 5, title = "Bonnie", mbid = "3c070e8b-544f-4635-bf61-1addb559ac8b" },
+  { n = 6, title = "James Blunt", mbid = "e165bd6c-82b4-4744-97d4-769d1e455dbc" },
+  { n = 7, title = "Au Baccara", mbid = "5ef91f94-ab27-4d72-b1ad-ed41346ee69f" },
+  { n = 8, title = "Pastel", mbid = "cb33f355-e3f2-40c4-8efe-c1c542f0d9b5" },
+  { n = 9, title = "BNP", mbid = "b4049cef-2efb-4599-8e6b-5e0255d1487b" },
+  { n = 10, title = "Jacques a dit", mbid = "4ab49b5c-adcf-4289-8adb-3f69aad97d3c" },
+  { n = 11, title = "Tony", mbid = "c2b9f8e7-6616-42db-9643-a77e7410f056" },
+]
+
+[[release]]
+mbid = "cf14ba33-9531-4c5d-9530-fb6eff48ac02"
+title = "Bleu fuchsia"
+type = "single"
+date = "2019-04-19"
+tracks = [
+  { n = 1, title = "Bleu fuchsia", mbid = "656ad369-b15e-44a6-95f4-e900a8d237a6" },
+]
+
+[[release]]
+mbid = "2d8c64c7-867f-4f55-b4d2-5d476a982094"
+title = "Pouchkine"
+type = "ep"
+date = "2019-09-13"
+tracks = [
+  { n = 1, title = "Bleu Fuchsia", mbid = "121cf15c-cdb6-44c9-a767-fd19cabcf593" },
+  { n = 2, title = "Matin", mbid = "abd573ae-3a89-4120-9f56-ceac0d29e238" },
+  { n = 3, title = "Salope d'amour", mbid = "52a379e9-f881-4ef6-b486-9d3803e86b1e" },
+  { n = 4, title = "Pouchkine", mbid = "045f69f1-b0b6-4a54-a986-e236c0a81751" },
+  { n = 5, title = "Delta", mbid = "0470fed2-29ee-42c1-bb2b-beb91f547e87" },
+]
+
+[[release]]
+mbid = "2ac1a1f6-29a0-47ad-ab3b-17c01fadf251"
+title = "Hardcore"
+type = "single"
+date = "2020-04-24"
+tracks = [
+  { n = 1, title = "Hardcore", mbid = "b31f22ec-430c-404b-a2fe-f777f7cb3e8e" },
+]
+
+[[release]]
+mbid = "568c7612-f719-4c17-b1e0-dfbf4f609297"
+title = "Caprice"
+type = "single"
+date = "2020-09-24"
+tracks = [
+  { n = 1, title = "Caprice", mbid = "13f5a3e3-af66-4412-8c40-ca221cc358a2" },
+]
+
+[[release]]
+mbid = "9b62ec0c-7844-4c23-af06-518fdcbd3112"
+title = "Svengo"
+type = "single"
+date = "2020-11-13"
+tracks = [
+  { n = 1, title = "Svengo", mbid = "97ed98b1-0904-4c91-ad73-8aaf18041d1b" },
+]
+
+[[release]]
+mbid = "41e02f75-f455-4ace-92db-5866b1397cb6"
+title = "Géranium"
+type = "single"
+date = "2021-04-14"
+tracks = [
+  { n = 1, title = "Géranium", mbid = "fd36755f-ea0f-4e5b-8890-9dac233fb445" },
+]
+
+[[release]]
+mbid = "bd23346c-172a-4c39-aba4-319ada7b8d32"
+title = "1200 mètres en tout"
+type = "album"
+date = "2022-01-07"
+tracks = [
+  { n = 1, title = "Mr. Fétis", mbid = "f80813a9-43e0-4739-bacc-804e39bf59e5" },
+  { n = 2, title = "Caprice", mbid = "13f5a3e3-af66-4412-8c40-ca221cc358a2" },
+  { n = 3, title = "Svengo", mbid = "97ed98b1-0904-4c91-ad73-8aaf18041d1b" },
+  { n = 4, title = "Candi", mbid = "eccfe155-36a0-4a98-b0bb-f648a450a899" },
+  { n = 5, title = "Palavas-les-flots", mbid = "bf703c65-3aec-4ec0-a136-1d3b5b081d98" },
+  { n = 6, title = "Bitch", mbid = "2be887aa-1cf2-42d9-8977-a4933af7d0de" },
+  { n = 7, title = "Regarde si c’est loin", mbid = "18b63a75-0508-40f7-b835-d43f83a410a2" },
+  { n = 8, title = "Garnement", mbid = "f95ea427-7448-42f2-b0f8-2003d33e77c8" },
+  { n = 9, title = "Une danse de mauvais goût", mbid = "fdb9c445-cc85-4174-8ac0-8c0dab87e413" },
+  { n = 10, title = "Pablo", mbid = "b18a9a27-c14f-471b-971c-d9f1edb618f8" },
+  { n = 11, title = "Hardcore", mbid = "b31f22ec-430c-404b-a2fe-f777f7cb3e8e" },
+  { n = 12, title = "Mamour", mbid = "f0ed05f7-dc09-4a71-87f5-8ef846e927a8" },
+  { n = 13, title = "San Pellegrino", mbid = "9c0dbb70-2491-4528-99ed-86348d050a5b" },
+  { n = 14, title = "Deux traits", mbid = "77ad9bc7-551d-462d-b296-c84baf206566" },
+  { n = 15, title = "Géranium", mbid = "fd36755f-ea0f-4e5b-8890-9dac233fb445" },
+  { n = 16, title = "Vu d’ici", mbid = "ba39f6a8-34d0-4b77-aef5-9957d85ec7c6" },
+]
+
+[[release]]
+mbid = "3448f769-daed-4ee3-8f39-e183f0d56944"
+title = "Caprice (unplugged)"
+type = "single"
+date = "2023-06-08"
+tracks = [
+  { n = 1, title = "Caprice (unplugged)", mbid = "5b360ad3-4562-4b17-8716-ad8f6b8fda48" },
+]
+
+[[release]]
+mbid = "b17db1fd-f627-40aa-9834-db5fc76f40b7"
+title = "Regarde si c’est loin (unplugged)"
+type = "single"
+date = "2023-07-06"
+tracks = [
+  { n = 1, title = "Regarde si c’est loin (unplugged)", mbid = "2976491d-2a26-4c85-8e86-7d30962797a3" },
+]
+
+[[release]]
+mbid = "b9b283f0-f655-47ca-ad4b-7e5d9246ccba"
+title = "Nucléaire (Unplugged)"
+type = "single"
+date = "2023-09-08"
+tracks = [
+  { n = 1, title = "Nucléaire (Unplugged)", mbid = "ec3b4722-6fba-4a9d-83cf-54de7fe772c7" },
+]
+
+[[release]]
+mbid = "caae9f6b-558a-4a3e-8e42-9ac0aa77112b"
+title = "Souffle le vent (Unplugged)"
+type = "single"
+date = "2023-09-27"
+tracks = [
+  { n = 1, title = "Souffle le vent (Unplugged)", mbid = "63f64c03-88c6-4e8b-9f7c-bc99dc8489b9" },
+]
+
+[[release]]
+mbid = "21a7c839-f092-4adb-b98e-33f1faa1ec5a"
+title = "Ils dansent (Unplugged)"
+type = "single"
+date = "2023-10-13"
+tracks = [
+  { n = 1, title = "Ils dansent (Unplugged)", mbid = "39fd9e86-1bae-4845-b6c2-3a5a3d9b1ea3" },
+]
+
+[[release]]
+mbid = "080a725d-eab9-4efe-aced-6d1114939e0e"
+title = "Unplugged"
+type = "album"
+date = "2023-11-02"
+spotify = "0jWWqNHR88f0sBBFWJLV3J"
+tracks = [
+  { n = 1, title = "Nucléaire (Unplugged)", mbid = "ec3b4722-6fba-4a9d-83cf-54de7fe772c7" },
+  { n = 2, title = "Attention (Unplugged)", mbid = "55e02ca5-d5a9-4d73-b2ca-f2d5abe075a4" },
+  { n = 3, title = "Géranium (Unplugged)", mbid = "d2aaae83-5ad2-49a9-b98b-adb988ed531a" },
+  { n = 4, title = "Palavas‐les‐flots (Unplugged)", mbid = "bc2ea8a5-c33e-49ee-9b9e-aa1ff9c7b3aa" },
+  { n = 5, title = "Grande véranda (Unplugged)", mbid = "59a3baed-8329-4b41-a1f6-a30d7ce8a220" },
+  { n = 6, title = "Mamour (Unplugged)", mbid = "d7c7d13b-4da0-43be-9395-fbc555cc23c3" },
+  { n = 7, title = "Ils dansent (Unplugged)", mbid = "39fd9e86-1bae-4845-b6c2-3a5a3d9b1ea3" },
+  { n = 8, title = "Bitch (Unplugged)", mbid = "a063d586-5049-4a8e-9674-6d530c6c4e98" },
+  { n = 9, title = "Bleu fuchsia (Unplugged)", mbid = "31bb64f0-8169-4f3e-870b-7f9f670a256b" },
+  { n = 10, title = "Regarde si c’est loin (Unplugged)", mbid = "2976491d-2a26-4c85-8e86-7d30962797a3" },
+  { n = 11, title = "Caprice (Unplugged)", mbid = "5b360ad3-4562-4b17-8716-ad8f6b8fda48" },
+  { n = 12, title = "Hardcore (Unplugged)", mbid = "3f17594d-1722-456c-86b9-7f740ade2387" },
+  { n = 13, title = "Bouche à lèvres (Unplugged)", mbid = "e368396f-460d-4feb-8eeb-6012caa959c4" },
+  { n = 14, title = "Souffle le vent (Unplugged)", mbid = "63f64c03-88c6-4e8b-9f7c-bc99dc8489b9" },
+]
+
+[[release]]
+mbid = "a8ac0780-170b-4890-930e-a2993047a3f5"
+title = "Hey Joe"
+type = "single"
+date = "2025-04-10"
+tracks = [
+  { n = 1, title = "Hey Joe", mbid = "c460d321-53de-4072-a269-2bb8b05846bc" },
+]
+
+[[release]]
+mbid = "b31076cf-2012-4d9a-a58c-d146ed87a9e3"
+title = "DOULA (des couloirs des portières)"
+type = "album"
+date = "2025-06-03"
+tracks = [
+  { n = 1, title = "Keskia", mbid = "a53345f7-e1b1-46b9-9651-060363155591" },
+  { n = 2, title = "Houston", mbid = "bbe2e9c4-7179-409f-8aa0-c0d7fe08d575" },
+  { n = 3, title = "Pourboire", mbid = "3a256710-add6-426a-8d46-d86638f283df" },
+  { n = 4, title = "Hey Joe", mbid = "b85e45d9-57e8-4d53-9f6f-0ea0988df641" },
+  { n = 5, title = "Aïe aïe aïe", mbid = "85b65b21-93e8-4a64-8e31-bb07a41ff1f3" },
+  { n = 6, title = "Baveux", mbid = "ba07a6e3-30dd-4046-af3f-a70832bac692" },
+  { n = 7, title = "Merry-go-round", mbid = "09f6a574-3a74-4ab2-b39b-beaf6e46306d" },
+  { n = 8, title = "Tempelhof", mbid = "09b27e5c-a8c2-44ca-bc4e-acd3d6e57b2f" },
+  { n = 9, title = "Gadoue", mbid = "08d048ef-46c3-4dc2-8056-1e70df1c334d" },
+  { n = 10, title = "E.R.E", mbid = "4a851ad2-ed1b-40bf-a314-5e851a6cb3cc" },
+]
+
+[[release]]
+mbid = "af7df7fa-ad7b-45c7-8c1c-6280ce0bbee2"
+title = "DOULA (hypercouleurs)"
+type = "album"
+date = "2025-11-25"
+tracks = [
+  { n = 1, title = "Babylone", mbid = "d3d0df41-0d63-4941-8d88-2337a0fad964" },
+  { n = 2, title = "Starmania", mbid = "f9b286a0-1f0a-44e1-a89f-e64746231f5f" },
+  { n = 3, title = "Pause Play", mbid = "275d02a0-c747-4e65-bf88-ad9d71f5f13a" },
+  { n = 4, title = "Deltoïde", mbid = "0c9152fe-3c71-4a05-9d30-ac12833e14c5" },
+  { n = 5, title = "Les pissenlits", mbid = "39bc2a8e-1bc2-4fbf-b4d6-4ddf83dcdcb4" },
+  { n = 6, title = "C'est qui l'a fait boum ?", mbid = "094a01d7-e3ec-4f23-b905-c5b21777a1ed" },
+  { n = 7, title = "I Love You", mbid = "9fdc3970-b902-48c6-b633-4fc781551436" },
+  { n = 8, title = "Ticket", mbid = "ec2333d4-eeb8-4def-bcac-9a3d539ba2bb" },
+  { n = 9, title = "Altalena", mbid = "e701aff5-e935-46be-a4da-dba8182522b2" },
+  { n = 10, title = "La Gova", mbid = "e6ff4088-1af0-43e1-abb5-b0b39de21bca" },
+  { n = 11, title = "Il neige", mbid = "cfa92f11-e9bd-40c3-933f-81ce1f8e27de" },
+]
+
+[[release]]
+mbid = "62eccc05-da97-4200-a0a0-0b690950604a"
+title = "Harmony"
+type = "single"
+date = "2026-01-20"
+spotify = "5dH4C9JTQryCq1AHAMEeyL"
+tracks = [
+  { n = 1, title = "Harmony", mbid = "bf83bb5f-adb5-4777-82b5-1ce430970790" },
+]
+
+[[release]]
+mbid = "055e5e86-205b-4049-8744-ef422b73c6c5"
+title = "Tempête"
+type = "single"
+date = "2026-07-09"
+tracks = [
+  { n = 1, title = "Tempête", mbid = "41c00cd1-ce11-4397-8170-9db5f251b056" },
+]

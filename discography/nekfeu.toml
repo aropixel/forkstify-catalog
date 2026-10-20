@@ -1,0 +1,185 @@
+format = 1
+
+[[release]]
+mbid = "3d578d8a-0faf-4fdc-b9a1-985dd794f7cd"
+title = "Voila"
+type = "single"
+date = "2013-12-23"
+tracks = [
+  { n = 1, title = "Voila", mbid = "3d2468e7-9e13-49e3-a7dd-b3b2787f43fe" },
+]
+
+[[release]]
+mbid = "4f8cf1a4-fcaa-40e6-b399-b3033fca31be"
+title = "Time B.O.M.B."
+type = "single"
+date = "2014-12-19"
+tracks = [
+  { n = 1, title = "Time B.O.M.B.", mbid = "8e9548c7-7cd9-489e-9c90-6882572c3175" },
+]
+
+[[release]]
+mbid = "3448c75c-f59e-41c3-9aee-03f851f80031"
+title = "Feu"
+type = "album"
+date = "2015-06-08"
+tracks = [
+  { n = 1, title = "Martin Eden", mbid = "8b203fe1-5eb7-45de-8f93-1ed02b06ecde" },
+  { n = 2, title = "Mon âme", mbid = "7b22f029-784c-4e41-87ea-e97f1553de24" },
+  { n = 3, title = "Le Horla", mbid = "fa1f87c0-5f1f-4d8c-a30e-e1a0bd5227aa" },
+  { n = 4, title = "Nique les clones, Part II", mbid = "4537ce15-1fdb-4c6a-8c00-fb5b28b89f92" },
+  { n = 5, title = "Rêve d’avoir des rêves", mbid = "50116dae-a46d-4d81-8fa7-ddd101b4fa77" },
+  { n = 6, title = "Tempête", mbid = "8cf389e9-26c3-4a32-ae24-e877072d1723" },
+  { n = 7, title = "Égérie", mbid = "16d9a2bf-303e-4def-b67a-17e0f2732f2d" },
+  { n = 8, title = "Reuf", mbid = "e795ae23-ffb4-4df0-9b25-a39a8112d86c" },
+  { n = 9, title = "La Moue des morts", mbid = "68c139f5-13ca-477c-b854-09f7e630eb47" },
+  { n = 10, title = "Laisse aller", mbid = "c7c34977-761e-43e1-83f7-1a1a1cfa4f39" },
+  { n = 11, title = "On verra", mbid = "b732e86a-9a38-4148-ba8a-fe0782bc6a97" },
+  { n = 12, title = "Ma dope", mbid = "f7354e52-43cc-42b3-9a73-4c1ad9e9cd83" },
+  { n = 13, title = "Jeux d’ombres", mbid = "13e8b34a-cc52-42db-8c89-01e17386f945" },
+  { n = 14, title = "Elle en avait envie", mbid = "19dda80b-a46f-4a09-8b88-8786811ba46b" },
+  { n = 15, title = "Princesse", mbid = "eecd6f10-a3e6-40cb-8549-9e98ebb27038" },
+  { n = 16, title = "Risibles Amours", mbid = "352a95db-7c63-4499-9994-e0833dd669bb" },
+  { n = 17, title = "Point d’interrogation", mbid = "5f9c2b5d-66e0-4d27-ba62-f0695ac6fc80" },
+  { n = 18, title = "Être humain", mbid = "ed9c268d-7f60-4147-b01c-19da03e24590" },
+]
+
+[[release]]
+mbid = "a18e9239-9d7f-4a4c-8070-a9b5248d141e"
+title = "Reuf (version five)"
+type = "single"
+date = "2016-03-18"
+tracks = [
+  { n = 1, title = "Reuf (version five)", mbid = "00827f77-b194-4013-985b-992889175c40" },
+]
+
+[[release]]
+mbid = "79b3ede6-ebf7-4144-aeb8-4ca9b839f7f9"
+title = "Cyborg"
+type = "album"
+date = "2016-12-02"
+spotify = "0hM3g0iPnbEKKkGo9swdWe"
+tracks = [
+  { n = 1, title = "Humanoïde", mbid = "aabb2fa0-1cbf-46d5-9053-31ff92227308" },
+  { n = 2, title = "Mauvaise graine", mbid = "bcd60eaf-e02e-4511-8dbb-d278c93b5637" },
+  { n = 3, title = "Squa", mbid = "6819a1bd-048d-436a-bafe-5cd38601ccab" },
+  { n = 4, title = "Réalité augmentée", mbid = "1d71bb5a-b054-46cd-9deb-54baf98901e5" },
+  { n = 5, title = "Avant tu riais", mbid = "f256ce21-40a2-41a7-8fd5-57cf20a4b9e4" },
+  { n = 6, title = "Esquimaux", mbid = "b666f4c3-946f-4faf-bb3e-30d182a7dd90" },
+  { n = 7, title = "O.D.", mbid = "9e725f56-c819-4b21-9025-c559bcf26702" },
+  { n = 8, title = "Vinyle", mbid = "80cd0f7a-bb3c-4891-8dd4-c0db44d317b3" },
+  { n = 9, title = "Saturne", mbid = "d34619b1-5266-40a7-aa99-d6f1284a5917" },
+  { n = 10, title = "Galatée", mbid = "cbfbb9e8-d1d1-42d6-8b14-53e901a6c324" },
+  { n = 11, title = "Le Regard des gens", mbid = "63e0a667-f36d-416d-b6b5-e2aa82290aac" },
+  { n = 12, title = "Programmé", mbid = "af739064-4be3-401a-927d-389b00a806ff" },
+  { n = 13, title = "Besoin de sens", mbid = "ba85be07-db44-4391-93a0-694d416f372e" },
+  { n = 14, title = "Nekketsu", mbid = "16cecfb5-ae99-491f-9f3d-3fca847e608a" },
+]
+
+[[release]]
+mbid = "110072f4-d2d5-4ef1-8b3f-a323d9536c55"
+title = "Black Album"
+type = "album"
+date = "2018-08-14"
+tracks = [
+  { n = 1, title = "Plus fort que moi", mbid = "230519d6-a4cd-47b1-9caf-5146918dfb55" },
+  { n = 2, title = "Princesse de feu", mbid = "2dd3a19f-4a7f-4633-9708-ef6049717bd5" },
+  { n = 3, title = "Hommage aux petites graines", mbid = "c1d43c87-1763-4901-b3ad-066637ca66d5" },
+  { n = 4, title = "J'crois plus en l'homme", mbid = "cd67fe36-0dfd-461f-b434-74343ae56333" },
+  { n = 5, title = "Fin de semaine", mbid = "fc5ec337-2940-4908-b7c6-9f0f2e7c60db" },
+  { n = 6, title = "L'Éclosion du mal", mbid = "7862b7d5-e3ad-4369-b780-9373e5fb4a57" },
+  { n = 7, title = "J'ignore", mbid = "42092570-6d8b-4ee5-934b-e930db834a4f" },
+  { n = 8, title = "Les Filles de Paris", mbid = "9f074ac5-3396-49db-891f-445fec63363e" },
+  { n = 9, title = "J'élargis mes racines", mbid = "213b4457-670a-4bab-9218-4c530b6ea076" },
+  { n = 10, title = "Joint de culotte", mbid = "be0ee8b2-c754-42b1-9388-e3f167fd1528" },
+  { n = 11, title = "L'Ecchymose", mbid = "ddc56436-7dff-4244-8c81-315bb3374798" },
+  { n = 12, title = "Les Parisiennes", mbid = "9a64997a-6cef-4578-8124-369993c5eb7c" },
+  { n = 13, title = "J'aurais dû continuer le rap", mbid = "0338e549-d999-4c94-9385-170d8ab25707" },
+]
+
+[[release]]
+mbid = "6f0b2fb5-0bb1-4114-b99a-83ab05e5d22b"
+title = "Les Étoiles vagabondes"
+type = "album"
+date = "2019-06-06"
+spotify = "5eLZYtCXkFIsOmpVc7vrI2"
+tracks = [
+  { n = 1, title = "Les Étoiles vagabondes", mbid = "bef818b4-0577-4022-beb5-cf707b889748" },
+  { n = 2, title = "Alunissons", mbid = "56a59bd5-3049-4089-a0da-d2dd235d8857" },
+  { n = 3, title = "Cheum", mbid = "42e4ec5c-0ff1-4ab3-a89d-95b3ca2b3b58" },
+  { n = 4, title = "Takotsubo", mbid = "10a9cd3f-5f17-46cd-a19d-fda3a6942669" },
+  { n = 5, title = "Menteur menteur", mbid = "d9f193dd-e070-44b8-a46e-381ff6fd6f38" },
+  { n = 6, title = "Ciel noir", mbid = "4c39b558-2f2a-49a1-90b2-56e6310c45f8" },
+  { n = 7, title = "De mon mieux", mbid = "f36a5d90-4473-4414-8676-77a489bdce43" },
+  { n = 8, title = "Le Bruit qui court", mbid = "b6d87117-b264-428a-870d-2bbac21e8ee8" },
+  { n = 9, title = "Elle pleut", mbid = "c1bee759-606a-4ef7-b9e4-fe4a3e514377" },
+  { n = 10, title = "Dans l’univers", mbid = "00e5ad5e-3d10-420a-92ec-01da00525690" },
+  { n = 11, title = "Premier Pas", mbid = "ed55e903-296b-4898-9bea-f4017d3b2052" },
+  { n = 12, title = "Tricheur", mbid = "4b6227ff-9d1c-4b9c-870e-6c19b8af014e" },
+  { n = 13, title = "Voyage léger", mbid = "7e835ee0-e633-493a-ac9d-03b67ec79c20" },
+  { n = 14, title = "Compte les hommes", mbid = "74c606bd-8e4e-4e29-955f-84cd2e78465a" },
+  { n = 15, title = "Koala mouillé", mbid = "e13b2976-1b38-4884-b51d-8a5d04a19f6f" },
+  { n = 16, title = "Όλά καλά", mbid = "549ace66-b86d-4f9b-805d-846171c69ec0" },
+  { n = 17, title = "Pixels", mbid = "071917b8-ceb0-489a-8412-44b85d654bfc" },
+  { n = 18, title = "1er Rôle", mbid = "17d8a16a-5152-48f4-9fe4-e0bd0b4d3bf6" },
+]
+
+[[release]]
+mbid = "9603f5f5-3c7a-4414-a7b8-de673a326fb4"
+title = "Expansion"
+type = "album"
+date = "2019-06-21"
+tracks = [
+  { n = 1, title = "Natsukashii", mbid = "fc2bb1b1-ca42-422b-8e93-5de636622f0b" },
+  { n = 2, title = "Écrire", mbid = "ea1d52a8-1090-4f07-802e-b60e60309fd8" },
+  { n = 3, title = "L’Air du temps", mbid = "fd83fe79-e241-4e91-b97a-a857f68d72c3" },
+  { n = 4, title = "Dernier Soupir", mbid = "926cb988-d630-46a2-a038-ab0e403c779d" },
+  { n = 5, title = "Interlude Fifty", mbid = "e4702298-52cd-451b-aefe-8da89a89a414" },
+  { n = 6, title = "Oui et non", mbid = "ab015491-3c2c-433f-a087-df644a480fa5" },
+  { n = 7, title = "Jeux vidéo et débats", mbid = "c458ba92-1f96-4d6c-b17e-4bcf22defc32" },
+  { n = 8, title = "Ken Kaneki", mbid = "f14c17a9-789b-44cb-bbed-d3641413e76c" },
+  { n = 9, title = "Cdglaxjfkhndath", mbid = "70b39a56-4b2c-403c-b2e0-4d5e8d2d829d" },
+  { n = 10, title = "Rouge à lèvres", mbid = "9e31daad-9bf7-4c22-b289-2f3fe5ad6a94" },
+  { n = 11, title = "Sous les nuages", mbid = "bae780c0-7b2f-46e1-8e9e-ea882b89703f" },
+  { n = 12, title = "Énergie sombre", mbid = "45153fe1-8e7c-4ae3-b617-2f478afa3021" },
+  { n = 13, title = "De mes cendres", mbid = "682c32ac-f2c4-4938-b0ac-f5bedcc098dc" },
+  { n = 14, title = "Nouvel Homme", mbid = "de50541f-6507-40ad-b559-79775cdb8155" },
+  { n = 15, title = "Chanson d’amour", mbid = "291db1e4-0f49-44fd-9758-f53caddaf1af" },
+  { n = 16, title = "À la base", mbid = "3250ac85-2832-490f-9e67-fa691f31d04d" },
+]
+
+[[release]]
+mbid = "ed5b36a2-fa8a-4a1a-9198-e3c78921c315"
+title = "Au coeur du G"
+type = "single"
+date = "2019-10-11"
+tracks = [
+  { n = 1, title = "Au coeur du G", mbid = "b10ac284-ddbb-468d-84d4-9f72cab3d9de" },
+]
+
+[[release]]
+mbid = "513f8b90-8e40-46b9-b922-504de56d41b2"
+title = "Turn Up"
+type = "single"
+date = "2020-11-19"
+tracks = [
+  { n = 1, title = "Turn Up", mbid = "3d65752e-2fd7-4d39-a688-87afa219a06f" },
+]
+
+[[release]]
+mbid = "302a4171-f58a-4599-888d-0fb146b71044"
+title = "Paradis artificiel"
+type = "single"
+date = "2022-05-05"
+tracks = [
+  { n = 1, title = "Paradis artificiel", mbid = "dc270f8d-e96f-4d1e-baea-9ccb8348e861" },
+]
+
+[[release]]
+mbid = "77718150-03b0-4598-82c7-2bd7c19f39aa"
+title = "La cour des miracles"
+type = "single"
+date = "2024-02-01"
+tracks = [
+  { n = 1, title = "La cour des miracles", mbid = "a5b78c4e-74c9-40f4-a521-1c29faa5e422" },
+]

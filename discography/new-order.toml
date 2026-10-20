@@ -1,0 +1,806 @@
+format = 1
+
+[[release]]
+mbid = "b9aeab84-8350-4a5c-8d1c-870c28e3e066"
+title = "Ceremony"
+type = "single"
+date = "1981-03-06"
+tracks = [
+  { n = 1, title = "Ceremony", mbid = "67060e0b-dced-4d91-8d87-4d88ebcdc446" },
+  { n = 2, title = "In a Lonely Place", mbid = "566ca3d7-c417-435f-825e-de31afc837f2" },
+]
+
+[[release]]
+mbid = "b64a1978-8867-3bb2-9fab-113c17b85a00"
+title = "Procession"
+type = "single"
+date = "1981-09"
+tracks = [
+  { n = 1, title = "Procession", mbid = "88e5865f-411b-472e-a606-a639150ef4af" },
+  { n = 2, title = "Everything’s Gone Green", mbid = "c6f4f8fb-6f0d-458e-95eb-8ef6933f0266" },
+]
+
+[[release]]
+mbid = "0f891855-ea0c-36f4-b851-0cbf9eeb5a95"
+title = "Movement"
+type = "album"
+date = "1981-11-13"
+tracks = [
+  { n = 1, title = "Dreams Never End", mbid = "24405c01-1c11-4789-a845-5347fb36116d" },
+  { n = 2, title = "Truth", mbid = "31b9fc32-4c51-4a63-82fd-e4a0a89ac835" },
+  { n = 3, title = "Senses", mbid = "8b0d18f3-a72b-48f8-a044-7db4f98f729f" },
+  { n = 4, title = "Chosen Time", mbid = "d83aa6af-7052-48e0-8ef3-4f257f84a8ae" },
+  { n = 5, title = "ICB", mbid = "88b877b2-feb1-4ff7-bb50-5f98a3f3c643" },
+  { n = 6, title = "The Him", mbid = "e1da8008-db09-4d9a-86e2-95e3dc6519ab" },
+  { n = 7, title = "Doubts Even Here", mbid = "cfe5b877-639e-4b24-8257-f724f1ee21e7" },
+  { n = 8, title = "Denial", mbid = "7ae0263e-dec4-42c9-9a2d-88123c8f0258" },
+]
+
+[[release]]
+mbid = "b1e04c8b-4cf5-3582-8da2-34902b00d065"
+title = "Everything’s Gone Green"
+type = "single"
+date = "1981-12"
+tracks = [
+  { n = 1, title = "Everything’s Gone Green", mbid = "68445748-1d87-4f02-95e4-257ab32d9b04" },
+  { n = 2, title = "Cries and Whispers", mbid = "10d26aa3-03d9-402e-9304-dc731e329925" },
+  { n = 3, title = "Mesh", mbid = "bad0826a-88a8-4340-a2e6-bf79475a0774" },
+]
+
+[[release]]
+mbid = "6d0bf975-459c-361a-9c6c-dc985ceae22f"
+title = "Temptation"
+type = "single"
+date = "1982-05-10"
+tracks = [
+  { n = 1, title = "Temptation", mbid = "7a4e72a1-5305-41d7-9b35-7a18fd004b82" },
+  { n = 2, title = "Hurt", mbid = "e9bc96f4-6fed-43e3-8cc9-560a155e4a8e" },
+]
+
+[[release]]
+mbid = "262a92d6-a644-363d-94c2-fe2745799aec"
+title = "Blue Monday"
+type = "single"
+date = "1983-03-07"
+spotify = "4BPqSw0Zt0I85xBQVF38KF"
+tracks = [
+  { n = 1, title = "Blue Monday", mbid = "9aa2be7b-8fb0-4187-bce4-9bb4e84815fc" },
+  { n = 2, title = "The Beach", mbid = "449909a5-036d-4a2b-bc43-b19e6fdd72bb" },
+]
+
+[[release]]
+mbid = "16cc9dfc-594d-3fb9-b789-3e1bfcb6f9f8"
+title = "Power, Corruption & Lies"
+type = "album"
+date = "1983-05"
+spotify = "6NTrwu1XJ56jBPx7HMksbZ"
+tracks = [
+  { n = 1, title = "Age of Consent", mbid = "0afb7c13-a984-4be6-b500-3bd2ebd5e21b" },
+  { n = 2, title = "We All Stand", mbid = "1e6e5227-f40a-4cab-9139-aa5bd233016e" },
+  { n = 3, title = "The Village", mbid = "a5aab782-bfb9-4621-a1d9-327952e9d692" },
+  { n = 4, title = "5 8 6", mbid = "d57ed180-df7f-4d94-8bc2-8c90c695d316" },
+  { n = 5, title = "Your Silent Face", mbid = "3a54b3b2-6037-4fc3-a7a0-ead924e55ea2" },
+  { n = 6, title = "Ultraviolence", mbid = "3f20d41f-d384-46ac-ac7c-53334a2b9903" },
+  { n = 7, title = "Ecstasy", mbid = "fe96b814-76b6-4f9a-9402-d9c5625146ce" },
+  { n = 8, title = "Leave Me Alone", mbid = "4b5d549d-e8f2-48ef-bb4e-aca5acba76de" },
+]
+
+[[release]]
+mbid = "99edc9a6-bd42-318b-8e69-ccd7d6163f25"
+title = "Confusion"
+type = "single"
+date = "1983-08-22"
+tracks = [
+  { n = 1, title = "Confusion", mbid = "e3bc8a5e-a238-4899-ac03-33fbc9f5e793" },
+  { n = 2, title = "Confused Beats", mbid = "8fb57c07-7b89-4c85-8988-f88fd2ccb8fa" },
+  { n = 3, title = "Confusion (instrumental)", mbid = "d1352e22-6a2e-438c-b7c7-7898b9ba9056" },
+  { n = 4, title = "Confusion (rough mix)", mbid = "b19017e9-dbd8-4cef-b1cc-5e2467423ee2" },
+]
+
+[[release]]
+mbid = "42da3caf-588d-35c3-8edc-62811d632dd7"
+title = "Thieves Like Us"
+type = "single"
+date = "1984-04"
+tracks = [
+  { n = 1, title = "Thieves Like Us", mbid = "19eb1539-5d88-4883-b500-731a4f848011" },
+  { n = 2, title = "Lonesome Tonight", mbid = "4a9dcaff-34db-406b-aa85-6dc5280575e1" },
+]
+
+[[release]]
+mbid = "25a9d963-fbf3-3528-a5c7-0a03bf027bca"
+title = "Murder"
+type = "single"
+date = "1984-05"
+tracks = [
+  { n = 1, title = "Murder", mbid = "42b32ebb-1a72-4052-b26d-04f52d175a09" },
+  { n = 2, title = "Thieves Like Us (instrumental)", mbid = "1c0805a5-5d56-41df-a4ea-07bb769401c7" },
+]
+
+[[release]]
+mbid = "968622c0-3a3f-39d7-9860-375cbbd953ea"
+title = "The Perfect Kiss"
+type = "single"
+date = "1985-05"
+tracks = [
+  { n = 1, title = "The Perfect Kiss", mbid = "d8af0bbe-d439-4764-b73c-3163415b9ddb" },
+  { n = 2, title = "The Kiss of Death", mbid = "5b01668a-1954-4bdd-8c8e-d0dc4a6cae62" },
+]
+
+[[release]]
+mbid = "69be20bc-189f-3e40-8486-6fba8459f6a0"
+title = "Low‐Life"
+type = "album"
+date = "1985-05-01"
+spotify = "1zw2R2jhDJf7BFJMR0aOSq"
+tracks = [
+  { n = 1, title = "Love Vigilantes", mbid = "de9bb47d-bf7a-40d6-8ba7-6f704f2f5bd4" },
+  { n = 2, title = "The Perfect Kiss", mbid = "ec0da94e-fbfe-4eb0-968e-024d4c32d1d0" },
+  { n = 3, title = "This Time of Night", mbid = "4125ed25-bf6b-4ab2-906f-65c76ec6d3f2" },
+  { n = 4, title = "Sunrise", mbid = "1fc7f33c-09c3-48e9-ba86-910de160932f" },
+  { n = 5, title = "Elegia", mbid = "2e18c9b7-6e28-4730-a561-bcb1001b0de3" },
+  { n = 6, title = "Sooner Than You Think", mbid = "12b78239-2e1a-4501-aed2-de95ea6735b0" },
+  { n = 7, title = "Sub‐Culture", mbid = "6009b44c-db4e-40bf-a627-f02d5ca0290c" },
+  { n = 8, title = "Face Up", mbid = "2c196f42-ff67-426c-a11f-ccd773be267b" },
+]
+
+[[release]]
+mbid = "c12ec593-61af-3409-8a49-4639d725ba4d"
+title = "Sub‐Culture"
+type = "single"
+date = "1985-11-04"
+tracks = [
+  { n = 1, title = "Sub‐Culture (remix)", mbid = "7a890793-b0f5-4ad5-beb2-091917c6818d" },
+  { n = 2, title = "Subvulture", mbid = "7a62cce2-f6d8-45c3-a5ba-1908f883350c" },
+]
+
+[[release]]
+mbid = "6e1310d7-3da5-3e45-a7ea-e8f56fd76954"
+title = "Shell-Shock"
+type = "single"
+date = "1986-03-24"
+tracks = [
+  { n = 1, title = "Shell‐Shock (extended version)", mbid = "9548a5bc-5ebd-47b1-9a18-4ba3c2e0b4ee" },
+  { n = 2, title = "Thieves Like Us", mbid = "19eb1539-5d88-4883-b500-731a4f848011" },
+]
+
+[[release]]
+mbid = "a7132d6f-c275-36e6-9236-10982155af6f"
+title = "State of the Nation"
+type = "single"
+date = "1986-09"
+tracks = [
+  { n = 1, title = "State of the Nation (edit)", mbid = "fc70a0c2-537f-4c30-bf2b-caf5038e38d0" },
+  { n = 2, title = "Shame of the Nation (edit)", mbid = "08ff99db-b859-4949-852b-4585c8910bf3" },
+]
+
+[[release]]
+mbid = "9f46bfe6-6c91-3536-9bfc-edb3e1f8bd7b"
+title = "Brotherhood"
+type = "album"
+date = "1986-09-29"
+tracks = [
+  { n = 1, title = "Paradise", mbid = "36518a59-ed2d-4486-8fba-37267622f30d" },
+  { n = 2, title = "Weirdo", mbid = "85510098-e2d7-4999-b983-a40e985c29b7" },
+  { n = 3, title = "As It Is When It Was", mbid = "3e01afab-0b80-4be0-96bb-b969fb5b81d8" },
+  { n = 4, title = "Broken Promise", mbid = "a33c8f42-fb27-42f3-bdf3-a713865ad88d" },
+  { n = 5, title = "Way of Life", mbid = "a1179a08-4cdf-494c-8a47-1595bdd5af4c" },
+  { n = 6, title = "Bizarre Love Triangle", mbid = "d14faa3e-36e5-4d8e-94f2-2548d1b59be9" },
+  { n = 7, title = "All Day Long", mbid = "c7156ed3-8557-4421-8230-f2955a737b41" },
+  { n = 8, title = "Angel Dust", mbid = "c8156782-e39d-49da-9b2f-42917fd0549c" },
+  { n = 9, title = "Every Little Counts", mbid = "ca197de7-a57f-4b37-8f18-895f50f4fc89" },
+]
+
+[[release]]
+mbid = "98d84279-097e-3b09-ac0a-6deee97530d2"
+title = "Bizarre Love Triangle"
+type = "single"
+date = "1986-11"
+spotify = "1FWMqtAx87rjkl4SiHxrHX"
+tracks = [
+  { n = 1, title = "Bizarre Love Triangle", mbid = "47a12619-bf80-44b2-a396-795d3c6ed379" },
+  { n = 2, title = "I Don't Care", mbid = "88f7606f-bf9b-4d96-b76e-faf322d20b67" },
+  { n = 3, title = "State of the Nation", mbid = "d2a4cd7f-8e99-452c-9af9-bc4bac153e83" },
+  { n = 4, title = "Bizarre Love Triangle", mbid = "c84a786b-403e-48f8-83b8-feaf8819f727" },
+]
+
+[[release]]
+mbid = "ebe62324-25fa-3bc9-98c0-b7aa20767946"
+title = "True Faith"
+type = "single"
+date = "1987-07"
+spotify = "3XOqamPDleQBCiW1IlJl33"
+tracks = [
+  { n = 1, title = "True Faith (Morning Sun extended remix)", mbid = "151b521a-7248-47de-95d2-79bc36f8e5b5" },
+  { n = 2, title = "True Faith (Alternate Faith dub)", mbid = "85abccf2-c362-4098-9f93-b10b79a2045b" },
+  { n = 3, title = "1963", mbid = "56879e3a-be64-4fd5-b4ce-99fe0d516fbb" },
+]
+
+[[release]]
+mbid = "c047056c-eb80-33f9-b91f-8940b95475d7"
+title = "Touched by the Hand of God"
+type = "single"
+date = "1987-12-07"
+tracks = [
+  { n = 1, title = "Touched by the Hand of God", mbid = "47fa983c-bf0f-49eb-b5d8-12ee88a95e3d" },
+  { n = 2, title = "Touched by the Hand of God dub mix (edited)", mbid = "625926f9-1ba0-4d43-b0d8-3c82a0584bc3" },
+]
+
+[[release]]
+mbid = "4bfc44d9-fc1f-3307-9d45-741467c29a77"
+title = "Blue Monday 1988"
+type = "single"
+date = "1988-03"
+tracks = [
+  { n = 1, title = "Blue Monday", mbid = "1c01c27f-1b7c-4627-b4de-3833a521cecc" },
+  { n = 2, title = "Beach Buggy", mbid = "46151500-4a9a-4082-b2da-8639400f815e" },
+]
+
+[[release]]
+mbid = "0897950a-87f5-34c0-9d37-12c9c8381f8e"
+title = "Fine Time"
+type = "single"
+date = "1988-11-28"
+tracks = [
+  { n = 1, title = "Fine Time (Silk Mix)", mbid = "31b8ed52-1fa6-4e2c-8ee7-c702207b4c62" },
+  { n = 2, title = "Fine Time (Messed Around Mix)", mbid = "059e28d6-0214-4f1a-9eae-0fc72ea52918" },
+]
+
+[[release]]
+mbid = "a0902fc4-e3d9-3b2b-bc94-cd4d0e59db29"
+title = "Technique"
+type = "album"
+date = "1989-01-24"
+spotify = "6HQo3byKYGsHxOqofRmgCh"
+tracks = [
+  { n = 1, title = "Fine Time", mbid = "134dc912-ab23-434d-b415-37edf8efd149" },
+  { n = 2, title = "All the Way", mbid = "5184977e-95c8-4abf-b044-a2a228a26bb3" },
+  { n = 3, title = "Love Less", mbid = "2c4d109d-9ff8-4fcc-acfb-14a9c352c67e" },
+  { n = 4, title = "Round & Round", mbid = "bba66cf1-eede-4336-b763-06f5156c73ac" },
+  { n = 5, title = "Guilty Partner", mbid = "9d726bc7-0789-4894-923e-3951772d14b0" },
+  { n = 6, title = "Run", mbid = "47d0f7bc-afb6-49e6-bada-ec6448022c49" },
+  { n = 7, title = "Mr. Disco", mbid = "188ef798-9495-4ce8-a66e-d463348d1fb7" },
+  { n = 8, title = "Vanishing Point", mbid = "7d4294c8-7349-454c-ad8c-e99ce4540ce2" },
+  { n = 9, title = "Dream Attack", mbid = "1663fff2-09f4-4257-9aeb-06e53622b1f3" },
+]
+
+[[release]]
+mbid = "d60c29a1-5c10-442b-9732-73bc5e2467ea"
+title = "Round & Round"
+type = "single"
+date = "1989-02-27"
+tracks = [
+  { n = 1, title = "Round&round (12″ version)", mbid = "3043bda4-0af5-49a3-819d-92385cf76d57" },
+  { n = 2, title = "Round&round (club mix)", mbid = "506b8625-46ef-4d62-9a8d-8f7ecb9d0ebf" },
+  { n = 3, title = "Round&round (12″ remix)", mbid = "891a7153-82dd-4dd7-ab89-fda73abeb0d9" },
+  { n = 4, title = "Best and Marsh", mbid = "61f19467-d655-4ef0-a067-0850169c9770" },
+]
+
+[[release]]
+mbid = "70db74e6-43fd-3e4c-9651-5a07e68866c8"
+title = "Run 2"
+type = "single"
+date = "1989-08"
+tracks = [
+  { n = 1, title = "Run 2", mbid = "46bbfd82-66b8-41af-8030-99ad834d9095" },
+  { n = 2, title = "Run 2 (extended version)", mbid = "4885ce1c-39e4-41e1-bf3f-7259e6ae019d" },
+  { n = 3, title = "MTO", mbid = "6edb4946-075b-41de-b19d-e082f6018125" },
+  { n = 4, title = "MTO (Minus mix)", mbid = "813b4ea0-fca7-4d36-ad65-a2f74c3eeb0c" },
+]
+
+[[release]]
+mbid = "75108856-060d-4949-afcb-20129df22095"
+title = "World in Motion…"
+type = "single"
+date = "1990-05-21"
+tracks = [
+  { n = 1, title = "World in Motion…", mbid = "14ce21be-5fb9-406c-9fd5-12236dac262f" },
+  { n = 2, title = "The B‐Side", mbid = "10022d51-289c-427c-8590-a91780661cc1" },
+  { n = 3, title = "World in Motion… (No Alla Violenza mix)", mbid = "187031f2-3999-468d-9d43-1263023cc25d" },
+  { n = 4, title = "World in Motion… (Subbuteo mix)", mbid = "e6be0360-6820-4589-b8c2-2668b6cacd26" },
+]
+
+[[release]]
+mbid = "b7ad435f-aebb-3021-90ae-d3b5a3b709c3"
+title = "Republic"
+type = "album"
+date = "1993-04-27"
+spotify = "7ha9sBu0lsKuW6PRhfSMzg"
+tracks = [
+  { n = 1, title = "Regret", mbid = "44618738-de03-4297-957a-df84cb113c7b" },
+  { n = 2, title = "World", mbid = "8ef3b039-1a77-49a5-9902-e64184d1113b" },
+  { n = 3, title = "Ruined in a Day", mbid = "7c00e6f0-e825-4fa7-82f7-50ef92c736db" },
+  { n = 4, title = "Spooky", mbid = "4aafebfa-ba5f-4066-b3f5-1b9bc5d56ca2" },
+  { n = 5, title = "Everyone Everywhere", mbid = "2cc80ef8-c66f-4c02-9b2a-21311991be14" },
+  { n = 6, title = "Young Offender", mbid = "1275cf45-6867-44bc-a1c5-deb8edb66d33" },
+  { n = 7, title = "Liar", mbid = "c1e8bb71-5e02-47d2-a568-1755fa16fd3c" },
+  { n = 8, title = "Chemical", mbid = "540bf351-2774-42d5-8489-6db1dbd8c0f6" },
+  { n = 9, title = "Times Change", mbid = "b4ff0f67-e495-4ebc-ac23-59fac7fe52d7" },
+  { n = 10, title = "Special", mbid = "715b35ea-9ffd-480a-b321-6d8f83fbeb31" },
+  { n = 11, title = "Avalanche", mbid = "4a991557-54d5-4c60-900f-2f28c11b3f8b" },
+]
+
+[[release]]
+mbid = "580f3164-23b0-3192-b9ee-6de3e47be413"
+title = "Regret"
+type = "single"
+date = "1993-05-04"
+tracks = [
+  { n = 1, title = "Regret (album version)", mbid = "44618738-de03-4297-957a-df84cb113c7b" },
+  { n = 2, title = "Regret (New Order mix)", mbid = "71bfec5d-6db0-4ebb-aada-700e93f333fb" },
+]
+
+[[release]]
+mbid = "4fffdbef-3186-38a2-a44f-63f37321c24a"
+title = "Ruined in a Day"
+type = "single"
+date = "1993-06-21"
+tracks = [
+  { n = 1, title = "Ruined in a Day (Bogle mix)", mbid = "bf32bb94-1302-49b5-aec9-00170c28b377" },
+  { n = 2, title = "Ruined in a Day (live mix)", mbid = "4d01d490-c272-4299-80f0-3e363a863b8d" },
+  { n = 3, title = "World (The Price of dub)", mbid = "594360ab-44eb-4342-becb-2e26e0dbd289" },
+  { n = 4, title = "Ruined in a Day (Reunited in a Day remix)", mbid = "4d6c69f8-ba98-44f4-a372-12421cf3e7b4" },
+]
+
+[[release]]
+mbid = "1d4d87f0-b0c4-3795-ac43-e10b0a277685"
+title = "World (The Price of Love)"
+type = "single"
+date = "1993-08-05"
+tracks = [
+  { n = 1, title = "World (the radio edit)", mbid = "a81d9482-d077-40cd-90e5-dd3de47043f7" },
+  { n = 2, title = "Ruined in a Day (single version)", mbid = "3e265ef0-9b62-426f-a7dd-7b097ddb324b" },
+]
+
+[[release]]
+mbid = "4456a8bf-0ca0-3cc8-8dfc-fe4285df06c1"
+title = "Spooky"
+type = "single"
+date = "1993-12-13"
+tracks = [
+  { n = 1, title = "Spooky (Stadium Mix)", mbid = "df5f2744-14ba-40f4-90f0-735826c15acc" },
+  { n = 2, title = "Spooky (Night Tripper Mix)", mbid = "4f98ad6a-2cd5-4704-84c6-72dc896bfe42" },
+  { n = 3, title = "Spooky (New Order In Heaven Mix)", mbid = "f2349ebd-c90a-4aae-bcf2-28baf155c57a" },
+  { n = 4, title = "Spooky (Magimix)", mbid = "e0465d49-e4b7-4f4d-ad67-6d43eac717ac" },
+  { n = 5, title = "Spooky (Moulimix)", mbid = "63932227-c28a-4ae4-8a98-6b03f87e4031" },
+  { n = 6, title = "Spooky (Boo! Dub Mix)", mbid = "f0813f27-2a3a-4c63-8d6f-b503ef14cb45" },
+]
+
+[[release]]
+mbid = "2b149cc4-c8f1-342d-a1eb-34695d5f5720"
+title = "True Faith ’94"
+type = "single"
+date = "1994-10-31"
+tracks = [
+  { n = 1, title = "True Faith‐94", mbid = "e7ea8cc6-07f8-4b59-8a4a-5eabf34d89bf" },
+  { n = 2, title = "True Faith‐94 (Perfecto Radio edit)", mbid = "dfb13150-11b9-4ada-be21-aefd6280feef" },
+]
+
+[[release]]
+mbid = "278c79ff-24cb-304a-a1f0-baf8f754edf3"
+title = "Nineteen63"
+type = "single"
+date = "1995-01-09"
+tracks = [
+  { n = 1, title = "Nineteen63 (Arthur Baker radio remix)", mbid = "8cb92d3d-a070-43e8-9127-2d2be02a54fd" },
+  { n = 2, title = "Nineteen63 (94 album version)", mbid = "c5bb330c-f794-4de3-9dd0-59344a77bbf4" },
+  { n = 3, title = "Nineteen63 (Lionrock Full Throttle mix)", mbid = "fceed3c7-c32f-4c37-bac9-1d5378e41e98" },
+  { n = 4, title = "Nineteen63 (Joe T Vanelli Dubby mix)", mbid = "cc61bd33-c0de-45a9-b078-b8fc6f63f0de" },
+]
+
+[[release]]
+mbid = "54fe5b1d-88f3-340a-bb9c-5411dc873c18"
+title = "Blue Monday‐95"
+type = "single"
+date = "1995-07-17"
+spotify = "6V6vVjGKQOUwdGxJkAbtmO"
+tracks = [
+  { n = 1, title = "Blue Monday (Plutone mix)", mbid = "8d871b6c-e45d-4cfd-b37d-72e826639a35" },
+  { n = 2, title = "Blue Monday (Starwash mix)", mbid = "9cf45c7b-a583-41d5-8bc0-db3670d5fa33" },
+  { n = 3, title = "Blue Monday (original 12″ mix)", mbid = "9aa2be7b-8fb0-4187-bce4-9bb4e84815fc" },
+  { n = 4, title = "Blue Monday (Hardfloor dub)", mbid = "aa0dc677-781d-4e42-ab4c-320567af4275" },
+]
+
+[[release]]
+mbid = "1c37fa06-baa4-3e47-99bc-f302bb57869c"
+title = "Video 586"
+type = "single"
+date = "1997-09-08"
+tracks = [
+  { n = 1, title = "Video 586", mbid = "5ccd36c8-563e-4373-a4e4-799faf4b49a0" },
+]
+
+[[release]]
+mbid = "a532c731-0623-3db8-be2b-a82164f9f792"
+title = "60 Miles an Hour"
+type = "single"
+date = "2000-12-01"
+tracks = [
+  { n = 1, title = "60 Miles an Hour (radio edit)", mbid = "7c0c3bfa-8543-4bb5-9b0e-738c356e0fb7" },
+  { n = 2, title = "Sabotage", mbid = "7f87a1bf-0348-4cd8-92df-e07a04df09c1" },
+  { n = 3, title = "Someone Like You (Funk D'Void remix)", mbid = "923d0611-eebc-40f9-a03f-644118af24fe" },
+]
+
+[[release]]
+mbid = "03fce663-c450-34ab-afea-b8824796bb46"
+title = "Get Ready"
+type = "album"
+date = "2001-06-18"
+spotify = "4HFohweHxrMPrLjW2wkBdn"
+tracks = [
+  { n = 1, title = "Crystal", mbid = "897c06fd-a672-45c7-932b-90168ab83597" },
+  { n = 2, title = "60 Miles an Hour", mbid = "b70bea3c-7dfa-48ff-9713-0e4343a95495" },
+  { n = 3, title = "Turn My Way", mbid = "1d470d2a-2b19-49aa-b0f0-eb5ba3025f2f" },
+  { n = 4, title = "Vicious Streak", mbid = "9373e6f1-5381-4f47-a5f1-406163f0658b" },
+  { n = 5, title = "Primitive Notion", mbid = "55b2c358-0d00-4293-8bed-e848fc0c0885" },
+  { n = 6, title = "Slow Jam", mbid = "240492f7-1b53-4f2e-adad-2373b6fc77fe" },
+  { n = 7, title = "Rock the Shack", mbid = "664ed7c6-947a-442d-85ab-054926bd513e" },
+  { n = 8, title = "Someone Like You", mbid = "7a657311-5ed2-4750-8076-fb32ce59df6b" },
+  { n = 9, title = "Close Range", mbid = "9ad9496c-ca00-438e-8016-ff57a4e23659" },
+  { n = 10, title = "Run Wild", mbid = "bfb5174e-0b1a-40ac-b965-df1285ef88c2" },
+]
+
+[[release]]
+mbid = "002cfd2e-d8aa-3010-93d3-ccf63144fe47"
+title = "Crystal"
+type = "single"
+date = "2001-07-11"
+tracks = [
+  { n = 1, title = "Crystal", mbid = "e74cfdda-ca76-4c9d-8640-b4c430147589" },
+  { n = 2, title = "Behind Closed Doors", mbid = "aa5079ed-51da-4ee0-9bfe-33402fcec579" },
+  { n = 3, title = "Crystal (Digweed & Muir ‘Bedrock’ radio edit)", mbid = "5e5256a1-ec63-4b13-a5e9-320684ba5456" },
+  { n = 4, title = "Crystal (Digweed & Muir ‘Bedrock’ mix edit)", mbid = "550bc1b2-805a-46ba-a9ee-6432f434b428" },
+  { n = 5, title = "Crystal (Lee Coombs remix)", mbid = "8bbeb7e9-c86a-4d3d-adef-060d5a53d16b" },
+  { n = 6, title = "Crystal (John Creamer & Stephane K main remix edit)", mbid = "5de86af5-38e5-4842-8d39-19e71b9e4a57" },
+]
+
+[[release]]
+mbid = "37b2e918-c379-334e-a67e-006bb7068a12"
+title = "Someone Like You"
+type = "single"
+date = "2001-12-17"
+tracks = [
+  { disc = 1, n = 1, title = "Someone Like You (Futureshock vocal remix)", mbid = "67f48fb7-f513-4456-b22f-5f6f968bf7de" },
+  { disc = 1, n = 2, title = "Someone Like You (Gabriel + Dresden 911 vocal mix)", mbid = "06abf545-3c45-4145-933e-978621cef66d" },
+  { disc = 2, n = 1, title = "Someone Like You (Futureshock Strip Down mix)", mbid = "4500fd21-7385-4089-ac9b-6f31b404ec97" },
+  { disc = 2, n = 2, title = "Someone Like You (Gabriel + Dresden Voco-Tech dub)", mbid = "c5401bae-b9af-4cf7-b30b-68f93c1742de" },
+]
+
+[[release]]
+mbid = "b54231c8-8599-4dba-8126-1884680f9429"
+title = "60 Miles an Hour Tour EP"
+type = "ep"
+date = "2002-01-14"
+tracks = [
+  { n = 1, title = "60 Miles an Hour (radio edit)", mbid = "7c0c3bfa-8543-4bb5-9b0e-738c356e0fb7" },
+  { n = 2, title = "60 Miles an Hour (Superman Lovers remix)", mbid = "86d58749-864c-46db-a4d2-c0c41aa8d822" },
+  { n = 3, title = "Someone Like You (Funk D'Void remix)", mbid = "d7f2d5fc-ebb4-4f5b-bb5b-0fbf91c207f8" },
+  { n = 4, title = "Sabotage", mbid = "1db76dca-a56c-40e6-8c87-e0ed5499fa24" },
+  { n = 5, title = "True Faith (live)", mbid = "87d475b5-f749-4913-ba15-4cae78086b59" },
+  { n = 6, title = "Temptation (live)", mbid = "02c6bd37-8862-42c4-b805-45d37e5bed81" },
+]
+
+[[release]]
+mbid = "bcd74b64-b68d-3ef2-891f-9655a4bfd869"
+title = "Here to Stay"
+type = "single"
+date = "2002-04-02"
+tracks = [
+  { n = 1, title = "Here to Stay (radio edit)", mbid = "1f5c5cab-a87f-4791-a296-c54a943b76f4" },
+  { n = 2, title = "Here to Stay (original edit)", mbid = "f0b1284a-5aae-4085-8fb2-6e1b372c2f7b" },
+  { n = 3, title = "Here to Stay (Felix Da Housecat - Three Extended Glitz mix)", mbid = "a1c1615c-084c-4146-837a-8fc02ba0a4d8" },
+  { n = 4, title = "Here to Stay (The Scumfrog dub mix)", mbid = "b37733ab-e9b3-4eb8-98a6-00ea5fcabe79" },
+  { n = 5, title = "Here to Stay (extended instrumental)", mbid = "10becbc5-7b7c-4c8c-9997-011d81217dce" },
+  { n = 6, title = "Player in the League", mbid = "191f7811-2e8c-4b28-823f-74c9069221f4" },
+]
+
+[[release]]
+mbid = "516bfd88-c338-3b7d-93c4-fe0482519e6e"
+title = "The Peter Saville Show Soundtrack"
+type = "ep"
+date = "2003-06"
+tracks = [
+  { n = 1, title = "The Peter Saville Show Soundtrack", mbid = "929665ee-dc20-4cc2-ade3-434edb6efea6" },
+]
+
+[[release]]
+mbid = "4d2405e6-2685-35ac-8599-76a0b45aed3a"
+title = "Krafty"
+type = "single"
+date = "2005-02-08"
+tracks = [
+  { disc = 1, n = 1, title = "Krafty (Morel’s Pink Noise vocal)", mbid = "1ba61b1b-48fc-4b12-96b4-90a704ddc89f" },
+  { disc = 1, n = 2, title = "Krafty (Phones Reality remix)", mbid = "9701f6f9-7046-422c-8ffd-ff195c24fdcf" },
+  { disc = 1, n = 3, title = "Krafty (DJ Dan vocal)", mbid = "9e9567e9-35cd-48b3-b9d8-19eb4ea52a57" },
+  { disc = 1, n = 4, title = "Krafty (The Glimmers dub)", mbid = "e8c81f6d-79d5-4971-ab99-9ab786c39bee" },
+  { disc = 2, n = 1, title = "Krafty (Eric Kupper club mix)", mbid = "d8540206-1528-484f-9248-8b6a3b7297b8" },
+  { disc = 2, n = 2, title = "Krafty (The Glimmers 12″ extended)", mbid = "b0f8db82-cc70-484b-be21-0ce3ca691a56" },
+  { disc = 2, n = 3, title = "Krafty (Riton Re-Rub remix)", mbid = "f60c8e21-93f8-4613-aa2f-556f5371fcb7" },
+  { disc = 2, n = 4, title = "Krafty (Morel’s Pink Noise dub mix)", mbid = "1ba61b1b-48fc-4b12-96b4-90a704ddc89f" },
+]
+
+[[release]]
+mbid = "64d3ea57-6de1-38aa-872d-a0f10f4c9aee"
+title = "Waiting for the Sirens’ Call"
+type = "album"
+date = "2005-03-24"
+spotify = "1bzjjvsRKcbfaQc8XHJtvl"
+tracks = [
+  { n = 1, title = "Who’s Joe", mbid = "be0fdbc1-d411-4093-a2c3-b045750cb07b" },
+  { n = 2, title = "Hey Now What You Doing", mbid = "3218dc2c-e48c-4c14-a937-2c0b7955bcf0" },
+  { n = 3, title = "Waiting for the Sirens’ Call", mbid = "a781ca3a-109a-4382-ac54-813013489978" },
+  { n = 4, title = "Krafty", mbid = "bf7ecd25-a819-4581-a941-1b5087c684f0" },
+  { n = 5, title = "I Told You So", mbid = "fe00c459-98b0-41fc-a29d-22fd35a3e6fa" },
+  { n = 6, title = "Morning Night and Day", mbid = "3a528760-3b51-425c-b9a7-aa95e8802958" },
+  { n = 7, title = "Dracula’s Castle", mbid = "f62e4ef8-3aa5-4a68-bb02-9dee8532fb7e" },
+  { n = 8, title = "Jetstream", mbid = "56e253fe-1536-418d-aa6f-c4557835f17c" },
+  { n = 9, title = "Guilt Is a Useless Emotion", mbid = "cb6a3e44-cde3-417c-b1f2-1cc48eec7373" },
+  { n = 10, title = "Turn New Drum", mbid = "09c35ed4-230e-407f-a76f-ad3c107bce1f" },
+  { n = 11, title = "Working Overtime", mbid = "c853fd29-2342-457f-9d21-03716647a017" },
+  { n = 12, title = "Krafty (The Glimmers dub version)", mbid = "b0f8db82-cc70-484b-be21-0ce3ca691a56" },
+  { n = 13, title = "Krafty (Phones Reality remix)", mbid = "9701f6f9-7046-422c-8ffd-ff195c24fdcf" },
+  { n = 14, title = "Krafty (Riton re-dub remix)", mbid = "f60c8e21-93f8-4613-aa2f-556f5371fcb7" },
+]
+
+[[release]]
+mbid = "d012805b-6afe-42af-a435-f50be0ef7ff1"
+title = "Krafty / Jetstream"
+type = "ep"
+date = "2005-04-26"
+spotify = "2ljO5jZuXoEPJZdsVXbV86"
+tracks = [
+  { n = 1, title = "Krafty (single edit)", mbid = "12e16127-b1c6-41b1-832c-df7565229cee" },
+  { n = 2, title = "Krafty (Morel’s Pink Noise vocal mix)", mbid = "1ba61b1b-48fc-4b12-96b4-90a704ddc89f" },
+  { n = 3, title = "Krafty (DJ Dan vocal remix)", mbid = "9e9567e9-35cd-48b3-b9d8-19eb4ea52a57" },
+  { n = 4, title = "Krafty (Eric Kupper club mix)", mbid = "d8540206-1528-484f-9248-8b6a3b7297b8" },
+  { n = 5, title = "Krafty (The Glimmers 12” extended)", mbid = "b0f8db82-cc70-484b-be21-0ce3ca691a56" },
+  { n = 6, title = "Krafty (Phones Reality remix)", mbid = "9701f6f9-7046-422c-8ffd-ff195c24fdcf" },
+  { n = 7, title = "Krafty (Riton Re‐Rub remix)", mbid = "ce303a57-f0b7-4fc1-bd3a-94e3dac5e19b" },
+]
+
+[[release]]
+mbid = "0d3dfb03-6a65-319d-b074-d53f5d3ad604"
+title = "Jetstream"
+type = "single"
+date = "2005-05-16"
+tracks = [
+  { n = 1, title = "Jetstream (radio edit)", mbid = "cb7827ab-52aa-40e3-b127-a08aaacaaa50" },
+  { n = 2, title = "Jetstream (Richard X remix) (edit)", mbid = "1fc798c3-0977-4185-950d-7755843b2341" },
+  { n = 3, title = "Jetstream (Jacques Lu Cont remix) (2nd mix)", mbid = "7eae3f6a-637a-48a7-af53-4f80731f65c4" },
+  { n = 4, title = "Jetstream (Richard X remix)", mbid = "a5306ff5-2899-4275-9e18-0777b5fc23fe" },
+  { n = 5, title = "Jetstream (Arthur Baker remix)", mbid = "86e3692a-f471-408d-8451-359ef02c2278" },
+  { n = 6, title = "Jetstream (Tom Neville remix)", mbid = "9e9739f0-52d5-44bd-8656-5c43832e57ae" },
+  { n = 7, title = "Jetstream (Pete Heller remix) (Phela Vox)", mbid = "ac9bd09d-f85b-4302-8181-726b15cfb664" },
+  { n = 8, title = "Krafty (The Passengerz club mix)", mbid = "876b926d-37eb-4699-b5a9-55dee56dcae4" },
+  { n = 9, title = "Krafty (DJ Dan dub remix)", mbid = "1c86c6f2-28e6-46e3-8036-5be75deda39b" },
+]
+
+[[release]]
+mbid = "58e58714-f938-4218-a17c-5bb1c2572a45"
+title = "Waiting for the Sirens’ Call"
+type = "single"
+date = "2005-09-26"
+tracks = [
+  { n = 1, title = "Waiting for the Sirens' Call (Rich Costey radio edit)", mbid = "08768b0a-a9bb-4333-86e1-701ba6302741" },
+  { n = 2, title = "Temptation (Secret Machines remix)", mbid = "3776c6c5-240e-479d-94cd-cb3b424e88f0" },
+]
+
+[[release]]
+mbid = "766e3abf-b291-4aa0-8a90-4b7888ec3254"
+title = "Here to Stay / Jetstream"
+type = "single"
+date = "2006"
+tracks = [
+  { n = 1, title = "Here to Stay (Thee extended Glitz mix)", mbid = "a1c1615c-084c-4146-837a-8fc02ba0a4d8" },
+  { n = 2, title = "Jetstream (Jacques Lu Cont dub)", mbid = "a520d33e-eb7b-4085-b4d1-0e0426b66aff" },
+]
+
+[[release]]
+mbid = "3125bc67-907e-46b9-881a-25e5dd0c205e"
+title = "Subculture / State of the Nation / I Told You So"
+type = "ep"
+date = "2006"
+tracks = [
+  { n = 1, title = "Subculture (dub Vulture mix)", mbid = "0b0fbf76-1d0e-4619-b5c0-73d62ae91129" },
+  { n = 2, title = "State of the Nation (Shame of the Nation)", mbid = "19645439-c453-4f5a-9711-9128eb37f3e4" },
+  { n = 3, title = "I Told You So (Stuart Price's remix)", mbid = "2e06682b-b9bd-4dca-8a6a-5132224f7703" },
+]
+
+[[release]]
+mbid = "b199cd7a-d4f9-4a5a-8829-18759f6b5a0d"
+title = "Bizarre Love Triangle / Round and Round / True Faith / Fine Time"
+type = "ep"
+date = "2006-01"
+tracks = [
+  { n = 1, title = "Bizarre Love Triangle (Shep Pettibone extended dance remix)", mbid = "47a12619-bf80-44b2-a396-795d3c6ed379" },
+  { n = 2, title = "Round and Round (Kevin Saunderson remix)", mbid = "127638ca-9749-4e0f-8a92-cc0898bf9d84" },
+  { n = 3, title = "True Faith (Shep Pettibone remix)", mbid = "151b521a-7248-47de-95d2-79bc36f8e5b5" },
+  { n = 4, title = "Fine Time (Steve ‘Silk’ Hurley remix)", mbid = "31b8ed52-1fa6-4e2c-8ee7-c702207b4c62" },
+]
+
+[[release]]
+mbid = "0b21a318-7843-48ae-bf01-a6e6601ee646"
+title = "Confusion / Crystal"
+type = "single"
+date = "2006-02-27"
+tracks = [
+  { n = 1, title = "Confusion (Koma & Bones remix)", mbid = "13e7fc5e-1c54-4934-9b6b-ff28f34c3db9" },
+  { n = 2, title = "Crystal (Lee Coombs remix)", mbid = "8bbeb7e9-c86a-4d3d-adef-060d5a53d16b" },
+]
+
+[[release]]
+mbid = "44a7c7d4-5ec9-4842-aea5-7cb7aeaa2ec1"
+title = "Confusion / Everything’s Gone Green / Waiting For The Sirens’ Call"
+type = "ep"
+date = "2006-02-27"
+tracks = [
+  { n = 1, title = "Confusion (Pump Panel Reconstruction)", mbid = "3d383dd1-dc6b-41ec-9d72-2295131ce846" },
+  { n = 2, title = "Everything’s Gone Green (Dave Clarke remix)", mbid = "87e26cf0-55e6-4965-a9be-5c7c82eb3744" },
+  { n = 3, title = "Waiting for the Sirens’ Call (Filterheadz remix)", mbid = "480eda2b-9f33-4456-8232-24d5e0ac65a8" },
+]
+
+[[release]]
+mbid = "4482ed97-69ae-4564-ab69-91d41a823a48"
+title = "Jetstream / Someone Like You"
+type = "single"
+date = "2006-02-27"
+tracks = [
+  { n = 1, title = "Jetstream (Phela vocal remix)", mbid = "02844673-0da1-45bf-8d20-ac55691020ae" },
+  { n = 2, title = "Someone Like You (Futureshock vocal remix)", mbid = "67f48fb7-f513-4456-b22f-5f6f968bf7de" },
+]
+
+[[release]]
+mbid = "d027c0c4-e8a6-36de-bf70-da42d3ff7432"
+title = "True Faith / Regret"
+type = "single"
+date = "2006-02-27"
+tracks = [
+  { n = 1, title = "True Faith (King Roc remix)", mbid = "8ade1520-e963-4c57-894f-f45e5b960c1e" },
+  { n = 2, title = "Regret (Tocadisco remix)", mbid = "35274cd9-b136-412b-9d9a-a02acd084911" },
+  { n = 3, title = "Regret (Tocadisco dub)", mbid = "91c48538-b7bd-4980-bd04-6d1cf64c0764" },
+]
+
+[[release]]
+mbid = "c8524818-db49-4ccd-95f6-10e96f761c82"
+title = "Confusion 2007"
+type = "single"
+date = "2007-07"
+tracks = [
+  { n = 1, title = "Confusion 2007 (A-O Miami Edit)", mbid = "748f4d18-4f29-4967-a21b-607e3258029d" },
+  { n = 2, title = "Confusion 2007 (Dirty South Electrofried Remix)", mbid = "f67dd1f2-232f-465c-945a-984f5e34bdfc" },
+]
+
+[[release]]
+mbid = "96697a36-6746-4a32-8568-5b20f24a1edc"
+title = "Lost Sirens"
+type = "album"
+date = "2013-01-14"
+tracks = [
+  { n = 1, title = "I’ll Stay With You", mbid = "fda3c72f-3499-4da0-91f0-7e1282444f99" },
+  { n = 2, title = "Sugarcane", mbid = "4763d338-5105-4854-9172-bdd7fd526bfd" },
+  { n = 3, title = "Recoil", mbid = "c3eb3e0d-c7b3-4ddb-b908-51c954d2a508" },
+  { n = 4, title = "Californian Grass", mbid = "a8458785-1d07-48c9-a760-ba5bccbfd9ea" },
+  { n = 5, title = "Hellbent", mbid = "f201bb96-e7fb-4ca9-a44b-1c612369ded3" },
+  { n = 6, title = "Shake It Up", mbid = "ff7f0cc8-ab55-4b18-a4e9-562a0e396c22" },
+  { n = 7, title = "I’ve Got a Feeling", mbid = "f6f60666-f5d4-475b-a6ca-0ada6187d709" },
+  { n = 8, title = "I Told You So (Crazy World mix)", mbid = "bb648687-1ea4-41b7-bd3e-a42e3f574d16" },
+]
+
+[[release]]
+mbid = "5bcac181-131f-4f37-b8c4-4bd121170446"
+title = "Restless"
+type = "single"
+date = "2015-07-29"
+spotify = "4wfwnz2RQU1cSGj46ri7B7"
+tracks = [
+  { n = 1, title = "Restless", mbid = "ea9ec26d-c287-4e58-810f-899c1ae5a685" },
+]
+
+[[release]]
+mbid = "2fb3c3dc-c8d1-43fe-96df-52748520c649"
+title = "Music Complete"
+type = "album"
+date = "2015-09-23"
+spotify = "3c1pvSBGoHSbtiKWGCSTcp"
+tracks = [
+  { n = 1, title = "Restless", mbid = "4b830c05-f909-4571-bbce-113fb7ac1da3" },
+  { n = 2, title = "Singularity", mbid = "291ce9a2-e353-473d-a408-693b520210d2" },
+  { n = 3, title = "Plastic", mbid = "6e9f2793-b647-4d3a-b59e-2b40ece1689d" },
+  { n = 4, title = "Tutti Frutti", mbid = "a83d4a7f-6e3b-4524-94c8-afeb22e35dce" },
+  { n = 5, title = "People on the High Line", mbid = "3fd92e93-bfd1-46b4-a90a-a7a21b713419" },
+  { n = 6, title = "Stray Dog", mbid = "be2257b6-4e8c-475e-91bc-6d26c1964ff6" },
+  { n = 7, title = "Academic", mbid = "4f336307-a09e-4278-89cf-238b501b70ad" },
+  { n = 8, title = "Nothing But a Fool", mbid = "75fa4bc7-455e-4712-9cbe-f12984374014" },
+  { n = 9, title = "Unlearn This Hatred", mbid = "564642e5-d61d-4671-b0ac-40a376fcbe9e" },
+  { n = 10, title = "The Game", mbid = "7f1d28eb-f2ce-4d47-9b7c-46e2fe99a612" },
+  { n = 11, title = "Superheated", mbid = "6428cede-cece-4ced-862b-fcef22b8b79a" },
+  { n = 12, title = "Restless (extended bonus mix)", mbid = "6a4040b7-787b-4aec-9321-b537ec39988b" },
+]
+
+[[release]]
+mbid = "4fffbfb4-12d4-4e13-b4ed-654719727477"
+title = "Tutti Frutti"
+type = "ep"
+date = "2015-10-20"
+spotify = "2H9MGGEecCDyNYq4E2qHTN"
+tracks = [
+  { n = 1, title = "Tutti Frutti", mbid = "9eaeed1f-87a6-4bb9-806f-53ff0663d420" },
+  { n = 2, title = "Tutti Frutti (Hot Chip remix)", mbid = "a9835baa-70c6-4770-b6db-8ad2e9056866" },
+]
+
+[[release]]
+mbid = "4738ebc9-5ace-419e-9774-664db1fbd472"
+title = "Academic"
+type = "single"
+date = "2015-11-30"
+tracks = [
+  { n = 1, title = "Academic (extended mix)", mbid = "66a2e198-f730-4050-a67c-df90b8ce56f2" },
+]
+
+[[release]]
+mbid = "f23e465f-9b08-4dfe-b32f-57e357c3eb6a"
+title = "Singularity"
+type = "single"
+date = "2016-02-02"
+spotify = "6EykQ2pF2bmY7gyUtwtDRL"
+tracks = [
+  { n = 1, title = "Singularity (extended mix)", mbid = "8acdfbb2-cd0e-4332-a72f-2edd9eb0b0c7" },
+]
+
+[[release]]
+mbid = "873bc976-9706-4114-8215-6349744dd24b"
+title = "People on the Highline"
+type = "single"
+date = "2016-06-21"
+tracks = [
+  { n = 1, title = "People on the High Line (Claptone remix)", mbid = "64aaa1da-2765-43c6-a6fd-d16f29f21f74" },
+]
+
+[[release]]
+mbid = "e6c6509d-5f83-48b2-b564-d1228d1dd6c9"
+title = "Be a Rebel"
+type = "single"
+date = "2020-09-08"
+spotify = "2TGexyGikSwRrOZeEETulj"
+tracks = [
+  { n = 1, title = "Be a Rebel", mbid = "dc31a23b-e610-4bb9-bf20-96f074983732" },
+  { n = 2, title = "Be a Rebel (edit)", mbid = "98e1f54a-6d41-4942-b08c-cfedc5fa66df" },
+]
+
+[[release]]
+mbid = "4235b78c-35a3-41d2-8f22-6dbfc0c14616"
+title = "The Perfect Kiss (writing session recording)"
+type = "single"
+date = "2022-11-10"
+spotify = "4TVBAoqSUtrLnD584AxsGn"
+tracks = [
+  { n = 1, title = "The Perfect Kiss (writing session recording)", mbid = "d555e3d7-4df0-475a-baa3-0088ba00b466" },
+]
+
+[[release]]
+mbid = "1004d2d7-209a-407c-b208-716e5ae054ad"
+title = "True Faith"
+type = "ep"
+date = "2023-11-10"
+tracks = [
+  { n = 1, title = "True Faith", mbid = "b8c4c5ea-b399-4a0b-b000-766fecc27250" },
+  { n = 2, title = "1963", mbid = "14ff7616-0f45-4674-8fe5-2503ef33d551" },
+]
+
+[[release]]
+mbid = "99788c99-9003-4d97-b6ee-d6fcaf3b59bc"
+title = "State of the Nation (Japan Demo)"
+type = "single"
+date = "2024-11-08"
+tracks = [
+  { n = 1, title = "State of the Nation (Japan Demo)", mbid = "543bef18-f6a5-4030-b651-20f3baaef44e" },
+]
+
+[[release]]
+mbid = "aef3cd7d-5c83-4f23-8dd6-03e07c9970f4"
+title = "Blue Monday (Hawtin mix – alternate version 2)"
+type = "ep"
+date = "2026-07-10"
+tracks = [
+  { n = 1, title = "Blue Monday (Hawtin mix – alternate version 2)", mbid = "e5ecbc75-3299-435d-8d1d-7c47d863bb55" },
+]

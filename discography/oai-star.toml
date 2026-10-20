@@ -1,0 +1,148 @@
+format = 1
+
+[[release]]
+mbid = "f99d2f5f-9d2a-3635-97b8-9a1b781c9484"
+title = "Oaistar"
+type = "album"
+date = "2004-06"
+tracks = [
+  { n = 1, title = "Le Beat, la Guitare et les Voix", mbid = "437272c2-d0b9-401d-82f1-4d22b2fe3159" },
+  { n = 2, title = "C'est une très bonne journée", mbid = "7b0d3ca7-c02b-4965-8828-4924b7e16ea6" },
+  { n = 3, title = "Mets les watts cousin !", mbid = "987f10f5-99f3-4ece-b833-727fd1d62a7f" },
+  { n = 4, title = "Faut que je chante", mbid = "5ae4cbb3-d2a2-40fc-bd0a-f887e79ef515" },
+  { n = 5, title = "Quand on prend le micro", mbid = "5531c3d5-6a40-49a4-90fb-3d39c9166ff3" },
+  { n = 6, title = "Comme un fumigène", mbid = "985e2e40-95ad-4d79-8383-07b87959146e" },
+  { n = 7, title = "Voyager intelligent", mbid = "0d660ea6-d1c9-4f70-b01d-8ea1a77f2755" },
+  { n = 8, title = "Tête brûlée", mbid = "0765901d-febc-4e49-9974-c67c6d1585d3" },
+  { n = 9, title = "Match de gala", mbid = "858a76ba-a91e-41de-975a-38f1e046e014" },
+  { n = 10, title = "It's Ok!", mbid = "99fda80f-a618-40c6-a1f6-5a12bfd29ae9" },
+  { n = 11, title = "Armagideon Time", mbid = "dab2c76e-a625-4b83-881c-386f1ec8bcde" },
+]
+
+[[release]]
+mbid = "9a735934-62bc-3216-95ca-4c71d8a9c5f9"
+title = "Va à Lourdes"
+type = "album"
+date = "2006-04-03"
+spotify = "3ZnxomezFwVERaCONXc6Lb"
+tracks = [
+  { n = 1, title = "À la debuta", mbid = "cdcd6fc8-0863-44b2-b9ac-16a4eee5648b" },
+  { n = 2, title = "Quand on arrive (Le Posse Saute Haut)", mbid = "d82cedcf-cc08-4210-a15d-2cea67b42a4e" },
+  { n = 3, title = "The Ballad of Lux B. & Gary", mbid = "e0d3a358-37cf-4197-909d-3c5bc8323aa4" },
+  { n = 4, title = "Bravo mon papa", mbid = "6761c9b7-cfc0-4823-8b61-cf44d4a32a29" },
+  { n = 5, title = "Va à Lourdes", mbid = "0d17b28b-6980-4578-a8c6-a86019653fea" },
+  { n = 6, title = "Faut qu'on se lache", mbid = "ca83cead-3c74-47d4-b38e-c6ef59a62aed" },
+  { n = 7, title = "Les Fracas de la plaine", mbid = "287ca538-0446-4602-857d-1efeced28d78" },
+  { n = 8, title = "Les Poètes du tiroir", mbid = "d1bf257e-36d5-4778-aa49-6217fc4029d6" },
+  { n = 9, title = "Le Destructeur d'horodateurs", mbid = "ed64738d-2bf1-474f-b22d-02d1cfebb7c1" },
+  { n = 10, title = "And I Smoke...", mbid = "ec08dd1d-b419-471f-9560-d15ac122c33e" },
+  { n = 11, title = "Le Bruyant Ferry", mbid = "e6e8675d-2e61-43e3-9803-b988bdc4e338" },
+  { n = 12, title = "Du vin et du boucan", mbid = "6198ece9-468d-4485-abcd-c1b091e4ef73" },
+]
+
+[[release]]
+mbid = "a4c2ec8e-032b-45c8-9619-88de214011a9"
+title = "Manifesta"
+type = "album"
+date = "2009-09-21"
+tracks = [
+  { n = 1, title = "Sème ton chanvre paysan", mbid = "30ee82bc-a58b-4e8a-8e0f-9d7fde6b50f5" },
+  { n = 2, title = "Je veux faire brûler la mer", mbid = "4e83bf04-3dc3-4ed3-b384-b4b32b9d5f95" },
+  { n = 3, title = "Baleti atòmico", mbid = "d960c9d9-9fa4-42cd-9dfa-c6ea47df8cef" },
+  { n = 4, title = "Feignant & Gourmand", mbid = "6a2a4d37-071c-4abb-8606-bdb122cc3978" },
+  { n = 5, title = "Saturé Nights, Part I", mbid = "f9da9124-8900-43a4-8b4e-7e81c30b365a" },
+  { n = 6, title = "Fire", mbid = "5fcb11c2-9954-4e5b-85c8-bd326d5b890e" },
+  { n = 7, title = "Are you from mars ?", mbid = "47a6f6b2-0826-4198-a9d2-c4913668c7d6" },
+  { n = 8, title = "La vie qu'on mène", mbid = "24297a84-c7fa-4a3a-ad18-792365e331a2" },
+  { n = 9, title = "Antifestif", mbid = "2bb9c173-ab39-4bb9-af96-07ddb5882124" },
+  { n = 10, title = "Chéri(e)", mbid = "3608981c-827c-4aa9-85c8-2a51480a85e0" },
+  { n = 11, title = "Fonky plomberie", mbid = "8b1d6459-2a07-4e0e-a41b-8c48d4734feb" },
+  { n = 12, title = "La boite et les clous", mbid = "95789040-2c83-4406-b20d-6b21f9303f62" },
+  { n = 13, title = "Canadèr love", mbid = "f92ccc2c-c95a-4bb3-807b-14a1641baba3" },
+  { n = 14, title = "Saturé Nights, Part II", mbid = "b0932e98-095d-47b8-bc5b-a27f27c5699f" },
+]
+
+[[release]]
+mbid = "59e55f73-7bf6-4ae3-af32-e8330fd52960"
+title = "Oai And I"
+type = "album"
+date = "2014"
+tracks = [
+  { n = 1, title = "Hate The Kids", mbid = "47277618-533e-44cb-b4ae-949608ea13e1" },
+  { n = 2, title = "Oui Non", mbid = "b0b16be2-5084-4895-9b64-49a4c207df36" },
+  { n = 3, title = "Hey Toi", mbid = "b07769f4-8e59-4bc5-881d-c6f4e1a2d0ba" },
+  { n = 4, title = "Notre Futur", mbid = "f6bf86c4-d83e-43e7-89f4-aaec100962af" },
+  { n = 5, title = "Tête Brûlée", mbid = "2075c190-78b5-4b70-afbf-8dbeda78f8b6" },
+  { n = 6, title = "MTLF", mbid = "be03a582-9f7f-4644-bfa0-a555a19fddfa" },
+  { n = 7, title = "Viva", mbid = "6ea98cc3-b9e5-4876-b360-e2ab715321d7" },
+  { n = 8, title = "Oxxitan Attitude", mbid = "59120b8f-62ec-46c0-93d9-e77f5df18f45" },
+  { n = 9, title = "Par Pitié", mbid = "309ebba4-d55e-451d-8695-70cc17ec8ed7" },
+  { n = 10, title = "On Y Va", mbid = "27c32da2-9a5f-480e-8a2e-4c6dcf6e068f" },
+  { n = 11, title = "J'Veux Pas Aller", mbid = "dc29b5b4-d70f-49ab-8573-463cfefb57c4" },
+  { n = 12, title = "Oai & I", mbid = "0e445b66-92bf-46f3-bab0-c9aaab4c588b" },
+]
+
+[[release]]
+mbid = "6b9afa3e-9028-41c8-b323-01dcabd54026"
+title = "Foule Color"
+type = "album"
+date = "2016-11-04"
+tracks = [
+  { n = 1, title = "OAI PARK", mbid = "edb535ec-271e-4871-bd64-d391f44a5f74" },
+  { n = 2, title = "Les lunettes et le chapeau", mbid = "d262eea9-9b9d-423e-8c73-2b6c9fc214e2" },
+  { n = 3, title = "Commence à tourner", mbid = "a6d2d493-6099-4359-9747-4f547dd99d9e" },
+  { n = 4, title = "Foule Color", mbid = "62f6c4dd-8c10-42f2-9b61-ca146c1612dd" },
+  { n = 5, title = "La pêche aux cabossés", mbid = "6d0f9dd5-8aaa-4c02-89ad-e90a78793e7b" },
+  { n = 6, title = "La revanche des cakes", mbid = "835d830a-d1d6-42d9-9c2a-eb3e4ec1139e" },
+  { n = 7, title = "Pilé / déplié", mbid = "6fe1138c-8547-4636-9e0c-c37898bce046" },
+  { n = 8, title = "Objetif Faya", mbid = "e8bccc5d-9925-469a-ad6b-f88e63c32338" },
+  { n = 9, title = "Lucie et Michelle", mbid = "49158d3c-04c1-4670-bb28-622e90e034ba" },
+  { n = 10, title = "Get a job", mbid = "4b5b9219-a809-4c99-a90f-bf897fcac91b" },
+  { n = 11, title = "Vote pour l'amour", mbid = "7e80f1a9-c3f9-47b3-bd09-f1fcde283bd9" },
+  { n = 12, title = "Ding Dang Dong", mbid = "c4a20c18-6053-462e-a21c-83f67998179d" },
+  { n = 13, title = "People of the sound", mbid = "78a302f9-0498-4324-a1f9-0d828a74da9c" },
+  { n = 14, title = "Supporters", mbid = "c7f66d7d-3f3d-4b7d-b2c9-0460f517b270" },
+  { n = 15, title = "Recharge ton cœur", mbid = "6d960a21-396a-4bf5-baba-35ae16e98691" },
+]
+
+[[release]]
+mbid = "f36be4bf-a521-4727-829f-eb1b96a9f6dd"
+title = "Zulu Oscar Bravo India"
+type = "album"
+date = "2023"
+tracks = [
+  { n = 1, title = "ACDC", mbid = "84703518-7541-4ecc-88d7-bdb0ab6d6bb6" },
+  { n = 2, title = "Animal", mbid = "6352b570-3b77-43e0-a831-4b1d6c03d4b2" },
+  { n = 3, title = "Le point commun", mbid = "77547b6c-6bcb-4b7b-a667-c65437454184" },
+  { n = 4, title = "Musique de vieux", mbid = "9d8bd68f-f89c-4971-9471-325cd5480257" },
+  { n = 5, title = "Fouta Nobis Oacem", mbid = "04d62d28-2986-44d0-9db8-13d70f900530" },
+  { n = 6, title = "Oai star au hellfest", mbid = "d6c48cb4-90c3-420d-aec6-2b98f7cc7460" },
+  { n = 7, title = "Les pires", mbid = "c48810e8-f7c6-4273-8211-0c8521d79349" },
+  { n = 8, title = "A la Maison Hantée", mbid = "8512b0d5-da20-4000-bf54-fc41450533a4" },
+  { n = 9, title = "Sacarabée", mbid = "11e8879b-a192-4692-b98f-c0f8349e3047" },
+  { n = 10, title = "Comment ça va", mbid = "7832611e-a521-47a2-92ed-ee0fc7c1b965" },
+  { n = 11, title = "Rien ne pourra nous arrêter", mbid = "e2c851eb-ab2d-4b24-bbfe-0595770cce18" },
+  { n = 12, title = "Faut secouer", mbid = "b1bb7c9c-31e3-41c2-9b5a-6df7fe620a9c" },
+]
+
+[[release]]
+mbid = "269b9ef7-1da1-4511-8189-80ebde73660e"
+title = "Volume 2"
+type = "album"
+tracks = [
+  { n = 1, title = "Intro", mbid = "0e4490bf-6d95-4df8-b1b0-7276c7a1db75" },
+  { n = 2, title = "S.O.S Oai Star", mbid = "9ecb0bd4-83d8-45b4-a36f-0154fc51d74a" },
+  { n = 3, title = "Laissez-moi fumer", mbid = "53535824-28cb-4091-8529-43dd915e742c" },
+  { n = 4, title = "Vulgus Vs Prostus", mbid = "54529f39-72d1-4f2b-a0eb-71e9e4e8a6df" },
+  { n = 5, title = "Chourmo c'est pas pareil", mbid = "3d14547d-5767-42ec-9b37-dad40b2f6999" },
+  { n = 6, title = "Capozi", mbid = "5dce9e59-112d-4fec-8337-8010a0d8dc9e" },
+  { n = 7, title = "Babilona Burning", mbid = "f201ae25-b07c-4178-8feb-8870697f79c6" },
+  { n = 8, title = "Fai virar", mbid = "ff92c2b3-97e2-4aee-87f4-867e4572ed7d" },
+  { n = 9, title = "A dos poetas Marsilhès", mbid = "bcc490fd-e5e4-4fbe-9eea-61181c71c689" },
+  { n = 10, title = "Comme elle est bonne", mbid = "12aa0abd-52cb-4aa8-afab-a5e3f7f64ba1" },
+  { n = 11, title = "Big pontons", mbid = "c1f17bae-b905-4848-b5c9-03a5ac761261" },
+  { n = 12, title = "La Chair et le chant", mbid = "1f2c187a-0325-4846-b5f7-f6a0000af568" },
+  { n = 13, title = "L'pòpò", mbid = "d560e42f-1184-466e-b3e5-6b316cccd3aa" },
+  { n = 14, title = "Quand j'étais minot", mbid = "b5e1d6f1-7917-4ee3-8be2-ad82758bca3a" },
+  { n = 15, title = "Mon viech", mbid = "48a408d2-a423-463a-b96c-85e5d220a638" },
+]

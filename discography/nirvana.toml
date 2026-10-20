@@ -1,0 +1,252 @@
+format = 1
+
+[[release]]
+mbid = "04f53329-d0d0-3b0d-856a-1e2cbcde0e69"
+title = "Love Buzz"
+type = "single"
+date = "1988-11"
+tracks = [
+  { n = 1, title = "Love Buzz", mbid = "9c2cc0f6-63a6-499d-9084-21b311910364" },
+  { n = 2, title = "Big Cheese", mbid = "0d2bbaa1-2de0-4c84-bdc2-f6bec799dd01" },
+]
+
+[[release]]
+mbid = "f1afec0b-26dd-3db5-9aa1-c91229a74a24"
+title = "Bleach"
+type = "album"
+date = "1989-08-08"
+spotify = "1KVGLuPtrMrLlyy4Je6df7"
+tracks = [
+  { n = 1, title = "Blew", mbid = "2837e0d2-5ce9-44da-803e-797c835d672c" },
+  { n = 2, title = "Floyd the Barber", mbid = "4cce1ee1-38e6-4ea0-8584-b6ebeb854d7d" },
+  { n = 3, title = "About a Girl", mbid = "b2e623ea-378b-4479-bb75-fa202aacbfc9" },
+  { n = 4, title = "School", mbid = "0b3292f6-8f0d-4160-92d3-49348029a619" },
+  { n = 5, title = "Love Buzz", mbid = "1adfecb7-875f-4203-b3b1-8e2e643f94a2" },
+  { n = 6, title = "Paper Cuts", mbid = "67930d52-5e75-4c00-b36f-ee3c43bed160" },
+  { n = 7, title = "Negative Creep", mbid = "06745db3-a2bc-4131-8a9d-0cbdc25b494a" },
+  { n = 8, title = "Scoff", mbid = "dbecedb1-2a90-43fc-add4-ce4016676545" },
+  { n = 9, title = "Swap Meet", mbid = "c9972a41-2ae8-43f6-9822-ba2fec7e50d1" },
+  { n = 10, title = "Mr. Moustache", mbid = "6cd0083c-e4ce-4745-aaf0-704ab1de988a" },
+  { n = 11, title = "Sifting", mbid = "25bbbd76-5f48-4b37-9722-44a346c4f3a9" },
+  { n = 12, title = "Big Cheese", mbid = "c498c2ac-a571-412e-a26e-f37e86a1edda" },
+  { n = 13, title = "Downer", mbid = "6011093f-704a-46b0-8941-ae2bee94d70a" },
+]
+
+[[release]]
+mbid = "f4704ade-d0d8-3015-a9f9-a4972df288fc"
+title = "Blew"
+type = "ep"
+date = "1989-12"
+tracks = [
+  { n = 1, title = "Blew", mbid = "2837e0d2-5ce9-44da-803e-797c835d672c" },
+  { n = 2, title = "Love Buzz", mbid = "1adfecb7-875f-4203-b3b1-8e2e643f94a2" },
+  { n = 3, title = "Been a Son", mbid = "6e1374f4-c738-4546-a4ee-5ba5d65cbdae" },
+  { n = 4, title = "Stain", mbid = "8338b16f-77ff-456c-8e63-a320dae6b97d" },
+]
+
+[[release]]
+mbid = "c01d417b-0e34-3723-9ebe-87de4620080c"
+title = "Sliver"
+type = "single"
+date = "1990-09"
+tracks = [
+  { n = 1, title = "Sliver", mbid = "81e2ed45-6a3f-481c-bf36-261e65426a4f" },
+  { n = 2, title = "Dive", mbid = "1e551ecc-bb1c-44dd-80bb-d24ad0614f1b" },
+  { n = 3, title = "About a Girl (live, 1990-02-09: Pine Street Theatre, Portland, OR, USA)", mbid = "adfdbd43-e024-4386-ad14-91f704d2f47f" },
+  { n = 4, title = "Spank Thru (live, 1990-02-09: Pine Street Theatre, Portland, OR, USA)", mbid = "e9438c9d-6206-4a00-a6ac-26f665e62991" },
+]
+
+[[release]]
+mbid = "8c22577f-aaea-3973-9d27-20731751e088"
+title = "Candy / Molly’s Lips"
+type = "single"
+date = "1991-01"
+tracks = [
+  { n = 1, title = "Candy", mbid = "a57f3c1b-162f-4f9e-9022-6346c089cea0" },
+  { n = 2, title = "Molly’s Lips", mbid = "923a3beb-6233-4cea-88c6-6461cba21df9" },
+]
+
+[[release]]
+mbid = "40f18565-ab15-3a93-8a9a-4ed6be9a112e"
+title = "Here She Comes Now / Venus in Furs"
+type = "single"
+date = "1991-06"
+tracks = [
+  { n = 1, title = "Here She Comes Now", mbid = "cee49f48-81e7-430d-9856-d4b80a446a63" },
+  { n = 2, title = "Venus in Furs", mbid = "c27445bd-8b4f-4c07-8006-6add9d929fdf" },
+]
+
+[[release]]
+mbid = "03345972-d2f8-36bb-b49a-03a9ceccb7a7"
+title = "Smells Like Teen Spirit"
+type = "single"
+date = "1991-09-10"
+tracks = [
+  { n = 1, title = "Smells Like Teen Spirit (LP version)", mbid = "5fb524f1-8cc8-4c04-a921-e34c0a911ea7" },
+  { n = 2, title = "Even in His Youth", mbid = "8948f7a2-ce0e-4693-9a30-db17014d302b" },
+]
+
+[[release]]
+mbid = "1b022e01-4da6-387b-8658-8678046e4cef"
+title = "Nevermind"
+type = "album"
+date = "1991-09-24"
+spotify = "3FFGbUutKWN1c4f0CJR4Uh"
+tracks = [
+  { n = 1, title = "Smells Like Teen Spirit", mbid = "5fb524f1-8cc8-4c04-a921-e34c0a911ea7" },
+  { n = 2, title = "In Bloom", mbid = "593e9317-a327-4a31-b796-416c62dcf49d" },
+  { n = 3, title = "Come as You Are", mbid = "70ac6733-068f-4613-b06b-bea17cfbcc30" },
+  { n = 4, title = "Breed", mbid = "0cf9f95f-70e7-4f2e-8075-5d8ba38dd4a3" },
+  { n = 5, title = "Lithium", mbid = "3fac712c-4196-4865-8c1a-94231a7da309" },
+  { n = 6, title = "Polly", mbid = "d088ed9e-1921-4568-ae75-fba8b15ed206" },
+  { n = 7, title = "Territorial Pissings", mbid = "dbaa10b1-d46a-4960-8b50-4e2d80c8113c" },
+  { n = 8, title = "Drain You", mbid = "11cc49bd-f531-4cdd-9b59-e1f59b06c1d7" },
+  { n = 9, title = "Lounge Act", mbid = "aef0677b-93b4-4c66-be74-10120d0e6f5a" },
+  { n = 10, title = "Stay Away", mbid = "8bf26383-8b9b-4252-9cb3-0efa4d3f47f1" },
+  { n = 11, title = "On a Plain", mbid = "ea61d42b-9a76-47fd-bcf7-df911640c309" },
+  { n = 12, title = "Something in the Way", mbid = "3589823f-b494-4b2d-aab3-c2e500f81175" },
+]
+
+[[release]]
+mbid = "6970c348-86ce-3902-bee3-d2ebabc2643d"
+title = "Come as You Are"
+type = "single"
+date = "1992-01"
+tracks = [
+  { n = 1, title = "Come as You Are", mbid = "70ac6733-068f-4613-b06b-bea17cfbcc30" },
+  { n = 2, title = "Drain You (live)", mbid = "7211450d-4265-4042-aab6-9e9a875602fa" },
+]
+
+[[release]]
+mbid = "4fcc5ec2-d177-396b-b810-9439031b3c3a"
+title = "Hormoaning"
+type = "ep"
+date = "1992-01-27"
+tracks = [
+  { n = 1, title = "Turnaround", mbid = "80a8cd62-4f3f-48e5-930a-e13d3cf8ff41" },
+  { n = 2, title = "Aneurysm", mbid = "132ef378-d98d-4584-a65d-7734d333b6f3" },
+  { n = 3, title = "D‐7", mbid = "20e34783-976b-4937-a0d6-9c77b9da7905" },
+  { n = 4, title = "Son of a Gun", mbid = "e941229a-1663-4bde-a266-5aa973a0504e" },
+  { n = 5, title = "Even in His Youth", mbid = "8948f7a2-ce0e-4693-9a30-db17014d302b" },
+  { n = 6, title = "Molly’s Lips", mbid = "e6b15279-528f-4b45-a2f8-645942a55e3f" },
+]
+
+[[release]]
+mbid = "be95ba52-8a66-3769-82ad-b5024e993ad7"
+title = "Lithium"
+type = "single"
+date = "1992-07-20"
+spotify = "1A2zmrkg8HlTI0jvBBXi1h"
+tracks = [
+  { n = 1, title = "Lithium", mbid = "3fac712c-4196-4865-8c1a-94231a7da309" },
+  { n = 2, title = "Been a Son (live, 1991-10-31: Paramount Theatre, Seattle, WA, USA)", mbid = "85ae42f5-cccd-4815-b5b0-15314948e24e" },
+  { n = 3, title = "Curmudgeon", mbid = "1f77ce61-179b-40fb-a90c-45a9e234dcf2" },
+]
+
+[[release]]
+mbid = "5d8050da-e5c9-3a1b-9e39-0a73620218c0"
+title = "In Bloom"
+type = "single"
+date = "1992-11-30"
+tracks = [
+  { n = 1, title = "In Bloom (LP version)", mbid = "593e9317-a327-4a31-b796-416c62dcf49d" },
+  { n = 2, title = "Sliver (live)", mbid = "f075a9d1-63d8-4101-870c-8ac7c62c64d7" },
+]
+
+[[release]]
+mbid = "8cf53089-743c-3c3f-9a80-5cd5f396dfeb"
+title = "Puss / Oh, the Guilt"
+type = "single"
+date = "1993-02-22"
+tracks = [
+  { n = 1, title = "Puss", mbid = "a272970c-6746-4eab-92b3-cb21e1c5515b" },
+  { n = 2, title = "Oh, the Guilt", mbid = "8785c073-be82-4d21-9eb0-38f47cf48696" },
+]
+
+[[release]]
+mbid = "57447544-1ec9-3af5-83fe-f90a6902e078"
+title = "Heart‐Shaped Box"
+type = "single"
+date = "1993-08-23"
+tracks = [
+  { n = 1, title = "Heart‐Shaped Box", mbid = "b2f70fb6-3c89-45ec-9df2-a4be8daba564" },
+  { n = 2, title = "Marigold", mbid = "33fe4ed6-8d1e-410f-bb28-97e3f4d73a56" },
+]
+
+[[release]]
+mbid = "2a0981fb-9593-3019-864b-ce934d97a16e"
+title = "In Utero"
+type = "album"
+date = "1993-09-21"
+spotify = "14VVqBoDw1SxoNLW3Cj3mN"
+tracks = [
+  { n = 1, title = "Serve the Servants", mbid = "52eadc0f-037a-4747-b234-e5412aff8215" },
+  { n = 2, title = "Scentless Apprentice", mbid = "83fef6a6-4ac2-4e77-8314-45a2d5cc7133" },
+  { n = 3, title = "Heart‐Shaped Box", mbid = "b2f70fb6-3c89-45ec-9df2-a4be8daba564" },
+  { n = 4, title = "Rape Me", mbid = "3aab03c5-beef-49a3-a410-29a009760256" },
+  { n = 5, title = "Frances Farmer Will Have Her Revenge on Seattle", mbid = "4fd82e6a-1984-44bf-9029-e0ddb11305c1" },
+  { n = 6, title = "Dumb", mbid = "b6097e16-f138-4413-82a5-56aabaa0aab2" },
+  { n = 7, title = "Very Ape", mbid = "7a148826-c063-47b5-bba9-9c567d9d2b84" },
+  { n = 8, title = "Milk It", mbid = "38e1aadb-c9c5-4e58-9e08-3bb9626dd0fb" },
+  { n = 9, title = "Pennyroyal Tea", mbid = "a9acd2ed-9dbd-4f13-a852-a3321a3ee586" },
+  { n = 10, title = "Radio Friendly Unit Shifter", mbid = "602192ae-c8df-4447-a480-87944365e119" },
+  { n = 11, title = "Tourette’s", mbid = "d1571fc9-a88a-4f19-a00e-f34234b7d082" },
+  { n = 12, title = "All Apologies", mbid = "2c63fb30-c71b-4b09-9554-0b4a657aec9b" },
+]
+
+[[release]]
+mbid = "fa084605-3ba8-3409-adea-5b5a766382e9"
+title = "All Apologies / Rape Me / MV"
+type = "single"
+date = "1993-12"
+tracks = [
+  { n = 1, title = "All Apologies (LP version)", mbid = "2c63fb30-c71b-4b09-9554-0b4a657aec9b" },
+  { n = 2, title = "Rape Me (LP version)", mbid = "3aab03c5-beef-49a3-a410-29a009760256" },
+  { n = 3, title = "MV", mbid = "c39176af-e194-4b4c-b7b3-adef2c8b12e9" },
+]
+
+[[release]]
+mbid = "625fae47-5587-3fda-bbb2-88c5f7a1f8a0"
+title = "Pennyroyal Tea"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Pennyroyal Tea (remix)", mbid = "fb0ebc61-9efb-4bfa-95f1-928f195269ed" },
+  { n = 2, title = "I Hate Myself and Want to Die", mbid = "f9694783-fd7a-432c-b11e-2839f5303271" },
+]
+
+[[release]]
+mbid = "662a72ec-ac43-4bf5-8797-8c60b1275988"
+title = "You Know You’re Right"
+type = "single"
+date = "2002-10-08"
+tracks = [
+  { n = 1, title = "You Know You’re Right", mbid = "364a7031-0aeb-4f9b-ae25-93d269ff6dc3" },
+]
+
+[[release]]
+mbid = "1faccd00-425b-4af5-a468-324601a31222"
+title = "In Bloom / On A Plain / Lithium / Breed"
+type = "single"
+date = "2021-11-05"
+spotify = "4CQinikFcfjjSfiHZNAwkq"
+tracks = [
+  { n = 1, title = "In Bloom (remastered 2021)", mbid = "593e9317-a327-4a31-b796-416c62dcf49d" },
+  { n = 2, title = "On a Plain (live in Tokyo, Japan/1992)", mbid = "393e8489-f686-4aa4-9ba0-4018efc67ecd" },
+  { n = 3, title = "Lithium (live in Melbourne, Australia for Triple J/1992)", mbid = "1f4c4ae1-2628-432e-b843-9b7e522f6c5e" },
+  { n = 4, title = "Breed (live in Amsterdam, Netherlands/1991)", mbid = "18b7b99a-bc95-4e8e-a12c-53b1c8609ff3" },
+]
+
+[[release]]
+mbid = "96767f75-f68a-4300-9aec-539b89e8dd3b"
+title = "Smells Like Teen Spirit / In Bloom / On a Plain / Lithium / Breed"
+type = "single"
+date = "2021-11-10"
+spotify = "4bvBe5ZmDyzjr2IXhAC89x"
+tracks = [
+  { n = 1, title = "Smells Like Teen Spirit (remastered 2021)", mbid = "5fb524f1-8cc8-4c04-a921-e34c0a911ea7" },
+  { n = 2, title = "In Bloom (remastered 2021)", mbid = "593e9317-a327-4a31-b796-416c62dcf49d" },
+  { n = 3, title = "On a Plain (live in Tokyo, Japan/1992)", mbid = "393e8489-f686-4aa4-9ba0-4018efc67ecd" },
+  { n = 4, title = "Lithium (live in Melbourne, Australia for Triple J/1992)", mbid = "1f4c4ae1-2628-432e-b843-9b7e522f6c5e" },
+  { n = 5, title = "Breed (live in Amsterdam, Netherlands/1991)", mbid = "18b7b99a-bc95-4e8e-a12c-53b1c8609ff3" },
+]

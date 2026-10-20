@@ -1,0 +1,284 @@
+format = 1
+
+[[release]]
+mbid = "88ae77ce-b65b-3d36-bc02-cd8b5c937c96"
+title = "Où veux‐tu qu’je r’garde ?"
+type = "album"
+date = "1986-09"
+tracks = [
+  { n = 1, title = "Où veux‐tu qu’je r’garde ?", mbid = "f2540095-f4b7-464e-a515-b7b85291cd0f" },
+  { n = 2, title = "Toujours être ailleurs", mbid = "98784b8e-77b5-463d-8a1a-f58beee9f841" },
+  { n = 3, title = "La Rage", mbid = "0825426b-0715-4704-a14b-a230ac3b0be1" },
+  { n = 4, title = "Pyromane", mbid = "e0712ec0-1618-4ebb-901f-180bc103abda" },
+  { n = 5, title = "Danse sur le feu Maria", mbid = "80d533a6-76e8-4d8d-bf57-ee4c2bc18c11" },
+  { n = 6, title = "Lola", mbid = "82b5e79a-86ac-4807-83f3-cc775070e04d" },
+]
+
+[[release]]
+mbid = "a4945292-06a3-4274-8260-99c255eee96e"
+title = "Toujours être ailleurs"
+type = "single"
+date = "1987"
+tracks = [
+  { n = 1, title = "Toujours être ailleurs", mbid = "f44951a2-555f-441b-b490-e8cab8823730" },
+  { n = 2, title = "Lola", mbid = "82b5e79a-86ac-4807-83f3-cc775070e04d" },
+]
+
+[[release]]
+mbid = "d3e61ec1-5111-4fa6-aa45-4cdbb53c61c0"
+title = "Où veux-tu qu'je r'garde"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Où veux-tu qu'je r'garde", mbid = "ed31c0ba-e8a8-4672-8a0c-86cd0083620e" },
+  { n = 2, title = "Danse sur le feu Maria", mbid = "80d533a6-76e8-4d8d-bf57-ee4c2bc18c11" },
+]
+
+[[release]]
+mbid = "8ebedfd5-82a2-4c11-8c4a-781304010072"
+title = "Aux sombres héros de l'amer"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Aux sombres héros de l'amer", mbid = "10b0ae62-8339-4f17-9e2b-f28c76e2ba30" },
+  { n = 2, title = "The Wound", mbid = "34ed4d22-80fb-4e5c-b781-292ec270d9e8" },
+]
+
+[[release]]
+mbid = "cbcc70ac-c7b1-425e-ba37-0007c0b854ef"
+title = "Les Écorchés"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Les Écorchés", mbid = "a7d8bd90-e3d2-41ea-a94f-e7bcfff19003" },
+  { n = 2, title = "What I Need", mbid = "cce6d3ea-1229-4445-90e9-b9c90bf0227f" },
+]
+
+[[release]]
+mbid = "7664fc7a-f99e-3352-8eba-d2afc9718f48"
+title = "Veuillez rendre l’âme (à qui elle appartient)"
+type = "album"
+date = "1989-01-10"
+tracks = [
+  { n = 1, title = "À l'arrière des taxis", mbid = "90478de0-56b1-4f50-91b6-fefde350040d" },
+  { n = 2, title = "Aux sombres héros de l'amer", mbid = "10b0ae62-8339-4f17-9e2b-f28c76e2ba30" },
+  { n = 3, title = "Le Fleuve", mbid = "2d790ac5-806b-45b6-8f3b-6c2397470cea" },
+  { n = 4, title = "What I Need", mbid = "cce6d3ea-1229-4445-90e9-b9c90bf0227f" },
+  { n = 5, title = "Apprends à dormir", mbid = "e93ef1c6-3394-4ae6-9a68-0873f7205b1f" },
+  { n = 6, title = "Sweet Mary", mbid = "dd5da1cc-bb72-4de9-8069-1df75ee30013" },
+  { n = 7, title = "La Chaleur", mbid = "fe5e065d-5173-46c0-911b-1e8c0bcf978b" },
+  { n = 8, title = "Les Écorchés", mbid = "a7d8bd90-e3d2-41ea-a94f-e7bcfff19003" },
+  { n = 9, title = "Joey I", mbid = "2cc75148-4fd2-4739-a8cd-d02e7c98c45d" },
+  { n = 10, title = "Joey II", mbid = "d2c29a16-e33f-45e1-b9e0-a8712d254707" },
+  { n = 11, title = "The Wound", mbid = "34ed4d22-80fb-4e5c-b781-292ec270d9e8" },
+]
+
+[[release]]
+mbid = "30e206e1-8d12-3b8e-9c40-1caacae6dfe3"
+title = "Du ciment sous les plaines"
+type = "album"
+date = "1991-02"
+tracks = [
+  { disc = 1, n = 1, title = "No, No, No", mbid = "3f2a055a-aa0f-4a33-a824-964942da2bae" },
+  { disc = 1, n = 2, title = "En route pour la joie", mbid = "1d798ce3-6df4-4dc2-95af-99e3a6f44275" },
+  { disc = 1, n = 3, title = "Charlie", mbid = "6e489429-9e2d-4ebf-8a31-81b74d26968c" },
+  { disc = 1, n = 4, title = "Tu m'donnes le mal", mbid = "da04c675-f085-480f-a747-68d0c3db8388" },
+  { disc = 1, n = 5, title = "Si rien n'bouge", mbid = "be5bddc1-b56e-43eb-9f36-7007311e12b0" },
+  { disc = 1, n = 6, title = "The Holy Economic War", mbid = "ba06b8a4-0f52-4955-8046-46539c025cc7" },
+  { disc = 1, n = 7, title = "Tout l'or", mbid = "ac699578-583d-4649-b2f6-a5cebeea78f7" },
+  { disc = 1, n = 8, title = "La Chanson de la main", mbid = "38dca470-7aeb-4b00-8649-7b8694e85bfa" },
+  { disc = 1, n = 9, title = "Pictures of Yourself", mbid = "b6b7d883-267a-4692-b796-3c9a36a2d941" },
+  { disc = 1, n = 10, title = "Les Oriflammes", mbid = "a575567f-694f-4d44-adc4-f67b9d728b03" },
+  { disc = 1, n = 11, title = "Hoo Doo", mbid = "57c61a60-f638-4298-a500-1337c512fcbf" },
+  { disc = 2, n = 1, title = "Elle va où elle veut", mbid = "3f1c3799-de59-4048-830f-6bec217539ec" },
+  { disc = 2, n = 2, title = "Le Zen Emoi", mbid = "a4aa5340-db89-43d6-ac38-8b10b1c29de1" },
+  { disc = 2, n = 3, title = "The Chameleon", mbid = "7b80beae-1018-4b0c-bba8-e181286bafc3" },
+]
+
+[[release]]
+mbid = "2bf0772b-3b42-433b-a44d-b2cd5052fce6"
+title = "Ici Paris"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Ici Paris", mbid = "1b2bb099-1930-47c2-a8b8-263ed3137a5f" },
+  { n = 2, title = "Pyromane (live)", mbid = "76ec4bd2-ca2a-485d-bc70-aa76d42ef96d" },
+]
+
+[[release]]
+mbid = "a9aab773-533a-4bc2-9c83-6e0b3ad6a369"
+title = "Tostaky"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Tostaky", mbid = "0d544944-3974-4f12-9270-5c2580a444d7" },
+  { n = 2, title = "I Want You (She's So Heavy)", mbid = "be90dfb7-84ba-46f8-9be3-614b1c69a069" },
+]
+
+[[release]]
+mbid = "c9d18ffe-4f0f-3801-94fa-def1e1ba8483"
+title = "Tostaky"
+type = "album"
+date = "1992-12-07"
+tracks = [
+  { n = 1, title = "Here It Comes Slowly", mbid = "c1d96ec1-d1cb-4ce5-8f23-14d5407219fc" },
+  { n = 2, title = "Ici Paris", mbid = "1b2bb099-1930-47c2-a8b8-263ed3137a5f" },
+  { n = 3, title = "Oublié", mbid = "e2228885-e69d-4692-b11a-3a6f971c8fcf" },
+  { n = 4, title = "Alice", mbid = "71d632a8-b02f-4562-b83c-1c0d7a2a605b" },
+  { n = 5, title = "One Trip / One Noise", mbid = "b2988c39-3ac1-4ebd-a0f0-f40cf3033ad4" },
+  { n = 6, title = "Tostaky (le continent)", mbid = "3b74daff-ed23-46e0-a7c4-e4c4bb08ed35" },
+  { n = 7, title = "Marlène", mbid = "abc66e5f-5531-4bef-9e3b-29ad758490e6" },
+  { n = 8, title = "Johnny colère", mbid = "47d19edf-15dd-4baf-a094-f50d783c551e" },
+  { n = 9, title = "7 Minutes", mbid = "cabe097c-5913-4813-99bf-83db50978175" },
+  { n = 10, title = "Sober Song", mbid = "ab82ad46-311e-445c-a0e4-d3f1b1a33488" },
+  { n = 11, title = "It Spurts", mbid = "1991352b-1eb1-4afd-bd2b-b601364e1ba1" },
+  { n = 12, title = "Lolita nie en bloc", mbid = "7f231799-a452-4a85-bc53-93bf13764eaf" },
+]
+
+[[release]]
+mbid = "4d463431-94fd-4be4-b4cb-d76d84321b7a"
+title = "Lolita nie en bloc"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Lolita nie en bloc", mbid = "7f231799-a452-4a85-bc53-93bf13764eaf" },
+  { n = 2, title = "Where Do You Want Me to Look?", mbid = "e68f4ee5-1933-4764-885f-08156fc24839" },
+]
+
+[[release]]
+mbid = "3bf0d5bb-ab65-41b8-b7a7-a0f83029ba78"
+title = "Marlène"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Marlène (live)", mbid = "4788f8a2-f9ff-4421-b67a-43fad178c445" },
+  { n = 2, title = "Les Écorchés (live)", mbid = "4f3bb0a7-2307-4e76-b6b2-767523b57989" },
+]
+
+[[release]]
+mbid = "18659ce4-de69-3829-aa1c-a71d64b3d97c"
+title = "666.667 Club"
+type = "album"
+date = "1996-01-01"
+spotify = "1OIRFnpHDRBQHAmFOAxCWT"
+tracks = [
+  { n = 1, title = "666.667 Club", mbid = "83cd3abf-38f8-4ce6-ad71-efa5f1c5bffa" },
+  { n = 2, title = "Fin de siècle", mbid = "480657c5-ba45-4903-bd19-867b68b78dc9" },
+  { n = 3, title = "Un jour en France", mbid = "4d963a1d-cd2b-4870-95d6-34d064c86d97" },
+  { n = 4, title = "À ton étoile", mbid = "6d5c333b-d927-4a32-8263-f9c4750b4a4a" },
+  { n = 5, title = "Ernestine", mbid = "ea5aca6d-3870-41d6-9186-bc7d8c5be495" },
+  { n = 6, title = "Comme elle vient", mbid = "82733544-156d-4800-aab0-81a6f5bbc7ec" },
+  { n = 7, title = "Prayer For A Wanker", mbid = "0d7d0990-e3a2-4eed-a336-91129a8e1e90" },
+  { n = 8, title = "Les persiennes", mbid = "8537e91e-ad77-4a6a-9cd9-d5022c0f6910" },
+  { n = 9, title = "L'homme pressé", mbid = "10afc3dc-09a9-4d02-a169-5a39c5bf274d" },
+  { n = 10, title = "Lazy", mbid = "8b21130f-922c-42ab-9ce2-04d5c62d4150" },
+  { n = 11, title = "À la longue", mbid = "71ab2cf1-1919-429e-a6cd-1eb5e9784718" },
+  { n = 12, title = "Septembre en attendant", mbid = "72c77b18-b99b-4f11-b8f5-27734f2a09af" },
+  { n = 13, title = "Song For JLP", mbid = "1cc001c3-73a8-4d20-9a9c-8336d8c93555" },
+]
+
+[[release]]
+mbid = "4026d1a0-9b44-3b17-bc34-f5fec3440810"
+title = "L'Homme pressé"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Back to You", mbid = "6f055304-8760-42d2-944d-2704161f8607" },
+  { n = 2, title = "Là-bas", mbid = "8af19f48-1774-4ba4-a521-99cbca09170b" },
+  { n = 3, title = "Twilight Zone", mbid = "dcb62588-2daa-487e-a1bd-53d891ad363e" },
+  { n = 4, title = "L'Homme pressé", mbid = "10afc3dc-09a9-4d02-a169-5a39c5bf274d" },
+]
+
+[[release]]
+mbid = "e23beeba-62c3-3777-95ef-54a1356ddbb8"
+title = "À ton étoile"
+type = "single"
+date = "1997-04-01"
+tracks = [
+  { n = 1, title = "À ton étoile", mbid = "6d5c333b-d927-4a32-8263-f9c4750b4a4a" },
+  { n = 2, title = "Septembre en attendant (live)", mbid = "6d7f7124-4d14-4ba5-9d8e-aa8ed3f78379" },
+  { n = 3, title = "Hasta tu estrella", mbid = "8d21c2d3-f2d5-4686-9aad-224e487ff2ed" },
+]
+
+[[release]]
+mbid = "f531e689-4a41-420c-b1c9-6045791e9871"
+title = "Noir Désir remixé et adapté par Andrej/Pills/Sloy/Tilos clan"
+type = "ep"
+date = "1998"
+tracks = [
+  { n = 1, title = "Fin de siècle (G.L.Y.O.) (Andrej mix)", mbid = "0efb789d-bb03-4476-97f5-50d1fec0cc1b" },
+  { n = 2, title = "Tostaky (le continent) (Pills mix)", mbid = "f9139df2-3d0e-48a3-8da5-ad149688b198" },
+  { n = 3, title = "Les écorchés (Sloy mix)", mbid = "960ca648-196d-497a-bfd7-47bfed1d0af6" },
+  { n = 4, title = "666.667 CLUB (Tilos Clan mix)", mbid = "61b07d3f-20c0-437e-bf96-a19160b4577e" },
+]
+
+[[release]]
+mbid = "d671a4cf-24c1-48a9-b78d-017206646d25"
+title = "Lost"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Lost", mbid = "48ecd6d6-57c9-4c0a-b0ac-f150ad37b21c" },
+  { n = 2, title = "Baiser Cannibale", mbid = "786e9859-9df3-4635-bc7e-f6d6efe3eea1" },
+  { n = 3, title = "Son style 3", mbid = "2e7f462f-99b4-45d5-a162-37260edccac6" },
+]
+
+[[release]]
+mbid = "e9e8c20a-1d42-34b8-9169-ead977a8f9de"
+title = "Le vent nous portera"
+type = "single"
+date = "2001-08-28"
+tracks = [
+  { n = 1, title = "Le vent nous portera", mbid = "dfcedd8b-fbdf-4ff0-9988-9fbfc7fc9e3e" },
+  { n = 2, title = "Moriyn moriyn", mbid = "e2270b60-7569-451b-9755-a2cec9f95309" },
+]
+
+[[release]]
+mbid = "fb9ef440-6e16-318a-95a8-7f706688967a"
+title = "Des visages des figures"
+type = "album"
+date = "2001-09-11"
+tracks = [
+  { n = 1, title = "L’Enfant roi", mbid = "13fea92a-7b42-495c-aa47-0f9d5cf9aa82" },
+  { n = 2, title = "Le Grand Incendie", mbid = "9e8e510e-916d-4847-ae0b-7d7c978b5374" },
+  { n = 3, title = "Le vent nous portera", mbid = "dfcedd8b-fbdf-4ff0-9988-9fbfc7fc9e3e" },
+  { n = 4, title = "Des armes", mbid = "f15c90ed-1db2-45e9-9ab8-6a01c853d53d" },
+  { n = 5, title = "L’Appartement", mbid = "be40b69d-8002-48d4-a435-9be3e2ed1a1c" },
+  { n = 6, title = "Des visages des figures", mbid = "69ca6e2b-cf20-4d69-9d19-af0a154b48f0" },
+  { n = 7, title = "Son style 1", mbid = "85820359-92e1-4009-93aa-c25e50c4fff0" },
+  { n = 8, title = "Son style 2", mbid = "e84e5846-59ed-4e67-832b-295674489167" },
+  { n = 9, title = "À l’envers à l’endroit", mbid = "1c9c979b-77b6-4bad-b2af-de00c996cea7" },
+  { n = 10, title = "Lost", mbid = "48ecd6d6-57c9-4c0a-b0ac-f150ad37b21c" },
+  { n = 11, title = "Bouquet de nerfs", mbid = "368493ad-758f-44cc-a7d0-e7f43ee225c3" },
+  { n = 12, title = "L’Europe", mbid = "6dcb7f9a-b05f-4c0a-89c7-654c32744fd6" },
+]
+
+[[release]]
+mbid = "b25d5282-b883-45ac-9b9f-66d3fabf2356"
+title = "À l’envers à l’endroit"
+type = "single"
+date = "2002"
+spotify = "1YYlQYoZvA2SQXCyxsTRAa"
+tracks = [
+  { n = 1, title = "À l’envers à l’endroit", mbid = "7e18453d-e8e7-4428-a79a-99ff8c73be24" },
+]
+
+[[release]]
+mbid = "869fd0e8-f2d1-38c2-bb09-9d40e8a6ed86"
+title = "Gagnants / Perdants, et le temps des cerises"
+type = "single"
+date = "2008-11-12"
+tracks = [
+  { n = 1, title = "Gagnants / Perdants", mbid = "0d254be2-af43-4bfc-a621-58bd3ed38aad" },
+  { n = 2, title = "Le Temps des cerises", mbid = "12005d5e-cb49-423b-9e50-171c2a6b8170" },
+]
+
+[[release]]
+mbid = "29acc431-d3cd-494e-8d43-ce66dc160638"
+title = "Imbécile"
+type = "single"
+date = "2020-10-30"
+spotify = "4zDBHZVHfT9UC2wJJIUdEJ"
+tracks = [
+  { n = 1, title = "Imbécile", mbid = "c8d366e6-26ef-4e48-9eb3-ac2ac4b22d86" },
+]
