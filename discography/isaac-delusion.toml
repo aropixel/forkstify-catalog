@@ -1,0 +1,182 @@
+format = 1
+
+[[release]]
+mbid = "1c74e877-4c61-41e1-b028-23f67787495b"
+title = "Midnight Sun"
+type = "ep"
+date = "2012-01-15"
+tracks = [
+  { n = 1, title = "Midnight Sun", mbid = "b0070e2e-93ae-4d30-ab70-6f103941cf43" },
+  { n = 2, title = "Waiting", mbid = "c2bf66c2-760f-40b0-a64d-aa57030bcbd0" },
+  { n = 3, title = "Iron Man", mbid = "eb131ab5-3059-499f-9d94-b35ccd495270" },
+  { n = 4, title = "Waiting (Acoustique)", mbid = "dd434f0d-f9ad-4a26-9f1e-e971076c1d6e" },
+]
+
+[[release]]
+mbid = "6499467d-c589-4a84-86c8-8f75ee7c92f6"
+title = "Early Morning"
+type = "ep"
+date = "2012-11-26"
+tracks = [
+  { n = 1, title = "Early Morning", mbid = "027151c1-3f0d-4b92-a382-f2507217778f" },
+  { n = 2, title = "Purple Sky", mbid = "4bd58a75-ce07-45d8-952e-762b40d21c7b" },
+  { n = 3, title = "Transistors", mbid = "bea627c0-e6a9-42a6-ba4b-8d3452d743b6" },
+  { n = 4, title = "Supernova", mbid = "8213f06c-79a0-479d-82b2-b88ddefbdbe2" },
+  { n = 5, title = "Sand Castle", mbid = "b13350fe-598d-484b-a36a-61f3b591ae25" },
+]
+
+[[release]]
+mbid = "bb175dc2-2f59-4ab5-97bf-88f5bfe845d6"
+title = "Children of the Night"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Children of the Night", mbid = "48e31373-1f68-4a34-ab07-9180bd92fd55" },
+  { n = 2, title = "Children of the Night (Apes & Horses remix)", mbid = "b395f783-fda4-41b9-9bf8-e006b0bfee14" },
+  { n = 3, title = "Children of the Night (L’Impératrice remix)", mbid = "f1d8b0b8-22f7-487c-b6e3-7061b9ec2e34" },
+  { n = 4, title = "Children of the Night (Herbie Holland’s club mix)", mbid = "3bcf2e3b-ef01-41e0-824a-631d03bce1a5" },
+  { n = 5, title = "Children of the Night (Eliott Litrowski remix)", mbid = "82c95d70-ef98-4f8f-8c51-cc07372063dd" },
+]
+
+[[release]]
+mbid = "b73fade6-53bf-4d16-93ac-b652fe3d52c2"
+title = "Dragons (Fakear Remix)"
+type = "single"
+date = "2014-06-02"
+tracks = [
+  { n = 1, title = "Dragons (Fakear Remix)", mbid = "7cce81ee-e47b-4db1-98dc-01c1b489debb" },
+]
+
+[[release]]
+mbid = "2f7f1421-95d9-4f66-80db-64981abbbdf6"
+title = "Isaac Delusion"
+type = "album"
+date = "2014-06-02"
+tracks = [
+  { n = 1, title = "The Child You Were", mbid = "f9ce33f4-8464-47c8-af04-ca05a77620e5" },
+  { n = 2, title = "Midnight Sun", mbid = "ba260751-221c-4cce-84a2-ff2a88852829" },
+  { n = 3, title = "She Pretends", mbid = "526bb776-6e05-4e60-92d6-5260f07f7796" },
+  { n = 4, title = "Pandora's Box", mbid = "65b4b36f-b29c-4c78-9ed0-37983bb95088" },
+  { n = 5, title = "Children of the Night", mbid = "b3d3161f-398e-4c21-ac95-60653dbefa4e" },
+  { n = 6, title = "Land of Gold", mbid = "c4966987-7778-4ed1-aa88-26911394277e" },
+  { n = 7, title = "The Devil's Hand", mbid = "5aa09889-0fab-48ed-a844-bee61b74dc63" },
+  { n = 8, title = "If I Fall", mbid = "79b333bd-6b14-41e2-8351-f12cab40e40e" },
+  { n = 9, title = "A Little Bit Too High", mbid = "83cfb980-1714-4371-984f-b63b3d2fe6f3" },
+  { n = 10, title = "Early Morning", mbid = "027151c1-3f0d-4b92-a382-f2507217778f" },
+  { n = 11, title = "Dragons", mbid = "cf4306e9-ab4d-40a7-9ec6-614eb4d55b85" },
+  { n = 12, title = "Sleepwalking", mbid = "a862022d-af28-47f5-8684-2d5b15d07c02" },
+]
+
+[[release]]
+mbid = "39b21754-f0dc-468d-ad77-c0e1b7f117ec"
+title = "How Much You Want Her"
+type = "single"
+date = "2015-06-22"
+spotify = "38RwrCtuv4QqOGfm2j5AuB"
+tracks = [
+  { n = 1, title = "How Much You Want Her", mbid = "6e282af7-46c4-42ee-b3dc-bbc01c3941ba" },
+]
+
+[[release]]
+mbid = "30bceb91-a158-4020-a9e5-1e048e28c7df"
+title = "Rust & Gold"
+type = "album"
+date = "2017-04-07"
+spotify = "12FsF7zGKN58k2VTlzwDAU"
+tracks = [
+  { n = 1, title = "Isabella", mbid = "3464d70e-8ed2-499d-b3b7-ca9827a987fe" },
+  { n = 2, title = "Black Widow", mbid = "7c276874-fa0e-4a6b-ae9b-c73124c09378" },
+  { n = 3, title = "The Sinner", mbid = "f12a0919-3293-469b-978c-7148a7dc4e1d" },
+  { n = 4, title = "Voyager", mbid = "7fbdb1d7-5386-45b3-9d62-2bae4a6ad6e1" },
+  { n = 5, title = "Cajun", mbid = "e68aca4e-6f3b-4252-8f74-cd99ae620903" },
+  { n = 6, title = "Luck & Mercy", mbid = "ac04eec9-68e5-4ee0-aed1-a8925f5b768d" },
+  { n = 7, title = "Distance", mbid = "da7f52db-23a5-4df5-aa5b-4fb9cde337c2" },
+  { n = 8, title = "Bittersweet Fruit", mbid = "45803ee5-8e3f-486b-9347-4ae007484b9d" },
+  { n = 9, title = "How Much (You Want Her)", mbid = "5cee804d-d837-4da9-ab02-2d0f3227a052" },
+  { n = 10, title = "Take the Crown", mbid = "b687378a-ff67-4947-8ce0-ac7faea3948f" },
+  { n = 11, title = "A Few Steps", mbid = "f6ecd285-b945-4b28-88a3-97c6e039e01a" },
+  { n = 12, title = "Mother Shelter", mbid = "c0ead5b7-ae6e-4120-92c3-a179905ca071" },
+]
+
+[[release]]
+mbid = "e75990b0-d597-4619-895a-ffa95b892f8b"
+title = "Couleur menthe à l’eau"
+type = "single"
+date = "2018-04-05"
+spotify = "076pNg6TtQI8vEl1cMvPtV"
+tracks = [
+  { n = 1, title = "Couleur menthe à l’eau", mbid = "ae2bd3fd-dacc-454b-9fdb-197c4413a7a3" },
+]
+
+[[release]]
+mbid = "dc15b9b1-82a3-4964-bf92-3a11a0cf4139"
+title = "fancy"
+type = "single"
+date = "2019-06-06"
+tracks = [
+  { n = 1, title = "fancy", mbid = "6ef4d45e-b436-4389-a463-ffb69744b284" },
+]
+
+[[release]]
+mbid = "870d1496-6040-4382-b16a-7db69822b224"
+title = "uplifters"
+type = "album"
+date = "2019-11-08"
+spotify = "0afPcz0gfOOyLB3yffX7m9"
+tracks = [
+  { n = 1, title = "fancy", mbid = "6ef4d45e-b436-4389-a463-ffb69744b284" },
+  { n = 2, title = "disorder", mbid = "dd94cc8c-312e-4e23-8c02-3c343e99d525" },
+  { n = 3, title = "parrots", mbid = "b9847743-53c6-4625-88d8-d8e74c8fa2fc" },
+  { n = 4, title = "pas l’habitude", mbid = "0c54ecbc-8c5b-462f-b203-42da14065781" },
+  { n = 5, title = "it hurts", mbid = "50344b47-a957-46e2-ba2d-1664326c44ab" },
+  { n = 6, title = "together", mbid = "82844507-89d6-4d11-9538-9e54764bffec" },
+  { n = 7, title = "magical love", mbid = "eef6a40c-b394-41e2-ae65-6a13f60e3c1e" },
+  { n = 8, title = "people you know", mbid = "d2fc5a3e-7fa9-42c9-917b-7ad4448d7212" },
+  { n = 9, title = "tell me how", mbid = "adfe144d-7dc8-4a31-96cb-c1b1d871ad91" },
+  { n = 10, title = "basement leisure", mbid = "98fd486b-3af1-4502-af8e-e06e11ec53f7" },
+  { n = 11, title = "couleur menthe à l’eau", mbid = "ae2bd3fd-dacc-454b-9fdb-197c4413a7a3" },
+]
+
+[[release]]
+mbid = "9c20bcb8-1874-4121-80df-ea21f03783a5"
+title = "Make It"
+type = "ep"
+date = "2020-10-23"
+tracks = [
+  { n = 1, title = "Make It", mbid = "59da2831-3fc4-4bb0-9273-aa62a21678a0" },
+  { n = 2, title = "Friends", mbid = "a41ab9ee-901a-4527-84bb-14f3ce4367f9" },
+  { n = 3, title = "Be True", mbid = "f5094899-fda3-487e-93ce-0341782896dc" },
+  { n = 4, title = "Riding Epona", mbid = "398c8b68-2143-46f1-9fdd-778e34a3bf45" },
+  { n = 5, title = "Touché", mbid = "02223cd6-5b5a-467b-85fa-80260d84f7ae" },
+]
+
+[[release]]
+mbid = "6fed7760-5943-46cb-9771-0d5e4dc202a2"
+title = "Lost and Found"
+type = "album"
+date = "2024-01-26"
+spotify = "4V5EXwlVZyDgqx5RHLik1z"
+tracks = [
+  { n = 1, title = "Let Her Go", mbid = "bbb0edf2-8698-4806-b714-fb8e3e4c6110" },
+  { n = 2, title = "Internet", mbid = "f97f753f-1719-46e6-816b-9b21379742a6" },
+  { n = 3, title = "50 50", mbid = "8906833c-e51c-41a1-9524-1260147acc0a" },
+  { n = 4, title = "Premonitions", mbid = "63a612ee-8985-43c0-961e-4e3f23b9fd01" },
+  { n = 5, title = "Lost and Found", mbid = "87d1aca5-963d-4019-9bcd-7272e77353ab" },
+  { n = 6, title = "All Day", mbid = "a091f5e1-3199-4ba0-9c93-e71ddabe9738" },
+  { n = 7, title = "HVN", mbid = "3e8fbece-8693-410b-b445-eee2657ead47" },
+  { n = 8, title = "Que pour toi", mbid = "f8e6e8fe-a0f1-4a54-a098-24fc0e95f787" },
+  { n = 9, title = "Valse", mbid = "e78541b9-32b8-4f98-9716-b671793ae525" },
+  { n = 10, title = "Everyone Is Dreaming", mbid = "5f9b6a01-c79c-4b18-b9e7-bde783dbf64d" },
+]
+
+[[release]]
+mbid = "28d134c2-275b-47ac-ad32-b198c29d60a8"
+title = "Out of the Blue"
+type = "single"
+date = "2026-08-28"
+spotify = "6TtlYdL5PeDohm56XGmMJ3"
+tracks = [
+  { n = 1, title = "Out of the Blue", mbid = "1709cfd1-5e96-468f-a265-f682fe762132" },
+  { n = 2, title = "L'Amour illogique", mbid = "58dfabb6-8734-4bba-b98a-a853e20f7064" },
+  { n = 3, title = "Radio Keepers", mbid = "84da691f-1cf6-4f49-9b44-14a7ba57bce8" },
+]

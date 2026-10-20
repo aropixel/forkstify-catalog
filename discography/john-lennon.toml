@@ -1,0 +1,532 @@
+format = 1
+
+[[release]]
+mbid = "b7cb0753-b05f-35c7-bcc2-85e1c783bd0f"
+title = "Unfinished Music No. 1: Two Virgins"
+type = "album"
+date = "1968-11-11"
+spotify = "24Ew6JT72Or0QX4hI17uZa"
+tracks = [
+  { n = 1, title = "Two Virgins, Side One", mbid = "b04b6f14-3164-4f2e-a3c6-bccf8c85246d" },
+  { n = 2, title = "Two Virgins, Side Two", mbid = "03750b69-da3b-4cc1-9431-24407550b000" },
+]
+
+[[release]]
+mbid = "ae59682d-3dfe-3a0c-b9e5-87623bd0ae6f"
+title = "Unfinished Music No. 2: Life With the Lions"
+type = "album"
+date = "1969-05-26"
+spotify = "1N89RNi5zN94h3AmM2BhtS"
+tracks = [
+  { n = 1, title = "Cambridge 1969", mbid = "3878ce45-de65-4984-88a5-ec7b5b8b5c61" },
+  { n = 2, title = "No Bed for Beatle John", mbid = "8d8e0617-f34a-48b4-8b6f-bb96d7dad15b" },
+  { n = 3, title = "Baby’s Heartbeat", mbid = "4dc1e7ac-0cc3-4358-9c79-d017fc51988c" },
+  { n = 4, title = "Two Minutes Silence", mbid = "60668439-d600-4f6a-a890-374cefe48dd0" },
+  { n = 5, title = "Radio Play", mbid = "e55daa51-8b0d-4b5e-844b-acd5494b26d2" },
+]
+
+[[release]]
+mbid = "9ea6179c-075e-3784-b0e0-62813bd94723"
+title = "Wedding Album"
+type = "album"
+date = "1969-10-20"
+spotify = "3XdK5GVEAeKb28oMHBgoYm"
+tracks = [
+  { n = 1, title = "John & Yoko", mbid = "740ab5d0-be5e-4629-aa9e-4b07465c7ff8" },
+  { n = 2, title = "Amsterdam", mbid = "1284b50b-4275-4a00-9eab-9cd0816d4519" },
+]
+
+[[release]]
+mbid = "7fbd9ad3-5a61-3df8-8d7e-9c231162bd31"
+title = "Instant Karma! / Who Has Seen the Wind?"
+type = "single"
+date = "1970-02-06"
+tracks = [
+  { n = 1, title = "Instant Karma!", mbid = "7bd8a26a-951a-4a9d-ad8f-eaea79337416" },
+  { n = 2, title = "Who Has Seen the Wind?", mbid = "abec7981-fc4a-4f88-91b0-abe23bf9323f" },
+]
+
+[[release]]
+mbid = "8be83468-4917-390d-82b6-d890f058cd22"
+title = "John Lennon/Plastic Ono Band"
+type = "album"
+date = "1970-12-11"
+spotify = "0DFYbYCcHCEJPcN1hODG6K"
+tracks = [
+  { n = 1, title = "Mother", mbid = "c42b2c36-b419-441c-8592-98cc549088e1" },
+  { n = 2, title = "Hold On", mbid = "c9b64abb-b96e-44d7-ae9b-fb195839cc04" },
+  { n = 3, title = "I Found Out", mbid = "4b1b1def-d3b5-4f4c-a6f1-0f9ccbb2bee8" },
+  { n = 4, title = "Working Class Hero", mbid = "8b0263ab-cca7-4c22-9214-668d5e871088" },
+  { n = 5, title = "Isolation", mbid = "9f28e5a7-5cbe-4aad-bf03-0fbbc209f715" },
+  { n = 6, title = "Remember", mbid = "992bb78c-42ae-47bf-9937-ac7ca415cec7" },
+  { n = 7, title = "Love", mbid = "8103826b-5bc4-45dc-a5fb-29dfb59626c0" },
+  { n = 8, title = "Well Well Well", mbid = "acf77399-17d0-4d40-b2ac-569895d08a24" },
+  { n = 9, title = "Look at Me", mbid = "95cca072-2396-4006-963d-ab59ca3eafd0" },
+  { n = 10, title = "God", mbid = "4578104e-cb70-4260-b785-37151a768edd" },
+  { n = 11, title = "My Mummy's Dead", mbid = "319196a1-436c-47e4-9d00-3ac662fd236f" },
+]
+
+[[release]]
+mbid = "d58edfe1-9f93-3c31-b566-e2b588a4564c"
+title = "Mother / Why"
+type = "single"
+date = "1970-12-28"
+tracks = [
+  { n = 1, title = "Mother", mbid = "c42b2c36-b419-441c-8592-98cc549088e1" },
+  { n = 2, title = "Why", mbid = "bd13f13c-4ba5-4015-afda-295cd3b27379" },
+]
+
+[[release]]
+mbid = "3e74f0b3-1532-34ba-b8bf-18dd6d66d2e8"
+title = "Power to the People"
+type = "single"
+date = "1971-03-12"
+tracks = [
+  { n = 1, title = "Power to the People", mbid = "79e356e4-2b1f-43cc-85c8-8813a87a7221" },
+  { n = 2, title = "Open Your Box", mbid = "f70a0d9f-495f-409d-b49b-6e6d313ecfbc" },
+]
+
+[[release]]
+mbid = "f242f304-0f1f-33a5-81a2-7a965b30e3b5"
+title = "Imagine"
+type = "album"
+date = "1971-09-09"
+spotify = "0xzaemKucrJpYhyl7TltAk"
+tracks = [
+  { n = 1, title = "Imagine", mbid = "ec04e3c5-0548-4e73-bfc3-19a26108f302" },
+  { n = 2, title = "Crippled Inside", mbid = "728cff82-8b98-4909-8303-d9ff5e37a246" },
+  { n = 3, title = "Jealous Guy", mbid = "ec9d6d9f-cc79-4090-b38b-5f5d25611137" },
+  { n = 4, title = "It's So Hard", mbid = "98368867-85df-461a-81c5-cae9c89b2762" },
+  { n = 5, title = "I Don't Wanna Be a Soldier Mama I Don't Wanna Die", mbid = "13787cd3-214f-4d06-b5b9-78b65c31803b" },
+  { n = 6, title = "Gimme Some Truth", mbid = "04913868-2b04-4fa1-a737-bb1383d3ffa3" },
+  { n = 7, title = "Oh My Love", mbid = "3e3c8753-1e1d-4cbb-89d7-1b96b2403c84" },
+  { n = 8, title = "How Do You Sleep?", mbid = "fa2c45a0-8746-41f0-804c-b45c0723f1bd" },
+  { n = 9, title = "How?", mbid = "55ca9593-361d-445e-aa09-02f6589d6152" },
+  { n = 10, title = "Oh Yoko!", mbid = "a1466f00-a848-4d93-90af-cc9026ff03ec" },
+]
+
+[[release]]
+mbid = "b86a199c-2773-409a-a082-363bce0c727b"
+title = "Imagine"
+type = "single"
+date = "1971-10-11"
+tracks = [
+  { n = 1, title = "Imagine", mbid = "ec04e3c5-0548-4e73-bfc3-19a26108f302" },
+  { n = 2, title = "It's So Hard", mbid = "98368867-85df-461a-81c5-cae9c89b2762" },
+]
+
+[[release]]
+mbid = "ba993898-c5d4-3889-8f19-36b5e1560584"
+title = "Happy Xmas (War Is Over)"
+type = "single"
+date = "1971-12-01"
+spotify = "2zYhVXrGusjJrgkh8ivuBr"
+tracks = [
+  { n = 1, title = "Happy Xmas (War Is Over)", mbid = "dc517f67-3e5c-4ca8-98f5-befe8deb1199" },
+  { n = 2, title = "Listen, the Snow Is Falling", mbid = "c72b6bce-8c1c-4f28-89f2-7146eb2a8a63" },
+]
+
+[[release]]
+mbid = "aca2d4da-527c-47fa-a662-c6a6e4e89a0d"
+title = "Woman Is the Nigger of the World"
+type = "single"
+date = "1972-04-24"
+tracks = [
+  { n = 1, title = "Woman Is the Nigger of the World", mbid = "8ae1c996-2339-409b-89c4-a26414cfda19" },
+  { n = 2, title = "Sisters o Sisters", mbid = "1f92c457-e009-47d4-8112-b782edcd7004" },
+]
+
+[[release]]
+mbid = "e5153705-e798-343c-aeaf-1777db763dd6"
+title = "Some Time in New York City"
+type = "album"
+date = "1972-09-15"
+spotify = "5SgeJIF8MrvVOm86sGN4bK"
+tracks = [
+  { disc = 1, n = 1, title = "Woman Is the Nigger of the World", mbid = "5a36e14b-bdb2-4319-8884-2ba069d60f2c" },
+  { disc = 1, n = 2, title = "Sisters, o Sisters", mbid = "ed16aecf-f4d6-4291-be2a-acc11fcd25e1" },
+  { disc = 1, n = 3, title = "Attica State", mbid = "3be9aaf9-a477-4994-8de8-c4bc89350c14" },
+  { disc = 1, n = 4, title = "Born in a Prison", mbid = "11f61a21-0835-41c9-ba6c-b2cae17cb36a" },
+  { disc = 1, n = 5, title = "New York City", mbid = "2c414987-9249-4afb-a745-bf54b81bc245" },
+  { disc = 1, n = 6, title = "Sunday Bloody Sunday", mbid = "a7a412a1-66d6-431c-a7da-28c3e735aa83" },
+  { disc = 1, n = 7, title = "The Luck of the Irish", mbid = "8ded8afe-0ff4-4ad9-8568-c690e1639eb6" },
+  { disc = 1, n = 8, title = "John Sinclair", mbid = "ce798e19-47e7-4edf-839f-ebc904de33c3" },
+  { disc = 1, n = 9, title = "Angela", mbid = "cf349351-86d7-4628-a469-ca6230956256" },
+  { disc = 1, n = 10, title = "We're All Water", mbid = "1d8c71b7-ac6a-441e-8a13-a38f98bc8275" },
+  { disc = 2, n = 1, title = "Cold Turkey", mbid = "80b33f88-32dc-4ae5-beea-30392028e74c" },
+  { disc = 2, n = 2, title = "Don't Worry Kyoko", mbid = "0b8ef690-6982-4194-9c34-eac00cdba0c7" },
+  { disc = 2, n = 3, title = "Well (Baby Please Don't Go)", mbid = "873e523d-e4f9-41d6-bd31-421d37d08cb7" },
+  { disc = 2, n = 4, title = "Jamrag", mbid = "bcca266b-321f-49b9-af18-fe97b12161e8" },
+  { disc = 2, n = 5, title = "Scumbag", mbid = "43a5f625-e625-4ed6-82e8-4271e34d2a59" },
+  { disc = 2, n = 6, title = "Au", mbid = "5b230443-ecaa-44d4-a691-429528fd7ee4" },
+]
+
+[[release]]
+mbid = "5dc36497-ae8f-4d82-aab9-4a772c9a8885"
+title = "Mind Games"
+type = "single"
+date = "1973-10-29"
+tracks = [
+  { n = 1, title = "Mind Games", mbid = "a00be5e8-b85a-46e0-b9d0-14f4cb57b1c1" },
+  { n = 2, title = "Meat City", mbid = "63d3c044-a0a6-4994-9b43-6838b8a6bd9a" },
+]
+
+[[release]]
+mbid = "611a001d-dae3-390c-babf-bba33ee4ba31"
+title = "Mind Games"
+type = "album"
+date = "1973-10-29"
+spotify = "2GoiwFkRtErx0CHn6zaFJu"
+tracks = [
+  { n = 1, title = "Mind Games", mbid = "a00be5e8-b85a-46e0-b9d0-14f4cb57b1c1" },
+  { n = 2, title = "Tight A$", mbid = "f8a7319f-5531-4595-bd52-6f84e19d3b61" },
+  { n = 3, title = "Aisumasen (I’m Sorry)", mbid = "3fd73cc1-099c-4c6d-b079-41c9fc86cc7f" },
+  { n = 4, title = "One Day (at a Time)", mbid = "50225853-25b2-41c6-92cf-5d9419f2e777" },
+  { n = 5, title = "Bring On the Lucie (Freda Peeple)", mbid = "9391d99a-6861-4063-8ec7-ca4a31a02cea" },
+  { n = 6, title = "Nutopian International Anthem", mbid = "4c240aef-76f8-4b2e-ae0e-a59b2f6f5662" },
+  { n = 7, title = "Intuition", mbid = "145fd134-2b46-4e22-ab4a-b8191d7de973" },
+  { n = 8, title = "Out the Blue", mbid = "2de78211-e845-4cef-8493-d4399c04c54f" },
+  { n = 9, title = "Only People", mbid = "6a5a5614-548b-47df-9334-4e6d25af237e" },
+  { n = 10, title = "I Know (I Know)", mbid = "ad95f349-bbc0-4bc3-95cf-3e81ec54ddf4" },
+  { n = 11, title = "You Are Here", mbid = "75009083-aa42-4c04-9bc8-879d834a2f8b" },
+  { n = 12, title = "Meat City", mbid = "63d3c044-a0a6-4994-9b43-6838b8a6bd9a" },
+]
+
+[[release]]
+mbid = "083517bf-e660-4ff2-9435-e261b5747777"
+title = "Whatever Gets You Through the Night"
+type = "single"
+date = "1974-09-23"
+tracks = [
+  { n = 1, title = "Whatever Gets You Thru the Night", mbid = "274cc945-808e-42d0-865f-9559d7b43220" },
+  { n = 2, title = "Beef Jerky", mbid = "bebcde76-2ab3-4dfb-8414-84f6ad78704f" },
+]
+
+[[release]]
+mbid = "cf90044e-b161-3cda-99c7-2390802023b9"
+title = "Walls and Bridges"
+type = "album"
+date = "1974-10-04"
+spotify = "3n1j9GslH8h0jIx7NRUIX4"
+tracks = [
+  { n = 1, title = "Going Down on Love", mbid = "5438ad55-6a21-48ac-8a92-c64ccfb7b38f" },
+  { n = 2, title = "Whatever Gets You Thru the Night", mbid = "274cc945-808e-42d0-865f-9559d7b43220" },
+  { n = 3, title = "Old Dirt Road", mbid = "fcf0f541-b780-4702-bf71-6b4c452037a9" },
+  { n = 4, title = "What You Got", mbid = "8303a835-5660-455a-a92d-9cb0b6f68a3b" },
+  { n = 5, title = "Bless You", mbid = "428ea993-45fc-41b0-8650-88a34a9e334b" },
+  { n = 6, title = "Scared", mbid = "1a2b6e16-3b20-4941-b4ce-78a0d1d80bb0" },
+  { n = 7, title = "#9 Dream", mbid = "c8cf5064-0ea7-4274-8478-1deba347b2b0" },
+  { n = 8, title = "Surprise, Surprise (Sweet Bird of Paradox)", mbid = "8316a59b-4af7-438b-bc18-80acf1762220" },
+  { n = 9, title = "Steel and Glass", mbid = "4e08cc42-31e2-4f89-bffd-2930abf8661f" },
+  { n = 10, title = "Beef Jerky", mbid = "bebcde76-2ab3-4dfb-8414-84f6ad78704f" },
+  { n = 11, title = "Nobody Loves You (When You're Down and Out)", mbid = "71b8fd1f-6257-4420-a8cd-d855d5652831" },
+  { n = 12, title = "Ya Ya", mbid = "302984c3-a8a9-4eae-9c26-f0230f5cc622" },
+]
+
+[[release]]
+mbid = "78f00f57-0480-4863-89e1-dcd33c738563"
+title = "#9 Dream"
+type = "single"
+date = "1974-12-16"
+tracks = [
+  { n = 1, title = "#9 Dream", mbid = "e17aee4a-30dd-4fea-942f-e7cc15f17f4a" },
+  { n = 2, title = "What You Got", mbid = "d2a0a6ac-7ede-4b37-98fc-85d8d5ddbb72" },
+]
+
+[[release]]
+mbid = "9164376f-9177-4635-930f-63a77c185039"
+title = "Be Bop a Lula / Move Over M S.L."
+type = "single"
+date = "1975"
+tracks = [
+  { n = 1, title = "Be Bop a Lula", mbid = "e868ecaa-7ced-4eb8-82d6-62db5cddfb36" },
+  { n = 2, title = "Move Over M S.L.", mbid = "91b17623-3a0c-4d52-9cab-de16deb3a61e" },
+]
+
+[[release]]
+mbid = "316bd588-952e-34b0-aeff-b8fd43ef9cf8"
+title = "Rock ’n’ Roll"
+type = "album"
+date = "1975-02-17"
+spotify = "4D5tTcz72CXGPtzTabLTDY"
+tracks = [
+  { n = 1, title = "Be‐Bop‐A‐Lula", mbid = "81b36b94-2dcf-4e93-8a0d-27df6e0a76c3" },
+  { n = 2, title = "Stand by Me", mbid = "64eb3be4-677a-4aff-86be-7957c8f37b04" },
+  { n = 3, title = "Medley: Rip It Up / Ready Teddy", mbid = "faaf192d-afed-4c68-8b58-32750a407859" },
+  { n = 4, title = "You Can’t Catch Me", mbid = "86d0debf-d478-4351-b34b-feecb8513544" },
+  { n = 5, title = "Ain’t That a Shame", mbid = "21278406-b629-4f88-ac01-720c217c4486" },
+  { n = 6, title = "Do You Wanna Dance", mbid = "273d27ac-a4be-416c-8c1d-cf7415065e19" },
+  { n = 7, title = "Sweet Little Sixteen", mbid = "0379a392-276c-4063-9cd4-c064d6c4320b" },
+  { n = 8, title = "Slippin’ and Slidin’", mbid = "ef0783ac-efd8-4dd8-a698-c8acde217fc1" },
+  { n = 9, title = "Peggy Sue", mbid = "f819f289-6eba-4065-8069-aec74fbf8e28" },
+  { n = 10, title = "Medley: Bring It On Home to Me / Send Me Some Lovin’", mbid = "3a0f1ab9-8f08-429e-8acd-8087448e8cca" },
+  { n = 11, title = "Bony Moronie", mbid = "604cead7-bd59-48be-903f-b4b1cb0677a3" },
+  { n = 12, title = "Ya Ya", mbid = "d2ffd136-5aa9-46e6-8ef7-577ee9c361bb" },
+  { n = 13, title = "Just Because", mbid = "4244a4b6-9a4b-4a6c-8517-2959e4e205fe" },
+]
+
+[[release]]
+mbid = "880f5590-5b43-42f5-9b5e-0fb2b96489c7"
+title = "Stand by Me"
+type = "single"
+date = "1975-03-10"
+tracks = [
+  { n = 1, title = "Stand by Me", mbid = "64eb3be4-677a-4aff-86be-7957c8f37b04" },
+  { n = 2, title = "Move Over Ms. L", mbid = "91b17623-3a0c-4d52-9cab-de16deb3a61e" },
+]
+
+[[release]]
+mbid = "868c3072-41d8-35e4-a4e7-e4ca510d94f8"
+title = "(Just Like) Starting Over / Kiss Kiss Kiss"
+type = "single"
+date = "1980-10-09"
+tracks = [
+  { n = 1, title = "(Just Like) Starting Over", mbid = "f3c4b489-67dc-4d85-9966-1a7af21fd674" },
+  { n = 2, title = "Kiss Kiss Kiss", mbid = "18d70f51-66a6-4ae1-92fb-5a0fda66faf5" },
+]
+
+[[release]]
+mbid = "790ec782-7344-366c-af67-4a427bcaf991"
+title = "Double Fantasy"
+type = "album"
+date = "1980-11-17"
+spotify = "1NWA2fPLUAW5df7UGI5thp"
+tracks = [
+  { n = 1, title = "(Just Like) Starting Over", mbid = "f3c4b489-67dc-4d85-9966-1a7af21fd674" },
+  { n = 2, title = "Kiss Kiss Kiss", mbid = "1fdd7711-3739-4e99-a9b6-46f073912c89" },
+  { n = 3, title = "Cleanup Time", mbid = "5d43d0da-aae2-4ea0-9d3a-b3f56d0b40a9" },
+  { n = 4, title = "Give Me Something", mbid = "fc03d668-b965-427a-8919-98b9532d8531" },
+  { n = 5, title = "I’m Losing You", mbid = "54a8b81f-75aa-4a76-802c-39957b928ceb" },
+  { n = 6, title = "I’m Moving On", mbid = "352de023-a05e-44e7-aaf3-3eac271c2876" },
+  { n = 7, title = "Beautiful Boy (Darling Boy)", mbid = "257afb49-e911-4e7e-908a-46a7d7f853dd" },
+  { n = 8, title = "Watching the Wheels", mbid = "1219f28a-0bdd-4913-ae6b-cbbd2f0a64d3" },
+  { n = 9, title = "I’m Your Angel", mbid = "4761e68c-9482-43f2-8c41-23de42373266" },
+  { n = 10, title = "Woman", mbid = "34885e35-4428-40ae-9e59-e44d35adc414" },
+  { n = 11, title = "Beautiful Boys", mbid = "d870a16f-e848-4d5b-8ef9-866edc8e6be8" },
+  { n = 12, title = "Dear Yoko", mbid = "1d47bfaf-6118-4bc0-a267-3a8da93ff5e8" },
+  { n = 13, title = "Every Man Has a Woman Who Loves Him", mbid = "4a488405-539d-4841-bd69-ee26c70c6abf" },
+  { n = 14, title = "Hard Times Are Over", mbid = "df73815e-ed06-46bb-8f81-10ad7ecf0bb7" },
+]
+
+[[release]]
+mbid = "5eca755d-e095-48e5-80b3-b0c1ca2cde22"
+title = "Elton John / John Lennon"
+type = "ep"
+date = "1981"
+tracks = [
+  { n = 1, title = "I Saw Her Standing There", mbid = "f9dd6365-dd9c-477e-928b-5eb3737fa827" },
+  { n = 2, title = "Whatever Gets You Through the Night", mbid = "f080b01e-1f8b-4a53-a147-ff6a283e35ae" },
+  { n = 3, title = "Lucy in the Sky With Diamonds", mbid = "7c5e74c2-2399-4a6d-829a-89ea3fd52ad8" },
+]
+
+[[release]]
+mbid = "54c307e4-d0dd-4301-a174-82a010a0f542"
+title = "Woman"
+type = "single"
+date = "1981-01-12"
+tracks = [
+  { n = 1, title = "Woman", mbid = "34885e35-4428-40ae-9e59-e44d35adc414" },
+  { n = 2, title = "Beautiful Boys", mbid = "7fb0bb05-5e53-4ef4-adf5-4a31fed1176c" },
+]
+
+[[release]]
+mbid = "af6d7a65-10aa-470e-af4f-8b31c9b199c9"
+title = "28th November 1974..."
+type = "single"
+date = "1981-03-13"
+tracks = [
+  { n = 1, title = "I Saw Her Standing There", mbid = "b29d9550-8eda-48e7-bf0f-d5ffeb556208" },
+  { n = 2, title = "Whatever Gets You Through The Night (live)", mbid = "4b2e0839-6f4a-4c41-b80a-55dc3434fff3" },
+  { n = 3, title = "Lucy In The Sky With Diamonds (live)", mbid = "6dd2ace1-b346-416e-a4a1-3f8e2e0008f5" },
+]
+
+[[release]]
+mbid = "99a5e0e1-4770-45fd-a5a2-4eff952be1e2"
+title = "Watching the Wheels"
+type = "single"
+date = "1981-03-13"
+tracks = [
+  { n = 1, title = "Watching the Wheels", mbid = "237f58e7-d702-463f-90b5-58e9d12420ba" },
+  { n = 2, title = "Yes, I’m Your Angel", mbid = "9df52952-c493-47da-b9ac-904cec207bcf" },
+]
+
+[[release]]
+mbid = "aa641679-5588-4ccb-92a5-f5d9cf055cbc"
+title = "Love"
+type = "single"
+date = "1982-11-15"
+tracks = [
+  { n = 1, title = "Love", mbid = "8103826b-5bc4-45dc-a5fb-29dfb59626c0" },
+  { n = 2, title = "Give Me Some Truth", mbid = "4443b360-99b0-47e8-b899-d23c6507f9c3" },
+]
+
+[[release]]
+mbid = "50d1189b-aef3-436d-ad77-69ad054fc0fb"
+title = "Nobody Told Me"
+type = "single"
+date = "1984-01-05"
+tracks = [
+  { n = 1, title = "Nobody Told Me", mbid = "b3bd4804-93c1-4825-bef0-313bd89ac107" },
+  { n = 2, title = "O'Sanity", mbid = "60b71afc-fdbf-4c5d-8086-d88a47604723" },
+]
+
+[[release]]
+mbid = "9e51160b-c309-334a-84f9-80feb0112a8f"
+title = "Milk and Honey"
+type = "album"
+date = "1984-01-19"
+spotify = "1HRCspKjuNI3bGzZgvFU3y"
+tracks = [
+  { n = 1, title = "I’m Stepping Out", mbid = "5e1af7ab-09ed-4798-a53e-6e28f9a57225" },
+  { n = 2, title = "Sleepless Night", mbid = "7e6c1a90-0c39-463c-9303-93c4157f85b3" },
+  { n = 3, title = "I Don’t Wanna Face It", mbid = "f34c4030-6942-4bac-9432-751e8b3f4fb7" },
+  { n = 4, title = "Don’t Be Scared", mbid = "4c513e4a-13d7-4ff6-b785-818740aad73e" },
+  { n = 5, title = "Nobody Told Me", mbid = "b3bd4804-93c1-4825-bef0-313bd89ac107" },
+  { n = 6, title = "O’ Sanity", mbid = "60b71afc-fdbf-4c5d-8086-d88a47604723" },
+  { n = 7, title = "Borrowed Time", mbid = "62afb906-650c-4e69-88a3-eae32562e561" },
+  { n = 8, title = "Your Hands", mbid = "f468ead1-2502-40e6-8ff4-44c7af1de608" },
+  { n = 9, title = "(Forgive Me) My Little Flower Princess", mbid = "7f8553a6-87fc-42a9-9750-32db7ddfbabf" },
+  { n = 10, title = "Let Me Count the Ways", mbid = "82434ec9-90f3-4b5a-9662-3aee70916028" },
+  { n = 11, title = "Grow Old With Me", mbid = "f17b0d79-9a38-4efc-924f-bfcf9f9cd13f" },
+  { n = 12, title = "You’re the One", mbid = "b757a159-3495-4269-b95d-260c8eada5c0" },
+]
+
+[[release]]
+mbid = "ecdae4b2-87c7-4454-8b11-d0a58c75ba8b"
+title = "Borrowed Time"
+type = "single"
+date = "1984-03-09"
+tracks = [
+  { n = 1, title = "Borrowed Time", mbid = "62afb906-650c-4e69-88a3-eae32562e561" },
+  { n = 2, title = "Your Hands", mbid = "995e36f8-02bd-40af-b8bc-7eed7b69d79f" },
+]
+
+[[release]]
+mbid = "8b11b5dc-5755-44f6-8cf1-b20954dec7f0"
+title = "I'm Stepping Out"
+type = "single"
+date = "1984-03-15"
+tracks = [
+  { n = 1, title = "I'm Stepping Out", mbid = "5e1af7ab-09ed-4798-a53e-6e28f9a57225" },
+  { n = 2, title = "Sleepless Nights", mbid = "ed8d71d0-6609-42dc-93b8-8d6b0adf95f8" },
+]
+
+[[release]]
+mbid = "2529efa8-cc32-4e50-9e0e-28dfee75ae77"
+title = "Every Man Has a Woman Who Loves Him"
+type = "single"
+date = "1984-10-05"
+tracks = [
+  { n = 1, title = "Every Man Has a Woman Who Loves Him", mbid = "999341b4-23ed-40f2-84ab-d8ec41d1a026" },
+  { n = 2, title = "It’s Alright", mbid = "80e8a1f6-16f0-4014-ad06-9719c60e066b" },
+]
+
+[[release]]
+mbid = "eac30424-e36e-49e6-8b11-128fe4448fff"
+title = "Jealous Guy"
+type = "single"
+date = "1985"
+tracks = [
+  { n = 1, title = "Jealous Guy", mbid = "ec9d6d9f-cc79-4090-b38b-5f5d25611137" },
+  { n = 2, title = "Going Down on Love", mbid = "5438ad55-6a21-48ac-8a92-c64ccfb7b38f" },
+]
+
+[[release]]
+mbid = "99b9868d-c488-3a69-ab8c-0c1d06fc1acc"
+title = "Imagine / Jealous Guy"
+type = "single"
+date = "1988-01-28"
+tracks = [
+  { n = 1, title = "Imagine", mbid = "ec04e3c5-0548-4e73-bfc3-19a26108f302" },
+  { n = 2, title = "Jealous Guy", mbid = "ec9d6d9f-cc79-4090-b38b-5f5d25611137" },
+  { n = 3, title = "Happy Xmas (War Is Over)", mbid = "dc517f67-3e5c-4ca8-98f5-befe8deb1199" },
+  { n = 4, title = "Give Peace a Chance", mbid = "1c778162-b7ae-4ec9-b430-012462a60660" },
+]
+
+[[release]]
+mbid = "ef49d775-aa9b-3104-90a0-6f84834aee64"
+title = "Imagine: John Lennon: Music From the Motion Picture"
+type = "album"
+date = "1988-10-05"
+tracks = [
+  { n = 1, title = "Real Love", mbid = "0df3ec9a-fe60-4352-bd9e-0dfefcdd7527" },
+  { n = 2, title = "Twist and Shout", mbid = "735027a3-d183-42a0-a691-7be6c166df2f" },
+  { n = 3, title = "Help!", mbid = "4416d38e-0f68-4c75-93b9-c1a793fccb49" },
+  { n = 4, title = "In My Life", mbid = "5e7a3a47-3df6-4ae7-a60d-fb212758ad81" },
+  { n = 5, title = "Strawberry Fields Forever", mbid = "fe9a0114-5fb9-452c-a9d7-049c598ac860" },
+  { n = 6, title = "A Day in the Life", mbid = "16623da1-43e8-4521-aeec-511dae173127" },
+  { n = 7, title = "Revolution", mbid = "d893c112-8dc3-4a46-8e11-3744d628917a" },
+  { n = 8, title = "The Ballad of John & Yoko", mbid = "02690387-dbd9-4d24-bbf5-1d2d7ca103ac" },
+  { n = 9, title = "Julia", mbid = "dda183c0-8697-49fa-a971-6632e6a8c31c" },
+  { n = 10, title = "Don't Let Me Down", mbid = "bbc38449-9954-4f70-b28a-f2bcea9c393a" },
+  { n = 11, title = "Give Peace a Chance", mbid = "1c778162-b7ae-4ec9-b430-012462a60660" },
+  { n = 12, title = "How?", mbid = "55ca9593-361d-445e-aa09-02f6589d6152" },
+  { n = 13, title = "Imagine (rehearsal)", mbid = "06be993f-6f38-4682-a215-784f813caf98" },
+  { n = 14, title = "God", mbid = "4578104e-cb70-4260-b785-37151a768edd" },
+  { n = 15, title = "Mother (live)", mbid = "c4ee4887-7a3e-41b2-ad1d-b39b497e61ce" },
+  { n = 16, title = "Stand by Me", mbid = "64eb3be4-677a-4aff-86be-7957c8f37b04" },
+  { n = 17, title = "Jealous Guy", mbid = "ec9d6d9f-cc79-4090-b38b-5f5d25611137" },
+  { n = 18, title = "Woman", mbid = "34885e35-4428-40ae-9e59-e44d35adc414" },
+  { n = 19, title = "Beautiful Boy (Darling Boy)", mbid = "257afb49-e911-4e7e-908a-46a7d7f853dd" },
+  { n = 20, title = "(Just Like) Starting Over", mbid = "f3c4b489-67dc-4d85-9966-1a7af21fd674" },
+  { n = 21, title = "Imagine", mbid = "ec04e3c5-0548-4e73-bfc3-19a26108f302" },
+]
+
+[[release]]
+mbid = "6e4107ee-07b0-3dad-bc33-8abbc39b9337"
+title = "The U.S. vs. John Lennon: Music From the Motion Picture"
+type = "album"
+date = "2006-09-26"
+tracks = [
+  { n = 1, title = "Power to the People", mbid = "79e356e4-2b1f-43cc-85c8-8813a87a7221" },
+  { n = 2, title = "Nobody Told Me", mbid = "4e0332ea-5d80-4550-b705-77b24e210801" },
+  { n = 3, title = "Working Class Hero", mbid = "8b0263ab-cca7-4c22-9214-668d5e871088" },
+  { n = 4, title = "I Found Out", mbid = "4b1b1def-d3b5-4f4c-a6f1-0f9ccbb2bee8" },
+  { n = 5, title = "Bed Peace", mbid = "d865c8d4-f310-4aae-9038-d30e551130c1" },
+  { n = 6, title = "The Ballad of John & Yoko", mbid = "02690387-dbd9-4d24-bbf5-1d2d7ca103ac" },
+  { n = 7, title = "Give Peace a Chance", mbid = "84bef4c4-29dc-483c-bc0e-3d31bdd783a1" },
+  { n = 8, title = "Love", mbid = "8103826b-5bc4-45dc-a5fb-29dfb59626c0" },
+  { n = 9, title = "Attica State (live)", mbid = "11b5dd73-0dde-4683-a093-6d1b6476b10e" },
+  { n = 10, title = "Happy Xmas (War Is Over)", mbid = "dc517f67-3e5c-4ca8-98f5-befe8deb1199" },
+  { n = 11, title = "I Don't Wanna Be a Soldier Mama I Don't Wanna Die", mbid = "13787cd3-214f-4d06-b5b9-78b65c31803b" },
+  { n = 12, title = "Imagine", mbid = "ec04e3c5-0548-4e73-bfc3-19a26108f302" },
+  { n = 13, title = "How Do You Sleep? (instrumental score)", mbid = "eca1ee92-b9fc-42ab-abe3-0aab7cb7e465" },
+  { n = 14, title = "New York City", mbid = "3878dcc0-8870-4c95-ac31-1bef697b2b8a" },
+  { n = 15, title = "John Sinclair (live)", mbid = "9c82e45a-9615-49a1-9151-dbf43afacc07" },
+  { n = 16, title = "Scared", mbid = "eee58c00-b7c6-49f5-97fe-f382fc10e458" },
+  { n = 17, title = "God", mbid = "be79ada0-c58a-4f5b-b57e-1de6833eb247" },
+  { n = 18, title = "Here We Go Again", mbid = "e55152a7-551a-4ebf-a755-c1caea956b21" },
+  { n = 19, title = "Gimme Some Truth", mbid = "a9e895bb-3ab4-411a-8884-580e69725705" },
+  { n = 20, title = "Oh My Love", mbid = "660dbf58-ab40-4e83-9082-e4ed567faf35" },
+  { n = 21, title = "Instant Karma! (We All Shine On)", mbid = "792c23cf-3ab3-4e6f-9224-eb7cde43a2ad" },
+]
+
+[[release]]
+mbid = "69288cdc-54ad-407a-b6c1-e05e7866d0b6"
+title = "Mind Games (Ultimate mix)"
+type = "single"
+date = "2020-09-18"
+spotify = "0Z9XDrFoDJqb2Mn8Ua3dFq"
+tracks = [
+  { n = 1, title = "Mind Games (Ultimate mix)", mbid = "7bc5b5b4-62b8-4e9c-bcfe-60c126364f51" },
+]
+
+[[release]]
+mbid = "5148116a-8fe3-4b5f-8442-b29c45a9a972"
+title = "Mother (ultimate mix)"
+type = "single"
+date = "2021-03-04"
+spotify = "4zCm0maXjPsoQ7ERw1qksm"
+tracks = [
+  { n = 1, title = "Mother (ultimate mix)", mbid = "26cbef86-4dfa-43dc-bd73-9e1ec6637804" },
+]
+
+[[release]]
+mbid = "7fc23847-40f4-42c2-b7f1-5007d256a4d0"
+title = "Look at Me (ultimate mix)"
+type = "single"
+date = "2021-04-01"
+spotify = "7HbYezDoSZekcHUtnvKwyq"
+tracks = [
+  { n = 1, title = "Look at Me (ultimate mix)", mbid = "acd4a16e-488f-47b0-aa04-d1a29b893517" },
+]

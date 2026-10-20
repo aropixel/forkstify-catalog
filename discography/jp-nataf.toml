@@ -1,0 +1,42 @@
+format = 1
+
+[[release]]
+mbid = "55569312-7668-3159-bd74-f20ad926cb24"
+title = "Plus de sucre"
+type = "album"
+date = "2004-04-27"
+spotify = "1hDLR6hNfNvb6PXRt1d34N"
+tracks = [
+  { n = 1, title = "Tout doux", mbid = "c0f57e0d-1cfd-4aa0-a062-ace2b7282dfa" },
+  { n = 2, title = "Mon ami d'en haut", mbid = "a9b434dc-edf2-40bf-868f-6c321a10f448" },
+  { n = 3, title = "Ovale Lune", mbid = "dc18fcba-a276-456f-a306-bd81bbaa75bd" },
+  { n = 4, title = "Jean-Philippe", mbid = "19c021a1-ffb8-4cfc-bb4b-4a6d8a26de11" },
+  { n = 5, title = "La Grande Ourse", mbid = "fde09ea0-0db1-4c9f-b110-6cd225247399" },
+  { n = 6, title = "Jeune Homme", mbid = "df33b6fc-1e3f-44c6-b7a6-bb5f3d2c6d85" },
+  { n = 7, title = "Plus de sucre", mbid = "dae26360-d2a8-4dd0-bbe1-8f09ab20fd19" },
+  { n = 8, title = "Rengaine", mbid = "606e9252-d10f-4526-a2d8-8ac3a0f136e8" },
+  { n = 9, title = "Je mange mal", mbid = "78d24b39-a266-496e-b22e-7f2a7982717b" },
+  { n = 10, title = "Mon vaudou", mbid = "d40e474f-7e91-44de-9a94-36f62492c5ca" },
+  { n = 11, title = "Enveloppe", mbid = "f3a724a7-dcc5-4609-a933-a1f216e78327" },
+  { n = 12, title = "Le Consentement", mbid = "f66dd893-2890-4fba-ad5c-132da4e2ea77" },
+]
+
+[[release]]
+mbid = "fadc508f-e901-4333-83ec-716d34bbe60b"
+title = "Clair"
+type = "album"
+date = "2009-11-09"
+tracks = [
+  { n = 1, title = "Myosotis", mbid = "77857396-91dd-4f28-8274-1debf237d928" },
+  { n = 2, title = "Clair", mbid = "5c5c4117-af5a-4f47-9097-1120c07cd96e" },
+  { n = 3, title = "Elle", mbid = "09f0c586-3faf-4497-aef7-8db4758320b5" },
+  { n = 4, title = "Viens me le dire", mbid = "a81b5b4e-6d61-4372-8304-5d4dfaacd629" },
+  { n = 5, title = "Monkey", mbid = "27c1315b-f9f4-4ee7-8fee-270e0c7430f5" },
+  { n = 6, title = "Après toi", mbid = "9d82b57c-1c84-42af-918d-2d5df2946a64" },
+  { n = 7, title = "Seul (Alone)", mbid = "25a6f377-5ba6-47a1-bc18-39282cc1837e" },
+  { n = 8, title = "Clamecy", mbid = "66201c8c-55ff-444a-b21d-2c9998e0ded4" },
+  { n = 9, title = "Les Lacets", mbid = "e2ced1a2-e7c9-41ad-9d04-301b9c0ab8c8" },
+  { n = 10, title = "Le Radeau", mbid = "2a1ef664-1c58-40df-b108-361a1063db1c" },
+  { n = 11, title = "Un jour sans erreur", mbid = "f572bf8f-ecaf-4f05-873d-c91c5c1091b0" },
+  { n = 12, title = "A mandoline", mbid = "621cdb8a-979c-429b-a365-34062380f680" },
+]

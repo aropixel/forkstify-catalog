@@ -1,0 +1,484 @@
+format = 1
+
+[[release]]
+mbid = "3ec68147-babf-4a99-a073-334df690a375"
+title = "IDLES"
+type = "ep"
+date = "2011-05-28"
+tracks = [
+  { n = 1, title = "Imagined Communities", mbid = "07533d67-8951-47f9-a420-462df880304e" },
+  { n = 2, title = "Thieves", mbid = "a763f7b0-bd81-4b5f-8808-6b20f6c8da47" },
+  { n = 3, title = "Erased", mbid = "ffdc7071-0d00-410a-941e-159e03cce33d" },
+]
+
+[[release]]
+mbid = "c8f2f1d6-1de4-42ce-aa2c-d099e2fbfdc7"
+title = "Welcome"
+type = "ep"
+date = "2012-08-06"
+tracks = [
+  { n = 1, title = "26:27", mbid = "e999da1e-f35d-4b4c-8491-a89c0c227ab9" },
+  { n = 2, title = "Meydei", mbid = "91bef94f-95e0-4ad1-9dc6-3e3743d2ed1b" },
+  { n = 3, title = "Germany", mbid = "2a298a9f-a4b8-4026-a4bc-d617b388cdc5" },
+  { n = 4, title = "Two Tone", mbid = "e20e74db-b82c-4c67-b309-cf50920b82cd" },
+]
+
+[[release]]
+mbid = "9eb5ad17-7208-4157-9ab4-4ff6b58e59cc"
+title = "Meat"
+type = "ep"
+date = "2015-10-30"
+spotify = "599uIdChBsyCFGicQmbmey"
+tracks = [
+  { n = 1, title = "Queens", mbid = "9b3a857c-d230-4662-9361-1951d08454ae" },
+  { n = 2, title = "The Idles Chant", mbid = "a657632d-f962-4405-8e22-4d21f40320b0" },
+  { n = 3, title = "Romantic Gestures", mbid = "7f5fb694-f97d-4bb5-ab23-877fcba5ba88" },
+  { n = 4, title = "Nice Man", mbid = "777f2a02-9268-4518-9a24-a2d3b5c2544a" },
+]
+
+[[release]]
+mbid = "0f9f24be-17d1-44e3-93b5-13a08b1e217d"
+title = "Divide and Conquer"
+type = "single"
+date = "2016-08-26"
+tracks = [
+  { n = 1, title = "Divide & Conquer", mbid = "4c224883-975f-4839-a853-8edbea80bf78" },
+]
+
+[[release]]
+mbid = "45159dc2-0add-4ff1-9ff1-774f10fe0468"
+title = "Stendhal Syndrome"
+type = "single"
+date = "2017-01-27"
+spotify = "7dcAcd200mJzsCLIUWaJ3l"
+tracks = [
+  { n = 1, title = "Stendhal Syndrome", mbid = "5fe9b1e6-0984-4f51-8d71-91459b384450" },
+]
+
+[[release]]
+mbid = "817c1c55-b567-449b-bd75-9b7322bbc1ba"
+title = "Mother"
+type = "single"
+date = "2017-02-24"
+spotify = "1L5m3MZrmli8tB3hSPquSX"
+tracks = [
+  { n = 1, title = "Mother", mbid = "063de290-8573-4e78-b141-c3c41d278b94" },
+]
+
+[[release]]
+mbid = "d9482256-62b0-4409-b60f-9f52ff00ea4b"
+title = "Brutalism"
+type = "album"
+date = "2017-02-27"
+spotify = "4KKBC1uABloAIFc0TiUv5r"
+tracks = [
+  { n = 1, title = "Heel/Heal", mbid = "c888c80f-0016-47c1-92f4-6fb3930aa91e" },
+  { n = 2, title = "Well Done", mbid = "4bc45a27-d23a-4186-9721-2e81b1c6cb9c" },
+  { n = 3, title = "Mother", mbid = "063de290-8573-4e78-b141-c3c41d278b94" },
+  { n = 4, title = "Date Night", mbid = "ff6db285-7c1c-4124-bfb7-cd45759ff91c" },
+  { n = 5, title = "Faith in the City", mbid = "efc039d5-083e-4117-9f0b-dce06fd322ec" },
+  { n = 6, title = "1049 Gotho", mbid = "4f8a2dff-951d-43a1-b2a8-08759b4c5a9e" },
+  { n = 7, title = "Divide and Conquer", mbid = "4c224883-975f-4839-a853-8edbea80bf78" },
+  { n = 8, title = "Rachel Khoo", mbid = "cb6d73d0-0a88-49e4-b2e1-303b97bf8476" },
+  { n = 9, title = "Stendhal Syndrome", mbid = "5fe9b1e6-0984-4f51-8d71-91459b384450" },
+  { n = 10, title = "Exeter", mbid = "9954a1c4-f4dd-4967-96c0-7f87d03b4277" },
+  { n = 11, title = "Benzocaine", mbid = "019cd6d2-96b9-4ddd-891a-8bc7adddee8f" },
+  { n = 12, title = "White Privilege", mbid = "5f210085-168f-4c4f-9a98-9dba17f20f3d" },
+  { n = 13, title = "Slow Savage", mbid = "f494c990-a161-4880-8d83-446c00bd2bf0" },
+]
+
+[[release]]
+mbid = "db61f479-c55b-4e39-849f-4d787d151500"
+title = "Well Done"
+type = "single"
+date = "2017-11-23"
+tracks = [
+  { n = 1, title = "Well Done", mbid = "4bc45a27-d23a-4186-9721-2e81b1c6cb9c" },
+  { n = 2, title = "Untitled [Heel/Heal (live)]", mbid = "8f654566-b1c7-4039-9ed1-dbc331929a9f" },
+]
+
+[[release]]
+mbid = "f089e5bd-8f44-41b6-b050-a809e41cdcfc"
+title = "Colossus"
+type = "single"
+date = "2018-05-30"
+spotify = "3AJY9q5k871ynS9l3NlD7n"
+tracks = [
+  { n = 1, title = "Colossus", mbid = "2474de83-72f3-4154-b5a8-1c090466dcb7" },
+]
+
+[[release]]
+mbid = "aa3cf7c1-b14b-4947-b969-fc0724556a5e"
+title = "Danny Nedelko"
+type = "single"
+date = "2018-06-05"
+spotify = "3Wmm8WuEw5GlaZddoI8kr5"
+tracks = [
+  { n = 1, title = "Danny Nedelko", mbid = "0a311ba0-31cd-4359-873f-1aa931279e6a" },
+]
+
+[[release]]
+mbid = "4ec411d8-af07-4ae1-ad24-7a77454b4864"
+title = "Samaritans"
+type = "single"
+date = "2018-07-27"
+spotify = "4DpGLM4juU2NbGnPgDJvGh"
+tracks = [
+  { n = 1, title = "Samaritans", mbid = "db401860-a3b4-4784-962f-8f6559702042" },
+]
+
+[[release]]
+mbid = "f7d080dd-8204-4680-8c61-a3ca33f89757"
+title = "Great"
+type = "single"
+date = "2018-08-14"
+spotify = "55SMlXeu1GJ6YERujvKCAi"
+tracks = [
+  { n = 1, title = "Great", mbid = "f8766ab5-f523-4b6c-b18c-3542736202de" },
+]
+
+[[release]]
+mbid = "45003bef-d379-441d-b246-358f0b78985c"
+title = "Joy as an Act of Resistance."
+type = "album"
+date = "2018-08-31"
+tracks = [
+  { n = 1, title = "Colossus", mbid = "2474de83-72f3-4154-b5a8-1c090466dcb7" },
+  { n = 2, title = "Never Fight a Man With a Perm", mbid = "edda2b10-c034-42ed-be7f-d9ccf4254fe1" },
+  { n = 3, title = "I’m Scum", mbid = "5ccd26a6-f384-4029-8a5f-0021124807df" },
+  { n = 4, title = "Danny Nedelko", mbid = "0a311ba0-31cd-4359-873f-1aa931279e6a" },
+  { n = 5, title = "Love Song", mbid = "3040ad85-438b-47e2-8fdb-f59708ec32af" },
+  { n = 6, title = "June", mbid = "8fc0e2d3-da15-4520-83b4-bf5260f119e4" },
+  { n = 7, title = "Samaritans", mbid = "db401860-a3b4-4784-962f-8f6559702042" },
+  { n = 8, title = "Television", mbid = "927527b3-cc42-40de-af29-a593f72f1135" },
+  { n = 9, title = "Great", mbid = "f8766ab5-f523-4b6c-b18c-3542736202de" },
+  { n = 10, title = "Gram Rock", mbid = "555b0448-c8fd-42b2-aba1-227ccfdf6881" },
+  { n = 11, title = "Cry to Me", mbid = "226fc6d8-1244-4758-8c22-e4ff36f2b4c8" },
+  { n = 12, title = "Rottweiler", mbid = "8eb5de0c-b97c-43a2-9b8b-61b659071961" },
+]
+
+[[release]]
+mbid = "efafee8d-6ea5-4345-b37f-17a5e5ecdf51"
+title = "Danny Nedelko / Blood Brother"
+type = "single"
+date = "2018-11-30"
+tracks = [
+  { n = 1, title = "Danny Nedelko", mbid = "0a311ba0-31cd-4359-873f-1aa931279e6a" },
+  { n = 2, title = "Blood Brother", mbid = "2e8f1b0c-c155-4c0e-8a69-8dc90e09e569" },
+]
+
+[[release]]
+mbid = "9c6d865b-1e55-417c-b765-7c9648072a36"
+title = "Mercedes Marxist"
+type = "single"
+date = "2019-05-07"
+spotify = "2YxlbvGkjkgya2tws6Pg9X"
+tracks = [
+  { n = 1, title = "Mercedes Marxist", mbid = "65788c7b-a212-498b-8d8f-7733c23677db" },
+]
+
+[[release]]
+mbid = "2ec35530-3ecf-4a8c-841b-0aa7fec93353"
+title = "I Dream Guillotine"
+type = "single"
+date = "2019-08-02"
+spotify = "4SwRTCjrm7UFIuzrFOCEDi"
+tracks = [
+  { n = 1, title = "I Dream Guillotine", mbid = "9a7023f6-74d7-432b-8e20-e2c36433eb67" },
+]
+
+[[release]]
+mbid = "31296ec8-9083-4f93-b885-ad552b5a105b"
+title = "Wish"
+type = "single"
+date = "2020-03-05"
+spotify = "6BS9G2NNNj6opB6haNYW3X"
+tracks = [
+  { n = 1, title = "Wish", mbid = "312f9b6b-fd45-4b01-bfbe-e0d63811f65b" },
+  { n = 2, title = "Swimming Pool", mbid = "97b8fc21-e9be-497a-b035-defb8d9f0157" },
+  { n = 3, title = "Eden", mbid = "2a5932b8-209a-444d-9c33-c8da1890a008" },
+  { n = 4, title = "Don’t Beat the Girl Out of My Boy", mbid = "162d52cf-5235-45c5-a9c1-d1eb752f739b" },
+]
+
+[[release]]
+mbid = "f04c12a0-c268-4e22-82e3-79f3a36af909"
+title = "Mr. Motivator"
+type = "single"
+date = "2020-05-19"
+spotify = "4zoDz3Z5sXbhyOctpUHusD"
+tracks = [
+  { n = 1, title = "Mr. Motivator", mbid = "3f266c5c-2bee-4424-82b8-3132b7b54f01" },
+]
+
+[[release]]
+mbid = "52925517-b0bc-4b99-b06f-28be6b88f376"
+title = "Grounds"
+type = "single"
+date = "2020-06-16"
+spotify = "4lrtSpC4lDgHGmqJ7qC9Zo"
+tracks = [
+  { n = 1, title = "Grounds", mbid = "d0a49967-b41f-4822-a951-7dbf45338086" },
+]
+
+[[release]]
+mbid = "95d43550-febb-478b-adc0-b53e77ba41e1"
+title = "A Hymn"
+type = "single"
+date = "2020-07-14"
+spotify = "2952cRN3s5yrChqnAqvPhh"
+tracks = [
+  { n = 1, title = "A Hymn (edit)", mbid = "88487dd5-920d-4a91-828e-a008411b3d10" },
+]
+
+[[release]]
+mbid = "17f6d26e-ce5b-4223-b808-692be555cb7f"
+title = "Model Village"
+type = "single"
+date = "2020-08-11"
+spotify = "64ykGE4p3OlMOTMzyAbs3E"
+tracks = [
+  { n = 1, title = "Model Village", mbid = "e9501515-7543-4452-afd0-c35e7e5169f3" },
+  { n = 2, title = "A Hymn (edit)", mbid = "88487dd5-920d-4a91-828e-a008411b3d10" },
+  { n = 3, title = "Grounds", mbid = "d0a49967-b41f-4822-a951-7dbf45338086" },
+  { n = 4, title = "Mr. Motivator", mbid = "3f266c5c-2bee-4424-82b8-3132b7b54f01" },
+]
+
+[[release]]
+mbid = "baa817a4-1987-44b7-bd0e-1d5eba738619"
+title = "Ultra Mono"
+type = "album"
+date = "2020-09-25"
+spotify = "20O6GKv8VfyvL4Gy0TAJs7"
+tracks = [
+  { n = 1, title = "War", mbid = "fb5efa68-739f-4dc9-ad1c-ed6f15f984cb" },
+  { n = 2, title = "Grounds", mbid = "d0a49967-b41f-4822-a951-7dbf45338086" },
+  { n = 3, title = "Mr. Motivator", mbid = "3f266c5c-2bee-4424-82b8-3132b7b54f01" },
+  { n = 4, title = "Anxiety", mbid = "2c3a9e21-1d5a-465e-be06-cd947f29c340" },
+  { n = 5, title = "Kill Them With Kindness", mbid = "1fc0ff13-1043-4087-8a06-30032851d5e0" },
+  { n = 6, title = "Model Village", mbid = "e9501515-7543-4452-afd0-c35e7e5169f3" },
+  { n = 7, title = "Ne touche pas moi", mbid = "3f3da467-f6ad-4238-959b-5e719d1d7b3b" },
+  { n = 8, title = "Carcinogenic", mbid = "f02a0118-78b7-4a52-8967-4b0fb488a387" },
+  { n = 9, title = "Reigns", mbid = "91ed6cf8-37ba-4ad9-b202-ce880458497b" },
+  { n = 10, title = "The Lover", mbid = "9fc6a503-e6dd-4f81-8129-e5c49ce873d3" },
+  { n = 11, title = "A Hymn", mbid = "7a454405-94bd-4cab-b9a5-a9ed2b31f489" },
+  { n = 12, title = "Danke", mbid = "8662f398-c98d-4462-9b3c-34b50f93c87b" },
+]
+
+[[release]]
+mbid = "81fcfb3a-89d6-4997-ae5b-35080a8505ab"
+title = "Peace Signs"
+type = "single"
+date = "2021-03-11"
+spotify = "33oM16jRGfm4QzDalm6kFi"
+tracks = [
+  { n = 1, title = "Peace Signs", mbid = "cfbf958f-7b55-49d7-b8aa-9e486a1ab841" },
+]
+
+[[release]]
+mbid = "62d3fd9e-f409-4f11-a333-c009c9c7f379"
+title = "Damaged Goods"
+type = "single"
+date = "2021-05-28"
+spotify = "1T0nUhUZKXBsgog7qe5u1F"
+tracks = [
+  { n = 1, title = "Damaged Goods", mbid = "e3e8c3e5-4a11-46ea-a4a3-dcba26ff0524" },
+]
+
+[[release]]
+mbid = "f4cabdc9-8a95-4d0d-ad12-3fe94b4993e9"
+title = "Sodium"
+type = "single"
+date = "2021-06-18"
+spotify = "7vUSt58QJ68laxgrRViHdk"
+tracks = [
+  { n = 1, title = "Sodium", mbid = "603e88c2-4195-4f3a-ba10-92b6cddbf5e6" },
+]
+
+[[release]]
+mbid = "50d0f4fd-21dc-4f59-81e3-c497ab5bc189"
+title = "Model Village"
+type = "single"
+date = "2021-07-20"
+spotify = "3PAWVGgSbo29hwJJ60uRCt"
+tracks = [
+  { n = 1, title = "Model Village", mbid = "d7b04509-09b1-4924-a3f0-5895fdaf87b5" },
+]
+
+[[release]]
+mbid = "3db787ef-6295-487e-9cb2-7905dfac97ad"
+title = "The God That Failed"
+type = "single"
+date = "2021-08-26"
+spotify = "2MjGNdb9xZZsshiw5FU1eJ"
+tracks = [
+  { n = 1, title = "The God That Failed", mbid = "37520fa5-8101-4c1c-8f92-36f11c697dea" },
+]
+
+[[release]]
+mbid = "e219f1ac-6d61-4eb8-b1ce-8f6cd9dc7b4b"
+title = "The Beachland Ballroom"
+type = "single"
+date = "2021-09-28"
+spotify = "2N5OAV10wnJNZ0QBGMhY4p"
+tracks = [
+  { n = 1, title = "The Beachland Ballroom", mbid = "6321e1ed-0d40-44ae-8295-56e9d4dd7bcc" },
+]
+
+[[release]]
+mbid = "9d1e718d-6b13-47c1-aa46-08c6a6a67526"
+title = "Car Crash"
+type = "single"
+date = "2021-11-03"
+spotify = "2EKQsp1aZdYeN1K6n5Lpf6"
+tracks = [
+  { n = 1, title = "Car Crash", mbid = "adc3b17b-d89d-44b3-8747-b0491750d2ff" },
+  { n = 2, title = "The Beachland Ballroom", mbid = "6321e1ed-0d40-44ae-8295-56e9d4dd7bcc" },
+]
+
+[[release]]
+mbid = "da9a2af4-e97d-43aa-92a9-f8e6c0eab37d"
+title = "CRAWLER"
+type = "album"
+date = "2021-11-12"
+spotify = "27ygqCfb4dXQ3jyXnC58FU"
+tracks = [
+  { n = 1, title = "MTT 420 RR", mbid = "60c86fb1-875b-42b7-9a8e-418ed39ad879" },
+  { n = 2, title = "The Wheel", mbid = "eb18a4e4-7130-497d-b23d-98c8dae4ad60" },
+  { n = 3, title = "When The Lights Come On", mbid = "1baaa836-3f84-450d-99f0-20f01f4c10d4" },
+  { n = 4, title = "Car Crash", mbid = "adc3b17b-d89d-44b3-8747-b0491750d2ff" },
+  { n = 5, title = "The New Sensation", mbid = "7374ccb7-1ace-48fc-9d81-e656cbb7a97f" },
+  { n = 6, title = "Stockholm Syndrome", mbid = "87b3ad68-d3d8-4c87-b226-bd365c24d8ad" },
+  { n = 7, title = "The Beachland Ballroom", mbid = "6321e1ed-0d40-44ae-8295-56e9d4dd7bcc" },
+  { n = 8, title = "Crawl!", mbid = "9bfd11fc-d8d1-4856-ba5f-922c15dd8c76" },
+  { n = 9, title = "Meds", mbid = "2ee9c558-5415-411e-983f-30f6c324b99b" },
+  { n = 10, title = "Kelechi", mbid = "4225f55c-7d54-41bb-a64e-d2a49dc6d915" },
+  { n = 11, title = "Progress", mbid = "d0afa68d-3b01-49e2-ba9e-bb7f697723cf" },
+  { n = 12, title = "Wizz", mbid = "cfa088f5-0c53-4bfe-a06b-126a7de2de04" },
+  { n = 13, title = "King Snake", mbid = "3bdc3cb1-94f3-47be-9f52-93299553ccd5" },
+  { n = 14, title = "The End", mbid = "33d61989-befd-435e-89bb-514435989caa" },
+]
+
+[[release]]
+mbid = "cc7d17bc-635a-40a6-86d5-946dcbcb22ad"
+title = "Crawl! (DGG Edit)"
+type = "single"
+date = "2022-02-08"
+tracks = [
+  { n = 1, title = "Crawl! (DGG Edit)", mbid = "1314951b-1d9b-4681-8e55-95ee313ce52f" },
+]
+
+[[release]]
+mbid = "6bd666a4-ea74-45e3-8f37-ed1472b3c406"
+title = "Dancer"
+type = "single"
+date = "2023-10-18"
+spotify = "6AGtvMucIA2IRrLpVIP6ZR"
+tracks = [
+  { n = 1, title = "Dancer", mbid = "c03667ab-2390-4c39-ba8c-4184a6e95f6a" },
+]
+
+[[release]]
+mbid = "146bf875-d539-40a9-8464-0918a5d1aac0"
+title = "Grace"
+type = "single"
+date = "2023-12-06"
+tracks = [
+  { n = 1, title = "Grace", mbid = "93b49436-7f6d-427d-a367-912876e7ff9b" },
+]
+
+[[release]]
+mbid = "3efee670-0033-4f06-8354-1004775e76c8"
+title = "Gift Horse"
+type = "single"
+date = "2024-01-15"
+spotify = "2w0nLJDVilZhqTctLLem4j"
+tracks = [
+  { n = 1, title = "Gift Horse", mbid = "7ea201fe-ca99-479d-a525-7876764076c8" },
+  { n = 2, title = "Grace", mbid = "93b49436-7f6d-427d-a367-912876e7ff9b" },
+  { n = 3, title = "Dancer", mbid = "c03667ab-2390-4c39-ba8c-4184a6e95f6a" },
+]
+
+[[release]]
+mbid = "8ba0ce4a-5fd3-48bf-8b36-da3d58760e32"
+title = "TANGK"
+type = "album"
+date = "2024-02-16"
+spotify = "6U11VNHZAfYY3E9V4oFB2p"
+tracks = [
+  { n = 1, title = "IDEA 01", mbid = "2c257e36-d028-49b9-8e08-20bd739d082e" },
+  { n = 2, title = "Gift Horse", mbid = "e3976771-0192-494a-b8a3-0984209662fa" },
+  { n = 3, title = "POP POP POP", mbid = "be990f8b-be24-455c-bc8f-026b1d52e67c" },
+  { n = 4, title = "Roy", mbid = "873557c7-114d-4ec2-93a4-68a08c62586e" },
+  { n = 5, title = "A Gospel", mbid = "4f474ed5-ef36-4c1d-b7b0-0a17b9feec7a" },
+  { n = 6, title = "Dancer", mbid = "c03667ab-2390-4c39-ba8c-4184a6e95f6a" },
+  { n = 7, title = "Grace", mbid = "f2273bce-729e-4584-b076-51027f88de48" },
+  { n = 8, title = "Hall & Oates", mbid = "311f5527-54ce-44c7-be56-4ef754b7e35b" },
+  { n = 9, title = "Jungle", mbid = "a56afa24-68a1-4369-961d-c019189e7529" },
+  { n = 10, title = "Gratitude", mbid = "3c619b6c-358f-4612-933d-4886d75ec260" },
+  { n = 11, title = "Monolith", mbid = "da887eed-0a34-426d-9187-ff309b415499" },
+]
+
+[[release]]
+mbid = "200ae32a-b267-4952-bade-ec22127b0bf0"
+title = "Spotify Singles"
+type = "single"
+date = "2024-06-12"
+spotify = "78idguEf1xfzmWnsL6akZn"
+tracks = [
+  { n = 1, title = "Mood Swings - Spotify Singles", mbid = "4793b3dd-9e6c-425f-b6a2-5bd76d8ee240" },
+  { n = 2, title = "Roy - Spotify Singles", mbid = "3c5228cf-9d82-4574-aa7b-584070aa990b" },
+]
+
+[[release]]
+mbid = "72780a5b-2e49-464e-a391-0f94e8c35aae"
+title = "POP POP POP"
+type = "single"
+date = "2024-12-17"
+spotify = "2ND4tchs3mt9oZVUToVnuT"
+tracks = [
+  { n = 1, title = "POP POP POP", mbid = "2f7261cc-b4fd-45ab-a805-410ee24f4cf0" },
+]
+
+[[release]]
+mbid = "200e81f8-66d3-4997-842a-6830bd80276a"
+title = "Rabbit Run"
+type = "single"
+date = "2025-07-30"
+tracks = [
+  { n = 1, title = "Rabbit Run", mbid = "5b5fe07b-74af-4317-9c4f-65e2c67bc590" },
+]
+
+[[release]]
+mbid = "66a71829-c293-4310-8ba2-17bc6b03d63a"
+title = "Caught Stealing (The Original Motion Picture Soundtrack)"
+type = "album"
+date = "2025-08-29"
+spotify = "0ox54iBEAeghJpulMDAVfD"
+tracks = [
+  { n = 1, title = "6th and A", mbid = "84b4faa3-47f8-4f36-a59d-2ecf316c35db" },
+  { n = 2, title = "Doom", mbid = "69e50f3e-3b2c-44f2-8948-e6f38ae19d50" },
+  { n = 3, title = "Kim’s Video", mbid = "b1726750-ee4d-4c99-b684-244d2a4613c5" },
+  { n = 4, title = "Tompkins Square Park", mbid = "27f89038-4586-47e6-9680-f9160a53c041" },
+  { n = 5, title = "5th Floor Walk Up", mbid = "cf7700ba-8624-4f35-b98a-23391ea62eac" },
+  { n = 6, title = "Walk/Don’t Walk", mbid = "0564018c-74d6-4c63-8d90-9e6f7215d82e" },
+  { n = 7, title = "Loisaida", mbid = "1ecb5883-712c-4546-977b-23675dd82a9a" },
+  { n = 8, title = "Cheerleader", mbid = "0e93129e-74a9-484f-9dc1-cb13d1a5c6ad" },
+  { n = 9, title = "Coper", mbid = "ec36e69b-5d9a-47aa-98c3-c78394b8e4d7" },
+  { n = 10, title = "Flushing, Queens", mbid = "c33201b6-123d-4943-a207-dd46f1591be2" },
+  { n = 11, title = "Police & Thieves", mbid = "f6171790-a45d-4439-92fe-fec770855350" },
+  { n = 12, title = "Bay 15", mbid = "5466282a-507d-4a3f-be58-a27fd300ad3a" },
+  { n = 13, title = "Blessings and Successes", mbid = "73f6c85a-28fc-4ce7-9ac8-d1659ace2c0c" },
+  { n = 14, title = "Alphabet City", mbid = "182b6eee-5e2d-4a6c-adf0-c908c1111b5c" },
+  { n = 15, title = "Under the EL", mbid = "ad07c357-e5e4-4265-94da-88b8698803e1" },
+  { n = 16, title = "Rabbit Run", mbid = "5b5fe07b-74af-4317-9c4f-65e2c67bc590" },
+]
+
+[[release]]
+mbid = "c87116ae-d4a2-4bf7-9721-6c7e377f69b0"
+title = "The God of Lying"
+type = "single"
+date = "2025-11-06"
+spotify = "7LZaMXfUwm5ECr6MUyd5ho"
+tracks = [
+  { n = 1, title = "The God of Lying", mbid = "19270531-8654-4def-ac5a-4239c8bf2c37" },
+]

@@ -1,0 +1,785 @@
+format = 1
+
+[[release]]
+mbid = "e02ab2e8-bae2-35f3-ac35-e07861d92661"
+title = "Concept"
+type = "album"
+date = "1990"
+tracks = [
+  { n = 1, title = "IAM", mbid = "24617828-aef8-4577-9b14-8399345917a0" },
+  { n = 2, title = "Elle est à moi", mbid = "914377ec-ecd1-4558-899a-eeba479186d5" },
+  { n = 3, title = "Il n’y a pas d’autre alternative", mbid = "1303fc30-8ecc-471e-ab8c-96c9b6006d30" },
+  { n = 4, title = "Wake Up", mbid = "856eac25-cc1b-40d2-8768-fd469d6eed2c" },
+  { n = 5, title = "We Got the Power", mbid = "c3441d18-355c-4acc-b349-6c8f8f95fbe1" },
+  { n = 6, title = "Motherland", mbid = "73b76a67-2a90-477e-8e7c-1309b0a4bef5" },
+  { n = 7, title = "Total Kheops", mbid = "481ffbde-e215-4227-97bb-1b78c97c92ff" },
+  { n = 8, title = "The Real B Side", mbid = "1e9d2d1b-e00b-48c4-9611-c20499988312" },
+  { n = 9, title = "Red Black Green", mbid = "3a250586-a16a-4a36-ab91-344f14472056" },
+  { n = 10, title = "Soumis à l’État", mbid = "97babf6d-07ba-402d-9b53-f788853a38fa" },
+  { n = 11, title = "Vietnam", mbid = "0f56b39f-7fa8-455e-b7d6-81256ddeebce" },
+  { n = 12, title = "I Won’t Stop", mbid = "ce167f34-aeda-4d8a-a593-92099b62864e" },
+  { n = 13, title = "Akhenaton", mbid = "f7530b23-dbbb-4e70-99d2-93598e9f6cfe" },
+]
+
+[[release]]
+mbid = "7a51c697-1a0d-4cee-bd51-cb3ac7ba7a5a"
+title = "Red, Black and Green"
+type = "ep"
+date = "1991"
+tracks = [
+  { n = 1, title = "Red, Black and Green (Deuxième vague club mix)", mbid = "fbf5cdea-158c-4490-95ec-e00947f08853" },
+  { n = 2, title = "Red, Black and Green (Rainbow mix)", mbid = "72113f52-7cfd-4f91-976a-2998b469367d" },
+  { n = 3, title = "Red, Black and Green (Sofa Jazz mix)", mbid = "1a308a52-9f8b-4b34-a208-d0e3faa645ff" },
+  { n = 4, title = "Hold‐up mental", mbid = "29c52eaf-2ca2-49e9-a835-b2fe4d710199" },
+  { n = 5, title = "La Guerre sainte du rap", mbid = "3d443670-ebc1-49db-a286-d512d511de22" },
+]
+
+[[release]]
+mbid = "f33031a0-d793-3056-a832-683b74afd853"
+title = "Tam tam de l’Afrique"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "Tam tam de l'Afrique (Home remix)", mbid = "5192dfb8-c748-41a1-8c40-4e03a811ecbc" },
+  { n = 2, title = "Tam tam de l'Afrique 1991 (Easy Mo Bee remix)", mbid = "aa0808ad-9e7c-45b6-a06e-aeff7b53e488" },
+  { n = 3, title = "Mado", mbid = "4720822c-4401-4370-8fad-e3028a5b7e51" },
+  { n = 4, title = "Le Livre de la jungle", mbid = "a6844ce7-2c05-466a-a05c-ffc173084a77" },
+  { n = 5, title = "Fuit L.A.I. (Laids absolus irrécupérables)", mbid = "e0875b5c-8cf0-494b-9492-11e556222780" },
+  { n = 6, title = "Je viens de Marseille", mbid = "edfa66db-cdb0-448a-b915-6b2cdc920c15" },
+]
+
+[[release]]
+mbid = "03c21989-c7db-3be1-b2ca-fb1ace407b96"
+title = "… de la planète Mars"
+type = "album"
+date = "1991-03-25"
+spotify = "13e7NvuARxvMr37Y34yAdP"
+tracks = [
+  { n = 1, title = "Pharaon revient", mbid = "efb66780-bb82-4aa6-8998-3ae34c8b45ac" },
+  { n = 2, title = "Planète Mars", mbid = "2faa0a12-9a27-4b52-a5f0-7e8566cb34fd" },
+  { n = 3, title = "Jazz", mbid = "0a938b81-aed1-4c78-8819-675699099273" },
+  { n = 4, title = "Tam‐tam de l’Afrique", mbid = "b56d3df2-4c54-48ca-b681-553a08b17cb4" },
+  { n = 5, title = "IAM Concept", mbid = "b986ed3b-85f8-47ae-be35-1a44c4a260cb" },
+  { n = 6, title = "Crack", mbid = "07017680-5c3e-4efc-832d-1aa5d8439c38" },
+  { n = 7, title = "Attentat", mbid = "cae40a9b-e641-4924-bab0-e405e1150033" },
+  { n = 8, title = "Disco Club", mbid = "81166449-9545-4a5c-b761-dbfd8062b26c" },
+  { n = 9, title = "Le Nouveau Président", mbid = "83cd0885-7775-4c2c-bec3-3e6882b6b605" },
+  { n = 10, title = "IAM Bercy", mbid = "2aaedfb4-3037-4e7d-9368-db96f0998b65" },
+  { n = 11, title = "Non soumis à l’État", mbid = "2cc51ffe-6e5f-4393-95e3-f53a5599ead0" },
+  { n = 12, title = "1 peu trop court", mbid = "b14b7ae0-0535-42b0-a9fd-a7cfc8a87559" },
+  { n = 13, title = "Do the Raï Thing", mbid = "ba1d4dce-ca09-4ba7-a717-76e46a51d90e" },
+  { n = 14, title = "Red, Black and Green", mbid = "0b1ad3b8-c2bc-4c31-9948-9e6d0c532d32" },
+  { n = 15, title = "Lève ton slip", mbid = "2499a73d-209e-4bc9-95d0-57f370b1351d" },
+  { n = 16, title = "Elvis", mbid = "8543e7f6-e9e2-46a7-8552-9a53c5680995" },
+  { n = 17, title = "Unité", mbid = "b624f466-e455-4c86-b320-96eb65370828" },
+  { n = 18, title = "Khéops ∈ à l’horizon", mbid = "1170da0a-7a13-402a-993f-df81018e4670" },
+  { n = 19, title = "Je viens de Marseille", mbid = "edfa66db-cdb0-448a-b915-6b2cdc920c15" },
+  { n = 20, title = "Wake Up", mbid = "a25f6650-185b-48c6-bb07-c5d673bbb1d8" },
+  { n = 21, title = "Crécelle", mbid = "f1d0ce7b-aa1b-40c4-a194-428e8a0116ca" },
+  { n = 22, title = "La tension monte", mbid = "de3867c3-b3a8-49ab-8d8c-c2f578821115" },
+  { n = 23, title = "Rapline II", mbid = "25b28d8e-9996-47c0-8722-a5be594aa0a6" },
+]
+
+[[release]]
+mbid = "72e5e6ee-0aba-367e-9b9b-9265f25734d1"
+title = "Donne moi le micro"
+type = "ep"
+date = "1992"
+tracks = [
+  { n = 1, title = "Donne moi le micro", mbid = "23e5a046-fe5a-45bd-b8fa-a4f899112244" },
+  { n = 2, title = "Je me gausse", mbid = "4b9b86fb-8a6a-435b-a65e-8357bd0ef94f" },
+  { n = 3, title = "Guinche le style", mbid = "d61a552b-c487-4a34-822b-2f4391de8a67" },
+  { n = 4, title = "Fizdou", mbid = "3e3bf807-e9e4-4392-aa60-2e096def9cd3" },
+]
+
+[[release]]
+mbid = "dea0a9ad-3c8e-4169-8540-cacbfeacacf1"
+title = "Planète Mars"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Planète Mars (Homere mix)", mbid = "30d190f9-1f9a-42e1-b3bd-75e87e9510a3" },
+  { n = 2, title = "Keep on Scratching", mbid = "75ad5ae7-c94a-451c-b9ba-7c2c05405e2f" },
+  { n = 3, title = "Je suis vex’", mbid = "5be56b15-9c50-483a-89e4-6a5fcc8c121f" },
+  { n = 4, title = "Planète Mars (Mo Bee mix)", mbid = "725cb9f9-492d-4487-8f20-0e84a115f906" },
+  { n = 5, title = "Planète Mars (Black Hole mix)", mbid = "844db48d-adc9-441b-b913-00816aa0e65c" },
+]
+
+[[release]]
+mbid = "fe3bb3f5-5ea1-3972-9b44-302214c9ba21"
+title = "Ombre est lumière"
+type = "album"
+date = "1993-11-02"
+spotify = "2soc1D7Ym6sGp4A4d2pbWU"
+tracks = [
+  { n = 1, title = "Le Feu", mbid = "b2483ac0-1723-479f-baef-e3cfebbe0014" },
+  { n = 2, title = "Cosmos", mbid = "87b2c6a9-878a-4129-86a9-48115bba6999" },
+  { n = 3, title = "Vos dieux ont les mains sales", mbid = "0c048444-4f56-49b7-8e64-2d13989ff430" },
+  { n = 4, title = "La Méthode Marsimil", mbid = "5b098921-1be6-4255-8609-7fa7a8e845c4" },
+  { n = 5, title = "J’aurais pu croire", mbid = "105b6259-da8f-4d14-b353-9172e96fc446" },
+  { n = 6, title = "Contrat de conscience", mbid = "bf6171d8-040f-43a7-a4da-402a9d26871e" },
+  { n = 7, title = "Le Soldat", mbid = "8fd896c3-21a2-43df-85d5-2abf0c30f87f" },
+  { n = 8, title = "Le Rétor de Malek Sultan", mbid = "3738b2c7-3601-4e72-9466-557fa89eeea9" },
+  { n = 9, title = "Un jour tu pleures, un jour tu ris", mbid = "d17616f5-84e4-42a6-9759-9e08f94074c1" },
+  { n = 10, title = "Le 7", mbid = "04a616d2-cbb6-4725-9be1-445859e1eee2" },
+  { n = 11, title = "Harley Davidson", mbid = "073969e2-c8a5-4026-9102-bf641c02c260" },
+  { n = 12, title = "La Mousse à Riton", mbid = "7335d506-8c88-4856-a3fa-11287fa64a2c" },
+  { n = 13, title = "Le Shit Squad", mbid = "79e37dd1-6b18-4999-b53e-acc1d105c999" },
+  { n = 14, title = "Une femme seule", mbid = "e0ceaa3b-94f6-4712-80f3-169850d1cdeb" },
+  { n = 15, title = "Je danse le mia", mbid = "ec109888-19a1-4113-90d9-2e74e4083cc2" },
+  { n = 16, title = "Alone tout seul for ever", mbid = "537bab8d-6d1e-4816-aae0-2985b35a92ee" },
+  { n = 17, title = "Fugitif", mbid = "5337eb0c-2b41-4847-912c-58c65cc142e6" },
+  { n = 18, title = "L’Aimant", mbid = "559702e1-fedc-429c-8a29-7ac8d9b27251" },
+  { n = 19, title = "Mars contre‐attaque", mbid = "044a32de-64ee-4c0b-a665-63c362ba9fe9" },
+  { n = 20, title = "Rappel", mbid = "9a0eb380-4025-46c7-a0e4-65ed2eab6b34" },
+]
+
+[[release]]
+mbid = "aa1f6ec6-042b-3989-b337-cc5abc9438c3"
+title = "Je danse le Mia"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Je danse le Mia (Le Terrible Funk remix extended)", mbid = "377eb0d0-5b7e-4f7a-bf31-f3e9b6a7f472" },
+  { n = 2, title = "Ombre est lumière", mbid = "5c6b1da2-aa70-4c79-9c14-f0ed1b078220" },
+  { n = 3, title = "Je fais 1 avec ma musique", mbid = "c171fc17-9947-4d51-8548-664cc8e9e0d5" },
+  { n = 4, title = "L’Ultra Mia", mbid = "966dc814-1565-499d-83e8-b82be8ba925f" },
+]
+
+[[release]]
+mbid = "c82d0514-583c-498c-b4a6-96f1d0fa82bb"
+title = "Le Feu"
+type = "single"
+date = "1994"
+spotify = "2aY5E5Z2Z9KAE1cXi0i2HX"
+tracks = [
+  { n = 1, title = "Le Feu (Prodigal mix edit)", mbid = "b2175e23-0f48-4b0d-ae92-3375de0f33e3" },
+  { n = 2, title = "Reste underground", mbid = "05af511b-5701-4ab9-a4a8-43cff8df301b" },
+]
+
+[[release]]
+mbid = "4ca079c3-7a13-4c2b-b048-d1ca0aa65382"
+title = "Une femme seule / Sachet blanc"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Une femme seule", mbid = "ef26a117-1848-4755-886d-b9c5b7b15225" },
+  { n = 2, title = "Sachet blanc (remix)", mbid = "be015c8c-1a07-4598-aaee-be912eac0b4d" },
+  { n = 3, title = "La 25ème Image", mbid = "05a64823-728e-4051-878a-f9c38c51386d" },
+]
+
+[[release]]
+mbid = "52750f31-70b8-47b8-9097-41abb7dc3fa9"
+title = "La Saga"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "La Saga", mbid = "11c1c771-7542-4bc6-a1b8-38a1216def67" },
+  { n = 2, title = "La Saga (instrumental)", mbid = "219737ad-e730-4738-87d9-2fbf800b4d63" },
+  { n = 3, title = "La Saga (a cappella)", mbid = "cd463254-0c21-490a-b0c0-278699d70342" },
+]
+
+[[release]]
+mbid = "d2a19463-3cdc-4831-94ef-2dd32040936f"
+title = "L’Empire du côté obscur"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "L’Empire du côté obscur", mbid = "dab83fc3-93ee-49d4-bc0f-dfe4399ab600" },
+  { n = 2, title = "La Saga (soul remix)", mbid = "da0b0f6e-ce9d-4422-8844-558f94f15bb0" },
+  { n = 3, title = "La Saga (Noir Château remix)", mbid = "5ad24229-5706-4da5-b856-183e484d2f7e" },
+  { n = 4, title = "Des sous", mbid = "89c88b5d-8c64-402e-a407-627d5341a07f" },
+]
+
+[[release]]
+mbid = "039b6db8-7716-4546-967f-4ef2d930f386"
+title = "Nés sous la même étoile"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Nés sous la même étoile", mbid = "c6e6f9dc-c89e-48fe-9eb4-8ccb46d6a2df" },
+  { n = 2, title = "Tempérament Kunta Kinte", mbid = "243e8df7-19d5-40cb-b4b0-17629dfb5dc4" },
+  { n = 3, title = "Fait divers", mbid = "c4123516-7820-42aa-955d-6a5a45a33aaa" },
+]
+
+[[release]]
+mbid = "a475a63d-4481-32e5-b7e0-5c56d8a9a9d6"
+title = "L’École du micro d’argent"
+type = "album"
+date = "1997-03-18"
+tracks = [
+  { disc = 1, n = 1, title = "L’École du micro d’argent", mbid = "5d5b092e-da50-45e1-9c0c-59ddf150b3f5" },
+  { disc = 1, n = 2, title = "Dangereux", mbid = "12f01a19-6ad4-4309-b297-3df78ce4e4fd" },
+  { disc = 1, n = 3, title = "Nés sous la même étoile", mbid = "c6e6f9dc-c89e-48fe-9eb4-8ccb46d6a2df" },
+  { disc = 1, n = 4, title = "La Saga", mbid = "f8c74f2c-bef1-405d-822f-1f001b474635" },
+  { disc = 1, n = 5, title = "Petit Frère", mbid = "03dde3c2-1932-4d00-b7d8-53c9f49370e4" },
+  { disc = 1, n = 6, title = "Elle donne son corps avant son nom", mbid = "5b36d64f-6500-456c-8853-fb225d8f6cbc" },
+  { disc = 1, n = 7, title = "L’Empire du côté obscur", mbid = "dab83fc3-93ee-49d4-bc0f-dfe4399ab600" },
+  { disc = 1, n = 8, title = "Regarde", mbid = "7cd48f4a-721c-4a90-8096-267a49d6ac3a" },
+  { disc = 1, n = 9, title = "L’Enfer", mbid = "63b210d2-4a1d-4774-9559-d2bb968ac77f" },
+  { disc = 1, n = 10, title = "Quand tu allais, on revenait", mbid = "8baa9167-15d5-4227-ae68-a9fc9fdb61f5" },
+  { disc = 1, n = 11, title = "Chez le mac", mbid = "5cc21de3-813d-455d-ac29-65b328d91796" },
+  { disc = 1, n = 12, title = "Un bon son brut pour les truands", mbid = "03b953ff-617e-45d8-8a19-ebd2ba955f87" },
+  { disc = 1, n = 13, title = "Bouger la tête", mbid = "610a33b2-b660-4834-8be3-09cab45cffc5" },
+  { disc = 1, n = 14, title = "Un cri court dans la nuit", mbid = "65cb1c9f-841d-4f81-a83b-d32fbb1a660d" },
+  { disc = 1, n = 15, title = "Libère mon imagination", mbid = "9c4cd9b7-32d0-44b5-b308-2f3cd9c3b1b4" },
+  { disc = 1, n = 16, title = "Demain, c’est loin", mbid = "f1e5c309-cbf9-41a1-841f-9b166ed01176" },
+  { disc = 2, n = 1, title = "L’École du micro d’argent (instrumental)", mbid = "02407f6d-b2ea-4002-b81d-48438c7e5d7d" },
+  { disc = 2, n = 2, title = "La Saga (instrumental)", mbid = "219737ad-e730-4738-87d9-2fbf800b4d63" },
+  { disc = 2, n = 3, title = "Chez le mac (instrumental)", mbid = "7d8eece3-59ff-4ac6-a544-0d72592bfdc5" },
+  { disc = 2, n = 4, title = "Un cri court dans la nuit (instrumental)", mbid = "bbc835d1-c721-4991-b0c6-c29668ca0086" },
+]
+
+[[release]]
+mbid = "74feed6b-675c-45dd-ad61-5b041fd03479"
+title = "L’École du micro d’argent"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "L’École du micro d’argent", mbid = "5d5b092e-da50-45e1-9c0c-59ddf150b3f5" },
+  { n = 2, title = "L’École du micro d’argent (a cappella)", mbid = "3bcf3b9d-96c6-46fa-8a53-71612f4db9d2" },
+  { n = 3, title = "L’École du micro d’argent (US version)", mbid = "8f2c984d-3f66-4916-a105-a55ac6092ab8" },
+  { n = 4, title = "L’École du micro d’argent (instrumental)", mbid = "02407f6d-b2ea-4002-b81d-48438c7e5d7d" },
+]
+
+[[release]]
+mbid = "f9d1e8c8-a805-407a-8053-6d256bd8b5c8"
+title = "Petit Frère"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Petit Frère", mbid = "03dde3c2-1932-4d00-b7d8-53c9f49370e4" },
+  { n = 2, title = "L'École du micro d'argent (version guerrière)", mbid = "72984ccf-9edb-44d4-aad2-f41c9ef5414a" },
+]
+
+[[release]]
+mbid = "a0ca325e-bdd3-334b-9646-6ef6f3a8d95a"
+title = "Independenza"
+type = "single"
+date = "1998-12-07"
+tracks = [
+  { n = 1, title = "Independenza", mbid = "200ced27-eaad-4117-9eaf-e0a2b9e6212d" },
+  { n = 2, title = "Pourquoi je suis là", mbid = "9fe6d12a-0d86-485e-8b8c-a3ba7dd1cb48" },
+  { n = 3, title = "Un bon son brut pour les truands", mbid = "03b953ff-617e-45d8-8a19-ebd2ba955f87" },
+]
+
+[[release]]
+mbid = "f62884eb-dfaf-41ff-8346-4fc369313c33"
+title = "Noble Art"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Noble Art", mbid = "2453811c-6d0d-4438-8c49-b36b6aa7027a" },
+  { n = 2, title = "Le Couteau entre les dents", mbid = "f9a3f61a-eff7-4bd5-a445-53b41dfd6773" },
+  { n = 3, title = "Noble Art (instrumental)", mbid = "2cfe89dd-47f9-4ba8-8f25-257ed18b9a65" },
+]
+
+[[release]]
+mbid = "ae8f91f8-ef21-3791-a064-34f0823f8bbd"
+title = "Revoir un printemps"
+type = "album"
+date = "2003-09-15"
+tracks = [
+  { n = 1, title = "Stratégie d’un pion", mbid = "4816b882-ae14-4796-8a0f-48fd4207f2cc" },
+  { n = 2, title = "Nous", mbid = "e39a1862-ea35-4e54-8adf-f84351d15113" },
+  { n = 3, title = "Quand ils rentraient chez eux", mbid = "62178c0b-a24a-4be7-a4f3-6eb88125f799" },
+  { n = 4, title = "Noble Art", mbid = "2453811c-6d0d-4438-8c49-b36b6aa7027a" },
+  { n = 5, title = "Lâches", mbid = "ff6c0624-06b8-437e-b6c9-be7063c3b73a" },
+  { n = 6, title = "Mental de Viêt‐Cong", mbid = "a9f16f70-29ce-41b3-8c40-8efd803ff554" },
+  { n = 7, title = "Revoir un printemps", mbid = "5cd20fc3-44ab-49a9-b9f9-718a5ca3fb14" },
+  { n = 8, title = "Armes de distraction massive", mbid = "ab95c9c6-b30b-46af-89a6-6b7d80233dcd" },
+  { n = 9, title = "Second Souffle", mbid = "fd7cae13-c42f-45ec-843f-d388266dbe5b" },
+  { n = 10, title = "Visages dans la foule", mbid = "553f27ac-d536-4ee5-a85f-96f7595c8582" },
+  { n = 11, title = "Ici ou ailleurs", mbid = "1b944efe-dbfb-4051-b53b-7e182193a0cf" },
+  { n = 12, title = "Tiens", mbid = "17667e18-a4d6-4701-8521-501bd1d7c2ec" },
+  { n = 13, title = "Bienvenue", mbid = "eca6cf99-ade7-4485-af0b-1999c22ac493" },
+  { n = 14, title = "Pause", mbid = "676c35b7-4a19-475f-a2e6-cabc075c4a20" },
+  { n = 15, title = "Fruits de la rage", mbid = "b04b4dac-62b6-4459-a837-7403e26008eb" },
+  { n = 16, title = "Murs", mbid = "cf460521-5c2b-4044-b4e4-42c190ec09db" },
+  { n = 17, title = "21/04", mbid = "4a0d7453-9693-4b3d-8d4e-6324a4773d9b" },
+  { n = 18, title = "Aussi loin que l’horizon", mbid = "ef079791-4f5b-4790-8de5-736c689a3c21" },
+]
+
+[[release]]
+mbid = "73efbe18-e8ac-4fdc-95c5-1ecedfc24421"
+title = "Stratégie d’un pion"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "Stratégie d’un pion", mbid = "4816b882-ae14-4796-8a0f-48fd4207f2cc" },
+  { n = 2, title = "La Tangente", mbid = "988e88ee-bd14-4025-91c3-d6cd3f6e4f10" },
+  { n = 3, title = "Par envie", mbid = "c185e3f7-1e6a-4e1a-9249-59ad8c74eee0" },
+  { n = 4, title = "Murs", mbid = "cf460521-5c2b-4044-b4e4-42c190ec09db" },
+]
+
+[[release]]
+mbid = "ad2b7ab3-b3d3-43de-8d14-c2c076577e9c"
+title = "Revoir un printemps"
+type = "single"
+date = "2004-01-26"
+tracks = [
+  { n = 1, title = "Revoir un printemps", mbid = "5cd20fc3-44ab-49a9-b9f9-718a5ca3fb14" },
+  { n = 2, title = "Feu, flammes, fumées, cendres", mbid = "fda0f238-06d9-45f0-96da-88046461808e" },
+  { n = 3, title = "La Mèche et les sens", mbid = "5d797a8c-d112-47fe-9ee9-afcd203287d9" },
+]
+
+[[release]]
+mbid = "ca5f392c-3c66-445b-a5df-c9e75cae4749"
+title = "Où va la vie ?"
+type = "single"
+date = "2004-10-22"
+tracks = [
+  { n = 1, title = "Où va la vie ?", mbid = "6c2ee885-3b86-47d2-b8cf-c505acfb0ad9" },
+  { n = 2, title = "J’aime pas", mbid = "a898b192-4a91-4de2-a406-3eda20ad3166" },
+  { n = 3, title = "Bout de chair", mbid = "3bacdb59-6cc4-46c1-9016-31f654f77dc4" },
+  { n = 4, title = "Anthologie mix", mbid = "ff2d4b67-7054-430b-81ca-3a84010fff84" },
+]
+
+[[release]]
+mbid = "4baabd27-efe8-4b9b-9e34-259f6bde9e3b"
+title = "Hier j’ai croisé un guerrier"
+type = "single"
+date = "2007"
+tracks = [
+  { n = 1, title = "Hier j’ai croisé un guerrier", mbid = "1a667738-f2f4-4071-834a-afcb73d02cce" },
+]
+
+[[release]]
+mbid = "d63b80be-e75a-30a7-9814-3763753486b1"
+title = "Saison 5"
+type = "album"
+date = "2007-04-02"
+tracks = [
+  { n = 1, title = "W.W.", mbid = "508da0cd-3f10-436b-8fa5-d22ce9cbe8ce" },
+  { n = 2, title = "Une autre brique", mbid = "d55bd2d8-575a-4a76-aa57-45235813c662" },
+  { n = 3, title = "Hip hop ville", mbid = "1743952c-2603-49a6-8f8b-c1903296ee2c" },
+  { n = 4, title = "Tu le sais, Part I / Tu le sais, Part II", mbid = "dbe804db-1eff-4b2b-b0d0-ac3a58d48acf" },
+  { n = 5, title = "Offishall", mbid = "2a3d8ce9-e5fc-462f-9b3f-8e9082a78055" },
+  { n = 6, title = "Nos heures de gloire", mbid = "6220537d-b12a-4420-9d73-5f2a1e0837cc" },
+  { n = 7, title = "Ça vient de la rue", mbid = "99bd04f1-917c-45b5-9e6a-0a784a889ddd" },
+  { n = 8, title = "To the World", mbid = "0d7ac676-7386-4e02-96d7-8feb4fbe9dc6" },
+  { n = 9, title = "Le Style de l’homme libre", mbid = "9b77e796-ddf9-4c9c-ac24-d480b1229475" },
+  { n = 10, title = "Rap de droite", mbid = "f1962510-84a9-4d1e-b16f-fbcec5411ada" },
+  { n = 11, title = "Il en faut peu", mbid = "f7490e85-3e9a-495e-a935-8e17dbd07efc" },
+  { n = 12, title = "Si tu m’aimais", mbid = "15048fa9-a773-4725-b642-0f15a394eb40" },
+  { n = 13, title = "Sur les remparts", mbid = "68d62cda-5433-411e-9b2a-14d7a21ee8d2" },
+  { n = 14, title = "Rien de personnel", mbid = "65da19b3-b21a-48b5-aa6d-4cf03b77e85c" },
+  { n = 15, title = "Coupe le cake", mbid = "99157806-0771-4671-9c62-a3e441d31a0f" },
+  { n = 16, title = "Au quartier", mbid = "6a4a5fe9-ebdd-437f-9ccf-e40d86193ed8" },
+  { n = 17, title = "United", mbid = "6040e457-7533-41c7-85de-8f47be0c7b46" },
+]
+
+[[release]]
+mbid = "e8a9f415-2442-4c55-ad0f-b0d464513a77"
+title = "Les Raisons de la colère"
+type = "single"
+date = "2013-03-04"
+tracks = [
+  { n = 1, title = "Les Raisons de la colère", mbid = "843bac5c-e28f-482a-86ad-8df430dc344a" },
+]
+
+[[release]]
+mbid = "3f42f4f0-c11d-4d4d-946c-c2e614fd2223"
+title = "Les Mots"
+type = "single"
+date = "2013-04-20"
+tracks = [
+  { n = 1, title = "Les Mots", mbid = "08be8d81-ca48-4a5e-9018-a3c34702f6d1" },
+  { n = 2, title = "Les Mots (instrumental)", mbid = "a162eba0-bdbc-49df-b32f-a396757441a8" },
+  { n = 3, title = "Les Mots (a cappella)", mbid = "d5b69740-fa2e-4ad2-800a-d00cb3f72527" },
+]
+
+[[release]]
+mbid = "3f6ead4d-f44c-4788-aa19-6eedcc1eca9c"
+title = "Arts martiens"
+type = "album"
+date = "2013-04-22"
+tracks = [
+  { n = 1, title = "Spartiate Spirit", mbid = "ac2c8402-d432-4294-9dc3-6e601adbb1a5" },
+  { n = 2, title = "Les Raisons de la colère", mbid = "843bac5c-e28f-482a-86ad-8df430dc344a" },
+  { n = 3, title = "Tous les saints de la terre", mbid = "4e2c1c76-01aa-45c3-9913-3fa1bad92dc0" },
+  { n = 4, title = "La Part du démon", mbid = "29332321-5217-4244-a2ba-f31fc32f2873" },
+  { n = 5, title = "Benkei & Minamoto", mbid = "066cbf12-f258-40bf-8acb-fa7bae94c775" },
+  { n = 6, title = "4.2.1", mbid = "ace9f453-d7a4-45a8-8918-24ca49eb1852" },
+  { n = 7, title = "Marvel", mbid = "4c374987-e789-4e85-8d54-dab23d645865" },
+  { n = 8, title = "Misère", mbid = "51e1fa3b-1a76-4146-aa66-0a70693df1d8" },
+  { n = 9, title = "L’Amour que l’on me donne", mbid = "99cad805-574c-4c3a-a502-be743a684c57" },
+  { n = 10, title = "Habitude", mbid = "1e8dbad2-3181-4f88-9d45-b605689368fa" },
+  { n = 11, title = "Mon encre, si amère", mbid = "cc4031f1-b1a7-48f2-b544-2600e9e88597" },
+  { n = 12, title = "Debout les braves", mbid = "2a513f7f-834f-48e7-bc0f-712371115039" },
+  { n = 13, title = "Après la fête", mbid = "3da66411-1d78-446c-a333-3d4a27cecb31" },
+  { n = 14, title = "Pain au chocolat", mbid = "327c54ca-7048-41e1-99b6-bd703c2375e2" },
+  { n = 15, title = "Sombres Manœuvres / Manœuvres sombres", mbid = "d70b6d85-4bea-4b17-8231-017ffb6710d9" },
+  { n = 16, title = "Notre‐Dame veille", mbid = "daa9d1c9-0570-4f01-80c9-818598a26996" },
+  { n = 17, title = "Dernier Coup d’éclat", mbid = "a624f8ac-d9c0-4d15-9f39-3e0411edd8ea" },
+]
+
+[[release]]
+mbid = "730dfd10-6807-4468-8170-71738620e1e4"
+title = "… IAM"
+type = "album"
+date = "2013-10-18"
+tracks = [
+  { n = 1, title = "DJ Daz présente…", mbid = "a3b5012c-5d86-4719-a9be-087df98eb363" },
+  { n = 2, title = "Poudre de brique rouge", mbid = "d23516d1-1437-4514-8e6b-d5edd7bc3eda" },
+  { n = 3, title = "Peines profondes", mbid = "bd831b87-fc6c-42f0-b544-898e26c14e47" },
+  { n = 4, title = "Ouais c’est ça", mbid = "af7f1546-a5a5-4f21-a3a4-7afff173c847" },
+  { n = 5, title = "Artificielle", mbid = "4c871a6c-c40e-476f-9a69-2fa7068f6752" },
+  { n = 6, title = "C*A*S*H", mbid = "12ead3bb-1690-43d0-b10e-7ac5bd773010" },
+  { n = 7, title = "Mister Gentil et Monsieur Nice", mbid = "3a7aecc6-197c-46d2-a26c-087c33914fba" },
+  { n = 8, title = "CQFD", mbid = "96955123-73ed-4976-9994-e29fa8e362c7" },
+  { n = 9, title = "Si j’avais 20 ans", mbid = "85c14e4f-69c1-4000-84fa-e97fa6ab9d71" },
+  { n = 10, title = "Médailles", mbid = "b0f23f4a-5486-46df-b9b4-24e2377fff00" },
+  { n = 11, title = "Fuck le refrain", mbid = "745aae50-69ed-4a15-b51f-36a1e6373130" },
+  { n = 12, title = "Musik", mbid = "39e15a6d-4a33-4bad-b931-63f5a3dfef26" },
+  { n = 13, title = "Géométrie de l’ennui", mbid = "132845c7-4d4a-4191-b9b5-bc739113aa7b" },
+  { n = 14, title = "À nos boots", mbid = "262033bd-9ed4-4679-8ced-18f39f2241c9" },
+  { n = 15, title = "Que fait la police", mbid = "675a6ba6-fb2a-497b-b322-59d2b8b2f589" },
+  { n = 16, title = "Renaissance", mbid = "d5c1bbc4-0b0e-4794-9665-13636e02c535" },
+]
+
+[[release]]
+mbid = "c9931086-c21b-4ec9-bdb5-a2d012849f31"
+title = "IAM 2017"
+type = "single"
+date = "2017-01-13"
+tracks = [
+  { n = 1, title = "IAM 2017", mbid = "2158a8db-62bc-4374-96f8-d3344f751bf3" },
+]
+
+[[release]]
+mbid = "f50a2e4f-71c5-4c8d-8eb6-6b80c106ca5f"
+title = "Rêvolution"
+type = "album"
+date = "2017-03-03"
+spotify = "1tNIlIPXE7pnbm2nFtN5Wg"
+tracks = [
+  { disc = 1, n = 1, title = "Depuis longtemps", mbid = "808fe036-04ad-496a-b55f-43a7a107c0ec" },
+  { disc = 1, n = 2, title = "Fiya", mbid = "72b9c927-be78-4b3b-8399-c9170703057b" },
+  { disc = 1, n = 3, title = "Bad Karma", mbid = "eb306484-0a74-4776-bb91-e7d0e0260c65" },
+  { disc = 1, n = 4, title = "Danse pour le hood", mbid = "d0e187c5-f280-4c58-b3d9-75b0b3ff6179" },
+  { disc = 1, n = 5, title = "Grands rêves, grandes boîtes", mbid = "5a05c964-7417-476f-9322-236bb63053e2" },
+  { disc = 1, n = 6, title = "Paix", mbid = "9b1b9b7c-00b1-42aa-9237-e32b8fe173e5" },
+  { disc = 1, n = 7, title = "Rêvolution", mbid = "556f41c7-b093-45aa-8e64-a4f52244fd14" },
+  { disc = 1, n = 8, title = "Orthodoxes", mbid = "b1183f9f-fd0d-4cf5-98a5-804e541a4aea" },
+  { disc = 1, n = 9, title = "Chanson d’automne", mbid = "a60d5817-a4fd-4969-b2fd-9ecd741a2e67" },
+  { disc = 1, n = 10, title = "Monnaie de singe", mbid = "498d7958-e114-4f1c-8ce3-0f3e3fe2c402" },
+  { disc = 1, n = 11, title = "Ils ne savent pas", mbid = "2a9854fc-4a8d-4c1c-9959-e444c6b75f85" },
+  { disc = 1, n = 12, title = "Life, I Live", mbid = "13889458-60cd-4902-9c0d-db36c9a78545" },
+  { disc = 1, n = 13, title = "Auréole", mbid = "ac74a52a-ca12-4313-ac1a-37f87d11e156" },
+  { disc = 1, n = 14, title = "1 Gun, 2 Gunz, 3", mbid = "716a7773-1912-4e24-a668-c91aad2ab665" },
+  { disc = 1, n = 15, title = "Terre aride", mbid = "4403317b-2a7d-47b8-b3c9-6560fe8dce98" },
+  { disc = 1, n = 16, title = "La lune c’est le soleil des loups", mbid = "8b52e007-779e-49a6-b5d0-0085d0e68010" },
+  { disc = 1, n = 17, title = "Exister", mbid = "719a5bb3-d37f-4999-ab6f-c4e24db18908" },
+  { disc = 1, n = 18, title = "Rigamortis", mbid = "86b265b8-ac7f-459c-8cd1-631ff5cca03b" },
+  { disc = 1, n = 19, title = "Bien plus beau", mbid = "155c9b9d-35a8-43e9-a216-436b027ba891" },
+  { disc = 2, n = 1, title = "Depuis longtemps (instrumental)", mbid = "4bbd438a-b189-4167-b814-a66275cdd72c" },
+  { disc = 2, n = 2, title = "Fiya (instrumental)", mbid = "c6d7932f-0a64-4942-9f05-dbecb6d9e04a" },
+  { disc = 2, n = 3, title = "Bad Karma (instrumental)", mbid = "6a8b5883-f8b5-4484-8e7e-481f5b07a32c" },
+  { disc = 2, n = 4, title = "Danse pour le hood (instrumental)", mbid = "ac1868b9-b32d-464f-a7eb-781ad69de6d6" },
+  { disc = 2, n = 5, title = "Grands rêves, grandes boîtes (instrumental)", mbid = "345675f9-2046-43d3-ac95-56f44a3348fa" },
+  { disc = 2, n = 6, title = "Paix (instrumental)", mbid = "805cb4de-ff99-4f2a-b5c1-a7d55e2c36cb" },
+  { disc = 2, n = 7, title = "Rêvolution (instrumental)", mbid = "5e91cc13-64f1-4309-b5fe-ef4672cf5a2c" },
+  { disc = 2, n = 8, title = "Orthodoxes (instrumental)", mbid = "62c91d76-a63f-44c7-a39b-884f2d67edcb" },
+  { disc = 2, n = 9, title = "Chanson d’automne (instrumental)", mbid = "604589db-d830-4178-8a47-23547a66be8a" },
+  { disc = 2, n = 10, title = "Monnaie de singe (instrumental)", mbid = "d88fb45e-33ce-454c-8ddf-9a5660987f0e" },
+  { disc = 2, n = 11, title = "Ils ne savent pas (instrumental)", mbid = "a36c9826-7e2a-4586-890d-e7c0fbf146d0" },
+  { disc = 2, n = 12, title = "Life, I Live (instrumental)", mbid = "09c07957-2264-4f9d-9204-5dc9ef81bc17" },
+  { disc = 2, n = 13, title = "Auréole (instrumental)", mbid = "7f48e6f5-c9a3-4617-b14b-24fdd4bdf02b" },
+  { disc = 2, n = 14, title = "1 Gun, 2 Gunz, 3 (instrumental)", mbid = "970233d6-735b-485f-a850-23ec7c3b0989" },
+  { disc = 2, n = 15, title = "Terre aride (instrumental)", mbid = "91004d6c-270b-43b7-b9bf-d66ace134df2" },
+  { disc = 2, n = 16, title = "La lune c’est le soleil des loups (instrumental)", mbid = "229f1fc6-2c06-4a67-a429-9eb36941e52e" },
+  { disc = 2, n = 17, title = "Exister (instrumental)", mbid = "e07a4092-6f32-46c1-9ee3-8799c9384dd3" },
+  { disc = 2, n = 18, title = "Rigamortis (instrumental)", mbid = "14e9e3a0-b7e9-41f8-b4c2-72f5433317f5" },
+  { disc = 2, n = 19, title = "Bien plus beau (instrumental)", mbid = "4e8aa0e1-2aea-4aaa-9565-2b94e9980c25" },
+]
+
+[[release]]
+mbid = "2efcc8c1-8342-4ec2-897c-f25e0b61c785"
+title = "Etranger"
+type = "single"
+date = "2017-04-14"
+tracks = [
+  { n = 1, title = "Etranger", mbid = "1317dfe4-117c-4789-ad58-402e65eb0189" },
+]
+
+[[release]]
+mbid = "e8019f97-a4c2-47ae-a0cc-147946c7e150"
+title = "Mwa"
+type = "single"
+date = "2017-06-23"
+tracks = [
+  { n = 1, title = "Mwa", mbid = "8c245044-2643-47f3-bb4f-0ae6d5b88ae0" },
+]
+
+[[release]]
+mbid = "58edf91f-3a6d-4f3e-98ad-01c6a3e23f36"
+title = "Passe passe"
+type = "single"
+date = "2017-09-22"
+tracks = [
+  { n = 1, title = "Passe passe", mbid = "b3f19fc2-f076-4d08-ac28-811aaf0f4c2f" },
+]
+
+[[release]]
+mbid = "2074f6ae-db27-4a80-a775-570448f4afb0"
+title = "Demain, c’est loin"
+type = "single"
+date = "2017-11-03"
+tracks = [
+  { n = 1, title = "Demain, c’est loin", mbid = "f1e5c309-cbf9-41a1-841f-9b166ed01176" },
+  { n = 2, title = "Demain, c’est loin (instrumental)", mbid = "76deea92-57ac-41a5-b40e-1a8800ca1d7a" },
+  { n = 3, title = "Demain, c’est loin (a cappella)", mbid = "2f697934-f246-4e7a-a8fb-b65620eba53b" },
+]
+
+[[release]]
+mbid = "f10fa166-4285-4605-ad35-3687c23d8ed7"
+title = "Omotesando"
+type = "single"
+date = "2019-09-20"
+tracks = [
+  { n = 1, title = "Omotesando", mbid = "d6e90b63-640b-4ba6-8a55-74ae1924347b" },
+]
+
+[[release]]
+mbid = "d7a0d21a-4222-4fdc-b7ed-ec400e8bf534"
+title = "Rap Warrior"
+type = "single"
+date = "2019-10-11"
+spotify = "1IOhWkU3Ur1jtoZrgXkjii"
+tracks = [
+  { n = 1, title = "Rap Warrior", mbid = "9b025cd9-b26e-4186-ba24-f53c91bdb2f1" },
+]
+
+[[release]]
+mbid = "4d083cf6-dc0e-4aa3-93fd-5e9c0740e4ab"
+title = "Yasuke"
+type = "single"
+date = "2019-11-08"
+spotify = "6OwN5A3qOLeUllPyvbVZEE"
+tracks = [
+  { n = 1, title = "Yasuke", mbid = "91995c52-f7f9-4617-8923-dc1f66a08248" },
+]
+
+[[release]]
+mbid = "e0029417-5fba-4473-96ad-939a459a853b"
+title = "Yasuke"
+type = "album"
+date = "2019-11-22"
+spotify = "215RWH9fPGuxUtHyx65V8L"
+tracks = [
+  { disc = 1, n = 1, title = "Omotesando", mbid = "d6e90b63-640b-4ba6-8a55-74ae1924347b" },
+  { disc = 1, n = 2, title = "Yasuke", mbid = "91995c52-f7f9-4617-8923-dc1f66a08248" },
+  { disc = 1, n = 3, title = "Mosaïque", mbid = "bba3a776-1a32-4c1c-8318-fa01094b5852" },
+  { disc = 1, n = 4, title = "Self Made Men", mbid = "d9ec86f1-fef6-437c-9e1c-c08fa9d679fa" },
+  { disc = 1, n = 5, title = "Les Choses, telles qu’elles paraissent", mbid = "797638e6-11a2-4a9c-b95e-128a43c452e0" },
+  { disc = 1, n = 6, title = "On va tous les zinguer", mbid = "a3c11f96-9afe-47d4-9d15-2a8f62b675d9" },
+  { disc = 1, n = 7, title = "Eldorado", mbid = "bd41e756-477f-499e-a6d1-a8d2a0e60845" },
+  { disc = 1, n = 8, title = "Le Train de l’argent", mbid = "8f10d4b8-5953-407d-bc42-da3a8ce390ba" },
+  { disc = 1, n = 9, title = "Qui est ?", mbid = "6cdb447d-aced-4275-bb14-6b708bdc812c" },
+  { disc = 1, n = 10, title = "Remember", mbid = "7d9c4688-2189-4af1-a84c-de9d9b6f303f" },
+  { disc = 1, n = 11, title = "Rap Warrior", mbid = "9b025cd9-b26e-4186-ba24-f53c91bdb2f1" },
+  { disc = 1, n = 12, title = "Good Morning Song", mbid = "607a3c09-7b9c-446b-b991-571e3be8acb9" },
+  { disc = 1, n = 13, title = "Fin des illusions", mbid = "feff08b6-c63d-477a-b90d-c7414ca98849" },
+  { disc = 1, n = 14, title = "Quand est‐ce qu’on s’aime ?", mbid = "8c8317ce-67f2-4772-89e3-b5480706635c" },
+  { disc = 1, n = 15, title = "MC, tu perds ton sang froid", mbid = "cae5e5f6-5d5a-4020-bd44-a322bd4ec3ad" },
+  { disc = 1, n = 16, title = "Once Upon a Time", mbid = "0f1d7d20-c118-4ba5-8409-608926d929a7" },
+  { disc = 2, n = 1, title = "Omotesando (instrumental)", mbid = "f19c11a7-c296-4098-8442-287042b52f20" },
+  { disc = 2, n = 2, title = "Yasuke (instrumental)", mbid = "6b844365-eb35-4e2e-a8d8-21ea5ad4a675" },
+  { disc = 2, n = 3, title = "Mosaïque (instrumental)", mbid = "f1702055-8a88-4330-a48e-7a686f37eed2" },
+  { disc = 2, n = 4, title = "Self Made Men (instrumental)", mbid = "698d93ac-528d-4be7-8b10-ff3d2ba452b8" },
+  { disc = 2, n = 5, title = "Les Choses, telles qu’elles paraissent (instrumental)", mbid = "e26f5ad8-1567-40ff-b77f-093ef1593a8b" },
+  { disc = 2, n = 6, title = "On va tous les zinguer (instrumental)", mbid = "830f6410-4890-41d2-aa9a-5c3f3d385195" },
+  { disc = 2, n = 7, title = "Eldorado (instrumental)", mbid = "2f54b483-ae0f-40d3-8ac7-c559fca22b9a" },
+  { disc = 2, n = 8, title = "Le Train de l’argent (instrumental)", mbid = "8d1902f3-f309-4398-a561-3d91bd36f2c2" },
+  { disc = 2, n = 9, title = "Qui est ? (instrumental)", mbid = "7b10f0ce-2cbb-4e6e-af48-e285c63e4d58" },
+  { disc = 2, n = 10, title = "Remember (instrumental)", mbid = "55e1c22c-19d0-43bb-86f7-d441cdfc6269" },
+  { disc = 2, n = 11, title = "Rap Warrior (instrumental)", mbid = "d10b3278-e6bc-41f4-bb9b-564fc245c720" },
+  { disc = 2, n = 12, title = "Good Morning Song (instrumental)", mbid = "03db0a40-c507-4b01-a03e-774a9f1dbc2b" },
+  { disc = 2, n = 13, title = "Fin des illusions (instrumental)", mbid = "741026ef-eb5a-43e1-995f-cafe25fec322" },
+  { disc = 2, n = 14, title = "Quand est‐ce qu’on s’aime ? (instrumental)", mbid = "b027ecc4-c5ad-4ef6-9ed7-b15500acd13c" },
+  { disc = 2, n = 15, title = "MC, tu perds ton sang froid (instrumental)", mbid = "cc29dc69-4c07-40f5-afcd-d5ed8c5afe42" },
+  { disc = 2, n = 16, title = "Once Upon a Time (instrumental)", mbid = "ce6d8120-9667-4b33-91be-684937376d66" },
+  { disc = 3, n = 1, title = "Omotesando", mbid = "d6e90b63-640b-4ba6-8a55-74ae1924347b" },
+  { disc = 3, n = 2, title = "Yasuke", mbid = "91995c52-f7f9-4617-8923-dc1f66a08248" },
+  { disc = 3, n = 3, title = "On va tous les zinguer", mbid = "a3c11f96-9afe-47d4-9d15-2a8f62b675d9" },
+  { disc = 3, n = 4, title = "Self Made Men", mbid = "d9ec86f1-fef6-437c-9e1c-c08fa9d679fa" },
+  { disc = 3, n = 5, title = "Good Morning Song", mbid = "607a3c09-7b9c-446b-b991-571e3be8acb9" },
+  { disc = 3, n = 6, title = "Quand est‐ce qu’on s’aime ?", mbid = "8c8317ce-67f2-4772-89e3-b5480706635c" },
+  { disc = 4, n = 1, title = "Qui est ?", mbid = "6cdb447d-aced-4275-bb14-6b708bdc812c" },
+  { disc = 4, n = 2, title = "Mosaïque", mbid = "bba3a776-1a32-4c1c-8318-fa01094b5852" },
+  { disc = 4, n = 3, title = "Remember", mbid = "7d9c4688-2189-4af1-a84c-de9d9b6f303f" },
+  { disc = 4, n = 4, title = "Fin des illusions", mbid = "feff08b6-c63d-477a-b90d-c7414ca98849" },
+  { disc = 4, n = 5, title = "Rap Warrior", mbid = "9b025cd9-b26e-4186-ba24-f53c91bdb2f1" },
+  { disc = 5, n = 1, title = "Eldorado", mbid = "bd41e756-477f-499e-a6d1-a8d2a0e60845" },
+  { disc = 5, n = 2, title = "Les Choses, telles qu’elles paraissent", mbid = "797638e6-11a2-4a9c-b95e-128a43c452e0" },
+  { disc = 5, n = 3, title = "MC, tu perds ton sang froid", mbid = "cae5e5f6-5d5a-4020-bd44-a322bd4ec3ad" },
+  { disc = 5, n = 4, title = "Le Train de l’argent", mbid = "8f10d4b8-5953-407d-bc42-da3a8ce390ba" },
+  { disc = 5, n = 5, title = "Once Upon a Time", mbid = "0f1d7d20-c118-4ba5-8409-608926d929a7" },
+  { disc = 6, n = 1, title = "Omotesando", mbid = "d6e90b63-640b-4ba6-8a55-74ae1924347b" },
+  { disc = 6, n = 2, title = "Yasuke", mbid = "91995c52-f7f9-4617-8923-dc1f66a08248" },
+  { disc = 6, n = 3, title = "Mosaïque", mbid = "bba3a776-1a32-4c1c-8318-fa01094b5852" },
+  { disc = 6, n = 4, title = "Self Made Men", mbid = "d9ec86f1-fef6-437c-9e1c-c08fa9d679fa" },
+  { disc = 6, n = 5, title = "Les Choses, telles qu’elles paraissent", mbid = "797638e6-11a2-4a9c-b95e-128a43c452e0" },
+  { disc = 6, n = 6, title = "On va tous les zinguer", mbid = "a3c11f96-9afe-47d4-9d15-2a8f62b675d9" },
+  { disc = 6, n = 7, title = "Eldorado", mbid = "bd41e756-477f-499e-a6d1-a8d2a0e60845" },
+  { disc = 6, n = 8, title = "Le Train de l’argent", mbid = "8f10d4b8-5953-407d-bc42-da3a8ce390ba" },
+  { disc = 6, n = 9, title = "Qui est ?", mbid = "6cdb447d-aced-4275-bb14-6b708bdc812c" },
+  { disc = 6, n = 10, title = "Remember", mbid = "7d9c4688-2189-4af1-a84c-de9d9b6f303f" },
+  { disc = 6, n = 11, title = "Rap Warrior", mbid = "9b025cd9-b26e-4186-ba24-f53c91bdb2f1" },
+  { disc = 6, n = 12, title = "Good Morning Song", mbid = "607a3c09-7b9c-446b-b991-571e3be8acb9" },
+  { disc = 6, n = 13, title = "Fin des illusions", mbid = "feff08b6-c63d-477a-b90d-c7414ca98849" },
+  { disc = 6, n = 14, title = "Quand est‐ce qu’on s’aime ?", mbid = "8c8317ce-67f2-4772-89e3-b5480706635c" },
+  { disc = 6, n = 15, title = "MC, tu perds ton sang froid", mbid = "cae5e5f6-5d5a-4020-bd44-a322bd4ec3ad" },
+  { disc = 6, n = 16, title = "Once Upon a Time", mbid = "0f1d7d20-c118-4ba5-8409-608926d929a7" },
+]
+
+[[release]]
+mbid = "06397880-0b34-40f1-bd85-42526c2fd8e5"
+title = "Feeling"
+type = "single"
+date = "2021-06-11"
+tracks = [
+  { n = 1, title = "Feeling", mbid = "943e7c7d-6ff1-467a-8c32-2facc3100184" },
+]
+
+[[release]]
+mbid = "15d64161-e351-4624-bb5d-b25c77473415"
+title = "Première vague"
+type = "ep"
+date = "2021-06-25"
+spotify = "72ieR6ARDVOK4iCKZwdZyf"
+tracks = [
+  { n = 1, title = "Poursuite du bonheur", mbid = "4ddb9720-abf4-47ff-acb9-16562e516000" },
+  { n = 2, title = "Poissons d’avril", mbid = "0fa71ad2-db2e-4507-a9cf-44955b043b5c" },
+  { n = 3, title = "Tout ce qu’on est", mbid = "7d727336-fcd8-4e65-8190-951e542a1cf7" },
+  { n = 4, title = "Soundbwoi", mbid = "2444a8c5-0654-4dc6-902c-f8dd8b7fcc5b" },
+  { n = 5, title = "Mes étoiles", mbid = "43e6671a-e95c-4b8a-bdaf-31b6e7232bc0" },
+  { n = 6, title = "Feeling", mbid = "943e7c7d-6ff1-467a-8c32-2facc3100184" },
+]
+
+[[release]]
+mbid = "ce1b1649-ca96-400f-b423-ebb72dcbd35a"
+title = "Rap inconscient"
+type = "single"
+date = "2021-09-03"
+tracks = [
+  { n = 1, title = "Rap inconscient", mbid = "d1a3c259-87a1-4062-a24e-ecd7abafb966" },
+]
+
+[[release]]
+mbid = "81876576-b8f2-4bff-907c-26cf3333ef6e"
+title = "Deuxième vague"
+type = "ep"
+date = "2021-09-17"
+spotify = "1w2YejSyAJIdw6cYX2BHdK"
+tracks = [
+  { n = 1, title = "Mirages", mbid = "3875124e-ebda-46c9-8ba6-f39d062f08f5" },
+  { n = 2, title = "Trotteuse", mbid = "60de6fc5-9b7b-443f-89ba-7b64b8b64613" },
+  { n = 3, title = "Change", mbid = "2998c7df-a4c4-49ad-b9cf-e45fc3046a7a" },
+  { n = 4, title = "Rap inconscient", mbid = "d1a3c259-87a1-4062-a24e-ecd7abafb966" },
+  { n = 5, title = "Du rêve dans les veines", mbid = "116abd7d-db97-4b30-9a7d-e4501f5f349e" },
+  { n = 6, title = "Rubans noirs", mbid = "7aa90020-4927-4103-8301-c502cb77f0c0" },
+]
+
+[[release]]
+mbid = "6bf7fc2b-e6fd-4b1b-a925-3b17fc787ea5"
+title = "Des mots crasseux"
+type = "single"
+date = "2021-10-01"
+tracks = [
+  { n = 1, title = "Des mots crasseux", mbid = "c2ae53e1-4dac-4e9a-9308-599561f2d523" },
+]
+
+[[release]]
+mbid = "e864bd4e-100f-4798-9344-37e6cf5c22ed"
+title = "Troisième vague"
+type = "ep"
+date = "2021-10-22"
+spotify = "7lPDbKY7RVSrSTQKO2YgS1"
+tracks = [
+  { n = 1, title = "Au final", mbid = "dc4272e0-341f-4535-b4f0-1f541ae1d0c4" },
+  { n = 2, title = "Limonade et sirop de menthe", mbid = "8039993a-136d-4a33-9906-532ec78bb529" },
+  { n = 3, title = "Oublie ce qu’on t’a dit", mbid = "1de8f6b5-6fe8-47aa-9fdb-df8ee2e420c0" },
+  { n = 4, title = "Des mots crasseux", mbid = "c2ae53e1-4dac-4e9a-9308-599561f2d523" },
+  { n = 5, title = "Été", mbid = "b0feb8f5-c007-433d-9229-da45aa79e11b" },
+  { n = 6, title = "Yeah yeah", mbid = "f21520a2-737d-434a-ad4c-62375fb5e855" },
+]
+
+[[release]]
+mbid = "d091fe11-e9c3-4ca6-b800-3c6e7b11b21f"
+title = "Vos hommes ont les mains sales"
+type = "single"
+date = "2021-11-04"
+spotify = "3dMe3kQP1saubtffRtE9aq"
+tracks = [
+  { n = 1, title = "Vos hommes ont les mains sales", mbid = "fe43a6ac-e9b9-441e-a6e6-31e52df7118a" },
+]
+
+[[release]]
+mbid = "b00dca39-0ff7-467e-b3b6-6f3769519e09"
+title = "Quatrième vague"
+type = "ep"
+date = "2021-11-19"
+tracks = [
+  { n = 1, title = "Vos hommes ont les mains sales", mbid = "fe43a6ac-e9b9-441e-a6e6-31e52df7118a" },
+  { n = 2, title = "Pouvoir au peuple", mbid = "578624fb-f2b4-4fb9-a348-9e64f41e2908" },
+  { n = 3, title = "Eldorado la continuacion", mbid = "9ca14f45-c0a5-4f14-8a9c-ad2e460fec37" },
+  { n = 4, title = "Pics et vallées", mbid = "ab4518d9-145b-4ba3-881c-ca6f234ee2d8" },
+  { n = 5, title = "N'importe quoi", mbid = "70ca0b33-cf0b-46a5-9ae9-4bb0ee7e9ff8" },
+  { n = 6, title = "Une fleur", mbid = "b81fc9aa-b2b3-4bd8-8241-aede90bc9e09" },
+]
+
+[[release]]
+mbid = "b58ae41f-3885-47ed-9226-c79a38dda293"
+title = "Rimes essentielles"
+type = "album"
+date = "2021-12-02"
+spotify = "16Be1h07U4dJvPAWK9TbGz"
+tracks = [
+  { disc = 1, n = 1, title = "Poursuite du bonheur", mbid = "4ddb9720-abf4-47ff-acb9-16562e516000" },
+  { disc = 1, n = 2, title = "Poison d'avril", mbid = "0fa71ad2-db2e-4507-a9cf-44955b043b5c" },
+  { disc = 1, n = 3, title = "Tout ce qu'on est", mbid = "7d727336-fcd8-4e65-8190-951e542a1cf7" },
+  { disc = 1, n = 4, title = "Soundbwoi", mbid = "2444a8c5-0654-4dc6-902c-f8dd8b7fcc5b" },
+  { disc = 1, n = 5, title = "Mes étoiles", mbid = "43e6671a-e95c-4b8a-bdaf-31b6e7232bc0" },
+  { disc = 1, n = 6, title = "Feeling", mbid = "943e7c7d-6ff1-467a-8c32-2facc3100184" },
+  { disc = 1, n = 7, title = "Mirages", mbid = "3875124e-ebda-46c9-8ba6-f39d062f08f5" },
+  { disc = 1, n = 8, title = "Trotteuse", mbid = "60de6fc5-9b7b-443f-89ba-7b64b8b64613" },
+  { disc = 1, n = 9, title = "Change", mbid = "2998c7df-a4c4-49ad-b9cf-e45fc3046a7a" },
+  { disc = 1, n = 10, title = "Rap inconscient", mbid = "d1a3c259-87a1-4062-a24e-ecd7abafb966" },
+  { disc = 1, n = 11, title = "Du rêve dans les veines", mbid = "116abd7d-db97-4b30-9a7d-e4501f5f349e" },
+  { disc = 1, n = 12, title = "Rubans noirs", mbid = "7aa90020-4927-4103-8301-c502cb77f0c0" },
+  { disc = 2, n = 1, title = "Au final", mbid = "dc4272e0-341f-4535-b4f0-1f541ae1d0c4" },
+  { disc = 2, n = 2, title = "Limonade et sirop de menthe", mbid = "8039993a-136d-4a33-9906-532ec78bb529" },
+  { disc = 2, n = 3, title = "Oublie ce qu'on t'a dit", mbid = "1de8f6b5-6fe8-47aa-9fdb-df8ee2e420c0" },
+  { disc = 2, n = 4, title = "Des mots crasseux", mbid = "c2ae53e1-4dac-4e9a-9308-599561f2d523" },
+  { disc = 2, n = 5, title = "Été", mbid = "b0feb8f5-c007-433d-9229-da45aa79e11b" },
+  { disc = 2, n = 6, title = "Yeah yeah", mbid = "f21520a2-737d-434a-ad4c-62375fb5e855" },
+  { disc = 2, n = 7, title = "Vos hommes ont les mains sales", mbid = "fe43a6ac-e9b9-441e-a6e6-31e52df7118a" },
+  { disc = 2, n = 8, title = "Pouvoir au peuple", mbid = "578624fb-f2b4-4fb9-a348-9e64f41e2908" },
+  { disc = 2, n = 9, title = "Eldorado la continuacion", mbid = "9ca14f45-c0a5-4f14-8a9c-ad2e460fec37" },
+  { disc = 2, n = 10, title = "Pics et vallées", mbid = "ab4518d9-145b-4ba3-881c-ca6f234ee2d8" },
+  { disc = 2, n = 11, title = "N'importe quoi", mbid = "70ca0b33-cf0b-46a5-9ae9-4bb0ee7e9ff8" },
+  { disc = 2, n = 12, title = "Une fleur", mbid = "b81fc9aa-b2b3-4bd8-8241-aede90bc9e09" },
+]
+
+[[release]]
+mbid = "6763c25d-3ab8-4747-af53-7e0237e8f281"
+title = "HHHistory"
+type = "album"
+date = "2023-12-11"
+spotify = "3PqWqzEL9q9fWUk5tU4jGI"
+tracks = [
+  { disc = 1, n = 1, title = "Glorieux", mbid = "697df715-e024-4eda-a8b7-fe90085759c5" },
+  { disc = 1, n = 2, title = "Sans valeurs", mbid = "baea416f-f857-47c7-96cc-ee2f5e98e2dd" },
+  { disc = 1, n = 3, title = "Pas possible", mbid = "74d477f8-49f6-42fa-8391-216b4e96c6c1" },
+  { disc = 1, n = 4, title = "Signe des temps", mbid = "c1a6b23c-de0e-4d22-b061-7d00821a4182" },
+  { disc = 1, n = 5, title = "Ma vie", mbid = "4b413cc6-dc80-4f08-8c22-f297b0b25e2f" },
+  { disc = 1, n = 6, title = "Le second c’est le premier des losers", mbid = "b5f42c52-83c6-417f-951d-de8517fe1d9c" },
+  { disc = 2, n = 1, title = "We Too", mbid = "8d3d49cc-eadd-4912-97d1-f72b006c62b8" },
+  { disc = 2, n = 2, title = "CBR", mbid = "0aa4cda9-a081-4f88-bceb-fa61c681e769" },
+  { disc = 2, n = 3, title = "Fille de l’air", mbid = "947d1108-cabe-4a35-9149-6ef6217cc8c4" },
+  { disc = 2, n = 4, title = "Fakerie", mbid = "a96c70f2-d226-4356-bdef-0969b59dfa2e" },
+  { disc = 2, n = 5, title = "Glorieux (instrumental)", mbid = "6a317b1b-85f1-4480-b17b-85668b1cc254" },
+  { disc = 2, n = 6, title = "Fille de l’air (instrumental)", mbid = "b4fe0aed-e78e-46d8-8d47-b53e76f20e78" },
+]

@@ -1,0 +1,1250 @@
+format = 1
+
+[[release]]
+mbid = "9f58f849-59db-4bab-b737-cf50a34d2d89"
+title = "In My Lifetime / I Can’t Get Wid Dat"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "In My Lifetime", mbid = "31b9c35e-e7cb-4e13-85ce-e980c9efb830" },
+  { n = 2, title = "In My Lifetime (radio edit)", mbid = "1ec26b1a-44bf-46b2-8cad-0d2b4a9263af" },
+  { n = 3, title = "In My Lifetime (instrumental)", mbid = "e9e782a4-e518-4733-a3fd-bc087d12432d" },
+  { n = 4, title = "I Can’t Get Wid Dat", mbid = "6c87c8c8-108b-493e-9c9f-552339c4dcf4" },
+  { n = 5, title = "I Can’t Get Wid Dat (radio edit)", mbid = "a25a7046-e3e3-4260-86c8-bfb384c62682" },
+  { n = 6, title = "I Can’t Get Wid Dat (instrumental)", mbid = "18168fe2-9b77-4f4f-b11c-1d9a719ab6b3" },
+]
+
+[[release]]
+mbid = "bfffe199-8100-47dc-8cc6-e09f763eb022"
+title = "Ain’t No Nigga"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Ain’t No Nigga (original radio edit)", mbid = "21a89a39-8855-40fd-b2c1-3be4cfac5345" },
+  { n = 2, title = "Ain’t No Nigga (New York Street mix)", mbid = "2fce935e-600e-459d-a097-1c4f8b7050af" },
+  { n = 3, title = "Ain’t No Nigga (Ganja Kru mix)", mbid = "7559cfec-68c4-40a7-a9bf-2943823aeafa" },
+  { n = 4, title = "Ain’t No Nigga (Rae & Christian mix)", mbid = "6f54e030-cb0c-49ee-967d-41c2194036d1" },
+  { n = 5, title = "Ain’t No Nigga (original mix)", mbid = "51d784ba-b0f2-46e6-91fb-042d26e86f7e" },
+]
+
+[[release]]
+mbid = "558f2910-f89c-4dd6-a78c-a302b56c9075"
+title = "Feelin’ It"
+type = "single"
+date = "1996"
+spotify = "7LupewpAmxaIw13gbTAbrW"
+tracks = [
+  { n = 1, title = "Feelin’ It", mbid = "80d8c47f-0bf2-414b-9cf0-e8aed8f646fa" },
+  { n = 2, title = "Brooklyns Finest", mbid = "e05d8eb0-4ffd-4a3c-b7c0-560cb6851f5c" },
+  { n = 3, title = "Feelin’ It (a cappella)", mbid = "f3975161-eaf7-4491-908d-f3e29baa9615" },
+  { n = 4, title = "Feelin’ It (TV version)", mbid = "b0655b35-c72c-4085-873d-f1fde02c408e" },
+]
+
+[[release]]
+mbid = "a90b84f0-7021-432e-bd0e-801014090b5c"
+title = "Hustlers EP"
+type = "ep"
+date = "1996"
+tracks = [
+  { n = 1, title = "Feelin' It", mbid = "98d44627-3914-4108-b96e-663500ea4c7f" },
+  { n = 2, title = "Brooklyns Finest", mbid = "e05d8eb0-4ffd-4a3c-b7c0-560cb6851f5c" },
+  { n = 3, title = "Can't Knock the Hustle (Fools Paradise remix)", mbid = "0db0e4b1-c1d1-4d0a-894c-d6f02184fa67" },
+  { n = 4, title = "Dead or Alive", mbid = "37b6c1f8-ad82-40bb-8a97-e6e4e5041e46" },
+]
+
+[[release]]
+mbid = "33202210-acce-40a4-b203-2a297d9b1e90"
+title = "Time After Time / All of My Days"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Time After Time (radio edit)", mbid = "2cc55436-432f-4e0b-87bc-3cc9a1822ab1" },
+  { n = 2, title = "All of My Days (album version)", mbid = "7726469d-e709-46e8-9e77-784ad0c55624" },
+  { n = 3, title = "All of My Days (instrumental)", mbid = "96026429-bf2e-415d-90f9-9c5301962b1a" },
+]
+
+[[release]]
+mbid = "9dc6955c-b819-35da-9188-b3254fafcfec"
+title = "Dead Presidents"
+type = "single"
+date = "1996-02-20"
+spotify = "1AoeV2p2S3OMLulsszLKoA"
+tracks = [
+  { n = 1, title = "Dead Presidents (clean version)", mbid = "0659d637-5d01-4dbe-bd1d-b0bd8aecfb67" },
+  { n = 2, title = "Dead Presidents (album version)", mbid = "37c7906e-3222-4792-afc6-3832e0d989b6" },
+  { n = 3, title = "Dead Presidents (instrumental)", mbid = "2ca03eb1-468e-43de-b741-1668c29058ac" },
+  { n = 4, title = "Ain’t No Nigga (album version)", mbid = "b0daa0f7-3b98-42bb-9331-7f5a738d1221" },
+  { n = 5, title = "Ain’t No Nigga (instrumental version)", mbid = "f30104d7-e0d5-4893-8528-d0866ae8d9e2" },
+]
+
+[[release]]
+mbid = "a7f852ba-08bc-36f1-92f3-4dc127f4b70a"
+title = "Reasonable Doubt"
+type = "album"
+date = "1996-06-25"
+spotify = "0223RBur9a3VKmgNGOHFR5"
+tracks = [
+  { n = 1, title = "Can’t Knock the Hustle", mbid = "c62218be-58ed-4486-af03-195322e4866c" },
+  { n = 2, title = "Politics as Usual", mbid = "d6a0827a-e4c9-4dcb-b313-53d0b7bf9172" },
+  { n = 3, title = "Brooklyn’s Finest", mbid = "5629cc33-2157-4da3-91e7-be921f554f12" },
+  { n = 4, title = "Dead Presidents II", mbid = "3c199034-3d2c-4c9a-a0b6-1b58e099be81" },
+  { n = 5, title = "Feelin’ It", mbid = "80d8c47f-0bf2-414b-9cf0-e8aed8f646fa" },
+  { n = 6, title = "D’evils", mbid = "b4038635-9193-42fd-bb70-6eccb83cf10e" },
+  { n = 7, title = "22 Two’s", mbid = "3e103672-46d6-4747-a05b-46fa5181da20" },
+  { n = 8, title = "Can I Live", mbid = "1c88a346-47c4-4bd3-b9d5-93d62c96b74d" },
+  { n = 9, title = "Ain’t No Nigga", mbid = "b0daa0f7-3b98-42bb-9331-7f5a738d1221" },
+  { n = 10, title = "Friend or Foe", mbid = "6e97c159-ca21-4661-97f7-3e182a5f568c" },
+  { n = 11, title = "Coming of Age", mbid = "3566c623-92ee-44b2-b139-b48b4729345d" },
+  { n = 12, title = "Cashmere Thoughts", mbid = "3ffe9090-d764-495a-8f0e-2548e8810974" },
+  { n = 13, title = "Bring It On", mbid = "bbed9051-2a2b-4b58-b837-1e33f161acfa" },
+  { n = 14, title = "Regrets", mbid = "954664a9-47d2-4fb4-b347-3d74d7fd3157" },
+  { n = 15, title = "Can’t Knock the Hustle (Fools Paradise remix)", mbid = "b70d523d-5b40-412c-a442-01e524b8222e" },
+]
+
+[[release]]
+mbid = "90d719d8-d409-4d0c-9d9a-12e2d56a884a"
+title = "Can’t Knock the Hustle"
+type = "single"
+date = "1996-10-22"
+tracks = [
+  { n = 1, title = "Can’t Knock the Hustle (radio edit)", mbid = "fa8a85b3-b60c-4749-8136-764e23112d55" },
+  { n = 2, title = "Can’t Knock the Hustle (original mix)", mbid = "67e11c7d-c756-4c78-a282-c1c892354b36" },
+  { n = 3, title = "Can’t Knock the Hustle (Hani remix)", mbid = "33c6e94d-0ea1-400a-b534-e81c1087af18" },
+  { n = 4, title = "Can’t Knock the Hustle (a cappella)", mbid = "478315a0-7420-48d7-8fed-d72c62b1483c" },
+]
+
+[[release]]
+mbid = "90e82a5d-8dec-44e3-bc79-1909c423f1a7"
+title = "Who You Wit"
+type = "single"
+date = "1997"
+spotify = "3yMoMr9utuTgOUiHHy4L1a"
+tracks = [
+  { n = 1, title = "Who You Wit (clean version)", mbid = "b0eeb787-31ab-4f06-be75-8dcb98ea8ffb" },
+  { n = 2, title = "Who You Wit (album version)", mbid = "7435867e-afe0-4f33-af1d-53798c832151" },
+  { n = 3, title = "Who You Wit (instrumental version)", mbid = "4d88081d-8df3-4573-9783-64a3e792bd65" },
+  { n = 4, title = "Who You Wit (a cappella clean version)", mbid = "84d00a47-a8f0-4523-8972-b9231f33853d" },
+]
+
+[[release]]
+mbid = "806329bf-f77d-33ed-a831-75120d907c4d"
+title = "Sunshine"
+type = "single"
+date = "1997-10-13"
+tracks = [
+  { n = 1, title = "Sunshine (radio edit)", mbid = "bb74c2a7-e0a4-405a-9e1e-e81ef34c8ba7" },
+  { n = 2, title = "Sunshine (album version)", mbid = "bf14f8af-173c-44b4-99ec-014432c3b7ea" },
+  { n = 3, title = "Sunshine (clean version)", mbid = "336bc4c1-4abb-49e9-b65f-b8ccb3298589" },
+  { n = 4, title = "Sunshine (TV Track)", mbid = "b26ac8b6-4c68-4fc0-b845-0c8e0cc7a6b0" },
+  { n = 5, title = "Sunshine (a cappella)", mbid = "c16c893f-0f49-438a-aa9a-174d2c9eb32c" },
+]
+
+[[release]]
+mbid = "3a7cb4ec-575e-3614-b71d-1248c2e470cf"
+title = "In My Lifetime, Vol. 1"
+type = "album"
+date = "1997-10-27"
+spotify = "2nJapeqTbOhnhHUhh5tzpB"
+tracks = [
+  { n = 1, title = "Intro / A Million and One Questions / Rhyme No More", mbid = "c5dc1e01-b653-43b4-864e-03be5e8b0c41" },
+  { n = 2, title = "The City Is Mine", mbid = "433290fd-ed55-48c4-a2da-01353a645b64" },
+  { n = 3, title = "I Know What Girls Like", mbid = "dcdef465-6455-453a-a592-249a964d8695" },
+  { n = 4, title = "Imaginary Player", mbid = "a13f9480-59e1-4f5d-b0ac-8b3065fc068d" },
+  { n = 5, title = "Streets Is Watching", mbid = "168026c2-3260-4f12-b23c-5c2526e38c87" },
+  { n = 6, title = "Friend or Foe ’98", mbid = "4a16bf64-ab45-4d5b-ae39-77aeb7a2a09f" },
+  { n = 7, title = "Lucky Me", mbid = "47670087-b930-4822-96a9-a1735a80ba2b" },
+  { n = 8, title = "(Always Be My) Sunshine", mbid = "f7704b75-1629-4a92-95ad-5940c12fb748" },
+  { n = 9, title = "Who You Wit II", mbid = "e6e40982-80b2-45fd-9e25-5f363c230c84" },
+  { n = 10, title = "Face Off", mbid = "1929cd22-a38d-4d0c-a71a-eb31a01f58a5" },
+  { n = 11, title = "Real Niggaz", mbid = "9e235382-0f4b-472c-9a25-c1a9cf8ef591" },
+  { n = 12, title = "Rap Game / Crack Game", mbid = "3e8fd982-a5c0-4522-9caa-d8a91d77588f" },
+  { n = 13, title = "Where I’m From", mbid = "c6f2efe2-306e-4472-9b76-96d5f6bec2c5" },
+  { n = 14, title = "You Must Love Me", mbid = "62829e68-cb5e-40e6-a7c9-98f790c65fc8" },
+]
+
+[[release]]
+mbid = "4b8ba20c-c6da-38ef-b22a-4098391764f1"
+title = "A Million and One Questions"
+type = "single"
+date = "1998"
+spotify = "0m1W4wAklw5Y6nmPd2aA7e"
+tracks = [
+  { n = 1, title = "A Million and One Questions (The Premier remix)", mbid = "3ec9dcdc-8720-4bfa-b250-c97abb0925af" },
+  { n = 2, title = "A Million and One Questions (extended version)", mbid = "358f46a6-ea86-470d-8c45-367f4c5f95b9" },
+]
+
+[[release]]
+mbid = "49c896f9-4ba4-4a27-bb61-844ac883c961"
+title = "Can I Get a..."
+type = "single"
+date = "1998"
+spotify = "3FMmbSr5sqY1IXpyavdL30"
+tracks = [
+  { n = 1, title = "Can I Get a...", mbid = "95abdb21-33b9-4968-b520-b98654ff3a0b" },
+  { n = 2, title = "Faded Pictures", mbid = "c293aaef-3f3d-41e2-aa18-0a095975b838" },
+]
+
+[[release]]
+mbid = "b9902021-3e6e-46ab-accb-76f0aae48eb5"
+title = "Nigga What, Nigga Who"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Nigga What, Nigga Who", mbid = "d4a781be-542d-4463-b669-def0bb0473cf" },
+  { n = 2, title = "Ain't No Nigga", mbid = "a9680cb3-279d-4554-933d-22348f9fa261" },
+  { n = 3, title = "Bring It On", mbid = "b0505109-34b5-421a-bdb8-9705c3023427" },
+]
+
+[[release]]
+mbid = "ffbada63-9ce0-4d9c-830d-5cb0a4a24040"
+title = "The City Is Mine"
+type = "single"
+date = "1998-02-03"
+tracks = [
+  { n = 1, title = "The City Is Mine (radio edit)", mbid = "aa12094b-0226-4106-be1e-0f079cbd961d" },
+  { n = 2, title = "The City Is Mine (TV track)", mbid = "433290fd-ed55-48c4-a2da-01353a645b64" },
+  { n = 3, title = "A Million and One Questions (radio edit)", mbid = "998516e6-8f75-48ea-a159-83a87cecaee6" },
+]
+
+[[release]]
+mbid = "02b572e5-9bde-30eb-af27-1395a0ae0a06"
+title = "Wishing on a Star"
+type = "single"
+date = "1998-02-14"
+tracks = [
+  { n = 1, title = "Wishing on a Star (radio edit)", mbid = "283bbde9-ef73-44da-9247-2ab937139745" },
+  { n = 2, title = "Wishing on a Star (Track Masters remix)", mbid = "b48c8671-dbfa-4e86-85e2-617b874af067" },
+  { n = 3, title = "Wishing on a Star (D Influence remix)", mbid = "fa196eaf-193b-4936-9b37-cc4b5f948df5" },
+  { n = 4, title = "Brooklyn’s Finest", mbid = "77db21da-8343-427a-af49-a2d8d2807792" },
+  { n = 5, title = "Wishing on a Star (Track Masters acappella)", mbid = "8affaa02-d5a6-4ec8-b1ec-d49017f274ec" },
+]
+
+[[release]]
+mbid = "342d74c6-4c01-4541-b3ae-4524c47ad543"
+title = "Vol. 2… Hard Knock Life"
+type = "album"
+date = "1998-09-28"
+spotify = "3j1xCJdBMCl6wYQXurz2tb"
+tracks = [
+  { disc = 1, n = 1, title = "Intro – Hand It Down", mbid = "9b66cf0c-f834-4455-a6fa-8a5d378fd657" },
+  { disc = 1, n = 2, title = "Hard Knock Life (Ghetto Anthem)", mbid = "cfc66398-02ee-4dac-8fc3-97debee5ee12" },
+  { disc = 1, n = 3, title = "If I Should Die", mbid = "137bc041-8f91-4649-9981-1560d878cf9f" },
+  { disc = 1, n = 4, title = "Ride or Die", mbid = "84c0f7b8-4fea-430b-8747-537cc63d668c" },
+  { disc = 1, n = 5, title = "Nigga What, Nigga Who (Originator 99)", mbid = "3aab95be-cf6a-4e40-a52b-fcfcc6feaaee" },
+  { disc = 1, n = 6, title = "Money, Cash, Hoes", mbid = "2b17a398-8e9a-4e03-a731-daa78f4a6fee" },
+  { disc = 1, n = 7, title = "A Week Ago", mbid = "18e5d79c-aa00-41d2-a9fc-83b7a86e5912" },
+  { disc = 1, n = 8, title = "Coming of Age (Da Sequel)", mbid = "40a05053-28a5-4a4e-a253-cbf68df129cc" },
+  { disc = 1, n = 9, title = "Can I Get A…", mbid = "3f05844b-6192-478c-90f8-fe2b27775f21" },
+  { disc = 1, n = 10, title = "Paper Chase", mbid = "5a4aec1d-7f56-4195-807a-273a13c6b16e" },
+  { disc = 1, n = 11, title = "Reservoir Dogs", mbid = "0daf70c8-0a9e-4f64-a692-3f24a8d515ed" },
+  { disc = 1, n = 12, title = "It’s Like That", mbid = "a405b85a-4be8-430d-9643-17fb5a49e259" },
+  { disc = 1, n = 13, title = "It’s Alright", mbid = "c9ec05db-2d81-4931-8a23-aa1ef0628461" },
+  { disc = 1, n = 14, title = "Money Ain’t a Thang", mbid = "4d30906c-ed19-47a0-ae47-3c85945f6c6a" },
+  { disc = 2, n = 1, title = "DJ Clue Snippets", mbid = "86231cae-7cd5-4094-a1cb-21869bb9eff2" },
+  { disc = 2, n = 2, title = "Cru Love", mbid = "28cea517-6559-43b8-808d-df59babbf408" },
+  { disc = 2, n = 3, title = "Respect", mbid = "dcc50214-d872-4cba-90be-1b485c0ced3f" },
+  { disc = 2, n = 4, title = "Are You Ready (Sweaty)", mbid = "08c6df65-1418-43ed-8dc9-831fe3acbc15" },
+  { disc = 2, n = 5, title = "Can I Live", mbid = "a7ddd492-9572-4d90-bf2f-f332318295b3" },
+  { disc = 2, n = 6, title = "Beanie Sigel Freestyle", mbid = "50baed03-9251-4283-9190-236c987e2149" },
+  { disc = 2, n = 7, title = "Things Groupies Say (skit)", mbid = "9b6b5069-69f1-476f-9dc6-8812b0355046" },
+  { disc = 2, n = 8, title = "Pain in da Ass (outro)", mbid = "9deedad5-c3de-4bfc-a5dc-6611da47316e" },
+]
+
+[[release]]
+mbid = "284c4d71-6c7e-36ff-91dd-00be3f89eaa7"
+title = "Hard Knock Life (Ghetto Anthem)"
+type = "single"
+date = "1998-12-15"
+tracks = [
+  { n = 1, title = "Hard Knock Life (Ghetto Anthem) (radio edit)", mbid = "cfe267c8-e6d6-4121-95ea-66883c8598b9" },
+  { n = 2, title = "Can't Knock the Hustle (Fools Paradise remix)", mbid = "b70d523d-5b40-412c-a442-01e524b8222e" },
+  { n = 3, title = "Hard Knock Life (Ghetto Anthem) (album version)", mbid = "cfc66398-02ee-4dac-8fc3-97debee5ee12" },
+]
+
+[[release]]
+mbid = "502300b9-00c8-448a-a44a-8ea9471a1d2a"
+title = "Jigga My N****"
+type = "single"
+date = "1999"
+spotify = "51rt3lCHmtHGirKCUzE5jH"
+tracks = [
+  { n = 1, title = "Jigga My N**** (LP Version)", mbid = "bc6563ba-469a-4f96-bb0e-c467c1472782" },
+  { n = 2, title = "Memphis Bleek Is... (LP Version)", mbid = "746d1c13-fa45-4823-8b1b-d4fdb93139c7" },
+  { n = 3, title = "What A Thug About (LP Version)", mbid = "7f4e73f4-1b03-4e18-83f7-62d21f6f1415" },
+  { n = 4, title = "When Will U See (LP Version)", mbid = "fcee3cc2-bfb0-4746-bb86-1951e7070956" },
+]
+
+[[release]]
+mbid = "75d65362-a9b4-3e9c-82c6-5392e6615c0a"
+title = "Vol. 3… Life and Times of S. Carter"
+type = "album"
+date = "1999-12-13"
+spotify = "55gWsPvY3OHsZAnnQcOhI0"
+tracks = [
+  { n = 1, title = "Hova Song (intro)", mbid = "1285683c-42ae-4d8c-a2ae-66f8d2ec34a7" },
+  { n = 2, title = "So Ghetto", mbid = "3d5c2c82-a3e2-4443-90e9-3d97fcab90a1" },
+  { n = 3, title = "Do It Again (Put Ya Hands Up)", mbid = "929e1f8e-22c8-4397-af92-84044c11c89c" },
+  { n = 4, title = "Dope Man", mbid = "bc79a1ae-dbde-4cca-b895-111392a9dbde" },
+  { n = 5, title = "Things That U Do", mbid = "5e80b21e-0801-4e80-ba30-b9d17f5ea0a2" },
+  { n = 6, title = "It’s Hot (Some Like It Hot)", mbid = "9335d8ab-0139-40ed-9b15-10a2ce78c423" },
+  { n = 7, title = "Snoopy Track", mbid = "0eb77a07-b2f1-4670-bf80-9487476d1d9b" },
+  { n = 8, title = "S. Carter", mbid = "9ccf528b-504d-44c3-94ad-6d79d11f929d" },
+  { n = 9, title = "Pop 4 Roc", mbid = "178bce0a-bc03-4030-b110-faca810f770d" },
+  { n = 10, title = "Hova Interlude", mbid = "c95ef907-0840-4d58-9261-141d7572f096" },
+  { n = 11, title = "Big Pimpin’", mbid = "6848bbf6-13b5-48dd-abb9-bb67cc7f64fb" },
+  { n = 12, title = "Is That Yo Bitch", mbid = "a80a07fa-a3e9-41c9-a45f-9a91efd2792e" },
+  { n = 13, title = "Come and Get Me", mbid = "f7052bba-3a4a-42c7-9cbd-380b07a968d9" },
+  { n = 14, title = "NYMP", mbid = "2b31cb22-0cc4-4060-905c-a848dbf3ddbd" },
+  { n = 15, title = "Hova Song (outro)", mbid = "90f92a8a-7298-4d37-b852-4d3de75e75a3" },
+  { n = 16, title = "Anything / Jigga My Nigga / Girl’s Best Friend", mbid = "36f8ef9a-8216-453a-adda-67644ccb1ef3" },
+]
+
+[[release]]
+mbid = "d5e53edc-fb50-3582-9d39-8b7977232145"
+title = "Anything"
+type = "single"
+date = "2000-02-14"
+tracks = [
+  { n = 1, title = "Anything (radio edit)", mbid = "aec04fe4-be6d-4147-8c64-921e043fe66b" },
+  { n = 2, title = "So Ghetto", mbid = "0038a680-f4bf-4c67-b5b4-04447c8fec46" },
+  { n = 3, title = "There's Been a Murder", mbid = "a621573f-b749-452d-8737-71ce3c9a9e65" },
+]
+
+[[release]]
+mbid = "eab33a57-2413-3c14-adb5-27e3720ce4eb"
+title = "Big Pimpin’"
+type = "single"
+date = "2000-06-12"
+spotify = "432Y4gBMyqxIlG9wuuDo08"
+tracks = [
+  { n = 1, title = "Big Pimpin’ (album version)", mbid = "17fa622a-421d-4d25-8693-ac415ea411c2" },
+  { n = 2, title = "Watch Me (LP version)", mbid = "c6b64e52-b616-449f-923d-b37b7fa39dac" },
+  { n = 3, title = "Big Pimpin’ (instrumental)", mbid = "696b080a-5509-4f41-ac98-1f191ab7b6a8" },
+]
+
+[[release]]
+mbid = "775bc732-a8ad-3298-ab66-fd1549a96a3f"
+title = "The Dynasty: Roc La Familia"
+type = "album"
+date = "2000-10-31"
+spotify = "2y3td1kVJW4TqGuTAYm8gD"
+tracks = [
+  { n = 1, title = "Intro", mbid = "84e18e94-0b41-412d-a3d0-7ba51623599d" },
+  { n = 2, title = "Change the Game", mbid = "412afb8c-1ad1-4fee-bc37-4e0619010cdf" },
+  { n = 3, title = "I Just Wanna Love U (Give It 2 Me)", mbid = "f30b4ec6-28af-41e2-a27b-82d5ffd45da4" },
+  { n = 4, title = "Streets Is Talking", mbid = "a58b0b58-ad44-4c4a-b6e8-a54b6af27a4a" },
+  { n = 5, title = "This Can’t Be Life", mbid = "9b7b3e28-a1ed-4096-ac8f-bcf1e230479d" },
+  { n = 6, title = "Get Your Mind Right Mami", mbid = "5434f413-0a26-403e-84bf-7ae45cc76282" },
+  { n = 7, title = "Stick 2 the Script", mbid = "349471e1-6205-48d2-804c-d8a2660b88a9" },
+  { n = 8, title = "You, Me, Him and Her", mbid = "07e3ba38-a9ee-4388-b11d-8fe574dbcbb0" },
+  { n = 9, title = "Guilty Until Proven Innocent", mbid = "cc9434b3-925d-4fcd-82c5-dcd127f535d8" },
+  { n = 10, title = "Parking Lot Pimpin’", mbid = "7001b0d9-fa26-4aba-a17b-f71ebaf406bc" },
+  { n = 11, title = "Holla", mbid = "7f5ab4ae-7f6c-4195-accf-af4a7bc99d9d" },
+  { n = 12, title = "1-900-Hustler", mbid = "b7ed6cbb-65d0-42a2-b658-f64950a14609" },
+  { n = 13, title = "The R.O.C.", mbid = "df97b01d-2928-4eed-8281-d80f4c70b3c7" },
+  { n = 14, title = "Soon You’ll Understand", mbid = "bc07e9f0-0fe3-4f66-b261-9f93f32ed854" },
+  { n = 15, title = "Squeeze 1st", mbid = "0873fb8d-f177-4d52-ab25-0d0d91bf420b" },
+  { n = 16, title = "Where Have You Been", mbid = "661508b7-5976-41f7-a299-0bd888d37f8a" },
+]
+
+[[release]]
+mbid = "75a9fda0-55ac-318d-86c5-9a91d455b60a"
+title = "I Just Wanna Love U (Give It 2 Me)"
+type = "single"
+date = "2000-12-04"
+spotify = "2e0V2Ak71eQTH2cmVqOuOq"
+tracks = [
+  { n = 1, title = "I Just Wanna Love U (Give It 2 Me) (radio edit)", mbid = "92a401d4-5f48-4af8-9691-40ee2f709721" },
+  { n = 2, title = "Parking Lot Pimpin", mbid = "b7f17d2c-6f48-474d-9d7a-2ed5ce72f950" },
+]
+
+[[release]]
+mbid = "268bb54e-801e-4f2a-8f90-986f9395fbbd"
+title = "Girls, Girls, Girls"
+type = "single"
+date = "2001"
+spotify = "1wkYwuwDVcpHwgAF5PUSko"
+tracks = [
+  { n = 1, title = "Girls, Girls, Girls (LP version)", mbid = "cc94ac49-4951-4b3b-843d-1349b05dfd81" },
+  { n = 2, title = "Girls, Girls, Girls (Part 2)", mbid = "85655985-5dfb-403f-9a2d-554a58a93fb8" },
+  { n = 3, title = "Big Pimpin' (radio edit)", mbid = "f5e2e738-efd5-4c44-a79d-eec79cc0ec45" },
+]
+
+[[release]]
+mbid = "5f520d3c-7f1e-4b67-9437-e7145ceb1927"
+title = "Guilty Until Proven Innocent"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Guilty Until Proven Innocent (radio edit)", mbid = "84a4383b-ba3d-4f9b-85f6-61d45056181d" },
+  { n = 2, title = "Guilty Until Proven Innocent (album version)", mbid = "4392996c-a5ad-49cd-b36f-406989fab2f7" },
+  { n = 3, title = "Change the Game (radio edit)", mbid = "7fea99be-9e91-4304-87b5-9f74ce948201" },
+]
+
+[[release]]
+mbid = "fbe1d744-7686-3cd0-9306-f25eddd453c8"
+title = "Izzo (H.O.V.A.)"
+type = "single"
+date = "2001-08-21"
+spotify = "6c4PIdR6KT9Sg95VV78u7c"
+tracks = [
+  { n = 1, title = "Izzo (H.O.V.A.) (radio edit)", mbid = "849918f4-d99e-4b94-bfdd-4a591061c49e" },
+  { n = 2, title = "Izzo (H.O.V.A.) (album version)", mbid = "4b9b43b8-7c7c-4158-a0e5-3283da396b31" },
+  { n = 3, title = "Izzo (H.O.V.A.) (instrumental)", mbid = "066b86b3-53b2-4276-839e-3a0a5c676e69" },
+]
+
+[[release]]
+mbid = "11ae8c9c-27c1-3308-9761-edb87c8f54ea"
+title = "The Blueprint"
+type = "album"
+date = "2001-09-11"
+spotify = "54I5tDCMjnNVWSENHg8EDH"
+tracks = [
+  { disc = 1, n = 1, title = "The Ruler’s Back", mbid = "1eae49d1-80a8-44f0-86a8-489f15435cb7" },
+  { disc = 1, n = 2, title = "Takeover", mbid = "9475f8ef-e785-4b9f-a8c2-03ceb817553e" },
+  { disc = 1, n = 3, title = "Izzo (H.O.V.A.)", mbid = "64ea3615-a07e-42f6-9ecd-fa6ec6d014b4" },
+  { disc = 1, n = 4, title = "Girls, Girls, Girls", mbid = "0bdaa5c1-3e69-4bae-a0da-62d0d098b10c" },
+  { disc = 1, n = 5, title = "Jigga That Nigga", mbid = "da38d93d-0a6f-4af6-b724-1243e52f99fd" },
+  { disc = 1, n = 6, title = "U Don’t Know", mbid = "bd8fb145-3998-4ff3-965e-f82fbe6d4782" },
+  { disc = 1, n = 7, title = "Hola’ Hovito", mbid = "a24654bd-c25b-4879-8d7f-263bdc7d5883" },
+  { disc = 1, n = 8, title = "Heart of the City (Ain’t No Love)", mbid = "66b4d148-39d9-40da-9b8a-6c67aeb0dca8" },
+  { disc = 2, n = 1, title = "Never Change", mbid = "3fced824-6156-46e7-a986-ad5f56464b76" },
+  { disc = 2, n = 2, title = "Song Cry", mbid = "83064370-8180-4f38-870a-abb7a29819cd" },
+  { disc = 2, n = 3, title = "All I Need", mbid = "c04db4c1-369b-48cf-a30c-523c292fc8ec" },
+  { disc = 2, n = 4, title = "Renegade", mbid = "cf262239-b2cd-4a6a-870e-e1153a71c8c3" },
+  { disc = 2, n = 5, title = "Blueprint (Momma Loves Me)", mbid = "84fea5fe-9abb-4d36-acca-7e26abd595bd" },
+  { disc = 2, n = 6, title = "Breathe Easy (Lyrical Exercise)", mbid = "3374c743-25d1-460d-8ac8-7c5c96e8ebe1" },
+  { disc = 2, n = 7, title = "Girls, Girls, Girls (Part 2)", mbid = "85655985-5dfb-403f-9a2d-554a58a93fb8" },
+]
+
+[[release]]
+mbid = "e98ad551-1073-3ee7-b112-a95b5ef0a4e3"
+title = "Collabo EP"
+type = "ep"
+date = "2002"
+tracks = [
+  { n = 1, title = "So Ghetto", mbid = "9a020ec5-f43f-42c5-9ccc-a99aeafa3b2c" },
+  { n = 2, title = "Friends or Foe", mbid = "061dc962-c02c-41ef-a3e8-9cb8580ca094" },
+  { n = 3, title = "Bring It On", mbid = "3a24c922-bfb7-4dad-ac38-2ca7815e45df" },
+  { n = 4, title = "In the PJ's", mbid = "d826779e-42c6-452d-8bab-0ffed2bfdda3" },
+  { n = 5, title = "D'Evils", mbid = "8e110ca5-6c9a-4010-88e3-c1f6cec419ca" },
+]
+
+[[release]]
+mbid = "108efa3a-ec5a-4688-b49b-2fefff2edd56"
+title = "Excuse Me Miss"
+type = "single"
+date = "2002"
+tracks = [
+  { n = 1, title = "Excuse Me Miss (radio edit)", mbid = "5cf0fb5b-f7ad-4258-bf73-12a32d03bc2d" },
+  { n = 2, title = "Heart of the City (Ain’t No Love) (live)", mbid = "14d456ed-ca34-481f-a3be-4bc18debf1e8" },
+  { n = 3, title = "The Bounce", mbid = "108c7be3-6ebb-4526-b117-fe559f733ce0" },
+]
+
+[[release]]
+mbid = "ab707828-0ec1-32ef-aada-fd1bc503da52"
+title = "The Best of Both Worlds"
+type = "album"
+date = "2002-01-01"
+tracks = [
+  { n = 1, title = "The Best of Both Worlds", mbid = "132b29e4-ce86-4ab2-aee5-ec1817b0e6c4" },
+  { n = 2, title = "Take You Home With Me a.k.a. Body", mbid = "52480980-405c-4030-a701-a29076a93973" },
+  { n = 3, title = "Break Up to Make Up", mbid = "621d6605-9a20-4637-b017-337e03c0f8bd" },
+  { n = 4, title = "It Ain’t Personal", mbid = "7e42943f-409b-41f7-acd8-c59166623461" },
+  { n = 5, title = "The Streets", mbid = "90a92f2b-f6ce-4c4a-8710-4630efc1eda9" },
+  { n = 6, title = "Green Light", mbid = "0a3fd614-b8bb-4934-ad7b-08a9fcc1a39f" },
+  { n = 7, title = "Naked", mbid = "85bb5492-f693-4640-933e-b0a205707d8f" },
+  { n = 8, title = "Shake Ya Body", mbid = "5030e20a-0f3a-4c4c-9b17-0aa36ca7c81b" },
+  { n = 9, title = "Somebody’s Girl", mbid = "5dc59f79-8aed-44e4-9100-cd21b2650afa" },
+  { n = 10, title = "Get This Money", mbid = "77db26bd-5798-42b5-8f87-6cea09c621dd" },
+  { n = 11, title = "Shorty", mbid = "fb246551-a7e6-4b5f-851c-74b68460120a" },
+  { n = 12, title = "Honey", mbid = "cbd569dc-d2aa-46ed-b2fb-a6a8e98cd2db" },
+  { n = 13, title = "Pussy", mbid = "c852d7e2-a3a7-42d8-b398-5a93a014e27b" },
+]
+
+[[release]]
+mbid = "c0cdbbdd-006d-3f4a-90bb-31e259d839e4"
+title = "The Blueprint²: The Gift & The Curse"
+type = "album"
+date = "2002-11-12"
+spotify = "5xHStEOG8PsbzNQb7LkxZU"
+tracks = [
+  { disc = 1, n = 1, title = "A Dream", mbid = "beb2b87b-cf8e-4688-9407-35271cec7109" },
+  { disc = 1, n = 2, title = "Hovi Baby", mbid = "157a8594-996a-4a50-a57c-95547c832b68" },
+  { disc = 1, n = 3, title = "The Watcher 2", mbid = "514d20cf-82a0-46c4-90bc-bbe64522d166" },
+  { disc = 1, n = 4, title = "'03 Bonnie & Clyde", mbid = "5465ca86-3881-4349-81b2-6efbd3a59451" },
+  { disc = 1, n = 5, title = "Excuse Me Miss", mbid = "8c210b34-0d68-447c-9e0a-36b3dc797186" },
+  { disc = 1, n = 6, title = "What They Gonna Do", mbid = "9b163856-1d41-4a8b-83bc-fb706163e5b5" },
+  { disc = 1, n = 7, title = "All Around the World", mbid = "982e5b35-d5c9-4562-8ca3-dc16f7b7bde4" },
+  { disc = 1, n = 8, title = "Poppin' Tags", mbid = "f49082e1-a043-43fa-abe9-1ff7112331fe" },
+  { disc = 1, n = 9, title = "Fuck All Nite", mbid = "416d58e3-6d13-406e-bedb-ca7c9219258d" },
+  { disc = 1, n = 10, title = "The Bounce", mbid = "38cc6e44-c2da-4189-915b-9370072c4dbe" },
+  { disc = 1, n = 11, title = "I Did It My Way", mbid = "5b062cc8-990e-45b4-93a0-cc2a709c47c0" },
+  { disc = 2, n = 1, title = "Diamond Is Forever", mbid = "6a6cf246-798c-4823-85ce-ae0f6b7b102d" },
+  { disc = 2, n = 2, title = "Guns & Roses", mbid = "c7a9e83a-2ea9-4607-a90f-17bf27f8cce7" },
+  { disc = 2, n = 3, title = "U Don't Know (remix)", mbid = "41e1ed54-6cff-4ec6-8905-9a4929434ecb" },
+  { disc = 2, n = 4, title = "Meet the Parents", mbid = "c0a3492c-2c95-4eac-b755-5db085294a60" },
+  { disc = 2, n = 5, title = "Some How Some Way", mbid = "12793320-96c0-4f85-a443-f46aaf911dbc" },
+  { disc = 2, n = 6, title = "Some People Hate", mbid = "cad174ad-d683-4858-a205-7bdc4175fff7" },
+  { disc = 2, n = 7, title = "Blueprint²", mbid = "c73b8178-3317-4fee-a33d-e7f39d5c9b4e" },
+  { disc = 2, n = 8, title = "Nigga Please", mbid = "1c1ee75c-c047-4b11-934d-1934b1df9d44" },
+  { disc = 2, n = 9, title = "2 Many Hoes", mbid = "db72c190-2f1d-4166-b6df-212c299bf0f1" },
+  { disc = 2, n = 10, title = "As One", mbid = "c0b86a2a-85a1-41a6-b838-479a91e2fc0c" },
+  { disc = 2, n = 11, title = "A Ballad for the Fallen Soldier", mbid = "36a6c20a-727f-4222-a9e6-4da42919587d" },
+  { disc = 2, n = 12, title = "Show You How", mbid = "77cc41e0-efbc-4b4f-b661-854f3a8800f9" },
+  { disc = 2, n = 13, title = "Bitches & Sisters", mbid = "a84836af-5ab3-45f1-b1fd-5bcd485e95e5" },
+  { disc = 2, n = 14, title = "What They Gonna Do, Part II", mbid = "c268a33e-a54b-4514-978a-d036a24ce1ba" },
+]
+
+[[release]]
+mbid = "11ae8200-876c-3d64-b2b9-90679bd25fd6"
+title = "Song Cry"
+type = "single"
+date = "2002-12-10"
+spotify = "7lvBh1uaK4tdUL2Vu6d2Lk"
+tracks = [
+  { n = 1, title = "Song Cry", mbid = "83064370-8180-4f38-870a-abb7a29819cd" },
+  { n = 2, title = "Song Cry (radio edit)", mbid = "d7bf5310-df39-486c-87be-5edce433aaba" },
+]
+
+[[release]]
+mbid = "40529d53-afe2-492b-ab32-6367bb9c5e88"
+title = "La‐La‐La (Excuse Me Again)"
+type = "single"
+date = "2003"
+spotify = "6JyhBfDuSvFaJEBMsZ4Jd6"
+tracks = [
+  { n = 1, title = "La‐La‐La (Excuse Me Again)", mbid = "39de6ba3-b206-436d-b052-2943222bf99b" },
+  { n = 2, title = "La‐La‐La (Excuse Me Again) (radio edit)", mbid = "fcbbec0d-fdcf-4aa3-9b18-56b63bc082aa" },
+]
+
+[[release]]
+mbid = "b6a51622-99fe-3908-95dd-6826cc4adb4a"
+title = "Stop / Excuse Me Miss Again"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Stop (radio)", mbid = "fd5efbb8-d0cf-44a7-ab49-7676042356dc" },
+  { n = 2, title = "Stop", mbid = "0a46bb51-1381-43c2-9521-5722d7756a30" },
+  { n = 3, title = "Stop (instrumental)", mbid = "be2f923d-4a42-4dbf-ac16-6bb5d104c977" },
+  { n = 4, title = "Excuse Me Miss Again (radio)", mbid = "73e56e47-adef-489f-a486-9829ed15c8a1" },
+  { n = 5, title = "Excuse Me Miss Again", mbid = "70dcc42b-9148-418e-b6d6-717eda99db5b" },
+  { n = 6, title = "Excuse Me Miss Again (instrumental)", mbid = "00fcfc13-8121-4eeb-822a-3625f6db5f3f" },
+]
+
+[[release]]
+mbid = "43588487-3216-3df4-ae2f-2d4cbbed2840"
+title = "’03 Bonnie & Clyde"
+type = "single"
+date = "2003-01-13"
+spotify = "23yKsvdyBKVopG1vn7l5RP"
+tracks = [
+  { n = 1, title = "’03 Bonnie and Clyde (radio edit)", mbid = "3799616a-7011-46e9-816e-fc7969456f67" },
+  { n = 2, title = "’03 Bonnie and Clyde (album version)", mbid = "5465ca86-3881-4349-81b2-6efbd3a59451" },
+  { n = 3, title = "U Don’t Know (remix) (album version)", mbid = "41e1ed54-6cff-4ec6-8905-9a4929434ecb" },
+]
+
+[[release]]
+mbid = "20fa4077-19b9-3cd4-82cf-f0787f36372c"
+title = "Frontin’"
+type = "single"
+date = "2003-07-28"
+tracks = [
+  { n = 1, title = "Frontin’", mbid = "b91d85ba-7a90-41e5-acaf-e1026e6e8320" },
+  { n = 2, title = "Hot Damn", mbid = "e28efd63-6a58-46c0-9174-dc16cec49206" },
+  { n = 3, title = "Popular Thug", mbid = "39eeb3bb-7309-4b75-a1da-a70f1d67219b" },
+]
+
+[[release]]
+mbid = "77befaa0-662e-3d84-ba45-c862e16dc109"
+title = "The Black Album"
+type = "album"
+date = "2003-11-14"
+spotify = "4FWvo9oS4gRgHtAwDwUjiO"
+tracks = [
+  { n = 1, title = "Interlude", mbid = "e237c4bc-9fc5-4516-b044-b923657383c0" },
+  { n = 2, title = "December 4th", mbid = "775ac2d2-8f17-4298-afce-07b1ad63075e" },
+  { n = 3, title = "What More Can I Say", mbid = "2f52bcde-d0c9-4b1b-ae90-4d7073cebeb2" },
+  { n = 4, title = "Encore", mbid = "77349c88-a20f-479e-ba3d-7be0c6af0290" },
+  { n = 5, title = "Change Clothes", mbid = "8365052f-f8d5-4180-b8da-0d3983813017" },
+  { n = 6, title = "Dirt Off Your Shoulder", mbid = "9d4c57fe-ba72-40d5-8bf0-c9c85825bee0" },
+  { n = 7, title = "Threat", mbid = "76a315a9-be06-4e6a-b044-9526070daba7" },
+  { n = 8, title = "Moment of Clarity", mbid = "6eb8177a-35a5-4bd9-baa9-7ea2505a657e" },
+  { n = 9, title = "99 Problems", mbid = "9d8d5c34-308a-4432-8ddd-9bd3d2444b94" },
+  { n = 10, title = "Public Service Announcement (interlude)", mbid = "23c6bb26-1bae-4405-8071-4c6e061e3b84" },
+  { n = 11, title = "Justify My Thug", mbid = "f5b78727-6f3f-4703-be7a-61313fd10d4c" },
+  { n = 12, title = "Lucifer", mbid = "8effc0a5-562c-47f1-a5d0-eaafd01b9440" },
+  { n = 13, title = "Allure", mbid = "24810b4c-5cee-495c-80c1-64b042cb39bf" },
+  { n = 14, title = "My 1st Song", mbid = "5e805bda-947e-4133-ba90-78aba31d7550" },
+]
+
+[[release]]
+mbid = "1b39b363-3d2f-4916-9acd-ad6582858ed9"
+title = "Change Clothes"
+type = "single"
+date = "2003-12-08"
+tracks = [
+  { n = 1, title = "Change Clothes", mbid = "8365052f-f8d5-4180-b8da-0d3983813017" },
+  { n = 2, title = "What More Can I Say", mbid = "2f52bcde-d0c9-4b1b-ae90-4d7073cebeb2" },
+]
+
+[[release]]
+mbid = "1b850abc-2976-4579-9508-b150956a8a90"
+title = "99 Problems"
+type = "single"
+date = "2004"
+spotify = "5PSsEMIXuEm16UyGZiF0xD"
+tracks = [
+  { n = 1, title = "99 Problems", mbid = "9d8d5c34-308a-4432-8ddd-9bd3d2444b94" },
+  { n = 2, title = "99 Problems (Just Blaze remix)", mbid = "15c5b990-e27c-4577-8dd2-e1458efbc3a7" },
+  { n = 3, title = "99 Problems (radio edit)", mbid = "fb0fa2c8-507f-4fcb-a02e-bdb6f0128029" },
+]
+
+[[release]]
+mbid = "35a21d96-d6e9-450a-94b7-2b2cab8e709e"
+title = "99 Problems / My 1st Song"
+type = "single"
+date = "2004-04-13"
+tracks = [
+  { n = 1, title = "99 Problems (clean)", mbid = "fb0fa2c8-507f-4fcb-a02e-bdb6f0128029" },
+  { n = 2, title = "99 Problems (main)", mbid = "9d8d5c34-308a-4432-8ddd-9bd3d2444b94" },
+  { n = 3, title = "99 Problems (instrumental)", mbid = "12595c76-d32b-4209-a16e-abc075e3ba4c" },
+  { n = 4, title = "My 1st Song (clean)", mbid = "108b8b86-433b-499e-ae4a-d55b0647fbb7" },
+  { n = 5, title = "My 1st Song (main)", mbid = "74aa44c1-eb3b-4524-a41c-bf59cfcb5788" },
+  { n = 6, title = "My 1st Song (instrumental)", mbid = "2e869acf-1457-489d-8977-a798d974d03b" },
+]
+
+[[release]]
+mbid = "ab47690e-fcdb-39a6-bd53-e1ba991d1b94"
+title = "99 Problems / Dirt Off Your Shoulder"
+type = "single"
+date = "2004-05-10"
+tracks = [
+  { n = 1, title = "99 Problems", mbid = "9d8d5c34-308a-4432-8ddd-9bd3d2444b94" },
+  { n = 2, title = "Dirt Off Your Sholder", mbid = "9d4c57fe-ba72-40d5-8bf0-c9c85825bee0" },
+]
+
+[[release]]
+mbid = "0b723dc2-be94-4260-894e-94e2db6ffe5b"
+title = "Streets Is Watching"
+type = "single"
+date = "2004-10-05"
+tracks = [
+  { n = 1, title = "Streets Is Watching", mbid = "2ef09351-d337-4919-8c52-bf8e89de44c5" },
+]
+
+[[release]]
+mbid = "1b97fe26-be57-3589-9138-1bd3611d166c"
+title = "Unfinished Business"
+type = "album"
+date = "2004-10-26"
+tracks = [
+  { n = 1, title = "The Return", mbid = "8bd67e52-7b03-4ea5-a1cc-2d10bf4f68c1" },
+  { n = 2, title = "Big Chips", mbid = "78f91d8d-7ec0-41b2-9419-89698d39473a" },
+  { n = 3, title = "We Got Em Goin’", mbid = "2007c72f-ce9b-4e07-ab4b-eb54d84c7cd1" },
+  { n = 4, title = "She’s Coming Home With Me", mbid = "0973d83a-4492-4fb3-933a-c793ae9dab4b" },
+  { n = 5, title = "Feelin’ You in Stereo", mbid = "a472e89a-ac3e-4bd1-baf1-c750e2a42368" },
+  { n = 6, title = "Stop", mbid = "0462e570-7173-4354-bd0c-85d782c50d9e" },
+  { n = 7, title = "Mo’ Money", mbid = "f855ea74-6703-4b7a-bcb2-196c72f22b09" },
+  { n = 8, title = "Pretty Girls", mbid = "6a8d95c6-600a-4156-bbdc-5f19a22c009d" },
+  { n = 9, title = "Break Up (Thats All We Do)", mbid = "182f4908-c4fa-42dc-916a-7a942cc5952a" },
+  { n = 10, title = "Don’t Let Me Die", mbid = "19bfa79b-358b-457d-9736-07096398b8e3" },
+  { n = 11, title = "The Return (remix)", mbid = "da1721db-bb74-4013-a59a-ddd3d88e560e" },
+]
+
+[[release]]
+mbid = "a3ea5d93-476e-4f23-bbb7-7a3e4196abc6"
+title = "Dirt Off Your Shoulder/Lying from You"
+type = "single"
+date = "2004-11-15"
+spotify = "53wRDX5pmI3WAXfDvTiZ2L"
+tracks = [
+  { n = 1, title = "Dirt Off Your Shoulder / Lying from You (explicit)", mbid = "3dfe34e4-2768-4179-8b3f-a8e0b3e80006" },
+  { n = 2, title = "Dirt Off Your Shoulder / Lying from You (clean)", mbid = "de0e9c1f-14c0-43a6-82b9-622bbcb2d22f" },
+]
+
+[[release]]
+mbid = "8ef859e3-feb2-4dd1-93da-22b91280d768"
+title = "Collision Course"
+type = "ep"
+date = "2004-11-29"
+spotify = "5NH94cATqx5fjBE794xZLy"
+tracks = [
+  { n = 1, title = "Dirt Off Your Shoulder / Lying From You", mbid = "3dfe34e4-2768-4179-8b3f-a8e0b3e80006" },
+  { n = 2, title = "Big Pimpin’ / Papercut", mbid = "648f62a1-8786-45a6-90fb-d9fd5a136bd6" },
+  { n = 3, title = "Jigga What / Faint", mbid = "5d8d54f1-db6b-4b84-9a8e-4b68122b063e" },
+  { n = 4, title = "Numb / Encore", mbid = "daccb724-8023-432a-854c-e0accb6c8678" },
+  { n = 5, title = "Izzo / In the End", mbid = "9be2b5c5-717f-4bf5-9f12-4c14a96fde58" },
+  { n = 6, title = "Points of Authority / 99 Problems / One Step Closer", mbid = "d6199ea7-fe69-45c7-b455-59bdaa58f257" },
+]
+
+[[release]]
+mbid = "7c1014eb-454c-3867-8854-3c95d265f8de"
+title = "Numb/Encore"
+type = "single"
+date = "2004-11-30"
+spotify = "7JTN3DDeokYBdQBgnwIIMt"
+tracks = [
+  { n = 1, title = "Numb/Encore (explicit)", mbid = "daccb724-8023-432a-854c-e0accb6c8678" },
+  { n = 2, title = "Numb/Encore (radio edit)", mbid = "360774c2-6aa5-49d9-9151-4d94d4a93837" },
+  { n = 3, title = "Numb/Encore (instrumental)", mbid = "965b75df-397d-4395-aac8-de11854c4630" },
+  { n = 4, title = "Numb/Encore (a cappella explicit)", mbid = "f441f412-0129-4749-b448-4b1ceaf7305b" },
+  { n = 5, title = "Numb/Encore (a cappella radio edit)", mbid = "8c9f2adb-e559-4b34-9411-623c995cb5be" },
+  { n = 6, title = "Bonus Beat", mbid = "da7cf33a-a6a8-458d-814f-d499de2f02ab" },
+]
+
+[[release]]
+mbid = "fc50099c-c049-43b7-a350-47659317ad28"
+title = "Upgrade U"
+type = "single"
+date = "2006"
+tracks = [
+  { n = 1, title = "Upgrade U", mbid = "f1ff0bb4-e9f8-4cd6-b542-e15768438d63" },
+]
+
+[[release]]
+mbid = "4880d6ab-3074-3483-9297-6f0dbb518688"
+title = "Deja vu"
+type = "single"
+date = "2006-07-12"
+spotify = "7jsRSdIHEgqW0KfKRDEAFR"
+tracks = [
+  { n = 1, title = "Deja vu (album version)", mbid = "d6e63fc9-dacc-488d-af7a-a2da63b731da" },
+  { n = 2, title = "Deja vu (instrumental)", mbid = "7e596ec5-922e-46ef-a5fe-3bda4e5fe617" },
+  { n = 3, title = "Deja vu (the remix)", mbid = "36fff108-47d2-406d-bd12-9553af8b83b4" },
+  { n = 4, title = "Deja vu (Bama Boyz remix)", mbid = "dbc53d37-6b8f-4d2b-a12d-322b1fce4d62" },
+]
+
+[[release]]
+mbid = "d8f91a57-9c02-3a83-81c5-b99c572c7a10"
+title = "Kingdom Come"
+type = "album"
+date = "2006-11-17"
+spotify = "34leStU1anAKH5RsU607zz"
+tracks = [
+  { n = 1, title = "The Prelude", mbid = "7538e085-2414-45c8-b470-cdf60091129d" },
+  { n = 2, title = "Oh My God", mbid = "626a0233-da3a-4c92-87f5-58d735cbf7af" },
+  { n = 3, title = "Kingdom Come", mbid = "70b9ebf4-183d-49dc-8fb6-1f998b40fd24" },
+  { n = 4, title = "Show Me What You Got", mbid = "d2ef3914-3b5d-49a4-b0a2-63300e075e23" },
+  { n = 5, title = "Lost One", mbid = "a43eb69a-330a-44ea-9fe3-8b8f2ff74a85" },
+  { n = 6, title = "Do U Wanna Ride", mbid = "f38ffde6-2d50-4e05-843c-854c1f710a7a" },
+  { n = 7, title = "30 Something", mbid = "fc62f97a-5346-4445-96d1-1cb8b3b38381" },
+  { n = 8, title = "I Made It", mbid = "679eefd2-05ea-4d58-b2d9-3cf79be2d341" },
+  { n = 9, title = "Anything", mbid = "81fb744d-aa60-4a12-8bbb-10054360c402" },
+  { n = 10, title = "Hollywood", mbid = "c1f27327-f35a-4b26-9fc1-279d16a2323c" },
+  { n = 11, title = "Trouble", mbid = "1a8bafac-f4dc-4976-943c-355ce72bc5fd" },
+  { n = 12, title = "Dig a Hole", mbid = "2c43e22d-990e-41b5-afdc-ddf9db7840f3" },
+  { n = 13, title = "Minority Report", mbid = "4a1721e0-6dc5-4378-a3d4-0cc1b7da4389" },
+  { n = 14, title = "Beach Chair", mbid = "ba2582fb-2012-4619-be80-13d086ceda8d" },
+]
+
+[[release]]
+mbid = "c93c4eb4-91ee-3ee7-8607-dcad89aa2d4b"
+title = "Show Me What You Got"
+type = "single"
+date = "2006-12-04"
+tracks = [
+  { n = 1, title = "Show Me What You Got", mbid = "61378759-8d34-4e84-a1a0-7d3349286cf1" },
+  { n = 2, title = "Can't Knock the Hustle (live)", mbid = "7b480144-3f91-40f0-8e75-ab2b5ec5a600" },
+]
+
+[[release]]
+mbid = "40b30538-24e4-30e5-ad6d-0af5a323b27a"
+title = "Blue Magic"
+type = "single"
+date = "2007"
+tracks = [
+  { n = 1, title = "Blue Magic (dirty)", mbid = "11fff0a2-f15a-4faa-8e47-a5a386aadd6d" },
+  { n = 2, title = "Blue Magic (clean)", mbid = "0e442e75-364a-40c8-b354-1d6a229c00ee" },
+]
+
+[[release]]
+mbid = "24bee9c2-66a7-3113-8494-2b9bf63fa96d"
+title = "Roc-A-Fella Billionaires"
+type = "single"
+date = "2007"
+tracks = [
+  { n = 1, title = "Roc-A-Fella Billionaires (radio)", mbid = "fbd56eb3-0cf7-427b-9fa5-b4cd7fba4a06" },
+  { n = 2, title = "Roc-A-Fella Billionaires (main)", mbid = "a1f6690a-b9ca-4bdd-97f7-6a68a8d700e3" },
+  { n = 3, title = "Roc-A-Fella Billionaires (instrumental)", mbid = "9cdbdace-49ff-4d21-9f0d-af7e1aef1734" },
+]
+
+[[release]]
+mbid = "735f045f-55b7-3e3d-ae56-c27dea6a81c8"
+title = "Umbrella"
+type = "single"
+date = "2007-03-29"
+tracks = [
+  { n = 1, title = "Umbrella (radio edit)", mbid = "124eda51-0acd-4533-9020-7490b5ce95ba" },
+]
+
+[[release]]
+mbid = "4632d7ca-8813-303b-b85d-c1125cb05671"
+title = "American Gangster"
+type = "album"
+date = "2007-11-06"
+spotify = "6QOGDVh3mVnAJYPnt66Qj5"
+tracks = [
+  { n = 1, title = "Intro", mbid = "b7973bcb-d4ed-430c-b1b9-a9ebfdda215e" },
+  { n = 2, title = "Pray", mbid = "641571a9-ca27-4209-b65e-53b8048fcb32" },
+  { n = 3, title = "American Dreamin'", mbid = "2751f53e-eaa2-4d4f-b730-b8bb880f3b8d" },
+  { n = 4, title = "Hello Brooklyn 2.0", mbid = "22f8143b-fe90-4153-bab4-f99e577d9fe3" },
+  { n = 5, title = "No Hook", mbid = "87145f82-f51b-4f67-8abb-4a2b70f3df7f" },
+  { n = 6, title = "Roc Boys (And The Winner Is)...", mbid = "2d1b14a7-c0b7-41a8-a518-4df135e898c0" },
+  { n = 7, title = "Sweet", mbid = "9488209e-684c-4c83-b145-fc49659e4b1d" },
+  { n = 8, title = "I Know", mbid = "50d4a98a-fba6-4e47-b37a-3cf0b4808350" },
+  { n = 9, title = "Party Life", mbid = "9be3a4db-a8d1-44a7-85ca-ed05e86f91e1" },
+  { n = 10, title = "Ignorant Sh*t", mbid = "b41bf63c-9a50-442e-a953-40c9e2f3601c" },
+  { n = 11, title = "Say Hello", mbid = "023beb05-2027-4925-9ad8-5ce88c092c4c" },
+  { n = 12, title = "Success", mbid = "e5fa53e6-0dd0-4126-933d-d5170bab0f9a" },
+  { n = 13, title = "Fallin'", mbid = "50809841-738f-4083-ac48-9a3d91315d8b" },
+  { n = 14, title = "Blue Magic", mbid = "dae571c9-304d-46f3-aafe-ce5d4c61575c" },
+  { n = 15, title = "American Gangster", mbid = "da0b226a-938b-4c57-86e0-9b5b305d6fe1" },
+]
+
+[[release]]
+mbid = "f74e03b4-b9f4-4019-8785-d4c6eac3216f"
+title = "Roc Boys (And the Winner Is)..."
+type = "single"
+date = "2007-11-23"
+tracks = [
+  { n = 1, title = "Roc Boys (And the Winner Is)... (clean)", mbid = "9fe92c28-25f6-4f8c-8814-690ac408ae82" },
+  { n = 2, title = "Roc Boys (And the Winner Is)... (main)", mbid = "3fba63d8-5ea4-4a7d-9374-79c764a2c46d" },
+  { n = 3, title = "Roc Boys (And the Winner Is)... (clean)", mbid = "9fe92c28-25f6-4f8c-8814-690ac408ae82" },
+  { n = 4, title = "Roc Boys (And the Winner Is)... (main)", mbid = "3fba63d8-5ea4-4a7d-9374-79c764a2c46d" },
+]
+
+[[release]]
+mbid = "5bdf3c84-2b24-42b1-b7d4-7978867ad72f"
+title = "Run This Town"
+type = "single"
+date = "2009-08-09"
+tracks = [
+  { n = 1, title = "Run This Town", mbid = "659af419-4562-4c86-9815-2111eaa4e75c" },
+  { n = 2, title = "Run This Town (live from Madison Square Garden)", mbid = "9fb38b57-c485-4c3f-adea-0e4c3618db9f" },
+]
+
+[[release]]
+mbid = "8f046e37-21ef-46de-9aa6-4f89e3d48bbb"
+title = "The Blueprint 3"
+type = "album"
+date = "2009-09-08"
+spotify = "1g3Ek21j6qDWt2CtravhrX"
+tracks = [
+  { n = 1, title = "What We Talkin' About", mbid = "b1608c01-38b3-449d-970f-b09cae9c81c7" },
+  { n = 2, title = "Thank You", mbid = "b740d7d7-8a0c-42e5-8535-ec72d766bdab" },
+  { n = 3, title = "D.O.A. (Death of Auto-Tune)", mbid = "553653cf-f65f-46d8-9eab-8d35d76e19c2" },
+  { n = 4, title = "Run This Town", mbid = "857c6889-342c-4ff5-8b14-0cb51ad37e73" },
+  { n = 5, title = "Empire State of Mind", mbid = "9e72961c-8ccc-4392-9f8f-c0c223920895" },
+  { n = 6, title = "Real as It Gets", mbid = "c17dd199-8d52-466e-bd28-75eded19fec5" },
+  { n = 7, title = "On to the Next One", mbid = "692587e0-e1c7-4001-9365-c6eecf2f6f2e" },
+  { n = 8, title = "Off That", mbid = "73311dc4-9984-42fe-a10b-417829ff7d5d" },
+  { n = 9, title = "A Star Is Born", mbid = "6afb880a-24cc-417e-a4a0-d09c0d601358" },
+  { n = 10, title = "Venus Vs. Mars", mbid = "eb83df8e-d2d0-41a2-8217-cb1408f3f215" },
+  { n = 11, title = "Already Home", mbid = "51173da4-505f-4587-9ce0-4bb29c53da93" },
+  { n = 12, title = "Hate", mbid = "32061fa2-2727-48fa-b88a-81ede33ce34e" },
+  { n = 13, title = "Reminder", mbid = "39caf0ff-9971-41ae-91b8-77a4b3cced00" },
+  { n = 14, title = "So Ambitious", mbid = "60924bdc-f592-4fb9-90f6-3a256e420579" },
+  { n = 15, title = "Young Forever", mbid = "67f81496-8a78-488c-abe1-50d65d579bfa" },
+]
+
+[[release]]
+mbid = "eb868fd7-c9ca-44b1-b887-b3802492136e"
+title = "Empire State of Mind"
+type = "single"
+date = "2009-10-20"
+tracks = [
+  { n = 1, title = "Empire State of Mind (explicit version)", mbid = "4a9818ba-5963-4761-864f-7d96841053d2" },
+  { n = 2, title = "Jockin' Jay-Z (explicit version)", mbid = "4a72d48f-545d-493e-b2fd-c19920d5d36b" },
+  { n = 3, title = "Run This Town (live From Madison Square Garden)", mbid = "aa7080ba-3691-4870-89e0-d411c54cf2f4" },
+]
+
+[[release]]
+mbid = "cfd0f1c1-fc85-4cf1-8b7a-8a4e77951f8a"
+title = "DJ Hero: Renegade Edition"
+type = "album"
+date = "2009-10-27"
+tracks = [
+  { disc = 1, n = 1, title = "Taking My Ball", mbid = "ea728e5e-d60c-4e7c-b909-9e593969a992" },
+  { disc = 1, n = 2, title = "Say Goodbye to Hollywood", mbid = "41604f06-5482-4d3f-b012-75e6145fa519" },
+  { disc = 1, n = 3, title = "Soldier", mbid = "5ba3480e-2b13-4db9-9bba-a5ec21d335db" },
+  { disc = 1, n = 4, title = "The Re‐Up", mbid = "08082cc1-6f88-46fe-aa2c-2c5d47090df5" },
+  { disc = 1, n = 5, title = "Rabbit Run", mbid = "427ee9b2-1e5d-4ccb-91d6-bbd3badac80a" },
+  { disc = 1, n = 6, title = "Get U Mad", mbid = "c23e2735-957e-4228-bbaa-e4fe283d4aab" },
+  { disc = 1, n = 7, title = "Bad Guys Always Die", mbid = "d2e18562-3a5a-4912-8c54-1eacb11df433" },
+  { disc = 1, n = 8, title = "Public Enemy No. 1", mbid = "3bf07bf9-4077-48e1-b93d-b52672b59da6" },
+  { disc = 1, n = 9, title = "Say What You Say", mbid = "434292f2-0e89-4708-9acf-b7c93cda2d3b" },
+  { disc = 1, n = 10, title = "Lose Yourself", mbid = "588a6833-7a02-4801-8de1-e3824fae5960" },
+  { disc = 1, n = 11, title = "Hey Lady", mbid = "be62e145-e883-495c-ba7c-dd339b5a4253" },
+  { disc = 1, n = 12, title = "One Shot 2 Shot", mbid = "8988222e-e5fc-4405-af5c-9fac2da61f79" },
+  { disc = 2, n = 1, title = "Ain’t No Nigga", mbid = "7710d298-c15d-499f-881d-665556aaf4ea" },
+  { disc = 2, n = 2, title = "Where I’m From", mbid = "c6f2efe2-306e-4472-9b76-96d5f6bec2c5" },
+  { disc = 2, n = 3, title = "Hard Knock Life (Ghetto Anthem)", mbid = "cfc66398-02ee-4dac-8fc3-97debee5ee12" },
+  { disc = 2, n = 4, title = "Jigga My Nigga", mbid = "32bc0a0e-f59e-453f-a890-09f1d060b54e" },
+  { disc = 2, n = 5, title = "I Just Wanna Love U (Give It 2 Me)", mbid = "8be48089-e176-4193-ab16-0841f9a1c378" },
+  { disc = 2, n = 6, title = "Izzo (H.O.V.A.)", mbid = "64ea3615-a07e-42f6-9ecd-fa6ec6d014b4" },
+  { disc = 2, n = 7, title = "’03 Bonnie & Clyde", mbid = "5465ca86-3881-4349-81b2-6efbd3a59451" },
+  { disc = 2, n = 8, title = "Dirt Off Your Shoulder", mbid = "9d4c57fe-ba72-40d5-8bf0-c9c85825bee0" },
+  { disc = 2, n = 9, title = "Show Me What You Got", mbid = "36ca0bb0-9fda-483b-8dc2-4fd322066869" },
+  { disc = 2, n = 10, title = "Roc Boys (And the Winner Is)…", mbid = "3fba63d8-5ea4-4a7d-9374-79c764a2c46d" },
+  { disc = 2, n = 11, title = "Brooklyn Go Hard", mbid = "00807436-71e7-4285-8448-7efd6ab77434" },
+  { disc = 2, n = 12, title = "D.O.A. (Death of Auto‐Tune)", mbid = "3962ed20-1e44-4ab6-9eca-13e04e466249" },
+]
+
+[[release]]
+mbid = "c0353546-6ada-4de1-a6ac-a15482c9653d"
+title = "Meiplé"
+type = "single"
+date = "2009-12-01"
+tracks = [
+  { n = 1, title = "Meiplé", mbid = "a1b582f4-0f5a-4b13-8154-8fc61416e5f8" },
+]
+
+[[release]]
+mbid = "79a65e45-7042-4440-b1e5-d030ed138307"
+title = "H•A•M"
+type = "single"
+date = "2010-01-11"
+spotify = "6E4al0a69SamKFpwL9wxbQ"
+tracks = [
+  { n = 1, title = "H•A•M", mbid = "39263422-5af1-47c5-a05b-9b53af3a72d8" },
+]
+
+[[release]]
+mbid = "68590609-09cb-4f50-a0f8-6b8edc6afda7"
+title = "Young Forever"
+type = "single"
+date = "2010-05-11"
+tracks = [
+  { n = 1, title = "Young Forever", mbid = "4a0bd6f0-5f05-40d6-b7e7-1cddedac784a" },
+]
+
+[[release]]
+mbid = "28e6996c-fdfd-461f-bb66-c19a913e4f1f"
+title = "Run This Town / Posthumus Zone"
+type = "single"
+date = "2010-07-20"
+tracks = [
+  { n = 1, title = "Run This Town / Posthumus Zone", mbid = "18672afa-df21-40e2-a9ce-22e059b2d3d6" },
+]
+
+[[release]]
+mbid = "decefff8-4623-476e-bd07-1cd864ef13e2"
+title = "Monster"
+type = "single"
+date = "2010-08-27"
+tracks = [
+  { n = 1, title = "Monster", mbid = "2beff74d-69fe-4e53-9a47-26f29b64c6d4" },
+]
+
+[[release]]
+mbid = "5a1239bb-171e-4fc7-9333-665675a8dc5a"
+title = "So Appalled"
+type = "single"
+date = "2010-09-24"
+tracks = [
+  { n = 1, title = "So Appalled", mbid = "36e2b944-e497-4b83-9bbb-0723fcb197f8" },
+]
+
+[[release]]
+mbid = "e4f5ae47-c1e4-4a86-9113-31acf265b9fd"
+title = "The Joy"
+type = "single"
+date = "2010-10-29"
+tracks = [
+  { n = 1, title = "The Joy", mbid = "9eff08f8-e8cf-46f9-b948-dc2bf57b6f42" },
+]
+
+[[release]]
+mbid = "e5da833b-b53c-4e07-94c7-bfd769332ce2"
+title = "Shiny Suit Theory"
+type = "single"
+date = "2010-11-15"
+tracks = [
+  { n = 1, title = "Shiny Suit Theory", mbid = "400c9fac-aa64-4fc4-8aad-23803aa5d2ab" },
+]
+
+[[release]]
+mbid = "1624e8c5-fb0c-4703-9f90-ddf4e8b0ad2b"
+title = "Otis"
+type = "single"
+date = "2011-07-21"
+tracks = [
+  { n = 1, title = "Otis", mbid = "c857137c-b09b-4ed5-8006-961624e27854" },
+]
+
+[[release]]
+mbid = "a96597aa-93b4-4e14-9e6e-03892ab24979"
+title = "Watch the Throne"
+type = "album"
+date = "2011-08-08"
+spotify = "1YwzJz7CrV9fd9Qeb6oo1d"
+tracks = [
+  { n = 1, title = "No Church in the Wild", mbid = "62851a84-b837-4356-9e05-ebd8b68c0dad" },
+  { n = 2, title = "Lift Off", mbid = "f26027cf-73d9-4db6-8429-a7bd316713e1" },
+  { n = 3, title = "Niggas in Paris", mbid = "5212a44f-799d-4de9-a569-373632bfa616" },
+  { n = 4, title = "Otis", mbid = "e67985c1-4e31-4d7b-b2af-1f97931df3cc" },
+  { n = 5, title = "Gotta Have It", mbid = "baa41267-29bf-4c88-a5f1-635e73b6f964" },
+  { n = 6, title = "New Day", mbid = "fe956479-9ec4-43a6-8fd8-f597fa9ab438" },
+  { n = 7, title = "That’s My Bitch", mbid = "2c9a5439-73cf-4375-a300-c94a52fd7235" },
+  { n = 8, title = "Welcome to the Jungle", mbid = "5493af9b-1c17-4746-a8c0-267d63e4902b" },
+  { n = 9, title = "Who Gon Stop Me", mbid = "25c83eb9-96e0-4093-b2a7-9248313767be" },
+  { n = 10, title = "Murder to Excellence", mbid = "a3f72678-85a6-4c55-89a1-4c4c7c75daaa" },
+  { n = 11, title = "Made in America", mbid = "d75d6e31-9d60-4aeb-9530-31b7e8d333aa" },
+  { n = 12, title = "Why I Love You", mbid = "ff740436-528d-41b7-b36f-71439d63f0ab" },
+]
+
+[[release]]
+mbid = "5552a11f-a6db-4641-b337-3b5c6d8ad5e3"
+title = "Niggas in Paris"
+type = "single"
+date = "2011-09-13"
+tracks = [
+  { n = 1, title = "Niggas In Paris", mbid = "9585b676-9880-4c61-a69b-b931080ceea6" },
+]
+
+[[release]]
+mbid = "897c5588-a3b7-49a2-a406-41064a56595d"
+title = "Mr. Nice Watch"
+type = "single"
+date = "2011-09-14"
+tracks = [
+  { n = 1, title = "Mr. Nice Watch", mbid = "3470c1dd-664c-4192-bad4-79d08e064dd3" },
+]
+
+[[release]]
+mbid = "0c5a3de3-9caf-40ba-b1b8-02d52833677a"
+title = "Glory"
+type = "single"
+date = "2012-01-17"
+tracks = [
+  { n = 1, title = "Glory", mbid = "309ca971-7094-4faa-9306-8e302e64ab60" },
+]
+
+[[release]]
+mbid = "884919c5-334c-427a-adbd-a81d537045a3"
+title = "Talk That Talk"
+type = "single"
+date = "2012-03-26"
+tracks = [
+  { n = 1, title = "Talk That Talk", mbid = "7417ae79-4f76-4995-ac03-8d67af0cfb07" },
+  { n = 2, title = "We Found Love (Chuckie extended mix)", mbid = "138ce852-7630-4c02-92ac-ce746a96a8c1" },
+]
+
+[[release]]
+mbid = "fc91a838-bb76-4774-b7cb-29326e8ab9ac"
+title = "Clique"
+type = "single"
+date = "2012-09-07"
+tracks = [
+  { n = 1, title = "Clique", mbid = "ebaf2042-3a96-483f-9876-221f8ff512b8" },
+]
+
+[[release]]
+mbid = "8f24e37b-5035-4383-89ff-818417f143e8"
+title = "Suit & Tie"
+type = "single"
+date = "2013-01-14"
+tracks = [
+  { n = 1, title = "Suit & Tie", mbid = "70003461-a6b3-4780-98e2-e1897cee0a7a" },
+]
+
+[[release]]
+mbid = "31662802-c9c4-4840-8384-c23e11aa7887"
+title = "Holy Grail"
+type = "single"
+date = "2013-07-04"
+tracks = [
+  { n = 1, title = "Holy Grail", mbid = "1cc2c1fa-1e8d-47ed-9d39-2d897708e9f6" },
+]
+
+[[release]]
+mbid = "ec8d1e4a-2413-407a-8192-f3cdcf1d5dad"
+title = "Magna Carta… Holy Grail"
+type = "album"
+date = "2013-07-04"
+spotify = "0kSJLkOtFwJoVbZu5C2BRV"
+tracks = [
+  { n = 1, title = "Holy Grail", mbid = "1cc2c1fa-1e8d-47ed-9d39-2d897708e9f6" },
+  { n = 2, title = "Picasso Baby", mbid = "77ef625c-f570-450b-b10f-1cb9a3f225f0" },
+  { n = 3, title = "Tom Ford", mbid = "b05c0d01-6977-42d3-b922-448710d3874a" },
+  { n = 4, title = "FuckWithMeYouKnowIGotIt", mbid = "59a39f25-dcd0-4fa9-909a-b749de0cac1e" },
+  { n = 5, title = "Oceans", mbid = "927c8dbc-02a3-45fd-bb85-b95c9409883a" },
+  { n = 6, title = "F.U.T.W.", mbid = "f594caad-af31-4903-a14e-a7a4ec2e969c" },
+  { n = 7, title = "Somewhere in America", mbid = "cedc2035-ba37-4d97-982a-f0bde22d8e82" },
+  { n = 8, title = "Crown", mbid = "a18d973a-e316-49e5-9b6b-d036a9f26359" },
+  { n = 9, title = "Heaven", mbid = "3f8e66b2-1c6d-4189-a6c3-d8dbb8695a5b" },
+  { n = 10, title = "Versus", mbid = "4d4c3849-c013-49ed-a383-0072e49ba5ad" },
+  { n = 11, title = "Part II (On the Run)", mbid = "65e83192-48fd-4f77-9882-99f1ad16ee32" },
+  { n = 12, title = "Beach Is Better", mbid = "6e57e682-95b3-4dbd-a2cc-605675252395" },
+  { n = 13, title = "BBC", mbid = "73f6dc73-93a4-421f-b583-1418de0bfa68" },
+  { n = 14, title = "Jay Z Blue", mbid = "394adaee-d5dd-4e08-9976-82315a9c3d56" },
+  { n = 15, title = "La Familia", mbid = "29ef91db-e533-43b1-8f63-4e3815c9c1f2" },
+  { n = 16, title = "Nickels and Dimes", mbid = "1b7dbc54-3506-4e30-aa81-3a2ca822034c" },
+]
+
+[[release]]
+mbid = "28e0bb86-4c83-4583-9975-6c5fbc71e78c"
+title = "Higher"
+type = "single"
+date = "2013-08-13"
+spotify = "35xsBU32lZj5sAg7PaeQ3z"
+tracks = [
+  { n = 1, title = "Higher (extended)", mbid = "759b03c2-f154-42fa-89fa-a399880e0069" },
+]
+
+[[release]]
+mbid = "830ccbe5-4556-4eba-a3f5-a627de93814e"
+title = "Drunk in Love"
+type = "single"
+date = "2013-12-13"
+spotify = "5y4hVutQMp7mAMrUKbkch4"
+tracks = [
+  { n = 1, title = "Drunk in Love", mbid = "37a4373e-e1ab-433c-a700-d87b410326da" },
+]
+
+[[release]]
+mbid = "90da5874-4e15-43b1-8e84-6e405db6636a"
+title = "The Devil Is a Lie"
+type = "single"
+date = "2013-12-19"
+tracks = [
+  { n = 1, title = "The Devil Is a Lie", mbid = "8021c241-9b28-4076-8adc-1bda7fca9d61" },
+]
+
+[[release]]
+mbid = "7c51a1ad-0922-4af7-85db-2323c89cfdd7"
+title = "They Don’t Love You No More"
+type = "single"
+date = "2014-05-02"
+tracks = [
+  { n = 1, title = "They Don’t Love You No More", mbid = "22b63b7e-ff8a-4f5d-8e71-9ac351d415c2" },
+]
+
+[[release]]
+mbid = "d230cf74-3d09-43f6-9dd3-3819fad40b62"
+title = "Drug Dealers Anonymous"
+type = "single"
+date = "2016-06-23"
+spotify = "6seO2kGWhFKbe61aNvdB12"
+tracks = [
+  { n = 1, title = "Drug Dealers Anonymous", mbid = "6f77d670-c2a8-41b9-b2a1-ccda685b631a" },
+]
+
+[[release]]
+mbid = "ea61a827-3ddf-4595-abac-900f7d99c530"
+title = "Shining"
+type = "single"
+date = "2017-02-14"
+spotify = "6QE212g9fkIqkZ5agkeqEJ"
+tracks = [
+  { n = 1, title = "Shining", mbid = "bae3e305-27ce-4fa2-a3d7-5f01dd900c46" },
+]
+
+[[release]]
+mbid = "20a211c6-60fd-426a-a2df-68631393b656"
+title = "Biking"
+type = "single"
+date = "2017-04-10"
+spotify = "7yOOPJjNelITCaYMqk8V6r"
+tracks = [
+  { n = 1, title = "Biking", mbid = "0f1b2217-50a0-42b8-9ce7-5ebddfbde66a" },
+]
+
+[[release]]
+mbid = "aa35dd3d-b629-4a5f-abe9-a8463f80b37e"
+title = "4:44"
+type = "album"
+date = "2017-06-30"
+spotify = "7GoZNNb7Yl74fpk8Z6I2cv"
+tracks = [
+  { n = 1, title = "Kill Jay Z", mbid = "76452468-d6c6-4b4f-9320-fdfa59645c21" },
+  { n = 2, title = "The Story of O.J.", mbid = "8e89413e-ec45-406e-85d6-93f9a7b83187" },
+  { n = 3, title = "Smile", mbid = "02e6fd0b-b631-4660-ba6f-fd64b8791c94" },
+  { n = 4, title = "Caught Their Eyes", mbid = "fad4ffe8-32f4-43db-b2a2-1b4b0c8ac10f" },
+  { n = 5, title = "4:44", mbid = "d75571f3-0005-429e-ab44-c6b47b856dd0" },
+  { n = 6, title = "Family Feud", mbid = "08aac726-602a-4263-81f7-a236ce33ba31" },
+  { n = 7, title = "Bam", mbid = "fcbd09be-acc3-42f0-a17e-f1b1c020c3b4" },
+  { n = 8, title = "Moonlight", mbid = "4e8435ad-f930-40db-b894-acfacbe395de" },
+  { n = 9, title = "Marcy Me", mbid = "5214aa73-6980-4976-a700-794fe92ac4d2" },
+  { n = 10, title = "Legacy", mbid = "67566f73-8bd8-4d49-aa08-baefccb34399" },
+]
+
+[[release]]
+mbid = "03409c34-0628-4d08-9f6b-80e0b0f58fe5"
+title = "Top Off"
+type = "single"
+date = "2018-03-02"
+spotify = "1Decr2jtK2wL1Cov28uKhW"
+tracks = [
+  { n = 1, title = "Top Off", mbid = "0042178d-1f88-44a1-9bf6-e6cf5da37fc5" },
+]
+
+[[release]]
+mbid = "6fa3edad-a844-4bb7-8b3a-b8d26a82b7db"
+title = "MOOD 4 EVA"
+type = "single"
+date = "2019-07-19"
+tracks = [
+  { n = 1, title = "MOOD 4 EVA (extended version)", mbid = "3b2b738e-377f-4893-8eef-3935db02b6c4" },
+]
+
+[[release]]
+mbid = "6fcb37d5-03e3-4444-81d9-e2e032cda2b2"
+title = "Entrepreneur"
+type = "single"
+date = "2020-08-21"
+spotify = "1WbOXz9VQ3YM1OtnwoawHa"
+tracks = [
+  { n = 1, title = "Entrepreneur", mbid = "51955091-489e-4ff1-96e8-92a0dce37371" },
+]
+
+[[release]]
+mbid = "c616ee62-cf23-4ec0-9280-ddb7d5905912"
+title = "What It Feels Like"
+type = "single"
+date = "2021-02-12"
+tracks = [
+  { n = 1, title = "What It Feels Like", mbid = "0e0369df-a6b6-4a86-8aec-80c1f03b96de" },
+]
+
+[[release]]
+mbid = "3782b25a-61f8-4af4-9eb5-a34e0975694a"
+title = "Neck & Wrist"
+type = "single"
+date = "2022-04-06"
+spotify = "0MomByEXmXNIZEuN2cJkw3"
+tracks = [
+  { n = 1, title = "Neck & Wrist", mbid = "907c7557-4cb1-48f5-bc70-70147d94b6d3" },
+]
+
+[[release]]
+mbid = "1a3e3774-defa-470f-9535-d75ff7d2eb7a"
+title = "New York (Concept De Paris)"
+type = "single"
+date = "2023-04-16"
+tracks = [
+  { n = 1, title = "New York (Concept De Paris)", mbid = "e14767ae-1626-4bca-a8a7-03130b5d4ea0" },
+]
+
+[[release]]
+mbid = "3c0915af-9322-4b20-97e1-1a42422b2adb"
+title = "Dear Summer"
+type = "single"
+date = "2026-06-01"
+spotify = "1rc3J0W46KtRuQhV8jV2dS"
+tracks = [
+  { n = 1, title = "Dear Summer", mbid = "96cd952a-8300-49ea-8ee7-5ea83f2c3c2b" },
+  { n = 2, title = "Dear Summer (Radio Edit)", mbid = "96cd952a-8300-49ea-8ee7-5ea83f2c3c2b" },
+]
+
+[[release]]
+mbid = "345d6db0-726d-46b9-8b29-1a29f4e7ad0d"
+title = "Girl’s Best Friend"
+type = "single"
+date = "2026-08-09"
+spotify = "7H5qM8fiFTwxURNLEDw0HE"
+tracks = [
+  { n = 1, title = "Girl’s Best Friend", mbid = "8d918472-3373-4844-b1cd-477041aa5497" },
+  { n = 2, title = "Girl’s Best Friend (radio edit)", mbid = "68b35343-1c49-44bc-88f6-9480b67a3286" },
+]

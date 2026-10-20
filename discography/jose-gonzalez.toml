@@ -1,0 +1,492 @@
+format = 1
+artists = [
+  "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8",  # José González
+  "10a0e353-846c-44f0-aed3-3e2e595c9cdb",  # José González & The String Theory
+]
+
+[[release]]
+mbid = "74a717a9-a7a5-346e-b793-ecdfecf0348c"
+title = "Heartbeats"
+type = "single"
+date = "2003-06-01"
+spotify = "4WO6oaKkjfakVRuZhQcTwf"
+tracks = [
+  { n = 1, title = "Heartbeats", mbid = "e9ba89bd-ab94-465a-8c6f-9d37b4b5d2cd" },
+  { n = 2, title = "Suggestions", mbid = "2001aa02-0cba-4ad8-b506-f5304b570b52" },
+]
+
+[[release]]
+mbid = "c1aadbad-bc5f-308a-a15e-a94afe1b44c0"
+title = "Crosses EP"
+type = "ep"
+date = "2003-06-11"
+spotify = "0KYiVSAy0kciZrPBnCaqTu"
+tracks = [
+  { n = 1, title = "Crosses", mbid = "4152c5db-f363-4d6c-b42a-94a9c25869e4" },
+  { n = 2, title = "Storm", mbid = "7381fae0-3291-4458-a516-bcf700aa2e6b" },
+  { n = 3, title = "Deadweight on Velveteen", mbid = "d1be0a44-cb2a-4514-8ea0-02dc63be2461" },
+  { n = 4, title = "Hints", mbid = "ec83b00b-8b52-47fa-ac42-a0d9cfb13fbd" },
+]
+
+[[release]]
+mbid = "c128bbd3-0481-3abd-98df-4bf5ef8df243"
+title = "Veneer"
+type = "album"
+date = "2003-10"
+spotify = "0PtqooT6O0E1uyizFZevFY"
+tracks = [
+  { n = 1, title = "Slow Moves", mbid = "64b27f2f-9fd2-4f8e-82cc-701d85b651d8" },
+  { n = 2, title = "Remain", mbid = "73c0735a-7864-4862-81e1-9a6fdfa954a7" },
+  { n = 3, title = "Lovestain", mbid = "668a5962-925d-496f-9a14-8c76ac0a7da2" },
+  { n = 4, title = "Heartbeats", mbid = "e9ba89bd-ab94-465a-8c6f-9d37b4b5d2cd" },
+  { n = 5, title = "Crosses", mbid = "4152c5db-f363-4d6c-b42a-94a9c25869e4" },
+  { n = 6, title = "Deadweight on Velveteen", mbid = "d1be0a44-cb2a-4514-8ea0-02dc63be2461" },
+  { n = 7, title = "All You Deliver", mbid = "5248fa68-3c15-4602-9d38-405127994753" },
+  { n = 8, title = "Stay in the Shade", mbid = "75f76be0-b76b-4447-9f86-dcea35514c68" },
+  { n = 9, title = "Hints", mbid = "ec83b00b-8b52-47fa-ac42-a0d9cfb13fbd" },
+  { n = 10, title = "Save Your Day", mbid = "46115882-870a-4085-a4b1-88e4b4efe3f6" },
+  { n = 11, title = "Broken Arrows", mbid = "c3be6587-c84d-418d-b136-e7b59a75c8d3" },
+]
+
+[[release]]
+mbid = "8827fc7f-4fba-3405-9860-e78871ed7377"
+title = "If You Ever Need a Stranger (to Sing at Your Wedding) / Hand on Your Heart"
+type = "single"
+date = "2004-01"
+tracks = [
+  { n = 1, title = "If You Ever Need a Stranger (to Sing at Your Wedding)", mbid = "60e26159-c432-488e-89f8-b8603a60480d" },
+  { n = 2, title = "Hand on Your Heart", mbid = "c7540df7-b1f3-46f2-a7af-ad906f1f6c2b" },
+]
+
+[[release]]
+mbid = "6d14f843-9f23-3986-92a8-e723dd27076c"
+title = "Remain EP"
+type = "ep"
+date = "2004-01-21"
+tracks = [
+  { n = 1, title = "Remain", mbid = "73c0735a-7864-4862-81e1-9a6fdfa954a7" },
+  { n = 2, title = "Lovestain", mbid = "668a5962-925d-496f-9a14-8c76ac0a7da2" },
+  { n = 3, title = "Love Will Tear Us Apart", mbid = "fa80c22b-4a40-4adc-9c32-1b1c76619488" },
+  { n = 4, title = "Suggestions", mbid = "2001aa02-0cba-4ad8-b506-f5304b570b52" },
+]
+
+[[release]]
+mbid = "dfadf9f2-1e9b-3ba8-8663-0dfd3a61f386"
+title = "Stay in the Shade EP"
+type = "ep"
+date = "2004-06-23"
+spotify = "4t3u8kOnNgl3kkuC3AYHIs"
+tracks = [
+  { n = 1, title = "Stay in the Shade", mbid = "04b713fe-a8d6-4b20-8d87-b56d111aac71" },
+  { n = 2, title = "Down the Hillside", mbid = "252bf0ee-12c3-49b9-ab65-e878b100eb32" },
+  { n = 3, title = "Sensing Owls", mbid = "49ef919a-c92b-44cb-8f8e-8cda1dfae5ff" },
+  { n = 4, title = "Hand on Your Heart", mbid = "2082b518-af6b-4a27-a427-289ae59efec8" },
+  { n = 5, title = "Instr.", mbid = "fad50dcf-e9e3-4849-9722-0dd543f06397" },
+]
+
+[[release]]
+mbid = "6f53ae60-4d18-3444-b39d-183459a469f4"
+title = "Hand on Your Heart"
+type = "single"
+date = "2005-08"
+spotify = "2hC1KCTlEkBj5RNnpGyVxr"
+tracks = [
+  { n = 1, title = "Hand on Your Heart", mbid = "768801c8-55da-4e00-b6c6-879e9be62ae6" },
+  { n = 2, title = "Sensing Owls", mbid = "d279447e-f3b7-4b99-9285-c1f6d71440fa" },
+]
+
+[[release]]
+mbid = "c5e016e5-6d41-3ca7-9b8c-a893e6539167"
+title = "Australian Tour EP"
+type = "ep"
+date = "2005-11-21"
+tracks = [
+  { n = 1, title = "Love Will Tear Us Apart", mbid = "fa80c22b-4a40-4adc-9c32-1b1c76619488" },
+  { n = 2, title = "Suggestions", mbid = "2001aa02-0cba-4ad8-b506-f5304b570b52" },
+  { n = 3, title = "Down the Hillside", mbid = "252bf0ee-12c3-49b9-ab65-e878b100eb32" },
+  { n = 4, title = "Sensing Owls", mbid = "49ef919a-c92b-44cb-8f8e-8cda1dfae5ff" },
+  { n = 5, title = "Hand on Your Heart", mbid = "2082b518-af6b-4a27-a427-289ae59efec8" },
+  { n = 6, title = "Instr.", mbid = "fad50dcf-e9e3-4849-9722-0dd543f06397" },
+  { n = 7, title = "Storm", mbid = "7381fae0-3291-4458-a516-bcf700aa2e6b" },
+  { n = 8, title = "Heartbeats (Rocket Boy remix)", mbid = "56c9419c-efdf-47f4-88b0-bace4a05a6a2" },
+]
+
+[[release]]
+mbid = "73cfec8f-14ed-442b-9cfa-9ea9a0c82a3d"
+title = "B Sides Collected"
+type = "ep"
+date = "2006"
+tracks = [
+  { n = 1, title = "Hand on Your Heart", mbid = "2082b518-af6b-4a27-a427-289ae59efec8" },
+  { n = 2, title = "Storm", mbid = "7381fae0-3291-4458-a516-bcf700aa2e6b" },
+  { n = 3, title = "Down the Hillside", mbid = "252bf0ee-12c3-49b9-ab65-e878b100eb32" },
+  { n = 4, title = "Sensing Owls", mbid = "49ef919a-c92b-44cb-8f8e-8cda1dfae5ff" },
+  { n = 5, title = "Suggestions", mbid = "2001aa02-0cba-4ad8-b506-f5304b570b52" },
+  { n = 6, title = "Love Will Tear Us Apart", mbid = "fa80c22b-4a40-4adc-9c32-1b1c76619488" },
+  { n = 7, title = "Instr", mbid = "fad50dcf-e9e3-4849-9722-0dd543f06397" },
+]
+
+[[release]]
+mbid = "0f9840a8-4973-410a-a5b7-54a01c7c0926"
+title = "Heartbeats"
+type = "single"
+date = "2006-04-05"
+tracks = [
+  { n = 1, title = "Heartbeats", mbid = "e9ba89bd-ab94-465a-8c6f-9d37b4b5d2cd" },
+  { n = 2, title = "Heartbeats", mbid = "db4c9220-df76-4b42-b6f5-8bf52cc80f77" },
+]
+
+[[release]]
+mbid = "abfbe111-07b2-335c-923b-488ea351da53"
+title = "Crosses"
+type = "single"
+date = "2006-04-10"
+tracks = [
+  { n = 1, title = "Crosses", mbid = "4152c5db-f363-4d6c-b42a-94a9c25869e4" },
+  { n = 2, title = "Storm", mbid = "7381fae0-3291-4458-a516-bcf700aa2e6b" },
+]
+
+[[release]]
+mbid = "200f096d-1dca-3b55-a1dd-1227405b7535"
+title = "Killing for Love"
+type = "single"
+date = "2007"
+spotify = "1MOwv2jfPA5GDKiqCRPHJ0"
+tracks = [
+  { n = 1, title = "Killing for Love", mbid = "00048f58-c10d-4dbe-a04f-e5b88a86ff61" },
+  { n = 2, title = "Smalltown Boy", mbid = "d9eecadb-e8ac-42ac-8e94-579c6a29d0fa" },
+]
+
+[[release]]
+mbid = "44b7d883-7497-31b3-a6c7-c4fe8b969105"
+title = "Down the Line"
+type = "single"
+date = "2007-09-03"
+spotify = "6WkDGJEoeLFGtVchi3ae27"
+tracks = [
+  { n = 1, title = "Down the Line", mbid = "8330c6a2-94ee-4a81-883e-b9d320edfaac" },
+  { n = 2, title = "Smalltown Boy", mbid = "745dad4b-5a77-4e99-9ae2-c169c5b538d3" },
+]
+
+[[release]]
+mbid = "9b257522-ef8c-3bdc-8d09-464f2da3d98a"
+title = "In Our Nature"
+type = "album"
+date = "2007-09-21"
+spotify = "4kDXbi7stVOBW4WPdlFUzd"
+tracks = [
+  { n = 1, title = "How Low", mbid = "184b3d23-deb8-468c-b576-580c2d4487e6" },
+  { n = 2, title = "Down the Line", mbid = "8330c6a2-94ee-4a81-883e-b9d320edfaac" },
+  { n = 3, title = "Killing for Love", mbid = "00048f58-c10d-4dbe-a04f-e5b88a86ff61" },
+  { n = 4, title = "In Our Nature", mbid = "183fa408-7aa5-45a1-b4f9-c69989cb7d59" },
+  { n = 5, title = "Teardrop", mbid = "a88952e2-6974-47a1-a692-721074aca3a1" },
+  { n = 6, title = "Abram", mbid = "05212078-3692-40d3-afb3-9d1435f67d33" },
+  { n = 7, title = "Time to Send Someone Away", mbid = "dd88e11d-c0a1-4abd-9159-afdde8d4bfc3" },
+  { n = 8, title = "The Nest", mbid = "67b805c2-ec6b-4e0b-be73-d9e264a54f85" },
+  { n = 9, title = "Fold", mbid = "0a770e7d-bcca-43b7-8573-0243e9a3eadd" },
+  { n = 10, title = "Cycling Trivialities", mbid = "78bc013f-052d-4bcd-9e9a-f83d05d845e0" },
+]
+
+[[release]]
+mbid = "bd8ae7af-ca63-3c96-8b68-e1903250de2a"
+title = "Teardrop"
+type = "single"
+date = "2007-10-22"
+spotify = "1lasLiI29mPcLhoaDzI5qV"
+tracks = [
+  { n = 1, title = "Teardrop", mbid = "7e26cb76-57a6-4192-a3e6-c04ca9900279" },
+  { n = 2, title = "Four Forks Ache", mbid = "1bd4c5a3-2c8f-4bfa-95ac-55ba600fdcbd" },
+]
+
+[[release]]
+mbid = "79895297-eba8-3461-b310-fbe75f9addad"
+title = "How Low / Sheets"
+type = "single"
+date = "2007-12-11"
+tracks = [
+  { n = 1, title = "How Low", mbid = "184b3d23-deb8-468c-b576-580c2d4487e6" },
+  { n = 2, title = "Sheets", mbid = "f296d145-02bd-45fa-ace8-5f9e0f0da7c3" },
+]
+
+[[release]]
+mbid = "3ce83817-d406-4855-8f3e-381a6e2f16c9"
+title = "Cycling Trivialities (radio edit)"
+type = "single"
+date = "2009-03-02"
+spotify = "70Mwn9yUdJ93CyUwW60uNo"
+tracks = [
+  { n = 1, title = "Cycling Trivialities (radio edit)", mbid = "e31ffd68-baa3-44f4-a423-c7d3dfa91d5f" },
+]
+
+[[release]]
+mbid = "b07baaab-2b6b-4460-b919-2d8d3b92608a"
+title = "Far Away"
+type = "single"
+date = "2012-11-26"
+spotify = "0O3Mbx03N02dd6PVMmBqqS"
+tracks = [
+  { n = 1, title = "Far Away (short version)", mbid = "ab010a66-233c-4b54-8ff8-070a13682f8e" },
+  { n = 2, title = "Far Away", mbid = "afafbdba-622f-4e17-91c5-9085ea581b5d" },
+]
+
+[[release]]
+mbid = "495f6670-d0b9-48d5-b1c7-0dd7ab6c6fbe"
+title = "Stay Alive"
+type = "single"
+date = "2013-03-03"
+spotify = "1bOzvOad5Oirmr1ewGlnKs"
+tracks = [
+  { n = 1, title = "Stay Alive (From “The Secret Life of Walter Mitty” Soundtrack)", mbid = "fb0453ee-996c-4826-83e5-20ff9312be6d" },
+]
+
+[[release]]
+mbid = "dee5e59a-fcfa-4f81-a11c-09309df65172"
+title = "The Secret Life of Walter Mitty: Original Motion Picture Score"
+type = "album"
+date = "2013-12-23"
+tracks = [
+  { n = 1, title = "Walter Time", mbid = "11e01b46-bf89-4e08-bd6b-ee55220a6e0c" },
+  { n = 2, title = "Building Rescue", mbid = "18deb085-36b4-4bab-ab3e-4158b80ee87c" },
+  { n = 3, title = "Time & Life", mbid = "d9e32130-7c7d-4012-83ab-101f8f51c614" },
+  { n = 4, title = "Walter Sees Cheryl", mbid = "f361f043-97b8-4370-8dad-f5a12f07e921" },
+  { n = 5, title = "Arctic Fantasy", mbid = "bb381fe8-1fd7-44a5-b2e8-4e7d738d3395" },
+  { n = 6, title = "Paperclip", mbid = "80ddcfe5-44d3-4727-bfd3-e9631f129394" },
+  { n = 7, title = "Wallet", mbid = "94252af6-2cbb-4132-b5a6-8361fc5dc8cd" },
+  { n = 8, title = "Clue #1", mbid = "74874448-86d8-48f2-8909-f6258233cc1a" },
+  { n = 9, title = "Dangling Piano", mbid = "c5d1f112-fb0b-467a-8d6e-4e09966efdc4" },
+  { n = 10, title = "Clue #2", mbid = "91d34129-7427-46a7-b9c6-7501f79f5d22" },
+  { n = 11, title = "Ted vs Walter", mbid = "1010d776-1442-49e2-b818-4ebeb2d03b4c" },
+  { n = 12, title = "Sixth Avenue", mbid = "09b413c2-5d80-4db6-b96c-3f0efecdbcc7" },
+  { n = 13, title = "Button", mbid = "8bfb485e-b823-49f9-aa8f-121f33990aae" },
+  { n = 14, title = "The Beckoning", mbid = "7711c60d-8190-4abb-823e-405bfcc31476" },
+  { n = 15, title = "Pub Decision", mbid = "ef73242e-8ac1-414b-a593-14803e811a0e" },
+  { n = 16, title = "Shark Attack", mbid = "2b8cbff0-9410-41b9-81e4-b15daa20dd83" },
+  { n = 17, title = "Into the Harbor", mbid = "ce4d27fb-a5b5-4678-91a9-ae7554e5da74" },
+  { n = 18, title = "Eyjafjallajökull", mbid = "4d45157f-6744-4b2c-a979-96beba5c3600" },
+  { n = 19, title = "Eruption", mbid = "dea48014-a52e-4048-ada9-3fe97be9d910" },
+  { n = 20, title = "Cup Reminders", mbid = "ca2a1d01-c136-41b3-a109-87864dbb95e8" },
+  { n = 21, title = "Skateboard Delivery", mbid = "32c2b22f-d574-4afb-bbc7-6c9aa3e2da1a" },
+  { n = 22, title = "Conan Cab", mbid = "a67f1b61-1113-4c56-ad48-c2574d343336" },
+  { n = 23, title = "You Finish His Work", mbid = "39f7569d-7326-490b-bce8-a767b71bce69" },
+  { n = 24, title = "Afghan Trek", mbid = "f9afadae-5f69-4bcf-a2ff-a6c405b40bcc" },
+  { n = 25, title = "Quintessence", mbid = "9ddcd39e-c7f1-4483-a434-176cf14455da" },
+  { n = 26, title = "I'm Right Here", mbid = "f1a0719a-59ed-433f-8d6b-f1126d2bc1fa" },
+  { n = 27, title = "Stationary Cycle", mbid = "0664f58e-619a-4216-9a7d-c483d0c990b1" },
+]
+
+[[release]]
+mbid = "bcf38836-43b3-4a78-9003-0272e3e396b4"
+title = "This Is How We Walk on the Moon"
+type = "single"
+date = "2014-09-17"
+spotify = "6Lm9qi5aIpUEthvxQZosah"
+tracks = [
+  { n = 1, title = "This Is How We Walk on the Moon", mbid = "59a0a02f-492d-4246-a964-3708c81b63b0" },
+]
+
+[[release]]
+mbid = "70d6d464-c46c-468e-a8d6-01a657c2496b"
+title = "Every Age"
+type = "single"
+date = "2014-11-05"
+spotify = "69ILGhCbDCfW5skCj2Yo09"
+tracks = [
+  { n = 1, title = "Every Age", mbid = "8d708009-bd53-4c22-9009-0ca045c94df4" },
+]
+
+[[release]]
+mbid = "1fadfd22-08be-4cf9-b677-2089abdc0569"
+title = "Vestiges & Claws"
+type = "album"
+date = "2015-02-17"
+spotify = "228GzBenQee8de8sxKAbmV"
+tracks = [
+  { n = 1, title = "With the Ink of a Ghost", mbid = "42a4ae39-4a4c-4f4e-9d38-6e3bb7f024af" },
+  { n = 2, title = "Let It Carry You", mbid = "702c6079-224b-4aea-8c23-0d451bd6da76" },
+  { n = 3, title = "Stories We Build, Stories We Tell", mbid = "040bd80d-f0ba-43cd-87df-b6c7d0726338" },
+  { n = 4, title = "The Forest", mbid = "9fddddda-bcb1-4e61-8b02-2f006064f3e6" },
+  { n = 5, title = "Leaf Off / The Cave", mbid = "40f713dd-12e1-41fd-a9d9-22f7e65c1301" },
+  { n = 6, title = "Every Age", mbid = "8d708009-bd53-4c22-9009-0ca045c94df4" },
+  { n = 7, title = "What Will", mbid = "80594d22-f043-4921-97a2-17514fdf3cb7" },
+  { n = 8, title = "Vissel", mbid = "47a252ba-6a7b-47ac-87a6-ad4a1f79754b" },
+  { n = 9, title = "Afterglow", mbid = "320ba1a0-c088-4036-b0e3-f294c165f8fa" },
+  { n = 10, title = "Open Book", mbid = "001a1f2f-af6f-41e7-b1ac-6df61ad513ef" },
+]
+
+[[release]]
+mbid = "48df36e0-73c5-4dfa-bd2a-971cb97c7ff7"
+title = "Leaf Off / The Cave"
+type = "single"
+date = "2015-02-24"
+spotify = "6ekAq2ldmFfYzgwJ6Ewoe4"
+tracks = [
+  { n = 1, title = "Leaf Off / The Cave", mbid = "40f713dd-12e1-41fd-a9d9-22f7e65c1301" },
+]
+
+[[release]]
+mbid = "957a63e3-a7ea-4913-a4af-4fce93d247f1"
+title = "Open Book"
+type = "single"
+date = "2015-05-25"
+spotify = "6LSwwlv8ZcXwTlDjCVZBak"
+tracks = [
+  { n = 1, title = "Open Book", mbid = "001a1f2f-af6f-41e7-b1ac-6df61ad513ef" },
+  { n = 2, title = "Open Book (Ymusic version)", mbid = "1d4e5ba6-b77a-4cee-bc34-2dd8b305809c" },
+]
+
+[[release]]
+mbid = "638f237c-3082-41cc-a75b-db971864b556"
+title = "Let It Carry You"
+type = "ep"
+date = "2015-09-18"
+spotify = "3t9MpwJVB3OxKPeZia6o8H"
+tracks = [
+  { n = 1, title = "Let It Carry You", mbid = "702c6079-224b-4aea-8c23-0d451bd6da76" },
+  { n = 2, title = "Let It Carry You (live version)", mbid = "6fc57ebf-a121-4981-a8e0-26333e768cb9" },
+  { n = 3, title = "Let It Carry You (Holy Ghost remix)", mbid = "b992d267-9c57-48de-ad3a-a7c90e6342ea" },
+  { n = 4, title = "Let It Carry You (Dino Soccio remix)", mbid = "9ed19bbf-1442-4615-8b7d-993befba33d6" },
+]
+
+[[release]]
+mbid = "304ee977-d8fb-4587-830b-590bf47481ab"
+title = "Aurora"
+type = "single"
+date = "2019-02-22"
+tracks = [
+  { n = 1, title = "Aurora", mbid = "47c56d43-ecfc-497e-85db-6b2da78f9cc2" },
+  { n = 2, title = "Aurora (alternative mix)", mbid = "68a14fb4-ba67-4e27-af4b-a90e8cc02931" },
+]
+
+[[release]]
+mbid = "2b820cb7-2234-4b85-8e47-be0c2d64fc07"
+title = "El invento"
+type = "single"
+date = "2021-02-17"
+tracks = [
+  { n = 1, title = "El invento", mbid = "58b04ed6-9296-4da4-b429-f6831fdf66f5" },
+]
+
+[[release]]
+mbid = "bf40c3b8-4a1f-49da-9549-109a4d57d092"
+title = "Local Valley"
+type = "album"
+date = "2021-09-17"
+spotify = "6Q25NMKz8KgHefaahejQjx"
+tracks = [
+  { n = 1, title = "El invento", mbid = "58b04ed6-9296-4da4-b429-f6831fdf66f5" },
+  { n = 2, title = "Visions", mbid = "dc82f41b-d07b-4e63-848f-e652525f3a11" },
+  { n = 3, title = "The Void", mbid = "12ee12ec-2036-48f0-b81d-0c2d3294dff4" },
+  { n = 4, title = "Horizons", mbid = "5008cf07-d0d3-47af-9acb-8b69b49890a3" },
+  { n = 5, title = "Head On", mbid = "2ea8179e-aa87-4dc1-8b7b-40c1bceaf879" },
+  { n = 6, title = "Valle local", mbid = "d843a4a7-6540-426d-8618-f159e80d5c6d" },
+  { n = 7, title = "Lasso In", mbid = "9cf476ee-f022-442a-82f9-bc38d50b3704" },
+  { n = 8, title = "Lilla G", mbid = "77e0c03b-fc83-458b-a713-a31c8bb1560a" },
+  { n = 9, title = "Swing", mbid = "85e16383-6087-49ec-85b5-e5b8fe2b57b3" },
+  { n = 10, title = "Tjomme", mbid = "276ebbd3-56a9-44ae-8e53-f2211557d87b" },
+  { n = 11, title = "Line of Fire", mbid = "c95f21b2-7a2b-475b-b017-4b6a77ba9237" },
+  { n = 12, title = "En stund på jorden", mbid = "1e20842f-2880-4ac1-864b-55602f357ac3" },
+  { n = 13, title = "Honey Honey", mbid = "024219fc-cf75-48b6-8a86-eb8e3ba71ee2" },
+]
+
+[[release]]
+mbid = "21ff7172-7452-4efe-83c5-c3d855d0e616"
+title = "El Invento EP"
+type = "ep"
+date = "2022-03-09"
+tracks = [
+  { n = 1, title = "El Invento (Choral version)", mbid = "08280f53-3d25-4fd0-967f-5c25b161eddc" },
+  { n = 2, title = "El Invento (Sofia Kourtesis remix)", mbid = "3460e089-1c86-4c87-aa1d-9f09f5f60da5" },
+  { n = 3, title = "El Invento (dub version)", mbid = "cab47419-53f9-4dfc-a14a-8b26c86eb3c0" },
+  { n = 4, title = "El Invento", mbid = "58b04ed6-9296-4da4-b429-f6831fdf66f5" },
+]
+
+[[release]]
+mbid = "2a09c0fb-fada-4d58-9b58-3a58aaca465c"
+title = "Swing EP"
+type = "ep"
+date = "2022-06-29"
+tracks = [
+  { n = 1, title = "Swing (Roosevelt remix)", mbid = "0d523278-e6d6-4307-b2ea-de520a075a22" },
+  { n = 2, title = "Swing (Solomun remix)", mbid = "00fdea8a-1098-4426-9d94-11651cf6540a" },
+  { n = 3, title = "Swing (Ants in the Pants version)", mbid = "7f552c72-7333-43e9-ab67-2ee88ff35b0e" },
+  { n = 4, title = "Swing", mbid = "85e16383-6087-49ec-85b5-e5b8fe2b57b3" },
+]
+
+[[release]]
+mbid = "e984c3ba-9218-4004-ae22-d2a3d7005bfd"
+title = "Visions EP"
+type = "ep"
+date = "2023-01-26"
+tracks = [
+  { n = 1, title = "Visions (Flanger version)", mbid = "eaeaba27-0276-4b6a-bb26-fcf440024ca6" },
+  { n = 2, title = "Visions (Dungen remix)", mbid = "963c0b07-bf66-4261-a4ce-3ad02b43e318" },
+  { n = 3, title = "Visions (Ela Minus remix)", mbid = "b753186b-3bfa-46f3-a82e-8a550a5e8ad0" },
+  { n = 4, title = "Visions", mbid = "dc82f41b-d07b-4e63-848f-e652525f3a11" },
+]
+
+[[release]]
+mbid = "30e499c6-d19b-4d64-8572-7297c2a6530b"
+title = "Head On EP"
+type = "ep"
+date = "2023-03-28"
+tracks = [
+  { n = 1, title = "Head On (Arp Version)", mbid = "f0eb044e-904c-465f-8070-62ee77268863" },
+  { n = 2, title = "Head On (Miss Grit Remix)", mbid = "37e24690-4aca-4c9a-a442-b81a2d8d9edf" },
+  { n = 3, title = "Head On (The Bodies Obtained Remix)", mbid = "b261154e-c7ac-479d-a13c-25a3d8de625c" },
+  { n = 4, title = "Head On (Gidge Remix)", mbid = "eda421f5-892f-46b2-b870-df6e313f8eb5" },
+  { n = 5, title = "Head On", mbid = "2ea8179e-aa87-4dc1-8b7b-40c1bceaf879" },
+]
+
+[[release]]
+mbid = "8030ef88-17d8-497b-8e05-7d7e694f2cc9"
+title = "Pajarito"
+type = "single"
+date = "2025-11-04"
+spotify = "2LL4R5H9rzRafsw7pCmy71"
+tracks = [
+  { n = 1, title = "Pajarito", mbid = "c94895f5-357a-4430-9bba-595eac266932" },
+]
+
+[[release]]
+mbid = "73e8e361-7643-4ff9-9039-7dcd9e929da7"
+title = "Against the Dying of the Light"
+type = "single"
+date = "2026-01-13"
+spotify = "0RkkdRmM3fwNipEAuweRhK"
+tracks = [
+  { n = 1, title = "Against the Dying of the Light", mbid = "2661ee88-f488-4e80-a4fc-384697e32c6f" },
+  { n = 2, title = "Pajarito", mbid = "c94895f5-357a-4430-9bba-595eac266932" },
+]
+
+[[release]]
+mbid = "219dffc1-e5f2-4232-9634-6aa8c7494ede"
+title = "Against the Dying of the Light"
+type = "album"
+date = "2026-03-27"
+tracks = [
+  { n = 1, title = "A Perfect Storm", mbid = "1458ea7c-7142-4a09-9e43-cf1e640ea244" },
+  { n = 2, title = "Etyd", mbid = "dfc50d0f-b191-4705-966b-a817112e9071" },
+  { n = 3, title = "Against the Dying of the Light", mbid = "2661ee88-f488-4e80-a4fc-384697e32c6f" },
+  { n = 4, title = "For Every Dusk", mbid = "ccb4df73-c251-4d54-839e-1d47af5f7051" },
+  { n = 5, title = "Sheet", mbid = "6b2bbd89-4653-40c5-9a6b-85a40be161d1" },
+  { n = 6, title = "Pajarito", mbid = "c94895f5-357a-4430-9bba-595eac266932" },
+  { n = 7, title = "Losing Game (Sick)", mbid = "13bc1bfe-e46b-45bb-8b9f-584603a4d016" },
+  { n = 8, title = "Ay Querida", mbid = "607f5f37-69bc-4b26-a1f1-e36337609bc2" },
+  { n = 9, title = "U - Rawls slöja", mbid = "88440f53-f5da-42ae-901b-7e672f6eef92" },
+  { n = 10, title = "Gymnasten", mbid = "4c9e5899-0f8a-415c-bc50-819393484f44" },
+  { n = 11, title = "Just a Rock", mbid = "d90bf4d4-e204-495f-ad06-4e4a4e4584d7" },
+  { n = 12, title = "You & We", mbid = "59fddf16-81be-43c1-9644-f10e04b957c6" },
+  { n = 13, title = "Joy (Can’t Help But Sing)", mbid = "eac00e80-2f27-4ad9-ad14-89f3b0a63a1f" },
+]
+
+[[release]]
+mbid = "eb3070ba-efc5-4b94-aa63-191b198b35f6"
+title = "Losing Game (Sick)"
+type = "single"
+date = "2026-05-28"
+spotify = "5l24bPekpzR9it13IEbJdx"
+tracks = [
+  { n = 1, title = "Losing Game (Sick)", mbid = "13bc1bfe-e46b-45bb-8b9f-584603a4d016" },
+  { n = 2, title = "A Perfect Storm", mbid = "1458ea7c-7142-4a09-9e43-cf1e640ea244" },
+  { n = 3, title = "You & We", mbid = "59fddf16-81be-43c1-9644-f10e04b957c6" },
+]

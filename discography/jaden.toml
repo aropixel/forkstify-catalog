@@ -1,0 +1,257 @@
+format = 1
+
+[[release]]
+mbid = "77e6d063-b31d-46b6-adf6-6928064a3151"
+title = "Never Say Never"
+type = "single"
+date = "2010-08-06"
+tracks = [
+  { n = 1, title = "Never Say Never", mbid = "52a8c592-13e9-4f47-9599-12c47ea0eab0" },
+]
+
+[[release]]
+mbid = "b91d8d61-fd2b-4333-8832-770b9c7c3c72"
+title = "This Is the Album"
+type = "ep"
+date = "2015-02-04"
+tracks = [
+  { n = 1, title = "Scarface", mbid = "5a28ad68-faff-40cd-999e-d61d22478ff5" },
+  { n = 2, title = "4 My 1", mbid = "18a351aa-662f-43ec-a137-7f6f70146a27" },
+  { n = 3, title = "Weekend in Atlantis", mbid = "8e84f3b5-0037-45d8-8ce8-f1c3e81269d6" },
+]
+
+[[release]]
+mbid = "588c5f66-0d4f-4a56-961f-882e757e04ba"
+title = "Batman"
+type = "single"
+date = "2017-07-14"
+tracks = [
+  { n = 1, title = "Batman", mbid = "2e6e20a3-6720-4db7-bc23-130210ade08e" },
+]
+
+[[release]]
+mbid = "22dcf89f-52fc-43ba-b74f-1725389c1af9"
+title = "Watch Me"
+type = "single"
+date = "2017-07-14"
+tracks = [
+  { n = 1, title = "Watch Me", mbid = "aeefdf20-3716-4f14-aea4-4f45b2cba975" },
+]
+
+[[release]]
+mbid = "a74020b7-149e-4573-b743-1008950fa1d6"
+title = "SYRE"
+type = "album"
+date = "2017-11-17"
+tracks = [
+  { n = 1, title = "B", mbid = "1565981e-07ee-43f1-b874-cab1b00f6c70" },
+  { n = 2, title = "L", mbid = "426c45f9-930c-4f4b-86fc-147854543511" },
+  { n = 3, title = "U", mbid = "01dbaf45-5664-4aed-942b-e5a0628a01d0" },
+  { n = 4, title = "E", mbid = "81457815-5178-430f-8466-c525d43cd142" },
+  { n = 5, title = "Breakfast", mbid = "4a8f46dd-3dc1-460c-950f-e5823f5ca670" },
+  { n = 6, title = "Hope", mbid = "fd8aa3c8-5905-4468-a3af-1a6eed3a72bb" },
+  { n = 7, title = "Falcon", mbid = "1c4d5707-9225-471d-b7f7-bad43c5cb96a" },
+  { n = 8, title = "Ninety", mbid = "246f89bd-668e-4616-9afc-b144c8a506c8" },
+  { n = 9, title = "Lost Boy", mbid = "0a21a23b-b0dd-4647-a202-97b3d08d2ac4" },
+  { n = 10, title = "Batman", mbid = "b1b2c723-8579-4b4a-b195-778b2333e023" },
+  { n = 11, title = "Icon", mbid = "904e7212-3e7c-42f2-ad77-bf3995913c33" },
+  { n = 12, title = "Watch Me", mbid = "0ad4b00b-99ab-47a2-afea-a5acc96d8c6c" },
+  { n = 13, title = "Fallen", mbid = "9f0701ae-02b3-480c-af7a-dd2216c24c8e" },
+  { n = 14, title = "The Passion", mbid = "8412cea3-24aa-43d5-a7f6-96f252439bf8" },
+  { n = 15, title = "George Jeff", mbid = "2b9e8c75-095f-4ec3-ba62-ece51ab555c3" },
+  { n = 16, title = "Rapper", mbid = "c0153d6f-549e-4513-918f-1c9c14b0e3b4" },
+  { n = 17, title = "SYRE", mbid = "c5a35b23-a2bf-411e-979c-d904a96d9ce3" },
+]
+
+[[release]]
+mbid = "5e06c639-90cf-4618-ae5c-4c3317fc2f43"
+title = "GHOST"
+type = "single"
+date = "2018-06-22"
+tracks = [
+  { n = 1, title = "GHOST", mbid = "43916981-aade-443f-83f5-efe9a325f88d" },
+]
+
+[[release]]
+mbid = "9456d191-b16c-4dc8-b9cf-04aedf3aab17"
+title = "SYRE: The Electric Album"
+type = "ep"
+date = "2018-07-12"
+spotify = "3PTpJ7rFNBI3GXbolb8z5G"
+tracks = [
+  { n = 1, title = "B (electric)", mbid = "0888a1e9-862a-4eac-b976-476b7f22ed09" },
+  { n = 2, title = "Ninety (electric)", mbid = "21a0f898-b1af-42dc-b9e4-3174b74ecc4a" },
+  { n = 3, title = "Lost Boy (electric)", mbid = "95d05939-3e14-45f0-ad4c-34a0b7cf33f1" },
+  { n = 4, title = "Fallen (electric)", mbid = "e6904cce-ea01-42df-ae70-94518a345c15" },
+  { n = 5, title = "Icon? (electric)", mbid = "6f45d829-8921-4b20-9fb7-e2ba4f55853c" },
+]
+
+[[release]]
+mbid = "31d95e18-cb31-40c5-891f-d1ff210dd56e"
+title = "GOKU"
+type = "single"
+date = "2018-10-05"
+tracks = [
+  { n = 1, title = "GOKU", mbid = "7bca716c-4d29-4885-8ff9-e18091037041" },
+]
+
+[[release]]
+mbid = "8635ec03-b150-46b0-a4e4-f7e33e6a1c7b"
+title = "Just Slide"
+type = "single"
+date = "2018-11-09"
+spotify = "3DFySao9VsItXhXRBT3zkt"
+tracks = [
+  { n = 1, title = "Just Slide", mbid = "3690ae55-001a-4c05-a532-037433ce39c4" },
+]
+
+[[release]]
+mbid = "8aba492f-40db-4fbc-b349-119ad045eb1b"
+title = "ERYS IS COMING"
+type = "single"
+date = "2019-04-18"
+spotify = "5pDN4iUupE0UDWsCX9vLpi"
+tracks = [
+  { n = 1, title = "Pass", mbid = "688f7410-b3e3-48c6-a069-bfe30ad26c06" },
+  { n = 2, title = "Beautiful Disruption", mbid = "15ea0389-3518-4d05-8e61-434449c0e2cf" },
+  { n = 3, title = "New Direction", mbid = "2e1458fb-f461-4cfa-b99b-87a7dc2488d0" },
+]
+
+[[release]]
+mbid = "4532dcc3-0406-4cb4-8bd7-67c504ce7aa6"
+title = "ERYS"
+type = "album"
+date = "2019-07-05"
+spotify = "5aEJoC5lrLCANWvrkaIwYl"
+tracks = [
+  { n = 1, title = "P", mbid = "719ddac7-6e89-438b-802c-e59fd265f2d4" },
+  { n = 2, title = "I", mbid = "0c2b145d-3365-4547-aa23-f39a0e8ea9f5" },
+  { n = 3, title = "N", mbid = "bd8d7425-234e-4cc4-aa2c-10ecf01553c4" },
+  { n = 4, title = "K", mbid = "843380f8-f6ca-44f2-ba47-d4d74c6647a1" },
+  { n = 5, title = "NOIZE", mbid = "65bea4de-00cb-4e14-908e-6020602e9698" },
+  { n = 6, title = "i‐drip‐or‐is", mbid = "a459bf79-2828-4836-9b57-354569269dce" },
+  { n = 7, title = "Again", mbid = "bc44a5ca-386b-4dc1-8377-55721f8dc4b6" },
+  { n = 8, title = "Got It", mbid = "9aeab95a-671d-4027-bfa4-18c7c2736003" },
+  { n = 9, title = "Fire Dept", mbid = "3c754827-9a44-490b-923e-08450be94881" },
+  { n = 10, title = "Mission", mbid = "3ad913d9-0292-4412-a52f-00fab39be278" },
+  { n = 11, title = "Summertime in Paris", mbid = "5013f893-d04d-49a2-a29b-10d2ab0743f0" },
+  { n = 12, title = "Blackout", mbid = "a295f41a-7a1e-405f-847b-122c78d5ecd8" },
+  { n = 13, title = "Pain", mbid = "b86b6298-ba90-4fad-bc9d-7c24bd15b1ff" },
+  { n = 14, title = "Chateau", mbid = "8176ab03-d910-4a8e-8671-0a647d6e40ed" },
+  { n = 15, title = "On My Own", mbid = "5609371e-ca23-4dc2-b812-b6897e644704" },
+  { n = 16, title = "Riot", mbid = "613bb339-5966-465b-a152-5e551106fc17" },
+  { n = 17, title = "ERYS", mbid = "cab1349c-7e4d-4269-a81d-79249fd62e50" },
+]
+
+[[release]]
+mbid = "dd86d82e-9953-4eec-89aa-5c2ae9ca7067"
+title = "Cabin Fever"
+type = "single"
+date = "2020-07-23"
+spotify = "5DfoMTrfErjlDnG79h6cKI"
+tracks = [
+  { n = 1, title = "Cabin Fever", mbid = "a4621188-cdab-4080-8253-8fd70a4fad32" },
+]
+
+[[release]]
+mbid = "a1360c9c-ef76-40b5-95af-8e8539497765"
+title = "Rainbow Bap"
+type = "single"
+date = "2020-08-14"
+spotify = "4uYYweXMMvr8K5OAkpquRG"
+tracks = [
+  { n = 1, title = "Rainbow Bap", mbid = "1d8ccd69-be6a-40d5-b6b5-13b6ee89ba30" },
+]
+
+[[release]]
+mbid = "6155306c-c4a0-43f9-a6f5-efe4b32e0e30"
+title = "CTV3: Cool Tape, Vol. 3"
+type = "album"
+date = "2020-08-28"
+spotify = "2NuZ1TloomufyKf57ZLBQn"
+tracks = [
+  { n = 1, title = "Circa 2015", mbid = "8232dc6a-7c2f-4baa-9ebb-c726456538d1" },
+  { n = 2, title = "Falling for You", mbid = "c6a3c752-c0bf-414f-bd23-320dad275f79" },
+  { n = 3, title = "Rainbow Bap", mbid = "1d8ccd69-be6a-40d5-b6b5-13b6ee89ba30" },
+  { n = 4, title = "LUCY!", mbid = "4fb69580-db2c-443a-b9af-505e6a26e73b" },
+  { n = 5, title = "Everything", mbid = "1d364e2c-b638-4d03-9650-69bd79f37351" },
+  { n = 6, title = "In the Hills", mbid = "e43f3b52-74b4-4f60-910f-43c3a6cace29" },
+  { n = 7, title = "Bad Connection", mbid = "5c1f7873-d594-473a-816c-d93a731fcaec" },
+  { n = 8, title = "Muted Sunrise", mbid = "3637ab9d-a684-4b5f-ae59-af43a8d3d14b" },
+  { n = 9, title = "Young in Love", mbid = "301579dc-4219-4f21-ae1f-b8fcdb8ece54" },
+  { n = 10, title = "Cabin Fever", mbid = "a4621188-cdab-4080-8253-8fd70a4fad32" },
+  { n = 11, title = "Photograph", mbid = "97cd8d4b-bee5-4834-a4d8-3ada1a6da461" },
+  { n = 12, title = "Drops of Sun", mbid = "e3e33e1c-9ba9-4afd-93be-e21d544c4131" },
+  { n = 13, title = "Sunburnt", mbid = "00737725-ddb3-4b5f-9458-78770912b278" },
+  { n = 14, title = "Deep End", mbid = "f6e2a457-ed64-4da7-826c-54df77e925b2" },
+  { n = 15, title = "Endless Summer", mbid = "ff9b6030-9da2-4dc5-a602-6256adc8906d" },
+  { n = 16, title = "The Birth of SYRE", mbid = "a9044362-9b5d-412b-aed9-114d812c007b" },
+  { n = 17, title = "Boys and Girls", mbid = "12c68e66-3b69-48dc-a048-c765d3c2ca55" },
+]
+
+[[release]]
+mbid = "7313494a-a0a4-40c4-a65e-204e89aad274"
+title = "BYE"
+type = "single"
+date = "2021-06-22"
+spotify = "4TVz7u3xhjsYYI2Ir8ZUbW"
+tracks = [
+  { n = 1, title = "BYE", mbid = "546a6d95-1eab-466f-8fbe-382ff6e11d97" },
+]
+
+[[release]]
+mbid = "b6b70701-5941-467c-9d99-d428c9645896"
+title = '"Roses"'
+type = "single"
+date = "2024-06-21"
+spotify = "3sFAerfTDCAol4ZZeteKzQ"
+tracks = [
+  { n = 1, title = '"Roses"', mbid = "2e3c1322-d6eb-4af3-811b-2f75b562aa02" },
+]
+
+[[release]]
+mbid = "a0f01625-5486-47c5-b262-be27b439ef96"
+title = "WORK OF ART"
+type = "single"
+date = "2024-07-26"
+spotify = "7siF6s5KBVuJJUydAo7WgL"
+tracks = [
+  { n = 1, title = "WORK OF ART", mbid = "aa4f413b-7420-4b46-8f6d-c75527b7ffd3" },
+  { n = 2, title = "You Can Make It", mbid = "c04f4f60-383a-48c2-b5f4-0be9fd0a6192" },
+]
+
+[[release]]
+mbid = "ef520a52-eeee-4b67-b425-71cbafb618fd"
+title = "D.U.M.B."
+type = "single"
+date = "2024-10-04"
+spotify = "7Fui9neMmG21wgc6fuUluc"
+tracks = [
+  { n = 1, title = "D.U.M.B.", mbid = "408025d9-3dca-4311-9263-dfddb9ee689c" },
+  { n = 2, title = "''Roses''", mbid = "2e3c1322-d6eb-4af3-811b-2f75b562aa02" },
+]
+
+[[release]]
+mbid = "417ff3a6-d8b1-4bb7-b161-5928474afbeb"
+title = "2024: A Case Study of the Long Term Effects of Young Love"
+type = "ep"
+date = "2024-10-18"
+spotify = "7KXIUPR7x5oF2Z12qhds1f"
+tracks = [
+  { n = 1, title = "''Roses''", mbid = "2e3c1322-d6eb-4af3-811b-2f75b562aa02" },
+  { n = 2, title = "D.U.M.B.", mbid = "408025d9-3dca-4311-9263-dfddb9ee689c" },
+  { n = 3, title = "Gorgeous", mbid = "5e230230-f147-4f56-be04-8348ab1b03a8" },
+  { n = 4, title = "The Coolest Part 2", mbid = "24129acf-a98f-4145-ad60-10b32d7077f2" },
+]
+
+[[release]]
+mbid = "57d6aaf5-08c3-4470-bd77-1a23d7426be0"
+title = "2025: A Surrealist Ball or Elephants Reflecting Swans"
+type = "single"
+date = "2025-10-03"
+spotify = "1oVezYfS2OmMLuoafWNMmB"
+tracks = [
+  { n = 1, title = "RED CLOAKS", mbid = "031c9025-c0db-4e64-94c5-ec49779fe5d8" },
+  { n = 2, title = "Nocturne Ferrières", mbid = "5a54e990-1efb-4f13-81fa-71e31b8b8bda" },
+  { n = 3, title = "Mask Never Slips", mbid = "b85f5e1f-1625-4ad4-80b9-a1caca2157d9" },
+]

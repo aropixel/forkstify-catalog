@@ -1,0 +1,190 @@
+format = 1
+
+[[release]]
+mbid = "6ea08c42-1803-3e70-9488-8d0e5d03f326"
+title = "Peep This"
+type = "album"
+date = "1994-07-19"
+tracks = [
+  { n = 1, title = "Peep This", mbid = "511f5f0f-7cef-478b-a7ba-60d922c9d77b" },
+  { n = 2, title = "Experiment", mbid = "41a3a7a7-810e-4bb9-9a89-e85382f7484e" },
+  { n = 3, title = "Miss You", mbid = "729ce5f6-98f3-45de-b787-22259d74fb35" },
+  { n = 4, title = "Dog House", mbid = "a7d15023-d2a8-4c03-96a9-0345cedcbee3" },
+  { n = 5, title = "Infatuation", mbid = "9c397dcc-581d-45b3-8f59-7a08c6887045" },
+  { n = 6, title = "Baby Don't Cry", mbid = "55f4de11-7976-478a-a6f4-75ce6abe2657" },
+  { n = 7, title = "Precious", mbid = "7e6bfbdf-d8dc-4d24-88c6-ddea75973d58" },
+  { n = 8, title = "Your Love", mbid = "61014cf6-f748-402c-88f5-48ce099231f3" },
+  { n = 9, title = "Summertime", mbid = "17cce88c-5bc3-489c-9979-0404e154f31c" },
+  { n = 10, title = "If You Love Me", mbid = "5387394b-d4d3-4140-ad6d-0c56870970fb" },
+  { n = 11, title = "Don't Let the Sun Go Down", mbid = "4d60b74a-fca2-4dc0-b16c-a6e503610174" },
+  { n = 12, title = "Peep This Out", mbid = "a90431ff-eb33-42f6-bcfd-6db9e789739e" },
+  { n = 13, title = "Light a Candle", mbid = "d55d88bd-3bd7-4545-96f0-f774ca18c25a" },
+]
+
+[[release]]
+mbid = "238627b5-62a9-32fa-a3ef-f581c1c893cc"
+title = "Gold Digger"
+type = "single"
+date = "2005-09-19"
+spotify = "2hR0mZCxXkZ48dmq7xEb2O"
+tracks = [
+  { n = 1, title = "Gold Digger", mbid = "1abbab1d-b5f5-45a5-9fc5-464ca48747e2" },
+  { n = 2, title = "Diamonds From Sierra Leone (remix)", mbid = "738ed907-c7fa-4514-b6d9-17b0931efe5c" },
+  { n = 3, title = "We Can Make It Better", mbid = "607757d6-4d7c-47a4-ab72-2009f1a102f4" },
+]
+
+[[release]]
+mbid = "4c65fcb4-abac-3644-b50f-3b5fc610605a"
+title = "Unpredictable"
+type = "album"
+date = "2005-12-20"
+spotify = "037f2EiD06rsACoW6WsmYP"
+tracks = [
+  { n = 1, title = "Unpredictable", mbid = "164764be-d127-4982-a1ba-44b2c5f4bba2" },
+  { n = 2, title = "Warm Bed", mbid = "07cd43fb-2d06-4983-8b74-c13df774ed50" },
+  { n = 3, title = "DJ Play a Love Song", mbid = "aa824e54-0d6b-4756-bf25-85ecf4daa423" },
+  { n = 4, title = "With You", mbid = "b36c1b15-0e5e-4082-b5f6-c96b7b57ecc0" },
+  { n = 5, title = "Can I Take U Home", mbid = "c6c7b20d-624f-4f71-9150-b1d9e2cf6ad4" },
+  { n = 6, title = "Love Changes", mbid = "a99b6223-f035-4d0d-9891-94f07a802258" },
+  { n = 7, title = "Extravaganza", mbid = "31b9f4b8-f740-48c1-9192-d02c84572d08" },
+  { n = 8, title = "Three Letter Word", mbid = "55e84122-725f-4fd6-8595-26d7c9ea5618" },
+  { n = 9, title = "Get This Money", mbid = "deeee283-682b-4a9b-bd99-21eab66c9019" },
+  { n = 10, title = "VIP", mbid = "f4c533de-d0a1-40c1-b45d-215f82962ee4" },
+  { n = 11, title = "Do What It Do", mbid = "d5af548f-a345-41ae-b921-97b42127c2a9" },
+  { n = 12, title = "Storm (Forecass)", mbid = "6aa8f644-20c9-49f1-a2d7-42d3d2d869e9" },
+  { n = 13, title = "U Still Got It (interlude)", mbid = "40fd1a0b-3ab8-48b8-a68d-43d4cfbdf04b" },
+  { n = 14, title = "Heaven", mbid = "8ee4b139-f9b3-45e2-bf42-36e040d29f07" },
+  { n = 15, title = "Wish U Were Here", mbid = "1754a36f-76d8-490c-8e65-02438f8fba8a" },
+]
+
+[[release]]
+mbid = "1d94e93c-2e21-487c-b535-8224b387be5e"
+title = "Extravaganza"
+type = "single"
+date = "2006-06-19"
+tracks = [
+  { n = 1, title = "Extravaganza (album version)", mbid = "31b9f4b8-f740-48c1-9192-d02c84572d08" },
+  { n = 2, title = "One Too Many Drinks (Extravaganza)", mbid = "449f88a9-eb3d-4baf-bce6-7624a5ab319b" },
+  { n = 3, title = "Extravaganza (Shux remix)", mbid = "395667cd-7d3b-4391-8801-1441ce7259d8" },
+  { n = 4, title = "Don't Know You Anymore", mbid = "1919fb15-309c-4e1d-9174-82649b202ac7" },
+]
+
+[[release]]
+mbid = "93d8d84e-90ce-3c7b-8f4f-b6320ab7e422"
+title = "Intuition"
+type = "album"
+date = "2008-12-16"
+spotify = "0cV2kLXkiXw4P884NjkQ4U"
+tracks = [
+  { n = 1, title = "Just Like Me", mbid = "cdeaf4ef-4345-4628-a1ad-f631320aae32" },
+  { n = 2, title = "I Don't Need It", mbid = "10dc8a0b-f93d-4758-b507-6cf3b36d3244" },
+  { n = 3, title = "Number One", mbid = "56719c15-ba4c-4765-b5a9-3bf230d65700" },
+  { n = 4, title = "Digital Girl", mbid = "3a631e35-9ddb-49bb-b935-d05e7adfe3e0" },
+  { n = 5, title = "Blame It", mbid = "4bdccd51-5752-4934-b0b2-1fe5671e7575" },
+  { n = 6, title = "She Got Her Own", mbid = "820a10a1-6a87-4010-9782-2100821fbdf0" },
+  { n = 7, title = "Intuition Interlude", mbid = "aac3d161-b508-45cd-861b-444b3ca62198" },
+  { n = 8, title = "I Don't Know", mbid = "c9a438b7-52af-4c43-bd6d-3a38f907af8c" },
+  { n = 9, title = "Weekend Lover", mbid = "38d012a7-b87c-4841-b3fe-cd355a59d2fd" },
+  { n = 10, title = "Why", mbid = "768078fb-aa76-4b1f-9e4c-2c1932796b47" },
+  { n = 11, title = "Freak'in Me", mbid = "b5c28576-c28b-4334-afbd-9b999e92dc9a" },
+  { n = 12, title = "Slow", mbid = "ed2639d7-6a8d-4e91-97f0-29ece2d0c8c7" },
+  { n = 13, title = "Rainman", mbid = "e2abd5b8-3a5f-4a6e-a142-104036617b89" },
+  { n = 14, title = "Overdose", mbid = "70ab8522-d882-4b6a-893c-54c4ff89aad7" },
+  { n = 15, title = "Love Brings Change", mbid = "49518f7e-8c58-44db-9e5f-7ff085df9ad5" },
+]
+
+[[release]]
+mbid = "b6be5b91-3acc-4c57-b18a-9e53452112a1"
+title = "Winner"
+type = "single"
+date = "2010-04-02"
+tracks = [
+  { n = 1, title = "Winner", mbid = "d55eeac6-91a8-4431-9ce2-f02e77fd8ad5" },
+]
+
+[[release]]
+mbid = "825e8a86-f175-46ea-890c-cc1fa7542dc4"
+title = "Best Night of My Life"
+type = "album"
+date = "2010-12-21"
+spotify = "0RXJHPaf1X1yrqmUN1fo3G"
+tracks = [
+  { n = 1, title = "This Will Be (intro)", mbid = "faab7ba5-d154-4c40-84cf-cf360eb45ea5" },
+  { n = 2, title = "Best Night of My Life", mbid = "e5d48c9c-4f09-4def-b392-d6bb1d4a954b" },
+  { n = 3, title = "Living Better Now", mbid = "6ef8c15b-f3e2-4a67-b112-404a6907ac06" },
+  { n = 4, title = "Winner", mbid = "d55eeac6-91a8-4431-9ce2-f02e77fd8ad5" },
+  { n = 5, title = "Freak", mbid = "c6635d07-fb6b-401a-804d-1734f100f28d" },
+  { n = 6, title = "Hit It Like This", mbid = "5c4d2c44-37aa-4621-837a-002fae031dbd" },
+  { n = 7, title = "Yep Dats Me", mbid = "d2508095-a0c6-4aac-aef4-491e9d3d47d0" },
+  { n = 8, title = "Fall for Your Type", mbid = "e125e9bb-aeda-448e-807f-fd206c48c56f" },
+  { n = 9, title = "Gorgeous", mbid = "3e0609c4-1f0c-4827-b134-42aff3ffcab8" },
+  { n = 10, title = "Let Me Get You on Your Toes (interlude)", mbid = "e69767b6-d47d-40c3-8ff2-1da47bf93fe6" },
+  { n = 11, title = "15 Minutes", mbid = "7983cd34-f5da-466b-ad72-e3f93de0f8fe" },
+  { n = 12, title = "Sleeping Pill", mbid = "5a6d23e7-9047-42f7-84c9-03393730bf58" },
+  { n = 13, title = "Rejoice", mbid = "71e450d1-72b9-48c8-8945-918206ac6af0" },
+  { n = 14, title = "All Said and Done", mbid = "e2bf0735-82b1-4e09-b0fc-32e2591f153f" },
+  { n = 15, title = "Sex on the Beach", mbid = "abbb115a-0475-4574-9321-884df1c9a882" },
+]
+
+[[release]]
+mbid = "4e4b859d-7496-43d4-a794-dceaa434b27d"
+title = "This Game Is Over"
+type = "single"
+date = "2013-09-24"
+spotify = "4PRF1GqEMqQVzckxFznFb3"
+tracks = [
+  { n = 1, title = "This Game Is Over", mbid = "690c49eb-b52d-488b-bf69-ad54e13b05d2" },
+]
+
+[[release]]
+mbid = "b6583389-ec9d-4731-a51a-a7d804254375"
+title = "Party Ain’t a Party"
+type = "single"
+date = "2014-10-07"
+tracks = [
+  { n = 1, title = "Party Ain’t a Party", mbid = "3154263e-da72-47ca-bc35-df5183cecc66" },
+]
+
+[[release]]
+mbid = "8cebe0d1-f873-46da-9f87-cf1b8eb90245"
+title = "Ain't My Fault"
+type = "single"
+date = "2014-11-04"
+tracks = [
+  { n = 1, title = "Ain't My Fault", mbid = "43e44f9c-51e5-4fb4-90f5-01e28ea18df8" },
+]
+
+[[release]]
+mbid = "1aafc745-41c1-4b34-8cbe-a3b5ac7446ee"
+title = "Hollywood: A Story of a Dozen Roses"
+type = "album"
+date = "2015-05-15"
+tracks = [
+  { n = 1, title = "Dozen Roses, Pt. 1", mbid = "219dd4da-bfc5-4b61-9a90-553c3902d1b4" },
+  { n = 2, title = "You Changed Me", mbid = "68f28aa4-c8ec-44c0-aaa9-7f53e4302854" },
+  { n = 3, title = "Like a Drum", mbid = "4f13d1fc-9e57-4cb8-8e1d-3c94815847a8" },
+  { n = 4, title = "Another Dose", mbid = "d2a1af2a-7e41-455c-98ff-8d3b7932be1c" },
+  { n = 5, title = "Tease", mbid = "2a64862b-e903-4b35-913c-38015384cc7b" },
+  { n = 6, title = "Baby's In Love", mbid = "74f6bd39-618d-4931-9dc1-30ac0bc5a790" },
+  { n = 7, title = "Text Message", mbid = "e882e742-6939-41ad-a13f-58ceca744b78" },
+  { n = 8, title = "Hollywood", mbid = "658ccfad-016e-41ff-bbec-e52877029248" },
+  { n = 9, title = "Vegas Confessions", mbid = "4f0c0d96-83a4-4b91-b46b-f419d8cd1697" },
+  { n = 10, title = "Socialite", mbid = "ab5c1bad-db14-4b11-8c08-3d00f8ce04a1" },
+  { n = 11, title = "Dozen Roses, Pt. 2", mbid = "0109884d-4994-45bd-92dd-4f9bb98858b0" },
+  { n = 12, title = "In Love By Now", mbid = "34d350bc-ff5a-4310-bcf4-d8492b34a61d" },
+  { n = 13, title = "Jumping out the Window", mbid = "a589cf66-b48f-453f-9505-cceff3690fd0" },
+  { n = 14, title = "On the Dot", mbid = "7f3b15bb-adae-4d15-bf84-7c227151ce0f" },
+  { n = 15, title = "Dozen Roses, Pt. 3", mbid = "180931cd-1408-43e3-99ff-dd48716bc0ba" },
+  { n = 16, title = "Right Now", mbid = "4229624d-4a7f-4296-8fb2-ff365167d6f7" },
+  { n = 17, title = "Pretty Thing", mbid = "8ddebad2-9b96-47ed-b1ee-5051fe0ead78" },
+  { n = 18, title = "Ain't My Fault", mbid = "b89e3e5b-a36e-4a60-9691-7da12a36086c" },
+]
+
+[[release]]
+mbid = "f1b3993c-7689-45c1-ade8-c11077b60406"
+title = "BUD (Mowing Down Vamps)"
+type = "single"
+date = "2022-08-12"
+tracks = [
+  { n = 1, title = "BUD (Mowing Down Vamps)", mbid = "5a1d356b-9c73-4ab2-9a92-cbb01b120d15" },
+]

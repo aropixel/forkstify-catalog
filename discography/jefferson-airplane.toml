@@ -1,0 +1,236 @@
+format = 1
+
+[[release]]
+mbid = "9f50cf39-e162-4881-a1ee-64cca44db0fe"
+title = "Bringing Me Down / Let Me In"
+type = "single"
+date = "1966"
+tracks = [
+  { n = 1, title = "Bringing Me Down", mbid = "d0477cfa-8896-4b1f-b4f9-cfd2c551058e" },
+  { n = 2, title = "Let Me In", mbid = "f3543de9-1ff2-4db4-a011-2b30c48d0ac3" },
+]
+
+[[release]]
+mbid = "7580fcad-3459-3f5c-a300-d7d0df98e14e"
+title = "Jefferson Airplane Takes Off"
+type = "album"
+date = "1966-08-15"
+tracks = [
+  { n = 1, title = "Blues From an Airplane", mbid = "00230ca5-a5f8-4a99-a318-aeadd6397930" },
+  { n = 2, title = "Let Me In", mbid = "e1ec16ca-f62f-4f12-8c70-c6f2c3d93427" },
+  { n = 3, title = "Bringing Me Down", mbid = "6bae7bbd-f229-4df4-bbd2-1354716df1b3" },
+  { n = 4, title = "It’s No Secret", mbid = "6a20d63a-b7ec-45e6-8652-725bd3c5e4f7" },
+  { n = 5, title = "Tobacco Road", mbid = "edf799ac-fa4d-410d-af99-8a21daefc7b8" },
+  { n = 6, title = "Come Up the Years", mbid = "7a9a5c60-2f77-4ee3-af07-1ed819bd287a" },
+  { n = 7, title = "Run Around", mbid = "ee8746ff-dca0-4f6c-8cc5-902b740e8fba" },
+  { n = 8, title = "Let’s Get Together", mbid = "6da28ffe-e346-4ed2-b11e-7fccf14eed6a" },
+  { n = 9, title = "Don’t Slip Away", mbid = "a11f461b-7d27-47a7-aab6-3d3b85528a06" },
+  { n = 10, title = "Chauffeur Blues", mbid = "ca4cad9d-7b25-48d2-a954-cf3badba0406" },
+  { n = 11, title = "And I Like It", mbid = "4c4ff9f5-7de9-45be-8d32-4d5ec4da0dae" },
+]
+
+[[release]]
+mbid = "a5ffca07-4ccb-4601-9f69-60c737507355"
+title = "Martha / Watch Her Ride"
+type = "single"
+date = "1967"
+tracks = [
+  { n = 1, title = "Martha", mbid = "6857910d-47ac-4966-9f59-199c8245f405" },
+  { n = 2, title = "Watch Her Ride", mbid = "6ee7f2c5-9063-4d10-81df-e9aead939a29" },
+]
+
+[[release]]
+mbid = "7cf763dc-55d8-416b-bf7a-5bce538e7e68"
+title = "White Rabbit / Plastic Fantastic Lover"
+type = "single"
+date = "1967"
+tracks = [
+  { n = 1, title = "White Rabbit", mbid = "1e5ef621-9aea-464a-9a7d-6a18baddd334" },
+  { n = 2, title = "Plastic Fantastic Lover", mbid = "6fdfa73e-6b8b-41b2-91cf-2918bc1f8a9d" },
+]
+
+[[release]]
+mbid = "69efe026-4ff9-4f15-a535-431d6758dd61"
+title = "White rabbit"
+type = "single"
+date = "1967"
+tracks = [
+  { n = 1, title = "White rabbit", mbid = "fd04b77a-c97a-4df3-ac01-4c3a2a5d0b2c" },
+  { n = 2, title = "Plastic fantastic lover", mbid = "e592a800-bde3-4e00-9f27-03a8fa4731fc" },
+]
+
+[[release]]
+mbid = "e6440cd2-5e8e-367d-bc49-cc042b5ef524"
+title = "Surrealistic Pillow"
+type = "album"
+date = "1967-02"
+spotify = "6lPb7Eoon6QPbscWbMsk6a"
+tracks = [
+  { n = 1, title = "She Has Funny Cars", mbid = "a5ee1eeb-e583-4d94-8ceb-a4482b3067a4" },
+  { n = 2, title = "Somebody to Love", mbid = "aa9fb372-52bb-4afc-b8fb-3aae20672d79" },
+  { n = 3, title = "My Best Friend", mbid = "a425d2ba-3b80-4b0c-8309-5598ac869e7d" },
+  { n = 4, title = "Today", mbid = "24012523-4a35-4703-bae3-8c4c4cc35713" },
+  { n = 5, title = "Comin' Back to Me", mbid = "2a0cf8bf-4076-4d01-a32a-734f90145b0a" },
+  { n = 6, title = "3/5 of a Mile in 10 Seconds", mbid = "8a8ed52c-e78a-4790-9444-ab58312b630a" },
+  { n = 7, title = "D.C.B.A. - 25", mbid = "c420410a-f320-4f62-8225-b7db258503fb" },
+  { n = 8, title = "How Do You Feel", mbid = "3a2e9a4d-459d-4e46-b5e1-9427d86dc2ae" },
+  { n = 9, title = "Embryonic Journey", mbid = "c5baaa7c-a58b-4451-b06a-affb182e53ea" },
+  { n = 10, title = "White Rabbit", mbid = "5f231710-2468-4a9e-90a0-9e8cd38b60b0" },
+  { n = 11, title = "Plastic Fantastic Lover", mbid = "c912975f-1ce3-474a-ab53-a6c6f7c46ff9" },
+]
+
+[[release]]
+mbid = "42e11718-5fa3-4695-b909-33e6054eef5e"
+title = "Somebody to love"
+type = "single"
+date = "1967-03"
+tracks = [
+  { n = 1, title = "Somebody to love", mbid = "7230f661-07b4-4707-80b0-699da1998d3c" },
+  { n = 2, title = "She has funny cars", mbid = "cc4d9196-d953-426e-a33d-7bf9042ffe6c" },
+]
+
+[[release]]
+mbid = "bb178c25-91e9-3fbf-bfc9-0ce399784293"
+title = "After Bathing at Baxter’s"
+type = "album"
+date = "1967-11-30"
+tracks = [
+  { n = 1, title = "The Ballad of You & Me & Pooneil", mbid = "764ae15e-fd02-4a09-8f75-ecf08db54f90" },
+  { n = 2, title = "A Small Package of Value Will Come to You Shortly", mbid = "f7787c79-6fc5-4810-8219-52ae7fb4976f" },
+  { n = 3, title = "Young Girl Sunday Blues", mbid = "59326429-b3be-4c09-861c-6c9bbe573107" },
+  { n = 4, title = "Martha", mbid = "088d8261-8efb-46f2-821a-5099cdc30ce5" },
+  { n = 5, title = "Wild Tyme", mbid = "bcf155d4-ce4b-4a9f-ab0f-a18f4df55960" },
+  { n = 6, title = "The Last Wall of the Castle", mbid = "5116052a-a0cc-4441-a759-6a3db2748d82" },
+  { n = 7, title = "Rejoyce", mbid = "abfc72cf-87fc-4570-8b4c-0c09a5807a91" },
+  { n = 8, title = "Watch Her Ride", mbid = "6f97391f-4e05-4e3d-9b05-f3f1281aa356" },
+  { n = 9, title = "Spare Chaynge", mbid = "cb53385f-513e-4fa9-84d7-fd47e3ba7301" },
+  { n = 10, title = "Two Heads", mbid = "4e962f7e-db19-4af5-88bf-e59ccbcc4065" },
+  { n = 11, title = "Won’t You Try / Saturday Afternoon", mbid = "652ebd69-d50c-4406-a957-c2de954f1577" },
+]
+
+[[release]]
+mbid = "29cfb791-54a4-4501-88b7-de7e1e29a476"
+title = "Greasy Heart / Share A Little Joke"
+type = "single"
+date = "1968"
+tracks = [
+  { n = 1, title = "Greasy Heart", mbid = "9dbb0e0a-9a70-4cce-baec-844b62915505" },
+  { n = 2, title = "Share a Little Joke (With the World)", mbid = "43ef2563-ff29-4cd0-b4da-f6cc6f391bd0" },
+]
+
+[[release]]
+mbid = "8b2b0602-018e-3877-abe8-d21f22a0f59b"
+title = "Crown of Creation"
+type = "album"
+date = "1968-08-18"
+tracks = [
+  { n = 1, title = "Lather", mbid = "289adf80-7be6-415f-a0f7-78e6f660aab0" },
+  { n = 2, title = "In Time", mbid = "a29b82c6-2574-46e9-8839-7db5cefab4f3" },
+  { n = 3, title = "Triad", mbid = "398e7043-0e4d-4b6e-9879-c928a9f92515" },
+  { n = 4, title = "Star Track", mbid = "7367633b-1135-4d25-a45c-0bcd8c94ce5e" },
+  { n = 5, title = "Share a Little Joke", mbid = "e68e6f7e-08d6-4fef-8848-4c415a3d5538" },
+  { n = 6, title = "Cushingura", mbid = "b4680662-712a-4507-b7b0-77992aed3941" },
+  { n = 7, title = "If You Feel", mbid = "020dfce8-851d-4210-9b48-b0653eed02ee" },
+  { n = 8, title = "Crown of Creation", mbid = "586c7b2e-7f6b-45d9-a2c6-b97b33be8c82" },
+  { n = 9, title = "Ice Cream Phoenix", mbid = "2f65883e-caa9-446f-8c26-c52a9b24c8f3" },
+  { n = 10, title = "Greasy Heart", mbid = "9dbb0e0a-9a70-4cce-baec-844b62915505" },
+  { n = 11, title = "The House at Pooneil Corners", mbid = "0c255914-dc6c-4a53-bebe-681baf21c6d9" },
+]
+
+[[release]]
+mbid = "20ce79fe-2987-3506-87fb-82fa8d0c6850"
+title = "Volunteers"
+type = "album"
+date = "1969-11"
+tracks = [
+  { n = 1, title = "We Can Be Together", mbid = "2f2d1530-57f2-4586-982a-5bf52ef117a5" },
+  { n = 2, title = "Good Shepherd", mbid = "9f88fd87-82ef-469a-ad35-78c761420c07" },
+  { n = 3, title = "The Farm", mbid = "76a99dd6-cbf1-4546-9fdd-dbba2172b6b9" },
+  { n = 4, title = "Hey Fredrick", mbid = "cb4f74d1-3461-474a-922b-aebda631c162" },
+  { n = 5, title = "Turn My Life Down", mbid = "f9a22056-94e6-4ecd-8c85-88752c17f30c" },
+  { n = 6, title = "Wooden Ships", mbid = "ef108ce8-9d37-4171-a27f-03db58e9ed0a" },
+  { n = 7, title = "Eskimo Blue Day", mbid = "1a751feb-2a23-4646-86e0-ad0aa0dfc9f4" },
+  { n = 8, title = "A Song for All Seasons", mbid = "a0c84a96-d825-4d72-8a1f-6878086a9238" },
+  { n = 9, title = "Meadowlands", mbid = "0cc83889-6383-49b3-a69e-9c61af39e8f3" },
+  { n = 10, title = "Volunteers", mbid = "3cef5267-a5eb-4f1f-8c6f-2eaa82c60025" },
+]
+
+[[release]]
+mbid = "a4f9d4f4-c2db-3134-9143-2afe22c0f061"
+title = "Bark"
+type = "album"
+date = "1971-09"
+tracks = [
+  { n = 1, title = "When the Earth Moves Again", mbid = "37250e1f-56f2-4efc-9458-57381b473b9e" },
+  { n = 2, title = "Feel So Good", mbid = "8eb86f69-f8ef-44f7-9c3b-1a47a85f1726" },
+  { n = 3, title = "Crazy Miranda", mbid = "a43dd2e9-af77-455f-8644-cb8f2de0cc65" },
+  { n = 4, title = "Pretty as You Feel", mbid = "5cee51cb-e836-4d1a-bafa-a3d5a8a72155" },
+  { n = 5, title = "Wild Turkey", mbid = "85bafd8d-f18c-4f66-9642-70219084c7d8" },
+  { n = 6, title = "Law Man", mbid = "b12ceba6-27b5-4d0c-a8e5-693edd5530c6" },
+  { n = 7, title = "Rock and Roll Island", mbid = "62f330d2-b3bd-41f3-a69b-c01e2960c4b1" },
+  { n = 8, title = "Third Week in the Chelsea", mbid = "95e0e540-64dd-4c20-9f2e-06481476f30c" },
+  { n = 9, title = "Never Argue With a German If You're Tired or European Song", mbid = "59837e90-42b2-4aa4-b532-d8188c1b7b08" },
+  { n = 10, title = "Thunk", mbid = "692017c6-071c-4936-9a8c-d62526027526" },
+  { n = 11, title = "War Movie", mbid = "6a14110e-926c-4ff6-b439-7330672d5a5e" },
+]
+
+[[release]]
+mbid = "6e01fe59-f48a-337c-95e6-d67e22900bba"
+title = "Long John Silver"
+type = "album"
+date = "1972-06"
+tracks = [
+  { n = 1, title = "Long John Silver", mbid = "820d0cf3-2635-4077-b14e-dcded85a62a5" },
+  { n = 2, title = "Aerie (Gang of Eagles)", mbid = "f55bfea6-0aa7-4dac-8675-7eb4cecd56dc" },
+  { n = 3, title = "Twilight Double Leader", mbid = "f08854aa-00c0-4c35-b3a8-1fd8abfed3a0" },
+  { n = 4, title = "Milk Train", mbid = "b1a2cfcf-7c99-4089-8b60-6033de6edd84" },
+  { n = 5, title = "The Son of Jesus", mbid = "270af865-b55b-4f56-ba3d-e868ee93d8de" },
+  { n = 6, title = "Easter?", mbid = "24142d27-9d69-45e7-b046-83fb11001cf3" },
+  { n = 7, title = "Trial by Fire", mbid = "3737de5b-e616-4516-aa52-0f153aa9f01b" },
+  { n = 8, title = "Alexander the Medium", mbid = "6245a9fd-5c16-40da-80d2-cb0e961c2629" },
+  { n = 9, title = "Eat Starch Mom", mbid = "6b7d10be-fcbc-4370-a905-596632b4b79f" },
+]
+
+[[release]]
+mbid = "5a737b23-6f9b-39d5-9ffb-55be35b96b0c"
+title = "Jefferson Airplane"
+type = "album"
+date = "1989-10"
+tracks = [
+  { n = 1, title = "Planes", mbid = "7eb2c42f-6ba7-42f8-9ea0-fc5d6a92a2a1" },
+  { n = 2, title = "Freedom", mbid = "26428461-50cf-47e0-bc70-0bc50471dc7d" },
+  { n = 3, title = "Solidarity", mbid = "ed66ae59-2a6e-45e2-a6a8-f647e11516c2" },
+  { n = 4, title = "Madeleine Street", mbid = "5bb1d7f8-30f3-4eec-a434-9eb22c22c04a" },
+  { n = 5, title = "Ice Age", mbid = "a390b9d1-b4d2-4332-8d13-4bc91a498ce2" },
+  { n = 6, title = "Summer of Love", mbid = "2e71a3ac-aeaa-4da5-a359-b6bcbb2804ea" },
+  { n = 7, title = "The Wheel", mbid = "5302aef3-a79f-4c6c-92d7-04b86e5e4429" },
+  { n = 8, title = "Common Market Madrigal", mbid = "0b162702-138d-421b-989b-9ed574d194a1" },
+  { n = 9, title = "True Love", mbid = "ffdb33bb-e1e4-4c10-bfd6-d7c327a0ad8c" },
+  { n = 10, title = "Upfront Blues", mbid = "c0f6321d-7fa8-4914-9b10-be49fce832d9" },
+  { n = 11, title = "Now Is the Time", mbid = "977f25dd-f38e-4ed1-a881-b3185913f5de" },
+  { n = 12, title = "Too Many Years", mbid = "42f76dcf-137c-4a2d-b74a-ac0c89fe2b85" },
+  { n = 13, title = "Panda", mbid = "5eb9e555-73a8-4ff0-a56f-45d81faaf369" },
+]
+
+[[release]]
+mbid = "665e5afa-67ed-48ee-84ec-d5f040774b40"
+title = "White Rabbit"
+type = "single"
+date = "2009-07-09"
+spotify = "0hy84HCfrWyaowPj8k7u5h"
+tracks = [
+  { n = 1, title = "White Rabbit", mbid = "1e947724-123d-41a6-94ba-c5160966e90d" },
+  { n = 2, title = "White Rabbit (Mono Single Version)", mbid = "8313b916-82c4-4919-ae27-2e0f28acf627" },
+]
+
+[[release]]
+mbid = "6c407735-adbc-4bdf-8104-092ac735e3d9"
+title = "White Rabbit EP"
+type = "ep"
+date = "2021-12-22"
+spotify = "2bFpkTgqFBs39xRQHxZEvx"
+tracks = [
+  { n = 1, title = "White Rabbit", mbid = "5f231710-2468-4a9e-90a0-9e8cd38b60b0" },
+  { n = 2, title = "White Rabbit (Marcel Dettmann and Gabriel Mounsey Remix)", mbid = "cb694983-fd32-467a-b188-515bd67aa092" },
+  { n = 3, title = "White Rabbit (slowed + reverb)", mbid = "16aa88aa-b5ef-478f-9b00-07b8127d0534" },
+]

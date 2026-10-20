@@ -1,0 +1,156 @@
+format = 1
+
+[[release]]
+mbid = "61542446-e273-3949-852e-1b1fee962ee7"
+title = "Jacno"
+type = "album"
+date = "1979"
+tracks = [
+  { n = 1, title = "Rectangle", mbid = "cb8ad080-6489-470b-816a-3891590ad5df" },
+  { n = 2, title = "Anne cherchait l'amour", mbid = "41983c63-a456-45d4-b296-d4163b00a3bc" },
+  { n = 3, title = "Triangle", mbid = "4704bc24-a056-4116-aef8-79c0afc72347" },
+  { n = 4, title = "Losange", mbid = "d9cd4e36-87f2-49f4-9608-0148d4a31998" },
+  { n = 5, title = "Cercle", mbid = "4c8c5d1f-574e-496f-86a4-fbc9595c75f8" },
+  { n = 6, title = "Anne cherchait l'amour (instrumental)", mbid = "337e2cba-5301-40fc-87cc-b20f4e976fcb" },
+]
+
+[[release]]
+mbid = "74d9865b-a748-4e57-8eed-d7cb3c91b086"
+title = "Rectangle"
+type = "single"
+date = "1979"
+tracks = [
+  { n = 1, title = "Rectangle", mbid = "081f1067-2334-4f43-ab19-1c1d215c18c3" },
+  { n = 2, title = "Anne cherchait l’amour", mbid = "8ce82301-738a-4e0d-81b0-9be8ba4a8925" },
+]
+
+[[release]]
+mbid = "2ec15753-5cd3-47e8-96d1-7c08abfac72c"
+title = "Amour Deçou (On Est Pas Payé Cher) / J'Suis Fatigué"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "Amour Deçou", mbid = "c61f0fc1-9dd0-4b20-8aec-783f37642b0e" },
+  { n = 2, title = "J'Suis Fatigué", mbid = "3cd4d1c0-7cbe-4f5d-8c0f-3d2f02a29d26" },
+]
+
+[[release]]
+mbid = "0479076b-737c-4c46-8560-2f44226c4ac1"
+title = "Tant De Baisers Perdus / J'Débloque (Tic Toc)"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "Tant De Baisers Perdus", mbid = "80ac4b08-df5d-47fb-be34-2389e155cdd3" },
+  { n = 2, title = "J'Débloque (Tic Toc)", mbid = "bff5203b-266c-48da-970c-04f9e5817ecf" },
+]
+
+[[release]]
+mbid = "a89525b5-5a45-3b98-8a0a-1f202c8a6cba"
+title = "T'es loin, t'es près"
+type = "album"
+date = "1989"
+tracks = [
+  { n = 1, title = "Tes grands yeux bleus", mbid = "61972124-a68d-4e9a-990c-36ace2271a94" },
+  { n = 2, title = "L'Amour des bêtes", mbid = "9b76a30a-2695-4451-b48a-ea164217aa88" },
+  { n = 3, title = "Tout m'fout en rogne", mbid = "6ca1e20b-8a16-4c3c-86cd-038c9d79fcdf" },
+  { n = 4, title = "La réponse est non", mbid = "b18737a8-ee26-48a2-995f-938156eb1d51" },
+  { n = 5, title = "T'es loin, t'es près", mbid = "e97fec2b-a3e8-4fec-906a-25d90a53dd46" },
+  { n = 6, title = "C'est pas d'l'amitié", mbid = "ba4296e7-b2f6-4c37-9a1f-9d5d56f35487" },
+  { n = 7, title = "Ça fait d'excellents Français", mbid = "12fe2c1a-2550-4bd2-88d0-8ccddc66dddb" },
+  { n = 8, title = "C'est une chanson", mbid = "13132aaf-86f1-45b0-b033-83f9f35b2e43" },
+  { n = 9, title = "Ce sera le bonheur (instrumental)", mbid = "584528ef-c85b-48ce-abd8-61db83bc8d8e" },
+]
+
+[[release]]
+mbid = "150e4926-8816-320c-9c23-bedf21f87032"
+title = "Une idée derrière la tête"
+type = "album"
+date = "1991"
+tracks = [
+  { n = 1, title = "Y'en a là-dedans", mbid = "02eaa261-b67c-4e22-a28b-eeeae0cb82bd" },
+  { n = 2, title = "Le Cafard", mbid = "bb0b8122-197a-48b6-8983-dc67c28a3354" },
+  { n = 3, title = "Une idée derrière la tête", mbid = "5835cb06-de6d-4b42-b10e-0043169c4da8" },
+  { n = 4, title = "Ma main au panier", mbid = "0c3f6e52-527e-45a0-bc27-445bf2d1b3d2" },
+  { n = 5, title = "Jolie fantôme", mbid = "703bde2b-e14e-4908-9493-f4dbf2eef34c" },
+  { n = 6, title = "J'temps brasse", mbid = "44877252-f3d9-48c8-b24e-b76b37eeb4be" },
+  { n = 7, title = "Les Langues étrangères", mbid = "ff27a467-d769-42db-8277-e74998fd2768" },
+  { n = 8, title = "Poubelle et fleurs", mbid = "a67158a5-cbf1-4af0-9c9f-069a21e03bb7" },
+  { n = 9, title = "Faut pas croire (y 'bossent)", mbid = "09a8921d-bd7d-4b29-9aa6-3a3e52cf9a63" },
+  { n = 10, title = "Lundi sur la lune", mbid = "3f9d2894-c37a-4ed4-b98c-b711e6e53b18" },
+  { n = 11, title = "Ma petite reine", mbid = "39b438d4-8ee0-40ad-94a8-0f76ac6fbe16" },
+  { n = 12, title = "Salut ma belle", mbid = "c2a340fd-79eb-4825-8c6c-71442f5dd6cc" },
+]
+
+[[release]]
+mbid = "2217fafc-8bd7-3a61-9213-8d874f844f6d"
+title = "Faux témoin"
+type = "album"
+date = "1995-05"
+tracks = [
+  { n = 1, title = "Un hymne à ma mauvaise foi", mbid = "5ed9b58b-f51b-4c2b-ac9a-4f7f84f043ec" },
+  { n = 2, title = "Elle m'a (dans la peau)", mbid = "57c41415-a31a-4a01-87d2-67d8487c2929" },
+  { n = 3, title = "Les battements de ton cœur", mbid = "af8da7e0-6048-4a2e-8daf-b358c035debb" },
+  { n = 4, title = "Mauvaise humeur", mbid = "dd791c90-a4ad-4a17-9f73-6b5b715107ef" },
+  { n = 5, title = "Pognon (Il est passé par ici)", mbid = "5531d900-b0ff-49f4-89fd-3a5828d98197" },
+  { n = 6, title = "J'ai tout vu (Faux témoin)", mbid = "d24cb5a7-c7d4-410a-a1a9-12e0dd210082" },
+  { n = 7, title = "Traces de biche", mbid = "a4dcac0e-7481-42f5-a735-40079d911ea5" },
+  { n = 8, title = "La communication", mbid = "584999b9-4ee0-40a9-9fa5-50dfc9214362" },
+  { n = 9, title = "Quand tu dors", mbid = "2284129d-5138-4cb6-91d1-e1e032a3d2f6" },
+  { n = 10, title = "D'une rive à l'autre", mbid = "185fc4f9-9947-4526-8d18-16fc821ac50a" },
+  { n = 11, title = "Lawrence d'Arabie", mbid = "0df5ab43-e529-4501-888e-029d1d552383" },
+]
+
+[[release]]
+mbid = "adab6cb0-720e-3fee-b107-b8231eabfd45"
+title = "La Part des anges"
+type = "album"
+date = "1999"
+tracks = [
+  { n = 1, title = "La Part des anges", mbid = "caaed1c6-5c71-46f2-a142-1b9df9ec3d90" },
+  { n = 2, title = "Je viens d'ailleurs", mbid = "d65e8020-324f-4cd3-b88d-fd937ee9efbd" },
+  { n = 3, title = "Sans un bruit", mbid = "0a0bc860-88d3-43c1-ba15-69f656063228" },
+  { n = 4, title = "Je vous salue Marie", mbid = "4a3148f7-44a4-437c-83df-026ad9ada1d6" },
+  { n = 5, title = "On s'absentera", mbid = "3e5a1757-7bf9-4531-9572-e1e565df673e" },
+  { n = 6, title = "Pour seule mémoire", mbid = "716c3fe3-6cca-4b0d-9d48-2867c9d226b0" },
+  { n = 7, title = "Ave Maria", mbid = "0821bf79-a04d-4a21-bd99-6ee50d4237fd" },
+  { n = 8, title = "Mort pour la vie", mbid = "0d60ba93-0ca2-4d56-83a8-456da19d44c8" },
+  { n = 9, title = "Je ne suis pas toujours de mon avis", mbid = "44dbebe4-dc77-4b96-b495-c5ed923f21f4" },
+  { n = 10, title = "O.A.O.", mbid = "a14914f1-fa44-4734-9fbe-0e44e09a4612" },
+]
+
+[[release]]
+mbid = "5a5f1b4e-bc07-35d3-bc68-18b5e7bab745"
+title = "French Paradoxe"
+type = "album"
+date = "2002-11"
+tracks = [
+  { n = 1, title = "Désamour", mbid = "7c17bf40-e2c2-4af5-9704-c2f1c0fd3b15" },
+  { n = 2, title = "French Paradoxe", mbid = "5e16c81a-5505-4346-b4df-a81d99ee4e06" },
+  { n = 3, title = "(On sera) sérieux comme le plaisir", mbid = "fbc2d084-591f-46ab-a425-b8f3986c5d5d" },
+  { n = 4, title = "Lulu 1", mbid = "dce6af25-472c-4aa5-9df7-45dae9e38cf8" },
+  { n = 5, title = "Les objets", mbid = "240f038d-98c1-47e0-9bcf-52175a2e41dc" },
+  { n = 6, title = "J'suis snob", mbid = "c16e2922-9546-45e8-b431-e6030f737f36" },
+  { n = 7, title = "Lulu 2", mbid = "14376484-c1fa-40c9-977d-cc2691df9abc" },
+  { n = 8, title = "Toi et moi", mbid = "fd9d749a-d8a9-4fde-9558-23c5a524a95f" },
+  { n = 9, title = "Rectangle", mbid = "20733edd-d62c-46dd-9842-155963ab53b3" },
+  { n = 10, title = "Pas d'histoire", mbid = "b35b0914-29dd-47f8-bc14-cb86c951715c" },
+]
+
+[[release]]
+mbid = "d8040da9-68d3-30cb-a08a-bb08c177498d"
+title = "Tant de temps"
+type = "album"
+date = "2006-05-15"
+tracks = [
+  { n = 1, title = "Tous ces mots-là", mbid = "66545f47-cfcb-40ef-ac19-6cab6ad98d27" },
+  { n = 2, title = "Le Sport", mbid = "685dfeda-1d1b-4bfd-8993-8d78d6d16657" },
+  { n = 3, title = "Tant de temps", mbid = "feeaa80c-90d6-4b15-bd43-145b930aa614" },
+  { n = 4, title = "T'es mon château", mbid = "446bf2a0-00a5-4b2e-9fff-fd9660fe8aa8" },
+  { n = 5, title = "L'Homme de l'ombre", mbid = "562d0bee-24ff-4590-b058-146a06192cb1" },
+  { n = 6, title = "Les Amants, les Clients", mbid = "89389916-8b59-4d52-9837-984a4446d925" },
+  { n = 7, title = "Si je te quitte", mbid = "05e34331-f552-4427-96d0-348cf8608ad2" },
+  { n = 8, title = "Avec les yeux", mbid = "5eb7a961-d203-405e-af6d-e1d7ab265e2b" },
+  { n = 9, title = "Baiser empoisonné", mbid = "897e9b73-be83-486c-bcdc-398ba469af59" },
+  { n = 10, title = "Mars rendez-vous", mbid = "0a09cd90-2d61-4602-b4df-565b800a8f34" },
+  { n = 11, title = "Code 68", mbid = "74387f3f-0e2c-4d59-add1-1986e50d05a7" },
+]

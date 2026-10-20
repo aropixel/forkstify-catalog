@@ -1,0 +1,555 @@
+format = 1
+
+[[release]]
+mbid = "7fef9e92-2b0e-3bdb-ba4e-cd188e4221a9"
+title = "Precipitate"
+type = "ep"
+date = "1999"
+tracks = [
+  { n = 1, title = "Precipitate", mbid = "96bd0ac6-bdd7-4506-b606-d8237b2d9084" },
+  { n = 2, title = "Song Seven", mbid = "cfbdf2e4-fcc1-4158-b97f-76bd4ab6b3df" },
+  { n = 3, title = "PDA", mbid = "99474050-e0aa-41fa-8eff-8a372869fa8a" },
+  { n = 4, title = "A Time to Be So Small", mbid = "c01f44a7-1aff-4353-ab63-86618fe94a2b" },
+]
+
+[[release]]
+mbid = "c003e37f-0d4e-3778-9936-d815bc200130"
+title = "Fukd I.D. #3"
+type = "ep"
+date = "2000-12-11"
+tracks = [
+  { n = 1, title = "PDA", mbid = "178401ea-6c86-4a34-85d0-70865d7b4a09" },
+  { n = 2, title = "Precipitate", mbid = "96bd0ac6-bdd7-4506-b606-d8237b2d9084" },
+  { n = 3, title = "Roland", mbid = "5ea13a21-3202-4f33-9d25-bb33015848e9" },
+  { n = 4, title = "5", mbid = "c9c65d7b-5109-4186-a3c1-04cbcb14a5ef" },
+]
+
+[[release]]
+mbid = "2ec258b8-36cc-397a-bfdf-d83f67fc5556"
+title = "Interpol"
+type = "ep"
+date = "2002-06-04"
+spotify = "4qu2pGL35E9hooBOkYv8zH"
+tracks = [
+  { n = 1, title = "PDA", mbid = "1c4eab85-b124-45f4-b953-c90a7340aaea" },
+  { n = 2, title = "NYC", mbid = "7ed089e9-a146-4d38-9626-48632cd27fee" },
+  { n = 3, title = "Specialist", mbid = "29089b42-e0e2-4a2d-a64c-519b8ef44218" },
+]
+
+[[release]]
+mbid = "9c4bb157-0e10-486f-9f83-a5f82dd0e279"
+title = "PDA"
+type = "single"
+date = "2002-06-04"
+tracks = [
+  { n = 1, title = "PDA", mbid = "1c4eab85-b124-45f4-b953-c90a7340aaea" },
+  { n = 2, title = "Specialist", mbid = "29089b42-e0e2-4a2d-a64c-519b8ef44218" },
+]
+
+[[release]]
+mbid = "e7227840-5ef2-3813-af26-15dab34e1a51"
+title = "Turn On the Bright Lights"
+type = "album"
+date = "2002-08-19"
+spotify = "7icgf3bU6X2ZrVm6pGSjP4"
+tracks = [
+  { n = 1, title = "Untitled", mbid = "5025349a-bd35-42c9-9742-ea682ddc50b9" },
+  { n = 2, title = "Obstacle 1", mbid = "1612c91a-f7f3-4727-901d-bb338987132d" },
+  { n = 3, title = "NYC", mbid = "7ed089e9-a146-4d38-9626-48632cd27fee" },
+  { n = 4, title = "PDA", mbid = "1c4eab85-b124-45f4-b953-c90a7340aaea" },
+  { n = 5, title = "Say Hello to the Angels", mbid = "52a52b2c-59e2-464c-a499-c885f6a58cdf" },
+  { n = 6, title = "Hands Away", mbid = "1fe3ee2e-7589-47ac-86a8-610177fdf9a3" },
+  { n = 7, title = "Obstacle 2", mbid = "be24bdfe-11d1-4e6d-84e9-b29888f7e520" },
+  { n = 8, title = "Stella was a diver and she was always down", mbid = "88502f80-52df-4819-8a8d-94320451ac9e" },
+  { n = 9, title = "Roland", mbid = "37bb8f5a-0e07-4202-afb4-73012cf0636d" },
+  { n = 10, title = "The New", mbid = "e9a5d199-c7eb-43bb-bbae-f09326f0b1a1" },
+  { n = 11, title = "Leif Erikson", mbid = "f3cc9057-405f-4647-8837-ddcbf72649cc" },
+]
+
+[[release]]
+mbid = "b4d957c7-cd78-373f-831d-9040dfa1808a"
+title = "Obstacle 1"
+type = "single"
+date = "2002-11-11"
+tracks = [
+  { n = 1, title = "Obstacle 1", mbid = "1612c91a-f7f3-4727-901d-bb338987132d" },
+  { n = 2, title = "PDA (Morning Becomes Eclectic Session)", mbid = "7795bd6c-1187-493f-8a8c-ea17cb61686b" },
+  { n = 3, title = "Hands Away (Peel session)", mbid = "9e6fe6a9-63dd-4873-af89-72e49dfad5d4" },
+]
+
+[[release]]
+mbid = "f5fc3f62-6350-3e80-ad0e-24860a3ddbb0"
+title = "Say Hello to the Angels / NYC"
+type = "single"
+date = "2003-04-14"
+spotify = "7uBJtBPBQlTF7awyWqevWm"
+tracks = [
+  { n = 1, title = "Say Hello to the Angels", mbid = "52a52b2c-59e2-464c-a499-c885f6a58cdf" },
+  { n = 2, title = "NYC", mbid = "7ed089e9-a146-4d38-9626-48632cd27fee" },
+  { n = 3, title = "NYC (demo version)", mbid = "61677c05-9db5-4a08-b65a-b28d0c759ce0" },
+]
+
+[[release]]
+mbid = "367f3431-ee89-39db-ac9c-064c18256404"
+title = "The Black EP"
+type = "ep"
+date = "2003-08-12"
+tracks = [
+  { n = 1, title = "Say Hello to the Angels", mbid = "52a52b2c-59e2-464c-a499-c885f6a58cdf" },
+  { n = 2, title = "NYC (demo)", mbid = "61677c05-9db5-4a08-b65a-b28d0c759ce0" },
+  { n = 3, title = "Obstacle 1 (Black Session)", mbid = "7be9f379-8250-4333-a109-d839e43f807a" },
+  { n = 4, title = "Specialist (Black Session)", mbid = "7baf2494-f7e1-4309-9f1e-528a3a8412ee" },
+  { n = 5, title = "Leif Erikson (Black Session)", mbid = "4f15ad1e-0ea0-494e-94d7-69cb705bb403" },
+  { n = 6, title = "PDA (Black Session)", mbid = "b69d91aa-b330-412e-aea9-1672233e45df" },
+]
+
+[[release]]
+mbid = "04d37fa1-f1fd-3340-bb56-3c7af45fa3fd"
+title = "Evil"
+type = "single"
+date = "2004"
+spotify = "4Y1CIFmBLJ2kH5NEMoSSyJ"
+tracks = [
+  { n = 1, title = "Evil", mbid = "6c450822-41ca-444e-8be5-10ee5a9ea53a" },
+  { n = 2, title = "NARC (Zane Lowe BBC session)", mbid = "9f145433-18ea-4227-a096-abfc78ce5189" },
+  { n = 3, title = "Evil (Zane Lowe BBC session)", mbid = "a76f701f-4315-465c-98b4-0c0fe0d8a4e9" },
+]
+
+[[release]]
+mbid = "b2433b30-6fbf-45d7-a596-7da58e188cdc"
+title = "Interlude"
+type = "single"
+date = "2004-02-17"
+spotify = "3BE5RkjsTIDp6dYqbqfaPA"
+tracks = [
+  { n = 1, title = "Interlude", mbid = "811c18c7-3065-4d16-a922-8321b684463a" },
+]
+
+[[release]]
+mbid = "d31d74ff-9aec-3b54-ae3a-72f750cd5782"
+title = "Slow Hands"
+type = "single"
+date = "2004-09-13"
+spotify = "6Pkcpw9THD6oPXfCthCM5K"
+tracks = [
+  { n = 1, title = "Slow Hands", mbid = "d0eb0d3c-cf52-4e23-8b6d-2fd03f7c8f70" },
+  { n = 2, title = "Slow Hands (Dan the Automator remix)", mbid = "91a10a77-c12f-4bc6-abcb-06b72cfd32ce" },
+  { n = 3, title = "Slow Hands (Britt Daniel Remix)", mbid = "5b1445b5-a3f1-429b-b893-40b1d4e67fbc" },
+]
+
+[[release]]
+mbid = "bc7740e1-02c9-3ab7-9869-0e0c79acf941"
+title = "Antics"
+type = "album"
+date = "2004-09-24"
+spotify = "2OFkUKYNNFQ74kJOSc9gzz"
+tracks = [
+  { n = 1, title = "Next Exit", mbid = "3574a3c1-6822-4118-bd9f-ce048e34b66e" },
+  { n = 2, title = "Evil", mbid = "6c450822-41ca-444e-8be5-10ee5a9ea53a" },
+  { n = 3, title = "NARC", mbid = "faac4222-d476-48bd-aaac-e2b46b0f8262" },
+  { n = 4, title = "Take You on a Cruise", mbid = "19a18138-4d2e-4fa9-a6bc-99b762b11326" },
+  { n = 5, title = "Slow Hands", mbid = "d0eb0d3c-cf52-4e23-8b6d-2fd03f7c8f70" },
+  { n = 6, title = "Not Even Jail", mbid = "254a8e81-5661-42c8-9a60-7ed82ec102c1" },
+  { n = 7, title = "Public Pervert", mbid = "97062c59-5642-41f1-8c0b-78fb84ece6e7" },
+  { n = 8, title = "C’mere", mbid = "ee665b60-8023-4452-8c14-a996670619de" },
+  { n = 9, title = "Length of Love", mbid = "85974fc9-b1ae-4ba6-b026-5fecbaa3f811" },
+  { n = 10, title = "A Time to Be So Small", mbid = "f20bf1fd-3c99-4fd6-83cd-6c022aa8cd7b" },
+]
+
+[[release]]
+mbid = "c56045f6-78f6-3874-8f66-0a5f6add3eff"
+title = "C’mere"
+type = "single"
+date = "2005-04-11"
+spotify = "0K3Nk01AZhFfCmudThoLYN"
+tracks = [
+  { n = 1, title = "C’mere (album version)", mbid = "ee665b60-8023-4452-8c14-a996670619de" },
+  { n = 2, title = "Public Pervert (Carlos D remix)", mbid = "a4464c43-4147-49c3-9e6d-34ff5c2f2a79" },
+  { n = 3, title = "Fog vs. Mould for the Length of Love", mbid = "c6633b73-d5ec-4c57-82a6-58565dd5d385" },
+]
+
+[[release]]
+mbid = "9a2b8f98-b5c5-3d15-b959-90887ca0050d"
+title = "The Heinrich Maneuver"
+type = "single"
+date = "2007-06-25"
+tracks = [
+  { n = 1, title = "The Heinrich Maneuver (radio edit)", mbid = "af9f8847-0d42-4322-b8d8-6a554fcfe8bc" },
+  { n = 2, title = "Mammoth (instrumental)", mbid = "a94d81dc-afda-48fa-97a5-f4af1054a1ed" },
+]
+
+[[release]]
+mbid = "946e1aba-404a-3b0f-8cb4-3f12796a7d85"
+title = "Our Love to Admire"
+type = "album"
+date = "2007-07-09"
+tracks = [
+  { n = 1, title = "Pioneer to the Falls", mbid = "0f388a35-d8fb-4a27-8424-3f17da5f5552" },
+  { n = 2, title = "No I in Threesome", mbid = "ea79e8eb-d10e-4a27-89d2-51239264a61a" },
+  { n = 3, title = "The Scale", mbid = "d1d4d686-91e9-4354-b73f-be38955a2249" },
+  { n = 4, title = "The Heinrich Maneuver", mbid = "5c49791b-d299-469e-a212-5916c6f57754" },
+  { n = 5, title = "Mammoth", mbid = "635bb1d2-9445-4622-9206-5b5567bb8400" },
+  { n = 6, title = "Pace Is the Trick", mbid = "17241ce7-07c6-4de9-a5af-822cf2b61000" },
+  { n = 7, title = "All Fired Up", mbid = "8c317121-d474-47f6-a571-43cc11cdc3c2" },
+  { n = 8, title = "Rest My Chemistry", mbid = "56228aad-af59-4f26-9e20-34b30a529312" },
+  { n = 9, title = "Who Do You Think", mbid = "50a0aa96-a08e-4ae5-9513-e2df436c67cf" },
+  { n = 10, title = "Wrecking Ball", mbid = "77015a10-4d04-4cd7-a7fb-af095199c1fb" },
+  { n = 11, title = "The Lighthouse", mbid = "a32630c1-ceae-4766-9986-445e74a59665" },
+]
+
+[[release]]
+mbid = "4b6c4d5f-838b-360f-8621-90c814e5d8fc"
+title = "Mammoth"
+type = "single"
+date = "2007-09-03"
+tracks = [
+  { n = 1, title = "Mammoth", mbid = "635bb1d2-9445-4622-9206-5b5567bb8400" },
+]
+
+[[release]]
+mbid = "437d703c-08de-4b47-9677-6294ef0f1d65"
+title = "AOL Session"
+type = "ep"
+date = "2008-01-01"
+spotify = "4Af9UqcVxkinmha0pwr4Km"
+tracks = [
+  { n = 1, title = "Evil", mbid = "9d26cc35-5e15-48c8-9679-d9098ce7ea30" },
+  { n = 2, title = "Mammoth", mbid = "04ee2698-3360-4a09-8a42-1a5f8668b9e3" },
+  { n = 3, title = "Obstacle 1", mbid = "f402806f-90fd-4f30-9d09-ddf5ff70a798" },
+  { n = 4, title = "The Heinrich Manuever", mbid = "763d0c42-c0ee-4a29-a28e-0af7fe14125a" },
+]
+
+[[release]]
+mbid = "71d66500-00f2-44a1-a1df-12b94e2d5082"
+title = "Lights"
+type = "single"
+date = "2010-06-29"
+spotify = "3qzrsUwHxcwjmKvvdKciN6"
+tracks = [
+  { n = 1, title = "Lights", mbid = "57f26f52-3f7d-45d8-a56a-367672412ca0" },
+]
+
+[[release]]
+mbid = "b027a45e-1c7d-42f7-8a89-dda2fa559752"
+title = "Barricade"
+type = "single"
+date = "2010-08-03"
+tracks = [
+  { n = 1, title = "Barricade", mbid = "be93995d-ec32-4f55-b4ae-7c9296ddc36a" },
+]
+
+[[release]]
+mbid = "7d6414a9-800d-4ad1-9f6a-5b4f643fd94a"
+title = "Interpol"
+type = "album"
+date = "2010-09-06"
+tracks = [
+  { n = 1, title = "Success", mbid = "c30a1f91-eba5-4672-8a4e-cd97ab7b7753" },
+  { n = 2, title = "Memory Serves", mbid = "cc4c2aec-06d2-471b-9861-f604ee1dba46" },
+  { n = 3, title = "Summer Well", mbid = "bcb5d384-1e04-451d-a7cb-8bbd9fd7586b" },
+  { n = 4, title = "Lights", mbid = "27ba016b-72a6-4d51-97de-209f6567647e" },
+  { n = 5, title = "Barricade", mbid = "52676ae0-65ba-4fdc-8bf7-c91457e4ec7f" },
+  { n = 6, title = "Always Malaise (The Man I Am)", mbid = "42a2f2b4-cb47-42b2-98c4-c4f58ada873e" },
+  { n = 7, title = "Safe Without", mbid = "3b8b66dc-d58b-4307-b039-5de4406fb8d6" },
+  { n = 8, title = "Try It On", mbid = "90caefa9-fd3e-4804-82f2-6b67d5f68ced" },
+  { n = 9, title = "All of the Ways", mbid = "637d6368-e4ce-4392-8ac1-b7205420b901" },
+  { n = 10, title = "The Undoing", mbid = "b953f127-74c9-4f74-a9fe-99ef1c2068e9" },
+  { n = 11, title = "Crimewaves", mbid = "953280fb-3dae-4e93-84a2-be5820274bbf" },
+]
+
+[[release]]
+mbid = "a9f28462-eecb-46f7-9a7e-98f3da23734f"
+title = "Crimewaves"
+type = "single"
+date = "2010-09-07"
+spotify = "7xkuxT6YRss72Gwvdg90QW"
+tracks = [
+  { n = 1, title = "Crimewaves", mbid = "938ce5b0-188f-4077-a590-231337f0c844" },
+]
+
+[[release]]
+mbid = "a69d20ba-db49-4f37-b9f1-97de4806cc0e"
+title = "Interpol Tour EP"
+type = "ep"
+date = "2011-02-23"
+tracks = [
+  { n = 1, title = "Lights", mbid = "57f26f52-3f7d-45d8-a56a-367672412ca0" },
+  { n = 2, title = "Dust Devil", mbid = "42349475-6c5b-4879-aad2-53ea2d365ed9" },
+  { n = 3, title = "Slowdance", mbid = "6dccac3f-b895-433d-baec-eae21e7bc3e0" },
+]
+
+[[release]]
+mbid = "7b35541f-fc09-4c2e-9bf6-d7eea3a72f6a"
+title = "All the Rage Back Home"
+type = "single"
+date = "2014-07-10"
+spotify = "22hdOwobDOaI3RLOfiX9HO"
+tracks = [
+  { n = 1, title = "All the Rage Back Home", mbid = "1c4d387f-0379-488d-86c7-09956bfe4787" },
+  { n = 2, title = "The Depths", mbid = "842c4a9d-b17b-4533-a5f3-dcd14abec536" },
+]
+
+[[release]]
+mbid = "a1175323-d5ef-4d25-8c50-61b013b3fd66"
+title = "Ancient Ways"
+type = "single"
+date = "2014-08-19"
+spotify = "4ByVjpqhHRuZ56y5t2dN9R"
+tracks = [
+  { n = 1, title = "Ancient Ways", mbid = "ff848faf-4053-42fb-87ba-441b171736c6" },
+]
+
+[[release]]
+mbid = "dc8af9bd-9e9a-4a01-a73e-c19ae6af46e9"
+title = "El Pintor"
+type = "album"
+date = "2014-09-05"
+spotify = "0YAtJCLY8ogFUjdopdHsyS"
+tracks = [
+  { n = 1, title = "All the Rage Back Home", mbid = "1c4d387f-0379-488d-86c7-09956bfe4787" },
+  { n = 2, title = "My Desire", mbid = "125dee6b-7a9c-486a-9b84-7843702266ec" },
+  { n = 3, title = "Anywhere", mbid = "3d36d27c-bd5f-46da-b575-63e97e34a945" },
+  { n = 4, title = "Same Town, New Story", mbid = "c506c581-d3b1-4037-be31-2d22dbbc7270" },
+  { n = 5, title = "My Blue Supreme", mbid = "c14828b2-2192-407a-afaa-c97f27e35075" },
+  { n = 6, title = "Everything Is Wrong", mbid = "9fc633f5-920f-4dff-a119-6bed93d641ac" },
+  { n = 7, title = "Breaker 1", mbid = "62299451-7964-4e45-838f-84bdaaf95aab" },
+  { n = 8, title = "Ancient Ways", mbid = "ff848faf-4053-42fb-87ba-441b171736c6" },
+  { n = 9, title = "Tidal Wave", mbid = "59353ff1-6a4a-497f-992f-db66f13c35f5" },
+  { n = 10, title = "Twice as Hard", mbid = "2bfb944b-7b5e-4b9a-9943-08f3a9f394c7" },
+]
+
+[[release]]
+mbid = "6812fa62-bb35-463a-8743-8ecf72994994"
+title = "Everything Is Wrong"
+type = "single"
+date = "2015-04-18"
+spotify = "3fhyV4mZvRHA1q5ugl73ds"
+tracks = [
+  { n = 1, title = "Everything Is Wrong", mbid = "9fc633f5-920f-4dff-a119-6bed93d641ac" },
+  { n = 2, title = "What Is What", mbid = "46a32711-54c4-48ce-a57f-1df14513c80f" },
+]
+
+[[release]]
+mbid = "676339af-65eb-4bbb-b02b-fe5c53a34f0f"
+title = "El Pintor Bonus Tracks"
+type = "ep"
+date = "2018-02-16"
+spotify = "6c6UpcXFRXg1699EaP0C2G"
+tracks = [
+  { n = 1, title = "The Depths", mbid = "842c4a9d-b17b-4533-a5f3-dcd14abec536" },
+  { n = 2, title = "Malfeasance", mbid = "4197711e-d27c-4526-9108-bd5413afce2a" },
+  { n = 3, title = "What Is What", mbid = "46a32711-54c4-48ce-a57f-1df14513c80f" },
+]
+
+[[release]]
+mbid = "e2eae9e7-b26e-45b0-99c0-8c3106f44969"
+title = "The Rover"
+type = "single"
+date = "2018-06-07"
+spotify = "27ySvF0xYWXQ0mJOn3kNMZ"
+tracks = [
+  { n = 1, title = "The Rover", mbid = "8231ecf6-18f6-4d01-a687-b367d9e7a97b" },
+]
+
+[[release]]
+mbid = "84f218fa-70e0-49e9-becb-30e1ad9f1df1"
+title = "Number 10"
+type = "single"
+date = "2018-07-30"
+spotify = "2mLKqMPGn2ofblyNfBv5tK"
+tracks = [
+  { n = 1, title = "Number 10", mbid = "86e1df84-e26a-4065-a099-bfcfe9fa3eff" },
+  { n = 2, title = "Number 10 (edit)", mbid = "4a950e99-d036-4144-900f-8dc2edec745a" },
+]
+
+[[release]]
+mbid = "2be4424a-bdde-4383-bc2d-627d9fc06e50"
+title = "If You Really Love Nothing"
+type = "single"
+date = "2018-08-23"
+spotify = "6RkIhxDSFgSIUHasXmmULm"
+tracks = [
+  { n = 1, title = "If You Really Love Nothing", mbid = "5cc275ac-2337-4532-b41d-8177f97c1704" },
+]
+
+[[release]]
+mbid = "fdec9bd2-4dc3-4311-99ad-722cb5016ce5"
+title = "Marauder"
+type = "album"
+date = "2018-08-24"
+tracks = [
+  { n = 1, title = "If You Really Love Nothing", mbid = "5cc275ac-2337-4532-b41d-8177f97c1704" },
+  { n = 2, title = "The Rover", mbid = "8231ecf6-18f6-4d01-a687-b367d9e7a97b" },
+  { n = 3, title = "Complications", mbid = "5e0de868-3aab-4186-83f7-24ab86b2c6fc" },
+  { n = 4, title = "Flight of Fancy", mbid = "d968ec71-c896-412b-96ec-5fb3e941fa45" },
+  { n = 5, title = "Stay in Touch", mbid = "54ffd316-2650-4095-a00e-590c44fcd577" },
+  { n = 6, title = "Interlude 1", mbid = "e53a2df1-245c-4019-87a6-b806e0c32f58" },
+  { n = 7, title = "Mountain Child", mbid = "066809d3-11ba-4bef-be24-e9724762ccea" },
+  { n = 8, title = "NYSMAW", mbid = "d741edb5-fdbc-4cae-9f39-de6526c4ffd2" },
+  { n = 9, title = "Surveillance", mbid = "19a40809-0633-4d39-a09a-ce4b6e15c860" },
+  { n = 10, title = "Number 10", mbid = "86e1df84-e26a-4065-a099-bfcfe9fa3eff" },
+  { n = 11, title = "Party’s Over", mbid = "24268211-dbd3-426f-b638-45574b61ca19" },
+  { n = 12, title = "Interlude 2", mbid = "fa3d1935-2e65-40f3-92c2-677071f8ead2" },
+  { n = 13, title = "It Probably Matters", mbid = "30bc31d5-ee77-48b8-96c8-9eccd63f410d" },
+]
+
+[[release]]
+mbid = "7311a766-c0d0-4b19-b84a-1a00fd9bec74"
+title = "All at Once"
+type = "single"
+date = "2018-08-31"
+tracks = [
+  { n = 1, title = "All at Once", mbid = "f9ba2388-d582-48bd-af63-6fb66c3afd7f" },
+]
+
+[[release]]
+mbid = "bab5bca1-e38f-43be-ace5-99a2ab372fab"
+title = "Fine Mess"
+type = "single"
+date = "2019-01-30"
+spotify = "6XQ7YviCGGRwFhfavNvTsY"
+tracks = [
+  { n = 1, title = "Fine Mess", mbid = "763569c5-4612-43c1-be4a-b8f9e1efa37e" },
+]
+
+[[release]]
+mbid = "a2028658-976a-4dc7-b189-ce4864beb77b"
+title = "The Weekend"
+type = "single"
+date = "2019-03-28"
+spotify = "42Iu8fkTVdXj0OXhl9to3i"
+tracks = [
+  { n = 1, title = "The Weekend", mbid = "ecf1ee81-fef9-41fb-b8ac-e5401e75acbf" },
+]
+
+[[release]]
+mbid = "b0bd8ca1-060f-480e-a810-21ca08ef41a8"
+title = "A Fine Mess"
+type = "ep"
+date = "2019-05-17"
+spotify = "4uCKSzjwJgxmmsS6XzqyrX"
+tracks = [
+  { n = 1, title = "Fine Mess", mbid = "763569c5-4612-43c1-be4a-b8f9e1efa37e" },
+  { n = 2, title = "No Big Deal", mbid = "31d07b02-2f10-4ec9-8da2-cd73b134d365" },
+  { n = 3, title = "Real Life", mbid = "c501fe38-97e6-4923-ba7e-021fe9f2b24b" },
+  { n = 4, title = "The Weekend", mbid = "ecf1ee81-fef9-41fb-b8ac-e5401e75acbf" },
+  { n = 5, title = "Thrones", mbid = "422f8f55-9a3f-4868-950c-20cb2e1c5431" },
+]
+
+[[release]]
+mbid = "287c6a25-654a-4848-8f07-b74b9ac85b0f"
+title = "Mind Over Time"
+type = "single"
+date = "2021-02-17"
+spotify = "5HS0qU4jszu859kaGsR0Ni"
+tracks = [
+  { n = 1, title = "Mind Over Time", mbid = "2c1174e2-988b-484f-bfc9-c247cf9e46c5" },
+]
+
+[[release]]
+mbid = "8ddf8f0b-868e-42b5-88c7-90c3963813f9"
+title = "Toni"
+type = "single"
+date = "2022-04-07"
+spotify = "1JxWTGp41Aw8KLXEyHYi68"
+tracks = [
+  { n = 1, title = "Toni", mbid = "e95c9af4-b100-4944-8a9f-c022a0b81d93" },
+]
+
+[[release]]
+mbid = "399764f0-385b-4ad3-a210-699690a4108c"
+title = "Something Changed"
+type = "single"
+date = "2022-04-12"
+spotify = "3or76O7y0xIg226n36rLyl"
+tracks = [
+  { n = 1, title = "Something Changed", mbid = "46e5443b-ef66-430b-91c1-6ca414425c6f" },
+  { n = 2, title = "Toni", mbid = "e95c9af4-b100-4944-8a9f-c022a0b81d93" },
+]
+
+[[release]]
+mbid = "cf4441df-057f-44ab-9331-4211b13489d3"
+title = "Fables"
+type = "single"
+date = "2022-05-18"
+spotify = "2Z3UKI5vh7I4zLsEOWjqEE"
+tracks = [
+  { n = 1, title = "Fables", mbid = "d36f3203-2d97-4d65-934d-b4dd8badec26" },
+  { n = 2, title = "Something Changed", mbid = "46e5443b-ef66-430b-91c1-6ca414425c6f" },
+  { n = 3, title = "Toni", mbid = "e95c9af4-b100-4944-8a9f-c022a0b81d93" },
+]
+
+[[release]]
+mbid = "6ea1d04f-1d0d-4f2d-8d62-0c2c3604fabe"
+title = "Gran Hotel"
+type = "single"
+date = "2022-06-14"
+spotify = "5PtYVRHFCQw4EfVJ5JFGlJ"
+tracks = [
+  { n = 1, title = "Gran Hotel", mbid = "56a4fb36-a0f3-4bb4-bddf-8c9d02e410e2" },
+  { n = 2, title = "Gran Hotel (edit)", mbid = "930c0f0b-ec28-4217-95ae-e53198840b2a" },
+]
+
+[[release]]
+mbid = "79b8aebb-c519-473a-9580-6c5ac0141d29"
+title = "The Other Side of Make‐Believe"
+type = "album"
+date = "2022-07-15"
+spotify = "0P1hdnE62qqoPJZYIZSZn2"
+tracks = [
+  { n = 1, title = "Toni", mbid = "e95c9af4-b100-4944-8a9f-c022a0b81d93" },
+  { n = 2, title = "Fables", mbid = "d36f3203-2d97-4d65-934d-b4dd8badec26" },
+  { n = 3, title = "Into the Night", mbid = "10eb48c8-332c-4d7a-b23a-d071316cb71c" },
+  { n = 4, title = "Mr. Credit", mbid = "21cf45ca-93f3-40d8-a889-2bf85988056d" },
+  { n = 5, title = "Something Changed", mbid = "46e5443b-ef66-430b-91c1-6ca414425c6f" },
+  { n = 6, title = "Renegade Hearts", mbid = "b4f234ad-96be-4d31-8805-a2cc0fc5b5d3" },
+  { n = 7, title = "Passenger", mbid = "b4aa60c2-8f8f-4392-beac-80b31555ef84" },
+  { n = 8, title = "Greenwich", mbid = "63c2637c-b789-40ce-9010-b50cdb430de9" },
+  { n = 9, title = "Gran Hotel", mbid = "56a4fb36-a0f3-4bb4-bddf-8c9d02e410e2" },
+  { n = 10, title = "Big Shot City", mbid = "f895fb31-fecd-4503-845c-d220ba242bef" },
+  { n = 11, title = "Go Easy (Palermo)", mbid = "991450d7-47f0-4b33-b02a-1a75ea8aba4c" },
+]
+
+[[release]]
+mbid = "ce5cd3fd-8258-4ae7-b35b-19d1644e946c"
+title = "This Mirror Weighs a Ton / See Out Loud"
+type = "single"
+date = "2026-06-09"
+spotify = "53ZH0bU5CZ1QVfz92eImpl"
+tracks = [
+  { n = 1, title = "This Mirror Weighs a Ton", mbid = "0b4e8326-8284-4c73-a376-8cef3fb807f8" },
+  { n = 2, title = "See Out Loud", mbid = "998b0d18-9381-435a-bed1-b67ba447190c" },
+]
+
+[[release]]
+mbid = "16dab7a2-fd2b-4ac2-b2bf-c829694846fc"
+title = "Iron City"
+type = "single"
+date = "2026-07-08"
+spotify = "5bDculEme7GI0So0fOO6sg"
+tracks = [
+  { n = 1, title = "Iron City", mbid = "d5d76eb5-6595-490c-b582-7dff817eb68f" },
+  { n = 2, title = "This Mirror Weighs a Ton", mbid = "0b4e8326-8284-4c73-a376-8cef3fb807f8" },
+  { n = 3, title = "See Out Loud", mbid = "998b0d18-9381-435a-bed1-b67ba447190c" },
+]
+
+[[release]]
+mbid = "5a2717f1-cc28-42d7-aea6-00a7bb2c4355"
+title = "This Mirror Weighs a Ton"
+type = "album"
+date = "2026-08-28"
+spotify = "2LgXUDNp1uPV0t55aTlfUT"
+tracks = [
+  { n = 1, title = "This Mirror Weighs a Ton", mbid = "0b4e8326-8284-4c73-a376-8cef3fb807f8" },
+  { n = 2, title = "See Out Loud", mbid = "998b0d18-9381-435a-bed1-b67ba447190c" },
+  { n = 3, title = "Iron City", mbid = "d5d76eb5-6595-490c-b582-7dff817eb68f" },
+  { n = 4, title = "Wounded Soldier", mbid = "708e9749-ea69-479a-846e-8f2ccb3a8109" },
+  { n = 5, title = "Wings on Fire", mbid = "5211c798-3e6e-4f5d-b749-acaf3b317683" },
+  { n = 6, title = "Ever the Actor", mbid = "76fa4617-8f3d-4ea4-92e1-073b4f58a768" },
+  { n = 7, title = "So Rides the Reindeer", mbid = "97f43844-fd43-41f8-86a1-17aed8a22ee2" },
+  { n = 8, title = "Darling Thoughts", mbid = "193ac22d-8e51-4c62-880d-92256cd141a6" },
+  { n = 9, title = "Wake Up", mbid = "a415615a-cc02-4b77-b0e9-03a6108a49a1" },
+  { n = 10, title = "Enemy", mbid = "48c45903-eb16-4965-839a-2bd3401bc3b4" },
+  { n = 11, title = "Bird and the Serpent", mbid = "6d68030b-2d99-4874-8a78-792324727537" },
+  { n = 12, title = "Sudden", mbid = "3aaca312-6b01-4188-bd87-efea73d81ed6" },
+]

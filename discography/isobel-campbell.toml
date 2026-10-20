@@ -1,0 +1,294 @@
+format = 1
+
+[[release]]
+mbid = "4e7fb5cb-b905-36eb-af77-07e1e4b88377"
+title = "Ghost of Yesterday"
+type = "ep"
+date = "2002"
+tracks = [
+  { n = 1, title = "All Alone", mbid = "d50a5643-e94e-47ca-835e-1ac34a640cc1" },
+  { n = 2, title = "Ghost of Yesterday", mbid = "000d2c5c-ea01-4c73-87ee-1c7871b26cc5" },
+  { n = 3, title = "Who Needs You?", mbid = "e992810a-2d31-4fa0-871c-70e8d7b6c9c4" },
+  { n = 4, title = "Please Don't Do It in Here", mbid = "cc50b22a-e0a6-4c60-aeac-aaf5bdf5f305" },
+  { n = 5, title = "Preacher Boy", mbid = "801dc849-2c2e-43d7-a1f3-d48ed5fd0b91" },
+  { n = 6, title = "Tell Me More and More (And Then Some)", mbid = "06389743-7319-4bf5-85ce-79354b352027" },
+  { n = 7, title = "Somebody's on My Mind", mbid = "6605a6f6-9ef6-4b78-9d74-ba29c2565a42" },
+]
+
+[[release]]
+mbid = "eed9749e-47a9-3ba3-b8c6-ff67b23b400b"
+title = "Amorino"
+type = "album"
+date = "2003-10-07"
+tracks = [
+  { n = 1, title = "Amorino", mbid = "07ead97b-0578-4535-aea9-04d550e37b2a" },
+  { n = 2, title = "The Breeze Whispered Your Name", mbid = "7c8c8194-fb6d-4549-b442-5c32163aee2c" },
+  { n = 3, title = "Monologue for an Old True Love", mbid = "7bf40646-8949-4351-986a-b81c6a31eb99" },
+  { n = 4, title = "October’s Sky", mbid = "a2ea7789-7241-4feb-93be-c4ba1f0c526d" },
+  { n = 5, title = "The Cat’s Pyjamas", mbid = "ba2c3f6e-ea9d-407e-9cbd-f4db0707b4bb" },
+  { n = 6, title = "Why Does My Head Hurt So?", mbid = "fdc9ca9c-2400-4306-9b17-e3ba8c12a178" },
+  { n = 7, title = "Johnny Come Home", mbid = "0d04aea9-9eff-4a51-a9fe-d65ffc1a28da" },
+  { n = 8, title = "Poor Butterfly", mbid = "0e8769de-4bd9-4a06-bce2-e997f7638fd4" },
+  { n = 9, title = "Love for Tomorrow", mbid = "5bed47a6-3fc3-488d-8f29-237b014e49bf" },
+  { n = 10, title = "There Is No Greater Gold", mbid = "88eebbba-e9a3-4d6c-9c2a-8091217bbd40" },
+  { n = 11, title = "This Land Flows With Milk", mbid = "6f334b12-2ae7-4db6-aba6-f7339f22c6f2" },
+  { n = 12, title = "Song for Baby", mbid = "139465d1-1594-42d5-8c71-6f588f5f9811" },
+  { n = 13, title = "Time Is Just the Same", mbid = "f2fdff4b-ac58-40b2-8b2d-ba14a9e8ffb1" },
+]
+
+[[release]]
+mbid = "2acfd9f6-a900-31e4-8231-d3dd04613582"
+title = "Time Is Just the Same"
+type = "ep"
+date = "2004"
+tracks = [
+  { n = 1, title = "Time Is Just the Same", mbid = "f2fdff4b-ac58-40b2-8b2d-ba14a9e8ffb1" },
+  { n = 2, title = "Why Does My Head Hurt So?", mbid = "5a2d5072-6fca-45a9-9e73-0f2efeead362" },
+  { n = 3, title = "Bordello Queen", mbid = "71b99526-d2a6-4437-a689-572b2762f99d" },
+  { n = 4, title = "Bang Bang", mbid = "265d6ed0-b767-4941-ba25-d3278751b93e" },
+  { n = 5, title = "The Breeze Whispered Your Name Part II", mbid = "60560ef7-c34d-41fa-a302-4b095a526805" },
+  { n = 6, title = "Argomenti", mbid = "a48f4748-17af-4ae8-abb7-74496c57b2cd" },
+]
+
+[[release]]
+mbid = "46712fe1-453a-352f-b9e5-d45dc5a4a3c9"
+title = "Ramblin' Man"
+type = "single"
+date = "2005-01-13"
+tracks = [
+  { n = 1, title = "Ramblin' Man", mbid = "42c0e096-6c48-43cf-b6d4-700903727418" },
+  { n = 2, title = "(Do You Wanna) Come Walk With Me?", mbid = "ef599a4c-8163-4829-9332-8dfe8c79219a" },
+  { n = 3, title = "Revolver, Part 2", mbid = "6f15266d-bb97-42e7-b579-5c336a653769" },
+  { n = 4, title = "St. James Infirmary", mbid = "6f303e6e-5a8d-4624-8b4e-5f4082f4733c" },
+]
+
+[[release]]
+mbid = "994cdad1-0365-3439-89ed-6686bd563503"
+title = "Ballad of the Broken Seas"
+type = "album"
+date = "2006-01-30"
+tracks = [
+  { n = 1, title = "Deus Ibi Est", mbid = "4fe44724-1d7e-4275-9693-b889864de750" },
+  { n = 2, title = "Black Mountain", mbid = "32047729-7ad9-42ae-8d9e-c256ef9251ec" },
+  { n = 3, title = "The False Husband", mbid = "0c71631a-5862-4834-ae8f-257b64bca745" },
+  { n = 4, title = "Ballad of the Broken Seas", mbid = "afc9e785-60fd-4942-a23c-3653633f4783" },
+  { n = 5, title = "Revolver", mbid = "048932de-992d-4b08-ab4f-b5d735ea323e" },
+  { n = 6, title = "Ramblin' Man", mbid = "42c0e096-6c48-43cf-b6d4-700903727418" },
+  { n = 7, title = "(Do You Wanna) Come Walk With Me?", mbid = "ef599a4c-8163-4829-9332-8dfe8c79219a" },
+  { n = 8, title = "Saturday's Gone", mbid = "765fc7cc-2055-4066-a5b2-f1afbd1fd1f8" },
+  { n = 9, title = "It's Hard to Kill a Bad Thing", mbid = "61ac7fad-d396-4467-93a9-a25472561008" },
+  { n = 10, title = "Honey Child What Can I Do?", mbid = "2fed65ae-3297-40d6-8f54-0d55f8ed7287" },
+  { n = 11, title = "Dusty Wreath", mbid = "33ce6721-b148-45ad-9a1e-1a4b1ea6912e" },
+  { n = 12, title = "The Circus Is Leaving Town", mbid = "6cdb184d-12a0-4ba8-b50b-3325e0664f9e" },
+]
+
+[[release]]
+mbid = "e0cc0ca0-974d-3843-bd38-fe8086412eca"
+title = "Honey Child What Can I Do?"
+type = "single"
+date = "2006-04-17"
+tracks = [
+  { n = 1, title = "Honey Child What Can I Do?", mbid = "2fed65ae-3297-40d6-8f54-0d55f8ed7287" },
+  { n = 2, title = "St James Infirmary", mbid = "6f303e6e-5a8d-4624-8b4e-5f4082f4733c" },
+]
+
+[[release]]
+mbid = "d9ea3e63-9681-340c-9fd2-0b0bc42c902c"
+title = "O Love Is Teasin'"
+type = "ep"
+date = "2006-05"
+tracks = [
+  { n = 1, title = "O Love Is Teasin'", mbid = "78c993d6-d834-4603-9a66-6d9a876491c5" },
+  { n = 2, title = "Nottamun Town", mbid = "6c856c6c-4527-44d9-890a-0bd62a73e2dd" },
+  { n = 3, title = "Yearning", mbid = "d6dbcc5f-a6a5-4e94-a6e6-584f1328957d" },
+  { n = 4, title = "Lady of Snakes", mbid = "28b9bd10-e534-4592-8736-3eb46d3fcf32" },
+  { n = 5, title = "Barbara Ellen", mbid = "41123f88-36ca-4cf5-b36c-d5fb3eb2ec15" },
+  { n = 6, title = "Black Is the Colour", mbid = "f31859b0-6e9a-40c0-a4bc-48db88cebe59" },
+  { n = 7, title = "Dabbling in the Dew", mbid = "5c9075b8-50af-43cf-b58b-95a25f3c78d8" },
+]
+
+[[release]]
+mbid = "c48e2f67-1e22-36eb-884d-9b087ca8a7bf"
+title = "Milkwhite Sheets"
+type = "album"
+date = "2006-10-23"
+tracks = [
+  { n = 1, title = "O Love Is Teasin'", mbid = "78c993d6-d834-4603-9a66-6d9a876491c5" },
+  { n = 2, title = "Willow's Song", mbid = "0bdafbe2-4eaa-40c1-81ec-85881474ebe9" },
+  { n = 3, title = "Yearning", mbid = "d6dbcc5f-a6a5-4e94-a6e6-584f1328957d" },
+  { n = 4, title = "James", mbid = "876cfca2-e394-45b9-9a10-adc7a184dd8a" },
+  { n = 5, title = "Hori Horo", mbid = "8dfaf866-9a8a-4d69-95fe-23e3d6ada482" },
+  { n = 6, title = "Reynardine", mbid = "a2c45388-c6d5-42be-bb8d-5d9a9798daae" },
+  { n = 7, title = "Milkwhite Sheets", mbid = "08a4f732-fa3a-4075-9913-4d2b477c84df" },
+  { n = 8, title = "Cachel Wood", mbid = "048afc34-b5bf-42bd-8517-4a2544978519" },
+  { n = 9, title = "Beggar, Wiseman, or Thief", mbid = "0e89e643-17fe-4ce2-8a20-820c174f00ab" },
+  { n = 10, title = "Loving Hannah", mbid = "cc7c19df-15ec-4811-b7a9-261db0e4a8a1" },
+  { n = 11, title = "Are You Going to Leave Me?", mbid = "9476fb0b-6486-40a6-b4c9-7ceabc33c526" },
+  { n = 12, title = "Over the Wheat and the Barley", mbid = "7ab09080-e1e5-495d-bc0d-537e5d68ffca" },
+  { n = 13, title = "Thursday's Child", mbid = "5aae9c81-c7ac-4fb0-ac52-5484cd901cfb" },
+]
+
+[[release]]
+mbid = "9dd3b82d-beea-40ac-92e8-e8d94890f55d"
+title = "Who Built the Road"
+type = "single"
+date = "2008"
+tracks = [
+  { n = 1, title = "Who Built the Road", mbid = "ba15657b-7038-4026-97d3-7f2199b5a691" },
+  { n = 2, title = "Wild Is the Night", mbid = "b0d5bcd0-af14-4800-9357-ac3445577b49" },
+]
+
+[[release]]
+mbid = "e2fc147f-57e2-32f9-aa84-ccbd8cf0e679"
+title = "Sunday at Devil Dirt"
+type = "album"
+date = "2008-05-12"
+spotify = "724LIR6vd2sW4VyxyhP3de"
+tracks = [
+  { n = 1, title = "Seafaring Song", mbid = "b77d60a8-b403-4828-8c0d-16ccd22dc9f4" },
+  { n = 2, title = "The Raven", mbid = "7518e4ba-4eec-4816-9176-c1f2493cebdb" },
+  { n = 3, title = "Salvation", mbid = "da94c1c6-824b-4cec-86f3-b9eaf6858c1c" },
+  { n = 4, title = "Who Built the Road", mbid = "ba15657b-7038-4026-97d3-7f2199b5a691" },
+  { n = 5, title = "Come on Over (Turn Me On)", mbid = "70e14180-8f9f-4fdf-91dc-36f842627356" },
+  { n = 6, title = "Back Burner", mbid = "11ed2103-b65c-4e42-8a3b-49f159a52b09" },
+  { n = 7, title = "The Flame That Burns", mbid = "f0b6f0c5-50e8-47ec-8ed1-2b45e3870ea8" },
+  { n = 8, title = "Shotgun Blues", mbid = "a22d6970-831c-4126-9f51-701cdcc28039" },
+  { n = 9, title = "Keep Me in Mind, Sweetheart", mbid = "90243256-b287-474e-8761-9bca36cccd7b" },
+  { n = 10, title = "Something to Believe", mbid = "11f101a2-6e41-4146-afd4-f45d41308ff7" },
+  { n = 11, title = "Trouble", mbid = "06e0133c-7420-477a-ba14-7aa6daf06235" },
+  { n = 12, title = "Sally, Don't You Cry", mbid = "9a053366-5112-4bf8-891e-ee5c7b198bd3" },
+]
+
+[[release]]
+mbid = "d0c9fed9-7851-43ee-9b77-a364138bb514"
+title = "Come On Over (Turn Me On)"
+type = "single"
+date = "2008-09-19"
+tracks = [
+  { n = 1, title = "Come On Over (Turn Me On)", mbid = "70e14180-8f9f-4fdf-91dc-36f842627356" },
+  { n = 2, title = "Sleep City", mbid = "1e770052-5d26-41c1-8dd6-7aa1eeab513e" },
+]
+
+[[release]]
+mbid = "473a9b63-7c1f-344a-b72e-beea8ad0efb6"
+title = "Keep Me in Mind Sweetheart"
+type = "ep"
+date = "2008-11-17"
+tracks = [
+  { n = 1, title = "Keep Me in Mind Sweetheart", mbid = "90243256-b287-474e-8761-9bca36cccd7b" },
+  { n = 2, title = "Fight Fire With Fire", mbid = "8df46c41-bacd-4e57-b63d-99c9056eefcc" },
+  { n = 3, title = "Asleep on a Sixpence", mbid = "ea617a71-5ee4-4054-88d7-d3b873810e3b" },
+  { n = 4, title = "Violin Tango", mbid = "12bd3b09-318f-48da-96a5-dfa9d8d2ff82" },
+  { n = 5, title = "Rambling Rose, Clinging Vine", mbid = "46ee1cb5-3575-46eb-8a7a-fa1efed8d093" },
+  { n = 6, title = "Hang On", mbid = "ae9b70d1-3490-41af-ae69-bd6e08f5b675" },
+]
+
+[[release]]
+mbid = "f1745865-3a1e-4aca-b6a7-557b47685cbe"
+title = "Hawk"
+type = "album"
+date = "2010-08-13"
+spotify = "5OaOAySunqN9OkEzNSytbZ"
+tracks = [
+  { n = 1, title = "We Die and See Beauty Reign", mbid = "0f74828d-a49b-4501-8fd5-2ba41631fdd7" },
+  { n = 2, title = "You Won’t Let Me Down Again", mbid = "4adf8825-8fb6-4a5a-8c0a-4001e37f6150" },
+  { n = 3, title = "Snake Song", mbid = "863963b2-9505-4ef6-b76b-7b5dfc6cb0b7" },
+  { n = 4, title = "Come Undone", mbid = "0561ae5d-b9c7-4866-b5b0-6dbefa3498af" },
+  { n = 5, title = "No Place to Fall", mbid = "c5bd7341-0ff4-4859-9f34-c1a0b09357b0" },
+  { n = 6, title = "Get Behind Me", mbid = "25069702-d247-4001-8a24-3729a396f192" },
+  { n = 7, title = "Time of the Season", mbid = "e0d8079f-47b8-4e89-8251-d61e7026085b" },
+  { n = 8, title = "Hawk", mbid = "99bbe98a-994b-4dde-90ab-c3e200d1f8a8" },
+  { n = 9, title = "Sunrise", mbid = "05c40d0a-634d-450f-94d1-20642f3ddac5" },
+  { n = 10, title = "To Hell & Back Again", mbid = "7089949e-ffc9-4b86-ba5e-348edb6c3413" },
+  { n = 11, title = "Cool Water", mbid = "c30c93e8-279f-4520-a8f8-a24c14668a51" },
+  { n = 12, title = "Eyes of Green", mbid = "5d653dcf-6918-4891-a54e-57fffb497367" },
+  { n = 13, title = "Lately", mbid = "88fe82f1-0e2e-46eb-8b08-06f88a240d01" },
+]
+
+[[release]]
+mbid = "2a858f3f-ded0-4ceb-9d71-933ba5cca13f"
+title = "You Won't Let Me Down Again"
+type = "single"
+date = "2010-09-10"
+tracks = [
+  { n = 1, title = "You Won't Let Me Down Again", mbid = "4adf8825-8fb6-4a5a-8c0a-4001e37f6150" },
+  { n = 2, title = "Hawk (Extended Version)", mbid = "888fabf8-a4b4-4561-8770-ba1af18b64ca" },
+]
+
+[[release]]
+mbid = "ac7cf3d4-945f-4a31-9b65-7df68d6b1fd6"
+title = "There Is No Other"
+type = "album"
+date = "2020-02-07"
+tracks = [
+  { n = 1, title = "City of Angels", mbid = "03e17728-cc3d-4844-a1c3-243e63b2995b" },
+  { n = 2, title = "Runnin' Down a Dream", mbid = "545842c6-7f6b-4584-b576-b10bb5325928" },
+  { n = 3, title = "Vultures", mbid = "ca9e3a43-ba89-4d06-9638-b623e9bafbea" },
+  { n = 4, title = "Ant Life", mbid = "5f9a28e8-977e-47cd-bcc3-b1321f4506ec" },
+  { n = 5, title = "Rainbow", mbid = "4ae2be3f-776d-4fc2-b374-efc39ea144a3" },
+  { n = 6, title = "The Heart of It All", mbid = "d16a132d-0d67-4788-959b-71793b77aafe" },
+  { n = 7, title = "Hey World", mbid = "47cf0baa-007a-47f4-939a-2b29683f29ce" },
+  { n = 8, title = "The National Bird of India", mbid = "47db3654-9c32-48ff-b91c-510238a04203" },
+  { n = 9, title = "Just for Today", mbid = "75368ac7-759e-4b34-a4c6-6ac620256219" },
+  { n = 10, title = "See Your Face Again", mbid = "d3d39b93-ff59-4afc-b5fd-769b5ce823d0" },
+  { n = 11, title = "Boulevard", mbid = "9beccd35-475e-44a7-a8e1-eb27562ffe99" },
+  { n = 12, title = "Counting Fireflies", mbid = "3b9b2b5e-ce17-47d4-bdbb-1eb6d4984e90" },
+  { n = 13, title = "Below Zero", mbid = "bce1b8c7-99fa-4368-856c-8232a17da18f" },
+  { n = 14, title = "Boulevard (acoustic)", mbid = "76dccbf5-4f70-42ef-9ffe-83851020c469" },
+  { n = 15, title = "Just for Today (acoustic)", mbid = "c98e0a78-baee-4b73-bbeb-248040675ca4" },
+  { n = 16, title = "The National Bird of India (acoustic)", mbid = "735b5226-647b-44b1-9dad-eee9e88206c9" },
+  { n = 17, title = "Rainbow (Acoustic)", mbid = "23e51d2f-83a8-4cf8-a268-600d96000f39" },
+  { n = 18, title = "Ant Life (acoustic)", mbid = "5ed348cd-2384-4743-a164-4ac85c5b8b0a" },
+  { n = 19, title = "Vultures (acoustic)", mbid = "c6dce000-54fc-4336-81b7-4cf945987f4e" },
+  { n = 20, title = "Below Zero (acoustic)", mbid = "92a202c5-6d08-4ab4-a533-ac57cf592772" },
+  { n = 21, title = "The Heart of It All (acoustic)", mbid = "f1e4418f-6b6a-4a35-8993-a85adb51f626" },
+  { n = 22, title = "Counting Fireflies (acoustic)", mbid = "c2bfdc0f-37c8-4178-9ee0-32a43a399196" },
+  { n = 23, title = "Hey World (acoustic)", mbid = "5862ba36-f827-4ac6-b64a-6b08ace32cab" },
+]
+
+[[release]]
+mbid = "0c62a528-9426-4014-bb23-3f950d46097e"
+title = "Voices In The Sky"
+type = "ep"
+date = "2020-08-07"
+tracks = [
+  { n = 1, title = "Together", mbid = "74c9c742-19c7-40aa-ae49-7bd09ae32f27" },
+  { n = 2, title = "Never My Love", mbid = "9c582420-33ed-4aef-908e-1fb9048d319b" },
+  { n = 3, title = "Something", mbid = "23a08261-1c01-414f-9c5b-6060a7bc5025" },
+  { n = 4, title = "Voices In The Sky", mbid = "c1933808-eb37-48d2-bccc-74a8a54bd5be" },
+  { n = 5, title = "Sa Ta Na Ma", mbid = "06726c67-cbc3-4908-bc9c-93f6297ef667" },
+]
+
+[[release]]
+mbid = "edde8179-5367-49dc-8558-ea4981ec6e06"
+title = "Bow to Love"
+type = "album"
+date = "2024-06-14"
+tracks = [
+  { disc = 1, n = 1, title = "Everything Falls Apart", mbid = "7844002c-eaae-4e2d-99d5-c249f07095f0" },
+  { disc = 1, n = 2, title = "Do Or Die", mbid = "229e99b7-060d-46ef-a730-2158d3e6fa23" },
+  { disc = 1, n = 3, title = "Spider To The Fly", mbid = "ee66b409-78de-4621-853c-09ba3acce140" },
+  { disc = 1, n = 4, title = "Second Guessing", mbid = "6e79ee89-c1ca-460c-b262-d7b40c291edd" },
+  { disc = 1, n = 5, title = "Bow To Love", mbid = "e6e905e7-4f00-4054-89ce-b2cf89db8aef" },
+  { disc = 1, n = 6, title = "4316", mbid = "2990d2cc-dee6-4f35-8787-4c939fc7eb9b" },
+  { disc = 1, n = 7, title = "Dopamine", mbid = "1ffffe8b-9bbb-4868-adc1-ee90538025d7" },
+  { disc = 1, n = 8, title = "Keep Calm, Carry On", mbid = "b01867b1-e077-4571-a92f-c7c2e8da69b2" },
+  { disc = 1, n = 9, title = "Saturday's Son", mbid = "c31cf990-ea99-4d20-bfdf-4887230b1f8a" },
+  { disc = 1, n = 10, title = "Take This Poison", mbid = "996e54de-d127-4254-bef1-5abfb50b683e" },
+  { disc = 1, n = 11, title = "Om Shanti Om", mbid = "97e19288-04b2-407a-a3fb-1a271020100d" },
+  { disc = 1, n = 12, title = "You", mbid = "d15c56c4-6fbd-439a-a028-02afb2b2d75e" },
+  { disc = 1, n = 13, title = "Why Worry", mbid = "b1a20289-e266-40fd-a728-528d6c93692f" },
+  { disc = 2, n = 1, title = "Tout s'écroule et se meurt", mbid = "9054d76a-4b44-4c0c-87af-e0b4db0e069f" },
+  { disc = 2, n = 2, title = "Maintenant ou jamais", mbid = "5d942783-0f17-4bf2-a53a-cbeb7aa2c820" },
+  { disc = 2, n = 3, title = "⁠Araignée du soir", mbid = "79020069-73a2-4e31-8b4f-70183ff74859" },
+  { disc = 2, n = 4, title = "⁠Je me demande juste", mbid = "134dd9d8-9de8-4a0a-b007-c79fc133b456" },
+  { disc = 2, n = 5, title = "⁠Place à l'Amour", mbid = "7fbb5c25-034d-43d3-8edb-a54ab96afe07" },
+  { disc = 2, n = 6, title = "⁠4316", mbid = "09e0d7ab-1757-4b05-abdc-0477111f8e00" },
+  { disc = 2, n = 7, title = "Dopamine", mbid = "cc14e72b-8728-4cd5-bac1-2247ec8f1b3b" },
+  { disc = 2, n = 8, title = "⁠Reste calme, suis ta voie", mbid = "dd0d5b59-f40d-4218-9ad5-729a482065d0" },
+  { disc = 2, n = 9, title = "⁠Le fils du laboureur", mbid = "68fbf3e5-7721-4134-8ab4-ece74241acc9" },
+  { disc = 2, n = 10, title = "⁠Prends ce poison", mbid = "c4d78854-c845-49c0-aa84-1756d51e357d" },
+  { disc = 2, n = 11, title = "⁠Om Shanti Om", mbid = "6264e488-ed5b-4e1f-b442-3b174bec1e57" },
+  { disc = 2, n = 12, title = "⁠Toi", mbid = "5044e953-ba86-41b5-a5e8-e9f1c52375c9" },
+  { disc = 2, n = 13, title = "T'en fais pas", mbid = "72053aa2-2d8e-4740-9ad9-bc0f4e251e32" },
+]

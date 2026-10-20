@@ -1,0 +1,105 @@
+format = 1
+
+[[release]]
+mbid = "51771cdc-bb2e-318f-a27f-1c57d2f24572"
+title = "An Ideal for Living"
+type = "ep"
+date = "1978-06"
+tracks = [
+  { n = 1, title = "Warsaw", mbid = "7f2be083-1aef-409a-a91c-dc8c81b414df" },
+  { n = 2, title = "No Love Lost", mbid = "60887f36-9611-4569-9865-45de21fe3948" },
+  { n = 3, title = "Leaders of Men", mbid = "86931288-08a0-409c-bc4f-bc3f62128e90" },
+  { n = 4, title = "Failures", mbid = "f554f1f8-dcf1-4442-8207-a32346014888" },
+]
+
+[[release]]
+mbid = "42352def-1aab-3000-b548-895ebd869cb6"
+title = "Unknown Pleasures"
+type = "album"
+date = "1979-06-15"
+spotify = "33qkK1brpt6t8unIpeM2Oy"
+tracks = [
+  { n = 1, title = "Disorder", mbid = "00951422-0351-4b13-ad52-77233ac375eb" },
+  { n = 2, title = "Day of the Lords", mbid = "cf1fbc0e-9368-45a9-ad74-44c697089274" },
+  { n = 3, title = "Candidate", mbid = "d7d7ac38-1fd1-4bfc-b593-f9b6158ba546" },
+  { n = 4, title = "Insight", mbid = "c67abe29-533f-4354-b818-c20168d215d0" },
+  { n = 5, title = "New Dawn Fades", mbid = "fc425fc4-e883-4c10-9345-63c99a0126b9" },
+  { n = 6, title = "She’s Lost Control", mbid = "497e13fb-cd12-4059-94eb-6982a95aa15f" },
+  { n = 7, title = "Shadowplay", mbid = "17ddd699-a35f-4f80-8064-9a807ad2799f" },
+  { n = 8, title = "Wilderness", mbid = "7401ad55-395d-40a1-a463-a5468711023c" },
+  { n = 9, title = "Interzone", mbid = "f2bbc062-2387-41fd-b079-2ecd7e5b3ca6" },
+  { n = 10, title = "I Remember Nothing", mbid = "a2b09bb6-a82e-4208-8cb4-1eef808b3359" },
+]
+
+[[release]]
+mbid = "f1b558f0-3f7f-3835-ac53-ec9135e2cca2"
+title = "Transmission / Novelty"
+type = "single"
+date = "1979-10"
+spotify = "51BKPr5L8cGZGk9bl9Jf5L"
+tracks = [
+  { n = 1, title = "Transmission", mbid = "4356bba2-853c-4ac0-b43f-c6e8f6bc9735" },
+  { n = 2, title = "Novelty", mbid = "a35b6693-ad73-4caf-9c0d-bb7065fc5d4a" },
+]
+
+[[release]]
+mbid = "ac1fd344-96f9-4894-afde-592a3fd3f0d7"
+title = "Licht und Blindheit"
+type = "single"
+date = "1980-03-18"
+tracks = [
+  { n = 1, title = "Atmosphere", mbid = "7b744b0b-06ea-4140-bf38-59f74d2c5a8c" },
+  { n = 2, title = "Dead Souls", mbid = "b6e2c951-1c10-4179-92d9-4bffe9b48c01" },
+]
+
+[[release]]
+mbid = "d4e6c019-a6df-38fb-b6aa-7861d71b5543"
+title = "Love Will Tear Us Apart"
+type = "single"
+date = "1980-04-18"
+spotify = "3TitghyoMOz1dFiYiFwMs4"
+tracks = [
+  { n = 1, title = "Love Will Tear Us Apart", mbid = "2afa76b8-7857-40dc-97a8-2c6f457becb4" },
+  { n = 2, title = "These Days", mbid = "0d250fda-2e8e-4ca0-910a-015acdf51131" },
+  { n = 3, title = "Love Will Tear Us Apart", mbid = "1e04779e-6822-4ee3-897b-9521f4a8234c" },
+]
+
+[[release]]
+mbid = "852f9715-24b3-37d5-b8a5-456f5e19b41e"
+title = "Closer"
+type = "album"
+date = "1980-07-18"
+spotify = "1HnxC8MLDciii5LebJ09Ko"
+tracks = [
+  { n = 1, title = "Atrocity Exhibition", mbid = "c1239d51-1039-4ec6-8f84-1784482a2673" },
+  { n = 2, title = "Isolation", mbid = "00728804-620b-452d-989c-d3d5a8b0b9c7" },
+  { n = 3, title = "Passover", mbid = "c6b5d334-d175-4c0b-9dae-a91eaf1d0f44" },
+  { n = 4, title = "Colony", mbid = "d92fcf81-9d88-43f7-9267-6c071daf7fe7" },
+  { n = 5, title = "A Means to an End", mbid = "5e5df4d1-a825-4df3-b43f-60d9a4bf8566" },
+  { n = 6, title = "Heart and Soul", mbid = "3a41df18-4b6d-4aff-8151-31817ff9a265" },
+  { n = 7, title = "Twenty Four Hours", mbid = "68bbef4b-5cdb-44b0-be36-2fe3f43d4087" },
+  { n = 8, title = "The Eternal", mbid = "0e03b90b-da75-471e-a9a4-38c0cd8a3131" },
+  { n = 9, title = "Decades", mbid = "5b89687d-f8bd-40be-9e65-e69c9e2b6a66" },
+]
+
+[[release]]
+mbid = "5c687ffe-efa5-4666-aa58-d4ed0382d2af"
+title = "Atmosphere / She’s Lost Control"
+type = "single"
+date = "1980-08"
+spotify = "5bXAysvuhQbyWllgYuahwt"
+tracks = [
+  { n = 1, title = "She’s Lost Control", mbid = "0c3baabf-faee-453c-a85a-1f8efbe9a3b2" },
+  { n = 2, title = "Atmosphere", mbid = "7b744b0b-06ea-4140-bf38-59f74d2c5a8c" },
+]
+
+[[release]]
+mbid = "12ed4a25-5b4e-30b4-9687-b4fc574985ac"
+title = "Atmosphere"
+type = "single"
+date = "1988-06"
+tracks = [
+  { n = 1, title = "Atmosphere", mbid = "7b744b0b-06ea-4140-bf38-59f74d2c5a8c" },
+  { n = 2, title = "The Only Mistake", mbid = "46e91101-5906-413c-abcb-21fb48fd9f26" },
+  { n = 3, title = "Sound of Music", mbid = "83138835-502f-4bcd-b1c9-03efecf78812" },
+]

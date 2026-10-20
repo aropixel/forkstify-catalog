@@ -1,0 +1,162 @@
+format = 1
+
+[[release]]
+mbid = "b2901929-8e25-4d9f-9cdc-e084e7b06577"
+title = "Yamakasi : Les Samouraïs des temps modernes"
+type = "album"
+date = "2001-04-06"
+tracks = [
+  { n = 1, title = "Zicmu (Intro)", mbid = "d5c4bb5d-af2a-44fa-982e-d5f771ae5cff" },
+  { n = 2, title = "Femmes", mbid = "4b0c352d-deb9-49c0-8d85-05e259c29ea8" },
+  { n = 3, title = "Sitting Bull", mbid = "44e4ce24-90f3-431a-8a6d-dd91a3a1c819" },
+  { n = 4, title = "Bon ou mauvais", mbid = "b7c2badb-8889-458c-b78a-42bebef6d408" },
+  { n = 5, title = "Grimpe", mbid = "203767cb-f40e-4f6e-b128-7f8b284116a4" },
+  { n = 6, title = "Présentation des personnages", mbid = "aaa2173b-7e73-43ad-8cf3-acbe38471c49" },
+  { n = 7, title = "Plus de repères", mbid = "118007ff-44cd-485b-8f8d-a0179deb596a" },
+  { n = 8, title = "Boogie Down", mbid = "e5b27f7c-6b26-44a2-a3b8-ad89826d66cd" },
+  { n = 9, title = "Suicide", mbid = "b9fbf1ca-f53c-4c7b-80eb-29bdd5a69d86" },
+  { n = 10, title = "Urgence", mbid = "20b4d340-e6e9-470e-8467-ef26c538a2c8" },
+  { n = 11, title = "L'Assaut", mbid = "30f58722-4f6f-428a-944d-5b98d255e810" },
+  { n = 12, title = "Chela", mbid = "afe3589a-2d3b-40c4-a9bd-9a7526a52b27" },
+  { n = 13, title = "En guerre", mbid = "93849c90-975a-4dcb-baa5-6d602656063a" },
+  { n = 14, title = "La Poursuite des chiens", mbid = "1e52d256-fea4-455d-8db6-d5924a17ce69" },
+  { n = 15, title = "Le Grand Show", mbid = "bc4da9a0-20a1-4f42-a7f4-7038c54c3a99" },
+  { n = 16, title = "Outro", mbid = "16c7aeec-8df0-41a4-8e6c-ea4c6a5c383b" },
+]
+
+[[release]]
+mbid = "94354f03-8d41-4f78-a81a-222bf900bde2"
+title = "Gaz-L"
+type = "single"
+date = "2002"
+tracks = [
+  { n = 1, title = "Gaz-L", mbid = "70b0ace2-f00f-435e-a845-63e9067fa296" },
+  { n = 2, title = "Gaz-L (Instrumental)", mbid = "b231f66d-dea6-4ffd-9b1e-e645a5d1fb98" },
+]
+
+[[release]]
+mbid = "d76976f0-5d32-4118-9883-c9110b19af45"
+title = "Pose ton Gun 2"
+type = "single"
+date = "2006-09-18"
+tracks = [
+  { n = 1, title = "Pose ton Gun 2", mbid = "5d78f3e1-5dca-4c98-98ec-0c07541141ca" },
+]
+
+[[release]]
+mbid = "6a033681-bdeb-4e55-bd4f-ef27c08f4a94"
+title = "Métèque"
+type = "single"
+date = "2006-10-13"
+tracks = [
+  { n = 1, title = "Métèque", mbid = "fe1aaa9b-bf56-445e-ab3a-90e71a595a6b" },
+]
+
+[[release]]
+mbid = "9f24adb5-5d4e-39ed-a8fc-0e68aa31bece"
+title = "Gare au Jaguarr"
+type = "album"
+date = "2006-10-16"
+tracks = [
+  { n = 1, title = "J'arrive", mbid = "bc8a7daa-df1c-428f-b9dd-b31cba234ba2" },
+  { n = 2, title = "Intro", mbid = "d0db5ace-7740-45a0-a992-291741581280" },
+  { n = 3, title = "Métèque", mbid = "fe1aaa9b-bf56-445e-ab3a-90e71a595a6b" },
+  { n = 4, title = "Bad Boy", mbid = "d95a9ecc-ca79-4bba-8747-b540fd05fc49" },
+  { n = 5, title = "Hot Hot (Hâte-toi)", mbid = "2b50d53b-75c3-47b7-a6b8-39e761894845" },
+  { n = 6, title = "Soldats", mbid = "d440fbef-e9a9-483d-ad64-afb94b08b926" },
+  { n = 7, title = "Question 1", mbid = "026bdcc7-8199-4e43-a620-017e19d8400c" },
+  { n = 8, title = "Pose ton Gun 2", mbid = "5d78f3e1-5dca-4c98-98ec-0c07541141ca" },
+  { n = 9, title = "Question 2", mbid = "d2a48d4b-2528-4643-9366-1bc8cbb534a6" },
+  { n = 10, title = "Chaque seconde", mbid = "0aed84c8-9f5e-44e6-9dc9-56e035d8956e" },
+  { n = 11, title = "Cours", mbid = "d22ea239-9d3c-4399-986c-ae674cc008eb" },
+  { n = 12, title = "Carnival", mbid = "13851301-3ac6-474b-a139-b623667c920a" },
+  { n = 13, title = "Gare au Jaguarr", mbid = "9f6f71cd-2864-4723-b46c-c5d2d79b71fa" },
+  { n = 14, title = "Cigarette piégée", mbid = "f26d4766-2135-4aca-a2b1-89aed0077254" },
+  { n = 15, title = "93 déboule", mbid = "549067e1-0b9e-45a2-bf86-4953dac57b9e" },
+  { n = 16, title = "The Jam", mbid = "82a7f24a-df97-4c25-be28-8c4f462a1e7d" },
+]
+
+[[release]]
+mbid = "776b6f18-3864-4e7f-91af-cc452e3bfa1d"
+title = "Jour de sortie"
+type = "single"
+date = "2011-09-21"
+tracks = [
+  { n = 1, title = "Jour de sortie", mbid = "92a60db0-bf6e-4577-9822-24a57670b62f" },
+]
+
+[[release]]
+mbid = "2e2f983f-d0f6-4da1-b605-42593abdc07d"
+title = "Egomaniac"
+type = "album"
+date = "2011-10-31"
+tracks = [
+  { n = 1, title = "Underground UP", mbid = "b00ba15e-b6f3-4741-a0e5-880aa98dab20" },
+  { n = 2, title = "Jour de sortie", mbid = "d288a4bb-8d12-45f4-9d06-8b0b182dd319" },
+  { n = 3, title = "Hip Hop", mbid = "9b3485cf-4ae8-4f5b-adcb-75d21ccca0b9" },
+  { n = 4, title = "Dans mon secteur", mbid = "35bef61e-65bb-44e1-9c79-f827a5792b07" },
+  { n = 5, title = "Interlude « Appel à la Résistance »", mbid = "efeb0284-4e7b-4d7d-bda1-f3cd3657e9e7" },
+  { n = 6, title = "On te voit", mbid = "381af02b-cf8b-4f4b-971a-c8b6bc9cecc2" },
+  { n = 7, title = "On n On", mbid = "0eedcf9e-df9f-4a47-97ab-941158ff75da" },
+  { n = 8, title = "Complexe", mbid = "5e3d34d1-5e83-498e-89d1-5aea267c048b" },
+  { n = 9, title = "Faut s'lever", mbid = "6e764a1e-615c-448e-876b-009d78e03f92" },
+  { n = 10, title = 'Interlude "I Got Kimfu On My Track"', mbid = "49c07dcc-4b25-46a4-9884-4b570159f64f" },
+  { n = 11, title = "Mon rôle", mbid = "00429543-2af0-4436-8196-cbf2393a21b8" },
+  { n = 12, title = "Mamy ...", mbid = "9f51f3f6-3ec7-4eee-8079-d9cacfc8c6ed" },
+  { n = 13, title = "Champagne", mbid = "3c48e91f-0e70-4e46-b0da-64195c69cae1" },
+  { n = 14, title = "Affamé", mbid = "89c92992-d3c9-42cd-910e-755ce51e9971" },
+  { n = 15, title = "Je paie pas", mbid = "cc2a498e-18fe-46e1-be3f-8e783bc6d937" },
+  { n = 16, title = 'Interlude "Egomaniac"', mbid = "79f56a29-87a9-41b9-ad65-30a7dfe06b9a" },
+  { n = 17, title = "Jour de sortie (Kimfu remix)", mbid = "52da8594-b407-4435-8725-acec921c3b59" },
+]
+
+[[release]]
+mbid = "51200672-a791-4e0f-a442-cca9a0fdfd91"
+title = "Caribbean Dandee"
+type = "album"
+date = "2015-12-04"
+spotify = "5lO8fd10CWnf1La2Zq7uek"
+tracks = [
+  { n = 1, title = "Intro", mbid = "fec26a69-26d7-4b1f-9618-ac4f3fea253e" },
+  { n = 2, title = "How Long", mbid = "20c0be55-9731-43f1-b07f-c18ead7a5df4" },
+  { n = 3, title = "L'arène", mbid = "56e67d76-2a02-4c7e-99fe-84331dd0cac7" },
+  { n = 4, title = "Dans mon secteur II", mbid = "71f8bbd0-5385-4225-8160-5183b5b7a968" },
+  { n = 5, title = "Pourquoi tu t'énerves", mbid = "8ff98c47-66f0-470a-b64f-cf583ad2f8e8" },
+  { n = 6, title = "Murda", mbid = "f2922928-a11c-4d59-8a0f-22c74b757058" },
+  { n = 7, title = "Rebelles conformistes", mbid = "e464ed0f-3d84-4f47-aec4-6c6cb0d7fae9" },
+  { n = 8, title = "Paris par nuit", mbid = "4f826c6f-455b-4f0d-8b12-c276f2d2af78" },
+  { n = 9, title = "Sun is Shining", mbid = "c74a2301-74b8-4273-833e-87b9b80a1a23" },
+  { n = 10, title = "Décollage", mbid = "f847442b-f2a7-4003-a30e-5b8e93bc61d3" },
+  { n = 11, title = "31 secondes", mbid = "711b3cda-ef70-40ea-a6eb-bc0780f9077b" },
+  { n = 12, title = "Tais-toi", mbid = "5aa5a153-f30c-4f47-b887-d3e4b5763388" },
+  { n = 13, title = "Ici j'ai", mbid = "875451ed-2d36-4337-a441-86d54cc5dcd7" },
+  { n = 14, title = "Bonus Track", mbid = "87118f4e-52a1-4ae3-a2a3-6e50fdff758a" },
+  { n = 15, title = "Tais-toi (Version 2)", mbid = "eea8af34-19a5-4282-ad2b-0376a72cea4d" },
+]
+
+[[release]]
+mbid = "3e424eca-4c92-4b41-92cf-c18e25e7708e"
+title = "Paris est magic"
+type = "single"
+date = "2021-05-21"
+tracks = [
+  { n = 1, title = "Paris est magic", mbid = "5467be34-fc08-433a-80b6-f270e42361a3" },
+]
+
+[[release]]
+mbid = "a512b930-4ead-4bac-b080-7af0852038b0"
+title = "Wine Up Myself"
+type = "single"
+date = "2021-10-01"
+tracks = [
+  { n = 1, title = "Wine Up Myself", mbid = "40604a8d-17ca-4ebe-8bae-82693a1676c6" },
+]
+
+[[release]]
+mbid = "cfa34084-c692-4dc9-99c7-4e9e2b362a9f"
+title = "D'où je viens"
+type = "single"
+date = "2024-03-15"
+tracks = [
+  { n = 1, title = "D'où je viens", mbid = "0d095d8d-c877-47ff-b9d7-0eb4e2b6db83" },
+]

@@ -1,0 +1,741 @@
+format = 1
+
+[[release]]
+mbid = "a03fb6f9-e521-380c-8be8-9ae4213e1a44"
+title = "Mexico EP"
+type = "ep"
+date = "2000-03-01"
+tracks = [
+  { n = 1, title = "Beeting", mbid = "a16795d3-7bac-4db3-a0ef-d4ef5b3d1dd4" },
+  { n = 2, title = "Tape Spool Sound", mbid = "255cfad1-69d4-42c7-84ff-4c6477cc1058" },
+  { n = 3, title = "Perfect Circle", mbid = "0cd714cb-39c8-4b6e-812b-17d0e860ca8f" },
+  { n = 4, title = "The Only One, Yeah", mbid = "959578b1-c5ea-4703-a22a-6b17949bf606" },
+  { n = 5, title = "Sometimes All I Need", mbid = "759f2a2a-cd3e-48ee-8bb8-513512bf4a8b" },
+  { n = 6, title = "Mersion/Version", mbid = "d078580a-b156-4adc-aca7-312df46e05f1" },
+]
+
+[[release]]
+mbid = "2fcb16ce-2d68-315b-a3a2-f17c824cadd6"
+title = "Sanfrandisco E-Pee"
+type = "ep"
+date = "2002-10-22"
+tracks = [
+  { n = 1, title = "Sanfrandisco", mbid = "07b0dee6-2ced-4fd4-8cb5-c7443a8d1998" },
+  { n = 2, title = "Making Tracks", mbid = "b7b57f54-a60d-4dc1-97d7-602d49b5551b" },
+  { n = 3, title = "Flaw", mbid = "6c1a1fdf-4812-44e3-ab66-d3dd2e3e6b0a" },
+  { n = 4, title = "I Do", mbid = "a4013999-9edd-43bc-b5f4-a1ffef007362" },
+  { n = 5, title = "Fanta", mbid = "833206a7-c13a-4210-ba52-3671123a06f4" },
+]
+
+[[release]]
+mbid = "2e0f03eb-07a3-3a52-9471-e71d52242793"
+title = "Down With Prince"
+type = "ep"
+date = "2003"
+spotify = "1HtMvIjYjrY5BTjgp9TtHU"
+tracks = [
+  { n = 1, title = "Down With Prince", mbid = "de33599f-95b6-4393-8268-86bf11cae268" },
+  { n = 2, title = "The Ass Attack", mbid = "305080a1-6966-4921-82c7-72c5c8ef365b" },
+  { n = 3, title = "Sexual Chocolate", mbid = "9bba9f44-4355-4f82-89b1-68239084c19b" },
+  { n = 4, title = "A-B-C", mbid = "f8e8034b-912e-4527-95e4-e75788fc3205" },
+]
+
+[[release]]
+mbid = "54d29bef-1ca5-3af0-add7-3811569322cd"
+title = "Coming On Strong"
+type = "album"
+date = "2004-05-24"
+spotify = "1HP4nD2t6Fvbw8IcVlpfb8"
+tracks = [
+  { n = 1, title = "Take Care", mbid = "308d82c8-2b55-4fc3-a98d-f8831e591270" },
+  { n = 2, title = "The Beach Party", mbid = "cfd19b78-a374-404a-906d-38b919dc121e" },
+  { n = 3, title = "Keep Fallin’", mbid = "ce42dac9-395c-44c7-b2aa-eaacb6723ad4" },
+  { n = 4, title = "Playboy", mbid = "e318db37-069e-488e-a8e5-402e89dc6bb3" },
+  { n = 5, title = "Crap Kraft Dinner", mbid = "e59f6c04-d498-47f5-9dab-517c346bb8f2" },
+  { n = 6, title = "Down With Prince", mbid = "de33599f-95b6-4393-8268-86bf11cae268" },
+  { n = 7, title = "Bad Luck", mbid = "772f6122-93c0-490f-b79b-5706557e6699" },
+  { n = 8, title = "You Ride, We Ride, in My Ride", mbid = "979d04cd-9073-4dcd-a50b-06218ec02b89" },
+  { n = 9, title = "Shining Escalade", mbid = "4798c571-33f8-45a8-a136-6128f16947db" },
+  { n = 10, title = "Baby Said", mbid = "80abdba4-1481-40ed-b79e-d3919c70ad2f" },
+  { n = 11, title = "One One One", mbid = "ef1a3be1-1899-4fd1-bae9-88fb45cfe99e" },
+]
+
+[[release]]
+mbid = "db706788-c99b-38ad-b2db-d510319440a7"
+title = "Playboy"
+type = "ep"
+date = "2004-10-04"
+spotify = "40cXsFaIjv1KWZ8z4mq1dD"
+tracks = [
+  { n = 1, title = "Playboy", mbid = "e318db37-069e-488e-a8e5-402e89dc6bb3" },
+  { n = 2, title = "From Drummer to Driver", mbid = "33070ef8-931d-47d6-ae98-3f7588774289" },
+  { n = 3, title = "Defeated by Technology", mbid = "dbe06a90-26e8-4582-ada4-acc5717457d3" },
+  { n = 4, title = "I Don’t Know the Half", mbid = "bf60e0eb-6090-4940-81a7-6b80b727875c" },
+  { n = 5, title = "Ass Attack (Four Tet remix)", mbid = "d01373a6-11b2-485c-bf18-e10fd5ff2433" },
+]
+
+[[release]]
+mbid = "9ad44e0b-3867-4519-9d53-211417f7387f"
+title = "Hittin' Skittles / Back To The Future"
+type = "single"
+date = "2004-11-11"
+tracks = [
+  { n = 1, title = "Hittin' Skittles", mbid = "d619c058-0f1d-4197-b2eb-b86b7fdfc1bb" },
+  { n = 2, title = "Back to the Future", mbid = "bd170d39-8ed5-4a2d-a153-455cd7ab1f1e" },
+]
+
+[[release]]
+mbid = "cb04b8c3-65db-35e5-8a7e-14fe4af3f4d6"
+title = "Barbarian EP"
+type = "ep"
+date = "2005-10-17"
+tracks = [
+  { n = 1, title = "Over and Over", mbid = "6f3670c8-2d3d-4561-a819-37199466a9bf" },
+  { n = 2, title = "My Shit's On Fire", mbid = "7386006c-9ff1-41ee-9e94-c82d36b3b28a" },
+  { n = 3, title = "No Fit State", mbid = "2011576f-9fd0-49bb-85da-fe38453391a2" },
+  { n = 4, title = "Barbarian", mbid = "56844287-0f76-46a4-9398-83219744071f" },
+]
+
+[[release]]
+mbid = "c18d2f92-1a95-3b87-a114-214dc7eca827"
+title = "Over and Over"
+type = "single"
+date = "2005-11-29"
+tracks = [
+  { n = 1, title = "Over and Over", mbid = "e92ce0b9-031c-451d-aee9-c6a248f93cf3" },
+  { n = 2, title = "Just Like We (Breakdown) (DFA remix)", mbid = "ad24f75d-b243-4e8a-9659-6ec6ba1a67cd" },
+]
+
+[[release]]
+mbid = "447fe10a-d059-3eda-ba24-e1d18e812461"
+title = "Boy From School"
+type = "single"
+date = "2006-05-06"
+spotify = "2R9LoJZvTlVPzqK6AmcHf8"
+tracks = [
+  { n = 1, title = "Boy From School", mbid = "00711790-eb18-4581-a31c-17049c8312fc" },
+  { n = 2, title = "Laws of Salvation", mbid = "0f9b6eb8-876b-4628-b597-561737d05a4d" },
+  { n = 3, title = "Boy From School (Erol Alkan’s rework)", mbid = "b503525d-32b8-4dca-b902-a1df27a44e54" },
+]
+
+[[release]]
+mbid = "4c616513-9b14-3dfd-b023-a7e77e69a029"
+title = "The Warning"
+type = "album"
+date = "2006-05-22"
+spotify = "25wuY7cXE8zjFnJRiU1ehS"
+tracks = [
+  { n = 1, title = "Careful", mbid = "ae31b253-2d86-43e9-8d57-7dc1ba15c157" },
+  { n = 2, title = "And I Was a Boy From School", mbid = "00711790-eb18-4581-a31c-17049c8312fc" },
+  { n = 3, title = "Colours", mbid = "69f276ff-c162-4b2f-a8fc-09dc864f5b9c" },
+  { n = 4, title = "Over and Over", mbid = "e92ce0b9-031c-451d-aee9-c6a248f93cf3" },
+  { n = 5, title = "(Just Like We) Breakdown", mbid = "bd5e55f9-c35a-47bb-9694-2abd1a98a639" },
+  { n = 6, title = "Tchaparian", mbid = "8ebd16f3-e48e-4241-8077-aa8935a5d911" },
+  { n = 7, title = "Look After Me", mbid = "53d36afd-c3fd-4dc0-b91b-f9508d80ad27" },
+  { n = 8, title = "The Warning", mbid = "7fd6039b-45b5-4025-9994-9f2ed9d3bb09" },
+  { n = 9, title = "Arrest Yourself", mbid = "4d57d509-7008-4153-aaaf-b1adbda26195" },
+  { n = 10, title = "So Glad to See You", mbid = "5d64dff7-5538-402a-ab73-80700519f41f" },
+  { n = 11, title = "No Fit State", mbid = "e6ed945e-6f3f-41e6-91eb-42320b882543" },
+  { n = 12, title = "Won’t Wash", mbid = "9d61d0de-7b78-4cc4-b603-1721ccb8a0a6" },
+]
+
+[[release]]
+mbid = "3fea473e-60ad-3074-94f4-3b2124e32afe"
+title = "Colours"
+type = "single"
+date = "2006-06-17"
+spotify = "2w0BUzHhUyx5eAf9Z04lXJ"
+tracks = [
+  { n = 1, title = "Colours", mbid = "69f276ff-c162-4b2f-a8fc-09dc864f5b9c" },
+  { n = 2, title = "Disguise", mbid = "e353903f-5450-4e82-a46b-ffcd3a356f9e" },
+  { n = 3, title = "Colours (remixed by Fred Falke)", mbid = "e101d88f-7717-4265-8e97-f66b94095f44" },
+]
+
+[[release]]
+mbid = "dc45cba1-24cb-40d6-b0f7-b589e8ff211b"
+title = "No Fit State"
+type = "single"
+date = "2006-12"
+tracks = [
+  { n = 1, title = "No Fit State (Audion remix)", mbid = "2c5611a0-98a8-47bf-a727-b547a801e4b6" },
+]
+
+[[release]]
+mbid = "497d28fe-62ec-3825-9075-635f35cc1ce3"
+title = "The U.S. Sessions"
+type = "ep"
+date = "2006-12-05"
+tracks = [
+  { n = 1, title = "Over and Over (live session)", mbid = "2720a87d-f458-454c-96b4-b4aec9ebb1dc" },
+  { n = 2, title = "Careful (live session)", mbid = "87737f60-4887-4ec0-a6f8-0e8d218679ab" },
+  { n = 3, title = "Boy From School (live session)", mbid = "cc4af88e-f6d8-488f-ad0b-ac931e00bed2" },
+  { n = 4, title = "No Fit State (live session)", mbid = "f276731b-dfac-410c-9615-7bd54f5cf1cf" },
+]
+
+[[release]]
+mbid = "353e1e5b-2850-343b-aa53-efdf25da6797"
+title = "My Piano"
+type = "single"
+date = "2007"
+tracks = [
+  { n = 1, title = "My Piano", mbid = "01620e0c-7fd9-40bb-9a8c-145b4e678113" },
+  { n = 2, title = "My Piano (dub)", mbid = "0a3950f4-928c-4bc3-a9ff-9f880a0f2886" },
+]
+
+[[release]]
+mbid = "54d3ecf5-7ff7-3d83-b87c-e516660fda17"
+title = "Ready for the Floor"
+type = "single"
+date = "2007"
+spotify = "3YRabdtq5ssGqlAyJQpsYh"
+tracks = [
+  { n = 1, title = "Ready for the Floor (album version)", mbid = "9fd2fce7-0886-4138-9c57-6b1d8360ab95" },
+  { n = 2, title = "Ready for the Floor (extended version)", mbid = "c8850b45-a72f-4fc8-8e22-13cad583d41c" },
+  { n = 3, title = "Ready for the Floor (Soulwax dub)", mbid = "7eaa78cb-2eeb-4624-a589-1b9edd2cfb5f" },
+  { n = 4, title = "Ready for the Floor (Jesse Rose mix)", mbid = "6e89a6f6-0fff-4a55-a3a3-665dd8796e1c" },
+  { n = 5, title = "Shake a Fist (Diplo's Noise of Art remix)", mbid = "b77962d0-4dc2-456c-927c-dc2e6eec2191" },
+]
+
+[[release]]
+mbid = "d3a67920-ba11-31d0-9bcc-97f7112c1142"
+title = "Made in the Dark"
+type = "album"
+date = "2008-02-04"
+spotify = "2fZWcwbfKryf2d24wQ4LXQ"
+tracks = [
+  { n = 1, title = "Out at the Pictures", mbid = "12a2d718-4857-4523-b336-8eeb2f7bd8ae" },
+  { n = 2, title = "Shake a Fist", mbid = "586a7c63-bbe0-45c9-9c84-e88dde918752" },
+  { n = 3, title = "Ready for the Floor", mbid = "9fd2fce7-0886-4138-9c57-6b1d8360ab95" },
+  { n = 4, title = "Bendable Poseable", mbid = "024f7204-e87c-4b7a-8cf1-12ef62420aaf" },
+  { n = 5, title = "We’re Looking for a Lot of Love", mbid = "278eb2aa-4746-49ff-94ed-3a382b595181" },
+  { n = 6, title = "Touch Too Much", mbid = "07330608-113b-43c7-b230-3dc20d63df59" },
+  { n = 7, title = "Made in the Dark", mbid = "6b3e12d2-2b9a-417f-9104-73348b128f4b" },
+  { n = 8, title = "One Pure Thought", mbid = "17c064ae-ec55-4f6e-8444-52e5aafb85d4" },
+  { n = 9, title = "Hold On", mbid = "de16ab55-389b-4943-85a2-2e81ee095c17" },
+  { n = 10, title = "Wrestlers", mbid = "7a4db3d1-a165-42a7-a2d0-2d60602cf9c1" },
+  { n = 11, title = "Don’t Dance", mbid = "59ffc91b-73e6-4ecf-9661-afffe2b82e92" },
+  { n = 12, title = "Whistle for Will", mbid = "511abbcf-9b59-4382-97e8-b857cdaffacf" },
+  { n = 13, title = "In the Privacy of Our Love", mbid = "c6bc7595-6b7c-4ab8-b25a-611173d6f3de" },
+]
+
+[[release]]
+mbid = "15331b55-fed0-3fdd-8efb-905e951fb983"
+title = "One Pure Thought"
+type = "single"
+date = "2008-05-06"
+spotify = "2RpZWfbMBhnRxGIuXZScHI"
+tracks = [
+  { n = 1, title = "One Pure Thought (radio edit)", mbid = "87224541-7511-4d1c-9ea8-e4b817e6f1b6" },
+  { n = 2, title = "Ready for the Floor (Hot Chip V.I.P. mix)", mbid = "073c990f-47dd-47f1-8610-28f9ebbdd067" },
+  { n = 3, title = "Wrestlers (sticky dirty pop mix)", mbid = "fe8c8da4-c538-4c96-979f-7349388f8642" },
+  { n = 4, title = "We’re Looking for a Lot of Love (christmas recording)", mbid = "4923c46d-07af-4a2a-b59f-1896c923128f" },
+]
+
+[[release]]
+mbid = "3a7100e6-7765-3524-b7c3-6d37e83a4c94"
+title = "Hold On / Touch Too Much"
+type = "single"
+date = "2008-09-23"
+spotify = "3SdIT7zd1WHZ4YiyMdFokG"
+tracks = [
+  { n = 1, title = "Hold On (Switch LA remix)", mbid = "b084bba8-8d1f-424d-95f5-04948d7e01e3" },
+  { n = 2, title = "Hold On (Switch LDN remix)", mbid = "a6693e72-cb07-4b6a-a889-0fa0d9ce8892" },
+  { n = 3, title = "Hold On (Mock & Toof remix)", mbid = "bb3f10e5-798d-46af-8d49-c64a932c3dff" },
+  { n = 4, title = "Touch Too Much (Ewan Pearson remix)", mbid = "7d61402c-d026-4cad-9d37-25c17e0f91a7" },
+  { n = 5, title = "Touch Too Much (Kollektiv Turmstrasse remix)", mbid = "ddf9e4ef-e972-4a8b-af23-d596d43ec86d" },
+]
+
+[[release]]
+mbid = "0fb090aa-17ff-383f-b0a6-981d16a0c3a5"
+title = "Hot Chip with Robert Wyatt and Geese"
+type = "ep"
+date = "2008-12-22"
+spotify = "1j6Wquv8HSW9sENl4cxD1H"
+tracks = [
+  { n = 1, title = "Made in the Dark", mbid = "56ecedc8-544b-4405-8841-19952825e5bb" },
+  { n = 2, title = "Whistle for Will", mbid = "c5146144-94c8-424d-96f7-6b6706eba6f3" },
+  { n = 3, title = "We’re Looking for a Lot of Love", mbid = "362a285a-d3bb-447c-aada-25c8b8919e46" },
+  { n = 4, title = "One Pure Thought (remixed by GEESE)", mbid = "746317be-b0d1-4c50-8d2a-49ce35d0e1ce" },
+]
+
+[[release]]
+mbid = "b252db66-a42f-3141-a577-e1d25861f5c3"
+title = "Forget My Name"
+type = "single"
+date = "2009-01-26"
+tracks = [
+  { n = 1, title = "Forget My Name", mbid = "eb6ec640-eec8-488d-a08c-f0b3766ec6bd" },
+  { n = 2, title = "Forget My Name (Shutters Open dub)", mbid = "cb5a9767-c8d9-4c9f-97fe-d22c3458469b" },
+  { n = 3, title = "Touch My Horn", mbid = "feaae89a-ae5e-4fa9-8ec0-e065b9dc8fd2" },
+]
+
+[[release]]
+mbid = "95f55fd3-0345-447d-bf80-d052a5665035"
+title = "One Life Stand"
+type = "single"
+date = "2009-12"
+tracks = [
+  { n = 1, title = "One Life Stand", mbid = "490e557d-1783-4df9-88d1-e5055aa69e1c" },
+  { n = 2, title = "Build a House", mbid = "a0a90406-772b-4049-9232-dac615b1624a" },
+]
+
+[[release]]
+mbid = "8b16fb40-4ef3-41c6-9f9b-29aae317e11e"
+title = "Didn’t Know What Love Was"
+type = "single"
+date = "2010"
+tracks = [
+  { n = 1, title = "Didn’t Know What Love Was (single version)", mbid = "c42627bf-a1c7-4e2e-9c75-028baf923aa9" },
+  { n = 2, title = "Didn’t Know What Love Was", mbid = "2be39e9f-1662-4c7c-83ba-3996fada9d7c" },
+  { n = 3, title = "Didn’t Know What Love Was (single version instrumental)", mbid = "53332779-3274-4867-9e8d-f9ba4acdcadc" },
+  { n = 4, title = "Didn’t Know What Love Was (Hot City club mix)", mbid = "cfe883e6-4ae2-48a2-97b8-27554b33bfa5" },
+]
+
+[[release]]
+mbid = "e83f684b-bc49-4ea2-91c4-b1583c741829"
+title = "One Life Stand"
+type = "album"
+date = "2010-01-29"
+spotify = "4g9B6VXmdHhmqYhVHIXsbc"
+tracks = [
+  { n = 1, title = "Thieves in the Night", mbid = "cb7f8d0d-f59b-4020-bebb-c694935a1353" },
+  { n = 2, title = "Hand Me Down Your Love", mbid = "55b56bf1-1223-4889-83f8-28856ee7c7a5" },
+  { n = 3, title = "I Feel Better", mbid = "734d51f1-314c-4bad-898b-b15ef5e9e42c" },
+  { n = 4, title = "One Life Stand", mbid = "490e557d-1783-4df9-88d1-e5055aa69e1c" },
+  { n = 5, title = "Brothers", mbid = "6b6ea20c-856b-482e-b530-a83af36e6477" },
+  { n = 6, title = "Slush", mbid = "31a17bbe-9c44-4a5d-af66-138f922c620d" },
+  { n = 7, title = "Alley Cats", mbid = "60bae6ab-4b3e-4028-bda5-4a529cd0190b" },
+  { n = 8, title = "We Have Love", mbid = "be8a8883-f12e-43ea-80e7-deb6a8d9fca4" },
+  { n = 9, title = "Keep Quiet", mbid = "27d2d3da-5b03-4b69-8f73-dd2216871e75" },
+  { n = 10, title = "Take It In", mbid = "9af4798a-51cf-4ee5-a42c-2ddf733dea45" },
+]
+
+[[release]]
+mbid = "c9aa992e-3e77-464f-87fc-c10f5949365b"
+title = "I Feel Better"
+type = "single"
+date = "2010-03"
+spotify = "6ivdiTVIs98DVcCZwA3mtE"
+tracks = [
+  { n = 1, title = "I Feel Better", mbid = "734d51f1-314c-4bad-898b-b15ef5e9e42c" },
+  { n = 2, title = "I Feel Better (Richard X remix)", mbid = "cbb43b5d-70ed-4063-9dda-b5e06e4f355f" },
+  { n = 3, title = "One Life Stand (Carl Craig remix)", mbid = "12a3051b-a076-4ca5-8151-4dfda442b9e3" },
+]
+
+[[release]]
+mbid = "78de221e-5732-45ad-8ac0-ae720ad74ff1"
+title = "I Feel Bonnie"
+type = "ep"
+date = "2010-04-17"
+tracks = [
+  { n = 1, title = "I Feel Bonnie", mbid = "cb655694-742c-4957-aab7-3510bd805372" },
+  { n = 2, title = "Bear Witness", mbid = "a891bfb3-44f2-4374-81a4-50718e0d8615" },
+]
+
+[[release]]
+mbid = "0855caea-1a02-4f07-924b-2ef472a9d915"
+title = "Night and Day"
+type = "single"
+date = "2012-04-18"
+spotify = "6tL5zU0J72SZ7NMWweaIPU"
+tracks = [
+  { n = 1, title = "Night and Day", mbid = "87d71e0d-5d13-454b-b380-9ff8047d1606" },
+]
+
+[[release]]
+mbid = "f2ff04ec-0e7f-4c3c-bee4-ccb32a597f2c"
+title = "In Our Heads"
+type = "album"
+date = "2012-06-08"
+spotify = "5GDNKEug3ME9sCAtCU0vu7"
+tracks = [
+  { n = 1, title = "Motion Sickness", mbid = "5fb82d42-9c25-462d-858f-82dc682a81eb" },
+  { n = 2, title = "How Do You Do?", mbid = "8342ca16-6c63-4e95-a430-9682d308b2d0" },
+  { n = 3, title = "Don’t Deny Your Heart", mbid = "f8404eda-c5ea-465a-820b-eab66dc5c2f0" },
+  { n = 4, title = "Look at Where We Are", mbid = "cdc2847b-2dfa-450b-846d-815859a441f9" },
+  { n = 5, title = "These Chains", mbid = "76ac01fd-0e36-4882-994b-7e9cdf5e8d53" },
+  { n = 6, title = "Night & Day", mbid = "87d71e0d-5d13-454b-b380-9ff8047d1606" },
+  { n = 7, title = "Flutes", mbid = "c3d63b46-6bfc-422d-b420-dad8443ad17c" },
+  { n = 8, title = "Now There Is Nothing", mbid = "f9a1f8e2-28b7-496a-b7d4-db00dfc9d2cc" },
+  { n = 9, title = "Ends of the Earth", mbid = "d47e133f-57f9-46a4-ac9c-fba76ca967fa" },
+  { n = 10, title = "Let Me Be Him", mbid = "a5fc783d-dfab-4b5d-9cf3-95ef72456e1a" },
+  { n = 11, title = "Always Been Your Love", mbid = "6646d5ba-9b4f-4807-9bfd-2e153ff3b40f" },
+]
+
+[[release]]
+mbid = "3adc50c3-8ef7-4e15-9536-f0e7316937da"
+title = "Look at Where We Are"
+type = "single"
+date = "2012-07"
+spotify = "2fRieKqNPHxzUtHJwsCroE"
+tracks = [
+  { n = 1, title = "Look at Where We Are (Major Lazer remix)", mbid = "79b6abaa-8e7c-4f6b-88e3-932901370749" },
+  { n = 2, title = "Look at Where We Are (Major Lazer vs. Junior Blender remix)", mbid = "b491c83e-d8b9-414e-8519-2dcf09fc2321" },
+]
+
+[[release]]
+mbid = "3e784084-16b6-456d-ba12-ce5d6702a2fb"
+title = "Doctor (B-Side)"
+type = "single"
+date = "2012-07-01"
+tracks = [
+  { n = 1, title = "Doctor", mbid = "2495a595-e3fb-44a8-83f2-7df7d72ce78a" },
+]
+
+[[release]]
+mbid = "6ba888a3-e4c6-49e6-b357-8d8f2ac7e57c"
+title = "How Do You Do?"
+type = "single"
+date = "2012-10-01"
+spotify = "2MLMOTNdewCLb2J9cI71SD"
+tracks = [
+  { n = 1, title = "How Do You Do?", mbid = "8342ca16-6c63-4e95-a430-9682d308b2d0" },
+  { n = 2, title = "How Do You Do? (Todd Terje remix)", mbid = "5e9d561e-b1b8-41d0-b54f-d40aaea250e8" },
+  { n = 3, title = "How Do You Do? (Joe Goddard dub)", mbid = "83822347-e14f-415a-9faa-570f7db06210" },
+  { n = 4, title = "How Do You Do? (Mickey Moonlight remix)", mbid = "e6e311ab-a137-47b0-b13e-2d2b6e118abd" },
+  { n = 5, title = "How Do You Do? (James Zabiela remix)", mbid = "af34438a-ac22-48f1-b1eb-c37f0d8a7a81" },
+  { n = 6, title = "How Do You Do? (Ossie remix)", mbid = "b2b78780-a474-42ec-8cd7-dc9be64fd523" },
+]
+
+[[release]]
+mbid = "edc690a9-492b-4020-b053-ca0ea0313d8d"
+title = "Don’t Deny Your Heart"
+type = "single"
+date = "2012-11-26"
+spotify = "5hltDnb5xh9JTxt5xIG8lI"
+tracks = [
+  { n = 1, title = "Don’t Deny Your Heart (Joe Goddard re‐edit)", mbid = "82efd111-3402-482c-90e2-e2b79163f7ba" },
+  { n = 2, title = "Don’t Deny Your Heart (Justus Köhncke remix)", mbid = "480ac542-ebbd-4974-8e5a-82ea93106c3f" },
+  { n = 3, title = "Flutes (A JD Twitch Optimo remix)", mbid = "c2c3ae62-0513-4350-b09c-bb371c46ae8c" },
+]
+
+[[release]]
+mbid = "1349b7a9-6fbe-4dd7-8d98-1b55a6dcc153"
+title = "Dark and Stormy"
+type = "single"
+date = "2013-06-04"
+spotify = "7lbMXq5sMJqxSEBXEsQZE6"
+tracks = [
+  { n = 1, title = "Dark and Stormy", mbid = "7bc68ed0-b72c-4bc2-bb9a-aa02007253cd" },
+]
+
+[[release]]
+mbid = "1d7ae78a-e739-44df-80a0-051a31825feb"
+title = "Go Bang"
+type = "ep"
+date = "2014-08-14"
+spotify = "6Cd6ifsiUF0A2PVr8aJTeX"
+tracks = [
+  { n = 1, title = "Go Bang", mbid = "b5dcc3b9-83ae-4199-be82-c726bbdcb27e" },
+]
+
+[[release]]
+mbid = "259ad392-b1c5-4b74-b3f9-77e94b4b6de1"
+title = "Huarache Lights"
+type = "single"
+date = "2015-02-10"
+tracks = [
+  { n = 1, title = "Huarache Lights", mbid = "98d2cdf9-6d49-4c72-882a-bec84810587f" },
+]
+
+[[release]]
+mbid = "1ad35533-3614-408b-9d4b-4a3cc466e809"
+title = "Why Make Sense?"
+type = "album"
+date = "2015-05-15"
+spotify = "1ID4yRgxYUutcLKzYDcln4"
+tracks = [
+  { disc = 1, n = 1, title = "Huarache Lights", mbid = "98d2cdf9-6d49-4c72-882a-bec84810587f" },
+  { disc = 1, n = 2, title = "Love Is the Future", mbid = "f3fae1c5-a86f-4c0b-82f5-acf42435aac4" },
+  { disc = 1, n = 3, title = "Cry for You", mbid = "92c938c4-779c-459c-9ae6-e2c25aad56eb" },
+  { disc = 1, n = 4, title = "Started Right", mbid = "787e5e3b-515d-4aa1-85ac-55cedb70d0c1" },
+  { disc = 1, n = 5, title = "White Wine and Fried Chicken", mbid = "be787002-e482-4857-a6a0-92d264eadb4d" },
+  { disc = 1, n = 6, title = "Dark Night", mbid = "0df6c7f3-6ef2-439f-be21-ce8fa5db6915" },
+  { disc = 1, n = 7, title = "Easy to Get", mbid = "d48b5108-1848-4d29-bc30-e619f9429a48" },
+  { disc = 1, n = 8, title = "Need You Now", mbid = "a878e6a9-25d9-46c1-80ae-bdf0e3ddaad9" },
+  { disc = 1, n = 9, title = "So Much Further to Go", mbid = "541d1a53-ce0f-4396-813d-cef4b5f72ec0" },
+  { disc = 1, n = 10, title = "Why Make Sense?", mbid = "94f68d45-27e6-4a69-bef2-9ae347cf3f40" },
+  { disc = 2, n = 1, title = "Burning Up", mbid = "9d6bffc5-deba-4271-ab51-350658d5d88c" },
+  { disc = 2, n = 2, title = "Separate", mbid = "df87ce20-2ca6-43a6-9310-046662ac3c2f" },
+  { disc = 2, n = 3, title = "Move With Me", mbid = "a5d101b2-df65-44c4-8827-2218ccdfba18" },
+  { disc = 2, n = 4, title = "Re-Harmonize", mbid = "5fadc8c5-2e5e-4af7-929b-cc2d70888a29" },
+]
+
+[[release]]
+mbid = "a77f91de-697f-41ef-a802-f1302e5d05ed"
+title = "Need You Now (Remixes)"
+type = "single"
+date = "2015-07-10"
+tracks = [
+  { n = 1, title = "Need You Now (Dennis Ferrer remix)", mbid = "98d72161-a1d9-43f3-b6d8-a4f23ed49553" },
+  { n = 2, title = "Need You Now (Percussions edit)", mbid = "13e8dfc0-9fee-4bd0-94a8-fad2fed35590" },
+  { n = 3, title = "Need You Now (Moonlight Matters remix)", mbid = "acd42bfd-5e3a-4404-bf39-b78c665cc411" },
+]
+
+[[release]]
+mbid = "26493b5b-3e64-49ff-8cbd-a63bbb64f16d"
+title = "Dancing in the Dark"
+type = "ep"
+date = "2015-10-23"
+spotify = "2H6aaq3yGmgU5MddUXacFI"
+tracks = [
+  { n = 1, title = "Dancing in the Dark", mbid = "b44ae050-db0d-4457-b000-04be7d378e20" },
+  { n = 2, title = "Cry for You (RAK version)", mbid = "6b2fd6ba-10cd-46ca-b8e0-ad04f0483d4f" },
+  { n = 3, title = "Huarache Lights (Soulwax remix)", mbid = "5f5404a5-af16-402b-a889-f1cd98169663" },
+  { n = 4, title = "Huarache Lights (A/JUS/TED remix)", mbid = "a8c6096d-931d-455a-83e7-b87ae92fb08a" },
+]
+
+[[release]]
+mbid = "cfc70654-d9f2-46e9-9abc-ecea55faf398"
+title = "Hungry Child"
+type = "single"
+date = "2019-04-04"
+spotify = "6gx7dx6CDBi16TPA9nadsx"
+tracks = [
+  { n = 1, title = "Hungry Child (edit)", mbid = "5dcc2ba6-117a-4495-a03e-fbe11ab2ecb9" },
+  { n = 2, title = "Hungry Child", mbid = "9cf1b8ee-6adb-4345-a128-c59b74a8a594" },
+]
+
+[[release]]
+mbid = "d8e58fb3-375f-4547-bee6-0ce93790ab4f"
+title = "Melody of Love"
+type = "single"
+date = "2019-05-29"
+tracks = [
+  { n = 1, title = "Melody of Love (Edit)", mbid = "e05d3b45-fda2-4738-88e1-386c80ec892e" },
+]
+
+[[release]]
+mbid = "e720818b-c38d-47a1-9c89-12d62af8a73f"
+title = "Spell (Edit)"
+type = "single"
+date = "2019-06-20"
+tracks = [
+  { n = 1, title = "Spell (Edit)", mbid = "f67dc1b4-c6e7-4a1b-a16e-dfd14ecb000d" },
+]
+
+[[release]]
+mbid = "82144736-4ae1-47aa-9248-faa1416ce906"
+title = "A Bath Full of Ecstasy"
+type = "album"
+date = "2019-06-21"
+spotify = "1li0dHExj78LJ56pHW2tEp"
+tracks = [
+  { n = 1, title = "Melody of Love", mbid = "f14ae052-0ac1-4cc3-a266-fe64a9903fde" },
+  { n = 2, title = "Spell", mbid = "2a9d9aec-7fbc-4754-ae30-5855ffefe85e" },
+  { n = 3, title = "Bath Full of Ecstasy", mbid = "d9b18369-7804-49eb-a53a-bc16f9e14d87" },
+  { n = 4, title = "Echo", mbid = "15d591f3-a6d3-4af6-8a01-2277dc5a66ef" },
+  { n = 5, title = "Hungry Child", mbid = "9cf1b8ee-6adb-4345-a128-c59b74a8a594" },
+  { n = 6, title = "Positive", mbid = "5d18dfcd-d460-46a6-86ff-2edbb406c85b" },
+  { n = 7, title = "Why Does My Mind", mbid = "150401ec-fb4c-41a9-9b56-045b80019c3e" },
+  { n = 8, title = "Clear Blue Skies", mbid = "a3461ac6-24f5-4a6f-83e7-549d46258b88" },
+  { n = 9, title = "No God", mbid = "1877ea96-1f84-46d6-a1fb-ea0d8bc23a84" },
+  { n = 10, title = "None of These Things", mbid = "1f7bfdf8-d68f-463f-9417-e2a2099b08da" },
+  { n = 11, title = "Spell (Superorganism remix)", mbid = "e4a4ef36-88ed-4e8a-96e8-f7a84823dd78" },
+]
+
+[[release]]
+mbid = "0910b874-5f15-44ee-8f92-304d690a99db"
+title = "Hungry Child (KiNK Mix)"
+type = "single"
+date = "2019-08-16"
+spotify = "0Pe74ZQwZTlcg7Uwwp30NG"
+tracks = [
+  { n = 1, title = "Hungry Child (KiNK Mix)", mbid = "4c91373a-f139-45a5-be0e-043d03600ff0" },
+  { n = 2, title = "Hungry Child (KiNK Mix (Edit))", mbid = "469b1728-e323-4dba-b1de-951fb64d2e6f" },
+]
+
+[[release]]
+mbid = "edc3a60d-43bd-4228-a31a-0632159bce84"
+title = "Straight to the Morning"
+type = "single"
+date = "2020-10-23"
+spotify = "6OPYOYkycinpC3gEziMrao"
+tracks = [
+  { n = 1, title = "Straight to the Morning", mbid = "47421e9f-cde5-4c9a-809a-e65f6c720a54" },
+]
+
+[[release]]
+mbid = "3c135f92-b50b-48c5-82aa-a7947f84e711"
+title = "Losing My Head (Superpitcher Dub)"
+type = "single"
+date = "2021-10-13"
+tracks = [
+  { n = 1, title = "Losing My Head (Superpitcher Dub)", mbid = "edd0f960-af53-48c6-a89e-3b17ad94f271" },
+]
+
+[[release]]
+mbid = "ae3a70f5-5c15-4dfe-ab3c-dc248c4b28db"
+title = "Down (Remixes)"
+type = "ep"
+date = "2022-06-20"
+spotify = "3KXygHEZInk8tR7tGDUTh5"
+tracks = [
+  { n = 1, title = "Down (Sworn Virgins remix)", mbid = "19adb475-a4ba-4e58-9517-a35b1d1e3390" },
+  { n = 2, title = "Down (Sworn Virgins remix - edit)", mbid = "ac0c619e-2504-41a8-ab03-7b0cd34deb33" },
+  { n = 3, title = "Down (Nyra remix)", mbid = "8fb5bdb2-f694-4a9a-adb0-07874d5ce3fe" },
+  { n = 4, title = "Down (Nyra remix - edit)", mbid = "ebe046b7-d1b1-4d2d-8d45-7762ed165e6a" },
+  { n = 5, title = "Dumb It Down (Selector Dub Narcotic remix)", mbid = "784613ef-e107-4e87-b404-4ea3b9d980c0" },
+]
+
+[[release]]
+mbid = "6e91178f-b980-4b14-bd6b-5ec2c2f657f5"
+title = "Eleanor"
+type = "single"
+date = "2022-07-07"
+tracks = [
+  { n = 1, title = "Eleanor", mbid = "f7ec2ea7-1580-45d7-8a9d-95a0df1b85a5" },
+]
+
+[[release]]
+mbid = "cfc7977a-1023-46aa-92ab-4a0598352860"
+title = "Freakout/Release"
+type = "single"
+date = "2022-08-02"
+spotify = "5SH3kCDtcn5XcNgxHPyZXx"
+tracks = [
+  { n = 1, title = "Freakout/Release", mbid = "71bdfa74-c199-429b-af2b-14913aeace78" },
+  { n = 2, title = "Eleanor (edit)", mbid = "b9be37ff-524d-4843-b370-f22cbf0b1cfa" },
+  { n = 3, title = "Eleanor", mbid = "f7ec2ea7-1580-45d7-8a9d-95a0df1b85a5" },
+  { n = 4, title = "Down", mbid = "94e04ae5-fe82-4508-871b-1202c04ee4f5" },
+]
+
+[[release]]
+mbid = "4fda022b-4589-4628-b38d-b4ebe4a5a96b"
+title = "Freakout/Release"
+type = "album"
+date = "2022-08-19"
+spotify = "1GWWErA3u49ANQoGygvziN"
+tracks = [
+  { disc = 1, n = 1, title = "Down", mbid = "94e04ae5-fe82-4508-871b-1202c04ee4f5" },
+  { disc = 1, n = 2, title = "Eleanor", mbid = "f7ec2ea7-1580-45d7-8a9d-95a0df1b85a5" },
+  { disc = 1, n = 3, title = "Freakout/Release", mbid = "71bdfa74-c199-429b-af2b-14913aeace78" },
+  { disc = 1, n = 4, title = "Broken", mbid = "92be745a-538b-4f04-9c0d-882d2ce80d66" },
+  { disc = 1, n = 5, title = "Not Alone", mbid = "ce8cc646-89c7-41ab-8934-81af512e873c" },
+  { disc = 1, n = 6, title = "Hard to Be Funky", mbid = "93a64a14-6dcb-4151-adab-10a53d11c739" },
+  { disc = 2, n = 1, title = "Time", mbid = "b8f40f13-b5d6-4aff-b02a-89e7d80e2b96" },
+  { disc = 2, n = 2, title = "Miss the Bliss", mbid = "65b68a75-4e60-40a0-be66-126731253d22" },
+  { disc = 2, n = 3, title = "The Evil That Men Do", mbid = "7cf387af-5804-4dfc-afb8-07168f8731c7" },
+  { disc = 2, n = 4, title = "Guilty", mbid = "19ff7765-ea48-414f-9ae3-0d458f9b30a6" },
+  { disc = 2, n = 5, title = "Out of My Depth", mbid = "39022851-fb1a-4c9a-8a0a-20b92daee780" },
+  { disc = 2, n = 6, title = "The Most Painful Game", mbid = "4d2f42a7-816e-4728-89fe-c60e2daea10b" },
+]
+
+[[release]]
+mbid = "8bb34944-0d88-4695-b4f6-f9d25af3d478"
+title = "Eleanor (Remixes)"
+type = "ep"
+date = "2022-09-07"
+spotify = "4nu8uFwNBbIJBrRWNt6GXo"
+tracks = [
+  { n = 1, title = "Eleanor (Krystal Klear remix)", mbid = "70b94a0e-2509-4efd-937f-4e455eb098cd" },
+  { n = 2, title = "Eleanor (Braxe + Falcon remix)", mbid = "eb415703-f7fe-4d2a-8a80-8a8c808dc92e" },
+  { n = 3, title = "Eleanor (Austin Ato remix edit)", mbid = "4ee37e61-08a6-46c2-92a0-6cd0f03c82db" },
+  { n = 4, title = "Eleanor (Austin Ato remix)", mbid = "0cfd3a39-c97b-4eed-afd0-21ec7525c0ff" },
+  { n = 5, title = "Eleanor", mbid = "f7ec2ea7-1580-45d7-8a9d-95a0df1b85a5" },
+]
+
+[[release]]
+mbid = "e3aeb3cc-026c-417d-be4f-589890a7b6a0"
+title = "Line in the Sand"
+type = "single"
+date = "2023-03-03"
+tracks = [
+  { n = 1, title = "Line in the Sand", mbid = "35dd0ea6-ddc9-4a25-946b-f3c143f1dd06" },
+  { n = 2, title = "Line in the Sand (alt mix)", mbid = "e2f7fca8-a85f-4ffc-92b4-248e163a91f2" },
+]
+
+[[release]]
+mbid = "58b4e196-9251-41b4-9732-3bdc1c2e355c"
+title = "Fire of Mercy"
+type = "single"
+date = "2023-08-07"
+spotify = "4MxTYuvXTiZpKH0nnzcu7V"
+tracks = [
+  { n = 1, title = "Fire of Mercy", mbid = "f2e90a6d-f17f-4a87-a1bc-2fd6353c3f2d" },
+]
+
+[[release]]
+mbid = "f618da92-d9a7-4eef-88bf-4842413872a4"
+title = "Fire of Mercy (yunè pinku remix)"
+type = "single"
+date = "2023-10-05"
+tracks = [
+  { n = 1, title = "Fire of Mercy (yunè pinku remix)", mbid = "8c474c0e-1d95-4135-9f82-357df76deee7" },
+]
+
+[[release]]
+mbid = "a28d9ec6-dbc9-4b94-9eb9-3bd6a8ef8ec8"
+title = "Nom Nom Nom / Cat Burglar"
+type = "single"
+date = "2024-11-26"
+spotify = "2oENWJ9l4Kmde07NBC3Crx"
+tracks = [
+  { n = 1, title = "Nom Nom Nom", mbid = "44ffc421-2351-44ca-9fde-a1f791a7284f" },
+  { n = 2, title = "Cat Burglar", mbid = "1d809155-7c0d-4de0-a998-961a3662f975" },
+]
+
+[[release]]
+mbid = "99d1ab53-4c81-4af5-b05c-69c172590db2"
+title = "Devotion"
+type = "single"
+date = "2025-07-08"
+spotify = "2wKWnv20DzkEJCuz3c9EWV"
+tracks = [
+  { n = 1, title = "Devotion", mbid = "27e1374b-c369-4873-b145-3f80237c80f5" },
+]
+
+[[release]]
+mbid = "396a1a11-4097-4e40-9402-475c70bc024a"
+title = "Bally"
+type = "single"
+date = "2026-05-21"
+spotify = "3BnUqVvasOJeFZyggI6tJO"
+tracks = [
+  { n = 1, title = "Bally", mbid = "951abe66-79d0-47b9-9735-101d85a5187a" },
+  { n = 2, title = "Over And Over", mbid = "f9198bb1-4cc3-4cfe-9df1-c426a3529110" },
+  { n = 3, title = "Boy From School", mbid = "25d93265-cee2-4ffc-9bee-0ab6ae403983" },
+]
+
+[[release]]
+mbid = "dd72bab3-04c2-4592-9588-d6302b33b90c"
+title = "So Deep"
+type = "single"
+date = "2026-06-17"
+spotify = "1Ivjg4NNdikBJLIAteBXR2"
+tracks = [
+  { n = 1, title = "So Deep - Radio Edit", mbid = "c56c9dae-ed91-4709-aa6f-31c31ccf4e47" },
+  { n = 2, title = "Ready For The Floor", mbid = "963bcdcb-5556-47f1-b999-be55aa2c7030" },
+  { n = 3, title = "One Pure Thought", mbid = "00bb00d2-c142-4ddd-ad5a-0d946295a808" },
+]
+
+[[release]]
+mbid = "88372745-2246-451f-9a5b-7875ead455e1"
+title = "Do Not Wait"
+type = "single"
+date = "2026-07-14"
+spotify = "2HeCAa1nbRrTVibPzHCdEp"
+tracks = [
+  { n = 1, title = "Do Not Wait", mbid = "3a6ad798-5a21-4465-83b2-83c791189169" },
+  { n = 2, title = "I Feel Better", mbid = "9ef3d80f-3336-440b-94c6-641c10a9647e" },
+  { n = 3, title = "One Life Stand", mbid = "3cfe0a52-9f86-4fcb-bb1e-26f6bb5b3fb2" },
+]
+
+[[release]]
+mbid = "14c330e3-3445-42af-a0c8-3a91fae3b788"
+title = "A Long Way From Kansas"
+type = "album"
+date = "2027-01-08"
+tracks = [
+  { n = 1, title = "Stuck Record", mbid = "0fbcd314-dbd3-4934-aeab-fc814c143792" },
+  { n = 2, title = "Waiting Around", mbid = "91b9de30-09cf-44b4-bbbc-337ca839199f" },
+  { n = 3, title = "Random Violence", mbid = "f05fa1c8-e94e-45af-b36f-973eda12dbee" },
+  { n = 4, title = "The Mask Is Slipping", mbid = "7cf2217e-e064-4f74-a6c5-f8a8256187f9" },
+  { n = 5, title = "Splinter", mbid = "3b23c0ab-8e19-4e33-b8cf-b35d5d4a4333" },
+  { n = 6, title = "Shortcut To Love", mbid = "f5164b62-4dc5-47e4-8ee5-8d421f53f372" },
+  { n = 7, title = "Me In Your Head", mbid = "d642af32-5149-4b8e-928f-e686b9a8fb28" },
+  { n = 8, title = "Hook Me Up", mbid = "dc2f8908-b512-4050-b9cf-42f3e746782c" },
+  { n = 9, title = "Secular Hymns", mbid = "a8acefb6-5ca8-48ad-891f-49bc2bd20358" },
+  { n = 10, title = "The Garden", mbid = "fe5583f9-4b45-44d5-957e-ae23e35de174" },
+  { n = 11, title = "Crushing", mbid = "68d6b275-34d8-4564-b631-eb1a7b18613b" },
+]
