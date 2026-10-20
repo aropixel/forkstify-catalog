@@ -1,0 +1,182 @@
+format = 1
+
+[[release]]
+mbid = "d00735c7-404a-399a-856f-6751ca1d9825"
+title = "Teddy Boy EP"
+type = "ep"
+date = "2005-12-12"
+tracks = [
+  { n = 1, title = "Testarossa Autodrive", mbid = "7b0da8c5-8ca0-4111-8c8a-45ad57fbc14b" },
+  { n = 2, title = "Mr. Oizo Autodrive T42", mbid = "f2fc9948-6b67-4492-8bbe-dafbaeed1b2e" },
+  { n = 3, title = "Transistor", mbid = "4080f50a-778c-4beb-885f-eae75ec89d92" },
+  { n = 4, title = "The Crash", mbid = "d4df4772-a8c1-43a1-bacc-8084277b6526" },
+  { n = 5, title = "Testarossa Nightdrive", mbid = "7242a5a0-9d73-4399-af0e-f5ae0a76eb9f" },
+  { n = 6, title = "Arpanet Nightdrive rework", mbid = "4d15e1b6-6075-4309-9a7a-946d644723f6" },
+  { n = 7, title = "Ghost Transistor", mbid = "a6bcac93-c2cb-4e10-8c8a-966f1edef4b5" },
+]
+
+[[release]]
+mbid = "ba3579e8-d377-34f3-98db-7940a910b7c2"
+title = "1986"
+type = "ep"
+date = "2007-03-04"
+tracks = [
+  { n = 1, title = "Wayfarer", mbid = "b1b773ce-d65e-4c7a-a357-af630dd6dcc2" },
+  { n = 2, title = "Dead Cruiser", mbid = "8b544070-2a32-4d87-9c8d-c27411f85fc5" },
+  { n = 3, title = "Testarossa (SebastiAn remix)", mbid = "bde69a97-f1f1-421c-ab37-4ebdb92388fa" },
+  { n = 4, title = "Flashback", mbid = "619a89f7-b969-4b28-86c1-3eccda3cb204" },
+  { n = 5, title = "Grand Canyon", mbid = "ab975a6f-4087-4b69-8613-48225fda999d" },
+]
+
+[[release]]
+mbid = "d5ba15fb-298c-311a-9038-eff07b47bb0c"
+title = "Your Way or Mine? / Grand Canyon"
+type = "single"
+date = "2007-03-26"
+tracks = [
+  { n = 1, title = "Your Way or Mine?", mbid = "54588239-2313-4d34-a98d-64c546427caa" },
+  { n = 2, title = "Grand Canyon", mbid = "2f954312-6feb-497c-9d42-f053211e116e" },
+]
+
+[[release]]
+mbid = "1492e784-db34-4530-9b78-541e9ccb850a"
+title = "Blazer"
+type = "ep"
+date = "2008-08-05"
+tracks = [
+  { n = 1, title = "Testarossa Autodrive", mbid = "7b0da8c5-8ca0-4111-8c8a-45ad57fbc14b" },
+  { n = 2, title = "Dead Cruiser", mbid = "8b544070-2a32-4d87-9c8d-c27411f85fc5" },
+  { n = 3, title = "1986", mbid = "5fb9b67d-1876-4748-90f6-315ec68da4c4" },
+  { n = 4, title = "Grand Canyon", mbid = "ab975a6f-4087-4b69-8613-48225fda999d" },
+]
+
+[[release]]
+mbid = "83c86a97-bef1-455c-9d48-6b3b5172f20a"
+title = "Nightcall"
+type = "ep"
+date = "2010-03-26"
+spotify = "07nBld9enf1PyRysZAVSqJ"
+tracks = [
+  { n = 1, title = "Nightcall", mbid = "3a2f5805-565f-433f-a92d-d1ac7aee6575" },
+  { n = 2, title = "Pacific Coast Highway", mbid = "456d83f3-693c-4016-b5e2-ec6ad3d67316" },
+  { n = 3, title = "Nightcall (Dustin N'Guyen remix)", mbid = "67bb157b-047c-4bd6-92cd-cc73277933f0" },
+  { n = 4, title = "Pacific Coast Highway (Jackson remix)", mbid = "1a742365-328e-43c4-a059-cddb5d01a9c4" },
+]
+
+[[release]]
+mbid = "869ec272-ef50-49d0-b0fa-068b17437242"
+title = "Roadgame"
+type = "single"
+date = "2012-04-13"
+tracks = [
+  { n = 1, title = "Roadgame", mbid = "10040eb3-96f0-4240-a0f0-f7d2f7d91e00" },
+]
+
+[[release]]
+mbid = "0ae6b11b-5d83-4ac8-b033-5361f8b2265f"
+title = "ProtoVision"
+type = "single"
+date = "2012-12-10"
+tracks = [
+  { n = 1, title = "ProtoVision", mbid = "6785c107-a6dd-4bdc-a11b-3705230f3855" },
+]
+
+[[release]]
+mbid = "d8b70a79-a964-4baf-8567-5c3e95cb2734"
+title = "OutRun"
+type = "album"
+date = "2013-02-25"
+tracks = [
+  { n = 1, title = "Prélude", mbid = "5f94dabf-b4ce-4969-9497-63f936f6307f" },
+  { n = 2, title = "Blizzard", mbid = "c7cc6426-061d-4904-946a-d137a7264ee2" },
+  { n = 3, title = "ProtoVision", mbid = "6785c107-a6dd-4bdc-a11b-3705230f3855" },
+  { n = 4, title = "Odd Look", mbid = "98b3bebc-fe25-49d9-85d8-9f733b5cbba8" },
+  { n = 5, title = "Rampage", mbid = "4731df76-bf21-4568-9a1a-6bb0bb2ba087" },
+  { n = 6, title = "Suburbia", mbid = "25fb584b-ac89-44c5-96cd-a45eb887a814" },
+  { n = 7, title = "Testarossa Autodrive", mbid = "7b0da8c5-8ca0-4111-8c8a-45ad57fbc14b" },
+  { n = 8, title = "Nightcall", mbid = "3a2f5805-565f-433f-a92d-d1ac7aee6575" },
+  { n = 9, title = "Deadcruiser", mbid = "8b544070-2a32-4d87-9c8d-c27411f85fc5" },
+  { n = 10, title = "Grand Canyon", mbid = "5b86f058-3931-4233-a8a9-3bac314506e2" },
+  { n = 11, title = "First Blood", mbid = "9fbed4dd-8709-420c-bedd-c202335db9b4" },
+  { n = 12, title = "Roadgame", mbid = "10040eb3-96f0-4240-a0f0-f7d2f7d91e00" },
+  { n = 13, title = "Endless", mbid = "8e72f2ab-31e3-475e-bdfe-e9ea6992c968" },
+  { n = 14, title = "ProtoVision (Red Sky mix)", mbid = "a034d4b1-a3dc-45f9-803b-1cc3b8744931" },
+]
+
+[[release]]
+mbid = "58e5609f-a29e-47f9-9bd7-9b9c0771b73e"
+title = "Sovereign"
+type = "single"
+date = "2014-11-07"
+tracks = [
+  { n = 1, title = "Sovereign", mbid = "eaf6e878-697e-4f3a-805b-245a5106af08" },
+]
+
+[[release]]
+mbid = "cebdb08e-6767-4263-beea-6afcf37453d9"
+title = "Renegade"
+type = "single"
+date = "2021-11-19"
+spotify = "0SrEtp8X0AH2gd0WX4Qh8Y"
+tracks = [
+  { n = 1, title = "Renegade", mbid = "2348daa0-019b-4819-8006-7a2def03cb6c" },
+  { n = 2, title = "Renegade (instrumental)", mbid = "9fed9148-7464-471f-8231-f0cc0629c685" },
+]
+
+[[release]]
+mbid = "91920d86-c2cb-4e4b-88ef-353206956d64"
+title = "Zenith"
+type = "single"
+date = "2022-02-04"
+spotify = "6cO66z9c0nTptnOrfhRi62"
+tracks = [
+  { n = 1, title = "Zenith", mbid = "ab70f713-0744-482d-be1b-1339f30b8805" },
+  { n = 2, title = "Zenith (instrumental)", mbid = "a61450bb-8e4c-495a-9c75-c8979e359ca2" },
+  { n = 3, title = "Zenith (edit)", mbid = "6e53ee82-07cf-4027-8435-a6ef2c59056b" },
+]
+
+[[release]]
+mbid = "7b9240cb-771f-49ea-a1dd-b4d3a5e63325"
+title = "Reborn"
+type = "album"
+date = "2022-03-25"
+spotify = "2Js9F9O6V6mDZTal95Iner"
+tracks = [
+  { n = 1, title = "Pulsar", mbid = "f1878774-861a-4103-8761-bfe7e54f74d1" },
+  { n = 2, title = "Reborn", mbid = "76486a02-6eaa-47e7-b8f8-a4f870b79c88" },
+  { n = 3, title = "Renegade", mbid = "2348daa0-019b-4819-8006-7a2def03cb6c" },
+  { n = 4, title = "Trigger", mbid = "034630fd-a7b9-428b-ac8e-6f73d863b449" },
+  { n = 5, title = "Goodbye", mbid = "47a173c0-2655-44aa-9f48-a19b453b8b5b" },
+  { n = 6, title = "Plasma", mbid = "496acc8b-7682-4968-947f-dae552bccace" },
+  { n = 7, title = "Cameo", mbid = "841cfbea-cd0b-433e-82b3-506ffef310be" },
+  { n = 8, title = "Zenith", mbid = "ab70f713-0744-482d-be1b-1339f30b8805" },
+  { n = 9, title = "Vigilante", mbid = "64520f00-36ca-475c-a828-0caed776dc70" },
+  { n = 10, title = "Zombie", mbid = "3646ef8a-cc8f-4776-b09c-3c9920851a37" },
+  { n = 11, title = "Outsider", mbid = "a7c003b0-9e52-4a55-ab38-0a8efdaeb3ad" },
+  { n = 12, title = "Horizon", mbid = "7d4dcf8d-2686-4102-ba60-3afce942d9fd" },
+]
+
+[[release]]
+mbid = "accf40c6-bda3-4610-a50a-d1ad979c9bd0"
+title = "Cameo"
+type = "ep"
+date = "2022-06-10"
+spotify = "2SPm5k55uxMWPXewU2JzXj"
+tracks = [
+  { n = 1, title = "Cameo", mbid = "841cfbea-cd0b-433e-82b3-506ffef310be" },
+  { n = 2, title = "Cameo (David Guetta remix)", mbid = "431fe5df-4de5-43f6-8224-991cd15ecdab" },
+  { n = 3, title = "Cameo (Dopplereffekt Recomposite)", mbid = "1ba85725-34c1-47fc-bd78-678a51b41d61" },
+  { n = 4, title = "Cameo (Breakbot & Irfane remix)", mbid = "f2c647be-6737-4139-b179-b04d70c63301" },
+  { n = 5, title = "Cameo (Gaspard Augé & Victor Le Masne remix)", mbid = "fb0eb674-bd2d-4c3c-8cea-7f9103971c43" },
+  { n = 6, title = "Cameo (David Guetta extended remix)", mbid = "d4dbfd82-ff46-4203-9154-a58e5de920e2" },
+]
+
+[[release]]
+mbid = "8a17f42c-f913-4a9f-8c40-ba4a719ed28d"
+title = "Nightcall"
+type = "single"
+date = "2024-09-20"
+spotify = "05OLq8nG4L5WYZXTfXVYM7"
+tracks = [
+  { n = 1, title = "Nightcall", mbid = "bdc66d13-bd51-48a8-b07c-7ca4fd033ea0" },
+]

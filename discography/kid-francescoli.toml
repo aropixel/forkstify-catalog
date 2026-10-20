@@ -1,0 +1,221 @@
+format = 1
+
+[[release]]
+mbid = "fe64180d-49d6-429e-bed1-1ebe75ebd1f9"
+title = "Kid Francescoli"
+type = "album"
+date = "2006-05"
+tracks = [
+  { n = 1, title = "Three Chords (intro)", mbid = "cb18751a-6f05-4a84-95fb-940f43661ea1" },
+  { n = 2, title = "CFK", mbid = "caba66e2-f541-4fcf-b4d4-dfb011b2eddd" },
+  { n = 3, title = "Vincent, un attore", mbid = "22633ded-cd3a-44d6-a5e9-92ac84ec4320" },
+  { n = 4, title = "My Favorite Comics", mbid = "a35651c0-dab4-4520-a190-1b4de02ce010" },
+  { n = 5, title = "Mad Legs", mbid = "81d34e2a-4579-4908-8bf0-f628405ff3eb" },
+  { n = 6, title = "Villa Borghese", mbid = "60d00500-1d71-456d-82ee-eb1e24094fcc" },
+  { n = 7, title = "I'm Not John McEntire", mbid = "0e3ce072-03e7-4870-924d-fdf8849f2820" },
+  { n = 8, title = "You're So Beautiful", mbid = "eeb95eb8-048e-4e99-8580-d8aa764b1c73" },
+  { n = 9, title = "Roma-Hollywood", mbid = "ea694e1e-c4db-42ca-8e62-8e7e3f4954a6" },
+  { n = 10, title = "25", mbid = "f38d18ab-6d29-4b9e-a69f-caab5d2512a4" },
+  { n = 11, title = "Two Chords (outro)", mbid = "35154cec-734d-460b-abb5-ea4192af7d02" },
+]
+
+[[release]]
+mbid = "7b17e292-7a64-4a15-9166-e287abb95ee0"
+title = "It's Happening Again EP1"
+type = "ep"
+date = "2010-01"
+tracks = [
+  { n = 1, title = "One Moment", mbid = "4ac3af30-798e-4756-9468-54be5cd1de91" },
+  { n = 2, title = "9 A.M.", mbid = "0a31124c-c930-4a2f-a6f2-1d7a4ae151fd" },
+  { n = 3, title = "In My Bed", mbid = "3fe32424-822a-43f6-b182-5d74b2d822d8" },
+  { n = 4, title = "One Moment (Nasser remix)", mbid = "de19d59b-5c4f-4fdf-af66-9ce2a5ba8a23" },
+  { n = 5, title = "Vincent, un attore (Matt Elliott remix)", mbid = "96015e80-6cc4-4335-98f7-3f0e4b4b4c10" },
+  { n = 6, title = "25 (The Performers remix)", mbid = "87b409e4-9e1b-4250-8d4f-13e7f8bedc6a" },
+]
+
+[[release]]
+mbid = "8725f0a4-9506-4266-b494-a6d55a779562"
+title = "Sister Winter"
+type = "single"
+date = "2010-12-20"
+tracks = [
+  { n = 1, title = "Sister Winter", mbid = "b927b874-8686-4d66-842c-eef6ab372f4d" },
+]
+
+[[release]]
+mbid = "aaca3a41-c0bb-4654-b491-6d3db8cce608"
+title = "It's Happening Again"
+type = "album"
+date = "2012-12-10"
+tracks = [
+  { n = 1, title = "One Moment", mbid = "4ac3af30-798e-4756-9468-54be5cd1de91" },
+  { n = 2, title = "Final Team", mbid = "17cf648e-3b5d-49d3-932d-cc659f9977c2" },
+  { n = 3, title = "9 A.M", mbid = "0a31124c-c930-4a2f-a6f2-1d7a4ae151fd" },
+  { n = 4, title = "In My Bed", mbid = "3fe32424-822a-43f6-b182-5d74b2d822d8" },
+  { n = 5, title = "Boom Boom", mbid = "946053e5-cef6-4aa3-beaf-b92b52279d4e" },
+  { n = 6, title = "Clasico/Belmondo", mbid = "a559dde4-0076-4b38-ae8f-a28914af29c6" },
+  { n = 7, title = "Before a Gig", mbid = "92e2e9cd-7a74-4dcc-8ee3-0b5f3526b2fd" },
+  { n = 8, title = "Glass & Stones", mbid = "dce24653-673e-4965-b4d6-291c191f3ae1" },
+  { n = 9, title = "83 Horses", mbid = "a7db004f-9de3-4f1c-a7bc-bdee3d5d4612" },
+]
+
+[[release]]
+mbid = "5ff44c89-6164-4ac8-9cf0-184705a15b6a"
+title = "Blow Up"
+type = "single"
+date = "2013"
+tracks = [
+  { n = 1, title = "Blow Up (single edit)", mbid = "6388701e-a99e-464d-a5a3-b1edd7d85117" },
+  { n = 2, title = "Blow Up (Fred Berthet remix)", mbid = "2844639c-da4c-4d3a-a2fd-5a4fb4b1d201" },
+]
+
+[[release]]
+mbid = "0c44c991-d619-4610-8ffe-0f00859822c8"
+title = "With Julia"
+type = "album"
+date = "2014-03-22"
+tracks = [
+  { n = 1, title = "Blow UP", mbid = "aa4f2e2d-5150-4174-8f32-196931b6b538" },
+  { n = 2, title = "My Baby", mbid = "781906b9-cbe0-43f6-b804-fab6f35a2518" },
+  { n = 3, title = "Prince Vince", mbid = "9afb7f72-d617-4f89-ae74-87d96391c25a" },
+  { n = 4, title = "Boom Boom", mbid = "681ccd55-3a71-4f52-92a9-4299b35b76ab" },
+  { n = 5, title = "Does She", mbid = "62b9b071-0413-4dde-81dd-0be94dd2fabf" },
+  { n = 6, title = "I Don’t Know How", mbid = "1ed0ac7d-3842-43c9-94f4-dd17fdfa0835" },
+  { n = 7, title = "Mr. Know It All", mbid = "6444f6a8-ea54-430b-8e88-31c89d069838" },
+  { n = 8, title = "Disco Queen", mbid = "80ceec67-73af-4638-a69d-31884eaf26f9" },
+  { n = 9, title = "Italia 90", mbid = "733eeb02-0614-4746-9aad-64d4df798238" },
+  { n = 10, title = "Dirty Blonde", mbid = "34790595-339e-4e55-8a93-7da3cfca4f97" },
+]
+
+[[release]]
+mbid = "2bc4919d-d542-42ce-8478-2e56bdd52aba"
+title = "Play Me Again"
+type = "album"
+date = "2016"
+tracks = [
+  { n = 1, title = "Les Vitrines", mbid = "8cb907b4-d518-45e1-99ac-f04d049f4024" },
+  { n = 2, title = "From America", mbid = "53c82b20-8581-4722-9aec-55acd0859f10" },
+  { n = 3, title = "The Player", mbid = "d1024388-4cb9-47a4-acc2-04c9c92c1f40" },
+  { n = 4, title = "Bad Girls", mbid = "803fea42-6b8e-4cbd-bfc6-bd692165b297" },
+  { n = 5, title = "It’s Only Music, Baby", mbid = "843981df-a611-4fd8-82ec-8a78ef165d9e" },
+  { n = 6, title = "(Intermezzo)", mbid = "920ea1e0-67ba-42c7-9eb5-812746c16051" },
+  { n = 7, title = "Emma", mbid = "eb9f344c-8980-4f91-8495-99ab372e965d" },
+  { n = 8, title = "Pick Me Up", mbid = "a8fcbdc4-5d9c-4b80-8ed5-99e1cbf0a170" },
+  { n = 9, title = "Moon", mbid = "46e8a1c4-50b4-4e4c-a172-facf8985f79b" },
+  { n = 10, title = "Come Online", mbid = "935029c6-abd7-4950-9605-0c0f2231090d" },
+  { n = 11, title = "This Insatiable Love", mbid = "ab225e8d-7e32-4eda-ba62-01f6d5ce1148" },
+]
+
+[[release]]
+mbid = "d42a7501-e7ed-48c3-ab71-57b296779085"
+title = "Moon"
+type = "single"
+date = "2017"
+tracks = [
+  { n = 1, title = "Moon", mbid = "46e8a1c4-50b4-4e4c-a172-facf8985f79b" },
+]
+
+[[release]]
+mbid = "82da894f-4e3e-418c-ace7-455e14bdc7e5"
+title = "Lovers"
+type = "album"
+date = "2019"
+tracks = [
+  { n = 1, title = "Alive", mbid = "b3588fce-e54e-4480-9b36-0e3310bebeb3" },
+  { n = 2, title = "Eu Quero", mbid = "d727347e-e1d2-4298-b227-f45a026e0d50" },
+  { n = 3, title = "Cent corps", mbid = "76e61486-54d2-49b8-bcd7-9de47f461a7e" },
+  { n = 4, title = "My Bad", mbid = "85dc6196-2f52-448a-8586-91e41f3b0051" },
+  { n = 5, title = "Miss Mess", mbid = "cdba3981-e129-4b5d-b233-432d523d2509" },
+  { n = 6, title = "City Lights", mbid = "01169d27-8024-43cf-b7b9-5f5f0aef3a38" },
+  { n = 7, title = "Ces deux-là", mbid = "b7abaab4-c671-4e38-b920-06c34a8fa143" },
+  { n = 8, title = "The Only One", mbid = "dc619e55-d91f-49b6-a168-c1eb00d5ca33" },
+  { n = 9, title = "So Over", mbid = "d68e1c9f-ef39-4eea-abe4-e273f7da3257" },
+  { n = 10, title = "O Sol", mbid = "0e46a229-a85b-44e2-bfca-04c5ab8178e9" },
+  { n = 11, title = "Lovedrops", mbid = "777f6a32-a93c-449b-8cd1-76489a58c4ac" },
+]
+
+[[release]]
+mbid = "78d2721e-3142-45c5-bf04-2aed62d730f1"
+title = "You, Love"
+type = "single"
+date = "2021"
+spotify = "5CCLYUCjoHZcbLDStmmFSX"
+tracks = [
+  { n = 1, title = "You, Love", mbid = "2770df51-009a-47d7-b97b-24e584599634" },
+]
+
+[[release]]
+mbid = "4addd7bd-9429-48bb-ae77-04d05b082c0a"
+title = "Nopalitos"
+type = "single"
+date = "2021-03-18"
+tracks = [
+  { n = 1, title = "Nopalitos", mbid = "4b354d9c-f1dd-4871-bdbf-d40010aa45d2" },
+]
+
+[[release]]
+mbid = "d32db799-2c8e-4dbe-adc4-25034ff6c0d7"
+title = "Summer Is Gone"
+type = "single"
+date = "2021-12-17"
+tracks = [
+  { n = 1, title = "Summer Is Gone", mbid = "d5f968f8-1cb7-42ca-84be-918894144e68" },
+]
+
+[[release]]
+mbid = "ddfa9e37-2541-4c43-9ffe-c6155e50e225"
+title = "Azuro"
+type = "album"
+date = "2022"
+spotify = "0Ufx4w2gLYbb4HtDR9Mxg1"
+tracks = [
+  { n = 1, title = "Le Bateau", mbid = "67b533e5-85ae-41ed-98af-c450dafd04a7" },
+  { n = 2, title = "L’Amour", mbid = "41f7a728-273d-467c-9309-d0a0c020e432" },
+  { n = 3, title = "L’Enfant et Sara", mbid = "e17cbccc-bc81-4d0d-be1b-24adefb1eb9f" },
+  { n = 4, title = "Le Retour en bateau", mbid = "c58b9e76-4c75-45f6-b2d8-484538860f04" },
+  { n = 5, title = "L’Homme", mbid = "937e9015-3de0-4139-8643-acd919ed08a1" },
+  { n = 6, title = "La Rencontre", mbid = "83a109d6-faf2-4a11-8e24-44751f3153f1" },
+  { n = 7, title = "L’Invitation", mbid = "b4c25adc-705e-422d-b5d0-c7331c48015f" },
+  { n = 8, title = "Le Déclin", mbid = "88041d51-4142-4434-b042-21aa0c018adb" },
+  { n = 9, title = "Le Rocher", mbid = "a8aecdc0-fdb3-419c-b5ad-e48e7e79bc8b" },
+  { n = 10, title = "Italia 90", mbid = "4ecea45f-9bbe-4c06-a76e-b54611634295" },
+]
+
+[[release]]
+mbid = "78c0cb0a-9a8e-42a7-b226-534eda55a740"
+title = "You Are Everywhere"
+type = "single"
+date = "2023-03-09"
+tracks = [
+  { n = 1, title = '"You Are Everywhere" feat. Turbo Goth', mbid = "13afc6a1-d9f1-46bc-b75c-45a3301682ee" },
+]
+
+[[release]]
+mbid = "16f73b31-b765-4a10-a58a-8591c0b430df"
+title = "1986"
+type = "single"
+date = "2023-05-17"
+spotify = "6AZgntJAhycfjeNgteCECK"
+tracks = [
+  { n = 1, title = "1986", mbid = "57b1e464-d145-460a-93ca-127fb3f89984" },
+]
+
+[[release]]
+mbid = "15f7a374-2516-4a6e-8e41-7c906667fd4d"
+title = "Sunset Blue"
+type = "album"
+date = "2023-09-22"
+spotify = "6Hyx6HDRUTG8wKtxuqTcQa"
+tracks = [
+  { n = 1, title = "Run, Run", mbid = "f9f150f1-1363-48ca-9cf4-c64c641e3f2b" },
+  { n = 2, title = "You Are Everywhere", mbid = "ffbbc0b2-8647-4eb7-b87a-f3800e30e8bd" },
+  { n = 3, title = "Casino Soul", mbid = "cd62ecb1-1bf7-4c7c-bfc6-6f33487ae9e2" },
+  { n = 4, title = "Sweet and Sour", mbid = "20adc239-bb09-4056-be76-6b9c5e811bb4" },
+  { n = 5, title = "1986", mbid = "96cc9412-5adc-416e-821c-99494179b63d" },
+  { n = 6, title = "Drift in Blue", mbid = "11cea2d7-54b6-44b1-8ee5-198870ccf34e" },
+  { n = 7, title = "Take Time", mbid = "0eed3888-2fc3-4396-b69f-b1cc882aecb7" },
+  { n = 8, title = "Solaris", mbid = "1a521666-d0e6-43c4-87d9-041d58aa4d51" },
+  { n = 9, title = "Like Magic", mbid = "2dea3d4a-0e38-4688-bcca-26c643ff2c94" },
+  { n = 10, title = "The Morning After", mbid = "7919cc43-f038-4877-88b8-b1e332aabf2a" },
+  { n = 11, title = "Corsica", mbid = "49c34a31-1547-4ba0-9294-10aff8af2408" },
+]

@@ -1,0 +1,125 @@
+format = 1
+
+[[release]]
+mbid = "2668ce16-5b28-4638-af4e-3935b7076766"
+title = "Crème Brûlée"
+type = "single"
+date = "2019-05-24"
+tracks = [
+  { n = 1, title = "Crème Brûlée", mbid = "352d79c9-51ea-4ed3-b760-4d8f7571db93" },
+]
+
+[[release]]
+mbid = "dec616a7-a631-412a-bba1-3e32da30db2e"
+title = "Tell Me Your Mind and I’ll Tell You Mine"
+type = "ep"
+date = "2020-11-20"
+spotify = "0BcQu4XtLdCq2HhkonJ7Q2"
+tracks = [
+  { n = 1, title = "And Then Out of Nowhere, It Rained", mbid = "df18de9a-23f8-49ee-93e9-4bff9884e292" },
+  { n = 2, title = "Meal Deal", mbid = "be174723-f30a-4111-9036-242c7002f2a0" },
+  { n = 3, title = "Bill Tench", mbid = "17a7b61b-24b7-4dc5-9d2c-0703c31919e1" },
+  { n = 4, title = "Crème Brûlée", mbid = "352d79c9-51ea-4ed3-b760-4d8f7571db93" },
+  { n = 5, title = "The Sea Has Stretch Marks", mbid = "70014c5f-2feb-4af1-9342-fb102476b597" },
+  { n = 6, title = "Reprise (Moving Day)", mbid = "bcc773d8-af66-4696-a4e2-47215b5a136f" },
+]
+
+[[release]]
+mbid = "8c37e1b5-eff2-463b-a648-cd345401eb75"
+title = "State Trooper"
+type = "single"
+date = "2021-03-17"
+tracks = [
+  { n = 1, title = "State Trooper", mbid = "8bc37f0a-f99e-41f4-916f-a4c573cbfc66" },
+  { n = 2, title = "State Trooper (edit)", mbid = "e3b70f57-c4c8-4907-99fa-251353656df5" },
+]
+
+[[release]]
+mbid = "71f295d3-a6ea-441d-baa7-698a94b6cc9c"
+title = "A Well‐Made Woman"
+type = "single"
+date = "2021-09-22"
+tracks = [
+  { n = 1, title = "A Well‐Made Woman", mbid = "179479c5-91b4-4438-8b15-87dfd6784dca" },
+]
+
+[[release]]
+mbid = "05895684-1c34-4ee5-8303-a49d7a8a37e0"
+title = "I’m Not Sorry, I Was Just Being Me"
+type = "album"
+date = "2022-02-25"
+spotify = "329jZGec5ndGWyYUAX1xJC"
+tracks = [
+  { n = 1, title = "A Well‐Made Woman", mbid = "179479c5-91b4-4438-8b15-87dfd6784dca" },
+  { n = 2, title = "So Much Water So Close to Drone", mbid = "75d1ff63-bbd5-40c4-90cc-5edd421ac2c9" },
+  { n = 3, title = "All Being Fine", mbid = "38c321f3-e61c-4081-aef6-b72142544cc0" },
+  { n = 4, title = "Big Big Baby", mbid = "b27602b5-029e-4fec-ad80-f30da542a8bf" },
+  { n = 5, title = "Ants Crawling on an Apple Stork", mbid = "638bfbfc-d1da-4c93-af02-135999641b39" },
+  { n = 6, title = "The Moods That I Get In", mbid = "0ac10aed-b323-4493-85b2-938bfdfb59d3" },
+  { n = 7, title = "Foolius Caesar", mbid = "1ef32c50-838b-42a6-9fe8-126b845bbef2" },
+  { n = 8, title = "Death of the House Phone", mbid = "19cd368b-5d13-4e4f-bc1e-2eedc60f259c" },
+  { n = 9, title = "Go‐Kart Kid (Hell No!)", mbid = "c4c480fd-b889-4415-8237-b99313db0bde" },
+  { n = 10, title = "I’m Not Sorry, I Was Just Being Me", mbid = "843b2fb6-0a12-486c-b842-62db10f907a5" },
+  { n = 11, title = "Berenson", mbid = "d9b49f75-0d43-422e-a977-9ed14bf804a5" },
+  { n = 12, title = "It’s Me and You, Kid", mbid = "03817cc4-e81b-4e52-a5c8-1a298ca41149" },
+]
+
+[[release]]
+mbid = "f880bc4e-c75d-497d-bc59-2b3bcf707810"
+title = "Like a Prayer"
+type = "single"
+date = "2023-05-23"
+spotify = "6zIfd7XOi1LYtHt47wZQc8"
+tracks = [
+  { n = 1, title = "Like a Prayer", mbid = "fb9a1b89-5897-4661-80f5-f7c33fa83638" },
+  { n = 2, title = "Like a Prayer (Extended Version)", mbid = "0122d9f0-d3bd-4b8b-a695-a73b625f4cfe" },
+]
+
+[[release]]
+mbid = "c090c946-84b9-4a1a-bca9-d5d7a8270d27"
+title = "Big Swimmer"
+type = "album"
+date = "2024-05-31"
+spotify = "18wXW5b7h2McAdCxLRlZXc"
+tracks = [
+  { n = 1, title = "Big Swimmer", mbid = "403297e5-1807-42e4-bf7a-ba604126f894" },
+  { n = 2, title = "New York, Let’s Do Nothing", mbid = "53ee91f3-5fef-47ce-ba45-8728225c54a7" },
+  { n = 3, title = "The Mattress", mbid = "3aed54a4-fc93-4648-8145-21647307d0d2" },
+  { n = 4, title = "Milk Boy (I Love You)", mbid = "aee6aaef-a73b-46db-9e75-9c0c04b6ee41" },
+  { n = 5, title = "Suddenly, Your Hand", mbid = "f188c806-f2c8-4952-a873-cdab33e41ad6" },
+  { n = 6, title = "Somewhere Near El Paso", mbid = "ee219066-67b6-4ede-a46b-11f12567cd48" },
+  { n = 7, title = "Lily Pad", mbid = "b39bed2e-7014-46db-ab44-5c0bf3b6b2c5" },
+  { n = 8, title = "Davey Says", mbid = "60fa21e6-9798-430f-89c1-a95ac1ebf2f9" },
+  { n = 9, title = "Scully", mbid = "5f033a24-7b28-40a5-a71f-c59e2b070faf" },
+  { n = 10, title = "This Wasn’t Intentional", mbid = "30d79e65-e88a-4cb9-8ed6-38eb13dd457c" },
+  { n = 11, title = "John Prine on the Radio", mbid = "17a8c079-f841-4eff-a01e-904c34c91360" },
+]
+
+[[release]]
+mbid = "e838728d-f727-41e0-9bd1-67e35b51cba2"
+title = "Blue Christmas"
+type = "single"
+date = "2024-11-20"
+tracks = [
+  { n = 1, title = "Blue Christmas", mbid = "f5ae7ef1-ad4c-4a24-a548-ce9f8c9785b9" },
+]
+
+[[release]]
+mbid = "326b5a91-0480-4b16-92a2-04909e6823e0"
+title = "Leftovers"
+type = "single"
+date = "2025-02-20"
+spotify = "7ixgUDVWX1nNha4emipIJF"
+tracks = [
+  { n = 1, title = "Leftovers", mbid = "e04b119d-2407-4d1e-a746-b3a8e078cf7d" },
+]
+
+[[release]]
+mbid = "8a9c9695-c8e3-4094-9942-40fceb702e8c"
+title = "This Hotel Room"
+type = "single"
+date = "2025-11-05"
+spotify = "1PeUY1CVkuQwouXIdG4j1W"
+tracks = [
+  { n = 1, title = "This Hotel Room", mbid = "22d3805a-c719-4576-bfab-b7b584e7525f" },
+]

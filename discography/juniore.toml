@@ -1,0 +1,181 @@
+format = 1
+
+[[release]]
+mbid = "618ae9a0-d2d2-45a5-a4e3-e4c362d632b1"
+title = "Christine / Dans le noir"
+type = "single"
+date = "2013-11-04"
+spotify = "4NiqoDDJQceFTwLsMRIHjS"
+tracks = [
+  { n = 1, title = "Christine", mbid = "c9c43f39-08d9-47a5-b224-fdff802300fc" },
+  { n = 2, title = "Dans le noir", mbid = "eda8ada5-de3b-4011-95eb-1a3e603d49e0" },
+]
+
+[[release]]
+mbid = "c4b7cc80-6336-4cd9-b5e7-38c3cf4f1af5"
+title = "La Fin du monde / Marche"
+type = "single"
+date = "2014"
+spotify = "0wqygc3zQTBvWCbc4RPq06"
+tracks = [
+  { n = 1, title = "La Fin du monde", mbid = "a826fb50-ccbb-47d1-9b7f-26d807c99846" },
+  { n = 2, title = "Marche", mbid = "c5175aab-cc07-4061-b576-7559e435db79" },
+]
+
+[[release]]
+mbid = "3baf1484-e48c-4140-a02f-84db3b29570a"
+title = "Marabout"
+type = "single"
+date = "2015-06-15"
+spotify = "1IdPkq7RXNC1qPBin1Goqy"
+tracks = [
+  { n = 1, title = "Marabout", mbid = "4512745f-092f-4be8-9e31-5832989e7bd1" },
+]
+
+[[release]]
+mbid = "28d75776-b626-45f8-9f40-3d057fdb504d"
+title = "Marabout"
+type = "ep"
+date = "2015-11-20"
+spotify = "1DzFOmCnbwGtZlmoK1VyCr"
+tracks = [
+  { n = 1, title = "Mon autre", mbid = "61decb09-f8fb-4952-a33f-d50bef41e1cb" },
+  { n = 2, title = "Cavalier solitaire", mbid = "e3f14052-911f-433b-bcea-e0804b16ea99" },
+  { n = 3, title = "Je fais le mort", mbid = "44793c35-2bc2-426b-8468-9ddb18f60520" },
+  { n = 4, title = "Marabout", mbid = "4512745f-092f-4be8-9e31-5832989e7bd1" },
+  { n = 5, title = "À la plage", mbid = "6f49e7bf-ea39-470b-9ed3-f60ee44b94b0" },
+  { n = 6, title = "Animal", mbid = "3fadc6cc-5460-40c5-85dc-de22543ff81a" },
+]
+
+[[release]]
+mbid = "a8b75742-2c5d-4706-a973-12072a458939"
+title = "La Route"
+type = "single"
+date = "2016-04-22"
+spotify = "1iPICb35LIbXTNWr4RYi02"
+tracks = [
+  { n = 1, title = "La Route", mbid = "b041cdc1-6792-4a75-ab41-2ec2d993c88f" },
+]
+
+[[release]]
+mbid = "966e1b82-36b4-43e3-b562-ea4a7ce3d05f"
+title = "Juniore"
+type = "album"
+date = "2016-05-20"
+spotify = "5LwyECqq41iEKBWgZtsH6k"
+tracks = [
+  { n = 1, title = "Christine", mbid = "c9c43f39-08d9-47a5-b224-fdff802300fc" },
+  { n = 2, title = "Dans le noir", mbid = "eda8ada5-de3b-4011-95eb-1a3e603d49e0" },
+  { n = 3, title = "La Fin du monde", mbid = "a826fb50-ccbb-47d1-9b7f-26d807c99846" },
+  { n = 4, title = "Marche", mbid = "c5175aab-cc07-4061-b576-7559e435db79" },
+  { n = 5, title = "La Route", mbid = "b041cdc1-6792-4a75-ab41-2ec2d993c88f" },
+  { n = 6, title = "Mon autre", mbid = "61decb09-f8fb-4952-a33f-d50bef41e1cb" },
+  { n = 7, title = "Cavalier solitaire", mbid = "e3f14052-911f-433b-bcea-e0804b16ea99" },
+  { n = 8, title = "Je fais le mort", mbid = "44793c35-2bc2-426b-8468-9ddb18f60520" },
+  { n = 9, title = "Marabout", mbid = "4512745f-092f-4be8-9e31-5832989e7bd1" },
+  { n = 10, title = "A la plage", mbid = "6f49e7bf-ea39-470b-9ed3-f60ee44b94b0" },
+  { n = 11, title = "Animal", mbid = "3fadc6cc-5460-40c5-85dc-de22543ff81a" },
+]
+
+[[release]]
+mbid = "15313e17-2aab-4394-9a1e-713e24c73b97"
+title = "Panique"
+type = "single"
+date = "2016-11-03"
+spotify = "6X6ZlguCAHsZYS7hh7l9bH"
+tracks = [
+  { n = 1, title = "Panique", mbid = "dd775c00-a210-406f-aa1e-284407ca89b2" },
+]
+
+[[release]]
+mbid = "f2f1050b-4a2c-4385-b1e4-286838aafe04"
+title = "Ouh là là"
+type = "album"
+date = "2017-03-03"
+spotify = "6RB5mSX5nzZo6pJtbFaHtS"
+tracks = [
+  { n = 1, title = "Ouh là là", mbid = "ab64a5c7-2ec1-4d84-9460-c3b498285ad0" },
+  { n = 2, title = "Panique", mbid = "dd775c00-a210-406f-aa1e-284407ca89b2" },
+  { n = 3, title = "Difficile", mbid = "2d5f7b97-afd9-40ac-b32d-2315e0e81534" },
+  { n = 4, title = "Cannibale", mbid = "263c0131-47f7-4a81-8aad-7dba610d2dfc" },
+  { n = 5, title = "L’Accident", mbid = "80d29774-7f32-4f7b-b862-8ceee05ea98d" },
+  { n = 6, title = "Ça balance", mbid = "e3f88d96-1d52-49df-8396-b78830eeed60" },
+  { n = 7, title = "En retard", mbid = "0b591f58-e11d-45ad-bfae-ae1efd44c271" },
+  { n = 8, title = "Extralucide", mbid = "382e2cb6-bdc7-4324-8e71-82ec99a511ec" },
+  { n = 9, title = "Tu vas, tu viens", mbid = "fb7c5a84-12c6-4fb6-816a-af2f9f2a8cd6" },
+  { n = 10, title = "Tout (sinon rien)", mbid = "0a540559-3563-47be-b809-bf242b492c15" },
+  { n = 11, title = "Un twist", mbid = "566c2d3b-6f0a-46f0-88ab-a9dbd1e6ba28" },
+  { n = 12, title = "Le Jour d’après", mbid = "18bc4a33-fdb7-4de4-86d7-037d0328c1f7" },
+  { n = 13, title = "Antoine", mbid = "875ff06d-225b-4469-82f8-1ad2c57361a0" },
+  { n = 14, title = "En cavale", mbid = "09e42922-aafc-4fb9-b3d4-f38af36d206d" },
+]
+
+[[release]]
+mbid = "c1531ffb-a8b5-409f-ac60-6848514d611f"
+title = "Ah bah d'accord"
+type = "single"
+date = "2019-04-26"
+tracks = [
+  { n = 1, title = "Ah bah d'accord", mbid = "f0e7008f-54fb-49ed-b2b4-31544f2295e9" },
+]
+
+[[release]]
+mbid = "81f4c8de-5ebf-4827-997b-76569c40796a"
+title = "En solitaire"
+type = "single"
+date = "2019-04-26"
+tracks = [
+  { n = 1, title = "En solitaire", mbid = "35b87410-6e24-4c23-8a32-877a1ec3b098" },
+]
+
+[[release]]
+mbid = "9d80ae80-f2d5-4a4a-9a90-6413d15e8389"
+title = "Un, deux, trois"
+type = "album"
+date = "2020-02-28"
+spotify = "1XUQfPVWud2udFiG0R74OV"
+tracks = [
+  { n = 1, title = "Soudain", mbid = "1796ed02-9996-456d-ad15-e0dd5c9b2065" },
+  { n = 2, title = "Grave", mbid = "c35331da-2ea3-4606-8614-644b31abec1a" },
+  { n = 3, title = "Drôle d'histoire", mbid = "a8c0b4fe-1ce0-48c6-adae-30b7d582bd19" },
+  { n = 4, title = "En Solitaire", mbid = "003645ee-b308-413f-9dfa-ef1648a915ce" },
+  { n = 5, title = "Walili", mbid = "a5cbfff1-9d94-41ba-a25c-b17892afe33d" },
+  { n = 6, title = "La Vérité nue", mbid = "fb0c1018-dbbf-4f59-aaaa-b4ef18bf3523" },
+  { n = 7, title = "Bizarre", mbid = "aec72c58-100a-42bb-8753-ad0bc92a8140" },
+  { n = 8, title = "Tu Mens", mbid = "11c3f84a-a97f-4564-ae5d-1bc3e949535f" },
+  { n = 9, title = "Que la nuit", mbid = "ce2870db-f524-438b-a015-352bbb71fcc5" },
+  { n = 10, title = "Ah Bah d'accord", mbid = "f0e7008f-54fb-49ed-b2b4-31544f2295e9" },
+  { n = 11, title = "Adolescent", mbid = "d514edb9-fb88-4d75-86d0-00df1ce1384f" },
+]
+
+[[release]]
+mbid = "7cf5f37c-c596-42d6-8222-188916282612"
+title = "Le Silence"
+type = "single"
+date = "2024-04-05"
+spotify = "3t6o8bS45YQGnLC5xH3DNU"
+tracks = [
+  { n = 1, title = "Le Silence", mbid = "d2456d70-6bb9-4158-baa5-3bf3f1c19b41" },
+]
+
+[[release]]
+mbid = "8746bc9d-5eef-424a-8a8f-cffffbaf14a8"
+title = "Trois, deux, un"
+type = "album"
+date = "2024-09-13"
+spotify = "20yAmWJJUpuJpB3qkkWCng"
+tracks = [
+  { n = 1, title = "Le silence", mbid = "d2456d70-6bb9-4158-baa5-3bf3f1c19b41" },
+  { n = 2, title = "Bowling de Diano Marina", mbid = "4f9372e4-83fe-42ab-9ce8-b19aad2265fc" },
+  { n = 3, title = "Monumental", mbid = "f2d5b4ac-ce31-4116-976a-d4a76ab62a5c" },
+  { n = 4, title = "À quoi bon?", mbid = "4618eaa2-404d-4157-8987-52683e97b471" },
+  { n = 5, title = "Amour fou", mbid = "e2ab0173-7f3c-4c55-8ebb-5c2d5d2e2e8b" },
+  { n = 6, title = "Grand voyageur", mbid = "8bec5a26-c2f3-4ae9-a048-b33b2cced562" },
+  { n = 7, title = "Méditerranée", mbid = "8cb67535-9799-430c-a805-18f4a191847e" },
+  { n = 8, title = "En fumée", mbid = "ad86ec71-4149-4a50-86ee-e861c6c0cd29" },
+  { n = 9, title = "Sauvage", mbid = "d53f1d28-fe15-4227-ad48-dcb398133b54" },
+  { n = 10, title = "Déjà vu", mbid = "4fb712c0-e2f5-438e-873d-6a9bcb74a8b3" },
+  { n = 11, title = "Dans le dos", mbid = "feba5696-2c51-4916-b8d9-c48f4519ea27" },
+  { n = 12, title = "Voilà, voilà", mbid = "5a071714-a549-4d13-9e18-36d642367b9d" },
+  { n = 13, title = "Elle est où?", mbid = "3ac68874-5bfc-4f5f-a4bb-3c9a4521ac85" },
+]

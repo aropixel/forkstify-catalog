@@ -1,0 +1,615 @@
+format = 1
+
+[[release]]
+mbid = "b6f52512-5845-3fe6-be77-c76349978894"
+title = "The London Town EP"
+type = "ep"
+date = "2007-04-11"
+tracks = [
+  { n = 1, title = "London Town", mbid = "16156c62-05aa-4e40-91cb-ea4993f17bfe" },
+  { n = 2, title = "She’s Changed", mbid = "1b7d251d-b424-4e99-9d5f-9bf439a3f9ad" },
+  { n = 3, title = "Failure", mbid = "45e24e2a-e40f-4642-a0dc-e07047437f66" },
+  { n = 4, title = "Tap at My Window", mbid = "edfce012-846c-4e29-8c3d-f08b184e0b93" },
+]
+
+[[release]]
+mbid = "94096f35-45f7-3e25-b6e3-37d0b6580c92"
+title = "My Manic and I"
+type = "ep"
+date = "2007-10-08"
+spotify = "5etO8v0oHhqMMkaANbfhIr"
+tracks = [
+  { n = 1, title = "New Romantic", mbid = "0ed43b2a-765f-4535-a535-fdcc78f29cb3" },
+  { n = 2, title = "Night Terror", mbid = "f151f9a3-fd07-4fda-80b5-536c720dbb32" },
+  { n = 3, title = "My Manic and I", mbid = "99c2750a-6757-4dfa-8698-1b742d6a028a" },
+  { n = 4, title = "Typical", mbid = "562c1dc0-e844-4643-80e8-90bc28ea8203" },
+]
+
+[[release]]
+mbid = "1e70d841-f0c2-4c94-874b-752101f02d6c"
+title = "My Manic and I"
+type = "single"
+date = "2007-10-29"
+spotify = "73ySGvsiJuI9QxBSUs9gAp"
+tracks = [
+  { n = 1, title = "My Manic and I", mbid = "99c2750a-6757-4dfa-8698-1b742d6a028a" },
+]
+
+[[release]]
+mbid = "62b4793a-48d7-49b8-9d90-9c5f294d8421"
+title = "New Romantic"
+type = "single"
+date = "2007-10-29"
+spotify = "6JFqoRTCaPWVPVodQF9f1c"
+tracks = [
+  { n = 1, title = "New Romantic", mbid = "0ed43b2a-765f-4535-a535-fdcc78f29cb3" },
+]
+
+[[release]]
+mbid = "785dca2d-abc6-4783-9027-c44bce423c5e"
+title = "Ghosts"
+type = "single"
+date = "2008-01-28"
+tracks = [
+  { n = 1, title = "Ghosts", mbid = "1f0b53a3-2476-40f9-b590-f7635bb30e33" },
+  { n = 2, title = "Man Sings About Romance", mbid = "1533930d-2b56-4690-88ae-9b5440c55a6a" },
+]
+
+[[release]]
+mbid = "dcf699e6-3948-38fd-a3de-cf6bf0c61030"
+title = "Alas I Cannot Swim"
+type = "album"
+date = "2008-02-11"
+spotify = "6C5vaAEWNO1ayXvYwv45Q2"
+tracks = [
+  { disc = 1, n = 1, title = "Ghosts", mbid = "1f0b53a3-2476-40f9-b590-f7635bb30e33" },
+  { disc = 1, n = 2, title = "Old Stone", mbid = "a82efb75-ec1e-4838-93f3-b585936f0fc9" },
+  { disc = 1, n = 3, title = "Tap at My Window", mbid = "f00b6a3a-d83f-47f7-8f96-3d6768e824c9" },
+  { disc = 1, n = 4, title = "Failure", mbid = "012f832d-bac1-4ff3-b195-d3ed4705cd58" },
+  { disc = 1, n = 5, title = "You’re No God", mbid = "d9b39c53-11f0-4c84-82c7-f3b7ddfcff1b" },
+  { disc = 1, n = 6, title = "Cross Your Fingers", mbid = "8fd4094d-5500-4524-8e36-13cb8a9c1f5c" },
+  { disc = 1, n = 7, title = "Crawled Out of the Sea (interlude)", mbid = "a77930fd-4b8e-4b91-99fe-10a4d78e7b0a" },
+  { disc = 1, n = 8, title = "My Manic and I", mbid = "126c47ad-0bf3-446f-a9b1-2fe8a97c5484" },
+  { disc = 1, n = 9, title = "Night Terror", mbid = "a0e87502-6972-44d2-a6e2-8daf220cf7a2" },
+  { disc = 1, n = 10, title = "The Captain and the Hourglass", mbid = "94618203-222d-41dc-a9bd-bf2c0f74aeab" },
+  { disc = 1, n = 11, title = "Shine", mbid = "06060488-5c54-420d-ac93-142b10159cdb" },
+  { disc = 1, n = 12, title = "Your Only Doll (Dora)", mbid = "ae75685f-1996-4824-afce-dc29735bcd6b" },
+  { disc = 2, n = 1, title = "Shine", mbid = "e1599217-710a-4578-b98c-508c60f1b120" },
+  { disc = 2, n = 2, title = "Ghosts", mbid = "b34ecef7-6093-4a15-8402-3524c73300f5" },
+  { disc = 2, n = 3, title = "Old Stone", mbid = "584f6f72-49fc-4273-b33e-47b71f39c570" },
+  { disc = 2, n = 4, title = "Tap at My Window", mbid = "3af194d6-7431-48fd-8ddc-6e5cc36065f0" },
+  { disc = 2, n = 5, title = "You’re No God", mbid = "12250308-dafa-4068-be0c-ceee964e5de4" },
+  { disc = 2, n = 6, title = "Cross Your Fingers", mbid = "30b5e9d3-f924-44b9-a59a-ffd47a8f3e4c" },
+  { disc = 2, n = 7, title = "Crawled Out of the Sea", mbid = "0a429464-7d49-430c-a263-676f48675045" },
+  { disc = 2, n = 8, title = "My Manic and I", mbid = "31e004b2-1a3a-4688-b347-996f2cab1d51" },
+  { disc = 2, n = 9, title = "Night Terror", mbid = "02dbe91d-9027-40b1-a669-9176616d6d9c" },
+  { disc = 2, n = 10, title = "Your Only Doll (Dora)", mbid = "ded9a676-f6ed-40a2-bfc9-4e00eb9b6539" },
+  { disc = 2, n = 11, title = "Alas I Cannot Swim", mbid = "b6643dca-6d15-416d-ae81-b5513344b039" },
+]
+
+[[release]]
+mbid = "800ef332-7e9b-49ac-bd51-299176fb414c"
+title = "Cross Your Fingers"
+type = "ep"
+date = "2008-06-08"
+spotify = "24hZAWeDL2GWarpFgwDNqn"
+tracks = [
+  { n = 1, title = "Cross Your Fingers", mbid = "c4d8345e-8273-4d2e-9db1-83e313ac0219" },
+  { n = 2, title = "I’m a Fly", mbid = "bf132db6-6189-4962-a844-78c0e05d018e" },
+  { n = 3, title = "Blackberry Stone (demo)", mbid = "342045a8-4ca9-4890-9456-a6c827c5f84b" },
+  { n = 4, title = "Tap at My Window (live From Union Chapel)", mbid = "3af194d6-7431-48fd-8ddc-6e5cc36065f0" },
+  { n = 5, title = "Cross Your Fingers (live From Union Chapel)", mbid = "f203174c-1448-4d72-af80-2da5b0301349" },
+]
+
+[[release]]
+mbid = "0e8a922e-2cff-45d1-b47b-c9961cf48857"
+title = "Cross Your Fingers"
+type = "single"
+date = "2008-06-09"
+spotify = "3hsuptJXaR8IbSDFgOaBYO"
+tracks = [
+  { n = 1, title = "Cross Your Fingers - Single Version", mbid = "c4d8345e-8273-4d2e-9db1-83e313ac0219" },
+  { n = 2, title = "Blackberry Stone - Demo", mbid = "342045a8-4ca9-4890-9456-a6c827c5f84b" },
+]
+
+[[release]]
+mbid = "5819e4ef-16b2-3206-b608-bdbbad17ded7"
+title = "Night Terror"
+type = "ep"
+date = "2008-10-26"
+spotify = "2zU8GywE19tH0eRu8uAVFq"
+tracks = [
+  { n = 1, title = "Night Terror", mbid = "f462e156-6214-4e88-9284-9ea50dceffe2" },
+  { n = 2, title = "Alpha Shallows (demo)", mbid = "ca0c68ad-53d7-416c-9ac4-c6dc8a944398" },
+  { n = 3, title = "Night Terror (live from Union Chapel, London, U.K/2008) (single edit)", mbid = "47974e80-3bc7-40de-b357-c6720b44c90b" },
+  { n = 4, title = "Your Only Doll (Dora) (live from Union Chapel, London, U.K/2008) (single edit)", mbid = "619638bc-85ce-4f5c-b960-c8bc2a46dc13" },
+]
+
+[[release]]
+mbid = "23543e2f-e0fa-4d53-ba26-54e6134bdd73"
+title = "Goodbye England (Covered in Snow)"
+type = "single"
+date = "2009-12-14"
+tracks = [
+  { n = 1, title = "Goodbye England (Covered in Snow)", mbid = "40c92e65-4445-4986-b95d-615b0d35fdf0" },
+]
+
+[[release]]
+mbid = "6deace52-46cd-4d32-a7b1-74ec8bf25db1"
+title = "I Speak Because I Can"
+type = "album"
+date = "2010-03-01"
+spotify = "51BHlvWxEvoaeDaqb44HuF"
+tracks = [
+  { n = 1, title = "Devil’s Spoke", mbid = "c97f01fe-1f33-4d5c-bbca-186f572c7172" },
+  { n = 2, title = "Made by Maid", mbid = "d59d41ca-6118-488c-ac52-352739204363" },
+  { n = 3, title = "Rambling Man", mbid = "808afefd-75d1-47e6-aa79-1c3ae3eac3db" },
+  { n = 4, title = "Blackberry Stone", mbid = "f4488b78-8163-4a8e-aa55-62af7146624a" },
+  { n = 5, title = "Alpha Shallows", mbid = "3950cdf4-918d-493b-a97c-bd8402b389f1" },
+  { n = 6, title = "Goodbye England (Covered in Snow)", mbid = "40c92e65-4445-4986-b95d-615b0d35fdf0" },
+  { n = 7, title = "Hope in the Air", mbid = "ba50ed5a-655e-4dcf-bb7a-255905e2b2cd" },
+  { n = 8, title = "What He Wrote", mbid = "23773db8-6bdc-43ee-abd9-22e334eede01" },
+  { n = 9, title = "Darkness Descends", mbid = "da32ee01-08ca-42af-8b14-9603c64a0316" },
+  { n = 10, title = "I Speak Because I Can", mbid = "5c36bc9f-7c90-4273-9b86-93df9ab7b91c" },
+  { n = 11, title = "Nature of Dust", mbid = "f3025fe4-0891-468f-8195-5e06cd029d7a" },
+]
+
+[[release]]
+mbid = "6615d288-64a3-4287-a433-504b406c25aa"
+title = "Devil’s Spoke"
+type = "single"
+date = "2010-03-12"
+spotify = "4u4RXrG5WOBk50JCrDqviy"
+tracks = [
+  { n = 1, title = "Devil’s Spoke (radio edit)", mbid = "5fc66535-1aa1-4e56-b496-6f564e6097f5" },
+  { n = 2, title = "Devil’s Spoke", mbid = "c97f01fe-1f33-4d5c-bbca-186f572c7172" },
+  { n = 3, title = "Hope in the Air (live from the Royal Festival Hall)", mbid = "c8776508-9e17-4e7e-b8b0-129d714338c2" },
+]
+
+[[release]]
+mbid = "01fd0e7d-ae42-4d50-8130-122ff953e5f4"
+title = "Rambling Man"
+type = "single"
+date = "2010-05-14"
+spotify = "03kScl9DIKgPFrKbjgW2t1"
+tracks = [
+  { n = 1, title = "Rambling Man", mbid = "808afefd-75d1-47e6-aa79-1c3ae3eac3db" },
+  { n = 2, title = "Mama How Far I’ve Come", mbid = "ed2d2e8a-c280-4439-81be-4dcb4cef578a" },
+]
+
+[[release]]
+mbid = "fce2ada1-f3bb-4edc-aa13-e1e8ab0198bb"
+title = "Dharohar Project, Laura Marling and Mumford & Sons"
+type = "ep"
+date = "2010-07-02"
+spotify = "6V0kHQ8pCmG0QeW8IuTNOd"
+tracks = [
+  { n = 1, title = "Devil’s Spoke / Sneh Ko Marg", mbid = "c6bc7e62-f0ed-4450-a436-c2a410f579ce" },
+  { n = 2, title = "To Darkness / Kripa", mbid = "6d48ea22-3e14-47a9-b806-09c30500f52e" },
+  { n = 3, title = "Anmol Rishtey", mbid = "363ee412-516b-4eb5-ad2d-64efd08691b0" },
+  { n = 4, title = "Mehendi Rachi", mbid = "36eda833-7cc0-402f-8650-0031e5f12ab7" },
+]
+
+[[release]]
+mbid = "154e3288-29ee-4a3d-8ede-e632305c9ff2"
+title = "Blues Run the Game"
+type = "single"
+date = "2010-11"
+spotify = "25Dqil85sRtH67ADs2GmrM"
+tracks = [
+  { n = 1, title = "Blues Run the Game", mbid = "1091ee37-3a36-4622-bec8-a7ab3f131778" },
+  { n = 2, title = "The Needle and the Damage Done", mbid = "1a525a72-f864-4903-ae58-970b713a9e57" },
+]
+
+[[release]]
+mbid = "0f5e0af1-0f44-4f52-8640-e337a3c866ca"
+title = "A Creature I Don’t Know"
+type = "album"
+date = "2011-08-04"
+spotify = "6l9AdRG0yVneRu5PNbAvRZ"
+tracks = [
+  { n = 1, title = "The Muse", mbid = "1aabc153-4e06-4134-a2f1-9ce812812155" },
+  { n = 2, title = "I Was Just a Card", mbid = "4de5b8c9-5293-48b4-a54b-9b3a56ab1e18" },
+  { n = 3, title = "Don’t Ask Me Why", mbid = "4e132f54-2aab-49ea-b275-8c1e4644c5bb" },
+  { n = 4, title = "Salinas", mbid = "cd5416b7-a3dd-4893-ab57-3023381764b2" },
+  { n = 5, title = "The Beast", mbid = "230363ca-47c5-4d8a-adb4-783e83f5b3bd" },
+  { n = 6, title = "Night After Night", mbid = "2da82485-cff4-4f1e-8a68-43823ae00a38" },
+  { n = 7, title = "My Friends", mbid = "e4986a1b-ab16-4e9e-b4ed-c0a27c0f5f62" },
+  { n = 8, title = "Rest in the Bed", mbid = "c9f112d8-3f40-4cb3-937e-bb92007099d0" },
+  { n = 9, title = "Sophia", mbid = "698ac8eb-1b35-471b-9386-572a0f021700" },
+  { n = 10, title = "All My Rage", mbid = "8d454be8-86a6-4d36-93a6-de2cbf37bedf" },
+]
+
+[[release]]
+mbid = "2f7eb070-8bbc-4d57-910e-fc453c8f0b03"
+title = "Sophia"
+type = "single"
+date = "2011-08-08"
+spotify = "7yhqIoQkFwPPUqWxXNlg12"
+tracks = [
+  { n = 1, title = "Sophia", mbid = "698ac8eb-1b35-471b-9386-572a0f021700" },
+]
+
+[[release]]
+mbid = "8f994ae8-bd04-44b1-a039-1e706fc5bc8e"
+title = "The Muse"
+type = "single"
+date = "2011-09-05"
+spotify = "2rMcwqeenMXjDiOREVQxIN"
+tracks = [
+  { n = 1, title = "The Muse", mbid = "1aabc153-4e06-4134-a2f1-9ce812812155" },
+]
+
+[[release]]
+mbid = "fa165825-c09a-40c7-97e7-53aa320a0131"
+title = "I Was Just a Card"
+type = "single"
+date = "2011-12-05"
+spotify = "3QjWQzZIdwGDcMyNHDKGEb"
+tracks = [
+  { n = 1, title = "I Was Just a Card", mbid = "4de5b8c9-5293-48b4-a54b-9b3a56ab1e18" },
+]
+
+[[release]]
+mbid = "c1c23cf2-7c00-46dc-9670-7cf5ba2fa48c"
+title = "Flicker and Fail"
+type = "single"
+date = "2012-04-21"
+tracks = [
+  { n = 1, title = "Flicker and Fail", mbid = "7af5ae66-494c-45b6-8477-0813e1886def" },
+  { n = 2, title = "To Be a Woman", mbid = "8f3361c6-3f6c-4159-8d3e-024e44ca4ef0" },
+]
+
+[[release]]
+mbid = "4317554a-806e-40af-a19e-d49b960bbaec"
+title = "Where Can I Go?"
+type = "single"
+date = "2013-03-08"
+tracks = [
+  { n = 1, title = "Where Can I Go?", mbid = "9dbdbfe2-454b-4d6b-a279-ba4965a119b0" },
+]
+
+[[release]]
+mbid = "1030e274-e452-406f-bf34-67fc1409b5e6"
+title = "Master Hunter"
+type = "single"
+date = "2013-04-17"
+spotify = "7dCp0hdO80VFC0iNhiSYOy"
+tracks = [
+  { n = 1, title = "Master Hunter", mbid = "47d91cde-d302-4493-b429-7dc661c13810" },
+]
+
+[[release]]
+mbid = "64b55e16-93e8-4afd-88fb-10c75e180a32"
+title = "Once I Was an Eagle"
+type = "album"
+date = "2013-05-24"
+spotify = "35He6RuwS8C2KjG067Gobl"
+tracks = [
+  { disc = 1, n = 1, title = "Take The Night Off", mbid = "b69515dc-a1e6-420a-bd79-b60e92fb2766" },
+  { disc = 1, n = 2, title = "I Was An Eagle", mbid = "23c9a94d-8225-415e-9a00-0f80094ef7f5" },
+  { disc = 1, n = 3, title = "You Know", mbid = "3c8bb9af-1e7d-475f-9a29-7f20da3e0359" },
+  { disc = 1, n = 4, title = "Breathe", mbid = "c4c57efe-68da-4492-9cce-a57927f3d09f" },
+  { disc = 1, n = 5, title = "Master Hunter", mbid = "47d91cde-d302-4493-b429-7dc661c13810" },
+  { disc = 1, n = 6, title = "Little Love Caster", mbid = "f16313e8-b0b1-47eb-9e6a-2fb43c558e98" },
+  { disc = 1, n = 7, title = "Devil's Resting Place", mbid = "828329cf-b4f6-484d-9caa-5ab54ff929d6" },
+  { disc = 1, n = 8, title = "Interlude", mbid = "f9cf5c0f-6c2b-4d86-a08c-ac7256b5727a" },
+  { disc = 1, n = 9, title = "Undine", mbid = "488a8a65-6aa4-45ed-9531-2437c08705b5" },
+  { disc = 2, n = 1, title = "Where Can I Go?", mbid = "9dbdbfe2-454b-4d6b-a279-ba4965a119b0" },
+  { disc = 2, n = 2, title = "Once", mbid = "c3578977-496b-4f40-a92d-3716337a7aa7" },
+  { disc = 2, n = 3, title = "Pray For Me", mbid = "b027aa18-d518-459c-9f72-f7a9348a0cb0" },
+  { disc = 2, n = 4, title = "When Were You Happy? (And How Long Has That Been)", mbid = "d8342f6f-4342-4b44-bb86-d1740e1231e5" },
+  { disc = 2, n = 5, title = "Love Be Brave", mbid = "f6a274e8-9974-4db3-a7cd-efd83549864d" },
+  { disc = 2, n = 6, title = "Little Bird", mbid = "c5976623-9083-4bf4-b8f8-e1337fb5e92f" },
+  { disc = 2, n = 7, title = "Saved These Words", mbid = "21ea9339-1482-4749-8887-73c7e1cc1bc1" },
+]
+
+[[release]]
+mbid = "7943effd-6c56-4428-85f7-af03e1aba634"
+title = "Bonny Portmore (From Turn)"
+type = "single"
+date = "2014-05-13"
+spotify = "3iKAcWcQgJf6CLjwHYaMbY"
+tracks = [
+  { n = 1, title = "Bonny Portmore - From Turn", mbid = "7b520081-038d-49db-aae3-969723930dd3" },
+]
+
+[[release]]
+mbid = "98b9428d-076f-4958-9692-0b5e33a98756"
+title = "Short Movie"
+type = "single"
+date = "2014-12-16"
+tracks = [
+  { n = 1, title = "Short Movie", mbid = "9ba57bb3-3911-42ae-bc83-d5f90985a05a" },
+]
+
+[[release]]
+mbid = "19527987-b08f-4489-aaf6-75920393663d"
+title = "False Hope"
+type = "single"
+date = "2015-01-22"
+tracks = [
+  { n = 1, title = "False Hope", mbid = "aa86bccc-5f47-4dcd-9086-1fc1f07443bd" },
+]
+
+[[release]]
+mbid = "00cb9fbf-0c5b-4295-8b21-723bb7538fc3"
+title = "Short Movie"
+type = "album"
+date = "2015-03-20"
+spotify = "08cXCARUoHLoccf0y06Dlv"
+tracks = [
+  { n = 1, title = "Warrior", mbid = "afad2147-7889-4f7e-93f9-9cd77dcf38f7" },
+  { n = 2, title = "False Hope", mbid = "aa86bccc-5f47-4dcd-9086-1fc1f07443bd" },
+  { n = 3, title = "I Feel Your Love", mbid = "a2700911-c7e3-40b4-9f94-8c49b7b02e73" },
+  { n = 4, title = "Walk Alone", mbid = "84cc6a2c-9178-4f22-9043-979c117cfe7f" },
+  { n = 5, title = "Strange", mbid = "5ee518bb-4756-4353-a5d2-049467ef1518" },
+  { n = 6, title = "Don’t Let Me Bring You Down", mbid = "b01a03eb-3d72-48e8-ba5d-1e6a4f81d018" },
+  { n = 7, title = "Easy", mbid = "89a2b1d0-0e43-44d7-80aa-3bb4b685df2c" },
+  { n = 8, title = "Gurdjieff’s Daughter", mbid = "c9ec3c86-6e82-4110-8ae0-f1d4518d5910" },
+  { n = 9, title = "Divine", mbid = "0d51e57e-3ed7-44c6-b266-56fd7f33e17a" },
+  { n = 10, title = "How Can I", mbid = "ac29b4de-a7b6-4ee2-9477-b3acf3abe6d6" },
+  { n = 11, title = "Howl", mbid = "326cd64b-6733-45af-a437-67fbd66f532a" },
+  { n = 12, title = "Short Movie", mbid = "9ba57bb3-3911-42ae-bc83-d5f90985a05a" },
+  { n = 13, title = "Worship Me", mbid = "86e40b62-5f2a-461c-9d9d-b7d2f5a64112" },
+  { n = 14, title = "Daisy", mbid = "45ecfd30-067f-4687-823c-9ed292fc22ba" },
+  { n = 15, title = "David", mbid = "17573281-b126-465f-8ffa-29037018f4d0" },
+]
+
+[[release]]
+mbid = "18e85272-3615-4c2c-9dff-8f4396a37297"
+title = "Spotify Sessions"
+type = "ep"
+date = "2015-03-24"
+spotify = "5nohnt8IG9xl1DsIF0LBZ7"
+tracks = [
+  { n = 1, title = "False Hope - Live from Spotify, London", mbid = "777480c8-21c6-4de9-aa7f-fe00f96f72fb" },
+  { n = 2, title = "I Feel Your Love - Live from Spotify, London", mbid = "f548c2d2-85d4-413e-9c8c-6937955cbbac" },
+  { n = 3, title = "Strange - Live from Spotify, London", mbid = "5e609090-3a83-4a6d-b55c-83668d914f07" },
+  { n = 4, title = "Short Movie - Live from Spotify, London", mbid = "c7a2cbbb-14d9-40f7-a062-5f4f248dc136" },
+  { n = 5, title = "Gurdjieff's Daughter - Live from Spotify, London", mbid = "5bc467ab-b123-4d6b-a1ab-58c0a9424330" },
+]
+
+[[release]]
+mbid = "6af67461-ffb8-4a23-9217-c8507cf4d2a8"
+title = "Soothing"
+type = "single"
+date = "2016-11-28"
+spotify = "4nwrreIqpAbyOsLt4Dyztl"
+tracks = [
+  { n = 1, title = "Soothing", mbid = "0eb32958-1669-4037-892d-ecb51f13dea1" },
+]
+
+[[release]]
+mbid = "d286fd76-a7e2-47ff-af34-ee33f4d7c896"
+title = "Wild Fire"
+type = "single"
+date = "2017-01-11"
+spotify = "518sI7MPjvmiuggHsnSE2A"
+tracks = [
+  { n = 1, title = "Wild Fire", mbid = "53f6d12e-1c4a-406d-bf40-f2f827ea99d8" },
+]
+
+[[release]]
+mbid = "c07d0352-2bac-431f-8bec-ebf5dbe64c9a"
+title = "Next Time"
+type = "single"
+date = "2017-02-17"
+spotify = "1Zy088pBhgryO9kaNMjIQQ"
+tracks = [
+  { n = 1, title = "Next Time", mbid = "52fc470f-7430-4fea-8475-7e52b1e34700" },
+]
+
+[[release]]
+mbid = "ed0ab2be-78fb-4108-a493-ad3969a3539a"
+title = "Nothing, Not Nearly"
+type = "single"
+date = "2017-03-03"
+spotify = "0UeGZgTjR3wcXKoKohyPAe"
+tracks = [
+  { n = 1, title = "Nothing, Not Nearly", mbid = "92a84eaa-6d82-4ad7-bed7-acd694c4eda7" },
+]
+
+[[release]]
+mbid = "3037f334-1e40-4d13-98ed-08169120652b"
+title = "Semper Femina"
+type = "album"
+date = "2017-03-10"
+spotify = "25vCo942umSnfQJl6MIOnn"
+tracks = [
+  { n = 1, title = "Soothing", mbid = "0eb32958-1669-4037-892d-ecb51f13dea1" },
+  { n = 2, title = "The Valley", mbid = "62d99810-c623-4932-a9fb-c4b5e78260fb" },
+  { n = 3, title = "Wild Fire", mbid = "53f6d12e-1c4a-406d-bf40-f2f827ea99d8" },
+  { n = 4, title = "Don’t Pass Me By", mbid = "e7abfae7-bd73-4b08-baf5-660d9849bbf0" },
+  { n = 5, title = "Always This Way", mbid = "f293ec07-b85e-422a-b384-32cc6b3eb070" },
+  { n = 6, title = "Wild Once", mbid = "737aff3c-d77d-484f-832e-753719c59226" },
+  { n = 7, title = "Next Time", mbid = "52fc470f-7430-4fea-8475-7e52b1e34700" },
+  { n = 8, title = "Nouel", mbid = "161c73eb-6969-4099-bfb5-1fd2ec67b783" },
+  { n = 9, title = "Nothing, Not Nearly", mbid = "92a84eaa-6d82-4ad7-bed7-acd694c4eda7" },
+]
+
+[[release]]
+mbid = "eac19a8a-fa2c-49b2-8846-e15f9797d0e1"
+title = "Spotify Singles"
+type = "single"
+date = "2017-04-12"
+spotify = "6L8bGsHdlWg26U5SE5ed8w"
+tracks = [
+  { n = 1, title = "Kathy’s Song", mbid = "ce6af9b2-6b58-491a-b975-1ddfc0fb9ed6" },
+  { n = 2, title = "Wild Fire", mbid = "811aa5bb-2379-4855-be58-1337922030d4" },
+]
+
+[[release]]
+mbid = "2da945e9-e00f-4036-958b-5d4d4660b199"
+title = "A Hard Rain's A-Gonna Fall"
+type = "single"
+date = "2017-12-21"
+spotify = "6B9TsVfCDUB3YdEvhb6OeO"
+tracks = [
+  { n = 1, title = "A Hard Rain's A-Gonna Fall", mbid = "d866cbd1-ccee-4688-a0e1-709f026c2060" },
+]
+
+[[release]]
+mbid = "6922eb9e-4b29-4cd9-858b-f09bdb5a7d89"
+title = "Wild Fire (Mahogany Sessions)"
+type = "single"
+date = "2018-02-23"
+spotify = "6F1c3tRKXOHVntGNYAismg"
+tracks = [
+  { n = 1, title = "Wild Fire - Mahogany Sessions", mbid = "59b390d9-4e66-4107-ae82-03fdb37fe1d0" },
+]
+
+[[release]]
+mbid = "b44c4e7b-90e0-476f-a994-b6872ed0c460"
+title = "Held Down"
+type = "single"
+date = "2020-04-05"
+spotify = "0Mgg0Wv09HVGKnfj33Zo1K"
+tracks = [
+  { n = 1, title = "Held Down", mbid = "b579dc41-d1f8-4e51-8a97-5d334e84e286" },
+]
+
+[[release]]
+mbid = "e4e28081-77ff-48c9-b0fe-83caa712d55a"
+title = "Cloak of the Night"
+type = "single"
+date = "2020-04-09"
+spotify = "1WV8bnxDTjeo5r1JHNkbrw"
+tracks = [
+  { n = 1, title = "Cloak of the Night", mbid = "750dd83a-391c-4d08-a13a-8c787a6bb7ac" },
+]
+
+[[release]]
+mbid = "95335b28-967c-49a2-bbc1-952c9fd0fb58"
+title = "Song for Our Daughter"
+type = "album"
+date = "2020-04-10"
+spotify = "0ubXthGSkZfe30Nuj91lcu"
+tracks = [
+  { n = 1, title = "Alexandra", mbid = "a60d048e-0e7d-4091-b53b-1dc4778333cf" },
+  { n = 2, title = "Held Down", mbid = "b579dc41-d1f8-4e51-8a97-5d334e84e286" },
+  { n = 3, title = "Strange Girl", mbid = "6780b083-1eae-44fa-b104-e4bf85d38ad0" },
+  { n = 4, title = "Only the Strong", mbid = "8795756c-e0ea-4f70-8217-96dfd8dc8a73" },
+  { n = 5, title = "Blow by Blow", mbid = "6606efed-53cf-4d4d-b565-d83c9d3f58f6" },
+  { n = 6, title = "Song for Our Daughter", mbid = "556122d9-f099-4044-8351-f982dee217e0" },
+  { n = 7, title = "Fortune", mbid = "53668192-0651-4d4c-9b20-913f9d2633b5" },
+  { n = 8, title = "The End of the Affair", mbid = "06eab804-f1cf-4476-bf68-0aa925329633" },
+  { n = 9, title = "Hope We Meet Again", mbid = "23cf67b0-e231-4147-9ce1-4671280f5b67" },
+  { n = 10, title = "For You", mbid = "1d71bf8d-4a20-46e7-95ad-77a5c51fd6b8" },
+]
+
+[[release]]
+mbid = "36b2f3fd-bded-4763-aef0-2f0c07c1c123"
+title = "Red Right Hand"
+type = "single"
+date = "2020-06-12"
+spotify = "2yZi1VdP9h24tp6QpOWptV"
+tracks = [
+  { n = 1, title = "Red Right Hand", mbid = "2abb9aaa-dc47-42a4-92fe-d0e1ca4f96cb" },
+]
+
+[[release]]
+mbid = "a9302323-d3f6-4bac-93ba-21afe0693f7e"
+title = "The Lockdown Sessions"
+type = "ep"
+date = "2020-12-04"
+spotify = "6Cb4QWuOky4I5GcjcXQwvf"
+tracks = [
+  { n = 1, title = "Song for Our Daughter", mbid = "ad291cb7-5379-44cb-9f5c-38b318488a3b" },
+  { n = 2, title = "Fortune", mbid = "70a3ad39-7f19-4a04-bc1f-71745d7c0a78" },
+  { n = 3, title = "Hope We Meet Again", mbid = "f085875c-67ae-4e08-8e40-04763eabe275" },
+  { n = 4, title = "The End of the Affair", mbid = "8246beba-cb9c-4902-a395-825fe66ea32a" },
+]
+
+[[release]]
+mbid = "707be434-db7e-438d-b55d-c2fc7fdb80e9"
+title = "Tough Love"
+type = "single"
+date = "2023-07-19"
+spotify = "4tPrGiSt9vsolF3jqexC7u"
+tracks = [
+  { n = 1, title = "Tough Love", mbid = "79232571-cdb4-44cf-9a03-92f23dfc7861" },
+]
+
+[[release]]
+mbid = "41dcbed1-b58c-47c6-a907-250468ec3635"
+title = "Patterns"
+type = "single"
+date = "2024-07-10"
+spotify = "29MViHy67UeTHm5NrfPBlY"
+tracks = [
+  { n = 1, title = "Patterns", mbid = "3d4b3297-bf15-47b9-8c8b-163cdbdad3ec" },
+]
+
+[[release]]
+mbid = "d409f26f-26f6-483b-9ede-504579e7ddfa"
+title = "No One’s Gonna Love You Like I Can"
+type = "single"
+date = "2024-08-21"
+spotify = "5JoMxxvtDzOfaIW1YOYxSu"
+tracks = [
+  { n = 1, title = "No One's Gonna Love You Like I Can", mbid = "ae309ad5-3b80-44e3-9794-e19509ffd0ef" },
+  { n = 2, title = "Patterns", mbid = "3d4b3297-bf15-47b9-8c8b-163cdbdad3ec" },
+]
+
+[[release]]
+mbid = "3eb047e5-0dd2-4b0d-9274-20b437212bef"
+title = "Child of Mine"
+type = "single"
+date = "2024-09-24"
+spotify = "0nWkIJZCHME0A12B5qyuYG"
+tracks = [
+  { n = 1, title = "Child of Mine", mbid = "d34ad071-da62-41ef-a85b-e476d0145b53" },
+  { n = 2, title = "No One’s Gonna Love You Like I Can", mbid = "ae309ad5-3b80-44e3-9794-e19509ffd0ef" },
+  { n = 3, title = "Patterns", mbid = "3d4b3297-bf15-47b9-8c8b-163cdbdad3ec" },
+]
+
+[[release]]
+mbid = "0f217ed3-8cc7-4154-9b25-f02ae2215a04"
+title = "Patterns in Repeat"
+type = "album"
+date = "2024-10-25"
+spotify = "11Y2eh6LX6am0lYyjfCW3W"
+tracks = [
+  { n = 1, title = "Child of Mine", mbid = "d34ad071-da62-41ef-a85b-e476d0145b53" },
+  { n = 2, title = "Patterns", mbid = "3d4b3297-bf15-47b9-8c8b-163cdbdad3ec" },
+  { n = 3, title = "Your Girl", mbid = "380c4734-12e6-4aa1-9a5a-87b6f482dd14" },
+  { n = 4, title = "No One’s Gonna Love You Like I Can", mbid = "ae309ad5-3b80-44e3-9794-e19509ffd0ef" },
+  { n = 5, title = "The Shadows", mbid = "aa75b2c2-b12d-4085-8f4c-1f2b23219d85" },
+  { n = 6, title = "Interlude (Time Passages)", mbid = "bf512415-1c27-43e4-ae79-8ed94ce41ae7" },
+  { n = 7, title = "Caroline", mbid = "2fac33a4-3b58-49f2-b989-ac2d205b7f9b" },
+  { n = 8, title = "Looking Back", mbid = "96f51841-70dc-467e-99d3-637856eeff8d" },
+  { n = 9, title = "Lullaby", mbid = "c736f285-74fd-4773-bc15-f19d8a0a374c" },
+  { n = 10, title = "Patterns in Repeat", mbid = "57703699-1f06-4e5b-8db4-51cf4bba9fd5" },
+  { n = 11, title = "Lullaby (instrumental)", mbid = "e2cd9509-1910-498d-b73c-e8ee89c4f0dd" },
+]
+
+[[release]]
+mbid = "a60951b5-f63e-470a-94b5-a9ac158ed812"
+title = "Laura Sings Raffi"
+type = "album"
+date = "2024-11-29"
+spotify = "4xtMbryUpg7PGlo10knqC6"
+tracks = [
+  { n = 1, title = "Peanut Butter Sandwich", mbid = "7ddeb26f-7d9f-401a-9a21-68ab399a4285" },
+  { n = 2, title = "Baby Beluga", mbid = "26a23358-b9c5-4fec-83c5-b99831b9b538" },
+  { n = 3, title = "The More We Get Together", mbid = "198963a5-9d12-4369-a545-5752b1ff6b73" },
+  { n = 4, title = "Mr Sun", mbid = "4dd7c4ce-10b0-45be-8d2f-64a4dc77baed" },
+  { n = 5, title = "5 Green and Speckled Frogs", mbid = "ea2e7cb1-c8c4-4d40-89d6-4f65105dccf2" },
+  { n = 6, title = "6 Little Ducks", mbid = "5642aecf-4690-46a5-a23a-ead6e22b4612" },
+  { n = 7, title = "I Wonder If I'm Growing", mbid = "4107535e-8040-4aaf-b50e-f776063830fc" },
+  { n = 8, title = "Down by the Bay", mbid = "a2132f1f-6c3c-4332-86dc-13f78495bfb6" },
+  { n = 9, title = "One Light One Sun", mbid = "1fd358eb-f0a4-4dd4-aede-c05dcf789979" },
+  { n = 10, title = "Robin in the Rain", mbid = "2173a5fa-8e3f-4385-b56a-6b63bdc774f9" },
+  { n = 11, title = "Thanks a Lot", mbid = "e70aab5e-48a1-492c-bf6c-07b96bc7559b" },
+]
+
+[[release]]
+mbid = "30a6aa32-cbc6-4e19-a53a-c3555e2a6a21"
+title = "Skin"
+type = "single"
+date = "2025-03-19"
+spotify = "1ztX1XvW9xPDdgJKObXKRG"
+tracks = [
+  { n = 1, title = "Skin", mbid = "11728ca4-11ce-4119-b82b-fdec9473b69a" },
+]

@@ -1,0 +1,555 @@
+format = 1
+
+[[release]]
+mbid = "975c19a2-eaaf-3b18-b53f-c2f0f2d87ca1"
+title = "Caught Out There"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Caught Out There (UK radio edit)", mbid = "ffff9239-3057-4221-a516-9d4e0c9117e7" },
+  { n = 2, title = "Caught Out There (The Neptunes extended mix)", mbid = "92473500-a43c-4ada-b1a1-621088ce8c64" },
+  { n = 3, title = "Suspended", mbid = "d776cf75-9dac-4a32-bf1e-cdd10e75bd77" },
+]
+
+[[release]]
+mbid = "7ba83c83-5641-39a2-97b7-2ed84b3df561"
+title = "Got Your Money"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Got Your Money (amended version)", mbid = "f05136b3-a507-4e6a-8f4b-99c8abe61bdb" },
+  { n = 2, title = "Got Your Money (original version)", mbid = "686d345a-8971-444f-b97c-30664abc3d7c" },
+  { n = 3, title = "Rollin’ Wit You (original version)", mbid = "fde2f358-009a-4cf8-a230-5ccbc8fb3a3d" },
+]
+
+[[release]]
+mbid = "4ea68d9e-7e06-30ea-8b29-3d8195b302c7"
+title = "Kaleidoscope"
+type = "album"
+date = "1999-12-07"
+spotify = "2QFua4q4idl0jgRavneYZ9"
+tracks = [
+  { n = 1, title = "Intro", mbid = "c424f2f7-7c5c-4643-8737-7b23ccb03cd1" },
+  { n = 2, title = "Good Stuff", mbid = "a0c69f52-dc10-427c-920e-ae59dc308f08" },
+  { n = 3, title = "Caught Out There", mbid = "ba1f1cc6-dfa3-4bb1-b8cc-0df23d678afa" },
+  { n = 4, title = "Get Along With You", mbid = "f7af1040-9f54-4517-87e5-c3f572909e27" },
+  { n = 5, title = "Mafia", mbid = "bd1f8c85-0610-4190-b51c-24f1e47c329b" },
+  { n = 6, title = "Game Show", mbid = "4d5736d0-6a15-4ca7-b0b1-8d8a78398e7d" },
+  { n = 7, title = "Suspended", mbid = "d776cf75-9dac-4a32-bf1e-cdd10e75bd77" },
+  { n = 8, title = "Mars", mbid = "fcda46a3-6659-4930-ad1d-4e38daa5f0e4" },
+  { n = 9, title = "Ghetto Children", mbid = "6f17f4dc-74ba-4488-94b5-779384108419" },
+  { n = 10, title = "I Want Your Love", mbid = "bea9e9c8-bcaf-4095-bcee-24bb4918924c" },
+  { n = 11, title = "No Turning Back", mbid = "ab96fdb1-cbcd-4323-a265-ff63a0e34efa" },
+  { n = 12, title = "Roller Rink", mbid = "41e317f9-14f9-4da4-8436-d925fc73e983" },
+  { n = 13, title = "In the Morning", mbid = "f463133c-0961-4e04-a362-b0341387be3e" },
+  { n = 14, title = "Wouldn’t You Agree", mbid = "a59de2bd-aab6-4db1-bd3f-3a50945b636b" },
+]
+
+[[release]]
+mbid = "e84be3cc-462c-3a0d-ae8c-c03ff097eacb"
+title = "Good Stuff"
+type = "single"
+date = "2000-06-05"
+tracks = [
+  { n = 1, title = "Good Stuff", mbid = "a0c69f52-dc10-427c-920e-ae59dc308f08" },
+  { n = 2, title = "Good Stuff (Forces of Nature radio edit mix)", mbid = "544ff454-9775-4190-91ef-3b2d9a274178" },
+  { n = 3, title = "Good Stuff (Junior's Transatlantic mix)", mbid = "2af5902d-e64f-4eb0-ba14-f095b36e2e85" },
+]
+
+[[release]]
+mbid = "f7b9c78f-a08c-4d1d-a45b-005cf0092594"
+title = "Honey"
+type = "single"
+date = "2000-10"
+tracks = [
+  { n = 1, title = "Honey (remix edit)", mbid = "fb2d9bbb-560e-444c-81b4-37c83f36fdfc" },
+  { n = 2, title = "Flower", mbid = "628d77c0-ac51-47f4-af66-0405b0adc4f5" },
+  { n = 3, title = "Sun Never Stops Setting", mbid = "7d15a50f-9d37-4901-8e00-12b4597e0d33" },
+  { n = 4, title = "Honey (Sharam Jey's Sweet Honey mix)", mbid = "487c046e-af78-4936-a431-2f8e3590ca65" },
+  { n = 5, title = "Honey (original)", mbid = "d81636fe-0714-439e-86cc-2cf727139353" },
+]
+
+[[release]]
+mbid = "e4353fda-ac9e-3f09-94c7-6a156d9da20d"
+title = "Get Along With You"
+type = "single"
+date = "2000-10-09"
+tracks = [
+  { n = 1, title = "Get Along With You", mbid = "f7af1040-9f54-4517-87e5-c3f572909e27" },
+  { n = 2, title = "Get Along With You (Soul Inside radio mix)", mbid = "671f490a-7ca0-4584-baa7-8840005f0ba8" },
+  { n = 3, title = "Get Along With You (Bump & Flex radio edit)", mbid = "db1d7e82-3917-4fa8-8790-043788fd0d25" },
+  { n = 4, title = "Get Along With You (Morales radio edit)", mbid = "6bf80948-b981-45b9-95ef-41d47abb029d" },
+]
+
+[[release]]
+mbid = "55826e77-d684-4676-bd20-a308a4c6c7c9"
+title = "Supa Love"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Supa Love", mbid = "10ff91c1-5654-4726-8ef7-0c68c05c3056" },
+  { n = 2, title = "Supa Love (instrumental)", mbid = "b9a0f3f1-f0a2-4e75-9a22-a80adb00f20c" },
+  { n = 3, title = "Trust Me", mbid = "5ea0e4f3-a699-4140-8fa1-c660d5e12f99" },
+]
+
+[[release]]
+mbid = "20f92081-4880-3243-8065-ee8b5969525e"
+title = "Wanderland"
+type = "album"
+date = "2001-10-17"
+spotify = "0oVfSWG46NWpFt1mpm1TWF"
+tracks = [
+  { n = 1, title = "Intro", mbid = "cc5d87f2-842e-421a-a117-33251c69e993" },
+  { n = 2, title = "Young, Fresh n' New", mbid = "4f7026b0-d166-4c07-a116-eccd78789099" },
+  { n = 3, title = "Flash Back", mbid = "63638c4f-0cba-4d55-92d0-68bad932ed95" },
+  { n = 4, title = "Popular Thug", mbid = "8422ccd6-c8f4-4c3f-ac8f-2497794e6dbe" },
+  { n = 5, title = "Daddy", mbid = "2a37569c-88fc-4e08-aa93-1539a412d31c" },
+  { n = 6, title = "Scared Money", mbid = "a95f0e88-65d4-4b05-994e-2fc00129031b" },
+  { n = 7, title = "Shooting Stars", mbid = "63ef736f-bc17-4488-a124-eeb31c218cff" },
+  { n = 8, title = "Digital World", mbid = "686c5420-2242-4b85-9d8e-684b56577610" },
+  { n = 9, title = "Perfect Day", mbid = "bf55d054-6ab4-4168-a2fb-4c8a8179b660" },
+  { n = 10, title = "Easy Come, Easy Go", mbid = "4954320b-24ae-42d0-8460-4978fb555129" },
+  { n = 11, title = "Junkie", mbid = "894c0028-4737-4a38-a5c4-2f3b4f00f39b" },
+  { n = 12, title = "Get Even", mbid = "010d14c8-54bc-4d2b-aaf7-7ffbf3df314c" },
+  { n = 13, title = "Mr. U.F.O. Man", mbid = "2e4a0818-5218-4558-bc30-9be1732a6548" },
+  { n = 14, title = "Little Suzie", mbid = "e799f49f-963c-4b0d-b603-4647719899a8" },
+  { n = 15, title = "Star Wars", mbid = "de6a5262-d627-48b8-a6fc-4aa54affdb37" },
+]
+
+[[release]]
+mbid = "b3296fc5-7bff-3d87-a25a-7118098613db"
+title = "Young, Fresh n’ New"
+type = "single"
+date = "2001-10-22"
+tracks = [
+  { n = 1, title = "Young, Fresh n' New (UK radio edit)", mbid = "d94d3984-b1fe-43aa-9110-33eeb1ae276e" },
+  { n = 2, title = "Young, Fresh n' New (Timo Maas remix - Full vocal)", mbid = "8b0157e7-ea89-4609-80ad-06c7ae5a2443" },
+  { n = 3, title = "Young, Fresh n' New (So Solid remix - Full vocal)", mbid = "92d4d923-a326-4003-9795-3b99c109814c" },
+]
+
+[[release]]
+mbid = "bb846451-8e90-38db-92eb-217caab026d2"
+title = "Help Me"
+type = "single"
+date = "2002-09-23"
+tracks = [
+  { n = 1, title = "Help Me (Original Version)", mbid = "513aef23-3829-4b7d-b775-658d59690c00" },
+  { n = 2, title = "Help Me (Deep Dish Attacks Mars Remix)", mbid = "212b873d-d491-469a-a387-cad42a2c67dc" },
+  { n = 3, title = "Help Me (LocoDice Remix)", mbid = "ba7162bf-00e9-4417-819a-099a5d17beb3" },
+  { n = 4, title = "Help Me (Original Version Instrumental)", mbid = "063193e6-32f5-4143-a218-787c0f1297c2" },
+]
+
+[[release]]
+mbid = "9e53ae93-3242-3a27-a7bc-3c4fc252e185"
+title = "Let’s Get Ill"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Let’s Get Ill (Master mix radio edit)", mbid = "a7a2d198-528b-49e3-a268-641e367cdf9b" },
+  { n = 2, title = "Let’s Get Ill (Deep Dish mix radio edit)", mbid = "4d085257-3032-4f99-82b8-28ecbfe7e33d" },
+  { n = 3, title = "Let’s Get Ill (Master mix)", mbid = "f84c0866-6d29-43c4-8406-cccb12d5c06c" },
+  { n = 4, title = "Let’s Get Ill (Deep Dish mix)", mbid = "87a1a6ba-78fb-4edf-bada-8bda09bfc2d7" },
+  { n = 5, title = "Let’s Get Ill (Darren Emmerson Underwater mix)", mbid = "bf21ef30-b6e1-46b7-a436-5cb6535b764c" },
+]
+
+[[release]]
+mbid = "cc030328-bc94-326d-8388-4e46c313aebe"
+title = "Milkshake"
+type = "single"
+date = "2003"
+spotify = "3n5OjN98AqFhw1yFBbxmPo"
+tracks = [
+  { n = 1, title = "Milkshake (radio mix)", mbid = "d30afdee-6014-480f-884c-8ff8259cb27c" },
+]
+
+[[release]]
+mbid = "91ebebdc-dd3a-4732-a294-300dea3a0c38"
+title = "Tasty"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Untitled", mbid = "ef562a91-fdd7-428f-9ae9-df3a353d01a2" },
+  { n = 2, title = "Untitled", mbid = "f6166e82-a2aa-4324-9e50-8a5a3d9ce11a" },
+  { n = 3, title = "Untitled", mbid = "7106a71c-ddd4-4862-ae07-6dfc7ab72db5" },
+]
+
+[[release]]
+mbid = "eb0642e9-7be9-3983-a648-9faa1edeac9f"
+title = "Finest Dreams"
+type = "single"
+date = "2003-08-11"
+tracks = [
+  { n = 1, title = "Finest Dreams", mbid = "55490033-bb77-49bd-b788-c024315430e8" },
+  { n = 2, title = "Finest Dreams, Part Two", mbid = "f8370326-73ba-4a23-abc4-819ca9451dc1" },
+  { n = 3, title = "Music for an Imaginary Mobile Phone Commercial", mbid = "88374505-e4b6-476f-a6ae-d8826334b448" },
+]
+
+[[release]]
+mbid = "80310857-68e9-3c44-a6ce-a15232c1ddbf"
+title = "Tasty"
+type = "album"
+date = "2003-12-08"
+tracks = [
+  { n = 1, title = "Intro", mbid = "a7a51a7e-8a48-45d6-ae4d-7ebc430a7f70" },
+  { n = 2, title = "Trick Me", mbid = "b9cecd74-d256-4499-be54-71f0006a2505" },
+  { n = 3, title = "Milkshake", mbid = "d30afdee-6014-480f-884c-8ff8259cb27c" },
+  { n = 4, title = "Keep It Down", mbid = "4fc9af54-d1eb-4430-af6d-7a8ea6ea95a3" },
+  { n = 5, title = "In Public", mbid = "db5eea0f-e032-4a02-b8af-0ae655908d1e" },
+  { n = 6, title = "Flashback", mbid = "1aba4dd0-9e60-4d9f-85ef-8311fb825862" },
+  { n = 7, title = "Protect My Heart", mbid = "875ad84f-0af8-46c3-908e-0e3653dc20f7" },
+  { n = 8, title = "Millionaire", mbid = "6c354af0-6022-45f8-887d-cacba20f08bd" },
+  { n = 9, title = "Glow", mbid = "fb01f070-17ee-467a-b6db-d0c277fc98cc" },
+  { n = 10, title = "Sugar Honey Iced Tea", mbid = "1c688def-53a8-4df9-8cd3-e97433d39f31" },
+  { n = 11, title = "Attention", mbid = "2432f808-8dce-4969-b49f-6c431aac749a" },
+  { n = 12, title = "Rolling Through the Hood", mbid = "1c3673db-99c8-4267-955e-5e7281c50d7a" },
+  { n = 13, title = "Stick Up", mbid = "20ccad7f-3bc2-4b76-b08f-4fb2e2be09c4" },
+  { n = 14, title = "Marathon", mbid = "340e24d5-283d-4943-8ae0-a2a682bd253e" },
+]
+
+[[release]]
+mbid = "4a555fea-1928-42a5-be6d-e68364332fc5"
+title = "Not in Love"
+type = "single"
+date = "2004-03-08"
+tracks = [
+  { n = 1, title = "Not in Love (radio mix)", mbid = "cba53bf4-801d-4344-a729-80fe79b4e4bf" },
+  { n = 2, title = "Not in Love (album version)", mbid = "6f3adf07-8921-48ad-90fa-344e2df2a974" },
+]
+
+[[release]]
+mbid = "ffeb1b0a-ea02-3c47-941e-2320b96039ac"
+title = "Trick Me"
+type = "single"
+date = "2004-05-24"
+tracks = [
+  { n = 1, title = "Trick Me", mbid = "b9cecd74-d256-4499-be54-71f0006a2505" },
+  { n = 2, title = "Trick Me (Mac & Toolz extended remix)", mbid = "8f46dc9d-2f4c-4437-b2ab-816735b8b598" },
+  { n = 3, title = "Trick Me (Artificial Intelligence remix)", mbid = "27bc40e6-788b-42aa-b481-50db41199987" },
+  { n = 4, title = "Trick Me (Adam Freeland remix)", mbid = "b0f654a5-cd75-4a04-9702-6f16ff63758c" },
+]
+
+[[release]]
+mbid = "926f8b73-f466-32a4-b885-7175bdce4d19"
+title = "Millionaire"
+type = "single"
+date = "2004-10-18"
+tracks = [
+  { n = 1, title = "Millionaire (radio edit)", mbid = "0367e772-fdbe-411d-ac9f-feee43625004" },
+  { n = 2, title = "Millionaire (instrumental)", mbid = "450aa6aa-cec8-4ff9-82af-923278103c9a" },
+]
+
+[[release]]
+mbid = "2f4d6ac0-f5b4-3fe0-bfd5-50b7fb7f200a"
+title = "In Public"
+type = "single"
+date = "2005-04-04"
+tracks = [
+  { n = 1, title = "In Public (radio edit)", mbid = "15645c67-0d80-490c-a456-8de1cfaca0e9" },
+  { n = 2, title = "Trick Me", mbid = "b6e64a68-6b05-4871-b7e7-72f4c280b5f4" },
+]
+
+[[release]]
+mbid = "3e32fd88-2c40-32ec-92f1-a04e0f37102e"
+title = "Bossy"
+type = "single"
+date = "2006-04-14"
+spotify = "5umqzJgqZDdVw30i5GOH1f"
+tracks = [
+  { n = 1, title = "Bossy (clean)", mbid = "de37966a-cba9-44d0-8386-432a6b2db4af" },
+  { n = 2, title = "Bossy (instrumental)", mbid = "c1791497-0cc9-4f93-bd07-0fdc8fadac80" },
+  { n = 3, title = "Bossy (main)", mbid = "2f6c3977-d8bb-4603-8062-267925f799c0" },
+  { n = 4, title = "Bossy (acappella)", mbid = "3d725f4a-489b-4ce4-8c3f-1c12024e7dc5" },
+]
+
+[[release]]
+mbid = "fd67989b-c418-37b0-9fb2-19391896e897"
+title = "I Love My Chick"
+type = "single"
+date = "2006-06-05"
+tracks = [
+  { n = 1, title = "I Love My Chick", mbid = "6a6aa8af-5f8d-4112-a300-e333bd19f616" },
+  { n = 2, title = "I Love My Bitch", mbid = "e5df0e20-b2d6-4d6e-8af3-cf99f6ddd733" },
+  { n = 3, title = "Cocaina", mbid = "7ebd42cf-200f-4986-b838-b1a3ef4c4851" },
+]
+
+[[release]]
+mbid = "a0b1b56d-744f-343c-ac7f-a7a7755a2fc7"
+title = "Kelis Was Here"
+type = "album"
+date = "2006-08-22"
+spotify = "4WJoghWxyWEYtVNDn1eFYl"
+tracks = [
+  { n = 1, title = "Intro", mbid = "c20496c5-de49-43a9-82f4-2bebf3d366f4" },
+  { n = 2, title = "Bossy", mbid = "2f6c3977-d8bb-4603-8062-267925f799c0" },
+  { n = 3, title = "What’s That Right There", mbid = "fcbf9826-f09b-4d1d-b939-8eb609d7a9e3" },
+  { n = 4, title = "Till the Wheels Fall Off", mbid = "5776ccca-6299-4fa6-8fe5-155af30c0b3d" },
+  { n = 5, title = "Living Proof", mbid = "929d8ced-b546-472e-bdcf-b6cc04852e1d" },
+  { n = 6, title = "Blindfold Me", mbid = "b2739590-69b8-45eb-814c-1be677de2801" },
+  { n = 7, title = "Goodbyes", mbid = "400b3cd0-f01d-4cee-94e8-637c26386215" },
+  { n = 8, title = "Trilogy", mbid = "314f955e-7e1f-4eac-b104-faf71a7a8c31" },
+  { n = 9, title = "Circus", mbid = "13523e70-b22c-444d-981b-1c7f8fe02857" },
+  { n = 10, title = "Weekend", mbid = "8f197aca-5ce2-4ef4-95cb-725c50718d60" },
+  { n = 11, title = "Like You", mbid = "54ad3397-1ef1-4f1d-a4ad-c239248b8bb8" },
+  { n = 12, title = "Aww S***!", mbid = "7a7ebd67-5562-40b6-9476-888aa905e2c8" },
+  { n = 13, title = "Lil Star", mbid = "ca6fc4e5-0819-4c54-8d62-2e7be8fd7140" },
+  { n = 14, title = "I Don’t Think So", mbid = "35f4271a-5fe1-491c-8a28-0a8fbb4bbad1" },
+  { n = 15, title = "Handful", mbid = "fa7f900d-f8ab-4c89-b4d0-9f883b1e6d8f" },
+  { n = 16, title = "Appreciate Me", mbid = "9f41a748-ce07-4901-8a0a-8e8c82ae08d0" },
+  { n = 17, title = "Have a Nice Day", mbid = "3b1a0776-478b-4c91-a18d-ddfe5a36f766" },
+  { n = 18, title = "Fuck Them Bitches", mbid = "15bed86d-66ad-49b6-b4db-406dca3456f6" },
+]
+
+[[release]]
+mbid = "6cb6aaa2-0d5e-3683-8b5c-f0b82d37efa2"
+title = "Lil' Star"
+type = "single"
+date = "2007-02-19"
+tracks = [
+  { n = 1, title = "Lil' Star (original mix)", mbid = "c537f350-0689-44b5-a087-5c60f461b57d" },
+  { n = 2, title = "Lil' Star (Future Cut Throw Back mix)", mbid = "41e3df35-dfd6-45a2-a637-f4c813777ed2" },
+  { n = 3, title = "Lil' Star (Linus Loves dub)", mbid = "3ab602d3-8e85-43fe-821e-18fdd3bc9c16" },
+]
+
+[[release]]
+mbid = "eda515a9-4094-4f42-9686-83f7c9e292bf"
+title = "Acapella"
+type = "single"
+date = "2010-01-01"
+spotify = "4BMsxPhkM5tYsmjGP3z1dD"
+tracks = [
+  { n = 1, title = "Acapella (Benny Benassi remix)", mbid = "f705f00f-ee85-4d1c-98fa-01cc207ecf4f" },
+  { n = 2, title = "Acapella (Raw Man remix)", mbid = "fe4f0bcb-6dff-4bd9-b756-87f15ee2d6e3" },
+  { n = 3, title = "Acapella (Bimbo Jones vocal remix)", mbid = "32f13c1c-419d-4fea-8c73-79f535c020f1" },
+  { n = 4, title = "Acapella (Monarchy Urania club mix)", mbid = "2958c0bd-597d-40ca-abe8-293cf8e26d64" },
+  { n = 5, title = "Acapella (Dave Audé club dub remix)", mbid = "a682ae30-6958-4c22-9f2b-454bea927391" },
+]
+
+[[release]]
+mbid = "601bde1b-bf46-4439-9e6b-bd47a3a0365e"
+title = "Flesh Tone"
+type = "album"
+date = "2010-05-14"
+spotify = "48WnBKi4my14F8d34v4xRo"
+tracks = [
+  { n = 1, title = "Intro", mbid = "ae6103b7-138d-4d70-8d8c-5bc668f11120" },
+  { n = 2, title = "22nd Century", mbid = "f59136f2-93f4-4ab2-a74d-6e10ab26d300" },
+  { n = 3, title = "Segue 1", mbid = "beefba14-dbc4-4d3e-82bc-9a24653f4ae7" },
+  { n = 4, title = "4th Of July (Fireworks)", mbid = "51f54792-6cfe-4535-9963-f3d5dee9e9a1" },
+  { n = 5, title = "Segue 2", mbid = "8b2b7328-2713-4fef-8efb-54a54e80b378" },
+  { n = 6, title = "Home", mbid = "7f1971d8-0bbd-48ba-a487-2b472ff88205" },
+  { n = 7, title = "Segue 3", mbid = "b6e22a39-0685-467b-b600-104d0b26a6f7" },
+  { n = 8, title = "Acapella", mbid = "42fb6aa3-bdcb-4b44-980f-dc82d0645206" },
+  { n = 9, title = "Segue 4", mbid = "16be64d4-1810-4733-aa4f-a4daa479293b" },
+  { n = 10, title = "Scream", mbid = "c4ed22fb-d083-4811-ad43-8737632928c7" },
+  { n = 11, title = "Emancipate", mbid = "d5df1ed3-f96b-4cca-8612-fb3e822dedf0" },
+  { n = 12, title = "Segue 5", mbid = "6c5bf39d-84ff-4352-99a2-19f09f9fae56" },
+  { n = 13, title = "Brave", mbid = "4270ecd5-c19e-4b1e-90a0-75547da3b65c" },
+  { n = 14, title = "Segue 6", mbid = "a62330ae-fad9-42e1-b094-12053a07c8e8" },
+  { n = 15, title = "Song For The Baby", mbid = "c989c77b-fd43-4a60-852d-d87c9efefe09" },
+]
+
+[[release]]
+mbid = "e7c4463e-f632-4819-9415-9c8e3fe96f13"
+title = "Spaceship"
+type = "single"
+date = "2010-06-01"
+tracks = [
+  { n = 1, title = "Spaceship", mbid = "5192039a-820f-4255-b842-4dbc97a3184a" },
+]
+
+[[release]]
+mbid = "50892d64-52bf-451b-8738-23bf091a8f79"
+title = "4th of July (Fireworks)"
+type = "single"
+date = "2010-07-05"
+spotify = "7atFNLJkHw4LepiojTxgs1"
+tracks = [
+  { n = 1, title = "4th of July (Rusko remix)", mbid = "c4148046-de10-4ff6-af3b-6cb0ce818aee" },
+  { n = 2, title = "4th of July (Richard X remix)", mbid = "1e308aed-2769-4c04-ba45-0ccf2ec6304a" },
+  { n = 3, title = "4th of July (Burns remix)", mbid = "293ddf86-4d0f-4752-a127-7292030b0d2d" },
+  { n = 4, title = "4th of July (Calvin Harris remix)", mbid = "e1026b62-8086-4f2c-a1e3-e85274e1bcee" },
+  { n = 5, title = "4th of July (Fernando Garibay remix)", mbid = "365d5a56-df73-45c1-9bd1-05e243f4f2b0" },
+]
+
+[[release]]
+mbid = "82fb3e2b-0e24-4a0b-8c71-fd36bd3a80e9"
+title = "Bounce"
+type = "single"
+date = "2011-06-10"
+tracks = [
+  { n = 1, title = "Bounce (radio edit)", mbid = "4ede2c2c-65ed-4d0d-a9bf-eb090702be72" },
+  { n = 2, title = "Awooga", mbid = "309a4ce8-1eb7-4b49-a266-6e07a399ce7a" },
+  { n = 3, title = "Bounce (extended mix)", mbid = "6d129051-04c8-49cc-8f9f-ee5d9d9280cf" },
+]
+
+[[release]]
+mbid = "bbab70b7-85fb-469e-874e-1b8188bc4f78"
+title = "Hearts"
+type = "single"
+date = "2013-06-11"
+spotify = "756QbNPykDO6IVneU8CC25"
+tracks = [
+  { n = 1, title = "Hearts", mbid = "2fea9901-cee1-4843-aea5-71326f2ab04a" },
+]
+
+[[release]]
+mbid = "c019ffa1-a180-457a-8fa4-4dd3de335d6a"
+title = "Jerk Ribs"
+type = "single"
+date = "2014-02-06"
+tracks = [
+  { n = 1, title = "Jerk Ribs (Ben Pearce radio edit)", mbid = "852722b5-f258-40c1-9bef-3b991b85e0c2" },
+  { n = 2, title = "Jerk Ribs (Ben Pearce extended version)", mbid = "20bab877-d090-4aa9-840a-6a351eaf2900" },
+]
+
+[[release]]
+mbid = "ec4aed0d-6b80-43a8-a71d-98d1a1b96516"
+title = "Rumble"
+type = "single"
+date = "2014-04-14"
+tracks = [
+  { n = 1, title = "Rumble", mbid = "5db95790-ce55-4381-a782-bde163644d95" },
+  { n = 2, title = "Rumble (Breach remix)", mbid = "361fedd9-7863-4476-827d-6c79027a9ee5" },
+  { n = 3, title = "Rumble (Breach extended mix)", mbid = "851a7fa7-9fd5-4581-8b53-8aad4f359e36" },
+  { n = 4, title = "Rumble (Breach extended dub)", mbid = "9fa40cbb-2da3-40ca-828d-2c6d7632e1fb" },
+]
+
+[[release]]
+mbid = "e2606a68-be6b-49b9-a7b2-046492c5bba0"
+title = "Food"
+type = "album"
+date = "2014-04-17"
+spotify = "7rOLlR197BcHUxYOfvi1BC"
+tracks = [
+  { n = 1, title = "Breakfast", mbid = "8212b140-f141-4363-ba34-9bf35beab8ff" },
+  { n = 2, title = "Jerk Ribs", mbid = "00a41ebc-0054-4f52-a626-5fb83325967c" },
+  { n = 3, title = "Forever Be", mbid = "99206814-6800-4d18-9860-2790485af2d5" },
+  { n = 4, title = "Floyd", mbid = "3454fb71-8aff-4322-8f3a-e14b8d2255ae" },
+  { n = 5, title = "Runnin’", mbid = "91821347-b733-4c23-9931-b1f9d384a1aa" },
+  { n = 6, title = "Hooch", mbid = "2544e690-3334-48ec-af59-c657f8da961d" },
+  { n = 7, title = "Cobbler", mbid = "92d8cd49-8389-4304-883d-b6b5433db659" },
+  { n = 8, title = "Bless the Telephone", mbid = "3c6a8732-6825-43a7-baae-049ff595766d" },
+  { n = 9, title = "Friday Fish Fry", mbid = "2f2a9306-6bd8-442f-b542-0c518cdfdeec" },
+  { n = 10, title = "Change", mbid = "5e19bb25-2e28-4ef5-8357-966d0883974c" },
+  { n = 11, title = "Rumble", mbid = "de66f211-84ef-44fe-92f6-3c28036f43de" },
+  { n = 12, title = "Biscuits n’ Gravy", mbid = "edb0afd6-aa5f-407f-8141-50d3c5e4a6bb" },
+  { n = 13, title = "Dreamer", mbid = "19b7828c-9bce-4a41-8966-555b1bc31840" },
+]
+
+[[release]]
+mbid = "ac3244da-b768-4605-a7ef-b0c79ee0e6a7"
+title = "Food (Remixes)"
+type = "ep"
+date = "2014-05-26"
+tracks = [
+  { n = 1, title = "Jerk Ribs (Mount Kimbie remix)", mbid = "7cbb307c-581a-4c21-ae9f-241780407564" },
+  { n = 2, title = "Rumble (Breach remix)", mbid = "361fedd9-7863-4476-827d-6c79027a9ee5" },
+  { n = 3, title = "Runnin' (Machinedrum remix)", mbid = "8b81e391-5d21-4adf-95da-8a9134458629" },
+  { n = 4, title = "Jerk Ribs (Ben Pearce extended version)", mbid = "20bab877-d090-4aa9-840a-6a351eaf2900" },
+  { n = 5, title = "Jerk Ribs (Beatnik remix)", mbid = "2da8688f-2561-4595-a7a7-ad878a7b71e3" },
+  { n = 6, title = "Rumble (Breach extended dub)", mbid = "9fa40cbb-2da3-40ca-828d-2c6d7632e1fb" },
+  { n = 7, title = "Jerk Ribs (Will Saul & Komon remix)", mbid = "2894fedc-a6ce-4a10-8976-427354e7a408" },
+  { n = 8, title = "Rumble (Actress Sixinium Bootleg mix)", mbid = "8c739475-dfb6-418a-94ae-2c310f0f4ee8" },
+]
+
+[[release]]
+mbid = "9a9eeca8-b2d9-4922-86b6-602d96db67ab"
+title = "Friday Fish Fry"
+type = "single"
+date = "2014-07-03"
+tracks = [
+  { n = 1, title = "Friday Fish Fry (Maribou State & Pedestrian remix) (radio edit)", mbid = "ab857b0c-7d77-45db-942b-3f86ebef7d89" },
+  { n = 2, title = "Friday Fish Fry (Maribou State & Pedestrian remix)", mbid = "96af00fb-a166-4edf-a7fe-39cbd4b57451" },
+]
+
+[[release]]
+mbid = "07d91d87-8fa4-41bd-b4f3-a1ea7f91a60e"
+title = "The Key"
+type = "single"
+date = "2014-10-02"
+spotify = "6cCyF6C7ZGIyfAMSzXBgYd"
+tracks = [
+  { n = 1, title = "The Key", mbid = "ad069679-fae8-467c-95e8-9cd3aaa3cbd8" },
+]
+
+[[release]]
+mbid = "8e9060d1-0580-49ef-9d13-5c73cc6936bc"
+title = "Change / Runnin' / Forever Be - Remixes"
+type = "ep"
+date = "2015-04-13"
+tracks = [
+  { n = 1, title = "Change (Quadrant, Kid Hops & Iris remix)", mbid = "b1591e53-2ce8-4315-b33d-fc283c01edf8" },
+  { n = 2, title = "Runnin' (Machinedrum remix)", mbid = "8b81e391-5d21-4adf-95da-8a9134458629" },
+  { n = 3, title = "Forever Be (Hyper remix)", mbid = "73cec37a-85df-4b62-b6d4-dbe61a51b17c" },
+  { n = 4, title = "Forever Be (Hyper remix instrumental)", mbid = "64cce6af-0abf-43d6-b35c-2c5d418fb32a" },
+]
+
+[[release]]
+mbid = "b8360b91-56a8-4f66-ae4c-b76595517452"
+title = "Do It Like Me (Icy Feet)"
+type = "single"
+date = "2017-04-04"
+tracks = [
+  { n = 1, title = "Do It Like Me (Icy Feet)", mbid = "261c663f-1f8c-460f-a152-c631afc07dea" },
+]
+
+[[release]]
+mbid = "7f896796-8fb3-4472-b57d-dd0b3eb15dc6"
+title = "Farewell"
+type = "single"
+date = "2017-05-12"
+tracks = [
+  { n = 1, title = "Farewell", mbid = "3cd702e6-da4e-4a7d-ba1a-2561d6dfce47" },
+]
+
+[[release]]
+mbid = "64ffbaff-95e5-4107-b55e-d9dec29cbd9c"
+title = "Deal With It"
+type = "single"
+date = "2021-01-12"
+spotify = "1zOCX2Lxi1jy7yEQSkjCMb"
+tracks = [
+  { n = 1, title = "Deal With It", mbid = "718df923-7d9a-420b-9d7d-3fa91b2728da" },
+  { n = 2, title = "Daisy", mbid = "0fafc06b-99a2-4c13-8f77-2428fa56386d" },
+  { n = 3, title = "Cry", mbid = "0d921432-3651-4744-ad2f-3f53041c1efc" },
+]
+
+[[release]]
+mbid = "129e2417-939a-4f79-9369-b526963d582f"
+title = "Midnight Snacks"
+type = "single"
+date = "2021-10-08"
+spotify = "1EEE1VEoFi5y8lqe7NGfHM"
+tracks = [
+  { n = 1, title = "Midnight Snacks", mbid = "153cbb9e-dae1-4063-967c-6fd0cbd6a169" },
+]
+
+[[release]]
+mbid = "37b1ef47-6c34-4158-a3fc-09064d163823"
+title = "Talkin"
+type = "single"
+date = "2022-03-03"
+spotify = "6sePrW3HcLulCyov6Ofl0A"
+tracks = [
+  { n = 1, title = "Talkin", mbid = "b38698ee-6774-492a-9258-f9884cca2f52" },
+]
+
+[[release]]
+mbid = "2d147afe-db10-4ae9-a548-60bf8ebe6d3b"
+title = "Feed Them"
+type = "single"
+date = "2022-04-18"
+spotify = "12WwjDGuTBgtEbwKfFjH6b"
+tracks = [
+  { n = 1, title = "Feed Them", mbid = "64f4a422-7230-4313-9ad8-fc56f773c8c3" },
+]
+
+[[release]]
+mbid = "4d17c2a9-9281-48f8-b863-82aaed09f481"
+title = "MILKSHAKE (Kelis' version)"
+type = "single"
+date = "2025-10-10"
+spotify = "69N3JXij6oi0dB9vJQMCY1"
+tracks = [
+  { n = 1, title = "MILKSHAKE (Kelis' version)", mbid = "ce32e59a-641e-4bda-b61d-2db61a53bcbe" },
+]

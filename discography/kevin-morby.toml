@@ -1,0 +1,504 @@
+format = 1
+
+[[release]]
+mbid = "e4bee6f7-06ac-4c4a-9e17-72f0a74196d2"
+title = "Harlem River"
+type = "album"
+date = "2013-11-23"
+tracks = [
+  { n = 1, title = "Miles, Miles, Miles", mbid = "a5950762-8574-4308-8043-4d9841957e00" },
+  { n = 2, title = "Wild Side (Oh the Place You'll Go)", mbid = "8d544819-4bae-4713-a7dc-0349cffe7d3e" },
+  { n = 3, title = "Harlem River", mbid = "e63e920f-4b74-4be3-a66c-3ef16cfa72d6" },
+  { n = 4, title = "If You Leave and If You Marry", mbid = "793db6e1-08c5-4fba-b5ff-4362285e6628" },
+  { n = 5, title = "Slow Train", mbid = "915fa6d7-46d3-4213-b3f5-5f3e9931d767" },
+  { n = 6, title = "Reign", mbid = "644f3ac6-df62-4d17-aac3-d7ba665b653b" },
+  { n = 7, title = "Sucker in the Void (The Lone Mile)", mbid = "fe14dfbc-5796-4d20-98a8-92e574f3d33c" },
+  { n = 8, title = "The Dead They Don't Come Back", mbid = "2f129825-eb72-4122-a7fc-d30cbe06fbce" },
+]
+
+[[release]]
+mbid = "7c561967-ac0e-46b9-8550-27b29a1cef3f"
+title = "My Name / We Did It All Wrong"
+type = "single"
+date = "2014-07-28"
+tracks = [
+  { n = 1, title = "My Name", mbid = "37d6e5d4-45d0-461a-9281-3d4dfe9d562e" },
+  { n = 2, title = "We Did It All Wrong", mbid = "a9996876-c205-4334-bf4a-af4f6df94ab9" },
+]
+
+[[release]]
+mbid = "0a9ac7e0-980e-473d-afee-f17e3171f93b"
+title = "Still Life"
+type = "album"
+date = "2014-10-14"
+tracks = [
+  { n = 1, title = "The Jester, the Tramp & The Acrobat", mbid = "9d79a904-89a8-4d36-ad7d-67d1bef36a36" },
+  { n = 2, title = "The Ballad of Arlo Jones", mbid = "69634a47-be53-416a-99a0-3cc003ec7803" },
+  { n = 3, title = "Motors Runnin", mbid = "7a64f531-a7c1-448f-9d9f-a9f2d2704af9" },
+  { n = 4, title = "All of My Life", mbid = "a93fa2fb-ffdc-4563-a854-9e425d92738d" },
+  { n = 5, title = "Drowning", mbid = "89537e91-1148-4e43-93fe-b677945b5bd6" },
+  { n = 6, title = "Bloodsucker", mbid = "c85f981d-0abc-45bf-a6f8-426f191d3524" },
+  { n = 7, title = "Parade", mbid = "ad774eb5-2126-4d05-a7d9-9bf435fdaac4" },
+  { n = 8, title = "Dancer", mbid = "87e19baf-82f7-4dca-b3bf-d8a6705c5fda" },
+  { n = 9, title = "Amen", mbid = "4f310928-3b97-48cd-9323-70452c3b6f75" },
+  { n = 10, title = "Our Moon", mbid = "b17cf337-e271-4823-ac76-c1fb94a382f0" },
+]
+
+[[release]]
+mbid = "6ea158d7-35b6-4da7-a90c-02ce998aa7c9"
+title = "Lagniappe Sessions"
+type = "ep"
+date = "2015-02-19"
+spotify = "6mLIDN37G0hNhHP5fJFMoh"
+tracks = [
+  { n = 1, title = "Tonight I’ll Be Staying Here With You", mbid = "7cd8a57a-0b2a-4d1e-91b8-439d9e41a592" },
+  { n = 2, title = "Caught in My Eye", mbid = "5f14f276-a8df-4af8-a806-b20e2ba3fc88" },
+  { n = 3, title = "Random Rules", mbid = "c771da8d-059f-4b09-9783-232496823f4a" },
+]
+
+[[release]]
+mbid = "6794169c-d447-4ebb-aaf3-5b227679d551"
+title = "Moonshiner / Bridge to Gaia"
+type = "single"
+date = "2015-08-12"
+spotify = "1VyMkFfKm8XHsvt59RoiYY"
+tracks = [
+  { n = 1, title = "Moonshiner", mbid = "0dafa198-4533-4e9f-9617-e37e232069c0" },
+]
+
+[[release]]
+mbid = "92ea555b-fc28-4671-92b4-53bfa2fc7872"
+title = "I Have Been to the Mountain"
+type = "single"
+date = "2016-02-09"
+spotify = "5ArTRLzSlEgDBcxwAEpXlr"
+tracks = [
+  { n = 1, title = "I Have Been to the Mountain", mbid = "738eb07e-820b-44d3-9e04-09e02a73fb06" },
+]
+
+[[release]]
+mbid = "dda626e6-e174-4141-9859-1b831de16b9b"
+title = "Dorothy"
+type = "single"
+date = "2016-03-25"
+spotify = "3QCaxhXYN1GObWPrjwQT0W"
+tracks = [
+  { n = 1, title = "Dorothy", mbid = "e8f532b3-318f-411d-9c4d-f32498d75bc7" },
+]
+
+[[release]]
+mbid = "19e2eef6-8fa6-485d-9be2-df6b4bd13a8b"
+title = "Singing Saw"
+type = "album"
+date = "2016-04-15"
+tracks = [
+  { n = 1, title = "Cut Me Down", mbid = "472f0de9-16fd-4fe8-90ed-5c2b22e09ac3" },
+  { n = 2, title = "I Have Been to the Mountain", mbid = "738eb07e-820b-44d3-9e04-09e02a73fb06" },
+  { n = 3, title = "Singing Saw", mbid = "94bf5f23-d429-4c7e-9659-2f18324a8765" },
+  { n = 4, title = "Drunk and on a Star", mbid = "a85c7a1c-c197-4b76-9e90-30db4528f082" },
+  { n = 5, title = "Dorothy", mbid = "e8f532b3-318f-411d-9c4d-f32498d75bc7" },
+  { n = 6, title = "Ferris Wheel", mbid = "a01a56ca-91e1-452c-97a1-91474ebd711a" },
+  { n = 7, title = "Destroyer", mbid = "0b6ce706-b181-44b8-a6af-c46d4fa3155e" },
+  { n = 8, title = "Black Flowers", mbid = "413e2369-78a8-4e92-8536-c951e94e6d75" },
+  { n = 9, title = "Water", mbid = "28ae1f76-0b79-434b-8aaf-2d20affe5ccb" },
+]
+
+[[release]]
+mbid = "fddf54c2-1052-4ea6-a19d-f9b17ea579ca"
+title = "Tiny Fires"
+type = "single"
+date = "2016-09-07"
+spotify = "5xNol0pmaEzA5x29hQvQIi"
+tracks = [
+  { n = 1, title = "Tiny Fires", mbid = "17f2088f-e616-4e19-aa3c-27dd980dbea3" },
+  { n = 2, title = "Tiny Fires (acoustic demo)", mbid = "e626e083-bb18-4a63-a0a5-fa8bebdc7e49" },
+]
+
+[[release]]
+mbid = "449d6aae-5e28-41e2-b5ea-372706ac68f3"
+title = "Beautiful Strangers / No Place to Fall"
+type = "single"
+date = "2016-10-27"
+spotify = "6lS79EuYCe7HMnueUNrrAq"
+tracks = [
+  { n = 1, title = "Beautiful Strangers", mbid = "26c9c963-5331-4f19-b9ee-30490ac4a102" },
+  { n = 2, title = "No Place to Fall", mbid = "ebc046a7-20c1-48f7-bec7-d38bca80fdc9" },
+]
+
+[[release]]
+mbid = "20301cbb-376e-4b7a-8c35-9c6962c9a76c"
+title = "City Music"
+type = "single"
+date = "2017-06-07"
+spotify = "02YaKFy22wypBeRSQF3XM3"
+tracks = [
+  { n = 1, title = "City Music", mbid = "d49559da-680d-407d-a5a6-f65bf6ddbbc1" },
+]
+
+[[release]]
+mbid = "ce2c280d-0477-4901-ae43-86d0df621d10"
+title = "City Music"
+type = "album"
+date = "2017-06-16"
+tracks = [
+  { n = 1, title = "Come To Me Now", mbid = "8035878c-4af3-47cd-8803-fceea221f0fb" },
+  { n = 2, title = "Crybaby", mbid = "b19f87ac-821d-4b14-9ef7-4099c1b1a9f8" },
+  { n = 3, title = "1234", mbid = "52e3aad1-99c5-407e-bf1b-73aa9c0ffb9f" },
+  { n = 4, title = "Aboard My Train", mbid = "7f72942b-872b-454c-ada3-6dac06b4a6b5" },
+  { n = 5, title = "Dry Your Eyes", mbid = "a82b7dcc-190c-4a4b-af8b-68fb07f4a871" },
+  { n = 6, title = "City Music", mbid = "d49559da-680d-407d-a5a6-f65bf6ddbbc1" },
+  { n = 7, title = "Tin Can", mbid = "088499bb-d5dd-4205-9899-1921546ffe23" },
+  { n = 8, title = "Caught In My Eye", mbid = "5437a128-1497-4cba-9a52-bd479eaa9a84" },
+  { n = 9, title = "Night Time", mbid = "fb0d7ec5-c390-4ca7-a478-8852749e9a99" },
+  { n = 10, title = "Pearly Gates", mbid = "c0cf9f52-73e4-48b3-a427-6ecbef23a638" },
+  { n = 11, title = "Downtown's Lights", mbid = "8826f4bb-1eed-42d3-acbd-bed486e24458" },
+]
+
+[[release]]
+mbid = "e93cfc4b-2f1a-4cc1-b36f-186f450be380"
+title = "Baltimore (Sky at Night) B/W Baltimore (County Line)"
+type = "single"
+date = "2017-10-25"
+spotify = "5Qpm6AtaR0Sk0Kkt6C6BiU"
+tracks = [
+  { n = 1, title = "Baltimore (Sky At Night)", mbid = "7e9b7726-0130-409d-8b3a-e0ab520cc001" },
+  { n = 2, title = "Baltimore (County Line)", mbid = "e96630e3-16ce-45f9-886e-5fab08e8bc23" },
+]
+
+[[release]]
+mbid = "66b5d540-237f-4f8f-bcaf-17bcc8acfc2d"
+title = "Farewell Transmission / The Dark Don’t Hide It"
+type = "single"
+date = "2018-01-25"
+tracks = [
+  { n = 1, title = "Farewell Transmission", mbid = "c2418c17-86e6-4558-99d9-8439b94e9550" },
+  { n = 2, title = "The Dark Don’t Hide It", mbid = "8d24dc10-dd00-407d-a0da-728f30568004" },
+]
+
+[[release]]
+mbid = "1b42ed1e-bbcc-4a26-9c0f-37b87b74f2f8"
+title = "Aquarium Drunkard’s Lagniappe Session 2018"
+type = "ep"
+date = "2018-03-08"
+tracks = [
+  { n = 1, title = "Miss Ohio", mbid = "4aaf6e35-a9b3-4ca7-8c77-b59ca4ab9454" },
+  { n = 2, title = "Colorado Girl", mbid = "93322b2c-4d66-4684-bab3-7d7e5d21d52f" },
+  { n = 3, title = "When She Don't Need Me", mbid = "c44fac63-d08a-46d4-8ea8-5afb82f5c363" },
+  { n = 4, title = "Mess Me Around", mbid = "56c449ba-cbda-4ae2-8c19-67cf97ddadec" },
+]
+
+[[release]]
+mbid = "765215c5-b54a-46c9-8760-d21d59b2406f"
+title = "Gift Horse / I Was on Time"
+type = "single"
+date = "2019"
+spotify = "4mYVJ2NAFgQrzNRVN82vgq"
+tracks = [
+  { n = 1, title = "Gift Horse", mbid = "b9270cea-b8dc-460b-b6aa-9aaa0b02ce67" },
+  { n = 2, title = "I Was on Time", mbid = "d145be76-2153-4789-8d4c-a5a730f2df35" },
+]
+
+[[release]]
+mbid = "f90487ce-8fbe-40b7-996e-e4280dab4892"
+title = "No Halo"
+type = "single"
+date = "2019-02-27"
+spotify = "176O5eIWOgcvFBLqkYhnXc"
+tracks = [
+  { n = 1, title = "No Halo", mbid = "a3f446e7-0eb1-47f8-b5af-d97029869315" },
+]
+
+[[release]]
+mbid = "09c2c9f5-b636-46fe-b037-2c904bf80043"
+title = "Nothing Sacred / All Things Wild"
+type = "single"
+date = "2019-03-27"
+spotify = "49C2bifsMLpAgTiLSnMuTQ"
+tracks = [
+  { n = 1, title = "Nothing Sacred / All Things Wild", mbid = "d32c0bda-b821-4211-b650-f40a5e5ae4b3" },
+]
+
+[[release]]
+mbid = "3dcf9ceb-0db9-447b-a1ce-39474791ed98"
+title = "OMG Rock n Roll"
+type = "single"
+date = "2019-04-18"
+spotify = "2E4sp5tIa8gbZvxkbknaxC"
+tracks = [
+  { n = 1, title = "OMG Rock n Roll", mbid = "69e946b0-b25d-4eb6-8be5-c61368f149cd" },
+]
+
+[[release]]
+mbid = "41c741fa-0bf3-44e7-a556-23c630158005"
+title = "Oh My God"
+type = "album"
+date = "2019-04-26"
+tracks = [
+  { n = 1, title = "Oh My God", mbid = "01133267-c8a6-4423-9b1a-30525fac3f5f" },
+  { n = 2, title = "No Halo", mbid = "a3f446e7-0eb1-47f8-b5af-d97029869315" },
+  { n = 3, title = "Nothing Sacred / All Things Wild", mbid = "d32c0bda-b821-4211-b650-f40a5e5ae4b3" },
+  { n = 4, title = "OMG Rock n Roll", mbid = "69e946b0-b25d-4eb6-8be5-c61368f149cd" },
+  { n = 5, title = "Seven Devils", mbid = "0b44fad9-64e3-4536-8e54-fea2cf2d10bd" },
+  { n = 6, title = "Hail Mary", mbid = "44795966-6d5e-4022-b0f1-e87099d190ff" },
+  { n = 7, title = "Piss River", mbid = "63a9c4b5-9d8b-4535-9f83-c1abfe7d9465" },
+  { n = 8, title = "Savannah", mbid = "f6e8eb8a-eec4-41ac-955f-0bae0c3487ae" },
+  { n = 9, title = "Storm (Beneath the Weather)", mbid = "29eecbc7-6025-4126-bd3f-528513f75b40" },
+  { n = 10, title = "Congratulations", mbid = "6a4cf2d8-af41-402a-b247-eba90e6f7162" },
+  { n = 11, title = "I Want to Be Clean", mbid = "64ad9f06-076a-4db0-95ce-f3b23160eba3" },
+  { n = 12, title = "Sing a Glad Song", mbid = "16e5442c-e42a-4ff9-994f-f88293e9e430" },
+  { n = 13, title = "Ballad of Faye", mbid = "f2662ac1-77c7-47da-b6d0-2e6841386f75" },
+  { n = 14, title = "O Behold", mbid = "2df69831-3072-4b0e-b0ab-dc543871333f" },
+]
+
+[[release]]
+mbid = "e4fb097d-758c-406b-90fe-404f83123cee"
+title = "Blue Christmas"
+type = "single"
+date = "2019-11-07"
+spotify = "3SmxMYiXhUeseHOdEtLlFI"
+tracks = [
+  { n = 1, title = "Blue Christmas", mbid = "ae384dbf-eb96-4836-9a6f-90c88ecec055" },
+]
+
+[[release]]
+mbid = "c023315e-fdf7-4c8f-a5c5-6ea8e93714d3"
+title = "Sundowner"
+type = "single"
+date = "2020-10-07"
+spotify = "6s8xpXYalmDufcKB0InMsC"
+tracks = [
+  { n = 1, title = "Sundowner", mbid = "a6071d54-4bb0-45ee-b90e-0bc6415d5359" },
+  { n = 2, title = "Wander", mbid = "cfef88e5-2077-444f-b30c-2c62c79bd79a" },
+  { n = 3, title = "Don’t Underestimate Midwest American Sun", mbid = "72c45654-0db4-4686-94cd-413e5039609c" },
+  { n = 4, title = "Campfire", mbid = "837774ae-5257-4c51-9b13-e0b05ad453cd" },
+]
+
+[[release]]
+mbid = "4a69bde2-1223-4d98-b694-2663711a4307"
+title = "Sundowner"
+type = "album"
+date = "2020-10-16"
+spotify = "0laieZ0AIqtsAFTaljjmLc"
+tracks = [
+  { n = 1, title = "Valley", mbid = "0f1c608c-7f81-48c0-8533-798ab8abfc03" },
+  { n = 2, title = "Brother, Sister", mbid = "8f3e4adf-4a3d-40ef-80eb-ceb50d5c9377" },
+  { n = 3, title = "Sundowner", mbid = "a6071d54-4bb0-45ee-b90e-0bc6415d5359" },
+  { n = 4, title = "Campfire", mbid = "837774ae-5257-4c51-9b13-e0b05ad453cd" },
+  { n = 5, title = "Wander", mbid = "cfef88e5-2077-444f-b30c-2c62c79bd79a" },
+  { n = 6, title = "Don’t Underestimate Midwest American Sun", mbid = "72c45654-0db4-4686-94cd-413e5039609c" },
+  { n = 7, title = "A Night at the Little Los Angeles", mbid = "03f6fa38-d786-4348-a1a4-176ec5abfcfa" },
+  { n = 8, title = "Jamie", mbid = "aeec6806-5ea1-4933-9149-0c007bf123b6" },
+  { n = 9, title = "Velvet Highway", mbid = "fa2a844f-85ca-471b-aaac-18c5ce85cf77" },
+  { n = 10, title = "Provisions", mbid = "41d9db4c-1171-4470-8a96-568d9279247f" },
+]
+
+[[release]]
+mbid = "e7c1c1a6-71c9-4bcd-a2ba-88e6dd66feea"
+title = "US Mail"
+type = "single"
+date = "2020-10-27"
+tracks = [
+  { n = 1, title = "US Mail", mbid = "dde40175-30af-4015-816f-77b8e0e3aeac" },
+]
+
+[[release]]
+mbid = "6fc43355-ab2f-45db-8ecb-ec4e5020073e"
+title = "There Is a War"
+type = "single"
+date = "2020-10-30"
+spotify = "0lk3T7UZlCQBhVZeizAWbP"
+tracks = [
+  { n = 1, title = "There Is a War", mbid = "afd39ab6-4bc8-4182-b223-df657d138298" },
+]
+
+[[release]]
+mbid = "018e36ac-2d48-4334-90a3-74f31cc1bb10"
+title = "Dumcane"
+type = "single"
+date = "2021-05-04"
+spotify = "5G3lQUljL6JJ6EGAFzNxpc"
+tracks = [
+  { n = 1, title = "Dumcane", mbid = "3eb36371-8456-4838-994c-5f254dcbb683" },
+]
+
+[[release]]
+mbid = "8775ab2a-175a-4cee-9467-387f5506116b"
+title = "Virginia Beach"
+type = "single"
+date = "2021-10-12"
+tracks = [
+  { n = 1, title = "Virginia Beach", mbid = "ceb4c6f9-5b11-4de6-b94f-0650097687d0" },
+]
+
+[[release]]
+mbid = "8cd8a0f7-98cd-4f0e-88eb-855f30b754b3"
+title = "So Far Away"
+type = "single"
+date = "2021-11-16"
+tracks = [
+  { n = 1, title = "So Far Away", mbid = "a291f8b5-ea26-4654-99ba-dbe98fbfba1e" },
+]
+
+[[release]]
+mbid = "0ae1d4e5-b3ff-4172-8cd9-c8baf44cc0a9"
+title = "I Hear You Calling"
+type = "single"
+date = "2021-12-13"
+spotify = "3QnRBCsAit8bQRLAw2KCHm"
+tracks = [
+  { n = 1, title = "I Hear You Calling", mbid = "28a6f407-98a8-4131-b974-1cf641ab2615" },
+  { n = 2, title = "I Hear You Calling", mbid = "815764f7-e174-40a6-9bec-6b44939e2b9c" },
+]
+
+[[release]]
+mbid = "255dec0f-b481-45ad-bb6e-8106ceac1c07"
+title = "This Is a Photograph"
+type = "album"
+date = "2022-05-13"
+tracks = [
+  { n = 1, title = "Intro", mbid = "d7ed5624-2ff0-4c38-9f91-0089babb761d" },
+  { n = 2, title = "This Is a Photograph", mbid = "ff20399f-3257-49c4-9453-21f56ab8b845" },
+  { n = 3, title = "A Random Act of Kindness", mbid = "1e7fe87e-4f3c-454b-b2a3-5767f10c5849" },
+  { n = 4, title = "Bittersweet, TN", mbid = "8b13fbd8-19f6-41ae-8e9f-b6a0835a5007" },
+  { n = 5, title = "Disappearing", mbid = "b285e193-c96a-4978-ac54-8f70d2efa0f7" },
+  { n = 6, title = "A Coat of Butterflies", mbid = "61a7f485-6681-4819-a20f-d5f1a599a02c" },
+  { n = 7, title = "Rock Bottom", mbid = "e2418627-403c-452d-a323-908d92f1c488" },
+  { n = 8, title = "Forever Inside a Picture", mbid = "63019bba-f639-4a37-acec-14a97a40cbfc" },
+  { n = 9, title = "Five Easy Pieces", mbid = "fcce728f-9e3a-4a7d-9f45-64aa385eafe6" },
+  { n = 10, title = "Stop Before I Cry", mbid = "ab23e678-a6e6-4d8a-b6b8-5d97c6311dc6" },
+  { n = 11, title = "It’s Over", mbid = "3c70edbb-1f52-4a34-826f-c2248226600e" },
+  { n = 12, title = "Goodbye to Good Times", mbid = "c5e6aa7e-2eca-4934-8d25-849caf9edceb" },
+]
+
+[[release]]
+mbid = "8c89923a-7f57-4d9e-a9ed-421345b5b90a"
+title = "Covers"
+type = "single"
+date = "2022-07-21"
+tracks = [
+  { n = 1, title = "The Goldheart Mountaintop Queen Directory", mbid = "7c346a75-1105-4949-bc47-fb6b0df6b27e" },
+  { n = 2, title = "Tears in the Typing Pool", mbid = "3a34450d-d972-4e19-84e6-11cc493e02fa" },
+]
+
+[[release]]
+mbid = "eebbaee3-9f3f-476e-a4dd-fa4af7d77628"
+title = "Music From Montana Story"
+type = "album"
+date = "2023-01-25"
+spotify = "7om0Uy8Kqxfygn2N6kstVU"
+tracks = [
+  { n = 1, title = "Main Theme", mbid = "d2958363-86d9-4f3c-ad41-b02e1ac4f9ba" },
+  { n = 2, title = "Exchange of Keys", mbid = "3b98cd4c-7a83-446d-981f-2711a398f681" },
+  { n = 3, title = "Darkness of Night", mbid = "3086877c-0f86-4dd8-908e-5d9d9f09781a" },
+  { n = 4, title = "Main Theme Variation", mbid = "09d83925-b4a0-432d-93fe-f3c68f4cd343" },
+  { n = 5, title = "One Paper Kid", mbid = "9e9efe8a-2928-4ae2-b271-292250b8d67d" },
+  { n = 6, title = "Final Exchange", mbid = "82e80bab-883b-443e-a153-46e00cc3e941" },
+  { n = 7, title = "Copperhead", mbid = "21a6210f-396a-4003-9cf9-d3a44ceef7d3" },
+  { n = 8, title = "Joey’s Theme", mbid = "b9c65c37-c325-4350-95ca-5c08962dc070" },
+  { n = 9, title = "Mando Theme", mbid = "54cb485d-b4bb-4525-ae0d-cec00109ac86" },
+  { n = 10, title = "Darkness of Night Variation", mbid = "ac7b774f-d774-4b54-b0b1-3f1293c34a5d" },
+  { n = 11, title = "Locked Out", mbid = "aa705e03-e8c5-40c3-9fe8-2bff6e194d6c" },
+  { n = 12, title = "Dance With Me Child", mbid = "194e898b-ca48-4ced-ae66-1335d424f02a" },
+  { n = 13, title = "Like a Flower", mbid = "0073fc0e-422a-49b1-af4d-b388c92e387d" },
+]
+
+[[release]]
+mbid = "d5c4aa2c-6475-46d1-abce-4368e160daa0"
+title = "More Photographs (A Continuum)"
+type = "album"
+date = "2023-05-26"
+tracks = [
+  { n = 1, title = "This Is a Photograph II", mbid = "2ad5bd5a-e30e-49dc-9355-3ba27034345e" },
+  { n = 2, title = "Triumph", mbid = "c4d92cc7-3925-4897-8880-dc7315ac1d5f" },
+  { n = 3, title = "Bittersweet, Tennessee", mbid = "b0917a42-b6a3-4286-b4bf-cc62be847296" },
+  { n = 4, title = "Going to Prom", mbid = "b7af81ee-cd0b-4475-9305-822c991baa7d" },
+  { n = 5, title = "Lion Tamer", mbid = "2622e4e3-bd18-45f3-aded-2fa88f636871" },
+  { n = 6, title = "A Song for Katie", mbid = "cd011d3f-1c3d-40b8-9f0a-b9df62b1a15a" },
+  { n = 7, title = "Five Easy Pieces Revisited", mbid = "181c2618-4c32-4cd1-adb4-2faa4c07d376" },
+  { n = 8, title = "Mickey Mantle’s Autograph", mbid = "c14a054e-0623-47da-bf67-4dafa0725be9" },
+  { n = 9, title = "Kingdom of Broken Hearts", mbid = "ab775c44-620b-48a0-8500-8313adf33300" },
+]
+
+[[release]]
+mbid = "b33f601c-7583-4150-aab4-a6600bec09cd"
+title = "You Found Me"
+type = "single"
+date = "2025-07-10"
+spotify = "2jTjNvShtOPHj5PK1Bv4YQ"
+tracks = [
+  { n = 1, title = "You Found Me", mbid = "83a59084-b5c5-42ae-8420-19b928d6e87f" },
+]
+
+[[release]]
+mbid = "56f0ad05-5bfe-46d8-80cd-67ae42c85fda"
+title = "Javelin"
+type = "single"
+date = "2026-02-11"
+spotify = "7nd9mJWgsV8oPY35Dq57eX"
+tracks = [
+  { n = 1, title = "Javelin", mbid = "3e3c3487-1f0c-4027-9fdf-aa65ac299821" },
+]
+
+[[release]]
+mbid = "6653ef01-a837-43e7-a3dd-352e27a79bf4"
+title = "Die Young"
+type = "single"
+date = "2026-03-11"
+spotify = "7vlkgyaOI5iCZwqKy3MpFa"
+tracks = [
+  { n = 1, title = "Die Young", mbid = "1931aafc-71ee-4425-83f9-2dfbba88404b" },
+  { n = 2, title = "Javelin", mbid = "3e3c3487-1f0c-4027-9fdf-aa65ac299821" },
+]
+
+[[release]]
+mbid = "64bf55c2-25a4-410d-8212-c9b6b36ef8ef"
+title = "Badlands"
+type = "single"
+date = "2026-04-16"
+spotify = "0lMhnhcPMq08GzLqgu9Kw9"
+tracks = [
+  { n = 1, title = "Badlands", mbid = "9abaef5d-6fe3-4250-b2f9-5eb529cf6df4" },
+  { n = 2, title = "Die Young", mbid = "1931aafc-71ee-4425-83f9-2dfbba88404b" },
+  { n = 3, title = "Javelin", mbid = "3e3c3487-1f0c-4027-9fdf-aa65ac299821" },
+]
+
+[[release]]
+mbid = "a2647d6a-fc8f-49da-98c2-2a7d3a760e67"
+title = "Little Wide Open"
+type = "album"
+date = "2026-05-15"
+spotify = "4SE1kVQva7akjFCMxFiP7U"
+tracks = [
+  { n = 1, title = "Badlands", mbid = "9abaef5d-6fe3-4250-b2f9-5eb529cf6df4" },
+  { n = 2, title = "Die Young", mbid = "1931aafc-71ee-4425-83f9-2dfbba88404b" },
+  { n = 3, title = "Javelin", mbid = "3e3c3487-1f0c-4027-9fdf-aa65ac299821" },
+  { n = 4, title = "All Sinners", mbid = "c33324e8-8708-46df-989e-b0e71cb17d94" },
+  { n = 5, title = "Natural Disaster", mbid = "61c0172b-816e-485f-8172-e86062fd58c1" },
+  { n = 6, title = "100,000", mbid = "ab87c2e8-740f-455b-9e86-c17e002fb2f2" },
+  { n = 7, title = "Little Wide Open", mbid = "71f8e238-b2ee-4792-8440-f95dcec01c58" },
+  { n = 8, title = "Cowtown", mbid = "10f2b6f3-f95c-4dbb-859b-fe78458f8cc7" },
+  { n = 9, title = "Bible Belt", mbid = "a477ff00-266a-42f2-a5f2-67ec662eca19" },
+  { n = 10, title = "I Ride Passenger", mbid = "60889b92-e6fc-4bbc-8e9c-e0758102936d" },
+  { n = 11, title = "Junebug", mbid = "818d6d48-c3d2-41e1-ad3a-ca539d46d8ba" },
+  { n = 12, title = "Dandelion", mbid = "d2cada01-769a-4c9a-ad78-300180a78f3d" },
+  { n = 13, title = "Field Guide for the Butterflies", mbid = "803f137f-41b9-4bd8-81f0-884ab3825f80" },
+]
+
+[[release]]
+mbid = "5a08ebb7-bb1c-4b6a-ac47-d02fe1825a84"
+title = "This is a Photograph (bajo el sol de Panamá)"
+type = "single"
+date = "2026-08-21"
+tracks = [
+  { n = 1, title = "This is a Photograph (bajo el sol de Panamá)", mbid = "15452237-12d7-4981-a47d-5f74678861cd" },
+]
+
+[[release]]
+mbid = "f0568b87-a4a8-486f-bb9b-2fe4ac3627f0"
+title = "PBJ"
+type = "single"
+date = "2026-09-16"
+spotify = "0ZFeUkEKirJu4p0HpUEsXt"
+tracks = [
+  { n = 1, title = "PBJ", mbid = "fe9589c9-bce5-40a6-bd5b-237eef445af7" },
+]

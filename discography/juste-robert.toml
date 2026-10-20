@@ -1,0 +1,88 @@
+format = 1
+
+[[release]]
+mbid = "6a4f874b-56f9-4bd6-a231-0fa364e83ee7"
+title = "Des autoportraits"
+type = "album"
+date = "2016-10-14"
+tracks = [
+  { n = 1, title = "Fleur", mbid = "d8d99f55-afef-4114-82c7-3717f5df48df" },
+  { n = 2, title = "L'Embâcle", mbid = "f015bbcf-9de4-4ced-9f40-1929fe076118" },
+  { n = 3, title = "Océan", mbid = "138a6793-22bf-4297-8ac5-8a8a84bc91cd" },
+  { n = 4, title = "Ça soufflait", mbid = "0ed8488c-1128-4d53-bc2f-2bf6a7ce8e9e" },
+  { n = 5, title = "Golden Storm", mbid = "bbc83e3d-60d3-45f7-baad-eabf1cb7e656" },
+  { n = 6, title = "Qui de nous deux ?", mbid = "5057cdca-208d-4a5a-9e32-e2b8d1c576e2" },
+  { n = 7, title = "Des pissenlits de lumière", mbid = "b400b810-3b76-4d16-9553-b4e69197a7ea" },
+  { n = 8, title = "Il tombe des cordes", mbid = "d940e728-f4af-486a-8ac6-7e264395bc5b" },
+  { n = 9, title = "Ça soufflait (lentement)", mbid = "d29877b8-e10e-40b3-83c8-548a5c346fcf" },
+  { n = 10, title = "Nous sommes ta meute", mbid = "45023d19-3877-4a83-9820-8595574c653c" },
+]
+
+[[release]]
+mbid = "e9adfbd5-e4d8-46ca-9fba-737f450b8431"
+title = "Mon mammifère préféré"
+type = "album"
+date = "2019-03-08"
+tracks = [
+  { n = 1, title = "Tel un oiseau", mbid = "3a6c4f69-4139-4143-ad88-8a5dd2ea132b" },
+  { n = 2, title = "#kanyewest", mbid = "24a1dfdf-3adf-4756-8628-40a0f2067b8b" },
+  { n = 3, title = "Amours électroniques", mbid = "b4b6455e-20a8-4c56-8184-fcf461016a5f" },
+  { n = 4, title = "Sous nos vieux disques", mbid = "828285bd-3b41-4f2d-aad4-1da8ecd37c45" },
+  { n = 5, title = "Le Capitaine Flamme", mbid = "6bfab1bb-d75e-4161-9e96-6916712c63b1" },
+  { n = 6, title = "Mon mammifère préféré", mbid = "e52f600c-2975-43c7-bcd7-ad57c2671112" },
+  { n = 7, title = "Lorsqu'aimé", mbid = "e64c5f56-d613-4417-86a0-e63731a1420b" },
+  { n = 8, title = "Bulldozer", mbid = "d63cf72c-ac51-4202-9831-ba9ff03e2c36" },
+  { n = 9, title = "Le Monstre", mbid = "31c567ad-0a06-4df2-a061-d1796a0f86c4" },
+  { n = 10, title = "Cœur de plume", mbid = "cc5bb1d5-c870-47e2-b55a-647f00ea9f59" },
+  { n = 11, title = "Pissenlits de lumière", mbid = "0f66c0fa-8f29-4f7e-a634-36b4af4510c6" },
+]
+
+[[release]]
+mbid = "95d070d8-13d1-491d-a30a-b6d6af68a2fd"
+title = "Ta constellation"
+type = "ep"
+date = "2020-03-13"
+tracks = [
+  { n = 1, title = "A.V.I.O.N", mbid = "fbe1f839-a84f-4a49-aa85-71d3e37976bd" },
+  { n = 2, title = "Des Îles Madame", mbid = "ca15b2fb-7eb6-42ff-8655-7de9177bafc6" },
+  { n = 3, title = "Ta constellation", mbid = "e1746ee6-b0ad-4125-a9ed-29a204b1658d" },
+  { n = 4, title = "Cap Tourmente", mbid = "5a5dfca2-1159-499f-b1fa-3b0f008fef9e" },
+  { n = 5, title = "My Golden Storm", mbid = "fde5dc81-38c6-4536-a4a2-a183492cab5e" },
+]
+
+[[release]]
+mbid = "f023ae23-4af8-4f53-acfb-5499394a1022"
+title = "Une chanson pour Avril"
+type = "single"
+date = "2020-04-22"
+tracks = [
+  { n = 1, title = "Une chanson pour Avril", mbid = "3dba8cc4-047d-4aea-819d-508f2f796521" },
+]
+
+[[release]]
+mbid = "c44f688d-add2-4ae2-8cb0-9680c2d101e9"
+title = "Ta théorie sur la lumière"
+type = "album"
+date = "2022-01-28"
+tracks = [
+  { n = 1, title = "La Lettre", mbid = "6ab1d8e0-e17c-4b5f-b599-f696c81a7877" },
+  { n = 2, title = "En amont", mbid = "01186128-589e-4036-8d39-8d2b369ea90c" },
+  { n = 3, title = "Le Silence et La Lenteur", mbid = "ec47600d-57c7-448f-b949-288483a5136f" },
+  { n = 4, title = "Ta théorie sur la lumière", mbid = "ec3e59ec-5894-4da5-a154-0461b4894317" },
+  { n = 5, title = "Soudé à toi", mbid = "46c2da7d-d62a-4213-b7a9-d10cbcfa525a" },
+  { n = 6, title = "Le Chien", mbid = "3ae6f0a5-566a-4af3-9d78-8afece369227" },
+  { n = 7, title = "Sous le bruit des hélicos", mbid = "2af67b4c-f466-4e44-86dc-f889e45ced43" },
+  { n = 8, title = "Le Gris des fées", mbid = "dad23b11-ff54-4317-a296-0860a5006822" },
+  { n = 9, title = "Le Moineau", mbid = "4d66fb43-62e4-4812-8d98-bf339206fd41" },
+  { n = 10, title = "Un abri pour regarder la pluie", mbid = "dd0c765d-c5ee-4ad8-bfd3-f344e736673f" },
+]
+
+[[release]]
+mbid = "75859c6c-18bf-4f76-bf39-8db8fc815497"
+title = "Des drapeaux blancs"
+type = "single"
+date = "2025-02-14"
+spotify = "41uOwQw20649Jg9fV2C0y3"
+tracks = [
+  { n = 1, title = "Des drapeaux blancs", mbid = "de1101c3-82ca-489b-bf12-722e77f33427" },
+]

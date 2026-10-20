@@ -1,0 +1,178 @@
+format = 1
+
+[[release]]
+mbid = "f7b1e768-5b59-349d-8b35-bb0da5cb0239"
+title = "Le Prix du silence"
+type = "album"
+date = "1996"
+tracks = [
+  { n = 1, title = "Orange", mbid = "1a370518-f1b1-45a0-ab3a-2a69ee8ae109" },
+  { n = 2, title = "Stadio", mbid = "e3971499-5679-4741-906f-c54bff5b282c" },
+  { n = 3, title = "Taper la manche", mbid = "558c791f-9148-407c-834a-39d0a60c2d10" },
+  { n = 4, title = "Le Prix du silence", mbid = "2d04ca84-901b-4575-84e7-8406d629d805" },
+  { n = 5, title = "Roots Ska Goods", mbid = "adddc6de-7d01-40d6-8bef-32d2ecdcd5b4" },
+  { n = 6, title = "Unis", mbid = "0cf119a9-eee3-4352-b8d9-457d25088b86" },
+  { n = 7, title = "Trianon", mbid = "dba6c5e3-4d6f-4eeb-924f-a0ba4e1acb07" },
+  { n = 8, title = "See Paname and Die", mbid = "d5fc39f4-ffe6-4e40-8957-54df134f5bb8" },
+  { n = 9, title = "Les Frères Volfoni", mbid = "0bb86a5d-5ac3-40f7-b9e2-85466e11232c" },
+  { n = 10, title = "Le Devoir de mémoire", mbid = "04f42cf9-f4fd-422f-b049-bd286c3fabde" },
+]
+
+[[release]]
+mbid = "978409a1-5dc4-3189-b78d-51aa806b9833"
+title = "L’Art de la joie"
+type = "album"
+date = "1998"
+tracks = [
+  { n = 1, title = "Le Bruit du bang", mbid = "8b081376-a59f-4601-8c69-f9d1719e80ba" },
+  { n = 2, title = "Selon", mbid = "e5ea881e-9e77-4ca1-966d-c2b1733a7c12" },
+  { n = 3, title = "Que le bon l’emporte", mbid = "7db619e3-afb7-4080-96be-308532f59832" },
+  { n = 4, title = "Rien venir", mbid = "e8768dc8-823a-41a1-a753-3861f2022f4b" },
+  { n = 5, title = "Tant d’argent dans le monde", mbid = "8095da69-6aa7-45f2-af62-fdf052aaffc8" },
+  { n = 6, title = "Du riffifi chez les branques", mbid = "49f29459-b55e-45b0-b232-b94148e3c874" },
+  { n = 7, title = "L’Affût du ramdam", mbid = "9d0ae5b0-fafe-4a7f-8f48-5cafb85db493" },
+  { n = 8, title = "Numéro 23", mbid = "0625a0c4-c2b4-4a6e-a748-16a650329e43" },
+  { n = 9, title = "Le Gauche", mbid = "d43b2975-7117-4b45-beda-dfa030a001b5" },
+  { n = 10, title = "L’Art de la joie", mbid = "6a703f59-838b-4260-8233-0031cd5d0565" },
+  { n = 11, title = "L’École des sous‐sols", mbid = "db0cfde2-53fe-4cd8-a880-2e68319f6502" },
+  { n = 12, title = "Anathème", mbid = "98c5024c-6742-4b17-9ad3-d401dcfd562f" },
+  { n = 13, title = "Barton Killer", mbid = "c8b5dde2-b360-4a7e-b584-e52b1d37b31c" },
+]
+
+[[release]]
+mbid = "6bfed5e6-fd30-3551-b022-04aaa5bf69c4"
+title = "Passager du réel"
+type = "album"
+date = "2001-10"
+tracks = [
+  { n = 1, title = "L’Odyssée du réel", mbid = "cbb448c6-6aab-4f56-959c-26eb39029929" },
+  { n = 2, title = "L’Empire du Moi", mbid = "91860d00-48fd-4a49-8d2a-5a28fc5d5b5e" },
+  { n = 3, title = "Histoires improbables", mbid = "d3cde656-b4ea-4dc8-ab39-0e5a72726588" },
+  { n = 4, title = "La Comédie à la française", mbid = "c5a19a61-cc81-4c85-94b5-2f6ba98bb692" },
+  { n = 5, title = "L’Évolutionnaire", mbid = "fe1e041d-4666-410e-9244-5118e41b5a18" },
+  { n = 6, title = "Héros cherche aventures", mbid = "1c76c170-11b2-49b3-ab61-eb2ecd5acb54" },
+  { n = 7, title = "Des tambours et des hommes", mbid = "1edc0ee9-3286-4a7e-a6d7-996d477b17e4" },
+  { n = 8, title = "Profession détective", mbid = "3aad63f4-7978-4bfc-8879-006a1e2516e5" },
+  { n = 9, title = "Le Tort et la Raison", mbid = "162c4707-5bb3-459a-9c62-0d81a11548ff" },
+  { n = 10, title = "Carnet d’une égérie", mbid = "aa81cbf5-c630-4b95-b251-346f9daade36" },
+  { n = 11, title = "Les Nuits diluviennes", mbid = "94d8a903-861a-4d42-8cae-f8778732e419" },
+  { n = 12, title = "Dépass’man", mbid = "df003e41-83c1-448c-8169-e9145ca7ffb9" },
+  { n = 13, title = "Indianapolis", mbid = "6a0aa45d-7d4e-4100-b577-7c937b2709d6" },
+  { n = 14, title = "Les Maux dits", mbid = "0076dcc5-5763-4d60-abfb-d45b0ac60701" },
+]
+
+[[release]]
+mbid = "61254e26-f464-463b-8dd1-788e187d084a"
+title = "24 Images/Seconde"
+type = "ep"
+date = "2004"
+tracks = [
+  { n = 1, title = "24 Images/Seconde", mbid = "0a95e80f-644e-40d8-b63e-f841bc37c18d" },
+  { n = 2, title = "Pensées Malsaines", mbid = "7b1420e8-1b4d-49d2-a1e9-e279569aeea7" },
+  { n = 3, title = "L' Admirable Refrain", mbid = "907f5df4-4f92-4452-b295-7d7d0090be9a" },
+  { n = 4, title = "Naouël", mbid = "68a8877e-5e3d-4391-b08d-f7992511b97a" },
+  { n = 5, title = "Dira-T-On Encore?", mbid = "2a955a24-a946-4428-b7a5-da7eeca45362" },
+  { n = 6, title = "Chanson Pour Sam", mbid = "3f63c967-2c70-4497-b827-df542a578eba" },
+]
+
+[[release]]
+mbid = "869e2bd0-5fb0-3b53-9990-bb5be25389f7"
+title = "24 images/seconde"
+type = "album"
+date = "2004-03-15"
+tracks = [
+  { n = 1, title = "Paris en bouteille", mbid = "31f438d1-1ab4-40a7-bb60-24489e3109c4" },
+  { n = 2, title = "Pensées malsaines", mbid = "7b1420e8-1b4d-49d2-a1e9-e279569aeea7" },
+  { n = 3, title = "24 images/seconde", mbid = "0a95e80f-644e-40d8-b63e-f841bc37c18d" },
+  { n = 4, title = "Naouël", mbid = "68a8877e-5e3d-4391-b08d-f7992511b97a" },
+  { n = 5, title = "Dira-t-on encore ?", mbid = "2a955a24-a946-4428-b7a5-da7eeca45362" },
+  { n = 6, title = "Chanson pour Sam", mbid = "3f63c967-2c70-4497-b827-df542a578eba" },
+  { n = 7, title = "Affaire de famille", mbid = "76f178c7-597c-4324-b7d5-5fb83e123aae" },
+  { n = 8, title = "L'Admirable Refrain", mbid = "907f5df4-4f92-4452-b295-7d7d0090be9a" },
+  { n = 9, title = "L'Eau qui dort", mbid = "ca540440-925b-4d19-9bf2-19084f4ba6da" },
+  { n = 10, title = "L'Époux des rancœurs", mbid = "9529e342-ed0a-45ff-a2e5-ede130ecc3b5" },
+  { n = 11, title = "Tonio", mbid = "94f64a81-8e77-4f00-86c9-48e23cd9e824" },
+  { n = 12, title = "Le Pieux et la Potence", mbid = "c71075be-2962-493f-aa6b-77c9c289bfca" },
+  { n = 13, title = "Travers", mbid = "2147d914-ea1b-4e09-83a0-e928a6fcee52" },
+]
+
+[[release]]
+mbid = "bbb51124-978b-3d43-b0d8-d7c0bf65c401"
+title = "La Trajectoire de l'homme canon"
+type = "album"
+date = "2006-10-02"
+tracks = [
+  { n = 1, title = "Un et un font trois", mbid = "d0dd37bc-8890-4c29-8deb-447263d2babc" },
+  { n = 2, title = "Tierra ne répond plus", mbid = "b42330ba-5e72-4a41-bad5-d66c35f94ae2" },
+  { n = 3, title = "Des horizons des péages", mbid = "abdbd8fa-eee1-4446-88fa-44bfca8bbedb" },
+  { n = 4, title = "La Trajectoire de l'homme canon", mbid = "a0415b57-dffd-44de-b321-f50239301b09" },
+  { n = 5, title = "Marilyne", mbid = "35ebef0f-57dc-478c-b8aa-38859ab23483" },
+  { n = 6, title = "Mélodie en action", mbid = "c242c67b-b780-4ce6-8dae-92ce74cde2da" },
+  { n = 7, title = "Ronnie sait", mbid = "25fac32f-6d80-436f-834c-4d2ed6211dff" },
+  { n = 8, title = "De simples choses...", mbid = "c2a68edf-bacb-408d-80cb-fac0bf791321" },
+  { n = 9, title = "Quand la nuit", mbid = "05e539d1-80f5-4f7e-8b03-7b602f007878" },
+  { n = 10, title = "Si j'étais une histoire", mbid = "4ffaf261-c3e9-4b3d-8b6f-8b303b68ac6d" },
+  { n = 11, title = "De la vie jusqu'au cou", mbid = "5770a567-1541-4a26-80f1-42fd8ead04f5" },
+  { n = 12, title = "Paradis", mbid = "9323a491-502f-4297-be1a-470a346f4ecf" },
+  { n = 13, title = "... De choses et d'autres", mbid = "9a80742c-52c7-4f1e-8c10-f688be747737" },
+  { n = 14, title = "Soyez le bienvenu", mbid = "b7dc8d0c-3660-42c6-ad6f-96587ad48118" },
+]
+
+[[release]]
+mbid = "e232a824-0d0e-3859-ab61-2a6e3f5de10b"
+title = "Les Bonnes Manières"
+type = "album"
+date = "2007-10-01"
+tracks = [
+  { n = 1, title = "Tout va bien", mbid = "36ad62cf-604d-4326-89a5-39fd270c1f1b" },
+  { n = 2, title = "Tant d'argent dans le monde", mbid = "c10aa740-1204-49af-99fe-886f0b4c80f3" },
+  { n = 3, title = "Un et un font trois", mbid = "984d842d-4379-4c4c-940d-4607526a3cd5" },
+  { n = 4, title = "Si j'étais une histoire", mbid = "3bb56663-84d9-46cb-8049-09ee3b3fde06" },
+  { n = 5, title = "Que le bon l'emporte", mbid = "bb4b1d7f-eb55-4865-8525-bdab31109ab4" },
+  { n = 6, title = "De la vie jusqu'au cou", mbid = "86b7985d-ddd0-4d22-80ec-02cf0f181ce6" },
+  { n = 7, title = "La Trajectoire de l'homme canon", mbid = "455d2d60-bce1-4a5a-8e36-bf2813ab197e" },
+  { n = 8, title = "Rien venir", mbid = "055a612f-dd6a-4ade-9987-440c65fc5c5e" },
+  { n = 9, title = "L'Empire du Moi", mbid = "eb5468d0-125f-4a80-b12f-6f0b0778c978" },
+  { n = 10, title = "Le Prix du silence", mbid = "0457690c-86ca-4f33-85a9-77b7b36eca99" },
+  { n = 11, title = "La Fumée des gauloises", mbid = "d33f0d17-3947-4b82-a07a-f645c4fe80c9" },
+]
+
+[[release]]
+mbid = "94fcef78-3e20-3125-aa35-c6eedd2b139f"
+title = "Grand Soir"
+type = "album"
+date = "2009-03-16"
+tracks = [
+  { n = 1, title = "Go to the Party", mbid = "0dad4003-431b-4eed-aede-f047bb441da2" },
+  { n = 2, title = "Eddie voit rouge", mbid = "92239eee-01b2-4aa4-b208-a8334022892d" },
+  { n = 3, title = "Un beau matin au plus tard", mbid = "72e7f4c5-46f8-449c-b60a-9b9c4427781b" },
+  { n = 4, title = "Dans la même rue", mbid = "67445f03-dd70-4abf-b51a-57bd91efe17d" },
+  { n = 5, title = "Fantomas 2008", mbid = "555a294e-ab9b-4003-bceb-a801dc8fdbc0" },
+  { n = 6, title = "Quand le réveil sonne", mbid = "067d2e3c-7434-4bad-b868-9cbae1ce0f42" },
+  { n = 7, title = "La Parade de Gordon Banks", mbid = "72fbc41a-9a65-4e2e-bb8c-84531bbbdf6c" },
+  { n = 8, title = "Grand soir", mbid = "442c9a43-df59-4a10-8223-9dda1014cf26" },
+  { n = 9, title = "Padam Elvis", mbid = "21ea0ecd-4d5e-481b-9aa4-734dc552e2fe" },
+  { n = 10, title = "Si tu allais", mbid = "63f825d7-88c0-4c13-81d8-5efde01d8bf1" },
+  { n = 11, title = "Lucile", mbid = "a6d36278-63cc-4015-be03-011402890512" },
+  { n = 12, title = "Depuis ce jour", mbid = "5b03efdc-a793-45f7-b645-48988c5a90b3" },
+]
+
+[[release]]
+mbid = "99bcb145-fd25-4ad9-acd8-ddc50eebc6bd"
+title = "Odeon 10-14"
+type = "album"
+date = "2011-03-28"
+tracks = [
+  { n = 1, title = "Cabaret voltage", mbid = "a3a360ae-f81f-4e57-a516-2154ecbcddb3" },
+  { n = 2, title = "Les Baisers francais", mbid = "3e911cbb-25ce-4ac4-818a-f1b63683fa7f" },
+  { n = 3, title = "Souviens-toi 2012", mbid = "b22fd4ab-6698-4daf-960d-f0fcd9001f7f" },
+  { n = 4, title = "L'Homme aux ailes d'or", mbid = "b056e904-9608-4651-af21-d8997e271966" },
+  { n = 5, title = "Un été en Angleterre", mbid = "3d977d21-b5d4-45b7-8f1c-462e553df1db" },
+  { n = 6, title = "Odéon 10-14", mbid = "49795e9f-d9e4-4ba7-9969-59b665927135" },
+  { n = 7, title = 'Titi "Rose au cœur"', mbid = "aaeb14de-2d73-4aed-9d60-c821fe57149a" },
+  { n = 8, title = "Encore une fois", mbid = "f381571d-dbbf-4ee4-a5dc-906556bc9157" },
+  { n = 9, title = "1982", mbid = "c2d3deb0-810c-4b7a-b1ff-13fcd3f03b5e" },
+  { n = 10, title = "Johnny John Wayne", mbid = "35d4edd0-733f-4e93-b4d9-6d96b4c95901" },
+  { n = 11, title = "Le Prix de la corde", mbid = "aa5b5a8d-021a-4a0e-87e2-60dcd6345f22" },
+  { n = 12, title = "Candide Charlotte", mbid = "f7dcfff9-a69d-451b-8cdd-1954c823b086" },
+]

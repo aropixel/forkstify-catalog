@@ -1,0 +1,641 @@
+format = 1
+
+[[release]]
+mbid = "d07b0700-3066-3a01-b8d4-de4082287f1a"
+title = "Stronger by Design EP"
+type = "ep"
+date = "1992"
+tracks = [
+  { n = 1, title = "The Dream (New Age mix)", mbid = "8e08a9c4-695c-47f0-9eb1-e3013c05ba02" },
+  { n = 2, title = "Virtual Breakdown (Laboratoire mix)", mbid = "9da941ea-533e-4090-bfb1-b59a7b0d30d7" },
+  { n = 3, title = "Virtual Breakdown (Mind Your Head mix)", mbid = "897477ff-3b29-4db3-a801-953cb660a084" },
+  { n = 4, title = "Luv' Chicago (Dance Mutha)", mbid = "b18d2ffa-c869-456b-8e6d-ed6674807632" },
+  { n = 5, title = "The Dream (Gurning mix)", mbid = "8f0e3893-a3a8-46c9-8ec3-8bca30536161" },
+]
+
+[[release]]
+mbid = "eecbc50c-aed2-3b9c-9a1a-990e8bd2e5a4"
+title = "À bout de souffle EP"
+type = "ep"
+date = "1993-06-21"
+spotify = "0mhVUCE794VwDpB3n9hF3G"
+tracks = [
+  { n = 1, title = "Breathless", mbid = "d5919342-46b0-4fd1-83c7-c23ea36d2fa1" },
+  { n = 2, title = "Wake Up", mbid = "26b7ff31-1a38-4e88-80bc-17bb8149ce77" },
+]
+
+[[release]]
+mbid = "06251eb2-3d87-3f3f-bca1-af051e9d5bd1"
+title = "Planet House EP"
+type = "ep"
+date = "1993-11"
+tracks = [
+  { disc = 1, n = 1, title = "Planet Sex (Arse mix)", mbid = "cf80116f-6dc6-4fef-ba40-a43dc5a17322" },
+  { disc = 1, n = 2, title = "Planet Sex (Mouth mix)", mbid = "4f4f6908-66a7-41b8-8b59-c026e137d1ec" },
+  { disc = 1, n = 3, title = "Planet Sex (Legs mix)", mbid = "c874e314-13ce-4a7c-8bf1-811730f96e96" },
+  { disc = 2, n = 1, title = "Moonbeam", mbid = "9deac2cb-b868-49a8-b35d-0232509a4803" },
+  { disc = 2, n = 2, title = "Dark Comet", mbid = "6abbb75c-3022-49d8-9a1b-5631600367bf" },
+  { disc = 2, n = 3, title = "Water Planet", mbid = "d40174a2-edc6-41a1-87f5-da378f9268d8" },
+]
+
+[[release]]
+mbid = "2ff7105b-3fc1-4e74-85cd-4ef04ae27541"
+title = "Mind Sensations"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Mind Sensations (Laurent Garnier's Wake Up Mix)", mbid = "8a9b911c-0f10-4d9f-942c-cb20d3c0d0e2" },
+  { n = 2, title = "Mind Sensations", mbid = "725e7177-3e0b-486f-b70e-49d1bc1c8d94" },
+  { n = 3, title = "Mind Sensations (Voov / System 01 Mix)", mbid = "a62d5b7f-8703-4269-9555-b7df71fc6fa7" },
+  { n = 4, title = "Mind Sensations (Dr. Motte's Deep Theta Mix)", mbid = "301fa86a-36f3-414a-9340-576831384053" },
+  { n = 5, title = "The Confession", mbid = "bba6fec5-7445-42de-9e98-796eac4358ca" },
+]
+
+[[release]]
+mbid = "5f6799b9-9918-473d-9eb5-b57c8594d16d"
+title = "Astral Dreams"
+type = "single"
+date = "1994-09-05"
+tracks = [
+  { n = 1, title = "Astral Dreams (Carl Mmr's mix)", mbid = "e62cc632-81f6-4dbc-82e6-d38486c03cd2" },
+  { n = 2, title = "Astral Dreams (LFO's Reality mix)", mbid = "03a93f5b-282f-4b95-9cb4-9db0189db162" },
+]
+
+[[release]]
+mbid = "d2637edb-d802-3c40-b2cd-b163578680eb"
+title = "Shot in the Dark"
+type = "album"
+date = "1994-10-24"
+tracks = [
+  { disc = 1, n = 1, title = "Shapes Under Water", mbid = "5fdf14d8-13c6-42d0-aeb8-2cbabaf358b9" },
+  { disc = 1, n = 2, title = "The Force", mbid = "e167e4ca-05f3-425b-9d3b-9019ebb8a76f" },
+  { disc = 1, n = 3, title = "Track for Mike", mbid = "182ec300-e1b3-4f0e-acb6-54af490a6da4" },
+  { disc = 1, n = 4, title = "Bouncing Metal", mbid = "793efdd5-386d-42f9-9520-98df0ce1ccc3" },
+  { disc = 1, n = 5, title = "Silver String", mbid = "c7d1e90a-aa7c-4c90-b233-a5f00bf170a1" },
+  { disc = 1, n = 6, title = "Rex Attitude", mbid = "5b6854f7-6896-4eb4-bedf-3fde819acb85" },
+  { disc = 2, n = 1, title = "Geometric World", mbid = "a2934300-7177-41ed-8d68-4718781733ab" },
+  { disc = 2, n = 2, title = "Raw Cut", mbid = "880eac8b-46c7-4fbf-a79f-2830d70899b6" },
+  { disc = 2, n = 3, title = "Rising Spirit", mbid = "038c0421-000c-4713-9790-5837bc360112" },
+  { disc = 2, n = 4, title = "Harmonic Groove", mbid = "599853a9-eb0d-40a9-b6fa-79ecc385fc3a" },
+  { disc = 2, n = 5, title = "Oral Sex", mbid = "bad5f85a-2646-4931-a6cd-0ffb620236a8" },
+  { disc = 2, n = 6, title = "022", mbid = "b47ccac7-09de-4171-802f-3e6733a9d99f" },
+]
+
+[[release]]
+mbid = "18033a3c-8bff-3cb5-a89d-606e0b74ca89"
+title = "Club Traxx EP"
+type = "ep"
+date = "1995-12-11"
+tracks = [
+  { disc = 1, n = 1, title = "Side Effects", mbid = "09d99723-feef-43f8-9236-281d73e6cd5f" },
+  { disc = 1, n = 2, title = "Rachando o Bico", mbid = "e56328bc-3f9e-4a97-8b22-cf7174b4b1de" },
+  { disc = 1, n = 3, title = "Pigalle", mbid = "ce473ad5-9697-4742-ad88-1fc366c8bda2" },
+  { disc = 2, n = 1, title = "Aquarius", mbid = "9a86ec09-f102-41f4-a847-20491edf31cb" },
+  { disc = 2, n = 2, title = "Dance 2 the Music", mbid = "150c378e-9f0a-45bc-863e-57da0277ea00" },
+]
+
+[[release]]
+mbid = "16805f13-12fa-376d-9bdf-b62e60b3a278"
+title = "Crispy Bacon"
+type = "single"
+date = "1997-02-03"
+tracks = [
+  { n = 1, title = "Crispy Bacon (original mix)", mbid = "a47c3f39-dd7a-45f8-8c8f-9e67c00488f2" },
+  { n = 2, title = "Crispy Bacon (Aux 88 mix)", mbid = "91b6bd42-558a-4912-8014-0898b95ba22d" },
+  { n = 3, title = "Crispy Bacon (Gilb'r Versatile mix)", mbid = "70ebb389-8668-4f0a-99ab-9eb8b26f4e76" },
+  { n = 4, title = "The Hoe (Old School mix)", mbid = "9f56879d-b5fd-4ed6-a6bc-9d69bdbb5236" },
+  { n = 5, title = "The Hoe (Nuthin' mix)", mbid = "3831d50a-0cd6-4ba8-a51e-e695456524c2" },
+  { n = 6, title = "The Hoe (DJ Gigolo Hell 3 mix)", mbid = "da77751b-efe0-43f5-a8f8-e8e60d1ff41c" },
+]
+
+[[release]]
+mbid = "48b40512-64e9-31ee-8879-87ab95b8d490"
+title = "30"
+type = "album"
+date = "1997-04"
+tracks = [
+  { n = 1, title = "Deep Sea Diving", mbid = "f2146309-cc27-4313-87e6-af9b42e65321" },
+  { n = 2, title = "Sweet Mellow D", mbid = "b88af3f9-d31e-45e2-a695-61ea3b6425ed" },
+  { n = 3, title = "Crispy Bacon", mbid = "a47c3f39-dd7a-45f8-8c8f-9e67c00488f2" },
+  { n = 4, title = "For Max", mbid = "c92ff153-02a3-4b25-8a6e-c9f2206da7af" },
+  { n = 5, title = "The Hoe", mbid = "2ce37da9-ee9e-4b03-8f92-1c0bab2c1605" },
+  { n = 6, title = "Mid Summer Night", mbid = "e1b98b2d-6b2d-4065-b5c2-126a59934eb9" },
+  { n = 7, title = "Kall It!", mbid = "5de488bc-7ea9-4c03-ae13-077703057916" },
+  { n = 8, title = "La minute du répondeur le plus casse-couilles", mbid = "9949dca3-5d32-4a98-8811-de886559f1b6" },
+  { n = 9, title = "Theme From Larry's Dub", mbid = "204d24ec-187b-40ba-ae30-72a6493dd8f6" },
+  { n = 10, title = "Feel the Fire", mbid = "20f14c08-55af-4baf-8e2a-3b377aa482bf" },
+  { n = 11, title = "Flashback", mbid = "369afe57-8e9a-4a2b-926c-35f15b2db481" },
+  { n = 12, title = "I Funk Up", mbid = "4152deb8-f84b-4f4a-9f6f-289c5b6c2199" },
+  { n = 13, title = "*?*", mbid = "64dee443-9a80-4e7f-a380-ea497d4461c0" },
+  { n = 14, title = "Le voyage de Simone", mbid = "028cd538-bf0c-4cf0-8ed5-0dc634c8c8b8" },
+]
+
+[[release]]
+mbid = "56b091cb-dafd-313f-8f37-53c4dfa453f4"
+title = "Flashback"
+type = "single"
+date = "1997-06"
+tracks = [
+  { n = 1, title = "Flashback (Laboratoire mix)", mbid = "75b3386b-645a-4f8b-a67a-edbb61df7027" },
+  { n = 2, title = "Flashback (Lil' Louis Civilized Instrumental Painting)", mbid = "d326df92-5601-49a8-adbb-08aade28628d" },
+  { n = 3, title = "Flashback (original mix)", mbid = "236f7268-f0de-4a3e-8e36-87e747e3ca34" },
+]
+
+[[release]]
+mbid = "3e61a08e-ac84-371e-8081-499d3c5260f2"
+title = "Coloured City"
+type = "single"
+date = "1998-05-25"
+spotify = "18QyXABTDP0SkepX8kEEAN"
+tracks = [
+  { n = 1, title = "Coloured City", mbid = "135d98ec-3384-4c47-886f-03413b7d24ac" },
+  { n = 2, title = "Jackin' Zone", mbid = "2b6f3d37-0c6c-4927-9231-e7a961a9cde5" },
+  { n = 3, title = "Crispy Bacon (bitten by The Black Dog)", mbid = "004655cd-e524-4c9e-b1e4-5dc355192e7e" },
+]
+
+[[release]]
+mbid = "eae4193e-b131-3890-8b2e-78f953553f3c"
+title = "The Sound of the Big Babou"
+type = "single"
+date = "1999-10"
+tracks = [
+  { n = 1, title = "The Sound of the Big Babou (radio version)", mbid = "48b61977-5e4c-4b26-8a76-588a28d367a3" },
+  { n = 2, title = "Sore Fingers", mbid = "0d52c9c2-8e84-4ac1-b52d-504bad3f0ea0" },
+  { n = 3, title = "The Sound of the Big Babou", mbid = "4f4698a5-971b-4a52-8909-4269cc466ed3" },
+]
+
+[[release]]
+mbid = "f5ff570a-2385-4ab1-836c-1251c2d8a4b2"
+title = "Greed / The Man With the Red Face"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Greed (Fabrice Lig mix)", mbid = "ac77ff32-3cfa-439d-872b-d67e3d057916" },
+  { n = 2, title = "Greed (Dave Clarke mix)", mbid = "96152004-bd58-4452-8983-49c0bb6ca9eb" },
+  { n = 3, title = "The Man With the Red Face (Ashley Beedle mix)", mbid = "a89b543e-b642-4b01-a277-8eada2ef4807" },
+]
+
+[[release]]
+mbid = "26abe8e6-4c7f-3e46-a18c-0a037c2faef1"
+title = "Wake Up / Plasmids"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Wake Up", mbid = "392cf90e-14f5-4ba9-9923-5f4548dbc879" },
+  { n = 2, title = "Plasmids", mbid = "a79accfa-ef93-4765-8ad0-df280e836be5" },
+]
+
+[[release]]
+mbid = "5e4ab0c9-6fe5-3096-9ef5-7ea9a177f625"
+title = "Unreasonable Behaviour"
+type = "album"
+date = "2000-02-07"
+tracks = [
+  { n = 1, title = "The Warning", mbid = "cfd977ff-bdd1-431e-9835-75f8600ce246" },
+  { n = 2, title = "City Sphere", mbid = "24a77ec4-2c59-4ee5-9d0d-76859c2b6c4e" },
+  { n = 3, title = "Forgotten Thoughts", mbid = "6e5ea4bb-88dc-4e19-bc0d-74c36c089b2a" },
+  { n = 4, title = "The Sound of the Big Babou", mbid = "4f4698a5-971b-4a52-8909-4269cc466ed3" },
+  { n = 5, title = "Unreasonable Behaviour", mbid = "a98d8921-9410-40e3-83d6-0c89689bb110" },
+  { n = 6, title = "Cycles d’oppositions", mbid = "b544e4b3-f1e2-4418-8a0f-ca3db9f9ff21" },
+  { n = 7, title = "The Man With the Red Face", mbid = "646eaee1-c313-45b8-ac69-d8e722248561" },
+  { n = 8, title = "Communications From the Lab", mbid = "92480712-2437-4fd0-8c91-01072cf92903" },
+  { n = 9, title = "Greed, Part 1 + 2", mbid = "e6ad6cfa-12cf-41dc-aeed-51fef563e807" },
+  { n = 10, title = "Dangerous Drive", mbid = "07dfaaa0-e0fa-45ce-8fa2-a30df8c26502" },
+  { n = 11, title = "Downfall", mbid = "265d6078-948a-43a9-bf6b-3fb4dc5a46c4" },
+  { n = 12, title = "Last Tribute From the 20th Century", mbid = "4df6a3b2-3ed6-4d49-9c07-f076e2888e5b" },
+]
+
+[[release]]
+mbid = "6be576b3-a186-32e1-bde5-80e29186ab2f"
+title = "The Man With the Red Face"
+type = "single"
+date = "2000-04"
+tracks = [
+  { n = 1, title = "The Man With the Red Face (radio edit)", mbid = "f56adc13-924a-4b28-8cf1-976ce709ce5e" },
+  { n = 2, title = "The Man With the Red Face (original)", mbid = "646eaee1-c313-45b8-ac69-d8e722248561" },
+]
+
+[[release]]
+mbid = "1806e517-a3d1-3ad4-82f4-476488c31af6"
+title = "Greed"
+type = "single"
+date = "2000-09"
+tracks = [
+  { n = 1, title = "Greed (Part One)", mbid = "9ef9068b-3917-415f-979f-3489aeaf0d9c" },
+  { n = 2, title = "Greed (Avril mix)", mbid = "d4d9e0c1-9ac2-47f3-80db-bafb3461fb1d" },
+  { n = 3, title = "The Man With the Red Face (Jan Driver mix)", mbid = "ad9853a6-e37e-48dd-b122-a782f9631df7" },
+]
+
+[[release]]
+mbid = "80671514-fc7f-3201-9618-8f0c6cdac804"
+title = "The Cloud Making Machine"
+type = "album"
+date = "2005-01-20"
+tracks = [
+  { n = 1, title = "The Cloud Making Machine, Part 1", mbid = "c8752cf8-6841-4d95-b83d-e635135919a0" },
+  { n = 2, title = "9.01-9.06", mbid = "188afb14-5e57-4f5b-b810-992353bf9af2" },
+  { n = 3, title = "Barbiturik Blues", mbid = "5a150de2-96a6-4be8-8b93-235cfce8ee04" },
+  { n = 4, title = "Huis Clos", mbid = "2d059324-c745-4db3-b489-81f31edaeb39" },
+  { n = 5, title = "Act 1 Minotaure Ex.", mbid = "befd2fe2-8fc0-4805-9bf8-e701b88e54f1" },
+  { n = 6, title = "First Reaction (V2)", mbid = "d0f40db9-95d2-4823-9b5d-5ebbb3405f61" },
+  { n = 7, title = "Controlling the House, Part 2", mbid = "28fb4bda-f750-42de-9c31-fa2094483155" },
+  { n = 8, title = "(I Wanna Be) Waiting for My Plane", mbid = "84cc9ba9-1e39-419a-93f6-a831a183e91c" },
+  { n = 9, title = "Jeux d'enfants", mbid = "0aa4568d-a112-4519-8386-2493ef2f1524" },
+  { n = 10, title = "The Cloud Making Machine, Part 2", mbid = "384ac202-a9db-4647-9617-dda3af53e6fb" },
+]
+
+[[release]]
+mbid = "d0c60639-8cdb-486e-99e4-bd0604d19166"
+title = "Controlling The House (Frederic De Carvalho Remix)"
+type = "single"
+date = "2006-09-18"
+tracks = [
+  { n = 1, title = "Controlling the House (Frederic de Carvalho remix)", mbid = "2f3a7995-5449-469b-92ce-8349be857ef7" },
+]
+
+[[release]]
+mbid = "d09f0edf-1340-3aae-951a-a7b22fad0b2f"
+title = "Public Outburst"
+type = "album"
+date = "2007-07-16"
+tracks = [
+  { n = 1, title = "63", mbid = "0a9df6b0-d515-4f6e-903b-31da7faf310a" },
+  { n = 2, title = "Butterfly", mbid = "f2449882-c77e-47e4-bb6d-ecdb54dd17ba" },
+  { n = 3, title = "M Bass", mbid = "2923b29b-b51a-4516-b134-167aba1e9b48" },
+  { n = 4, title = "Controlling the House", mbid = "b6d8d82a-bf81-40ec-ab6f-8ab96c690b02" },
+  { n = 5, title = "The Battle", mbid = "992b5b7d-83e3-4fe5-b8ec-17e867dc7d40" },
+  { n = 6, title = "First Reactions", mbid = "d2706697-7ba0-4994-a35f-3aa136497e53" },
+  { n = 7, title = "Barbiturik Blues", mbid = "f901b747-72d8-4fc3-ad6e-ced2af7b13b8" },
+]
+
+[[release]]
+mbid = "58a1c825-5922-391c-8757-eac3b0925804"
+title = "Back to My Roots EP"
+type = "ep"
+date = "2008-05-26"
+tracks = [
+  { n = 1, title = "Back to My Roots (original Afrodiziac mix)", mbid = "a68d274f-f493-4bb1-a804-7ab12a5ff858" },
+  { n = 2, title = "Panoramix", mbid = "678670df-9d9b-416d-ba6e-de7859576000" },
+]
+
+[[release]]
+mbid = "ee6212e2-e918-30e1-a1aa-3f18ec52804b"
+title = "Gnanmankoudji"
+type = "single"
+date = "2009-03"
+tracks = [
+  { n = 1, title = "Gnanmankoudji (Horny Monster mix)", mbid = "e1de4184-fe52-4e68-9aa1-5acb964af2cf" },
+  { n = 2, title = "Gnanmankoudji (original Broken-Afro mix)", mbid = "4753d3a7-5038-487d-a871-3ca5bd5dfaea" },
+]
+
+[[release]]
+mbid = "58397bcf-8d5b-3ce8-bab6-23c9ff7d2c8c"
+title = "Tales of a Kleptomaniac"
+type = "album"
+date = "2009-05-08"
+tracks = [
+  { n = 1, title = "No Musik, No Life", mbid = "bc1fe69d-5b9f-4be2-9d70-e11ed1848aae" },
+  { n = 2, title = "Freeverse, Part 1 (feat. Micflow)", mbid = "ac65940f-c273-4acd-93f0-a0404cc02eb3" },
+  { n = 3, title = "Gnanmankoudji (Horny Monster mix)", mbid = "18345fff-b8c6-4da4-a745-a1a7822b877c" },
+  { n = 4, title = "Dealing With the Man", mbid = "3b494475-cb57-42b0-a1bb-d62fb9d2716a" },
+  { n = 5, title = "Last Dance @ Yellow", mbid = "9eefbb4b-525d-4d81-9e15-418de2e5f5a6" },
+  { n = 6, title = "Desirless", mbid = "6757b9c8-98a0-4c62-b355-63efb4b8ec77" },
+  { n = 7, title = "Pay TV", mbid = "a85da1b7-1b28-46ab-8283-f6d095614978" },
+  { n = 8, title = "Bourre Pif (Avant Bath Time!)", mbid = "8f7b6ff4-73be-427c-b3f9-0ecac65c8a2e" },
+  { n = 9, title = "Freeverse, Part 2 (feat. Tumi) (Stripped to the Bone mix)", mbid = "dd2fe7ca-0436-4085-9788-ba2320d8266b" },
+  { n = 10, title = "Back to My Roots (Back to My Technodiziak Roots)", mbid = "dfdce3b9-232c-4517-90a7-c627ceb97919" },
+  { n = 11, title = "Food for Thought (feat. Winston McAnuff)", mbid = "0a7d8a14-5959-4051-968c-006e5ea558c5" },
+  { n = 12, title = "From Deep Within", mbid = "c0c8ee73-752e-44d0-a705-6a85a38b9b5e" },
+]
+
+[[release]]
+mbid = "e65cc60c-6260-49eb-91cc-4fdecee55517"
+title = "Pay TV"
+type = "single"
+date = "2009-06-13"
+tracks = [
+  { n = 1, title = "Pay TV (radio edit)", mbid = "37b12657-08a7-4dc5-90a5-c3c49d82caba" },
+  { n = 2, title = "Pay TV (Emperor Machine mix)", mbid = "19ca7ce4-3bed-4b52-906e-e000fd5be69e" },
+  { n = 3, title = "Pay TV (OK Bonnie doing indie mix at Tutu's)", mbid = "b1d068de-11f8-4a8f-9acc-5cf7fd679b82" },
+  { n = 4, title = "Pay TV (Scan X remix)", mbid = "ee9ed360-a9b9-4d28-be31-4f35d4d3ec64" },
+  { n = 5, title = "Pay TV", mbid = "8e8233a7-8e44-4695-8c07-594fa12bb070" },
+]
+
+[[release]]
+mbid = "58be399a-7817-457e-a63e-8b56e91c0ec2"
+title = "Alaska"
+type = "ep"
+date = "2010-04-05"
+tracks = [
+  { n = 1, title = "It's Just Muzik", mbid = "f088806c-25b3-4264-9bd5-21eafa098b62" },
+  { n = 2, title = "Stargazing", mbid = "1cc4206e-2965-4116-94c9-8e65bfa9d336" },
+]
+
+[[release]]
+mbid = "bc078013-5a8e-4487-b3ea-a8b1b8f1860b"
+title = "Gnanmankoudji Remixes"
+type = "single"
+date = "2010-06"
+tracks = [
+  { n = 1, title = "Gnanmankoudji (Emperor Machine Remix)", mbid = "832fe8a1-166f-4874-a0c3-caebca8d4701" },
+  { n = 2, title = "Gnanmankoudji (Kultür & Colombo Remix)", mbid = "6a240736-3b17-4c2f-a862-2e5020cbc61c" },
+  { n = 3, title = "Gnanmankoudji (Andreas Saag's Jazz Lesson)", mbid = "d2ca809c-03f0-42c2-b667-b33877be9f3a" },
+]
+
+[[release]]
+mbid = "416ea299-87b9-49d9-ab6b-19a21938a38a"
+title = "Timeless EP"
+type = "ep"
+date = "2012-04-01"
+tracks = [
+  { n = 1, title = "Jacques in the Box", mbid = "eebe359a-8971-43f2-a0b0-5e7fee0f2bef" },
+  { n = 2, title = "Our Futur (Loud Disco mix)", mbid = "1019988b-429d-47c8-bb6c-6c93a8a08406" },
+  { n = 3, title = "Our Futur (Deeper Detroit mix)", mbid = "766b4fe4-9119-40ab-b47e-5b3a65b13767" },
+]
+
+[[release]]
+mbid = "bb5bfc6f-ff30-482d-a83a-8fd241bf6db1"
+title = "AF 0490"
+type = "ep"
+date = "2014-02-11"
+tracks = [
+  { n = 1, title = "Bang (The Underground Doesn't Stop)", mbid = "ff0379a6-c028-4d57-bab1-fc4daa9ce2f4" },
+  { n = 2, title = "Boom (Chakolak)", mbid = "463d18f0-65a3-4d8a-9a7e-ac274891889d" },
+  { n = 3, title = "Beat (Da Boxx)", mbid = "7c00402e-9e8f-4c1e-ba58-d9e7747b59ca" },
+]
+
+[[release]]
+mbid = "30f6280f-27e6-4e1c-8b7a-2f0c9c40230f"
+title = "A13"
+type = "ep"
+date = "2014-03-24"
+tracks = [
+  { n = 1, title = "Revenge of the Lol Cat", mbid = "30c12d87-8ad7-47bd-a700-1e6b14e93264" },
+  { n = 2, title = "Wise Words for No-Life Guacamoles", mbid = "00ce1e85-0bd6-4982-93f6-1d156f96d465" },
+  { n = 3, title = "The Rise & Fall of the Donkey Dog", mbid = "c35275d9-a405-44cf-9d47-fe177561d2ef" },
+  { n = 4, title = "Dinosaurs Are Gone", mbid = "454ca689-eb7e-4c6a-87ad-b2496649ff46" },
+  { n = 5, title = "Revenge of the Lol Cat (Fulgeance remix)", mbid = "4457d926-9c48-46b4-b57e-1a429d1b2931" },
+  { n = 6, title = "Dinosaurs Are Gone (S3A's Ravist remix)", mbid = "1f033c72-8386-4421-b35b-bb994064bea0" },
+  { n = 7, title = "Wise Words for No-Life Guacamoles (Claude remix)", mbid = "364e7258-c40b-477b-a711-786613f5eb5d" },
+  { n = 8, title = "Revenge of the Lol Cat (Baron Rétif & Concepcion Perez remix)", mbid = "ef50151a-2737-4291-8926-ad10380f2648" },
+  { n = 9, title = "Dinosaurs Are Gone (S3A's Ravist extended mix)", mbid = "08bb8e55-f492-4655-977a-60e6c4352b8c" },
+]
+
+[[release]]
+mbid = "13443da8-4aea-4450-afb8-9a617c3ae09f"
+title = "AF 4302"
+type = "ep"
+date = "2014-04-04"
+tracks = [
+  { n = 1, title = "M.I.L.F.", mbid = "cd58e619-a875-4e5f-a5b5-c81930287148" },
+  { n = 2, title = "D.S.K.", mbid = "4c979b35-22b5-4310-93b7-ec68204d0282" },
+  { n = 3, title = "H.E.", mbid = "fc6fcbcd-628d-4912-9349-e9f30b658b75" },
+]
+
+[[release]]
+mbid = "9b4893c6-030c-4557-94fe-dd32ecf128d1"
+title = "KL 2036"
+type = "ep"
+date = "2014-06"
+tracks = [
+  { n = 1, title = "Psyche-Delia", mbid = "ff873b54-6fa4-4590-a506-4b551e3ab02d" },
+  { n = 2, title = "Whistle for Frankie", mbid = "e802c706-f606-4790-a111-a7032521cab2" },
+]
+
+[[release]]
+mbid = "15480fab-e675-4865-a9ed-83653ef67ee3"
+title = "BA371"
+type = "ep"
+date = "2014-10"
+tracks = [
+  { n = 1, title = "ENCHANTé (original mix)", mbid = "188a103d-df01-4df4-a7df-eba7b058fd16" },
+  { n = 2, title = "Confused (original mix)", mbid = "ccab4702-cf16-433c-9bff-72e80df00e93" },
+]
+
+[[release]]
+mbid = "641a628d-6609-4300-8977-21741bc5a0ed"
+title = "BA371 EP"
+type = "ep"
+date = "2014-10-06"
+tracks = [
+  { n = 1, title = "ENCHANTé", mbid = "188a103d-df01-4df4-a7df-eba7b058fd16" },
+  { n = 2, title = "pǝsnɟuoɔ", mbid = "ccab4702-cf16-433c-9bff-72e80df00e93" },
+]
+
+[[release]]
+mbid = "fafe8e39-69dc-4c8a-9b75-f8bc9c326ecd"
+title = "La HOME Box"
+type = "album"
+date = "2015-04-16"
+spotify = "4QjPbIrIwqixcufWMEi3rF"
+tracks = [
+  { n = 1, title = "Psyche-Delia", mbid = "5add6835-fedb-4ad3-9712-bf62b1697e36" },
+  { n = 2, title = "ENCHANTé", mbid = "9ef08e89-1d75-49b0-9c3f-7b09bcad28eb" },
+  { n = 3, title = "The Rise & Fall of the Donkey Dog", mbid = "c35275d9-a405-44cf-9d47-fe177561d2ef" },
+  { n = 4, title = "I'm Going Home", mbid = "df4c6a99-a556-415a-ab7e-d2e6240629e9" },
+  { n = 5, title = "Revenge of the Lol Cat", mbid = "30c12d87-8ad7-47bd-a700-1e6b14e93264" },
+  { n = 6, title = "M.I.L.F.", mbid = "5bd7a91f-eb4f-4577-b944-c56579f7058d" },
+  { n = 7, title = "Bang (The Underground Doesn't Stop)", mbid = "77c18c6d-e1d3-4746-8043-678995d6d5f7" },
+  { n = 8, title = "Boom (Chakolak) (Traumer African remix)", mbid = "c36145a5-e162-4690-b810-bb5089b9d383" },
+  { n = 9, title = "And the Party Goes On", mbid = "80b3fd5e-8a1d-49df-9018-ea9efd4fb50f" },
+  { n = 10, title = "The Rise & Fall of the Donkey Dog (Husbands remix)", mbid = "b7251cef-19c6-4c47-beaf-39bb3d3c20aa" },
+]
+
+[[release]]
+mbid = "1d35adc0-01f5-4641-a99b-b40f9da67a41"
+title = "Honey I'm Home!"
+type = "ep"
+date = "2015-05-11"
+tracks = [
+  { n = 1, title = "Drifting in Midwaters", mbid = "7efe56e1-104e-46f9-9333-3d5b7bc4f831" },
+  { n = 2, title = "I'm Going Home", mbid = "ad645190-743a-4c2a-b8b3-a77998431840" },
+  { n = 3, title = "And the Party Goes", mbid = "3592869a-dac5-4176-b12c-33d380c868ec" },
+]
+
+[[release]]
+mbid = "d96637b1-ee7e-422a-b33b-5f54a05585fb"
+title = "Speicher 95: Tribute EP"
+type = "ep"
+date = "2017-04-14"
+tracks = [
+  { n = 1, title = "1-4 Doctor C’est Chouette", mbid = "8fee76a7-87bc-42ff-a796-0dbcdccacaae" },
+  { n = 2, title = "From the Crypt to the Astrofloor", mbid = "36e307f0-e62e-426a-a130-2d687e3d1e79" },
+]
+
+[[release]]
+mbid = "96e8089f-3956-48c9-a59e-b36d1cf536d8"
+title = "Feelin’ Good"
+type = "ep"
+date = "2019-07-12"
+spotify = "3AQS7MViSkfMJi1f9RnMLX"
+tracks = [
+  { n = 1, title = "Feelin’ Good", mbid = "df542102-3a6c-487f-8b0d-c95b75fd8f4c" },
+  { n = 2, title = "Feelin’ Good (Radio Slave remix)", mbid = "dbff359e-18f9-4826-b7e2-86f724f96576" },
+  { n = 3, title = "Feelin’ Good (Radio Slave Revenge remix)", mbid = "48f56282-9245-4083-9580-d4d613b3425d" },
+]
+
+[[release]]
+mbid = "e8f9fab6-0d8f-4da3-8741-ddc4141b8865"
+title = "Le roi bâtard"
+type = "album"
+date = "2020-09-29"
+spotify = "1I4k5nPVRId5TaLNb7pUxq"
+tracks = [
+  { n = 1, title = "Opening", mbid = "d6ea0bd9-9b2b-4ab0-bcf5-dfd2a53a97b6" },
+  { n = 2, title = "Clans", mbid = "807d8f1c-903f-4912-85c1-f31b9d04b858" },
+  { n = 3, title = "King Duties", mbid = "5517c7ce-255c-4c4f-83ae-e124da60395c" },
+  { n = 4, title = "Discover", mbid = "5066f34e-f25a-4654-877b-64e78deb74b4" },
+  { n = 5, title = "Huntress", mbid = "7e564e9b-d451-4b93-b5cf-b0f64f8a6980" },
+  { n = 6, title = "Mating", mbid = "39d4f888-d70d-4969-b1ec-3eb6362bde14" },
+  { n = 7, title = "Child Killer", mbid = "93c3513c-9b27-48ab-b82f-488838363507" },
+  { n = 8, title = "Clans Rules", mbid = "194cbde0-cb89-49b1-ba88-12e2ba28acf2" },
+  { n = 9, title = "Both Together", mbid = "ec29b317-9fa7-4608-b668-a91b8f243a17" },
+  { n = 10, title = "Mother", mbid = "2834b1b5-e15e-47e7-a284-2c46c253d1b5" },
+  { n = 11, title = "Giraffe Hunt", mbid = "58f72193-bca6-41cb-b1e0-fdd016c0a1d3" },
+  { n = 12, title = "Nightmare", mbid = "8874f598-38fb-4bbb-b9e4-88f96f628373" },
+  { n = 13, title = "Blue Eyed Buffalo", mbid = "3534a2f7-d9c0-4573-b896-2d1bfa761a6d" },
+  { n = 14, title = "With Blue Eyed", mbid = "6511b873-d15d-4e5e-ad5c-3566cb09b3ab" },
+  { n = 15, title = "Friendship and Disaster", mbid = "b25ea508-04a5-4149-92f7-aab47364fac6" },
+  { n = 16, title = "Hope", mbid = "62f09d00-26ff-4ba5-a2e8-07e33e30c555" },
+  { n = 17, title = "Giraffe Takedown", mbid = "06479ccb-757a-4032-8645-910fbbef9a84" },
+  { n = 18, title = "The Fight", mbid = "2c506edf-cba6-4d5a-bfb7-ebd85b68c2df" },
+  { n = 19, title = "The King", mbid = "42bfad33-f567-40fe-ba15-06f7cd53c34e" },
+]
+
+[[release]]
+mbid = "719046c0-b336-487c-962c-9c479d6ce86c"
+title = "De Película"
+type = "album"
+date = "2021-09-07"
+spotify = "6Dpr7VxwL4dcuJQ623t4nh"
+tracks = [
+  { n = 1, title = "Saul", mbid = "d8d3ac63-9106-433e-a741-025a1bb24ca0" },
+  { n = 2, title = "Je rentrais par le bois... BB", mbid = "7aefafcd-ace2-4200-8cd1-1f8ebbe2ed29" },
+  { n = 3, title = "Juliette dans la caravane", mbid = "e081667d-7c3a-40f7-bcee-bb7cfcec7f09" },
+  { n = 4, title = "Que calor!", mbid = "cf2f98c2-e6dd-4f11-a3f6-4003465f1522" },
+  { n = 5, title = "Promenade oblique", mbid = "3068f13c-eb74-4185-b416-9b395edb6cdc" },
+  { n = 6, title = "Tu tournes en boucle", mbid = "2a9bad35-6e67-492c-8be2-7d2198007d03" },
+  { n = 7, title = "Steeplechase", mbid = "e34694be-a2a4-4d13-9486-d70d96b0fbce" },
+  { n = 8, title = "Juliette", mbid = "b7fc64ec-cf14-4e3c-9e9a-7103a027edc0" },
+  { n = 9, title = "Ne gâche pas l’aventure humaine", mbid = "d4022f6c-cae8-4092-b447-2e06e011068f" },
+  { n = 10, title = "Au début, c’était le début", mbid = "99abe3cb-1f97-43e9-bed2-719591d9225a" },
+  { n = 11, title = "Saul s’est fait planter", mbid = "cef27a0f-5154-4acc-a821-27ee9ef8c1f3" },
+  { n = 12, title = "Que calor! (edit)", mbid = "375fea11-da8c-4893-b202-fbad632f471e" },
+]
+
+[[release]]
+mbid = "bc8f0212-6e51-4ba8-a632-13292e76abc1"
+title = "33T.E.P.S.V. EP 01"
+type = "ep"
+date = "2022"
+tracks = [
+  { n = 1, title = "Saké Stars Fever", mbid = "9c5244f0-0b43-4f0f-b6df-2f07345ff4ab" },
+  { n = 2, title = "Let The People Faire La Fête", mbid = "08ba3c06-fc69-4cb4-8375-22440ba0df91" },
+]
+
+[[release]]
+mbid = "c5ac03ac-99a2-4a03-994f-923b34a9ef10"
+title = "33T.E.P.S.V. EP 02"
+type = "ep"
+date = "2022"
+tracks = [
+  { n = 1, title = "Tales From The Real World", mbid = "b8993760-cc5d-4d7c-a281-f23314ad6c7c" },
+  { n = 2, title = "Give Me Some Sulfites", mbid = "d2d300e5-1c1e-40e9-9fa3-b53b9eaa0561" },
+]
+
+[[release]]
+mbid = "9ded17cb-f0fb-46f6-b767-1d640d6e483f"
+title = "33T.E.P.S.V. EP 03"
+type = "ep"
+date = "2022"
+tracks = [
+  { n = 1, title = "Reviens La Nuit", mbid = "4b623727-549b-4cf4-a59c-289773bea12b" },
+  { n = 2, title = "Cinq O'clock In Le Matin", mbid = "16c0ff4a-ee75-4881-8dcb-2babd0cbd48b" },
+]
+
+[[release]]
+mbid = "400818b5-9271-4e8c-8224-0c67b70c3778"
+title = "33T.E.P.S.V. EP 04"
+type = "ep"
+date = "2022"
+tracks = [
+  { n = 1, title = "Liebe Grüße Aus Cucuron", mbid = "c5d74e77-c852-46e7-bebb-c7864f129ed6" },
+  { n = 2, title = "Granulator Bordelum", mbid = "a9a9e49e-d6e5-4702-a7b0-e6daf74d94cd" },
+]
+
+[[release]]
+mbid = "f9f68656-4550-453b-bde7-58d2eeec595e"
+title = "33T.E.P.S.V. EP 05"
+type = "ep"
+date = "2022"
+tracks = [
+  { n = 1, title = "Au Clair de Ta Lune", mbid = "cc4a6728-37f8-41ad-8a8f-87e21537cb64" },
+  { n = 2, title = "Le Swing Du Pouletto", mbid = "8669cba2-d03d-46cc-8e81-72a3f82f6f19" },
+]
+
+[[release]]
+mbid = "6327e5ca-f401-49c4-8819-547326ea6d41"
+title = "Entre la vie et la mort (Bande originale du film)"
+type = "album"
+date = "2022-06-24"
+spotify = "1vTArlfNeJyo08biKzuVJ7"
+tracks = [
+  { n = 1, title = "Entre la vie et la mort (Opening Credits)", mbid = "352f3f3e-f606-40fc-99dd-80d7335d4ba3" },
+  { n = 2, title = "Hello Spycam", mbid = "8bb3396d-1e36-488a-ac21-dccc9914969e" },
+  { n = 3, title = "The Fight", mbid = "f20ef89e-e808-4cfe-849a-d3a97f8b96db" },
+  { n = 4, title = "Le trèfle", mbid = "f5d03ea8-a029-4e31-8798-45961bc7b26c" },
+  { n = 5, title = "Tchao Bye Bye", mbid = "712a6e1e-da5e-4d6a-8550-e5033b2a8b16" },
+  { n = 6, title = "S.D.B", mbid = "099907d5-1059-4fa7-b58e-430fb58b9ece" },
+  { n = 7, title = "L’adieu", mbid = "55f7b351-de38-4a31-bf6a-cadb4b55766b" },
+  { n = 8, title = "Révélations", mbid = "1bf5952b-897a-4383-a4ff-5ab34487baf1" },
+  { n = 9, title = "Where The Hell Are You ?", mbid = "c07d9d63-0a85-41f4-bcef-968db52dcf22" },
+  { n = 10, title = "Rooftop", mbid = "354fdcd8-d9d5-415d-b56b-c99db0874378" },
+  { n = 11, title = "Atonium", mbid = "2484fdec-01bc-4fd3-84d7-b8251a51155f" },
+  { n = 12, title = "C.D.B", mbid = "6dcb5d73-970a-472b-8f01-9d87dfb539ba" },
+  { n = 13, title = "I’m After You", mbid = "45690307-8a13-4d9f-a846-7b8303cdac60" },
+  { n = 14, title = "Entre la vie et la mort (End Credits)", mbid = "6406df2d-3789-405e-a7a5-eb050e929676" },
+]
+
+[[release]]
+mbid = "e4a4474c-726d-4055-92fc-64daecb5a14f"
+title = "33 tours et puis s'en vont"
+type = "album"
+date = "2023-05-26"
+tracks = [
+  { n = 1, title = "Tales from the real world (vocal version)", mbid = "0218e009-e531-479c-a98f-0bf6e46b336a" },
+  { n = 2, title = "Liebe grüße aus cucuron", mbid = "455d6415-6c84-4642-9614-881a4ed6ae1a" },
+  { n = 3, title = "In your phase", mbid = "bf8688d7-14c3-4038-8fcd-19dda6d0be52" },
+  { n = 4, title = "Reviens la nuit (original mix)", mbid = "fd63f56c-c282-43d6-b5ad-d38c6690ab1e" },
+  { n = 5, title = "Saturn drive triplex", mbid = "bfa12c3a-603c-45a0-be8f-3da83dcb429b" },
+  { n = 6, title = "Sado miso", mbid = "1aaf7222-0d1a-44af-a7a3-a0f77e557729" },
+  { n = 7, title = "Au clair de ta lune", mbid = "c0b7ecea-fd6f-4331-af9f-c86860d7d05d" },
+  { n = 8, title = "Saké stars fever", mbid = "dc186bc2-94cf-4e25-961c-f720f6b1794a" },
+  { n = 9, title = "Multiple tributes (To multiple people, for multiple reasons)", mbid = "39460398-f3d7-47c5-94dc-c3256278267a" },
+  { n = 10, title = "... Et puis s'en va !", mbid = "299ed1a3-2e60-4f60-98aa-520e9ec90db2" },
+]
+
+[[release]]
+mbid = "4809b06d-bf64-426c-b717-ed4d008f69b5"
+title = "fabric presents Laurent Garnier: House Odyssey"
+type = "album"
+date = "2025-07-04"
+spotify = "17IoYJSZCh7PDfxifkVwQm"
+tracks = [
+  { n = 1, title = "Niyabaleka (Mr. Blasé's a Luta Continua mix)", mbid = "90c019ba-691d-4c5c-852e-32f34c8d077d" },
+  { n = 2, title = "Palm Springs", mbid = "65c77667-adfa-4d30-a818-0b9197da4116" },
+  { n = 3, title = "Drummotions (The Mike Dunn Movement mix)", mbid = "3046f9d4-52f7-4bb6-962a-235c083b95e7" },
+  { n = 4, title = "Aftermath", mbid = "646f435f-7e98-4c0b-ae16-7079c09d2ace" },
+  { n = 5, title = "Walking on Thin Ice (remix)", mbid = "20e06908-b14e-45f4-9647-fdfedbc5db88" },
+  { n = 6, title = "Where the Freaks At (club mix)", mbid = "b42b8b22-243f-497f-a2a7-7bf694498829" },
+  { n = 7, title = "A Deep-Felt Love (extended mix)", mbid = "788c0ecf-7a54-47bb-a073-38d9b29cb2c2" },
+  { n = 8, title = "Girl", mbid = "5a87d951-8783-4345-8235-6dbc54ee5631" },
+  { n = 9, title = "Obey", mbid = "3d47632a-ca5c-462c-ba32-d5aed5f86577" },
+  { n = 10, title = "What You Gonna Do", mbid = "3d347c45-3e75-4514-9c04-6de83ae43aa4" },
+  { n = 11, title = "Parallel Reality", mbid = "d91f26c3-8557-4eeb-877b-6380b7e1bf8b" },
+  { n = 12, title = "Liquid Samba", mbid = "c7c97ff6-1ebd-4a9c-874b-b619e0c23c74" },
+  { n = 13, title = "Flurry", mbid = "cf6b2e70-1e0d-4273-aabe-9ad59df899c3" },
+  { n = 14, title = "Strong Enough", mbid = "89437520-25b6-4ddd-8f7c-fcf922152ff5" },
+  { n = 15, title = "So Good", mbid = "f4ee231f-189d-4491-821f-9035ab45d01f" },
+  { n = 16, title = "Whether the Weather", mbid = "83cb38c7-33f4-413a-9a99-bbee4f8e31c0" },
+  { n = 17, title = "Odyssée Maison", mbid = "0672cf38-3d5d-4325-8ac1-527655cd3e1a" },
+]

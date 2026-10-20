@@ -1,0 +1,332 @@
+format = 1
+
+[[release]]
+mbid = "18d8bed9-ad57-4ddf-ad72-54a00d35b339"
+title = "La Femme"
+type = "single"
+date = "2010-03-22"
+tracks = [
+  { n = 1, title = "La femme ressort", mbid = "f60e373c-d27b-4d33-a023-2dca53f6f4dd" },
+  { n = 2, title = "Françoise", mbid = "0113110c-1e73-42eb-b88f-145be81c43a2" },
+  { n = 3, title = "Sur la planche", mbid = "4136af66-a542-4b72-818b-3c2e66727782" },
+]
+
+[[release]]
+mbid = "26e912f2-ffd4-455d-a52f-88df00f14a5c"
+title = "Le Podium #1"
+type = "ep"
+date = "2010-11-29"
+spotify = "3t3h2nDSjateQXSqAAOlYl"
+tracks = [
+  { n = 1, title = "Sur la planche", mbid = "970f7a62-278d-4061-b257-b408e5ecf9aa" },
+  { n = 2, title = "Télégraphe", mbid = "ffbce5bb-5316-4eea-ae6e-b4422cdc8f63" },
+  { n = 3, title = "La femme ressort", mbid = "e4f259af-fe42-4886-a88a-b2930704a803" },
+  { n = 4, title = "Françoise", mbid = "4b137bd7-94e6-4f6e-9a2d-3e327e682622" },
+]
+
+[[release]]
+mbid = "b504ef65-9e7c-4277-9172-e904f856e778"
+title = "Paris 2012"
+type = "single"
+date = "2011-10-23"
+spotify = "449rJm7033t5h0u2B3NYd0"
+tracks = [
+  { n = 1, title = "Paris 2012", mbid = "832a09f3-2cf8-41b1-bf67-9718e75c832d" },
+  { n = 2, title = "From Tchernobyl With Love", mbid = "580b793d-d2a2-4262-a5b3-b4dc9aa21b4d" },
+]
+
+[[release]]
+mbid = "2805a8b8-2fc0-43cc-b3f1-5c7c20da3c53"
+title = "Hypsoline"
+type = "ep"
+date = "2013"
+tracks = [
+  { n = 1, title = "La femme", mbid = "5d0c6138-6dd0-4f43-b9b3-4ecc4430b2ed" },
+  { n = 2, title = "Hypsoline", mbid = "5bdf87a2-4228-42ec-ad4e-bd5841c03ad5" },
+  { n = 3, title = "It's Time to Wake Up (2023)", mbid = "0764a083-75ca-4258-a89d-4dca3b660389" },
+  { n = 4, title = "Sur la planche 2013", mbid = "5077e53b-5a9c-4d73-8596-06a954c5e8db" },
+]
+
+[[release]]
+mbid = "86ef2e90-82f0-40bc-8c16-73d89453bae9"
+title = "La Femme"
+type = "ep"
+date = "2013-02-17"
+spotify = "7dmxLqBY5aNGrzVOJs6aoX"
+tracks = [
+  { n = 1, title = "La Femme", mbid = "5a686a4b-fa8a-495f-b6e1-873222313c0a" },
+  { n = 2, title = "Hypsoline", mbid = "85464e4b-0efa-499e-b08d-82d68b43721d" },
+  { n = 3, title = "It’s Time to Wake Up (2023)", mbid = "66f3cb41-3450-4550-81dd-0128eca9ccf9" },
+  { n = 4, title = "Sur la planche 2013", mbid = "52ff6510-2022-4cd7-9d35-72ace5d10ea2" },
+]
+
+[[release]]
+mbid = "7b676273-b645-4581-8f9f-3713bd2a20d8"
+title = "Psycho Tropical Berlin"
+type = "album"
+date = "2013-04-08"
+spotify = "6B4yPzIlZOUOxExCczKzT4"
+tracks = [
+  { n = 1, title = "Antitaxi", mbid = "39274702-60d1-4659-b1de-845876f5cc10" },
+  { n = 2, title = "Amour dans le motu", mbid = "0c092aec-0069-4b81-b4a9-9b0940d3a950" },
+  { n = 3, title = "La Femme", mbid = "5a686a4b-fa8a-495f-b6e1-873222313c0a" },
+  { n = 4, title = "Interlude", mbid = "29d3c99a-5576-42b4-b36d-0d2a56fa1e16" },
+  { n = 5, title = "Hypsoline", mbid = "072da265-8f53-44b0-86d0-f0223c0bd94c" },
+  { n = 6, title = "Sur la planche 2013", mbid = "52ff6510-2022-4cd7-9d35-72ace5d10ea2" },
+  { n = 7, title = "It’s Time to Wake Up 2023", mbid = "66f3cb41-3450-4550-81dd-0128eca9ccf9" },
+  { n = 8, title = "Nous étions deux", mbid = "3b2d0e7c-4af7-4335-9f3b-235dbbddbe7e" },
+  { n = 9, title = "Packshot", mbid = "f1a20af5-4924-4bbe-a28e-403c6526fe26" },
+  { n = 10, title = "Saisis la corde", mbid = "70383b82-df50-42cc-b75e-134e4192a2ce" },
+  { n = 11, title = "Le Blues de Françoise", mbid = "5811355c-ca46-46a5-9aac-8379786bd7e0" },
+  { n = 12, title = "Si un jour", mbid = "2030757f-ede8-4d83-aceb-54697992bd8e" },
+  { n = 13, title = "La femme ressort", mbid = "8cff55d9-25df-424e-bd17-ce4c69f935f5" },
+  { n = 14, title = "Welcome America", mbid = "fc694de4-1036-44e1-8c5d-025603cb2808" },
+  { n = 15, title = "From Tchernobyl With Love", mbid = "312ecd71-4a59-47db-8883-5866b4629eb5" },
+  { n = 16, title = "Paris 2012", mbid = "832a09f3-2cf8-41b1-bf67-9718e75c832d" },
+]
+
+[[release]]
+mbid = "f7f91074-a15c-470d-96e7-b4b393ff66d6"
+title = "Sphynx"
+type = "single"
+date = "2016-03-17"
+spotify = "2WjCxoPY5cqGjdt5vtSxaS"
+tracks = [
+  { n = 1, title = "Sphynx", mbid = "68b40470-c1c3-4033-b39f-c1e2c437c90d" },
+]
+
+[[release]]
+mbid = "3a0ef81c-19c9-4940-b996-60faea992131"
+title = "Où va le monde ?"
+type = "single"
+date = "2016-06-03"
+spotify = "7yJYDEmV9Ik7CSOm1zbaJ6"
+tracks = [
+  { n = 1, title = "Où va le monde", mbid = "3d628e1f-cc59-4855-aec4-3c3abae20d30" },
+]
+
+[[release]]
+mbid = "22e7d563-04c7-45a0-aaa9-99685a08199d"
+title = "Mystère"
+type = "album"
+date = "2016-09-02"
+spotify = "1wyShyPmhbFRifAZyP7IHT"
+tracks = [
+  { n = 1, title = "SPHYNX", mbid = "68b40470-c1c3-4033-b39f-c1e2c437c90d" },
+  { n = 2, title = "LE VIDE EST TON NOUVEAU PRÉNOM", mbid = "70ec83e8-b440-4eb8-bfdd-29b1a724177c" },
+  { n = 3, title = "OÙ VA LE MONDE", mbid = "3d628e1f-cc59-4855-aec4-3c3abae20d30" },
+  { n = 4, title = "SEPTEMBRE", mbid = "7728c789-4034-44c6-b290-bfa8d702432d" },
+  { n = 5, title = "TATIANA", mbid = "88bd1808-b5fc-4a97-a26e-412c4c9f58b1" },
+  { n = 6, title = "CONVERSATIONS NOCTURNES", mbid = "142a3b5e-3c83-44e3-a51e-7fe31bb3242d" },
+  { n = 7, title = "SSD", mbid = "cc3dba0f-76c6-40a0-9802-38f79b23cd28" },
+  { n = 8, title = "EXORCISEUR", mbid = "3570e3fe-8fd3-4742-9f6c-b172762bc77e" },
+  { n = 9, title = "ELLE NE T'AIME PAS", mbid = "003adfe4-2772-498e-bddb-19995f2b4b53" },
+  { n = 10, title = "MYCOSE", mbid = "fd44ac13-4fb6-48c3-a70c-0f0b5e08f4eb" },
+  { n = 11, title = "TUEURS DE FLEURS", mbid = "15d7291a-ae32-4653-a839-f1898c97151f" },
+  { n = 12, title = "ALWAYS IN THE SUN", mbid = "a51d9a5e-f6ee-4216-a4c4-7aa94e9c7f98" },
+  { n = 13, title = "AL WARDA", mbid = "5f5f30a2-26d3-42b3-a942-36cfbf768651" },
+  { n = 14, title = "PSYZOOK", mbid = "42c4d386-4449-4e55-af0e-9343c3a20364" },
+  { n = 15, title = "LE CHEMIN", mbid = "6e3b287e-1b0c-4646-833c-a0e9400e2e55" },
+  { n = 16, title = "COUTEAU", mbid = "edb5a71e-fb90-447c-901d-eed4642df636" },
+  { n = 17, title = "VAGUES", mbid = "d04cb8a6-2328-49eb-8f41-8c13904a587c" },
+]
+
+[[release]]
+mbid = "ed96b7b0-53a7-4d30-95ae-fa745e195b9a"
+title = "L’Hawaïenne"
+type = "single"
+date = "2019-02-07"
+spotify = "4PIWMZLWarHZG2OcdsX4kP"
+tracks = [
+  { n = 1, title = "L’Hawaïenne", mbid = "89f38559-c300-4f34-90b7-a4559286853d" },
+]
+
+[[release]]
+mbid = "921af946-9d88-47ba-96a9-42b159d27734"
+title = "Paradigme"
+type = "single"
+date = "2020-09-10"
+tracks = [
+  { n = 1, title = "Paradigme", mbid = "44f3c7c4-8f1e-41bb-987b-f5b4cb05e35b" },
+]
+
+[[release]]
+mbid = "fd4506f6-326c-47ae-85c9-7eb295d994bf"
+title = "Cool Colorado"
+type = "single"
+date = "2020-11-17"
+tracks = [
+  { n = 1, title = "Cool Colorado", mbid = "f1a2f413-959a-4f1e-ae16-4a92508c6c56" },
+]
+
+[[release]]
+mbid = "e3d25820-a13b-44b3-8856-72a5d224700c"
+title = "Disconnexion"
+type = "single"
+date = "2020-12-03"
+tracks = [
+  { n = 1, title = "Disconnexion", mbid = "725721d4-f77b-4b54-909b-af73a9f10941" },
+]
+
+[[release]]
+mbid = "98688618-04f9-4c80-a71b-65f74ec85e1b"
+title = "Paradigmes"
+type = "album"
+date = "2021-04-02"
+spotify = "1u2Q5MFWptOdPpldjC0xO9"
+tracks = [
+  { n = 1, title = "Paradigme", mbid = "44f3c7c4-8f1e-41bb-987b-f5b4cb05e35b" },
+  { n = 2, title = "Le sang de mon prochain", mbid = "902336cc-90d9-4090-840a-8de3bd420eca" },
+  { n = 3, title = "Cool Colorado", mbid = "f1a2f413-959a-4f1e-ae16-4a92508c6c56" },
+  { n = 4, title = "Foutre le bordel", mbid = "a482b377-74e2-439e-aa2c-46354747f33d" },
+  { n = 5, title = "Nouvelle‐Orléans", mbid = "7b431d0f-1d7e-4a1c-a2df-ae845ab49083" },
+  { n = 6, title = "Pasadena", mbid = "1729ffd3-fc33-493d-ba75-9021d7494af2" },
+  { n = 7, title = "Lâcher de chevaux", mbid = "4222e44f-8c6a-4184-ae0e-a2f69a5d1651" },
+  { n = 8, title = "Disconnexion", mbid = "725721d4-f77b-4b54-909b-af73a9f10941" },
+  { n = 9, title = "Foreigner", mbid = "1e3f5fd4-f115-4316-a826-3bfac8f199ef" },
+  { n = 10, title = "Force & respect", mbid = "ecc5b940-9e86-46e2-8810-c3432232f7bc" },
+  { n = 11, title = "Divine créature", mbid = "78337ff4-3309-4a17-8d2f-c2a446991148" },
+  { n = 12, title = "Mon ami", mbid = "8a73c46b-fe0a-45e5-a3df-209d8253d4a6" },
+  { n = 13, title = "Le Jardin", mbid = "c522be7b-e2ec-48c9-8a7d-0ea5b34cfe71" },
+  { n = 14, title = "Va", mbid = "237d5758-75aa-4aa8-90a7-31b545751b99" },
+  { n = 15, title = "Tu t’en lasses", mbid = "7be7437c-63dc-44e3-8dd6-1c656d493fcc" },
+]
+
+[[release]]
+mbid = "5a1392b6-e4ac-46a1-a039-24145b132686"
+title = "Like A Prayer - InVersions 80s"
+type = "single"
+date = "2021-05-25"
+tracks = [
+  { n = 1, title = "Like A Prayer - InVersions 80s", mbid = "a2596e1e-14b8-4422-b660-18464ef7a42e" },
+]
+
+[[release]]
+mbid = "bacb276a-bf83-468a-82ed-f11f5fec2092"
+title = "Runway / Me Suive"
+type = "single"
+date = "2021-06-12"
+tracks = [
+  { n = 1, title = "Runway", mbid = "91f60d8c-b46b-41f0-a1bf-6f008b370ba1" },
+  { n = 2, title = "Me suive", mbid = "d962a448-b3d7-4627-b955-d773084dfcb3" },
+]
+
+[[release]]
+mbid = "f14be270-0fc1-434f-9bab-af4e6477766b"
+title = "Trop de peine"
+type = "single"
+date = "2021-09-15"
+tracks = [
+  { n = 1, title = "Trop de peine", mbid = "bee5f571-9d95-43f8-8a47-828df603094e" },
+]
+
+[[release]]
+mbid = "2d0ae8e3-91a4-43e4-9352-bd763bbeab3a"
+title = "Sacatela"
+type = "single"
+date = "2022-06-02"
+spotify = "06nue4Ry0BmfBW1aX3RWNe"
+tracks = [
+  { n = 1, title = "Sacatela", mbid = "a74b36e4-3651-485a-96f7-fb470ce94fb3" },
+]
+
+[[release]]
+mbid = "f3c06746-f643-4352-b494-1e7ca38690c4"
+title = "Teatro Lúcido"
+type = "album"
+date = "2022-11-04"
+spotify = "5i73wujk7H4sAPGPYCwPwB"
+tracks = [
+  { n = 1, title = "Fugue Italienne", mbid = "9a7e4966-339e-4c27-875f-e41d27ba9ec0" },
+  { n = 2, title = "Cha-cha", mbid = "4671809b-695f-4ba9-9bd1-d796f316adf8" },
+  { n = 3, title = "Sacatela", mbid = "a74b36e4-3651-485a-96f7-fb470ce94fb3" },
+  { n = 4, title = "Y tu te vas", mbid = "ec967ef3-9b9e-434a-96f0-628829d0d514" },
+  { n = 5, title = "Contaminado", mbid = "15bc0981-45ea-4ac0-8c9d-2509edeaf2e0" },
+  { n = 6, title = "Teatro Lucido", mbid = "d1744619-b570-42c3-a90f-f93404a0594d" },
+  { n = 7, title = "Maialen", mbid = "3648ad6c-d7e7-4554-b8c2-cf055a98d235" },
+  { n = 8, title = "El Tio del Padul", mbid = "4a68e124-e57f-4225-a405-2a237c8be57f" },
+  { n = 9, title = "El Conde-Duque", mbid = "2ad2b805-55e9-400e-b87c-a588ea6e3ceb" },
+  { n = 10, title = "No pasa nada", mbid = "23ee33ca-221a-403d-9782-b583852f56a7" },
+  { n = 11, title = "Resaca", mbid = "b4b61286-a150-4147-963e-091ddadedb42" },
+  { n = 12, title = "Tren de la vida", mbid = "45324fa1-c35c-4c63-a3ac-8798c37db688" },
+  { n = 13, title = "Ballade Arabo-Andalouse", mbid = "d95df592-f7ca-45de-bcb7-797be303a1d6" },
+]
+
+[[release]]
+mbid = "11f01250-22aa-4a1a-b6d9-66a12363692c"
+title = "Paris‐Hawaï"
+type = "album"
+date = "2023-05-19"
+spotify = "4q2iiAmoWmM57F6I2al84B"
+tracks = [
+  { n = 1, title = "L’Hawaïenne", mbid = "89f38559-c300-4f34-90b7-a4559286853d" },
+  { n = 2, title = "Aloha Baby", mbid = "0a114985-7c1a-463b-808d-b51ddab7c26b" },
+  { n = 3, title = "Les Fantômes des femmes", mbid = "fc528c75-699b-4696-8657-3295645a3d7e" },
+  { n = 4, title = "Leila", mbid = "e2a89836-a9a0-4302-a4bf-d00c2aaf80f2" },
+  { n = 5, title = "Ho’omaha", mbid = "222eb334-c284-4ab0-909c-788c50e71d2e" },
+  { n = 6, title = "Moeʻuhane pāʻani", mbid = "3f113957-61f6-46a8-8b32-d214e4b3de17" },
+  { n = 7, title = "Imagine Waikiki", mbid = "c7374d76-a137-4ced-92c3-712098d57d9e" },
+  { n = 8, title = "Paris Hawaï", mbid = "73a966cb-a627-4c66-95f2-73bc9ce3c385" },
+]
+
+[[release]]
+mbid = "c0dbbc97-f318-4586-96e1-735b8214988c"
+title = "Strike"
+type = "single"
+date = "2023-09-08"
+tracks = [
+  { n = 1, title = "Strike", mbid = "f2e08d60-49aa-491c-bc93-5e0cf59ab51f" },
+]
+
+[[release]]
+mbid = "e8cbc241-4522-4eae-bb92-044f9937003a"
+title = "La Femme ressort"
+type = "ep"
+date = "2024-01-19"
+spotify = "3zMXeMHBK9vpqQXNSrEOjP"
+tracks = [
+  { n = 1, title = "Sur la planche", mbid = "24231089-c432-49d9-8409-818905ff98e0" },
+  { n = 2, title = "Télégraphe", mbid = "b35a6046-64b3-48f5-8d13-f90f86b48918" },
+  { n = 3, title = "La femme ressort (2023 Version)", mbid = "b3cd6caf-147e-4e83-93ed-716cef2b3430" },
+  { n = 4, title = "Françoise", mbid = "0113110c-1e73-42eb-b88f-145be81c43a2" },
+]
+
+[[release]]
+mbid = "ed03b301-920f-4686-b626-229b15abade5"
+title = "Ciao Paris!"
+type = "single"
+date = "2024-06-19"
+tracks = [
+  { n = 1, title = "Ciao Paris!", mbid = "8c03506c-cff5-4ddf-86e3-cddd6059003c" },
+]
+
+[[release]]
+mbid = "dc2196d9-1f4e-42c7-9ece-932f59f5856b"
+title = "Clover Paradise"
+type = "single"
+date = "2024-09-04"
+tracks = [
+  { n = 1, title = "Clover Paradise", mbid = "21be51d3-cc21-4e16-bdc8-ae18ada56725" },
+]
+
+[[release]]
+mbid = "9782d1e8-d6fd-4d83-9031-41f86b1c031d"
+title = "Rock Machine"
+type = "album"
+date = "2024-10-11"
+spotify = "0DmfmHvNTUhaCXKY3JlceI"
+tracks = [
+  { n = 1, title = "Clover Paradise", mbid = "21be51d3-cc21-4e16-bdc8-ae18ada56725" },
+  { n = 2, title = "Venus", mbid = "bf40f4ef-2c28-44a9-8eac-02c253e27231" },
+  { n = 3, title = "Ciao Paris!", mbid = "8c03506c-cff5-4ddf-86e3-cddd6059003c" },
+  { n = 4, title = "Love Is Over", mbid = "180bbd42-c598-43d8-af47-e4234787e308" },
+  { n = 5, title = "Waiting in the Dark", mbid = "7325667e-2d09-4d22-bf22-e72279a6d76b" },
+  { n = 6, title = "My Generation", mbid = "83a234ad-a7fb-4575-94dc-7cf7c73bf339" },
+  { n = 7, title = "Sweet Babe", mbid = "df125e58-99ad-40d6-95b5-10ac8526051c" },
+  { n = 8, title = "Yeah Baby", mbid = "1178c7be-ceb0-4ce1-a502-85b8511ad4ed" },
+  { n = 9, title = "I Believe in Rock and Roll", mbid = "d1b0cd78-73c0-4b7a-a284-e72a98eec1e6" },
+  { n = 10, title = "I Gonna Make a Hit", mbid = "8f5ddbc0-1532-48e0-a3df-9dbd4730378e" },
+  { n = 11, title = "White Night", mbid = "e3df52a6-d2e1-40b5-becf-d918956395eb" },
+  { n = 12, title = "Goodbye Tonight", mbid = "9bb37870-c3ab-4762-bf32-20e3c7579b41" },
+  { n = 13, title = "Amazing", mbid = "882eac5f-b14d-4447-93dd-4142b5218a20" },
+]

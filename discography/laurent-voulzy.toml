@@ -1,0 +1,480 @@
+format = 1
+
+[[release]]
+mbid = "eb1bea4a-a8df-49c5-a7d4-be13701463d8"
+title = "Folle de toi"
+type = "single"
+date = "1972"
+tracks = [
+  { n = 1, title = "Folle de toi", mbid = "df2a3d72-d45b-4a42-b6a1-b44bda1632b7" },
+  { n = 2, title = "L'amour est un oiseau", mbid = "bfb52e2b-c753-4fe5-921f-3ba256fa0c9a" },
+]
+
+[[release]]
+mbid = "eb675fc6-752c-4b6f-8f89-4feb4fc1e00b"
+title = "La sorcière"
+type = "single"
+date = "1973"
+tracks = [
+  { n = 1, title = "La sorcière", mbid = "436864cb-fd42-4fbb-aad8-2eba76653efa" },
+  { n = 2, title = "La maison à croquer", mbid = "c5f98ae9-55fd-412a-a0c6-58b865317b80" },
+]
+
+[[release]]
+mbid = "ab902ac4-954d-4866-998e-b0cff3491351"
+title = "Milady"
+type = "single"
+date = "1974-03"
+tracks = [
+  { n = 1, title = "Milady", mbid = "79bca433-0fe1-465c-9a62-2f0694721ebe" },
+  { n = 2, title = "Je veux chanter pour toi", mbid = "1b04cfd8-5513-4155-995b-a49baa0a465b" },
+]
+
+[[release]]
+mbid = "ca6b7441-9631-4220-933a-f95a55cb79a4"
+title = "Dili Dila"
+type = "single"
+date = "1975"
+tracks = [
+  { n = 1, title = "Dili dila", mbid = "33a0769d-b846-4ccf-bb1e-d5b5a76b84f7" },
+  { n = 2, title = "Whistle theme", mbid = "c1617e1d-8efc-4be7-bf4f-fb81c3facfe6" },
+]
+
+[[release]]
+mbid = "331cea86-5b99-48fb-b029-222dd36bfc15"
+title = "Le miroir"
+type = "single"
+date = "1976"
+tracks = [
+  { n = 1, title = "Le miroir", mbid = "78667861-047b-4305-ab8f-ca09189a1e07" },
+  { n = 2, title = "La fille en papier", mbid = "f74dca9a-0f0c-499a-b3ba-6ce046d59668" },
+]
+
+[[release]]
+mbid = "34015eac-2aa5-30f1-8bcc-a12be7a2c67a"
+title = "Rockollection"
+type = "single"
+date = "1977"
+tracks = [
+  { n = 1, title = "Rockollection, Part I", mbid = "f05e99b3-70b1-45b3-a02f-79224cc5e758" },
+  { n = 2, title = "Rockollection, Part II", mbid = "cc53da7b-37c0-4a46-8552-fc81a75fad21" },
+]
+
+[[release]]
+mbid = "e6427176-c0ed-4dbd-b379-20f6bf52fa8e"
+title = "Bubble Star"
+type = "single"
+date = "1978"
+tracks = [
+  { n = 1, title = "Bubble Star (part 1)", mbid = "6e28d637-9a64-41f5-afdb-46e64a48ecdf" },
+  { n = 2, title = "Bubble Star (part 2)", mbid = "c91aa48e-4e59-482f-a101-b6d0bb1a6e9e" },
+]
+
+[[release]]
+mbid = "8ce48dc1-fcee-4d59-bcac-0b632053cd62"
+title = "Paris - Strasbourg"
+type = "single"
+date = "1978"
+tracks = [
+  { n = 1, title = "Paris - Strasbourg (Part 1)", mbid = "285b3d40-2f4d-418b-9372-bcfa153c50e8" },
+  { n = 2, title = "Paris - Strasbourg (Part 2)", mbid = "f7589c28-eabd-4c4d-8ca5-65f46d809b0d" },
+]
+
+[[release]]
+mbid = "80323440-bc01-3670-970d-f05cdad1b247"
+title = "Le cœur grenadine"
+type = "album"
+date = "1979"
+spotify = "1Rk16GLTOxgDyfJkUDWFot"
+tracks = [
+  { n = 1, title = "Le cœur grenadine", mbid = "96c99863-b50c-45f0-9823-26636f42b5d8" },
+  { n = 2, title = "He ! P'tite blonde", mbid = "8e37cdc3-119b-4c86-a13e-f0133364c026" },
+  { n = 3, title = "Karin Redinger", mbid = "4ddea3b4-53f9-482a-b2eb-34532eff8cf1" },
+  { n = 4, title = "Grimaud", mbid = "88587908-04c9-497f-8b97-ad3e74ed4a7a" },
+  { n = 5, title = "Lucienne est américaine", mbid = "75203c14-e079-495a-a9a6-6dc4a26a4369" },
+  { n = 6, title = "En tini", mbid = "59cbc955-dc56-4be5-8a00-99e42c2a2f5d" },
+  { n = 7, title = "Cocktail chez mademoiselle", mbid = "16e77836-5831-4d26-82c4-27c9599c2d04" },
+  { n = 8, title = "Qui est in qui est out", mbid = "d30339d5-cf29-4eed-9a16-b7464653e46e" },
+]
+
+[[release]]
+mbid = "7de440e5-4c31-4fc7-b860-cc9ce868ac8a"
+title = "Lucienne Est Américaine"
+type = "single"
+date = "1979"
+tracks = [
+  { n = 1, title = "Lucienne Est Américaine", mbid = "17c36851-d9bf-4626-9ac3-d9cc3dbb28b9" },
+  { n = 2, title = "Karin Redinger", mbid = "75b9edf9-df84-4ca7-bde7-c361e3ac24c1" },
+]
+
+[[release]]
+mbid = "4be0f12f-2308-4ca8-94d4-089cf048fcc0"
+title = "Le Cœur grenadine"
+type = "single"
+date = "1979-06"
+tracks = [
+  { n = 1, title = "Le Cœur grenadine", mbid = "96c99863-b50c-45f0-9823-26636f42b5d8" },
+  { n = 2, title = "Grimaud", mbid = "88587908-04c9-497f-8b97-ad3e74ed4a7a" },
+]
+
+[[release]]
+mbid = "250b544b-59da-4007-989d-de11d2480810"
+title = "Idéal simplifié"
+type = "single"
+date = "1981"
+tracks = [
+  { n = 1, title = "Idéal simplifié", mbid = "fe24da75-a006-4171-bda0-dc5e8456db9c" },
+  { n = 2, title = "Ricken (Ballade pour une guitare disparue un été à New-York)", mbid = "32bd3f75-7ec1-4a69-a0d0-7bb230012838" },
+]
+
+[[release]]
+mbid = "7a9c01b8-902b-35ff-b96d-3fb11ac58cfb"
+title = "Bopper en larmes"
+type = "album"
+date = "1983"
+spotify = "3VLbfuJpJlqSHjXR3wSo6w"
+tracks = [
+  { n = 1, title = "Bopper en larmes", mbid = "36febd07-c935-47de-a3b4-3bf2a2ca0262" },
+  { n = 2, title = "Mayenne", mbid = "f1c0254c-2833-4f32-912f-76b0d301d3ff" },
+  { n = 3, title = "Black Poule", mbid = "07e4cdeb-0fb3-45da-8510-a63ade8f7a59" },
+  { n = 4, title = "Meu samba pra voce", mbid = "e6de0980-2181-48a4-8013-631699c3a1d6" },
+  { n = 5, title = "L'Océane", mbid = "3974c809-d5ab-443b-bcf3-e918403586dd" },
+  { n = 6, title = "Ricken", mbid = "a8b2c1d8-9278-4b24-b28a-5159738ad754" },
+  { n = 7, title = "Cadillac Cruise", mbid = "fd29fb32-2f02-48bd-8720-ba72369c0bd1" },
+  { n = 8, title = "Liebe", mbid = "bf78199d-0fc9-4e7c-b36f-21ea830e0704" },
+  { n = 9, title = "Plus d'un milliard de filles", mbid = "52a9d2fb-f507-42c9-b738-2a801cfb94b0" },
+  { n = 10, title = "Flirt", mbid = "c7e6d237-ae22-4baa-b6e3-388035aecbe1" },
+  { n = 11, title = "Jalousie", mbid = "84f13846-3bbe-4655-8144-979ab88a7555" },
+  { n = 12, title = "En pas oublie'ou", mbid = "5b285558-173a-4569-9da1-148792eb0cb0" },
+  { n = 13, title = "Aut'chose", mbid = "600e2612-81d9-4f64-bd00-5f823e40b142" },
+]
+
+[[release]]
+mbid = "3e24a4ed-a98e-4706-a869-de63b1e7ddce"
+title = "Liebe"
+type = "single"
+date = "1983-10"
+tracks = [
+  { n = 1, title = "Liebe", mbid = "bf78199d-0fc9-4e7c-b36f-21ea830e0704" },
+  { n = 2, title = "Cadillac cruise", mbid = "fd29fb32-2f02-48bd-8720-ba72369c0bd1" },
+  { n = 3, title = "Meu samba pra voce", mbid = "e6de0980-2181-48a4-8013-631699c3a1d6" },
+]
+
+[[release]]
+mbid = "04e997e6-87b2-4b73-ad67-2962f7d41165"
+title = "Désir, désir"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Intro", mbid = "1584c304-8486-4e97-a4ea-419adbfd007e" },
+  { n = 2, title = "Désir, désir, Part 1", mbid = "f43ab991-5418-482d-a22d-87bb552c4713" },
+  { n = 3, title = "Désir, désir, Part 2", mbid = "62b74598-a008-486b-97fc-09a3e83d1541" },
+  { n = 4, title = "J'étais comme ça", mbid = "94ffcfb4-1577-46a7-92bb-45afe4d0f09e" },
+]
+
+[[release]]
+mbid = "d157eab7-456b-4442-889c-dcd49684af59"
+title = "Belle-Île-en-Mer Marie-Galante"
+type = "single"
+date = "1985"
+tracks = [
+  { n = 1, title = "Belle-Île-en-Mer Marie-Galante (remix)", mbid = "c092aed4-94da-4f48-a122-8965d3b31b3c" },
+  { n = 2, title = "Les Nuits sans Kim Wilde", mbid = "48d9c8c2-71af-4a60-9e2c-0cb9d1595e11" },
+]
+
+[[release]]
+mbid = "1efd5fad-56dd-4516-8483-731b5487f9af"
+title = "Les Nuits sans Kim Wilde"
+type = "single"
+date = "1985"
+tracks = [
+  { n = 1, title = "Les Nuits sans Kim Wilde", mbid = "912fcecf-e7be-4551-9efe-65c1b0928598" },
+  { n = 2, title = "Belle-Île-en-Mer, Marie Galante", mbid = "c092aed4-94da-4f48-a122-8965d3b31b3c" },
+]
+
+[[release]]
+mbid = "6de3374b-c508-44f3-a6c0-5309e2bb458a"
+title = "My Song of You"
+type = "single"
+date = "1987"
+tracks = [
+  { n = 1, title = "My Song of You", mbid = "b75fa913-78d4-465e-978a-31cfa3926d08" },
+  { n = 2, title = "My Song of You (Acoustic Version)", mbid = "66bc1a21-aa33-413b-b23f-36d327ed7a57" },
+]
+
+[[release]]
+mbid = "7a46bbeb-9087-46f9-9fa7-878f954d7dd2"
+title = "Le soleil donne"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Le soleil donne", mbid = "387cc0ec-688a-484e-866b-b6b9ae1ee54b" },
+  { n = 2, title = "Le soleil donne (dub)", mbid = "d561d330-25b1-4f2d-8807-f56c2931b37f" },
+  { n = 3, title = "Le soleil donne", mbid = "bff501b0-4418-4ba5-92bd-93c788c8da94" },
+]
+
+[[release]]
+mbid = "b3d1db50-eca5-3b3c-b631-048d65b9b94c"
+title = "Caché derrière"
+type = "album"
+date = "1992"
+tracks = [
+  { n = 1, title = "Caché derrière", mbid = "9bd82da5-f087-4ecc-876b-2e11189735e9" },
+  { n = 2, title = "Bungalow vide", mbid = "cc830bcd-1be1-4b0d-a425-95a2dc66e5a7" },
+  { n = 3, title = "Ta plage Beach Boy", mbid = "da5991a0-6d2b-4691-8556-e88d7edec79b" },
+  { n = 4, title = "Never More", mbid = "5a5707c5-94bf-41f2-9050-adb8d13cca27" },
+  { n = 5, title = "Le cantique mécanique", mbid = "06b6b6ab-05d9-405b-981f-cc9b86eadff8" },
+  { n = 6, title = "Le pouvoir des fleurs", mbid = "1f8d3336-205d-417b-b33b-ac3c112f0608" },
+  { n = 7, title = "Le rêve du pêcheur", mbid = "6ab8025d-9eb3-4588-839a-3a745b232e6e" },
+  { n = 8, title = "Paradoxal système", mbid = "513b5048-472e-4374-b0af-d1e8eefed13d" },
+  { n = 9, title = "Carib Islander", mbid = "e8f74bde-98da-4ac2-b227-ee7041eba039" },
+  { n = 10, title = "Guitare héraut", mbid = "7a0e1621-e82a-4229-ab67-8228999d84d6" },
+]
+
+[[release]]
+mbid = "08face93-fb98-3cf1-a05a-04d96e6aac9c"
+title = "Rockollection live"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Rockollection live (version intégrale)", mbid = "c1f3205c-b404-4ecc-b7f6-351fe5b6f295" },
+]
+
+[[release]]
+mbid = "eb9ad1f6-28df-3b28-9329-4508299ae088"
+title = "Avril"
+type = "album"
+date = "2001-12"
+tracks = [
+  { n = 1, title = "Slow Down", mbid = "0a5a81f1-401d-442f-8be6-0f4c1b34d22d" },
+  { n = 2, title = "Mary Quant", mbid = "f1ca86e9-e26f-4002-9e5f-b46dc9632ee0" },
+  { n = 3, title = "Quatre nuages", mbid = "49738266-f30c-46bc-8cc3-88f834b09d5e" },
+  { n = 4, title = "Jaguar", mbid = "d7aac48f-b5c7-4a5c-8f72-75df08d08616" },
+  { n = 5, title = "Une héroïne", mbid = "1e3f85b2-1448-4c46-a1c6-4c1033ab4b4e" },
+  { n = 6, title = "Le Capitaine et le Matelot", mbid = "e15375d6-e8ab-4f72-ba6b-2b83759bb2e3" },
+  { n = 7, title = "Je suis venu pour elle", mbid = "7f476b4d-24c2-478c-8796-11c4282767c2" },
+  { n = 8, title = "Amélie Colbert", mbid = "004fdb87-f8eb-4008-b299-6609c813a11b" },
+  { n = 9, title = "La Fille d’avril", mbid = "8d940bb9-38d5-47bb-ab18-d48dd71d9a3f" },
+  { n = 10, title = "Jésus", mbid = "9b70d3a8-060f-409f-b4d6-1ab0b1c779a5" },
+  { n = 11, title = "I Want You", mbid = "a7c46bc9-a737-414c-b479-2f986d3573d0" },
+]
+
+[[release]]
+mbid = "73f0c205-ea00-3e81-a90a-08a859777a10"
+title = "La Septième Vague"
+type = "album"
+date = "2006-06-26"
+tracks = [
+  { n = 1, title = "Do You Wanna Dance?", mbid = "925a44b6-2692-4e4c-9051-ead02766c0eb" },
+  { n = 2, title = "La Madrague", mbid = "15820d90-46bc-4d70-a8b4-6443915799cf" },
+  { n = 3, title = "Oh Lori", mbid = "81d2eed2-448c-436f-803f-5119ed3307c5" },
+  { n = 4, title = "Smooth Operator", mbid = "0db99775-0663-4a6e-9539-4cd4a99b2e3a" },
+  { n = 5, title = "Everybody’s Got to Learn Sometime", mbid = "e87962b6-3788-4ba4-94b7-0663b84fab7b" },
+  { n = 6, title = "All I Have to Do Is Dream", mbid = "a4b4be13-0591-428b-9a94-f99f8ca8a808" },
+  { n = 7, title = "La Septième Vague", mbid = "d4c3171a-aa4d-4970-9fbf-a63602fb259b" },
+  { n = 8, title = "À bicyclette", mbid = "a78ab6a3-bad8-4fd1-aec3-42a51c2e58f7" },
+  { n = 9, title = "Here There and Everywhere", mbid = "b89546a1-b771-4104-8e7d-78880957f058" },
+  { n = 10, title = "Clair", mbid = "d8c0b909-a83f-4050-97ac-b2eb8f9c1492" },
+  { n = 11, title = "Derniers baisers", mbid = "e5a15f54-2597-4b64-b00e-2017bedcf759" },
+  { n = 12, title = "The 59th Street Bridge Song", mbid = "c5c8fa93-6bbe-4727-9413-415b7b427ae0" },
+  { n = 13, title = "Yesterday Once More", mbid = "e038823a-c5e3-46b6-9bd7-f419aa89a844" },
+  { n = 14, title = "Le Piano de la plage", mbid = "981d0d79-2a04-43bc-93c0-90144e2cc1d8" },
+  { n = 15, title = "The Shadow of Your Smile", mbid = "b1b8b7ce-f084-4e25-9b7a-138108624343" },
+  { n = 16, title = "The Captain of Her Heart", mbid = "68165853-95b6-4a86-af57-e689433aee39" },
+  { n = 17, title = "Santiano", mbid = "4c5a92ad-03c7-465a-9be2-2f53c564a475" },
+  { n = 18, title = "Light My Fire / Duel au soleil", mbid = "92cfddab-435e-4f9d-a9a3-3f365b3c672e" },
+]
+
+[[release]]
+mbid = "fa73b86e-000d-4b53-bea2-ca491b3dc119"
+title = "Derniers baisers"
+type = "single"
+date = "2006-10-02"
+tracks = [
+  { n = 1, title = "Derniers baisers", mbid = "e5a15f54-2597-4b64-b00e-2017bedcf759" },
+  { n = 2, title = "Oh Lori", mbid = "81d2eed2-448c-436f-803f-5119ed3307c5" },
+]
+
+[[release]]
+mbid = "612079bd-4543-3086-b4e7-40bcac54b514"
+title = "Recollection"
+type = "album"
+date = "2008-07-02"
+tracks = [
+  { n = 1, title = "Acte I. Dans le vent qui va", mbid = "2771e2cf-ff5d-4d97-a64b-4d70743382ba" },
+  { n = 2, title = "Acte II. Jelly Bean", mbid = "b7b6f67c-357f-40f4-8c35-5b8dffe086e4" },
+  { n = 3, title = "Acte III. Radio collection", mbid = "04c0c9ca-cc5f-4315-a2e0-709339470702" },
+  { n = 4, title = "Acte IV. Rockollection 008", mbid = "901fdc34-f638-4050-a576-a73ba1fe2344" },
+  { n = 5, title = "Acte V. A7708", mbid = "d80211b5-4388-40f9-96a7-292354ad2363" },
+  { n = 6, title = "Acte VI. Rockollection Scène 10", mbid = "47a88616-99e4-48a3-ab7e-5d10c6d3eb89" },
+  { n = 7, title = "Acte VII. Les Interrogations d’Elizabeth", mbid = "caa5ea01-e801-4a58-8763-e6b14e5390b7" },
+  { n = 8, title = "Acte VIII. Jukebox", mbid = "bf1bc466-3703-4929-83ac-008d9c894aaf" },
+  { n = 9, title = "Acte IX. Sous la lune", mbid = "9a543562-5385-4166-9799-040c65b3f082" },
+  { n = 10, title = "Acte X. Épilogue : Dans le vent", mbid = "0544e0bc-03b7-4b54-a2b1-8611214d5bdb" },
+]
+
+[[release]]
+mbid = "272caf44-2868-487e-b365-9c7e9ade3ba7"
+title = "Lys & Love"
+type = "album"
+date = "2011-11-28"
+tracks = [
+  { n = 1, title = "Le Tableau", mbid = "5f7790fa-5573-40f2-8fae-1dda9d409f4d" },
+  { n = 2, title = "Jeanne", mbid = "5d1ece39-8c58-4e02-a192-10e8678c40bb" },
+  { n = 3, title = "Glastonbury", mbid = "b8dc158d-1a1e-4b86-b126-e6652bf50a21" },
+  { n = 4, title = "En regardant vers le pays de France", mbid = "485da553-4c90-4619-a940-a16ba25074bd" },
+  { n = 5, title = "Blackdown", mbid = "40116614-a9d5-486b-9ad6-c2efd927b689" },
+  { n = 6, title = "C'était déjà toi", mbid = "cbd82872-e343-40a5-81a8-db19cdb40bb3" },
+  { n = 7, title = "Ma seule amour", mbid = "ebda31b8-9787-478b-8779-b308603058e3" },
+  { n = 8, title = "Our Song", mbid = "2e4c1021-c7d9-4773-94f2-973fbb23ec86" },
+  { n = 9, title = "Le Ciel et la Terre", mbid = "f64cae02-8caa-4e44-9295-9f949ab32ec3" },
+  { n = 10, title = "La nuit… un ange passe…", mbid = "aeb61e9c-8d16-4806-9c47-acf544d7aaa7" },
+  { n = 11, title = "La 9ème Croisade", mbid = "abbd0c6b-fd96-4540-9271-525b6d486bab" },
+  { n = 12, title = "J'aime l'amour", mbid = "68d079c4-6474-48b3-b1d6-83d70b32b23d" },
+]
+
+[[release]]
+mbid = "a984ba75-3270-4dc9-8f96-91d632f3b80a"
+title = "Alain Souchon & Laurent Voulzy"
+type = "album"
+date = "2014-11-24"
+spotify = "51tdulT9xSRgWY9xxoLvEf"
+tracks = [
+  { n = 1, title = "Derrière les mots", mbid = "5de2f54a-16b1-4516-97de-a36af40b9a16" },
+  { n = 2, title = "Oiseau malin", mbid = "6fc803e7-ef57-4d48-bd58-bb6babca16f4" },
+  { n = 3, title = "Idylle anglo-normande", mbid = "f17dafd2-14de-41a8-8d11-53815bc790e0" },
+  { n = 4, title = "Il roule", mbid = "67b49c94-c93d-4396-a800-1158872d79e4" },
+  { n = 5, title = "Consuelo", mbid = "06242d49-90d0-42cc-8c7b-8b5e05351d66" },
+  { n = 6, title = "En Île de France", mbid = "9367b808-d183-4a37-892d-8adf456e8413" },
+  { n = 7, title = "Oui mais", mbid = "4cd69844-4c88-4704-9d5c-03c9c6783f52" },
+  { n = 8, title = "Ils étaient deux garçons", mbid = "b9157712-5224-49d2-8e8c-523d72397e93" },
+  { n = 9, title = "Bad Boys", mbid = "3156809c-9f38-4a99-b53e-b015a69e9ca0" },
+  { n = 10, title = "On était beau", mbid = "7d3d6f46-1702-4c5a-981e-2e04e340ffab" },
+  { n = 11, title = "Souffrir de se souvenir", mbid = "3b7f0bdc-65ab-4e7e-b72d-424cd973bd29" },
+  { n = 12, title = "La Baie des fourmis", mbid = "75ba52c3-c0cf-471a-880d-d9583d585899" },
+]
+
+[[release]]
+mbid = "2ba6058b-0315-421f-bbf4-6571718656ef"
+title = "Alain Souchon & Laurent Voulzy : Les maquettes des chansons"
+type = "ep"
+date = "2015-12-04"
+tracks = [
+  { n = 1, title = "Derrière les mots (Joinville-Le-Pont_13/05/13_02h50)", mbid = "1ec6b3b2-0d32-4d4d-8a3c-fa3e936f53ab" },
+  { n = 2, title = "T Bird (Beaulieu_04/05/13_01h00)", mbid = "1a63863a-6cd9-40bf-ab87-58fdd4d54d88" },
+  { n = 3, title = "Peter's Home (Surrey-UK_30/05/09_20h02)", mbid = "3f55adf0-7f87-49f4-9711-8d62219cc864" },
+  { n = 4, title = "Portsmouth Ouistream (Surrey-UK _05/2009_12h59)", mbid = "1b85f41a-022d-41b2-81a3-9c8a24725939" },
+]
+
+[[release]]
+mbid = "c3df391d-eeb9-4f24-8673-49a39e5bc172"
+title = "Vole (2 générations chantent pour la 3ème)"
+type = "single"
+date = "2016-02-09"
+spotify = "6YE0KruDSTU6SbfC7JgP7X"
+tracks = [
+  { n = 1, title = "Vole (2 générations chantent pour la 3ème)", mbid = "6b5bc233-f3d8-4ce8-82a2-70a1a36d0df6" },
+]
+
+[[release]]
+mbid = "674f4158-b96b-44e1-b741-d35e05fc8d71"
+title = "Belem"
+type = "album"
+date = "2017-09-01"
+tracks = [
+  { n = 1, title = "Timides", mbid = "a1cfc4d8-9887-4f7b-81fc-d9680ca224bf" },
+  { n = 2, title = "Belem", mbid = "fa87a437-2838-4a46-87e6-13a512b24ce7" },
+  { n = 3, title = "Tombée du jour sur la plage de Grumari", mbid = "fef66144-4b2d-4e97-82e0-01e8f50050dc" },
+  { n = 4, title = "Minha Song of You", mbid = "55a67438-f371-4bbd-bbec-4b41a3ed37da" },
+  { n = 5, title = "Amor Jujuba", mbid = "1b2c9a3d-4f24-4a2b-aa09-a995e0c5baa3" },
+  { n = 6, title = "Rio", mbid = "56e45620-2e02-4a75-a0c8-ff6496bacccc" },
+  { n = 7, title = "Spirit of Samba [Part 1]", mbid = "ae5ebc3c-506c-4798-a478-2f2ea9b4d18f" },
+  { n = 8, title = "Spirit of Samba [Part 2]", mbid = "0ddadb9e-5b28-41db-b2aa-99cb749d8e23" },
+  { n = 9, title = "Spirit of Samba [Part 3]", mbid = "bb159b18-35f4-4d9a-811b-906157d31c19" },
+  { n = 10, title = "Quand le soleil se couche", mbid = "ce04b780-d00f-416b-b76b-27a92eb1772b" },
+]
+
+[[release]]
+mbid = "760402e3-4b3e-4419-a465-cc41c0e66adb"
+title = "Amoureux Des Rêves"
+type = "single"
+date = "2018-10-01"
+tracks = [
+  { n = 1, title = "Amoureux Des Rêves", mbid = "35399a0f-0779-49c4-976d-081195c12895" },
+]
+
+[[release]]
+mbid = "f18dcc1c-169e-418d-afe4-c7d255be985a"
+title = "Vole"
+type = "single"
+date = "2020-09-21"
+tracks = [
+  { n = 1, title = "Vole", mbid = "496652bc-7748-458b-9848-2648feae4869" },
+]
+
+[[release]]
+mbid = "f08dbe8a-d5eb-4dee-9cdf-19e9c4bab669"
+title = "Vole (version 2020)"
+type = "single"
+date = "2020-09-21"
+tracks = [
+  { n = 1, title = "Vole (version 2020)", mbid = "d48463e8-878a-4e39-aff2-b36f60fb5a29" },
+]
+
+[[release]]
+mbid = "28c8f49a-dfc6-45b2-bee1-ec85748c4f18"
+title = "Loreley, Loreley (radio edit)"
+type = "single"
+date = "2020-10-19"
+spotify = "6E0u1nQnl0kl7FhHIrma5o"
+tracks = [
+  { n = 1, title = "Loreley, Loreley (radio edit)", mbid = "2afa4bfb-df82-46cf-ad12-a6f2b2342e27" },
+]
+
+[[release]]
+mbid = "dbdd7503-cb91-430a-b775-85a8e801e7c6"
+title = "Ah ! le petit vin blanc (Hommage à Jean Dréjac)"
+type = "single"
+date = "2023-03-21"
+tracks = [
+  { n = 1, title = "Ah ! Le Petit Vin blanc (Hommage à Jean Dréjac)", mbid = "bab63f24-f9d7-45ff-98f2-f88875c9187b" },
+]
+
+[[release]]
+mbid = "db02427d-06f3-421c-979b-bbdc9f6f9ae6"
+title = "Day Light - If You Want To Love Me Babe"
+type = "ep"
+date = "2024-07-05"
+tracks = [
+  { n = 1, title = "Day Light", mbid = "cdc43842-ea13-46aa-851f-2cef7e443bf7" },
+  { n = 2, title = "Two To Tango", mbid = "90e3c41e-b94d-4e7d-8641-1475bae56515" },
+  { n = 3, title = "If You Want To Love Me Babe (Shoobedoo)", mbid = "fdc1a0da-f077-4f2c-8fd2-7d4714f04249" },
+  { n = 4, title = "Catherine Part", mbid = "32e7f4bf-aafe-4440-bd6e-1d7b39f86560" },
+  { n = 5, title = "I'll Be Gone", mbid = "6f2d9932-dba5-45eb-a26c-b6eafab89e69" },
+  { n = 6, title = "Le Train de 3h14", mbid = "427a2275-5b81-4ca8-a7b2-23db6554f7a0" },
+  { n = 7, title = "Two To Tango (Full Mix)", mbid = "1505666d-d198-4a4c-bb3b-d47f6819e596" },
+  { n = 8, title = "Le Train de 3h14 (Full Mix)", mbid = "5fdbad06-3389-4d8f-889a-7976b5f0a1e6" },
+]
+
+[[release]]
+mbid = "9f2bec7e-56dd-4578-97a7-f9ec53f7044c"
+title = "Pop English"
+type = "album"
+spotify = "4xM2SBi21bghWuNvZGeDDV"
+tracks = [
+  { n = 1, title = "An Elephant on a Chair", mbid = "70d81f28-8a6b-4d6f-b697-66eb82364679" },
+  { n = 2, title = "A Crocodile in an Aquarium", mbid = "ff92445a-2251-4a8c-853f-78607a59a5f0" },
+  { n = 3, title = "A Frog Under an Umbrella", mbid = "9bdfa5a7-c9c1-4c09-ac50-1841576bb858" },
+  { n = 4, title = "A Cat With Glasses", mbid = "0e00cb27-00a1-405e-a1eb-2e88cdba8ee8" },
+  { n = 5, title = "The Elephant Is Playing the Piano", mbid = "e4ced591-c5a5-4c19-9ca1-ccf806c33594" },
+  { n = 6, title = "Bicycles", mbid = "ad93ce17-4390-4df1-a839-a48e0ad35495" },
+  { n = 7, title = "The Bird Is Eating the Sun", mbid = "8b9a7709-835b-4748-9e4d-b871190413fd" },
+  { n = 8, title = "Moon Above the Castle", mbid = "5a1c3d02-47f9-43a5-82b2-d96aadf298a6" },
+  { n = 9, title = "Kangaroo’s Pocket", mbid = "71e9332e-9549-41c8-b41b-9a292ccfde5e" },
+  { n = 10, title = "Big Black Boots", mbid = "a2231cc0-162c-4844-aadf-316aabb7df37" },
+  { n = 11, title = "Hello the Moon", mbid = "db21680c-2400-4217-9927-499608f79ddb" },
+  { n = 12, title = "Spaceship on the Moon", mbid = "74cd53f4-18b5-44c7-8441-635dadd2c987" },
+  { n = 13, title = "Banquet on the Moon", mbid = "7d9564ae-c9f2-4e01-9599-3f83e823b211" },
+  { n = 14, title = "Coming From the Moon", mbid = "6e6664e6-3d2c-4e59-99c2-fdaa6b3edc42" },
+  { n = 15, title = "Goodbye the Moon", mbid = "cbe4f5dd-8fd2-46ac-b2e4-3e4d61dbcc0a" },
+]

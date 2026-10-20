@@ -1,0 +1,286 @@
+format = 1
+
+[[release]]
+mbid = "7550b58c-01c1-3798-98d5-af35658cdc27"
+title = "La Biographie de Luka Philipsen"
+type = "album"
+date = "2000-04"
+tracks = [
+  { n = 1, title = "Dimanche en hiver", mbid = "c5caee07-5f30-4308-80df-50a86381e4ce" },
+  { n = 2, title = "Dans ma ville", mbid = "30581606-2995-4c7e-a591-e536f01f5d25" },
+  { n = 3, title = "Seule", mbid = "fbd79871-61f8-4d94-ab2c-d3b423898550" },
+  { n = 4, title = "On est loin", mbid = "dd1cd307-5775-49cd-ba41-8c22d67363e4" },
+  { n = 5, title = "Sur le fil", mbid = "cc462e8d-50b9-4a77-94db-2fee28531229" },
+  { n = 6, title = "Peut‐être", mbid = "daf82628-4aa6-4e82-8cc7-ab0dfbaa3abe" },
+  { n = 7, title = "Reste là", mbid = "9c5ee22a-42f7-415c-8c41-d1f48f6790d8" },
+  { n = 8, title = "Décrocher les étoiles", mbid = "3e3cb3cc-8aa6-499c-9e67-f1a3f84f6a7b" },
+  { n = 9, title = "Jardin d’hiver", mbid = "a321da91-7fb5-4e9d-8cc3-ef3c9efe956b" },
+  { n = 10, title = "Aéroplane", mbid = "4b07663d-9ec1-42d4-9f73-53e385746da6" },
+  { n = 11, title = "Deux", mbid = "635ebfa0-5763-4002-8852-095a7ff39bc8" },
+  { n = 12, title = "Les Mercenaires", mbid = "7a283a00-6973-4202-9fcb-ac3ffa105566" },
+  { n = 13, title = "Autour de l’arbre", mbid = "7a8aad8e-ef29-4f6c-abf1-96b9618f1054" },
+]
+
+[[release]]
+mbid = "26d0949b-82a5-495b-ac64-6e3128dfce04"
+title = "La Tentation"
+type = "single"
+date = "2002"
+tracks = [
+  { n = 1, title = "End of May", mbid = "e863f9c4-f1c4-4019-bb7a-c5f40986c4d3" },
+  { n = 2, title = "Road Bin", mbid = "b495114e-ce9c-4edb-b3da-5221282485b8" },
+]
+
+[[release]]
+mbid = "5bc69957-9fe8-367b-9a04-777d8eae132d"
+title = "La Disparition"
+type = "album"
+date = "2002-04-22"
+tracks = [
+  { n = 1, title = "Au coin du monde", mbid = "e66b99bd-83e4-4603-921b-9defb4d4379d" },
+  { n = 2, title = "Le sable mouvant", mbid = "f069f1a9-2f11-4b12-b5c7-4f5d5f1f026f" },
+  { n = 3, title = "Les rivières de janvier", mbid = "77eef787-4904-4b36-886e-e432af2b348d" },
+  { n = 4, title = "La corde et les chaussons", mbid = "c71ffd65-c210-49cb-b967-07ca1a1d7002" },
+  { n = 5, title = "Surannée", mbid = "2d8b3dca-e10d-4eac-9f13-014392174bb4" },
+  { n = 6, title = "Ailleurs", mbid = "d6d6be48-50a7-4ec7-afa0-ee6bb7b4653b" },
+  { n = 7, title = "L'illusioniste", mbid = "e0f90ca7-6926-429d-905d-b1ee4225788c" },
+  { n = 8, title = "La tentation", mbid = "4507f155-05d9-47d5-a1ba-f43ba0c676f3" },
+  { n = 9, title = "Mes pas dans la neige", mbid = "61db6b8e-a274-4961-9264-722c010c5712" },
+  { n = 10, title = "Le chien d'avant-garde", mbid = "c272bb35-bfb3-41bd-9315-32fd46a16a2e" },
+  { n = 11, title = "La disparition", mbid = "c3dc5127-c765-439d-8563-87312b9c055e" },
+]
+
+[[release]]
+mbid = "d04274a1-2970-39d7-8e13-d9b49724ddc6"
+title = "Not Going Anywhere"
+type = "album"
+date = "2003-11-25"
+spotify = "37TJEayPfPBPptmodARSIl"
+tracks = [
+  { n = 1, title = "Not Going Anywhere", mbid = "64d74c14-a987-49e8-a4ab-a546d63453b5" },
+  { n = 2, title = "Polly", mbid = "39890d39-c0ea-470c-b059-5e50fb2fec8e" },
+  { n = 3, title = "Road Bin", mbid = "eb6e82cb-f807-4701-a471-93a1cdd5b9c9" },
+  { n = 4, title = "End of May", mbid = "dcb47eff-1537-49c2-90b0-5b71da83f5eb" },
+  { n = 5, title = "Sailor & Widow", mbid = "5ec5c172-953e-44e6-a088-4249b50e9d8d" },
+  { n = 6, title = "Sit in the Sun", mbid = "558eab35-beb3-4db5-90bd-73db933015d6" },
+  { n = 7, title = "Right Now & Right Here", mbid = "d013a9a6-655c-4b00-a7bf-3e3786e58e86" },
+  { n = 8, title = "Seventeen", mbid = "228989d3-c773-4e7f-9fae-48b9481edd00" },
+  { n = 9, title = "Spanish Song Bird", mbid = "27621f13-7ca9-4b2d-924e-d413f7ea1368" },
+  { n = 10, title = "By the Cathedral", mbid = "8cbd83bd-bccd-4869-b2e6-d1eaf9022232" },
+  { n = 11, title = "Ending Song", mbid = "1d243542-27b2-4bb1-93e3-f5f022beb806" },
+]
+
+[[release]]
+mbid = "de68e9fc-470f-3e63-bf87-b8b693371629"
+title = "Nolita"
+type = "album"
+date = "2004-12-21"
+tracks = [
+  { n = 1, title = "Que n’ai-je ?", mbid = "62a21d3e-45d8-41c2-9afa-939139274b61" },
+  { n = 2, title = "L’Onde amère", mbid = "d4aa0c5c-08ff-4cb5-b38b-f9ce58f23f04" },
+  { n = 3, title = "Chelsea Burns", mbid = "140dd7f5-709f-4721-8750-b3486a11eb7c" },
+  { n = 4, title = "Midi dans le salon de la Duchesse", mbid = "8ee7fb2b-b0fa-4508-ade9-f007260c2b8b" },
+  { n = 5, title = "Nolita", mbid = "688b92a5-1e2f-41d6-b726-4825af4d1bee" },
+  { n = 6, title = "Roses & Hips", mbid = "66fb48a8-f237-435a-8234-ae398fa190a4" },
+  { n = 7, title = "One Day Without", mbid = "1f121f7a-b2a2-45f7-a110-53e19447f703" },
+  { n = 8, title = "La forme et le fond", mbid = "a027415b-00cf-4b3d-a9df-bd88e9cb0d2b" },
+  { n = 9, title = "For You and I", mbid = "dad971e5-23e8-4366-bf54-a94e6c66f85a" },
+  { n = 10, title = "Song of Alice", mbid = "714d81af-c39e-4df2-82d8-06b229f2835c" },
+]
+
+[[release]]
+mbid = "51349951-cb47-3feb-85f8-67a1ba4f84cd"
+title = "Keren Ann"
+type = "album"
+date = "2007-04-23"
+tracks = [
+  { disc = 1, n = 1, title = "It's All a Lie", mbid = "0f1cbf12-a48e-42b8-b144-4998c32d96a3" },
+  { disc = 1, n = 2, title = "Lay Your Head Down", mbid = "bc7af327-d7ab-4416-baff-acd110b43148" },
+  { disc = 1, n = 3, title = "In Your Back", mbid = "0a89df75-4e0e-4691-90dc-13d6d4e866e6" },
+  { disc = 1, n = 4, title = "The Harder Ships of the World", mbid = "64e949e5-8119-4027-9090-466ae0082d89" },
+  { disc = 1, n = 5, title = "It Ain't No Crime", mbid = "666e93da-d950-483f-ba27-52e780fc52e4" },
+  { disc = 1, n = 6, title = "Where No Endings End", mbid = "f408d375-6e2c-4159-a60f-31e081d07f36" },
+  { disc = 1, n = 7, title = "Liberty", mbid = "f679274e-c3fb-41ee-a06d-2eea6d39dd75" },
+  { disc = 1, n = 8, title = "Between the Flatland and the Caspian Sea", mbid = "303c29d3-210d-4a1d-afbb-2dd01e9489f3" },
+  { disc = 1, n = 9, title = "Caspia", mbid = "feee5568-de0a-41e1-babf-a263203ad89f" },
+  { disc = 2, n = 1, title = "Silent Night", mbid = "d2d14c34-2e01-4e35-b199-fcd3fb6cf287" },
+  { disc = 2, n = 2, title = "Manha de carnaval", mbid = "8e009903-abd3-4533-9f10-cf90a4d55d4a" },
+  { disc = 2, n = 3, title = "Hallelujah", mbid = "e706c93e-e5cd-4873-952a-62f30afe0bea" },
+  { disc = 2, n = 4, title = "Tennessee Waltz", mbid = "84bec771-1b16-4bd3-b8fa-f5e6b6d9eb46" },
+]
+
+[[release]]
+mbid = "938f51d1-1f9a-4e1b-b551-5c81d0db58ba"
+title = "Live Session EP (iTunes Exclusive)"
+type = "ep"
+date = "2007-09-25"
+tracks = [
+  { n = 1, title = "In Your Back", mbid = "3b925a91-0568-408c-a87f-2b77fc4f35b2" },
+  { n = 2, title = "It Ain’t No Crime", mbid = "fb325e61-a566-4250-bbed-e588498efdae" },
+  { n = 3, title = "Sailor & Widow", mbid = "2b446020-f4fb-4c60-8c98-db15f0ed835e" },
+  { n = 4, title = "Lay Your Head Down", mbid = "e0e26390-0786-4230-9be1-84adbf0e1649" },
+  { n = 5, title = "Big Yellow Taxi", mbid = "3ae098f1-2d6d-4d72-99a2-7113606d430f" },
+  { n = 6, title = "Not Going Anywhere", mbid = "a5defa7c-f574-449b-b6ec-de1f18d1493b" },
+  { n = 7, title = "Chelsea Burns", mbid = "31044b7a-dad0-484f-8800-307de80a8d33" },
+  { n = 8, title = "Que n’ai‐je", mbid = "4c558cfd-6c37-4301-ae19-6c227b78a6b8" },
+]
+
+[[release]]
+mbid = "c39f51a6-1222-487b-b261-5b5a5752088b"
+title = "Thelma, Louise et Chantal"
+type = "album"
+date = "2010-02-15"
+tracks = [
+  { n = 1, title = "Vous les copains, je ne vous oublierai jamais", mbid = "ab69cc79-7902-4e33-a9a8-22f0aa960327" },
+  { n = 2, title = "Nelly, Sacha & Jeremiah", mbid = "64c66fa0-1362-4554-9ed8-c19cd6342c74" },
+  { n = 3, title = "La Plus Belle pour aller danser", mbid = "5896492a-4f0f-4ac5-91b2-1fa9a5840bd6" },
+  { n = 4, title = "Hoping for Sunshine Preparing for Rain", mbid = "6db399fb-cb26-409a-b62c-efbd5983ef45" },
+  { n = 5, title = "Trouble Maker", mbid = "c02a0b91-86f2-481b-8c61-e29fddddd007" },
+  { n = 6, title = "La Question", mbid = "3fcffbf8-44b1-4234-ad4c-a2e1ea011aec" },
+  { n = 7, title = "Nelly & Sacha", mbid = "fea38040-ed86-4743-8bbf-08027067358f" },
+  { n = 8, title = "L’Idole des jeunes", mbid = "89ad0e24-7645-47dc-a371-fa33115ab7c2" },
+  { n = 9, title = "Nothing Moves Her Anymore 1", mbid = "8f12a4b2-7ec2-4670-8eaa-266f741eba12" },
+  { n = 10, title = "Ding dong", mbid = "3ea7cdd4-fcd9-4896-a514-ead6c09265af" },
+  { n = 11, title = "Les Vacances au bord de la mer", mbid = "3f6b5120-3468-4547-be61-da81f07825df" },
+  { n = 12, title = "Nehama 7", mbid = "4f7b4e48-cbc9-49dd-aaa6-05fd5f9836c9" },
+  { n = 13, title = "Ivan, Boris et moi", mbid = "0c3be421-750f-4307-bbd6-7fd2eb0dbe21" },
+  { n = 14, title = "Nothing Moves Her Anymore 2", mbid = "9caf4ebb-2e1f-4d9c-9c48-cc4763b6605a" },
+  { n = 15, title = "Les filles n’ont aucun dégoût", mbid = "7f19c2c6-d740-4c0b-bf2f-845032d8d883" },
+  { n = 16, title = "End TLC", mbid = "d07f9f73-0bc5-4029-99e2-1b2991dc9384" },
+  { n = 17, title = "Nelly & Jeremiah", mbid = "47ccf2df-d76d-49b9-90c0-7fae60371929" },
+  { n = 18, title = "Jeremiah", mbid = "f6f8855e-76aa-4c82-8770-0bcd8dcb1858" },
+]
+
+[[release]]
+mbid = "fcf9d3b5-4b61-4de5-a096-6ab7f4990f77"
+title = "101"
+type = "album"
+date = "2011-02-28"
+spotify = "1eu5NvaaqAsKtA7KwqcapD"
+tracks = [
+  { n = 1, title = "My Name Is Trouble", mbid = "8117f9fe-d3ec-4c5a-9fa8-bb0960fc40c1" },
+  { n = 2, title = "Run With You", mbid = "0fc40144-f22b-42c2-a3aa-9cd4f629dcfc" },
+  { n = 3, title = "All the Beautiful Girls", mbid = "50373dd5-4f6e-4278-a9e8-3652cc4e7baa" },
+  { n = 4, title = "Sugar Mama", mbid = "efe2ab3a-35ca-46d8-ad35-94f80c819563" },
+  { n = 5, title = "She Won't Trade It for Nothing", mbid = "14601103-1c3a-4d5a-ace8-81aaf1ba67a8" },
+  { n = 6, title = "You Were on Fire", mbid = "39acf757-c76c-4c10-878f-6d8ca6abf07d" },
+  { n = 7, title = "Blood on My Hands", mbid = "045c4c2a-07bf-42b0-98d5-bd7297849989" },
+  { n = 8, title = "Song From a Tour Bus", mbid = "0506f89b-a96f-4a06-8bbb-938011795919" },
+  { n = 9, title = "Strange Weather", mbid = "57ae3d1f-28d6-4cad-b66d-0a083ffa8fd1" },
+  { n = 10, title = "101", mbid = "15dbe8ba-2e3f-4d87-8320-4655d618b51e" },
+]
+
+[[release]]
+mbid = "95c48887-9890-49ea-b980-c8a29068d70a"
+title = "You’re Gonna Get Love"
+type = "album"
+date = "2016-03-25"
+tracks = [
+  { n = 1, title = "You’re Gonna Get Love", mbid = "b442096c-056d-4e4a-a51d-f9467446db32" },
+  { n = 2, title = "Bring Back", mbid = "5825399c-2cca-4d31-96b0-4935e087bba1" },
+  { n = 3, title = "The Separated Twin", mbid = "c8fa0ab5-9dbb-4c69-97da-7e3cb8784aa9" },
+  { n = 4, title = "Insensible World", mbid = "790be0c6-9757-4b68-9604-803666bbf0f3" },
+  { n = 5, title = "Where Did You Go?", mbid = "bfc42dbb-e2e7-4f75-945f-af7b7f77f910" },
+  { n = 6, title = "Easy Money", mbid = "a4abe2d3-11c2-4751-9cae-c789eadb37d2" },
+  { n = 7, title = "My Man Is Wanted but I Ain’t Gonna Turn Him In", mbid = "35a4c86f-e636-4fc7-8731-c53129c64a37" },
+  { n = 8, title = "You Knew Me Then", mbid = "cb6e0e7a-cfd4-48a2-a1fe-5f8fc9edcb68" },
+  { n = 9, title = "Again and Again", mbid = "c70af512-a12d-4aee-95e5-a8e7c3a5d14d" },
+  { n = 10, title = "The River That Swallows All the Rivers", mbid = "b729c43c-bd9a-4cfd-9aaf-0d907211e1c6" },
+  { n = 11, title = "You Have It All to Lose", mbid = "75be36fb-b629-4059-86b6-080b1c2c6bbc" },
+]
+
+[[release]]
+mbid = "54666a36-8b4c-412a-97d8-1c561e61a69f"
+title = "Where Did You Go?"
+type = "single"
+date = "2016-04-15"
+tracks = [
+  { n = 1, title = "Where Did You Go?", mbid = "bfc42dbb-e2e7-4f75-945f-af7b7f77f910" },
+  { n = 2, title = "Where Did You Go? (Benjamin Biolay remix)", mbid = "c4966093-2240-46d5-9c90-9e08fdb789b2" },
+  { n = 3, title = "Where Did You Go? (Yuksek remix)", mbid = "482ddacb-ac75-43b9-9ea0-e0bd3058e60b" },
+]
+
+[[release]]
+mbid = "374568b9-fdfd-4e25-befe-13bb3b79d359"
+title = "Bleue"
+type = "album"
+date = "2019-03-15"
+tracks = [
+  { n = 1, title = "Les Jours heureux", mbid = "5ba5c9d1-cbed-4090-babb-2886df214a91" },
+  { n = 2, title = "Bleu", mbid = "1b461c1b-01f9-4611-b327-e0429c9f7fe7" },
+  { n = 3, title = "Le Fleuve doux", mbid = "9684a204-51d6-4823-bf88-830e96f9ae97" },
+  { n = 4, title = "Nager la nuit", mbid = "b5be6d39-7406-4bc4-a414-a90de029a463" },
+  { n = 5, title = "Sous l’eau", mbid = "874717b7-d563-4e70-8a85-182ebd29dbe0" },
+  { n = 6, title = "Ton île prison", mbid = "3f4074d6-b5de-42ab-b3d1-e7c326a3336d" },
+  { n = 7, title = "Odessa, odyssée", mbid = "b753f2d8-002d-48a2-bb7f-ab309d52ea22" },
+  { n = 8, title = "Le Goût d’inachevé", mbid = "afcab23d-c334-4b13-99f0-71566dc150fb" },
+  { n = 9, title = "La Mauvaise Fortune", mbid = "ace297ea-c705-4e93-9618-353ef7b9479f" },
+  { n = 10, title = "Le goût était acide", mbid = "d6dfd2c9-a3da-4d60-9f91-c0161fc476a3" },
+]
+
+[[release]]
+mbid = "69031cba-da3a-4ff3-a568-0a9904156f87"
+title = "Strange Weather"
+type = "single"
+date = "2021-11-17"
+spotify = "13xNg5ZmZkbSNuE2PVp9Qq"
+tracks = [
+  { n = 1, title = "Strange Weather", mbid = "dd781bbf-34e9-49bf-a752-7aff9788105b" },
+]
+
+[[release]]
+mbid = "6511c6fc-87c2-4138-85e5-f08fa3e90d6f"
+title = "Keren Ann & Quatuor Debussy"
+type = "album"
+date = "2022-02-11"
+spotify = "3VsCRz7kLbBNPVoZpF46ZN"
+tracks = [
+  { n = 1, title = "L’Illusioniste", mbid = "71dbac64-e601-4dab-8474-37ad0553f0f6" },
+  { n = 2, title = "By the Cathedral", mbid = "dfe72575-2afb-4583-87ff-ae4f88ac1d62" },
+  { n = 3, title = "Que n’ai‐je ?", mbid = "41c85bef-5771-436f-ab46-c04355f4be4f" },
+  { n = 4, title = "Jardin d’hiver", mbid = "70a2d461-5d21-44f2-9d77-51c9050080b3" },
+  { n = 5, title = "Ton île prison", mbid = "a5224408-ce8c-46e3-8620-a0f263dee42a" },
+  { n = 6, title = "Les jours heureux", mbid = "4f62da12-63a4-4ef1-80f0-fb5fcce8a22b" },
+  { n = 7, title = "You Have It All to Lose", mbid = "68e5fed3-a814-48bd-bda0-037b9ccea2c0" },
+  { n = 8, title = "Faire des ronds dans l’eau", mbid = "fec56584-91ac-4ae8-95c4-dd1e5a68736c" },
+  { n = 9, title = "Lay Your Head Down", mbid = "4d24dc21-fcee-49b0-91c1-e6fc7c075cf3" },
+  { n = 10, title = "Strange Weather", mbid = "f1830908-74db-46ef-9d6f-194649275c6c" },
+]
+
+[[release]]
+mbid = "812b305d-2d23-4eda-9ced-cc493355d11f"
+title = "You Were on Fire"
+type = "single"
+date = "2022-11-18"
+spotify = "7AMYaOMg4Gv08hh8gMn2DW"
+tracks = [
+  { n = 1, title = "You Were on Fire", mbid = "5c01fbf9-abf8-4639-aaec-4cba7af4f0a8" },
+]
+
+[[release]]
+mbid = "70ce13f6-b686-4652-9654-c07f912513e0"
+title = "La Sublime Solitude"
+type = "single"
+date = "2025-03-21"
+spotify = "7relapF4f8EZZISJH5IkQG"
+tracks = [
+  { n = 1, title = "La Sublime Solitude", mbid = "2a0d1779-9b24-4022-b5e8-5333743ad4e8" },
+]
+
+[[release]]
+mbid = "9e3faf23-7c7c-4060-ba36-2ae781dbe1ef"
+title = "Paris Amour"
+type = "album"
+date = "2025-09-12"
+spotify = "3dvIlg1tuKOqYaAU8eYFJ5"
+tracks = [
+  { n = 1, title = "La sublime solitude", mbid = "272c2671-6604-4d2a-8e8b-046f4d931ebf" },
+  { n = 2, title = "Paris Amour", mbid = "0374d368-b795-4ce0-84f5-08cd984496ac" },
+  { n = 3, title = "Les désirs fatigués des navires d’argent", mbid = "715f7ba8-9ea7-45ba-9abe-597b2593958a" },
+  { n = 4, title = "Comme si la mer se divisait", mbid = "d24456ab-1d1f-4d4b-824e-3fbeb6bbce27" },
+  { n = 5, title = "La musique à fond", mbid = "d14d3c93-73fd-49d7-9e17-1a23f00e4b3d" },
+  { n = 6, title = "L'expérience étrange de l'inégal", mbid = "4933562d-3c38-4281-b398-818e8adab4c2" },
+  { n = 7, title = "Les remparts de Saint Malo", mbid = "05e8d444-0ff7-4121-bbaa-d04d0b71278b" },
+  { n = 8, title = "Que la vie est belle", mbid = "61387629-c44e-4cbf-b2c7-22a764707abb" },
+  { n = 9, title = "L'écho des tirs", mbid = "fc282de6-22ff-4d25-a363-805d2f1c82d4" },
+]
