@@ -1,0 +1,464 @@
+format = 1
+
+[[release]]
+mbid = "a3e8be77-dfa4-46bc-858e-454f48e72cb8"
+title = "Supernatural"
+type = "ep"
+date = "2013-12-02"
+spotify = "2emvvMrkovfKnnfKQFcwGl"
+tracks = [
+  { n = 1, title = "Nature Trips", mbid = "1b78f8f7-9fc7-4246-a390-c69e390acba0" },
+  { n = 2, title = "Biolumine", mbid = "b4392425-45aa-419d-a35b-3199c18aa8d6" },
+  { n = 3, title = "Tokyo Ghost", mbid = "eeddef54-aea9-4801-8c18-7a77884499f2" },
+  { n = 4, title = "No Competition", mbid = "38a45a7c-aaff-487e-a998-bc1908550145" },
+]
+
+[[release]]
+mbid = "00f38e28-53dc-4276-9c96-42881dd9f8fc"
+title = "M(o)isture 2.0"
+type = "album"
+date = "2014-05-24"
+tracks = [
+  { n = 1, title = "M(o)Isture 2.0", mbid = "6408cbec-8b9e-4f1d-aac4-4eb000ba2191" },
+  { n = 2, title = "Dont", mbid = "034e0c22-6afb-41f4-afc9-fee656410b00" },
+  { n = 3, title = "Sega", mbid = "f7827964-b20f-4dc1-b3f6-25c65a486c66" },
+  { n = 4, title = "Forest Alone", mbid = "de537eb9-2e3b-42c6-bec4-810529efef12" },
+  { n = 5, title = "Holy Water Dragon", mbid = "a9cae0ca-6617-4862-a381-84a9580f4ee5" },
+  { n = 6, title = "Rejected", mbid = "6965fdbe-f43b-4eeb-b804-00a7c0bc6547" },
+  { n = 7, title = "Fooll", mbid = "00848526-ad55-4b8a-b49e-05f18f8acf42" },
+  { n = 8, title = "Letters From Beyond", mbid = "e8c6ba71-3f45-4daa-b8ad-5d5dfc64dc26" },
+  { n = 9, title = "Clean Cut Superhero", mbid = "5cf8da85-1634-4881-88c9-9adb3ecf37df" },
+]
+
+[[release]]
+mbid = "baf5dc68-6249-4189-9379-daba88dad5d0"
+title = "Manilla Ice"
+type = "album"
+date = "2017-06-02"
+tracks = [
+  { n = 1, title = "Manila Ice", mbid = "a344413e-8ae1-4707-a201-bf688902d99d" },
+  { n = 2, title = "Sofia Coppola", mbid = "fea18c63-276b-4f18-a707-794269c59434" },
+  { n = 3, title = "Separation Anxiety", mbid = "41d339b0-8090-4ee2-9391-b013bdcd0cb6" },
+  { n = 4, title = "Family Tree", mbid = "56ecc3cf-925e-4172-8753-2792dc4f26e9" },
+  { n = 5, title = "Big Shoes", mbid = "241ee99d-75a8-4290-bf05-34cd8797895d" },
+  { n = 6, title = "Feel Like Giving Up", mbid = "45fceb8f-e554-48f4-b703-d1cbf981a87e" },
+  { n = 7, title = "Can't Run from Pain", mbid = "c2607aef-0d4c-4007-b856-9c2389b1971d" },
+  { n = 8, title = "Third Eye Kisses", mbid = "790f2b39-78ce-4c0b-b658-36fc2545b7ee" },
+  { n = 9, title = "Love All Around", mbid = "e1278ab0-12e7-4929-8562-203f658f0190" },
+  { n = 10, title = "Pentagram Land", mbid = "620d0e9e-2112-489e-875e-8358888cd5e1" },
+  { n = 11, title = "Living Room", mbid = "647f12a3-130e-46ba-a739-79a871ac8d9c" },
+  { n = 12, title = "Sticky Green Leaves", mbid = "cf0c135a-3f43-4895-8df7-ac118b63d512" },
+  { n = 13, title = "High Street Drive By", mbid = "79d613e4-7fe0-4b31-b318-c02c80eeb5d8" },
+  { n = 14, title = "Used to Be Good Friends", mbid = "33beddd4-bbff-4776-9b2a-1bd924b3aef7" },
+  { n = 15, title = "Look Past the Past", mbid = "aa986959-dbbb-43dc-b511-24ca811adbf0" },
+]
+
+[[release]]
+mbid = "163ee531-9f3e-41d4-9253-6fc2245d2e78"
+title = "Sensitive G"
+type = "album"
+date = "2018-11-16"
+tracks = [
+  { n = 1, title = "Ancient Love", mbid = "d6bbbe73-f3b2-4019-82bf-47dfdfaadefa" },
+  { n = 2, title = "Alone Time", mbid = "69b658d6-01b0-4214-9e7c-ad891d21c79c" },
+  { n = 3, title = "Toxic Masculinity", mbid = "0a5d6dd3-1919-4e7c-a565-69f399e2e5ba" },
+  { n = 4, title = "Cocaine Sunday", mbid = "e3c0fe65-ba0f-456a-b39c-9fd3f4143ba0" },
+  { n = 5, title = "Cure for Cancer", mbid = "e0b3a02b-8a15-4028-8483-eedf5635f42f" },
+  { n = 6, title = "Xenophobic", mbid = "d969869a-be2d-49a3-acc9-f43d8be3a30d" },
+  { n = 7, title = "No Love in the City", mbid = "df1a9968-2017-4316-b239-bb7f4dc4de35" },
+  { n = 8, title = "No Fun", mbid = "5cc31b1d-acf8-45fb-9eb2-07bd01c00415" },
+  { n = 9, title = "Be a Better Friend", mbid = "607f8cc9-b4fb-4486-ad14-f1c20519eee6" },
+  { n = 10, title = "Stay Calm", mbid = "c9b6f665-7b9b-4e76-a720-c865fa740268" },
+  { n = 11, title = "Window Eyes", mbid = "d1d1be4e-4858-446d-8bc6-35c37681a24e" },
+  { n = 12, title = "White Girl", mbid = "e9985ebd-d89e-47db-93fd-270fec71ae7b" },
+  { n = 13, title = "Suntory Times", mbid = "6c375ff8-c62f-4448-82dc-c30131f21c17" },
+  { n = 14, title = "Sleeping on the Couch", mbid = "ee319c16-ba03-4abb-a25a-fcffc89a5e7c" },
+  { n = 15, title = "Baby Girl", mbid = "cd3a152d-fd89-462d-bae1-f7c8576e0a93" },
+  { n = 16, title = "Young Old Man", mbid = "9d72b070-f243-4fe6-b2f1-949a9e04d42f" },
+  { n = 17, title = "My Child/Old Soul", mbid = "60b3fba5-a3ba-40ab-8abb-cf9a6b9834d4" },
+  { n = 18, title = "PTSD", mbid = "bfb659ef-e04b-425c-8a37-cdcc4d275db2" },
+  { n = 19, title = "Sensitive G", mbid = "a3fe0925-61c2-4b74-9b50-95a0595a9215" },
+  { n = 20, title = "Nice Girl From a Nice Part of Town", mbid = "277db209-04a3-4a1c-8e42-da23b3162a42" },
+]
+
+[[release]]
+mbid = "10345080-431e-425b-ac66-8b3bb379ce20"
+title = "Jealous EP"
+type = "ep"
+date = "2019-12-06"
+tracks = [
+  { n = 1, title = "Jealous", mbid = "82a51cd9-d106-496b-867e-bde37fa99da9" },
+  { n = 2, title = "Trauma", mbid = "3f4ec3d8-4316-4187-92a4-b5a95629e25d" },
+  { n = 3, title = "I Don't Wanna Be Your Friend", mbid = "48923504-498d-4f86-abb4-0504eab7705e" },
+]
+
+[[release]]
+mbid = "807efbd8-574d-48ea-8c49-8e536f38d782"
+title = "Don't Dial 911"
+type = "ep"
+date = "2020"
+tracks = [
+  { n = 1, title = "Stress", mbid = "de85d0e2-3282-4bc8-bbce-c468f8603d88" },
+  { n = 2, title = "Yea Yea Yea", mbid = "b25894cd-91e2-4d78-8960-28d3fdcd6ff5" },
+  { n = 3, title = "Say No More", mbid = "1ecb94fd-2ac1-4ecc-bf1e-fb3310562968" },
+  { n = 4, title = "No Today No Tomorrow", mbid = "bcddb22d-dc6c-4fc3-a1a1-0a9a164edfb0" },
+  { n = 5, title = "I Gotta Get Paid", mbid = "d2361a26-bc32-445a-a56c-30babbc09948" },
+]
+
+[[release]]
+mbid = "b3b81590-85fb-4c82-914e-9c4873bb3528"
+title = "Let's Skip to the Wedding"
+type = "album"
+date = "2020-08-07"
+spotify = "02U2T90QXPo4XaFUvYURaf"
+tracks = [
+  { n = 1, title = "Let's Skip to the Wedding", mbid = "e5324354-dc86-4277-afc4-2afdcf032b85" },
+  { n = 2, title = "Skateboarding Day", mbid = "526b0fc4-2d8c-4261-aede-aeebbceaddcd" },
+  { n = 3, title = "Never Want to Be Apart", mbid = "2f76bf40-11a7-4100-bcb8-d157551b7adc" },
+  { n = 4, title = "Can I See You Tonight?", mbid = "971f9664-db33-4938-a415-6e3d0eea44e0" },
+  { n = 5, title = "Romantic Lover", mbid = "f19be06e-ff2e-44fe-8796-bbad266949c4" },
+  { n = 6, title = "X-Girl", mbid = "0b754cda-cd79-4092-8640-e157a6329e12" },
+  { n = 7, title = "I Don't Wanna Be Your Friend", mbid = "6de64867-79e2-439b-a4cd-b954ccc6eb10" },
+  { n = 8, title = "Jealous", mbid = "82a51cd9-d106-496b-867e-bde37fa99da9" },
+  { n = 9, title = "Last Time I'm Falling in Love", mbid = "5767123a-f65b-47ba-af2b-6adfd695d990" },
+  { n = 10, title = "Pop the Question", mbid = "acd2446c-4e43-4024-a21b-6ae7c129bde8" },
+  { n = 11, title = "Happy Hour", mbid = "9ad86fca-760e-40d3-9fd2-8c7e1a398ea4" },
+  { n = 12, title = "Trauma", mbid = "9bf5deba-3dbe-4a49-b0c9-5fe11722f7b4" },
+  { n = 13, title = "My Girl the Finest", mbid = "b552de9e-63f1-46f7-9555-90a307bac18f" },
+  { n = 14, title = "Never Been to Prom", mbid = "bbe8f82d-631a-42b0-a46d-4f872ecf99f1" },
+  { n = 15, title = "Mystical Creatures Best Friend", mbid = "8d49f38c-87ed-4d2e-b124-9a1a0d0e6657" },
+  { n = 16, title = "Pick Up Your Phone", mbid = "3ef6fa73-09ea-4a1b-bf28-ccee8cad79cc" },
+  { n = 17, title = "Self Improvement", mbid = "00a1ad63-f1b3-4454-b261-d8c33979f36f" },
+  { n = 18, title = "Kiss Me Like It's the First Time", mbid = "31f1760c-2e8a-410e-9aeb-7f7d968207f6" },
+  { n = 19, title = "Anything for You", mbid = "aa9e0cd0-14f1-411d-8470-f4a380161b20" },
+]
+
+[[release]]
+mbid = "004e03d0-49d8-4232-824e-c49d2dc8ff01"
+title = "Jealous (King Krule Nothing Special remix)"
+type = "single"
+date = "2021-03-11"
+spotify = "3f2nu2winiwYGha41s1G9f"
+tracks = [
+  { n = 1, title = "Jealous (King Krule Nothing Special remix)", mbid = "cea8cc5e-9a7e-46ee-8114-773e19e779ce" },
+]
+
+[[release]]
+mbid = "5e99174b-1146-4ce0-bc5f-0832b54b9b93"
+title = "Something About You"
+type = "single"
+date = "2021-06-03"
+spotify = "0wOWCUQPI7x3YECd2j5zGV"
+tracks = [
+  { n = 1, title = "Something About You", mbid = "9e955a13-f0d3-47e7-b601-4dca9fce42ca" },
+  { n = 2, title = "Spit on Your Grave", mbid = "4d15b619-86f1-4b6d-86d7-a774127fcb22" },
+]
+
+[[release]]
+mbid = "e137fcf1-e1f3-4f48-98a3-aa5be18b583f"
+title = "5racks4thafit"
+type = "single"
+date = "2021-07-12"
+spotify = "6Af3BHIQU5rNQ6mILjoete"
+tracks = [
+  { n = 1, title = "5racks4thafit", mbid = "5939d687-ada9-48b9-9b3b-350b9766d07d" },
+]
+
+[[release]]
+mbid = "43c5af09-4a48-4bf6-a0df-d09fbbca8581"
+title = "Mulholland Drive"
+type = "album"
+date = "2021-08-27"
+spotify = "7g0KWmMqYJIWcHVVGycNqU"
+tracks = [
+  { n = 1, title = "Mulholland Drive", mbid = "8820dc35-16b3-40b1-92da-ff6c690aeb1c" },
+  { n = 2, title = "Midnight on a Sunny Day", mbid = "25788342-426e-4c72-8eb0-c931b4684976" },
+  { n = 3, title = "Something About You", mbid = "9e955a13-f0d3-47e7-b601-4dca9fce42ca" },
+  { n = 4, title = "Long Nights at the 711", mbid = "b19a341a-7bab-4620-899f-69fde4c44e52" },
+  { n = 5, title = "Fulfill the Dream", mbid = "cacdfaad-e1ff-4c62-b0d4-19e32b21e644" },
+  { n = 6, title = "Spit on Your Grave", mbid = "4d15b619-86f1-4b6d-86d7-a774127fcb22" },
+  { n = 7, title = "Brain Dead", mbid = "03fe8139-968b-4457-8ff1-0a0cb13b086c" },
+  { n = 8, title = "Dancing With My Demons", mbid = "84cd6563-45b1-4da1-bdeb-d445eddd2ec6" },
+  { n = 9, title = "Body Dysmorphia", mbid = "741f8199-bcf2-41e7-bd49-c35b0409b9e6" },
+  { n = 10, title = "Want You There Tomorrow", mbid = "21d26d70-34a8-421a-90f3-a6a0575c55b8" },
+  { n = 11, title = "Chad an Gordy", mbid = "64896aba-0719-4c58-8093-3421c1e47da4" },
+  { n = 12, title = "Ride or Die", mbid = "063ff29a-04a6-4922-b1f7-f4a799a738cc" },
+  { n = 13, title = "Keep It Real With You", mbid = "36d7f027-7ff2-4025-b5db-6f6f5c3db9e0" },
+  { n = 14, title = "You Know Me", mbid = "9f39eac6-fdca-4c69-a0de-a1f927887a8b" },
+  { n = 15, title = "Prada", mbid = "f7c51caf-e3e3-4949-b25b-5cb8309ac476" },
+]
+
+[[release]]
+mbid = "5304d411-29b2-4133-a9b4-b703fcd15682"
+title = "Affable With Pointed Teeth"
+type = "album"
+date = "2021-10-01"
+spotify = "01lkIZBTG528jW5kdPvPvZ"
+tracks = [
+  { n = 1, title = "IfWeMust…", mbid = "b56bf4aa-c1d5-4972-950e-b2a37716e10d" },
+  { n = 2, title = "Red Spheres", mbid = "5e2f549f-d106-4c6d-bd06-dc2478057c6e" },
+  { n = 3, title = "Candyman", mbid = "a9ecb6ac-453f-43f8-a548-b3dea0a75961" },
+  { n = 4, title = "Four Week Cure", mbid = "5574eb40-b001-4fa8-aa7a-d73def13faf0" },
+  { n = 5, title = "Georgette’s Tea Room", mbid = "68373405-0e84-47b7-983c-f9b74cf4ae9b" },
+  { n = 6, title = "What the Stakes Is", mbid = "146a8bd0-8442-4ad1-b63b-196158b52930" },
+  { n = 7, title = "County Line Rd", mbid = "804786d8-4489-4329-9d84-0eeed60112f7" },
+  { n = 8, title = "Bow Down", mbid = "e8f72d7e-9fe6-45a3-a4e1-8b9ce9d4b1e5" },
+  { n = 9, title = "Reverse King’s Gambit", mbid = "fa18b38b-e947-46c2-a90d-f2bbf5850626" },
+  { n = 10, title = "Nkisi Nkondi", mbid = "d173a27d-0034-4299-be06-83a5be3ec9ef" },
+  { n = 11, title = "Slim Fit Peacoats", mbid = "2723280f-17fe-4343-bdb4-96a281408ad3" },
+  { n = 12, title = "Poised on the Cusp", mbid = "fb547ced-9411-4c33-a654-583d06ff59b4" },
+  { n = 13, title = "Castelo dos Mouros", mbid = "cd24ce0c-b735-4eeb-824e-22155b8eebc2" },
+  { n = 14, title = "Bunchy Carter", mbid = "bc09817d-bbc8-4b26-90b4-331d1ad2697b" },
+  { n = 15, title = "Rainbow Coalition", mbid = "1a2ba082-8808-4f6f-a59f-dae4337f7506" },
+  { n = 16, title = "No Traces", mbid = "3a853407-16d7-417d-8ff5-63bb33173203" },
+  { n = 17, title = "Loose Goose", mbid = "60bf8bec-726c-4ed5-a670-bcb6c890dc76" },
+  { n = 18, title = "My Hands", mbid = "fab135c3-8b12-42e0-979d-aafd023c8c1a" },
+]
+
+[[release]]
+mbid = "6531b990-d44b-4b1e-9172-7e37d2fed0a4"
+title = "G‐CODE"
+type = "single"
+date = "2022-05-19"
+spotify = "55t5yDMHq2HFVslr3kNC1K"
+tracks = [
+  { n = 1, title = "G‐CODE", mbid = "2b15c9a7-addf-419f-ae4d-5e06217d564f" },
+]
+
+[[release]]
+mbid = "6c8241e0-d3f9-41e1-92d0-618220aa5827"
+title = "Full Time Lover"
+type = "album"
+date = "2022-08-26"
+tracks = [
+  { n = 1, title = "Break the Law", mbid = "04265d4a-30fe-4bd7-8ded-9a75adf22e4b" },
+  { n = 2, title = "Dream Dealer", mbid = "f2800b2d-d6c6-435b-a3b9-c70a9a295ec4" },
+  { n = 3, title = "2 Headed Goat", mbid = "93ac3b96-5e42-43b3-a3e3-d681d2698150" },
+  { n = 4, title = "I Don’t Dial 911", mbid = "06982c9b-ee30-4bd9-b98a-642c6439c024" },
+  { n = 5, title = "Still in Love", mbid = "469d194f-c820-44ff-8b54-1c6373d1f622" },
+  { n = 6, title = "Full Time Lover", mbid = "8e07cae1-669e-46d1-82fa-1b7cc81dadab" },
+  { n = 7, title = "Spaghetti", mbid = "44a43119-45a4-452e-882e-da6b1bcc532b" },
+  { n = 8, title = "Crazy 90’s Baby", mbid = "56c88f6a-8718-4b91-8177-702821718c17" },
+  { n = 9, title = "Play Your Cards Right", mbid = "0d96d57b-4579-4cb5-960b-b1516b44fcf1" },
+  { n = 10, title = "House of Cards", mbid = "1020cca9-3487-4a67-adee-6f63c7d99180" },
+  { n = 11, title = "Dinner Time", mbid = "25616c6f-162f-4047-b844-bb364cfc6c8f" },
+  { n = 12, title = "Try Another Time", mbid = "a6961352-271d-4284-826f-79bb1c19dc01" },
+  { n = 13, title = "Reward", mbid = "4c2396c9-fa87-4e33-9b82-514cc190c408" },
+  { n = 14, title = "In the Dog House", mbid = "dd529e3b-e381-4dbd-aa83-1999ebd08ec6" },
+  { n = 15, title = "A Good Life", mbid = "20793a76-ca20-4336-9dfa-39c48d24da81" },
+  { n = 16, title = "Only Girl for Me", mbid = "3fdc0705-edda-47b4-a7e5-d089dcf4f6e9" },
+  { n = 17, title = "Don’t Suffer", mbid = "cb694ccd-b1bb-458b-92eb-9bb7205921e9" },
+  { n = 18, title = "Faith in Love", mbid = "7e8fad94-4429-4c6b-a2b1-897d1e339df4" },
+  { n = 19, title = "Shrooms in Disneyland", mbid = "206c42b7-f963-4567-b908-dbf83dc44237" },
+  { n = 20, title = "Uncomfortable", mbid = "7718791a-6cc6-4af7-8571-28aff10dad42" },
+  { n = 21, title = "Smoke & Mirrors", mbid = "595bdce2-1baf-4f34-8458-de8ef701f7ca" },
+  { n = 22, title = "Facts", mbid = "0e3f821d-c655-48cc-b689-2c91e7f0b657" },
+  { n = 23, title = "Famous", mbid = "4b6fc74e-1f88-4db4-8469-4995b1c61c04" },
+  { n = 24, title = "R&B Love", mbid = "a7fab51f-5834-4cba-a7cd-170300c9d50d" },
+  { n = 25, title = "Mr Nice Guy", mbid = "b46cc744-fca8-4e46-af9c-ca2f196cfab0" },
+  { n = 26, title = "Don't Wake Up My Baby", mbid = "10162340-ad07-4377-87b5-ec5498ce1fc5" },
+  { n = 27, title = "Safe With You", mbid = "5ab8131f-c9fa-4f27-9d62-8be05afe5832" },
+  { n = 28, title = "For the Children", mbid = "36afffd5-0c3d-41ea-86a1-8aea47b792dd" },
+]
+
+[[release]]
+mbid = "c7d89e4e-f9e3-4e7d-824e-755bb198376c"
+title = "L's (Eyedress remix)"
+type = "single"
+date = "2022-09-26"
+spotify = "0hCUDBgTAjPHYMXuT3v53W"
+tracks = [
+  { n = 1, title = "L's (Eyedress remix)", mbid = "77a4a86e-c68a-44ea-94e9-17400f2a7d9b" },
+]
+
+[[release]]
+mbid = "ccd44e1b-d278-4b62-b2b1-f3569e50c837"
+title = "HOUSE OF CARDS (Kevin Shields Rainbow Belts remix)"
+type = "single"
+date = "2023-01-23"
+spotify = "0wxL3up90d20n6m5Tqg0YO"
+tracks = [
+  { n = 1, title = "HOUSE OF CARDS (Kevin Shields Rainbow Belts remix)", mbid = "e9f220f8-6136-4422-bf87-89e82561b17c" },
+]
+
+[[release]]
+mbid = "6c256a0f-f280-44a0-8336-d095ce18aa58"
+title = "Escape From the Killer"
+type = "single"
+date = "2023-05-12"
+spotify = "3f8J1FJdPioQfUEG3FL2PG"
+tracks = [
+  { n = 1, title = "Escape From the Killer 2008", mbid = "4294f052-41e4-465e-b841-5631539462ec" },
+  { n = 2, title = "Escape From the Killer 1994", mbid = "b26bbe4d-7acb-483b-a270-9b8e23eddc09" },
+]
+
+[[release]]
+mbid = "0bc22635-2ea6-4e0c-acaa-457187ba227a"
+title = "Teen Mom"
+type = "single"
+date = "2023-07-14"
+spotify = "5fNJayJ6PmV9QkAYUeCRea"
+tracks = [
+  { n = 1, title = "Teen Mom", mbid = "abd6090d-f5cd-419d-aed1-8c63c7e1ef18" },
+]
+
+[[release]]
+mbid = "b08f8aee-d942-4bbd-9c59-bf93b4df14e2"
+title = "The Dark Prince"
+type = "single"
+date = "2023-08-18"
+tracks = [
+  { n = 1, title = "The Dark Prince", mbid = "5f888079-aea0-4eed-bd55-d554a9a9e2ab" },
+]
+
+[[release]]
+mbid = "c756759d-bedd-4186-a784-5f6c4f61ddd2"
+title = "My Simple Jeep"
+type = "single"
+date = "2023-10-13"
+tracks = [
+  { n = 1, title = "My Simple Jeep", mbid = "fc9fa9bd-ba93-41e2-b01d-f78dbb8f2ee7" },
+]
+
+[[release]]
+mbid = "cf6b5da7-e955-4317-afd5-a54f11c08ebe"
+title = "Separate Ways"
+type = "single"
+date = "2023-11-10"
+spotify = "0RPUD4sJF4iHT97MKwyyNz"
+tracks = [
+  { n = 1, title = "Separate Ways", mbid = "dc66b3a7-7534-4297-b836-84f5ee39f486" },
+]
+
+[[release]]
+mbid = "b0d1b131-a252-4c5e-a51b-860d53761e94"
+title = "Sadie Hawkins Prom"
+type = "single"
+date = "2023-11-22"
+spotify = "4wzK5q2gMTURbtmG7mnK0g"
+tracks = [
+  { n = 1, title = "Sadie Hawkins Prom", mbid = "3ec2e404-00b5-4136-abf0-3119010831f6" },
+]
+
+[[release]]
+mbid = "bfccc724-ed74-43ec-80b4-39ed231c58ae"
+title = "A Room Up in the Sky"
+type = "single"
+date = "2023-12-15"
+spotify = "0S4c1T8qWm1ZnCUj9edQq2"
+tracks = [
+  { n = 1, title = "A Room Up in the Sky", mbid = "6db01cb5-465a-49c7-8272-4c62efac2a9a" },
+]
+
+[[release]]
+mbid = "f6873688-ab23-4ff3-b33a-58929c172193"
+title = "Snowing in LA"
+type = "single"
+date = "2023-12-26"
+spotify = "0bAnJbVxDC5DMCSCyf4SOV"
+tracks = [
+  { n = 1, title = "Snowing in LA", mbid = "b4d0f298-8e16-4432-b883-1882714c2bcb" },
+]
+
+[[release]]
+mbid = "0ad1bae5-ef00-4ef9-987d-021761191379"
+title = "rUN tHE FaDE"
+type = "single"
+date = "2024-01-05"
+spotify = "4dPnAsC3Ql4SVtjkDCrnhG"
+tracks = [
+  { n = 1, title = "rUN tHE FaDE", mbid = "237962aa-b9a2-4d9f-a555-c332edfc850c" },
+]
+
+[[release]]
+mbid = "642e41f6-e290-4cb2-b3e4-c6df9152a86c"
+title = "Mrs. Valentine"
+type = "single"
+date = "2024-02-14"
+spotify = "6AfuKmIjq95swC13Sq4saV"
+tracks = [
+  { n = 1, title = "Mrs. Valentine", mbid = "47a1ee34-9878-4616-8294-ed31fa4dbb6b" },
+]
+
+[[release]]
+mbid = "2d025c4d-ec82-430d-9636-1ade248588da"
+title = "Vampire in Beverly Hills"
+type = "album"
+date = "2024-04-19"
+spotify = "34GevB4U1WHwDcm7kQmANH"
+tracks = [
+  { n = 1, title = "Mrs. Valentine", mbid = "52c48b15-a89f-4d6c-98b4-9747d0134568" },
+  { n = 2, title = "Changing Faces", mbid = "9862e1a7-8aa7-4156-b9cc-2327240688a8" },
+  { n = 3, title = "How It All Starts", mbid = "8a163b87-b733-4c6f-8ee7-27bf5013e72b" },
+  { n = 4, title = "Okanagan Lake", mbid = "d7205941-e226-4688-a97c-d318b239d77f" },
+  { n = 5, title = "Lover’s Lane", mbid = "f546d2c0-26a8-4f0c-a469-3087649bca21" },
+  { n = 6, title = "My Time", mbid = "a9829776-c272-453d-9627-8cad8a7af249" },
+  { n = 7, title = "Once Upon a Time", mbid = "edba9959-30d0-4187-af38-2379cd794443" },
+  { n = 8, title = "Tears in the Rain", mbid = "81f42f31-b781-4383-84a4-9ac3ac78a5fc" },
+  { n = 9, title = "Goons Will Be Goons", mbid = "5b2fb398-5665-444f-856e-74b82c0f0d56" },
+  { n = 10, title = "War Crimes", mbid = "235ff306-fcf1-4ff2-87bb-2976be3e589b" },
+  { n = 11, title = "It’s All in Your Head", mbid = "c9270ef6-ae41-4d76-ba5f-a9201fb2601f" },
+  { n = 12, title = "A World Without You", mbid = "86eeddd6-e644-4800-a629-bb3f6afadbc0" },
+  { n = 13, title = "Don’t Tell Me How to Live My Life", mbid = "4548381e-539a-4ab3-ab9b-e44bff8e41b5" },
+  { n = 14, title = "Make Up or Break Up", mbid = "68c462f0-c1fe-491b-a34d-01fb3f588e31" },
+  { n = 15, title = "Sci‐Fi Fantasy", mbid = "8872c0a0-42bf-4c66-b915-33fb5b35ba81" },
+  { n = 16, title = "Secret Admirer", mbid = "ec8abd10-b60f-4baa-bc49-7ebd90de8f94" },
+  { n = 17, title = "Fake Friend", mbid = "fabb34f6-5fe6-4d7b-8cb6-956c71792c68" },
+  { n = 18, title = "Skater Dater", mbid = "36007346-482a-419c-9609-e49eb12bd9eb" },
+  { n = 19, title = "Birkin", mbid = "bad79b43-26b9-4e6f-96fd-ce7938a3593d" },
+  { n = 20, title = "Gone in a Heartbeat", mbid = "480bc705-d2b4-4572-b509-922431e80b53" },
+  { n = 21, title = "Pepe’s Night Out", mbid = "c645d901-8cb4-4c0f-b2e4-9b2b58a2bba3" },
+  { n = 22, title = "I’m Not the Feds", mbid = "238e6b6c-c937-4913-b6b4-39f202a74194" },
+  { n = 23, title = "Waitin in the Ride", mbid = "5c3fbdfa-bdba-4a10-96ba-5647213bc366" },
+  { n = 24, title = "I Still Want Your Love", mbid = "0331a45b-6e39-4638-909d-2ce690d66da1" },
+  { n = 25, title = "Only Got So Much Time", mbid = "8ef89e5f-b345-4209-a1a3-14f767fb3bde" },
+  { n = 26, title = "Never Fuct With You", mbid = "73970b15-9b69-4726-a2c1-a83aa08735ce" },
+  { n = 27, title = "It Girl", mbid = "3b61659b-e45e-4c28-9bcb-1090b7df731e" },
+  { n = 28, title = "Stay Alive", mbid = "e7b36b3f-6ac6-4119-a0c2-adb9b894dfad" },
+  { n = 29, title = "Sinning in Heaven", mbid = "695d65cb-6dce-4b5f-947d-d1ef271c9390" },
+  { n = 30, title = "I Miss My Poppa", mbid = "b0d82119-4d47-4ec2-87d6-36f46e0c739c" },
+  { n = 31, title = "OFW", mbid = "f86faa72-8cef-438b-8c60-2c903d503b9e" },
+  { n = 32, title = "Halloween Beach", mbid = "17e2fda4-6e8b-4603-8fa1-a31cfe711415" },
+  { n = 33, title = "Vampire in Beverly Hills", mbid = "90935ff7-0ecc-4131-9ee3-49e59d6e9277" },
+  { n = 34, title = "Only Blue", mbid = "8886ba0e-ee9e-4fa0-8631-0630e5c17233" },
+]
+
+[[release]]
+mbid = "d6b2a8f0-eebc-4636-bb13-f591f4f03102"
+title = "Occasional Stoner"
+type = "single"
+date = "2024-11-15"
+spotify = "4chVFCoJPIHRxAz9XDozJl"
+tracks = [
+  { n = 1, title = "Occasional Stoner", mbid = "9e4dbb3d-47b8-404e-83e1-9ee8981ccff2" },
+]
+
+[[release]]
+mbid = "0afd8325-5c25-48c4-80f9-0bbc34898cce"
+title = "Stoner"
+type = "album"
+date = "2025-04-11"
+spotify = "57KwrtSpwCgoy1uOg6ssnd"
+tracks = [
+  { n = 1, title = "Change My View", mbid = "60b9a57f-7599-45d3-9b74-9dd08800c008" },
+  { n = 2, title = "Downers", mbid = "4c85a4fc-0473-42a1-9015-f45bb825ccf4" },
+  { n = 3, title = "The Big City", mbid = "ed6b986f-d6e2-41c5-926d-e89fe64c054c" },
+  { n = 4, title = "Occasional Stoner", mbid = "c2c52e59-e5f9-4916-b0a7-cea8fdb27c92" },
+  { n = 5, title = "My Simple Jeep", mbid = "fc9fa9bd-ba93-41e2-b01d-f78dbb8f2ee7" },
+  { n = 6, title = "Satan's Son", mbid = "92290300-ba11-459f-9b10-94c6a9fcf1a8" },
+  { n = 7, title = "Stars in Your Eyes", mbid = "b75360ea-12e9-4fff-81ee-2e2886877103" },
+  { n = 8, title = "Looking for Shelter", mbid = "356de181-7407-4b84-b93f-f4767f548573" },
+  { n = 9, title = "New Money", mbid = "dfe81e3f-ec8f-447f-892f-879ca6a33db9" },
+  { n = 10, title = "Dragon Meat", mbid = "c0295ac3-3b0e-4da5-b5fb-3a30bc1a7dff" },
+  { n = 11, title = "Ignored Prayers (AWWTYSM)", mbid = "8b04e0db-1dd0-41c4-b8f6-631d0ba34142" },
+  { n = 12, title = "Evil Lurks", mbid = "55e93c38-6a2e-4e3e-b6b2-20ef13f85165" },
+  { n = 13, title = "Keeping Score", mbid = "018c25cc-bf08-4478-bf86-5bb1ec172058" },
+  { n = 14, title = "2shy", mbid = "950a3b8b-7e1b-47c5-8137-6106fa63bfbd" },
+  { n = 15, title = "Graves", mbid = "38f32b48-e9f0-4b66-9a65-ca10d2efcc29" },
+  { n = 16, title = "Date Night", mbid = "fc7aca70-0c1c-4661-a856-aa05640b91a9" },
+  { n = 17, title = "A New Pair of Eyes", mbid = "08ca36ba-9dd6-484f-a21b-9884aa56bf30" },
+  { n = 18, title = "Separate Ways", mbid = "dc66b3a7-7534-4297-b836-84f5ee39f486" },
+  { n = 19, title = "My Crazy Ways", mbid = "9a91250c-cee9-4808-aa5a-8921e19fd568" },
+  { n = 20, title = "Do You Ever Smile", mbid = "9ff9dd59-07cf-4231-a1a8-9b78789e1e29" },
+  { n = 21, title = "Never See Your Face Again", mbid = "8e529ee5-75b7-4698-81b0-dd73bcdbc84b" },
+]

@@ -1,0 +1,392 @@
+format = 1
+
+[[release]]
+mbid = "37a227e0-1b1f-4848-85f5-d8ce3431096a"
+title = "Chequeless Reckless / Boys in the Better Land"
+type = "single"
+date = "2018-08-20"
+tracks = [
+  { n = 1, title = "Chequeless Reckless", mbid = "d56e1dbc-c898-48d5-aebc-a746cca95e52" },
+  { n = 2, title = "Boys in the Better Land", mbid = "3a0a7aad-bef7-4451-ba84-dc62cfc2c076" },
+]
+
+[[release]]
+mbid = "c998a623-6b97-4ea5-81c6-8ee9b372653b"
+title = "Hurricane Laughter / Winter in the Sun"
+type = "single"
+date = "2018-08-20"
+spotify = "2c64Cxk3663rPSv6bXYPPd"
+tracks = [
+  { n = 1, title = "Hurricane Laughter (Darklands version)", mbid = "90f5f746-80aa-4f2f-8575-5f26133fc2f6" },
+  { n = 2, title = "Winter in the Sun (Darklands version)", mbid = "095ffa29-e1f8-47eb-8e42-1225c306bbfc" },
+]
+
+[[release]]
+mbid = "c32caa5d-2cbf-4e0d-b4bc-88d167eba1ef"
+title = "Liberty Belle"
+type = "single"
+date = "2018-08-20"
+spotify = "4D322iSFhNbMWyuaJMJLG5"
+tracks = [
+  { n = 1, title = "Liberty Belle (Darklands version)", mbid = "920bff35-7e06-4cf7-add0-9149b574a1ef" },
+  { n = 2, title = "Rocket to Russia (Darklands version)", mbid = "c3da9275-4925-4cc1-9b6a-079f25cf52d6" },
+]
+
+[[release]]
+mbid = "91438e20-246a-4733-aece-8e2b67a85d21"
+title = "Too Real"
+type = "single"
+date = "2018-11-12"
+tracks = [
+  { n = 1, title = "Too Real", mbid = "f6176526-993e-43b6-9a1a-e84a7fed2c8a" },
+  { n = 2, title = "The Cuckoo Is a-Callin'", mbid = "de5de52a-c353-4dae-97c3-38c23b3108a7" },
+]
+
+[[release]]
+mbid = "84c01ae7-82e5-4965-a5b6-7aeaf539f85c"
+title = "Dogrel"
+type = "album"
+date = "2019-04-12"
+spotify = "1i9PDv6BO8c8Y5lxMG6Lej"
+tracks = [
+  { n = 1, title = "Big", mbid = "ab1fc023-6d15-416e-b07f-5efe012a8cca" },
+  { n = 2, title = "Sha Sha Sha", mbid = "231afd64-70fd-4abe-aa65-953d170cb4b5" },
+  { n = 3, title = "Too Real", mbid = "f6176526-993e-43b6-9a1a-e84a7fed2c8a" },
+  { n = 4, title = "Television Screens", mbid = "930c7fbd-708e-4769-ab32-69bff865cbff" },
+  { n = 5, title = "Hurricane Laughter", mbid = "57a6e96b-dca9-40fc-8af5-714dcbe35058" },
+  { n = 6, title = "Roy’s Tune", mbid = "0300f50a-e63e-424c-ae9a-7c69e9c6e00b" },
+  { n = 7, title = "The Lotts", mbid = "7eec9634-f643-4439-a46f-af66d9e1d146" },
+  { n = 8, title = "Chequeless Reckless", mbid = "515f97db-5d40-4352-aa0b-37198fa76167" },
+  { n = 9, title = "Liberty Belle", mbid = "4cfaea5a-4366-4449-85a5-a18ca212fffb" },
+  { n = 10, title = "Boys in the Better Land", mbid = "74066237-d237-4097-9c9e-320b7d4667d7" },
+  { n = 11, title = "Dublin City Sky", mbid = "4d93e73d-234e-4e32-95f9-11541852557d" },
+]
+
+[[release]]
+mbid = "d86b7845-d3f1-4600-a0ea-91c174f22f49"
+title = "Boys in the Better Land"
+type = "single"
+date = "2019-08-29"
+tracks = [
+  { n = 1, title = "Boys in the Better Land", mbid = "74066237-d237-4097-9c9e-320b7d4667d7" },
+  { n = 2, title = "Boys in the Better Land (radio edit)", mbid = "9ce4fe43-6f78-4864-af7c-a8589b6fb878" },
+]
+
+[[release]]
+mbid = "452038b7-4b6e-4783-b843-19d91bfb7a7c"
+title = "Darklands Versions"
+type = "ep"
+date = "2019-11-12"
+tracks = [
+  { n = 1, title = "Liberty Belle", mbid = "920bff35-7e06-4cf7-add0-9149b574a1ef" },
+  { n = 2, title = "Hurricane Laughter", mbid = "90f5f746-80aa-4f2f-8575-5f26133fc2f6" },
+  { n = 3, title = "Chequeless Reckless", mbid = "d56e1dbc-c898-48d5-aebc-a746cca95e52" },
+  { n = 4, title = "Boys in the Better Land", mbid = "3a0a7aad-bef7-4451-ba84-dc62cfc2c076" },
+  { n = 5, title = "You Can’t Realise", mbid = "a502ee40-b339-4256-a0a6-56dd895d9dc8" },
+  { n = 6, title = "More Than Anything", mbid = "87844974-50c4-437e-9aa5-425fddea7cd3" },
+]
+
+[[release]]
+mbid = "397297f6-a6cb-48fe-99dd-08bea2895da5"
+title = "A Hero’s Death"
+type = "single"
+date = "2020-05-05"
+spotify = "7ocf0h6p4UDyWOaWDWZZox"
+tracks = [
+  { n = 1, title = "A Hero’s Death", mbid = "789c26da-6d76-448d-8c6b-b85ea4332b0a" },
+]
+
+[[release]]
+mbid = "0260f568-65dc-404d-95e6-e6b045713793"
+title = "I Don’t Belong"
+type = "single"
+date = "2020-06-09"
+spotify = "66i3MRffXRKALcl0X3vo4V"
+tracks = [
+  { n = 1, title = "I Don’t Belong", mbid = "3193c1e3-0bc4-4a38-8651-199ceef4bc63" },
+]
+
+[[release]]
+mbid = "b4bbf5a8-b90c-47d4-ac9c-1d71b49ac2ee"
+title = "Televised Mind"
+type = "single"
+date = "2020-06-30"
+tracks = [
+  { n = 1, title = "Televised Mind", mbid = "783c88b0-875a-4b1b-80ac-cb6096d9b8e1" },
+]
+
+[[release]]
+mbid = "8eac43e3-2fbc-488b-b728-f79c17836fef"
+title = "A Hero’s Death"
+type = "album"
+date = "2020-07-31"
+spotify = "307RtUHysY6w6RO29i9YNL"
+tracks = [
+  { n = 1, title = "I Don’t Belong", mbid = "3193c1e3-0bc4-4a38-8651-199ceef4bc63" },
+  { n = 2, title = "Love Is the Main Thing", mbid = "b455da31-4846-44e7-93e6-7fa964a44d0b" },
+  { n = 3, title = "Televised Mind", mbid = "783c88b0-875a-4b1b-80ac-cb6096d9b8e1" },
+  { n = 4, title = "A Lucid Dream", mbid = "1b66d088-3924-48ff-888d-98cb9937309c" },
+  { n = 5, title = "You Said", mbid = "40f2b194-d8ba-4e3f-abf7-79a29263a073" },
+  { n = 6, title = "Oh Such a Spring", mbid = "b86dd30a-3eea-4cef-8a33-2cb5039ab3bc" },
+  { n = 7, title = "A Hero’s Death", mbid = "789c26da-6d76-448d-8c6b-b85ea4332b0a" },
+  { n = 8, title = "Living in America", mbid = "44d7ca03-9758-4170-94d6-9db13cfd5796" },
+  { n = 9, title = "I Was Not Born", mbid = "265ce062-9326-4723-b531-30051a6d6ce0" },
+  { n = 10, title = "Sunny", mbid = "279bda8a-3e5e-456a-bafc-dd3ff0b70f02" },
+  { n = 11, title = "No", mbid = "02d1a0a0-d738-4b0b-a9b6-8f47c4e53536" },
+]
+
+[[release]]
+mbid = "82a6dab5-66e3-46d2-a4c2-6cbe0720edc9"
+title = "Apple Music Home Session: Fontaines D.C."
+type = "single"
+date = "2020-08-25"
+tracks = [
+  { n = 1, title = "A Lucid Dream (Apple Music Home session)", mbid = "9a686182-7d91-43c9-b66f-ae1e91f2e0e4" },
+]
+
+[[release]]
+mbid = "f86e3056-3f32-4507-a13b-6b2d46305aea"
+title = "At Home With Fontaines D.C.: The Session"
+type = "single"
+date = "2020-08-25"
+tracks = [
+  { n = 1, title = "A Lucid Dream (Apple Music at Home with session)", mbid = "9a686182-7d91-43c9-b66f-ae1e91f2e0e4" },
+]
+
+[[release]]
+mbid = "bc61f3f3-1268-490f-ac50-068aa31d50e8"
+title = "Deezer Originals: InVersions"
+type = "single"
+date = "2020-10-06"
+tracks = [
+  { n = 1, title = "Wouldn’t It Be Nice", mbid = "62e71cdc-6aec-442c-860a-8c305a8af866" },
+]
+
+[[release]]
+mbid = "3068e8ad-202f-47a9-9926-41e5a1c8b2fb"
+title = "Jackie Down the Line"
+type = "single"
+date = "2022-01-11"
+tracks = [
+  { n = 1, title = "Jackie Down the Line", mbid = "08410e18-e94b-4ef6-8eaf-a76c720fb5ac" },
+]
+
+[[release]]
+mbid = "9e3a1cda-69a2-480b-ade5-223ee3e514c7"
+title = "I Love You"
+type = "single"
+date = "2022-02-17"
+spotify = "2xivxT3O20OUxWYJ0FDAFX"
+tracks = [
+  { n = 1, title = "I Love You", mbid = "be9db312-2af0-4770-a56a-81fd382e802a" },
+  { n = 2, title = "Jackie Down the Line", mbid = "08410e18-e94b-4ef6-8eaf-a76c720fb5ac" },
+]
+
+[[release]]
+mbid = "5b71b498-590a-413e-9d5f-7d14d9ab5d5e"
+title = "Apple Music Home Session Vol 2"
+type = "single"
+date = "2022-03-14"
+tracks = [
+  { n = 1, title = "One", mbid = "f8fc4288-4032-4720-88d6-066370164c3d" },
+]
+
+[[release]]
+mbid = "fd4149c9-9f35-4cce-b7bf-8ec1d5a25f8a"
+title = "Skinty Fia"
+type = "single"
+date = "2022-03-21"
+tracks = [
+  { n = 1, title = "Skinty Fia", mbid = "47719cbe-db76-41ce-bde8-e1dcce51df84" },
+  { n = 2, title = "Skinty Fia (edit)", mbid = "396fa0ed-f6f9-42bd-85e6-451fd16f5312" },
+]
+
+[[release]]
+mbid = "acc9efa1-d937-4a0e-bbf8-d0696c7fbf12"
+title = "Roman Holiday"
+type = "single"
+date = "2022-04-19"
+spotify = "4RS2DASQKdADMLDPSB6rX3"
+tracks = [
+  { n = 1, title = "Roman Holiday", mbid = "60cf268e-d6e2-4902-8000-d6eeddcf74be" },
+  { n = 2, title = "Skinty Fia", mbid = "47719cbe-db76-41ce-bde8-e1dcce51df84" },
+  { n = 3, title = "I Love You", mbid = "be9db312-2af0-4770-a56a-81fd382e802a" },
+  { n = 4, title = "Jackie Down the Line", mbid = "08410e18-e94b-4ef6-8eaf-a76c720fb5ac" },
+]
+
+[[release]]
+mbid = "aa2f908a-5aba-40c1-a198-3d0ad4f43486"
+title = "Skinty Fia"
+type = "album"
+date = "2022-04-22"
+spotify = "1R7vPDuTFeqCGOLj1JwfRH"
+tracks = [
+  { n = 1, title = "In ár gCroíthe go deo", mbid = "e702e2ea-e1b3-4339-b0cd-b784c1781472" },
+  { n = 2, title = "Big Shot", mbid = "6143a372-f662-43af-9179-f11bd7da491e" },
+  { n = 3, title = "How Cold Love Is", mbid = "afda387f-e400-4342-9db2-134bb4438779" },
+  { n = 4, title = "Jackie Down the Line", mbid = "08410e18-e94b-4ef6-8eaf-a76c720fb5ac" },
+  { n = 5, title = "Bloomsday", mbid = "b38f6454-6524-4522-a6fe-2673de91aab3" },
+  { n = 6, title = "Roman Holiday", mbid = "60cf268e-d6e2-4902-8000-d6eeddcf74be" },
+  { n = 7, title = "The Couple Across the Way", mbid = "b8a5f585-661b-4562-a90f-423e6f53ee8a" },
+  { n = 8, title = "Skinty Fia", mbid = "47719cbe-db76-41ce-bde8-e1dcce51df84" },
+  { n = 9, title = "I Love You", mbid = "be9db312-2af0-4770-a56a-81fd382e802a" },
+  { n = 10, title = "Nabokov", mbid = "5b39f50b-63f4-4619-a2ad-402c980b4432" },
+]
+
+[[release]]
+mbid = "1dc3b159-9a8a-4dce-a762-a5b6dd72311a"
+title = "’Cello Song"
+type = "single"
+date = "2023-03-01"
+tracks = [
+  { n = 1, title = "’Cello Song", mbid = "897baffd-67e7-4d84-9ca5-4cc37a71949d" },
+]
+
+[[release]]
+mbid = "83537beb-8fd6-4a85-93b4-e0dd5f25e3ed"
+title = "The Endless Coloured Ways: The Songs of Nick Drake (I)"
+type = "single"
+date = "2023-03-24"
+tracks = [
+  { n = 1, title = "’Cello Song", mbid = "897baffd-67e7-4d84-9ca5-4cc37a71949d" },
+  { n = 2, title = "From the Morning", mbid = "2c5dd229-c195-4701-9bac-5f07bfdb8d0c" },
+]
+
+[[release]]
+mbid = "0aa91b17-6b7f-4afe-9f37-43376394ddc8"
+title = "Starburster"
+type = "single"
+date = "2024-04-17"
+spotify = "1KkyOpscmbPAQzLNZDyI6o"
+tracks = [
+  { n = 1, title = "Starburster", mbid = "8e0b5508-09db-459e-b02b-55c796a6edbb" },
+]
+
+[[release]]
+mbid = "66048a8c-54e5-4d00-8f70-3f26ba190016"
+title = "Favourite"
+type = "single"
+date = "2024-06-18"
+spotify = "2bPJfnWkyJKG4gCajBXASQ"
+tracks = [
+  { n = 1, title = "Favourite", mbid = "51d4d3ab-131f-46a1-a9ad-b21fc132d757" },
+  { n = 2, title = "Starburster", mbid = "8e0b5508-09db-459e-b02b-55c796a6edbb" },
+]
+
+[[release]]
+mbid = "664ab116-bf84-4e9b-bd4c-de80e513e51d"
+title = "ceasefire"
+type = "ep"
+date = "2024-07-25"
+tracks = [
+  { n = 1, title = "Give", mbid = "dcde6529-ef38-4ee6-bd01-37f3c98a0f8d" },
+  { n = 2, title = "In ár gCroíthe go deo (3D mix)", mbid = "ff6f17f4-17e1-434a-95ce-38258da9eda2" },
+  { n = 3, title = "Give (Conor Curley FDC remix)", mbid = "dda4ab44-2037-487e-8c1d-71ef1b2f03ed" },
+  { n = 4, title = "In ár gCroíthe go deo (Orbital remix)", mbid = "c62a03a8-8bc8-4140-9142-4b1e57efc225" },
+]
+
+[[release]]
+mbid = "7c9d0cb7-e06a-4d42-bf7e-3eba5fe38c46"
+title = "Here’s the Thing"
+type = "single"
+date = "2024-08-06"
+spotify = "63MATGJoOix8OypoCqnJga"
+tracks = [
+  { n = 1, title = "Here’s the Thing", mbid = "905caf9d-34bc-4e56-8f88-1374087090b8" },
+  { n = 2, title = "Favourite", mbid = "51d4d3ab-131f-46a1-a9ad-b21fc132d757" },
+  { n = 3, title = "Starburster", mbid = "8e0b5508-09db-459e-b02b-55c796a6edbb" },
+]
+
+[[release]]
+mbid = "72f7ec81-484d-4ddf-9b84-211f5ea6489a"
+title = "In the Modern World"
+type = "ep"
+date = "2024-08-20"
+spotify = "52hEWkt7HEi8WZLXDwg7R0"
+tracks = [
+  { n = 1, title = "In the Modern World", mbid = "6ca7191a-9803-4899-b655-da88356060a7" },
+  { n = 2, title = "Here’s the Thing", mbid = "905caf9d-34bc-4e56-8f88-1374087090b8" },
+  { n = 3, title = "Favourite", mbid = "51d4d3ab-131f-46a1-a9ad-b21fc132d757" },
+  { n = 4, title = "Starburster", mbid = "8e0b5508-09db-459e-b02b-55c796a6edbb" },
+]
+
+[[release]]
+mbid = "92b095c1-3bbf-456f-9425-2078ad4e9504"
+title = "Romance"
+type = "album"
+date = "2024-08-23"
+spotify = "287QQ922OsJYh8aFNGdJG5"
+tracks = [
+  { n = 1, title = "Romance", mbid = "5f5de3c7-a82c-4e3a-9517-2f42ab7b2b93" },
+  { n = 2, title = "Starburster", mbid = "8e0b5508-09db-459e-b02b-55c796a6edbb" },
+  { n = 3, title = "Here’s the Thing", mbid = "905caf9d-34bc-4e56-8f88-1374087090b8" },
+  { n = 4, title = "Desire", mbid = "0cd1d7a8-4449-4f8f-b775-0f24f6b9cc90" },
+  { n = 5, title = "In the Modern World", mbid = "6ca7191a-9803-4899-b655-da88356060a7" },
+  { n = 6, title = "Bug", mbid = "0b65f319-1752-4ee4-8a81-958416ef3734" },
+  { n = 7, title = "Motorcycle Boy", mbid = "ee8eeafd-32e0-4101-9659-d770610977cb" },
+  { n = 8, title = "Sundowner", mbid = "27bd0c80-0393-4881-b76e-2c1ab4d49c31" },
+  { n = 9, title = "Horseness Is the Whatness", mbid = "507890e3-c9fc-428d-858b-505791abd09d" },
+  { n = 10, title = "Death Kink", mbid = "891299a6-d838-4c8e-9f9c-2c54df48c990" },
+  { n = 11, title = "Favourite", mbid = "51d4d3ab-131f-46a1-a9ad-b21fc132d757" },
+]
+
+[[release]]
+mbid = "53ce0146-ac8b-47a5-99e3-1be3e740231e"
+title = "It’s Amazing to Be Young"
+type = "single"
+date = "2025-02-21"
+spotify = "7MvJ6Zr1OEcMYUxHZA9gWs"
+tracks = [
+  { n = 1, title = "It’s Amazing to Be Young", mbid = "a46e30b3-e502-405c-ad99-0e3612949487" },
+]
+
+[[release]]
+mbid = "461b580f-d19b-488f-b262-3927ca995af7"
+title = "Marianne"
+type = "single"
+date = "2026-08-18"
+spotify = "3DWP3j1ZNxx2UsFGBsGFp9"
+tracks = [
+  { n = 1, title = "Marianne", mbid = "1e1e91a6-56d2-4c8d-92ce-775220faf7f4" },
+]
+
+[[release]]
+mbid = "a9eee481-49cd-4129-bdb2-d1e9304199f0"
+title = "Tongue"
+type = "single"
+date = "2026-09-30"
+spotify = "1jX87XzSqfV3GJVA2v8csw"
+tracks = [
+  { n = 1, title = "Tongue", mbid = "b8e1b4b4-705f-4ef6-a1a5-41dd13417bff" },
+  { n = 2, title = "Marianne", mbid = "1e1e91a6-56d2-4c8d-92ce-775220faf7f4" },
+]
+
+[[release]]
+mbid = "00c775f6-925a-443b-8a38-e8cbb35dc1e3"
+title = "Where Is Gone?"
+type = "single"
+date = "2026-10-12"
+spotify = "74eJeDyGg3BlPsBJIU1Ymi"
+tracks = [
+  { n = 1, title = "Where Is Gone?", mbid = "c2d5f399-b1b8-40f8-8152-b3f7400dbfdd" },
+]
+
+[[release]]
+mbid = "8897af6d-f344-4ad4-af70-83cb425d8397"
+title = "Dopamine Chamber"
+type = "album"
+date = "2026-10-15"
+spotify = "0JICUfSKOdGqzE9FJSrNci"
+tracks = [
+  { n = 1, title = "Six Shot Morning", mbid = "73eae8a2-5eb5-45e2-a25b-25142b407ada" },
+  { n = 2, title = "Marianne", mbid = "1e1e91a6-56d2-4c8d-92ce-775220faf7f4" },
+  { n = 3, title = "Mimesis", mbid = "daeabecc-7acc-4c1d-a694-f210bce325ab" },
+  { n = 4, title = "Happy for You", mbid = "6dbeca9f-2173-4f1f-900d-e9cbf1d65544" },
+  { n = 5, title = "Demolition", mbid = "4e4cb108-9b60-4899-b1d1-16506d1cbfde" },
+  { n = 6, title = "Tongue", mbid = "b8e1b4b4-705f-4ef6-a1a5-41dd13417bff" },
+  { n = 7, title = "One Man", mbid = "e4f9651b-ee07-4d01-bae7-a336f41de8b3" },
+  { n = 8, title = "Where Is Gone?", mbid = "419e2dd9-63a6-408e-bed4-dbde3826958b" },
+  { n = 9, title = "You Miss Me", mbid = "83ad739d-d245-4bf4-835e-e689de6856ec" },
+  { n = 10, title = "Japan", mbid = "44e16012-d035-4522-b75a-2e89c9d05536" },
+  { n = 11, title = "Intimate", mbid = "777a7621-4129-4e20-b64d-41acb20888cf" },
+]

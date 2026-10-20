@@ -1,0 +1,232 @@
+format = 1
+
+[[release]]
+mbid = "9247c24e-a671-31c4-af1b-443843e2dc12"
+title = "Françoiz Breut"
+type = "album"
+date = "1997-07-23"
+tracks = [
+  { n = 1, title = "Tarifa", mbid = "b962ac19-f45d-4404-b6b1-e0a2b057f7f2" },
+  { n = 2, title = "Ma colère", mbid = "190261bb-2b30-4203-9312-e06150f34fef" },
+  { n = 3, title = "La rue ne te reprendra pas", mbid = "28ee9857-3375-4893-86e4-f8ed02c27bc5" },
+  { n = 4, title = "Everyone Kisses a Stranger", mbid = "ebe38284-c891-4426-8ac3-0dd73483be69" },
+  { n = 5, title = "La Femme sans histoire", mbid = "8dc624b3-502e-4014-8ca3-d5845e4077ca" },
+  { n = 6, title = "Le Nord", mbid = "c72f3645-c4c8-4014-a07d-438c56a9a69e" },
+  { n = 7, title = "Motus", mbid = "c1f17177-e6e4-4c47-88e6-f7ad0f226757" },
+  { n = 8, title = "Le Don d’ubiquité", mbid = "ad2ee313-2cc3-4004-af20-4e5da3d0bd7c" },
+  { n = 9, title = "Après la nuit", mbid = "6df06ee7-5387-4df6-a90f-c0160e70c5ab" },
+  { n = 10, title = "My Wedding Man", mbid = "01d84c63-481b-43ab-9eaf-1203aed493a6" },
+]
+
+[[release]]
+mbid = "e8978bd9-3cd8-4fd8-a09f-3f0494e32b62"
+title = "Ma Colère"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Ma Colère", mbid = "190261bb-2b30-4203-9312-e06150f34fef" },
+  { n = 2, title = "Fiasco", mbid = "0262ba18-d992-498c-8ff1-ad3a0791b7e0" },
+  { n = 3, title = "Les Forges", mbid = "d728cd26-002b-4357-9112-fcc95bec1856" },
+]
+
+[[release]]
+mbid = "cf53bdc2-7494-38ea-a5d4-1ab77c839a18"
+title = "Vingt à trente mille jours"
+type = "album"
+date = "2000-09"
+tracks = [
+  { disc = 1, n = 1, title = "Derrière le grand filtre", mbid = "97c42fa4-118a-4c70-af8a-a0dd7122b51d" },
+  { disc = 1, n = 2, title = "Si tu disais", mbid = "a174b3c7-4fce-4445-becb-4a9e3b211fec" },
+  { disc = 1, n = 3, title = "L'Affaire d'un jour", mbid = "78a6d254-1dae-4d2b-b1e6-b339ac33ae6f" },
+  { disc = 1, n = 4, title = "Portsmouth", mbid = "fa467d10-cdb4-4017-a19b-03f99378e557" },
+  { disc = 1, n = 5, title = "L'Origine du monde", mbid = "72715f5a-1f9f-41e2-bffe-fdaa8af6e81e" },
+  { disc = 1, n = 6, title = "Vingt à trente mille jours", mbid = "1f916508-dd98-44a0-89da-05afaa6527d3" },
+  { disc = 1, n = 7, title = "La Chanson d'Hélène", mbid = "848a94c2-b68b-4c10-a359-cd06c2995428" },
+  { disc = 1, n = 8, title = "Silhouette minuscule", mbid = "e6289241-9e3a-445c-941f-0c37d3e0fcd7" },
+  { disc = 1, n = 9, title = "Sans souci", mbid = "c5771ce8-2233-4256-b2fb-b6eac58023bd" },
+  { disc = 1, n = 10, title = "La nuit repose", mbid = "2301a86b-21dd-47d7-b2dc-b41b43ad6fb2" },
+  { disc = 1, n = 11, title = "L'Heure bleue", mbid = "0df9e737-3f8b-4ef1-b4bc-5f0645cd818d" },
+  { disc = 1, n = 12, title = "Il n'y a pas d'hommes dans les coulisses", mbid = "85e47bf4-8c53-48de-8b50-1fe02b4ee672" },
+  { disc = 1, n = 13, title = "Le Verre pilé", mbid = "8175a753-ce52-44fb-9c4c-34f194f2aa0d" },
+  { disc = 1, n = 14, title = "Je ne veux pas quitter", mbid = "7356a4fd-ebab-4634-8a8a-1ca5555bc0b7" },
+  { disc = 2, n = 1, title = "[untitled]", mbid = "b370453a-906a-455e-8bfb-668a2fee3378" },
+  { disc = 2, n = 2, title = "Departures", mbid = "8e11f70f-7aa1-456e-b24a-d45739c60a2a" },
+  { disc = 2, n = 3, title = "Les Bras le long du lit", mbid = "77cf2ebc-3d4d-4111-b538-deced54bb88d" },
+  { disc = 2, n = 4, title = "The Lease", mbid = "725d9643-b564-406b-8e8a-4d42006053fc" },
+  { disc = 2, n = 5, title = "Je ne veux pas m'éloigner (Je ne veux pas quitter II)", mbid = "714fb140-8f20-43a9-aac3-68a6075dfaaa" },
+]
+
+[[release]]
+mbid = "238753c7-fa1b-3fb3-a383-fc7c2a7ae4f0"
+title = "Une saison volée"
+type = "album"
+date = "2005-03-08"
+tracks = [
+  { n = 1, title = "Intro", mbid = "c4963b38-962f-4c70-b043-6951ef60dd0a" },
+  { n = 2, title = "La Certitude", mbid = "894e3fee-5380-41a6-8d26-a74cc78756a7" },
+  { n = 3, title = "Over All", mbid = "87c8f94e-8e2a-4de9-9980-f7ecc5c812f3" },
+  { n = 4, title = "Le Ravin", mbid = "6954fb9d-1271-43e1-bc12-a2b6f5582dd3" },
+  { n = 5, title = "La Vie devant soi", mbid = "12e4ae25-3077-42b2-a46d-2574b3c240dd" },
+  { n = 6, title = "Tambours", mbid = "2376940f-0b53-45e1-ba22-c74af6898dc7" },
+  { n = 7, title = "Ultimo", mbid = "f97ac5cc-9b8c-4261-9fdc-93b48d07946d" },
+  { n = 8, title = "Km 83", mbid = "2c1e7535-a601-4e8e-9f3e-d9769248353f" },
+  { n = 9, title = "Sur le balcon", mbid = "5e46060a-c917-4d15-b41c-ea8fc158dd49" },
+  { n = 10, title = "Une ville allongée sur le dos", mbid = "c9772f56-879b-4c87-8400-974253099b83" },
+  { n = 11, title = "La Boîte de nuit", mbid = "7619d2a2-30b1-4847-97a7-1a1ddc329cc6" },
+  { n = 12, title = "Please Be Angry", mbid = "18ea2815-0705-460f-8c78-9a6d212b7071" },
+  { n = 13, title = "Ciudad del mar", mbid = "e88a6da1-d3f5-4bc6-b922-f4995ce4570d" },
+  { n = 14, title = "Le Premier Bonheur du jour", mbid = "86517263-9eb8-4575-8a09-c9624f90c561" },
+  { n = 15, title = "Contourne-moi", mbid = "97a7d801-ab5e-4cd0-8904-a51dc7c1b8a8" },
+]
+
+[[release]]
+mbid = "303157de-b135-3e95-bc94-960d59191c85"
+title = "À l’aveuglette"
+type = "album"
+date = "2008-11-03"
+tracks = [
+  { n = 1, title = "La Conciergerie", mbid = "348b961b-33aa-4c34-b1f5-cbb5e763a277" },
+  { n = 2, title = "Terre d'ombre", mbid = "b444699f-ae50-495a-8680-88fd9cce3645" },
+  { n = 3, title = "Les Jeunes Pousses", mbid = "96457c72-bbbd-4697-a0b2-b48ce8b71157" },
+  { n = 4, title = "Mouchoir de poche", mbid = "0b9cafd4-6fa1-4d7a-806b-79ed5329619b" },
+  { n = 5, title = "Dunkerque", mbid = "8a2cce36-69f6-4c37-afaa-a591f215ada3" },
+  { n = 6, title = "Golo", mbid = "baae8703-8798-48c7-842b-018af17a54a9" },
+  { n = 7, title = "Nébuleux bonhomme", mbid = "5006ed5f-ae3a-4547-bd1e-444a19c2b70d" },
+  { n = 8, title = "À l'aveuglette", mbid = "a804127a-c137-4130-be1e-ee19d10a5587" },
+  { n = 9, title = "L'Étincelle ou La Contrainte du feu", mbid = "b7d13ba8-f1a8-4720-a4e9-48f28b3ae824" },
+  { n = 10, title = "De fil en aiguille (Ouvrages de dames)", mbid = "937c7aac-7af4-4758-bb11-5fb794678cd4" },
+  { n = 11, title = "2013", mbid = "faad6b7c-b543-4631-a453-dfb641ba9910" },
+  { n = 12, title = "Herr Rolf", mbid = "575b0ff6-76ac-41be-913f-c5fe64fe49ad" },
+  { n = 13, title = "Mots croisés", mbid = "a860fb27-6ebf-4a93-a2a4-a8abe96f3a23" },
+  { n = 14, title = "L'Automne avant l'heure", mbid = "2b21c918-5e0b-4244-bfdf-61b49af88bee" },
+]
+
+[[release]]
+mbid = "48a9e1ba-1360-4fcd-b739-eb3e68ee0a2d"
+title = "La Chirurgie des sentiments"
+type = "album"
+date = "2012-09-24"
+tracks = [
+  { n = 1, title = "BXL Bleuette", mbid = "b55bdcde-bf29-4ad1-a907-05dd6d1eeeb2" },
+  { n = 2, title = "Marie-Lise", mbid = "841edb0d-a167-4fd1-b6cf-361dabee8065" },
+  { n = 3, title = "L'Astronome", mbid = "da158e45-ade2-4746-9cde-a7e6542d857b" },
+  { n = 4, title = "La Gomme", mbid = "5d22a8af-1b70-41ff-8eb1-ddb379c4794d" },
+  { n = 5, title = "Werewolf", mbid = "3214f10f-e1a1-4ef8-9c37-16d3ca645821" },
+  { n = 6, title = "L'Ennemi invisible", mbid = "7a0e0b52-f78e-4774-a2ce-2d282d76598e" },
+  { n = 7, title = "Cabinet de curiosités", mbid = "f431f345-1988-439d-a102-0314a4ac2cee" },
+  { n = 8, title = "La Chirurgie des sentiments", mbid = "e5e25b04-7575-4d15-af3e-98ffbcb81833" },
+  { n = 9, title = "Michka Soka", mbid = "0c962be1-4a8d-4246-acfa-7247f6d6b016" },
+  { n = 10, title = "Potron minet", mbid = "ae7f656b-a23e-414e-b65e-d81ce54acd6d" },
+  { n = 11, title = "L'Éclat du jour", mbid = "80ca3232-d660-49c0-82cc-7030d12d4832" },
+]
+
+[[release]]
+mbid = "f6bc0373-c20d-4540-bbf4-b586c0d3b819"
+title = "À l’unisson"
+type = "single"
+date = "2014-02-25"
+tracks = [
+  { n = 1, title = "À l’unisson", mbid = "bc51fa28-62d1-4b3c-bb69-ad8cf7ead7c9" },
+  { n = 2, title = "Michka Soka", mbid = "4146a2ed-d602-494f-9829-d3bed28c11da" },
+]
+
+[[release]]
+mbid = "dc3caba7-a409-4738-a79c-e98412c38232"
+title = "Zoo"
+type = "album"
+date = "2016-03-18"
+tracks = [
+  { n = 1, title = "La Conquête", mbid = "69e17b90-144e-43f3-97ef-4a6ca1e6f7da" },
+  { n = 2, title = "Loon-plage", mbid = "9b7e7bfb-efac-4af0-a331-2920694755b0" },
+  { n = 3, title = "La Danse des ombres", mbid = "0e3d2669-cbf5-488b-8e46-5fcfde0febb3" },
+  { n = 4, title = "Le Jardin d’Eden", mbid = "350f6365-728d-4ea5-bb2f-a7a7bb7c51de" },
+  { n = 5, title = "Deep Sea Diver", mbid = "815f3155-56b1-4ad5-ae2b-5956ed11adf4" },
+  { n = 6, title = "Zoo", mbid = "d389026d-375f-4ad3-8885-f4fa8dc09117" },
+  { n = 7, title = "Écran total", mbid = "164a5b96-c7bd-4df0-848f-c0fa1dbf134d" },
+  { n = 8, title = "À pic", mbid = "65f3c8e1-13b3-4279-bdf9-77903f391df5" },
+  { n = 9, title = "L’Arbre", mbid = "cb6d18f7-35bd-4a67-b2cd-783b68178221" },
+  { n = 10, title = "Morlocks und die Streunerin", mbid = "795a3728-0f71-46c4-98d8-036594ed5409" },
+  { n = 11, title = "La Proie", mbid = "c12fefc1-26b3-424c-88bf-67167f7fb01a" },
+]
+
+[[release]]
+mbid = "10efe6ad-6f07-4172-89b8-b4e15abc931d"
+title = "Label Pop Session"
+type = "ep"
+date = "2018-11-16"
+tracks = [
+  { n = 1, title = "Deep Sea Diver", mbid = "a1af0c8e-53bc-414f-869c-6f57eda726a2" },
+  { n = 2, title = "Le Jardin d’Eden", mbid = "c6756669-1a6e-4097-8199-340d93a2b876" },
+  { n = 3, title = "La Conquête", mbid = "f2d046e8-21ef-4b70-b7a9-454db3826d21" },
+  { n = 4, title = "Zoo", mbid = "4ad5c39a-b5ed-4172-a3b3-f51ebb9edd19" },
+  { n = 5, title = "Loon Plage", mbid = "6c93e904-12af-40af-a246-7cd5d8be08b2" },
+  { n = 6, title = "La Danse des ombres", mbid = "402359b8-a422-48a6-b219-df240670200c" },
+]
+
+[[release]]
+mbid = "49d930e9-5e70-402d-a1b8-6b84280b1a36"
+title = "Mes péchés s'accumulent"
+type = "single"
+date = "2020-12-11"
+tracks = [
+  { n = 1, title = "Mes péchés s'accumulent", mbid = "90a087df-58ab-4af5-a4d2-75900dddb89e" },
+]
+
+[[release]]
+mbid = "e992124e-1077-4168-a21a-a51ebd92d92d"
+title = "Flux flou de la foule"
+type = "album"
+date = "2021-04-09"
+spotify = "09uHlhnE4IvrVWyHsWHCyQ"
+tracks = [
+  { n = 1, title = "Juste de passage", mbid = "152a9451-a8f0-469d-91c6-d382d4a27f3c" },
+  { n = 2, title = "Mes péchés s’accumulent", mbid = "90a087df-58ab-4af5-a4d2-75900dddb89e" },
+  { n = 3, title = "La Fissure", mbid = "6237d8d0-13e3-424d-b533-fea694812817" },
+  { n = 4, title = "Dérive urbaine dans la ville cannibale", mbid = "0a296fe4-2876-4bb2-9170-03070962ae9c" },
+  { n = 5, title = "Vicky", mbid = "3c4393f2-3a23-4114-904d-9e965c67c928" },
+  { n = 6, title = "Métamorphose", mbid = "8114adc2-96e3-4e3b-b181-bc84a7cd0895" },
+  { n = 7, title = "La Chute des damnés", mbid = "11049430-e6cc-4083-8660-cc0ad26acd92" },
+  { n = 8, title = "Comme des lapons", mbid = "607187a8-42cf-4896-ad75-a5bd6c3ae0ae" },
+  { n = 9, title = "Le Fantôme du lac", mbid = "0011118e-a248-4afc-ae21-3b10c1bc0c1d" },
+  { n = 10, title = "Guata", mbid = "1f7cdf61-4977-45f0-b8e7-c3f3f38728fe" },
+  { n = 11, title = "Mon dedans vs mon dehors", mbid = "0e273e0e-5011-4b94-9b83-35bf4220fb35" },
+]
+
+[[release]]
+mbid = "7e898bd8-c777-42ff-ae4b-ee8b506da7f7"
+title = "Cover Songs In Inferno"
+type = "album"
+date = "2023-05-26"
+tracks = [
+  { n = 1, title = "Planet Caravan", mbid = "732ad52f-8ab6-4e23-be9b-049b620e0af9" },
+  { n = 2, title = "My Face Is On Fire", mbid = "1de713d2-1957-41af-8923-18543918cb1f" },
+  { n = 3, title = "Oh My Son", mbid = "016de08d-ce70-46fa-bb7f-a70f2793c490" },
+  { n = 4, title = "Kizmiaz", mbid = "b2c8373d-078a-4c5e-88a9-e492b0373468" },
+  { n = 5, title = "Daemon Lover", mbid = "36f91f8e-27b8-41ed-a78d-dc79a428b570" },
+  { n = 6, title = "Morning Dew", mbid = "eba220ea-214d-4b5e-ba1a-05f0514be912" },
+  { n = 7, title = "Southside o the World", mbid = "d00ff423-75b0-455e-8d06-51cdb70d3bd0" },
+  { n = 8, title = "Season of the Witch", mbid = "576da43e-d7b7-4703-8877-4c907d28fdc2" },
+  { n = 9, title = "Shangri-la", mbid = "d1ff0732-c5eb-402d-a67b-502841878943" },
+  { n = 10, title = "White Rabbit", mbid = "edaf4574-f84d-4ae7-80de-5184cd6e466e" },
+]
+
+[[release]]
+mbid = "017ca303-13de-475b-83b8-2ce826dc1392"
+title = "Vif !"
+type = "album"
+date = "2024-04-19"
+spotify = "2GlYJdNYg2N3D3HwhLjk11"
+tracks = [
+  { n = 1, title = "Hors sol", mbid = "3a69031f-e067-4fd8-a32b-345864eef9d4" },
+  { n = 2, title = "Crever l’asphalte", mbid = "090ae594-4c2a-4dff-ad6d-83bd70fce1c3" },
+  { n = 3, title = "Ectoplasme", mbid = "d8dfbb1c-16c9-4c18-85bc-25ff1bbeaba6" },
+  { n = 4, title = "Gazons et chatoiements", mbid = "a3ece45b-af5e-4ed6-9775-e2c62ae90558" },
+  { n = 5, title = "Lichens", mbid = "8d701764-670a-416c-90ba-407aa8a01b09" },
+  { n = 6, title = "Un pépin", mbid = "4fc0c2a0-5dee-4269-aa87-57e02a880453" },
+  { n = 7, title = "Sous bois la nuit", mbid = "c534b141-d3b5-430c-960e-22fbcbf9977c" },
+  { n = 8, title = "Dancing frénétique", mbid = "ff1ebdfa-c91e-4198-811d-1d5804974c9b" },
+  { n = 9, title = "Ode aux vers", mbid = "cf1e05aa-0f08-4665-91f9-3053984ba0a8" },
+  { n = 10, title = "Wudu-ælfen", mbid = "f58f796a-fd97-4f71-8b20-813fc7670a92" },
+  { n = 11, title = "Cavales animales", mbid = "d73702a1-8134-4e8d-9b08-fa32a97c9de8" },
+  { n = 12, title = "La Tangente", mbid = "cbc96dcd-0d8c-41ba-b889-8cb534e892ca" },
+]

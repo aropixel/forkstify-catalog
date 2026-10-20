@@ -1,0 +1,312 @@
+format = 1
+
+[[release]]
+mbid = "750f6bb6-b990-4615-a561-f10c195b43ba"
+title = "stupid kids"
+type = "single"
+date = "2020-01-01"
+spotify = "7q0JiRzN9zulCwLUn0bIJQ"
+tracks = [
+  { n = 1, title = "stupid kids", mbid = "b04b3fdc-6185-4d26-b871-ea9bd0d22ab7" },
+]
+
+[[release]]
+mbid = "52516eed-466f-4cf1-937a-58783711a0b3"
+title = "Uncomparable"
+type = "single"
+date = "2020-03-27"
+spotify = "1UHjX5iIanOMTSYu9YE8vl"
+tracks = [
+  { n = 1, title = "Uncomparable", mbid = "3d124862-f31a-4a75-a1e7-c7f8ca273c02" },
+]
+
+[[release]]
+mbid = "8408ecad-9956-4ac8-8e62-e3a926bd7c09"
+title = "Love"
+type = "single"
+date = "2020-08-07"
+spotify = "4BiBhhd5MCZtptkvy9jf8T"
+tracks = [
+  { n = 1, title = "Love", mbid = "084f288b-b530-4929-8ed9-141d887bf7bd" },
+]
+
+[[release]]
+mbid = "e9720284-73c0-4f63-90e1-0b6ed33daf2b"
+title = "Starry Eyes"
+type = "single"
+date = "2020-09-20"
+spotify = "0PkIdLaLFm4eUnqASTUPkR"
+tracks = [
+  { n = 1, title = "Starry Eyes", mbid = "4abdcc8c-8281-430f-907d-13f061b689fc" },
+]
+
+[[release]]
+mbid = "eb4674f1-1a2f-48ae-8865-340f15cf953a"
+title = "See You Later"
+type = "single"
+date = "2020-09-30"
+spotify = "17tBAan6Cmim17q5Mfbodn"
+tracks = [
+  { n = 1, title = "See You Later", mbid = "2318d82e-e517-48e2-97d6-c93d072188e9" },
+]
+
+[[release]]
+mbid = "dfd5cbe8-1754-4cf5-81ea-1fdaa8435d0e"
+title = "i walk this earth all by myself"
+type = "single"
+date = "2021-03-05"
+spotify = "0fNdqcFTlcLkY68Nt8WKdp"
+tracks = [
+  { n = 1, title = "i walk this earth all by myself", mbid = "6589a08b-7cc4-4bab-8619-f94bf41394d1" },
+]
+
+[[release]]
+mbid = "9ea66168-0cf6-4319-b9b2-9d695acfd8a3"
+title = "f*ck everything! - Spotify Singles"
+type = "single"
+date = "2021-06-23"
+spotify = "0JK7dsEDgSM5KYY1FOD8zx"
+tracks = [
+  { n = 1, title = "f*ck everything! - Spotify Singles", mbid = "82ebc158-dcc8-4b00-8dfc-d6336df190e1" },
+]
+
+[[release]]
+mbid = "3a0a48f8-ab80-4b2c-afc6-f0cb574d4bcc"
+title = "Negative"
+type = "album"
+date = "2021-11-12"
+tracks = [
+  { n = 1, title = "i walk this earth all by myself", mbid = "6589a08b-7cc4-4bab-8619-f94bf41394d1" },
+  { n = 2, title = "then i met her", mbid = "a2c9da8c-702b-492c-986c-c44d8de1b076" },
+  { n = 3, title = "it only gets worse, i promise", mbid = "0eb7817c-1625-4430-a21e-b928e0f1ef81" },
+  { n = 4, title = "i want to be by your side", mbid = "fbb4e1a8-eea3-4ecc-84b1-2a62b0a04802" },
+  { n = 5, title = "for forever", mbid = "5f6b6296-ec3c-4094-82eb-426672f8dc2e" },
+  { n = 6, title = "but there is always hatred", mbid = "02b846a1-534c-4284-85d7-f36c1fc341fd" },
+  { n = 7, title = "in love", mbid = "a065ba26-9b0d-4466-9cb8-763a4e9f2732" },
+]
+
+[[release]]
+mbid = "f2826083-a003-432b-a6e5-8243c1c82394"
+title = "STILL BREATHING"
+type = "single"
+date = "2022-03-17"
+tracks = [
+  { n = 1, title = "STILL BREATHING", mbid = "b4335feb-f0c6-4234-85e6-c76727c041b0" },
+]
+
+[[release]]
+mbid = "3d48de1b-c91a-4272-bc25-aa6fe914a011"
+title = "I Gave You Everything"
+type = "single"
+date = "2022-05-06"
+spotify = "60QraYbdjszTauLdxDBnnQ"
+tracks = [
+  { n = 1, title = "I Gave You Everything", mbid = "6d2763d1-be6b-4d85-9fc5-7f7db16ea8f2" },
+]
+
+[[release]]
+mbid = "d5609aee-14ce-4b88-86aa-d84a4d31b84d"
+title = "i just want to hide my face"
+type = "ep"
+date = "2022-09-16"
+spotify = "0mPO0i23qRLIkp5DgmpFkB"
+tracks = [
+  { n = 1, title = "i just want to hide my face", mbid = "173d02ad-9e47-4339-9c90-8c7833873ec3" },
+  { n = 2, title = "i want to die in your arms", mbid = "d442cfd7-2f7d-445a-9121-aca7a266245e" },
+  { n = 3, title = "wish i was dead", mbid = "a9654faf-aaca-454f-8239-16ee02b9ba06" },
+  { n = 4, title = "i gave you everything", mbid = "6d2763d1-be6b-4d85-9fc5-7f7db16ea8f2" },
+]
+
+[[release]]
+mbid = "e8bb3dfb-dcc8-4213-8e14-619b665a4fb3"
+title = "misery"
+type = "album"
+date = "2022-09-30"
+spotify = "6yV72GH0QevmcUDNrRmaNd"
+tracks = [
+  { n = 1, title = "I Just Want to Hide My Face", mbid = "173d02ad-9e47-4339-9c90-8c7833873ec3" },
+  { n = 2, title = "Im So Happy", mbid = "54ebe25c-4e25-46bd-a3a0-ac64f123726e" },
+  { n = 3, title = "I Wish You Were Pretty on the Inside", mbid = "1d727b0a-a438-4994-af2b-8324b365800b" },
+  { n = 4, title = "Christian Death", mbid = "adfde58b-2fd3-4648-ba9a-28612c7a7748" },
+  { n = 5, title = "I Want to Die in Your Arms", mbid = "d442cfd7-2f7d-445a-9121-aca7a266245e" },
+  { n = 6, title = "I Gave You Everything", mbid = "6d2763d1-be6b-4d85-9fc5-7f7db16ea8f2" },
+  { n = 7, title = "Wish I Was Dead", mbid = "a9654faf-aaca-454f-8239-16ee02b9ba06" },
+  { n = 8, title = "Eyeliner", mbid = "19977c32-5f61-412c-ab0e-90a380030b63" },
+  { n = 9, title = "I Want to Sleep for 1000 Years", mbid = "055f0561-c571-4a08-b7d0-0150c19a6135" },
+  { n = 10, title = "Ausgang", mbid = "8e5f05c7-5cd0-4c45-99cb-849d586c30ac" },
+]
+
+[[release]]
+mbid = "eb15034a-2949-4562-97d0-981f44925f3c"
+title = "problems"
+type = "single"
+date = "2023-09-15"
+spotify = "79lTZVUHdaqLkj814XzZxw"
+tracks = [
+  { n = 1, title = "problems", mbid = "bee3eca7-81d8-4b6f-8bd2-3d452a456ec8" },
+]
+
+[[release]]
+mbid = "36c9f91f-ddce-47b4-b570-a51548d7403c"
+title = "bella / i can't find anyone"
+type = "single"
+date = "2023-10-20"
+tracks = [
+  { n = 1, title = "bella", mbid = "ca92799d-0eb4-4f92-82ab-0db3c25dac9f" },
+  { n = 2, title = "i can't find anyone", mbid = "f010409d-aea8-4815-8f78-70b959b7e074" },
+]
+
+[[release]]
+mbid = "d632cefb-79ad-4d3e-be31-8570655d5f79"
+title = "shutting me out / goo lagoon"
+type = "single"
+date = "2023-11-24"
+tracks = [
+  { n = 1, title = "shutting me out", mbid = "fb0b412c-a9e2-402a-a1f6-b71586a4066e" },
+  { n = 2, title = "goo lagoon", mbid = "f3189af7-1e7c-4488-b73b-c069d76de275" },
+]
+
+[[release]]
+mbid = "0ab8da96-7efc-4d6c-9a4a-b3e1d67c27b4"
+title = "EKKSTACY"
+type = "album"
+date = "2024-01-19"
+spotify = "5kBHoINYa2WwRaOK3vA7LC"
+tracks = [
+  { n = 1, title = "i don't have one of those", mbid = "fa3931fe-d97b-49fa-8fe7-c6eefc36c0e8" },
+  { n = 2, title = "luv of my life", mbid = "d1b76a3d-bc80-456c-b6b8-64217173332d" },
+  { n = 3, title = "i guess we made it this far", mbid = "a31012c8-8125-44f0-9b07-27950fad7276" },
+  { n = 4, title = "alright", mbid = "d8c7158f-f7e8-4f33-beed-9887a9e6125b" },
+  { n = 5, title = "goo lagoon", mbid = "f3189af7-1e7c-4488-b73b-c069d76de275" },
+  { n = 6, title = "bella", mbid = "ca92799d-0eb4-4f92-82ab-0db3c25dac9f" },
+  { n = 7, title = "shutting me out", mbid = "fb0b412c-a9e2-402a-a1f6-b71586a4066e" },
+  { n = 8, title = "problems", mbid = "bee3eca7-81d8-4b6f-8bd2-3d452a456ec8" },
+  { n = 9, title = "get me out", mbid = "7993e60d-f014-4251-bece-38bb24a3a639" },
+  { n = 10, title = "fuck", mbid = "6c93db26-eed7-42cc-aa14-6c0cdab0c1df" },
+  { n = 11, title = "chicago", mbid = "901250b7-bdfa-4717-b592-1e663bc509cb" },
+  { n = 12, title = "the headless horseman lost his way", mbid = "fe21c449-8a9b-4855-9e9a-9e927b01c565" },
+  { n = 13, title = "i can't find anyone", mbid = "f010409d-aea8-4815-8f78-70b959b7e074" },
+]
+
+[[release]]
+mbid = "f7464d43-1f45-4ac8-82ad-0d6be065be19"
+title = "It Isn’t Easy"
+type = "single"
+date = "2024-05-17"
+spotify = "6P0yh6kSLJx1S4i48gbyJ2"
+tracks = [
+  { n = 1, title = "It Isn’t Easy", mbid = "c12abcce-7b53-4a96-8c76-cb0d9b8f4774" },
+]
+
+[[release]]
+mbid = "87427eae-29f5-4ced-aeec-bfa1f8849139"
+title = "mr. mole"
+type = "single"
+date = "2024-09-27"
+spotify = "2vq7eSrcugqlRKxiiRcwG5"
+tracks = [
+  { n = 1, title = "mr. mole", mbid = "fce745ee-d9bb-4a16-b9c9-6260ef7ec5ec" },
+]
+
+[[release]]
+mbid = "58ce5713-6417-40f2-b0cc-b01c43aa4a70"
+title = "seventeen"
+type = "single"
+date = "2024-11-08"
+spotify = "1tzd5ftXur0C44WJA86auY"
+tracks = [
+  { n = 1, title = "seventeen", mbid = "dd85bf9b-4255-4112-9676-3610bfad8300" },
+]
+
+[[release]]
+mbid = "b33238d3-2fd4-4a46-a60d-e9662e94dd9e"
+title = "keep my head down"
+type = "single"
+date = "2025-02-14"
+spotify = "6dA3pcAClcZPbEnKajxiuC"
+tracks = [
+  { n = 1, title = "keep my head down", mbid = "b3835393-e025-4a96-9425-cba7e52f4aeb" },
+]
+
+[[release]]
+mbid = "292571d3-f208-43d5-a5f4-87ac2d2d2884"
+title = "forever"
+type = "single"
+date = "2025-03-21"
+spotify = "5oSy3KuBuLVlZkb6vA5BA9"
+tracks = [
+  { n = 1, title = "forever", mbid = "c2c04e27-77db-4e2a-9d82-55cf02c02fe6" },
+  { n = 2, title = "keep my head down", mbid = "b3835393-e025-4a96-9425-cba7e52f4aeb" },
+  { n = 3, title = "she will be missed", mbid = "ea7f33a7-7805-401f-9344-e86b32ababae" },
+]
+
+[[release]]
+mbid = "4e472578-1392-440b-a673-d702bec8bb88"
+title = "FOREVER"
+type = "album"
+date = "2025-05-16"
+spotify = "52iIfDstVzVMMAuOsFJ2YA"
+tracks = [
+  { n = 1, title = "if i had a gun", mbid = "3c1627a1-1f41-42d7-82f9-53630af6b243" },
+  { n = 2, title = "forever", mbid = "c2c04e27-77db-4e2a-9d82-55cf02c02fe6" },
+  { n = 3, title = "seventeen", mbid = "dd85bf9b-4255-4112-9676-3610bfad8300" },
+  { n = 4, title = "head in the clouds", mbid = "9a9fb96b-a686-4d32-a4a0-fe834bfe0ec9" },
+  { n = 5, title = "sadness", mbid = "8f08a15b-d5da-48cb-a296-4cbd32e01de3" },
+  { n = 6, title = "she will be missed", mbid = "ea7f33a7-7805-401f-9344-e86b32ababae" },
+  { n = 7, title = "stain", mbid = "1937f24a-c196-4fa6-82ce-b867a0b1a1d7" },
+  { n = 8, title = "messages", mbid = "3c8383e2-1100-4c87-87d2-8aed6416e4a9" },
+  { n = 9, title = "what’s wrong with me", mbid = "b50cf0a5-fca2-4e07-8d9c-e0337e09aadb" },
+  { n = 10, title = "one day i’ll wake up from this", mbid = "35e1bdfc-5659-4c93-8759-8b1d5de778cd" },
+  { n = 11, title = "shoulders", mbid = "a25e52e4-74af-4a93-972c-7259e762600e" },
+  { n = 12, title = "wonder", mbid = "9e36a21e-e182-47bb-85ed-f528e005e011" },
+  { n = 13, title = "keep my head down", mbid = "b3835393-e025-4a96-9425-cba7e52f4aeb" },
+]
+
+[[release]]
+mbid = "19771f9d-50ea-4021-be2f-d3a544b4783d"
+title = "forever and always"
+type = "album"
+date = "2025-11-07"
+spotify = "1OknBAZwOC2TQJsDQjsRqC"
+tracks = [
+  { n = 1, title = "chemicals", mbid = "68d0ec61-a802-48de-afac-2277b0fde203" },
+  { n = 2, title = "if i had a gun (piano version)", mbid = "5d5a0f42-0920-4640-8fa2-040f453cb373" },
+  { n = 3, title = "seventeen (acoustic version)", mbid = "7e1a0ebc-963c-482c-968e-6717c5207127" },
+  { n = 4, title = "wonder (acoustic version)", mbid = "da52761b-2787-4e3d-bab3-f09e228f065d" },
+  { n = 5, title = "i wish i could rip off this old face", mbid = "ff54f5c1-9f2b-4f31-97b9-ca082980d61c" },
+  { n = 6, title = "keep my head down (acoustic version)", mbid = "ab8221f9-c899-4daa-a97b-45eec6e5870b" },
+  { n = 7, title = "at night (feat. Passion Mango)", mbid = "34187569-a5d9-4f90-a5c1-8816213cf7fe" },
+  { n = 8, title = "if i had a gun", mbid = "3515b0c7-8143-4e66-922b-b1eb44c79749" },
+  { n = 9, title = "forever", mbid = "71163557-824e-4f13-8ad0-6755a804a9f4" },
+  { n = 10, title = "seventeen", mbid = "f526b5e2-89a9-445c-9c37-d685ba178a21" },
+  { n = 11, title = "head in the clouds", mbid = "0ab9a12b-2bb2-4c35-bd3a-751751d49a25" },
+  { n = 12, title = "sadness", mbid = "25835c59-fdb6-4bcf-bd09-d35ad853c99a" },
+  { n = 13, title = "she will be missed", mbid = "3fd069cb-b8b5-4a1e-91a0-11bdbe7425dc" },
+  { n = 14, title = "stain", mbid = "77db713b-7dc5-45d8-9d03-701248911fd6" },
+  { n = 15, title = "messages", mbid = "6d62a041-afb3-47b9-a108-450ea558041e" },
+  { n = 16, title = "what's wrong with me", mbid = "f3529092-e802-4fc8-b8b0-c7249f98377a" },
+  { n = 17, title = "one day i'll wake up from this", mbid = "f2e1373a-6cca-48ff-a254-b4756d45bd1a" },
+  { n = 18, title = "shoulders", mbid = "cdfeb35a-1f85-4b7b-bac4-b5eaae6d28fa" },
+  { n = 19, title = "wonder", mbid = "de229433-1775-4289-b6a5-26412c84d589" },
+  { n = 20, title = "keep my head down", mbid = "42d1c1f5-a979-45b6-9310-84808ee7cd71" },
+]
+
+[[release]]
+mbid = "90d5ba5a-6e52-4422-bbad-da16c48db622"
+title = "she will be missed"
+type = "single"
+date = "2025-12-13"
+spotify = "6zDT9GlanhBdw7XK83gVlL"
+tracks = [
+  { n = 1, title = "she will be missed", mbid = "ea7f33a7-7805-401f-9344-e86b32ababae" },
+]
+
+[[release]]
+mbid = "ef07ee8c-a197-4b5c-9649-7ea2b497522a"
+title = "Bloody Eyes"
+type = "single"
+date = "2026-01-30"
+spotify = "7x7YMbEy3FNKzoRPMa5hIU"
+tracks = [
+  { n = 1, title = "Bloody Eyes", mbid = "c69c93f2-8fe2-4449-815d-8db744b3e036" },
+]

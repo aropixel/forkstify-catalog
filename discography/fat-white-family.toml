@@ -1,0 +1,155 @@
+format = 1
+
+[[release]]
+mbid = "05f3d411-be3c-4300-ba5b-300149a3bdb5"
+title = "Champagne Holocaust"
+type = "album"
+date = "2013-04-01"
+spotify = "6WeKsrSDY4XHEYenu3HEZc"
+tracks = [
+  { n = 1, title = "Auto Neutron", mbid = "bb202724-ea7f-4751-8503-9f1302232339" },
+  { n = 2, title = "Is It Raining in Your Mouth?", mbid = "14702036-543f-489d-984e-179550946a33" },
+  { n = 3, title = "Who Shot Lee Oswald?", mbid = "90bbfd2e-bf38-42df-b657-9b99fe2e2665" },
+  { n = 4, title = "With Out Consent", mbid = "dbf3b9b2-658d-4114-a575-f7224fc75977" },
+  { n = 5, title = "Special Ape!", mbid = "f621bab4-6c98-4db4-896a-b639622695a5" },
+  { n = 6, title = "Cream of the Young", mbid = "5b0c9a16-1896-4f0f-b0a7-1b4aab6839bc" },
+  { n = 7, title = "Wild American Prairie", mbid = "e37380c1-9bb8-4444-a351-c1ed717b992f" },
+  { n = 8, title = "Borderline", mbid = "4dfad300-5d1c-49ad-be48-23660e042e83" },
+  { n = 9, title = "Heaven on Earth", mbid = "8e869544-5453-4672-ac18-35fc496bddbd" },
+  { n = 10, title = "Bomb Disneyland", mbid = "c501608a-d635-428d-b025-b55064aeca2a" },
+  { n = 11, title = "Garden of the Numb", mbid = "9d99b53c-0af9-4e70-914c-f34334f97537" },
+]
+
+[[release]]
+mbid = "6f94b3ea-9e78-4b0b-9997-b7597b4aec5a"
+title = "Auto Neutron"
+type = "single"
+date = "2013-09-16"
+tracks = [
+  { n = 1, title = "Auto Neutron", mbid = "bb202724-ea7f-4751-8503-9f1302232339" },
+  { n = 2, title = "Heaven on Earth", mbid = "8e869544-5453-4672-ac18-35fc496bddbd" },
+]
+
+[[release]]
+mbid = "12846675-406c-4fdd-80cc-0fdac8171b10"
+title = "Taman Shud/Fat White Family EP"
+type = "ep"
+date = "2013-12-25"
+tracks = [
+  { n = 1, title = "The Ziggurat, a Mirage", mbid = "9102bb1d-9c1f-48c4-a56e-cac2df755740" },
+  { n = 2, title = "Crime Cycle", mbid = "e3c4409f-61cf-47fa-9d1d-dfa1b96037bb" },
+  { n = 3, title = "Wet Hot Beef (Part I)", mbid = "33f645f6-f799-40ce-955b-9c20ef53781e" },
+  { n = 4, title = "Wet Hot Beef (Part II)", mbid = "155d6902-4eee-4545-ab61-eb9de316c2ab" },
+  { n = 5, title = "Now That I'm Taking Myself Seriously as an Artist (Wet Hot Beef Part III)", mbid = "dd67fd3a-cf41-4807-a82b-3c09c11815c3" },
+]
+
+[[release]]
+mbid = "7933f41a-1696-429a-9256-9962c8d71b8c"
+title = "Touch the Leather"
+type = "single"
+date = "2014-03-10"
+tracks = [
+  { n = 1, title = "Touch the Leather", mbid = "015d92a6-0068-4335-a7e6-c3eddcca0927" },
+  { n = 2, title = "Touch the Leather (redux)", mbid = "bec43254-b4bb-44da-940c-44e086a862be" },
+  { n = 3, title = "Yellow Woman", mbid = "3cf4591a-c6b9-44bf-a606-dbc1b98f61b6" },
+]
+
+[[release]]
+mbid = "12766c57-226f-41e6-a7ce-e99a1fa147d0"
+title = "I Am Mark E Smith"
+type = "single"
+date = "2014-12-15"
+tracks = [
+  { n = 1, title = "I Am Mark E Smith", mbid = "2b023c02-6ec5-46a3-9b05-fec7b22766b1" },
+  { n = 2, title = "I Am Joseph Stalin", mbid = "5114a87b-ee7c-4935-aa84-faa1a7e1f354" },
+]
+
+[[release]]
+mbid = "22681f8e-fd21-4957-92a5-4e35d1b19ba8"
+title = "Whitest Boy on the Beach"
+type = "single"
+date = "2016-01-15"
+tracks = [
+  { n = 1, title = "Whitest Boy on the Beach", mbid = "71c984ad-e013-43f7-ae4b-ba06ed92c72e" },
+  { n = 2, title = "The Drones", mbid = "9064f390-21c6-4f8e-84f6-6b0fc4202b25" },
+]
+
+[[release]]
+mbid = "3014666b-02af-4898-93f2-dffbb6ad6dbd"
+title = "Songs for Our Mothers"
+type = "album"
+date = "2016-01-22"
+spotify = "1tbCzNTk9hJ8c9pzK62hgd"
+tracks = [
+  { n = 1, title = "Whitest Boy on the Beach", mbid = "71c984ad-e013-43f7-ae4b-ba06ed92c72e" },
+  { n = 2, title = "Satisfied", mbid = "22dfe3af-9f76-4a39-9198-126f819d3867" },
+  { n = 3, title = "Love Is the Crack", mbid = "4cfada84-35ef-43d5-b653-1bce5700ba1f" },
+  { n = 4, title = "Duce", mbid = "37a4b8cd-24cb-4c22-8f78-47680057c198" },
+  { n = 5, title = "Lebensraum", mbid = "c72a976c-b2c5-4257-9972-0feeee92b6eb" },
+  { n = 6, title = "Hit Hits Hits", mbid = "15337de3-686b-4dd5-861c-a538ee51b820" },
+  { n = 7, title = "Tinfoil Deathstar", mbid = "459318dd-c0fa-4aca-b4d8-1955b07c8b7e" },
+  { n = 8, title = "When Shipman Decides", mbid = "b4d2a7f2-caf5-472c-ba01-b4c77d0fa68d" },
+  { n = 9, title = "We Must Learn to Rise", mbid = "93d9d0f4-9341-4ead-a483-c04ee897e09c" },
+  { n = 10, title = "Goodbye Goebbels", mbid = "283f6243-4f52-4695-bf3f-a2cffab4d636" },
+]
+
+[[release]]
+mbid = "d89fe9a1-3b9d-4ab8-911c-476028b7626f"
+title = "Serfs Up!"
+type = "album"
+date = "2019-04-19"
+spotify = "3rCHThZSo7zO5dmmsPjTtQ"
+tracks = [
+  { n = 1, title = "Feet", mbid = "0648ad33-ff10-49dd-ba9e-182e65f9bd70" },
+  { n = 2, title = "I Believe in Something Better", mbid = "35338f37-1ef1-430d-84aa-56b590a8b38e" },
+  { n = 3, title = "Vagina Dentata", mbid = "16898468-007d-4ff3-bde5-707ab860fc69" },
+  { n = 4, title = "Kim's Sunsets", mbid = "4b96b1f8-9ea5-411c-9149-b554a7567a57" },
+  { n = 5, title = "Fringe Runner", mbid = "c9e0cb89-f518-4c66-9ef3-8d19862410f6" },
+  { n = 6, title = "Oh Sebastian", mbid = "6f5722b4-9ede-4f6c-80e9-531ad544ec31" },
+  { n = 7, title = "Tastes Good With the Money", mbid = "b1fec9b6-ad74-4f84-a981-c9b9e70932a9" },
+  { n = 8, title = "Rock Fishes", mbid = "cdb0e91f-7546-4866-99d0-5b9e6cd65ec4" },
+  { n = 9, title = "When I Leave", mbid = "ba66d5ce-6dcf-45e2-b17b-21028ced3154" },
+  { n = 10, title = "Bobby's Boyfriend", mbid = "1de54bc9-9607-47ef-ac53-12b192e154d1" },
+]
+
+[[release]]
+mbid = "1c19d314-7837-4e31-bdf3-c8d69d5b83e3"
+title = "Religion for One"
+type = "single"
+date = "2023-12-12"
+tracks = [
+  { n = 1, title = "Religion for One", mbid = "758b85d2-1f56-4f65-affc-334b137cc79f" },
+]
+
+[[release]]
+mbid = "a193b141-6a80-4982-8eb1-8ec3fd1a662d"
+title = "Work"
+type = "ep"
+date = "2024-04-23"
+spotify = "1Hb73vhOjThgS4BxhJ4KWz"
+tracks = [
+  { n = 1, title = "Work", mbid = "fd5f3aad-3db5-49ea-9d6a-c4965613153c" },
+  { n = 2, title = "What’s That You Say", mbid = "7d910f43-ed7c-4840-9c09-52d7c818ac07" },
+  { n = 3, title = "Today You Become Man", mbid = "ef6f2568-011a-432b-a1ac-6f6f793590ac" },
+  { n = 4, title = "Bullet of Dignity", mbid = "b37d5b00-9833-4a8a-ba23-021afa13894e" },
+  { n = 5, title = "Religion for One", mbid = "758b85d2-1f56-4f65-affc-334b137cc79f" },
+]
+
+[[release]]
+mbid = "0e2c9024-5ee2-483c-a6af-e1f4063bf010"
+title = "Forgiveness Is Yours"
+type = "album"
+date = "2024-04-26"
+tracks = [
+  { n = 1, title = "The Archivist", mbid = "0a7da0c3-4602-4361-be12-445cb7e963a3" },
+  { n = 2, title = "John Lennon", mbid = "e4c0de60-8114-4dec-bf7f-90f54d9650cb" },
+  { n = 3, title = "Bullet of Dignity", mbid = "b37d5b00-9833-4a8a-ba23-021afa13894e" },
+  { n = 4, title = "Polygamy Is Only for the Chief", mbid = "1dac3783-ed2c-49e6-a213-618406fa7892" },
+  { n = 5, title = "Visions of Pain", mbid = "b15a5132-3eac-4b64-9d2f-af90029d4596" },
+  { n = 6, title = "Today You Become Man", mbid = "ef6f2568-011a-432b-a1ac-6f6f793590ac" },
+  { n = 7, title = "Religion for One", mbid = "758b85d2-1f56-4f65-affc-334b137cc79f" },
+  { n = 8, title = "Feed the Horse", mbid = "12c9aba9-5062-4919-8375-a3a4cb4c7264" },
+  { n = 9, title = "What’s That You Say", mbid = "7d910f43-ed7c-4840-9c09-52d7c818ac07" },
+  { n = 10, title = "Work", mbid = "fd5f3aad-3db5-49ea-9d6a-c4965613153c" },
+  { n = 11, title = "You Can’t Force It", mbid = "b67d305c-c8d6-434a-8ac0-f22096e5fd71" },
+]

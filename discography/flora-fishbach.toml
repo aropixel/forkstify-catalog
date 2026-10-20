@@ -1,0 +1,98 @@
+format = 1
+
+[[release]]
+mbid = "15ce36c4-ec38-47a2-b635-a9b2af6c504d"
+title = "Fishbach"
+type = "ep"
+date = "2015-11-06"
+tracks = [
+  { n = 1, title = "Tu vas vibrer", mbid = "f531311b-4b4c-4f88-b0bc-1f6dd5358d7c" },
+  { n = 2, title = "Mortel", mbid = "8522abbc-9a2f-4671-9a8b-e048a8c88666" },
+  { n = 3, title = "Béton mouillé", mbid = "deb87221-b51c-4911-920e-56f9a4f91eb6" },
+  { n = 4, title = "Night Bird (Petit monstre)", mbid = "6a0907aa-4329-4a21-b5b5-980bd4920114" },
+]
+
+[[release]]
+mbid = "638efb23-0698-411e-a9cd-59ef2c3e1cb4"
+title = "À ta merci"
+type = "album"
+date = "2017-01-27"
+tracks = [
+  { n = 1, title = "Ma voie lactée", mbid = "a0bdd186-3b95-4733-bc41-07ff293ef9e5" },
+  { n = 2, title = "Y crois-tu", mbid = "c6fc19c4-455a-4409-9403-f4555450556a" },
+  { n = 3, title = "Éternité", mbid = "6a010cad-6966-4280-a733-8061cf208fc6" },
+  { n = 4, title = "Un beau langage", mbid = "a934102a-a0da-4f4e-bf6d-11c51eac5077" },
+  { n = 5, title = "Un autre que moi", mbid = "6fe9934f-b92c-45e9-96a7-20f6ffe2cc55" },
+  { n = 6, title = "Feu", mbid = "dcd11c84-05c1-4340-af31-0e17dba2c769" },
+  { n = 7, title = "On me dit tu", mbid = "1ac95b0c-c253-48bb-8028-c183931c0a7e" },
+  { n = 8, title = "Invisible désintégration de l’univers", mbid = "25ae0aeb-2d50-484c-8207-75a130235376" },
+  { n = 9, title = "Le Château", mbid = "d666f068-f581-42e2-8486-1a51b789d301" },
+  { n = 10, title = "Mortel", mbid = "4fdd0065-0348-469b-b8cd-bfae4ed6f97b" },
+  { n = 11, title = "Le Meilleur de la fête", mbid = "06775b18-7b12-40c8-89db-d6b45f59b291" },
+  { n = 12, title = "À ta merci", mbid = "5c5f99be-1af9-427b-9baa-4066463aac96" },
+]
+
+[[release]]
+mbid = "b951edc3-0b72-46dd-b35c-8fd1d29d8f56"
+title = "Un autre que moi"
+type = "single"
+date = "2017-03-31"
+spotify = "515KpxRRDmkc3HEmSxkOJ7"
+tracks = [
+  { n = 1, title = "Un autre que moi", mbid = "8a408cbd-e542-45b0-a4fc-4861f3eaee2c" },
+  { n = 2, title = "Y crois-tu", mbid = "85dc18ff-f373-42a5-9107-b65ccb955751" },
+]
+
+[[release]]
+mbid = "31413fca-4773-4e7a-a87c-1b2e23f54598"
+title = "Téléportation"
+type = "single"
+date = "2021-11-16"
+tracks = [
+  { n = 1, title = "Téléportation", mbid = "2f31ec03-a0d7-4812-b46b-24173079fa12" },
+]
+
+[[release]]
+mbid = "2f49a6b4-6f56-42f8-b667-3362f2812977"
+title = "Avec les yeux"
+type = "album"
+date = "2022-02-25"
+tracks = [
+  { n = 1, title = "Dans un fou rire", mbid = "151374c5-251c-4e3e-9d31-000accc20b8f" },
+  { n = 2, title = "De l’instinct", mbid = "a5b66a8e-d1f4-49e7-8991-bfe414ecedd0" },
+  { n = 3, title = "Masque d’or", mbid = "cd9c6fc7-033d-4bdf-a65c-66aaa5d5fdae" },
+  { n = 4, title = "Nocturne", mbid = "16b50d8d-cc99-47aa-972d-729170837873" },
+  { n = 5, title = "Tu es en vie", mbid = "3445ff70-8aa3-44b9-948d-8d1377101d60" },
+  { n = 6, title = "Quitter la ville", mbid = "f449090f-a0ca-4b48-9b27-a79a9fad0db6" },
+  { n = 7, title = "La foudre", mbid = "004efc8d-8270-43d0-acf8-8a31679b153c" },
+  { n = 8, title = "Téléportation", mbid = "1e602172-4186-4273-8166-5fbc49cb506b" },
+  { n = 9, title = "Démodé", mbid = "b296f277-ea18-42f9-bad0-5eadc3e04532" },
+  { n = 10, title = "Presque beau", mbid = "b69b7344-2d6b-4e7a-9251-d9b5511a1870" },
+  { n = 11, title = "Arabesques", mbid = "466a5bc6-c7a4-46e5-a9fd-2434209eae64" },
+]
+
+[[release]]
+mbid = "8d3a047d-b432-4f21-8e1e-2765088cbea2"
+title = "L’Origine du mal (from ’L’Origine du mal’)"
+type = "single"
+date = "2022-09-23"
+spotify = "0rQiNntR48zbt9sr68LuOA"
+tracks = [
+  { n = 1, title = "L’Origine du mal (from ’L’Origine du mal’)", mbid = "5abdcb9d-6235-4928-ab22-7a0b50f1624f" },
+]
+
+[[release]]
+mbid = "c581c548-9844-4605-a696-2ed5eff657f4"
+title = "Val Synth"
+type = "album"
+date = "2025-09-12"
+tracks = [
+  { n = 1, title = "Rends‐moi ma vie", mbid = "695f500c-b45e-4a18-b1a9-293b3671678f" },
+  { n = 2, title = "Comme Jean Reno", mbid = "91d29eab-09ef-438c-971b-bde8e735ce84" },
+  { n = 3, title = "Des bêtises (part I)", mbid = "cc1f9048-e5e5-44a8-bc9e-f0ec142cb24f" },
+  { n = 4, title = "Des bêtises (part II)", mbid = "700aac80-4d9a-4073-8794-3d783575ac37" },
+  { n = 5, title = "Meryl Streep libre", mbid = "8e2fa12a-e47b-4539-a75a-d40cd652bb00" },
+  { n = 6, title = "La Machiavela", mbid = "025df841-3344-4311-925c-858cd767ae26" },
+  { n = 7, title = "Mon copain", mbid = "28a882f1-eef3-4694-ab26-89b03f7b9169" },
+  { n = 8, title = "Dulcimers", mbid = "09749f28-1b58-4c4c-bcc3-1c46db7b2ba7" },
+]

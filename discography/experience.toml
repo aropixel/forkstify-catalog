@@ -1,0 +1,94 @@
+format = 1
+
+[[release]]
+mbid = "4a6d495b-3dce-31bf-b192-ffa9a50ab1b6"
+title = "Aujourd'hui, maintenant.LP"
+type = "album"
+date = "2001-03-19"
+tracks = [
+  { n = 1, title = "Aujourd'hui, maintenant", mbid = "6f906ef7-da4d-4534-8a2a-9eadc4fa7f4d" },
+  { n = 2, title = "Essayer", mbid = "5941f49a-82cf-4e4e-8be3-1ab3eb115b0b" },
+  { n = 3, title = "Entre voisins", mbid = "ef297d72-288d-43f6-8f6c-d5eef0467b59" },
+  { n = 4, title = "Deux", mbid = "63b72da1-2321-4c18-a998-6178696a9d14" },
+  { n = 5, title = "La question ne se pose pas", mbid = "b966feef-7dc9-4b7f-a8fb-bb3c08b6a151" },
+  { n = 6, title = "Les Ouvriers coréens", mbid = "658934af-164f-45c2-8cff-d6008c393199" },
+  { n = 7, title = "West Houston Street", mbid = "aba4300c-65b6-4738-afbb-c9efa693b3ae" },
+  { n = 8, title = "Fin 82 - début 83", mbid = "d150a7e1-7e1a-486c-a691-d2acc0038bb3" },
+  { n = 9, title = "La Pièce du frigo", mbid = "44dba7fa-577d-40a9-91df-115774eadffd" },
+  { n = 10, title = "Pour ceux qui aiment le jazz", mbid = "0681ea34-230f-4e14-b8c4-01b5f424b6ba" },
+]
+
+[[release]]
+mbid = "34054775-cf5e-3f6e-8fee-883436e76037"
+title = "Hémisphère gauche"
+type = "album"
+date = "2004-03-23"
+tracks = [
+  { n = 1, title = "Résumé de futurs épisodes précedents", mbid = "cca5dc40-9245-422f-806a-f85fe860695d" },
+  { n = 2, title = "Too Much Love", mbid = "70570cb9-7878-4844-9a80-5e32d52eff97" },
+  { n = 3, title = "Hémisphère gauche", mbid = "06978586-d664-4212-bb4b-503e458faa02" },
+  { n = 4, title = "Traquer la fièvre massacrer l'ennui", mbid = "48f2b91f-f644-4cdd-a317-55f904db098d" },
+  { n = 5, title = "Drivin'", mbid = "3b9d7d5d-2662-467c-937a-5284eaa8e8c5" },
+  { n = 6, title = "Bienvenue", mbid = "2f9c5f21-f72c-4de6-a453-f1b068e6eca2" },
+  { n = 7, title = "Le diable sur ta porte", mbid = "eaaac805-c8c0-4f49-b1f4-80f859bc49c4" },
+  { n = 8, title = "Somebody Else but Me", mbid = "bda90d14-5a47-4d14-a1dc-2b02a7538035" },
+  { n = 9, title = "Pauvres petits occidentaux", mbid = "97b66f1d-06ca-432e-afd6-e03652a97454" },
+  { n = 10, title = "La Nuit", mbid = "bfdffb37-0d37-4903-824a-fa7cc370be30" },
+]
+
+[[release]]
+mbid = "0897efd8-77ef-3644-83bf-9da3f5e65a4c"
+title = "Positive Karaoke With a Gun"
+type = "album"
+date = "2005-10-24"
+tracks = [
+  { n = 1, title = "Show'em Watcha Got", mbid = "cd4f863d-9a4c-4d4c-a3f0-5a18fdc4caec" },
+  { n = 2, title = "La révolution ne sera pas télévisée", mbid = "c0d02ccc-3a63-4a71-9b71-1a45ae573c76" },
+  { n = 3, title = "Second Hand Clothes", mbid = "5b3431c6-0b5c-4a04-a6b7-fc9751423110" },
+  { n = 4, title = "Buggin' Out", mbid = "0d813104-0e2c-40f7-8fdf-9345ac03bd23" },
+  { n = 5, title = "Prayer to God", mbid = "c50892d7-64b1-40ad-aeb7-da111089a1e0" },
+  { n = 6, title = "Fuck You Man! / FU-MF (Medley)", mbid = "17d0c6a4-3b77-436f-bb47-3d5d84105f56" },
+  { n = 7, title = "Qu'est-ce qu'on attend ?", mbid = "0a49ff6f-84a5-47a7-849f-5a4ed9ca3565" },
+  { n = 8, title = "Sombre (I See a Darkness)", mbid = "f53ef1f4-63fe-4629-a10a-427c0670618c" },
+  { n = 9, title = "Is Chicago? Is Not Chicago?", mbid = "ae503142-f5dd-490f-8fcb-2c0836b8eda4" },
+  { n = 10, title = "Le Brouillard", mbid = "992975cf-7ca8-4496-b21d-04d3d1794dee" },
+  { n = 11, title = "Dodeskaden (Theme)", mbid = "7cc4b79d-4de4-43fc-9faa-283d9b526e66" },
+  { n = 12, title = "Collect the Diamonds", mbid = "d3c1256a-beb0-4c98-aadf-33cd5e4a330b" },
+  { n = 13, title = "Seule la musique", mbid = "7cdbb362-af05-4959-9fe3-2b96c52ea676" },
+  { n = 14, title = "You Don't Want Fuck With Me", mbid = "ea72247e-02ff-4ce3-adfa-553149c627ab" },
+  { n = 15, title = "This Is Not a Love Song", mbid = "09489c72-5c5b-46bd-b40a-d69aee173905" },
+]
+
+[[release]]
+mbid = "807143fb-202f-3db1-ba31-89783e5f604c"
+title = "Sombre EP"
+type = "ep"
+date = "2006-03-13"
+tracks = [
+  { n = 1, title = "Sombre (I See a Darkness)", mbid = "4b998186-c0b7-4134-881a-efd8deefd2bc" },
+  { n = 2, title = "L'Homme en noir (Man in Black)", mbid = "c1c9af02-f793-4192-972d-d3b471aa281b" },
+  { n = 3, title = "La révolution ne sera pas télévisée (version)", mbid = "9f6b0fee-0707-4891-9df0-47b4103cc4e6" },
+  { n = 4, title = "Gimme Indie Rock!", mbid = "e43c2dfe-7d0b-4e64-b25e-4a762222e390" },
+]
+
+[[release]]
+mbid = "7b5a2a21-7430-324f-873d-cccdd5e59213"
+title = "Nous (en) sommes encore là"
+type = "album"
+date = "2008-05-05"
+tracks = [
+  { n = 1, title = "Entendre ça", mbid = "e889ac69-e2b1-4f2d-b69b-00aa947dda60" },
+  { n = 2, title = "Une larme dans un verre d'eau", mbid = "ae31c09f-d115-45fd-bf2a-97d13b34911c" },
+  { n = 3, title = "Les aspects positifs des jeunes énergies négatives", mbid = "d199fe39-5123-41a4-9b52-6c1e17654482" },
+  { n = 4, title = "Ils sont devenus fous", mbid = "55a212ba-86e9-466d-adc6-812eaab014e9" },
+  { n = 5, title = "Something Broken", mbid = "428b8b2b-3a35-445d-a738-1f9ccfc70efd" },
+  { n = 6, title = "Il y a toujours une lumière", mbid = "cd2889f3-be58-4284-a944-405e274315fd" },
+  { n = 7, title = "Ever Got the Feelin' You've Been Cheated?", mbid = "d36f8b29-bc82-47d8-9574-caf1a7522218" },
+  { n = 8, title = "La république invisible", mbid = "387808d5-bd10-4747-b30d-2b4dc7148d8e" },
+  { n = 9, title = "La vérité", mbid = "de699dc6-b434-4407-8542-dfb2567eab8d" },
+  { n = 10, title = "Petite précision (À l'attention d'un ami)", mbid = "d86cbf58-5c2e-4d57-b2dd-44af3bc07c24" },
+  { n = 11, title = "Des héros", mbid = "736eabcc-6b84-4525-8943-5dc25db1e23c" },
+  { n = 12, title = "Retrouvée", mbid = "aab4e82a-7a94-4d78-bb48-26575dc774e7" },
+  { n = 13, title = "Entre deux", mbid = "6dcb4dfd-c9f4-441d-bfa7-f919ffeac4b0" },
+  { n = 14, title = "Nous (en) sommes encore là", mbid = "b7e66491-b123-4628-8b65-a8350e4bac77" },
+]

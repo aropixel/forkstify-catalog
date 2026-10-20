@@ -1,0 +1,565 @@
+format = 1
+
+[[release]]
+mbid = "209b958d-23f5-3f4d-a0bb-5325ea19a468"
+title = "Try This on Your Piano"
+type = "single"
+date = "2006-04-03"
+tracks = [
+  { n = 1, title = "Try This on Your Piano", mbid = "bacbd38d-07bf-41c6-847d-d5adc861b4d0" },
+  { n = 2, title = "Look at My Furrows of Worry", mbid = "e1a10e6f-bbe2-4641-9242-d07c4bfcdad5" },
+]
+
+[[release]]
+mbid = "5b361b66-f866-3cf2-933c-d3bb58262007"
+title = "Hummer"
+type = "single"
+date = "2007-03-12"
+spotify = "2Hzy7URy0Sv5FWB5lTJH4x"
+tracks = [
+  { n = 1, title = "Hummer", mbid = "ede629e2-0aa9-47ed-872c-a854f7756811" },
+  { n = 2, title = "Astronauts & All", mbid = "f95d9837-2ff3-4fef-8d4b-38d79395c126" },
+]
+
+[[release]]
+mbid = "5b963efa-6fdb-3cb9-a795-ca472a51ddd0"
+title = "Mathletics"
+type = "single"
+date = "2007-07-16"
+spotify = "6xdYC0FqsBfIagoG7fLRUw"
+tracks = [
+  { n = 1, title = "Mathletics", mbid = "e18eddcf-6a2b-4eaf-8b71-ad6157898a83" },
+]
+
+[[release]]
+mbid = "4d8624a2-d57a-4794-aaf6-4f1f2e9c291b"
+title = "Hummer"
+type = "ep"
+date = "2007-11-12"
+tracks = [
+  { n = 1, title = "Hummer", mbid = "6b417fb9-dc66-4026-aa86-1c0134361806" },
+  { n = 2, title = "Astronauts and All", mbid = "f95d9837-2ff3-4fef-8d4b-38d79395c126" },
+  { n = 3, title = "Mathletics", mbid = "57a38f94-1487-4d38-9fd3-efb52611a039" },
+  { n = 4, title = "Big Big Love (Fig #1)", mbid = "85504e91-365d-444a-8e73-96a4ed8504cc" },
+  { n = 5, title = "Balloons (live)", mbid = "964bb082-7b7f-4a86-9283-a52271ade3dd" },
+  { n = 6, title = "Hummer (Surkin remix)", mbid = "45d48c9b-2796-4c82-a4e7-216db67aa6a9" },
+]
+
+[[release]]
+mbid = "3bb2f99b-bdc8-4c0b-a237-d95e01e96e22"
+title = "Foals EP"
+type = "ep"
+date = "2007-12-05"
+tracks = [
+  { n = 1, title = "Hummer", mbid = "6b417fb9-dc66-4026-aa86-1c0134361806" },
+  { n = 2, title = "Astonauts ’n’ All", mbid = "f95d9837-2ff3-4fef-8d4b-38d79395c126" },
+  { n = 3, title = "Mathletics", mbid = "57a38f94-1487-4d38-9fd3-efb52611a039" },
+  { n = 4, title = "Big Big Love", mbid = "85504e91-365d-444a-8e73-96a4ed8504cc" },
+  { n = 5, title = "Balloons (live at the Great Escape)", mbid = "964bb082-7b7f-4a86-9283-a52271ade3dd" },
+  { n = 6, title = "Hummer (Surkin remix)", mbid = "aeaa21cd-99e2-44d7-ae41-325ded7956d1" },
+]
+
+[[release]]
+mbid = "20d3d188-c88f-3635-a172-d1a9296052cd"
+title = "Balloons"
+type = "single"
+date = "2007-12-09"
+tracks = [
+  { n = 1, title = "Balloons (live London Scala)", mbid = "f47a590a-48dc-4d2c-87f4-0920fe8969ff" },
+]
+
+[[release]]
+mbid = "23507041-b399-4d9b-9784-b2a4851a1cbd"
+title = "Dearth / A Song for You / The Chronic"
+type = "ep"
+date = "2008"
+tracks = [
+  { n = 1, title = "Dearth", mbid = "ecee31b6-45b3-447d-87a0-3843774b00e1" },
+  { n = 2, title = "A Song for You", mbid = "49939a3d-4bc9-4cc2-bbc2-385ee90edb41" },
+  { n = 3, title = "The Chronic", mbid = "e92d4892-c7c9-4305-bb3b-795deb04fa30" },
+]
+
+[[release]]
+mbid = "a94b7279-ab1d-3865-82f5-91a6dd9df554"
+title = "Cassius"
+type = "single"
+date = "2008-02-15"
+tracks = [
+  { n = 1, title = "Cassius", mbid = "75ab7375-5b8e-4bc5-b874-2cb8a9fbb69a" },
+]
+
+[[release]]
+mbid = "b3354e1f-317e-3b64-88e1-d4dc54571a6d"
+title = "Antidotes"
+type = "album"
+date = "2008-03-21"
+spotify = "4FIDNlGVXZ4pCxdMjJXHoE"
+tracks = [
+  { n = 1, title = "The French Open", mbid = "34dd1eb9-169c-4899-9869-fe3973822c46" },
+  { n = 2, title = "Cassius", mbid = "75ab7375-5b8e-4bc5-b874-2cb8a9fbb69a" },
+  { n = 3, title = "Red Sox Pugie", mbid = "0bacaa33-fa7c-430f-9565-1837ab7901e1" },
+  { n = 4, title = "Olympic Airways", mbid = "506530d7-8cea-4b77-abd1-247b78617aad" },
+  { n = 5, title = "Electric Bloom", mbid = "1eae64f1-e94e-4c9e-a11e-f2197332b8fe" },
+  { n = 6, title = "Balloons", mbid = "483c5a3b-90ec-4435-96f0-f78156746047" },
+  { n = 7, title = "Heavy Water", mbid = "f8ef9039-99a1-445b-9785-75077c01be92" },
+  { n = 8, title = "Two Steps, Twice", mbid = "72cccf7a-c35e-4575-8fc4-a23dcee18963" },
+  { n = 9, title = "Big Big Love (Fig. 2)", mbid = "b10d7c27-6ebb-49a9-91fd-a7e9aa6a4c5d" },
+  { n = 10, title = "Like Swimming", mbid = "d53ce100-1da1-4c55-9909-e8f76ec6c61d" },
+  { n = 11, title = "Tron", mbid = "644aed60-31bf-4674-8a3c-575c6b77be7a" },
+  { n = 12, title = "XXXXX (live at the Scala)", mbid = "f78f319c-6a20-4553-82fe-e26c6e1db452" },
+  { n = 13, title = "The French Open (live at the Scala)", mbid = "3c8e8144-fab3-4b00-9bbd-aa7d049edace" },
+]
+
+[[release]]
+mbid = "7b4489f3-6444-4912-93d0-443ff731f15b"
+title = "Red Socks Pugie"
+type = "single"
+date = "2008-05-26"
+spotify = "03AQzkkbKYhbWReboIvW2x"
+tracks = [
+  { n = 1, title = "Red Socks Pugie", mbid = "0bacaa33-fa7c-430f-9565-1837ab7901e1" },
+  { n = 2, title = "Red Socks Pugie (Henrik Schwartz remix)", mbid = "64c54b20-f25f-4fd7-8b72-392173eb471a" },
+  { n = 3, title = "Red Socks Pugie (Various Productions)", mbid = "82b86651-4037-4142-bf42-dae710c16488" },
+  { n = 4, title = "Red Socks Pugie (live at the Astoria)", mbid = "eb284a42-0135-4281-b832-415be3cde4ea" },
+  { n = 5, title = "A Sketch for ESG", mbid = "d7e1e4b7-db54-4200-8df5-07aaefc57976" },
+  { n = 6, title = "Gold Gold Gold (B-Side)", mbid = "d436cbf9-6127-498f-971c-346e1e81bad4" },
+  { n = 7, title = "Titan Arum (B-Side)", mbid = "b8ba114d-2ff6-4685-800e-cd99db39304e" },
+]
+
+[[release]]
+mbid = "c1282cc5-9cb5-37c3-8987-f6cc3983025c"
+title = "Olympic Airways"
+type = "single"
+date = "2008-06-10"
+tracks = [
+  { n = 1, title = "Olympic Airways", mbid = "506530d7-8cea-4b77-abd1-247b78617aad" },
+  { n = 2, title = "Olympic Airways (single version)", mbid = "1fab323e-b442-4c9c-a77f-70bcb8f58992" },
+  { n = 3, title = "Olympic Airways (radio edit)", mbid = "dcd4773e-96c4-451f-8bff-6d3b0e6e2eb2" },
+  { n = 4, title = "Olympic Airways (Diskjokke remix)", mbid = "57822c72-608d-4b5c-8657-be0b4e39d6d1" },
+  { n = 5, title = "Olympic Airways (Ewan Pearson's Return to the Villa of Joy remix)", mbid = "2c1ad29d-7578-428a-9cb4-c9d80642aa95" },
+  { n = 6, title = "Olympic Airways (Supermayer remix)", mbid = "8db4334c-ea37-4dc8-a5b8-593ea256242d" },
+  { n = 7, title = "Glaciers (B-Side)", mbid = "dfaac76f-05ba-4d7f-886e-1f0effee3831" },
+]
+
+[[release]]
+mbid = "cf0eb550-a859-4285-ae2a-26c05e5c93be"
+title = "Gold Gold Gold"
+type = "ep"
+date = "2008-09-09"
+tracks = [
+  { n = 1, title = "Olympic Airways (remix edit)", mbid = "4c480b41-1bef-41f5-bad9-71e8bc9efaa8" },
+  { n = 2, title = "Dearth", mbid = "ecee31b6-45b3-447d-87a0-3843774b00e1" },
+  { n = 3, title = "Gold Gold Gold", mbid = "1381fa3b-92b4-4a85-a1e6-03741d98b5a1" },
+  { n = 4, title = "Titan Arum", mbid = "22fb8089-b96b-417a-b2a5-1ee401612096" },
+  { n = 5, title = "Red Socks Pugie (Henrik Schwarz remix)", mbid = "64c54b20-f25f-4fd7-8b72-392173eb471a" },
+  { n = 6, title = "Cassius (Kieran Hebden version)", mbid = "db230e7c-c2b3-47ad-aaf8-b6a49b43bc0e" },
+]
+
+[[release]]
+mbid = "a0de3141-fa98-4703-a138-90267f07ba7c"
+title = "Balloons / Super Inuit"
+type = "single"
+date = "2008-10"
+tracks = [
+  { n = 1, title = "Balloons", mbid = "e419f4ff-9a7a-4975-8f24-633fd273b45b" },
+  { n = 2, title = "Super Inuit", mbid = "3d3d780e-aef5-4cc5-a21d-40383c3a2751" },
+]
+
+[[release]]
+mbid = "246ab387-bfd8-433c-8191-f4e09809b336"
+title = "Spanish Sahara"
+type = "single"
+date = "2010-03-01"
+spotify = "2z5ukwEV63RItDbR8uEbYZ"
+tracks = [
+  { n = 1, title = "Spanish Sahara", mbid = "7257dd31-5187-4969-abf7-ab9c3de193df" },
+  { n = 2, title = "Spanish Sahara (Mount Kimbie remix)", mbid = "794dbad9-9efa-4d63-9f75-a4c0a3e9d34c" },
+]
+
+[[release]]
+mbid = "cb03d94b-9acd-4f56-8fd7-51cc1aea0c53"
+title = "This Orient"
+type = "single"
+date = "2010-04-30"
+tracks = [
+  { n = 1, title = "This Orient", mbid = "4ede24c5-ef8b-49f6-90f4-f60e30445ad1" },
+  { n = 2, title = "This Orient (Starkey remix)", mbid = "e624ec49-8d77-48ae-a5c2-db6bbc400562" },
+  { n = 3, title = "Spanish Sahara (Mosca remix)", mbid = "e37fcfe3-69eb-4926-9b76-11ff956b947e" },
+  { n = 4, title = "Tron (Kieran Hebden version)", mbid = "3a81f911-0d40-4324-9e14-87d252e18ba8" },
+]
+
+[[release]]
+mbid = "d538df74-a31e-4aa8-ad10-ffb125db6725"
+title = "Total Life Forever"
+type = "album"
+date = "2010-05-07"
+spotify = "45FG4qFonJavdxkO8Br3yA"
+tracks = [
+  { n = 1, title = "Blue Blood", mbid = "e08f2b0f-bbad-4a95-9bed-5ad47b15c1cd" },
+  { n = 2, title = "Miami", mbid = "754d92d7-b1f6-417e-b473-7719c427a7d4" },
+  { n = 3, title = "Total Life Forever", mbid = "9f87b74d-f3a2-4511-974f-dc826d6c1434" },
+  { n = 4, title = "Black Gold", mbid = "1a53fc5e-1254-4533-9eab-f20988d5299c" },
+  { n = 5, title = "Spanish Sahara", mbid = "dbc42473-7e42-4faf-b56c-388cf2082966" },
+  { n = 6, title = "This Orient", mbid = "4ede24c5-ef8b-49f6-90f4-f60e30445ad1" },
+  { n = 7, title = "Fugue", mbid = "bb574f31-1874-4e32-b952-56a98450762a" },
+  { n = 8, title = "After Glow", mbid = "69dcd44f-66a0-43ac-bc53-14271385a0ba" },
+  { n = 9, title = "Alabaster", mbid = "d67159b4-d816-43a8-82a6-7dcf30180391" },
+  { n = 10, title = "2 Trees", mbid = "42a5e6ba-4ccf-4b64-be8a-9ed198572f4b" },
+  { n = 11, title = "What Remains", mbid = "945b668c-bb25-4ebb-bf39-6f69974b0017" },
+  { n = 12, title = "Spanish Sahara (Deadboy remix)", mbid = "bd70596c-2e45-41e1-ad79-a036afa77455" },
+]
+
+[[release]]
+mbid = "720cced3-5b0f-47dc-b3ec-acec5fa8f6c2"
+title = "Miami"
+type = "single"
+date = "2010-07-02"
+tracks = [
+  { n = 1, title = "Miami", mbid = "754d92d7-b1f6-417e-b473-7719c427a7d4" },
+]
+
+[[release]]
+mbid = "4c58f087-caed-4c47-b38c-de15d32e676f"
+title = "Wear & Tear"
+type = "single"
+date = "2010-10"
+tracks = [
+  { n = 1, title = "Wear & Tear", mbid = "6887933d-5664-4f04-b49f-bd31407fa6d8" },
+]
+
+[[release]]
+mbid = "9ad5d5c5-bac7-4979-9781-b09a6d4704d9"
+title = "Blue Blood"
+type = "single"
+date = "2010-11-05"
+tracks = [
+  { n = 1, title = "Blue Blood", mbid = "e08f2b0f-bbad-4a95-9bed-5ad47b15c1cd" },
+  { n = 2, title = "Olympic Airways (live From Rough Trade)", mbid = "9349557b-2bcd-4cbb-834c-0ddab3f2327e" },
+]
+
+[[release]]
+mbid = "0343858e-0bef-4aff-8aa9-85a52145b5d3"
+title = "Freelance Whales / Foals"
+type = "single"
+date = "2011-04-12"
+tracks = [
+  { n = 1, title = "Girl U Want", mbid = "6e73fdda-cd70-4c6e-829c-3ab0a9402951" },
+  { n = 2, title = "One", mbid = "ed27bd38-624e-4a23-823e-54194fd37c85" },
+]
+
+[[release]]
+mbid = "0fe523bb-7ba9-414d-a967-4b680b2036e2"
+title = "Inhaler"
+type = "single"
+date = "2012-11-13"
+spotify = "5zCpV07pzkxA73umRGlmuR"
+tracks = [
+  { n = 1, title = "Inhaler", mbid = "fe408659-fcaf-491f-a662-c9eb526413e6" },
+]
+
+[[release]]
+mbid = "70cdac37-f405-46f6-92b8-51769462d95a"
+title = "My Number"
+type = "single"
+date = "2012-12-17"
+spotify = "226MM6eShLfjf3mjcpULtF"
+tracks = [
+  { n = 1, title = "My Number", mbid = "5dc0acc5-283c-4b2a-9d3b-38b71d02dc6b" },
+]
+
+[[release]]
+mbid = "fdcf14da-08bf-407a-a0af-6f9582b82131"
+title = "Holy Fire"
+type = "album"
+date = "2013-01-31"
+spotify = "6SBkXTPlJ3oEaFwRm5o2lD"
+tracks = [
+  { n = 1, title = "Prelude", mbid = "08ecaad0-ec97-4ced-baf6-928c0244de72" },
+  { n = 2, title = "Inhaler", mbid = "fe408659-fcaf-491f-a662-c9eb526413e6" },
+  { n = 3, title = "My Number", mbid = "5dc0acc5-283c-4b2a-9d3b-38b71d02dc6b" },
+  { n = 4, title = "Bad Habit", mbid = "944f8b5a-4742-494e-8f62-472a46fbaa52" },
+  { n = 5, title = "Everytime", mbid = "91089fd3-1b34-416a-a269-1c5bac2e5eaf" },
+  { n = 6, title = "Late Night", mbid = "5768d328-b04d-463d-93bf-be8ad8977867" },
+  { n = 7, title = "Out of the Woods", mbid = "b8b16720-63a6-4593-8b90-239c6ba8c4b4" },
+  { n = 8, title = "Milk & Black Spiders", mbid = "6b599533-3758-49af-8b43-4cc4dae77590" },
+  { n = 9, title = "Providence", mbid = "84adaea5-7619-4ff2-b863-460c0b0896c7" },
+  { n = 10, title = "Stepson", mbid = "cac14f48-b308-426d-8bf4-db403f52e8dc" },
+  { n = 11, title = "Moon", mbid = "29c0f850-56f4-43b1-8b84-eff7b31591d8" },
+]
+
+[[release]]
+mbid = "11b097b8-9486-47cd-8199-554feb91cc44"
+title = "Late Night"
+type = "single"
+date = "2013-04-19"
+tracks = [
+  { n = 1, title = "Late Night", mbid = "5768d328-b04d-463d-93bf-be8ad8977867" },
+  { n = 2, title = "Late Night (Koreless Purple Cowboy remix)", mbid = "b2007bf9-ddb3-4cce-a57f-c33830ed625a" },
+  { n = 3, title = "Late Night (Chad Valley remix)", mbid = "ad752646-4707-4b4e-b8d5-11d784204193" },
+  { n = 4, title = "Late Night (CCTV version)", mbid = "770c09dc-dae1-41a1-b670-ed34c2651f1a" },
+]
+
+[[release]]
+mbid = "444e4c93-408f-4dd2-9aaa-01f382442f88"
+title = "Bad Habit"
+type = "single"
+date = "2013-07-15"
+tracks = [
+  { n = 1, title = "Bad Habit", mbid = "944f8b5a-4742-494e-8f62-472a46fbaa52" },
+  { n = 2, title = "Bad Habit (Alex Metric remix)", mbid = "8cb7538b-ce20-40e1-a5c5-0cd36be06425" },
+  { n = 3, title = "Bad Habit (Voyeur remix)", mbid = "37366586-f928-46d4-bc7a-459b160e20df" },
+]
+
+[[release]]
+mbid = "79b47adb-53e1-4547-9a65-efc9b61c7872"
+title = "A Knife in the Ocean"
+type = "single"
+date = "2015"
+tracks = [
+  { n = 1, title = "A Knife in the Ocean", mbid = "05aee922-cee1-44e0-b5e7-79dd75579dee" },
+]
+
+[[release]]
+mbid = "008b9a80-7d2a-497c-8c47-436d86f60dbc"
+title = "What Went Down"
+type = "album"
+date = "2015-08-28"
+spotify = "0RyCpIKlCV0kgEuzrmp73O"
+tracks = [
+  { disc = 1, n = 1, title = "What Went Down", mbid = "e1765e2b-d681-4f81-b383-dc554e4faf9f" },
+  { disc = 1, n = 2, title = "Mountain at My Gates", mbid = "e219264b-b5e9-47c4-a508-955d94a29469" },
+  { disc = 1, n = 3, title = "Birch Tree", mbid = "7c608f7c-663a-4ae2-ab90-82870e6e33a9" },
+  { disc = 1, n = 4, title = "Give It All", mbid = "28b836af-a5f7-4084-8e5c-f2b777b07947" },
+  { disc = 1, n = 5, title = "Albatross", mbid = "d3ceb0c1-6804-4dab-bc83-adf4b9f5c20d" },
+  { disc = 1, n = 6, title = "Snake Oil", mbid = "30e5ac2d-7d1e-439f-985f-323323055edb" },
+  { disc = 1, n = 7, title = "Night Swimmers", mbid = "e8bb6b03-29df-45a4-a46a-5e5cbd795e8c" },
+  { disc = 1, n = 8, title = "London Thunder", mbid = "298b8035-cdc1-4297-859a-5ecdc2694158" },
+  { disc = 1, n = 9, title = "Lonely Hunter", mbid = "8e197da5-daf3-497b-a5e9-b1b39171e997" },
+  { disc = 1, n = 10, title = "A Knife in the Ocean", mbid = "6f7b8ddd-e3e7-4b15-b34a-ddb2c6285cd2" },
+  { disc = 2, n = 1, title = "Rain", mbid = "cbdfa65f-18c9-455e-9d5c-bf88a5f1a752" },
+  { disc = 2, n = 2, title = "Daffodils", mbid = "e7fb0af3-4b7e-40eb-b6a1-b50bb4ba00e3" },
+  { disc = 2, n = 3, title = "London Thunder (CCTV Sessions)", mbid = "02d5bb77-363e-4ab1-a30e-08e84defec87" },
+  { disc = 2, n = 4, title = "Albatross (CCTV Sessions)", mbid = "37b56848-4acb-4a42-a6c1-c78d577e1a4e" },
+  { disc = 2, n = 5, title = "Lonely Hunter (CCTV Sessions)", mbid = "02d5bb77-363e-4ab1-a30e-08e84defec87" },
+  { disc = 2, n = 6, title = "Snake Oil (CCTV Sessions)", mbid = "11a5b286-c4a0-4cdd-8c6d-c0fa925ae67f" },
+  { disc = 2, n = 7, title = "Give It All (Poolside Sessions)", mbid = "6c214f5f-7334-43f3-a652-efbc9ee8f9d1" },
+  { disc = 2, n = 8, title = "London Thunder (Poolside Sessions)", mbid = "e956c2ea-99de-4b8f-9a27-18cc91436e8a" },
+]
+
+[[release]]
+mbid = "0e170972-b8aa-42c0-9c93-67f2fffc0c16"
+title = "Rain / Daffodils"
+type = "single"
+date = "2016-03-09"
+tracks = [
+  { n = 1, title = "Rain", mbid = "cbdfa65f-18c9-455e-9d5c-bf88a5f1a752" },
+  { n = 2, title = "Daffodils", mbid = "e7fb0af3-4b7e-40eb-b6a1-b50bb4ba00e3" },
+]
+
+[[release]]
+mbid = "43b7b8ee-a34b-4e51-ac52-eca83e9b39f7"
+title = "Exits"
+type = "single"
+date = "2019-01-21"
+spotify = "3bPk2LPc4MvSq0cGpSxJ20"
+tracks = [
+  { n = 1, title = "Exits (edit)", mbid = "d82f6d8e-f949-4dc9-a0e3-3d577b467940" },
+  { n = 2, title = "Exits", mbid = "12065e67-3747-4a8f-b6af-d43de2f9e0e7" },
+]
+
+[[release]]
+mbid = "40af5f5c-8982-4a1b-97de-41f0cfe0651b"
+title = "On the Luna"
+type = "single"
+date = "2019-02-14"
+spotify = "6SdBLVKJ3ns6TFfXv4xs3T"
+tracks = [
+  { n = 1, title = "On the Luna", mbid = "e545d3e0-3861-4191-a3f6-75427054ebfa" },
+]
+
+[[release]]
+mbid = "45afba5b-fbd0-497f-91f7-b16f598c6fa6"
+title = "Sunday"
+type = "single"
+date = "2019-02-25"
+spotify = "07gCUMxuIKJkdklcy1IYWa"
+tracks = [
+  { n = 1, title = "Sunday", mbid = "8bac027d-6dc0-477d-9ec2-99a713e26ecd" },
+]
+
+[[release]]
+mbid = "ebbf6f7c-a843-4de9-96b7-5081dce485c7"
+title = "Everything Not Saved Will Be Lost, Part 1"
+type = "album"
+date = "2019-03-08"
+spotify = "5oT2zoIrVGJcbVZoNGGZwc"
+tracks = [
+  { n = 1, title = "Moonlight", mbid = "931badf9-fbd9-4606-8361-c1a026d5eb12" },
+  { n = 2, title = "Exits", mbid = "12065e67-3747-4a8f-b6af-d43de2f9e0e7" },
+  { n = 3, title = "White Onions", mbid = "68747228-cb6e-4eb8-a3a9-5c9ecbf3dc1e" },
+  { n = 4, title = "In Degrees", mbid = "9a5e9e2f-d9c4-4b41-bf98-9500e28871b3" },
+  { n = 5, title = "Syrups", mbid = "01703f3c-53a0-4c2c-9246-ad0b79c53769" },
+  { n = 6, title = "On the Luna", mbid = "e545d3e0-3861-4191-a3f6-75427054ebfa" },
+  { n = 7, title = "Cafe D’Athens", mbid = "a6a43d0c-4116-487d-aa8b-7064ef5f18dd" },
+  { n = 8, title = "Surf, Pt.1", mbid = "9f39bd31-ae9e-4f68-8f0b-5f28b247de62" },
+  { n = 9, title = "Sunday", mbid = "8bac027d-6dc0-477d-9ec2-99a713e26ecd" },
+  { n = 10, title = "I’m Done With the World (& It’s Done With Me)", mbid = "669e62a8-a09b-4232-b187-3c682002b57b" },
+]
+
+[[release]]
+mbid = "56863914-3d14-4669-a2bf-97de4d2f6b05"
+title = "In Degrees"
+type = "single"
+date = "2019-05-10"
+spotify = "3mOlBJWJ6sWEXqZLOLRa2l"
+tracks = [
+  { n = 1, title = "In Degrees (Purple Disco Machine remix)", mbid = "83489081-1405-4a6c-802b-431494d6ee81" },
+  { n = 2, title = "In Degrees", mbid = "9a5e9e2f-d9c4-4b41-bf98-9500e28871b3" },
+]
+
+[[release]]
+mbid = "ee240fef-ebee-4533-8190-aac439bc9978"
+title = "Black Bull"
+type = "single"
+date = "2019-08-01"
+spotify = "5jnW68gaF2SWL27bRIkq0I"
+tracks = [
+  { n = 1, title = "Black Bull", mbid = "ba9e9dfc-6869-4037-b3b6-09922dd316e4" },
+]
+
+[[release]]
+mbid = "a6547965-1aad-4f97-b768-ad2bd7161ff6"
+title = "The Runner"
+type = "single"
+date = "2019-09-05"
+spotify = "7CwnnH6mZCAKwKLgwrLWRU"
+tracks = [
+  { n = 1, title = "The Runner", mbid = "37b95431-c2e6-4cea-a7fd-fccb9570ed8c" },
+]
+
+[[release]]
+mbid = "06a35ef9-a728-4359-8bd3-76c9d6177757"
+title = "Into the Surf"
+type = "single"
+date = "2019-09-25"
+spotify = "0025Y5D7IOZVpEfQtpvHIi"
+tracks = [
+  { n = 1, title = "Into the Surf", mbid = "315e8216-c6d8-41c4-9aa1-0877707a3f97" },
+  { n = 2, title = "The Runner", mbid = "37b95431-c2e6-4cea-a7fd-fccb9570ed8c" },
+  { n = 3, title = "Black Bull", mbid = "ba9e9dfc-6869-4037-b3b6-09922dd316e4" },
+]
+
+[[release]]
+mbid = "3661b7c1-4675-4185-b59e-4c4a7e5c7669"
+title = "Everything Not Saved Will Be Lost, Part 2"
+type = "album"
+date = "2019-10-18"
+spotify = "1zHZPjHvMgsZz0kkUnGFnv"
+tracks = [
+  { n = 1, title = "Red Desert", mbid = "e3f32635-e0f7-49a9-8b7b-bbe721f54bd5" },
+  { n = 2, title = "The Runner", mbid = "37b95431-c2e6-4cea-a7fd-fccb9570ed8c" },
+  { n = 3, title = "Wash Off", mbid = "a23fa4cd-9a64-409c-8e99-0f95ffb74cfd" },
+  { n = 4, title = "Black Bull", mbid = "ba9e9dfc-6869-4037-b3b6-09922dd316e4" },
+  { n = 5, title = "Like Lightning", mbid = "8929e2ec-167e-4dd8-8ccb-a78513a97d2c" },
+  { n = 6, title = "Dreaming Of", mbid = "994ea2e1-0d10-4930-abdf-6abcc8dde326" },
+  { n = 7, title = "Ikaria", mbid = "020cd556-c393-44fe-a629-6ea75dfe559d" },
+  { n = 8, title = "10,000 Ft.", mbid = "d5d4b2fd-7bc3-48fd-ad19-9b9d23ceca5f" },
+  { n = 9, title = "Into The Surf", mbid = "315e8216-c6d8-41c4-9aa1-0877707a3f97" },
+  { n = 10, title = "Neptune", mbid = "6fbd91ec-7091-4cb2-86fa-41d93abf05df" },
+]
+
+[[release]]
+mbid = "3476f7aa-a1ae-4925-be0d-27c5593b8749"
+title = "Wake Me Up"
+type = "single"
+date = "2021-11-04"
+spotify = "7MyrKdRkvj8hK20cLBj5jI"
+tracks = [
+  { n = 1, title = "Wake Me Up", mbid = "2790654b-33e0-4709-8e44-a253e1acdfcd" },
+]
+
+[[release]]
+mbid = "49300ddd-11d2-4808-90de-baa143c38858"
+title = "2am"
+type = "single"
+date = "2022-02-10"
+spotify = "04CKg4c7QsOXrlUxXbEZAe"
+tracks = [
+  { n = 1, title = "2am", mbid = "a044f3af-a97a-45ae-a629-43c56ef79620" },
+]
+
+[[release]]
+mbid = "9394c9b0-d4ba-44ba-a9a1-92a2de750916"
+title = "Looking High"
+type = "single"
+date = "2022-04-01"
+spotify = "6Szs8sYbEYII9oF9GCFBxx"
+tracks = [
+  { n = 1, title = "Looking High", mbid = "d81ee3b2-4ed0-4071-bf78-e4b60ad5db9a" },
+  { n = 2, title = "2am", mbid = "a044f3af-a97a-45ae-a629-43c56ef79620" },
+  { n = 3, title = "Wake Me Up", mbid = "2790654b-33e0-4709-8e44-a253e1acdfcd" },
+]
+
+[[release]]
+mbid = "c4ae438b-65c0-4a61-b2f0-50ad095ba17f"
+title = "2001"
+type = "single"
+date = "2022-05-19"
+spotify = "1VN9mwlc5OtDvAtlt2PC4i"
+tracks = [
+  { n = 1, title = "2001", mbid = "f0297fa1-0629-494f-833f-9849b72f0103" },
+]
+
+[[release]]
+mbid = "ae3c3648-01f3-4b52-9133-0b5a8cd7c6e7"
+title = "Crest of the Wave"
+type = "single"
+date = "2022-06-14"
+spotify = "665QEichnptAga1F4W5TJK"
+tracks = [
+  { n = 1, title = "Crest of the Wave", mbid = "9def358a-7275-48d8-a51a-cfe53f257da7" },
+]
+
+[[release]]
+mbid = "659d06b9-726b-4cda-9741-8d87d53b05fc"
+title = "Life Is Yours"
+type = "album"
+date = "2022-06-17"
+spotify = "7CBK26TFXHyt2l6NQcXIsq"
+tracks = [
+  { n = 1, title = "Life Is Yours", mbid = "cf902d98-dd0b-43f2-bc33-93b69cdce0a9" },
+  { n = 2, title = "Wake Me Up", mbid = "2790654b-33e0-4709-8e44-a253e1acdfcd" },
+  { n = 3, title = "2AM", mbid = "a044f3af-a97a-45ae-a629-43c56ef79620" },
+  { n = 4, title = "2001", mbid = "f0297fa1-0629-494f-833f-9849b72f0103" },
+  { n = 5, title = "(Summer Sky)", mbid = "5d0ae8d5-ee4c-4a48-88d7-215b634e7c7b" },
+  { n = 6, title = "Flutter", mbid = "ba3c4277-b313-4f3d-afe6-6d1f2954f4dd" },
+  { n = 7, title = "Looking High", mbid = "d81ee3b2-4ed0-4071-bf78-e4b60ad5db9a" },
+  { n = 8, title = "Under The Radar", mbid = "4ebfe662-dfd6-4dc5-903f-a456f7408c33" },
+  { n = 9, title = "Crest Of The Wave", mbid = "9def358a-7275-48d8-a51a-cfe53f257da7" },
+  { n = 10, title = "The Sound", mbid = "ec7c5054-a9eb-4323-af5d-a5209adec278" },
+  { n = 11, title = "Wild Green", mbid = "701b5580-81c6-4a07-b127-960b886a4e4c" },
+  { n = 12, title = "2001 Vibes", mbid = "deb16ff8-e804-4501-b441-b3f1bd314cec" },
+  { n = 13, title = "LH MJ Rough Demo", mbid = "f87998df-9db4-4bf4-8d53-5f55e0602bd8" },
+  { n = 14, title = "Wake Me Up (Lawrence Hart Remix)", mbid = "cee80bc5-ead1-44f5-885b-8d0f0ee4e489" },
+]
+
+[[release]]
+mbid = "6b0effdc-6e8b-4fbd-b695-4744995c325f"
+title = "Life Is Yours (London Contemporary Orchestra session)"
+type = "ep"
+date = "2023-02-10"
+spotify = "2Q3hIGmgnU9goaGWPMDyrr"
+tracks = [
+  { n = 1, title = "2001 (LCO session)", mbid = "a9d47cd4-f11f-4321-983d-9125d1a66b62" },
+  { n = 2, title = "Life Is Yours (LCO session)", mbid = "334267dd-c373-4efd-90c5-153b56beeca5" },
+  { n = 3, title = "Wash Off (LCO session)", mbid = "3de5a1ec-ec14-4f4f-8985-054b610b4215" },
+]
+
+[[release]]
+mbid = "cc8f9f4c-db14-4b94-b56f-fe2a5add7035"
+title = "Life Is Yours (Dan Carey dub)"
+type = "single"
+date = "2023-04-21"
+tracks = [
+  { n = 1, title = "Life Is Yours (Dan Carey dub)", mbid = "692ba18d-002f-4adf-b838-2822713578dc" },
+]

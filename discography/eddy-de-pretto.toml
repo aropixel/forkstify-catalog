@@ -1,0 +1,171 @@
+format = 1
+
+[[release]]
+mbid = "de0a547f-b2f0-4a07-a365-745c8bca29e3"
+title = "Kid"
+type = "ep"
+date = "2017-08-06"
+tracks = [
+  { n = 1, title = "Fête de trop", mbid = "a534b4db-035c-4ea5-b1eb-dd498616c4ae" },
+  { n = 2, title = "Kid", mbid = "ba09034c-15d3-4f25-ae7f-2afbfa932496" },
+  { n = 3, title = "Jungle de la chope", mbid = "5f01508c-8b15-4034-9fef-ca8989c8e600" },
+  { n = 4, title = "Beaulieue", mbid = "92cec90e-dee5-427b-b453-8a65692ddb90" },
+]
+
+[[release]]
+mbid = "c4aff54c-0f5f-458c-97cc-a54d792ac92a"
+title = "Random"
+type = "single"
+date = "2018-01-19"
+tracks = [
+  { n = 1, title = "Random", mbid = "b0d96896-b060-47ad-a94e-9b5600f83258" },
+]
+
+[[release]]
+mbid = "ccbde214-97c4-478e-9c78-ddb8eea22f3d"
+title = "Cure"
+type = "album"
+date = "2018-03-02"
+spotify = "4Oi1lmnX3eJPBj30Q4wpwY"
+tracks = [
+  { n = 1, title = "Début", mbid = "cc31e746-4dc5-4f54-bd02-16e7578d9087" },
+  { n = 2, title = "Random", mbid = "b0d96896-b060-47ad-a94e-9b5600f83258" },
+  { n = 3, title = "Rue de Moscou", mbid = "50094709-ee71-4470-9b26-f73331c8e0f1" },
+  { n = 4, title = "Jimmy", mbid = "ffad33b8-7d19-4c98-bef9-1204506fce31" },
+  { n = 5, title = "Beaulieue", mbid = "92cec90e-dee5-427b-b453-8a65692ddb90" },
+  { n = 6, title = "Quartier des lunes", mbid = "f9a21f3e-9d75-4cc4-8a72-e04ab1ffa46c" },
+  { n = 7, title = "Desmurs", mbid = "092cf84d-9a8b-4444-bf74-795945027c37" },
+  { n = 8, title = "Kid", mbid = "ba09034c-15d3-4f25-ae7f-2afbfa932496" },
+  { n = 9, title = "Normal", mbid = "cc6c6f49-e979-4e4c-a6b7-76f166e17a2e" },
+  { n = 10, title = "Honey", mbid = "d0d3f94a-046c-4720-bf61-000c9d108cea" },
+  { n = 11, title = "Genre", mbid = "6f43ea2b-6001-401b-8367-f584182e189c" },
+  { n = 12, title = "Ego", mbid = "b2f33543-e799-4aad-a305-5fa575736cce" },
+  { n = 13, title = "Mamere", mbid = "faa81c4b-17d9-4354-8506-6e114a9c74e1" },
+  { n = 14, title = "Fête de trop", mbid = "a534b4db-035c-4ea5-b1eb-dd498616c4ae" },
+  { n = 15, title = "Musique Basse", mbid = "0fbc0e89-9cad-45e1-b86e-da58d8ab759e" },
+]
+
+[[release]]
+mbid = "c6520ac7-fec9-4656-928a-b69daa9a4a6f"
+title = "Bateaux‐Mouches"
+type = "single"
+date = "2021-01-06"
+spotify = "5CpiPpIRsKsrF7JciSdxf5"
+tracks = [
+  { n = 1, title = "Bateaux‐Mouches", mbid = "24a6f1f7-c470-4550-abc3-89f41902ee8f" },
+]
+
+[[release]]
+mbid = "f2cbbecc-5ad7-497b-802f-cf81d2513ca1"
+title = "Désolé Caroline"
+type = "single"
+date = "2021-02-07"
+tracks = [
+  { n = 1, title = "Désolé Caroline", mbid = "d1f6f24f-3069-41d4-9f0e-6db491fc42af" },
+]
+
+[[release]]
+mbid = "d86efb4b-33af-4945-8d58-99737be7fda1"
+title = "À TOUS LES BÂTARDS"
+type = "album"
+date = "2021-03-24"
+spotify = "4RDBA4Eb8n6KDYzX3wBEeY"
+tracks = [
+  { n = 1, title = "Bateaux-Mouches", mbid = "24a6f1f7-c470-4550-abc3-89f41902ee8f" },
+  { n = 2, title = "Parfaitement", mbid = "8a9711d5-3efb-4b76-83e0-3ae4b7810eac" },
+  { n = 3, title = "Val de Larmes", mbid = "e2c808d9-6fc2-4eb8-a3ca-4be527d1fd5e" },
+  { n = 4, title = "Freaks", mbid = "1dae7f1a-c0ea-489b-8e1c-f30634ded6b9" },
+  { n = 5, title = "Désolé Caroline", mbid = "d1f6f24f-3069-41d4-9f0e-6db491fc42af" },
+  { n = 6, title = "Créteil Soleil", mbid = "46a042a3-2e9c-4c2d-af4c-d8d201470241" },
+  { n = 7, title = "nu", mbid = "14236fd5-7176-4074-8d9d-31de5959a333" },
+  { n = 8, title = "Rose Tati", mbid = "729616fa-dea7-4266-8f16-2badad8a4ed4" },
+  { n = 9, title = "Neige en août", mbid = "ba3e420f-97ad-4408-b23b-c3e96a2c4403" },
+  { n = 10, title = "À quoi bon", mbid = "0aa561ba-54b3-40e7-ae2f-687c276b9191" },
+  { n = 11, title = "La Fronde", mbid = "9d862bcf-0359-4c2a-8bf7-b2ac5d106093" },
+  { n = 12, title = "qqn", mbid = "34db160a-cd97-4f5e-a783-e3108b48f113" },
+  { n = 13, title = "Si seulement", mbid = "88488d6d-8746-44f8-b2b0-43708be7e579" },
+  { n = 14, title = "La Zone", mbid = "f1c5126a-d848-481f-85bb-1debc6421ebe" },
+  { n = 15, title = "Tout vivre", mbid = "020af665-5692-4277-b68c-e6d81acf28db" },
+]
+
+[[release]]
+mbid = "a6f77f19-5913-4e07-a4ea-82509cb62a94"
+title = "PAUSE x KISS"
+type = "single"
+date = "2021-09-01"
+tracks = [
+  { n = 1, title = "Pause", mbid = "0370dbbd-def4-4c9b-af0d-db0daf046b06" },
+  { n = 2, title = "Kiss", mbid = "52558004-0041-4c7c-96e2-a7f97b9fa9c3" },
+]
+
+[[release]]
+mbid = "c5ea1257-4fd5-46cf-b6d3-a91f2ca009d8"
+title = "Larme fatale"
+type = "single"
+date = "2021-10-24"
+spotify = "1hGzZhYUHL423lFUlL7XgO"
+tracks = [
+  { n = 1, title = "Larme fatale", mbid = "eb0e4fb1-43dd-4bb4-8d20-86af6407f090" },
+]
+
+[[release]]
+mbid = "64a88f9c-53de-421f-8fc6-3fdbcddc3b9e"
+title = "LOVE'n'TENDRESSE"
+type = "single"
+date = "2023-09-07"
+tracks = [
+  { n = 1, title = "LOVE'n'TENDRESSE", mbid = "c73f5f54-842c-4283-8bd9-a722eaf1be5b" },
+]
+
+[[release]]
+mbid = "0c38ac90-37ba-490d-80ea-8573c99302d3"
+title = "Crash Cœur"
+type = "album"
+date = "2023-11-17"
+spotify = "37b90qQXuhhAzmxQlQLWOK"
+tracks = [
+  { n = 1, title = "R+V", mbid = "e43516ce-c352-410e-88b6-6a6e3a227830" },
+  { n = 2, title = "LOVE'n'TENDRESSE", mbid = "c73f5f54-842c-4283-8bd9-a722eaf1be5b" },
+  { n = 3, title = "urgences 911", mbid = "4bb9a50a-026c-4dec-aee7-804353ad41c2" },
+  { n = 4, title = "CRASH <3", mbid = "8b4a85d0-a09a-4787-b46a-dee8ebae3762" },
+  { n = 5, title = "être biennn", mbid = "6822d7c1-6ece-4a34-a969-4992f989a0a7" },
+  { n = 6, title = "personne pour l'hiver", mbid = "a22a0718-0417-4dcf-bb7f-849afe3967bb" },
+  { n = 7, title = "pApA $ucre", mbid = "ab272602-db43-4d5b-bae5-322bd32c3ea3" },
+  { n = 8, title = "eau de vie", mbid = "a32e58c1-7a36-4593-900f-475f92f3d2ae" },
+  { n = 9, title = "MENDIANT DE LOVE", mbid = "bde73ff0-3cfc-4648-a166-a893018d52d6" },
+  { n = 10, title = "maison", mbid = "525fb336-2c96-470d-8d4a-13d248a2a4f3" },
+  { n = 11, title = "CRASH TEST", mbid = "67f8c8d6-95d2-4ba9-8601-ad505b42752c" },
+  { n = 12, title = "heureux :)))", mbid = "2672191a-8dd7-444b-868a-4efe788fbc9a" },
+]
+
+[[release]]
+mbid = "87a7b029-115e-4e93-9d7e-0f826bb2f15b"
+title = "urgences 911"
+type = "single"
+date = "2024-02-21"
+tracks = [
+  { n = 1, title = "urgences 911", mbid = "4bb9a50a-026c-4dec-aee7-804353ad41c2" },
+  { n = 2, title = "urgences 911 (boombass demo)", mbid = "ce1ae41a-3ee9-4b59-a230-2d84fad33363" },
+  { n = 3, title = "urgences 911 (instrumental)", mbid = "aaa27c9f-74e3-42e6-8dd2-a454708cdcbb" },
+  { n = 4, title = "urgences 911 (acapella)", mbid = "ce82f785-625b-488e-a27c-9ade195ad1a5" },
+  { n = 5, title = "urgences 911 (sped up)", mbid = "fffaaf6c-3f5d-4a64-ad1e-275b4241ed24" },
+  { n = 6, title = "urgences 911 (slowed down)", mbid = "9e0ec33b-52b6-4156-a7a7-094381dcf9f4" },
+]
+
+[[release]]
+mbid = "3cefd04a-89a4-4bf4-bdac-dbfe7231da5b"
+title = "Grand Soleil"
+type = "single"
+date = "2025-03-14"
+tracks = [
+  { n = 1, title = "Grand Soleil", mbid = "5eb29276-312f-497f-b385-88fa10d6f492" },
+]
+
+[[release]]
+mbid = "c6540322-24c0-4098-ad47-eca55dfee28e"
+title = "sous influence"
+type = "single"
+date = "2026-09-04"
+tracks = [
+  { n = 1, title = "sous influence", mbid = "dd7e6c77-2ee9-4015-986c-07d543a74a9e" },
+]

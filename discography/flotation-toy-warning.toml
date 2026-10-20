@@ -1,0 +1,83 @@
+format = 1
+
+[[release]]
+mbid = "d4524d31-de27-331b-ae38-998d06b1b9c1"
+title = "I Remember Trees"
+type = "ep"
+date = "2002-07"
+tracks = [
+  { n = 1, title = "Losing Carolina; For Drusky", mbid = "b8d84370-c277-497e-9f6a-50a205c29122" },
+  { n = 2, title = "Fire Engine on Fire", mbid = "7b977b0f-536a-4e02-947b-a5503c0f506f" },
+  { n = 3, title = "Even Fantastica", mbid = "cf763405-4666-4917-8aba-8b972119d992" },
+]
+
+[[release]]
+mbid = "845b74b2-5162-316c-87f9-9a2c036adfac"
+title = "The Special Tape"
+type = "ep"
+date = "2002-11"
+tracks = [
+  { n = 1, title = "Popstar Researching Oblivion", mbid = "d280c1b5-e6fe-43b7-972d-6f877156013c" },
+  { n = 2, title = "Live from the Lake in the Sky", mbid = "ac5f7da4-0314-4611-aea4-a2f88e4b6b89" },
+  { n = 3, title = "French Kids", mbid = "85c97a99-3714-466f-9ab1-c3b23ad25411" },
+  { n = 4, title = "Best Boy Electric", mbid = "683d9f75-d0d0-4c33-aa95-63d3b056653b" },
+  { n = 5, title = "[untitled]", mbid = "f290b823-7999-4a91-800e-7ea4204fb1e6" },
+]
+
+[[release]]
+mbid = "8c730cbd-1f88-36cc-a058-7c6e2e1cb88d"
+title = "Bluffer’s Guide to the Flight Deck"
+type = "album"
+date = "2004-08-17"
+tracks = [
+  { n = 1, title = "Happy 13", mbid = "d261977b-b6ce-4b8f-9084-35e62d9a91dd" },
+  { n = 2, title = "Popstar Researching Oblivion", mbid = "06a67af5-208e-47a1-af7a-289a9cc40318" },
+  { n = 3, title = "Losing Carolina; for Drusky", mbid = "0e0a427d-2309-4f14-980a-587d2c5a8157" },
+  { n = 4, title = "Made From Tiny Boxes", mbid = "be52b076-f611-4505-a277-59319931cfe8" },
+  { n = 5, title = "Donald Pleasance", mbid = "2fb45dea-edb6-4008-a89f-062d36374211" },
+  { n = 6, title = "Fire Engine on Fire, Part 1", mbid = "efe956a0-0748-48c3-a5b3-89d471709f09" },
+  { n = 7, title = "Fire Engine on Fire, Part 2", mbid = "4bd6601d-5a0e-4884-930e-a18baf462fe0" },
+  { n = 8, title = "Even Fantastica", mbid = "bd2d00b6-b38e-438b-8d45-dcc1b108f9f4" },
+  { n = 9, title = "Happiness Is on the Outside", mbid = "50be1926-a6df-486a-b8a3-cbc4d147c8d4" },
+  { n = 10, title = "How the Plains Left Me Flat", mbid = "5c117f2c-80f5-4a2f-9f4e-48387eaff208" },
+]
+
+[[release]]
+mbid = "6e5f9277-c97e-45f1-a93f-a15375c654f4"
+title = "When The Boat Comes Inside Your House / A Season Underground"
+type = "single"
+date = "2011-04-25"
+tracks = [
+  { n = 1, title = "When The Boat Comes Inside Your House", mbid = "a5b9debd-e553-4d53-b66b-03cf4649a755" },
+  { n = 2, title = "A Season Underground", mbid = "1179a65f-c4df-484d-b626-45b16fd9616b" },
+]
+
+[[release]]
+mbid = "a625395d-f39b-4cdb-aae7-50e80d3b0783"
+title = "The Machine That Made Us"
+type = "album"
+date = "2017-06-16"
+spotify = "6QUlM3W4m7WawXsi14VcJn"
+tracks = [
+  { n = 1, title = "Controlling The Sea", mbid = "520ad3d9-3496-45bd-a78d-eb52847f0b3c" },
+  { n = 2, title = "Due To Adverse Weather Conditions All Of My Heroes Have Surrendered", mbid = "403eb440-3023-4561-883f-5d02ee4b714a" },
+  { n = 3, title = "Everything That Is Difficult Will Come To An End", mbid = "8c3c11e6-8d08-48d5-aa6a-78fff50e17b9" },
+  { n = 4, title = "A Season Underground", mbid = "c61389ca-d94f-4ac3-aa04-a7e41efb8d7f" },
+  { n = 5, title = "I Quite Like It When He Sings", mbid = "1f898b29-07b2-42cb-9ea9-47fe53496a82" },
+  { n = 6, title = "King Of Foxgloves", mbid = "e5b1484a-b116-47a4-b0a5-daa694bc2c29" },
+  { n = 7, title = "When The Boat Comes Inside Your House", mbid = "b6026753-ba3d-470f-9953-6467ed022779" },
+  { n = 8, title = "Driving Under The Influence Of Loneliness", mbid = "3fb3a5a1-defe-4005-b890-1ffc703d0a4b" },
+  { n = 9, title = "To Live For Longer Slides", mbid = "784921cd-8073-41b1-8c5b-5ffb3af3aadf" },
+  { n = 10, title = "The Moongoose Analogue", mbid = "ac41e8c7-0f73-40d3-8e19-ad6128eb707e" },
+]
+
+[[release]]
+mbid = "0c056ee1-1d2c-485d-bdc5-781d23760fc8"
+title = "King of Foxgloves"
+type = "single"
+date = "2017-06-28"
+tracks = [
+  { n = 1, title = "King of Foxgloves", mbid = "e5b1484a-b116-47a4-b0a5-daa694bc2c29" },
+  { n = 2, title = "Driving Under the Influence of Loneliness", mbid = "1f153181-3a6a-4150-9a97-8d9ceaac84a7" },
+  { n = 3, title = "Made From Tiny Boxes (Encore)", mbid = "705ff1f9-54b7-4572-80a7-652827899ac8" },
+]

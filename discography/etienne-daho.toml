@@ -1,0 +1,850 @@
+format = 1
+
+[[release]]
+mbid = "84574dcb-b533-3615-9117-866dede4ebc8"
+title = "Mythomane"
+type = "album"
+date = "1981"
+tracks = [
+  { n = 1, title = "Il ne dira pas", mbid = "f3d0ff29-1074-4c6d-828a-cce64246684f" },
+  { n = 2, title = "Ton cinoche", mbid = "474672b8-5459-4630-95ee-16d8627306b8" },
+  { n = 3, title = "Mes copains", mbid = "eccab0e1-a70f-460c-9e74-a0ca7bf1db70" },
+  { n = 4, title = "On s'fait la gueule", mbid = "c99e3e17-db8f-4fe2-aaf6-4d7763ee6600" },
+  { n = 5, title = "Va t'en", mbid = "d79c8b61-50ed-4f07-b80c-9088c0d80053" },
+  { n = 6, title = "Cowboy", mbid = "94e06a0c-dcd6-488c-89cb-17d6e854bed7" },
+  { n = 7, title = "Encore cette chanson", mbid = "f0194f63-cf8a-462b-914f-e01d1147ca42" },
+  { n = 8, title = "L'été", mbid = "43d3b8ac-21bc-4fd4-b3b9-90e6e4324660" },
+  { n = 9, title = "Tu dors encore", mbid = "a84e94ca-f05f-4b40-98b3-51ab7de390e7" },
+  { n = 10, title = "Mythomane", mbid = "11be3dcc-3f5e-4cd0-9a75-dcd347d81cfc" },
+]
+
+[[release]]
+mbid = "f06e6a8c-51a6-4aaf-bda6-75157ad01fe5"
+title = "Le Grand Sommeil"
+type = "single"
+date = "1982"
+tracks = [
+  { n = 1, title = "Le Grand Sommeil", mbid = "5856d4d6-2428-425f-ac03-5e65fa1b8cfc" },
+  { n = 2, title = "À Quoi Tu Ressembles", mbid = "e5d68f7b-38ea-405f-bcda-fdd3d3b4b2b2" },
+  { n = 3, title = "Swinging London", mbid = "d65d4e4f-cf94-49ec-8424-27c24b42ba49" },
+]
+
+[[release]]
+mbid = "35773d36-2e54-4e43-95bc-c7c9c8107806"
+title = "Sortir Ce Soir"
+type = "single"
+date = "1983"
+tracks = [
+  { n = 1, title = "Sortir Ce Soir", mbid = "b21b648b-9af2-48e6-9c49-2fbc8f394619" },
+  { n = 2, title = "Saint Lunaire-Dimanche Matin", mbid = "9106d109-1157-4e15-88f7-8be31cf50c7a" },
+]
+
+[[release]]
+mbid = "e892aff4-d2ac-34b5-ba47-ef7585435be9"
+title = "La Notte, la Notte..."
+type = "album"
+date = "1984"
+tracks = [
+  { n = 1, title = "Week-end à Rome", mbid = "d63e7705-0cf3-4172-b50c-db5c52357018" },
+  { n = 2, title = "Signé Kiko", mbid = "24739647-78ce-4f7c-a370-70e4fd03371e" },
+  { n = 3, title = "Le Grand Sommeil", mbid = "38cdc3be-d940-4335-bbe8-823c2a9364bf" },
+  { n = 4, title = "Promesses", mbid = "3a0b892d-74e3-4bf9-bd7c-0bb83a72bdf6" },
+  { n = 5, title = "Poppy Gene Tierney", mbid = "ac3c7e75-1810-4824-93ec-a886e22723e4" },
+  { n = 6, title = "Sortir ce soir", mbid = "04d1c4b7-ab82-434d-b9d9-f7bc26cd90d1" },
+  { n = 7, title = "Et si je m'en vais avant toi", mbid = "66a20b47-6328-46f9-a438-b255e656da41" },
+  { n = 8, title = "Laisse tomber les jaloux", mbid = "65b77d10-0462-4ac9-8f45-6aa391ee3268" },
+  { n = 9, title = "Jack, tu n'es pas un ange", mbid = "f4cd25b8-30a2-4c6c-adb9-1ad833c06a17" },
+  { n = 10, title = "Saint-Lunaire, dimanche matin", mbid = "22b983a1-d9c4-46eb-9b4d-6f5fffe59550" },
+]
+
+[[release]]
+mbid = "d2bd61bb-1a00-4cd7-ab98-b83d57b349e2"
+title = "Week-End À Rome (Remix Club)"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Week End À Rome", mbid = "ca3cd172-ba14-4334-b89a-429618042d52" },
+  { n = 2, title = "Poppy Gene Tierney", mbid = "5be15c47-da25-4af7-b14f-97d63eb18cc8" },
+  { n = 3, title = "Laisse Tomber Les Jaloux", mbid = "7148708b-8697-4b5b-b1ca-e4937b03bfa9" },
+]
+
+[[release]]
+mbid = "4c08190e-b4f6-4256-81d4-04c0655e8901"
+title = "Tombé pour la France / La Ballade d'Edie S."
+type = "single"
+date = "1985-04"
+tracks = [
+  { n = 1, title = "Tombé pour la France", mbid = "0cf81f04-26f2-4573-9469-646808905f15" },
+  { n = 2, title = "La Ballade d'Edie S.", mbid = "ebe3632e-a14f-4f8a-8597-2a9863974f26" },
+]
+
+[[release]]
+mbid = "beaa916e-3da5-4555-8f41-dcadb3bbd677"
+title = "Duel au soleil"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "Duel au soleil", mbid = "e4990f2b-ffff-46bf-9036-0e603258ecd4" },
+  { n = 2, title = "Pop égérie O", mbid = "39ed71e6-20f8-4eba-9b9b-6f824d6638f0" },
+]
+
+[[release]]
+mbid = "e767f509-2a7f-4df8-a701-c186bda8528a"
+title = "Epaule Tattoo"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "Epaule Tattoo (Extended Version)", mbid = "d313f97c-b58f-436e-ad88-7b9a648c4531" },
+  { n = 2, title = "L'Été", mbid = "87016c1d-30e9-4039-9760-a649a90ce3c8" },
+  { n = 3, title = "Sweeter Than You", mbid = "c4eee044-3f78-416b-a50c-5d27cf4bfc71" },
+  { n = 4, title = "Sunday Morning", mbid = "b713925e-3c23-48aa-9902-85a58e2ca24b" },
+]
+
+[[release]]
+mbid = "e56d9330-2c62-3036-a891-7046158409f1"
+title = "Pop Satori"
+type = "album"
+date = "1986-04-01"
+tracks = [
+  { n = 1, title = "Satori thème", mbid = "bcf0afe3-d7e0-4c3f-914c-fa40e1c69ced" },
+  { n = 2, title = "Épaule tattoo", mbid = "941dcd33-b7ec-4168-8aa9-47a72b2f8c01" },
+  { n = 3, title = "Paris, le Flore", mbid = "6d4d26ef-5672-4d38-bd8b-bf572c6e6275" },
+  { n = 4, title = "Pop égérie O.", mbid = "ba975b10-0c94-42ef-b66c-1aff90f6c00d" },
+  { n = 5, title = "Quelqu'un qui m'ressemble", mbid = "1bca955f-e921-4cdb-93db-20cf49081204" },
+  { n = 6, title = "Tombé pour la France", mbid = "3d0362c8-83d1-4e47-bdcc-2f74c3f95dcf" },
+  { n = 7, title = "4000 années d'horreur", mbid = "d83299e3-a99a-4f2b-9af1-96ce65fb2e8b" },
+  { n = 8, title = "(Qui sera) Demain, mieux que moi", mbid = "9498bec4-c7dd-4faf-82d5-8a48350dcc52" },
+  { n = 9, title = "Pari à l'hôtel", mbid = "e5771564-af30-494f-9f26-4e923de5792d" },
+  { n = 10, title = "Duel au soleil", mbid = "f6b2c07a-b6e0-4244-92ba-82535500a816" },
+  { n = 11, title = "Satori Pop Century", mbid = "0e80f20b-ed05-4835-8b56-c2b848ddccaa" },
+  { n = 12, title = "Late Night", mbid = "8b870e36-8b2a-4998-b3ef-72ab4086b6f3" },
+]
+
+[[release]]
+mbid = "7834659a-caba-4a88-8653-17e57026b54a"
+title = "Bleu comme toi"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Bleu comme toi", mbid = "3f2beec8-f9e1-4e37-b3ec-e01908219e7a" },
+  { n = 2, title = "Quatre hivers", mbid = "563e2979-7e16-4124-94ad-4dfd2af5eed3" },
+]
+
+[[release]]
+mbid = "91bfb86d-e36d-4ab4-9537-cfe29044c18f"
+title = "Des heures hindoues"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Des heures hindoues (Version longue)", mbid = "0ca9265d-659c-4cb4-8774-61fc75e6d5b9" },
+  { n = 2, title = "Épaule tattoo (Very extended version)", mbid = "225163b6-edd9-4475-863f-e626c4dd1b4b" },
+  { n = 3, title = "Duel au soleil (Version longue)", mbid = "5a164a70-ac3d-4748-a4c3-036385d2cc7e" },
+  { n = 4, title = "Where's my Monkey (Version longue)", mbid = "143fd940-c47a-4119-bba4-40c0b19c4607" },
+]
+
+[[release]]
+mbid = "0a0efbd2-d531-3890-af17-02c525c7c37b"
+title = "Pour nos vies martiennes"
+type = "album"
+date = "1988-06"
+tracks = [
+  { n = 1, title = "Quatre hivers", mbid = "f79fe5d9-2f01-456f-a0e0-f14b0349e18a" },
+  { n = 2, title = "Bleu comme toi", mbid = "6f74953f-13f5-406a-ac06-8d731c9592f6" },
+  { n = 3, title = "Caribbean Sea", mbid = "8ffba890-77de-4a14-8830-678fd6665802" },
+  { n = 4, title = "Where's My Monkey?", mbid = "238d16eb-e8f7-4038-b3f6-343f3b737f6f" },
+  { n = 5, title = "Affaire classée", mbid = "cfeacc9a-2d41-4b36-a7ff-257446150ab8" },
+  { n = 6, title = "Des Ir", mbid = "4d7f8057-aeb9-4242-b49e-31f4f915954f" },
+  { n = 7, title = "Stay With Me", mbid = "510d46c4-4789-4143-921e-fb98d7b5e6ac" },
+  { n = 8, title = "Le Plaisir de perdre", mbid = "a26e3dbd-c54f-48ec-aeb4-c3bdaf67264f" },
+  { n = 9, title = "Musc et ambre", mbid = "6eedcc3a-f67b-4b1e-b728-1e46ac79fb14" },
+  { n = 10, title = "Winter Blue", mbid = "7db4b523-bf0e-4a29-b83c-160330bd06e3" },
+  { n = 11, title = "Des heures hindoues", mbid = "13f7531f-ff3f-4d3c-b275-da0d669bf45b" },
+]
+
+[[release]]
+mbid = "f006465e-add8-40bb-b11e-9ee41d71ee13"
+title = "Caribbean Sea"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Caribbean Sea (Longue Plage Version)", mbid = "ebdc5f15-032c-45c7-8154-626a86342ec7" },
+  { n = 2, title = "Bright Blue Night (Version Live)", mbid = "c7d9be0e-f684-4de4-8e60-6ab23a96ea83" },
+  { n = 3, title = "Winter Blue", mbid = "8bf8f996-5087-4b58-94e5-8baaa63a7aaa" },
+]
+
+[[release]]
+mbid = "d7c85312-b2a4-426f-ad3a-8b261f76eb01"
+title = "Le Grand Sommeil Live!"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Le Grand Sommeil", mbid = "8c3f554a-0b37-42d4-98ee-3d96e17373e1" },
+  { n = 2, title = "Il Ne Dira Pas", mbid = "718715d6-5780-405f-9fe7-803b9ef8bbec" },
+  { n = 3, title = "Week-End A Rome", mbid = "5d917c3e-67c7-4612-b006-5953e67bc18a" },
+  { n = 4, title = "Tombé Pour La France", mbid = "9dc2dc57-9031-41dd-bd53-e30c2418c214" },
+]
+
+[[release]]
+mbid = "577bda5b-a5ee-3ef4-92b1-c0fc34ce1412"
+title = "Paris ailleurs"
+type = "album"
+date = "1991-10-01"
+spotify = "1emKD2Nn4xk6m1Pp3AQMhW"
+tracks = [
+  { n = 1, title = "Des attractions désastre", mbid = "6cd69ed2-a24e-49fe-bf98-8a26137845ab" },
+  { n = 2, title = "Saudade", mbid = "7895ae52-ea94-4ba2-a438-7531cfee6aa3" },
+  { n = 3, title = "Comme un igloo", mbid = "03d98573-8c90-4d63-aeae-1a7efd269ed1" },
+  { n = 4, title = "Les voyages immobiles", mbid = "52055656-da45-41f6-a427-b93a5c777403" },
+  { n = 5, title = "Un homme à la mer", mbid = "d14a8ad8-f512-4618-8da6-94762e4c39aa" },
+  { n = 6, title = "Interlude à la désirade", mbid = "6cc1602b-342c-40be-9bfe-fe1a86609189" },
+  { n = 7, title = "Toi + moi", mbid = "94278ea9-acb2-4479-9f38-5a3c71a50ef0" },
+  { n = 8, title = "Rue des petits hôtels", mbid = "19cbd8ed-7720-4474-8423-cb01fd26f16a" },
+  { n = 9, title = "La berlue", mbid = "277743a7-1ebd-4d1a-8ca8-b40c6dc7451a" },
+  { n = 10, title = "Double zéro et l'infini", mbid = "4b2b91db-65c5-4102-b1aa-9a58f35d61d8" },
+  { n = 11, title = "Paris ailleurs", mbid = "90b2e6ca-1afa-4c85-a47b-98b9023278c9" },
+]
+
+[[release]]
+mbid = "72f09484-e57a-4670-bbc1-6512b2a04ad3"
+title = "Saudade"
+type = "ep"
+date = "1991-11-18"
+tracks = [
+  { n = 1, title = "Saudade", mbid = "d205883c-a681-49c9-b725-ff224f75d133" },
+  { n = 2, title = "Interlude A La Désirade", mbid = "c011591c-dfff-42c1-8456-76201592871c" },
+  { n = 3, title = "Un Homme A La Mer (Version Acoustique)", mbid = "b336bb08-ebad-4643-b21a-34f062622a39" },
+]
+
+[[release]]
+mbid = "13aaa37e-c2d5-40d7-9694-e7e1323befcc"
+title = "Des attractions désastre"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Des attractions désastre", mbid = "6cd69ed2-a24e-49fe-bf98-8a26137845ab" },
+  { n = 2, title = 'Des attractions désastre (12" version)', mbid = "104ee625-bf6f-4f96-9923-c3276c74944f" },
+  { n = 3, title = 'Des attractions désastre (7" version)', mbid = "22cf37c2-1aaa-4d3a-8c5f-0e10064da567" },
+  { n = 4, title = 'Des attractions désastre (7" version)', mbid = "185d4158-f2dc-401c-a4da-b269b56b5eda" },
+  { n = 5, title = 'Des attractions désastre (12" version)', mbid = "1c913884-4770-4a95-b437-d787177e8545" },
+  { n = 6, title = "Des attractions désastre (instrumental)", mbid = "46af819c-1f1c-4c7f-ba73-359b72e7ae76" },
+]
+
+[[release]]
+mbid = "8f560bb4-3217-40d9-a95f-157081957252"
+title = "Comme Un Igloo (Remix)"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Comme Un Igloo (Electro Vibe Mixx)", mbid = "3268a065-3ae7-42a2-b6cf-74f4d09e0439" },
+  { n = 2, title = "Comme Un Igloo (Original Version)", mbid = "dda2678c-55d7-401e-8700-a5c171733dd2" },
+  { n = 3, title = "Comme Un Igloo (E.D.I.S.C.O.)", mbid = "6daf9e2d-59ae-4ffd-957d-cc6b95fb0344" },
+]
+
+[[release]]
+mbid = "f9108d78-bc35-4dfe-8cbd-0337711a54b6"
+title = "Mon manège à moi"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Mon manège à moi", mbid = "61dd53d3-085a-483e-b3cd-e1b38d9810a3" },
+  { n = 2, title = "Demain mieux que moi (live)", mbid = "a48c3889-a32b-4745-beb4-32189672209b" },
+]
+
+[[release]]
+mbid = "e663b534-0c23-49a3-8a06-baad4172a572"
+title = "Un Homme À La Mer"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Un Homme À La Mer", mbid = "687ff71b-8d5b-4345-a831-c9acb88f6de1" },
+  { n = 2, title = "Double Zéro Et L'Infini", mbid = "d8533753-befd-4220-85f3-263ca444d29a" },
+]
+
+[[release]]
+mbid = "86f970a2-05fe-4473-8227-ba63a4447e4d"
+title = "Tous les goûts sont dans ma nature"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Tous les goûts sont dans ma nature", mbid = "07b45869-9278-4528-84c6-5d0e90c3d00b" },
+  { n = 2, title = "Laisse Lucie faire", mbid = "9efdf2ef-0eaf-46fb-bfdf-84b179bfe516" },
+]
+
+[[release]]
+mbid = "7319068b-8b9a-4478-87df-38edccc30455"
+title = "Au commencement"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Au commencement (Dom T remix)", mbid = "c3296c15-30c0-4456-af38-10c44051b3ef" },
+  { n = 2, title = "Au commencement (album version)", mbid = "357bdd5c-506b-4a0a-9fcb-ed7e91579954" },
+  { n = 3, title = "Au commencement (Mark 'Spike' Stent extended mix)", mbid = "4eaf6634-4004-4524-947e-a262e3dae1b4" },
+  { n = 4, title = "Au commencement (instrumental by Jonny L)", mbid = "cba1cc42-fd16-411e-bfe7-44f0dfe9a186" },
+]
+
+[[release]]
+mbid = "7263abba-821c-44c7-9063-ee49952b0517"
+title = "Me Manquer"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Me manquer", mbid = "8b4ecd43-dcc2-4196-8dc8-ab5c3a062e29" },
+  { n = 2, title = "De bien jolies flammes (rough mix - inédit)", mbid = "4db33f2f-f1d8-4f41-ba20-a99ace381cd2" },
+]
+
+[[release]]
+mbid = "65c9a66f-ae04-38e6-b8a4-f5d61f8c9ff9"
+title = "Eden"
+type = "album"
+date = "1996-11-19"
+tracks = [
+  { n = 1, title = "A New World", mbid = "bb6634ba-e60a-410c-8cd8-bd15b9e6a761" },
+  { n = 2, title = "Les passagers", mbid = "48692fb3-a28d-4bfa-b94a-456cca136c53" },
+  { n = 3, title = "Un serpent sans importance", mbid = "10b1005e-2651-4306-899e-81a2117bae34" },
+  { n = 4, title = "Les pluies chaudes de l'été", mbid = "7489448d-e740-4bff-8ca3-df8cd267edec" },
+  { n = 5, title = "Les bords de Seine", mbid = "dfe6d128-390a-46ca-a477-9d23d7fc7779" },
+  { n = 6, title = "Me manquer", mbid = "8b4ecd43-dcc2-4196-8dc8-ab5c3a062e29" },
+  { n = 7, title = "Soudain", mbid = "29fca16e-af17-49f7-8459-20cfebed3ca9" },
+  { n = 8, title = "L'enfer enfin", mbid = "4c48a646-7eab-4bbf-a3ee-634cba2ab6f7" },
+  { n = 9, title = "Timide intimité", mbid = "c1ee1c03-dcf0-4800-9bdf-ed289a94b70c" },
+  { n = 10, title = "Rendez-vous au jardin des plaisirs", mbid = "8e4ff38b-6d83-4d30-b076-911a1b62ca55" },
+  { n = 11, title = "Quand tu m'appelles Eden", mbid = "03c39103-f375-47a3-82f2-38783dc3298d" },
+  { n = 12, title = "Des adieux très heureux", mbid = "d3629820-cf36-4c96-ae05-7921a8ebe011" },
+  { n = 13, title = "Au commencement", mbid = "357bdd5c-506b-4a0a-9fcb-ed7e91579954" },
+]
+
+[[release]]
+mbid = "1039a7b1-6aee-42ab-b8c5-c252a73563ca"
+title = "Soudain"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Soudain", mbid = "9bd0c1b9-7265-4269-bacc-aec5130e88a4" },
+  { n = 2, title = "De Bien Jolies Flammes (Rough Mix-Inédit)", mbid = "236b9d5d-1f24-4167-93eb-f9a7a4207023" },
+  { n = 3, title = "Week-End À Rome 97 (Version Inédite)", mbid = "021f28da-099b-467b-9cfd-d8d81de8fcd8" },
+]
+
+[[release]]
+mbid = "e752e5f9-1c96-3f2e-ac56-0fbaea2c4f3c"
+title = "Le Premier Jour"
+type = "single"
+date = "1998-03"
+tracks = [
+  { n = 1, title = "Le Premier Jour (du reste de ta vie)", mbid = "fecbda12-3526-4430-94f5-f4f4cc826a22" },
+  { n = 2, title = "Me manquer (Londres en été remixé par Air)", mbid = "e5e6bc9d-b285-4765-be93-2c0f0a5afdda" },
+]
+
+[[release]]
+mbid = "5d53f1e7-270a-442b-a66c-5bb3c928e5c0"
+title = "Idéal"
+type = "single"
+date = "1998-11"
+tracks = [
+  { n = 1, title = "Idéal", mbid = "9ff561de-1a56-44fe-87f4-8e3efbd3c73e" },
+  { n = 2, title = 'Duel Au Soleil (Extrait de "Bienvenue À La Maison")', mbid = "b30a310e-8d79-4cc8-a317-a87dc36b2e94" },
+]
+
+[[release]]
+mbid = "aeef988d-9dc4-4f67-8e6a-28843306a506"
+title = "Le brasier"
+type = "single"
+date = "1999-12-31"
+tracks = [
+  { n = 1, title = "Le Brasier", mbid = "d3e2828b-39af-464a-8bc3-98e4e81a415b" },
+  { n = 2, title = "Make Believe (Plutonium Mix)", mbid = "00cc8941-42a0-46aa-a8ef-83fc1bd50f37" },
+]
+
+[[release]]
+mbid = "1fe9f852-912b-4f23-9ca9-32efe6028e10"
+title = "Tombé pour la France"
+type = "ep"
+date = "2000"
+spotify = "16kl4uJMSvFCfiyBl2cXFv"
+tracks = [
+  { n = 1, title = "Tombé pour la France (version maximum)", mbid = "c1c8940e-c9d4-4473-b728-a15a44445094" },
+  { n = 2, title = "Et si je m'en vais avant toi", mbid = "740c1c3d-69c3-4646-a172-7c2af74c8c8e" },
+  { n = 3, title = "Chez les Yé-Yé", mbid = "913c0721-1953-4b9e-973a-77999869caeb" },
+  { n = 4, title = "Arnold Layne", mbid = "3192e14e-bba7-4270-a4d2-700df69fc2cd" },
+  { n = 5, title = "La Ballade d'Edie S.", mbid = "8c8b7c9a-85cc-40df-a87c-bfb0a36899a1" },
+  { n = 6, title = "Tombé pour la France", mbid = "0cf81f04-26f2-4573-9469-646808905f15" },
+  { n = 7, title = "Patch Up My Heart (Viby Summer in NY - 85)", mbid = "4032d233-85f7-4003-9306-44ca551988f2" },
+]
+
+[[release]]
+mbid = "e85c77dc-81a3-3e58-bc60-c0ba27a542cc"
+title = "Corps & armes"
+type = "album"
+date = "2000-04-17"
+spotify = "5lqnimQ1jfe3YOXXF1L3vn"
+tracks = [
+  { n = 1, title = "Ouverture", mbid = "474ddda0-4f0f-4d67-b85f-c8ec1dfd4d8c" },
+  { n = 2, title = "Le Brasier", mbid = "d3e2828b-39af-464a-8bc3-98e4e81a415b" },
+  { n = 3, title = "Rendez-vous à Vedra", mbid = "a871d70a-4095-4100-9027-4a86d6d74be7" },
+  { n = 4, title = "Corps & armes", mbid = "9515a420-5bc8-49d4-9cf9-698a379ac975" },
+  { n = 5, title = "La Nage indienne", mbid = "4a8385c6-e52b-4c7f-ac90-9270eae82f50" },
+  { n = 6, title = "Les Mauvais Choix", mbid = "bc5470fd-c827-4f68-866e-f5cb8dba8f05" },
+  { n = 7, title = "L'Année du dragon", mbid = "8ee83fe3-0643-49b4-8942-3b61540331a7" },
+  { n = 8, title = "Make Believe", mbid = "57b84c8f-beef-4cdf-aa91-dc9ce614f791" },
+  { n = 9, title = "La Baie", mbid = "13214e34-f970-4f39-a9af-1acecc96f783" },
+  { n = 10, title = "La Mémoire vive", mbid = "b7187b84-727a-4702-aa8f-bca9dcb6ba5a" },
+  { n = 11, title = "San Antonio de la Luna", mbid = "0c5637f6-e3e3-4a12-ad6b-ec775ab4452e" },
+]
+
+[[release]]
+mbid = "a8c1f3d5-048e-3b88-8862-274e270cfcd8"
+title = "Rendez-vous à Vedra"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Rendez-vous à Vedra (Mako remix)", mbid = "1888882f-daa8-49eb-8ffa-366fddc93481" },
+  { n = 2, title = "Rendez-vous à Vedra (Demon Électro Fièvre remix)", mbid = "d880b90d-bc20-41d4-9a9c-b1dd313d10b8" },
+  { n = 3, title = "Rendez-vous à Vedra (Tommy Hools Sad Sundays for Rollin'orchidées remix)", mbid = "82f63151-ce4e-4815-8d6a-118e384d8a46" },
+  { n = 4, title = "Rendez-vous à Vedra (Demon Électro Rendez-Vous remix)", mbid = "50ae9d75-10bd-4fb3-abc8-b66a4c9e52c7" },
+  { n = 5, title = "San Antonio de la luna (Amon Tobin remix)", mbid = "feb6dbe5-8954-46a7-8f9c-17a89913cd08" },
+  { n = 6, title = "Rendez-vous à Vedra (Tommy Hools Old Dis Order remix)", mbid = "6bafa28d-d559-4acc-8dfe-bcdf23ec9381" },
+  { n = 7, title = "Rendez-vous à Vedra (album version)", mbid = "a871d70a-4095-4100-9027-4a86d6d74be7" },
+  { n = 8, title = "L'été sans fin", mbid = "0a2c48b4-4a03-449c-a70b-5ab8f7fde099" },
+]
+
+[[release]]
+mbid = "7672a83b-3a14-3bdd-b5cc-43041dafd253"
+title = "Comme un boomerang"
+type = "single"
+date = "2001-11-26"
+tracks = [
+  { n = 1, title = "Comme un boomerang", mbid = "79c57bbb-8cba-436d-aec2-66a449de1bf3" },
+  { n = 2, title = "Épaule tatoo (live)", mbid = "5155216f-4436-4143-b761-11f0a78c6f2a" },
+]
+
+[[release]]
+mbid = "9eb0af6f-273b-3eb8-aa1a-5aa2bd84a178"
+title = "Réévolution"
+type = "album"
+date = "2003-11-03"
+tracks = [
+  { n = 1, title = "Retour à toi (2019 remaster)", mbid = "53eaaf81-4e6a-456c-878d-23465b4fa2bc" },
+  { n = 2, title = "Réévolution (2019 remaster)", mbid = "2372b653-2449-4b47-b851-6ea01bd397c4" },
+  { n = 3, title = "L'orage (2019 remaster)", mbid = "ca0537ef-d940-498c-8c3c-9e146fe731fb" },
+  { n = 4, title = "If (2019 remaster)", mbid = "14e96fcd-9cac-4a2f-8d86-842ef189abf4" },
+  { n = 5, title = "Les remparts (2019 remaster)", mbid = "1ac45c4b-20d9-4cbf-85fa-27cc4aa1880e" },
+  { n = 6, title = "Vis-à-vis (2019 remaster)", mbid = "f56c31fa-b060-4b7a-9f7a-e42f483d5fa1" },
+  { n = 7, title = "Le jour et la nuit (2019 remaster)", mbid = "e712044d-cf17-4a77-a320-7aa9931fdd68" },
+  { n = 8, title = "L'inconstant (2019 remaster)", mbid = "3bcc3a3c-2480-4eef-a048-6d4a5de095ff" },
+  { n = 9, title = "Les jalousies (2019 remaster)", mbid = "515dcca8-30f1-4a8b-a8ea-da910d1cc5c2" },
+  { n = 10, title = "Talisman (2019 remaster)", mbid = "75e093f3-8ff2-436a-abd9-31c01a4ea485" },
+  { n = 11, title = "Les liens d'Eros (2019 remaster)", mbid = "29c32437-889d-4d1b-86b8-a61ec67437fc" },
+  { n = 12, title = "Au Jack au mois d'avril (2019 remaster)", mbid = "f87b1717-0081-4f6a-af45-99c913045762" },
+]
+
+[[release]]
+mbid = "5ba7aaa3-033c-44cc-b255-ec3217a0f75e"
+title = "If"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "If", mbid = "f7e35ccb-1141-4641-9018-a4c410f65440" },
+  { n = 2, title = "Vis à vis", mbid = "ae886feb-c7d7-4730-a04d-956b787942ba" },
+]
+
+[[release]]
+mbid = "f19b514c-6e8e-4312-b038-76b9143a91c7"
+title = "Week end à rome"
+type = "single"
+date = "2005-10-28"
+spotify = "1wIlT4LQTIiSLHtX9i4fNl"
+tracks = [
+  { n = 1, title = "Week‐end à Rome", mbid = "d63e7705-0cf3-4172-b50c-db5c52357018" },
+  { n = 2, title = "Signé Kiko", mbid = "24739647-78ce-4f7c-a370-70e4fd03371e" },
+]
+
+[[release]]
+mbid = "f063ddbf-09c8-3ba7-933e-c2d00fe8b792"
+title = "Be My Guest Tonight"
+type = "ep"
+date = "2007-11-05"
+tracks = [
+  { n = 1, title = "Little Bit of Rain", mbid = "5d4db63c-7bc7-4c16-ba95-08bd93cb8c1a" },
+  { n = 2, title = "I Can't Escape From You", mbid = "50bdc5ca-a36a-4f0f-80f2-dee9a95616d3" },
+  { n = 3, title = "Cirrus Minor", mbid = "edfc0a23-f68a-424a-8ae4-004f0af90908" },
+  { n = 4, title = "My Girl Has Gone", mbid = "10f4c066-4caf-4bb9-a654-ff05e255d946" },
+  { n = 5, title = "Glad to Be Unhappy", mbid = "97d95c85-d1dd-4d21-ac5b-8d496ad78bcd" },
+]
+
+[[release]]
+mbid = "ae3e4b07-58b0-3089-8835-9c12c6ce1127"
+title = "L'Invitation"
+type = "album"
+date = "2007-11-05"
+tracks = [
+  { disc = 1, n = 1, title = "L'Invitation", mbid = "5322fa19-8e8f-4382-b13d-9464854c1784" },
+  { disc = 1, n = 2, title = "Cet air étrange", mbid = "0fa17c60-c778-493e-a5f2-115e244aaba4" },
+  { disc = 1, n = 3, title = "Obsession", mbid = "2ff01233-aac8-4e9f-abd1-e66baf494049" },
+  { disc = 1, n = 4, title = "L'adorer", mbid = "b4c56760-b6ab-46ea-b035-62170962997c" },
+  { disc = 1, n = 5, title = "Les Fleurs de l'interdit", mbid = "ddae4262-f5f6-4e1b-a323-683b044514de" },
+  { disc = 1, n = 6, title = "Boulevard des Capucines", mbid = "8a1c4f1e-4f47-44b3-9fdd-1fbef45a5598" },
+  { disc = 1, n = 7, title = "Toi, jamais toujours", mbid = "635a7a1c-f6b3-4d82-a93d-3fc34a522613" },
+  { disc = 1, n = 8, title = "Un merveilleux été", mbid = "e54da467-ae7d-4f42-8398-36b213ca3020" },
+  { disc = 1, n = 9, title = "Sur la terre comme au ciel", mbid = "9ab1a6d2-a157-45a6-a206-10e1a667f812" },
+  { disc = 1, n = 10, title = "La vie continuera", mbid = "b298c8ce-770c-4edb-bca4-fc199577f3d6" },
+  { disc = 1, n = 11, title = "Cap Falcon", mbid = "8e56bde8-b3f0-4687-ac3f-eb7c4d159504" },
+  { disc = 2, n = 1, title = "Little Bit of Rain", mbid = "5d4db63c-7bc7-4c16-ba95-08bd93cb8c1a" },
+  { disc = 2, n = 2, title = "I Can't Escape From You", mbid = "50bdc5ca-a36a-4f0f-80f2-dee9a95616d3" },
+  { disc = 2, n = 3, title = "Cirrus Minor", mbid = "edfc0a23-f68a-424a-8ae4-004f0af90908" },
+  { disc = 2, n = 4, title = "My Girl Has Gone", mbid = "10f4c066-4caf-4bb9-a654-ff05e255d946" },
+  { disc = 2, n = 5, title = "Glad to Be Unhappy", mbid = "97d95c85-d1dd-4d21-ac5b-8d496ad78bcd" },
+]
+
+[[release]]
+mbid = "b9db395e-3f05-4ea3-a076-0d1a42790418"
+title = "Daho Show EP"
+type = "ep"
+date = "2008-11-21"
+tracks = [
+  { n = 1, title = "My Heart Belongs to Daddy", mbid = "9b565c24-fb67-4082-89fe-5a1446ba32bf" },
+  { n = 2, title = "I Can't Escape From You (Daho Show live TV 2007)", mbid = "17b73231-c704-47bd-a5db-b6701ee1f75f" },
+  { n = 3, title = "If (Daho Show version)", mbid = "22286103-f32b-4e40-9a63-83b863c16e72" },
+  { n = 4, title = "Me manquer (Londres en été Air remix)", mbid = "e5e6bc9d-b285-4765-be93-2c0f0a5afdda" },
+  { n = 5, title = "Comme un boomerang", mbid = "79c57bbb-8cba-436d-aec2-66a449de1bf3" },
+]
+
+[[release]]
+mbid = "5ec1bb15-b28f-4180-b28c-3d4985d0c415"
+title = "Pleased to Meet You (Extraits)"
+type = "single"
+date = "2009-10-05"
+tracks = [
+  { n = 1, title = "Les Dessous chics", mbid = "afb2f4a7-1f19-49fc-8105-878065eb487a" },
+  { n = 2, title = "Private Tortures", mbid = "f447dc40-cf57-47ff-8af0-435c55a9a410" },
+  { n = 3, title = "Mythomane", mbid = "f2bbc91f-cffa-4cfa-8dee-2f22eb018b3f" },
+]
+
+[[release]]
+mbid = "1eec4cb5-1726-4504-8cf0-aa10792ed8fc"
+title = "Le Condamné à mort"
+type = "album"
+date = "2010-11-09"
+tracks = [
+  { n = 1, title = "À Maurice Pilorge assassin de vingt ans", mbid = "49d9e108-bcbe-4ee7-800f-b3102331d2fd" },
+  { n = 2, title = "Le Vent qui roule un cœur... / Ne chante pas ce soir... / Mon amour mon amour...", mbid = "32c77502-4efc-4647-a6d0-c286bd1d485f" },
+  { n = 3, title = "Ô la douceur du bagne... / Tristesse dans ma bouche... / Voler voler mon ciel...", mbid = "a29556a3-7fe4-4964-8d82-71f3e184b47f" },
+  { n = 4, title = "La Chanson qui traverse...", mbid = "ace08efd-ae00-4c77-9d5a-2e55dc7cf49a" },
+  { n = 5, title = "J’ai tué...", mbid = "139213f2-0da2-4958-afe5-3a89ac24fab6" },
+  { n = 6, title = "Rocher de granit noir...", mbid = "dfb68293-8343-48c7-8afe-9f0a5fa8c9b8" },
+  { n = 7, title = "Madame écoutez‐moi...", mbid = "5fb2e386-bde4-40f4-969a-b128b3f0d16a" },
+  { n = 8, title = "Sur mon cou...", mbid = "98683e12-dfb0-4dcb-b139-cab586803ec9" },
+  { n = 9, title = "Les Assassins du mur...", mbid = "ade172b4-bcd9-4e61-b532-05c31ab42b9e" },
+  { n = 10, title = "Un clop mouillé...", mbid = "1a63c08c-4fd6-456c-811d-23b86c400704" },
+  { n = 11, title = "T’enveloppent si fin...", mbid = "ac9dd38d-b2f8-4149-a467-b01aa3167329" },
+  { n = 12, title = "Élève‐toi dans l’air...", mbid = "d8283feb-55d2-4827-93ed-7e3be4c4ada7" },
+  { n = 13, title = "Pardonnez‐moi, mon dieu...", mbid = "a1e396ad-a856-4a69-bd25-beef087cb6fc" },
+  { n = 14, title = "J’ai dédié ce poème...", mbid = "9c128aa8-6bfb-45c3-a25e-7820d2a698d0" },
+]
+
+[[release]]
+mbid = "1412075e-78ba-448c-878a-d3299c37f093"
+title = "Il ne dira pas / Ton cinoche"
+type = "single"
+date = "2012-05-11"
+tracks = [
+  { n = 1, title = "Il ne dira pas (HF90 version 2011)", mbid = "3543e62e-eca1-41c5-9de1-178858df5fc9" },
+  { n = 2, title = "Ton cinoche (HF90 version 2011)", mbid = "491576a5-6513-48d8-823f-8683946724a0" },
+]
+
+[[release]]
+mbid = "c075b61b-1051-4270-be9f-d650f9edd371"
+title = "We Miss You"
+type = "single"
+date = "2013-03-20"
+tracks = [
+  { n = 1, title = "We Miss You", mbid = "4b96e5f0-8520-4c9b-ad50-c7268244f6cc" },
+  { n = 2, title = "Long Time Survivor", mbid = "dd27ddfe-29fd-4def-88e2-7cd0c1a48346" },
+]
+
+[[release]]
+mbid = "6c1018c9-d654-438f-9263-e67767af362f"
+title = "Les Chansons de l'innocence"
+type = "single"
+date = "2013-06-07"
+spotify = "3lhxjoyVjwAujqHjCLakbi"
+tracks = [
+  { n = 1, title = "Les Chansons de l'innocence (radio version)", mbid = "5302929e-f16e-4b44-8a6d-4384790dd83b" },
+]
+
+[[release]]
+mbid = "e833933d-d347-4e23-87f8-b75ae5c3b9e2"
+title = "La Peau dure"
+type = "single"
+date = "2013-09-09"
+tracks = [
+  { n = 1, title = "La Peau dure", mbid = "cb595e6d-1c8d-4ddf-b6f2-6462d7a120bf" },
+]
+
+[[release]]
+mbid = "fa45a82a-2f3e-44a4-9a8d-dee538aa5568"
+title = "Les Chansons de l'innocence retrouvée"
+type = "album"
+date = "2013-11-18"
+spotify = "3CKauYO4qYSqfZqnp8KuKC"
+tracks = [
+  { disc = 1, n = 1, title = "Le Baiser du destin", mbid = "197e2df8-1995-4eff-9671-5e3d346a0bcc" },
+  { disc = 1, n = 2, title = "L’Homme qui marche", mbid = "72c09669-1d40-4b43-81a6-ec89e294aae1" },
+  { disc = 1, n = 3, title = "Un nouveau printemps", mbid = "5e2f451a-8a71-4458-a67e-4d640935c591" },
+  { disc = 1, n = 4, title = "Les Torrents défendus", mbid = "7b43213d-9f6f-4064-b009-ba6c0bbddf88" },
+  { disc = 1, n = 5, title = "La Peau dure", mbid = "cb595e6d-1c8d-4ddf-b6f2-6462d7a120bf" },
+  { disc = 1, n = 6, title = "Le Malentendu", mbid = "c6784cd5-f9d6-45f3-96a5-2ab287de013e" },
+  { disc = 1, n = 7, title = "L’Étrangère", mbid = "9fdfa358-adef-4d88-9b73-fccfb0657863" },
+  { disc = 1, n = 8, title = "Un bonheur dangereux", mbid = "21e51701-941f-4f63-82d7-2eca3815a6e3" },
+  { disc = 1, n = 9, title = "En surface", mbid = "65f95c1c-358e-45bc-9cdd-c80b9e567d4e" },
+  { disc = 1, n = 10, title = "Onze mille vierges", mbid = "bc6e40d5-f1d0-445b-983f-d342a8c18f57" },
+  { disc = 1, n = 11, title = "Les Chansons de l’innocence", mbid = "19b30d40-d719-4cf8-9355-57e83c1fcb86" },
+  { disc = 2, n = 1, title = "L’Homme qui marche (Visconti’s dub)", mbid = "2986938a-7eb2-4939-a968-a21a8009e714" },
+  { disc = 2, n = 2, title = "L’Étrangère (Angela’s visions)", mbid = "08ed6796-77bd-4710-9690-1a2a34382047" },
+  { disc = 2, n = 3, title = "Bleu Gitanes (outtake)", mbid = "fa34d53c-a23a-4da9-9307-28c400742c5f" },
+  { disc = 2, n = 4, title = "En surface", mbid = "a2eae490-a472-4d75-8bd6-340d2d67b574" },
+  { disc = 2, n = 5, title = "Les Lueurs matinales", mbid = "d50f970c-6895-43a6-96a2-9d4cf5b8ebb9" },
+  { disc = 2, n = 6, title = "Les Chansons de l’innocence (Diskönoir extended)", mbid = "3cc997b4-2365-4575-9119-d3e2cdce4cb6" },
+  { disc = 3, n = 1, title = "Le Malentendu", mbid = "675fa6e9-9fd3-4555-a1b7-a978af5ecbdf" },
+]
+
+[[release]]
+mbid = "a208d991-c61e-4c1e-9e2b-79a6f502a7e0"
+title = "En surface (Rone remix)"
+type = "single"
+date = "2014-01-01"
+tracks = [
+  { n = 1, title = "En surface (Rone remix)", mbid = "056dc2c8-abae-459c-8dab-831e89afd984" },
+]
+
+[[release]]
+mbid = "5628f911-c4f6-462d-899e-ff8d52c19cfa"
+title = "Blitz"
+type = "album"
+date = "2017-11-17"
+spotify = "13uqPcLtuBhsqA82TqDnen"
+tracks = [
+  { n = 1, title = "Les Filles du canyon", mbid = "73b59b34-1d00-46c4-95ee-cc956e81cec2" },
+  { n = 2, title = "Chambre 29", mbid = "a4343209-2817-4fc0-b369-beee6de5576c" },
+  { n = 3, title = "Le Jardin", mbid = "b0dd84cf-7808-4b39-87ec-3a3d68e1cb6d" },
+  { n = 4, title = "Les Baisers rouges", mbid = "129b2bd1-027e-44e2-853b-969e32bd5690" },
+  { n = 5, title = "Les Cordages de la nuit", mbid = "0f78555b-def3-4cfb-b6f3-bfbbbda3e2f1" },
+  { n = 6, title = "Les Flocons de l’été", mbid = "db9ecbbb-433b-4ed1-b54d-5fe01c40877b" },
+  { n = 7, title = "Voodoo Voodoo", mbid = "47661b4a-430b-49ba-8120-87a28dedaa5f" },
+  { n = 8, title = "L’Étincelle", mbid = "a358893e-5e14-4cd1-b71c-d878c7ef97ef" },
+  { n = 9, title = "The Deep End", mbid = "cacfbb66-c922-42a8-82bd-0e3e2fef2a3d" },
+  { n = 10, title = "Hôtel des infidèles", mbid = "854f773c-442a-453a-b7c0-46be6beb8570" },
+  { n = 11, title = "Après le blitz", mbid = "d9cbbc94-403f-49f3-bd84-abe99d25b2fe" },
+  { n = 12, title = "Nocturne", mbid = "b6155d31-48f0-47c2-8019-f3912226a83b" },
+]
+
+[[release]]
+mbid = "01d31af6-9e9e-4574-a3c7-b2a90da1f00e"
+title = "One Blood Circle"
+type = "single"
+date = "2019-10-25"
+tracks = [
+  { n = 1, title = "One Blood Circle", mbid = "020a403f-eea8-447f-baff-1652353dceb0" },
+  { n = 2, title = "Non, non, rien n'a changé", mbid = "2f02981d-8f9b-437b-a448-1dfdb00ab8c1" },
+]
+
+[[release]]
+mbid = "1d195af7-d031-439f-a247-20a28e325cc9"
+title = "Surf"
+type = "album"
+date = "2020-06-20"
+tracks = [
+  { n = 1, title = "Falling In Love", mbid = "086828cd-ce44-4fb1-8f5e-9c6c49cf20b7" },
+  { n = 2, title = "A Little Bit Of Rain", mbid = "5bd9796b-da25-4d1a-82a5-3ddf212232a0" },
+  { n = 3, title = "The Way You Look Tonight", mbid = "1f467f9a-23c0-4a59-8be7-2128d95ecf0c" },
+  { n = 4, title = "My Girl Has Gone", mbid = "4ebaeade-6664-48d2-ab0a-c4ead52704a3" },
+  { n = 5, title = "Moon River", mbid = "eff5656b-b758-4f84-affb-490ac1309e19" },
+  { n = 6, title = "Cirrus Minor", mbid = "edfc0a23-f68a-424a-8ae4-004f0af90908" },
+  { n = 7, title = "Honeymoon", mbid = "43d33ec6-60d8-4b59-866b-7c087fdc6ff9" },
+  { n = 8, title = "I Can't Escape From You", mbid = "8b075dfc-8f2f-4daf-9e4c-53eec31feea8" },
+  { n = 9, title = "You Choose", mbid = "a9b94206-6d40-41d6-8705-7a1d5f93be46" },
+  { n = 10, title = "Glad To Be Unhappy", mbid = "b35b8900-60a6-41cd-be6a-794ffe3c806d" },
+]
+
+[[release]]
+mbid = "f70b576d-8851-42f0-9d87-4a9d131e6f8e"
+title = "Oh ! Pardon tu dormais…"
+type = "single"
+date = "2020-09-25"
+spotify = "7tdRDunOi9ETqT2sK2xemq"
+tracks = [
+  { n = 1, title = "Oh! Pardon tu dormais…", mbid = "92fea581-4912-4a0a-be88-1d2a2ea4fa86" },
+]
+
+[[release]]
+mbid = "a1a63985-c35f-4a73-ae0f-0acb146c951f"
+title = "Son silence en dit long"
+type = "single"
+date = "2020-10-23"
+tracks = [
+  { n = 1, title = "Son silence en dit long", mbid = "96da2dde-2ef8-4906-bd3c-fa5d65c4083e" },
+]
+
+[[release]]
+mbid = "f036282b-16f3-4689-b2d4-fb1c716f23f6"
+title = "Surf²"
+type = "album"
+date = "2020-10-24"
+tracks = [
+  { n = 1, title = "Son silence en dit long", mbid = "11f03eda-55f5-47d5-8dba-8c76a04d0dfb" },
+  { n = 2, title = "This Too Shall Pass Away", mbid = "155eaed3-89fc-4be6-b048-c11f6797f75d" },
+  { n = 3, title = "Blue Moon of Kentucky", mbid = "c5d8853c-ecb7-4239-ad74-5a6d0ff23e18" },
+  { n = 4, title = "I'm So Lonesome I Could Cry", mbid = "ca390d70-7a43-4df6-8d29-3c401db62c94" },
+  { n = 5, title = "Heathen", mbid = "7cb69012-ce29-479d-a476-86e408996d73" },
+  { n = 6, title = "We Have All the Time in the World", mbid = "88748f48-b1dd-4428-a27a-c77376a18f53" },
+  { n = 7, title = "Take a Look", mbid = "5d35b6d4-b56d-47ed-a985-500ef69c2b20" },
+  { n = 8, title = "Someday", mbid = "0791d9a4-3554-4430-b586-efac8f34c263" },
+  { n = 9, title = "You Think I Still Care", mbid = "25c0bed5-4180-4b64-9ed2-e9b9680f7824" },
+  { n = 10, title = "He Was a Friend of Mine", mbid = "6a58e261-f2c3-44a2-9020-3b7478b568ea" },
+]
+
+[[release]]
+mbid = "b8a0f590-da90-42d6-b918-3e513ebd9d7b"
+title = "The Virus X Experience !"
+type = "ep"
+date = "2021-11-19"
+spotify = "73J4zAR5nSHqr0oJUDnxTo"
+tracks = [
+  { n = 1, title = "Virus X (SAGE remix)", mbid = "546400fb-ba25-4032-961c-ff2edddaaddf" },
+  { n = 2, title = "Virus X (St Vincent remix)", mbid = "6fe87b88-00cb-465f-8e08-f4c192400e51" },
+  { n = 3, title = "Virus X (Chloé remix)", mbid = "cb8cbde3-d476-467a-81ba-ac4f39a75d01" },
+  { n = 4, title = "Virus X (album edit)", mbid = "ee2b3a8b-22ed-4014-9a73-71b250fa4c65" },
+  { n = 5, title = "Virus Xoodoo (Unloved remix)", mbid = "a0bf362a-6ff3-49e1-a8fe-d79c337437ba" },
+  { n = 6, title = "Virus X (SAGE remix - radio edit)", mbid = "c65abbf9-9bca-40b9-84a0-76e44beac938" },
+]
+
+[[release]]
+mbid = "1855eba0-6f78-4fb2-b045-7de0c1f23288"
+title = "Boyfriend"
+type = "single"
+date = "2023-02-14"
+spotify = "4qJhmxrM3Zx2nJ4iIHMG2R"
+tracks = [
+  { n = 1, title = "Boyfriend", mbid = "5f020abc-f60d-45a7-a814-996a936e777c" },
+]
+
+[[release]]
+mbid = "d99d201a-befd-43d9-bd3d-637db5f46cb6"
+title = "Tirer la nuit sur les étoiles"
+type = "album"
+date = "2023-05-12"
+spotify = "1JkOAUQhXnSkZzbpupRC9o"
+tracks = [
+  { n = 1, title = "Tirer la nuit sur les étoiles", mbid = "32d1831e-2de0-411d-8f14-d418d1578432" },
+  { n = 2, title = "Boyfriend", mbid = "5f020abc-f60d-45a7-a814-996a936e777c" },
+  { n = 3, title = "Comme deux aimants", mbid = "164f44a4-3513-4f0d-801a-84f2957f31e4" },
+  { n = 4, title = "Les Derniers Jours de pluies", mbid = "1411705a-75a7-460e-9538-93a3e27afdc8" },
+  { n = 5, title = "Virus X", mbid = "7d25b3b0-990f-48ef-b136-dfa91d98812f" },
+  { n = 6, title = "Respire", mbid = "e244568d-581e-4936-a484-d23482b74e98" },
+  { n = 7, title = "Le Chant des idoles", mbid = "31eefd7c-aead-4e7d-812e-296aaa9db450" },
+  { n = 8, title = "Le Phare", mbid = "da375194-3d31-4ed7-95d1-739c9cf4fe51" },
+  { n = 9, title = "I've Been Thinking About You", mbid = "5b66b570-9047-42d7-a2b4-6d0fe10709af" },
+  { n = 10, title = "30 décembre", mbid = "a6be68e9-cb83-497d-84eb-f9eee31c7b2d" },
+  { n = 11, title = "Les Petits Criminels", mbid = "c3b8647c-16cc-4fd3-835d-0bd4f07e661c" },
+  { n = 12, title = "Roman inachevé", mbid = "8b5c98b6-33da-4f68-99a1-e0d22ae2a1f7" },
+]
+
+[[release]]
+mbid = "79d2394a-5f81-4495-8391-aca0a0b6fd3c"
+title = "Je suis déjà parti"
+type = "single"
+date = "2023-11-02"
+spotify = "0mhQF4YHhjRsQ9o6RgAf0D"
+tracks = [
+  { n = 1, title = "Je suis déjà parti", mbid = "a2c604a7-7867-4438-a1a4-726aeda5a743" },
+]
+
+[[release]]
+mbid = "53dcbe1c-4e55-4905-bc0c-e6ab36463fdb"
+title = "Noël avec toi"
+type = "single"
+date = "2023-11-24"
+spotify = "2HWjFPGJiytgfkB2udwfZ1"
+tracks = [
+  { n = 1, title = "Noël avec toi", mbid = "fdd5afc1-5bc4-4bad-a033-5e42430739e7" },
+]
+
+[[release]]
+mbid = "7e44fa5b-34ed-4af7-b4b5-8e1acd84f3f1"
+title = "Le Phare"
+type = "ep"
+date = "2024-02-09"
+spotify = "5LEMmXR5qpYKJPX2RwRcsX"
+tracks = [
+  { n = 1, title = "Le Phare", mbid = "da375194-3d31-4ed7-95d1-739c9cf4fe51" },
+  { n = 2, title = "Le Phare (The Ninety2 remix)", mbid = "5b470a95-515f-4e04-85e1-03789f1a927b" },
+  { n = 3, title = "Le Phare (Délicieux Baiser - Global Network’s remix)", mbid = "6009f279-af75-4970-baca-c5702e99232f" },
+  { n = 4, title = "Le Phare (Slow Motion remix)", mbid = "079d8a82-2b21-43c9-97f9-c7b54e4e539b" },
+  { n = 5, title = "Le Phare (Keefus Ciancia’s remix)", mbid = "41f37dd2-d01f-4a1f-b35f-f1b2e008dd02" },
+]
+
+[[release]]
+mbid = "f486f69b-28e6-47d1-89f1-1d659cd5aa00"
+title = "Week-end à Rome Remixed - 40th Anniversary EP"
+type = "ep"
+date = "2025-04-12"
+spotify = "1vfOzhPlKvPDokd1KjIcQe"
+tracks = [
+  { n = 1, title = "Week-end à Rome (Faux Real remix)", mbid = "af73123c-37f7-4204-b453-0e93fc3d8e7a" },
+  { n = 2, title = "Week-end à Rome (Villa Medicis mix by Mako)", mbid = "0651be8e-6a90-4c14-952d-1a9c05c33958" },
+  { n = 3, title = "Week-end à Rome (Yuksek remix)", mbid = "d04bb240-986f-4ba3-8c99-3940c10c3eea" },
+  { n = 4, title = "Week-end à Rome (2014 remaster)", mbid = "4fa0b086-b344-4a92-bb8a-beffa97c7eb3" },
+  { n = 5, title = "Week-end à Rome (The Ninety2 remix)", mbid = "fc35507b-b23d-4196-bad3-ab23bebaf5b9" },
+  { n = 6, title = "Week-end à Rome (Dimitri From Paris New 80’s remix)", mbid = "6646d971-2879-47b3-b080-2afbe2cbf013" },
+  { n = 7, title = "Week-end à Rome (Extended DBF version)", mbid = "e3e0ef45-8123-4961-9eb7-e2046a7ceee7" },
+  { n = 8, title = "Le grand sommeil (Sweetlight’s remix) [edit]", mbid = "4cd14de9-fd84-4097-ac10-9842b953c13b" },
+]
+
+[[release]]
+mbid = "a857caf4-19d3-4638-9a3a-46281e64146b"
+title = "Jour après jour"
+type = "single"
+date = "2025-10-16"
+spotify = "08Ok9gVbKIT3TrLoF5kP2V"
+tracks = [
+  { n = 1, title = "Jour après jour", mbid = "9794c4fe-1fec-4c4b-88a8-eaf9127c3550" },
+]
+
+[[release]]
+mbid = "852f2bb9-af13-405c-a6c0-5ae21e84dbca"
+title = "Laurie Sky"
+type = "single"
+date = "2026-06-12"
+spotify = "77PmIyP4hIX6IphsV2rMn9"
+tracks = [
+  { n = 1, title = "Laurie Sky", mbid = "fbb30017-1585-485a-9da1-8a5ec127da9b" },
+]
+
+[[release]]
+mbid = "1923325b-4c39-4aeb-b6ed-8f116ab3de21"
+title = "My Heart Belongs to Daddy"
+type = "single"
+date = "2026-06-26"
+spotify = "5XBkIE5Y8nAl3VwcyTrdYk"
+tracks = [
+  { n = 1, title = "My Heart Belongs to Daddy", mbid = "9b565c24-fb67-4082-89fe-5a1446ba32bf" },
+]
+
+[[release]]
+mbid = "e076cafb-33bb-456f-a620-99be716db4a0"
+title = "Laurie Sky (Alt Mix)"
+type = "single"
+date = "2026-09-18"
+spotify = "4JZSoDvmgIg39wUgX0wMBO"
+tracks = [
+  { n = 1, title = "Laurie Sky (Alt mix)", mbid = "347b6929-3fb5-48ec-ba56-6f3160cbd0ae" },
+  { n = 2, title = "Laurie Sky", mbid = "fbb30017-1585-485a-9da1-8a5ec127da9b" },
+]
+
+[[release]]
+mbid = "1123ec5f-d5f7-48ac-9dee-76207620c224"
+title = "Ouverture"
+type = "single"
+spotify = "48IjNi9we9gWyGJbNZABWm"
+tracks = [
+  { n = 1, title = "Ouverture (single edit)", mbid = "445e1865-83e2-46aa-b263-f200c0f7a0cc" },
+  { n = 2, title = "La Baie", mbid = "13214e34-f970-4f39-a9af-1acecc96f783" },
+]
