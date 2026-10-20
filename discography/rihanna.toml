@@ -1,0 +1,861 @@
+format = 1
+
+[[release]]
+mbid = "572a0902-159f-39f7-b5c1-4c5159d735f7"
+title = "Pon de Replay"
+type = "single"
+date = "2005-05-24"
+spotify = "1LY0hAiWfJlj3i9mMLqd6i"
+tracks = [
+  { n = 1, title = "Pon de Replay", mbid = "51656eed-8749-48ed-92fd-761f3c3f9b37" },
+  { n = 2, title = "Should I?", mbid = "e57c58d8-9be9-4eb9-b2b3-adaaaa125a7e" },
+  { n = 3, title = "Pon de Replay (Cotto's Replay dub)", mbid = "a70793ad-9d3e-4c84-9a0d-803a69282874" },
+]
+
+[[release]]
+mbid = "8eef208f-720e-4203-bd84-c6f7d8684354"
+title = "The One"
+type = "single"
+date = "2005-07-19"
+tracks = [
+  { n = 1, title = "The One (radio)", mbid = "99b5eca4-0674-4032-9328-010adde8b582" },
+  { n = 2, title = "The One", mbid = "479148ef-7845-4ecf-a597-3594aa417e07" },
+  { n = 3, title = "The One (instrumental)", mbid = "b7debed6-5dd8-4c0b-8205-734c634ae2c0" },
+  { n = 4, title = "The One (Roc-A-Pella)", mbid = "adaa757b-2eb1-49e8-ad92-a7461f07d75e" },
+  { n = 5, title = "First, Last and Only (radio)", mbid = "20420900-3eb9-45e8-9fe8-7e20005160e3" },
+  { n = 6, title = "Smoke the Pain Away (radio)", mbid = "bae02b9b-29ab-4a11-864b-efe2f7dd7f9b" },
+  { n = 7, title = "First, Last and Only", mbid = "1ccb29b0-73df-49df-996f-3d4781cb2c39" },
+  { n = 8, title = "Smoke the Pain Away", mbid = "f24cf0e2-e7dd-46f2-8c7d-8a6bbd0f3f6c" },
+]
+
+[[release]]
+mbid = "aefe7de5-11df-38c3-97f5-13df615870fd"
+title = "Music of the Sun"
+type = "album"
+date = "2005-08-29"
+spotify = "19UbDbyaYRW1U7lBMYO9F2"
+tracks = [
+  { disc = 1, n = 1, title = "Pon de Replay", mbid = "f9845fce-5ab7-456f-8579-6a1fcfa8cf25" },
+  { disc = 1, n = 2, title = "Here I Go Again", mbid = "b53a3b27-9748-41d8-b0cc-4ab5e2214311" },
+  { disc = 1, n = 3, title = "If It’s Lovin’ That You Want", mbid = "9f471a64-694c-4830-bb26-0b143db55f4d" },
+  { disc = 1, n = 4, title = "You Don’t Love Me (No, No, No)", mbid = "9b3f541b-5f91-4fcb-9a41-38adca8907f3" },
+  { disc = 1, n = 5, title = "That La, La, La", mbid = "7a4170bb-0c6e-4cf8-8fbf-6ae50cdc36f8" },
+  { disc = 1, n = 6, title = "The Last Time", mbid = "8ab14774-5191-44c3-95b1-2d0f400fbfef" },
+  { disc = 2, n = 1, title = "Willing to Wait", mbid = "3446f208-fd3a-47ee-97d1-259098ae90ef" },
+  { disc = 2, n = 2, title = "Music of the Sun", mbid = "6b4b27cd-2c62-4d33-b8d6-9a70ad2e4621" },
+  { disc = 2, n = 3, title = "Let Me", mbid = "af8265b7-2abd-429d-a9b9-65584b6d1727" },
+  { disc = 2, n = 4, title = "Rush", mbid = "256a9c43-3472-4e9a-b2f3-3f9b85f32bfc" },
+  { disc = 2, n = 5, title = "There’s a Thug in My Life", mbid = "393c551d-8b78-43e3-8d0e-a73c87aceb2e" },
+  { disc = 2, n = 6, title = "Now I Know", mbid = "2ffa8c71-f37c-4a52-a9db-fc27dabc24e4" },
+  { disc = 2, n = 7, title = "Pon de Replay (remix)", mbid = "001ba056-4f53-4a19-ba9a-60a814e074ab" },
+]
+
+[[release]]
+mbid = "bc237fe9-bbf4-4395-8ddc-902073b6b021"
+title = "If It's Lovin' That You Want"
+type = "single"
+date = "2005-11-21"
+tracks = [
+  { n = 1, title = "If It’s Lovin’ That You Want (album version)", mbid = "9f471a64-694c-4830-bb26-0b143db55f4d" },
+  { n = 2, title = "If It’s Lovin’ That You Want (remix radio edit)", mbid = "58fe3b9f-cd1d-4d3e-bf1b-c6b815abc3f8" },
+]
+
+[[release]]
+mbid = "baca87df-ed18-3eb0-bfb9-5f8e010df2d4"
+title = "SOS"
+type = "single"
+date = "2006-02-14"
+tracks = [
+  { n = 1, title = "SOS (radio edit)", mbid = "b512135c-95e7-4ef4-90af-23676370083c" },
+  { n = 2, title = "SOS (instrumental)", mbid = "26e6b227-7b78-4f1b-955e-3ff0e8773b95" },
+]
+
+[[release]]
+mbid = "51797d3d-7071-30ee-9fb3-d60aad857ef0"
+title = "A Girl Like Me"
+type = "album"
+date = "2006-04-10"
+spotify = "5pvFhFt1nzE8sCbm1wjNRv"
+tracks = [
+  { n = 1, title = "SOS", mbid = "4483ec59-3ae9-4b5e-87e0-69199d80392d" },
+  { n = 2, title = "Kisses Don’t Lie", mbid = "ab2cda75-ffe2-44bd-822b-78f32eac2e4e" },
+  { n = 3, title = "Unfaithful", mbid = "9de80019-617e-4a4c-8a89-03e2a8a11ff8" },
+  { n = 4, title = "We Ride", mbid = "5bfef22f-26ed-4100-91cd-d225a680f68a" },
+  { n = 5, title = "Dem Haters", mbid = "f9647143-bfa0-4c5d-a9a0-4324b5cf371c" },
+  { n = 6, title = "Final Goodbye", mbid = "fb355148-1ae5-4890-bfc0-af1ca9f4f510" },
+  { n = 7, title = "Break It Off", mbid = "9a4743c8-2425-450c-8e2c-344944aced70" },
+  { n = 8, title = "Crazy Little Thing Called Love", mbid = "ba90b907-85b6-4362-b415-26b268aa8756" },
+  { n = 9, title = "Selfish Girl", mbid = "f070e815-2ca8-4de4-b4a2-93098fcbd277" },
+  { n = 10, title = "P.S. (I’m Still Not Over You)", mbid = "6b9e34d9-b4e0-41cc-ac4e-fb3a9219265a" },
+  { n = 11, title = "Girl Like Me", mbid = "47c711ce-76d3-4f37-be08-926bafb36553" },
+  { n = 12, title = "Million Miles Away", mbid = "48a3c382-c65d-4b5e-9f1d-2bbc45a49f9b" },
+  { n = 13, title = "If It’s Lovin’ That You Want - Part 2", mbid = "c23d08d7-c793-434c-b3e8-0f4bdb6bd0a1" },
+  { n = 14, title = "Pon de Replay (Full Phat remix)", mbid = "c05a40e0-52de-48dd-9c71-a3767999cf7c" },
+]
+
+[[release]]
+mbid = "2f05e488-62c0-3187-85aa-f7cd670077ec"
+title = "Unfaithful"
+type = "single"
+date = "2006-06-20"
+spotify = "38vRiQlkhqxwMjI9AzKXuu"
+tracks = [
+  { n = 1, title = "Unfaithful (Tony Moran radio mix)", mbid = "e0bd77ba-f762-410a-a602-9bfdab9dad9f" },
+  { n = 2, title = "Unfaithful (Hamel radio edit)", mbid = "a9805d67-db34-4ca2-b4d5-40e218b01b60" },
+  { n = 3, title = "Unfaithful (Maurice's radio edit)", mbid = "0f00f1e0-ebd9-4741-bf19-d01c435745ed" },
+  { n = 4, title = "Unfaithful (Tony Moran club mix)", mbid = "6e2f79c3-5709-40db-bec5-a1f0101a6c91" },
+  { n = 5, title = "Unfaithful (Hamel club mix)", mbid = "85c6c245-4053-49fe-981f-23dd07631c74" },
+  { n = 6, title = "Unfaithful (Maurice's club mix)", mbid = "4807afb8-7192-4396-a4b5-04221d4d2d91" },
+  { n = 7, title = "Unfaithful (AOL Music Sessions)", mbid = "c6793f4e-c8fe-410e-85af-265d51114fa6" },
+]
+
+[[release]]
+mbid = "e5f421fc-b9eb-343e-9712-26b24955a2bc"
+title = "We Ride"
+type = "single"
+date = "2006-08-21"
+spotify = "3IvrXjmh2LMRnuugtpHBuZ"
+tracks = [
+  { n = 1, title = "We Ride - No Hi Hat", mbid = "4abc5e73-a21e-4e6b-b436-dd44ee410175" },
+  { n = 2, title = "Unfaithful - Nu Soul Remix", mbid = "fddb0cb2-fe08-4464-a0c1-b594cc5669cf" },
+]
+
+[[release]]
+mbid = "7dbb687a-48c1-4862-a63e-460552148de6"
+title = "Break It Off"
+type = "single"
+date = "2006-11-13"
+tracks = [
+  { n = 1, title = "Break It Off", mbid = "9a4743c8-2425-450c-8e2c-344944aced70" },
+]
+
+[[release]]
+mbid = "983e4b70-8b7a-4250-8a34-4f69f1b4ae9c"
+title = "Don't Stop the Music"
+type = "ep"
+date = "2007"
+tracks = [
+  { n = 1, title = "Don't Stop the Music", mbid = "4c0566be-d3d9-42b2-964d-cf349972123b" },
+  { n = 2, title = "Umbrella", mbid = "0b4b1b0c-e057-4d8d-9a47-12a97ff6fb3d" },
+  { n = 3, title = "S.O.S.", mbid = "4483ec59-3ae9-4b5e-87e0-69199d80392d" },
+  { n = 4, title = "Unfaithful (Nu Soul remix)", mbid = "eaafba27-1d7a-4873-95ec-f598275ffba9" },
+  { n = 5, title = "Pon de Replay", mbid = "f9845fce-5ab7-456f-8579-6a1fcfa8cf25" },
+]
+
+[[release]]
+mbid = "04d6f4d6-6663-4b8a-84ed-fe7d5fbf028e"
+title = "Roll It"
+type = "ep"
+date = "2007-03-09"
+tracks = [
+  { n = 1, title = "Roll It (main version)", mbid = "0142cee9-9da2-4047-8f56-695c8fa57481" },
+  { n = 2, title = "Roll It (radio version)", mbid = "bbd16d90-7c48-4b08-a9c1-339b86028dc3" },
+  { n = 3, title = "Roll It (instrumental)", mbid = "60e6680f-0732-49fc-b65d-c1d378b28387" },
+  { n = 4, title = "Roll It (Reggaeton Gemstar version)", mbid = "664031a7-4b14-4aa5-b11d-b612dd94242a" },
+]
+
+[[release]]
+mbid = "5323905d-6f25-3486-a4a7-59a03ec34784"
+title = "Roll It"
+type = "single"
+date = "2007-03-09"
+spotify = "4BO9kHOdepVQDqYmZd89vu"
+tracks = [
+  { n = 1, title = "Roll It (radio version)", mbid = "0454462e-d5b7-48e7-b696-6dd10ccdc653" },
+  { n = 2, title = "Roll It (main version)", mbid = "0142cee9-9da2-4047-8f56-695c8fa57481" },
+  { n = 3, title = "Roll It (instrumental)", mbid = "f948c68a-3629-4fcd-a6b5-fa42720a12ee" },
+  { n = 4, title = "Roll It (Reggaeton Gamestar version)", mbid = "bb7dcc3b-778a-42f2-a806-34d4c125273f" },
+  { n = 5, title = "Roll It (Sunset Strippers remix)", mbid = "1cd03c9d-6dde-47f1-8fd1-be1d6ea24cf8" },
+]
+
+[[release]]
+mbid = "735f045f-55b7-3e3d-ae56-c27dea6a81c8"
+title = "Umbrella"
+type = "single"
+date = "2007-03-29"
+tracks = [
+  { n = 1, title = "Umbrella (radio edit)", mbid = "124eda51-0acd-4533-9020-7490b5ce95ba" },
+  { n = 2, title = "Umbrella (Seamus Haji & Paul Emanuel remix)", mbid = "9fda7a96-606a-4d97-8ec6-3fcd7965c586" },
+]
+
+[[release]]
+mbid = "7e48f018-b774-32e6-a68b-b42db04535c0"
+title = "Good Girl Gone Bad"
+type = "album"
+date = "2007-03-31"
+spotify = "1mXvgNB0Yu93Sdpm6U5yFw"
+tracks = [
+  { n = 1, title = "Umbrella", mbid = "0b4b1b0c-e057-4d8d-9a47-12a97ff6fb3d" },
+  { n = 2, title = "Push Up on Me", mbid = "a3660057-3b2e-4c1d-aec9-4b0ae159817e" },
+  { n = 3, title = "Don't Stop the Music", mbid = "4c0566be-d3d9-42b2-964d-cf349972123b" },
+  { n = 4, title = "Breakin' Dishes", mbid = "a12ea58f-4029-4ff6-b599-a8590a0df6cd" },
+  { n = 5, title = "Shut Up and Drive", mbid = "627693f3-776d-4646-9ade-2c8bc8e83316" },
+  { n = 6, title = "Hate That I Love You", mbid = "711992bd-dfc8-4463-b4c3-a5edb610ab12" },
+  { n = 7, title = "Say It", mbid = "318ab388-70e6-4d15-8d0a-b5f510ff15d8" },
+  { n = 8, title = "Sell Me Candy", mbid = "5ca0a3ec-271d-41cb-9fef-556a771a71c1" },
+  { n = 9, title = "Lemme Get That", mbid = "b73a5606-8a5e-41d7-b3d4-cb6fd60a493d" },
+  { n = 10, title = "Rehab", mbid = "947dc1a5-cb9d-4a09-b97a-743cc1289b31" },
+  { n = 11, title = "Question Existing", mbid = "547f8280-8ce5-49bb-aa4e-675b9901ebef" },
+  { n = 12, title = "Good Girl Gone Bad", mbid = "3603cfe2-0ec8-4714-84ed-151ab10573fd" },
+  { n = 13, title = "Umbrella (The Lindbergh Palace remix)", mbid = "3cdbe9be-f723-4e0b-a253-384a17fc6f04" },
+]
+
+[[release]]
+mbid = "fe8bc91d-5486-4548-8673-d3b1b2d59057"
+title = "Don’t Stop the Music"
+type = "single"
+date = "2007-08"
+spotify = "5VANpkIQZcnBwGZYcUEUn6"
+tracks = [
+  { n = 1, title = "Don't Stop the Music", mbid = "4c0566be-d3d9-42b2-964d-cf349972123b" },
+  { n = 2, title = "Don’t Stop the Music (The Wideboys club mix)", mbid = "22b4a1cb-cbf6-408e-9fab-9428ebd02bb3" },
+]
+
+[[release]]
+mbid = "d4aad4b9-9262-3eec-9831-850140989f3b"
+title = "Shut Up and Drive"
+type = "single"
+date = "2007-08-27"
+tracks = [
+  { n = 1, title = "Shut Up and Drive (The Wideboys club mix)", mbid = "afe032a2-c823-46bd-ab74-f5cbeb1190fc" },
+  { n = 2, title = "Shut Up and Drive (radio edit)", mbid = "627693f3-776d-4646-9ade-2c8bc8e83316" },
+  { n = 3, title = "Shut Up and Drive (instrumental)", mbid = "c30d2d63-12e5-47c9-b15f-57e0ddabf27c" },
+]
+
+[[release]]
+mbid = "b180b873-d0c5-334d-bbff-82b5cd48425d"
+title = "Hate That I Love You"
+type = "single"
+date = "2007-11-12"
+tracks = [
+  { n = 1, title = "Hate That I Love You", mbid = "711992bd-dfc8-4463-b4c3-a5edb610ab12" },
+  { n = 2, title = "Hate That I Love You (K-Klassic remix)", mbid = "ec57c800-2922-4b38-a0e9-2c19a8f3b832" },
+]
+
+[[release]]
+mbid = "e8512ffe-f8d9-41ad-b24b-8a5e75fd1a33"
+title = "Rehab"
+type = "single"
+date = "2008"
+tracks = [
+  { n = 1, title = "Rehab (main)", mbid = "8848ed2d-27d8-49df-8c9d-ca44fbd5c280" },
+  { n = 2, title = "Rehab (instrumental)", mbid = "8fa1a9dc-5201-4938-8e22-a551370d462b" },
+]
+
+[[release]]
+mbid = "a4f288d7-84e5-416c-b1e3-6941c7790e63"
+title = "Take A Bow"
+type = "single"
+date = "2008-04-15"
+spotify = "69Sv07T7OesqwFAXx1jsB6"
+tracks = [
+  { n = 1, title = "Take A Bow", mbid = "7cafe0bc-e428-4a11-b048-65bdfb02ad9a" },
+  { n = 2, title = "Don’t Stop The Music - Solitaire’s More Drama Remix", mbid = "9d15b8ec-c1be-4f61-b08e-f97bd0fb660d" },
+  { n = 3, title = "Take A Bow - Instrumental", mbid = "74eba51e-1794-4717-ba9b-c698a13fbbf5" },
+  { n = 4, title = "Take A Bow - Groove Junkies MoHo Radio", mbid = "15afad4e-fc41-47c7-997b-e72f70c0cf03" },
+]
+
+[[release]]
+mbid = "081ffd2a-4b5e-4d03-9bd3-bdc359ab4cc5"
+title = "If I Never See Your Face Again"
+type = "single"
+date = "2008-05-02"
+spotify = "4cANs3bjSrg3k1uhYs7IJl"
+tracks = [
+  { n = 1, title = "If I Never See Your Face Again", mbid = "4fd5014a-e032-4ce3-afd1-5527e585e4eb" },
+  { n = 2, title = "If I Never See Your Face Again (remix edit)", mbid = "42a309e3-34ad-438c-b578-82afdea6e39e" },
+]
+
+[[release]]
+mbid = "5bdaa74b-c83f-3e25-9a37-3ad28fad9bc2"
+title = "Take a Bow"
+type = "single"
+date = "2008-05-11"
+tracks = [
+  { n = 1, title = "Take a Bow", mbid = "fa515490-6b24-4e54-9387-aed958600304" },
+]
+
+[[release]]
+mbid = "1ecd33e3-46a5-382c-a7f4-0ac4a3b96ee6"
+title = "Disturbia"
+type = "single"
+date = "2008-06-17"
+spotify = "2DJbSanjPjn3IYGC4YoMCm"
+tracks = [
+  { n = 1, title = "Disturbia", mbid = "327e3115-b909-410e-856a-977176392573" },
+  { n = 2, title = "Disturbia (instrumental)", mbid = "2f4d30b9-dd04-43eb-b41a-450d91621b4b" },
+]
+
+[[release]]
+mbid = "57fbd350-d14d-3110-9e6d-26df976ce5ea"
+title = "Live Your Life"
+type = "single"
+date = "2008-09-26"
+tracks = [
+  { n = 1, title = "Live Your Life", mbid = "59d61e4c-9c9e-4353-92b9-dc71d9fbfceb" },
+]
+
+[[release]]
+mbid = "042ef505-11f0-4d89-a1f6-1360e62431af"
+title = "Te amo"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Te amo (album version)", mbid = "69da9f64-8d53-4d12-b658-60d72ecf5936" },
+  { n = 2, title = "Rude Boy (Wideboys Stadium radio mix)", mbid = "d5d8622d-b21a-40c5-b5b4-80ac10ac3e03" },
+]
+
+[[release]]
+mbid = "f43f0fc5-b9b0-4e1e-9c82-6abf429736b2"
+title = "Wait Your Turn"
+type = "single"
+date = "2009"
+spotify = "2g8SsLveXyXC0Ajj7ETFZv"
+tracks = [
+  { n = 1, title = "Wait Your Turn", mbid = "47dc31a6-cb40-4d4f-839b-ab6896675d9f" },
+]
+
+[[release]]
+mbid = "c5a2c9ec-2d16-4dca-89bd-0ee488f9be53"
+title = "Russian Roulette"
+type = "single"
+date = "2009-10"
+tracks = [
+  { n = 1, title = "Russian Roulette (album version)", mbid = "64f83227-6a8e-4f10-99b8-d39fab286807" },
+  { n = 2, title = "Russian Roulette (instrumental)", mbid = "8189f7b3-b3e2-4376-a799-66c7806d693d" },
+]
+
+[[release]]
+mbid = "06fda337-5c4b-42e0-a96c-a349c786965f"
+title = "Rated R"
+type = "album"
+date = "2009-11-16"
+spotify = "0vPsFlDuF2KHY1fatzUM7X"
+tracks = [
+  { n = 1, title = "Mad House", mbid = "0d322991-ed0d-4aed-a913-47c79742e466" },
+  { n = 2, title = "Wait Your Turn", mbid = "676c607c-21f5-40fe-99f8-852724fcfa07" },
+  { n = 3, title = "Hard", mbid = "eede8a6b-0834-4698-b384-6ea297628b5c" },
+  { n = 4, title = "Stupid in Love", mbid = "1961750a-fdad-4d69-a604-09734126de72" },
+  { n = 5, title = "ROCKSTAR 101", mbid = "5f446793-f55b-4efd-bfcb-8583af7bd349" },
+  { n = 6, title = "Russian Roulette", mbid = "64f83227-6a8e-4f10-99b8-d39fab286807" },
+  { n = 7, title = "Fire Bomb", mbid = "a1780603-2004-4f6a-a68e-6ca0de9e542e" },
+  { n = 8, title = "Rude Boy", mbid = "3d3ef666-880f-4dd8-b17f-4e58a7b35c4c" },
+  { n = 9, title = "Photographs", mbid = "85589ac4-d789-4536-bff2-9d307bc3b9ed" },
+  { n = 10, title = "G4L", mbid = "334a0f0d-bb73-4a7c-b52a-5cd74ad0a358" },
+  { n = 11, title = "Te amo", mbid = "69da9f64-8d53-4d12-b658-60d72ecf5936" },
+  { n = 12, title = "Cold Case Love", mbid = "c2d63001-9bfc-4494-8e65-f273a7046bcf" },
+  { n = 13, title = "The Last Song", mbid = "9e49945b-11b1-4a69-882f-577e4f224ab5" },
+]
+
+[[release]]
+mbid = "fc666bbe-ace7-4fb6-b623-8a4328c0ba71"
+title = "Rude Boy"
+type = "single"
+date = "2010-02-19"
+tracks = [
+  { n = 1, title = "Rude Boy (album version)", mbid = "3d3ef666-880f-4dd8-b17f-4e58a7b35c4c" },
+  { n = 2, title = "Rude Boy (instrumental)", mbid = "55cf91b3-af2e-4500-9de5-0a02f476ac02" },
+]
+
+[[release]]
+mbid = "28e6996c-fdfd-461f-bb66-c19a913e4f1f"
+title = "Run This Town / Posthumus Zone"
+type = "single"
+date = "2010-07-20"
+tracks = [
+  { n = 1, title = "Run This Town / Posthumus Zone", mbid = "18672afa-df21-40e2-a9ce-22e059b2d3d6" },
+]
+
+[[release]]
+mbid = "43f85210-e770-44bb-9aba-cd3804e6a569"
+title = "Love the Way You Lie"
+type = "single"
+date = "2010-08-09"
+tracks = [
+  { n = 1, title = "Love the Way You Lie (album version)", mbid = "29d6a30b-b911-475c-808c-8b289844ca75" },
+  { n = 2, title = "Not Afraid (live at T in the Park)", mbid = "487ac043-1ab0-4064-9fd3-8f3b34416967" },
+]
+
+[[release]]
+mbid = "7c6de97d-bf6a-4793-82f5-f142baed33e6"
+title = "Loud"
+type = "album"
+date = "2010-08-18"
+spotify = "51jypjhs3MT52Sd6lXvKz3"
+tracks = [
+  { n = 1, title = "S&M", mbid = "5a5056f9-1bec-426e-bc39-2ba1d22bb13b" },
+  { n = 2, title = "What's My Name?", mbid = "2eab2264-5b01-4454-b66c-3eeb46d37e0c" },
+  { n = 3, title = "Cheers (Drink to That)", mbid = "38a0e25d-40ce-4598-b1d1-254b3a84889a" },
+  { n = 4, title = "Fading", mbid = "cb443721-e0ff-4230-9678-01de7ecffa8b" },
+  { n = 5, title = "Only Girl (in the World)", mbid = "ce4eb46b-1a27-4950-a02f-9499cab56c6b" },
+  { n = 6, title = "California King Bed", mbid = "a1e93c24-0d41-474f-b266-cd8ab1e76909" },
+  { n = 7, title = "Man Down", mbid = "5be1dcbf-1b22-45df-a584-4ddf526eb274" },
+  { n = 8, title = "Raining Men", mbid = "34106bcb-45b0-4aea-96b0-8e2d1becc740" },
+  { n = 9, title = "Complicated", mbid = "3ac570b4-5069-4592-a9e3-730eb91eca1d" },
+  { n = 10, title = "Skin", mbid = "e0cba862-0223-40fa-b2f4-7b0c42631a91" },
+  { n = 11, title = "Love the Way You Lie (Part II)", mbid = "0fd6605b-61f5-40e5-9293-7100be91fa7c" },
+  { n = 12, title = "What's My Name (Version Rihanna)", mbid = "8e2aef11-ebbd-49f8-aeaa-9f402fe9e06f" },
+  { n = 13, title = "Who's That Chick (Doritos Night Edit)", mbid = "20c670cd-0e6a-43d4-8824-e81ea8fa97fc" },
+  { n = 14, title = "Only Girl (in The World (Remix)", mbid = "ac68ced4-3004-4918-a130-ee9fb766f7e7" },
+  { n = 15, title = "Stick Up (Live At Saturday Night Live) Rihanna", mbid = "0dddfed3-f456-4876-a985-79148398182c" },
+]
+
+[[release]]
+mbid = "82e0e45f-d1a3-4c4a-addc-6ddfb629d097"
+title = "Only Girl (in the World)"
+type = "single"
+date = "2010-09-13"
+spotify = "4axyfZK2eFyH2uLESlV4oV"
+tracks = [
+  { n = 1, title = "Only Girl (In the World) (extended club)", mbid = "a461179a-9bff-494c-b729-152be02e46cd" },
+]
+
+[[release]]
+mbid = "b0c7edba-40d5-48b7-87cf-5c477c2b61be"
+title = "What’s My Name?"
+type = "single"
+date = "2010-10-25"
+spotify = "7CPh82k5kE1mHvxbpSXmen"
+tracks = [
+  { n = 1, title = "What’s My Name?", mbid = "2eab2264-5b01-4454-b66c-3eeb46d37e0c" },
+]
+
+[[release]]
+mbid = "92c0d240-d620-4c95-855c-4bc87cbaad9a"
+title = "Who’s That Chick?"
+type = "single"
+date = "2010-11-08"
+spotify = "3T3MLtb5e99Gycmojic6h9"
+tracks = [
+  { n = 1, title = "Who's That Chick? (FMIF dub remix)", mbid = "303341a7-a1f1-49a6-8a68-ecb1d7ab4708" },
+]
+
+[[release]]
+mbid = "1e750e2c-08ee-4993-8bd6-f75b2b1aeb66"
+title = "All of the Lights"
+type = "single"
+date = "2011-01-18"
+tracks = [
+  { n = 1, title = "All of the Lights", mbid = "54dda9e4-b727-406e-b5b7-86b92f7d47fc" },
+]
+
+[[release]]
+mbid = "a9db13b6-cac9-4c05-b47f-be965c064064"
+title = "S&M"
+type = "single"
+date = "2011-02-11"
+tracks = [
+  { n = 1, title = "S&M (Come On)", mbid = "9db6f1bb-1759-4f56-a348-07635fd81e71" },
+]
+
+[[release]]
+mbid = "971fdaff-ce95-4242-b2a1-5f64584cd517"
+title = "California King Bed"
+type = "single"
+date = "2011-06-24"
+tracks = [
+  { n = 1, title = "California King Bed", mbid = "a1e93c24-0d41-474f-b266-cd8ab1e76909" },
+  { n = 2, title = "S&M (Sidney Samson club remix)", mbid = "29be7bd6-8f2f-4856-a2c7-a268f36a75e4" },
+]
+
+[[release]]
+mbid = "51abf0d4-97b3-49e1-9fab-11a12ca5671f"
+title = "Man Down"
+type = "single"
+date = "2011-07-08"
+spotify = "1Z2MDepIsrFBI3v6vnlbW8"
+tracks = [
+  { n = 1, title = "Man Down", mbid = "5be1dcbf-1b22-45df-a584-4ddf526eb274" },
+]
+
+[[release]]
+mbid = "29fb99cf-826a-48e0-8a28-e523c68d1f4a"
+title = "Fly"
+type = "single"
+date = "2011-08-30"
+tracks = [
+  { n = 1, title = "Fly", mbid = "a9717748-a4d6-4dc4-83d5-1b75ad67815b" },
+]
+
+[[release]]
+mbid = "7fa46158-f064-4397-a26c-3ae9dc82faa9"
+title = "We Found Love"
+type = "single"
+date = "2011-09-22"
+tracks = [
+  { n = 1, title = "We Found Love", mbid = "11294597-b4ac-4717-8e95-f99d665c1ece" },
+]
+
+[[release]]
+mbid = "5285118e-7f16-46ec-ad47-8c85814275b7"
+title = "You Da One"
+type = "single"
+date = "2011-11-14"
+tracks = [
+  { n = 1, title = "You Da One", mbid = "b556fa27-7c4c-45e4-8e10-606bf41deaa9" },
+]
+
+[[release]]
+mbid = "15818ec5-bf34-47de-a4e5-260f98828d64"
+title = "Talk That Talk"
+type = "album"
+date = "2011-11-18"
+spotify = "3vFusDrqXiH9hV2VoHBEN5"
+tracks = [
+  { n = 1, title = "You da One", mbid = "3f36c798-c2d9-4d0f-b634-5982dae56bc2" },
+  { n = 2, title = "Where Have You Been", mbid = "3d409b8b-7161-4787-8c89-ccee7b232d5d" },
+  { n = 3, title = "We Found Love", mbid = "11294597-b4ac-4717-8e95-f99d665c1ece" },
+  { n = 4, title = "Talk That Talk", mbid = "7417ae79-4f76-4995-ac03-8d67af0cfb07" },
+  { n = 5, title = "Cockiness (Love It)", mbid = "973a4561-e997-4ea9-845d-277d67cdddbb" },
+  { n = 6, title = "Birthday Cake", mbid = "8418f490-cd24-42c6-8eea-48d02da8b291" },
+  { n = 7, title = "We All Want Love", mbid = "1cf9f2fc-b55a-4787-b49e-5844a5bd4141" },
+  { n = 8, title = "Drunk on Love", mbid = "0552ac06-85b7-480c-9263-2ca50a25c824" },
+  { n = 9, title = "Roc Me Out", mbid = "e247dd7b-ccc5-4ead-bd8a-d47c7bc81aa7" },
+  { n = 10, title = "Watch n’ Learn", mbid = "ef7eff0e-2825-4024-8939-4377a8fd5c09" },
+  { n = 11, title = "Farewell", mbid = "963d261a-1f5c-410e-84ce-73942e85bf2d" },
+]
+
+[[release]]
+mbid = "f09399e6-8604-4034-9977-71e5e12fa027"
+title = "Take Care"
+type = "single"
+date = "2012-02-21"
+tracks = [
+  { n = 1, title = "Take Care", mbid = "6e6d5c1e-f295-4a6b-a83c-100076bf3443" },
+]
+
+[[release]]
+mbid = "884919c5-334c-427a-adbd-a81d537045a3"
+title = "Talk That Talk"
+type = "single"
+date = "2012-03-26"
+tracks = [
+  { n = 1, title = "Talk That Talk", mbid = "7417ae79-4f76-4995-ac03-8d67af0cfb07" },
+  { n = 2, title = "We Found Love (Chuckie extended mix)", mbid = "138ce852-7630-4c02-92ac-ce746a96a8c1" },
+]
+
+[[release]]
+mbid = "fdd6aa86-9b2b-48b6-8e9d-70d89b78db53"
+title = "Princess of China"
+type = "single"
+date = "2012-04-15"
+spotify = "5GMAB2CiYfO711PUbJHMp4"
+tracks = [
+  { n = 1, title = "Princess of China (radio edit)", mbid = "d3099d07-f836-4b84-bc1f-3f16defdc1b2" },
+]
+
+[[release]]
+mbid = "84b8af08-d26b-46fe-a65f-64f311299d13"
+title = "Where Have You Been"
+type = "single"
+date = "2012-05-25"
+tracks = [
+  { n = 1, title = "Where Have You Been", mbid = "3d409b8b-7161-4787-8c89-ccee7b232d5d" },
+  { n = 2, title = "Where Have You Been (Hector Fonseca radio edit)", mbid = "f617bc3b-445b-4baa-9fff-6c82a5028b96" },
+]
+
+[[release]]
+mbid = "e0953e0e-3cc8-47db-a148-2939c27b6cd6"
+title = "Diamonds"
+type = "single"
+date = "2012-09-27"
+spotify = "2lRsZapxZxX43cmoDygp45"
+tracks = [
+  { n = 1, title = "Diamonds", mbid = "9077d216-6a67-43d8-bf4f-0efe83dac8bc" },
+]
+
+[[release]]
+mbid = "1ab3ba95-bc96-46f4-bc6d-1e57bc6ad1a0"
+title = "Unapologetic"
+type = "album"
+date = "2012-11-19"
+spotify = "5pLlGJrxuQO3jMoQe1XxZY"
+tracks = [
+  { n = 1, title = "Fresh Off the Runway", mbid = "b4d7d506-ccf0-478e-a68e-b97002b49289" },
+  { n = 2, title = "Diamonds", mbid = "9077d216-6a67-43d8-bf4f-0efe83dac8bc" },
+  { n = 3, title = "Numb", mbid = "99f1a9ac-46f8-4f75-b250-bd61e7d56f20" },
+  { n = 4, title = "Pour It Up", mbid = "6d614346-d93d-4e35-ad8f-7a2ca2300f06" },
+  { n = 5, title = "Loveeeeeee Song", mbid = "7bdab9ce-617b-40e3-9331-35680e3dd7cc" },
+  { n = 6, title = "Jump", mbid = "798cfa6f-e076-4743-a981-96ca68ec5307" },
+  { n = 7, title = "Right Now", mbid = "3238a5db-11ff-41db-b40a-a166e0234e95" },
+  { n = 8, title = "What Now", mbid = "4348756a-76db-4e4b-a83b-bd64ccbdee92" },
+  { n = 9, title = "Stay", mbid = "6c5c1e00-a2f3-4695-91a5-2372df42006f" },
+  { n = 10, title = "Nobody’s Business", mbid = "7d5bde74-0b8f-4217-a5fc-e3a0aa91389c" },
+  { n = 11, title = "Love Without Tragedy / Mother Mary", mbid = "33dc6d37-a2f2-4111-9e53-eafe66b0b2d4" },
+  { n = 12, title = "Get It Over With", mbid = "fb063366-33ea-42d4-b7e7-dde44a8d7f32" },
+  { n = 13, title = "No Love Allowed", mbid = "f4f53fbb-f5b1-4546-a4c5-76495c56a42e" },
+  { n = 14, title = "Lost in Paradise", mbid = "c655baae-fc5b-4c14-830e-f5d81d6695db" },
+]
+
+[[release]]
+mbid = "b21c9185-46eb-4869-9e91-2f94a00e23ce"
+title = "Pour It Up"
+type = "single"
+date = "2013"
+tracks = [
+  { n = 1, title = "Pour It Up", mbid = "6d614346-d93d-4e35-ad8f-7a2ca2300f06" },
+]
+
+[[release]]
+mbid = "2c4e0a8b-ae95-4cef-9664-3d38f13403c2"
+title = "Stay"
+type = "single"
+date = "2013-02-15"
+tracks = [
+  { n = 1, title = "Stay", mbid = "6c5c1e00-a2f3-4695-91a5-2372df42006f" },
+  { n = 2, title = "Stay (Freshgang Electro/Progressive Bootleg mix)", mbid = "4681ea1f-859e-4fb2-98b2-f63091e2fe1f" },
+  { n = 3, title = "Stay (Them Jeans remix)", mbid = "611d2ac0-f482-4978-97d4-ab82031fc4e4" },
+  { n = 4, title = "Stay (Bass King vs. X-Vertigo remix)", mbid = "9ae13003-e6d1-4181-94c1-3e4b985d7224" },
+  { n = 5, title = "Stay (Yashar Gasanov remix)", mbid = "4670bdbc-47ce-4dff-966e-67521eb9dbdf" },
+  { n = 6, title = "Stay (Liam Keegan & Anton Powers remix)", mbid = "6a025a93-405e-4429-a035-421800fc5175" },
+]
+
+[[release]]
+mbid = "de307adf-da87-4471-bbb0-327571efdc4a"
+title = "The Monster"
+type = "single"
+date = "2013-10-28"
+spotify = "2ydprr2oUliVB8jXpZfHbZ"
+tracks = [
+  { n = 1, title = "The Monster", mbid = "7e9e29c6-c643-41bb-bd1c-f77e4a453719" },
+]
+
+[[release]]
+mbid = "728e0f13-e61c-458b-9d37-df5b726a79da"
+title = "Can’t Remember to Forget You"
+type = "single"
+date = "2014-01-13"
+tracks = [
+  { n = 1, title = "Can’t Remember to Forget You", mbid = "274ce679-f36a-46a0-a04a-76103c67bdae" },
+]
+
+[[release]]
+mbid = "e9fc7d02-000b-4416-b720-7ad4d4da060c"
+title = "FourFiveSeconds"
+type = "single"
+date = "2015-01-24"
+spotify = "7yBl4uFyJzH48Vy6tPieXL"
+tracks = [
+  { n = 1, title = "FourFiveSeconds", mbid = "b1e7bebd-0d36-4e4e-b419-e87bd5520933" },
+]
+
+[[release]]
+mbid = "b8bfc038-581c-4c23-84a1-6f086fb2086c"
+title = "Towards the Sun"
+type = "single"
+date = "2015-02-24"
+tracks = [
+  { n = 1, title = "Towards the Sun", mbid = "3d99568a-3f4c-4768-95b3-41f1fd1d8682" },
+]
+
+[[release]]
+mbid = "150d7f40-840d-4b36-abed-1b2e642eb9e8"
+title = "Bitch Better Have My Money"
+type = "single"
+date = "2015-03-26"
+spotify = "31A26KyDrlco2G5tNucnIA"
+tracks = [
+  { n = 1, title = "Bitch Better Have My Money", mbid = "f272818a-0284-47a9-9e17-66adcd9594d7" },
+]
+
+[[release]]
+mbid = "1319ef80-c4de-42dc-9973-8e5ea781f327"
+title = "American Oxygen"
+type = "single"
+date = "2015-04-14"
+tracks = [
+  { n = 1, title = "American Oxygen", mbid = "c5f0c614-8df9-4981-90eb-d28ed85ab08f" },
+]
+
+[[release]]
+mbid = "4d74169d-be7d-47ec-be63-d501096e0b7e"
+title = "Work"
+type = "single"
+date = "2016-01-27"
+tracks = [
+  { n = 1, title = "Work", mbid = "771e2d85-e47a-4438-bfd4-c760b97786cf" },
+]
+
+[[release]]
+mbid = "0c482acd-35a2-466b-b833-ef5f2f1297d4"
+title = "ANTI"
+type = "album"
+date = "2016-01-28"
+spotify = "4UlGauD7ROb3YbVOFMgW5u"
+tracks = [
+  { n = 1, title = "Consideration", mbid = "f7a18eea-d7a5-4b0d-aa33-ce57718a131a" },
+  { n = 2, title = "James Joint", mbid = "49e11c6b-a06e-4138-8aaa-ba471cec2ba7" },
+  { n = 3, title = "Kiss It Better", mbid = "ce079a88-fe62-41ae-be1d-b156b30963e8" },
+  { n = 4, title = "Work", mbid = "771e2d85-e47a-4438-bfd4-c760b97786cf" },
+  { n = 5, title = "Desperado", mbid = "4a1ecb54-2d42-483d-a2e9-db2694baa4c4" },
+  { n = 6, title = "Woo", mbid = "c11ccc51-7802-46aa-a5db-8b1eee0a93ea" },
+  { n = 7, title = "Needed Me", mbid = "20ca09ca-6d25-40f8-9488-ea1c12836fa2" },
+  { n = 8, title = "Yeah, I Said It", mbid = "bc5146a5-7ab9-4161-83c1-b77e9fe8f7fb" },
+  { n = 9, title = "Same Ol’ Mistakes", mbid = "1f79c73c-a376-4edf-a3b1-ad4ab636fa18" },
+  { n = 10, title = "Never Ending", mbid = "bc38a43a-9a57-48c4-90d9-b53afb17d730" },
+  { n = 11, title = "Love on the Brain", mbid = "85465eb1-f250-4f7f-845e-856ef8e16297" },
+  { n = 12, title = "Higher", mbid = "d96975c9-cf03-42c6-9af6-61afddf19a64" },
+  { n = 13, title = "Close to You", mbid = "649b6d16-68af-4bb5-9da9-3819758a01dc" },
+  { n = 14, title = "Goodnight Gotham", mbid = "3575a003-ec81-445a-b165-a68a04da4a4d" },
+  { n = 15, title = "Pose", mbid = "b74c25e1-42ff-4e32-9073-e72e69261b78" },
+  { n = 16, title = "Sex With Me", mbid = "4ac23353-0812-42e5-878c-1c1b6479eeca" },
+]
+
+[[release]]
+mbid = "16829e46-e0ba-4b58-8b7d-efe23724083d"
+title = "Needed Me"
+type = "single"
+date = "2016-03-30"
+tracks = [
+  { n = 1, title = "Needed Me", mbid = "20ca09ca-6d25-40f8-9488-ea1c12836fa2" },
+]
+
+[[release]]
+mbid = "41e9758f-d99d-48d9-be99-4cd1bed84768"
+title = "This Is What You Came For"
+type = "single"
+date = "2016-04-30"
+spotify = "3pEgGUv379EDinvg1TN7Kt"
+tracks = [
+  { n = 1, title = "This Is What You Came For", mbid = "30ac9667-bc70-4541-a022-a3a881784ec2" },
+]
+
+[[release]]
+mbid = "0675965a-2aa0-4f66-8149-fb4b2f2e166e"
+title = "Kiss It Better"
+type = "single"
+date = "2016-06-01"
+tracks = [
+  { n = 1, title = "Kiss It Better (R3hab remix)", mbid = "835b1b02-f3be-4450-aada-b11ad122aa42" },
+  { n = 2, title = "Kiss It Better (Four Tet remix)", mbid = "0f8a2c42-0250-4b4f-8354-ba68b9faa61a" },
+  { n = 3, title = "Kiss It Better (Kaytranada edition)", mbid = "b7816d6c-7109-4685-96c4-41edc1437545" },
+  { n = 4, title = "Kiss It Better (Feenixpawl remix)", mbid = "186debe2-9002-4dcc-b819-51e1c977c9d3" },
+]
+
+[[release]]
+mbid = "bcd91a31-6b5c-4796-bfca-5646b00f28db"
+title = "Nothing Is Promised"
+type = "single"
+date = "2016-06-02"
+spotify = "5xIXeKpY0dT3gcQAXZJvwz"
+tracks = [
+  { n = 1, title = "Nothing Is Promised", mbid = "62c0d84d-8a75-439d-a9e0-2c70957babe6" },
+]
+
+[[release]]
+mbid = "25f09b05-0d98-4c67-b865-21aff3be7915"
+title = "Sledgehammer (from the Motion Picture “Star Trek Beyond”)"
+type = "single"
+date = "2016-06-27"
+spotify = "1kv0MtCYndTXtkdzvGHkMx"
+tracks = [
+  { n = 1, title = "Sledgehammer (from the Motion Picture “Star Trek Beyond”)", mbid = "c90942d1-b18c-4705-b0d3-a24648c1f866" },
+]
+
+[[release]]
+mbid = "97cc6a75-79a2-4290-af67-705cb9beca72"
+title = "Too Good"
+type = "single"
+date = "2016-07-26"
+tracks = [
+  { n = 1, title = "Too Good", mbid = "63a6a97b-90be-410e-b5ed-03973e5a55ea" },
+]
+
+[[release]]
+mbid = "b5cca024-4066-46bd-bac6-53b1391aa7e0"
+title = "Love on the Brain"
+type = "single"
+date = "2016-09-27"
+tracks = [
+  { n = 1, title = "Love on the Brain", mbid = "85465eb1-f250-4f7f-845e-856ef8e16297" },
+  { n = 2, title = "Love on the Brain (Don Diablo remix)", mbid = "dadef81b-4c05-463e-9f5f-ab217079ba5f" },
+]
+
+[[release]]
+mbid = "e1564afe-9605-4951-b2b6-3b6944f4d150"
+title = "Wild Thoughts"
+type = "single"
+date = "2017-06-16"
+spotify = "6XMTRp9sURjgP9g23ppEri"
+tracks = [
+  { n = 1, title = "Wild Thoughts", mbid = "a494c1f9-42e7-4806-a755-d75c8e68b46a" },
+]
+
+[[release]]
+mbid = "779534f8-030c-446a-b9f3-0241345929a4"
+title = "Lemon"
+type = "single"
+date = "2017-11-02"
+tracks = [
+  { n = 1, title = "Lemon", mbid = "00c184f5-378e-4b4a-9bff-e39708601581" },
+]
+
+[[release]]
+mbid = "be58ac16-4bce-48c7-b690-8ec440264472"
+title = "BELIEVE IT"
+type = "single"
+date = "2020-03-26"
+spotify = "5Ku8vJclbcBKh3f3jwfNHy"
+tracks = [
+  { n = 1, title = "BELIEVE IT", mbid = "b3ee8860-c0cd-436b-a57a-6e5f3b9ee44b" },
+]
+
+[[release]]
+mbid = "83fe6b3c-fa82-481f-b55f-3bbdb2070872"
+title = "Electric Riri"
+type = "single"
+date = "2022-09-16"
+tracks = [
+  { n = 1, title = "Electric Riri", mbid = "0a0fd184-7a04-415e-86a5-17262ce6c724" },
+]
+
+[[release]]
+mbid = "c4f8d1eb-290d-401a-9f5a-49538bb0f5d5"
+title = "Lift Me Up"
+type = "single"
+date = "2022-10-28"
+spotify = "3Zzv75PyROH6AMeXN1Yr1h"
+tracks = [
+  { n = 1, title = "Lift Me Up", mbid = "08eff657-2f36-4de6-94bc-3b57b26340d2" },
+  { n = 2, title = "Lift Me Up (instrumental)", mbid = "bb7e36dc-648d-4ebd-bad9-6a9be421065a" },
+]
+
+[[release]]
+mbid = "bcef07fe-24a6-4c7f-a384-373793c53322"
+title = "Pon de Replay (OJ's Speed Garage Remix)"
+type = "single"
+date = "2023-05-02"
+tracks = [
+  { n = 1, title = "Pon de Replay (OJ's Speed Garage Remix)", mbid = "dd8ca1d5-df79-46b8-879b-9134745443a6" },
+]
+
+[[release]]
+mbid = "9e5ff094-c70d-42c4-93aa-65b0d693e09e"
+title = "Having a Stroke Type Beat"
+type = "single"
+date = "2023-08-04"
+tracks = [
+  { n = 1, title = "Having a Stroke Type Beat", mbid = "2bd9a960-1bdf-4917-a350-ece30c62f4e4" },
+]
+
+[[release]]
+mbid = "32f52ae2-1674-464f-bd99-1d19a5282a7e"
+title = "Super Bowl Halftime Show"
+type = "single"
+date = "2023-10-21"
+tracks = [
+  { n = 1, title = "Super Bowl LVII Halftime Show (Studio Version)", mbid = "558168c0-489d-41b5-992a-b0904a5d3dbf" },
+  { n = 2, title = "Super Bowl LVII Halftime Show", mbid = "8966a6f5-88d6-41a6-a530-6c7cddab2100" },
+]
+
+[[release]]
+mbid = "5fc7992f-fc0a-4781-b2e7-82491bed1798"
+title = "Friend of Mine"
+type = "single"
+date = "2025-05-15"
+spotify = "5i62DNndG868cvPfeedCoW"
+tracks = [
+  { n = 1, title = "Friend of Mine", mbid = "48262a0b-4f2c-4673-86db-6014b557ab2b" },
+  { n = 2, title = "Friend of Mine (radio edit)", mbid = "64c38493-e8c6-4334-b5b5-bd0eed6b971d" },
+  { n = 3, title = "Friend of Mine (instrumental)", mbid = "da6eb95b-6c1c-4cdc-ae0c-7f830e8444be" },
+]

@@ -1,0 +1,420 @@
+format = 1
+
+[[release]]
+mbid = "4749bbc2-2538-3d8c-aacd-8fdd083f5df3"
+title = "Le Tango des gens"
+type = "album"
+date = "2001"
+tracks = [
+  { n = 1, title = "Frida", mbid = "cc7f1d51-3aec-4aca-8542-25a9fde3b00d" },
+  { n = 2, title = "Mal ô mains", mbid = "3f1a9500-7318-40a1-9a9e-a890aa44c223" },
+  { n = 3, title = "Les Embouteillages", mbid = "b0553825-ea7a-4487-8e45-645b1dfc5fb9" },
+  { n = 4, title = "Les Films de guerre", mbid = "8f75c3f4-b73a-4d8a-bb83-bfbdf7ce9b6c" },
+  { n = 5, title = "Swing du nul", mbid = "9e78b671-cb11-42b4-8c58-bbce6acea55a" },
+  { n = 6, title = "Le Tango de l’ennui", mbid = "0cb8efc7-4d5b-48f1-b0c4-8ce078cd6844" },
+  { n = 7, title = "André", mbid = "6384914e-eca9-423f-9522-e569854767eb" },
+  { n = 8, title = "Le Tango des gens", mbid = "3ea6869c-6aa9-45c4-9291-a7179324663f" },
+  { n = 9, title = "Rouge", mbid = "f5ece2d9-c631-4b6f-bfae-9bc162769446" },
+  { n = 10, title = "Maigrir", mbid = "a2bc63f7-f146-4e6f-bca8-5cc8c916f582" },
+  { n = 11, title = "La Mer", mbid = "28980674-0b65-41f8-9b6b-45e1118bf243" },
+]
+
+[[release]]
+mbid = "26e4d3b2-7e29-45ce-844b-80b128c7a97a"
+title = "Les Embouteillages"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Les Embouteillages", mbid = "b0553825-ea7a-4487-8e45-645b1dfc5fb9" },
+  { n = 2, title = "Maigrir", mbid = "a2bc63f7-f146-4e6f-bca8-5cc8c916f582" },
+]
+
+[[release]]
+mbid = "170852ac-3ea5-34e7-8697-4fa95b3b8ef9"
+title = "Les Sénégalaises"
+type = "album"
+date = "2001"
+tracks = [
+  { disc = 1, n = 1, title = "Jean-Luc", mbid = "13af31cd-6b4c-4d19-9c55-54c93c137bc1" },
+  { disc = 1, n = 2, title = "À l’enterrement de ma grand-mère", mbid = "b439b1db-5afe-4aa1-9a87-e5c1d365b2dc" },
+  { disc = 1, n = 3, title = "La Cigarette", mbid = "73350035-c48a-4516-be95-bfd8e2112cca" },
+  { disc = 1, n = 4, title = "La Voisine des oiseaux", mbid = "fbb44e0d-f96f-49b3-9156-47c592d461c4" },
+  { disc = 1, n = 5, title = "Michto la pompe", mbid = "1a14e344-a079-44c8-bdac-2117ab5d2b7f" },
+  { disc = 1, n = 6, title = "Les Petites Sénégalaises", mbid = "f35b938c-6f40-40e3-b82c-f60f1f1bb2c1" },
+  { disc = 1, n = 7, title = "Les Sénégalaises", mbid = "4fb7fd18-49f8-49cc-81eb-95e76db345e5" },
+  { disc = 1, n = 8, title = "André II", mbid = "7d4e2518-ea15-4b4f-ae21-808bf89239f6" },
+  { disc = 1, n = 9, title = "Un ticket", mbid = "b5470345-aa4b-41ef-b0eb-a6c1d26325d5" },
+  { disc = 1, n = 10, title = "Les Bourre-pâtes et les tire-nerfs", mbid = "6f0d6e1d-817e-41f5-b736-fc2778b4d6af" },
+  { disc = 1, n = 11, title = "Grand Jean-Luc", mbid = "2aabef8c-fbc1-4d8e-a96f-c75431b591e6" },
+  { disc = 1, n = 12, title = "Le Dormeur du val vivant", mbid = "84c4283c-07a1-4fda-90c6-f166d06affa2" },
+  { disc = 1, n = 13, title = "L’Étrangère", mbid = "48c033e3-13e1-45dc-aef2-ecf97e0dea7e" },
+  { disc = 1, n = 14, title = "Les Sénégalaises de Félix", mbid = "0425282c-e3f0-4732-8a69-57853b7d845f" },
+  { disc = 2, n = 1, title = "Il suffirait de presque rien", mbid = "9c1d0468-47fa-4758-b76b-ab38d52261a9" },
+  { disc = 2, n = 2, title = "Éloge de la tristesse", mbid = "a60a6395-ee0a-43cc-a391-26017a5c9615" },
+  { disc = 2, n = 3, title = "Maigrir II", mbid = "72bee9a0-9302-4862-8eea-7719b1366b49" },
+  { disc = 2, n = 4, title = "Loulou ne vaut vas un clou", mbid = "6333456d-4df4-4501-8429-ce32fb5c1ffc" },
+]
+
+[[release]]
+mbid = "4ed36c09-c2b3-40bc-bf88-c2c7776efa97"
+title = "Sanseverino"
+type = "ep"
+date = "2001"
+tracks = [
+  { n = 1, title = "Frida", mbid = "cc7f1d51-3aec-4aca-8542-25a9fde3b00d" },
+  { n = 2, title = "Les Embouteillages", mbid = "b0553825-ea7a-4487-8e45-645b1dfc5fb9" },
+  { n = 3, title = "André", mbid = "6384914e-eca9-423f-9522-e569854767eb" },
+  { n = 4, title = "Swing du nul", mbid = "9e78b671-cb11-42b4-8c58-bbce6acea55a" },
+]
+
+[[release]]
+mbid = "1607205e-f9f2-41b7-977f-1943d91ae796"
+title = "Sanseverino"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "Il suffirait de presque rien", mbid = "9c1d0468-47fa-4758-b76b-ab38d52261a9" },
+  { n = 2, title = "Éloge de la tristesse", mbid = "5e112229-91ff-45a0-adc9-110218c3e542" },
+  { n = 3, title = "Maigrir II", mbid = "ea9c7afd-1a19-41ab-8626-9bda963b161c" },
+  { n = 4, title = "Loulou ne vaut pas un clou", mbid = "6333456d-4df4-4501-8429-ce32fb5c1ffc" },
+]
+
+[[release]]
+mbid = "5266d761-d576-423a-bf8d-ae01e3cc4434"
+title = "J’te plais pas, Mathilde"
+type = "ep"
+date = "2005"
+tracks = [
+  { n = 1, title = "J’te plais pas, Mathilde", mbid = "c00cd3d4-e381-43a5-bfde-e366ef8045eb" },
+  { n = 2, title = "La Voisine des oiseaux", mbid = "6f8708c2-6e8e-4070-82dc-d0244fc42d19" },
+  { n = 3, title = "Bon anniversaire", mbid = "df82e724-cf58-46db-b2a6-975996a81299" },
+  { n = 4, title = "J’te plais pas, Mathilde (version radio)", mbid = "83a7e5eb-837f-42b2-b0e5-b9b35b9ec8ef" },
+]
+
+[[release]]
+mbid = "ae6ef55b-08f6-3d7c-a81f-e2e88d2b75fd"
+title = "Exactement"
+type = "album"
+date = "2006-11-06"
+spotify = "2gz2NQLiYyGKBxXsITqm0j"
+tracks = [
+  { disc = 1, n = 1, title = "Démolissons les mots", mbid = "e7634e5e-debe-45ff-ba19-650f46d6ca3f" },
+  { disc = 1, n = 2, title = "Comment séduire une femme mariée ?", mbid = "d9dbc532-9204-4457-a3a4-23bd1dd8de88" },
+  { disc = 1, n = 3, title = "Exactement", mbid = "56dead0a-7b7b-46d7-b266-3e6a92d31015" },
+  { disc = 1, n = 4, title = "Cette conne m’ennuie", mbid = "c9b6c6f0-3915-435f-b49e-0ba8d376101e" },
+  { disc = 1, n = 5, title = "J’ai un homme dans ma vie", mbid = "69e6008b-5310-4f3c-b90e-e5eb21fc681c" },
+  { disc = 1, n = 6, title = "10 jours avant Paris", mbid = "81b4a612-7ee1-44dc-b049-c5caa47c4675" },
+  { disc = 1, n = 7, title = "Il se la pète", mbid = "b1ce339b-ae60-41fd-9067-14ac174479fb" },
+  { disc = 1, n = 8, title = "Dans la maison sur le port", mbid = "2afb49b6-e13e-43db-8ed1-d64599bb3b80" },
+  { disc = 1, n = 9, title = "Les Ouvriers", mbid = "65264ba7-d28b-4113-be85-e55c3aa244fe" },
+  { disc = 1, n = 10, title = "André superstar", mbid = "d49c8308-2ee7-49ea-9e97-df6499ac4d84" },
+  { disc = 1, n = 11, title = "La Valse à Peggy", mbid = "523916aa-5e11-49f7-bb1f-760342968dc4" },
+  { disc = 1, n = 12, title = "Le Swing du Président", mbid = "564fea2e-6a07-47a4-ab1f-9e9a40e3329d" },
+  { disc = 1, n = 13, title = "Exactemando", mbid = "c1b49c41-6ec2-4dfd-80d6-d2cb3b060f47" },
+  { disc = 2, n = 1, title = "Dans la salle du bar tabac de la rue des Martyrs", mbid = "d2463f15-b3fa-453e-9420-1b99ba4fc7f8" },
+  { disc = 2, n = 2, title = "André", mbid = "0c454bde-908c-4f5b-8a65-4681a169f9ab" },
+  { disc = 2, n = 3, title = "Sous les couvertures", mbid = "7485195d-ad91-402e-ab21-5f7cc334a991" },
+  { disc = 2, n = 4, title = "Vous avez déjà tout", mbid = "254da12c-ce59-4ed4-a33a-181695ac25de" },
+  { disc = 2, n = 5, title = "Bon anniversaire", mbid = "df82e724-cf58-46db-b2a6-975996a81299" },
+]
+
+[[release]]
+mbid = "268797e1-d6a1-49c5-acdd-3af53844c574"
+title = "Les Faux Talbins"
+type = "album"
+date = "2009-11-02"
+tracks = [
+  { n = 1, title = "Les Faux Talbins", mbid = "9e9f040b-de3c-4198-bb9c-91790b56640f" },
+  { n = 2, title = "Les Marioles", mbid = "9cb85601-643e-4826-958c-a84ed44357a9" },
+  { n = 3, title = "Malade mental", mbid = "f621c99b-757b-46c2-b223-3456bfeba51f" },
+  { n = 4, title = "Finis ta vaisselle", mbid = "7afd6fdf-560f-4c96-95d3-9384cced724d" },
+  { n = 5, title = "La Reine du périphérique", mbid = "08f52e34-2272-4aa7-ac3c-2ba79e2f0846" },
+  { n = 6, title = "A Boy Named Sue", mbid = "b64c0362-95f3-4ef6-9565-ad0295b8b778" },
+  { n = 7, title = "Les rockers aiment la java", mbid = "b108e40d-ee35-403e-8761-7d7300d2fc44" },
+  { n = 8, title = "Tu n’en as plus rien à foutre de moi", mbid = "5a7dcba1-9f17-442a-abfa-b6fd1918670b" },
+  { n = 9, title = "La Salsa du démon", mbid = "c20c6a34-c782-4dd8-bffd-744e09120268" },
+  { n = 10, title = "Tu pues Benny", mbid = "e8d434a4-4aa6-41f6-b27c-34eb5623dbf1" },
+  { n = 11, title = "Le Grand Grégory", mbid = "999bd03c-da6b-4d31-a9ce-b629c04d296a" },
+  { n = 12, title = "Riton & Rita", mbid = "3e0ce0e8-83ed-4520-acdb-05d43769eca9" },
+  { n = 13, title = "Chérie, c’est la guerre", mbid = "71b5fdc0-efcc-4406-970a-af15ebcc3bf6" },
+  { n = 14, title = "La Valse du blues du livre", mbid = "742b08e2-c798-4f86-a241-6088c64f6edc" },
+  { n = 15, title = "La Femme du marin", mbid = "d814feda-d1f1-4cbd-8932-2da7ce69cdfd" },
+  { n = 16, title = "Dimanche dernier", mbid = "6eb258a6-fa0c-43a7-ad6d-3681d11266b3" },
+  { n = 17, title = "Je t’aime pas", mbid = "9d848389-842a-40c2-9c23-c492fe65a736" },
+]
+
+[[release]]
+mbid = "e8af6577-b3cf-42ea-a0de-87366e04db42"
+title = "Freddy"
+type = "single"
+date = "2013-01-28"
+tracks = [
+  { n = 1, title = "Freddy", mbid = "1be5f9bd-fc2d-4ba8-bb3f-0b377a0ce34f" },
+]
+
+[[release]]
+mbid = "8fdca439-285c-49c3-bd66-698ccd78f036"
+title = "Honky Tonk"
+type = "album"
+date = "2013-03-11"
+spotify = "6ge20KmwYmymfycFZwdxJP"
+tracks = [
+  { n = 1, title = "On ze route", mbid = "4d4571b6-dd6e-4f1a-9b30-517c499c4a20" },
+  { n = 2, title = "J’vous raconte ma vie", mbid = "789d303f-1749-42cc-a9e1-03dae8e9385a" },
+  { n = 3, title = "Swing 2012", mbid = "d3ce5b64-c718-4321-8e48-c72aefc89a9e" },
+  { n = 4, title = "L’Avion", mbid = "763b1b26-4888-47a7-bb11-20e474aece8d" },
+  { n = 5, title = "Plus jamais", mbid = "06aa5b5a-b171-4eb1-b3d5-c424b592a1a8" },
+  { n = 6, title = "Les Marrons", mbid = "d17703df-572b-472f-a22b-567eeb0bb615" },
+  { n = 7, title = "Le Honky Tonk du tank", mbid = "6c312046-da30-4ea9-9ec7-d32655d5ef11" },
+  { n = 8, title = "Carte postale à ma cousine qui habite au bord de la Méditerranée", mbid = "e092c439-9563-4fa4-b3d3-87ffb30af63e" },
+  { n = 9, title = "Le Vieux", mbid = "e8c869bb-01a8-419f-b561-22fa0e2c3662" },
+  { n = 10, title = "Tout est dans mon sac", mbid = "73cd74d4-e0b6-4751-805e-b1006428c3ea" },
+  { n = 11, title = "Freddy", mbid = "1be5f9bd-fc2d-4ba8-bb3f-0b377a0ce34f" },
+  { n = 12, title = "Les rockers d’aujourd’hui aiment la java", mbid = "f9e225de-3bd4-47f8-b462-d01f4911e9e5" },
+]
+
+[[release]]
+mbid = "cdc874b5-c9d7-4eed-80dc-ab71aa04da18"
+title = "Le Petit Bal perdu"
+type = "album"
+date = "2014-09-01"
+tracks = [
+  { n = 1, title = "Johnny tu n'es pas un ange", mbid = "0535c277-b196-4b27-8c89-8aada523ec4e" },
+  { n = 2, title = "Un dur, un vrai, un tatoué", mbid = "4d2b706f-eba5-4ee1-8a66-eb78a214eaf2" },
+  { n = 3, title = "En sortant de l'école", mbid = "16a2bcf1-2492-4805-a602-6be8e718cb3d" },
+  { n = 4, title = "Route Nationale 7", mbid = "e4294311-fe08-4e1f-a250-0a834f59ce1e" },
+  { n = 5, title = "Ce petit chemin", mbid = "168a676c-3bec-4d74-b796-10904ff52f0c" },
+  { n = 6, title = "Sombre dimanche", mbid = "263a819c-8c78-46a4-b770-a0e04c49a158" },
+  { n = 7, title = "La Java des bombes atomiques", mbid = "5d5a5d0d-88e9-4c76-8f1a-a29022a52339" },
+  { n = 8, title = "Le Petit Bal perdu", mbid = "4c52a827-5ae4-439f-b1af-6fced1e7b585" },
+  { n = 9, title = "Supplique pour être enterré sur la plage de Sète", mbid = "292d4680-e31a-4610-aeb4-e1fc8c37ed64" },
+  { n = 10, title = "Il suffirait de presque rien", mbid = "14166cfb-e3f2-4859-9795-3787392ce7f6" },
+  { n = 11, title = "La Fille de Londres", mbid = "756221c3-ba02-4703-ae83-b19a8aed02ea" },
+  { n = 12, title = "Les Roses blanches", mbid = "21bd0a4f-d858-466a-96a3-2fc9fa371a9b" },
+  { n = 13, title = "Marcel", mbid = "e8695bb0-a08a-44b7-bbe6-98bc2a23163e" },
+]
+
+[[release]]
+mbid = "cd551df4-d4d9-4588-9fc3-9cacc0d54c23"
+title = "Papillon"
+type = "album"
+date = "2015-10-23"
+tracks = [
+  { n = 1, title = "Le Procès", mbid = "06530e1c-1108-45be-84e7-3ae4bc258374" },
+  { n = 2, title = "Nénette", mbid = "222bee2d-d227-4a8b-9c8d-a8c0d12d502a" },
+  { n = 3, title = "Ça démarre mal", mbid = "da2c3598-53ce-49fe-a044-907cd42cda23" },
+  { n = 4, title = "Lali", mbid = "d4693f55-3d88-4434-bac3-9d0e326247d3" },
+  { n = 5, title = "La Jambe de bois", mbid = "cff57cd0-3d27-4c86-bc06-14ca2a0a0e71" },
+  { n = 6, title = "Je me tais", mbid = "84c4f585-c526-4b05-a3e1-80e3f292d37b" },
+  { n = 7, title = "Les Îles du Salut", mbid = "f419459d-9d92-49a6-8c2b-b5b300607b41" },
+  { n = 8, title = "La Ballade de Bébert Célier", mbid = "c795b34f-9851-420c-885d-1e3244503188" },
+  { n = 9, title = "La Cabane bambou", mbid = "c7568d70-853d-4344-bb20-de3968d4fbd3" },
+  { n = 10, title = "La Danse du bagne", mbid = "8f5b35e8-bbfb-48ac-b7ea-86d635c3f28e" },
+  { n = 11, title = "Un costume bleu", mbid = "0ce9f4a2-0b73-48a0-a6a8-da8776542a79" },
+]
+
+[[release]]
+mbid = "86d46d18-47f3-4524-9e48-49dde4ceb4e5"
+title = "Montreuil / Memphis"
+type = "album"
+date = "2017-09-22"
+tracks = [
+  { n = 1, title = "Touche pas au grizzly", mbid = "4b46c7e9-c0b2-4452-ad5a-b924748152d6" },
+  { n = 2, title = "Astronaute", mbid = "95caaa32-3af5-4dfd-8a10-45de3700be84" },
+  { n = 3, title = "Montreuil / Memphis", mbid = "65be0033-0fa4-47b3-ad2f-7814c194d5d4" },
+  { n = 4, title = "Tête de mort", mbid = "207e1d91-021d-45d1-a9ce-84516f6b326b" },
+  { n = 5, title = "À mon enterrement", mbid = "f175b2bc-b718-41a1-9c75-11c4facf7c17" },
+  { n = 6, title = "Elegantman", mbid = "22a131c8-18bc-42d6-869d-384d556f0de6" },
+  { n = 7, title = "Les barbituriques", mbid = "96818e90-ea50-46f8-9b98-615c6bfb3b5a" },
+  { n = 8, title = "J'ai vu que ma bonne a disparu", mbid = "46b48934-1c4e-4a90-a207-6e247b1c7b2c" },
+  { n = 9, title = "Je ne pense qu'à tes fesses", mbid = "cd75ab10-dac7-4699-8eb8-7c76dd595361" },
+  { n = 10, title = "André Is Not Dead", mbid = "d045d153-8a20-4b11-a8cb-8fb6921cb6ea" },
+  { n = 11, title = "Le mitard", mbid = "6c850e80-55dc-4be7-9578-0de7c5e413c5" },
+  { n = 12, title = "Pas à Lafayette", mbid = "976ca05e-a8a0-4b27-b984-e2850e855449" },
+  { n = 13, title = "J'ai toujours cru que j'avais la classe", mbid = "9cf9ecfa-08ef-46ab-b94c-cc1423ebf92c" },
+  { n = 14, title = "Alone and Blue", mbid = "b023b1a3-fa02-4a07-aacb-9f9f4f1c33f9" },
+  { n = 15, title = "Viens sur ma planète", mbid = "fac7dacb-a726-4c84-9711-1101ba9ba69b" },
+]
+
+[[release]]
+mbid = "6209d837-6bcf-48f9-8a63-316d03ec5f52"
+title = "The BeBer Project, Volume 1"
+type = "album"
+date = "2019-02-01"
+tracks = [
+  { n = 1, title = "La fille que j’aime", mbid = "894a7867-34cd-4805-b0d8-335fe2647145" },
+  { n = 2, title = "Le Vieux", mbid = "4a3752f9-a226-45ff-829f-c826744a1016" },
+  { n = 3, title = "Y’a que la foi qui sauve blues", mbid = "685e532a-e680-4a99-8eeb-aaf4bf5c0b69" },
+  { n = 4, title = "Manifeste", mbid = "726f5f10-a534-4473-9d51-ce9e1a67fe8f" },
+  { n = 5, title = "Tranche de vie", mbid = "d5622267-4c64-4521-8b97-f87d42304864" },
+  { n = 6, title = "Magouille blues", mbid = "f0d6f18e-3da0-463c-a051-b72a276dc47d" },
+  { n = 7, title = "Département 26", mbid = "00e6c433-3d89-4811-99d2-977394589c8b" },
+  { n = 8, title = "Pour ma grand-mère", mbid = "697b3e31-1321-4bd2-bcee-99d71e733f21" },
+  { n = 9, title = "Le Tango de l’ennui", mbid = "0cb8efc7-4d5b-48f1-b0c4-8ce078cd6844" },
+  { n = 10, title = "Y’a dix ans", mbid = "dd9fa8d3-cb06-4089-9ee2-3d99c630110e" },
+  { n = 11, title = "Le Blues parlé du syndicat", mbid = "8e7276bb-9b87-42ca-8c72-8cb2c32fc308" },
+  { n = 12, title = "Tous ces mots terribles", mbid = "1a737836-715f-4db6-a223-caf54fb661c8" },
+  { n = 13, title = "Paris lumière", mbid = "32b5b033-86c2-41f3-92ff-15bcd6d65f84" },
+]
+
+[[release]]
+mbid = "1d67ff1f-a35d-4bce-bb1b-9211144d38ee"
+title = "Sanseverino & Tangomotán"
+type = "album"
+date = "2019-09-20"
+tracks = [
+  { n = 1, title = "Facteur pirate", mbid = "0d8dd2df-9167-470c-add0-9b01f71cd488" },
+  { n = 2, title = "Pistard inculpé", mbid = "d833a576-36de-4510-a032-c47caa11221b" },
+  { n = 3, title = "J’ai froid", mbid = "e0790cae-a1a5-4aaa-9af4-767032fc5dcc" },
+  { n = 4, title = "Hobo", mbid = "60c831cc-2a7f-4379-a387-537ea0fdad35" },
+  { n = 5, title = "Les Gares", mbid = "ec6e4e7f-c8f1-496a-8d99-a74351f78ebb" },
+  { n = 6, title = "Les Films d’horreur", mbid = "b218fd3c-e4b7-452d-a191-7fbb796555c3" },
+  { n = 7, title = "Les Serpents", mbid = "507ba70b-4ebb-4140-8d39-f04b35c29da8" },
+  { n = 8, title = "Vlad III", mbid = "134f240c-ae1f-4261-99fb-c97cc9cda2d7" },
+  { n = 9, title = "Stupida", mbid = "ce0042a0-4c26-4b23-9326-0cc5d2f969bf" },
+  { n = 10, title = "De la liberté d’expression murale", mbid = "52804165-9790-43fa-b7ee-625159ee5832" },
+  { n = 11, title = "2–3", mbid = "17188fae-89aa-4d14-b37d-ae51eaae7a0b" },
+]
+
+[[release]]
+mbid = "465ae445-92d7-4aa5-91fe-74eb7613f93d"
+title = "Leprest en symphonique"
+type = "album"
+date = "2019-11-15"
+tracks = [
+  { n = 1, title = "Francilie", mbid = "11cd64bf-bb9e-45d6-8d85-034ac730945d" },
+  { n = 2, title = "Je viens vous voir", mbid = "d703a833-2c5a-4f48-92d9-05b51fd58795" },
+  { n = 3, title = "Donne-moi de mes nouvelles", mbid = "6acaf8c0-a53e-459b-b830-9e43d8587b8e" },
+  { n = 4, title = "Les Grilles", mbid = "f9b59bc9-2222-4a97-a937-dbcb501a38fd" },
+  { n = 5, title = "Nu", mbid = "ce062ac7-7f9a-4fda-b52c-34cc2858da5d" },
+  { n = 6, title = "Il pleut sur la mer", mbid = "0c10b848-4401-40b5-922a-3897c822b115" },
+  { n = 7, title = "Madame sans âme", mbid = "508c2fec-c484-43b5-a02e-6132fe526f4d" },
+  { n = 8, title = "Dans le sac à main d'la putain", mbid = "38c34ef9-40a8-42b2-98f0-671030112351" },
+  { n = 9, title = "Le Pull-over", mbid = "a4df2e71-2077-4533-a7dc-27d7c87114a7" },
+  { n = 10, title = "Y'a rien qui s'passe", mbid = "00e7a818-ae7a-4d40-a30f-3b8291227372" },
+  { n = 11, title = "Le Temps de finir la bouteille", mbid = "2d8df1af-a76b-4e33-a871-bf8c7f857c02" },
+  { n = 12, title = "Le Ferrailleur", mbid = "b9ad378b-1c57-4773-afd2-e0a4a558cde4" },
+  { n = 13, title = "Les Tilleuls", mbid = "e7dbf070-14b7-45e0-be3e-5d767e6a0599" },
+  { n = 14, title = "Arrose les fleurs", mbid = "4f7088d2-f1dc-4fac-aead-6b4f43d49137" },
+  { n = 15, title = "SDF", mbid = "ce5c21d3-2673-4b7c-8603-de6a78b9b9dd" },
+  { n = 16, title = "Le Chagrin", mbid = "37ec7f71-a822-4124-88a8-64227f64c85a" },
+  { n = 17, title = "Saint Max", mbid = "75bf857d-e5b7-436e-83fe-41b7ab403432" },
+  { n = 18, title = "Où vont les chevaux quand ils dorment", mbid = "33bec21c-c3c6-4542-bce0-b192f7a02309" },
+  { n = 19, title = "Le Banquet des abysses", mbid = "8bd9e1c7-3e94-4843-9d76-397578ecd52c" },
+  { n = 20, title = "D'Irlande", mbid = "d9749ff3-0374-4615-8720-0bf40e3553ed" },
+]
+
+[[release]]
+mbid = "3be2d899-dc56-4d7e-a7f4-28164cae973b"
+title = "Les deux doigts dans la prise"
+type = "album"
+date = "2021-10-15"
+spotify = "42uavm5HJEVy8A0ONuqmph"
+tracks = [
+  { n = 1, title = "Je n’en veux pas", mbid = "2e64f352-a9db-49ca-ab81-1738229271b9" },
+  { n = 2, title = "Chez J.J. Cale", mbid = "a1bc48ee-2ff0-47f7-aba3-db1c1ad43599" },
+  { n = 3, title = "Les Îles de Pâques", mbid = "a0832e49-1bae-46c8-8c57-f15eccd86e1b" },
+  { n = 4, title = "Les deux doigts dans la prise", mbid = "bbd24704-2efd-4e5f-acb7-523b5f1e2a2e" },
+  { n = 5, title = "Ça boxe", mbid = "948d6f89-a88a-4b20-8fae-3625f23f68c1" },
+  { n = 6, title = "Craonne", mbid = "5a29fdb2-a4bc-4ad0-8660-08f6da0a827c" },
+  { n = 7, title = "Nein", mbid = "330f2cdb-b86c-468c-bf4f-369922c04d29" },
+  { n = 8, title = "Liquéfié", mbid = "9c658e33-9a25-4bbc-9f88-c0d2ceb2b142" },
+  { n = 9, title = "Au MEDEF", mbid = "83ecbf96-39af-4b40-b27d-b580e67c8fe6" },
+  { n = 10, title = "Les embouteillages", mbid = "bf6f339c-d564-452f-9fad-b668b277927b" },
+  { n = 11, title = "Moi moi moi", mbid = "4eb92090-330b-4431-8e3c-778241217e11" },
+  { n = 12, title = "Qui c’est celui‐là", mbid = "5ced960f-9ff2-49b6-9117-93c3c36a88db" },
+]
+
+[[release]]
+mbid = "3a7596dc-3ebd-4df8-b9f0-e474b6951c7a"
+title = "Joue pas avec mes nerfs (Hommage à François Béranger)"
+type = "album"
+date = "2023-06-23"
+tracks = [
+  { n = 1, title = "Joue pas avec mes nerfs", mbid = "0c0a10b5-dfcc-4b5a-a997-c59551d4987c" },
+  { n = 2, title = "Une ville", mbid = "9d83e52c-d4a5-4d92-81c6-bd9eb79bce79" },
+  { n = 3, title = "Rachel", mbid = "84440774-61e6-481b-a937-43bd5736c005" },
+  { n = 4, title = "La fête du temps", mbid = "d14ae77a-8cbf-4f2a-a311-884504274688" },
+  { n = 5, title = "Le monument aux oiseaux", mbid = "44d5771d-f957-4a56-8887-a0e283620bee" },
+  { n = 6, title = "Ça doit être bien", mbid = "402ebcae-39c0-4337-93fb-bc6aee95322c" },
+  { n = 7, title = "À force", mbid = "cfbb8a7f-c6f5-45ca-970a-5b57539b0a81" },
+  { n = 8, title = "Mamadou m'a dit", mbid = "929063c8-cb48-4db3-be39-6fddc6ec64c6" },
+  { n = 9, title = "Natacha", mbid = "6eb708eb-3cd9-469f-929c-8cb365bbfcc1" },
+  { n = 10, title = "Ma fleur", mbid = "143d1120-fdb1-4d23-929c-2cb348e4b67e" },
+  { n = 11, title = "Sous les pavés", mbid = "f0e5c55e-3a60-4b85-ad30-c6772c52ff13" },
+  { n = 12, title = "Nao", mbid = "2603cb7f-192c-4daa-b49f-c9c769e88c22" },
+]
+
+[[release]]
+mbid = "97118120-c05e-4110-b991-83be73f7112d"
+title = "C'etait mieux maintenant"
+type = "album"
+date = "2024-10-11"
+tracks = [
+  { n = 1, title = "Zéro travail", mbid = "c65666f9-ee5e-4c3f-b4e0-8194772ba1bf" },
+  { n = 2, title = "C'etait mieux maintenant", mbid = "d96e9760-d163-48af-aae1-a04091804cd9" },
+  { n = 3, title = "J'ai des noms", mbid = "3ff672d4-e768-4424-9f7c-c1386b5164b2" },
+  { n = 4, title = "On n'est pas bien là?", mbid = "e2e336c8-9496-430b-9ee2-0142b0741a14" },
+  { n = 5, title = "Les phrases de mandela", mbid = "c06bf9b7-0bcc-403a-a6c2-3dccb9cf7dd6" },
+  { n = 6, title = "T'es un con!", mbid = "c9a9fa52-6618-4af6-851b-08524e73c5c0" },
+  { n = 7, title = "Orgueil orgueil", mbid = "b7b33ae4-12cb-4c1d-9d70-531718206ebd" },
+  { n = 8, title = "Pas la guerre", mbid = "d69deb67-1056-4ed4-9f6e-e264e14e2a21" },
+  { n = 9, title = "Vas-y mollo", mbid = "314d680a-b0a3-4c29-bd26-e8b69d608a89" },
+  { n = 10, title = "Anorexia et suicida", mbid = "1cd52859-a22d-47f8-8bf8-ba340bfdbdf1" },
+  { n = 11, title = "Les Casse-nichons", mbid = "e77212ec-a2d8-4d74-b4fd-e86f45a5facb" },
+]
+
+[[release]]
+mbid = "50ad25a0-9869-4080-a49b-2205c9f21ca3"
+title = "Sanseverino x Lise Cabaret"
+type = "album"
+date = "2025-11-27"
+spotify = "2qe0w9dDvWWyxyCGtWIqRR"
+tracks = [
+  { n = 1, title = "La tante Hortense", mbid = "592718f4-5d0f-41a3-be1b-9d125abfb027" },
+  { n = 2, title = "Shoukar baby love", mbid = "e93ff4d1-99f1-4613-9829-05efde2a71de" },
+  { n = 3, title = "La tzigane", mbid = "8ed218e3-bce9-4cb5-8f4c-b1caeb014cad" },
+  { n = 4, title = "À l'enterrement de ma grand-mère", mbid = "26098913-09d7-4209-9536-a6bc731ca7c6" },
+  { n = 5, title = "Il se la pète", mbid = "4b856b51-bef6-4d09-9a3f-789d8e0175ce" },
+  { n = 6, title = "T'as vu ta gueule", mbid = "a6c976ed-efa5-40e2-8bf4-d04d048955a6" },
+  { n = 7, title = "Dédé", mbid = "4f20514d-126d-49dc-b423-a0bd57384464" },
+]
+
+[[release]]
+mbid = "cad0125f-9f54-4115-8f4f-f3563a0d2145"
+title = "Les deux pieds dans le plat"
+type = "album"
+date = "2026-05-15"
+tracks = [
+  { n = 1, title = "Les Deux Pieds dans le plat", mbid = "73aa05a4-c3b8-438b-9a56-b675eeb7e78a" },
+  { n = 2, title = "T’as vu ta gueule", mbid = "c95b2ad4-8656-46ec-967b-6e89e3ea94c8" },
+  { n = 3, title = "Shoukar baby love", mbid = "49fce95d-5aaa-4d1c-b06d-f425ffffef4e" },
+  { n = 4, title = "La Tzigane", mbid = "01608f34-99d7-420a-835b-82995a7b4ee3" },
+  { n = 5, title = "Dédé", mbid = "55acf18f-06cc-4588-b7a2-542111a6cbce" },
+  { n = 6, title = "Rock’n’roll swing boumba", mbid = "d904b1ae-ce51-4018-8869-d5bf5e086f86" },
+  { n = 7, title = "Boulevard Ornano", mbid = "eb7bb29c-731f-4063-88cd-0d82ca097ce4" },
+  { n = 8, title = "La Tante Hortense", mbid = "511f4432-613d-4a23-a436-c134d2f8524e" },
+  { n = 9, title = "À l’enterrement de ma grand mère", mbid = "e238a7a2-ab17-425a-bbcd-1daa7864a3d4" },
+  { n = 10, title = "Il se la pète", mbid = "940ac742-9135-49f8-a5e1-44805374ae14" },
+  { n = 11, title = "Le mec qui sert des steaks", mbid = "90d86ea2-b2cc-4864-a92e-844bc6e622f1" },
+  { n = 12, title = "La lambada on aime pas ça", mbid = "4bd20263-82d8-435d-8d07-dd1027fbb098" },
+]
+
+[[release]]
+mbid = "6debd23e-8520-44f6-ae1b-30df35d4f67a"
+title = "Joue pas avec mes nerfs"
+type = "album"
+tracks = [
+  { n = 1, title = "Joue pas avec mes nerfs", mbid = "0c0a10b5-dfcc-4b5a-a997-c59551d4987c" },
+  { n = 2, title = "Une ville", mbid = "9d83e52c-d4a5-4d92-81c6-bd9eb79bce79" },
+  { n = 3, title = "Rachel", mbid = "84440774-61e6-481b-a937-43bd5736c005" },
+  { n = 4, title = "La fête du temps", mbid = "d14ae77a-8cbf-4f2a-a311-884504274688" },
+  { n = 5, title = "Le monument aux oiseaux", mbid = "44d5771d-f957-4a56-8887-a0e283620bee" },
+  { n = 6, title = "Ça doit être bien", mbid = "402ebcae-39c0-4337-93fb-bc6aee95322c" },
+  { n = 7, title = "À force", mbid = "cfbb8a7f-c6f5-45ca-970a-5b57539b0a81" },
+  { n = 8, title = "Mamadou m'a dit", mbid = "929063c8-cb48-4db3-be39-6fddc6ec64c6" },
+  { n = 9, title = "Natacha", mbid = "6eb708eb-3cd9-469f-929c-8cb365bbfcc1" },
+  { n = 10, title = "Ma fleur", mbid = "143d1120-fdb1-4d23-929c-2cb348e4b67e" },
+  { n = 11, title = "Sous les pavés", mbid = "f0e5c55e-3a60-4b85-ad30-c6772c52ff13" },
+  { n = 12, title = "Nao", mbid = "2603cb7f-192c-4daa-b49f-c9c769e88c22" },
+]

@@ -1,0 +1,399 @@
+format = 1
+
+[[release]]
+mbid = "78d2f10a-450c-3664-b1de-d620d68856aa"
+title = "Ride"
+type = "ep"
+date = "1990-01-15"
+tracks = [
+  { n = 1, title = "Chelsea Girl", mbid = "26ccafd5-06a4-4b2a-bf41-337883ed9bd0" },
+  { n = 2, title = "Drive Blind", mbid = "da4409bc-5aa5-41d1-9d00-c1e434b43570" },
+  { n = 3, title = "All I Can See", mbid = "9b020965-b0df-48a6-9431-aa9b9ff3938e" },
+  { n = 4, title = "Close My Eyes", mbid = "8bb011da-b500-4055-810f-4cf112ac9bca" },
+]
+
+[[release]]
+mbid = "55e68332-3d51-3f61-a63a-319bb3b8d4a0"
+title = "Play"
+type = "ep"
+date = "1990-04-02"
+tracks = [
+  { n = 1, title = "Like a Daydream", mbid = "2a6015fe-35a6-40f4-961e-4db4a77b9348" },
+  { n = 2, title = "Silver", mbid = "d289068c-d299-4409-a1c2-31c03877c431" },
+  { n = 3, title = "Furthest Sense", mbid = "d4e90bba-a651-4343-9916-6b21b39ef3d2" },
+  { n = 4, title = "Perfect Time", mbid = "4355981c-07c0-4bf1-b19e-0479310ace4a" },
+]
+
+[[release]]
+mbid = "f19e497d-104a-3cf1-ac26-c802431e3442"
+title = "Fall"
+type = "ep"
+date = "1990-09-17"
+tracks = [
+  { n = 1, title = "Dreams Burn Down", mbid = "d01d8717-4e92-41ba-bc4c-da837010b647" },
+  { n = 2, title = "Taste", mbid = "a89c45c0-edef-4efb-ae65-c0d94ef56146" },
+  { n = 3, title = "Here and Now", mbid = "187c8945-9356-4fc4-81ec-54702ebd8087" },
+  { n = 4, title = "Nowhere", mbid = "b287c992-6a34-426b-892e-3a5a51298809" },
+]
+
+[[release]]
+mbid = "4ff18a50-33fa-37aa-a355-ea2a70e35ae3"
+title = "Nowhere"
+type = "album"
+date = "1990-10-15"
+spotify = "2diUbPZw26xieOjm3l6oNd"
+tracks = [
+  { n = 1, title = "Seagull", mbid = "3d169249-f7c1-4e62-aab4-89a1897da194" },
+  { n = 2, title = "Kaleidoscope", mbid = "f93ee383-230d-4370-92a8-e428eee3e480" },
+  { n = 3, title = "In a Different Place", mbid = "136deaa2-088d-435c-ad99-7b9196bbb594" },
+  { n = 4, title = "Polar Bear", mbid = "9e71e767-e34e-474a-b88d-766da34fa800" },
+  { n = 5, title = "Dreams Burn Down", mbid = "d01d8717-4e92-41ba-bc4c-da837010b647" },
+  { n = 6, title = "Decay", mbid = "0f3927c0-df32-4af5-8f20-4db6daefb090" },
+  { n = 7, title = "Paralysed", mbid = "2130a103-fe98-4a32-a6cd-b5076765cc60" },
+  { n = 8, title = "Vapour Trail", mbid = "3899c5c7-5d59-4b8b-ab2a-7ec99d1a661e" },
+  { n = 9, title = "Taste", mbid = "a89c45c0-edef-4efb-ae65-c0d94ef56146" },
+  { n = 10, title = "Here and Now", mbid = "187c8945-9356-4fc4-81ec-54702ebd8087" },
+  { n = 11, title = "Nowhere", mbid = "b287c992-6a34-426b-892e-3a5a51298809" },
+]
+
+[[release]]
+mbid = "ef5e788b-6420-337c-8c97-3b6b3f867440"
+title = "Today Forever"
+type = "ep"
+date = "1991-03-04"
+tracks = [
+  { n = 1, title = "Unfamiliar", mbid = "2c2a7c53-9af7-4830-9509-7f59f02792db" },
+  { n = 2, title = "Sennen", mbid = "87f2c12c-85e2-4214-8c3e-d0e13dbc13de" },
+  { n = 3, title = "Beneath", mbid = "a2ea5c10-b770-4616-acd7-580e5a61ac7c" },
+  { n = 4, title = "Today", mbid = "6ddda6ef-0cde-4127-9378-f6914a8f71b4" },
+]
+
+[[release]]
+mbid = "9cbe8b7b-df1c-3317-9389-5f6f4fd545b7"
+title = "Vapour Trail"
+type = "single"
+date = "1991-04-24"
+tracks = [
+  { n = 1, title = "Vapour Trail", mbid = "3899c5c7-5d59-4b8b-ab2a-7ec99d1a661e" },
+  { n = 2, title = "Unfamiliar", mbid = "afdebe1a-3c1b-4762-b9cd-7c3adfc995f3" },
+  { n = 3, title = "Sennen", mbid = "87f2c12c-85e2-4214-8c3e-d0e13dbc13de" },
+  { n = 4, title = "Beneath", mbid = "a2ea5c10-b770-4616-acd7-580e5a61ac7c" },
+]
+
+[[release]]
+mbid = "907e4f55-d23c-3e52-88b0-d0262e21d665"
+title = "Leave Them All Behind"
+type = "single"
+date = "1992-02-10"
+tracks = [
+  { n = 1, title = "Leave Them All Behind", mbid = "d526658a-2f93-4bfe-8ec2-a9c820808827" },
+  { n = 2, title = "Chrome Waves", mbid = "e43ec9b0-f8e8-49f5-9352-03ec12192293" },
+  { n = 3, title = "Grasshopper", mbid = "39fb4dc4-b603-4a7f-a5ae-fd57f4b40171" },
+]
+
+[[release]]
+mbid = "76692a6f-eba5-3689-8cca-2377162315d1"
+title = "Going Blank Again"
+type = "album"
+date = "1992-03-09"
+spotify = "1yRWtFnsY0SsmnH9sSX8y1"
+tracks = [
+  { n = 1, title = "Leave Them All Behind", mbid = "d526658a-2f93-4bfe-8ec2-a9c820808827" },
+  { n = 2, title = "Twisterella", mbid = "64f2f2fc-6ad0-4955-bead-154ebb24a7ac" },
+  { n = 3, title = "Not Fazed", mbid = "b1fc14de-6f17-4ebb-b5d0-8a3e2ceb8436" },
+  { n = 4, title = "Chrome Waves", mbid = "3f26062b-c8d1-4aeb-b70a-59a9e7ed7cc4" },
+  { n = 5, title = "Mouse Trap", mbid = "40a7a54e-fbf7-4996-9b70-38baf69e0198" },
+  { n = 6, title = "Time of Her Time", mbid = "2a9a9ecd-ac09-4556-bc9f-47ad4f674c68" },
+  { n = 7, title = "Cool Your Boots", mbid = "8939c9c7-ea7f-49da-8e44-e036aa45e5c3" },
+  { n = 8, title = "Making Judy Smile", mbid = "5ae57ee8-86c9-4e57-805d-19f8862172c0" },
+  { n = 9, title = "Time Machine", mbid = "06e46642-72a4-473a-a5fc-794892b3c6d6" },
+  { n = 10, title = "OX4", mbid = "05b99a71-4b21-448a-b2dd-e8750af9348c" },
+]
+
+[[release]]
+mbid = "e8fcef9a-e965-37ec-ac5b-b39ba93202a1"
+title = "Twisterella"
+type = "single"
+date = "1992-04-13"
+tracks = [
+  { n = 1, title = "Twisterella", mbid = "64f2f2fc-6ad0-4955-bead-154ebb24a7ac" },
+  { n = 2, title = "Going Blank Again", mbid = "475b8d8e-5c33-4d7b-912c-683647756169" },
+  { n = 3, title = "Howard Hughes", mbid = "e6383d48-a456-41bf-9567-e7ce5ba49b64" },
+  { n = 4, title = "Stampede", mbid = "26633fca-6495-439e-a768-f8f6097769c6" },
+]
+
+[[release]]
+mbid = "e80d83e5-dcb5-3994-bd48-4cfea47120c6"
+title = "Birdman"
+type = "single"
+date = "1994-04-18"
+tracks = [
+  { n = 1, title = "Birdman", mbid = "25107c30-3333-4209-88c2-0cb02e3637d8" },
+  { n = 2, title = "Rolling Thunder #2", mbid = "7b64b473-d1ca-40a4-9dc5-f45bde038382" },
+  { n = 3, title = "Let's Get Lost", mbid = "ede70bd7-9ba1-45d4-a1a5-daf534a4ef0a" },
+  { n = 4, title = "Don't Let It Die", mbid = "554d73b3-ae2b-4c8e-b688-3bf0fb45bf74" },
+]
+
+[[release]]
+mbid = "b223b1ee-f932-39e1-adea-50f85ca9cc42"
+title = "How Does It Feel to Feel?"
+type = "single"
+date = "1994-06-13"
+tracks = [
+  { n = 1, title = "How Does It Feel to Feel?", mbid = "a371cc66-acb5-4248-8d5b-07dc4a2f0851" },
+  { n = 2, title = "Walkabout", mbid = "b2c063e3-8919-4371-ba8f-183c25bd0408" },
+  { n = 3, title = "At the End of the Universe", mbid = "2bff245e-196a-4abc-95c3-10979ac23613" },
+]
+
+[[release]]
+mbid = "269c98b3-3dbf-31de-aa2e-db84b37fd272"
+title = "Carnival of Light"
+type = "album"
+date = "1994-06-20"
+tracks = [
+  { n = 1, title = "Moonlight Medicine", mbid = "5af04730-eb0e-47ec-a594-e7a60e2ffca5" },
+  { n = 2, title = "1000 Miles", mbid = "a9417517-591c-4db0-b1cb-14c611c31d69" },
+  { n = 3, title = "From Time to Time", mbid = "e40d96a9-58e9-47ce-a672-41742cdfa6db" },
+  { n = 4, title = "Natural Grace", mbid = "bc99bfb4-dd2d-425b-8052-9020f851aeb8" },
+  { n = 5, title = "Only Now", mbid = "5a252f8d-e575-4715-ab3f-a2f37cea2f8d" },
+  { n = 6, title = "Birdman", mbid = "25107c30-3333-4209-88c2-0cb02e3637d8" },
+  { n = 7, title = "Crown of Creation", mbid = "3835842a-3419-47c8-8509-55065ad99411" },
+  { n = 8, title = "How Does It Feel to Feel?", mbid = "a371cc66-acb5-4248-8d5b-07dc4a2f0851" },
+  { n = 9, title = "Endless Road", mbid = "1a1571e1-3579-4e02-9f0b-698bbb3b1665" },
+  { n = 10, title = "Magical Spring", mbid = "e42072d0-1f5c-439f-b301-f1f3970c2931" },
+  { n = 11, title = "Rolling Thunder", mbid = "504be8c4-a799-45a7-80f0-588ddf8fa7c6" },
+  { n = 12, title = "I Don’t Know Where It Comes From", mbid = "266ccd16-09ff-4d56-89c8-14e409823692" },
+]
+
+[[release]]
+mbid = "2f9a8266-7821-383c-94e2-3944a12c9b15"
+title = "I Don’t Know Where It Comes From"
+type = "single"
+date = "1994-09-12"
+tracks = [
+  { n = 1, title = "I Don’t Know Where It Comes From (single version)", mbid = "bf66693d-e845-44d2-8f4f-a3819c14ed5a" },
+  { n = 2, title = "Drive Blind (live)", mbid = "0d324a01-a977-4616-8565-feb92a613a9d" },
+  { n = 3, title = "From Time to Time (live)", mbid = "4135cae3-18ec-4046-98af-f7bd82824118" },
+  { n = 4, title = "How Does It Feel to Feel? (live)", mbid = "d40690d9-55a6-4895-a206-dba87413f290" },
+]
+
+[[release]]
+mbid = "bd93cef8-93f9-3b8f-8c78-2d337317b8da"
+title = "Black Nite Crash"
+type = "single"
+date = "1996-02-12"
+tracks = [
+  { n = 1, title = "Black Nite Crash", mbid = "f61a9f8d-0c91-4dc6-afe3-cfecb582943b" },
+  { n = 2, title = "Nothing Lasts Forever", mbid = "cafd3a35-645f-4b5b-8760-918d0eb8b0e4" },
+  { n = 3, title = "Slave", mbid = "3696013d-b2f5-493a-af58-b59f41993d76" },
+  { n = 4, title = "A Trip Down Ronnie Lane / [silence] / [unknown]", mbid = "46fb7372-ea23-4183-ab99-fafcc45d36c8" },
+]
+
+[[release]]
+mbid = "e3f67b66-905c-3dc9-b8e6-296e5397045e"
+title = "Tarantula"
+type = "album"
+date = "1996-03-11"
+tracks = [
+  { n = 1, title = "Black Nite Crash", mbid = "f61a9f8d-0c91-4dc6-afe3-cfecb582943b" },
+  { n = 2, title = "Sunshine / Nowhere to Run", mbid = "d3b49145-fd69-4eee-adc1-b8862eecefda" },
+  { n = 3, title = "Dead Man", mbid = "e7b7f24a-ce8b-4989-aa9c-660e9d21c320" },
+  { n = 4, title = "Walk on Water", mbid = "310cf5ff-0f33-4928-8772-c1928b554dba" },
+  { n = 5, title = "Deep Inside My Pocket", mbid = "2e2d049f-068a-412b-830d-83d844983063" },
+  { n = 6, title = "Mary Anne", mbid = "85afecb2-6285-4a9e-bb77-f5aec8c22aa3" },
+  { n = 7, title = "Castle on the Hill", mbid = "358cc95d-4521-46ec-865f-0a84333b4b13" },
+  { n = 8, title = "Gonna Be Alright", mbid = "0a79f1d9-d416-4077-b7ea-180ad14fe61b" },
+  { n = 9, title = "The Dawn Patrol", mbid = "b254ca2a-1b3b-4dc0-8fdf-20984ff24d7d" },
+  { n = 10, title = "Ride the Wind", mbid = "830fea1c-ba9c-4766-86f0-4d936d2fe19d" },
+  { n = 11, title = "Burnin’", mbid = "3d8d7a76-e536-466d-b602-eecea42bd534" },
+  { n = 12, title = "Starlight Motel", mbid = "52f3a42a-5101-41dc-815f-df5264dd82bc" },
+]
+
+[[release]]
+mbid = "19e6fefa-6731-4ac2-a875-5242357cfa17"
+title = "Home Is a Feeling"
+type = "single"
+date = "2017"
+spotify = "2biNDZ8ECYZZJpQKylabnz"
+tracks = [
+  { n = 1, title = "Home Is a Feeling", mbid = "9d0ee376-c80b-4067-8e74-6b8767f2df50" },
+]
+
+[[release]]
+mbid = "c8b394a8-fb1d-42e1-a9e4-078bcef147fe"
+title = "Charm Assault"
+type = "single"
+date = "2017-02-21"
+spotify = "7l4oE9EZpQMcUfIdZgGuY1"
+tracks = [
+  { n = 1, title = "Charm Assault", mbid = "8fd64057-758d-404b-bc90-9bb5689e0705" },
+]
+
+[[release]]
+mbid = "8589d191-7d6f-450f-a380-ae9a4a18a8b8"
+title = "Weather Diaries"
+type = "album"
+date = "2017-06-16"
+spotify = "2qFH771Zzs5FCN22VcD8tD"
+tracks = [
+  { n = 1, title = "Lannoy Point", mbid = "6e0ea3ea-f01c-4ee3-8fd6-5c5dbdcec032" },
+  { n = 2, title = "Charm Assault", mbid = "8fd64057-758d-404b-bc90-9bb5689e0705" },
+  { n = 3, title = "All I Want", mbid = "6883ec1c-33ee-4db9-8457-c4a69a731b9a" },
+  { n = 4, title = "Home Is a Feeling", mbid = "0843f3b5-b332-41a6-abb6-c545a1ad60f9" },
+  { n = 5, title = "Weather Diaries", mbid = "6039900c-cb54-4943-bd7e-ae78f8674e9d" },
+  { n = 6, title = "Rocket Silver Symphony", mbid = "e5a35a73-a2a4-409c-a8f4-f7548233346e" },
+  { n = 7, title = "Lateral Alice", mbid = "0020be34-3217-4a18-9286-e9fb1f40c6d3" },
+  { n = 8, title = "Cali", mbid = "4abfc03b-df90-40fc-903e-679883db2372" },
+  { n = 9, title = "Integration Tape", mbid = "b3a93699-f1f3-43dd-9cf6-a5acd16a6e10" },
+  { n = 10, title = "Impermanence", mbid = "e6fbc721-6a85-488d-8e4a-18ebe8c44ae8" },
+  { n = 11, title = "White Sands", mbid = "589ff7b0-c7d2-4cd3-b730-2b58b13cef56" },
+]
+
+[[release]]
+mbid = "48e9e120-557e-425e-b6e9-45a7ec88d9a7"
+title = "Cali"
+type = "single"
+date = "2017-07-11"
+spotify = "4HiJK2W8xrJWnJwnTp93tq"
+tracks = [
+  { n = 1, title = "Cali (edit)", mbid = "e63efe52-a65e-4544-a51e-771b3a381e8d" },
+]
+
+[[release]]
+mbid = "5650c742-c1e3-41b2-87b7-d68397e0b715"
+title = "Pulsar"
+type = "single"
+date = "2017-11-03"
+spotify = "31BusmAmpKqHegUqxzlgni"
+tracks = [
+  { n = 1, title = "Pulsar", mbid = "823dc702-426a-4649-ab64-299ab395a055" },
+]
+
+[[release]]
+mbid = "cddf81a1-1d97-415b-b002-8c8c3d72de7a"
+title = "Catch You Dreaming"
+type = "single"
+date = "2018-01-12"
+spotify = "5JynC0EcEfuprfu0wNOhod"
+tracks = [
+  { n = 1, title = "Catch You Dreaming (Shorter)", mbid = "cb7bc725-726f-4625-8ed4-a65901d4ebcd" },
+]
+
+[[release]]
+mbid = "39d22a9c-1336-4cb9-b6d9-3ed0927e2a42"
+title = "Tomorrow’s Shore"
+type = "ep"
+date = "2018-02-16"
+spotify = "7zHTDlnw2baYen6HxFlQp1"
+tracks = [
+  { n = 1, title = "Pulsar", mbid = "823dc702-426a-4649-ab64-299ab395a055" },
+  { n = 2, title = "Keep It Surreal", mbid = "762da422-3240-41b5-a665-7e93daf44244" },
+  { n = 3, title = "Cold Water People", mbid = "365e95cd-9aa9-44c1-bb20-fa2683636769" },
+  { n = 4, title = "Catch You Dreaming", mbid = "fad5ca59-07e2-46a1-b3ef-d4d22182f577" },
+]
+
+[[release]]
+mbid = "8b0b9347-7783-4c03-8f0c-62f3c74e9f77"
+title = "Future Love"
+type = "single"
+date = "2019-04-23"
+spotify = "0VPw7ttxmbbrOoyV2ERx3F"
+tracks = [
+  { n = 1, title = "Future Love", mbid = "93764d99-0638-43e8-aa46-b8b36d0ebe81" },
+]
+
+[[release]]
+mbid = "5d5a0d9f-b2f2-4f26-bb19-b04d96675286"
+title = "Repetition"
+type = "single"
+date = "2019-07-03"
+spotify = "5u4aOdQU8UdHjpJGWiM2bD"
+tracks = [
+  { n = 1, title = "Repetition", mbid = "c01136d6-3f50-470d-a201-72e7408dd683" },
+  { n = 2, title = "Future Love", mbid = "93764d99-0638-43e8-aa46-b8b36d0ebe81" },
+]
+
+[[release]]
+mbid = "808912b4-092a-41a3-8d7c-b40e047bb3a2"
+title = "Clouds of Saint Marie"
+type = "single"
+date = "2019-08-13"
+spotify = "5MaqGGXJMWzPih7zwchE3F"
+tracks = [
+  { n = 1, title = "Clouds of Saint Marie", mbid = "a2c3f35f-9b33-47c6-86a2-6783a9fa5ef5" },
+  { n = 2, title = "Future Love", mbid = "93764d99-0638-43e8-aa46-b8b36d0ebe81" },
+  { n = 3, title = "Repetition", mbid = "c01136d6-3f50-470d-a201-72e7408dd683" },
+]
+
+[[release]]
+mbid = "923ad3ed-9f87-43d9-aad2-5fbb5d1a302c"
+title = "This Is Not a Safe Place"
+type = "album"
+date = "2019-08-16"
+tracks = [
+  { n = 1, title = "R.I.D.E.", mbid = "682c34e4-fadf-4839-b998-ff89a5303c58" },
+  { n = 2, title = "Future Love", mbid = "93764d99-0638-43e8-aa46-b8b36d0ebe81" },
+  { n = 3, title = "Repetition", mbid = "c01136d6-3f50-470d-a201-72e7408dd683" },
+  { n = 4, title = "Kill Switch", mbid = "6e7a945f-3319-4ee7-8b86-6f90481f9280" },
+  { n = 5, title = "Clouds of Saint Marie", mbid = "a2c3f35f-9b33-47c6-86a2-6783a9fa5ef5" },
+  { n = 6, title = "Eternal Recurrence", mbid = "a9b8c878-3d4a-45a4-8ae6-994a5b0636d3" },
+  { n = 7, title = "Fifteen Minutes", mbid = "53248709-b8e4-4faa-8565-86b45df76ca6" },
+  { n = 8, title = "Jump Jet", mbid = "878a65a1-f445-4fbd-beaa-4b924bb91203" },
+  { n = 9, title = "Dial Up", mbid = "3947967d-98c5-443a-bf74-7a20978f28dd" },
+  { n = 10, title = "End Game", mbid = "4c0802a0-7ccb-4bf2-930f-5e4a05042f84" },
+  { n = 11, title = "Shadows Behind the Sun", mbid = "ebcdc80e-8011-417a-982b-d2b7009f15fe" },
+  { n = 12, title = "In This Room", mbid = "db524c08-9fbe-40d1-b139-c72c835e5715" },
+  { n = 13, title = "Catch You Dreaming (Glok remix)", mbid = "8beb4abb-7377-48f8-800f-6af44c2046de" },
+  { n = 14, title = "Pulsar (LC remix)", mbid = "312a7564-c983-427c-ae74-5f814f4761ee" },
+]
+
+[[release]]
+mbid = "94ee1335-9f45-4e8f-af84-b0b4824185bf"
+title = "Peace Sign"
+type = "single"
+date = "2024-01-11"
+spotify = "1DQuGlBWg0HDXR6f6i9xdb"
+tracks = [
+  { n = 1, title = "Peace Sign", mbid = "ccb06e9f-7c80-4c68-87b9-4c051bdf0797" },
+]
+
+[[release]]
+mbid = "6b88c7da-a9fb-4db8-93e4-c39e57f89179"
+title = "Last Frontier"
+type = "single"
+date = "2024-02-15"
+tracks = [
+  { n = 1, title = "Last Frontier", mbid = "cb8b5a78-452d-48c1-ac08-dbb07df4c0fc" },
+  { n = 2, title = "Peace Sign", mbid = "7a5957a8-38a1-4d77-a814-9b9691fb5307" },
+]
+
+[[release]]
+mbid = "72679895-facd-49ad-9fe6-8727e3b9954e"
+title = "Monaco"
+type = "single"
+date = "2024-03-14"
+tracks = [
+  { n = 1, title = "Monaco", mbid = "e61bc1f3-6658-4216-b7a4-8f8c4ffc23db" },
+  { n = 2, title = "Last Frontier", mbid = "3842d87e-5a58-44b7-824f-58e4560c7bed" },
+  { n = 3, title = "Peace Sign", mbid = "ca776761-cbf4-4502-b93a-c50d8664cb13" },
+]
+
+[[release]]
+mbid = "ce67ae32-cd4d-47d8-8e95-c63c174c8510"
+title = "Interplay"
+type = "album"
+date = "2024-03-29"
+tracks = [
+  { disc = 1, n = 1, title = "Peace Sign", mbid = "ccb06e9f-7c80-4c68-87b9-4c051bdf0797" },
+  { disc = 1, n = 2, title = "Last Frontier", mbid = "8ba700e7-b876-45b9-9b49-0755271887af" },
+  { disc = 1, n = 3, title = "Light in a Quiet Room", mbid = "433bf51b-7855-42d3-9805-69f27e5d1c1b" },
+  { disc = 1, n = 4, title = "Monaco", mbid = "0d949677-e81c-46c7-8144-910f6d359e86" },
+  { disc = 1, n = 5, title = "I Came to See the Wreck", mbid = "ed5817d3-f3bc-42bb-8b81-42a8ef10d99c" },
+  { disc = 1, n = 6, title = "Stay Free", mbid = "a757bf62-a04e-4396-a256-e04084a7bcd6" },
+  { disc = 2, n = 1, title = "Last Night I Went Somewhere to Dream", mbid = "f99aaa3a-15ce-4dc6-9d96-5d2c1926dcac" },
+  { disc = 2, n = 2, title = "Sunrise Chaser", mbid = "5d61a719-d4a1-4a6a-9d5d-0267df749360" },
+  { disc = 2, n = 3, title = "Midnight Rider", mbid = "0bb59b0f-a81d-4517-aa2b-4ead4bc7ef6a" },
+  { disc = 2, n = 4, title = "Portland Rocks", mbid = "e9be4b13-6f28-4c8e-9341-5593b0849d2b" },
+  { disc = 2, n = 5, title = "Essaouira", mbid = "68bdbbff-c660-4c92-aef6-e430ce39eac0" },
+  { disc = 2, n = 6, title = "Yesterday Is Just a Song", mbid = "9f1faece-0263-4e3c-852b-c9abfb9c5020" },
+]

@@ -1,0 +1,73 @@
+format = 1
+
+[[release]]
+mbid = "2d16f1b8-4688-4f67-8836-de114a5fc8bc"
+title = "Juste avant la ruée"
+type = "ep"
+date = "2013-07-01"
+tracks = [
+  { n = 1, title = "Goliath", mbid = "771ea7c5-f941-4c1b-b54f-70e8681c1d3a" },
+  { n = 2, title = "La Traversée", mbid = "8904b048-5a36-409c-b2bc-d6ffecdecd31" },
+  { n = 3, title = "Demande à la poussière", mbid = "fad5d7a9-655c-48ab-916c-6ea5eb2c85e1" },
+  { n = 4, title = "Le Continent", mbid = "ef036c2d-0ea0-4712-a468-d321d559b3d5" },
+]
+
+[[release]]
+mbid = "aa1f497c-ee8e-461b-a26b-be519c4bcaef"
+title = "Live aux [pias] nites"
+type = "ep"
+date = "2015"
+tracks = [
+  { n = 1, title = "La traversée", mbid = "543cb88a-a567-4365-bc86-bb5f0a6cd9b3" },
+  { n = 2, title = "Demande à la poussière", mbid = "8ec5b44a-ab7f-48c7-9af4-f25aab72546d" },
+  { n = 3, title = "Au loin les pyramides", mbid = "b9a09aea-2b7c-47b5-afa7-755eacf655d2" },
+  { n = 4, title = "Goliath", mbid = "a7053a11-c605-4fa2-8e42-bd5c6bd52fb8" },
+]
+
+[[release]]
+mbid = "24d93654-09d6-4e17-a096-c8e8e894d2cb"
+title = "Les Moissons"
+type = "ep"
+date = "2015-07-10"
+tracks = [
+  { n = 1, title = "Au loin les pyramides", mbid = "78182a3d-4125-4ab1-bfd0-4d624b46787a" },
+  { n = 2, title = "Elle partira comme elle est venue", mbid = "fdc7681c-353f-42c5-9575-8ecc85f132a7" },
+]
+
+[[release]]
+mbid = "8096f1ec-d274-4be9-925c-05926e365137"
+title = "Les Conquêtes"
+type = "album"
+date = "2016-04-01"
+tracks = [
+  { n = 1, title = "Bleu Nuit / Synesthésie", mbid = "9968dcac-d75b-4e18-addb-d64043dcaa6b" },
+  { n = 2, title = "Solarium", mbid = "c84740a6-f12f-4ba9-a9c3-8b5e9003f832" },
+  { n = 3, title = "La Route", mbid = "9dac50a9-f8e4-45ce-aab6-e3a5486da59e" },
+  { n = 4, title = "La Force", mbid = "e7d22d0f-a366-4700-9879-c2e4e7d3655b" },
+  { n = 5, title = "Les Moissons", mbid = "c01c1f0a-3a35-4668-ac6c-a522d4cc498c" },
+  { n = 6, title = "Caravansérail", mbid = "d02c26e2-ff71-4e7b-9290-1e244f428815" },
+  { n = 7, title = "Juste avant la ruée", mbid = "aac5569f-9873-4453-bf18-ba3ef9a25b62" },
+  { n = 8, title = "Passé, le fleuve", mbid = "fe78b005-140e-4ff8-8ef4-3dfbea697091" },
+  { n = 9, title = "Au loin les Pyramides", mbid = "78182a3d-4125-4ab1-bfd0-4d624b46787a" },
+  { n = 10, title = "Par les ruines", mbid = "f35a81b3-81df-4f92-b676-a890bd6dd2c1" },
+  { n = 11, title = "Au large du Brésil / Le Continent", mbid = "af5e7df7-24cb-4a4b-a3c3-02fffed739fc" },
+]
+
+[[release]]
+mbid = "35c6435c-2a35-4ca8-8d0d-777a6f26be64"
+title = "Ces Garçons-là"
+type = "album"
+date = "2018-11-09"
+tracks = [
+  { n = 1, title = "23 minutes", mbid = "1235c00d-f90c-4308-8d22-144558d11a68" },
+  { n = 2, title = "Ce qui nous fume", mbid = "7ebdf894-36d9-4db5-b430-bf8b92ff76ab" },
+  { n = 3, title = "L'Eclaireur", mbid = "1e96e0e9-41aa-48aa-b8cd-69d490f87a1d" },
+  { n = 4, title = "New York", mbid = "d04e5ac6-22e1-4c7b-a48d-78172c819ba3" },
+  { n = 5, title = "Fini fini fini", mbid = "3f1029b5-183a-4e99-a28e-b530eab62c52" },
+  { n = 6, title = "Prières perdues", mbid = "17b0f741-a138-44cf-8bc6-fd11f59e7f09" },
+  { n = 7, title = "Bouquet d'immortelles", mbid = "9afe93f0-210e-4741-9aa0-04c59ce9c25d" },
+  { n = 8, title = "La sueur et le sang", mbid = "fcd8a4b7-961a-403a-a96a-95cd56879dc4" },
+  { n = 9, title = "Selon l'inclinaison", mbid = "024c5613-e44b-411f-b2c2-4dcf2d3751a0" },
+  { n = 10, title = "Nocturama", mbid = "4bdaa226-beb0-4bf3-8c9a-6481c4689045" },
+  { n = 11, title = "Ces garçons-là", mbid = "51578519-7abc-48ac-ae9c-26e682681092" },
+]

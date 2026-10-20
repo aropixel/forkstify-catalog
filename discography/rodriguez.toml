@@ -1,0 +1,84 @@
+format = 1
+
+[[release]]
+mbid = "25d9f5f8-ece0-311c-bf2a-092f26315e0e"
+title = "Cold Fact"
+type = "album"
+date = "1970-03-05"
+spotify = "3q90UAYeHLvAtnowiQlmgp"
+tracks = [
+  { n = 1, title = "Sugar Man", mbid = "bdd9d18a-2e82-403d-b184-8b14831e5cef" },
+  { n = 2, title = "Only Good for Conversation", mbid = "66c68f29-bab2-40be-85f3-46127cd27ef8" },
+  { n = 3, title = "Crucify Your Mind", mbid = "7f648c58-2ee3-478e-b378-60504c76e278" },
+  { n = 4, title = "This Is Not a Song, It’s an Outburst: Or, the Establishment Blues", mbid = "40a08536-50c9-4adb-89f8-2abd661df1f3" },
+  { n = 5, title = "Hate Street Dialogue", mbid = "d4720b01-021f-4b07-b23d-2d753611dff5" },
+  { n = 6, title = "Forget It", mbid = "3a501fd1-892c-4d68-bce7-cccc51e82530" },
+  { n = 7, title = "Inner City Blues", mbid = "a6ab385c-16b8-4c0f-ba54-eea811d87826" },
+  { n = 8, title = "I Wonder", mbid = "77804602-1650-4bc2-b1c4-e8cdbb683842" },
+  { n = 9, title = "Like Janis", mbid = "8f450d1c-a932-4332-afd4-63f2b6f96940" },
+  { n = 10, title = "Gommorah (A Nursery Rhyme)", mbid = "f4886719-8dea-4227-b391-b29abb011483" },
+  { n = 11, title = "Rich Folks Hoax", mbid = "84a96ac4-adbe-4c18-9c49-6f03b9cf5dbf" },
+  { n = 12, title = "Jane S. Piddy", mbid = "717feeca-f283-47a0-bb1d-7b32e48bf009" },
+]
+
+[[release]]
+mbid = "271047d9-8317-3ec2-b61c-2c7e9d75f0cb"
+title = "Coming From Reality"
+type = "album"
+date = "1971-11"
+spotify = "2X0L9mwLuMqAK8rf965Vmi"
+tracks = [
+  { n = 1, title = "Climb Up on My Music", mbid = "68f404c8-845d-4106-8884-bc05d7e266c4" },
+  { n = 2, title = "A Most Disgusting Song", mbid = "797fc860-980f-445a-b5bf-f94358ee6778" },
+  { n = 3, title = "I Think of You", mbid = "f9574428-a6da-4c06-b24a-36f16907c1ca" },
+  { n = 4, title = "Heikki’s Suburbia Bus Tour", mbid = "8d2f6419-b453-4b61-bd21-f676b9918e6a" },
+  { n = 5, title = "Silver Words?", mbid = "683ddd86-f7fe-49aa-bfb0-811e90758f8c" },
+  { n = 6, title = "Sandrevan Lullaby – Lifestyles", mbid = "2582063f-5d35-4229-926c-85e512851b80" },
+  { n = 7, title = "To Whom It May Concern", mbid = "a60856b4-1d0a-49a2-8e13-68652f38f73f" },
+  { n = 8, title = "It Started Out So Nice", mbid = "a8aff12f-5b48-4e43-9e68-39ae6dc76b3f" },
+  { n = 9, title = "Halfway Up the Stairs", mbid = "8383ee1d-93e4-48db-9ae7-0f8dc8ac05ac" },
+  { n = 10, title = "Cause", mbid = "8b7205e4-a115-49a9-b994-00a2e6733347" },
+]
+
+[[release]]
+mbid = "d5cd04c0-de51-4d6b-9572-a8b5c28ffcd4"
+title = "Sugar Man"
+type = "single"
+date = "1972"
+tracks = [
+  { n = 1, title = "Sugar Man", mbid = "aa80effc-2d55-4e2b-a63a-9bff718ba281" },
+  { n = 2, title = "Inner City Blues", mbid = "20835b2f-ce89-452e-a992-76165ed30f6d" },
+]
+
+[[release]]
+mbid = "3f4744fa-bcdb-4fb5-8dbb-d0d1f8765cb4"
+title = 'Record Store Day 7"'
+type = "single"
+date = "2010-04-17"
+spotify = "4lfai2P4HIdYykkZUBRRMn"
+tracks = [
+  { n = 1, title = "Inner City Blues (Recorded live on the Streets of Paris, June 12, 2009)", mbid = "3c4cd016-a679-448a-b6bb-67fc2a671585" },
+  { n = 2, title = "I'm Gonna Live Till I Die (Recorded live at the Triple Door, Seattle, June 23, 2009)", mbid = "ca18669c-eda8-46ce-8300-6a2b5118dd20" },
+]
+
+[[release]]
+mbid = "832a126e-875b-4b72-abc3-7276f1320d73"
+title = "Searching for Sugar Man"
+type = "album"
+date = "2012-07-20"
+tracks = [
+  { n = 1, title = "Sugar Man", mbid = "bdd9d18a-2e82-403d-b184-8b14831e5cef" },
+  { n = 2, title = "Crucify Your Mind", mbid = "7f648c58-2ee3-478e-b378-60504c76e278" },
+  { n = 3, title = "Cause", mbid = "8b7205e4-a115-49a9-b994-00a2e6733347" },
+  { n = 4, title = "I Wonder", mbid = "77804602-1650-4bc2-b1c4-e8cdbb683842" },
+  { n = 5, title = "Like Janis", mbid = "8f450d1c-a932-4332-afd4-63f2b6f96940" },
+  { n = 6, title = "This Is Not a Song, It’s an Outburst: Or, The Establishment Blues", mbid = "40a08536-50c9-4adb-89f8-2abd661df1f3" },
+  { n = 7, title = "Can’t Get Away", mbid = "e7e4af07-723d-4d0d-9785-fc8c8bec9cff" },
+  { n = 8, title = "I Think of You", mbid = "f9574428-a6da-4c06-b24a-36f16907c1ca" },
+  { n = 9, title = "Inner City Blues", mbid = "193b0620-e2fe-4751-90f4-6b6d63679247" },
+  { n = 10, title = "Sandrevan Lullaby – Lifestyles", mbid = "2582063f-5d35-4229-926c-85e512851b80" },
+  { n = 11, title = "Street Boy", mbid = "79e1e0b9-dce8-4227-86e6-8f81daf82a0a" },
+  { n = 12, title = "A Most Disgusting Song", mbid = "797fc860-980f-445a-b5bf-f94358ee6778" },
+  { n = 13, title = "I’ll Slip Away", mbid = "11ca2616-1bab-4fc3-a196-aaaa0bd60686" },
+  { n = 14, title = "Jane S. Piddy", mbid = "717feeca-f283-47a0-bb1d-7b32e48bf009" },
+]

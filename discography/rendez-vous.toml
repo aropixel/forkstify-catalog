@@ -1,0 +1,66 @@
+format = 1
+
+[[release]]
+mbid = "73728530-3c07-4344-983e-d31de7ccd3e2"
+title = "Rendez-Vous"
+type = "ep"
+date = "2014-11-25"
+tracks = [
+  { n = 1, title = "The Others", mbid = "bb400843-f73c-4075-b3cd-a617886210be" },
+  { n = 2, title = "Plasticity", mbid = "8d00ca94-c6bc-48f9-8b4f-8dad765b12a6" },
+  { n = 3, title = "White Dress", mbid = "fa562167-ad19-443a-ad32-9903d3dc13a6" },
+  { n = 4, title = "Donna", mbid = "3d97001d-484c-42cb-b54c-a429be9ce50d" },
+  { n = 5, title = "Youth", mbid = "acc59c8d-229b-42f3-89a2-e0946ca9cada" },
+]
+
+[[release]]
+mbid = "43c9c48d-6657-47e8-83b5-49e4432a559b"
+title = "Distance"
+type = "ep"
+date = "2016-04-28"
+tracks = [
+  { n = 1, title = "Distance", mbid = "db63b9ff-4daa-4141-aa71-355e93e5a5de" },
+  { n = 2, title = "Workout", mbid = "5faa11e2-093d-4cd6-9598-17f7f61ee13f" },
+  { n = 3, title = "Foreseen Death", mbid = "0c10dc42-78df-43a5-bd16-c2736b5a1606" },
+  { n = 4, title = "Euroshima", mbid = "fe6bb8b3-c445-4715-9030-c033565779b1" },
+  { n = 5, title = "Demian", mbid = "76ba2e53-a800-40ea-bec7-b74a8d9df0ae" },
+  { n = 6, title = "Ignorance & Cruelty", mbid = "46770adf-0a42-4b5e-9f9d-f54ceab6f93d" },
+]
+
+[[release]]
+mbid = "12b6659f-a3d5-47c5-99ef-5d182361eb66"
+title = "Superior State"
+type = "album"
+date = "2018-10-26"
+spotify = "5wGUdo0FDy4QkNAw6zYEB4"
+tracks = [
+  { n = 1, title = "Double Zero", mbid = "ba10962a-2c73-4992-908e-fc2e65ed8a68" },
+  { n = 2, title = "Paralyzed", mbid = "1a53f088-19dd-4ac3-aff8-c4663f7474eb" },
+  { n = 3, title = "Sentimental Animal", mbid = "cdbbd7d2-91d7-4b3b-b314-3f65fef5ec9a" },
+  { n = 4, title = "Last Stop", mbid = "635869d5-5878-4c63-a2e1-d6572202941f" },
+  { n = 5, title = "Superior State", mbid = "76221a3c-0e70-4c67-a4b6-805c9158f50f" },
+  { n = 6, title = "Crisis", mbid = "e14c1af8-6b48-4de8-be82-92a9509de9c4" },
+  { n = 7, title = "Middle Class", mbid = "6ba8ff0d-3593-4683-b01d-fcd38a9cf981" },
+  { n = 8, title = "Lakes", mbid = "93dff185-6351-4e2c-8217-0a223296cce9" },
+  { n = 9, title = "Exuviæ", mbid = "edfa3093-b565-4c28-83fc-88ee06e6a690" },
+  { n = 10, title = "Order of Baël", mbid = "d7c71be4-3fa2-4dcc-b8cc-50dc0fe2b4c1" },
+]
+
+[[release]]
+mbid = "e390230e-0c29-478a-84c6-d463d6658200"
+title = "Downcast"
+type = "album"
+date = "2024-05-24"
+tracks = [
+  { n = 1, title = "aiw777", mbid = "55ba46fa-3943-4846-a20f-dd9c2e3ead4b" },
+  { n = 2, title = "Sheer", mbid = "f72d2306-d330-4b77-b888-48ba82adf315" },
+  { n = 3, title = "Downcast", mbid = "d7e66f54-21e2-4dae-9614-fbd968b04148" },
+  { n = 4, title = "Dye And Retry", mbid = "674afa35-bb46-4862-8d38-04883560bea8" },
+  { n = 5, title = "Ur Cross", mbid = "d5f022aa-3afe-44f6-8e8d-72b6b1a36786" },
+  { n = 6, title = "Nothing.", mbid = "f9fc4ddd-d2f1-4ae2-bdc2-66d9c3988d1a" },
+  { n = 7, title = "Smoke'Em Heads", mbid = "794281f8-b528-4ebc-ab8d-6a3065d366bc" },
+  { n = 8, title = "Top Range DNA", mbid = "9f76748d-daae-4fc8-8743-159d9100e099" },
+  { n = 9, title = "The House Has Burn Down", mbid = "e910ea4e-bffb-4edd-a3c1-45f92a3a43d7" },
+  { n = 10, title = "Stay A Rat", mbid = "f86c7211-84c0-4ce9-9fdc-1499764fc930" },
+  { n = 11, title = "Carry The Zero", mbid = "947235a3-4b60-4cbf-97a0-2097f2b63f95" },
+]

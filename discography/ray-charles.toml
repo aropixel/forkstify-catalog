@@ -1,0 +1,2214 @@
+format = 1
+artists = [
+  "2ce02909-598b-44ef-a456-151ba0a3bd70",  # Ray Charles
+  "1e86edd8-0ca8-4f7c-b01f-6a619ccbf1c2",  # Ray Charles and His Orchestra
+  "e018c933-f869-4ec3-9001-b4f340b5ba07",  # Ray Charles Sextet
+]
+
+[[release]]
+mbid = "ccd67bec-5055-4779-b95a-6a4722b64cff"
+title = "Honey Honey / She's on the Ball"
+type = "single"
+date = "1949"
+tracks = [
+  { n = 1, title = "Honey Honey", mbid = "b4b5513a-eeda-44c5-a0df-5da5fa357a36" },
+  { n = 2, title = "She's on the Ball", mbid = "aedb3729-a419-4a0d-83ad-628c0ef88de3" },
+]
+
+[[release]]
+mbid = "fd168a85-89f5-4f0f-8f59-016204e8933c"
+title = "See See Rider / What Have I Done"
+type = "single"
+date = "1949"
+tracks = [
+  { n = 1, title = "See See Rider", mbid = "8054514f-d736-4602-9b26-0a5ebe0b5a0c" },
+  { n = 2, title = "What Have I Done", mbid = "b8c33380-f6b7-48b7-bfec-5ab1f61a0745" },
+]
+
+[[release]]
+mbid = "33b0cdbb-6e74-4a73-b997-b0bee887c570"
+title = "Kissa Me Baby / I’m Glad for Your Sake"
+type = "single"
+date = "1952-02"
+tracks = [
+  { n = 1, title = "Kissa Me Baby", mbid = "a73ea956-b045-4f05-8912-f468aa1d7adc" },
+  { n = 2, title = "I’m Glad for Your Sake", mbid = "f98a9d0a-c8d4-458f-8900-45d736d5f9a6" },
+]
+
+[[release]]
+mbid = "eb7b6b6b-d65f-41ba-a688-be2f86015829"
+title = "Mess Around / Funny (But I Still Love You)"
+type = "single"
+date = "1953"
+tracks = [
+  { n = 1, title = "Mess Around", mbid = "33102cc3-2ec3-4533-ab37-dd5b909f7655" },
+  { n = 2, title = "Funny (but I Still Love You)", mbid = "179d9611-ef73-4e73-b286-00d81320c895" },
+]
+
+[[release]]
+mbid = "34074a3a-8d91-41bc-93a9-67a9f7bae86b"
+title = "It Should've Been Me / Sinner's Prayer"
+type = "single"
+date = "1953-05-17"
+tracks = [
+  { n = 1, title = "It Should've Been Me", mbid = "9cd3367a-d8a7-4b8f-a0b4-5659a6f80e72" },
+  { n = 2, title = "Sinner's Prayer", mbid = "3cdfccdd-403e-47b8-a805-740f72758a44" },
+]
+
+[[release]]
+mbid = "7dfc7f6f-bf82-3207-863b-082290a74a2f"
+title = "Losing Hand / Don’t You Know"
+type = "single"
+date = "1954"
+tracks = [
+  { n = 1, title = "Losing Hand", mbid = "83134b88-bff9-430d-99e9-7d60c6c14100" },
+  { n = 2, title = "Don’t You Know", mbid = "225b0a3c-e43b-47ab-8f96-cffd13a1c62f" },
+]
+
+[[release]]
+mbid = "f4398b18-dbbd-3b7a-a395-7a12857b7968"
+title = "I've Got a Woman / Come Back"
+type = "single"
+date = "1954-12"
+tracks = [
+  { n = 1, title = "I've Got a Woman", mbid = "80548ada-36b3-48f1-864c-6a0297248ad2" },
+  { n = 2, title = "Come Back", mbid = "cb786452-e410-43ba-bea2-f21afba91f71" },
+]
+
+[[release]]
+mbid = "6fcb7d38-a2d0-4bad-83c5-676c2bbdf371"
+title = "Blackjack / Greenbacks"
+type = "single"
+date = "1955"
+tracks = [
+  { n = 1, title = "Blackjack", mbid = "3d3ad666-b01e-4d67-b59d-b55b6042d8d8" },
+  { n = 2, title = "Greenbacks", mbid = "e12b6b6e-0bc2-484b-a6ad-75c6d273de13" },
+]
+
+[[release]]
+mbid = "ddaad5fa-712d-399a-b86f-f8fc3b16bb08"
+title = "This Little Girl of Mine / A Fool for You"
+type = "single"
+date = "1955"
+tracks = [
+  { n = 1, title = "This Little Girl of Mine", mbid = "ff7ae26f-24b0-4486-85ac-f3dd42c21329" },
+  { n = 2, title = "A Fool for You", mbid = "8ae3e8a3-3bbc-4dfc-a5fd-8784107b784f" },
+]
+
+[[release]]
+mbid = "2915ad71-6a00-3be2-9ba3-31e8646860f6"
+title = "Lonely Avenue / Leave My Woman Alone"
+type = "single"
+date = "1956"
+tracks = [
+  { n = 1, title = "Lonely Avenue", mbid = "aca400d6-963a-4d01-aa6b-cfdedd492871" },
+  { n = 2, title = "Leave My Woman Alone", mbid = "9290724a-368b-449d-a22d-db8d2354dfe9" },
+]
+
+[[release]]
+mbid = "877d87a9-49b9-4df3-84a9-984d202f9541"
+title = "Ray Charles"
+type = "ep"
+date = "1956"
+tracks = [
+  { n = 1, title = "It should have been me", mbid = "719f2ad5-f19f-4bd8-8b5e-afc39769d813" },
+  { n = 2, title = "Don't you know", mbid = "b3e04944-fa61-4833-97b9-6436f633ffc4" },
+  { n = 3, title = "I've got a woman", mbid = "80548ada-36b3-48f1-864c-6a0297248ad2" },
+  { n = 4, title = "Come back", mbid = "23d00238-0260-4b2b-81e7-cdecfae66e09" },
+]
+
+[[release]]
+mbid = "037a4edf-5388-48c4-a902-fcc2813f3c30"
+title = "Drown in My Own Tears / Mary Ann"
+type = "single"
+date = "1956-02"
+tracks = [
+  { n = 1, title = "Drown in My Own Tears", mbid = "d1b468fc-9808-4ac3-885b-a1d1ee7fb49b" },
+  { n = 2, title = "Mary Ann", mbid = "426b38d4-6bdd-464c-b85a-ccfd2e7c4cc0" },
+]
+
+[[release]]
+mbid = "66c71874-f947-435b-9faa-df43fe45dd64"
+title = "Hallelujah I Love Her So / What Would I Do Without You"
+type = "single"
+date = "1956-05"
+tracks = [
+  { n = 1, title = "Hallelujah I Love Her So", mbid = "037b8a34-31c2-4200-b48e-45911b99ee30" },
+  { n = 2, title = "What Would I Do Without You", mbid = "10d2ba1b-1094-40c6-8ddc-961e6dbecc51" },
+]
+
+[[release]]
+mbid = "edde5942-5148-4e37-9b1a-c167ad26c3a1"
+title = "It’s All Right / Get on the Right Track Baby"
+type = "single"
+date = "1957"
+tracks = [
+  { n = 1, title = "It’s All Right", mbid = "112dae2e-0f96-4768-8cd6-122ef583c3b4" },
+  { n = 2, title = "Get on the Right Track Baby", mbid = "e42553bb-c576-4988-a2e2-2c7d6f29d5d7" },
+]
+
+[[release]]
+mbid = "479f5586-de34-4129-a37d-abd669d9419b"
+title = "The Great Ray Charles"
+type = "album"
+date = "1957-08"
+tracks = [
+  { n = 1, title = "The Ray", mbid = "862a2408-8e9c-4d88-98a4-40917fad7363" },
+  { n = 2, title = "My Melancholy Baby", mbid = "f025f937-5f5b-4238-9b15-8bfa9b74f3c8" },
+  { n = 3, title = "Black Coffee", mbid = "d7bb4f57-3c3e-40c0-9949-b06d78b6d381" },
+  { n = 4, title = "There's No You", mbid = "f17ca019-fb70-4639-a7f2-68d74bf0505d" },
+  { n = 5, title = "Doodlin'", mbid = "7a61358a-2166-4433-aa4b-50ebd74290ab" },
+  { n = 6, title = "Sweet Sixteen Bars", mbid = "0fa11ff4-b82b-409b-bd9a-5e57a2061cc1" },
+  { n = 7, title = "I Surrender Dear", mbid = "5d3442e4-6e97-4bc6-ab4b-8a2ac0bd211a" },
+  { n = 8, title = "Undecided", mbid = "88e22f74-97a9-4880-a131-b4b120c2f4de" },
+]
+
+[[release]]
+mbid = "9cfb9000-fcad-4b11-9188-c16ae4109c00"
+title = "Rockhouse"
+type = "single"
+date = "1958"
+tracks = [
+  { n = 1, title = "Rockhouse (Part 1)", mbid = "fbe17fd7-4429-4249-a3b0-ea50157dea9d" },
+  { n = 2, title = "Rockhouse (Part 2)", mbid = "e2137992-7882-4ace-ac85-8a965a9ddb34" },
+]
+
+[[release]]
+mbid = "54543614-5c5b-4fc2-a7cc-a732cedcab0c"
+title = "Soul Brothers"
+type = "album"
+date = "1958"
+tracks = [
+  { n = 1, title = "Soul Brothers", mbid = "1c4046d3-e7bc-4184-b44e-f45a82f90f39" },
+  { n = 2, title = "How Long Blues", mbid = "300e41cc-ff12-4332-be04-d44a96f9d345" },
+  { n = 3, title = "Cosmic Ray", mbid = "d35e6dfe-4c6a-4127-8bad-36fdedea29a8" },
+  { n = 4, title = "Blue Funk", mbid = "95fde479-9456-4e3d-b046-9fdc087eb361" },
+  { n = 5, title = "Bags' Guitar Blues", mbid = "96bb0bf1-5542-44c0-9764-8c3965d6431e" },
+]
+
+[[release]]
+mbid = "0cada89a-2d97-383a-9515-e1277d0ba9ac"
+title = "Yes Indeed!"
+type = "album"
+date = "1958-10"
+tracks = [
+  { n = 1, title = "What Would I Do Without You", mbid = "016f9c41-13a4-439a-ada7-2b7a3ac447ff" },
+  { n = 2, title = "It's All Right", mbid = "2541f6da-acdf-4e87-b2db-ad3a82969a25" },
+  { n = 3, title = "I Want to Know", mbid = "cdeecd26-d424-4909-8f27-e5ccc1425879" },
+  { n = 4, title = "Yes Indeed!", mbid = "5d46ab2c-934f-4274-a55a-23adb6217d67" },
+  { n = 5, title = "Get on the Right Track Baby", mbid = "a73cc381-bc47-4c42-9dca-340ac68e5f04" },
+  { n = 6, title = "Talkin' 'Bout You", mbid = "cfe42d5a-d44e-482f-9212-79e259d312f0" },
+  { n = 7, title = "Swanee River Rock (Talkin' 'Bout That River)", mbid = "c5555c48-49ce-4638-acae-4ef430acb27d" },
+  { n = 8, title = "Lonely Avenue", mbid = "961e9476-f7b8-46a5-a6c8-22274681dcad" },
+  { n = 9, title = "Blackjack", mbid = "3d3ad666-b01e-4d67-b59d-b55b6042d8d8" },
+  { n = 10, title = "The Sun's Gonna Shine Again", mbid = "f0bbc5e4-97d5-416f-9e72-4e3a0083ac8a" },
+  { n = 11, title = "I Had a Dream", mbid = "ed2c6817-46b0-4e50-b1e8-450250ca6f51" },
+  { n = 12, title = "I Want a Little Girl", mbid = "e938da3e-6960-4cfb-905f-6670f6985d27" },
+  { n = 13, title = "Heartbreaker", mbid = "cbf06eb5-459d-49ef-8231-65a8a03edc72" },
+  { n = 14, title = "Leave My Woman Alone", mbid = "1ce04e96-87aa-4d1d-94a9-adf4b7faec14" },
+]
+
+[[release]]
+mbid = "e4d205de-d82b-4937-ad48-eb0658f78d43"
+title = "(Night Time Is) The Right Time"
+type = "single"
+date = "1959"
+tracks = [
+  { n = 1, title = "(Night Time Is) The Right Time", mbid = "afa2ef3f-1248-4e50-ae48-44033f8d9977" },
+  { n = 2, title = "Tell All the World About You", mbid = "74581bad-6870-4e15-949d-8087cb8db9f8" },
+]
+
+[[release]]
+mbid = "9d7dc75b-0a77-3535-a621-94ec920971d6"
+title = "What’d I Say"
+type = "single"
+date = "1959"
+tracks = [
+  { n = 1, title = "What’d I Say, Part 1", mbid = "c3c14a1b-ac67-4ab5-a305-f32f7fee6bc0" },
+  { n = 2, title = "What’d I Say, Part 2", mbid = "76ca7157-a881-4ae4-9377-5c502bbcde02" },
+]
+
+[[release]]
+mbid = "c0f52e1b-d9f7-30e9-bf6a-c408c922640a"
+title = "What’d I Say"
+type = "album"
+date = "1959"
+tracks = [
+  { n = 1, title = "What’d I Say", mbid = "62464928-bfe0-49ce-97f8-1ffa8984945b" },
+  { n = 2, title = "Jumpin’ in the Morning", mbid = "37202745-707a-46b2-af0a-23e5f2b3acfd" },
+  { n = 3, title = "You Be My Baby", mbid = "be9bc477-51e8-40c1-95f5-1acaa13c204e" },
+  { n = 4, title = "Tell Me How Do You Feel", mbid = "6fd77603-8dd1-4030-929e-335b7e0a366c" },
+  { n = 5, title = "What Kind of Man Are You", mbid = "f86a2b7a-8a0b-4c8a-a708-91e57e83abcb" },
+  { n = 6, title = "Rockhouse", mbid = "95bb2d92-0d71-4a9a-a9e0-c966da988a00" },
+  { n = 7, title = "Roll With Me Baby", mbid = "51500c34-f8e2-4fe5-b125-33592780dfbd" },
+  { n = 8, title = "Tell All the World About You", mbid = "d465eca5-5d8d-44f5-a893-fdf40c8fa6b3" },
+  { n = 9, title = "My Bonnie", mbid = "6a4d214b-e079-43b8-9647-0dd4c109fdcc" },
+  { n = 10, title = "That’s Enough", mbid = "6f80d7be-85d1-40eb-a403-005b6c73119c" },
+]
+
+[[release]]
+mbid = "f3584242-2e06-4d05-b997-b7cd99ad667f"
+title = "I'm Movin' On / I Believe to My Soul"
+type = "single"
+date = "1959-10"
+tracks = [
+  { n = 1, title = "I'm Movin' On", mbid = "a5937a7b-4d25-471d-869c-4f882b8eed2f" },
+  { n = 2, title = "I Believe to My Soul", mbid = "71c781c8-9a38-46b9-b680-3df5f65e2ce9" },
+]
+
+[[release]]
+mbid = "26ea6822-538d-3781-ac19-fd3575aa2688"
+title = "The Genius of Ray Charles"
+type = "album"
+date = "1959-10"
+spotify = "4GFWnwli2cVOBp2G1zqhV1"
+tracks = [
+  { n = 1, title = "Let the Good Times Roll", mbid = "da355632-5d1a-4175-b352-a1c895a6a47b" },
+  { n = 2, title = "It Had to Be You", mbid = "ae4610d7-479f-4cba-ae5b-8b52928c22ed" },
+  { n = 3, title = "Alexander's Ragtime Band", mbid = "b654d081-e701-4aca-87c6-b272c07f4c2c" },
+  { n = 4, title = "Two Years of Torture", mbid = "69f3e935-a06b-475d-8114-0aaa172b2b23" },
+  { n = 5, title = "When Your Lover Has Gone", mbid = "56aba023-baf0-449b-8173-05a68ede360f" },
+  { n = 6, title = "'Deed I Do", mbid = "f64ad4f3-fc80-42ef-88e3-1971057ca558" },
+  { n = 7, title = "Just for a Thrill", mbid = "bb1ca02a-975c-4439-8cc2-51c772ab3103" },
+  { n = 8, title = "You Won't Let Me Go", mbid = "7abb4d59-6c56-4256-8a84-3c78c2c94d12" },
+  { n = 9, title = "Tell Me You'll Wait for Me", mbid = "b8f130a9-1eb4-410f-bc07-4640646b8192" },
+  { n = 10, title = "Don't Let the Sun Catch You Cryin'", mbid = "fe0db312-c2a1-4c24-b0e4-145e0e1ac97e" },
+  { n = 11, title = "Am I Blue", mbid = "9345db42-5408-411f-bff1-3879a5297e27" },
+  { n = 12, title = "Come Rain or Come Shine", mbid = "926a35b6-18a5-45a9-881e-4c2640ea8aa8" },
+]
+
+[[release]]
+mbid = "49ed4a93-7b3d-401e-b923-a94069019544"
+title = "Fathead"
+type = "album"
+date = "1960"
+spotify = "18bOy2iuwCdZk5CochIfst"
+tracks = [
+  { n = 1, title = "Hard Times", mbid = "0e3b9708-2b91-4e5d-a388-a1daaf4dbfcc" },
+  { n = 2, title = "Weird Beard", mbid = "5ed08f79-7b35-4996-acf4-289563db8909" },
+  { n = 3, title = "Willow Weep For Me", mbid = "cd12a935-171e-481e-ab45-d939e208cd1d" },
+  { n = 4, title = "Bill For Bennie", mbid = "4806d086-891e-442e-9008-cc941ad852c3" },
+  { n = 5, title = "Sweet Eyes", mbid = "1fb007bf-47a8-45ef-9ec8-78d7e2cca1e6" },
+  { n = 6, title = "Fathead", mbid = "ad1a044f-86b3-418b-8cf8-a5a3cf1ba3d0" },
+  { n = 7, title = "Mean To Me", mbid = "d4b79215-e329-49f5-afd0-8d57896ff1f4" },
+  { n = 8, title = "Tin Tin Deo", mbid = "66861ae1-f899-489e-af71-009f79084584" },
+]
+
+[[release]]
+mbid = "1477a3a0-ebb3-434c-8b29-5e986b85778b"
+title = "Georgia on My Mind"
+type = "ep"
+date = "1960"
+tracks = [
+  { n = 1, title = "Deep in the Heart of Texas", mbid = "73efaf5a-4f8d-4a93-92f9-a2655d720f7f" },
+  { n = 2, title = "Georgia on My Mind", mbid = "f0d04f76-b77a-4e88-8cdd-37aeba83e6cb" },
+  { n = 3, title = "Carry Me Back to Old Virginny", mbid = "c3640d8a-7a02-48d9-a427-ba2be649e66f" },
+  { n = 4, title = "Moonlight in Vermont", mbid = "2b51c4c2-c9dd-4aea-9d71-ec06818416a9" },
+]
+
+[[release]]
+mbid = "fc3306b5-c7fc-4738-98d0-d4b4cbb5c081"
+title = "Georgia on My Mind"
+type = "single"
+date = "1960"
+tracks = [
+  { n = 1, title = "Georgia on My Mind", mbid = "f0d04f76-b77a-4e88-8cdd-37aeba83e6cb" },
+  { n = 2, title = "Carry Me Back to Old Virginny", mbid = "c3640d8a-7a02-48d9-a427-ba2be649e66f" },
+]
+
+[[release]]
+mbid = "a253c872-7803-4cca-b433-ed756d4d5430"
+title = "Heartbreaker / Just for a Thrill"
+type = "single"
+date = "1960"
+tracks = [
+  { n = 1, title = "Heartbreaker", mbid = "836db5ac-dbad-441d-9819-063ac6c70f08" },
+  { n = 2, title = "Just for a Thrill", mbid = "1bd55ed4-b364-47fb-babd-dfde6eb41118" },
+]
+
+[[release]]
+mbid = "802288df-5ffa-4138-8890-52c46d9535e3"
+title = "Ruby"
+type = "single"
+date = "1960"
+tracks = [
+  { n = 1, title = "Ruby", mbid = "9c1a1b18-b8c0-4708-bd6d-57b0fc44ea83" },
+  { n = 2, title = "Hardhearted Hannah", mbid = "15b82309-9327-4c04-8fb1-1453f51a2a8c" },
+]
+
+[[release]]
+mbid = "caed0a4f-92c9-4b9e-bb52-12279882314a"
+title = "Tell the Truth"
+type = "single"
+date = "1960"
+tracks = [
+  { n = 1, title = "Tell the Truth", mbid = "9216ca13-161b-4ea1-bd83-1fa0551b09b9" },
+  { n = 2, title = "Sweet Sixteen Bars", mbid = "9c6ae99a-42f4-44bf-a7a9-8dccf805f834" },
+]
+
+[[release]]
+mbid = "04f9ff75-abce-3a33-b87b-75e56c5e6b6c"
+title = "The Genius Hits the Road"
+type = "album"
+date = "1960"
+tracks = [
+  { n = 1, title = "Alabamy Bound", mbid = "7259f574-a9b9-403d-b40d-28eac6084278" },
+  { n = 2, title = "Georgia on My Mind", mbid = "f0d04f76-b77a-4e88-8cdd-37aeba83e6cb" },
+  { n = 3, title = "Basin Street Blues", mbid = "883e50a8-a22f-418b-9f4e-a3d6ae640a11" },
+  { n = 4, title = "Mississippi Mud", mbid = "7199acb5-01f1-424c-9f5a-145676c56d51" },
+  { n = 5, title = "Moonlight in Vermont", mbid = "2b51c4c2-c9dd-4aea-9d71-ec06818416a9" },
+  { n = 6, title = "New York's My Home", mbid = "21774ec3-268f-40d6-a484-7338e26f3669" },
+  { n = 7, title = "California Here I Come", mbid = "5169ac2f-7e9b-4dee-9156-c10454645144" },
+  { n = 8, title = "Moon Over Miami", mbid = "764affda-8845-40f7-b997-8e54eab5c06e" },
+  { n = 9, title = "Deep in the Heart of Texas", mbid = "7bea32dc-e9c3-4139-bb62-03b8958cdc24" },
+  { n = 10, title = "Carry Me Back to Old Virginny", mbid = "42f7b10a-ae63-490f-82d0-c03a100e5e62" },
+  { n = 11, title = "Blue Hawaii", mbid = "b8905c79-ebf3-4774-b96a-8fc2a2b3bca2" },
+  { n = 12, title = "Chattanooga Choo-Choo", mbid = "d80ef796-2b14-42b2-8137-605eb9fb4345" },
+]
+
+[[release]]
+mbid = "44d0168b-cbbf-4ae9-ae63-275674136c8f"
+title = "Them That Got"
+type = "single"
+date = "1960"
+tracks = [
+  { n = 1, title = "Them That Got", mbid = "7f87379b-8bae-4181-91b3-cab9c0966352" },
+  { n = 2, title = "I Wonder", mbid = "02b2b962-cb1f-4893-9f4a-f568ea9afa0a" },
+]
+
+[[release]]
+mbid = "667b2100-e6d2-42d8-a436-8f9cf87fc9d2"
+title = "Sticks and stones"
+type = "single"
+date = "1960-05"
+tracks = [
+  { n = 1, title = "Sticks and stones", mbid = "7e6b4430-ff15-47c9-8c95-efa87c45340a" },
+  { n = 2, title = "Worried life blues", mbid = "e3ac1eeb-ec37-48fe-ad58-a8287ba131de" },
+]
+
+[[release]]
+mbid = "9e6a6ed2-4bf5-4dad-a136-4c26c458c0a6"
+title = "Dedicated to You"
+type = "album"
+date = "1961"
+tracks = [
+  { n = 1, title = "Hardhearted Hannah", mbid = "74b0ce63-2b17-4be3-9d7f-2c387519ec2f" },
+  { n = 2, title = "Nancy", mbid = "225c0dd7-1ee2-46e0-9296-373a343e1e1f" },
+  { n = 3, title = "Margie", mbid = "c76a9201-8063-4317-a983-817b94a7e08c" },
+  { n = 4, title = "Ruby", mbid = "5d616958-f4e8-4b90-aec2-3ea9e652bd2b" },
+  { n = 5, title = "Rosetta", mbid = "af543881-4711-45d7-add6-c1f893140e06" },
+  { n = 6, title = "Stella by Starlight", mbid = "9c3a23f3-0761-4dfd-86c9-cdcd1a61e191" },
+  { n = 7, title = "Cherry", mbid = "ad1f29e0-2723-49d0-abd6-722f5946eafe" },
+  { n = 8, title = "Josephine", mbid = "8cd211be-1c9d-4f75-9679-6c606225ab53" },
+  { n = 9, title = "Candy", mbid = "457a2a45-aff6-4fd7-818d-34c432a64922" },
+  { n = 10, title = "Marie", mbid = "5f466059-57f4-40e2-bf73-75185a186571" },
+  { n = 11, title = "Diane", mbid = "144be389-187f-425c-8fee-a5f59545179c" },
+  { n = 12, title = "Sweet Georgia Brown", mbid = "c7b0aefc-9ada-4c99-bfe7-43c4899fdb36" },
+]
+
+[[release]]
+mbid = "689780c3-34fa-31b6-9c0b-e9de074b2095"
+title = "Genius + Soul = Jazz"
+type = "album"
+date = "1961"
+tracks = [
+  { n = 1, title = "From the Heart", mbid = "6afd9c2e-96f6-46e0-880a-0d11e57e24a4" },
+  { n = 2, title = "I’ve Got News for You", mbid = "84cb4e0b-c5b6-443b-8ff4-7f9d637219eb" },
+  { n = 3, title = "Moanin’", mbid = "14ec857b-5a48-498d-b844-9f3e4fc1ed04" },
+  { n = 4, title = "Let’s Go", mbid = "cb456736-035c-4287-bff2-3768ec145b99" },
+  { n = 5, title = "One Mint Julep", mbid = "c6296f4e-6ac0-4feb-970e-ab7b1a78dd8b" },
+  { n = 6, title = "I’m Gonna Move to the Outskirts of Town", mbid = "dbe5caff-6101-4590-8c47-25fb56af4f3e" },
+  { n = 7, title = "Stompin’ Room Only", mbid = "80a555a8-6d1e-40b0-b796-d79cd1b3b93d" },
+  { n = 8, title = "Mister C.", mbid = "b1569296-2221-4314-aa50-5702a5f5d4d5" },
+  { n = 9, title = "Strike Up the Band", mbid = "701b4f8c-77be-4554-8bc4-d304ef8c4308" },
+  { n = 10, title = "Birth of the Blues", mbid = "bfcb649f-2ad9-4b3a-8aba-c86ba4ba1729" },
+]
+
+[[release]]
+mbid = "00398210-a450-4f68-aa58-8850c3d577e3"
+title = "Hard Times (No One Knows Better Than I) / I Wonder Who"
+type = "single"
+date = "1961"
+tracks = [
+  { n = 1, title = "Hard Times (No One Knows Better Than I)", mbid = "52b81f7c-7a49-4365-8029-0f34ed8df26c" },
+  { n = 2, title = "I Wonder Who", mbid = "15843f98-787b-41a6-83bd-7123953dd04d" },
+]
+
+[[release]]
+mbid = "7ea07a99-80cf-4ba6-95e5-86c6d48c735f"
+title = "Hit The Road Jack / The Danger Zone"
+type = "ep"
+date = "1961"
+tracks = [
+  { n = 1, title = "Hit The Road Jack", mbid = "b9006f15-4942-4981-97b1-f4a82fc7472c" },
+  { n = 2, title = "Side By Side", mbid = "f0f12531-be35-4d68-ae6b-72a8b89fd24b" },
+  { n = 3, title = "The Danger Zone", mbid = "15196b4d-9852-4b0f-adcb-04f5e00f1941" },
+  { n = 4, title = "Together", mbid = "9c696818-1967-4c5b-b6c8-ddd56af995aa" },
+]
+
+[[release]]
+mbid = "4d4c6070-b9b9-33c2-8650-98048ab6dfcd"
+title = "Hit the Road Jack / The Danger Zone"
+type = "single"
+date = "1961"
+tracks = [
+  { n = 1, title = "Hit the Road Jack", mbid = "11c75811-85ad-4f1a-8444-c93cd4e0d6ab" },
+  { n = 2, title = "The Danger Zone", mbid = "d703a9d0-a849-42f4-8139-ee09531aa830" },
+]
+
+[[release]]
+mbid = "eeccd604-f9ad-4325-adcd-bc804b67da4f"
+title = "Soul Meeting"
+type = "album"
+date = "1961"
+tracks = [
+  { n = 1, title = "Hallelujah I Love Her So", mbid = "ac4604cc-12d8-47f0-92ce-8891d70e7dc3" },
+  { n = 2, title = "Blue Genius", mbid = "b4ff96de-910c-4590-8745-f88e20c8e638" },
+  { n = 3, title = "X-Ray Blues", mbid = "955f0f70-8829-41c5-a23c-b8788f63c689" },
+  { n = 4, title = "Soul Meeting", mbid = "bb64f716-ff3c-4d9f-b145-2834a464bd3b" },
+  { n = 5, title = "Love on My Mind", mbid = "756fd1d9-fb1f-4bbe-82e1-2c2118abfe6f" },
+  { n = 6, title = "Bags of Blues", mbid = "98c6eb3f-c3a7-4350-b6f2-ad64c941ac77" },
+]
+
+[[release]]
+mbid = "5e25ac16-9560-4ff3-8d41-317c97c6c924"
+title = "Let’s Go"
+type = "single"
+date = "1961-02"
+tracks = [
+  { n = 1, title = "Let’s Go", mbid = "cb456736-035c-4287-bff2-3768ec145b99" },
+  { n = 2, title = "One Mint Julep", mbid = "c6296f4e-6ac0-4feb-970e-ab7b1a78dd8b" },
+]
+
+[[release]]
+mbid = "bbfe339a-da83-4d76-9dc5-311d4f46e416"
+title = "Leave My Woman Alone"
+type = "ep"
+date = "1961-03"
+tracks = [
+  { n = 1, title = "Leave My Woman Alone", mbid = "76e05799-d4a6-4c5f-b089-f9c2a9aae19a" },
+  { n = 2, title = "Lonely Avenue", mbid = "ccf553a6-ec05-44cd-8dc0-b573f5de9bc8" },
+  { n = 3, title = "I Want To Know", mbid = "2e22adf8-1e7e-41d9-96d7-65fd217d675c" },
+  { n = 4, title = "What Would I Do Without You", mbid = "6b406617-c0f2-4526-b39c-ce3861514cf3" },
+]
+
+[[release]]
+mbid = "9d6683b8-832a-4b66-99e0-4c52c5bff93f"
+title = "Hallelujah I Love Her So"
+type = "ep"
+date = "1961-06"
+tracks = [
+  { n = 1, title = "Hallelujah I Love Her So", mbid = "3e69581e-1e14-47fe-a7cb-377b0311db05" },
+  { n = 2, title = "Mary Ann", mbid = "8e8855f8-41a9-4089-9bd2-220603cbe896" },
+  { n = 3, title = "Ain't That Love", mbid = "3b4fff26-6342-48d3-831b-a78e85fc20f8" },
+  { n = 4, title = "A Fool for You", mbid = "8ae3e8a3-3bbc-4dfc-a5fd-8784107b784f" },
+]
+
+[[release]]
+mbid = "ab1edb5e-fae3-37af-9d05-08341bb1d0f0"
+title = "Ray Charles and Betty Carter"
+type = "album"
+date = "1961-08"
+tracks = [
+  { n = 1, title = "Ev’ry Time We Say Goodbye", mbid = "a5bb7021-6c9d-4437-9f9a-ec74d2f9f349" },
+  { n = 2, title = "You and I", mbid = "141c89b3-1aa2-43e4-bfbf-e58a95c88b1e" },
+  { n = 3, title = "Intro: Goodbye / We’ll Be Together Again", mbid = "4c915a55-ef39-4b72-9ab6-14bccfe0e231" },
+  { n = 4, title = "People Will Say We’re in Love", mbid = "11afdc1f-3661-480b-a4ea-4b1423198780" },
+  { n = 5, title = "Cocktails for Two", mbid = "cd1ed6c2-20aa-4fcd-b313-919513352dc2" },
+  { n = 6, title = "Side by Side", mbid = "f0f12531-be35-4d68-ae6b-72a8b89fd24b" },
+  { n = 7, title = "Baby, It’s Cold Outside", mbid = "3a5dfd9d-51a5-48df-974d-b8618199c54d" },
+  { n = 8, title = "Together", mbid = "9c696818-1967-4c5b-b6c8-ddd56af995aa" },
+  { n = 9, title = "For All We Know", mbid = "47aa8a36-e343-4b7f-8974-dbeb6fe3cf6f" },
+  { n = 10, title = "Takes Two to Tango", mbid = "f47800e2-b909-4326-9cc1-2bc9bb8c0b0e" },
+  { n = 11, title = "Alone Together", mbid = "30737148-9c4d-42f6-9792-54dc0bb270e3" },
+  { n = 12, title = "Just You, Just Me", mbid = "2257c058-2ffa-46ee-a4cc-de40b61ca153" },
+]
+
+[[release]]
+mbid = "69ff1a79-39f5-44a9-9886-d178e8091a3b"
+title = "The Genius of Ray Charles"
+type = "ep"
+date = "1961-10"
+tracks = [
+  { n = 1, title = "Am I Blue", mbid = "5dc5ffb1-4520-4093-9a12-42eba2356e3b" },
+  { n = 2, title = "Don't Let The Sun Catch You Cryin'", mbid = "fe0db312-c2a1-4c24-b0e4-145e0e1ac97e" },
+  { n = 3, title = "Come Rain or Come Shine", mbid = "7c8d0d9d-8663-44c0-93ea-e9fcec7e74d1" },
+  { n = 4, title = "Just For a Thrill", mbid = "bb1ca02a-975c-4439-8cc2-51c772ab3103" },
+]
+
+[[release]]
+mbid = "a415bb89-82d8-36c2-9dd0-80c9b9125083"
+title = "The Genius After Hours"
+type = "album"
+date = "1961-10-03"
+tracks = [
+  { n = 1, title = "The Genius After Hours", mbid = "fea21730-ceb4-46fb-b9a8-e873bb610d29" },
+  { n = 2, title = "Ain’t Misbehavin’", mbid = "c3836920-100a-4557-8d28-572e49ec5522" },
+  { n = 3, title = "Dawn Ray", mbid = "70d42724-d916-46f8-a862-09d87896df1c" },
+  { n = 4, title = "Joyride", mbid = "a3c00a87-cc56-40c5-a7fd-47de9857c8b4" },
+  { n = 5, title = "Hornful Soul", mbid = "34bd58c4-d743-4798-8aa7-6924354b59e8" },
+  { n = 6, title = "The Man I Love", mbid = "8d0a6d33-a802-402b-8196-deaccd19b4dd" },
+  { n = 7, title = "Charlesville", mbid = "733421e6-9a80-4d10-8398-0c5446e40ae2" },
+  { n = 8, title = "Music, Music, Music", mbid = "fd8c274f-87e6-49a9-8cef-7768eaca547e" },
+]
+
+[[release]]
+mbid = "8c064841-7cbf-3d7e-b992-0f43dced71c9"
+title = "The Genius Sings the Blues"
+type = "album"
+date = "1961-11"
+spotify = "6htjXDcCIWm6rC0HNlFc0a"
+tracks = [
+  { n = 1, title = "Early in the Mornin'", mbid = "dcb722b3-4c05-485a-8077-df842b4cc137" },
+  { n = 2, title = "Hard Times (Nobody Knows Better Than I)", mbid = "a2b042b2-2e8b-42b7-b501-2e10bea5e507" },
+  { n = 3, title = "The Midnight Hour", mbid = "29d182dc-08a0-4003-a9e1-533fa7624a2f" },
+  { n = 4, title = "(Night Time Is) The Right Time", mbid = "1048d465-aa58-4b08-9c88-3d5ae2f31510" },
+  { n = 5, title = "Feelin' Sad", mbid = "352cf89c-3c01-4ca4-91ab-8f68b6a2489e" },
+  { n = 6, title = "Ray's Blues", mbid = "f9176818-9a21-4c11-8d77-618bcc44a596" },
+  { n = 7, title = "I'm Movin' On", mbid = "240d8f9e-392b-4f13-90cd-01b1539581f1" },
+  { n = 8, title = "I Believe to My Soul", mbid = "6de638a3-10b7-422e-8682-bd48213deca4" },
+  { n = 9, title = "Nobody Cares", mbid = "153c9d96-ed3a-481f-84d2-61a2dc5c61a0" },
+  { n = 10, title = "Mr. Charles' Blues", mbid = "27cc3324-f610-40f5-958d-807337489ef4" },
+  { n = 11, title = "Some Day Baby", mbid = "26b24bf4-9fc8-4b30-b78b-15de5cfa558f" },
+  { n = 12, title = "I Wonder Who", mbid = "2ec49252-9464-47e7-a765-891524fe7623" },
+]
+
+[[release]]
+mbid = "848b2719-e780-3bfe-8da6-b6351167f295"
+title = "Unchain My Heart / But on the Other Hand Baby"
+type = "single"
+date = "1961-11"
+tracks = [
+  { n = 1, title = "Unchain My Heart", mbid = "fe46b6a9-f122-4046-a554-148ee68db2ea" },
+  { n = 2, title = "But on the Other Hand Baby", mbid = "ca4be946-300d-4207-81af-53e742a726ad" },
+]
+
+[[release]]
+mbid = "84aab7d0-b8bf-4311-9af9-ecd4f68db30f"
+title = "At the Club / Hide 'Nor Hair"
+type = "single"
+date = "1962"
+tracks = [
+  { n = 1, title = "At the Club", mbid = "5164d566-3ac6-48cd-b952-a92a65766ea3" },
+  { n = 2, title = "Hide 'Nor Hair", mbid = "a1702546-c8e3-4b74-8e0a-24274c30b221" },
+]
+
+[[release]]
+mbid = "972952c6-a890-4fc1-b20e-7d72f4ed7d96"
+title = "I Can’t Stop Loving You / Born to Lose"
+type = "single"
+date = "1962"
+tracks = [
+  { n = 1, title = "I Can’t Stop Loving You", mbid = "7e31df2c-7ec2-4afa-b012-def539c1fcd6" },
+  { n = 2, title = "Born to Lose", mbid = "d7921018-b8ac-4e89-b70f-3c3b1c2df9c9" },
+]
+
+[[release]]
+mbid = "34e37d78-5017-494f-9fc4-c6a4a4d13996"
+title = "L'Authentique Ray Charles"
+type = "ep"
+date = "1962"
+tracks = [
+  { n = 1, title = "Don't Put All Your Dreams", mbid = "9b1c51de-5bbe-422b-8be0-f7a79c1d797a" },
+  { n = 2, title = "Before Sunrise", mbid = "1e5fca59-3b9d-4d52-bbc3-15ecf990edb8" },
+  { n = 3, title = "St. Pete Florida Blues", mbid = "9657f8a9-8448-4963-8903-677bcacb7175" },
+  { n = 4, title = "How Long Blues", mbid = "b44c3faf-eb43-413f-9d6e-bf3961ce672b" },
+  { n = 5, title = "You Always Miss The Water", mbid = "3e16cb14-fb86-489c-88a4-402bbbac44f7" },
+  { n = 6, title = "I've Had My Fun", mbid = "dcb27f72-b9ad-4cae-8922-7dc1b7993d07" },
+]
+
+[[release]]
+mbid = "7170a9c8-2e46-4433-bab6-8bf0b3868555"
+title = "Ray Charles"
+type = "album"
+date = "1962"
+tracks = [
+  { n = 1, title = "Misery in My Heart", mbid = "52c33d63-93d8-46d9-a9ff-c6635e08be59" },
+  { n = 2, title = "Baby Let Me Hold Your Hand", mbid = "65bac556-0ea3-4b7e-b5aa-585897c235db" },
+  { n = 3, title = "I'm Just a Lonely Boy", mbid = "32f161b2-0e2b-419d-ba4f-1b117f2660c9" },
+  { n = 4, title = "Kissa Me Baby", mbid = "aac4e05f-d5b1-4bcd-bc1d-893c6ab6b71e" },
+  { n = 5, title = "Ray's Blues", mbid = "4a91e1f6-df08-4928-b128-61fac587942e" },
+  { n = 6, title = "The Snow is Falling", mbid = "c7b672e5-0ebe-4ce1-813d-30845d0acdb1" },
+  { n = 7, title = "All the Girls in Town", mbid = "2ea52aa6-c35f-4cbf-ad5d-517d593a18b7" },
+  { n = 8, title = "Late in the Evening", mbid = "e4455a27-da3a-4b1d-b1cf-b70716d7f1e8" },
+  { n = 9, title = "Blues is My Middle Name", mbid = "0163d748-d86e-4fee-a639-c3791f02d5ef" },
+  { n = 10, title = "Easy Riding Gal", mbid = "e9fed716-f806-4b8c-93b8-2056efcae87c" },
+]
+
+[[release]]
+mbid = "39931cae-d57f-4bd1-b966-28138628c41e"
+title = "Ray Charles chante le Blues"
+type = "ep"
+date = "1962"
+tracks = [
+  { n = 1, title = "I Wonder Who", mbid = "2ec49252-9464-47e7-a765-891524fe7623" },
+  { n = 2, title = "Mr Charles' Blues", mbid = "27cc3324-f610-40f5-958d-807337489ef4" },
+  { n = 3, title = "Some Day Baby", mbid = "26b24bf4-9fc8-4b30-b78b-15de5cfa558f" },
+  { n = 4, title = "Ray's Blues", mbid = "f9176818-9a21-4c11-8d77-618bcc44a596" },
+]
+
+[[release]]
+mbid = "af25a4f8-ac6b-4307-965d-d971ee27d9e0"
+title = "See See Rider / What Have I Done"
+type = "single"
+date = "1962"
+tracks = [
+  { n = 1, title = "See See Rider", mbid = "8054514f-d736-4602-9b26-0a5ebe0b5a0c" },
+  { n = 2, title = "I Used to Be So Happy", mbid = "d695477a-0a61-4f91-88c6-e1ab4122f5e2" },
+]
+
+[[release]]
+mbid = "86ab8cad-37ac-41e9-a94e-cc9c11477ee2"
+title = "You Are My Sunshine"
+type = "single"
+date = "1962"
+tracks = [
+  { n = 1, title = "You Are My Sunshine", mbid = "db2b9b0a-fee6-4e70-afeb-4cb13a717414" },
+  { n = 2, title = "I’ll Never Stand In Your Way", mbid = "6767ee2e-1d8f-4623-8eb5-e13076f1a439" },
+  { n = 3, title = "Take These Chains From My Heart", mbid = "07191b7c-223d-493b-aeef-9c84daa3db42" },
+  { n = 4, title = "Oh, Lonesome Me", mbid = "80d45e4a-48d7-4a37-b2bf-bff9422c4abb" },
+]
+
+[[release]]
+mbid = "6b1d0012-a992-499b-b384-f78c55b6f762"
+title = "Your Cheating Heart / You Are My Sunshine"
+type = "single"
+date = "1962"
+tracks = [
+  { n = 1, title = "Your Cheating Heart", mbid = "12a88c3e-4aa5-491d-8915-b323976b37c4" },
+  { n = 2, title = "You Are My Sunshine", mbid = "327a5a60-18b7-4dcd-8d7c-ef26b7c6849c" },
+]
+
+[[release]]
+mbid = "38671d62-32bd-399d-abbd-0f685c2fd4a3"
+title = "Modern Sounds in Country and Western Music"
+type = "album"
+date = "1962-04"
+tracks = [
+  { n = 1, title = "Bye Bye, Love", mbid = "a0b2a7ed-67e0-404c-b205-f6a2b4cc3d50" },
+  { n = 2, title = "You Don’t Know Me", mbid = "13f9018b-0567-4879-a90c-56a24bb01201" },
+  { n = 3, title = "Half as Much", mbid = "48e90923-a5e2-468d-8658-8dde7d85efde" },
+  { n = 4, title = "I Love You So Much It Hurts", mbid = "56e4267d-37f2-461b-9113-34171673aee0" },
+  { n = 5, title = "Just a Little Lovin’", mbid = "afcf55ff-45fa-4d03-bd54-3d1c3dd58a1e" },
+  { n = 6, title = "Born to Lose", mbid = "e255d43a-7d36-4bac-86b2-f7286445a499" },
+  { n = 7, title = "Worried Mind", mbid = "43745698-83e3-4090-9e83-5829b0f711e4" },
+  { n = 8, title = "It Makes No Difference Now", mbid = "239cc1d4-388c-4468-b58c-8b25ac81c8e2" },
+  { n = 9, title = "You Win Again", mbid = "1c9360a4-c94d-4877-86e9-2752b7bf8710" },
+  { n = 10, title = "Careless Love", mbid = "f365dba4-8bc3-48f8-8c69-e5ad498b00bf" },
+  { n = 11, title = "I Can’t Stop Loving You", mbid = "94e24aee-330a-4f58-8774-794683684651" },
+  { n = 12, title = "Hey, Good Lookin’", mbid = "81fdea38-2a56-4906-a1b8-adcdfa9ab684" },
+]
+
+[[release]]
+mbid = "d44d754a-d4eb-4806-827e-160c416a8bc4"
+title = "You Don’t Know Me / Careless Love"
+type = "single"
+date = "1962-07"
+tracks = [
+  { n = 1, title = "You Don’t Know Me", mbid = "5c6c46e8-a9d9-4c8d-92de-8e94ac16508c" },
+  { n = 2, title = "Careless Love", mbid = "7341ae4d-fb9a-4133-bb06-cb477117f814" },
+]
+
+[[release]]
+mbid = "9eb4aa79-d407-3201-869a-76202cc6b149"
+title = "Modern Sounds in Country and Western Music, Volume 2"
+type = "album"
+date = "1962-10"
+tracks = [
+  { n = 1, title = "You Are My Sunshine", mbid = "51f41c10-9deb-4050-b63f-3e1ca1584d1e" },
+  { n = 2, title = "No Letter Today", mbid = "5c7f80fa-6c15-4514-9ef5-c7f2a800b798" },
+  { n = 3, title = "Someday (You’ll Want Me to Want You)", mbid = "2219e5b8-731b-45a0-acec-ed0298ad97df" },
+  { n = 4, title = "Don’t Tell Me Your Troubles", mbid = "5eebe914-dd81-4d5e-bed0-aa594fcfbdc2" },
+  { n = 5, title = "Midnight", mbid = "20533bb9-e5bb-4fa9-bbf2-79408ef46e52" },
+  { n = 6, title = "Oh, Lonesome Me", mbid = "b1659b95-3716-46b1-affd-a167b8bb5907" },
+  { n = 7, title = "Take These Chains From My Heart", mbid = "61f7d927-e0c7-4a62-8324-1dc68dff5663" },
+  { n = 8, title = "Your Cheatin’ Heart", mbid = "1b8033bc-5b8a-4ff1-990a-a6ec2e77acd1" },
+  { n = 9, title = "I’ll Never Stand in Your Way", mbid = "37ec45ec-6693-4c4f-a89b-3a936c250c5a" },
+  { n = 10, title = "Making Believe", mbid = "f031b117-6c78-490a-a94d-898a573ae7c3" },
+  { n = 11, title = "Teardrops in My Heart", mbid = "8b461db8-40f9-4dbe-b538-c8778e108b9b" },
+  { n = 12, title = "Hang Your Head in Shame", mbid = "d942756d-749b-4749-b790-5e17b574fc6d" },
+]
+
+[[release]]
+mbid = "ec24a54b-9d6b-3bea-b996-ecf010cf3ba6"
+title = "Ingredients in a Recipe for Soul"
+type = "album"
+date = "1963"
+spotify = "0itNhPwnhgMq65sgZGvcRX"
+tracks = [
+  { n = 1, title = "Busted", mbid = "4f6d9204-898a-4f7a-9d32-2d624fbebe50" },
+  { n = 2, title = "Where Can I Go?", mbid = "2f650bb5-24b7-4fb5-953d-0fbdd8fa6ebc" },
+  { n = 3, title = "Born to Be Blue", mbid = "cc692ae8-b718-49f9-9c1a-882f7f08e28b" },
+  { n = 4, title = "That Lucky Old Sun", mbid = "ff81d490-1456-4be1-a5b2-9f6087b0b0da" },
+  { n = 5, title = "Ol' Man River", mbid = "472c5e9a-ed31-4644-8be2-c2c424bd8cff" },
+  { n = 6, title = "In the Evening (When the Sun Goes Down)", mbid = "d9646ce7-ca76-4c04-8bb5-f9d8d3820ea8" },
+  { n = 7, title = "A Stranger in Town", mbid = "d7b4a04c-de80-4d3f-9c6a-d776d7ea724b" },
+  { n = 8, title = "Ol' Man Time", mbid = "84851d8c-b726-4e97-9152-9f0badb5b7a0" },
+  { n = 9, title = "Over the Rainbow", mbid = "1e94053c-4242-4d39-aeed-2e9d469f8476" },
+  { n = 10, title = "You'll Never Walk Alone", mbid = "1cf4744b-40e3-4172-bcfe-e62542e99f78" },
+]
+
+[[release]]
+mbid = "be8c5296-8cba-39f2-8506-070e5b81c145"
+title = "No One / Without Love (There Is Nothing)"
+type = "single"
+date = "1963"
+tracks = [
+  { n = 1, title = "No One", mbid = "88fdcd6f-757f-4b9e-98c1-903fe93b8e79" },
+  { n = 2, title = "Without Love (There Is Nothing)", mbid = "f5b66e16-cabe-4b4e-bcfe-b4e108820ead" },
+]
+
+[[release]]
+mbid = "760773e6-798e-4415-ac09-1c441eec14cf"
+title = "Take These Chains From My Heart / No Letter Today"
+type = "single"
+date = "1963-03"
+tracks = [
+  { n = 1, title = "Take These Chains From My Heart", mbid = "61f7d927-e0c7-4a62-8324-1dc68dff5663" },
+  { n = 2, title = "No Letter Today", mbid = "5c7f80fa-6c15-4514-9ef5-c7f2a800b798" },
+]
+
+[[release]]
+mbid = "39688086-f393-43f1-a2a5-6aaa8b28972b"
+title = "Busted / Making Believe"
+type = "single"
+date = "1963-09"
+tracks = [
+  { n = 1, title = "Busted", mbid = "4f6d9204-898a-4f7a-9d32-2d624fbebe50" },
+  { n = 2, title = "Making Believe", mbid = "8f94a8ce-f037-4773-a45d-6e3df91ccd9d" },
+]
+
+[[release]]
+mbid = "66fa72af-0bbd-40f8-ad88-1c813a43daa0"
+title = "Baby, Don't You Cry (The New Swingova Rhythm) / My Heart Cries for You"
+type = "single"
+date = "1964"
+tracks = [
+  { n = 1, title = "Baby, Don't You Cry (The New Swingova Rhythm)", mbid = "58de9b9f-48cc-41d6-99ea-89ea403a1bb2" },
+  { n = 2, title = "My Heart Cries for You", mbid = "df9d5923-847e-43f7-ad41-63ae94779dd4" },
+]
+
+[[release]]
+mbid = "db0542ea-c2a9-37bd-a07d-9ce7c720fdbe"
+title = "Sweet & Sour Tears"
+type = "album"
+date = "1964-03"
+tracks = [
+  { n = 1, title = "Cry", mbid = "b2eee136-f200-4c3d-90f9-a84fdd8af2a4" },
+  { n = 2, title = "Guess I’ll Hang My Tears Out to Dry", mbid = "6fd4abf5-307f-44d7-9de8-22542038f4fb" },
+  { n = 3, title = "A Tear Fell", mbid = "d1163e2d-9168-4cc0-b2dd-604e52dba811" },
+  { n = 4, title = "No One to Cry To", mbid = "7ca9da93-b771-4d48-8aff-a6f7c3cf54b0" },
+  { n = 5, title = "You’ve Got Me Crying Again", mbid = "53036882-1a6f-4269-917d-a4e62594ffe0" },
+  { n = 6, title = "After My Laughter Came Tears", mbid = "38c34a4b-d217-40b1-82fe-3606450ac59f" },
+  { n = 7, title = "Teardrops From My Eyes", mbid = "f9aae34d-114b-4ddb-a825-33dccd842890" },
+  { n = 8, title = "Don’t Cry Baby", mbid = "78774b35-51cc-45d9-8c18-fac5fd796c76" },
+  { n = 9, title = "Cry Me a River", mbid = "a3a9fc0d-38be-4e84-b038-0b49a30e7e6f" },
+  { n = 10, title = "Baby Don’t You Cry", mbid = "36a96019-b5ef-46e3-a31b-1e535fd52cfc" },
+  { n = 11, title = "Willow, Weep for Me", mbid = "e35229b8-6ffd-4089-8bda-08111fbd1e13" },
+  { n = 12, title = "I Cried for You", mbid = "7ad27a39-a1d1-4058-81dc-11e99d407ff7" },
+]
+
+[[release]]
+mbid = "6d66cee3-041b-44ef-bb9b-a6791df27fa6"
+title = "Have a Smile With Me"
+type = "album"
+date = "1964-06"
+tracks = [
+  { n = 1, title = "Smack Dab in the Middle", mbid = "93515483-bfb5-4780-8ee3-2dd411ab7026" },
+  { n = 2, title = "Feudin’ and Fightin", mbid = "8c71956f-8b9e-4a3e-9b39-e795a4511dea" },
+  { n = 3, title = "Two Ton Tessie", mbid = "fd3e4326-63b1-4ad9-be61-9856a690f755" },
+  { n = 4, title = "I Never See Maggie Alone", mbid = "d05237a3-1012-4dc0-a8e1-19c682d91b4f" },
+  { n = 5, title = "Move It on Over", mbid = "1271ee87-5b8b-44d4-9cd0-bb6a62f21b92" },
+  { n = 6, title = "Ma (She’s Making Eyes at Me)", mbid = "d4f4fefc-12d0-4f92-9040-601bf451839c" },
+  { n = 7, title = "The Thing", mbid = "18f18c29-9776-41ca-8f94-17efbf424e5c" },
+  { n = 8, title = "The Man With the Weird Beard", mbid = "4dca1f02-ac25-4a3a-8505-404191bfc605" },
+  { n = 9, title = "The Naughty Lady of Shady Lane", mbid = "c265f919-b861-43ae-bb24-61084d39b0b2" },
+  { n = 10, title = "Who Cares (for Me)", mbid = "2ecb01a7-bbd2-4ce8-ad95-869f886003ca" },
+]
+
+[[release]]
+mbid = "9d7c0ac4-1580-49e4-b5f6-50019b93eb9c"
+title = "I’m a Fool to Care / Love’s Gonna Live Here (Swingova)"
+type = "single"
+date = "1965"
+tracks = [
+  { n = 1, title = "I’m a Fool to Care", mbid = "7460a6c4-94d7-4001-91a9-430abb19f3f0" },
+  { n = 2, title = "Love’s Gonna Live Here (Swingova)", mbid = "8d8788b7-69db-481c-8e21-b721655ca925" },
+]
+
+[[release]]
+mbid = "37adec1a-23a6-4002-b50e-abc8010229d6"
+title = "The Sensational Ray Charles"
+type = "album"
+date = "1965"
+tracks = [
+  { n = 1, title = "See See Rider", mbid = "cd61de2d-8526-4795-9b2a-eed5c63e9f8e" },
+  { n = 2, title = "I Wonder Who’s Kissing Her Now", mbid = "1476e25a-b83d-4ed0-be5e-1d79f2c9f2e3" },
+  { n = 3, title = "I’ll Never Let You Go", mbid = "68d8821a-7886-456d-a7f9-e86ab600af11" },
+  { n = 4, title = "Ray’s Blues", mbid = "2d5c0b9b-a1cb-4c17-97e8-ddb9b0953951" },
+  { n = 5, title = "I’m Glad for Your Sake", mbid = "51d27546-b968-4096-a846-87a7b1f851be" },
+  { n = 6, title = "Hey Now", mbid = "f8df3045-e4f4-40c2-8486-6c2cf48b4392" },
+  { n = 7, title = "What Have I Done", mbid = "a5d11f79-879b-4556-b0e7-dda20371d58b" },
+  { n = 8, title = "Easy Riding Gal", mbid = "1e59217f-2007-42de-9725-4c96a53748da" },
+  { n = 9, title = "All to Myself Alone", mbid = "ed932d81-e9c1-4e6e-9d63-78c731fb6764" },
+  { n = 10, title = "Late in the Evening Blues", mbid = "496f6b9e-7e90-4bc8-9fd8-3a18db62ef55" },
+]
+
+[[release]]
+mbid = "99310b7f-1844-466c-9ab0-32ba626adc24"
+title = "Together Again"
+type = "album"
+date = "1965"
+tracks = [
+  { n = 1, title = "Together Again", mbid = "0aea528c-2294-4ecc-aaf5-b0965dfd3df3" },
+  { n = 2, title = "I Like to Hear It Sometime", mbid = "433ae390-e98a-4494-8483-a725645c0e8d" },
+  { n = 3, title = "I’ve Got a Tiger by the Tail", mbid = "adc7e4ac-0fc0-41ca-9780-2f848bfe009b" },
+  { n = 4, title = "Please Forgive and Forget", mbid = "0df6689c-15d6-4656-b59a-7912f1968dfa" },
+  { n = 5, title = "I Don’t Care", mbid = "d4ebec10-f41c-41fc-8058-22c3bb4f710a" },
+  { n = 6, title = "Next Door to the Blues", mbid = "c00221b6-554d-48f5-853b-724d0bf0d249" },
+  { n = 7, title = "Blue Moon of Kentucky", mbid = "a2b1ffde-121b-4901-84a5-3301f808a06a" },
+  { n = 8, title = "Light Out of Darkness", mbid = "8a72ea25-f03f-465d-9b5f-eb43aaaa324a" },
+  { n = 9, title = "Maybe It’s Nothing at All", mbid = "2a5aec51-3b16-4ed3-a4c6-a591b5ca607d" },
+  { n = 10, title = "All Night Long", mbid = "bb20b89c-6055-4687-aa86-b22371313c8e" },
+  { n = 11, title = "Don’t Let Her Know", mbid = "bb4fd5c2-a71f-4e36-a7eb-d3b8c4a9e656" },
+  { n = 12, title = "Watch It Baby", mbid = "2a9a07f2-9cd4-45c6-8ca9-96cf08fde3ff" },
+]
+
+[[release]]
+mbid = "09b2a5eb-fc20-4afd-8e22-bda9c3234088"
+title = "Crying Time"
+type = "single"
+date = "1966"
+tracks = [
+  { n = 1, title = "Crying Time", mbid = "6fe79e52-daac-44db-9cde-9a4d3f11562f" },
+  { n = 2, title = "When My Dreamboat Comes Home", mbid = "3332b60c-0822-4b5b-996e-723fc39df3cf" },
+]
+
+[[release]]
+mbid = "8982e517-0231-3ada-85da-1b3d735b4472"
+title = "Crying Time"
+type = "album"
+date = "1966"
+spotify = "3NplTsoJxhmP228arLBqZ1"
+tracks = [
+  { n = 1, title = "Crying Time", mbid = "e85f0cb9-9726-488f-b46b-25fde1ae187d" },
+  { n = 2, title = "No Use Crying", mbid = "4dd54369-5369-488f-9b76-af4ef2123f34" },
+  { n = 3, title = "Let’s Go Get Stoned", mbid = "ed7537ac-00de-4e91-ac1b-3121333498bf" },
+  { n = 4, title = "Going Down Slow", mbid = "e6e319be-6699-43c4-80e3-153c4e58a75d" },
+  { n = 5, title = "Peace of Mind", mbid = "9c38e253-8b5e-4309-b303-5f5557fbcab1" },
+  { n = 6, title = "Tears", mbid = "c08ff96b-4cb3-4d61-b9d1-d204e2c5bc7e" },
+  { n = 7, title = "Drifting Blues", mbid = "b8c6a268-0fd8-4f17-9aad-ca0a55c023e4" },
+  { n = 8, title = "We Don’t See Eye to Eye", mbid = "046baaed-a519-46ab-a0e4-f1ba6b70a386" },
+  { n = 9, title = "You’re in for a Big Surprise", mbid = "882c28e7-fc41-4b30-b2a0-bed852e3d3df" },
+  { n = 10, title = "You’re About to Lose Your Clown", mbid = "68916158-4f82-46b9-861d-af046083733b" },
+  { n = 11, title = "Don’t You Think I Ought to Know", mbid = "ff931986-66a1-4273-8162-58741319e4c2" },
+  { n = 12, title = "You’ve Got a Problem", mbid = "f8c70895-9eeb-4378-804f-b44b5da55d50" },
+]
+
+[[release]]
+mbid = "c0afb7b7-32f1-4d81-8443-300ec77b36c1"
+title = "I Chose to Sing the Blues / Hopelessly"
+type = "single"
+date = "1966"
+tracks = [
+  { n = 1, title = "I Chose to Sing the Blues", mbid = "2a0035a2-a67a-4a75-8652-5bec769a488e" },
+  { n = 2, title = "Hopelessly", mbid = "b6e6c6e8-1ba9-417a-814b-8e7e08c7e8c7" },
+]
+
+[[release]]
+mbid = "9f5933a0-cd9d-4bef-8c82-4af68f75d864"
+title = "Please Say You’re Fooling / I Don’t Need No Doctor"
+type = "single"
+date = "1966"
+tracks = [
+  { n = 1, title = "Please Say You’re Fooling", mbid = "9f9ab2a1-597f-4d7d-8b66-9049013648bd" },
+  { n = 2, title = "I Don’t Need No Doctor", mbid = "233f9e26-9973-4265-80bf-480fb25c5a0d" },
+]
+
+[[release]]
+mbid = "7a0ae78c-2869-43a6-bb58-d45df41d4782"
+title = "Ray’s Moods"
+type = "album"
+date = "1966"
+tracks = [
+  { n = 1, title = "What‐Cha Doing in There (I Wanna Know)", mbid = "ab610d51-714c-4d86-9937-2d9ae945e09b" },
+  { n = 2, title = "Please Say You’re Fooling", mbid = "4c7c65d2-909b-435b-85a1-1b43ae52a2ae" },
+  { n = 3, title = "By the Light of the Silvery Moon", mbid = "95f08569-f945-4994-96d4-8b256de97958" },
+  { n = 4, title = "You Don’t Understand", mbid = "eb3b467e-277e-4102-a65e-fd5b2468b801" },
+  { n = 5, title = "Maybe It’s Because of Love", mbid = "6ac908ae-162f-446c-bb1e-fce1bd969fc3" },
+  { n = 6, title = "Chitlins With Candied Yams", mbid = "1a43ea80-cb63-4851-bd52-63d53179961d" },
+  { n = 7, title = "Granny Wasn’t Grinning That Day", mbid = "bc4afa4f-9636-432a-bc76-ca973114a3ed" },
+  { n = 8, title = "She’s Lonesome Again", mbid = "6fa88cdf-cc99-4ee6-ac2d-23784aa58d77" },
+  { n = 9, title = "Sentimental Journey", mbid = "be773638-140a-4b30-8a3a-e6adbf4e9b07" },
+  { n = 10, title = "A Born Loser", mbid = "a9335a18-6b58-45d1-8a32-18741c46d85a" },
+  { n = 11, title = "It’s a Man’s World", mbid = "26ebbdab-ddf9-453f-a814-61c4fcf104c5" },
+  { n = 12, title = "A Girl I Used to Know", mbid = "10f949a1-3b47-488e-b0d9-8ee7ee69220f" },
+]
+
+[[release]]
+mbid = "6f5ec232-1bf3-4993-9521-2194de3e46e5"
+title = "Crying Time"
+type = "ep"
+date = "1966-06"
+tracks = [
+  { n = 1, title = "Crying Time", mbid = "d8e88d52-8ee1-42d8-aeef-14f8cf552dcf" },
+  { n = 2, title = "Tears", mbid = "c08ff96b-4cb3-4d61-b9d1-d204e2c5bc7e" },
+  { n = 3, title = "Let's Go Get Stoned", mbid = "68430542-014e-4417-815f-f3733067b470" },
+  { n = 4, title = "Going Down Slow", mbid = "e6e319be-6699-43c4-80e3-153c4e58a75d" },
+]
+
+[[release]]
+mbid = "c96e5cf5-c945-40f0-94a3-10ad6023249e"
+title = "In the Heat of the Night"
+type = "single"
+date = "1967"
+tracks = [
+  { n = 1, title = "In the Heat of the Night", mbid = "85ba4397-cdf8-485e-bf33-0b8f185642b0" },
+  { n = 2, title = "Something's Got to Change", mbid = "ec0846de-f1c0-4998-a234-d10f460d154e" },
+]
+
+[[release]]
+mbid = "425cdbe0-d8bd-48a7-99a7-7c244df4a336"
+title = "Invites You to Listen"
+type = "album"
+date = "1967-06"
+tracks = [
+  { n = 1, title = "She’s Funny That Way (I Got a Woman Crazy for Me)", mbid = "074645eb-b953-41cd-ac94-9ec202468d09" },
+  { n = 2, title = "How Deep Is the Ocean (How High Is the Sky)", mbid = "c4e62478-86b9-47c8-999c-263ba39373de" },
+  { n = 3, title = "You Made Me Love You (I Didn’t Wanna Do It)", mbid = "beab159e-57cf-4fba-9476-67c8c640a456" },
+  { n = 4, title = "Yesterday", mbid = "51fc1c03-9ba9-4ef3-9899-c19c6e3db060" },
+  { n = 5, title = "I’ll Be Seeing You", mbid = "4b47ae05-7924-43cf-badf-480d0d344b1f" },
+  { n = 6, title = "Here We Go Again", mbid = "90a09672-8f0d-45a3-be5c-1efe9c56c319" },
+  { n = 7, title = "All for You", mbid = "3b607309-a16d-4192-8a17-110cd8215c49" },
+  { n = 8, title = "Love Walked In", mbid = "e5f31c3c-f02e-435c-a4ae-48af4759a812" },
+  { n = 9, title = "Gee, Baby Ain’t I Good to You", mbid = "e9163f1a-2c10-4d2a-ae49-937d960bade1" },
+  { n = 10, title = "People", mbid = "293eb8cb-c0b8-4ce7-95d1-051f09f5b491" },
+]
+
+[[release]]
+mbid = "cb0c88c7-031c-3f54-81cf-3a2202c3c37e"
+title = "A Portrait of Ray"
+type = "album"
+date = "1968"
+tracks = [
+  { n = 1, title = "Never Say Naw", mbid = "0a8f9f61-0271-4536-9207-d24019b53f44" },
+  { n = 2, title = "The Sun Died", mbid = "9420df1c-ca8a-4732-a9dc-17d0494a087b" },
+  { n = 3, title = "Am I Blue", mbid = "1d6e4f74-f9a8-43ce-9c80-ca942ba6a34d" },
+  { n = 4, title = "Yesterdays", mbid = "8922532c-9a85-4973-9c03-abed1c8b6d61" },
+  { n = 5, title = "When I Stop Dreamin'", mbid = "19606cbb-e8ea-4ea0-b99d-b7144e9d2fc7" },
+  { n = 6, title = "Eleanor Rigby", mbid = "45d887a9-aa18-4117-bc4c-2e07eb72b199" },
+  { n = 7, title = "Go on Home", mbid = "3a24f0e2-0179-457f-a01d-3b7a2984d4ab" },
+  { n = 8, title = "That's a Lie", mbid = "da4df9af-f180-4e95-8e7e-ecb7551e9258" },
+  { n = 9, title = "I Won't Leave", mbid = "520044c6-488e-414f-a276-723caacfeff2" },
+  { n = 10, title = "A Sweet Young Thing Like You", mbid = "2d893f65-9abe-41ff-8bb4-00a86f4e09c5" },
+  { n = 11, title = "The Bright Lights & You Girl", mbid = "74e28383-b7c5-48dd-8b84-ecbb065d883f" },
+  { n = 12, title = "Understanding", mbid = "d11d9cdd-7359-422b-847b-c0f123978347" },
+]
+
+[[release]]
+mbid = "5aa293af-d90b-4188-8a58-205064e19774"
+title = "Eleanor Rigby"
+type = "single"
+date = "1968"
+tracks = [
+  { n = 1, title = "Eleanor Rigby", mbid = "fcda353e-7994-43c3-a2a5-2dea5599bbea" },
+  { n = 2, title = "Understanding", mbid = "c9549f78-53a6-4090-89e9-466d810f40ed" },
+]
+
+[[release]]
+mbid = "166e5f1a-614b-4b39-b665-44a5e2288ac7"
+title = "Doing His Thing"
+type = "album"
+date = "1969"
+tracks = [
+  { n = 1, title = "The Same Thing That Can Make You Laugh (Can Make You Cry)", mbid = "692a6598-9ada-4bd4-8664-eafcb4412a6e" },
+  { n = 2, title = "Finders Keepers, Losers Weepers", mbid = "1104fea0-d7ee-4f34-9b02-32034f953473" },
+  { n = 3, title = "You Ought to Change Your Ways", mbid = "2a1df9fa-6baf-4fa5-89a7-d4edf7411aec" },
+  { n = 4, title = "Babe Please", mbid = "253db002-d129-407b-be2d-d86f9d3abc28" },
+  { n = 5, title = "Come and Get It", mbid = "8dc9c89b-5ad0-40b3-a000-231ea84dab0b" },
+  { n = 6, title = "We Can Make It", mbid = "296e6d90-e2a4-41a7-9ab9-c4599a81e2a5" },
+  { n = 7, title = "I’m Ready", mbid = "60111fd5-ceb1-4a99-b4a2-ffabc1d9ecc4" },
+  { n = 8, title = "That Thing Called Love", mbid = "16e8a023-469e-46e0-ae18-113f63b72aea" },
+  { n = 9, title = "If It Wasn’t for Bad Luck", mbid = "e2d26790-0863-4158-a6b5-6ca3f87b7b02" },
+  { n = 10, title = "I Told You So", mbid = "4e604cc9-c633-4484-862a-2a9968a8521d" },
+]
+
+[[release]]
+mbid = "0d506f1e-8376-4a0c-821a-87e16545ae50"
+title = "I’m All Yours Baby!"
+type = "album"
+date = "1969-02"
+tracks = [
+  { n = 1, title = "Yours", mbid = "cc55611f-1c12-42bd-a2fc-69b381bf043a" },
+  { n = 2, title = "I Didn’t Know What Time It Was", mbid = "98c945e1-c377-4075-8390-790d1c6aa3f8" },
+  { n = 3, title = "Love Is Here to Stay", mbid = "7233eec1-e494-48bb-b3ce-b1a5d15c25ad" },
+  { n = 4, title = "Memories of You", mbid = "60b4d985-5580-4e46-bf1e-333d215cd926" },
+  { n = 5, title = "Till the End of Time", mbid = "730e6730-1f23-4466-b207-3f39c4a14c66" },
+  { n = 6, title = "I Had the Craziest Dream", mbid = "05bfd097-91c6-4738-81b5-bef805a1b851" },
+  { n = 7, title = "Someday", mbid = "04a32a68-b80b-4698-a68a-236a5169ffd1" },
+  { n = 8, title = "Indian Love Call", mbid = "64b9bbcd-e3cc-4acf-aefb-b140d2f4ff86" },
+  { n = 9, title = "I Dream of You More Than You Dream I Do", mbid = "4443a6b8-687d-47f5-b462-72e7540de6cb" },
+  { n = 10, title = "Gloomy Sunday", mbid = "5ed59d30-138e-4a67-8061-2791faab7316" },
+]
+
+[[release]]
+mbid = "0ff401cd-2e1d-4b32-8ee3-1804f1f471af"
+title = "My Kind of Jazz"
+type = "album"
+date = "1970"
+tracks = [
+  { n = 1, title = "Golden Boy", mbid = "7a88cfc6-829f-4800-8729-c4e7eb219f70" },
+  { n = 2, title = "Booty‐Butt", mbid = "37387574-b8e3-4d3d-aa43-afaffd025fc4" },
+  { n = 3, title = "This Here", mbid = "d0df72b6-693c-447d-b7e6-a99e4cc8bf9b" },
+  { n = 4, title = "I Remember Clifford", mbid = "d157b2d6-2088-4fdd-b590-27e2d3954c7c" },
+  { n = 5, title = "Sidewinder", mbid = "d5df8786-5e5d-4e41-8a43-3107619292ee" },
+  { n = 6, title = "Bluesette", mbid = "4765d388-d730-4904-9083-17fca3c336b0" },
+  { n = 7, title = "Pas‐Se‐O‐Ne Blues", mbid = "d98d3999-e91f-47ce-94ed-c47d76e3c3e2" },
+  { n = 8, title = "Zig Zag", mbid = "898569c0-3c3b-488b-92a0-5ff6928e8d0f" },
+  { n = 9, title = "Angel City", mbid = "27e2d953-955a-484b-a816-212cb7728c8a" },
+  { n = 10, title = "Senor Blues", mbid = "28e8eef7-b414-421b-bfee-b99574764a32" },
+]
+
+[[release]]
+mbid = "2b60f116-6a06-4c7a-a116-cfefe226ef0e"
+title = "Love Country Style"
+type = "album"
+date = "1970-06"
+spotify = "0m3cO4YCC9KjZIHay1z8d3"
+tracks = [
+  { n = 1, title = "If You Were Mine", mbid = "8fd07f61-b4c9-44a7-9322-4cba409247d4" },
+  { n = 2, title = "Ring of Fire", mbid = "18b185c5-c3d4-406e-b559-431668552004" },
+  { n = 3, title = "Your Love Is So Doggone Good", mbid = "ab573352-ec19-442c-b23f-65600a7ef705" },
+  { n = 4, title = "Don’t Change on Me", mbid = "58cc9a46-4bb7-4c9c-8c89-f3422a278d90" },
+  { n = 5, title = "Till I Can’t Take It Anymore", mbid = "012a6dee-6bf5-4dc2-9f79-9cec4f801f04" },
+  { n = 6, title = "You’ve Still Got a Place in My Heart", mbid = "63343482-9e94-48d2-9a2d-359d450f4a61" },
+  { n = 7, title = "I Keep It Hid", mbid = "a82c3c77-b77b-4207-945c-51695237fca6" },
+  { n = 8, title = "Sweet Memories", mbid = "958ba785-651d-451b-9574-812833297448" },
+  { n = 9, title = "Good Morning Dear", mbid = "4a36abaa-f18d-4668-99a3-fd77aabe9e64" },
+  { n = 10, title = "Show Me the Sunshine", mbid = "009afc00-1025-40ce-8d45-197beb55a269" },
+]
+
+[[release]]
+mbid = "07da0fba-3204-4481-82ab-4881a08a7755"
+title = "Volcanic Action of My Soul"
+type = "album"
+date = "1971"
+tracks = [
+  { n = 1, title = "See You Then", mbid = "11e78364-ee75-4a39-ac5d-7bb48b2a4639" },
+  { n = 2, title = "What Am I Living For", mbid = "61e2d363-8a7e-4bf4-8857-4601054de2ee" },
+  { n = 3, title = "Feel So Bad", mbid = "aef37a48-79e9-4cae-ba15-090429a27219" },
+  { n = 4, title = "The Long and Winding Road", mbid = "e9cde750-b5c1-4020-8e0f-93c53508b1ff" },
+  { n = 5, title = "The Three Bells", mbid = "c2bd9526-4100-48e8-a1a1-3d6c6b701510" },
+  { n = 6, title = "All I Ever Need Is You", mbid = "13975a34-d614-42c3-85ab-4b9770e66b12" },
+  { n = 7, title = "Wichita Lineman", mbid = "34a14afd-5bd0-456c-aed7-fb8be2fa38e2" },
+  { n = 8, title = "Something", mbid = "05e6eacc-df76-4093-839a-8ded36aabab3" },
+  { n = 9, title = "I May Be Wrong (but I Think You’re Wonderful)", mbid = "aa847945-8ff0-4e83-a5ad-522bf86a1eda" },
+  { n = 10, title = "Down in the Valley", mbid = "4c106b0d-0864-4367-b4fa-7a2f2fa09f0b" },
+]
+
+[[release]]
+mbid = "086fc879-5614-48cf-b8ab-d6b1f1422a8a"
+title = "A Message From the People"
+type = "album"
+date = "1972"
+spotify = "2dlMAOsAt5FlIMuKFT4NYa"
+tracks = [
+  { n = 1, title = "Lift Every Voice and Sing", mbid = "8248a802-1b21-424f-b684-adf171a71367" },
+  { n = 2, title = "Seems Like I Gotta Do Wrong", mbid = "9fd0cae2-bcd7-46e6-bc12-136c91168368" },
+  { n = 3, title = "Heaven Help Us All", mbid = "7f12ecab-11dd-4572-98b8-36bd66e81f1d" },
+  { n = 4, title = "There’ll Be No Peace Without All Men as One", mbid = "a16b83b9-c0fb-4a45-94b7-9d052487e2e5" },
+  { n = 5, title = "Hey Mister", mbid = "b550c6d3-0b77-464f-916e-3b79fe6a69f5" },
+  { n = 6, title = "What Have They Done to My Song, Ma", mbid = "009fb48c-2ce5-4c64-b604-2da57b86ca39" },
+  { n = 7, title = "Abraham, Martin and John", mbid = "ea71db1e-a1ed-45e2-b5fb-006a8096b8ff" },
+  { n = 8, title = "Take Me Home, Country Roads", mbid = "c8e7c9ea-a19b-4a87-88e8-0ee04106b007" },
+  { n = 9, title = "Every Saturday Night", mbid = "79ba1a00-cdea-4990-8da2-b26b6e51d8b1" },
+  { n = 10, title = "America the Beautiful", mbid = "12c7b2a0-d621-4cdb-b2d0-4688c0db2f32" },
+]
+
+[[release]]
+mbid = "c16efee5-4a96-4d07-ba53-25ab5a56c473"
+title = "Jazz Number II"
+type = "album"
+date = "1972"
+tracks = [
+  { n = 1, title = "Our Suite", mbid = "d7bbb590-9545-478c-a916-e4f112a6b599" },
+  { n = 2, title = "A Pair of Threes", mbid = "daf80430-7d4e-49f1-8141-61fcca09412e" },
+  { n = 3, title = "Morning of Carnival (Manhã de carneval)", mbid = "dd03b208-6436-4ce1-970d-f6d7ff1f9021" },
+  { n = 4, title = "Going Home", mbid = "43b34bde-af80-40d2-9d4a-c72c4a3992f2" },
+  { n = 5, title = "Kids Are Pretty People", mbid = "d81c65dd-4522-49e7-90b7-4aba059b0c88" },
+  { n = 6, title = "Togetherness", mbid = "de4e5f76-9421-4cf7-bd0f-7e7e59fe9fba" },
+  { n = 7, title = "Brazilian Skies", mbid = "1b2f5c82-edd3-4a22-8aea-9868d8d9c0fa" },
+]
+
+[[release]]
+mbid = "50712f35-767d-4c59-b43a-e0ccc0b6dcd8"
+title = "Through the Eyes of Love"
+type = "album"
+date = "1972"
+tracks = [
+  { n = 1, title = "My First Night Alone Without You", mbid = "43874d9c-d5f0-441b-8d8c-b8a07b594169" },
+  { n = 2, title = "I Can Make It Through the Days (But Oh Those Lonely Nights)", mbid = "50728faf-0809-4faf-a4ab-36155e163b7d" },
+  { n = 3, title = "Someone to Watch Over Me", mbid = "f0ada96f-673d-411a-88be-5f6816a0c040" },
+  { n = 4, title = "A Perfect Love", mbid = "eef9a713-4a5f-488f-91c4-720236b9092d" },
+  { n = 5, title = "If You Wouldn’t Be My Lady", mbid = "3cf220c0-961c-445e-9ab8-7e80272cc5be" },
+  { n = 6, title = "You Leave Me Breathless", mbid = "b3a5c248-4253-4e23-9bd1-d59cb9479ef2" },
+  { n = 7, title = "Never Ending Song of Love", mbid = "ed52fab2-cf2a-42cf-88fe-b3e850914274" },
+  { n = 8, title = "Rainy Night in Georgia", mbid = "7edacd60-eb5d-4fed-906f-b8fea334219c" },
+]
+
+[[release]]
+mbid = "5257af18-f9ec-4db2-a81a-a2d72eda3ffb"
+title = "Come Live With Me"
+type = "album"
+date = "1974"
+spotify = "7k1U251G83uWwoYBTfdos3"
+tracks = [
+  { n = 1, title = "Till There Was You", mbid = "7c25df0a-be07-45d3-93b0-43744bca2011" },
+  { n = 2, title = "If You Go Away", mbid = "3277061c-da66-4ba7-8d6c-ccbcc9b89632" },
+  { n = 3, title = "It Takes So Little Time", mbid = "9f43ddb2-c6fa-44a9-8566-b4b9342308e0" },
+  { n = 4, title = "Come Live With Me", mbid = "8da967eb-87cd-4616-bbac-6e1ab456cfd0" },
+  { n = 5, title = "Somebody", mbid = "01eed3c9-95a4-4dfd-a775-cee4226a5eba" },
+  { n = 6, title = "Problems, Problems", mbid = "d8852282-bb10-43f2-a9d8-14355ec7af55" },
+  { n = 7, title = "Where Was He", mbid = "81874487-d0e7-486e-a8ce-9fea1a80548f" },
+  { n = 8, title = "Louise", mbid = "fe1e9a47-bad0-4c52-a6f6-b477788d21cc" },
+  { n = 9, title = "Everybody Sing", mbid = "5b6c7626-96ab-4137-b8aa-e72359d45d53" },
+]
+
+[[release]]
+mbid = "cfcdb398-0a4c-4f89-8f11-485d50dad6f1"
+title = "Renaissance"
+type = "album"
+date = "1975"
+spotify = "3ghwtdBMkStG4YgBhbajUx"
+tracks = [
+  { n = 1, title = "Living for the City", mbid = "90b75f54-4052-483e-b288-7818406c4878" },
+  { n = 2, title = "Then We’ll Be Home", mbid = "d8f9a3af-7dc8-42c1-86a1-587725a351df" },
+  { n = 3, title = "My God and I", mbid = "1f9c1a6e-131e-47fc-a91f-ec8273b32f97" },
+  { n = 4, title = "We’re Gonna Make It", mbid = "532bba36-46a6-4c84-9cf5-b417e345c576" },
+  { n = 5, title = "For Mama “La Mamma”", mbid = "7496a843-174c-4a35-8c09-7a6e93de8781" },
+  { n = 6, title = "Sunshine", mbid = "42fc6dc6-b9c5-44fe-98ce-ef62e2e62e3c" },
+  { n = 7, title = "It Ain’t Easy Being Green", mbid = "dcf020e1-9b95-4ce4-9e7f-4a5d1e3f5245" },
+  { n = 8, title = "Sail Away", mbid = "1aefe4d0-3a33-41fd-833a-6bdc300019c4" },
+]
+
+[[release]]
+mbid = "fb10e036-55de-4c24-8458-8fda7be0ab3d"
+title = "My Kind of Jazz, Part 3"
+type = "album"
+date = "1975-10"
+tracks = [
+  { n = 1, title = "I’m Gonna Go Fishin’", mbid = "921e4e08-5700-40be-8ffc-d510e0180fad" },
+  { n = 2, title = "For Her", mbid = "227928ab-7d2a-47b3-a2d0-49b8bd98bf96" },
+  { n = 3, title = "Sister Sadie", mbid = "d5b6b6d1-10b9-4bb0-a7f7-332fc18d87d7" },
+  { n = 4, title = "3/4 of the Time", mbid = "f1fc8e4b-9ef5-43ca-80bb-accb324abc04" },
+  { n = 5, title = "Ray Minor Ray", mbid = "25d285a1-ef34-4e55-9575-3bea41184778" },
+  { n = 6, title = "Samba de Elencia", mbid = "ffc8a122-5027-4ff6-a4e6-48dc31bec9fb" },
+  { n = 7, title = "Metamorphosis", mbid = "1639f468-e962-46bd-9e19-d25968d5c47c" },
+  { n = 8, title = "Nothing Wrong", mbid = "add99599-6c17-4f1a-922c-503eb594bed7" },
+  { n = 9, title = 'Project "S"', mbid = "210d5762-c1e3-490e-a345-da2aed877999" },
+]
+
+[[release]]
+mbid = "bd094690-b2f3-3b74-a080-5f5c6c6dd6cd"
+title = "True to Life"
+type = "album"
+date = "1977-10"
+tracks = [
+  { n = 1, title = "I Can See Clearly Now", mbid = "44472b86-9b9a-452f-b9e4-4f15e1af5ab1" },
+  { n = 2, title = "The Jealous Kind", mbid = "9e63df84-f123-41ae-bc6d-cd370493b005" },
+  { n = 3, title = "Oh, What a Beautiful Mornin’", mbid = "aec65ecd-3d7c-46b0-add5-a72fa9477a2c" },
+  { n = 4, title = "How Long Has This Been Going On", mbid = "c71e3d92-383c-4f4d-94a9-baf45b5af169" },
+  { n = 5, title = "Be My Love", mbid = "9abdfe2c-350a-4d81-b5ae-b2e29e4f7212" },
+  { n = 6, title = "Anonymous Love", mbid = "7c3de132-9de0-4a26-a20b-193207f75886" },
+  { n = 7, title = "Heavenly Music", mbid = "3fe55d2d-b609-45c5-bd7b-f2913d569865" },
+  { n = 8, title = "Game Number Nine", mbid = "09556a20-d380-445a-a96e-5b6b18e19140" },
+  { n = 9, title = "Let It Be", mbid = "f14312e1-3ef5-4da1-b058-74b2a7ac805b" },
+]
+
+[[release]]
+mbid = "75639b86-06e7-46e3-afb9-4b7d78be1902"
+title = "Love & Peace"
+type = "album"
+date = "1978"
+tracks = [
+  { n = 1, title = "You 20th Century Fox", mbid = "433036fc-8689-4fa5-8f2e-2e516dbda29d" },
+  { n = 2, title = "Take Off That Dress", mbid = "2667030f-bdd7-4991-98d0-f4f4e124566f" },
+  { n = 3, title = "She Knows", mbid = "ce46be9f-cc94-4b23-83f0-8ee3de33474e" },
+  { n = 4, title = "Riding Thumb", mbid = "b09ced4a-680e-423f-a302-0755fbd8e289" },
+  { n = 5, title = "We Had It All", mbid = "c9b33884-a3e2-470e-8d59-07749bf79efb" },
+  { n = 6, title = "No Achievement Showing", mbid = "bb856a4d-fc04-4d13-abb4-c4f6613579ea" },
+  { n = 7, title = "A Peace That We Never Before Could Enjoy", mbid = "e44c6f64-8cdd-45d9-911c-3442044447ca" },
+  { n = 8, title = "Is There Anyone Out There", mbid = "410e8f8e-2b9e-4c28-9057-47f9566b7b3b" },
+  { n = 9, title = "Give the Poor Man a Break", mbid = "01a02791-28b6-4857-9618-6f5dc5fa27a2" },
+]
+
+[[release]]
+mbid = "5943ea52-6364-4d45-98b6-0b97db0a6368"
+title = "Ain’t It So"
+type = "album"
+date = "1979"
+tracks = [
+  { n = 1, title = "Some Enchanted Evening", mbid = "5d325d11-b7e8-4172-9ecf-e79b860ba420" },
+  { n = 2, title = "Blues in the Night", mbid = "b248ff26-f1e8-40c6-959f-8b954564a0d4" },
+  { n = 3, title = "Just Because", mbid = "35c15420-e65e-450a-aa7c-8cc6a5928bbd" },
+  { n = 4, title = "What’ll I Do", mbid = "c1b0285f-2c2e-4872-9eee-0f50a2ca1027" },
+  { n = 5, title = "One of These Days", mbid = "f44267d6-f316-4e57-a535-c84ff36e343d" },
+  { n = 6, title = "Love Me or Set Me Free", mbid = "43016691-04be-477d-91ef-37b9b4d4d632" },
+  { n = 7, title = "Drift Away", mbid = "54c09e56-e307-489a-98fe-b941c77af190" },
+  { n = 8, title = "(Turn Out the Lights) Love Me Tonight", mbid = "2df0b5bc-5dfd-4667-8281-7f5231b5cc60" },
+]
+
+[[release]]
+mbid = "aa3230f6-a055-31a0-a08e-15814d65addc"
+title = "Brother Ray"
+type = "album"
+date = "1980"
+tracks = [
+  { n = 1, title = "Compared to What", mbid = "09f82141-0925-4d48-8b31-8b95f2d4ef4e" },
+  { n = 2, title = "Anyway You Want To", mbid = "36ddcae7-1dbf-4adf-8b8d-1c80081c3174" },
+  { n = 3, title = "Don’ You Love Me Anymore?", mbid = "50c1220a-4776-4f26-816c-863cfd7aef18" },
+  { n = 4, title = "A Poor Man’s Song", mbid = "e3716a5a-6ba9-4acf-ba0f-36f57d4bd169" },
+  { n = 5, title = "Now That We’ve Found Each Other", mbid = "8d9baf4d-a4cf-473d-857a-9e4795ce0b64" },
+  { n = 6, title = "Ophelia", mbid = "ddc63c8d-f00c-49bf-822a-b32d63eb9552" },
+  { n = 7, title = "I Can’t Change It", mbid = "9381868b-8d72-4af8-895a-28d2d194e477" },
+  { n = 8, title = "Questions", mbid = "69d14925-4c28-4073-a56b-8ec0c2e91168" },
+]
+
+[[release]]
+mbid = "622da9c5-9d2d-4e39-88e6-2d07091233c5"
+title = "Brother Ray Is at It Again!"
+type = "album"
+date = "1980"
+tracks = [
+  { n = 1, title = "Compared to What", mbid = "09f82141-0925-4d48-8b31-8b95f2d4ef4e" },
+  { n = 2, title = "Anyway You Want To", mbid = "36ddcae7-1dbf-4adf-8b8d-1c80081c3174" },
+  { n = 3, title = "Don’t You Love Me Anymore?", mbid = "7c78f655-78fe-4058-8970-784e17e0e84f" },
+  { n = 4, title = "A Poor Man’s Song", mbid = "e3716a5a-6ba9-4acf-ba0f-36f57d4bd169" },
+  { n = 5, title = "Now That We’ve Found Each Other", mbid = "8d9baf4d-a4cf-473d-857a-9e4795ce0b64" },
+  { n = 6, title = "Ophelia", mbid = "ddc63c8d-f00c-49bf-822a-b32d63eb9552" },
+  { n = 7, title = "I Can’t Change It", mbid = "9381868b-8d72-4af8-895a-28d2d194e477" },
+  { n = 8, title = "Questions", mbid = "69d14925-4c28-4073-a56b-8ec0c2e91168" },
+]
+
+[[release]]
+mbid = "36556dc4-a9dc-3f44-a98c-973814fdd61e"
+title = "Wish You Were Here Tonight"
+type = "album"
+date = "1983"
+tracks = [
+  { n = 1, title = "3/4 Time", mbid = "df7221ae-ca1c-4667-8d2c-a32747a910e2" },
+  { n = 2, title = "I Wish You Were Here Tonight", mbid = "388c9670-b387-465d-92c5-7ec9d5bc664f" },
+  { n = 3, title = "Ain’t Your Memory Got No Pride at All", mbid = "d9679bd7-cc64-4095-b805-61359229e585" },
+  { n = 4, title = "Born to Love Me", mbid = "e1dc98b2-a56d-46ec-8401-053bcc4b2ddc" },
+  { n = 5, title = "I Don’t Want No Stranger Sleepin’ In My Bed", mbid = "d7d5504d-be3d-47d5-8dfe-85000e3abb3e" },
+  { n = 6, title = "Let Your Love Flow", mbid = "4c75980f-438f-4d8a-82e4-13df97ce211b" },
+  { n = 7, title = "You Feel Good All Over", mbid = "6d8c9da4-178c-4686-802d-051258390bad" },
+  { n = 8, title = "String Bean", mbid = "a80981d3-1c0c-47b2-a261-18edd8ff345a" },
+  { n = 9, title = "You’ve Got the Longest Leaving Act in Town", mbid = "39d8e449-f59c-4690-a85c-f8a26a8af32a" },
+  { n = 10, title = "Shakin’ Your Head", mbid = "2fc6ba38-0153-4336-94d8-1901f3ffc422" },
+]
+
+[[release]]
+mbid = "8c583b2a-8e30-4041-9bfa-3d78b434083d"
+title = "Do I Ever Cross Your Mind"
+type = "album"
+date = "1984"
+tracks = [
+  { n = 1, title = "I Had It All", mbid = "1575a2f5-8915-4ce6-8bf7-f052ac5f41be" },
+  { n = 2, title = "Do I Ever Cross Your Mind", mbid = "82f11278-af78-4419-bde9-4957d33d56ff" },
+  { n = 3, title = "Woman Sensuous Woman", mbid = "65e94d59-3fb3-490e-a647-d988823940b5" },
+  { n = 4, title = "Then I’ll Be Over You", mbid = "7bef5e30-a9d4-4b64-891a-d67764dd38ee" },
+  { n = 5, title = "(All I Wanna Do Is) Lay Around and Love on You", mbid = "87d066be-708e-4a49-9cd4-0edc8113a8c6" },
+  { n = 6, title = "Love of My Life", mbid = "b2c8225f-a8ce-4dff-b380-938a7a68e70a" },
+  { n = 7, title = "They Call It Love", mbid = "e14ad932-eb3a-465e-a879-d36b9d730001" },
+  { n = 8, title = "If I Were You", mbid = "50d730b9-82e8-47a1-b2da-23cca25efa98" },
+  { n = 9, title = "Workin’ Man’s Woman", mbid = "d42390e7-d818-4f00-b7dd-a1cd59255a72" },
+  { n = 10, title = "I Was on Georgia Time", mbid = "d8b78098-6fce-47c5-b021-dfdcff419369" },
+]
+
+[[release]]
+mbid = "20188858-2802-41f4-9238-1db8a6db8fdc"
+title = "Seven Spanish Angels / It Ain’t Gonna Worry My Mind"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Seven Spanish Angels", mbid = "b1255b09-bf35-4676-8f39-3c1efbfc48e3" },
+  { n = 2, title = "It Ain’t Gonna Worry My Mind", mbid = "2f0bf315-94ae-4cf2-9815-d65ee5b00310" },
+]
+
+[[release]]
+mbid = "cbac7ae1-1076-4fa0-8f88-edcd48bd2616"
+title = "Two Old Cats Like Us"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Two Old Cats Like Us", mbid = "cabefdcd-33b4-4353-9041-dd08c9420336" },
+  { n = 2, title = "Little Hotel Room", mbid = "4633070e-d4de-4e63-a9ba-0a149f4d7599" },
+]
+
+[[release]]
+mbid = "d68e5847-f9e4-3d29-ade6-95fa991375ee"
+title = "Friendship"
+type = "album"
+date = "1984-08"
+spotify = "4tgLQ8VwHXVBkRi3beX95g"
+tracks = [
+  { n = 1, title = "Two Old Cats Like Us", mbid = "935d1aee-1372-450b-95b4-ade5a9683d56" },
+  { n = 2, title = "This Old Heart (Is Gonna Rise Again)", mbid = "93d44606-debe-4a60-9319-bef67d1ccac8" },
+  { n = 3, title = "We Didn’t See a Thing", mbid = "93c40180-e5ae-4391-a0c3-58dec12e4d38" },
+  { n = 4, title = "Who Cares", mbid = "500c6bf7-fc24-437e-9166-35361de0181c" },
+  { n = 5, title = "Rock and Roll Shoes", mbid = "37424b54-8040-4070-afa4-c5bea02eccf8" },
+  { n = 6, title = "Friendship", mbid = "ffa7671e-bc77-4c66-8428-d7b615968827" },
+  { n = 7, title = "It Ain’t Gonna Worry My Mind", mbid = "a0bc1dda-3116-4fed-b68f-ad4ab2dc9c9a" },
+  { n = 8, title = "Little Hotel Room", mbid = "75a77623-3ccf-42d3-ba2d-78ea65a9b7b5" },
+  { n = 9, title = "Crazy Old Soldier", mbid = "5c2cb053-ccf6-488e-abf4-6cfc83026811" },
+  { n = 10, title = "Seven Spanish Angels", mbid = "7fe0144a-077a-4a98-b545-229e7c188eba" },
+]
+
+[[release]]
+mbid = "85e8c228-7f02-30b8-90ae-9efb9e843888"
+title = "The Spirit of Christmas"
+type = "album"
+date = "1985-12"
+spotify = "00Rpo9DJAnCA3tyjg0u3Mo"
+tracks = [
+  { n = 1, title = "What Child Is This", mbid = "f8b00b04-d2b1-4cac-82fc-a30741ae287e" },
+  { n = 2, title = "The Little Drummer Boy", mbid = "e8721bef-a900-4ec3-822a-d6cf44b90f00" },
+  { n = 3, title = "Santa Claus Is Comin' to Town", mbid = "09b312ad-cf9d-4999-afcc-74c8f5c23929" },
+  { n = 4, title = "This Time of the Year", mbid = "f5927926-7b81-4896-a0ff-f847f8ffcb38" },
+  { n = 5, title = "Rudolph the Red Nosed Reindeer", mbid = "5ec05b18-2712-4216-86a2-310e8efb38f0" },
+  { n = 6, title = "That Spirit of Christmas", mbid = "68b99039-fe98-481b-85e6-346abd2cc678" },
+  { n = 7, title = "All I Want for Christmas", mbid = "51c92bd4-5f92-4f11-82b8-336fb3b8027e" },
+  { n = 8, title = "Christmas in My Heart", mbid = "273262fc-4d2f-494f-ad05-ccc270b867e3" },
+  { n = 9, title = "Winter Wonderland", mbid = "51845727-4452-408c-a178-5974d7c3833e" },
+  { n = 10, title = "Christmas Time", mbid = "7077aeae-b23c-46d6-a170-310dafa126c6" },
+]
+
+[[release]]
+mbid = "36310949-13e3-4f69-a727-bc1dcafd91a5"
+title = "From the Pages of My Mind"
+type = "album"
+date = "1986"
+tracks = [
+  { n = 1, title = "The Pages of My Mind", mbid = "d3ba3526-afea-4eed-b23f-19ec2260350f" },
+  { n = 2, title = "Slip Away", mbid = "69a875f3-6378-4686-82ae-587e580d8970" },
+  { n = 3, title = "Anybody With the Blues", mbid = "97074af3-0e61-4a98-8435-f7e83f28c4b4" },
+  { n = 4, title = "Class Reunion", mbid = "179e284f-1460-484a-8690-e4aa5cfc9b3b" },
+  { n = 5, title = "Caught a Touch of Your Love", mbid = "4a1cb2d0-d38a-4b67-81e6-937cdb57f0fe" },
+  { n = 6, title = "A Little Beat of Heaven", mbid = "9dbee38b-92e3-4b95-87fe-efc05a9a2ee1" },
+  { n = 7, title = "Dixie Moon", mbid = "4a3951cb-293a-4699-98cb-7c64981130b0" },
+  { n = 8, title = "Over and Over (Again)", mbid = "809101bb-65ab-46ff-a3a1-04e088075470" },
+  { n = 9, title = "Beaucoup Love", mbid = "e1bed80f-df13-4d38-b51f-1ee8c5e81bb4" },
+  { n = 10, title = "Love Is Worth the Pain", mbid = "f53a2838-fa89-444a-a866-9b9738912e96" },
+]
+
+[[release]]
+mbid = "e8088f90-c421-3b49-b46b-10ba2861c0c8"
+title = "Just Between Us"
+type = "album"
+date = "1988"
+tracks = [
+  { n = 1, title = "Nothing Like a Hundred Miles", mbid = "e4aa2e7a-0e6d-463b-bccf-c150ac0ea9ba" },
+  { n = 2, title = "I Wish I’d Never Loved You at All", mbid = "0aa93e55-3f75-4683-a2c8-3c4149cd9b89" },
+  { n = 3, title = "Too Hard to Love You", mbid = "1f65dd2c-5940-4952-94f0-0d45abb1819c" },
+  { n = 4, title = "Now I Don’t Believe That Anymore", mbid = "726288a7-ec96-403b-b2dd-095e08e72767" },
+  { n = 5, title = "Let’s Call the Whole Thing Off", mbid = "48fe0ffd-bfae-47d4-8ab2-fa16e65c9a45" },
+  { n = 6, title = "Stranger in My Hometown", mbid = "08851021-46e2-41a0-bd1b-7cd523ef0449" },
+  { n = 7, title = "Over the Top", mbid = "d366f823-35fa-4341-b941-8051d04e1b8f" },
+  { n = 8, title = "I’d Walk a Little More for You", mbid = "5a8a3c78-eb80-46c1-bdcf-73d594bb7b5d" },
+  { n = 9, title = "If That’s What’cha Want", mbid = "9ad26129-31ca-4e8d-858d-33c2619a34fc" },
+  { n = 10, title = "Save the Bones for Henry Jones", mbid = "5d2a05d7-bb5c-4beb-ae6a-b7d4c45abe88" },
+]
+
+[[release]]
+mbid = "50438927-4c99-43d3-a004-47eedd5669c7"
+title = "Lil' Bit of Gold"
+type = "ep"
+date = "1988"
+tracks = [
+  { n = 1, title = "Unchain My Heart", mbid = "160a8ddc-c840-4a13-b9a1-afc3890e967c" },
+  { n = 2, title = "Hit the Road Jack", mbid = "0a742b24-d321-44d5-8a22-5aa55dd006b3" },
+  { n = 3, title = "One Mint Julep", mbid = "1b9cf8c9-0abf-4b8d-9ca0-91f645f5d98c" },
+  { n = 4, title = "Busted", mbid = "06f21a83-ca8f-4283-b49b-298eb173b473" },
+]
+
+[[release]]
+mbid = "0bf1d0a3-8540-4890-ac4f-507f18098a69"
+title = "Ray Charles"
+type = "ep"
+date = "1988"
+tracks = [
+  { n = 1, title = "Georgia on My Mind", mbid = "615ea1f4-80f7-45ea-802c-a9489f1e70f1" },
+  { n = 2, title = "Crying Time", mbid = "7e590930-9af9-4957-8a2e-769091151440" },
+  { n = 3, title = "I Can’t Stop Loving You", mbid = "c915fcd2-429a-459b-ab42-5668559ac069" },
+  { n = 4, title = "You Are My Sunshine", mbid = "edd76c8f-4bab-4f1d-bbbb-bb7da3166a99" },
+]
+
+[[release]]
+mbid = "683892ac-403e-3532-b9a8-9e0a44ea46c4"
+title = "I'll Be Good to You"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "I’ll Be Good to You (12” mix)", mbid = "ecb8fb3d-669e-42b5-bc87-24be68b8d38f" },
+  { n = 2, title = "I’ll Be Good to You (remix edit)", mbid = "7c5a5b6b-9064-4edc-ac3f-c1d954a7f275" },
+  { n = 3, title = "I’ll Be Good to You (Good for Your Soul mix)", mbid = "7b168f49-32c1-4581-810a-c3d5a75851ec" },
+  { n = 4, title = "I’ll Be Good to You (Good for Your Soul edit)", mbid = "57a26795-a3a9-4baa-90d2-9825295aa3fc" },
+  { n = 5, title = "I’ll Be Good to You (Good for Your Soul dub)", mbid = "755fdeae-0cf0-4596-b710-dde9cbd5c74c" },
+  { n = 6, title = "I’ll Be Good to You (Around the House mix)", mbid = "336bf5a5-b2c8-4cd1-983b-0507c88bb5c3" },
+  { n = 7, title = "I’ll Be Good to You (Around the House dub)", mbid = "8d303603-956b-4498-a66f-84b343f1cd32" },
+]
+
+[[release]]
+mbid = "9a8cc588-62e8-379c-a047-eefe40de4d18"
+title = "Porgy & Bess"
+type = "album"
+date = "1989"
+tracks = [
+  { n = 1, title = "Summer Time", mbid = "18362ade-41f3-4486-91ec-4bc295bb1d29" },
+  { n = 2, title = "My Man’s Gone Now", mbid = "2d325c5e-5fff-4b0f-ba09-334bd4d96872" },
+  { n = 3, title = "A Woman Is a Sometime Thing", mbid = "c0d62f34-0238-464f-a964-56157710c217" },
+  { n = 4, title = "They Pass by Singin’", mbid = "12bff0a0-c2ac-48fa-b4e2-7e2265d85f51" },
+  { n = 5, title = "What You Want Wid Bess?", mbid = "e1aa32cf-03ed-41fc-b3c7-cbe0971818f4" },
+  { n = 6, title = "I Got Plenty O’ Nuttin’", mbid = "f3fa2f15-8aa3-4634-aac4-1bc73d0d1318" },
+  { n = 7, title = "Buzzard Song", mbid = "102e4683-a23b-4b7d-a91b-42cdbaaebf04" },
+  { n = 8, title = "Bess, You Is My Woman", mbid = "3b4422c9-cf80-4b2a-a13f-50a4b3e13c00" },
+  { n = 9, title = "Oh, Doctor Jesus", mbid = "61b9a207-ff6c-4124-a5eb-0b7f1a61dd1c" },
+  { n = 10, title = "Crab Man", mbid = "8ac3b327-eb18-45cf-8887-bf7b83005613" },
+  { n = 11, title = "Here Come De Honey Man", mbid = "c2efb6f4-387f-4bab-ad7c-ed89844d9744" },
+  { n = 12, title = "Strawberry Woman (instrumental)", mbid = "292a7ca0-ca9a-4d2f-9544-5ede926d4045" },
+  { n = 13, title = "Strawberry Woman", mbid = "b600f7d7-7331-471f-b20c-6052f5d42e63" },
+  { n = 14, title = "It Ain’t Necessarily So", mbid = "138c8817-5019-4ac2-8080-bb6cd62601e2" },
+  { n = 15, title = "There’s a Boat Dat’s Leavin’ Soon for New York", mbid = "d05cc4e8-a44b-458b-98fd-424da7ab4717" },
+  { n = 16, title = "I Loves You, Porgy", mbid = "7536d9ca-38b7-45e3-93ec-6b441fd445b9" },
+  { n = 17, title = "Oh, Bess, Oh Where’s My Bess (instrumental)", mbid = "328f5b32-f320-48dd-a52c-f951d48d7961" },
+  { n = 18, title = "Oh, Bess, Oh Where’s My Bess", mbid = "1cbea4b3-1fdc-4c8d-a76a-befbe2c4e4af" },
+  { n = 19, title = "Oh Lord, I’m on My Way", mbid = "d95a45cc-8975-4376-baca-9384add08951" },
+]
+
+[[release]]
+mbid = "80b77381-ac23-4106-9e52-84f5face7435"
+title = "Precious Thing"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Precious Thing (Till The Next... Somewhere)", mbid = "49511505-ea61-469e-9e52-b02a2775e702" },
+  { n = 2, title = "Sunset and Blue", mbid = "71d7346f-aeea-446d-88b7-f05b76535a27" },
+]
+
+[[release]]
+mbid = "f29600db-589a-440d-8637-471b45a7ea11"
+title = "Soul Brothers / Soul Meeting"
+type = "album"
+date = "1989"
+tracks = [
+  { disc = 1, n = 1, title = "How Long Blues", mbid = "300e41cc-ff12-4332-be04-d44a96f9d345" },
+  { disc = 1, n = 2, title = "Cosmic Ray", mbid = "d35e6dfe-4c6a-4127-8bad-36fdedea29a8" },
+  { disc = 1, n = 3, title = "The Genius After Hours", mbid = "8c23772f-afb4-4d38-b0f6-92c00847491d" },
+  { disc = 1, n = 4, title = "Charlesville", mbid = "2be830db-7d53-47ed-a78c-838cb998a4e6" },
+  { disc = 1, n = 5, title = "Bags of Blues", mbid = "466bd1ec-5f7e-479f-ae2b-02e4be0d7dc4" },
+  { disc = 1, n = 6, title = "Deed I Do", mbid = "55f600fc-3173-4f8c-9fe9-4e305324d970" },
+  { disc = 1, n = 7, title = "Blue Funk", mbid = "95fde479-9456-4e3d-b046-9fdc087eb361" },
+  { disc = 2, n = 1, title = "Soul Brothers", mbid = "1c4046d3-e7bc-4184-b44e-f45a82f90f39" },
+  { disc = 2, n = 2, title = "Bag's Guitar Blues", mbid = "96bb0bf1-5542-44c0-9764-8c3965d6431e" },
+  { disc = 2, n = 3, title = "Soul Meeting", mbid = "2d5bb264-ccfb-4afa-9af0-24a6b2c5203e" },
+  { disc = 2, n = 4, title = "Hallelujah I Love Her So", mbid = "15366c60-51dc-4cd0-b08f-cfd2c5133330" },
+  { disc = 2, n = 5, title = "Blue Genius", mbid = "755d10d0-d7e4-49a6-9de5-67905c535562" },
+  { disc = 2, n = 6, title = "X-Ray Blues", mbid = "db918411-5567-423c-b4ab-b84d7cf9df5a" },
+  { disc = 2, n = 7, title = "Love on my Mind", mbid = "6c4689de-3fe3-46bc-9d0d-fc0713409e0a" },
+]
+
+[[release]]
+mbid = "7370cecd-cb1f-3e1f-98a8-b512562a4899"
+title = "Would You Believe?"
+type = "album"
+date = "1990-10-05"
+tracks = [
+  { n = 1, title = "I’ll Take Care of You", mbid = "9e715c0c-2592-4906-bea1-227953821272" },
+  { n = 2, title = "Your Love Keep Me Satisfied", mbid = "b5ec5c29-f4fb-4acc-a5d6-74be3f36c1a3" },
+  { n = 3, title = "Ellie, My Love", mbid = "7199d91a-09e8-462b-8061-f80595e161a1" },
+  { n = 4, title = "I Can’t Get Enough", mbid = "cfd77b38-82f7-45b2-8163-37b5e1572725" },
+  { n = 5, title = "Let’s Get Back to Where We Left Off", mbid = "8037ec05-069b-43e4-9e68-ef9bc7529c06" },
+  { n = 6, title = "Child Support Alimony", mbid = "aa85501b-8f87-448a-99e2-2f8ae0c7ff8a" },
+  { n = 7, title = "Fresh Out of Tears", mbid = "6c917bd9-42ff-41f7-963a-940f0e35da32" },
+  { n = 8, title = "Living Without You", mbid = "48aaa177-7bd3-4778-a03c-352a295e6280" },
+  { n = 9, title = "Where’re the Stairs?", mbid = "61f3e1b0-4341-4b85-b530-d47187410745" },
+  { n = 10, title = "Leave Him!", mbid = "fafafc1c-c380-4c5f-90b9-d400550e5472" },
+]
+
+[[release]]
+mbid = "1719ec0a-59fc-47fd-89df-5d9f3d80a37f"
+title = "Ray Charles in LA"
+type = "album"
+date = "1991"
+tracks = [
+  { n = 1, title = "Opening", mbid = "bde9c9dc-a4b2-48d8-ba57-e91c9d4c61ed" },
+  { n = 2, title = "Swing a Little Taste", mbid = "450c7990-013b-44fd-981e-59825c83ae80" },
+  { n = 3, title = "I Gotta Woman", mbid = "bd30e34d-8c91-42c8-861c-a9d9305d2745" },
+  { n = 4, title = "Margie", mbid = "874349ac-69e6-47fa-8d55-41b04cb11881" },
+  { n = 5, title = "You Don’t Know Me", mbid = "8eef76d2-316f-4768-9280-bae8759101e6" },
+  { n = 6, title = "Hide nor Hair", mbid = "95e3dafe-6da7-4b69-8505-ffb2bd3145b0" },
+  { n = 7, title = "Baby Don’t You Cry", mbid = "2e4c9017-4db1-40f4-ade1-6df20caf51d5" },
+  { n = 8, title = "Makin’ Whoopee", mbid = "b796399c-01c7-46ea-9914-7235d0b8155f" },
+  { n = 9, title = "Hallelujah I Love Her So", mbid = "b99b78a0-7b1e-46b1-9127-e1fd2f01006b" },
+  { n = 10, title = "Don’t Set Me Free", mbid = "6963dba5-2c58-4efc-aa34-bd41211f0844" },
+  { n = 11, title = "What’d I Say", mbid = "218aab53-0b68-4199-bd27-a919a44d1891" },
+  { n = 12, title = "Finale", mbid = "ea871ef8-c2fd-4f53-8658-0805e5142c93" },
+]
+
+[[release]]
+mbid = "9f8f7994-e335-36e7-a3aa-22d900e86a3a"
+title = "My World"
+type = "album"
+date = "1993-03-02"
+tracks = [
+  { n = 1, title = "My World", mbid = "6af1218a-0aac-441c-843d-fec23f4cbabd" },
+  { n = 2, title = "A Song for You", mbid = "eb0646d3-d7f1-4ef2-aa7c-0b059ca64c09" },
+  { n = 3, title = "None of Us Are Free", mbid = "4113726f-f9a6-4252-9cf7-1f32fe000e69" },
+  { n = 4, title = "So Help Me God", mbid = "1dbeb7af-6704-4c36-aa87-8ed2b8e7407b" },
+  { n = 5, title = "Let Me Take You Over", mbid = "06cc83ca-796a-4932-918b-836bfb54a03f" },
+  { n = 6, title = "One Drop of Love", mbid = "76b643c5-f5a8-45e7-9006-7d51a0af137a" },
+  { n = 7, title = "If I Could", mbid = "280360ff-acf9-4402-a244-917d77094b82" },
+  { n = 8, title = "Love Has a Mind of Its Own", mbid = "b38f3d3d-79dd-4641-b6a1-927ed0aa1c41" },
+  { n = 9, title = "I'll Be There", mbid = "eb1f4ffb-1e79-4d24-9946-16135d55ab37" },
+  { n = 10, title = "Still Crazy After All These Years", mbid = "3c9134b6-5837-487a-af86-d1eadd2b7809" },
+]
+
+[[release]]
+mbid = "c607268a-f780-3232-b1ad-7883badf6563"
+title = "Strong Love Affair"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "No Time to Waste Time", mbid = "199bdff5-8a46-4dbd-8d15-5b45a51d9854" },
+  { n = 2, title = "Angelina", mbid = "acf87c5e-9f23-42f6-92de-dfa07ba30242" },
+  { n = 3, title = "Tell Me What You Want", mbid = "0433e8a5-4ff9-427f-a2c9-cfe00567c4d5" },
+  { n = 4, title = "Strong Love Affair", mbid = "3d63e6d6-e701-4415-a938-f101ef7f83d9" },
+  { n = 5, title = "All She Wants to Do Is Love", mbid = "14fef431-9a57-4d3a-b965-1c7f3aa4b687" },
+  { n = 6, title = "Out of My Life", mbid = "174d5165-64ae-42d5-88e7-b745b9ed5763" },
+  { n = 7, title = "The Fever", mbid = "6f6781cc-efb0-4c67-8a13-ea2c24a18ffd" },
+  { n = 8, title = "Say No More", mbid = "bf315f62-42de-4797-a5da-a7c8020af6f6" },
+  { n = 9, title = "Everybody’s Handsome Child", mbid = "809f8855-3ca3-49fd-b2aa-b6669ca5eac8" },
+  { n = 10, title = "Separate Ways", mbid = "6040ffb6-5493-4e8f-af2a-01fba6d3c7b2" },
+  { n = 11, title = "I Need a Good Woman Bad", mbid = "4d283cbe-6044-4188-952f-c56a73a28f26" },
+  { n = 12, title = "If You Give Me Your Heart", mbid = "2709fdc3-8de6-42d6-b921-648ad368a104" },
+]
+
+[[release]]
+mbid = "57bd1ba2-bb3e-473e-9fa5-4e75dced203c"
+title = "It’s a Blues Thing"
+type = "album"
+date = "1995-08-22"
+tracks = [
+  { n = 1, title = "Elanor Rigby", mbid = "5bfdd956-5365-455f-be2b-d5db1930f587" },
+  { n = 2, title = "Let’s Go Get Stoned", mbid = "f8fcbb24-a362-4f5f-bc0a-1c3571489017" },
+  { n = 3, title = "Soul Segue", mbid = "30a34feb-2fc7-4f67-a51b-e1349603173f" },
+  { n = 4, title = "Esther Phillips", mbid = "46304db5-5bfc-4a47-bf1f-fe2870060e4c" },
+  { n = 5, title = "The Girl I Used to Know", mbid = "4cc92548-6627-402f-bb1e-2be2795681aa" },
+  { n = 6, title = "Ode to Billy Joe", mbid = "4177d886-9fdc-48ce-9a77-2d4d0bcef78c" },
+  { n = 7, title = "I Won’t Leave Till I Get What I Came For", mbid = "1c45128e-f471-4f4c-90da-65d9c5149d87" },
+  { n = 8, title = "Long John Blues", mbid = "319229a3-37d0-42fb-93a0-7e67803680bf" },
+]
+
+[[release]]
+mbid = "96519336-307b-4f67-a450-e2e11b21ad59"
+title = "Ray Charles & Friends"
+type = "album"
+date = "1998"
+tracks = [
+  { n = 1, title = "Two Old Cats Like Us", mbid = "1994726c-df8a-43ef-b4b9-2a584aab7eb4" },
+  { n = 2, title = "This Old Heart (Is Gonna Rise Again)", mbid = "da4048e0-5846-4c4f-854c-120bc8f5cd0e" },
+  { n = 3, title = "We Didn’t See a Thing", mbid = "6e5310d3-caa4-4101-8472-553d2d40abde" },
+  { n = 4, title = "Who Cares", mbid = "44cd9ca2-b26e-4cdf-994a-509b706e4187" },
+  { n = 5, title = "Rock And Roll Shoes", mbid = "3e5463e0-b2eb-4a51-a533-bf92a731b68c" },
+  { n = 6, title = "Friendship", mbid = "ffa7671e-bc77-4c66-8428-d7b615968827" },
+  { n = 7, title = "It Ain’t Gonna Worry My Mind", mbid = "4490fcd1-5809-4147-9d6c-a4e75668ee18" },
+  { n = 8, title = "Little Hotel Room", mbid = "44a2a060-9ec7-4845-b52d-ff838090905c" },
+  { n = 9, title = "Crazy Old Soldier", mbid = "a7ce5429-8316-4b79-aeb7-c354bb02af17" },
+  { n = 10, title = "Seven Spanish Angels", mbid = "ae475640-a5a3-4e85-b76f-9b414123f77c" },
+]
+
+[[release]]
+mbid = "1a4cc611-aa1a-4f90-9ada-d190097710bf"
+title = "Alone in the City"
+type = "album"
+date = "2002"
+tracks = [
+  { n = 1, title = "Alone in the City", mbid = "43dd6cb5-96bb-4b22-b90d-8937d4bf24da" },
+  { n = 2, title = "Let’s Have a Ball", mbid = "ea1feb36-859b-40b0-b224-fae8254dd8fe" },
+  { n = 3, title = "How Long Blues", mbid = "68b26bc6-dfe2-446e-889e-b712043df2f8" },
+  { n = 4, title = "A Sentimental Blues", mbid = "2d22ac4f-0f1a-4a8b-8d28-8c62b1a027f8" },
+  { n = 5, title = "You Always Miss the Water (When the Well Runs Dry)", mbid = "57bdbb58-f856-4441-9641-9582abf04a7f" },
+  { n = 6, title = "Sitting on Top of the World", mbid = "d28429d7-84a4-4daf-bfa1-68b4f5a8fab1" },
+  { n = 7, title = "I’ve Had My Fun (Going Down Slow)", mbid = "f9adc17b-3a56-4d7c-82af-318d2a65a50e" },
+  { n = 8, title = "Ain’t That Fine", mbid = "0b53e0ca-e494-44d7-850e-c2d731cba821" },
+  { n = 9, title = "Don’t Put All Your Dreams in One Basket", mbid = "3aeea0ed-41d2-4415-8829-84d9debc2ef1" },
+  { n = 10, title = "She’s on the Ball", mbid = "4534910d-7700-442a-9f61-a41f46d91858" },
+  { n = 11, title = "If I Give You My Love", mbid = "29a26435-aa30-4850-8d13-d8a631d7e9b1" },
+  { n = 12, title = "Can’t You See Darling?", mbid = "1c601fff-ea95-4ce0-bcbe-985dfd0b82c9" },
+  { n = 13, title = "This Love of Mine", mbid = "c8b1329d-9aa2-4ac3-8192-44227f1427af" },
+  { n = 14, title = "Someday", mbid = "f3ac2bd6-aea6-41d1-bedd-5767be8c99aa" },
+  { n = 15, title = "Baby Won’t You Please Come Home", mbid = "b14060e2-f99e-4565-a8ab-a9e0f52907a6" },
+  { n = 16, title = "What Have I Done?", mbid = "7fd55e8d-d482-4045-a450-559edda4e0ce" },
+  { n = 17, title = "Misery in My Heart", mbid = "7dc170ea-65b2-499e-b514-4994e6c993b0" },
+  { n = 18, title = "Honey, Honey", mbid = "fd266e7d-2af5-432b-b42c-c4f5525e711d" },
+  { n = 19, title = "I’m Glad for Your Sake", mbid = "e8e71982-5dfb-4ec8-91e4-170a1e6b5ba5" },
+  { n = 20, title = "Hey Now", mbid = "96716ca7-c614-468c-9684-1ceffa70ff5e" },
+  { n = 21, title = "The Snow Is Falling", mbid = "239716c4-d868-4f06-b5a1-c5cd67d89e4e" },
+  { n = 22, title = "Baby Let Me Hold Your Hand", mbid = "bcd8c611-df80-4191-8399-f24c3aeb1961" },
+  { n = 23, title = "Kissa Me Baby", mbid = "96edecf3-11dd-494f-acb4-ec035ae4084a" },
+]
+
+[[release]]
+mbid = "a815d12a-7dfa-464f-8b79-5b04a17f0cee"
+title = "Alone in the City"
+type = "album"
+date = "2002"
+tracks = [
+  { n = 1, title = "Alone in the City", mbid = "818e12e2-3271-4ed3-8c5d-b2f82cc21fdf" },
+  { n = 2, title = "Can Anyone Aske for More", mbid = "0097c5c7-3731-476d-9732-db812aa2ed05" },
+  { n = 3, title = "Rockin’ Blues", mbid = "fd7617d2-e544-4d19-8ca9-19434f6a50ea" },
+  { n = 4, title = "Let’s Have a Ball", mbid = "07cb98d2-092d-44e6-91ac-f1afb6844985" },
+  { n = 5, title = "How Long, How Long Blues", mbid = "19eb0e3b-b648-421e-b9bb-c4a4033bcc9d" },
+  { n = 6, title = "A Sentimental Blues", mbid = "bf3cc09d-8e79-4df0-8137-4bb5550f702d" },
+  { n = 7, title = "You Will Always Miss the Water", mbid = "4bdc8bdc-fadd-4d89-b171-ed8b6b6e0395" },
+  { n = 8, title = "I’ve Had My Fun (Goin’ Down Slow)", mbid = "c230fef1-01b4-400d-816c-8bc17bfa3962" },
+  { n = 9, title = "Sitting on Top of the World", mbid = "c8bf4546-40e8-4233-94c3-5605943f4e58" },
+  { n = 10, title = "Ain’t That Fine", mbid = "7bc12c81-7c0b-4350-8ead-8073482d03f2" },
+  { n = 11, title = "Don’t Put All Your Dreams in One Basket", mbid = "3a328a15-cd60-4a63-9f31-5912e98783d7" },
+  { n = 12, title = "Tell Me Baby", mbid = "ef622413-d46d-4605-9cc3-142a3dd8e7c6" },
+  { n = 13, title = "Honey Honey", mbid = "764cc2a4-e11b-4ef5-af09-ebfa6eacc1e5" },
+  { n = 14, title = "She’s on the Ball", mbid = "2b230523-3c6c-486f-b826-1763a80a9bb8" },
+  { n = 15, title = "Baby Won’t You Please Come Home", mbid = "e51b4b7c-b72c-4555-8507-e18783a94e81" },
+  { n = 16, title = "If I Give You My Love", mbid = "8ee79356-4065-4146-9121-96514aa36f9b" },
+  { n = 17, title = "This Love of Mine", mbid = "f04cfc9b-4df3-4469-b9e2-17deeebd75e4" },
+  { n = 18, title = "Can’t You See Me Darling", mbid = "75d7618f-8888-40bf-903f-35776cb2feb8" },
+  { n = 19, title = "Blues Is My Middle Name", mbid = "b31b21b7-f480-467c-af86-f2bc0819b6ca" },
+  { n = 20, title = "I’m Going to Drown Myself", mbid = "8de4413f-1a60-4c52-b1bd-e3296eb58262" },
+]
+
+[[release]]
+mbid = "57b09c94-9a83-4f3e-80b2-57a074a0e5a7"
+title = "Don't Put All Your Dreams in One Basket"
+type = "album"
+date = "2002"
+tracks = [
+  { n = 1, title = "Don't Put All Your Dreams in One Basket", mbid = "dd1a6017-de94-42cd-981a-97e61aa2ac63" },
+  { n = 2, title = "A Sentimental Blues", mbid = "c2d7448b-5262-4081-8415-3fcb52dc8fd4" },
+  { n = 3, title = "Blues Before Sunrise", mbid = "1e5fca59-3b9d-4d52-bbc3-15ecf990edb8" },
+  { n = 4, title = "Alone in This City", mbid = "85ea0743-db1c-476d-9b04-18a35d8425b3" },
+  { n = 5, title = "Rocking Chair Blues", mbid = "f8a0c23a-caaf-4ceb-937f-0aca3d8e28c7" },
+  { n = 6, title = "Ain't That Fine", mbid = "c7e35479-05eb-4d99-a5f0-b6b0854eeed6" },
+  { n = 7, title = "Can Anyone Ask for More", mbid = "6b0d9680-6a68-41fc-a65f-1464659ab333" },
+  { n = 8, title = "How Long Blues", mbid = "851bd926-21e2-49db-a683-0567ba3a426f" },
+  { n = 9, title = "I Love You, I Love You", mbid = "ce5a9fef-7b67-4672-aa9f-cb85af449269" },
+  { n = 10, title = "Let's Have a Ball", mbid = "83f647d9-a587-485f-a130-efdaa2f9a4a4" },
+  { n = 11, title = "You'll Always Miss the Water", mbid = "3e16cb14-fb86-489c-88a4-402bbbac44f7" },
+  { n = 12, title = "This Love of Mine", mbid = "d7cf5cae-f40c-4281-b25a-5021c182b987" },
+  { n = 13, title = "I've Had My Fun", mbid = "55d25682-8bdb-4a82-88e4-c49974faf74b" },
+  { n = 14, title = "C.C. Rider", mbid = "6a42f3a1-235d-4267-8076-36d383c68aed" },
+  { n = 15, title = "Late in the Evening", mbid = "a077e852-bee7-49ab-b80c-696ea91fa535" },
+]
+
+[[release]]
+mbid = "585dcb1e-7767-4106-932b-bf94ade56a0b"
+title = "Ensemble"
+type = "single"
+date = "2002"
+tracks = [
+  { n = 1, title = "Ensemble", mbid = "735ba846-e0e9-4bc2-930e-5e02b4455d61" },
+  { n = 2, title = "Mother", mbid = "034a83b4-62bb-4922-9ead-af9daa9d4703" },
+]
+
+[[release]]
+mbid = "e8120f7f-30fb-378a-bc76-82db06accf1b"
+title = "Thanks for Bringing Love Around Again"
+type = "album"
+date = "2002-04-23"
+tracks = [
+  { n = 1, title = "What’d I Say", mbid = "3c0590fd-0e22-4866-b8d1-ed45f7efec2b" },
+  { n = 2, title = "Can You Love Me Like That", mbid = "bf6a9437-e9ee-4b5d-aae4-e51118823ebf" },
+  { n = 3, title = "How Did You Feel the Morning After", mbid = "ebc596a1-0fe5-4f61-b070-571c917175d5" },
+  { n = 4, title = "I Love You More Than I Ever Have", mbid = "b8a1afbb-a149-4497-85d7-814731f19e16" },
+  { n = 5, title = "Really Got a Hold on Me", mbid = "c5b433ec-6978-4ba5-82ea-4fb38c8722d4" },
+  { n = 6, title = "Thanks for Bringing Love Around Again", mbid = "d886be62-a152-436e-8323-5d68f04561f4" },
+  { n = 7, title = "Save Your Lov’in Just for Me", mbid = "163fe011-0313-44c7-bf0a-fabd9f4ed160" },
+  { n = 8, title = "I Just Can’t Get Enough of You", mbid = "032666a7-2622-4fe7-b7ac-80dd79fbfe84" },
+  { n = 9, title = "Ensemble", mbid = "7bedaf9d-7fb5-40f4-840b-a98d5cc7f9fd" },
+  { n = 10, title = "New Orleans", mbid = "525f47e4-edb9-4d56-b44f-887793b3c064" },
+  { n = 11, title = "Mr. Creole", mbid = "4fa216e9-92f2-4231-adc6-0eb527ca8f50" },
+  { n = 12, title = "Mother", mbid = "064d0931-c981-4105-9e0c-10725747c2eb" },
+]
+
+[[release]]
+mbid = "8173fb44-9bf2-4157-816d-333eae6d6256"
+title = "Let the Good Times Roll"
+type = "album"
+date = "2004"
+tracks = [
+  { n = 1, title = "Night Time Is the Right Time (live)", mbid = "1120f5fb-7d1f-4438-8dd1-a7e707f95e9b" },
+  { n = 2, title = "Blues Is My Middle Name", mbid = "b8017191-7e64-4d27-a4ee-ae4724dc26da" },
+  { n = 3, title = "Hey Now", mbid = "6013c7e3-0b5c-4450-96ec-3d8ba2ef27a0" },
+  { n = 4, title = "Alone in the City", mbid = "3b088bca-4517-4a90-aef0-cdcfaac25514" },
+  { n = 5, title = "The Girl I Used to Know (live)", mbid = "cd1bb5dc-d505-41ea-888e-716e48ac0056" },
+  { n = 6, title = "Sitting on Top of the World", mbid = "d09ccf2b-a0e9-4b85-8b3a-7ec06a47032c" },
+  { n = 7, title = "Going Down Slow", mbid = "da682c83-9904-4807-b114-2d5f77e1860e" },
+  { n = 8, title = "Let’s Have a Ball", mbid = "f094b44d-8475-440d-be75-87108bbb580a" },
+  { n = 9, title = "What Have I Done", mbid = "ebcd15b4-7ad0-486a-844e-ce6414706070" },
+  { n = 10, title = "I’ll Do Anything but Work", mbid = "3d8ca94e-ae92-4885-b1d4-97c70bb8f920" },
+  { n = 11, title = "A Sentimental Blues", mbid = "33468101-3298-4d72-ab9d-4a1c53add050" },
+  { n = 12, title = "Let the Good Times Roll (live)", mbid = "1da45e9e-39d7-4a47-823e-45e7c08b0791" },
+]
+
+[[release]]
+mbid = "68e4ec3a-875e-46d6-80ec-f12f7195bb83"
+title = "Sorry Seems to Be the Hardest Word"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "Sorry Seems to Be the Hardest Word", mbid = "491e4bb6-46f1-420f-bfbf-6a109cced2a4" },
+]
+
+[[release]]
+mbid = "775273bc-8a5b-3de7-8eb5-6c1ab4de8b68"
+title = "Genius Loves Company"
+type = "album"
+date = "2004-08-27"
+spotify = "3CwGxaRLRyEw6OiSbVhdRE"
+tracks = [
+  { n = 1, title = "Here We Go Again", mbid = "2a1c32b6-dfa5-4924-a21d-6e12a7b0f160" },
+  { n = 2, title = "Sweet Potato Pie", mbid = "5aba77a0-bee6-488a-9e7b-21571ccf5da7" },
+  { n = 3, title = "You Don’t Know Me", mbid = "76bedbac-eaa2-4820-a470-6ceeb2749a76" },
+  { n = 4, title = "Sorry Seems to Be the Hardest Word", mbid = "b3bb2c56-bfc0-4d85-b6a7-5ff74c681057" },
+  { n = 5, title = "Fever", mbid = "f095cc3d-e420-486b-bd54-92bd46c94ff7" },
+  { n = 6, title = "Do I Ever Cross Your Mind?", mbid = "5d9fc7c7-0e87-48b5-98eb-5792e59350cd" },
+  { n = 7, title = "It Was a Very Good Year", mbid = "f3fb4b04-6dc6-4f8f-b764-67e7cb336b5f" },
+  { n = 8, title = "Hey Girl", mbid = "9653b077-9033-4413-a464-d61258de848d" },
+  { n = 9, title = "Sinner’s Prayer", mbid = "784e90be-6860-4130-8f2c-a44bbb8026b8" },
+  { n = 10, title = "Heaven Help Us All", mbid = "ba298503-59b1-4fb8-96af-c73b07e9f45e" },
+  { n = 11, title = "Over the Rainbow", mbid = "ee9808c0-488e-464f-85b1-cc1b9a18a6cd" },
+  { n = 12, title = "Crazy Love", mbid = "32d91d90-4225-4f33-a2b3-b7ff5c41bc0d" },
+]
+
+[[release]]
+mbid = "9c5e99ee-e5c4-37b3-908c-95abfd962f3f"
+title = "Ray"
+type = "album"
+date = "2004-10-19"
+tracks = [
+  { n = 1, title = "Mess Around", mbid = "33102cc3-2ec3-4533-ab37-dd5b909f7655" },
+  { n = 2, title = "I've Got a Woman", mbid = "80548ada-36b3-48f1-864c-6a0297248ad2" },
+  { n = 3, title = "Hallelujah I Love Her So (live)", mbid = "ca63141c-1f1a-485a-940c-f14db7c4dced" },
+  { n = 4, title = "Drown in My Own Tears", mbid = "d1b468fc-9808-4ac3-885b-a1d1ee7fb49b" },
+  { n = 5, title = "(Night Time Is) The Right Time", mbid = "1048d465-aa58-4b08-9c88-3d5ae2f31510" },
+  { n = 6, title = "Mary Ann", mbid = "8e8855f8-41a9-4089-9bd2-220603cbe896" },
+  { n = 7, title = "Hard Times (No One Knows Better Than I)", mbid = "59806988-ddde-48de-9f08-98287ed323b7" },
+  { n = 8, title = "What'd I Say (live)", mbid = "95b198b5-084d-43e6-a25c-997edb9783a9" },
+  { n = 9, title = "Georgia on My Mind", mbid = "f0d04f76-b77a-4e88-8cdd-37aeba83e6cb" },
+  { n = 10, title = "Hit the Road Jack", mbid = "11c75811-85ad-4f1a-8444-c93cd4e0d6ab" },
+  { n = 11, title = "Unchain My Heart", mbid = "fe46b6a9-f122-4046-a554-148ee68db2ea" },
+  { n = 12, title = "I Can't Stop Loving You (live)", mbid = "028a222a-e640-4c65-af76-f5455881774c" },
+  { n = 13, title = "Born to Lose", mbid = "e255d43a-7d36-4bac-86b2-f7286445a499" },
+  { n = 14, title = "Bye Bye, Love", mbid = "a0b2a7ed-67e0-404c-b205-f6a2b4cc3d50" },
+  { n = 15, title = "You Don't Know Me (live)", mbid = "4dbedaa3-f284-47a6-ad57-8aca97a91598" },
+  { n = 16, title = "Let the Good Times Roll (live)", mbid = "e58419d0-1fd3-4be7-8f24-0c09144263b1" },
+  { n = 17, title = "Georgia on My Mind (live)", mbid = "1af00f67-fbf6-4916-b012-82f7aa714181" },
+]
+
+[[release]]
+mbid = "3a305bb5-832e-4ff7-aac7-4dabf162b4d8"
+title = "Ray Charles - Great Moments 9"
+type = "album"
+date = "2005"
+tracks = [
+  { n = 1, title = "Don't Put All Your Dreams in One Basket", mbid = "eca42818-63b9-41ee-9c1e-abfe2468e0d0" },
+  { n = 2, title = "Late in the Evening Blues", mbid = "efe45595-e7fb-4877-aab6-3124a7965a9c" },
+  { n = 3, title = "She's on the Ball", mbid = "23ecc9ca-38da-41c3-bf73-071d0aa1a6a4" },
+  { n = 4, title = "Sittin' on Top of the World", mbid = "612b1daa-dcd3-4862-8b7e-0103145ad7b4" },
+  { n = 5, title = "Can't You See Darlin'?", mbid = "d1a5c69d-d6cc-45c9-8d4c-ce50e6c3847a" },
+  { n = 6, title = "A Sentimental Blues", mbid = "28bf6b68-be3b-41e0-a0b4-466e62b8a220" },
+  { n = 7, title = "Kiss Me Baby", mbid = "8d1f3f3b-736f-4d30-8248-4194c0ea6b86" },
+  { n = 8, title = "Heartbreaker", mbid = "3cca3f5d-3acf-4dd5-96a3-55818fce04f3" },
+  { n = 9, title = "I'm Movin' On", mbid = "f79e69e8-92ef-441e-ac05-6856fbc48a8c" },
+  { n = 10, title = "Talkin' About You", mbid = "be389dee-cb1f-44cc-90df-85c2ace81083" },
+  { n = 11, title = "Tell Me, How Do You Feel?", mbid = "0b034c34-9ccb-4623-9b81-576fd39d1b1a" },
+  { n = 12, title = "You Be My Baby", mbid = "5ea0958e-462d-48ef-aa2b-4ce8212083f8" },
+  { n = 13, title = "I Got a Woman", mbid = "4fe45336-46a2-4e88-8d78-18c3f0952055" },
+  { n = 14, title = "What'd I Say?", mbid = "1e4e4cec-f042-41ce-942b-f39c2a152139" },
+  { n = 15, title = "Georgia on My Mind", mbid = "8fe39c4d-a632-4d5a-9dca-6f9211ac4b71" },
+  { n = 16, title = "Some Day (Blues Is My Middle Name)", mbid = "e4dff367-7c69-4aab-b286-0212b0172f27" },
+  { n = 17, title = "Baby Won't You Please Come Home", mbid = "865a643f-c34f-4883-8921-3841d85116ff" },
+  { n = 18, title = "Ain't That Fine?", mbid = "7b1f2c57-a3f7-4d2b-b09b-43b5e4a95f3a" },
+  { n = 19, title = "This Love of Mine", mbid = "ce8e1523-4f63-475c-b42c-c9b9318bbbb7" },
+  { n = 20, title = "I'm Going Down to the River", mbid = "fed7342f-006e-4633-95a6-0dceaff75fe8" },
+]
+
+[[release]]
+mbid = "1cc15dab-8a31-4bd9-8020-ce2b3e9d0f5a"
+title = "Soul & Blues"
+type = "album"
+date = "2005"
+tracks = [
+  { n = 1, title = "Baby Won’t Yo Please Come Home", mbid = "ce52d63c-1419-4c59-913a-38c51c74a143" },
+  { n = 2, title = "The Sun’s Gonna Shine Again", mbid = "592538cf-013c-43fa-8ca3-6f4ec850c930" },
+  { n = 3, title = "Ain’t That Fine", mbid = "47ad97ce-d692-4e57-8586-726936500d5c" },
+  { n = 4, title = "Roll With My Baby", mbid = "ff7934b7-bb0a-4db5-886f-1700f98773a2" },
+  { n = 5, title = "Blues Before Sunrise", mbid = "135d55c4-b33e-4c96-ab32-a81842c0f876" },
+  { n = 6, title = "Some Day", mbid = "ace19181-4051-4502-9b30-b13696d63dcf" },
+  { n = 7, title = "Th’Ego Song", mbid = "437be849-f153-4fe7-b1c8-ac8fa9d9a6f3" },
+  { n = 8, title = "You’ll Never Miss the Water", mbid = "749d6dc6-7f7c-47a8-9e70-f57a6270500a" },
+  { n = 9, title = "I’ve Had My Fun", mbid = "20db08e3-9e29-4e34-b9b1-7f1baae36839" },
+  { n = 10, title = "What Have I Done?", mbid = "7768f082-9c24-430b-847a-0685c33d0155" },
+  { n = 11, title = "See See Rider", mbid = "4667f844-752d-4ed4-bd04-94abf129507f" },
+  { n = 12, title = "The Snow Is Falling", mbid = "958cc0b9-823e-4c93-a7aa-77512afa3115" },
+  { n = 13, title = "Hey Now", mbid = "392b10ed-4184-43bf-a413-4ed5e0a54a66" },
+  { n = 14, title = "The Midnight Hour", mbid = "76b5fb7a-613d-4c1a-9d1e-a5bab7f0d397" },
+  { n = 15, title = "Late in the Evening", mbid = "3c3d09f5-e199-43c3-9cbe-57799b656b47" },
+  { n = 16, title = "Baby Let Me Hold Your Hand", mbid = "64724d3b-3815-442d-b962-0b6e6a90637c" },
+  { n = 17, title = "Honey, Honey", mbid = "c6ad3481-6e04-4d5c-bef3-44dc05dacdd3" },
+]
+
+[[release]]
+mbid = "7579e3b5-1d1a-4d0c-ba2c-7336a9f9329f"
+title = "Surrender to Love"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "Surrender to Love", mbid = "f73763ed-48bd-44a4-9659-0cf14fd12bb8" },
+]
+
+[[release]]
+mbid = "5df17284-8200-3198-a0d5-7dde76c38f58"
+title = "More Music From Ray"
+type = "album"
+date = "2005-02-01"
+tracks = [
+  { n = 1, title = "Leave My Woman Alone", mbid = "1ce04e96-87aa-4d1d-94a9-adf4b7faec14" },
+  { n = 2, title = "Lonely Avenue", mbid = "ccf553a6-ec05-44cd-8dc0-b573f5de9bc8" },
+  { n = 3, title = "Rockhouse, Parts 1 & 2", mbid = "95bb2d92-0d71-4a9a-a9e0-c966da988a00" },
+  { n = 4, title = "I Believe to My Soul", mbid = "6de638a3-10b7-422e-8682-bd48213deca4" },
+  { n = 5, title = "Losing Hand", mbid = "81f66e5f-1de9-4951-891c-2f351cddda45" },
+  { n = 6, title = "I’m Movin’ On", mbid = "10ab7ef6-aba0-400b-b63b-209eb5a64c6e" },
+  { n = 7, title = "But on the Other Hand Baby", mbid = "320fe542-6562-4d47-8406-7bd8e1efe5cd" },
+  { n = 8, title = "Baby, It’s Cold Outside", mbid = "3a5dfd9d-51a5-48df-974d-b8618199c54d" },
+  { n = 9, title = "The Danger Zone", mbid = "cb96f199-817d-4f23-b518-1c790143a98c" },
+  { n = 10, title = "Busted", mbid = "4f6d9204-898a-4f7a-9d32-2d624fbebe50" },
+  { n = 11, title = "Makin’ Whoopee", mbid = "f8808952-bb4b-4974-9845-76add2751fb1" },
+  { n = 12, title = "Lets Go Get Stoned", mbid = "0462661c-1be5-46bd-b8a4-c9172ce5dd03" },
+  { n = 13, title = "Drifting Blues", mbid = "6b26d6d8-5220-4b06-94be-c67ce034db78" },
+  { n = 14, title = "Baby Let Me Hold Your Hand (2003 version)", mbid = "81ad7927-0916-4afb-823d-e022778c4517" },
+  { n = 15, title = "Medley: Drown in My Own Tears / You Don’t Know Me (2003 version)", mbid = "cab9cd7c-ad9d-4840-8f95-1ed84473ca80" },
+  { n = 16, title = "Every Day I Have the Blues (new recording for the film)", mbid = "de5db51f-d23b-4f1b-b72f-10e2c89fe861" },
+  { n = 17, title = "America the Beautiful", mbid = "12c7b2a0-d621-4cdb-b2d0-4688c0db2f32" },
+  { n = 18, title = "Baby Grand", mbid = "bd8d9e4d-5f16-4a1f-8778-8e2863e6f8a0" },
+  { n = 19, title = "I Got a Woman", mbid = "800cec71-54b7-4bb8-bee7-cf06e7ea45a9" },
+  { n = 20, title = "Hit the Road Jack", mbid = "11c75811-85ad-4f1a-8444-c93cd4e0d6ab" },
+]
+
+[[release]]
+mbid = "703e0d98-5199-40ec-ba98-be08615c4a79"
+title = "Here We Go Again"
+type = "single"
+date = "2005-03-28"
+tracks = [
+  { n = 1, title = "Here We Go Again", mbid = "2a1c32b6-dfa5-4924-a21d-6e12a7b0f160" },
+  { n = 2, title = "Mary Ann", mbid = "404af163-87bb-40cc-8c8f-ba38eea0fd8a" },
+]
+
+[[release]]
+mbid = "97c77212-b6e0-339c-8661-5efe76889b0a"
+title = "Genius & Friends"
+type = "album"
+date = "2005-09-20"
+tracks = [
+  { n = 1, title = "All I Want to Do", mbid = "d4f5e0fa-d9e7-4941-a3c8-57bd3a21312b" },
+  { n = 2, title = "You Are My Sunshine", mbid = "9b31365a-cc0d-47cf-a78a-7113e5fd4e9a" },
+  { n = 3, title = "It All Goes by So Fast", mbid = "f72ad45f-856b-4b37-ae23-4345aa1c6425" },
+  { n = 4, title = "You Were There", mbid = "d0c9b3b5-e66e-4d36-a40b-4b0f375637ed" },
+  { n = 5, title = "Imagine", mbid = "127b4e8b-4f01-4b38-8314-72103f591c82" },
+  { n = 6, title = "Compared to What", mbid = "96b5b432-743d-4d18-bee5-006dd3171180" },
+  { n = 7, title = "Big Bad Love", mbid = "5eedcb2a-a9c5-4f44-b2b4-60a20d7075e7" },
+  { n = 8, title = "I Will Be There", mbid = "9dc28186-257d-43b1-9384-9b2c966bb176" },
+  { n = 9, title = "Blame It on the Sun", mbid = "004f3219-9e3a-4bed-b532-1747a7c8358e" },
+  { n = 10, title = "Touch", mbid = "e08f6991-deff-424d-bfa4-9a6f1181be87" },
+  { n = 11, title = "Shout", mbid = "4e323a00-6c4a-446e-8673-18f061d2aa0e" },
+  { n = 12, title = "Surrender to Love", mbid = "51350261-f258-4243-ba4a-f849c9b1a5b0" },
+  { n = 13, title = "Busted (live)", mbid = "40bf1cb8-4134-412c-8745-1e43d8ae0903" },
+  { n = 14, title = "America the Beautiful", mbid = "00a328b4-8016-47e4-a908-77c732c0d761" },
+]
+
+[[release]]
+mbid = "e3bf32b2-797d-356d-a300-ec771a3389a7"
+title = "Ray Sings, Basie Swings"
+type = "album"
+date = "2006-10-03"
+spotify = "4QXITzZqcGcKzAsLo5Drv6"
+tracks = [
+  { n = 1, title = "Oh, What a Beautiful Morning", mbid = "1723fdef-993c-4e27-adbf-43b527e416b5" },
+  { n = 2, title = "Let the Good Times Roll", mbid = "da355632-5d1a-4175-b352-a1c895a6a47b" },
+  { n = 3, title = "How Long Has This Been Going On?", mbid = "58aa8333-5d03-485f-a109-790ce083c00d" },
+  { n = 4, title = "Every Saturday Night", mbid = "0d0038bb-6440-49ea-9bbd-12a4ba3770ca" },
+  { n = 5, title = "Busted", mbid = "0564f3fb-2a97-451e-bc30-a83bfa4c1b03" },
+  { n = 6, title = "Crying Time", mbid = "420e3a71-c881-4cae-81a1-f679961f6ac1" },
+  { n = 7, title = "I Can’t Stop Loving You", mbid = "d097d5d6-a42c-437f-8c35-2d1e3f85e700" },
+  { n = 8, title = "Come Live With Me", mbid = "4c563504-089f-4fad-bbcd-3987f996915f" },
+  { n = 9, title = "Feel So Bad", mbid = "43f3c80a-fd36-41c8-800d-58ea880bbc79" },
+  { n = 10, title = "The Long and Winding Road", mbid = "458b7307-b99d-4c52-919c-afec0c8b84a0" },
+  { n = 11, title = "Look What They’ve Done to My Song", mbid = "79475b33-80cc-46a1-aab9-73e6002ed8be" },
+  { n = 12, title = "Georgia on My Mind", mbid = "c36db78a-f75a-4335-9623-6225aa692c78" },
+]
+
+[[release]]
+mbid = "729dd937-8b91-4d15-98be-87b57b8ae960"
+title = "Saga All Stars: Hallelujah I Love Her So / Selected Singles 1955-1957"
+type = "album"
+date = "2008-08-18"
+tracks = [
+  { n = 1, title = "Blackjack", mbid = "bdef107e-85cf-41aa-a33b-83d6162dd700" },
+  { n = 2, title = "Greenbacks", mbid = "c829f941-c075-4d6d-abc0-511191f1ed85" },
+  { n = 3, title = "Mary Ann", mbid = "f02780cd-feb0-4e10-b66f-b3370b404128" },
+  { n = 4, title = "Drown in My Own Tears", mbid = "d1b468fc-9808-4ac3-885b-a1d1ee7fb49b" },
+  { n = 5, title = "Hallelujah I Love Her So", mbid = "d67ac4a2-5776-4320-b52e-1e621c74467e" },
+  { n = 6, title = "What Would I Do Without You", mbid = "b3e3bb17-90e7-4f92-8f4d-2924fb0560aa" },
+  { n = 7, title = "Lonely Avenue", mbid = "aeb89237-5251-487f-bcd3-4d21d077ac96" },
+  { n = 8, title = "Leave My Woman Alone", mbid = "839adc20-c670-4a29-b171-82ac5449e956" },
+  { n = 9, title = "I Want to Know", mbid = "bb394e53-a9d2-4e55-a5d8-f699dd633229" },
+  { n = 10, title = "Ain’t That Love", mbid = "bb7199f5-bf70-4e30-bb17-a493d73f0e68" },
+  { n = 11, title = "It’s All Right", mbid = "4cf08842-c83d-4161-87bb-bc9891fbc4fc" },
+  { n = 12, title = "Get on the Right Track Baby", mbid = "c712576d-c03e-444b-a052-b0331567050f" },
+  { n = 13, title = "Swanee River Rock", mbid = "5615461e-f456-43c3-ab85-9758a176cdd3" },
+  { n = 14, title = "I Want a Little Girl", mbid = "76f656c7-3324-4d57-84cd-0292d7565774" },
+]
+
+[[release]]
+mbid = "725f1db8-1d48-4205-bd40-506392f1aa71"
+title = "Die Größte Hits von Ray Charles"
+type = "album"
+date = "2010-09-14"
+spotify = "5zzxqJw2mtzGpbu711gbZf"
+tracks = [
+  { n = 1, title = "Here We Go Again", mbid = "f93b5154-e98d-4cc2-8900-abb230400744" },
+  { n = 2, title = "Hit the Road Jack", mbid = "47aeb9bf-0895-4452-a8c3-c4e0b0b5e8ef" },
+  { n = 3, title = "Over the Rainbow", mbid = "75703213-2027-48e3-bfc7-c406f96e5fc2" },
+  { n = 4, title = "You Don’t Know Me", mbid = "57b6a483-e258-48a5-b894-beaf123030c7" },
+  { n = 5, title = "Sinner’s Prayer", mbid = "9bbcc6c6-673a-4fea-8113-68e252eb85e3" },
+  { n = 6, title = "Georgia on My Mind", mbid = "d067e1e3-0742-423f-bb01-4abaf89756ff" },
+  { n = 7, title = "Unchain My Heart", mbid = "21ea36c5-e4ea-48ed-ad5a-ece7e30c55c2" },
+  { n = 8, title = "I Can’t Stop Loving You", mbid = "7b97c8f1-fd01-435e-a96e-14b10cacfc4e" },
+  { n = 9, title = "Mess Around", mbid = "ef585983-9168-4e5b-b826-2ce2baa0abc6" },
+  { n = 10, title = "Hallelujah I Love Her So", mbid = "291da329-8ca7-4a70-8366-19a8bba994b5" },
+  { n = 11, title = "Busted", mbid = "8ae7c3d1-4e2e-4b90-8c55-979f0bfd62b7" },
+  { n = 12, title = "How Long Blues", mbid = "c52d5b1f-9e82-4a0f-b041-e6ff7b96fabc" },
+  { n = 13, title = "I Got a Woman", mbid = "84261622-df76-411b-9f88-b19414e261b6" },
+  { n = 14, title = "Crying Time", mbid = "803f40b3-80f0-475e-82e3-4d374b1c9916" },
+  { n = 15, title = "(Night Time Is) The Right Time", mbid = "88834899-1cf8-45da-952f-682e516e1dfd" },
+  { n = 16, title = "Lonely Avenue", mbid = "ced35fc6-267d-44e6-b7df-b852cae7d519" },
+  { n = 17, title = "What Would I Do Without You?", mbid = "53e2aaf9-963d-44f6-b5d1-55e15ac37e62" },
+  { n = 18, title = "Drown in My Own Tears", mbid = "69ec724e-2f0a-4c94-93ae-610ec18c5c23" },
+  { n = 19, title = "The Midnight Hour", mbid = "bdf70fe1-7cd1-478b-bf55-2bc079046ab7" },
+  { n = 20, title = "Baby Let Me Hold Your Hand", mbid = "21b60d0f-bea9-4711-a4c0-5c0d69f817a4" },
+  { n = 21, title = "A Fool for You", mbid = "63dccf4d-9025-4e95-b599-8f93f4f79811" },
+  { n = 22, title = "This Little Girl Is Mine", mbid = "bb2fedf1-286f-45ab-bec6-782043a3997e" },
+  { n = 23, title = "Sitting on Top of the World", mbid = "c517a28e-18ee-44c8-ac0b-92d3633996a7" },
+  { n = 24, title = "Funny (but I Still Love You)", mbid = "dfc4b638-acfa-40fa-aa99-6e550992b68d" },
+  { n = 25, title = "I’m Wondering and Wondering", mbid = "978fd645-b7f9-48c9-be5d-9b8f3573bb3c" },
+  { n = 26, title = "Confession Blues", mbid = "b0d8fbc5-f5c5-4b44-beff-d212af6dcdbf" },
+  { n = 27, title = "Don’t You Know", mbid = "fc109a61-c1a1-4433-80f4-d102930ef458" },
+  { n = 28, title = "Ain’t That Love", mbid = "fdb1971d-4709-4116-8411-b1b4a10e6865" },
+  { n = 29, title = "This Love of Mine", mbid = "995571d2-9017-45ce-922e-1b829f99ba5e" },
+]
+
+[[release]]
+mbid = "75b906c0-d850-4850-8764-0a5eadfc8f6e"
+title = "Hit the Road Jack"
+type = "single"
+date = "2011-02-17"
+tracks = [
+  { n = 1, title = "Hit the Road Jack (Gary Caos radio edit)", mbid = "dea30b63-8344-4a63-8ea4-0c874b358c67" },
+  { n = 2, title = "Hit the Road Jack (Gary Caos mix)", mbid = "721184fe-49a2-4f8c-b3fa-76ecd9bed259" },
+]
+
+[[release]]
+mbid = "079de38e-8a93-41c1-b5af-e71d2abbb7b0"
+title = "Rooftop Storys"
+type = "album"
+date = "2018-09-07"
+tracks = [
+  { n = 1, title = "How Long Blues", mbid = "119e7dd7-20c4-4f4e-9ac4-563c8095aac1" },
+  { n = 2, title = "Blue Funk", mbid = "f3b713d7-ad77-4956-bda0-6aeefa565ac5" },
+  { n = 3, title = "Soul Brothers", mbid = "c85f33df-64fb-4535-b20b-1ff841cbf01d" },
+  { n = 4, title = "Cosmic Ray", mbid = "8e7bf240-e0c4-4a82-915f-1e97275d3dcd" },
+  { n = 5, title = "Deed I Do", mbid = "dc284ff5-c002-47e4-9191-e82245bc1376" },
+]
+
+[[release]]
+mbid = "cf98c889-55f5-4d9d-8b62-53c82f0ab14b"
+title = "The Platinum Collection"
+type = "album"
+date = "2019"
+tracks = [
+  { disc = 1, n = 1, title = "Hit the Road, Jack", mbid = "489cc7b4-6a7a-4934-a0fa-a4ed742b04ee" },
+  { disc = 1, n = 2, title = "Leave My Woman Alone", mbid = "0df863ec-d789-4ad8-9b5c-f67f17ac2f3a" },
+  { disc = 1, n = 3, title = "Mess Around", mbid = "4fceeab4-a807-4f02-8e09-99e7f0732160" },
+  { disc = 1, n = 4, title = "Georgia on My Mind", mbid = "1ac30d77-8a6c-4a08-a2a3-ea8a2e88122e" },
+  { disc = 1, n = 5, title = "I Got a Woman", mbid = "a5ac15b2-8607-4472-90df-90754e8aaf97" },
+  { disc = 1, n = 6, title = "Hallelujah I Love Her So", mbid = "9a919fe9-0a5c-40a3-8de3-9614a56f4b0d" },
+  { disc = 1, n = 7, title = "I Believe to My Soul", mbid = "e1718507-daa7-4861-82a8-c57ad59145d1" },
+  { disc = 1, n = 8, title = "I’m Movin’ On", mbid = "97b478fc-107c-4e24-a25d-895a5f3f1f80" },
+  { disc = 1, n = 9, title = "I Can’t Stop Loving You", mbid = "af9eff79-e8a0-4778-8dc7-e324a1dd52d6" },
+  { disc = 1, n = 10, title = "One Mint Julep", mbid = "a9879ea1-9e61-40cc-aa4a-fc620e7abab4" },
+  { disc = 1, n = 11, title = "Get on the Right Track Baby", mbid = "85b0175c-1d54-4a1a-8cd0-4e15847fe03b" },
+  { disc = 1, n = 12, title = "Sticks and Stones", mbid = "65858bce-341c-439b-a4b1-e5cec8f59987" },
+  { disc = 1, n = 13, title = "It Should’ve Been Me", mbid = "5255d15c-2a87-4417-bb3e-308ad3b7e85f" },
+  { disc = 1, n = 14, title = "Don’t Let the Sun Catch You Cryin’", mbid = "36db8439-1242-4337-a5ee-b0862ed72e19" },
+  { disc = 1, n = 15, title = "Hide ’Nor Hair", mbid = "0340e79d-4663-4970-94cb-9fc7c4d25069" },
+  { disc = 1, n = 16, title = "Let the Good Times Roll", mbid = "71053139-5bfe-49c9-aa44-52f49c35797e" },
+  { disc = 1, n = 17, title = "Greenbacks", mbid = "d96905ca-2ab1-41c1-a99a-f758170d6a65" },
+  { disc = 1, n = 18, title = "What’d I Say", mbid = "8acd39a8-48b6-41ad-af64-40e6f21e5b22" },
+  { disc = 1, n = 19, title = "Your Cheating Heart", mbid = "98eb3931-a16e-4e42-8069-a8fac06ead56" },
+  { disc = 1, n = 20, title = "Doodlin’", mbid = "bb6c497a-c9b5-4ea9-8052-d8c18fe616a6" },
+  { disc = 2, n = 1, title = "Unchain My Heart", mbid = "7d047009-cca4-46fc-bf9b-71e89f6d6ef4" },
+  { disc = 2, n = 2, title = "Yes Indeed!", mbid = "deff6a43-f9ea-426c-8ea0-b6928da92f6a" },
+  { disc = 2, n = 3, title = "Hard Hearted Hannah", mbid = "0f63e240-ad6f-438c-9691-5c6453bc1d7b" },
+  { disc = 2, n = 4, title = "Born to Lose", mbid = "fc41c5c8-c08d-444d-88f7-91da9f7784ba" },
+  { disc = 2, n = 5, title = "’Deed I Do", mbid = "113839dd-6534-4a39-b3f0-f9f4e110b646" },
+  { disc = 2, n = 6, title = "See See Rider", mbid = "7a76986d-73d9-42b5-8f96-d9a6efbf856a" },
+  { disc = 2, n = 7, title = "This Little Girl of Mine", mbid = "88af85c8-2809-4003-a448-7fd26a9f71d9" },
+  { disc = 2, n = 8, title = "You Are My Sunshine", mbid = "88cd1953-6a54-49f6-948b-b2eca32ab41c" },
+  { disc = 2, n = 9, title = "Take These Chains From My Heart", mbid = "dade2d0b-62ab-420d-aa9a-41f9e85b5b0c" },
+  { disc = 2, n = 10, title = "Moanin’", mbid = "ebaeca7e-ba8d-424b-8879-deff3d5e0335" },
+  { disc = 2, n = 11, title = "(Night Time) Is the Right Time", mbid = "33b804b3-de43-4812-b49d-bef48c607653" },
+  { disc = 2, n = 12, title = "She’s on the Ball", mbid = "2019bdd5-687a-4b19-b0f3-17dc110c6f69" },
+  { disc = 2, n = 13, title = "Come Rain or Come Shine", mbid = "9b91ba5f-8a3b-493e-9520-7fb726526bad" },
+  { disc = 2, n = 14, title = "At the Club", mbid = "b55e45d8-734c-4671-8975-ccb787dfef16" },
+  { disc = 2, n = 15, title = "You Be My Baby", mbid = "49c4255a-eae8-47ad-97ef-3a110e089d07" },
+  { disc = 2, n = 16, title = "I’m Gonna Move to the Outskirts of Town", mbid = "e1b6f0e5-bf59-47bd-8e8a-b8a4baa84d06" },
+  { disc = 2, n = 17, title = "Tell Me How Do You Feel", mbid = "c871eb19-aedc-42ed-9822-0c8ee5025173" },
+  { disc = 2, n = 18, title = "It’s All Right", mbid = "1c57cdf4-0067-426d-9e40-9987e375881c" },
+  { disc = 2, n = 19, title = "Lonely Avenue", mbid = "b9eedb5c-59bf-446d-813a-34e7e968890f" },
+  { disc = 2, n = 20, title = "Let’s Go", mbid = "0e955b3b-cea3-4874-b367-b5565eb0235b" },
+  { disc = 3, n = 1, title = "Baby, It’s Cold Outside", mbid = "41dd70ff-8d29-454f-9887-0f53d438943a" },
+  { disc = 3, n = 2, title = "Losing Hand", mbid = "7296485b-cc91-4e92-a137-b7f9ab856ba9" },
+  { disc = 3, n = 3, title = "Ain’t That Fine", mbid = "0cd07a7e-2ecf-41c1-bde9-1eecb05522d9" },
+  { disc = 3, n = 4, title = "It Had to Be You", mbid = "cdeb6d0d-9c9a-4fe0-add1-82831fd94110" },
+  { disc = 3, n = 5, title = "Early in the Mornin’", mbid = "6dac3f75-50dc-4f22-b47c-c568a13bb5c2" },
+  { disc = 3, n = 6, title = "Ruby", mbid = "77449cab-21d4-4528-9dea-9c0920ff92c8" },
+  { disc = 3, n = 7, title = "You Don’t Know Me", mbid = "a04f2267-3b17-45e5-841b-1f0fba6b2f71" },
+  { disc = 3, n = 8, title = "Heartbreaker", mbid = "e041368e-cdd8-4e5c-993a-6be80d510bd8" },
+  { disc = 3, n = 9, title = "Hard Times (No One Knows Better Than I)", mbid = "495b55cd-98dc-4a3f-b7a5-8f7a83e89580" },
+  { disc = 3, n = 10, title = "Who You Gonna Love", mbid = "f44e649c-7b18-4986-9fbd-eee221b67fe1" },
+  { disc = 3, n = 11, title = "Them That Got", mbid = "1b226bf8-5606-4f17-876b-5c33b3522232" },
+  { disc = 3, n = 12, title = "A Fool for You", mbid = "efe3cc85-fe37-4ce9-9008-1d3bcc5a9458" },
+  { disc = 3, n = 13, title = "My Bonnie", mbid = "4f90abcd-9717-43c4-b2c0-8f13e771d7e2" },
+  { disc = 3, n = 14, title = "Drown in My Own Tears", mbid = "e6c6eb57-2289-4d50-8acb-1f634060d6cc" },
+  { disc = 3, n = 15, title = "Oh, Lonesome Me", mbid = "912e8d62-2b4f-4800-9505-6e2d2047ade7" },
+  { disc = 3, n = 16, title = "Chattanooga Choo Choo", mbid = "bc406838-9c7a-4ca2-81b8-9324e1eff15d" },
+  { disc = 3, n = 17, title = "Jumpin’ in the Mornin’", mbid = "9f138e17-7f36-48de-9607-91ad16017560" },
+  { disc = 3, n = 18, title = "I’ve Got News for You", mbid = "ccfbe659-a98c-4a0b-adca-966977a99b44" },
+  { disc = 3, n = 19, title = "Sweet Georgia Brown", mbid = "04aa3845-6baf-45e4-9aee-3481e6927297" },
+  { disc = 3, n = 20, title = "Rockhouse", mbid = "1f22329c-74fe-4566-947c-101fb5b9213a" },
+]
+
+[[release]]
+mbid = "182cd288-52ab-4ffb-a460-4085c8708f74"
+title = "Ray Charles - Optimum"
+type = "album"
+date = "2020-12-18"
+tracks = [
+  { n = 1, title = "What'd I Say", mbid = "10f54cdc-fb6b-49ff-b9de-e0ec488e7767" },
+  { n = 2, title = "Hit the Road Jack", mbid = "a19186ad-63b6-4658-b889-3a764362ea6c" },
+  { n = 3, title = "Georgia on My Mind", mbid = "01abe5d5-2808-4126-b95c-a11c861cd409" },
+  { n = 4, title = "Unchain My Heart", mbid = "173ca8e0-2833-4ab2-b601-018d445c70c6" },
+  { n = 5, title = "Hallelujah I Love Her So", mbid = "d46d134f-8aab-46dc-a882-3f2f391b03fb" },
+  { n = 6, title = "I Got a Woman", mbid = "fb14806b-cae9-469a-862d-7cb480591ced" },
+  { n = 7, title = "Sitting on Top of the World", mbid = "4f873cf9-7692-4d72-8455-06adaf4d5f9a" },
+  { n = 8, title = "Come Rain or Come Shine", mbid = "13ae4639-2aae-4621-a3bf-197c42974d88" },
+  { n = 9, title = "Swanee River Rock", mbid = "dc0064ef-2587-4907-a230-ae1325da8712" },
+  { n = 10, title = "Don't Let the Sun Catch You Crying", mbid = "fc0b6159-3a56-4818-b7b7-2baa1ea51d29" },
+  { n = 11, title = "The Ray", mbid = "3c9bceb3-01bd-4034-8da6-1cf0439eab74" },
+  { n = 12, title = "Leave My Woman Alone", mbid = "5910cec4-6aa2-4fc7-9cbf-40263379a20b" },
+  { n = 13, title = "My Melancholy Baby", mbid = "f369d49a-a233-4072-b3d6-722a4fbdc07a" },
+  { n = 14, title = "Undecided", mbid = "4e4a73da-ac06-47cf-8f44-33428e730c4c" },
+  { n = 15, title = "Mess Around", mbid = "6ef3107c-dedf-4d27-aa56-427a2b55a448" },
+  { n = 16, title = "It Should've Been Me", mbid = "d413ca9f-7a62-4c27-9946-124893eeadb7" },
+  { n = 17, title = "This Little Girl of Mine", mbid = "36637360-02b3-46a4-a498-db43c610c63c" },
+  { n = 18, title = "Drown in My Own Tears", mbid = "6aaa7328-f1f5-40d9-9621-2f16f8476cdd" },
+  { n = 19, title = "Lonely Avenue", mbid = "d6dfbcc0-4ed9-43f6-93d6-c2c40b15cae2" },
+  { n = 20, title = "Night Time Is the Right Time", mbid = "7c5af816-71e9-4326-98cd-53ca657589ca" },
+  { n = 21, title = "I Believe to My Soul", mbid = "d696b256-7cfa-4099-9319-b258c1b81d8f" },
+  { n = 22, title = "I'm Moving On", mbid = "bd7ca258-36b7-44f9-a3da-4f54dafc14bf" },
+  { n = 23, title = "Sticks and Stones", mbid = "d74f0693-563a-4e95-baf2-40c25d26ecdd" },
+  { n = 24, title = "Ruby", mbid = "5f354347-7fe4-49cb-b1e2-1ce4cffc48a7" },
+  { n = 25, title = "Black Coffee", mbid = "9f84cfe9-71b7-4f0c-974c-2b34cbea3337" },
+  { n = 26, title = "Doodlin'", mbid = "939369f0-a812-43c2-ab6f-70c510256ea9" },
+  { n = 27, title = "Let the Good Time Roll", mbid = "fb66b293-4734-4538-b09a-3d27b4f3995d" },
+  { n = 28, title = "Am I Blue", mbid = "6b203368-ce36-4f02-ae04-21cdf700541e" },
+  { n = 29, title = "You Won't Let Me Go", mbid = "9013a7b7-2347-46e5-aa2f-f50918fda2ab" },
+  { n = 30, title = "A Fool for You", mbid = "1f659537-7d9a-44a2-971c-1d9bc550183e" },
+]
+
+[[release]]
+mbid = "802d58db-6498-4d07-bda5-197b5131bbc1"
+title = "Soul"
+type = "ep"
+date = "2021-06-04"
+spotify = "6ARDVnSbcuiC1ROfWYY4SD"
+tracks = [
+  { n = 1, title = "Hit the Road Jack", mbid = "b3cc97a1-53f1-4542-b606-f2a795596246" },
+  { n = 2, title = "I'm a Fool to Care", mbid = "f8020e54-4432-4ad0-be26-9867336fa4ad" },
+  { n = 3, title = "No One", mbid = "de85bfd4-5441-4a87-9a5e-deb6c27ceeb9" },
+  { n = 4, title = "I Don't Need No Doctor", mbid = "06718573-e433-4679-b8c2-0530a69839b7" },
+]
+
+[[release]]
+mbid = "da16a7e3-995a-4f42-9e72-2482198c6729"
+title = "Ray Charles et les Raelets"
+type = "ep"
+tracks = [
+  { n = 1, title = "Smack Dab in the Middle", mbid = "f16f3545-2d3b-4e85-b628-c07ce3f051be" },
+  { n = 2, title = "Move It on Over", mbid = "91cd7701-8027-44dd-bc59-13d0ce4dd3f6" },
+  { n = 3, title = "Feudin’ and Fightin’", mbid = "f835cb9f-1341-4c82-b191-c29f8b4659ed" },
+  { n = 4, title = "Ma (She’s Makin’ Eyes at Me)", mbid = "28cafa5d-4f29-4699-b646-6d9c71fa6853" },
+]
+
+[[release]]
+mbid = "d2c0a132-e775-4fa7-b059-d7ab73138ac3"
+title = "The Collection"
+type = "album"
+tracks = [
+  { disc = 1, n = 1, title = "Ain’t That Fine", mbid = "9e82064a-e238-457e-9714-ee402038ea9b" },
+  { disc = 1, n = 2, title = "Baby Won’t You Please Come Home", mbid = "aa6953ae-e56e-4256-9e02-c528dd4984d6" },
+  { disc = 1, n = 3, title = "Blues Is My Middle Name", mbid = "f89027b4-da2b-414b-8b32-3962d0293bb0" },
+  { disc = 1, n = 4, title = "Can’t You See Darlin’", mbid = "25c866e3-6dcf-4b2a-8ce8-8f869c897c17" },
+  { disc = 1, n = 5, title = "Don’t Put All Your Dreams in One Basket", mbid = "e873dcff-e848-486a-a013-ea199870cce6" },
+  { disc = 1, n = 6, title = "Georgia on My Mind", mbid = "0dd36c5a-ed87-444d-a0bd-307704bc45fd" },
+  { disc = 1, n = 7, title = "Heartbreaker", mbid = "9326867c-77a1-4f79-9dd7-1417c6c32961" },
+  { disc = 1, n = 8, title = "I Got a Woman", mbid = "d9a1ab90-443a-46cd-9da6-123f007fcda1" },
+  { disc = 1, n = 9, title = "I’m Going Down to the River", mbid = "1fcefed1-31eb-415c-b778-461994c050f2" },
+  { disc = 1, n = 10, title = "I’m Moving On", mbid = "2a6c16fa-e29c-41d5-9b8d-ef9863a71897" },
+  { disc = 1, n = 11, title = "Kiss Me Baby", mbid = "827cc8f1-6601-4eee-8634-d7ea74e4ebbe" },
+  { disc = 1, n = 12, title = "Late in the Evening Blues", mbid = "a1bd4443-d973-450e-9f9d-ee2dac7a841b" },
+  { disc = 1, n = 13, title = "Sentimental Blues", mbid = "3cea09ca-96a3-4528-bde6-cec1ec39dcc5" },
+  { disc = 1, n = 14, title = "She’s on the Ball", mbid = "4d430595-3fd0-45aa-8d91-15c4fe1b6856" },
+  { disc = 1, n = 15, title = "Sitting on the Top of the World", mbid = "b1d8ad9e-bfa9-4645-8d8d-7d96f429688d" },
+  { disc = 1, n = 16, title = "Talkin’ About You", mbid = "71a7df87-5f21-46e3-ba3b-afa73bc4b9ba" },
+  { disc = 1, n = 17, title = "Tell Me How Do You Feel", mbid = "37b4bc6b-9c92-4332-9ef0-2f108d97cbdc" },
+  { disc = 1, n = 18, title = "This Love of Mine", mbid = "6c0ef98d-a5ed-4314-b01b-51a05246fbda" },
+  { disc = 2, n = 1, title = "What’d I Say", mbid = "983161be-46f8-4ca8-a10b-07ad022251d1" },
+  { disc = 2, n = 2, title = "You Be My Baby", mbid = "2a1157f5-ba05-4d8f-8fae-9356916effd6" },
+  { disc = 2, n = 3, title = "If I Give You My Love", mbid = "45ca8ee7-1a4c-4324-9daf-544ed9dc93ce" },
+  { disc = 2, n = 4, title = "Jack She’s on the Ball", mbid = "30824be3-148c-45e0-8418-1de1e61adbbf" },
+  { disc = 2, n = 5, title = "Blues Before Sunrise", mbid = "fb58ecfd-2603-4998-b625-e1852c39748f" },
+  { disc = 2, n = 6, title = "How Long, How Long Blues", mbid = "43251bd3-1597-488e-bcae-6dba1aa6306d" },
+  { disc = 2, n = 7, title = "You’ll Always Miss the Water", mbid = "28ff240c-44b9-47fa-a6a9-c9c0e1246f92" },
+  { disc = 2, n = 8, title = "Alone in This City", mbid = "1eeffaae-de8e-41da-b4e7-cee377e6a5d8" },
+  { disc = 2, n = 9, title = "Can Anyone Ask for More", mbid = "50ce644b-4c4f-48e0-ba05-8a7fc16658bf" },
+  { disc = 2, n = 10, title = "Confession Blues", mbid = "078edb62-3edd-4a6b-8111-fd930cb1206b" },
+  { disc = 2, n = 11, title = "Here I Am (All Alone Again)", mbid = "fa5f5e68-be03-4b06-8059-d94c0d8e0564" },
+  { disc = 2, n = 12, title = "I Live Only for You, I Will Never Let You Go", mbid = "ff7ee690-7834-4230-b2ef-198c27600c2c" },
+  { disc = 2, n = 13, title = "Rockin’ Chair Blues", mbid = "533f1f47-a83b-4b2a-aebd-04b6570ca495" },
+  { disc = 2, n = 14, title = "C.C.Rider (See What You Have Done)", mbid = "ee536b5b-8f83-4e83-8fdc-117e117b9fe1" },
+  { disc = 2, n = 15, title = "Honey Honey", mbid = "06bd8d0c-b2f1-40bc-b39f-1b37b334a20c" },
+  { disc = 2, n = 16, title = "I’ve Had My Mun (Going Down Slow)", mbid = "368e324f-bfa7-4b31-9805-05f33bfbd8a9" },
+  { disc = 2, n = 17, title = "Tell Me Baby (What Have I Done)", mbid = "036cfd30-d63b-408e-a5be-470530006fea" },
+]

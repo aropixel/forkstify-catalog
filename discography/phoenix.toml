@@ -1,0 +1,447 @@
+format = 1
+
+[[release]]
+mbid = "6db3bab1-c7c0-34d2-873e-8cdf5fc0554a"
+title = "Party Time / City Lights"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Party Time", mbid = "2ca16b2c-3fd1-4df9-afb9-4508690c7b40" },
+  { n = 2, title = "City Lights", mbid = "ae0ebab2-43dc-47f6-9ac2-367654289975" },
+]
+
+[[release]]
+mbid = "577452e0-04db-3950-b0e3-85a02b1acf26"
+title = "Heatwave"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Heatwave", mbid = "261f8d83-9531-4175-8f5d-1c1cd7809043" },
+  { n = 2, title = "I Love You (Cruz Esteban remix)", mbid = "8c61b119-9a7d-40bf-97bf-483685bfe6ca" },
+  { n = 3, title = "Heatwave (edit)", mbid = "633a0243-bfd2-4802-8c75-e088874506a4" },
+]
+
+[[release]]
+mbid = "cd8a7521-fcc9-3f1c-b727-4587ab6a27cf"
+title = "If I Ever Feel Better"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "If I Ever Feel Better (edit)", mbid = "7aa60c2a-40c1-4f46-a224-b0e8b780bd11" },
+  { n = 2, title = "If I Ever Feel Better I'll Go to the Disco (Buffalo Bunch remix)", mbid = "cad571fa-f22f-41a6-b265-c1152b5a0e35" },
+]
+
+[[release]]
+mbid = "bd267132-24e5-3eda-9f9a-47ef8ec34aa7"
+title = "United"
+type = "album"
+date = "2000-03-06"
+tracks = [
+  { n = 1, title = "School’s Rules", mbid = "9c96b635-e16f-40b2-a8d9-e70a2f00092f" },
+  { n = 2, title = "Too Young", mbid = "2a0a531d-120a-4024-8e31-435d26162504" },
+  { n = 3, title = "Honeymoon", mbid = "beed30a3-ae26-46d2-bcb2-22149ba2f905" },
+  { n = 4, title = "If I Ever Feel Better", mbid = "7cc46492-9066-4c3f-8ddf-0f650404d107" },
+  { n = 5, title = "Party Time", mbid = "2ca16b2c-3fd1-4df9-afb9-4508690c7b40" },
+  { n = 6, title = "On Fire", mbid = "794925f4-397f-4fca-b847-0a357c1a4a48" },
+  { n = 7, title = "Embuscade", mbid = "6fab26d2-c325-46d9-a395-deb64e390121" },
+  { n = 8, title = "Summer Days", mbid = "1e2f68fd-2c84-496c-9000-435a916ff671" },
+  { n = 9, title = "Funky Squaredance", mbid = "132540af-4533-47ee-b826-40215ba71d33" },
+  { n = 10, title = "Definitive Breaks", mbid = "92831fa8-b82e-47df-944b-5e8f6be9f02f" },
+]
+
+[[release]]
+mbid = "3ec205e1-f4e1-3ced-9d31-784124abcc45"
+title = "Too Young"
+type = "single"
+date = "2000-05-29"
+tracks = [
+  { n = 1, title = "Too Young", mbid = "2a0a531d-120a-4024-8e31-435d26162504" },
+  { n = 2, title = "Too Young (Zoot Woman remix)", mbid = "6987bdbf-8266-4011-b5b5-889b837e7173" },
+  { n = 3, title = "Too Young (Le Knight Club remix)", mbid = "260b8710-9176-4b8e-8177-a0430f7bf426" },
+]
+
+[[release]]
+mbid = "65ba3880-a999-36aa-95fc-786c04a39d19"
+title = "Alphabetical"
+type = "album"
+date = "2004-03-21"
+tracks = [
+  { n = 1, title = "Everything Is Everything", mbid = "37c11d8d-c998-4f1e-8ba1-6bd53afffbac" },
+  { n = 2, title = "Run Run Run", mbid = "c38df0ac-7bac-42f9-bfe0-f61317c8afd2" },
+  { n = 3, title = "I’m an Actor", mbid = "580202d6-fe8c-4d92-9b08-034290d3c66e" },
+  { n = 4, title = "Love for Granted", mbid = "9fe45292-4e88-48be-9466-a6030734409c" },
+  { n = 5, title = "Victim of the Crime", mbid = "f7928868-bbe6-4fa6-8dab-aa0ff4f681ac" },
+  { n = 6, title = "(You Can’t Blame It on) Anybody", mbid = "cc8a73c1-20bc-4ee9-a9cf-c9efce94176b" },
+  { n = 7, title = "Congratulations", mbid = "2fcf3971-37b7-4554-971e-de0fe5ef34ff" },
+  { n = 8, title = "If It’s Not With You", mbid = "e9fc34c7-e56f-45a1-9842-77bda290b5cc" },
+  { n = 9, title = "Holdin’ on Together", mbid = "aaec5e7a-40f3-4b15-b20b-143406117fd3" },
+  { n = 10, title = "Alphabetical", mbid = "3b3ce781-cc68-4ef6-9416-aeb052edf5f6" },
+  { n = 11, title = "Congratulations (revisited)", mbid = "5977ecd1-221e-4214-b4d7-2502aa762f44" },
+]
+
+[[release]]
+mbid = "bc36a1e4-5369-37db-b419-83f0b4eca1ad"
+title = "Run Run Run"
+type = "single"
+date = "2004-04-19"
+tracks = [
+  { n = 1, title = "Run Run Run", mbid = "c38df0ac-7bac-42f9-bfe0-f61317c8afd2" },
+  { n = 2, title = "I'm an Actor", mbid = "580202d6-fe8c-4d92-9b08-034290d3c66e" },
+]
+
+[[release]]
+mbid = "6cf7e2de-79e2-3082-88a0-3de2b6aa100b"
+title = "Everything Is Everything"
+type = "single"
+date = "2004-07-12"
+tracks = [
+  { n = 1, title = "Everything Is Everything", mbid = "37c11d8d-c998-4f1e-8ba1-6bd53afffbac" },
+  { n = 2, title = "Everything Is Everything (instrumental)", mbid = "fa8d1acf-58e3-4725-a0b1-1bfdbfe4d4c7" },
+  { n = 3, title = "I’m an Actor", mbid = "580202d6-fe8c-4d92-9b08-034290d3c66e" },
+  { n = 4, title = "Everything Is Everything (a cappella)", mbid = "e2b04869-fe6a-47e2-b9b4-7d4e1138d5fe" },
+]
+
+[[release]]
+mbid = "8a71cbdb-ae3b-437c-9522-015a4d841ba8"
+title = "You Can’t Blame It On (Anybody)"
+type = "single"
+date = "2004-09-20"
+spotify = "1auMGPIUwVEqHY1UaONqFD"
+tracks = [
+  { n = 1, title = "(You Can’t Blame It On) Anybody (radio edit)", mbid = "befccbbc-05da-49b8-95a8-d803e262f450" },
+]
+
+[[release]]
+mbid = "892e169b-7430-387e-b004-2cb0790ffccc"
+title = "Long Distance Call"
+type = "single"
+date = "2006-03"
+tracks = [
+  { n = 1, title = "Long Distance Call", mbid = "2b990675-d669-4a04-8269-08b0b9753923" },
+  { n = 2, title = "Long Distance Call (Sebastien Tellier remix)", mbid = "3cbb8b31-a2e4-4ea8-bbf5-bb949ad50c21" },
+]
+
+[[release]]
+mbid = "ca99fa63-07e8-386e-a351-ceff3bfb0d53"
+title = "It’s Never Been Like That"
+type = "album"
+date = "2006-05-10"
+spotify = "2STZqJIh4Kf0OIU5yVgYGV"
+tracks = [
+  { n = 1, title = "Napoleon Says", mbid = "26b059fa-6656-4e8f-99dc-f656fcbb56af" },
+  { n = 2, title = "Consolation Prizes", mbid = "24a08da6-abf4-4d89-a8cf-a04f3c1a2ff2" },
+  { n = 3, title = "Rally", mbid = "55797d0d-3234-454d-b6f5-16b8d5fd6737" },
+  { n = 4, title = "Long Distance Call", mbid = "2b990675-d669-4a04-8269-08b0b9753923" },
+  { n = 5, title = "One Time Too Many", mbid = "07e642c0-39a9-42f5-baaf-49d46fadbd57" },
+  { n = 6, title = "Lost and Found", mbid = "6b1f00f9-222d-42f8-9ff8-e2c026d9682b" },
+  { n = 7, title = "Courtesy Laughs", mbid = "65c91ceb-e30b-4960-9539-8b053c3f8dd0" },
+  { n = 8, title = "North", mbid = "f7552ee2-c95b-4dba-9c6e-08981532a93d" },
+  { n = 9, title = "Sometimes in the Fall", mbid = "6b1627e6-eac3-4425-bec2-b026ec7ddb16" },
+  { n = 10, title = "Second to None", mbid = "c0479117-e1aa-4c76-8155-3298b18de605" },
+  { n = 11, title = "Napoleon Says (live)", mbid = "17a23cda-e0f6-4228-9a65-39a776341c35" },
+  { n = 12, title = "Rally (live)", mbid = "fa5f6072-e61f-4d44-80c0-ae3a49e8d25d" },
+  { n = 13, title = "Sometimes in the Fall (live)", mbid = "d48a1a9c-ad16-427b-b443-ba7c3e3f7e23" },
+  { n = 14, title = "Second to None (live)", mbid = "7aafee8a-9ea8-4b4b-963b-f6ef9e9ff5bb" },
+]
+
+[[release]]
+mbid = "690b948b-39ec-4331-89c1-11ae4cafea96"
+title = "Consolation Prizes"
+type = "single"
+date = "2006-09-11"
+spotify = "1ASB0HSF49nX992IpOqRkX"
+tracks = [
+  { n = 1, title = "Consolation Prizes", mbid = "24a08da6-abf4-4d89-a8cf-a04f3c1a2ff2" },
+  { n = 2, title = "Consolation Prizes (L'Aiglon remix)", mbid = "e4f16e5b-5476-4006-8ca7-d959a382cb94" },
+]
+
+[[release]]
+mbid = "121ad6d7-04dc-377a-a396-bff58c2140ae"
+title = "Alt. Versions 2006"
+type = "ep"
+date = "2006-11-28"
+tracks = [
+  { n = 1, title = "Consolation Prizes (extended version)", mbid = "91cc49f4-f852-4332-968f-647256273fb1" },
+  { n = 2, title = "Consolation Prizes (remix by L'Aiglon)", mbid = "e4f16e5b-5476-4006-8ca7-d959a382cb94" },
+  { n = 3, title = "Long Distance Call (remix by 25 Hours a Day)", mbid = "09f77d13-f1ee-4271-a97c-3cd2b2b06898" },
+  { n = 4, title = "Long Distance Call (Sébastien Tellier remix)", mbid = "3cbb8b31-a2e4-4ea8-bbf5-bb949ad50c21" },
+]
+
+[[release]]
+mbid = "b884af83-a98c-4e65-a930-f78f31c360ce"
+title = "Fences"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Fences (The Soft Pack remix)", mbid = "f28c7f31-4912-4aa4-90ff-6d4be7883ad2" },
+  { n = 2, title = "Fences (Friendly Fires remix)", mbid = "357f708c-76d4-42d4-8c79-597031edb1b3" },
+  { n = 3, title = "Fences (Boombass remix)", mbid = "56b08cb0-956d-42da-9beb-01d1f4a95079" },
+  { n = 4, title = "Fences (25 Hours a Day remix)", mbid = "7cba5eb5-65d5-4889-bc52-55a6c409c942" },
+]
+
+[[release]]
+mbid = "fb070b55-e23e-40c3-8f35-82063312e7c8"
+title = "Lisztomania"
+type = "single"
+date = "2009-05-15"
+tracks = [
+  { n = 1, title = "Lisztomania (album version)", mbid = "21664467-2453-4867-8a0e-fca8826cd054" },
+  { n = 2, title = "Lisztomania (Alex Metric remix)", mbid = "ce80c94c-1b30-4361-9256-6bbbd15cb14e" },
+  { n = 3, title = "Lisztomania (Yuksek remix)", mbid = "ee34aa53-540e-4a60-ab25-a80914215901" },
+  { n = 4, title = "Lisztomania (A Fight for Love / 25 Hours a Day remix)", mbid = "272c0c8d-a982-406f-914b-b1f1cff32251" },
+]
+
+[[release]]
+mbid = "32304f6e-5b80-3818-a66b-47f09efff0d9"
+title = "Wolfgang Amadeus Phoenix"
+type = "album"
+date = "2009-05-22"
+spotify = "0IQbQC6V4UuHLcgO9Yt3uu"
+tracks = [
+  { n = 1, title = "Lisztomania", mbid = "21664467-2453-4867-8a0e-fca8826cd054" },
+  { n = 2, title = "1901", mbid = "8e20739e-0dcc-45b7-ad13-6b5548f0523a" },
+  { n = 3, title = "Fences", mbid = "87972a3c-dcda-4d34-aa8a-613eb092232e" },
+  { n = 4, title = "Love Like a Sunset, Part I", mbid = "52c16f3d-8c6e-4fc2-a0cf-305733ccd42c" },
+  { n = 5, title = "Love Like a Sunset, Part II", mbid = "007e4777-1ed3-418f-85e2-120b23622c06" },
+  { n = 6, title = "Lasso", mbid = "dfdc251c-1efa-43de-83d3-1ac105bf8e6a" },
+  { n = 7, title = "Rome", mbid = "9130d0c8-0bd6-4c17-a4c1-5fd2c3bf9fd0" },
+  { n = 8, title = "Countdown", mbid = "1a7745d5-012c-4dff-8921-148a88fda90b" },
+  { n = 9, title = "Girlfriend", mbid = "087a2bf9-e248-466f-b5fa-fa5b2dd6ee8d" },
+  { n = 10, title = "Armistice", mbid = "16e75c77-673c-4af9-95ba-7682f6b26801" },
+]
+
+[[release]]
+mbid = "e2ae8b7c-a85d-4313-9676-c5ab93f93d69"
+title = "1901"
+type = "single"
+date = "2009-06"
+tracks = [
+  { n = 1, title = "1901 (L'Aiglon remix)", mbid = "4310c7dc-03d8-4ec9-83b1-16fdf47f0fd9" },
+]
+
+[[release]]
+mbid = "06f9dfcd-b894-4f21-b9a2-7cf37e1f2c42"
+title = "Chloroform"
+type = "single"
+date = "2013-03-25"
+spotify = "5agiqNeec8zXABxxyrhH4b"
+tracks = [
+  { n = 1, title = "Chloroform", mbid = "d2fa726d-169c-477d-ada5-9d9f5b26829d" },
+]
+
+[[release]]
+mbid = "3dd02cec-1156-4f8f-95c6-01917bb14ea2"
+title = "Bankrupt!"
+type = "album"
+date = "2013-04-19"
+spotify = "0NVvSmy2su8nXkCjK0zuWg"
+tracks = [
+  { n = 1, title = "Entertainment", mbid = "93aa985e-60a1-4670-976a-0fa964ffe057" },
+  { n = 2, title = "The Real Thing", mbid = "c0a58505-e34d-471c-9d75-f4bf1cbc0de1" },
+  { n = 3, title = "S.O.S. in Bel Air", mbid = "21011513-ff21-410c-87a1-542a03ce96b1" },
+  { n = 4, title = "Trying to Be Cool", mbid = "943b4939-c39f-4287-901c-ac47a06eed54" },
+  { n = 5, title = "Bankrupt!", mbid = "c7291d59-0623-42b1-a763-de798426c3ff" },
+  { n = 6, title = "Drakkar Noir", mbid = "b3f9c1c6-1cf3-446e-bc64-af04d6d8c1f7" },
+  { n = 7, title = "Chloroform", mbid = "d2fa726d-169c-477d-ada5-9d9f5b26829d" },
+  { n = 8, title = "Don’t", mbid = "4573d60a-579b-459c-8c99-a5f8f9309e61" },
+  { n = 9, title = "Bourgeois", mbid = "c114274e-b23c-4798-bdf0-52fe6df2770b" },
+  { n = 10, title = "Oblique City", mbid = "079afd11-f4fc-48ae-921a-6a09081bb998" },
+]
+
+[[release]]
+mbid = "0170b05e-1c39-46f8-a640-5cd1c272d883"
+title = "Entertainment"
+type = "single"
+date = "2013-04-20"
+tracks = [
+  { n = 1, title = "Entertainment", mbid = "93aa985e-60a1-4670-976a-0fa964ffe057" },
+  { n = 2, title = "엔터테인먼트", mbid = "fbfd504c-f8fc-44f6-b727-ef13bf697be0" },
+]
+
+[[release]]
+mbid = "beb8aab5-1cdb-44ff-9eb5-c2348d787441"
+title = "Trying To Be Cool (The Chainsmokers Remix)"
+type = "single"
+date = "2013-05-06"
+tracks = [
+  { n = 1, title = "Trying to Be Cool (The Chainsmokers remix)", mbid = "f2a060c1-1134-4cad-ac73-e43ddb563b83" },
+]
+
+[[release]]
+mbid = "09812748-b67a-453b-919f-fa43aeadcb93"
+title = "Alone on Christmas Day"
+type = "single"
+date = "2015-12-04"
+spotify = "1eRQpXDGI7pCF0Ivvfd8Qy"
+tracks = [
+  { n = 1, title = "Alone on Christmas Day", mbid = "5de864dc-176f-434e-8936-e986a5b787f9" },
+  { n = 2, title = "Alone on Christmas Day (instrumental)", mbid = "0380f0b1-b1c7-4225-a27f-7a92814e2502" },
+]
+
+[[release]]
+mbid = "c450cb3c-266c-4348-9fa9-73cb1a414933"
+title = "J-Boy"
+type = "single"
+date = "2017-04-12"
+spotify = "5OilcxqhPh7aIplpFEJoan"
+tracks = [
+  { n = 1, title = "J-Boy", mbid = "ca409fcc-740b-4dfc-8692-afbd734e43d4" },
+]
+
+[[release]]
+mbid = "0231f66d-d48a-40e4-902d-d08143b8cb16"
+title = "Goodbye Soleil"
+type = "single"
+date = "2017-06-02"
+spotify = "3eTLxOyI4MIxg2Tcu3axIr"
+tracks = [
+  { n = 1, title = "Goodbye Soleil", mbid = "54ee14a7-026e-4dc6-925e-ffaf0329fae6" },
+]
+
+[[release]]
+mbid = "2a5c9910-f4ac-4017-ba33-16770ab8f8cb"
+title = "Ti amo"
+type = "album"
+date = "2017-06-02"
+tracks = [
+  { n = 1, title = "J-Boy", mbid = "ca409fcc-740b-4dfc-8692-afbd734e43d4" },
+  { n = 2, title = "Ti amo", mbid = "57c573a7-1f9f-42fb-99db-6ad1dd96046c" },
+  { n = 3, title = "Tuttifrutti", mbid = "8045cd2d-89ec-4de6-8e22-855bc2749eaa" },
+  { n = 4, title = "Fior di latte", mbid = "c38d5857-92c8-443d-8195-ba2eb7e04431" },
+  { n = 5, title = "Lovelife", mbid = "edcecd50-ccd2-4e57-9779-ea29eed32a0e" },
+  { n = 6, title = "Goodbye Soleil", mbid = "54ee14a7-026e-4dc6-925e-ffaf0329fae6" },
+  { n = 7, title = "Fleur de lys", mbid = "b7f02afd-5ad9-4bbd-8f28-173698157a10" },
+  { n = 8, title = "Role Model", mbid = "4f8afcff-692c-4e9b-a971-0c0bd1c2893e" },
+  { n = 9, title = "Via Veneto", mbid = "61644113-0584-478a-89bb-fa57295218bb" },
+  { n = 10, title = "Telefono", mbid = "26fcb85c-fd92-400e-980d-ce7fc4aed518" },
+]
+
+[[release]]
+mbid = "fe7a9ffb-afda-4e2f-a564-12c0ae398b6d"
+title = "Spotify Singles"
+type = "single"
+date = "2017-08-02"
+spotify = "2XNi0qwkcg3aqMyulE4hTI"
+tracks = [
+  { n = 1, title = "J‐Boy", mbid = "b2d05f1e-0019-4966-8129-ba16f28bc820" },
+  { n = 2, title = "Un peu menteur", mbid = "7513a171-0dc7-40ec-b245-6673a0185b0a" },
+]
+
+[[release]]
+mbid = "d274980d-47a1-4ce1-96b0-ac492f18ef50"
+title = "Lovelife"
+type = "single"
+date = "2018"
+tracks = [
+  { n = 1, title = "Lovelife", mbid = "f0da5136-2229-40b1-9f6e-68742165dce0" },
+  { n = 2, title = "Lovelife", mbid = "a160fce9-8e43-43a7-ac8b-c3365283b8e7" },
+]
+
+[[release]]
+mbid = "39b80000-e0e3-4036-9a4b-4851c71dc05c"
+title = "Monologue"
+type = "single"
+date = "2018-04-21"
+tracks = [
+  { n = 1, title = "Monologue", mbid = "0b8d0169-9ca8-43bd-bf98-444ba721205a" },
+]
+
+[[release]]
+mbid = "7fadb816-ef60-4c4a-b6ec-0f1ff49d5ec8"
+title = "Identical (From the Motion Picture “On the Rocks”)"
+type = "single"
+date = "2020-08-19"
+spotify = "139j4SM1xPPfS0dhGcrTvd"
+tracks = [
+  { n = 1, title = "Identical (From the Motion Picture “On the Rocks”)", mbid = "a868428b-9ff3-47cd-aecd-e1d2a48b503f" },
+]
+
+[[release]]
+mbid = "28387446-e4c9-46b9-ab40-3e396e78bc34"
+title = "Alpha Zulu"
+type = "single"
+date = "2022-06-01"
+spotify = "4kLWiOcd9HWMx4VhRR1XHV"
+tracks = [
+  { n = 1, title = "Alpha Zulu", mbid = "80776092-f09a-4ff4-8483-12eb7ecad822" },
+]
+
+[[release]]
+mbid = "66cb9888-74fa-4f2e-95b8-7673a437f6da"
+title = "Tonight"
+type = "single"
+date = "2022-09-07"
+spotify = "3FkF6yz6p8iM2TR18ODmtV"
+tracks = [
+  { n = 1, title = "Tonight", mbid = "b27e2f0c-26a7-4939-86a2-55d470155e7d" },
+]
+
+[[release]]
+mbid = "5fbf0a64-af87-428b-b957-2a96c0d4bcbb"
+title = "Winter Solstice"
+type = "single"
+date = "2022-10-20"
+spotify = "76ZPEP13Boqv4Da5XihzG0"
+tracks = [
+  { n = 1, title = "Winter Solstice", mbid = "5c910d5a-12e2-4427-be5b-2b264b7f5ca1" },
+]
+
+[[release]]
+mbid = "ef781f85-796a-48f4-b581-8f4dd513641f"
+title = "Alpha Zulu"
+type = "album"
+date = "2022-11-04"
+spotify = "1jEwa4YdGR6FvKxWgRbJcv"
+tracks = [
+  { n = 1, title = "Alpha Zulu", mbid = "80776092-f09a-4ff4-8483-12eb7ecad822" },
+  { n = 2, title = "Tonight", mbid = "b27e2f0c-26a7-4939-86a2-55d470155e7d" },
+  { n = 3, title = "The Only One", mbid = "7a3aaa40-0962-4ccc-8210-c31cd6719109" },
+  { n = 4, title = "After Midnight", mbid = "33cade67-65e9-448d-99e9-d48a41455cb4" },
+  { n = 5, title = "Winter Solstice", mbid = "5c910d5a-12e2-4427-be5b-2b264b7f5ca1" },
+  { n = 6, title = "Season 2", mbid = "5794bcdf-8c42-4ac9-9dea-28a3ebe33fe3" },
+  { n = 7, title = "Artefact", mbid = "faa84fb5-1b37-447e-8321-d4c97c5d9e9e" },
+  { n = 8, title = "All Eyes on Me", mbid = "c9bfc328-3028-4f19-94ad-296ba1f9d6f4" },
+  { n = 9, title = "My Elixir", mbid = "c692255b-4bff-4703-850c-987b0383fa56" },
+  { n = 10, title = "Identical", mbid = "95f87b34-daae-4966-81ae-77da26787e30" },
+]
+
+[[release]]
+mbid = "82258dcc-0753-4751-861f-ca1c1d3d1dd0"
+title = "Odyssey"
+type = "single"
+date = "2023-06-21"
+spotify = "69TTmajR0erSyTATVPd4cK"
+tracks = [
+  { n = 1, title = "Odyssey", mbid = "03ca9450-c5db-4dd8-ae24-0862165222fd" },
+  { n = 2, title = "Odyssey (instrumental)", mbid = "3f8b4b33-3db7-419c-bacb-ac630bdfff67" },
+]
+
+[[release]]
+mbid = "b6a8d7d6-f591-4a7d-bd88-696cfdf9c211"
+title = "All Eyes on Me"
+type = "single"
+date = "2023-10-11"
+spotify = "1WQFkEZ6ebRQ7ty6Ygbujl"
+tracks = [
+  { n = 1, title = "All Eyes on Me", mbid = "54e0e4a1-0f63-45e2-93a3-e311a48d3659" },
+]
+
+[[release]]
+mbid = "08151a5e-a437-435e-adc4-6f6b67aa5608"
+title = "Artefact"
+type = "single"
+date = "2023-11-14"
+spotify = "1xknqSH8BF4brwlQlDjk0L"
+tracks = [
+  { n = 1, title = "Artefact", mbid = "3efa4af2-91b6-4524-a3ab-860a0298cfce" },
+]
+
+[[release]]
+mbid = "8a17f42c-f913-4a9f-8c40-ba4a719ed28d"
+title = "Nightcall"
+type = "single"
+date = "2024-09-20"
+spotify = "05OLq8nG4L5WYZXTfXVYM7"
+tracks = [
+  { n = 1, title = "Nightcall", mbid = "bdc66d13-bd51-48a8-b07c-7ca4fd033ea0" },
+]
