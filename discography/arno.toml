@@ -1,0 +1,478 @@
+format = 1
+artists = [
+  "03a82b66-d021-4754-aca2-399d51ee6199",  # Arno
+  "fd5dde86-0e6e-4b98-a9df-477dfc544809",  # Arno & The Subrovnicks
+]
+
+[[release]]
+mbid = "f12faeb2-4971-357e-bf29-70b1ca374caf"
+title = "Arno"
+type = "album"
+date = "1986"
+tracks = [
+  { n = 1, title = "Forget the Cold Sweat", mbid = "8b749dbe-662e-4cce-830a-5628fbd235f5" },
+  { n = 2, title = "Down and Out", mbid = "e190cbd2-c299-481b-bc80-efbd11506055" },
+  { n = 3, title = "Congo (instrumental)", mbid = "c44d1a12-bd14-4d9d-8e78-821fded2c4b9" },
+  { n = 4, title = "Play the Guitar Boy", mbid = "fb6bf396-c8cb-470c-9172-19dd4e0db005" },
+  { n = 5, title = "Miss Nell (instrumental)", mbid = "3c6b3730-a69a-4e1e-8d3d-3f54ac068b4c" },
+  { n = 6, title = "When the Rock", mbid = "b8831857-d251-4135-ac7e-3bbf5e133158" },
+  { n = 7, title = "Qu’est-ce que c’est ?", mbid = "01ec51f9-f361-4a80-a6b5-f309be9b91e2" },
+  { n = 8, title = "Come Back", mbid = "e56d47a6-d465-4ca7-9062-666d4ab6ea15" },
+  { n = 9, title = "Yooh", mbid = "f1350c5c-49a2-41fe-9137-77f7fbe3aae8" },
+  { n = 10, title = "La bella rossa (instrumental)", mbid = "abef5f15-a7e5-460a-afc6-fec2fc6c8849" },
+]
+
+[[release]]
+mbid = "f63ff2eb-8144-3c83-8e34-d093b9c92c08"
+title = "Charlatan"
+type = "album"
+date = "1988"
+tracks = [
+  { n = 1, title = "Jive to the Beat", mbid = "a206f860-29fb-40e6-b769-5e4c12185f8d" },
+  { n = 2, title = "Take Me Where You Sleep at Night", mbid = "4bc14fda-8669-4627-a34c-fd3b72f50421" },
+  { n = 3, title = "Bathroom Singer", mbid = "ce1487c4-a19c-41d5-92c4-90e540300930" },
+  { n = 4, title = "Let's Go to Heaven (2.1.3.4.6.5.7)", mbid = "e005cd17-6123-44c9-a44a-e92e8c78601d" },
+  { n = 5, title = "Le Bon Dieu", mbid = "80ef701b-6620-4f84-8536-5002b28e2e66" },
+  { n = 6, title = "Black Doll", mbid = "6946a436-1722-467c-9857-7088b1800a96" },
+  { n = 7, title = "Trouble in Mind", mbid = "efb16ae6-2ba7-43e9-bbab-eecc2d62ffbc" },
+  { n = 8, title = "Shoutback", mbid = "a805f697-fce2-48dc-bcd0-5d8a1e3576e6" },
+  { n = 9, title = "Fun, Money & Pleasure", mbid = "08c6c6eb-3ce6-4b48-8a68-3bacb6d923f1" },
+  { n = 10, title = "Tango de la peau", mbid = "459050f6-444c-4b3b-8cb3-3186f0dab096" },
+  { n = 11, title = "Bathroom Singer", mbid = "7345446b-f0c1-4d3a-b129-1dabf2251afd" },
+  { n = 12, title = "Take Me Where You Sleep at Night", mbid = "ba73c15d-9bfb-487b-b134-0a7f9d849df0" },
+  { n = 13, title = "Tango de la peau", mbid = "40d70a7a-090d-4c65-bbdf-e16bfc9fd8f3" },
+]
+
+[[release]]
+mbid = "78f78d08-32e3-323d-987b-edbbed203f9c"
+title = "Ratata"
+type = "album"
+date = "1990"
+tracks = [
+  { n = 1, title = "Lonesome Zorro", mbid = "a2dc70f1-3fe6-4b19-a7e8-d9a4d7c6064d" },
+  { n = 2, title = "Dance Till You Drop", mbid = "dbb72c71-198f-4cd5-88c0-671d1df73f5e" },
+  { n = 3, title = "Mon sissoyen", mbid = "db795b8b-17f1-4204-92a6-760f5726879d" },
+  { n = 4, title = "Ratata", mbid = "97a6515f-cd62-4b74-a2ef-b229803240b8" },
+  { n = 5, title = "I've Done My Best", mbid = "6d00a1e0-109c-4843-85d2-9a3fadce236a" },
+  { n = 6, title = "Whoop That Thing", mbid = "402dd1e2-9def-4cb0-a455-a75af5081543" },
+  { n = 7, title = "Marie tu m'as (Marie Thumas)", mbid = "5792eb4e-4599-4162-ae84-e8a8e8375c8a" },
+  { n = 8, title = "I'm Not There", mbid = "ae62dd34-cb15-4e92-ac53-4482b380efa5" },
+  { n = 9, title = "I Can't Stand It", mbid = "e794354a-e30b-40fc-ad12-db5f8eb983f8" },
+  { n = 10, title = "Music Is the Dope", mbid = "7eb47da1-fd6a-4f42-848c-ec62e0d3f5ee" },
+]
+
+[[release]]
+mbid = "8791ce73-7f89-486e-98d6-a9c0b0c03cce"
+title = "Dancing Inside My Head"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Dancing Inside My Head", mbid = "f69d9519-301f-40e4-b481-1bfe61b38f1d" },
+  { n = 2, title = "Martha ma douce", mbid = "037399f7-2746-45ff-8891-e76496f48b9c" },
+]
+
+[[release]]
+mbid = "659e10e7-cfc0-31f4-89e5-50d29f358b90"
+title = "Idiots savants"
+type = "album"
+date = "1993"
+tracks = [
+  { n = 1, title = "Boogie Woogie Into Town", mbid = "6bff2a35-8389-4371-98fd-8158e960e674" },
+  { n = 2, title = "Dancing Inside My Head", mbid = "49c9969d-48af-46e0-84cd-9f2bb0dd5977" },
+  { n = 3, title = "Funky You’re Not", mbid = "76e6e78b-5a25-43e3-8654-a3c37d06fc88" },
+  { n = 4, title = "Vive ma liberté", mbid = "449c6653-07ac-42c0-bebd-0317b893810f" },
+  { n = 5, title = "A Beautiful Day in L.A.", mbid = "362c8fc2-c3a3-4e83-8a13-b42d90e96d1b" },
+  { n = 6, title = "Rita Rose", mbid = "f2d124a0-0963-4200-879e-609c59e84d23" },
+  { n = 7, title = "Give Me the Gift", mbid = "58f9b90c-8137-4be6-ad52-03f0a1ee5750" },
+  { n = 8, title = "I Sold My Soul on MTV", mbid = "8fd33bac-8386-486a-9a5c-ff8d738ce2dd" },
+  { n = 9, title = "Martha ma douce", mbid = "037399f7-2746-45ff-8891-e76496f48b9c" },
+  { n = 10, title = "Hoi hoi (I’m Your Boy)", mbid = "6202578a-ef84-4701-b374-a067a121759f" },
+  { n = 11, title = "New Born Monkey", mbid = "60123143-0511-46c5-a4ca-a376ad4547af" },
+  { n = 12, title = "Knock Knock", mbid = "832f93eb-d61d-46f1-a58a-f32e3c2a1ace" },
+  { n = 13, title = "Les Filles du bord de mer", mbid = "fa947041-bf60-4de9-884a-ab8c2c58a2a6" },
+]
+
+[[release]]
+mbid = "714bee1c-fb27-3420-9473-7028ab1ed4d8"
+title = "Vive ma liberté"
+type = "ep"
+date = "1993"
+tracks = [
+  { n = 1, title = "Vive ma liberté", mbid = "449c6653-07ac-42c0-bebd-0317b893810f" },
+  { n = 2, title = "New Born Monkey (The Organ mix)", mbid = "f873ed47-fd87-4722-8e6c-2a360f542d9a" },
+  { n = 3, title = "Oh God (We worden ollemaole zot) (live)", mbid = "f24c9725-25eb-484a-8205-05bbbcb1d734" },
+  { n = 4, title = "Little Red Rooster (live)", mbid = "4f510fb6-968a-41bc-b5a7-6fda9e8cf381" },
+  { n = 5, title = "Vive ma liberté (afro remix by Kwanzaa Posse)", mbid = "086f007e-6e6c-4cf4-9565-680f6a7afc89" },
+]
+
+[[release]]
+mbid = "58a8b0cf-6ed2-4ad7-8cb8-03ba4858d64c"
+title = "Boogie Woogie Into Town"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Boogie Woogie Into Town", mbid = "6bff2a35-8389-4371-98fd-8158e960e674" },
+  { n = 2, title = "I Sold My Soul on MTV", mbid = "8fd33bac-8386-486a-9a5c-ff8d738ce2dd" },
+]
+
+[[release]]
+mbid = "0dd8278f-bdf1-36ab-802e-b1aef0f46bdf"
+title = "Water"
+type = "album"
+date = "1994"
+tracks = [
+  { n = 1, title = "Meet the Freaks", mbid = "3b786253-206f-4f14-853b-5dc3e17b84bc" },
+  { n = 2, title = "À eux je montre mon derrière", mbid = "a0e8e384-5cf8-415c-9b8d-3cf9937f161b" },
+  { n = 3, title = "I Couldn't Get Up", mbid = "e2aa9358-f2d6-4152-a552-c48c8b802b34" },
+  { n = 4, title = "Hot Head", mbid = "ae0d2b7e-06f9-4f36-a2ef-5ab4cf0d30f0" },
+  { n = 5, title = "Freddy", mbid = "df236b87-605f-4f95-8c2a-793cdb578cce" },
+  { n = 6, title = "The Smell of Roses", mbid = "856fcd6b-855a-47b8-9f45-1d47a60b1fac" },
+  { n = 7, title = "Watch Out Boy", mbid = "79af94c0-6784-486b-8f7f-9f3b1f29e60c" },
+  { n = 8, title = "Chicken Song", mbid = "6ed324ec-c6f9-4645-95fe-a6c2dbfdb959" },
+  { n = 9, title = "What The F... Is Going On", mbid = "5d34285b-ef26-419b-85ae-980e5935df12" },
+  { n = 10, title = "I Am Still Allright", mbid = "d7a18fe0-4bda-46c5-a6a7-b4166b7569f5" },
+  { n = 11, title = "Rock Them Out", mbid = "381e135e-e431-4f49-91c5-09be0f0252f9" },
+  { n = 12, title = "Women Beat", mbid = "07b93cb6-8ef5-4702-938a-c78456d2b8e9" },
+  { n = 13, title = "Mathilda", mbid = "4a956594-183a-454b-a715-84fc54385a34" },
+]
+
+[[release]]
+mbid = "75ea195e-0b79-4854-a6ab-aeb9a7f2e913"
+title = "À eux je montre mon derrière"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "À eux je montre mon derrière", mbid = "77bee2f8-341f-4060-b8d7-c565485c55ba" },
+  { n = 2, title = "Hot Head", mbid = "ae0d2b7e-06f9-4f36-a2ef-5ab4cf0d30f0" },
+]
+
+[[release]]
+mbid = "9cf23039-8766-4cba-8186-92b8cf3ae36b"
+title = "Elle pense à lui"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Elle pense à lui (remix Arno)", mbid = "0eeef8d8-589d-4d00-a346-712bb7d51595" },
+  { n = 2, title = "Les yeux de ma mère (piano version)", mbid = "a22b632d-e13a-4f59-abc7-68f818c4e673" },
+  { n = 3, title = "Je ne veux pas être grand (remix Arno)", mbid = "8154f34e-0425-4d9e-9c08-ffdeaf2872aa" },
+]
+
+[[release]]
+mbid = "ba119952-ea97-4308-9bef-ff2c2807adc2"
+title = "Les Yeux de ma mère"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Les Yeux de ma mère (single version)", mbid = "34bf79d5-2cdf-4075-bc0b-98bb9aeba4e9" },
+  { n = 2, title = "À eux, je montre mon derrière (à la française)", mbid = "08f25a11-6a92-45f4-a276-65c18e864f24" },
+  { n = 3, title = "Les Yeux de ma mère (alternative mix)", mbid = "f86ec311-49f2-4e05-bcbb-99ada2349ad8" },
+  { n = 4, title = "Les Yeux de ma mère (album version)", mbid = "b9a0ccd7-e4b5-4a73-8891-185f00ad6edb" },
+  { n = 5, title = "Comme à Ostende (piano version)", mbid = "8440efc6-b464-42ef-ab2d-44618f9607ec" },
+]
+
+[[release]]
+mbid = "10eac3a4-292d-3d4e-9cdf-755e3422af5b"
+title = "À la française"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "Depuis ce jour-là", mbid = "dfdadc6d-be88-4524-ad56-b731a61e7368" },
+  { n = 2, title = "Les Yeux de ma mère", mbid = "b9a0ccd7-e4b5-4a73-8891-185f00ad6edb" },
+  { n = 3, title = "Laisse-moi danser", mbid = "d7407914-c6b3-4db0-9a9a-65fff1ee9a26" },
+  { n = 4, title = "Elle pense à lui", mbid = "9c83a7a2-dd98-4d46-9848-7c0de48c4682" },
+  { n = 5, title = "Marie tu m’as", mbid = "5792eb4e-4599-4162-ae84-e8a8e8375c8a" },
+  { n = 6, title = "La Danseuse de java", mbid = "73656367-3ffe-41c6-a6ce-68d56bd07db9" },
+  { n = 7, title = "T’inquiète pas", mbid = "7d7ca4d1-cf72-4b8c-92dd-f2336eec7ea0" },
+  { n = 8, title = "Le Bon Dieu", mbid = "80ef701b-6620-4f84-8536-5002b28e2e66" },
+  { n = 9, title = "…Tu sais", mbid = "6bee41e7-6f06-472f-bc71-58a0a2300e27" },
+  { n = 10, title = "Je ne veux pas être grand", mbid = "5fd471dc-4a03-49bb-acf6-b8207d50c4c5" },
+  { n = 11, title = "Seul", mbid = "3d7f8abb-e6e0-4690-8066-30952dbd1bf2" },
+  { n = 12, title = "Oui, là-bas", mbid = "0289149c-2dca-483b-b279-31b5e4308603" },
+  { n = 13, title = "Comme à Ostende", mbid = "1693154b-23c3-4b39-ab8d-3c4b0f45b44b" },
+]
+
+[[release]]
+mbid = "add805d8-fe17-333f-9f5b-ff250fd14e93"
+title = "Give Me the Gift"
+type = "album"
+date = "1997"
+tracks = [
+  { n = 1, title = "Ants in My Tea", mbid = "324b013e-e6a1-471c-9398-477b227e71ba" },
+  { n = 2, title = "It’s All Over Now", mbid = "4777bc99-5a98-4201-ac8d-5f27d86d388b" },
+  { n = 3, title = "Give Me the Gift", mbid = "58f9b90c-8137-4be6-ad52-03f0a1ee5750" },
+  { n = 4, title = "Meet the Freaks", mbid = "42c2938f-d984-40fa-aeb6-919f205494e8" },
+  { n = 5, title = "I’m Not Myself", mbid = "f8b26cb6-f168-4e03-a988-ab42d5de6d61" },
+  { n = 6, title = "Watch Out Boy", mbid = "24ac4fd4-ee82-4e48-8a82-3b20b18156de" },
+  { n = 7, title = "Seul", mbid = "3d7f8abb-e6e0-4690-8066-30952dbd1bf2" },
+  { n = 8, title = "Rita Rose", mbid = "f2d124a0-0963-4200-879e-609c59e84d23" },
+  { n = 9, title = "Les Yeux de ma mère", mbid = "b9a0ccd7-e4b5-4a73-8891-185f00ad6edb" },
+  { n = 10, title = "I Sold My Soul on MTV", mbid = "8fd33bac-8386-486a-9a5c-ff8d738ce2dd" },
+  { n = 11, title = "Putain putain", mbid = "cc6b3f92-216f-450c-a6c3-63316c54f0e5" },
+  { n = 12, title = "Hot Head", mbid = "536bb09a-7c52-45fc-bdec-1d015f29e6be" },
+]
+
+[[release]]
+mbid = "d5fb6f4b-ef2c-49c5-b459-70d069f5bb07"
+title = "Jean Baltazaarrr"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Jean Baltazaarrr", mbid = "40fed850-1bfa-45e9-a9b3-12a8c641c72f" },
+  { n = 2, title = "Jean Baltazaarrr (remix)", mbid = "6d0429db-510d-401e-8d2b-027f77d856c7" },
+]
+
+[[release]]
+mbid = "302dc562-63d4-4966-b2a4-bb30ac524cf4"
+title = "Le EP"
+type = "ep"
+date = "1999"
+tracks = [
+  { n = 1, title = "Dans mon lit", mbid = "03ecb6e1-d762-4dac-81c3-ae46af3e18dc" },
+  { n = 2, title = "High and Dry", mbid = "c71c4e9e-1438-410a-9431-d5d364324c03" },
+  { n = 3, title = "J'aime moi-même", mbid = "ea434d6b-8365-496f-b99f-691556e1ceaf" },
+  { n = 4, title = "Cry Like a Man", mbid = "d037a2ae-1e3d-42af-b671-fe6c2d609b11" },
+  { n = 5, title = "Je pense à toi", mbid = "f6fd896b-b38e-4db1-ad71-59f3c1690b7f" },
+]
+
+[[release]]
+mbid = "6b027774-cc5d-3bbe-b45e-f93a117eba98"
+title = "Le European-Cowboy"
+type = "album"
+date = "1999-08-20"
+tracks = [
+  { n = 1, title = "Fantastique", mbid = "d463b095-6711-46c9-b7a7-89f72e787406" },
+  { n = 2, title = "In My Bed", mbid = "a0f6a16b-be0c-4d76-9807-77d2e92907d3" },
+  { n = 3, title = "European Cowboy", mbid = "b529b543-f4be-41e9-a611-0da0a5192b44" },
+  { n = 4, title = "Mercy", mbid = "1bfaa988-7d69-4000-b1f7-527f352c87b1" },
+  { n = 5, title = "Sous ton balcon", mbid = "e7a24747-e276-4706-b09a-091f17f056e2" },
+  { n = 6, title = "Birthday", mbid = "74032680-168c-4148-ad2c-7d5b1dffb485" },
+  { n = 7, title = "High and Dry", mbid = "c71c4e9e-1438-410a-9431-d5d364324c03" },
+  { n = 8, title = "Sitting in a Car", mbid = "46f8dfb4-a401-40d7-8c6d-5e8fdef6eab8" },
+  { n = 9, title = "J'ai un problème", mbid = "44971b82-33a1-4e63-b17e-38980b1ccba4" },
+  { n = 10, title = "Tatouages du passé", mbid = "9c84ca14-035b-4a86-8a4f-5598b99f70c7" },
+  { n = 11, title = "Cry Like a Man", mbid = "d037a2ae-1e3d-42af-b671-fe6c2d609b11" },
+  { n = 12, title = "Oh La La La", mbid = "fbaba35e-0af2-481a-bb6b-9e1c64634d57" },
+]
+
+[[release]]
+mbid = "16bfbafa-2b3b-344c-b540-70424e4e26d2"
+title = "À poil commercial"
+type = "album"
+date = "1999-08-25"
+tracks = [
+  { disc = 1, n = 1, title = "Fantastique", mbid = "d463b095-6711-46c9-b7a7-89f72e787406" },
+  { disc = 1, n = 2, title = "Dans mon lit", mbid = "03ecb6e1-d762-4dac-81c3-ae46af3e18dc" },
+  { disc = 1, n = 3, title = "European Cowboy", mbid = "b529b543-f4be-41e9-a611-0da0a5192b44" },
+  { disc = 1, n = 4, title = "Ronde et belle", mbid = "ae38c739-e5e2-4437-95dd-8fc4f5bd8cc5" },
+  { disc = 1, n = 5, title = "Mercy", mbid = "1bfaa988-7d69-4000-b1f7-527f352c87b1" },
+  { disc = 1, n = 6, title = "Oh la la la !", mbid = "fbaba35e-0af2-481a-bb6b-9e1c64634d57" },
+  { disc = 1, n = 7, title = "Mon anniversaire", mbid = "321a38a9-6fdc-40ae-a38e-e38d030f6ada" },
+  { disc = 1, n = 8, title = "Je suis sous", mbid = "e7a24747-e276-4706-b09a-091f17f056e2" },
+  { disc = 1, n = 9, title = "Tatouages du passé", mbid = "9c84ca14-035b-4a86-8a4f-5598b99f70c7" },
+  { disc = 1, n = 10, title = "High and Dry", mbid = "c71c4e9e-1438-410a-9431-d5d364324c03" },
+  { disc = 1, n = 11, title = "Sitting in a Car", mbid = "46f8dfb4-a401-40d7-8c6d-5e8fdef6eab8" },
+  { disc = 1, n = 12, title = "J'ai un problème", mbid = "44971b82-33a1-4e63-b17e-38980b1ccba4" },
+  { disc = 1, n = 13, title = "Je suis un homme", mbid = "9bbed3bc-1b19-470a-a1d1-4b226ad4d9c2" },
+  { disc = 2, n = 1, title = "All the Young Dudes", mbid = "002aa28f-dd03-4667-9d5e-e0d1d3b1957c" },
+  { disc = 2, n = 2, title = "À poil commercial", mbid = "2bd79351-4d40-4920-9be1-acd86aac0232" },
+]
+
+[[release]]
+mbid = "13d2afeb-d997-4509-81ad-b332b0dfa994"
+title = "Ils ont changé ma chanson"
+type = "single"
+date = "2001"
+spotify = "26mxoDC3plWlv3sx9OvTdz"
+tracks = [
+  { n = 1, title = "Ils ont changé ma chanson", mbid = "7f864d83-7874-422d-a063-f21bcf681caa" },
+  { n = 2, title = "Forget the Cold Sweat", mbid = "13c02e1a-8972-4f99-9cb1-5982ec0226a9" },
+]
+
+[[release]]
+mbid = "a8340c85-31c9-37a9-bb0d-ec4af580b735"
+title = "Charles Ernest"
+type = "album"
+date = "2002-02-25"
+tracks = [
+  { n = 1, title = "Lola, etc.", mbid = "c0e625a6-e2b4-438f-8b88-4240314c046b" },
+  { n = 2, title = "Je veux nager", mbid = "8dbb5639-db9f-47eb-864a-f019311f4ee5" },
+  { n = 3, title = "Mother’s Little Helper", mbid = "fd31104c-588e-4944-a1a6-0e89c6ccacf4" },
+  { n = 4, title = "Ma femme", mbid = "6937cad3-d4f6-4fea-a305-01d5f104e66d" },
+  { n = 5, title = "They Look at Me", mbid = "7b94c750-5c9a-4ce5-9e2e-6c1fdd3ada40" },
+  { n = 6, title = "Élisa", mbid = "9e75b604-cb4a-471e-8e2c-de19b60d4d4c" },
+  { n = 7, title = "Amor", mbid = "2df34ab7-b236-4acf-872c-13669d297ef5" },
+  { n = 8, title = "Elle a eu", mbid = "3b865af6-72c3-43e5-b340-4e9de4f65b7d" },
+  { n = 9, title = "Lovin’ You", mbid = "f6d74161-788a-4d4b-b880-852f2c21fbc8" },
+  { n = 10, title = "Il est tombé du ciel", mbid = "a66b1f5c-a8d4-4601-9a88-70bee8356f95" },
+  { n = 11, title = "Not in Love", mbid = "24cafbea-48e4-40b8-88a0-4c0f2285697d" },
+  { n = 12, title = "Honky Tonk", mbid = "05e1e1c4-f272-4179-b017-ef2138d23c56" },
+  { n = 13, title = "Hey Sister", mbid = "bd8dc490-28e5-44f5-85fa-e06cfa87c514" },
+  { n = 14, title = "Pas heureux ni malheureux", mbid = "da71291c-ffbd-4f19-98fb-6598d0f295e0" },
+  { n = 15, title = "Solo Gigolo", mbid = "df5cd261-19b0-4c11-bab7-fe5d85635237" },
+]
+
+[[release]]
+mbid = "07e79925-62ae-4f2f-be5d-9b4192d15631"
+title = "French Bazaar"
+type = "album"
+date = "2004-05-24"
+tracks = [
+  { n = 1, title = "Chic et pas cher", mbid = "924ddaef-07f1-4a82-9084-212cd2a2929a" },
+  { n = 2, title = "La vie est une partouze", mbid = "fd025712-7746-47bd-82c2-37b7880c25a3" },
+  { n = 3, title = "Françoise", mbid = "fd4e1379-b4f4-4911-80b7-c94a77b7ff56" },
+  { n = 4, title = "Chanteur de charme", mbid = "641c806d-7455-4e3f-9a27-5665e70ca16f" },
+  { n = 5, title = "Lili", mbid = "5eac708e-9c11-4ab6-81f0-0a5fb4fe0043" },
+  { n = 6, title = "Femme riche", mbid = "7d4471d3-72b1-45b6-b81c-2cce65e5517f" },
+  { n = 7, title = "In Love avec une DJ", mbid = "775ed970-8281-448d-8978-ce4b6b1262bd" },
+  { n = 8, title = "40 Ans", mbid = "1fe23ef3-1f9c-4d2f-89c3-5c9ffd455aa7" },
+  { n = 9, title = "Vide", mbid = "67823079-ef3c-4764-9332-04f67dbbe8ac" },
+  { n = 10, title = "Bonbons", mbid = "4b0d013f-e4eb-4b4a-8798-86ce5b04b747" },
+  { n = 11, title = "Voir un ami pleurer", mbid = "f8a44404-5a35-4021-b880-649e933a24a9" },
+  { n = 12, title = "La Fête", mbid = "aaffce0e-16d7-423d-bd95-6e422fb04435" },
+]
+
+[[release]]
+mbid = "210e4112-d597-3e43-9e12-19a8a4622441"
+title = "Jus de box"
+type = "album"
+date = "2007-01-15"
+tracks = [
+  { n = 1, title = "Help Me Mary", mbid = "62aa3cc4-041c-492f-acf0-767dd667b9e6" },
+  { n = 2, title = "I’m Not Into Hop", mbid = "df258550-f34a-41c5-ac84-ad9d0079e81a" },
+  { n = 3, title = "Enlève ta langue", mbid = "fdee8f37-87d2-4178-ad2f-4f91f93df709" },
+  { n = 4, title = "Mourir à plusieurs", mbid = "6ae69bfe-b162-4e2c-b403-166b6a6c179f" },
+  { n = 5, title = "Miss Amérique", mbid = "62dcec32-aab1-456c-a07c-00f61c259022" },
+  { n = 6, title = "From Zero to Hero", mbid = "476883b5-e59f-4fff-844c-3e17989e856b" },
+  { n = 7, title = "Jusqu’au bout", mbid = "dea0f3c9-ab13-455c-965f-58a51e1e8729" },
+  { n = 8, title = "Hit the Night", mbid = "22973f72-c03d-4e2a-b922-4372e20ac208" },
+  { n = 9, title = "Douce", mbid = "6f48d50f-18fc-485b-94b7-0d6ad1accd66" },
+  { n = 10, title = "Red Lipstick", mbid = "a63532f7-a1ce-4e81-a55b-bf6751b2d12a" },
+  { n = 11, title = "Toute la nuit", mbid = "498db03b-7ef0-44d6-b994-89bbe0eaae11" },
+  { n = 12, title = "Een boeket met pisseblommen", mbid = "63201942-d028-4a62-8da4-5569b90f4f31" },
+  { n = 13, title = "Les Filles de mon quartier", mbid = "8cbbe86a-359e-49bf-b89b-e805b8952b47" },
+  { n = 14, title = "Reviens Marie", mbid = "7c48b361-bf90-4cde-a0f3-06ea9203eed6" },
+]
+
+[[release]]
+mbid = "0e454762-c309-42f2-a6a0-d5a89c646d24"
+title = "Brussld"
+type = "album"
+date = "2010-03-22"
+spotify = "2t9iFaUmeAPnqHMP4nOcLh"
+tracks = [
+  { disc = 1, n = 1, title = "Black Dog Day", mbid = "948365b3-503c-4b91-87d1-0e18c9f8ff0b" },
+  { disc = 1, n = 2, title = "Quelqu’un a touché ma femme", mbid = "a57217d0-3eed-4a9a-b21d-476bca83e58a" },
+  { disc = 1, n = 3, title = "God Save the Kiss", mbid = "916e1983-556c-4e57-8704-9c990f5f563f" },
+  { disc = 1, n = 4, title = "Mademoiselle", mbid = "c50a226f-83c7-472d-b52d-c2425e6a05bb" },
+  { disc = 1, n = 5, title = "Brussels", mbid = "f61a3706-84ce-48e1-a5c8-32d458be5f3e" },
+  { disc = 1, n = 6, title = "Ginger Red", mbid = "8538739c-7a80-437c-ab5a-eac84c030fad" },
+  { disc = 1, n = 7, title = "Le lundi on reste au lit", mbid = "9bd2942e-a37a-4fad-84c4-dd8c2d7ce601" },
+  { disc = 1, n = 8, title = "Elle pense quand elle danse", mbid = "68cf3cb7-864b-42cd-a0e6-d48cb52e0112" },
+  { disc = 1, n = 9, title = "Get Up, Stand Up", mbid = "7268e701-6652-40b5-9a6c-c2abc203d2b1" },
+  { disc = 1, n = 10, title = "Pop Star", mbid = "ce2be655-7b28-42c2-b5a3-9e41371d981b" },
+  { disc = 2, n = 1, title = "How Are You", mbid = "cf5c2d6f-b3f0-461b-823d-7bd6aa25b794" },
+  { disc = 2, n = 2, title = "Ça monte", mbid = "c84e3b87-513e-4315-855e-e942b50c2618" },
+  { disc = 2, n = 3, title = "Monday", mbid = "1f480fa1-9545-486e-ab29-ca03f0a2d8e0" },
+  { disc = 2, n = 4, title = "Dance With Her", mbid = "9edfb902-2dce-4497-9e67-085b5e32fa3d" },
+  { disc = 2, n = 5, title = "While She Dances", mbid = "de19456f-4a02-40e9-a90b-04bec3d1a2d5" },
+  { disc = 2, n = 6, title = "The Most Beautiful Mademoiselle", mbid = "d539279a-34cd-4665-9599-bc3211975d5f" },
+  { disc = 2, n = 7, title = "Quelqu’un a touché ma femme (piano version)", mbid = "3fad130a-9e55-49f5-966f-d9a82a8506c1" },
+  { disc = 2, n = 8, title = "Elle pense quand elle danse (piano version)", mbid = "981e1ec2-a799-430f-a0e5-b29d191ded47" },
+]
+
+[[release]]
+mbid = "79ae64d3-4e8c-466b-8da8-da46c65d5105"
+title = "Future Vintage"
+type = "album"
+date = "2012-09-17"
+tracks = [
+  { n = 1, title = "Show of Live", mbid = "c8fb2915-d904-40f2-be67-af102e0b2ffc" },
+  { n = 2, title = "Quand les bonbons parlent", mbid = "0c2bb796-79be-44a0-b879-1a1d7f57e2f7" },
+  { n = 3, title = "I Don't Believe", mbid = "38673552-abbd-4d82-9ad2-7fdce948cb21" },
+  { n = 4, title = "Chanson d'amour", mbid = "299e55f4-f11b-4a85-b170-f9b591a27a2d" },
+  { n = 5, title = "Die Lie", mbid = "d6f1cb37-ca91-49f9-8a95-4b720eba74f3" },
+  { n = 6, title = "If I Was", mbid = "3b742edb-6603-460d-aa13-653234ab00fc" },
+  { n = 7, title = "Ça plane pour nous", mbid = "6dfb7f61-f618-4a45-931f-445c0b54e38d" },
+  { n = 8, title = "Dis pas ça à ma femme", mbid = "71b71d44-2f53-42da-af37-d84457693359" },
+  { n = 9, title = "We Want More", mbid = "4e357fa0-7009-468c-901c-09b258b6f71a" },
+  { n = 10, title = "Elle dit la vérité", mbid = "d2e54672-9d28-4821-8ae2-d216b28fd670" },
+  { n = 11, title = "Ostend Dub", mbid = "13214e98-305e-4eed-97fa-099b3a1eebe6" },
+]
+
+[[release]]
+mbid = "90d6401f-417e-4368-8b08-186d07b29733"
+title = "Human incognito"
+type = "album"
+date = "2016-01-15"
+tracks = [
+  { n = 1, title = "I’m just an old motherfucker", mbid = "0ebaa6dd-3b3e-41a9-abe4-f1af8c99ca58" },
+  { n = 2, title = "Please exist", mbid = "d2efb4a5-80b1-4810-a8c1-6699b28f3419" },
+  { n = 3, title = "Je veux vivre", mbid = "0ab68627-3be6-4610-bc66-464af6e63a5c" },
+  { n = 4, title = "Now she likes boys", mbid = "c61fc069-5b1f-4c0b-9246-7f8b5671e37a" },
+  { n = 5, title = "Oublié qui je suis", mbid = "0e5fd349-fcbc-4852-919c-feaeb00c8cef" },
+  { n = 6, title = "Never trouble trouble", mbid = "3505a668-21a0-4e5b-9dd5-aa6b7b747e41" },
+  { n = 7, title = "Dance like a goose", mbid = "370554e1-d0f4-4f8f-ab39-d2d51606186d" },
+  { n = 8, title = "Ask me for a dance", mbid = "55465f94-ddfb-4c53-b2f4-f2d2965abc3f" },
+  { n = 9, title = "Une chanson absurde", mbid = "2359dc8b-861a-4a7e-b27c-1c9eda69f251" },
+  { n = 10, title = "Santé", mbid = "546da662-8cdc-4e86-b343-1d95d81f4e0b" },
+]
+
+[[release]]
+mbid = "537a6f8e-94a0-480e-86b6-7a00618e940d"
+title = "Santeboutique"
+type = "album"
+date = "2019-09-13"
+spotify = "28WwfZ4EqcQ3K2hhTRywYw"
+tracks = [
+  { n = 1, title = "They Are Coming", mbid = "b81f2e0d-fcee-42dc-a688-b30ac8476941" },
+  { n = 2, title = "Santeboutique", mbid = "7e79e0bb-c13b-4faa-a8fc-c8064c29412e" },
+  { n = 3, title = "Naturel", mbid = "1519faab-9981-4f52-981b-1199296f9e7f" },
+  { n = 4, title = "Les Saucisses de Maurice", mbid = "4968d323-0a33-4619-9ee3-52e6deff5649" },
+  { n = 5, title = "Oostende Bonsoir", mbid = "7247d2a9-c680-493d-8d4b-7e84094b8569" },
+  { n = 6, title = "Ça Chante", mbid = "14dc6f0f-5723-45c6-b844-bb82d03017d0" },
+  { n = 7, title = "Lady Alcohol", mbid = "b5fe61b9-c766-4306-884d-998a78eab80d" },
+  { n = 8, title = "Court‐circuit dans mon esprit", mbid = "49985bf3-ca68-46ec-a384-f95ccdea17c0" },
+  { n = 9, title = "Tjip tjip c’est fini", mbid = "173e5eda-bd85-41c2-a08f-9c36e9f13ae1" },
+  { n = 10, title = "Flashback Blues", mbid = "b82fce7f-9359-4ac3-b139-3b60bf70556f" },
+]
+
+[[release]]
+mbid = "f14b3e80-5532-41eb-8274-265950b235ff"
+title = "Vivre (Parce que - La Collection)"
+type = "album"
+date = "2021-05-21"
+tracks = [
+  { n = 1, title = "Solo gigolo", mbid = "ee536f93-8ee6-4fd8-9204-022c79efed9b" },
+  { n = 2, title = "Je veux vivre", mbid = "5c23a7a2-1446-40b6-8462-15b62c74daaa" },
+  { n = 3, title = "Lonesome Zorro", mbid = "638ac628-fbb1-4385-9bc2-1030f58d2a81" },
+  { n = 4, title = "Quelqu’un a touché ma femme", mbid = "d5ea32db-fb38-459f-a1e2-9c526effa5b1" },
+  { n = 5, title = "Elle adore le noir", mbid = "e55e2377-4f42-440e-bb46-f8627148a63a" },
+  { n = 6, title = "Santé", mbid = "d583167a-b373-49d9-b928-81db5a47d5e2" },
+  { n = 7, title = "Les Yeux de ma mère", mbid = "64cad9fe-15f7-4cf8-b6ec-ded64ee428ee" },
+  { n = 8, title = "Help Me Mary", mbid = "6f4b01a3-f5cb-46b0-bbc9-d631ce4c412b" },
+  { n = 9, title = "Nous deux", mbid = "e470247a-d0be-4ae6-9b18-0e3d4428da89" },
+  { n = 10, title = "Tatouage du passé", mbid = "5a653b2d-e4e2-4c23-bbe1-389f97d49d2d" },
+  { n = 11, title = "Give Me the Gift", mbid = "b75940ff-f47f-4cd9-ba96-92127587bb5f" },
+  { n = 12, title = "Dans mon lit", mbid = "66e1720b-0167-4312-84fe-86f59d8a97a2" },
+  { n = 13, title = "La vie est une partouze", mbid = "028b0b35-0b10-404b-95b1-375312a0f9b0" },
+  { n = 14, title = "Putain putain", mbid = "ce5148bd-5511-44a5-85b1-a0d283cea9b6" },
+]
+
+[[release]]
+mbid = "479ea563-b794-4014-98e5-10bc44a185c7"
+title = "Opex"
+type = "album"
+date = "2022-09-30"
+spotify = "00d4ELMiRcBY0IzaB7tN8T"
+tracks = [
+  { n = 1, title = "La Vérité", mbid = "c499a5dd-1489-42e8-9643-a674db4c10c3" },
+  { n = 2, title = "Take Me Back", mbid = "985ea059-c295-407b-bdf3-9cb4e125e87d" },
+  { n = 3, title = "I Can’t Dance", mbid = "7ee4c5a2-60af-4434-9122-cac91cb94d90" },
+  { n = 4, title = "Honnête", mbid = "9cba32d3-172b-48c0-ad0f-f2070863966e" },
+  { n = 5, title = "La Paloma adieu", mbid = "a765ea96-7b12-4201-b8de-2b890bf146eb" },
+  { n = 6, title = "Mon grand‐père", mbid = "ddb58137-d369-439d-ab83-0f7bdd2d1d08" },
+  { n = 7, title = "Boulettes", mbid = "814001cf-ab02-4cf1-974f-c7ba3be3b196" },
+  { n = 8, title = "One Night With You", mbid = "417a26ba-9beb-4c8e-81c8-5e5d66dbb06e" },
+  { n = 9, title = "Court‐circuit dans mon esprit", mbid = "472ad1e4-47cb-42e0-8f66-c6dd67d8d15e" },
+  { n = 10, title = "I’m Not Gonna Whistle", mbid = "98b14537-e4f0-4246-95d7-a3b51fa4daaf" },
+]

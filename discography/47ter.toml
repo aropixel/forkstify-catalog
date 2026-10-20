@@ -1,0 +1,150 @@
+format = 1
+
+[[release]]
+mbid = "9cd7748b-4eb9-4def-bb71-280e5f568137"
+title = "Petits princes"
+type = "ep"
+date = "2018-10-12"
+tracks = [
+  { n = 1, title = "Petit prince", mbid = "5a9b7f9d-e981-46d3-8b73-2bc09ea06fb8" },
+  { n = 2, title = "Le before", mbid = "3e2d7e80-d984-497e-9327-fc5d68667a7c" },
+  { n = 3, title = "Journée de perdue", mbid = "69104f34-0fb0-4e20-affe-cb3521e7901e" },
+  { n = 4, title = "Plus tard", mbid = "506ba8bb-bf3c-4418-bc1a-fa1ddfe4eb75" },
+  { n = 5, title = "Soleil noir", mbid = "24407902-29f3-4933-96a4-e8e20d5ef8c4" },
+  { n = 6, title = "Bang", mbid = "b71da441-266a-4797-a19d-2ccc7a6b0a65" },
+  { n = 7, title = "Procès", mbid = "4e5a2a94-c680-4f5e-9000-ca22b05fe456" },
+]
+
+[[release]]
+mbid = "267a3bac-4d2d-4e41-9d95-db6f32f84547"
+title = "Côte Ouest"
+type = "single"
+date = "2019-06-25"
+tracks = [
+  { n = 1, title = "Côte Ouest", mbid = "1b10e106-4e7a-44be-a64c-3998a3ba76e6" },
+]
+
+[[release]]
+mbid = "fc988336-d396-4830-a141-c70af6a3c070"
+title = "L’Adresse"
+type = "album"
+date = "2019-10-25"
+spotify = "20bhNmXgWXqmUDj7qKzvjk"
+tracks = [
+  { n = 1, title = "Un air qui fait", mbid = "033c0d24-7475-474c-bd15-94461df1f906" },
+  { n = 2, title = "Personne", mbid = "830f3946-6837-4f7f-8c0c-160839d0c92d" },
+  { n = 3, title = "L’Adresse", mbid = "e8103d2b-54b5-4595-9c0a-a76d6d00c79d" },
+  { n = 4, title = "On avait dit", mbid = "2d92bc25-7ffb-4fd8-ba7b-7d3f86a94798" },
+  { n = 5, title = "30", mbid = "dae56fea-9cdb-4677-b9fd-9a204c7f8978" },
+  { n = 6, title = "Sans toi", mbid = "a22917bb-b32f-4f2b-a792-11bc1f4c0b69" },
+  { n = 7, title = "Harakiri", mbid = "4ec8c853-e2b1-4e86-a51d-592a5bf849de" },
+  { n = 8, title = "Côte ouest", mbid = "1b10e106-4e7a-44be-a64c-3998a3ba76e6" },
+  { n = 9, title = "Jamais su", mbid = "702555aa-87f4-481b-b964-796fb0a84111" },
+  { n = 10, title = "Chaque soir", mbid = "c420d2f9-29cf-418b-8982-aa155f9d7b80" },
+  { n = 11, title = "Laissez‐les partir", mbid = "d2361482-df15-4190-830e-90c9cca46996" },
+  { n = 12, title = "Assieds‐toi", mbid = "fcb9c7ac-e467-4ab9-9176-252b10e9b049" },
+  { n = 13, title = "Petit Prince", mbid = "5a9b7f9d-e981-46d3-8b73-2bc09ea06fb8" },
+  { n = 14, title = "Le Before", mbid = "3e2d7e80-d984-497e-9327-fc5d68667a7c" },
+  { n = 15, title = "Journée de perdue", mbid = "69104f34-0fb0-4e20-affe-cb3521e7901e" },
+  { n = 16, title = "Plus tard", mbid = "506ba8bb-bf3c-4418-bc1a-fa1ddfe4eb75" },
+  { n = 17, title = "Soleil noir", mbid = "24407902-29f3-4933-96a4-e8e20d5ef8c4" },
+  { n = 18, title = "Bang", mbid = "b71da441-266a-4797-a19d-2ccc7a6b0a65" },
+  { n = 19, title = "Procès", mbid = "4e5a2a94-c680-4f5e-9000-ca22b05fe456" },
+]
+
+[[release]]
+mbid = "ec70f83f-e2bf-4850-9b27-70911fba936f"
+title = "OVGTC DE RETOUR (Rocky theme remix)"
+type = "single"
+date = "2020-09-01"
+spotify = "1AdIHI97EWCXG3XXEVRtVp"
+tracks = [
+  { n = 1, title = "OVGTC DE RETOUR (Rocky theme remix)", mbid = "ee35ace0-60cc-46b5-b307-791f58cfb94b" },
+]
+
+[[release]]
+mbid = "b59c3a31-95d9-430a-85ec-7dcf971fd470"
+title = "OVGTC ROOFTOP (Daft Punk remix)"
+type = "single"
+date = "2020-09-02"
+spotify = "5noz8shwCxrRRbE8q1r5rN"
+tracks = [
+  { n = 1, title = "OVGTC ROOFTOP (Daft Punk remix)", mbid = "4090818a-f5a5-43ad-9206-fbe0c20a0062" },
+]
+
+[[release]]
+mbid = "6d146372-da89-4a79-a478-9865f97bbae7"
+title = "OVGTC (Star Wars remix)"
+type = "single"
+date = "2020-09-03"
+spotify = "49ukrcbTQMhu6cFHuYMuwD"
+tracks = [
+  { n = 1, title = "OVGTC (Star Wars remix)", mbid = "5aae25dc-2a7c-4eec-8d54-14772cb37329" },
+]
+
+[[release]]
+mbid = "ef1fc6e4-cf6b-4e57-996e-7a39a7ffccaf"
+title = "Légende"
+type = "album"
+date = "2021-04-16"
+spotify = "6Gvv6nYhm8nUwfhdrdANhO"
+tracks = [
+  { n = 1, title = "Légende", mbid = "9df45315-ad61-4cc7-8727-1c5979c11e49" },
+  { n = 2, title = "Vivre", mbid = "0bd34920-63b3-4f2e-bbae-9d81b135f0a3" },
+  { n = 3, title = "J’essaie", mbid = "a98457e3-bb05-4837-996c-879ea58208c1" },
+  { n = 4, title = "Avec toi", mbid = "1cd36318-0f0d-488b-84a6-befca51a2149" },
+  { n = 5, title = "Comme avant", mbid = "9118d7e1-4452-4fe8-ac10-8ab8b38d833a" },
+  { n = 6, title = "Sommeil noir", mbid = "d77efe1b-1ce5-4bae-8bc2-5b97addaf904" },
+  { n = 7, title = "1, 2, 3, 4", mbid = "839bcc35-a7ad-41b2-b01c-a4a92425a7f9" },
+  { n = 8, title = "La seule", mbid = "ccbe0263-b09c-4b6c-9e61-715ae831c685" },
+  { n = 9, title = "Nous les autres", mbid = "a68f4722-0ee8-4f73-a7fa-a6e5cd33d526" },
+  { n = 10, title = "Ella", mbid = "c2c7f86c-3d94-40f0-b9e1-3e456702ecda" },
+  { n = 11, title = "Ne t’en fais pas", mbid = "d9eaae71-acea-4f2c-879f-08b8cd408df6" },
+  { n = 12, title = "Maintenant", mbid = "e4df425a-8c1c-478c-8076-c9f68b40eb59" },
+]
+
+[[release]]
+mbid = "a5899f73-64dd-4b4c-a407-d6f2308b97e2"
+title = "Au bon endroit"
+type = "album"
+date = "2023-04-14"
+spotify = "1GGOY5jNb309UbiXqVONLi"
+tracks = [
+  { n = 1, title = "Intro", mbid = "f88be1a2-515e-4634-9ab9-143169ea8a2f" },
+  { n = 2, title = "Au bon endroit", mbid = "c00b8854-aad1-4894-9994-bd2fc528d495" },
+  { n = 3, title = "Où tu voudras", mbid = "a2e351f6-d0bd-4492-9bef-296ca836c356" },
+  { n = 4, title = "Feeling", mbid = "b630370c-612b-4bf3-ac9a-98316dff3e82" },
+  { n = 5, title = "JAD", mbid = "95e49667-b4a3-4358-962b-021f89a13865" },
+  { n = 6, title = "On va où", mbid = "bef7e4a7-611a-4d1f-a4e3-24c98c28f1c5" },
+  { n = 7, title = "Si j'avais", mbid = "fee2a82e-33f4-4173-b73e-9cb0e5e55548" },
+  { n = 8, title = "On verra bien", mbid = "0fa315a1-a17e-4897-9b60-b0627c4ff172" },
+  { n = 9, title = "La bonne", mbid = "764ce6dd-6048-43fd-bb2e-c972868fac96" },
+  { n = 10, title = "Tour de la Terre", mbid = "130e79d3-5a17-436c-982b-54dc0b5bafe6" },
+  { n = 11, title = "Autour de moi", mbid = "126b6521-a53d-4a27-a652-32b0172b86bf" },
+  { n = 12, title = "Petite voix", mbid = "3a40b39b-98b7-4908-95d0-9c4e017597ed" },
+  { n = 13, title = "CVC", mbid = "3746a6c5-b805-40d3-9e8f-50cf8249d61d" },
+  { n = 14, title = "Rendez-vous l'année prochaine", mbid = "a3373282-4e88-46e1-b058-f25cc29afbbf" },
+]
+
+[[release]]
+mbid = "2c4dac2d-fb25-49c9-86cf-a44e7fabefd9"
+title = "LA VIE CONTINUE"
+type = "album"
+date = "2026-04-24"
+spotify = "40bvQc2RUuJzUFc5Q0KFxT"
+tracks = [
+  { n = 1, title = "Le Cap", mbid = "eb43283f-c4ff-493d-bc67-94b9f516439b" },
+  { n = 2, title = "Comment Ils Font Les Autres", mbid = "db8c5629-22e3-41a5-b92b-85ec9b0a3992" },
+  { n = 3, title = "Si T'Étais Là", mbid = "027f1426-59aa-4d99-a95b-9b6394b7a9f4" },
+  { n = 4, title = "Superstar", mbid = "23390aab-2c97-45bf-98e5-cdd17a918e94" },
+  { n = 5, title = "Étoile Filante", mbid = "a1db07cf-5ed7-4750-b708-491db7c0df4e" },
+  { n = 6, title = "Don't Lie (with Ehla)", mbid = "b5ad04cd-f703-4076-9228-46d1c7ad7394" },
+  { n = 7, title = "Et Si Tout S'Arrêtait Ce Soir", mbid = "9961b998-210a-4fdc-83bc-0f519b1b6dc9" },
+  { n = 8, title = "Petit Pas de Danse", mbid = "2b3f8676-025f-4fa6-9722-4ba958d8f126" },
+  { n = 9, title = "Lettre À Mon Pote", mbid = "52398108-8be0-4c11-af16-7fa9c7c990d4" },
+  { n = 10, title = "J'En Rêve Encore", mbid = "2e516fe6-784e-40c4-9516-cf919cc5f047" },
+  { n = 11, title = "Maman", mbid = "7a0bd90d-8d8a-4fb4-9c7d-fdaab97fc6ac" },
+  { n = 12, title = "Pas Chez Moi", mbid = "ae37f6be-aaf1-4e07-8986-8b17a58c0f29" },
+  { n = 13, title = "La Vie Continue", mbid = "c368c10a-7a01-4d44-a930-da70ecd8b76f" },
+  { n = 14, title = "Qu'Est-Ce Qui S'Est Passé", mbid = "954ec5ec-7142-497c-8720-ec44a5a956be" },
+]

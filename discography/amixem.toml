@@ -1,0 +1,32 @@
+format = 1
+
+[[release]]
+mbid = "0f3dff87-2418-4641-b015-68b444ab6a24"
+title = "La Chanson putaclic"
+type = "single"
+date = "2017-06-23"
+spotify = "3PoQsJKsubjAxRbkZaYQ5w"
+tracks = [
+  { n = 1, title = "La Chanson putaclic", mbid = "5c761837-7881-4448-9dab-382924dcea42" },
+  { n = 2, title = "La Chanson putaclic (instrumental)", mbid = "29bcb79b-8bf4-42bd-85f6-daf0e1ff9346" },
+]
+
+[[release]]
+mbid = "52e294cc-f57d-4c4b-815d-f955c072394f"
+title = "La chanson des commentaires"
+type = "single"
+date = "2020-12-27"
+spotify = "7pIgdYW8YvzwkyIf6wrtOV"
+tracks = [
+  { n = 1, title = "La chanson des commentaires", mbid = "6a9004f5-6755-489d-97e5-ff761f6341ab" },
+]
+
+[[release]]
+mbid = "4e79100e-4cf4-49f8-abae-01f71547caf5"
+title = "The Forest"
+type = "single"
+date = "2024-08-23"
+spotify = "4SB2U15zTzAzZ4oznEesWj"
+tracks = [
+  { n = 1, title = "The Forest", mbid = "01b90e57-7d77-4376-9a94-86de790461f0" },
+]

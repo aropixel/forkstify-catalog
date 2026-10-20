@@ -1,0 +1,458 @@
+format = 1
+
+[[release]]
+mbid = "112885bd-2440-3e8c-82f2-aa7598f86479"
+title = "Meshuggah"
+type = "ep"
+date = "2006-10-20"
+tracks = [
+  { n = 1, title = "Meshuggah", mbid = "34afb50c-8144-4768-be44-c8c5ddb1aca1" },
+  { n = 2, title = "Soilent Green", mbid = "91b2fa2d-a267-421f-a252-9fd9fc4cea3d" },
+  { n = 3, title = "1349", mbid = "db9f22bf-947a-4640-ab59-6e59080dede5" },
+]
+
+[[release]]
+mbid = "f730c7ad-7ebc-32ae-bed3-51129b99ad2b"
+title = "The Wood"
+type = "ep"
+date = "2007"
+tracks = [
+  { n = 1, title = "The Wood", mbid = "476c249a-725e-4e6e-a2c5-9bd730d960ca" },
+  { n = 2, title = "Leviathan", mbid = "568701d3-9425-4f23-9893-41950a973e3f" },
+]
+
+[[release]]
+mbid = "fc0ca2ba-0c94-3a06-a87e-0bf46f6a43d2"
+title = "Music Components"
+type = "album"
+date = "2008-10-20"
+tracks = [
+  { n = 1, title = "The Spirit of Boogie", mbid = "10dcc280-1459-47b7-b3e2-1b234c558319" },
+  { n = 2, title = "Un Cheval d'orgueil", mbid = "3983fbca-3b99-4026-95b7-5dd7ada9f108" },
+  { n = 3, title = "1314", mbid = "64c2620f-a3f3-4f38-84a0-d1ffbe97314c" },
+  { n = 4, title = "Cm", mbid = "e07af0ea-9b03-443a-a9d7-3623805d7399" },
+  { n = 5, title = "The Swamp Waltz", mbid = "74da7bb0-e1c4-455f-bf57-c9b6ede41a2b" },
+  { n = 6, title = "Horns of Innocence", mbid = "cfcbadf3-cd7a-4b63-8715-6d40db86e4a1" },
+  { n = 7, title = "Conakry Filter Sweep", mbid = "86c73509-91ba-4e81-bf20-c231c6bc293a" },
+  { n = 8, title = "777", mbid = "c59f1826-5fdf-45d8-8342-40a677ca359c" },
+  { n = 9, title = "Decade of Aggression", mbid = "3bd68a18-1181-449a-98d8-167832023637" },
+  { n = 10, title = "Mnll", mbid = "2f5806b4-9e66-4295-a176-9ae60a480c4e" },
+]
+
+[[release]]
+mbid = "90a164ec-30f4-4ed9-a337-48a56a01d28f"
+title = "Music Components Rev2 EP"
+type = "ep"
+date = "2009-10"
+tracks = [
+  { n = 1, title = "Decade of Aggression (Jesper Dahlbäck remix)", mbid = "17e67be5-e5d0-4800-9554-ae1e12afe833" },
+  { n = 2, title = "Cm (Chloé remix)", mbid = "1a8310bc-662d-4d94-a3ec-75cfdb9cdeba" },
+  { n = 3, title = "Conakry Filter Sweep (Blackstrobe remix)", mbid = "e0ddfdea-6b26-4552-b282-2abf0ff7ff7a" },
+  { n = 4, title = "Horns of Innocence (Xaver Naudascher remix)", mbid = "dee8cdeb-46a0-464b-bef6-1acbc68b0be8" },
+]
+
+[[release]]
+mbid = "e7ebf307-fada-45f8-8b91-bfdc4ad12f07"
+title = "Personal Dictator"
+type = "ep"
+date = "2011-04-11"
+tracks = [
+  { n = 1, title = "Personal Dictator (Twelve Inches version)", mbid = "2dd62bbc-dc64-4166-a0e2-5bb2b89199e5" },
+  { n = 2, title = "Personal Dictator (Mixhell remix)", mbid = "1e174ef7-31da-4030-ae59-3ee51e2f3be6" },
+  { n = 3, title = "Personal Dictator (Motor remix)", mbid = "f069b583-dd62-4f59-a9fc-480824765304" },
+  { n = 4, title = "Personal Dictator (The Hacker remix)", mbid = "c8db6d04-428b-406a-b30b-edf46e43da9f" },
+  { n = 5, title = "Twilight of Gods (album version)", mbid = "47fe5b0a-e882-41ba-9b94-88c02450469c" },
+]
+
+[[release]]
+mbid = "e8be0af4-b8e0-4639-bda0-bce51080ae0f"
+title = "Someone Gave Me Religion"
+type = "album"
+date = "2011-05-18"
+tracks = [
+  { n = 1, title = "The First Thirteen Minutes of Love", mbid = "39748863-6fdf-408e-956c-57ed2b26bb86" },
+  { n = 2, title = "Another Time, Another Place", mbid = "c384e75e-91eb-4ba7-819c-7fd066cd69b9" },
+  { n = 3, title = "Personal Dictator", mbid = "d23eb66a-564f-4c4c-85ad-ce8de8dbb131" },
+  { n = 4, title = "Another Dictator", mbid = "9f4c1d26-0367-444b-8385-0baddc25bef7" },
+  { n = 5, title = "Echoes", mbid = "67fb0748-a5a6-4160-b4fa-cbcf4876dd5c" },
+  { n = 6, title = "All You Need Is Techno", mbid = "089a50e3-fd59-4a83-b182-681d9ef35d38" },
+  { n = 7, title = "Who's Gonna Play This Old Machine?", mbid = "5086818b-e5f3-42b6-9b4b-875c960f1f78" },
+  { n = 8, title = "Extreme Conditions Demand Extreme Responses", mbid = "0c9f6885-b654-4ae5-bff4-d71f95eecd77" },
+  { n = 9, title = "The Choir of the Dead Lovers", mbid = "202c24c6-f785-4d69-8bfd-457ba30e4e2b" },
+]
+
+[[release]]
+mbid = "e4c8e71d-ed58-4544-8d5f-64dd6e6905f1"
+title = "Another Time, Another Place"
+type = "single"
+date = "2011-11-07"
+tracks = [
+  { n = 1, title = "Another Time, Another Place (radio edit)", mbid = "9cc14ec6-ab11-4125-be64-45607aae95c2" },
+  { n = 2, title = "Wardance", mbid = "cdeab4e7-d06d-441f-b044-56c733ee43b9" },
+  { n = 3, title = "Wardance (instrumental)", mbid = "6b0a3a1b-17cd-4be3-8db0-8e79b55a1ea9" },
+  { n = 4, title = "The First Thirteen Minutes of Love (Turzi remix)", mbid = "a5930972-7271-40d6-bc2e-040436f47c26" },
+  { n = 5, title = "Another Time, Another Place (The Subs remix)", mbid = "fea38277-0f4a-4ace-98cb-3468e0007ee0" },
+  { n = 6, title = "Another Time, Another Place (Gucci Vump remix)", mbid = "d60e89ee-8f9f-44b4-8b19-434022ae2df7" },
+  { n = 7, title = "Another Time, Another Place (Acid Washed remix)", mbid = "4ec159f8-b708-44b1-9ca7-30412d5f6782" },
+  { n = 8, title = "Another Time, Another Place (JBAG remix)", mbid = "a1b379be-a01a-4273-afbc-fa266817839d" },
+  { n = 9, title = "Another Time, Another Place (Mustang remix)", mbid = "9c77e16e-62e3-4863-961f-7b00a7dc5ac0" },
+  { n = 10, title = "Another Time, Another Place (Museum remix)", mbid = "2269c3c2-9ec1-4f9b-aac5-5dec35dde812" },
+  { n = 11, title = "Another Time, Another Place (Olivier Le Castor remix)", mbid = "a1363981-8a65-4d1b-94eb-71e0108b5758" },
+]
+
+[[release]]
+mbid = "44dfdba3-d32b-4950-9487-4be41c186f55"
+title = "Pagan Dance Move"
+type = "ep"
+date = "2012-11-12"
+tracks = [
+  { n = 1, title = "Their Synthetic Majesties Request", mbid = "83f1e1d9-cf64-4783-93fa-8ba37bb4bd48" },
+  { n = 2, title = "Alan Wilder War Whoop", mbid = "951ce89d-979e-44b6-ba62-2b1d1dddb683" },
+  { n = 3, title = "Pagan Dance Move", mbid = "7b4fc8ca-121e-42ef-9ab9-97360a770910" },
+  { n = 4, title = "Their Synthetic Majesties Request (Crackboy remix)", mbid = "6248a88c-e69d-4723-a7ea-9b2f79cea920" },
+]
+
+[[release]]
+mbid = "15f3bf25-a309-4617-ab46-9bb61738b931"
+title = "Eastern Boys"
+type = "album"
+date = "2014-05-30"
+tracks = [
+  { n = 1, title = "Arrestation", mbid = "75fed175-aa09-4f8b-a05f-ec43d402e2bb" },
+  { n = 2, title = "Couloir Boss", mbid = "e9db876b-3704-4600-8df0-d7f092b29c42" },
+  { n = 3, title = "East Boys Themes", mbid = "2317dd9a-8be5-457c-a504-8d981e202d87" },
+  { n = 4, title = "Negociation", mbid = "fa3f23e4-08c9-4da6-84be-78380fa5b0f7" },
+  { n = 5, title = "La cuisine", mbid = "cbabb8ae-f8ba-402c-933f-1da1d9191f7f" },
+  { n = 6, title = "Eastern Boys", mbid = "5919593a-a566-4737-b3d6-bf1357103ef2" },
+  { n = 7, title = "Cette fête dont je suis l'otage", mbid = "931f88ce-6bfb-49a1-9175-5aaa44c130a0" },
+  { n = 8, title = "Un peu de verre casse", mbid = "2e551601-7e6e-45b9-9589-4cf3f44aa6a9" },
+  { n = 9, title = "Who's Gonna Play This Old Machine?", mbid = "7eefe3aa-14db-44b2-9179-dc29558da6f7" },
+  { n = 10, title = "Le doute", mbid = "95453858-9f84-4446-a438-6545ecb3d488" },
+  { n = 11, title = "Encore un doute", mbid = "624f536a-9332-4bf6-bb64-3cb60dbadf48" },
+  { n = 12, title = "La chambre", mbid = "ef19673c-fa5f-4278-a9c4-75d4cc560831" },
+  { n = 13, title = "La nuit", mbid = "804c60cc-175f-49ca-abfb-f395fb006e24" },
+]
+
+[[release]]
+mbid = "a9bb7083-1137-469e-ad2f-f8fd0bf4c59d"
+title = "Cm / Angel"
+type = "ep"
+date = "2015-01-12"
+tracks = [
+  { n = 1, title = "Cm (Chloé remix)", mbid = "687f9d79-590f-45cd-a111-51ba36e53473" },
+  { n = 2, title = "Angel", mbid = "150abb5c-4713-477b-b3f5-bc2564a9a1ab" },
+]
+
+[[release]]
+mbid = "1e0aa850-2904-400e-befb-149d946d547c"
+title = "Eastern Boys Extended"
+type = "ep"
+date = "2015-01-30"
+tracks = [
+  { n = 1, title = "Un peu de verre cassé (extended)", mbid = "360c027e-6417-4b4f-b64c-73339367b243" },
+  { n = 2, title = "L'éternel retour", mbid = "8a3949fb-be63-44e4-8ae3-e643ab05a986" },
+  { n = 3, title = "Cette fête dont je suis l'otage (extended)", mbid = "1f568ce8-bd62-47c9-ba6a-a0f0bdbf2760" },
+  { n = 4, title = "This World is not my Home", mbid = "8611813e-e4c0-418f-9b6a-4488bc33347a" },
+]
+
+[[release]]
+mbid = "9c273539-1ed5-458d-bf33-efc1b2de0a37"
+title = "Acidmonium"
+type = "ep"
+date = "2015-12-04"
+tracks = [
+  { n = 1, title = "Acidmonium", mbid = "56e64371-843f-4818-a7a0-2a4d6d01ac51" },
+  { n = 2, title = "American Moonshine", mbid = "36cfdda3-e7c9-4ee6-8160-16f15fa5dde4" },
+  { n = 3, title = "Acidmonium (Arnaud Rebotini Mix)", mbid = "fe03bb3e-a07a-4313-9231-0b574cfc18f2" },
+  { n = 4, title = "13X3h", mbid = "6b39626c-3e62-428f-be31-21543d9830b4" },
+]
+
+[[release]]
+mbid = "af1535e1-4012-4448-84a1-8442e8fac425"
+title = "Frontières"
+type = "album"
+date = "2016-04-22"
+tracks = [
+  { n = 1, title = "Hymn I", mbid = "60a8d117-2a37-4863-b03c-1870b67c1a54" },
+  { n = 2, title = "Blixa", mbid = "513587a6-6e28-4ce3-bbf9-fbaf2533d38d" },
+  { n = 3, title = "Approche/Accumulation", mbid = "b3f53c21-2c8b-407e-941f-1c01eb0eb14b" },
+  { n = 4, title = "Frontier", mbid = "668eb6ff-6c70-4597-8cad-24c7c5e49d6a" },
+  { n = 5, title = "Heaven Hill", mbid = "9e851bb7-6073-4a8e-ad1f-d25aa1abeacb" },
+  { n = 6, title = "12345678", mbid = "b3a7cbae-b74d-4259-aa39-1425b415e7e9" },
+  { n = 7, title = "Acidmonium", mbid = "2a6e3e3c-f5fb-446c-afe8-ac443a192f44" },
+  { n = 8, title = "Hymn II", mbid = "89cd0517-ca88-42af-8ae8-e23b7b440a68" },
+]
+
+[[release]]
+mbid = "84af3fd0-7c7e-4480-8e68-07116179ec23"
+title = "Classico"
+type = "ep"
+date = "2016-10-21"
+tracks = [
+  { n = 1, title = "PSG OM", mbid = "96ee1f70-50fa-4f5b-b9d1-992ca480ed2f" },
+  { n = 2, title = "PSG OM (Radio Edit)", mbid = "4ef990e8-5bb7-4c45-8b8e-ba99c238d0a1" },
+]
+
+[[release]]
+mbid = "d91ae7aa-a439-43d6-b490-270fe48eaf2f"
+title = "120 Battements Par Minute (Soundtrack)"
+type = "album"
+date = "2017-08-23"
+tracks = [
+  { n = 1, title = "120 Battements Par Minute", mbid = "21a057b7-bb7c-4667-854e-e4c09f8c4e13" },
+  { n = 2, title = "Premiers Battements", mbid = "ca665e8e-6b3c-4ab2-b578-844a038ad5ca" },
+  { n = 3, title = "Sean & Nathan la nuit", mbid = "0be031ab-74c1-4831-a0a0-8577f3d7fd45" },
+  { n = 4, title = "Meltonpharm", mbid = "8fafe69e-4027-47a8-b3f3-dfb98ce8fb4b" },
+  { n = 5, title = "Jeremie est mort du sida", mbid = "5ec72841-0271-4815-9701-95e91b31176e" },
+  { n = 6, title = "Pride", mbid = "54cc0982-851e-496b-92a8-488e8c4f7f29" },
+  { n = 7, title = "La Parade", mbid = "7e0421bd-d15f-4415-b97c-daa9638ee699" },
+  { n = 8, title = "Smalltown Boy (Arnaud Rebotini remix)", mbid = "70701bd0-9a10-42be-a4d5-30c65cff0131" },
+  { n = 9, title = "Le Scanner", mbid = "6f9b111b-cfdb-4ca2-9389-224d3e814136" },
+  { n = 10, title = "Premier Club", mbid = "7e0b44e3-a0cd-4b08-a5fe-785951e825b5" },
+  { n = 11, title = "AZT DDI DDC", mbid = "89636123-5bc6-4025-80f3-8e12d2afb737" },
+  { n = 12, title = "Le Pont", mbid = "28d157dc-4d41-403c-a1d8-5e053f99c34a" },
+  { n = 13, title = "What About This Love? (Kenlou remix)", mbid = "9e1cd2a5-0dda-4188-830e-aad0c46d14e3" },
+  { n = 14, title = "Sean & Nathan", mbid = "5cccce23-1fb0-4122-8d5d-6e72d0c41752" },
+  { n = 15, title = "Minority's Swing", mbid = "64ef155d-17d9-40a5-be21-48ef28223d1a" },
+  { n = 16, title = "Housing Committee", mbid = "cf32cc3a-a86a-4faa-b40e-dd1e255e665e" },
+  { n = 17, title = "A Prayer for You", mbid = "d6bda37f-fc73-4aa4-b20e-016bc81d3727" },
+]
+
+[[release]]
+mbid = "88523608-50e6-4ede-b383-a27f3331792a"
+title = "Flowers for Algernon"
+type = "ep"
+date = "2018-08-31"
+tracks = [
+  { n = 1, title = "Flowers for Algernon", mbid = "81e948d3-3242-4d0b-9e93-1383919037a7" },
+  { n = 2, title = "Jacob’s Cycle", mbid = "30416e26-4f67-475c-a8e1-653b055a185a" },
+  { n = 3, title = "My 909", mbid = "ce6d412a-26bb-4ff7-b092-5dbe39507075" },
+  { n = 4, title = "The Great Frog", mbid = "9797f3ee-bcff-4c7d-a3e8-09d1346ad9f0" },
+  { n = 5, title = "Flowers for Algernon (Billy Turner’s Black Dahlia mix)", mbid = "2f53b978-a8ce-4cf8-be3a-7182f7216935" },
+]
+
+[[release]]
+mbid = "125dd448-a13d-4d40-9595-bb9a8e966eeb"
+title = "Le vent tourne"
+type = "album"
+date = "2018-09-26"
+tracks = [
+  { n = 1, title = "Le vent tourne", mbid = "06220f83-1ab1-4524-b120-056fec65989b" },
+  { n = 2, title = "En attendant galina", mbid = "7103a678-b6d8-466d-9838-2583c3544c10" },
+  { n = 3, title = "Puisque l'on a du vent", mbid = "51f3c0a4-66e3-4390-933a-64bdfad92c59" },
+  { n = 4, title = "Le brouillard", mbid = "572a9ea5-870d-4783-b9d6-3dec91db985c" },
+  { n = 5, title = "Le montage", mbid = "e73f98c2-4bf3-47a4-a24a-0cb64cf817ef" },
+  { n = 6, title = "La danse", mbid = "ed1ff470-4b46-4ec5-bcd5-9872f8a7bfba" },
+  { n = 7, title = "Le retour", mbid = "e18d1d84-f75e-4718-a00e-8a6c7b2e04c6" },
+  { n = 8, title = "Samuel", mbid = "a4a415c7-0991-49a2-a1d6-d84aebf3abae" },
+  { n = 9, title = "Losing control", mbid = "49f3e9e2-36ec-4a4b-b3a9-526dbadda1ad" },
+  { n = 10, title = "Pauline, Pierre et Samuel", mbid = "ecf60112-9f7d-4a0b-9a11-4a3f6357ea1b" },
+  { n = 11, title = "Le mur de Pierre", mbid = "a0a46c1a-3ced-4c6c-a4d8-c62f6c6e801b" },
+  { n = 12, title = "Un peu avant le départ", mbid = "a3882a7d-bfd9-45f9-bf0c-d06a99fb3353" },
+  { n = 13, title = "Au revoir galina", mbid = "190f179b-85f2-4735-9d90-131e598fbd0f" },
+  { n = 14, title = "L'échec", mbid = "adaece36-0fd5-4bb8-b0e8-a30dd3bb5ccf" },
+  { n = 15, title = "Dans la voiture", mbid = "ecd7348a-a67e-47d3-a432-7ab72a35729d" },
+]
+
+[[release]]
+mbid = "673d047d-bc8b-4b5a-bd51-e8c5bfbda5fd"
+title = "Curiosa"
+type = "album"
+date = "2019-04-05"
+tracks = [
+  { n = 1, title = "Curiosa", mbid = "a4e43ec3-25b6-4e60-bb42-905adb61b493" },
+  { n = 2, title = "Le miroir", mbid = "eb8e555d-70d4-468e-adbf-1bec40fa2dc2" },
+  { n = 3, title = "Noircissement direct", mbid = "b4357764-7f7b-4b20-ba5b-9baacea259c7" },
+  { n = 4, title = "Les égouts", mbid = "3a3995c2-1164-455c-b981-ba998705ccad" },
+  { n = 5, title = "La bouquetière", mbid = "7c7dc5d1-901f-4850-8fac-82621e286756" },
+  { n = 6, title = "Zohra", mbid = "339e0405-89ea-4f47-8781-52ea951c6e5f" },
+  { n = 7, title = "La demande en mariage", mbid = "b047d35d-3b30-4d79-bdb1-613ff8c78aa6" },
+  { n = 8, title = "Marie et Zohra", mbid = "9143b3bc-bfb7-42df-aab5-b0e62a8eeffe" },
+  { n = 9, title = "Les deux amants", mbid = "feca17de-ad7f-422e-b06a-f9666be70d87" },
+  { n = 10, title = "Pierre et Henri dans l'escalier", mbid = "95a22487-3bf5-41eb-8058-2a856a99a825" },
+  { n = 11, title = "Marie lit sa lettre", mbid = "eae6ac46-3941-4240-abd0-ee30ae4da07c" },
+  { n = 12, title = "Marie et Henri", mbid = "0fc8b9bf-b10e-4861-b9b7-17a68c0e31b6" },
+  { n = 13, title = "Rocking Chair", mbid = "40e4eef4-b469-4b17-a8f7-fe92030b1843" },
+  { n = 14, title = "Autoportrait", mbid = "826447a9-527b-485c-afd4-8b974dd97cad" },
+  { n = 15, title = "Les deux sœurs", mbid = "dc7cd8ee-8ac8-43d9-9788-7482eb90c029" },
+  { n = 16, title = "Approche / Accumulation", mbid = "1fe41b28-a460-4f6c-b8b7-c1798fd22fbe" },
+  { n = 17, title = "Riding the Rails", mbid = "ab84487c-0e58-4147-a536-f8cc45650316" },
+]
+
+[[release]]
+mbid = "3077f04d-d032-464b-8951-e9111dd786d5"
+title = "Etat Naturel (This Is A Quarantine EP4)"
+type = "ep"
+date = "2020-04-10"
+tracks = [
+  { n = 1, title = "État naturel", mbid = "bb78aef8-3bd7-47bf-b345-a2b924387dd6" },
+  { n = 2, title = "Chloroquine (VTSS Remix)", mbid = "bdeedc9c-b957-47c7-86a4-0c2ab474d052" },
+  { n = 3, title = "Chloroquine (Raffaele Attanasio Southern Riot Remix)", mbid = "6e38c8cd-8191-44bc-b321-e6bb5d258996" },
+  { n = 4, title = "Chloroquine (Fabrizio Rat Remix)", mbid = "f3b4f043-f3a5-4995-a931-7a123689d7aa" },
+]
+
+[[release]]
+mbid = "38a20123-d636-4f70-b10e-a9a0f24fc1bd"
+title = "This Is a Quarantine"
+type = "album"
+date = "2020-11-06"
+tracks = [
+  { disc = 1, n = 1, title = "Minimize Contact Between People (Arnaud Rebotini original mix)", mbid = "9b4e8c14-d25b-4d6f-9287-fc9accd12f23" },
+  { disc = 1, n = 2, title = "Minimize Contact Between People (Alessandro Adriani Nightmare City remix)", mbid = "f9986030-5fb7-4c15-84d5-ebffe087c687" },
+  { disc = 1, n = 3, title = "Minimize Contact Between People (Pablo Bozzi remix)", mbid = "1a0c7c57-cd47-493a-aac6-97d8427b54aa" },
+  { disc = 1, n = 4, title = "Minimize Contact Between People (The Hacker remix)", mbid = "df7f8f63-2443-46d3-af94-75fc198737db" },
+  { disc = 1, n = 5, title = "Digital Lockdown (Arnaud Rebotini original mix)", mbid = "db2cb468-37c8-4728-a2bd-6e8d7c8967a4" },
+  { disc = 1, n = 6, title = "Digital Lockdown (Phase Fatale remix)", mbid = "88b2730c-b58a-41ea-a101-da7883daa974" },
+  { disc = 1, n = 7, title = "Digital Lockdown (Lokier Meltdown remix)", mbid = "031af933-74a7-4c7b-b0a6-b8e7dcab1578" },
+  { disc = 1, n = 8, title = "Digital Lockdown (Christian Zanesi remix)", mbid = "919773d6-848f-4255-a451-ac13adc05fa2" },
+  { disc = 2, n = 1, title = "Chloroquine Y/N (Arnaud Rebotini original mix)", mbid = "2243885a-37b7-4891-a4a3-dacdcaa96ce7" },
+  { disc = 2, n = 2, title = "Chloroquine Y/N (VTSS remix)", mbid = "f603c6be-9b2c-4a64-8ffa-1d447aae66a9" },
+  { disc = 2, n = 3, title = "Chloroquine Y/N (Raffaele Attanasio Southern Riot remix)", mbid = "3b9d89b2-c053-49a5-9097-a080aa2eb2e8" },
+  { disc = 2, n = 4, title = "Chloroquine Y/N (Fabrizzio Rat remix)", mbid = "52525908-058a-4553-ba22-37ee1327abe5" },
+  { disc = 2, n = 5, title = "Etat Naturel (Arnaud Rebotini and Jonathan Fitoussi original mix)", mbid = "0116ae00-f334-46a9-baff-934fc42673de" },
+  { disc = 2, n = 6, title = "Etat Naturel (Léonie Pernet remix)", mbid = "1361a804-5d2d-478a-9f95-23578f65d5c7" },
+  { disc = 2, n = 7, title = "Etat Naturel (Etienne Jaumet remix)", mbid = "988d32e8-d09e-4906-8e20-43a7ec4cd643" },
+  { disc = 2, n = 8, title = "Etat Naturel (Illegal Jogging Turzi remix)", mbid = "cb7b52da-7fc3-4741-ba18-1f704c1a386a" },
+  { disc = 3, n = 1, title = "The Masquerade (Arnaud Rebotini original mix)", mbid = "bbb6a549-7e3d-44a0-9d8e-749c91165ed7" },
+  { disc = 3, n = 2, title = "The Masquerade (Zanias remix)", mbid = "2db7635b-dc6c-45ca-b91e-d27c68f6dcd2" },
+  { disc = 3, n = 3, title = "The Masquerade (Cardopusher remix)", mbid = "3ab3293c-c707-465f-bcb8-c02b4e36e4de" },
+  { disc = 3, n = 4, title = "The Masquerade (Kittin remix)", mbid = "b058b72c-54e8-45d6-bde0-412a6c43137d" },
+  { disc = 3, n = 5, title = "Workout (Arnaud Rebotini original mix)", mbid = "b21b806f-3874-4310-a950-40b0ed947906" },
+  { disc = 3, n = 6, title = "Workout (Perel remix)", mbid = "b09b81d5-8cb5-44a4-914b-6e888c77010f" },
+  { disc = 3, n = 7, title = "Workout (Radical G remix)", mbid = "241bb970-a40b-43da-b70f-600b4bcd30ed" },
+  { disc = 3, n = 8, title = "Workout (Shun remix)", mbid = "d51bba2c-9697-4822-a257-8a6f5705e44a" },
+  { disc = 4, n = 1, title = "Clean and Neat (Arnaud Rebotini original mix)", mbid = "360e87f3-7d2c-4a70-a2b9-1fe7dccb7d72" },
+  { disc = 4, n = 2, title = "Clean and Neat (David Carretta remix)", mbid = "7dab8923-a9ac-41f5-bcb8-cf1240ac50b9" },
+  { disc = 4, n = 3, title = "Clean and Neat (Djedjotronic remix)", mbid = "c28a28cf-98c7-43c4-82bc-7b1d5502a18c" },
+  { disc = 4, n = 4, title = "The Masquerade (Zombies in Miami remix)", mbid = "e58c117e-9f69-40f3-b943-f719ffbfa717" },
+  { disc = 4, n = 5, title = "To (Wo)Men on the Assembly Line (Arnaud Rebotini original mix)", mbid = "a68b6b99-a477-492c-b644-c359ec5da2ae" },
+  { disc = 4, n = 6, title = "Trans Europe Express", mbid = "8b016698-1dae-4233-8838-2943d9cec396" },
+  { disc = 4, n = 7, title = "Chloroquine (Jensen Interceptor and Kris Baha remix)", mbid = "345ef131-30b0-4a17-9d15-08638f98dac7" },
+  { disc = 4, n = 8, title = "Workout (Max Durante remix)", mbid = "48f34fda-e5a6-4863-aff3-63384d59b2b8" },
+]
+
+[[release]]
+mbid = "40f2a18f-a81f-40ae-87b6-59161dbb67eb"
+title = "Shiny Black Leather"
+type = "ep"
+date = "2021-01-29"
+tracks = [
+  { n = 1, title = "Shiny Black Leather", mbid = "8f2b35bc-b2bf-494e-8bf6-b4a9732dfb0f" },
+  { n = 2, title = "Last Train to Krasnodar", mbid = "202cb5c8-e2f6-4e24-8537-4d2ebff536dc" },
+  { n = 3, title = "What You Want Me to Do", mbid = "b3a3e6d5-d997-4918-901e-5d1c9efbb1af" },
+  { n = 4, title = "The Glove and the Whip", mbid = "a041dfa7-0704-4994-98d8-6a13b59a3eb9" },
+]
+
+[[release]]
+mbid = "100b298f-99f3-4243-a0e7-cf161f4cf50e"
+title = "New Territory"
+type = "ep"
+date = "2021-12-10"
+tracks = [
+  { n = 1, title = "No More Love (No More Hate)", mbid = "85cad225-9f3d-4b0b-810d-f52e7885252d" },
+  { n = 2, title = "Special A", mbid = "17e25523-47b8-47ae-be61-7ecc9d29d5f6" },
+  { n = 3, title = "A Noise Rose", mbid = "82481a4c-7f72-411a-b09f-223557ce5be9" },
+  { n = 4, title = "New Territory", mbid = "8944a4aa-fe9e-4b75-87e8-294beaa3a311" },
+  { n = 5, title = "Italian Sex Drive", mbid = "6fc8f1a7-95e9-4b66-9aa8-851accbdd343" },
+  { n = 6, title = "The Eastern Pale Christ", mbid = "d364a604-607c-44a7-849e-888916929b54" },
+]
+
+[[release]]
+mbid = "a5a5c47c-dfc5-4479-96c5-a86b5d4d987a"
+title = "Occhiali neri: Musica originale"
+type = "album"
+date = "2022-02-24"
+spotify = "3X7bZh7cZzKXiRdwq8lunt"
+tracks = [
+  { n = 1, title = "Occhiali Neri", mbid = "c6a5d02b-e776-4a66-b794-eb285486f26a" },
+  { n = 2, title = "L’Ospedale", mbid = "1af3405f-6e8c-49d3-9a66-bdcf83d6fffb" },
+  { n = 3, title = "Occhiali Neri Variazione", mbid = "02be7aff-f684-44af-9db0-2fe3ce8c235e" },
+  { n = 4, title = "Inseguimento Notturno", mbid = "3a9b7c3c-23d8-4570-8b0c-5782104c295e" },
+  { n = 5, title = "L’orfanotrofio", mbid = "5607c1ff-87b6-4ebb-b986-47a082cb3452" },
+  { n = 6, title = "La Morte Di Rita", mbid = "6f6a8b0b-e01a-43bc-b51c-94a6430abeeb" },
+  { n = 7, title = "Il Corpo Di Rita", mbid = "eb1726d1-cf5e-4c50-8705-0bb06834979f" },
+  { n = 8, title = "Matteo Ridipinge Il Furgone", mbid = "31b7e7e8-8347-4981-b932-ff5d558b94ca" },
+  { n = 9, title = "La Confessione", mbid = "2623aea8-09ea-4177-9135-e9672c7bbf64" },
+  { n = 10, title = "Serpenti e Cacciatori", mbid = "72c6519b-5b42-4b39-b95b-4704a9ebb40e" },
+  { n = 11, title = "Il Canile", mbid = "f4f2767f-07eb-4e56-9012-4579503da964" },
+  { n = 12, title = "LA Scomparsa", mbid = "64a2a752-37c0-4cea-b0e2-52414adeb7c9" },
+  { n = 13, title = "Un’ Eclissi Su Roma", mbid = "adb9225e-bbdd-4c6b-8edb-88971713fb0f" },
+  { n = 14, title = "Diana da Sola Nel Bosco", mbid = "b57a2773-6b6e-4c3a-8e82-0e96036f9928" },
+  { n = 15, title = "La Solitudine Di Diana", mbid = "e30f802b-5207-4656-8fb8-ba5d151226c4" },
+  { n = 16, title = "Il Cane Il Poliziotti", mbid = "c2b97534-1c41-4f43-bd6e-7387a28c0dc8" },
+  { n = 17, title = "Une Serata Buia", mbid = "83c30267-902a-48ba-a485-9a9512630bda" },
+  { n = 18, title = "Occhiali Neri Variazione II", mbid = "0a3aace8-544f-48d2-a024-4293e6e91857" },
+]
+
+[[release]]
+mbid = "0b90de5a-b63f-49e6-b34b-555a6c5bd7fe"
+title = "I Drive East"
+type = "ep"
+date = "2022-12-05"
+tracks = [
+  { n = 1, title = "I Drive East", mbid = "85c38a50-4fb3-4b7f-aa1d-3fa045cc4f49" },
+  { n = 2, title = "The Spark in Her Eye", mbid = "bdf74096-0dc6-44f8-8036-e997c88adba6" },
+  { n = 3, title = "I Chose Hate", mbid = "7e04e9ba-33dc-41c0-846d-eec28e6b260d" },
+  { n = 4, title = "Death Rides a Horse", mbid = "1a81b3a2-ca4a-4f35-b83b-25f0b1faddbc" },
+]
+
+[[release]]
+mbid = "c5890337-f785-4398-9b21-d023aba4c695"
+title = "Youth! Take a stand"
+type = "ep"
+date = "2023-06-27"
+tracks = [
+  { n = 1, title = "Youth! Take a stand", mbid = "747fc69f-382e-40f3-b80f-105d49507d97" },
+  { n = 2, title = "Ghost Life", mbid = "d7e8faa2-d1c1-4635-b63b-1f8d89af37e0" },
+  { n = 3, title = "Youth! Take a stand (Dave Clarke Remix)", mbid = "ccc197e6-53d7-4117-9047-fae4e43b11b5" },
+  { n = 4, title = "Climate Crime Scene", mbid = "e59ad5b4-bf80-4c1b-9613-fa432a4afce8" },
+  { n = 5, title = "Resist G7", mbid = "c8e49650-5713-4cbe-8c67-4ee2d4d682b9" },
+]
+
+[[release]]
+mbid = "12a11abe-23a6-4341-9b60-c6826afcb3ee"
+title = "Songs About Life, Death and Truth"
+type = "ep"
+date = "2024-01-07"
+tracks = [
+  { n = 1, title = "I'm Witnessing My Own End", mbid = "27eeb0c6-9961-4ba6-be74-9325c7fb551a" },
+  { n = 2, title = "Zero Expectation", mbid = "fe1f0569-d98f-4748-9279-578a0706b265" },
+  { n = 3, title = "Blind Man", mbid = "2ef63033-54db-4aab-917e-6b1a6055ec6a" },
+  { n = 4, title = "Regrets and Shame", mbid = "fe4e1a9b-414f-421e-8747-bf8475284510" },
+  { n = 5, title = "The Chords of Redemption", mbid = "524b1a4d-b9d6-4cd2-b109-2be9c5db686a" },
+  { n = 6, title = "Let the Lower Light Be Burning", mbid = "41dbef4f-6b2d-4657-9783-409d39d518be" },
+]
+
+[[release]]
+mbid = "f6b49153-b4a4-4897-96b4-9876f5f26665"
+title = "Winter sequences"
+type = "ep"
+date = "2025-01-31"
+tracks = [
+  { n = 1, title = "Snowy Sunday Smile", mbid = "7194b6f2-360f-4e9e-b060-7c02f0706f91" },
+  { n = 2, title = "Abnegation Electronique", mbid = "f6bd078d-6a84-4005-b731-b7d5144792c2" },
+  { n = 3, title = "December in G", mbid = "b91a2b9d-3189-4e26-acd5-20ba4c95d97c" },
+  { n = 4, title = "Echo Park’s Bells", mbid = "dd1a8b1e-5348-4748-a5da-689da9088d92" },
+]
+
+[[release]]
+mbid = "b2b38d09-4021-4387-985b-285f87007fb1"
+title = "REDSHIFTS TO BLUESHIFTS"
+type = "ep"
+date = "2025-09-05"
+tracks = [
+  { n = 1, title = "Redshifts to Blueshifts", mbid = "a64b9434-7e2a-4eea-bced-e66d5f2a2dee" },
+  { n = 2, title = "99 Shakes", mbid = "e05192da-a3e1-479c-a5fb-f3eed39679c9" },
+  { n = 3, title = "Futur Race", mbid = "29b91a97-1f6f-4d31-9f57-4a86dcb6d35f" },
+  { n = 4, title = "Gen mix", mbid = "cbafb947-29bf-4ff3-aeec-dccff74f9c99" },
+]
+
+[[release]]
+mbid = "d85db9e5-06bd-4041-a310-13ab3929b29c"
+title = "Reflections"
+type = "single"
+date = "2026-05-19"
+spotify = "7poo9mvASsIufMtmQLoVFj"
+tracks = [
+  { n = 1, title = "Reflections", mbid = "61941924-4de6-4a38-b3b4-e2c3f004dab3" },
+]

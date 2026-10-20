@@ -1,0 +1,433 @@
+format = 1
+
+[[release]]
+mbid = "6c9c4985-3628-3070-b956-b538f30c9bea"
+title = "Whatever People Say I Am, That’s What I’m Not"
+type = "album"
+date = "2005"
+spotify = "0ndGMh4twJNzPpr5XtHTR2"
+tracks = [
+  { n = 1, title = "The View From the Afternoon", mbid = "123e75e7-a26b-4685-814a-58b7106e425f" },
+  { n = 2, title = "I Bet You Look Good on the Dancefloor", mbid = "f5e93176-0829-4823-a5be-3333e226824b" },
+  { n = 3, title = "Fake Tales of San Francisco", mbid = "251c24cc-eb0f-4a17-a5dd-88e0008536d6" },
+  { n = 4, title = "Dancing Shoes", mbid = "cd4f354c-63a5-469b-932f-0c38aeaeeea3" },
+  { n = 5, title = "You Probably Couldn't See for the Lights but You Were Staring Straight at Me", mbid = "d235fada-ee9f-4002-b822-b7bf709026b5" },
+  { n = 6, title = "Still Take You Home", mbid = "bd51a089-193a-4d25-bc7f-81ac84924043" },
+  { n = 7, title = "Riot Van", mbid = "d8786d03-8c77-419e-bcf4-fd766e9c137d" },
+  { n = 8, title = "Red Light Indicates Doors Are Secured", mbid = "37ee34c4-a5ee-4bfd-b05e-9509d86b827c" },
+  { n = 9, title = "Mardy Bum", mbid = "c2705dfc-83bf-4838-bdcb-07734e71c7d7" },
+  { n = 10, title = "Perhaps Vampires Is a Bit Strong But...", mbid = "691e547f-2926-4752-a6d8-fa99b4f188a4" },
+  { n = 11, title = "When the Sun Goes Down", mbid = "f05a995c-9cdd-404f-91f8-0658044be619" },
+  { n = 12, title = "From the Ritz to the Rubble", mbid = "6c38a025-0a0b-46e7-bd90-460a82feae70" },
+  { n = 13, title = "A Certain Romance", mbid = "7a7bc35c-c49c-408b-a860-23a8cfef6d43" },
+]
+
+[[release]]
+mbid = "2dfba729-4b69-3c41-a4e2-a52bb36784a2"
+title = "I Bet You Look Good on the Dancefloor"
+type = "single"
+date = "2005-05-10"
+spotify = "2rkuPRtC7rZlcsOCwTmdpF"
+tracks = [
+  { n = 1, title = "I Bet You Look Good on the Dancefloor", mbid = "f5e93176-0829-4823-a5be-3333e226824b" },
+  { n = 2, title = "Bigger Boys and Stolen Sweethearts", mbid = "30be0eea-865f-479d-8c8a-414ce8356ea7" },
+  { n = 3, title = "Chun Li’s Spinning Bird Kick", mbid = "9c59c62c-f4a4-4197-a172-f9b985a8380e" },
+]
+
+[[release]]
+mbid = "ca814e6b-54f9-371a-af9c-75e62799fec9"
+title = "Five Minutes With Arctic Monkeys"
+type = "single"
+date = "2005-05-30"
+spotify = "7FswX7FSdalKXwnAXFD6yF"
+tracks = [
+  { n = 1, title = "Fake Tales of San Francisco", mbid = "251c24cc-eb0f-4a17-a5dd-88e0008536d6" },
+  { n = 2, title = "From the Ritz to the Rubble", mbid = "e8492a13-c024-405e-ae38-9947ffcec94c" },
+]
+
+[[release]]
+mbid = "6026753a-0dc1-36d5-a0c2-1e6fb1c44434"
+title = "When the Sun Goes Down"
+type = "single"
+date = "2005-12-09"
+spotify = "2eV7RMXiLH3ysfnHyEQyqg"
+tracks = [
+  { n = 1, title = "When the Sun Goes Down", mbid = "f05a995c-9cdd-404f-91f8-0658044be619" },
+  { n = 2, title = "Settle for a Draw", mbid = "948701d6-6cd9-4935-8a48-1db636fa40d2" },
+]
+
+[[release]]
+mbid = "791b5323-0f2c-34aa-9866-429437eeefbb"
+title = "Who the Fuck Are Arctic Monkeys?"
+type = "ep"
+date = "2006-04-23"
+spotify = "3joT9so3a32gLe4n43Uavv"
+tracks = [
+  { n = 1, title = "The View From the Afternoon", mbid = "123e75e7-a26b-4685-814a-58b7106e425f" },
+  { n = 2, title = "Cigarette Smoker Fiona", mbid = "92baf98f-c13e-473e-866e-8caecf7a95a0" },
+  { n = 3, title = "Despair in the Departure Lounge", mbid = "f101fa8e-6996-4ebe-bd14-856eb851cdea" },
+  { n = 4, title = "No Buses", mbid = "ec5da3f1-0d7a-4230-84da-7c11b2837580" },
+  { n = 5, title = "Who the Fuck Are Arctic Monkeys?", mbid = "008a8431-4897-4f07-9fa8-7dc9be7e8a7a" },
+]
+
+[[release]]
+mbid = "9e002ca1-041c-3cff-ac3c-76dfa49f38bc"
+title = "Leave Before the Lights Come On"
+type = "single"
+date = "2006-08-12"
+spotify = "219r3vm32Uzj5Ef7lu9aKw"
+tracks = [
+  { n = 1, title = "Leave Before the Lights Come On", mbid = "13b04acf-fe13-4202-9c19-edd1e6c61496" },
+  { n = 2, title = "Put Your Dukes Up John", mbid = "37f2f12f-004e-4559-83da-e98d45dc08fb" },
+  { n = 3, title = "Baby I'm Yours", mbid = "4863f5e9-7ef9-43ce-956f-5b186b2941e8" },
+]
+
+[[release]]
+mbid = "b000ba2d-d691-3300-b8a2-4df4d655b4c2"
+title = "Brianstorm"
+type = "single"
+date = "2007-04-01"
+spotify = "40Gn9fwM0fXGX2JCYDit2f"
+tracks = [
+  { n = 1, title = "Brianstorm", mbid = "6ad56a7f-6e50-4fe8-8249-508ae990dfba" },
+]
+
+[[release]]
+mbid = "f113fa38-7908-3ec9-8145-d2455e78a8b2"
+title = "Favourite Worst Nightmare"
+type = "album"
+date = "2007-04-18"
+spotify = "1XkGORuUX2QGOEIL4EbJKm"
+tracks = [
+  { n = 1, title = "Brianstorm", mbid = "6ad56a7f-6e50-4fe8-8249-508ae990dfba" },
+  { n = 2, title = "Teddy Picker", mbid = "d0b676e6-471d-42a5-8d26-11a4580c161d" },
+  { n = 3, title = "D Is for Dangerous", mbid = "9ce6407c-41ee-4831-b087-73351ca503c0" },
+  { n = 4, title = "Balaclava", mbid = "19e395eb-2018-44ba-8bbf-cde37833c9f4" },
+  { n = 5, title = "Fluorescent Adolescent", mbid = "4810b42e-2bb1-4795-874b-85df8fd62ca9" },
+  { n = 6, title = "Only Ones Who Know", mbid = "fd081a38-5bb3-43aa-94c5-d50743ec23cf" },
+  { n = 7, title = "Do Me a Favour", mbid = "c1221eef-89e5-433d-9e10-9e2417b13aa3" },
+  { n = 8, title = "This House Is a Circus", mbid = "8f84da07-09a0-477b-b216-cc982dabcde1" },
+  { n = 9, title = "If You Were There, Beware", mbid = "dab20810-4afd-402f-90c7-f5ab6e271e57" },
+  { n = 10, title = "The Bad Thing", mbid = "a72ee6d8-048c-4ccc-81e6-51f265dfe1d7" },
+  { n = 11, title = "Old Yellow Bricks", mbid = "6ecf3ac2-b1c8-4154-b2a2-8ec2ab0adec2" },
+  { n = 12, title = "505", mbid = "8dee0224-bcf9-4023-a805-9562bafd3450" },
+]
+
+[[release]]
+mbid = "5d8ce6c1-2112-3b2e-864d-dd1a50acbe62"
+title = "Matador / Da Frame 2R"
+type = "single"
+date = "2007-06-18"
+spotify = "4jnUtLwOTu2HlsieSg1Ho7"
+tracks = [
+  { n = 1, title = "Matador", mbid = "d14a0a93-cbae-4a72-b0ea-6396b8ed7800" },
+  { n = 2, title = "Daframe2r", mbid = "8bc66405-d04b-4f80-8282-c749a03e0dd9" },
+]
+
+[[release]]
+mbid = "38b55458-39f4-3e31-a666-65cd11587b3c"
+title = "Fluorescent Adolescent"
+type = "single"
+date = "2007-07-08"
+spotify = "2wHvIbzNf8ESnAdoQngklR"
+tracks = [
+  { n = 1, title = "Fluorescent Adolescent", mbid = "4810b42e-2bb1-4795-874b-85df8fd62ca9" },
+  { n = 2, title = "The Bakery", mbid = "922500a8-4a2f-4519-bbb4-b64588204bf6" },
+  { n = 3, title = "Plastic Tramp", mbid = "c0a60621-6b37-447e-961d-6dd4a9169e87" },
+  { n = 4, title = "Too Much to Ask", mbid = "4a9d13d5-9b76-499c-9b1f-65b51527bd47" },
+]
+
+[[release]]
+mbid = "0310cddf-700e-3ef5-bb09-de59837c705d"
+title = "Teddy Picker"
+type = "single"
+date = "2007-12-02"
+spotify = "4ywmo9bu2cXUs1w7Okup2f"
+tracks = [
+  { n = 1, title = "Teddy Picker", mbid = "d0b676e6-471d-42a5-8d26-11a4580c161d" },
+  { n = 2, title = "Bad Woman", mbid = "e15547bb-2ef9-4f43-b5a0-bc5be73620d4" },
+  { n = 3, title = "The Death Ramps", mbid = "ca63c445-7f5f-4fe8-929c-bc7cd06d6c86" },
+  { n = 4, title = "Nettles", mbid = "38506262-a373-4b45-9357-3df086d202ce" },
+]
+
+[[release]]
+mbid = "00dd3e52-590c-414b-8c22-c5dc79602d04"
+title = "Crying Lightning"
+type = "single"
+date = "2009-07-13"
+spotify = "2U6jEfzEepDPPn8JQjEtfS"
+tracks = [
+  { n = 1, title = "Crying Lightning", mbid = "f8ffacee-541c-4eb4-b00c-57cb2b1406f2" },
+]
+
+[[release]]
+mbid = "23b7e9e9-8820-4a49-b44f-a7a60e0a7e81"
+title = "Humbug"
+type = "album"
+date = "2009-08-19"
+spotify = "5IEoiwkThhRmSMBANhpxl2"
+tracks = [
+  { n = 1, title = "My Propeller", mbid = "7088e647-8ef0-43aa-a402-d2dea973d112" },
+  { n = 2, title = "Crying Lightning", mbid = "f8ffacee-541c-4eb4-b00c-57cb2b1406f2" },
+  { n = 3, title = "Dangerous Animals", mbid = "bdf0d702-cb3d-4d21-8263-0382c1251e91" },
+  { n = 4, title = "Secret Door", mbid = "31c9c71b-15b5-4c8b-8bc1-7f1c76d2c45a" },
+  { n = 5, title = "Potion Approaching", mbid = "44f225d1-f204-46e9-8b20-a64c48476219" },
+  { n = 6, title = "Fire and the Thud", mbid = "116b18be-7275-44e5-ba2c-07e5762eb0e6" },
+  { n = 7, title = "Cornerstone", mbid = "cea6f31e-bc36-41e6-b37c-c2a6cdfe166a" },
+  { n = 8, title = "Dance Little Liar", mbid = "a69cf341-8295-4e05-a65e-0ead83430158" },
+  { n = 9, title = "Pretty Visitors", mbid = "2089baca-d852-4d12-b571-b2851b549129" },
+  { n = 10, title = "The Jeweller’s Hands", mbid = "f270de8d-2ea6-45a2-ac8b-2db16de73062" },
+]
+
+[[release]]
+mbid = "7bee929d-bb91-45ac-8b31-a93b06f28ce0"
+title = "Cornerstone"
+type = "single"
+date = "2009-10-29"
+spotify = "3MUuvj5bPdySvAjOjolhhA"
+tracks = [
+  { n = 1, title = "Cornerstone", mbid = "cea6f31e-bc36-41e6-b37c-c2a6cdfe166a" },
+  { n = 2, title = "Catapult", mbid = "9d8043c4-1777-4f89-9191-f180aab14613" },
+  { n = 3, title = "Sketchead", mbid = "195174de-d6b7-4c26-a33e-bb4626ecf700" },
+  { n = 4, title = "Fright Lined Dining Room", mbid = "6c9614df-7b47-49aa-ace0-d227debac333" },
+]
+
+[[release]]
+mbid = "aac8fc98-402d-43d9-a212-d92a3dd7754d"
+title = "My Propeller"
+type = "single"
+date = "2010-03-08"
+spotify = "2OCokGpJSgCoF8OHzLWMLw"
+tracks = [
+  { n = 1, title = "My Propeller", mbid = "7088e647-8ef0-43aa-a402-d2dea973d112" },
+  { n = 2, title = "Joining the Dots", mbid = "be493611-6e4d-4616-8712-be5835d5c0dd" },
+]
+
+[[release]]
+mbid = "57a7e81d-0e74-4e07-9213-3bca8c84d760"
+title = "Don’t Sit Down ’Cause I’ve Moved Your Chair"
+type = "single"
+date = "2011-04-12"
+spotify = "1v1Ietd8YWPFCWWUTzeEJr"
+tracks = [
+  { n = 1, title = "Don’t Sit Down ’Cause I’ve Moved Your Chair", mbid = "51b42966-23f6-4728-8efd-f2abd98f8937" },
+]
+
+[[release]]
+mbid = "ffdc0fd3-e726-4e98-af19-d3274ede2311"
+title = "Suck It and See"
+type = "album"
+date = "2011-06-01"
+spotify = "6ePsSjLdhZ8cFbxcZExAwl"
+tracks = [
+  { n = 1, title = "She’s Thunderstorms", mbid = "c28954bf-a222-45f0-8dd5-bc0b922edeab" },
+  { n = 2, title = "Black Treacle", mbid = "3a898c20-75f6-42ac-84d8-51ff5d33e324" },
+  { n = 3, title = "Brick by Brick", mbid = "e8b2c3a5-0595-47de-b82d-6f4ef17820ec" },
+  { n = 4, title = "The Hellcat Spangled Shalalala", mbid = "f9366bfc-0ec9-4c4a-9694-96e6089e212f" },
+  { n = 5, title = "Don’t Sit Down ’Cause I’ve Moved Your Chair", mbid = "51b42966-23f6-4728-8efd-f2abd98f8937" },
+  { n = 6, title = "Library Pictures", mbid = "c769d696-9a0b-4ee8-b220-d48e51b35034" },
+  { n = 7, title = "All My Own Stunts", mbid = "09a522df-610f-4868-a87b-9d80c3453374" },
+  { n = 8, title = "Reckless Serenade", mbid = "461ddac7-292d-49d9-8e19-7e064c8e60ff" },
+  { n = 9, title = "Piledriver Waltz", mbid = "b1ee5924-f4b4-4d12-b2ca-6f9e0aed8351" },
+  { n = 10, title = "Love Is a Laserquest", mbid = "63069b1b-5351-4062-8aad-a9171eb68f70" },
+  { n = 11, title = "Suck It and See", mbid = "42bf58b4-9a5d-46e7-83b4-bb0c398ea114" },
+  { n = 12, title = "That’s Where You’re Wrong", mbid = "02ee73c1-5096-4274-bcfe-b3a0a1977045" },
+]
+
+[[release]]
+mbid = "52590425-f06a-428b-aa48-33221b972a15"
+title = "The Hellcat Spangled Shalalala"
+type = "single"
+date = "2011-08-15"
+spotify = "0wVEwVKvHDcJQW1YvNX0GS"
+tracks = [
+  { n = 1, title = "The Hellcat Spangled Shalalala", mbid = "f9366bfc-0ec9-4c4a-9694-96e6089e212f" },
+  { n = 2, title = "Little Illusion Machine (Wirral Riddler)", mbid = "7b598a4d-d85f-488f-b852-73c60d8558ab" },
+]
+
+[[release]]
+mbid = "1bcf44ae-65ba-4899-bdd4-f5e5630a1bb6"
+title = "Suck It and See"
+type = "single"
+date = "2011-10-31"
+spotify = "7wq5vhqramVPzjArlmr70k"
+tracks = [
+  { n = 1, title = "Suck It and See", mbid = "42bf58b4-9a5d-46e7-83b4-bb0c398ea114" },
+  { n = 2, title = "Evil Twin", mbid = "d02ebf0a-cb19-494f-9257-1727202e8f50" },
+]
+
+[[release]]
+mbid = "ad4204e4-dc65-4248-96f2-7aff13276042"
+title = "Black Treacle"
+type = "single"
+date = "2012-01-23"
+spotify = "0sGnORTiSRPQyLSPWwZcBE"
+tracks = [
+  { n = 1, title = "Black Treacle", mbid = "3a898c20-75f6-42ac-84d8-51ff5d33e324" },
+  { n = 2, title = "You and I", mbid = "cebdd363-cae0-4f6e-b338-56ec35b88d27" },
+]
+
+[[release]]
+mbid = "e78e8036-0315-405a-bb94-169abd33d121"
+title = "R U Mine?"
+type = "single"
+date = "2012-02-27"
+spotify = "4ki3TBqU3l13iWWqb5RKb1"
+tracks = [
+  { n = 1, title = "R U Mine?", mbid = "64745b72-5bc8-43a9-a2a3-0d20afd42d5d" },
+]
+
+[[release]]
+mbid = "a348ba2f-f8b3-4686-b928-e63d8d94d543"
+title = "AM"
+type = "album"
+date = "2013-01-01"
+spotify = "6645HGh7ZOZSUTpqW9iYLR"
+tracks = [
+  { n = 1, title = "Do I Wanna Know?", mbid = "f1e57531-e0df-4b3e-938f-1ae30c5b1a11" },
+  { n = 2, title = "R U Mine?", mbid = "c99bc041-5d23-4a8e-a767-7c7847d24896" },
+  { n = 3, title = "One for the Road", mbid = "42f81b9d-4b96-4480-ab22-31ab3d602d42" },
+  { n = 4, title = "Arabella", mbid = "36569a1a-55c5-4bc4-ae12-46e49df94921" },
+  { n = 5, title = "I Want It All", mbid = "86c8c108-a134-467e-ab0f-4f867c2acfac" },
+  { n = 6, title = "No.1 Party Anthem", mbid = "52ba3e3d-157f-400a-a603-6fb00ba3968c" },
+  { n = 7, title = "Mad Sounds", mbid = "eaa22014-18b8-4de2-8383-f69ee50c6a2f" },
+  { n = 8, title = "Fireside", mbid = "8b748c98-ce3d-4f18-8ead-5d3310bda6ef" },
+  { n = 9, title = "Why’d You Only Call Me When You’re High?", mbid = "4c986184-424a-44bb-ad23-b6261f3d044f" },
+  { n = 10, title = "Snap Out of It", mbid = "adadc047-e040-45d5-b020-0603db0d69dc" },
+  { n = 11, title = "Knee Socks", mbid = "e756875e-cc4f-4744-a7b8-c68ee96978fb" },
+  { n = 12, title = "I Wanna Be Yours", mbid = "a1ff202f-f271-4646-9aac-ba7c98e3a50c" },
+]
+
+[[release]]
+mbid = "aa5db513-c948-4ed1-a86c-58c58d456af7"
+title = "Do I Wanna Know?"
+type = "single"
+date = "2013-06-20"
+spotify = "4GUJZkkzr14B7Eqwi6RD8B"
+tracks = [
+  { n = 1, title = "Do I Wanna Know?", mbid = "f1e57531-e0df-4b3e-938f-1ae30c5b1a11" },
+]
+
+[[release]]
+mbid = "5f84b413-9027-45ac-baec-4c6d235f3a45"
+title = "Why’d You Only Call Me When You’re High?"
+type = "single"
+date = "2013-08-11"
+spotify = "0SlR6pLgIqWFUkuUfbNbm0"
+tracks = [
+  { n = 1, title = "Why’d You Only Call Me When You’re High?", mbid = "4c986184-424a-44bb-ad23-b6261f3d044f" },
+  { n = 2, title = "Stop the World I Wanna Get Off With You", mbid = "ecc8cfec-6a43-4f0f-9a50-e1c4225581bc" },
+]
+
+[[release]]
+mbid = "d9653ca1-fb47-4205-97b1-cc705e065281"
+title = "One for the Road"
+type = "single"
+date = "2013-12-09"
+spotify = "7FwV5ibe9JVQZvnR9brOz2"
+tracks = [
+  { n = 1, title = "One for the Road", mbid = "42f81b9d-4b96-4480-ab22-31ab3d602d42" },
+  { n = 2, title = "You’re So Dark", mbid = "1490b845-cc56-465a-9947-8952085be9d1" },
+]
+
+[[release]]
+mbid = "02c98860-3381-46f1-995f-d2dd8384367d"
+title = "Spotify Singles"
+type = "single"
+date = "2018-05-01"
+spotify = "0zKfApbjSv6TcWCvWtJf2q"
+tracks = [
+  { n = 1, title = "Four Out of Five", mbid = "6f398340-e3f6-4e65-8fcc-228a462e5f20" },
+  { n = 2, title = "-", mbid = "de0a59f1-a937-47da-9109-9392d3b69e17" },
+]
+
+[[release]]
+mbid = "97ee3a0f-183b-4830-aa5c-45507a084d37"
+title = "Tranquility Base Hotel & Casino"
+type = "album"
+date = "2018-05-11"
+spotify = "7v6FNgLDS8KmaWA1amUtqe"
+tracks = [
+  { n = 1, title = "Star Treatment", mbid = "c4540caa-9f07-4a2f-a95f-c4a9e7356fd1" },
+  { n = 2, title = "One Point Perspective", mbid = "71613e9d-535a-4a8d-bc6d-1bfc9acc2999" },
+  { n = 3, title = "American Sports", mbid = "f64f0e47-3da2-4389-aecc-624e55af5b35" },
+  { n = 4, title = "Tranquility Base Hotel + Casino", mbid = "5e6711e2-d8cf-403a-8ac5-4994e3f2f9f7" },
+  { n = 5, title = "Golden Trunks", mbid = "e286e5cd-d8fb-419b-96f6-fc000dee2888" },
+  { n = 6, title = "Four Out of Five", mbid = "509742f6-6b34-4dd9-9f8c-d4112e283d4e" },
+  { n = 7, title = "The World's First Ever Monster Truck Front Flip", mbid = "926d2a04-0306-4cd5-82b6-d4647f10cd73" },
+  { n = 8, title = "Science Fiction", mbid = "e35f0788-05f5-40e5-acfa-bad6b4f20750" },
+  { n = 9, title = "She Looks Like Fun", mbid = "ec1c4a36-fa36-4628-8d40-77f59e6d1d56" },
+  { n = 10, title = "Batphone", mbid = "dac8e2fc-b38d-44c5-a444-c4ebded524a4" },
+  { n = 11, title = "The Ultracheese", mbid = "a88328d6-78c0-4c33-b3f6-ce27169ec03c" },
+]
+
+[[release]]
+mbid = "22afb454-80b4-4fff-89f2-44cd70fcd112"
+title = "Tranquility Base Hotel + Casino"
+type = "single"
+date = "2018-11-30"
+tracks = [
+  { n = 1, title = "Tranquility Base Hotel + Casino", mbid = "5e6711e2-d8cf-403a-8ac5-4994e3f2f9f7" },
+  { n = 2, title = "Anyways", mbid = "9a9652e5-be62-4fea-bad9-f51de3b91afd" },
+]
+
+[[release]]
+mbid = "55a25599-0699-4582-8730-04624a7c012d"
+title = "There’d Better Be a Mirrorball"
+type = "single"
+date = "2022-08-29"
+spotify = "6VFHU5EnBGKQI19piyGQSZ"
+tracks = [
+  { n = 1, title = "There’d Better Be a Mirrorball", mbid = "dc92e01a-6e65-4963-baf4-e0941fc0ccbc" },
+]
+
+[[release]]
+mbid = "9b491514-85ba-427a-8a09-f83db165eb6d"
+title = "Body Paint"
+type = "single"
+date = "2022-09-29"
+spotify = "0AtlEQ56o0yKOd9qM1EBp0"
+tracks = [
+  { n = 1, title = "Body Paint", mbid = "400ac608-dba9-497f-a541-e5fa8a86e7ce" },
+]
+
+[[release]]
+mbid = "7b6a727a-fd38-4d4d-ae39-ba8391cba5a8"
+title = "I Ain’t Quite Where I Think I Am"
+type = "single"
+date = "2022-10-18"
+spotify = "0dxGmLHu5XlIFvtlhQtuJm"
+tracks = [
+  { n = 1, title = "I Ain’t Quite Where I Think I Am", mbid = "6f55de98-b0d8-483e-bb82-9ff053e5fbca" },
+  { n = 2, title = "Body Paint", mbid = "54b7a7f8-4020-4b66-b7a0-558a2a73cf15" },
+  { n = 3, title = "There’d Better Be a Mirrorball", mbid = "dc92e01a-6e65-4963-baf4-e0941fc0ccbc" },
+]
+
+[[release]]
+mbid = "249d7049-7d56-497b-abfe-464e3c535daf"
+title = "The Car"
+type = "album"
+date = "2022-10-21"
+spotify = "1kqHAucTGT1dJAtNXY8QDW"
+tracks = [
+  { n = 1, title = "There’d Better Be a Mirrorball", mbid = "dc92e01a-6e65-4963-baf4-e0941fc0ccbc" },
+  { n = 2, title = "I Ain’t Quite Where I Think I Am", mbid = "6f55de98-b0d8-483e-bb82-9ff053e5fbca" },
+  { n = 3, title = "Sculptures of Anything Goes", mbid = "0c889f57-0a42-4ec6-bdf9-af435a9ec374" },
+  { n = 4, title = "Jet Skis on the Moat", mbid = "27b7a84f-ba29-46ab-9fcb-cac2743229a9" },
+  { n = 5, title = "Body Paint", mbid = "54b7a7f8-4020-4b66-b7a0-558a2a73cf15" },
+  { n = 6, title = "The Car", mbid = "6ae2d36d-c769-4d0c-8a08-72969d6b5319" },
+  { n = 7, title = "Big Ideas", mbid = "45e4b561-2e9a-4b79-a7ef-7ea2ec29185b" },
+  { n = 8, title = "Hello You", mbid = "3602d0e8-abec-478c-a29d-aa2b55150141" },
+  { n = 9, title = "Mr Schwartz", mbid = "5b6560af-4c94-497d-864d-85ba3740b786" },
+  { n = 10, title = "Perfect Sense", mbid = "1bf473a0-1796-474e-8067-a9981e54118f" },
+]
+
+[[release]]
+mbid = "729b1504-fa23-4bec-9626-7b4947920627"
+title = "Opening Night"
+type = "single"
+date = "2026-01-22"
+spotify = "0Q6JVakLI4J5kvjX2uW38i"
+tracks = [
+  { n = 1, title = "Opening Night", mbid = "8c2e8f32-3176-445d-ad29-9e81c51c3e5b" },
+]

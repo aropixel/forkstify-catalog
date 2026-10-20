@@ -1,0 +1,799 @@
+format = 1
+artists = [
+  "fb7272ba-f130-4f0a-934d-6eeea4c18c9a",  # Al Green
+  "d60ba315-adbe-42b2-a82b-b6839c5505fb",  # Al Green & the Soul Mates
+]
+
+[[release]]
+mbid = "2b1c347c-2caf-305a-8675-f035f54e48d7"
+title = "Back Up Train"
+type = "album"
+date = "1967"
+spotify = "41W73CzTeFwxX6xJhZ0xCr"
+tracks = [
+  { n = 1, title = "Back Up Train", mbid = "a56daecc-7c75-42f9-a7c2-fd70796d3beb" },
+  { n = 2, title = "Hot Wire", mbid = "36f77401-4181-43eb-9bde-72a0c7af96f4" },
+  { n = 3, title = "Stop & Check Myself", mbid = "e8ed95c8-57ef-491c-b0f2-089edd83cc92" },
+  { n = 4, title = "Let Me Help You", mbid = "799d3da3-e006-4048-9d56-05be27f8713c" },
+  { n = 5, title = "I'm Reachin' Out", mbid = "dc0ff741-ce35-484b-b1ee-b1ad0cc24b86" },
+  { n = 6, title = "Don't Hurt Me No More", mbid = "7e7fb0ec-8f12-4676-960c-62090a3ac348" },
+  { n = 7, title = "Don't Leave Me", mbid = "41a5021d-8bcd-41ec-b0a7-8a66667e7a71" },
+  { n = 8, title = "I'll Be Good to You", mbid = "3cbc7eb3-fc69-4298-a11e-387f5780f8a5" },
+  { n = 9, title = "Guilty", mbid = "41ab4a4d-f974-4f6f-9a8d-1eed44da983b" },
+  { n = 10, title = "That's All It Takes (Lady)", mbid = "c496c9a9-2134-4f67-bed0-38d10c7345c6" },
+  { n = 11, title = "Get Yourself Together", mbid = "aeebbd42-73ee-4c90-b7f5-41e1822e1951" },
+  { n = 12, title = "What's It All About", mbid = "6be8f7ae-4f0a-4201-b82d-63d56838e601" },
+  { n = 13, title = "A Lover's Hideaway", mbid = "7bbe059d-212a-4855-a3cf-c109483d7214" },
+]
+
+[[release]]
+mbid = "e235aa01-8e18-423b-9a11-9631a59e712d"
+title = "I Want to Hold Your Hand / What Am I Going to Do With Myself"
+type = "single"
+date = "1969-04"
+tracks = [
+  { n = 1, title = "I Want to Hold Your Hand", mbid = "da90942e-10a8-43a3-81e8-668660460f52" },
+  { n = 2, title = "What Am I Going to Do With Myself", mbid = "23f04c04-1d01-461f-b2c6-cfc8a035bbef" },
+]
+
+[[release]]
+mbid = "bb470ae4-c95c-3743-ad15-59b6ff5ddf3d"
+title = "Green Is Blues"
+type = "album"
+date = "1969-04-15"
+spotify = "1qJYJXvBhADUYao9hl8Fnz"
+tracks = [
+  { n = 1, title = "One Woman", mbid = "63bf5403-bc99-46c2-b98c-48156d46dd6a" },
+  { n = 2, title = "Talk to Me", mbid = "56c500e4-168e-41e6-90db-8152d4f2c131" },
+  { n = 3, title = "My Girl", mbid = "8bf64674-7401-4b0e-8af4-ecf2036ced31" },
+  { n = 4, title = "The Letter", mbid = "ddd8f8d3-126c-41cb-b4c9-44a928a0e878" },
+  { n = 5, title = "I Stand Accused", mbid = "94ff2ca2-46bc-45a9-b0bd-8d7deb134789" },
+  { n = 6, title = "Gotta Find a New World", mbid = "4d15ae0e-f9b1-436c-a026-568688c0c21b" },
+  { n = 7, title = "What Am I Gonna Do With Myself?", mbid = "7604d947-4574-4dcb-8d54-5c99ffa59565" },
+  { n = 8, title = "Tomorrow's Dream", mbid = "74fafdd7-8652-4115-a10b-d8bd710944ae" },
+  { n = 9, title = "Get Back Baby", mbid = "ac796bde-6d74-4800-87a1-36cb814cff2b" },
+  { n = 10, title = "Get Back", mbid = "77003db3-c1f8-4465-86f7-b2ab4e002d50" },
+  { n = 11, title = "Summertime", mbid = "0eb5c108-5d32-4945-b842-a1679417991e" },
+]
+
+[[release]]
+mbid = "537b8b23-03b4-42e8-8a75-785cac876161"
+title = "I Can't Get Next to You / Ride Sally Ride"
+type = "single"
+date = "1970-11"
+tracks = [
+  { n = 1, title = "I Can't Get Next to You", mbid = "5fbba1d8-824f-4975-869d-d32f87fcf17b" },
+  { n = 2, title = "Ride Sally Ride", mbid = "ded00aee-2dff-4746-9a69-addc173354a5" },
+]
+
+[[release]]
+mbid = "4a24714c-35f4-48fb-ab2d-bb5d46e53e9f"
+title = "Drivin' Wheel / True Love"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Drivin' Wheel", mbid = "5a163626-9054-438a-aa87-b2bd39d1c95c" },
+  { n = 2, title = "True Love", mbid = "60061df7-833c-46b8-86c2-2fdd892a653c" },
+]
+
+[[release]]
+mbid = "67e40ce4-99db-48d5-8dec-197be136d06f"
+title = "Tired of Being Alone / Get Back Baby"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Tired of Being Alone", mbid = "83742f27-e890-4181-89ec-c377f2f20026" },
+  { n = 2, title = "Get Back Baby", mbid = "29d907f7-846f-4fdc-bedd-39079e7a493f" },
+]
+
+[[release]]
+mbid = "b34344c3-5e1b-447e-b560-5ab0be36b9ee"
+title = "Tired of Being Alone / Right Now Right Now"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Tired of Being Alone", mbid = "831847b6-b1dc-4541-977b-f6591d094c77" },
+  { n = 2, title = "Right Now Right Now", mbid = "d5351955-34b1-4e4b-8e81-fc95ef3a2a1e" },
+]
+
+[[release]]
+mbid = "b1c9f375-77c4-353b-827e-3dea0cd048f6"
+title = "Gets Next to You"
+type = "album"
+date = "1971-08-14"
+spotify = "6A2T77SSF5TUglshWSQAiC"
+tracks = [
+  { n = 1, title = "I Can’t Get Next to You", mbid = "5fbba1d8-824f-4975-869d-d32f87fcf17b" },
+  { n = 2, title = "Are You Lonely for Me, Baby?", mbid = "3bc4de24-5d48-4ac5-bb10-5541a36c8a19" },
+  { n = 3, title = "God Is Standing By", mbid = "648c7c33-4f97-434c-a582-32f9a16f6c7c" },
+  { n = 4, title = "Tired of Being Alone", mbid = "cfa318d3-d3ab-48e7-9b78-4f3383ed0ddd" },
+  { n = 5, title = "I’m a Ram", mbid = "89f91320-47f3-4deb-98ed-253b27f0e821" },
+  { n = 6, title = "Driving Wheel", mbid = "02cdfd9f-92b6-4388-ac58-b0bcd5e0de8a" },
+  { n = 7, title = "Light My Fire", mbid = "d94cd6ec-32b7-4673-a60f-b711d97c52f5" },
+  { n = 8, title = "You Say It", mbid = "354368dd-2a98-460c-b0c5-d338086e454e" },
+  { n = 9, title = "Right Now, Right Now", mbid = "718c5033-096a-49ff-9af3-626629bfc88f" },
+  { n = 10, title = "All Because", mbid = "08db29b6-3131-4d3a-a0c8-ec319d2d0f59" },
+]
+
+[[release]]
+mbid = "7d786289-f439-43ef-b0ea-0ae5b7e87f95"
+title = "Let’s Stay Together / Tomorrow’s Dream"
+type = "single"
+date = "1971-11"
+tracks = [
+  { n = 1, title = "Let’s Stay Together", mbid = "b3384c19-483c-49ae-94d8-ec00ab56a25b" },
+  { n = 2, title = "Tomorrow’s Dream", mbid = "74fafdd7-8652-4115-a10b-d8bd710944ae" },
+]
+
+[[release]]
+mbid = "eed9ffe2-5731-3b9a-9906-01728a083d1d"
+title = "Let’s Stay Together"
+type = "album"
+date = "1972-01-31"
+spotify = "58eMx3QrTkiRmGGbSz2XL0"
+tracks = [
+  { n = 1, title = "Let's Stay Together", mbid = "b3384c19-483c-49ae-94d8-ec00ab56a25b" },
+  { n = 2, title = "I've Never Found a Girl", mbid = "d9185980-0d1d-4bc4-b143-b6ab35a026b5" },
+  { n = 3, title = "So You're Leaving", mbid = "e5a79ad3-c6f1-49cd-8ab6-e93ad3943662" },
+  { n = 4, title = "It Ain't No Fun to Me", mbid = "e50ed4ce-9843-4ab2-9f76-499cfc8c0ff9" },
+  { n = 5, title = "Talk To Me Talk To Me", mbid = "62e77574-d335-4275-ae37-99dadae1274a" },
+  { n = 6, title = "Old Time Lovin'", mbid = "f7f15bd7-033b-4df0-a0b3-903340646f3a" },
+  { n = 7, title = "Judy", mbid = "ed27054a-94df-46f1-bf0b-9cef6359731b" },
+  { n = 8, title = "What Is This Feeling", mbid = "79736849-bd3e-4d9b-86f7-99f43df84601" },
+  { n = 9, title = "Tomorrows Dream", mbid = "28c6531e-157a-4603-8773-9ea89001c23b" },
+  { n = 10, title = "How Can You Mend a Broken Heart?", mbid = "10ca4e52-f7b4-451c-a907-c6216121726a" },
+  { n = 11, title = "La-La for You", mbid = "c127f78b-2744-4871-aed7-84225b8518ae" },
+]
+
+[[release]]
+mbid = "5e8faacc-be55-41b6-8b0b-a5b4ba1edc99"
+title = "You Ought to Be With Me / What Is This Feeling"
+type = "single"
+date = "1972-10"
+tracks = [
+  { n = 1, title = "You Ought to Be With Me", mbid = "4e4c6d1a-13a7-479b-9645-5ab1cce2deec" },
+  { n = 2, title = "What Is This Feeling", mbid = "79736849-bd3e-4d9b-86f7-99f43df84601" },
+]
+
+[[release]]
+mbid = "4a40960b-44b3-313c-8540-cde054d41bd9"
+title = "I’m Still in Love With You"
+type = "album"
+date = "1972-10-23"
+spotify = "7hI0QCwcx9GB8MZK24IfTT"
+tracks = [
+  { n = 1, title = "I’m Still in Love With You", mbid = "cdac1a50-8ba6-4edd-8137-618928580d38" },
+  { n = 2, title = "I’m Glad You’re Mine", mbid = "5e565603-9a47-4ad2-bb28-c727b70b6fe0" },
+  { n = 3, title = "Love and Happiness", mbid = "eed211fe-122d-4c48-ace0-f85aab5d5ade" },
+  { n = 4, title = "What a Wonderful Thing Love Is", mbid = "64399625-45d3-47bb-ad78-91b40764bb91" },
+  { n = 5, title = "Simply Beautiful", mbid = "209c122a-c3d5-4492-82c5-2f1350dfba42" },
+  { n = 6, title = "Oh, Pretty Woman", mbid = "1473b0bc-05b4-4951-b80d-4b4f01de89f3" },
+  { n = 7, title = "For the Good Times", mbid = "9262a2c6-f543-4eb5-bb61-995deee78e44" },
+  { n = 8, title = "Look What You Done for Me", mbid = "017ee9fa-8d9d-4a51-82d1-47420fa9e402" },
+  { n = 9, title = "One of These Good Old Days", mbid = "83f06455-c0d5-4321-a0e4-89b7e249e6c0" },
+]
+
+[[release]]
+mbid = "edafb37c-f392-3765-9dbd-80616dcb2ad7"
+title = "Call Me"
+type = "album"
+date = "1973-07-18"
+spotify = "1hryVGXoRLV9WAhO97xEDJ"
+tracks = [
+  { n = 1, title = "Call Me (Come Back Home)", mbid = "5014c79b-9313-408f-92e5-04bfc136a4ee" },
+  { n = 2, title = "Have You Been Making out Ok", mbid = "49772377-0601-4252-aec5-8904608eebf0" },
+  { n = 3, title = "Stand Up", mbid = "d42e25b9-c0e0-4e7f-b58e-d559334f955c" },
+  { n = 4, title = "I'm so Lonesome I Could Cry", mbid = "e5345734-7ced-4237-b361-9f8e5da3b6e8" },
+  { n = 5, title = "Your Love Is Like the Morning Sun", mbid = "4f4362ad-3247-46a6-807f-61d3fe5e4c58" },
+  { n = 6, title = "Here I Am (Come and Take Me)", mbid = "e172e981-c6ba-4afb-ba5a-abab58ba1303" },
+  { n = 7, title = "Funny How Time Slips Away", mbid = "22e26c25-35e3-47ed-a3cf-6bcb5d7ff81c" },
+  { n = 8, title = "You Ought to Be with Me", mbid = "82d8a5c8-6786-4740-8b5c-bac75e27a86c" },
+  { n = 9, title = "Jesus Is Waiting", mbid = "780a390c-dbbf-4d93-9c76-7d8ca90500ad" },
+]
+
+[[release]]
+mbid = "0b74e129-e104-329f-83bd-e4fa9a323dfd"
+title = "Livin’ for You"
+type = "album"
+date = "1973-12-06"
+tracks = [
+  { n = 1, title = "Livin' for You", mbid = "cbe994e4-7adb-4758-aa26-2a968a1fb2ef" },
+  { n = 2, title = "Home Again", mbid = "419f9db1-c7e5-42d4-8b64-0b891592110b" },
+  { n = 3, title = "Free at Last", mbid = "79abc77b-b5ad-4af5-b201-bfcc571e5cfa" },
+  { n = 4, title = "Let's Get Married", mbid = "04389479-9890-400c-acd5-661a57d8428c" },
+  { n = 5, title = "So Good to Be Here", mbid = "64742247-f2e4-4634-8fdb-e5d8d037287f" },
+  { n = 6, title = "Sweet Sixteen", mbid = "e2a9a94d-c318-4fe0-bea8-745e01efcbcc" },
+  { n = 7, title = "Unchained Melody", mbid = "88d2b6d4-578f-4a20-9bfe-9e1f352680bd" },
+  { n = 8, title = "My God Is Real", mbid = "4e1edd73-d2db-4fae-a69f-1d455e3427c8" },
+  { n = 9, title = "Beware", mbid = "059281f4-9d09-46bf-8c2d-7ca10298ba25" },
+]
+
+[[release]]
+mbid = "8e99a803-d2b3-4a7e-bc93-b016788132df"
+title = "Sha-la-la (Make Me Happy) / School Days"
+type = "single"
+date = "1974"
+tracks = [
+  { n = 1, title = "Sha-la-la (Make Me Happy)", mbid = "1ddfc2f3-a245-494b-bc5b-5dbfbe910fb1" },
+  { n = 2, title = "School Days", mbid = "80e5a4e6-5f3f-4777-a4f3-a28808611a0e" },
+]
+
+[[release]]
+mbid = "ce3619a4-18a9-3dea-bc34-2e4cb9c8151d"
+title = "Explores Your Mind"
+type = "album"
+date = "1974-10-02"
+tracks = [
+  { n = 1, title = "Sha-La-La (Make Me Happy)", mbid = "17e09a34-59db-4d4e-9b76-25ba12755f8d" },
+  { n = 2, title = "Take Me to the River", mbid = "8b7791f8-684e-4025-a07e-3193900e77ad" },
+  { n = 3, title = "God Blessed Our Love", mbid = "a2d270ba-dda8-4a5b-af82-896ced07c94d" },
+  { n = 4, title = "The City", mbid = "e6e04577-793a-4ee0-bc96-56af09bc0d96" },
+  { n = 5, title = "One Nite Stand", mbid = "fc1866a1-c5be-4321-9a0e-6849798b46e1" },
+  { n = 6, title = "I'm Hooked on You", mbid = "9ef9f564-0eff-4651-9042-5d6b0b5d19cf" },
+  { n = 7, title = "Stay With Me Forever", mbid = "9a49fa81-c39e-4df1-89b8-b37b7c91199f" },
+  { n = 8, title = "Hangin' On", mbid = "f047fcbb-5fc5-4b17-9606-fa56352d9006" },
+  { n = 9, title = "School Days", mbid = "2fe1b2e2-2d34-46b0-8886-5a44ed1d6a21" },
+]
+
+[[release]]
+mbid = "ddea18e4-63d3-4bbd-813d-d8a13163319a"
+title = "Oh Me Oh My (Dreams in My Arms) / Strong as Death (Sweet as Love)"
+type = "single"
+date = "1975"
+tracks = [
+  { n = 1, title = "Oh Me, Oh My (Dreams in My Arms)", mbid = "86f07300-239d-429b-a875-d06ef5203fd0" },
+  { n = 2, title = "Strong as Death (Sweet as Love)", mbid = "103de642-0ca6-4c53-932f-4472676c7ffa" },
+]
+
+[[release]]
+mbid = "19d82181-5121-465b-9e2a-35806a22dfa1"
+title = "L-O-V-E- (Love) / Wish You Were Here"
+type = "single"
+date = "1975-02-19"
+tracks = [
+  { n = 1, title = "L-O-V-E- (Love)", mbid = "25c34046-58ae-4399-91c4-41980c624cf2" },
+  { n = 2, title = "Wish You Were Here", mbid = "8901ce1c-dc1b-4011-9833-183e7005daf4" },
+]
+
+[[release]]
+mbid = "00bbee37-dec2-3ca6-94d3-59f749045e7e"
+title = "Al Green Is Love"
+type = "album"
+date = "1975-08"
+tracks = [
+  { n = 1, title = "L-O-V-E (Love)", mbid = "25c34046-58ae-4399-91c4-41980c624cf2" },
+  { n = 2, title = "Rhymes", mbid = "86f78965-7380-4644-b13c-3ad2cd5c7bac" },
+  { n = 3, title = "The Love Sermon", mbid = "253e9118-1fc4-47d1-928c-94c8327e47fc" },
+  { n = 4, title = "There Is Love", mbid = "a233d4ee-8381-478f-9610-5dbc0a56bb95" },
+  { n = 5, title = "Could I Be the One", mbid = "d90b46ef-fa2e-4c88-a7be-f3d2089184b6" },
+  { n = 6, title = "Love Ritual", mbid = "333f6c74-ebd3-41c9-84ed-4ab6d1a008ca" },
+  { n = 7, title = "I Didn't Know", mbid = "c206f846-e4e7-40c4-bd38-476dc234664e" },
+  { n = 8, title = "Oh Me, Oh My (Dreams in My Arms)", mbid = "86f07300-239d-429b-a875-d06ef5203fd0" },
+  { n = 9, title = "I Gotta Be More", mbid = "943e0db0-4294-49bb-bf6d-f6b2d51c08b1" },
+  { n = 10, title = "I Wish You Were Here", mbid = "4b47aa2c-f238-4fad-a995-50418c237373" },
+]
+
+[[release]]
+mbid = "a0d60f43-7b12-362d-aa7d-17650ec43bc7"
+title = "Full of Fire"
+type = "album"
+date = "1976"
+spotify = "7xJMfmNxtoroW2hh9LOLMa"
+tracks = [
+  { n = 1, title = "Glory, Glory", mbid = "f058d086-8f61-4fa5-8a48-0bf9d743e688" },
+  { n = 2, title = "That’s the Way It Is", mbid = "9a356096-7dcc-49d2-a6eb-8c0f613093e9" },
+  { n = 3, title = "Always", mbid = "77830091-631c-4ae3-9be7-0a4c53855e5b" },
+  { n = 4, title = "There’s No Way", mbid = "703f8ded-0a1f-46dc-937c-7a9a89751b1c" },
+  { n = 5, title = "I’d Fly Away", mbid = "08096d08-9233-4a6a-9d89-cfee76cf884f" },
+  { n = 6, title = "Full of Fire", mbid = "a838cfb0-5070-4018-a922-0284216870bb" },
+  { n = 7, title = "Together Again", mbid = "ef4cad4d-f2d0-44e0-8ab4-a384c06efc31" },
+  { n = 8, title = "Soon as I Get Home", mbid = "80eb14b2-b364-4b92-b44a-d0b3ac6e1dec" },
+  { n = 9, title = "Let It Shine", mbid = "7c5e4e94-a019-42eb-9172-e76683e4565b" },
+]
+
+[[release]]
+mbid = "729e717b-7f46-3742-9938-ff10b4cef502"
+title = "Have a Good Time"
+type = "album"
+date = "1976"
+tracks = [
+  { n = 1, title = "Keep Me Crying", mbid = "d8f615b6-a762-4802-accb-f306f3d2bef8" },
+  { n = 2, title = "Smile a Little Bit More", mbid = "97103439-8ea7-44f2-9e98-55166e605bfd" },
+  { n = 3, title = "I Tried to Tell Myself", mbid = "a8e92ed5-c73e-463b-9539-df3e112d49a3" },
+  { n = 4, title = "Something", mbid = "3732cd94-c2cb-4edc-abd8-00854b12e0f9" },
+  { n = 5, title = "The Truth Marches On", mbid = "fb4956b6-1cdf-4f01-8f48-ce52dc836b26" },
+  { n = 6, title = "Have a Good Time", mbid = "74576630-a46d-49a3-9eb4-c018d5df478a" },
+  { n = 7, title = "Nothing Takes the Place of You", mbid = "531d0cb1-4a87-49f8-a126-1cb07d6b446b" },
+  { n = 8, title = "Happy", mbid = "3d5e7429-37e7-4f79-9cb2-9bd143865205" },
+  { n = 9, title = "Hold on Forever", mbid = "d01c34b0-0bc6-4223-ba4b-eb7c207a035d" },
+]
+
+[[release]]
+mbid = "9517cce4-7416-44ae-81a3-b5ed6a700102"
+title = "Belle / Chariots of Fire"
+type = "single"
+date = "1977-11"
+tracks = [
+  { n = 1, title = "Belle", mbid = "2cfbe1ee-91e8-429b-8ab1-fa9c52ea4ec4" },
+  { n = 2, title = "Chariots of Fire", mbid = "b71e147d-8bee-42e8-88e2-ea571a426621" },
+]
+
+[[release]]
+mbid = "4d8ba551-d676-32e4-a4a9-4fa5902dc6b0"
+title = "The Belle Album"
+type = "album"
+date = "1977-12-06"
+tracks = [
+  { n = 1, title = "Belle", mbid = "abfcd4c3-513d-4c19-ad0a-0e10cbed4b02" },
+  { n = 2, title = "Loving You", mbid = "a99a8135-a57b-405f-b920-178a2865c497" },
+  { n = 3, title = "Feels Like Summer", mbid = "5d321389-98b3-4c36-a3f9-062145804787" },
+  { n = 4, title = "Georgia Boy", mbid = "0b5bc6a0-b121-4df8-b6df-44f7f363edd6" },
+  { n = 5, title = "I Feel Good", mbid = "ced9066b-c5f7-4db5-bd2e-3c0c96641e40" },
+  { n = 6, title = "All n All", mbid = "938d9de1-671e-468d-bb75-513f40932dce" },
+  { n = 7, title = "Chariots of Fire", mbid = "767e71f0-d21f-445d-abff-aa3f01695643" },
+  { n = 8, title = "Dream", mbid = "e003ed25-8ff9-44c5-bc64-c30486b2363d" },
+]
+
+[[release]]
+mbid = "7185b45e-1596-4954-a4b0-da163044c91f"
+title = "I Feel Good / Feels Like Summer"
+type = "single"
+date = "1978"
+tracks = [
+  { n = 1, title = "I Feel Good", mbid = "fbbbb9e4-345d-4fef-b596-44df69cf63e9" },
+  { n = 2, title = "Feels Like Summer", mbid = "361d9d79-b3f4-4ad3-8247-a83516d467cb" },
+]
+
+[[release]]
+mbid = "51a59844-27b4-4f8a-95fc-7d95a9426fd7"
+title = "To Sir With Love / Wait Here"
+type = "single"
+date = "1978"
+tracks = [
+  { n = 1, title = "To Sir With Love", mbid = "4b82a556-171e-45dd-934b-7a68c8849250" },
+  { n = 2, title = "Wait Here", mbid = "86b1b990-462a-4328-ac87-ec20d403c887" },
+]
+
+[[release]]
+mbid = "e5601ee3-f328-318a-981a-0ba418a67fcd"
+title = "Truth n’ Time"
+type = "album"
+date = "1978"
+spotify = "7DKYWECMpNS2fepnrtN55W"
+tracks = [
+  { n = 1, title = "Blow Me Down", mbid = "a681b47a-6aa6-4922-8d16-2fe5424d3160" },
+  { n = 2, title = "Lo and Behold", mbid = "b2f67e2f-92e1-496b-a0e8-7a93771a25f4" },
+  { n = 3, title = "Wait Here", mbid = "86b1b990-462a-4328-ac87-ec20d403c887" },
+  { n = 4, title = "To Sir with Love", mbid = "4b82a556-171e-45dd-934b-7a68c8849250" },
+  { n = 5, title = "Truth N' Time", mbid = "0b963dbd-1f14-42c0-86fd-a36bbf8eb5c1" },
+  { n = 6, title = "King of All", mbid = "d9a48fa7-34f9-4ca1-b8e3-cf657b278dd2" },
+  { n = 7, title = "I Say a Little Prayer", mbid = "b2074b71-7a6d-40c6-8ed2-829e0b59ab46" },
+  { n = 8, title = "Happy Days", mbid = "005f5a3f-d8d5-4709-aa12-e7173cfde770" },
+]
+
+[[release]]
+mbid = "34bb16f6-98c2-4e2a-9dd6-ca5724cf59ae"
+title = "The Lord Will Make a Way"
+type = "album"
+date = "1980"
+spotify = "4NoiA9k1PwQ9M6Om0N29u9"
+tracks = [
+  { n = 1, title = "The Lord Will Make a Way", mbid = "79dad2c2-1c82-4275-8cac-defaa243af5d" },
+  { n = 2, title = "Pass Me Not", mbid = "fd0cfb47-a80f-42d1-9cac-aee2ecf840da" },
+  { n = 3, title = "Too Close", mbid = "977d4e68-b3a0-4537-8578-1fe4a47f9ebc" },
+  { n = 4, title = "Highway to Heaven", mbid = "133136b0-692b-455e-9bcd-a128e751044b" },
+  { n = 5, title = "Saved", mbid = "588e961d-f960-434e-98cb-d749a198e517" },
+  { n = 6, title = "None but the Righteous", mbid = "9cea4889-190d-4467-bb0a-9402ab436498" },
+  { n = 7, title = "In the Holy Name of Jesus", mbid = "d7d3c14f-3dec-409b-ae67-e3d425ab8bbe" },
+  { n = 8, title = "I Have a Friend Above All Others", mbid = "25b568a4-f0e3-476a-893d-a6ea305213ef" },
+  { n = 9, title = "Highway to Heaven (reprise)", mbid = "b8ce6f74-a540-49d9-8931-798d8afdca19" },
+]
+
+[[release]]
+mbid = "7131feb1-ac4c-40b8-b30e-543055da04f2"
+title = "Higher Plane"
+type = "album"
+date = "1981"
+spotify = "7z0EsZBNLIQudUpchIyWLz"
+tracks = [
+  { n = 1, title = "Higher Plane", mbid = "23f2b8f1-c402-469f-a4e9-9cfb5b5fc968" },
+  { n = 2, title = "People Get Ready", mbid = "ac89b6c8-dcee-444d-ad13-a3e0512ba737" },
+  { n = 3, title = "By My Side", mbid = "3b33cb12-ee89-4cb5-98b7-b9da0505a8c1" },
+  { n = 4, title = "The Spirit Might Come - On and On", mbid = "e66f1677-635b-44ea-a09e-0a8b47fc540d" },
+  { n = 5, title = "Where Love Rules", mbid = "1bcfe4f2-41c5-4fdd-9915-c875b10b77b0" },
+  { n = 6, title = "Amazing Grace", mbid = "fb7123ae-0211-422f-9eab-ef5fc529441c" },
+  { n = 7, title = "His Name Is Jesus", mbid = "123e56a2-51cf-46dd-8741-bebcec8710bf" },
+  { n = 8, title = "Battle Hymn of the Republic", mbid = "6c79bd1d-8088-4f1f-9481-6425fa872700" },
+]
+
+[[release]]
+mbid = "c34ea040-af94-372b-bb9e-436f709dca8c"
+title = "Precious Lord"
+type = "album"
+date = "1982"
+spotify = "07su16Rgh6gRQlJ65bgThM"
+tracks = [
+  { n = 1, title = "Precious Lord", mbid = "26c6021c-0647-4217-933e-47dffcb66648" },
+  { n = 2, title = "What A Friend We Have In Jesus", mbid = "1a72d5b8-f827-4cc2-9568-576179d4bfdd" },
+  { n = 3, title = "The Old Rugged Cross", mbid = "3293a2c3-a24f-4340-a377-485e3ce83bc0" },
+  { n = 4, title = "Morningstar", mbid = "342947cb-73fe-4e1a-a849-20f5cc2236b9" },
+  { n = 5, title = "How Great Thou Art", mbid = "555e9cba-9904-47d7-83a1-bf8e400d18d7" },
+  { n = 6, title = "Glory To His Name", mbid = "b465fef9-7076-45e1-938c-408b68631b0d" },
+  { n = 7, title = "Rock Of Ages", mbid = "7ca7cdb1-388e-464a-97da-db31d563d17c" },
+  { n = 8, title = "In The Garden", mbid = "dda7e81f-2b98-4291-9cb4-9e430d232b1b" },
+  { n = 9, title = "Hallelujah (I Just Want To Praise The Lord)", mbid = "d3b1a0d1-2925-4e10-b8db-e16ff43d81c3" },
+]
+
+[[release]]
+mbid = "21e3387f-936a-4c52-93b2-421b756b146b"
+title = "I'll Rise Again"
+type = "album"
+date = "1983"
+spotify = "2nGyCINVbzhVp2VRLUuB5x"
+tracks = [
+  { n = 1, title = "It Don't Take Much", mbid = "52282f43-c1c7-441e-8c71-3d8e1572be40" },
+  { n = 2, title = "Jesus Is Coming (Back Again)", mbid = "437c1aa8-e753-46e0-922d-6c1bb2679b77" },
+  { n = 3, title = "Leaning on the Everlasting Arms", mbid = "0626daab-7c90-4eae-b2af-1417aa7fbe74" },
+  { n = 4, title = "I Close My Eyes and Smile", mbid = "38dff079-b9c1-464e-92b5-986bec35a385" },
+  { n = 5, title = "Ocean Blue (I'll Rise Again)", mbid = "beb775ab-9455-41ae-a8af-9b04a127aac2" },
+  { n = 6, title = "Look at the Things That God Made", mbid = "ce8ecae9-9287-49e0-9b25-81e171cafc69" },
+  { n = 7, title = "I Just Can't Make It by Myself", mbid = "4968911a-0e57-415b-b14e-ba3cc981ae95" },
+  { n = 8, title = "I Know It Was the Blood", mbid = "b80cd836-eeb6-4dd7-8820-362ed9de3cb4" },
+  { n = 9, title = "Straighten Out Your Life", mbid = "37cdffb5-f8a7-414c-b0b9-68457c9ca65b" },
+]
+
+[[release]]
+mbid = "8fb3349f-ffdd-3e60-a627-d2a6cf7439ea"
+title = "White Christmas"
+type = "album"
+date = "1983"
+tracks = [
+  { n = 1, title = "White Christmas", mbid = "c9d04971-71f0-4864-a78f-a3b2613e3f2b" },
+  { n = 2, title = "The Christmas Song", mbid = "b75c48ef-4a0a-4f9e-b381-5f7421d8409d" },
+  { n = 3, title = "Winter Wonderland", mbid = "6356ed12-b554-4322-b287-c1ab0d10cf27" },
+  { n = 4, title = "I'll Be Home For Christmas", mbid = "eb6ae478-841a-44ae-b24d-2bbd218d419d" },
+  { n = 5, title = "Jingle Bells", mbid = "04db5444-de1a-41c2-8ea9-555850378385" },
+  { n = 6, title = "What Christmas Means to Me", mbid = "bd0ac396-6e0d-4c8f-a479-a574b026ae69" },
+  { n = 7, title = "Oh Holy Night", mbid = "01287547-ba93-41ed-b13a-8e734d5a77be" },
+  { n = 8, title = "Silent Night", mbid = "20218104-8768-479f-839a-4d696e170973" },
+  { n = 9, title = "It Feels Like Christmas", mbid = "f4e4b6ea-0ad1-4c1e-b1cb-a773f2ee541d" },
+]
+
+[[release]]
+mbid = "50e69ca5-1a37-4bfd-9965-bffc41e3632b"
+title = "Trust In God"
+type = "album"
+date = "1984"
+spotify = "1kEab68djjV70PBqMNdMN1"
+tracks = [
+  { n = 1, title = "Don’t It Make You Wanta Go Home", mbid = "87ef8739-219d-4829-bcb2-baebafbb8650" },
+  { n = 2, title = "Up the Ladder to the Roof", mbid = "e7541c15-677c-45c2-8589-60d948ca5134" },
+  { n = 3, title = "Ain’t No Mountain High Enough", mbid = "b95b7a4d-7c9a-4c4e-97e9-08c849a0391b" },
+  { n = 4, title = "Trust in God", mbid = "d7630704-3944-4a01-a43c-fb7cfb951934" },
+  { n = 5, title = "No Not One", mbid = "6dff1de9-a13f-4374-aceb-41054003758f" },
+  { n = 6, title = "Lean on Me", mbid = "73960a3c-3390-4500-a22b-a1bf9e444cf5" },
+  { n = 7, title = "Never Met Nobody Like You", mbid = "5419d779-2a24-4c6f-839f-5c38539ee939" },
+  { n = 8, title = "Holy Spirit", mbid = "02465e09-1690-4333-917f-470e8b596c83" },
+  { n = 9, title = "Trust in God (reprise)", mbid = "2edddf3c-17ed-4923-81a5-f524ddb0fd9d" },
+  { n = 10, title = "All We Need Is a Little More Love", mbid = "2afaf888-4ca2-4278-8eca-65a39be4e4f3" },
+]
+
+[[release]]
+mbid = "22fef41e-cc8f-40ca-bde4-add6077bb742"
+title = "Going Away / Building Up"
+type = "single"
+date = "1985"
+tracks = [
+  { n = 1, title = "Going Away", mbid = "679c9efc-97af-4443-9336-7ae07ade3620" },
+  { n = 2, title = "Building Up", mbid = "89bf1a04-3cc7-4d01-88c8-6a5b14cebfa1" },
+]
+
+[[release]]
+mbid = "32922e5a-2a87-331d-98c8-029f64bbd1ba"
+title = "He Is the Light"
+type = "album"
+date = "1985"
+spotify = "6oBIppW4xNz7psl1IpesJN"
+tracks = [
+  { n = 1, title = "Going Away", mbid = "81628a49-fd10-4199-ac02-afd91d18c1f1" },
+  { n = 2, title = "True Love", mbid = "f4a4ae07-bc75-4a85-b078-31e41281083a" },
+  { n = 3, title = "He Is the Light", mbid = "7fae0078-310e-4f29-821b-6fd4d10766a8" },
+  { n = 4, title = "I Feel Like Going On", mbid = "74f5614a-47fb-4f10-8324-298dd29ef4ae" },
+  { n = 5, title = "Be With Me Jesus", mbid = "50f2e06c-03a8-4bde-b64d-ba3a39964a15" },
+  { n = 6, title = "You Brought the Sunshine", mbid = "f033d149-ec16-43da-9591-5234a4684dbc" },
+  { n = 7, title = "Power", mbid = "01cff6a0-0632-4a5f-ac8f-2b608c37ad61" },
+  { n = 8, title = "Building Up", mbid = "9fcfbc0e-ba18-41b6-b133-9fea2441651d" },
+  { n = 9, title = "Nearer My God to Thee", mbid = "66958789-4207-4d91-9acc-1485cf94c2d8" },
+]
+
+[[release]]
+mbid = "e0e41615-3288-3eb6-affd-086b406cd15c"
+title = "Soul Survivor"
+type = "album"
+date = "1987"
+spotify = "517Rjd6Nxr6jDAXr9F97Am"
+tracks = [
+  { n = 1, title = "Everything’s Gonna Be Alright", mbid = "29199f7e-bf05-4733-bc04-19f871a4d8c4" },
+  { n = 2, title = "Jesus Will Fix It", mbid = "ef0f0be6-20c2-4be8-9bb4-dbda49904bcf" },
+  { n = 3, title = "You Know and I Know", mbid = "b9c5e8bf-623e-4ea1-91d5-64ef190a85ab" },
+  { n = 4, title = "Yield Not to Temptation", mbid = "b621a885-276a-4293-91bd-ea700bba9253" },
+  { n = 5, title = "So Real to Me", mbid = "2586b45e-0ce3-4c98-9fd2-9db0626059c1" },
+  { n = 6, title = "Soul Survivor", mbid = "fd2a12f9-bbd4-44cf-ad21-7150ffb6f38a" },
+  { n = 7, title = "You’ve Got a Friend", mbid = "25f9fdfb-24ab-42c4-95d9-2ce7a090d1ee" },
+  { n = 8, title = "He Ain’t Heavy", mbid = "0540176f-2f3e-4e62-a50d-b0fae70ee24b" },
+  { n = 9, title = "23rd Psalm", mbid = "ed882639-f8a1-4a1c-b432-a9c804c740ca" },
+]
+
+[[release]]
+mbid = "6944a6d7-2eb8-48c0-90dc-7e23d65c4564"
+title = "Let’s Stay Together"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Let’s Stay Together (extended version)", mbid = "df460b6a-453f-4e07-b5b9-45dfe52f741b" },
+  { n = 2, title = "I’m Still in Love With You", mbid = "cdac1a50-8ba6-4edd-8137-618928580d38" },
+  { n = 3, title = "You Ought to Be With Me", mbid = "8a57f1c3-a414-4e89-a0b5-de5c1b863366" },
+]
+
+[[release]]
+mbid = "7c672c15-08be-4260-ba36-042be41af7e0"
+title = "Put a Little Love in Your Heart"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Put a Little Love in Your Heart (7″ version with edits)", mbid = "9f23c61f-8c3c-4345-a316-8b7b69b5c55a" },
+  { n = 2, title = "Put a Little Love in Your Heart (instrumental)", mbid = "0f99b797-2f6a-477a-ae90-4d359c5a1d25" },
+  { n = 3, title = "Put a Little Love in Your Heart (vocal mix)", mbid = "a1af7a1f-40c6-4e86-b6cb-60f9a55ec1a7" },
+]
+
+[[release]]
+mbid = "02a8279c-8646-307a-bb85-4e70f3c8a9b8"
+title = "I Get Joy"
+type = "album"
+date = "1989"
+tracks = [
+  { n = 1, title = "You’re Everything to Me", mbid = "4b3b2110-a0ba-4910-b491-1fec33cb9119" },
+  { n = 2, title = "All My Praise", mbid = "2b3bb140-09fb-47df-ae65-54c9d5ea1f18" },
+  { n = 3, title = "The End Is Near", mbid = "ec53d0a8-0297-4115-aef3-78aadf470800" },
+  { n = 4, title = "Mighty Cloud of Joy", mbid = "4e899b03-67c3-4616-8c37-5ee3dc2e91ee" },
+  { n = 5, title = "I Get Joy", mbid = "4f158d0c-ea6a-492c-8e62-f0bae6a0b462" },
+  { n = 6, title = "As Long as We’re Together", mbid = "eb58a1cf-6ea6-4520-8a1b-22635a8dc4c2" },
+  { n = 7, title = "Praise Him", mbid = "39b9c0a2-000f-478a-884e-d87fcd8286dd" },
+  { n = 8, title = "Blessed", mbid = "aedd0373-febe-476f-b36f-9ceffde4e6fd" },
+  { n = 9, title = "Tryin’ to Do the Best I Can", mbid = "88fe60bc-dbb8-44d5-b007-fab79ae76034" },
+  { n = 10, title = "Tryin’ to Get Over You", mbid = "dc460937-28cc-491a-9a07-74ea26c3f0e4" },
+]
+
+[[release]]
+mbid = "e6337621-2ec5-3a85-87a2-e87160508796"
+title = "Love Is Reality"
+type = "album"
+date = "1992-03-10"
+spotify = "5WUiXkkCDGezWDiMxQgH0z"
+tracks = [
+  { n = 1, title = "I Can Feel It", mbid = "aebff2c2-b3a7-41a8-8258-f6e22ee115db" },
+  { n = 2, title = "Love Is Reality", mbid = "6b687c21-2590-466a-bdfa-155e6d81c167" },
+  { n = 3, title = "Just Can't Let You Go", mbid = "82468256-e13f-4ae7-9bfa-62120d270b3c" },
+  { n = 4, title = "You Don't Know Me", mbid = "b7af97a1-bb19-4b7a-9aa4-0b626abccc16" },
+  { n = 5, title = "Again", mbid = "9c210131-271a-4d87-a134-e32a51234ca7" },
+  { n = 6, title = "Positive Attitude", mbid = "3295dca0-94ea-4953-b350-bfb975166d0c" },
+  { n = 7, title = "Sure Feels Good", mbid = "3a99f79f-ffe3-4cde-8a82-b4cf9874410d" },
+  { n = 8, title = "A Long time", mbid = "ab57eb0b-3839-4665-92dd-89b48e7c0501" },
+  { n = 9, title = "Why", mbid = "a3993adc-283f-4890-b037-62a7ba91827d" },
+  { n = 10, title = "I Like It", mbid = "80adf850-9875-4f88-a4df-198f13176d7a" },
+]
+
+[[release]]
+mbid = "ab26f5fb-dc3c-431f-8df4-0881d6eb94ac"
+title = "Love Is a Beautiful Thing"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Love Is a Beautiful Thing (radio edit)", mbid = "3af25ae0-0173-4c80-91bd-88eb52747ef3" },
+  { n = 2, title = "Love Is a Beautiful Thing (vocal Surgery mix)", mbid = "5ed95ae3-1214-4475-9145-e366ccb11f9f" },
+  { n = 3, title = "Love Is a Beautiful Thing (LP version)", mbid = "9e676046-ec42-404d-917b-9a0c11ecd6f0" },
+  { n = 4, title = "Love in Motion", mbid = "171cdb04-882b-4c2a-87e0-3b2636c6eb55" },
+]
+
+[[release]]
+mbid = "72a0a2a5-a562-3a2a-b69a-dcfe004abc6d"
+title = "Don’t Look Back"
+type = "album"
+date = "1993-10"
+tracks = [
+  { n = 1, title = "Best Love", mbid = "f1b5e97c-23e4-430e-a89c-bc3254934fb2" },
+  { n = 2, title = "Love Is a Beautiful Thing", mbid = "b95e1377-eaae-478d-88c6-4ff4b4c9663b" },
+  { n = 3, title = "Waiting on You", mbid = "ecdfc5f4-47ca-4219-be1d-566990ec5b33" },
+  { n = 4, title = "What Does It Take", mbid = "1c767752-5213-4fc6-a808-afa18f4ea027" },
+  { n = 5, title = "Keep on Pushing Love", mbid = "5445f53b-1fe3-4457-84d7-970a36efab2b" },
+  { n = 6, title = "You Are My Everything", mbid = "e9f189ff-49bd-4d20-a33c-195dc55d9535" },
+  { n = 7, title = "One Love", mbid = "e3e6f3f5-7751-4a06-8e82-f98d7090fa3d" },
+  { n = 8, title = "People in the World (Keep on Lovin’ You)", mbid = "7c5d67b8-583b-40b0-a82c-481934ff3767" },
+  { n = 9, title = "Give It Everything", mbid = "f5338c13-2c4b-4552-ba58-1049455c78cf" },
+  { n = 10, title = "Your Love (Is More Than I Ever Hoped for)", mbid = "d23722eb-90f6-434a-87de-92022ece46cb" },
+  { n = 11, title = "Fountain of Love", mbid = "9dbd8f54-2b15-4362-9ebb-0ff8acb94e3e" },
+  { n = 12, title = "Don’t Look Back", mbid = "f1e31a8b-ff8c-4f46-bdbe-ec4616835093" },
+  { n = 13, title = "Love in Motion", mbid = "55c574e5-1afd-4f80-b278-9f2254b63294" },
+]
+
+[[release]]
+mbid = "00e765a0-1182-4bcc-8f79-c8b3aef268f1"
+title = "Waiting On You"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Waiting On You (Album Version)", mbid = "023b896c-99f3-4630-ade1-161d24420b7a" },
+  { n = 2, title = "Waiting On You (C&J Radio Edit)", mbid = "7ec9da87-b9c6-452b-af27-9b78e45a7f1d" },
+  { n = 3, title = "Waiting On You (C&J Extended Version)", mbid = "53f95c6c-01ef-49e5-a11e-18853234b954" },
+  { n = 4, title = "Waiting On You (Slumlords Hip Hop Version)", mbid = "6e87ee43-7907-46f3-a9b5-95707ab84e1f" },
+]
+
+[[release]]
+mbid = "3371f225-c9fb-36b7-b506-c8c50ff305cc"
+title = "Your Heart’s in Good Hands"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "Your Heart’s in Good Hands", mbid = "3e8a52f2-312f-437b-aad6-478ab5e60c3e" },
+  { n = 2, title = "Keep on Pushing Love", mbid = "5445f53b-1fe3-4457-84d7-970a36efab2b" },
+  { n = 3, title = "Could This Be the Love", mbid = "87349c02-6b27-4036-a8ff-baaec64e2741" },
+  { n = 4, title = "Love Is a Beautiful Thing", mbid = "8414ba05-1d1e-4904-88fc-7c02d8df9efe" },
+  { n = 5, title = "One Love", mbid = "e3e6f3f5-7751-4a06-8e82-f98d7090fa3d" },
+  { n = 6, title = "Don’t Look Back", mbid = "a398ac59-0eae-4b60-b220-19f211a56699" },
+  { n = 7, title = "Best Love", mbid = "d013c35f-c2e1-4854-8555-52fb1c8f0b18" },
+  { n = 8, title = "Your Love (Is More Than I Ever Hoped For)", mbid = "8761d2b7-66d1-4fad-8c8e-af7c4787113d" },
+  { n = 9, title = "What Does It Take", mbid = "1c767752-5213-4fc6-a808-afa18f4ea027" },
+  { n = 10, title = "People in the World (Keep on Lovin’ You)", mbid = "e415c41a-082c-40cf-903f-a6eb4ea2828f" },
+]
+
+[[release]]
+mbid = "42680636-b9af-4d29-9518-d18513e29317"
+title = "Tired of Being Alone / Let's Stay Together"
+type = "single"
+date = "1996-06-18"
+tracks = [
+  { n = 1, title = "Tired of Being Alone", mbid = "cfa318d3-d3ab-48e7-9b78-4f3383ed0ddd" },
+  { n = 2, title = "Let's Stay Together", mbid = "b3384c19-483c-49ae-94d8-ec00ab56a25b" },
+]
+
+[[release]]
+mbid = "0ff05a7e-a5ea-3940-886c-cb6c2f72c3e8"
+title = "I Can’t Stop"
+type = "album"
+date = "2003-11-18"
+tracks = [
+  { n = 1, title = "I Can't Stop", mbid = "15caeb78-76eb-4870-9b7a-28abcde8dc22" },
+  { n = 2, title = "Play to Win", mbid = "4a3670c5-982a-4a39-89a2-dd2d84f2d746" },
+  { n = 3, title = "Rainin' in My Heart", mbid = "08bc2413-29f6-4e8d-9807-dd5f3109115f" },
+  { n = 4, title = "I've Been Writin' on You", mbid = "879de838-b117-4fed-a322-9b0c72c21f58" },
+  { n = 5, title = "You", mbid = "d4f4b8c5-3ba6-46a3-b368-ecd40a15cbe5" },
+  { n = 6, title = "Not Tonight", mbid = "3c98f88a-581e-4f18-900a-1ce58c656036" },
+  { n = 7, title = "Million to One", mbid = "25b92fad-87e3-4774-8642-a666da7dbf22" },
+  { n = 8, title = "My Problem Is You", mbid = "40c09d53-5dbd-4a8e-b550-88af681cef31" },
+  { n = 9, title = "I'd Still Choose You", mbid = "b7682512-928a-4876-8ce8-63c0c2aebc2d" },
+  { n = 10, title = "I've Been Thinkin' About You", mbid = "efcf16e7-021d-4c17-8634-e814e297385a" },
+  { n = 11, title = "I'd Write a Letter", mbid = "fc0f10dd-2b8c-4569-b026-f96b4f5c9a9e" },
+  { n = 12, title = "Too Many", mbid = "2c21e5e4-1098-4726-9182-298c0ad66b3e" },
+]
+
+[[release]]
+mbid = "343efd75-3e80-36f9-a23c-fe3949439b7d"
+title = "Everything’s OK"
+type = "album"
+date = "2005-03-15"
+tracks = [
+  { n = 1, title = "Everything’s OK", mbid = "291aab4e-c054-49db-bffc-b3fb326f4277" },
+  { n = 2, title = "You Are So Beautiful", mbid = "135268da-1c7d-403b-b1e9-8ead8fb7df3e" },
+  { n = 3, title = "Build Me Up", mbid = "b3b43c93-e62a-4864-b69a-e41dc6301944" },
+  { n = 4, title = "Perfect to Me", mbid = "928b583a-c09a-49ea-8b6f-6821837e3153" },
+  { n = 5, title = "Nobody but You", mbid = "9bf30d76-f610-46b5-877f-a9e58f35ee81" },
+  { n = 6, title = "Real Love", mbid = "91a9b958-1fd2-4e9e-9ecf-7871605e89d1" },
+  { n = 7, title = "I Can Make Music", mbid = "6f8e183a-7b88-4b5d-96e9-4306fe5e5852" },
+  { n = 8, title = "Be My Baby", mbid = "811c2c10-11d8-4065-967b-30643816f10d" },
+  { n = 9, title = "Magic Road", mbid = "a02cb626-67b9-43ca-a162-ebef5b81b6f1" },
+  { n = 10, title = "I Want to Hold Your Hand", mbid = "4d251065-73f7-4b0c-9422-5d4d5970a368" },
+  { n = 11, title = "Another Day", mbid = "dc1c0c23-0dad-431f-b049-5ebeefb28814" },
+  { n = 12, title = "All the Time", mbid = "04e19418-7217-49d7-90b4-19ac2e03e3ee" },
+]
+
+[[release]]
+mbid = "5c6a5c59-d288-3879-ad66-21037eb99976"
+title = "Lay It Down"
+type = "album"
+date = "2008-05-26"
+spotify = "1lanaz3WgCVv2brd64XVeK"
+tracks = [
+  { n = 1, title = "Lay It Down", mbid = "768acb8f-e1ae-4b1f-814c-4c6f73e626aa" },
+  { n = 2, title = "Just for Me", mbid = "9b58b3c4-ff21-4fca-8b64-0dddf841b6da" },
+  { n = 3, title = "You’ve Got the Love I Need", mbid = "1afcb02e-9750-4dcd-80dc-8b8f349dcaac" },
+  { n = 4, title = "No One Like You", mbid = "904ed71a-64f4-418f-8a91-362111a98102" },
+  { n = 5, title = "What More Do You Want From Me", mbid = "4a41bac4-5898-42bd-b8d0-59fffa92fa82" },
+  { n = 6, title = "Take Your Time", mbid = "f16478c2-1328-4904-8ae4-be4cf41376d1" },
+  { n = 7, title = "Too Much", mbid = "29fd0096-2f9f-417d-b538-25ce6b983958" },
+  { n = 8, title = "Stay With Me (By the Sea)", mbid = "aa12c026-a856-4fdc-9c59-ba38560dcf24" },
+  { n = 9, title = "All I Need", mbid = "9bf781a8-a2c2-401c-adcf-7fd9dbf72ea2" },
+  { n = 10, title = "I’m Wild About You", mbid = "8c60b67e-4ea7-4f27-948a-625b5c6cc920" },
+  { n = 11, title = "Standing in the Rain", mbid = "2e642253-2275-4334-a4aa-0cb8647573a3" },
+]
+
+[[release]]
+mbid = "b9339567-d9de-41cb-a221-49d068e4ead0"
+title = "Tired of Being Alone"
+type = "album"
+date = "2016-12-01"
+tracks = [
+  { n = 1, title = "One Woman", mbid = "f0ad54ee-60c2-41d5-bd32-5ca3886f989f" },
+  { n = 2, title = "Talk to Me", mbid = "43393d26-682a-48c9-9888-b1d41666f390" },
+  { n = 3, title = "My Girl", mbid = "798bfcf0-c2df-4ac7-8af2-bd566f5586c2" },
+  { n = 4, title = "Tired of Being Alone", mbid = "b79e8ea4-3e89-4e37-b800-c9d7310afa11" },
+  { n = 5, title = "I Stand Accused", mbid = "350d6476-8942-4d11-8f00-a5dba6debe52" },
+  { n = 6, title = "Gotta Find a New World", mbid = "83e8e6ee-dc40-4721-9e18-9748a5bbd30c" },
+  { n = 7, title = "What Am I Gonna Do with Myself", mbid = "cebf8219-1022-4ef8-9d6c-9798635b42ed" },
+  { n = 8, title = "Tomorrow's Dream", mbid = "8d9f90ad-4f29-488f-a5a2-61bc31810c7e" },
+  { n = 9, title = "Get Back Baby", mbid = "3ce656a9-18a1-4fd9-a755-d75f167dd5e1" },
+  { n = 10, title = "Get Back", mbid = "0dede324-7e2f-48bb-a5a2-5864948f60ed" },
+  { n = 11, title = "Summertime", mbid = "e9d624de-2902-43e6-a397-eb90fee7b545" },
+]
+
+[[release]]
+mbid = "3f3303f7-cc6f-4a28-bc0b-e5c922589f46"
+title = "Before the Next Teardrop Falls"
+type = "single"
+date = "2018-09-13"
+tracks = [
+  { n = 1, title = "Before The Next Teardrop Falls", mbid = "39ab69c5-3a1a-49b3-8d6e-f53224c58b54" },
+]
+
+[[release]]
+mbid = "fb365324-da5c-449a-a8c8-e23e1f9f0e9f"
+title = "Give Me More Love"
+type = "album"
+date = "2021-09-24"
+spotify = "1tnqnzIT3HR1zBa8bkvwci"
+tracks = [
+  { n = 1, title = "Tired of Being Alone (orchestral)", mbid = "8801b903-2da7-4779-81b7-40d65b9258d9" },
+  { n = 2, title = "Call Me (orchestral)", mbid = "58b55ddd-c588-41dc-8d0e-4fe76cc49f50" },
+  { n = 3, title = "Let’s Stay Together (orchestral)", mbid = "7017aad8-0f89-459f-a3d9-412069a3a01c" },
+  { n = 4, title = "I’m Still in Love With You (orchestral)", mbid = "ad56613e-3e88-49ba-90f4-5788df91267d" },
+  { n = 5, title = "Here I Am (Come and take Me) [orchestral]", mbid = "3308d22e-5379-461d-9644-240bf0af3ba0" },
+  { n = 6, title = "How Can You Mend a Broken Heart (orchestral)", mbid = "eea8c8c2-b34a-42bb-a694-3b80edad8c97" },
+  { n = 7, title = "Sha‐La‐La (Make Me Happy) [orchestral]", mbid = "3f8414ef-e6e5-4133-90f6-99cc340d4154" },
+  { n = 8, title = "I Can’t Get Next to You (orchestral)", mbid = "172ee62c-a5d8-4bff-9411-d7f2e482f40b" },
+  { n = 9, title = "You Ought to Be With Me (orchestral)", mbid = "29889e7c-c2d6-468e-baec-7ff295d5cb5e" },
+  { n = 10, title = "Look What You Done for Me (orchestral)", mbid = "020a1987-c44c-49ae-93e4-9ae3a19234de" },
+  { n = 11, title = "Let’s Get Married (orchestral)", mbid = "fe944a3e-9362-4a69-8144-a44c557859a6" },
+  { n = 12, title = "Take Me to the River (orchestral)", mbid = "a10aedc4-d3e7-4190-84b2-9472ffcc07ce" },
+]
+
+[[release]]
+mbid = "0559c766-12fc-47fe-bc42-fbf5aec3893e"
+title = "Perfect Day"
+type = "single"
+date = "2023-08-21"
+spotify = "5NHcQLzfaRMSKkZDTLPv4H"
+tracks = [
+  { n = 1, title = "Perfect Day", mbid = "35084bfe-cb88-4fd0-b544-2bfa15c310d4" },
+]
+
+[[release]]
+mbid = "6892643a-4ae6-435c-9e2a-4ea759f38d95"
+title = "Everybody Hurts"
+type = "single"
+date = "2024-11-19"
+spotify = "0AKWuGnuXTxCC7vrdpyW6c"
+tracks = [
+  { n = 1, title = "Everybody Hurts", mbid = "baf48333-f7ba-40ab-ad77-4e716b5c80b2" },
+]
+
+[[release]]
+mbid = "9d5ce3ef-87db-4ad4-9150-1f79a5be3b51"
+title = "To Love Somebody"
+type = "ep"
+date = "2026-01-16"
+spotify = "5mjfq6PQcF4RIDw9X30Zm1"
+tracks = [
+  { n = 1, title = "To Love Somebody", mbid = "7ed22481-4d5c-439c-928e-6c16931dc912" },
+  { n = 2, title = "Perfect Day", mbid = "bfdcfb62-1405-4177-b02c-2b175d485054" },
+  { n = 3, title = "I Found a Reason", mbid = "897d4fb6-84e3-4136-9e4b-94b78fd1b11d" },
+  { n = 4, title = "Everybody Hurts", mbid = "547c277d-bdb3-4510-831c-21eabee43673" },
+]

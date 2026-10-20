@@ -1,0 +1,319 @@
+format = 1
+
+[[release]]
+mbid = "6a06d975-7883-4ad2-b39b-be12e9564a30"
+title = "Ali Farka Touré"
+type = "album"
+date = "1976"
+tracks = [
+  { n = 1, title = "Biennale", mbid = "819f1847-d5e2-4b67-a907-f7e394bdbbb0" },
+  { n = 2, title = "Hali", mbid = "a654af2c-a8c5-4ab3-844c-4572ec1f0b9a" },
+  { n = 3, title = "Karanda Bala Bozo", mbid = "217216d9-111d-4c8a-988d-a026788c2922" },
+  { n = 4, title = "Roi Fayssal", mbid = "fce5d811-5584-4408-91c0-ce58594a6bc1" },
+  { n = 5, title = "Treikongo", mbid = "bb5c58bc-2a63-4cfd-9448-effb3dd43dbb" },
+  { n = 6, title = "Radio Mali", mbid = "64293b86-071e-4d81-90dc-17b2d111f132" },
+]
+
+[[release]]
+mbid = "c6cc1efb-1cf6-49d9-b95b-bb5847732f6f"
+title = "Ali Farka Touré"
+type = "album"
+date = "1976"
+tracks = [
+  { n = 1, title = "Bandalabourou", mbid = "04430d03-c79e-4307-aa2f-ee029ee2f38f" },
+  { n = 2, title = "Harsani", mbid = "8a33e07a-4045-4abf-9802-6b32af2a3ab4" },
+  { n = 3, title = "Gambari", mbid = "125f9513-ce37-4f4d-aa90-c4ca4f3141fd" },
+  { n = 4, title = "Soko", mbid = "d58bde9a-70dc-417b-beb1-9743984703cd" },
+]
+
+[[release]]
+mbid = "13a8a82e-e6c1-4d24-af0f-af7d8ba36ecf"
+title = "Ali Touré Farka"
+type = "album"
+date = "1977"
+tracks = [
+  { n = 1, title = "Yer Sabou Yerkoy", mbid = "b5b7bc38-57db-4fef-a736-1392e1364a5e" },
+  { n = 2, title = "Yer Mali Gakoyoyo", mbid = "ded8dc4d-6c78-4e43-9998-2814ca4dc7d4" },
+  { n = 3, title = "Yer Mali Woyo", mbid = "0bd10d40-f0c1-43e5-b4db-d88976538222" },
+  { n = 4, title = "Assidou Dondoma", mbid = "448cabba-dce4-465c-a398-dab88618511b" },
+  { n = 5, title = "Remobe", mbid = "91fac465-f8df-460b-96da-241e76750bf6" },
+  { n = 6, title = "Yermadine Tiere Kamba", mbid = "76288401-6bfb-44a7-95d6-f60820858b6d" },
+]
+
+[[release]]
+mbid = "0bc479d1-7e66-4941-9ec9-9f70659eee3a"
+title = 'Ali Toure Dit "Farka"'
+type = "album"
+date = "1979"
+tracks = [
+  { n = 1, title = "Banga", mbid = "d5a86d34-4a7a-4555-b4ed-f72752eb8fca" },
+  { n = 2, title = "Kombocallia", mbid = "34ab43cf-4c97-4552-bc22-523f600df0eb" },
+  { n = 3, title = "Samarya", mbid = "08bfbe9b-63d8-42cc-9884-e7d724151d10" },
+  { n = 4, title = "Hany", mbid = "86f4e0ad-e11c-4a0b-a175-4337c3aeaffa" },
+  { n = 5, title = "Djoungou", mbid = "6034b411-1e0e-4d37-b2cf-5d8f25860b5f" },
+  { n = 6, title = "Doya", mbid = "5a9333be-9f4e-4e34-8541-a6231dc9f0b3" },
+  { n = 7, title = "Kady", mbid = "d13324fd-5331-4dcf-85b6-f2e187dbde4b" },
+]
+
+[[release]]
+mbid = "3a0a1f0b-9167-33f2-a7a5-72132315a3c8"
+title = "Ali Farka Touré"
+type = "album"
+date = "1984"
+tracks = [
+  { n = 1, title = "La Drogue", mbid = "2e00c120-a069-4117-97e1-c5218f18cbbb" },
+  { n = 2, title = "Ali Aoudy", mbid = "500bbbf9-bf03-4a61-b0cd-7a2038812d03" },
+  { n = 3, title = "Chéri", mbid = "f9f32333-0600-427d-ae90-bcdc22609dc1" },
+  { n = 4, title = "Timbindy", mbid = "ad61efcc-7f6d-43c9-93ff-b1a2667cd5ee" },
+  { n = 5, title = "Laleïché", mbid = "73c4f6fb-ae91-4bee-a1a3-f000b43c3c31" },
+  { n = 6, title = "Ketiné", mbid = "3f7322b4-eab8-46f4-8381-8e9ed10748e4" },
+  { n = 7, title = "Laisse les phases", mbid = "0c4ee5fa-849b-46a4-8b6b-4c20ff54c3d7" },
+  { n = 8, title = "Baliky Lalo", mbid = "2942d192-f20e-4e78-a997-d0e7395978b8" },
+]
+
+[[release]]
+mbid = "3f5697e3-ba39-3bb5-9c56-78065c02593a"
+title = "Ali Farka Touré"
+type = "album"
+date = "1987"
+tracks = [
+  { n = 1, title = "Timbarma", mbid = "5c241c15-e292-43f1-8698-46fa2192a6f9" },
+  { n = 2, title = "Singya", mbid = "88a784c9-a745-45d4-9cdb-161016d802de" },
+  { n = 3, title = "Nawiye", mbid = "c57d0377-f42c-4495-9df8-9bda012067d7" },
+  { n = 4, title = "Bakoytereye", mbid = "26326785-e68f-4698-afa8-2b97d020cd37" },
+  { n = 5, title = "Kadi Kadi", mbid = "a5c5ede0-b38e-468c-a2f9-874392f72080" },
+  { n = 6, title = "Yulli", mbid = "733961ee-3d4e-4b21-9a9a-ba692b1e147b" },
+  { n = 7, title = "Bakoye", mbid = "5a51d79b-f979-4b21-845b-d61e658cca9b" },
+  { n = 8, title = "Amandrai", mbid = "7b67a78a-3205-48e4-9e40-b20a4bb6020e" },
+]
+
+[[release]]
+mbid = "47a0ef83-ff96-39df-9c08-b7e2d1abd94d"
+title = "Ali Farka Touré"
+type = "album"
+date = "1988"
+tracks = [
+  { n = 1, title = "Sidi Gouro", mbid = "b1fe63e4-8a76-470c-ae4c-592c4b111163" },
+  { n = 2, title = "O Kata Gouna", mbid = "3c56be5a-6277-4cf9-8325-9299edf55f18" },
+  { n = 3, title = "Devele Wague", mbid = "3e4f284c-513f-4200-ba05-89bbdac85066" },
+  { n = 4, title = "N’timbara", mbid = "d791727a-10d6-4cba-9828-0904fdab61f3" },
+  { n = 5, title = "Zona", mbid = "dd429de6-bbff-4e7b-ae78-bc9b8f7f80f0" },
+  { n = 6, title = "M’Baudy", mbid = "e6601ceb-f3c7-46c5-ae18-df099f73518b" },
+  { n = 7, title = "Petenere", mbid = "fd1baea8-862d-4059-9081-b23dd5ba05e3" },
+  { n = 8, title = "L’Exode", mbid = "7abe06fc-14c3-41a9-9e4f-66db16fb1e02" },
+]
+
+[[release]]
+mbid = "5fcf65ac-fe74-31fb-9590-586fb914f522"
+title = "The River"
+type = "album"
+date = "1990-01-01"
+spotify = "0WYJawWwPI0i99889vtr7O"
+tracks = [
+  { n = 1, title = "Ai Bine", mbid = "9ee28073-0aab-47f0-9cf7-3dd5636ae258" },
+  { n = 2, title = "Kenouna", mbid = "59137122-356b-44ad-a269-5bf7d63551e3" },
+  { n = 3, title = "Toungere", mbid = "35dee856-c263-4063-aebc-29af4b94acb9" },
+  { n = 4, title = "Heygana", mbid = "ac2708b9-e18a-415a-8403-93392c926c9f" },
+  { n = 5, title = "Jungou", mbid = "b1d8bbcc-fadb-4c63-9dc7-6308ad70d090" },
+  { n = 6, title = "Goydiotodam", mbid = "a8732fbb-132b-48f4-9bfd-78020653df58" },
+  { n = 7, title = "Lobo", mbid = "0a21bc9b-1a39-49e6-8462-fcedd5bd9d4d" },
+  { n = 8, title = "Tamala", mbid = "ab88991e-c584-4ca8-9188-cccf60b160a2" },
+  { n = 9, title = "Boyrei", mbid = "dd549fe7-06d4-4448-9bdc-4d750af8ede4" },
+  { n = 10, title = "Tangambara", mbid = "8643dbf0-194b-4a28-8b79-eef03ce99ab7" },
+  { n = 11, title = "Instrumental", mbid = "644f5f16-e732-465b-a58a-97c661942162" },
+]
+
+[[release]]
+mbid = "e64b12be-1f0e-3a0a-b7d6-ef37d03cd177"
+title = "The Source"
+type = "album"
+date = "1992-06-15"
+tracks = [
+  { n = 1, title = "Goye Kur", mbid = "48443ad5-3ceb-4976-b63f-4b81de13b20a" },
+  { n = 2, title = "Inchana Massina", mbid = "bcdc978c-012f-4f0e-8638-56aa6945fca2" },
+  { n = 3, title = "Roucky", mbid = "cf3783a7-0c8f-4db5-939a-96ab1ad49060" },
+  { n = 4, title = "Dofana", mbid = "2c626036-5145-4b71-9831-cd431a891e5e" },
+  { n = 5, title = "Karaw", mbid = "61ffa910-2a78-4860-a78b-b63b161cf9d2" },
+  { n = 6, title = "Hawa Dolo", mbid = "ffbe896b-ae62-4f82-b153-21f0fdca280b" },
+  { n = 7, title = "Cinquante Six", mbid = "b5739a9c-a29a-49aa-bfcc-786dc19b38ac" },
+  { n = 8, title = "I Go Ka", mbid = "c89ed302-455f-4d2e-be02-d14295051f38" },
+  { n = 9, title = "Yenna", mbid = "6fa03485-7bc8-4db0-b5e6-e2715058146c" },
+  { n = 10, title = "Mahini Me", mbid = "559ce628-7156-4ddc-920a-09ababd0972c" },
+]
+
+[[release]]
+mbid = "a5a7a716-a039-3815-aee3-88ac135721c5"
+title = "Talking Timbuktu"
+type = "album"
+date = "1994-03-28"
+spotify = "0pOL9eM3BPolgD5jjQInAk"
+tracks = [
+  { n = 1, title = "Bonde", mbid = "6923cf96-881c-4ca0-a84d-ba8a7f356e5d" },
+  { n = 2, title = "Soukora", mbid = "b7bb9a47-03b6-4810-acee-838706b2faee" },
+  { n = 3, title = "Gomni", mbid = "84333b89-b951-41aa-bdfc-b49c451ac41c" },
+  { n = 4, title = "Sega", mbid = "d78f616e-8d59-4b7c-af09-7f5e094a2e0f" },
+  { n = 5, title = "Amandrai", mbid = "4cd8b702-2773-41a1-92f0-e11c45161197" },
+  { n = 6, title = "Lasidan", mbid = "6a1d21ef-9465-40fd-a552-0a48308ff587" },
+  { n = 7, title = "Keito", mbid = "88a71bbd-9ee6-45f2-b23e-ee37ef48be26" },
+  { n = 8, title = "Banga", mbid = "ede92e59-18e9-469b-89de-4c492afa207b" },
+  { n = 9, title = "Ai Du", mbid = "5fa4d5bd-466d-4964-a53b-ca992d880d36" },
+  { n = 10, title = "Diaraby", mbid = "b09bf481-3621-4c02-93d0-bf56a3eb3286" },
+]
+
+[[release]]
+mbid = "df721b8e-88e3-3315-b175-5b45321ef73d"
+title = "Radio Mali"
+type = "album"
+date = "1996-04-22"
+tracks = [
+  { n = 1, title = "Njarka", mbid = "d25289ed-ab15-4135-9e9a-8d160134a26b" },
+  { n = 2, title = "Yer Mali Gakoyoyo", mbid = "bd6657f6-c5ee-4632-98fa-7ad9fe9b2670" },
+  { n = 3, title = "Soko", mbid = "5b614a5e-eb7c-46d0-ada2-4b500ff9267f" },
+  { n = 4, title = "Bandalabourou", mbid = "5376af19-03cd-4205-9624-54e395062668" },
+  { n = 5, title = "Machengoidi", mbid = "3236baad-4ba3-46a3-a43f-440f45b42881" },
+  { n = 6, title = "Samarya", mbid = "b7371910-f6da-4a04-8e0a-2853fb442f0b" },
+  { n = 7, title = "Hani", mbid = "02db2208-6d82-43df-8aac-eab86ff9d6d1" },
+  { n = 8, title = "Gambari", mbid = "732d8bda-9d34-4f69-9781-67f623928bc3" },
+  { n = 9, title = "(Njarka) Gambari", mbid = "c4f13a18-84a1-4699-8588-7ce93e0355d3" },
+  { n = 10, title = "Biennal", mbid = "0e9d91d3-fa10-49c2-bfc3-657796df7cc5" },
+  { n = 11, title = "Arsany", mbid = "f6704ee9-1a8b-44ee-913e-1c3a402edd5b" },
+  { n = 12, title = "Amadinin", mbid = "b657501a-a20c-473b-9e55-9d507b36a3cf" },
+  { n = 13, title = "Seygalare", mbid = "d470746c-f224-4df4-8ed4-849e49b704d8" },
+  { n = 14, title = "Trei Kongo", mbid = "5c2caaad-24ca-4e0a-a6e7-1b1a559ca411" },
+  { n = 15, title = "Radio Mali", mbid = "03a146e9-d1df-4d29-8b25-3b106dcfca9e" },
+  { n = 16, title = "Njarka (excerpt)", mbid = "2b259fcd-f368-4dac-a881-19ce6b93d85b" },
+]
+
+[[release]]
+mbid = "4bb9fd07-ddda-3d58-8ce7-a1e78c2c437c"
+title = "Niafunké"
+type = "album"
+date = "1999-06-21"
+tracks = [
+  { n = 1, title = "Ali's Here", mbid = "d16d4362-b2eb-4473-914d-c2daeeb10136" },
+  { n = 2, title = "Allah Uya", mbid = "53dfefd5-8aa5-4015-9876-8c21b47f281b" },
+  { n = 3, title = "Mali Dje", mbid = "66a59b86-bf67-4d92-920e-1d1f187d2fb5" },
+  { n = 4, title = "Saukare", mbid = "abcca807-f962-414b-a863-cdc7d39c838d" },
+  { n = 5, title = "Hilly Yoro", mbid = "54eb0d36-8c5a-46fd-8d13-94c68687f5f6" },
+  { n = 6, title = "Tulumba", mbid = "b4de4a7e-9ca9-40c7-8355-1340877b1844" },
+  { n = 7, title = "Instrumental", mbid = "4bceb603-bbaa-49a0-88a9-4348c78db1c9" },
+  { n = 8, title = "ASCO", mbid = "5d256b52-aaf0-4be3-95db-16d3653009ac" },
+  { n = 9, title = "Jangali Famata", mbid = "396b584a-0247-4192-944a-cc11b353372a" },
+  { n = 10, title = "Howkouna", mbid = "bd1b17ee-394f-46f9-98f4-683507583cf9" },
+  { n = 11, title = "Cousins", mbid = "ca2844cc-e6c5-4db8-a603-2724328bf5f1" },
+  { n = 12, title = "Pieter Botha", mbid = "ffdf55f0-cf19-4a7a-bf81-c548545b2fbc" },
+]
+
+[[release]]
+mbid = "5b523d11-661c-3b73-8a54-dcbfcfdade3f"
+title = "In the Heart of the Moon"
+type = "album"
+date = "2005-06-27"
+tracks = [
+  { n = 1, title = "Debe", mbid = "1e83e80d-03d1-43d7-95dc-ba6c34511e90" },
+  { n = 2, title = "Kala", mbid = "c077af5f-2d1f-48aa-b132-e94b1be3393d" },
+  { n = 3, title = "Mamadou Boutiquier", mbid = "a0cb7494-4e4a-4060-8995-683778af0b53" },
+  { n = 4, title = "Monsieur le Maire de Niafunké", mbid = "f28f5457-5370-4a9c-80c9-3fda54a41d6b" },
+  { n = 5, title = "Kaira", mbid = "fd8a6071-d5dd-4ae7-9749-e4a1017c39b1" },
+  { n = 6, title = "Simbo", mbid = "4c60b32a-0c45-453f-8c7b-87d1efac47d4" },
+  { n = 7, title = "Ai Ga Bani", mbid = "73de0530-49a1-48a8-9c0f-9db0e524a3af" },
+  { n = 8, title = "Soumbou Ya Ya", mbid = "5c9fa729-b788-44bd-bc1e-beadb485fa8b" },
+  { n = 9, title = "Naweye Toro", mbid = "b219b09d-d1e5-4442-bbd7-6c0daa475844" },
+  { n = 10, title = "Kadi Kadi", mbid = "0a2c5d96-9547-436c-aec2-006bf43ff3b1" },
+  { n = 11, title = "Gomni", mbid = "df417e8d-ec2d-451b-9aea-367ef114326b" },
+  { n = 12, title = "Hawa Dolo", mbid = "d524cd0c-4661-4484-941f-ad554fdb6158" },
+]
+
+[[release]]
+mbid = "4d484e44-90eb-364a-8175-b9afe668a716"
+title = "Savane"
+type = "album"
+date = "2006-01-02"
+spotify = "2WsP2BPz9GI5sJBdJFonrO"
+tracks = [
+  { n = 1, title = "Erdi", mbid = "c5640cdc-7670-4309-97b2-07da8eb1296d" },
+  { n = 2, title = "Yer Bounda Fara", mbid = "e06a6e9b-7466-4240-8a66-b0a7692294ac" },
+  { n = 3, title = "Beto", mbid = "299e3a7d-7236-4188-b6f8-3b9991967c94" },
+  { n = 4, title = "Savane", mbid = "c4d12ab1-55eb-41e0-bb03-c3df47a81e30" },
+  { n = 5, title = "Soya", mbid = "ccbf2f82-2618-42d6-b213-40a9c6c52fbe" },
+  { n = 6, title = "Penda Yoro", mbid = "f1c2aff5-7a3b-4c6d-b9ed-63c9390fea39" },
+  { n = 7, title = "Machengoidi", mbid = "5a0d1760-688a-4314-ab5d-2c4615cc2b0d" },
+  { n = 8, title = "Ledi Coumbe", mbid = "346bb9f8-4b8d-48ac-a448-e17842e37d1e" },
+  { n = 9, title = "Hanana", mbid = "b6c85fc4-a9cc-40c7-9553-09ff8175d0bd" },
+  { n = 10, title = "Soko Yhinka", mbid = "29f8d673-0c93-425a-bee4-55c59329126c" },
+  { n = 11, title = "Gambari Didi", mbid = "c36a2f9b-24fd-4e86-ae93-0b673b7d5a33" },
+  { n = 12, title = "Banga", mbid = "5b240c7f-d3e6-445a-8e1b-5f1135f2e057" },
+  { n = 13, title = "N'Jarou", mbid = "05c96fb8-f0d9-400e-9b55-2e172f483e9e" },
+]
+
+[[release]]
+mbid = "ccf65293-2e07-4188-934c-e4cf873c31b9"
+title = "Ali and Toumani"
+type = "album"
+date = "2010-02-22"
+tracks = [
+  { n = 1, title = "Ruby", mbid = "28e5692c-a226-472a-86b0-6cff42c23b07" },
+  { n = 2, title = "Sabu Yerkoy", mbid = "6d7e8fb3-36b8-4a1e-9e30-8ae83fd56bc0" },
+  { n = 3, title = "Be Mankan", mbid = "1f50d9fb-1b3c-4edd-8d4d-ee1de5502c53" },
+  { n = 4, title = "Doudou", mbid = "d63900e0-9aa6-47ff-8476-29cc081cedb7" },
+  { n = 5, title = "Warbé", mbid = "6c044918-3508-4026-8f81-fdbde493131c" },
+  { n = 6, title = "Samba Geladio", mbid = "4a5642fd-d7b8-4ba7-aaec-952c21123b07" },
+  { n = 7, title = "Sina Mory", mbid = "78d99d31-3859-4ce6-814d-f88e660b38a1" },
+  { n = 8, title = "56", mbid = "fbb8420f-8dc6-4083-b8d2-8c3c86ec5b4e" },
+  { n = 9, title = "Fantasy", mbid = "4da32150-b853-440f-84e9-59808b00d840" },
+  { n = 10, title = "Machengoidi", mbid = "7569f1b1-0e86-41f7-b6f2-80e30da28295" },
+  { n = 11, title = "Kala Djula", mbid = "79046379-bf85-471c-a875-a8fdd7072d56" },
+]
+
+[[release]]
+mbid = "687578af-8052-4460-9a86-9a593466ad87"
+title = "Ni Foli"
+type = "album"
+date = "2011"
+tracks = [
+  { n = 1, title = "Farri", mbid = "30e0c2ae-8e81-4408-a0ac-4e2ee29c704f" },
+  { n = 2, title = "Hondia", mbid = "720d4177-81c6-4a39-933a-8083a410bea2" },
+  { n = 3, title = "Heigana", mbid = "6946a191-1007-4c1e-8193-ca2f83e19125" },
+  { n = 4, title = "Wakata Gouna", mbid = "ee75f0bf-aa31-405c-84c6-4049c3167ddb" },
+]
+
+[[release]]
+mbid = "fe070e3e-1168-42e8-a5a8-06fc6a5fe914"
+title = "Manakoidé"
+type = "single"
+date = "2011-04-16"
+tracks = [
+  { n = 1, title = "Manakoidé", mbid = "aaa76249-2c23-4ba0-a7d9-a16daa7130c5" },
+  { n = 2, title = "Hani (rehearsal)", mbid = "bde85698-2bba-4b09-b28d-015bf9c26bba" },
+  { n = 3, title = "Sabu Yerkoi", mbid = "798f89ed-54c2-44ee-ab7c-05ecef161e2b" },
+]
+
+[[release]]
+mbid = "084d81b3-9815-41e0-8cc4-e7fcca8b9052"
+title = "Sahel"
+type = "ep"
+date = "2017-04-22"
+spotify = "3Y3Hk5LHdEjDusSXulhbv7"
+tracks = [
+  { n = 1, title = "Allah Halam", mbid = "8248f367-74fd-48b7-8767-779361135ded" },
+  { n = 2, title = "N'Dale Kolene", mbid = "3dc2beff-c845-4adc-a367-9e03d8cb5a0e" },
+  { n = 3, title = "Zaglia Zara", mbid = "b710afb7-23fe-48bc-96d9-41009fd2bb57" },
+  { n = 4, title = "Sahel", mbid = "6686d60e-ec84-4b8c-be87-901fb994b17c" },
+]
+
+[[release]]
+mbid = "a8d9c296-a41e-4cef-af70-34e6474c21f5"
+title = "Voyageur"
+type = "album"
+date = "2023-03-10"
+tracks = [
+  { n = 1, title = "Safari", mbid = "2337a60d-dcfa-426b-876d-7ad0a95ca5ab" },
+  { n = 2, title = "Malahani", mbid = "9d3c02ef-338b-455a-8dbf-3962a2f31967" },
+  { n = 3, title = "Sambadio (Acoustic)", mbid = "f3df59b0-48c5-4925-8e13-a188968336cd" },
+  { n = 4, title = "Bandolobourou", mbid = "3b1ef63a-868d-470d-a244-0e295a8201cc" },
+  { n = 5, title = "Cherie", mbid = "2625cd5e-e060-432c-b825-47dedd1166a5" },
+  { n = 6, title = "Kenouna", mbid = "efccf3ac-da1c-4400-b6c2-c5233a7fad69" },
+  { n = 7, title = "Sadjona", mbid = "134f26f0-8132-4fe0-8e87-247e3900b6a9" },
+  { n = 8, title = "Sambadio (Electric)", mbid = "859e69ee-5587-439d-9b0e-b75a583b9b74" },
+  { n = 9, title = "Kombo Galia", mbid = "924d2b45-d0e0-445e-bd44-8b38a7277bd8" },
+]

@@ -1,0 +1,544 @@
+format = 1
+
+[[release]]
+mbid = "8b06c6ae-b029-36df-841a-df52af24a080"
+title = "Arcade Fire"
+type = "ep"
+date = "2003-06-15"
+spotify = "3XyAuiXtNRtZb1s21EgMrG"
+tracks = [
+  { n = 1, title = "Old Flame", mbid = "d5e5136f-b613-46c3-bf23-e6a13e0d2398" },
+  { n = 2, title = "I’m Sleeping in a Submarine", mbid = "1e8e1001-d3a1-4358-93d5-3d55bdb7d762" },
+  { n = 3, title = "No Cars Go", mbid = "30c5ff56-efc9-41c5-aac5-8acec846f793" },
+  { n = 4, title = "The Woodland National Anthem", mbid = "93c88921-c952-4199-8dab-bd441b63e582" },
+  { n = 5, title = "My Heart Is an Apple", mbid = "7efbd09b-96df-4634-967a-f418fe09e0d3" },
+  { n = 6, title = "Headlights Look Like Diamonds", mbid = "141a964c-3a33-43cb-8f46-651ce2b568b4" },
+  { n = 7, title = "Vampire/Forest Fire", mbid = "307b1da5-0271-49c7-b7ff-529c293b2832" },
+]
+
+[[release]]
+mbid = "dce3b0a8-56b1-4688-afb4-e5bff7bfe3d6"
+title = "Neighborhood #1 (Tunnels)"
+type = "single"
+date = "2004-06-20"
+tracks = [
+  { n = 1, title = "Neighborhood #1 (Tunnels)", mbid = "e6d80ec5-85b3-4900-8e52-f83e9bf16852" },
+  { n = 2, title = "My Buddy", mbid = "f164e1f1-bef6-4009-87c4-73ddc567fd18" },
+]
+
+[[release]]
+mbid = "05affa96-5959-32da-8d75-1c9eb985ca59"
+title = "Funeral"
+type = "album"
+date = "2004-09-14"
+spotify = "6ZB8qaR9JNuS0Q0bG1nbcH"
+tracks = [
+  { n = 1, title = "Neighborhood #1 (Tunnels)", mbid = "e6d80ec5-85b3-4900-8e52-f83e9bf16852" },
+  { n = 2, title = "Neighborhood #2 (Laïka)", mbid = "c05048f1-47f6-4532-8d98-75ca80fa1792" },
+  { n = 3, title = "Une année sans lumière", mbid = "d2e67c9e-3600-450c-aa69-cab51ff0c990" },
+  { n = 4, title = "Neighborhood #3 (Power Out)", mbid = "07689d4c-540d-4518-9a41-52931b7f061f" },
+  { n = 5, title = "Neighborhood #4 (7 Kettles)", mbid = "fbf3c1c1-b5cf-41a1-8818-ccb3c7e231be" },
+  { n = 6, title = "Crown of Love", mbid = "5551e780-656c-410f-91ff-03aed3af9b7a" },
+  { n = 7, title = "Wake Up", mbid = "a1a4b6c4-d1c5-4a26-b155-75052d407c83" },
+  { n = 8, title = "Haïti", mbid = "7ead9a3d-902c-404f-97e4-bb03f2dc8c56" },
+  { n = 9, title = "Rebellion (Lies)", mbid = "f874c752-65bc-4d50-ac7e-932243ae9f02" },
+  { n = 10, title = "In the Backseat", mbid = "5781661a-6adf-4e82-8fc3-2ef0f6a22454" },
+]
+
+[[release]]
+mbid = "6a76cb34-37ca-3798-b7e9-b32629904251"
+title = "Neighborhood #2 (Laïka)"
+type = "single"
+date = "2005-03-28"
+tracks = [
+  { n = 1, title = "Neighborhood #2 (Laïka)", mbid = "c05048f1-47f6-4532-8d98-75ca80fa1792" },
+  { n = 2, title = "My Buddy", mbid = "25730af5-6b25-4307-b2d0-bfadc280f88e" },
+]
+
+[[release]]
+mbid = "0de0c193-d58d-324c-b953-2ec862a3af2a"
+title = "Neighborhood #3 (Power Out)"
+type = "single"
+date = "2005-05-23"
+tracks = [
+  { n = 1, title = "Neighborhood #3 (Power Out) (album version)", mbid = "07689d4c-540d-4518-9a41-52931b7f061f" },
+  { n = 2, title = "Neighborhood #3 (Power Out) (August session)", mbid = "339bed36-7b69-4a70-8d36-b20fc01f3344" },
+]
+
+[[release]]
+mbid = "6ad32e07-df6f-322e-8282-5aacdc51dd22"
+title = "Cold Wind / Brazil"
+type = "single"
+date = "2005-08-01"
+tracks = [
+  { n = 1, title = "Cold Wind", mbid = "ee75d7fb-d05a-49eb-9199-f129214305a9" },
+  { n = 2, title = "Brazil", mbid = "2e3ab4b5-bf8a-4e26-9d36-1aa1127cc6f2" },
+]
+
+[[release]]
+mbid = "b8381b2b-bf20-3b95-9eee-6ae6cbd145a7"
+title = "Rebellion (Lies)"
+type = "single"
+date = "2005-09-05"
+tracks = [
+  { n = 1, title = "Rebellion (Lies)", mbid = "f874c752-65bc-4d50-ac7e-932243ae9f02" },
+  { n = 2, title = "Brazil", mbid = "6a62ca55-4acb-4115-a09f-caa602371014" },
+]
+
+[[release]]
+mbid = "a90cfdc1-7b0f-33d6-9bef-739950732957"
+title = "Wake Up"
+type = "single"
+date = "2005-11-14"
+tracks = [
+  { n = 1, title = "Wake Up", mbid = "a1a4b6c4-d1c5-4a26-b155-75052d407c83" },
+]
+
+[[release]]
+mbid = "7c72d811-be3f-3c46-b1a0-d334bbb49d51"
+title = "Intervention"
+type = "single"
+date = "2006-12-28"
+spotify = "1hssUxPGNdVs3pbNE5Hj4u"
+tracks = [
+  { n = 1, title = "Intervention", mbid = "1e402422-64cf-4be7-9f95-d6398585bf48" },
+  { n = 2, title = "Ocean of Noise", mbid = "d5d25fa8-cf78-4be1-baf1-6011166bd21c" },
+]
+
+[[release]]
+mbid = "c091b282-aa91-3bc0-9c95-938db1f1f930"
+title = "Neon Bible"
+type = "album"
+date = "2007-03-02"
+spotify = "4GT6uZod4p5RiDMOVHOMme"
+tracks = [
+  { n = 1, title = "Black Mirror", mbid = "4b4413b1-24f5-43c6-9859-d5b186cf31a3" },
+  { n = 2, title = "Keep the Car Running", mbid = "9a1aedc4-88ce-407e-a7d8-38f8556086fb" },
+  { n = 3, title = "Neon Bible", mbid = "a0c04483-c51d-4684-b919-201a04def8e0" },
+  { n = 4, title = "Intervention", mbid = "1e402422-64cf-4be7-9f95-d6398585bf48" },
+  { n = 5, title = "Black Wave/Bad Vibrations", mbid = "7f9b0c6e-0d61-4556-8501-f675bebc5cae" },
+  { n = 6, title = "Ocean of Noise", mbid = "b91f88d8-5739-4564-9ce6-230970522bdd" },
+  { n = 7, title = "The Well and the Lighthouse", mbid = "91fcfba1-250c-40b5-ac27-fbc36cde2e88" },
+  { n = 8, title = "(Antichrist Television Blues)", mbid = "c2b96d76-ae2b-4190-9c8d-aec4359b04cf" },
+  { n = 9, title = "Windowsill", mbid = "e8f150a1-f694-42a9-b0c2-dfb53e1fe2b3" },
+  { n = 10, title = "No Cars Go", mbid = "e77efd7d-2858-46dc-83ab-f74cf2fb3965" },
+  { n = 11, title = "My Body Is a Cage", mbid = "522ef911-1145-4581-ac17-b6243d936735" },
+]
+
+[[release]]
+mbid = "2efb7dd1-ef80-3204-9340-4254c093c81b"
+title = "Keep the Car Running / Broken Window"
+type = "single"
+date = "2007-04-02"
+spotify = "42prSYMtUHaVWHVXEWAeaq"
+tracks = [
+  { n = 1, title = "Keep the Car Running", mbid = "9a1aedc4-88ce-407e-a7d8-38f8556086fb" },
+  { n = 2, title = "Broken Window", mbid = "276f53c7-8fe1-49b7-af73-8b93c8682fd4" },
+]
+
+[[release]]
+mbid = "09b52ea9-3283-3183-b209-39c3e6dd6556"
+title = "No Cars Go"
+type = "single"
+date = "2007-07-23"
+tracks = [
+  { n = 1, title = "No Cars Go", mbid = "e77efd7d-2858-46dc-83ab-f74cf2fb3965" },
+  { n = 2, title = "Surf City (Eastern Bloc)", mbid = "d99f63d3-2131-4d3a-9a34-d3e6af3a9d19" },
+]
+
+[[release]]
+mbid = "7e04ca65-bffe-3151-8efe-8c1115ccc747"
+title = "Poupée de cire, poupée de son / No Love Lost"
+type = "single"
+date = "2007-09"
+tracks = [
+  { n = 1, title = "Poupée de cire, poupée de son", mbid = "2ce7a1b8-c907-472b-b482-693e8192bb17" },
+  { n = 2, title = "No Love Lost", mbid = "0f6b4dbc-6744-483e-b940-344c1d7ce1fe" },
+]
+
+[[release]]
+mbid = "161863df-8451-4567-96c7-6ebd360c15f5"
+title = "The Suburbs"
+type = "single"
+date = "2010-05-27"
+spotify = "6IT9bZozkMsILN2P8jp3V8"
+tracks = [
+  { n = 1, title = "The Suburbs", mbid = "a0c8a6b4-74bf-4c12-b8b7-8f81df881061" },
+  { n = 2, title = "Month of May", mbid = "11b8a54c-e607-46de-b363-addbc2da5374" },
+]
+
+[[release]]
+mbid = "bf306022-c851-449d-a619-7864caddf5c7"
+title = "The Suburbs"
+type = "album"
+date = "2010-07-03"
+spotify = "0gkUcpkyW2SXN49Yktkf6F"
+tracks = [
+  { n = 1, title = "The Suburbs", mbid = "a0c8a6b4-74bf-4c12-b8b7-8f81df881061" },
+  { n = 2, title = "Ready to Start", mbid = "ab205556-92b9-4c89-adec-0a9dbce7b43f" },
+  { n = 3, title = "Modern Man", mbid = "1a38bdc5-ec0f-45a6-970d-a7939343862d" },
+  { n = 4, title = "Rococo", mbid = "f6de5637-70a0-4a53-952b-410606c41114" },
+  { n = 5, title = "Empty Room", mbid = "21475268-7255-450b-a54c-5646034ff51f" },
+  { n = 6, title = "City With No Children", mbid = "9c118d08-9007-4afa-904c-5e9ff44eeb5f" },
+  { n = 7, title = "Half Light I", mbid = "3d4d89da-d989-4e2f-9389-5a4fea9dc6c6" },
+  { n = 8, title = "Half Light II (No Celebration)", mbid = "1b7bc1b4-288c-412a-93ce-25f17eccb76b" },
+  { n = 9, title = "Suburban War", mbid = "38f5b670-6131-4f8b-9cb8-763c9323a6df" },
+  { n = 10, title = "Month of May", mbid = "a7da2a05-ca00-4762-a2fb-65bbaba76758" },
+  { n = 11, title = "Wasted Hours", mbid = "00101edd-3a4f-47eb-aac1-767584291e0a" },
+  { n = 12, title = "Deep Blue", mbid = "ac61ee6f-a603-4674-9a31-d9085aac24ca" },
+  { n = 13, title = "We Used to Wait", mbid = "2312aa57-02ff-481c-afba-4ae0f7fa3ca0" },
+  { n = 14, title = "Sprawl I (Flatland)", mbid = "3381dfb0-01e7-48e6-b139-7ed7d088a16f" },
+  { n = 15, title = "Sprawl II (Mountains Beyond Mountains)", mbid = "e99afdb1-2e1f-42e1-9498-0e329aac2fc8" },
+  { n = 16, title = "The Suburbs (Continued)", mbid = "f10e480c-a0df-4db5-af0e-5806d8d3b05d" },
+]
+
+[[release]]
+mbid = "7bf52d86-f9f2-4f21-b4fd-b4bd5984a086"
+title = "Ready to Start"
+type = "single"
+date = "2010-07-15"
+tracks = [
+  { n = 1, title = "Ready to Start", mbid = "ab205556-92b9-4c89-adec-0a9dbce7b43f" },
+]
+
+[[release]]
+mbid = "85412885-e982-41f0-846c-e2b4fa22ca97"
+title = "We Used to Wait"
+type = "single"
+date = "2010-08-02"
+tracks = [
+  { n = 1, title = "We Used To Wait", mbid = "2312aa57-02ff-481c-afba-4ae0f7fa3ca0" },
+]
+
+[[release]]
+mbid = "f6ed490a-e24c-404d-8344-9e6277b196cd"
+title = "Culture War / Speaking in Tongues"
+type = "single"
+date = "2011-05-24"
+tracks = [
+  { n = 1, title = "Culture War", mbid = "3ece1718-ffa1-4f7d-b6bc-1cdd5126f409" },
+  { n = 2, title = "Speaking in Tongues", mbid = "e60b38ae-f54b-429e-af24-f97d36b588cf" },
+]
+
+[[release]]
+mbid = "e713e3bf-d30c-40d4-afb8-5af267445aea"
+title = "Sprawl II / Ready to Start"
+type = "single"
+date = "2012-04-21"
+spotify = "7psUK6DUyd8URA3ayVCjtr"
+tracks = [
+  { n = 1, title = "Sprawl II (Mountains Beyond Mountains) (remix)", mbid = "ac7f0eae-4660-4d16-b30b-99c4ab401871" },
+  { n = 2, title = "Ready to Start (remix)", mbid = "14ffb159-72f3-44f4-a7a9-c5601b4ee804" },
+]
+
+[[release]]
+mbid = "b062f1b9-6cbb-48a4-8d81-95f1a3d9e399"
+title = "Her"
+type = "album"
+date = "2013"
+spotify = "7xBJ2XXlDFfACXAnOE86t8"
+tracks = [
+  { n = 1, title = "Sleepwalker", mbid = "c1675804-e7b6-442e-8fca-6b743108bf6e" },
+  { n = 2, title = "Milk & Honey #1", mbid = "625ff717-1fa5-41d2-b719-6834c377272e" },
+  { n = 3, title = "Loneliness #3 (Night Talking)", mbid = "f27675c8-d9ea-408c-ae6e-baee02af21eb" },
+  { n = 4, title = "Divorce Papers", mbid = "a7703706-3304-4668-8bdc-5dc8eee0af87" },
+  { n = 5, title = "Morning Talk / Supersymmetry", mbid = "548070d1-e081-476c-87e8-038c00ee5422" },
+  { n = 6, title = "Some Other Place", mbid = "09e07e92-5a8b-45b5-befd-bfb6f0d4c57c" },
+  { n = 7, title = "Song on the Beach", mbid = "42003c43-3305-46e3-a967-ed693a79c261" },
+  { n = 8, title = "Loneliness #4 (Other People’s Letters)", mbid = "d3c3fa20-43f7-4e1a-a6df-cf2da40ddf59" },
+  { n = 9, title = "Owl", mbid = "bb6dca0f-ee0c-4527-b1e4-5e0dc9b72021" },
+  { n = 10, title = "Photograph", mbid = "c690d81f-f047-47e0-9204-bf094484b58f" },
+  { n = 11, title = "Milk & Honey #2", mbid = "7f5942cf-fb91-4ef0-b429-937b1ab1d5c2" },
+  { n = 12, title = "We’re All Leaving", mbid = "53a077d2-60c5-40d1-aed5-a598dc984673" },
+  { n = 13, title = "Dimensions", mbid = "4f756ff9-249b-4cb0-a5a6-8d443ad6ebfa" },
+]
+
+[[release]]
+mbid = "ae39f183-02a6-4ac7-8ae4-c551738ee692"
+title = "Reflektor"
+type = "single"
+date = "2013-09-09"
+spotify = "3MwhkCLD5pYEe0WOBCmhX5"
+tracks = [
+  { n = 1, title = "Reflektor", mbid = "e0a94978-cb48-48cf-9815-1389c13a8357" },
+  { n = 2, title = "Reflektor (instrumental)", mbid = "f12a5876-7e1d-44a0-8ce0-e8c5729951b4" },
+]
+
+[[release]]
+mbid = "3dc9ee80-0768-490d-9e43-534796da3076"
+title = "Reflektor"
+type = "album"
+date = "2013-10-25"
+spotify = "2brwuyGZ2lLqWnBX6U4MQT"
+tracks = [
+  { disc = 1, n = 1, title = "Reflektor", mbid = "c055e15c-5136-4460-afda-06526ef3caa1" },
+  { disc = 1, n = 2, title = "We Exist", mbid = "6277b230-250d-498a-9c1a-351c02fe2eba" },
+  { disc = 1, n = 3, title = "Flashbulb Eyes", mbid = "a6e82f6a-1faa-4245-b0ab-70a839eab8a9" },
+  { disc = 1, n = 4, title = "Here Comes the Night Time", mbid = "49fdcd5e-0158-48a5-8254-3a59edf78da7" },
+  { disc = 1, n = 5, title = "Normal Person", mbid = "b216a7b3-b2e6-4410-a728-d89b58847094" },
+  { disc = 1, n = 6, title = "You Already Know", mbid = "72f3e6b7-8a6c-4e20-9578-9b2eaf600f0f" },
+  { disc = 1, n = 7, title = "Joan of Arc", mbid = "c2a3bd7e-bf17-4331-99e2-f785806b0a91" },
+  { disc = 2, n = 1, title = "Here Comes the Night Time II", mbid = "86f77a78-9c1b-4116-8892-0113365d2072" },
+  { disc = 2, n = 2, title = "Awful Sound (Oh Eurydice)", mbid = "6c3ab437-dc7a-446f-abe9-9ea4da41fa2c" },
+  { disc = 2, n = 3, title = "It’s Never Over (Hey Orpheus)", mbid = "0068fb68-898a-4ec9-b23a-83d128b2a590" },
+  { disc = 2, n = 4, title = "Porno", mbid = "ba10c330-73b6-4835-9939-4fa7484812c7" },
+  { disc = 2, n = 5, title = "Afterlife", mbid = "75578275-af62-40b8-9210-ba438068a8c1" },
+  { disc = 2, n = 6, title = "Supersymmetry / [unknown]", mbid = "a3be5a8a-0ca5-4b4f-af70-dd90130cca90" },
+]
+
+[[release]]
+mbid = "f03b0012-3d83-43f2-8994-c727aa238e7f"
+title = "Afterlife"
+type = "single"
+date = "2013-11-02"
+tracks = [
+  { n = 1, title = "Afterlife (Flume Remix)", mbid = "dc29fb4c-7d2f-4bb9-ab72-96a92997dd89" },
+]
+
+[[release]]
+mbid = "8bb0996e-acd8-4158-9834-b7564d0f0a56"
+title = 'Polaris Music Prize Split 7"'
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "The Riverbed", mbid = "778a755b-2872-4a23-8b7d-eeffcfe836be" },
+  { n = 2, title = "Normal Person", mbid = "b216a7b3-b2e6-4410-a728-d89b58847094" },
+]
+
+[[release]]
+mbid = "c3dc3ee1-9fcf-42d6-84ad-b8a8946bbff4"
+title = "Get Right"
+type = "single"
+date = "2015-09-25"
+tracks = [
+  { n = 1, title = "Get Right", mbid = "5e9c9b2f-23a1-4ee9-b561-ac2e22d2ce43" },
+  { n = 2, title = "Crucified Again", mbid = "814ff215-89d7-4e4e-b759-72dc0f17c399" },
+]
+
+[[release]]
+mbid = "b3e47ae9-8784-45a5-9efb-52186b0983ce"
+title = "The Reflektor Tapes"
+type = "ep"
+date = "2015-10-16"
+tracks = [
+  { n = 1, title = "Apocrypha", mbid = "300f84b7-c7e5-4a35-8eb9-962bebb9fc26" },
+  { n = 2, title = "Women of a Certain Age", mbid = "fcbe31ab-c451-494b-949b-a009334e1590" },
+  { n = 3, title = "Flashbulb Eyes (Dennis Bovell remix feat. Linton Kwesi Johnson)", mbid = "433ae6b6-991d-4427-ae49-aa810b7b07d2" },
+  { n = 4, title = "Soft Power", mbid = "f3b9a838-7faa-407e-91d3-8aebd09f7482" },
+  { n = 5, title = "Get Right", mbid = "5e9c9b2f-23a1-4ee9-b561-ac2e22d2ce43" },
+  { n = 6, title = "Crucified Again", mbid = "814ff215-89d7-4e4e-b759-72dc0f17c399" },
+]
+
+[[release]]
+mbid = "5d6214ec-cb27-4d77-913f-1a87785867b5"
+title = "Creature Comfort"
+type = "single"
+date = "2017-01-19"
+spotify = "2OkqF5G5kuF4QVvvjHH1JC"
+tracks = [
+  { n = 1, title = "Creature Comfort", mbid = "6419c405-5f6a-48e3-9b9e-0db788fa1e0b" },
+  { n = 2, title = "Comfort My Sleng Teng (Geoff Barrow mix)", mbid = "76a7fb62-14ae-4722-9614-aa6957f3313d" },
+]
+
+[[release]]
+mbid = "3f416a77-a037-4059-adf3-a2145cf447cf"
+title = "I Give You Power"
+type = "single"
+date = "2017-01-19"
+spotify = "7GEiVxLjlQe3TGzyTb5Sup"
+tracks = [
+  { n = 1, title = "I Give You Power", mbid = "e2032188-b931-4d3d-b0b3-5817d89ae591" },
+]
+
+[[release]]
+mbid = "400393cd-35e8-4a99-9ae2-b97274719746"
+title = "Put Your Money on Me"
+type = "single"
+date = "2017-01-19"
+spotify = "4UMEwTjWaWcvkroik5SJjq"
+tracks = [
+  { n = 1, title = "Put Your Money on Me", mbid = "4ed3fb6d-1210-40d7-a2d9-3cb75cc5ab76" },
+  { n = 2, title = "Put Your Money on Me (Windows 98 v.1.0)", mbid = "cce793df-6d66-402a-bfef-884d022d352b" },
+]
+
+[[release]]
+mbid = "37571ff8-bec4-4b70-ad2a-ef1410a3470e"
+title = "Everything Now"
+type = "single"
+date = "2017-06-01"
+spotify = "6ZeoqoBLbjjDebuKNOGJf2"
+tracks = [
+  { n = 1, title = "Everything Now", mbid = "3df8c4bf-f73f-4795-9bd2-4454ce6a5521" },
+]
+
+[[release]]
+mbid = "825a43aa-7d2f-47ca-a794-71b9f31009b4"
+title = "Signs of Life"
+type = "single"
+date = "2017-06-30"
+spotify = "2GBKkbr7I9m0f7nEpexIhO"
+tracks = [
+  { n = 1, title = "Signs of Life", mbid = "d6f53df0-067c-4840-a1e6-7700265b7819" },
+]
+
+[[release]]
+mbid = "3052e72f-c319-4ca1-a2fe-fa5ad898f29b"
+title = "Electric Blue"
+type = "single"
+date = "2017-07-13"
+spotify = "6b4dtUzTJY6r8bFECjuT1W"
+tracks = [
+  { n = 1, title = "Electric Blue", mbid = "f378bde0-e25c-4a7b-99b0-39ae1a7243a4" },
+]
+
+[[release]]
+mbid = "7a2b865d-0e23-45de-bf08-f0fcbd364883"
+title = "Everything Now"
+type = "album"
+date = "2017-07-27"
+spotify = "1DNojVW079FU9YnAMk3Cgr"
+tracks = [
+  { n = 1, title = "Everything_Now (continued)", mbid = "6bc8e807-7c7f-4979-a4c6-0934f6e587dc" },
+  { n = 2, title = "Everything Now", mbid = "3df8c4bf-f73f-4795-9bd2-4454ce6a5521" },
+  { n = 3, title = "Signs of Life", mbid = "d6f53df0-067c-4840-a1e6-7700265b7819" },
+  { n = 4, title = "Creature Comfort", mbid = "6419c405-5f6a-48e3-9b9e-0db788fa1e0b" },
+  { n = 5, title = "Peter Pan", mbid = "2ae5b60f-2a1f-4bf8-a266-aba70cc7a807" },
+  { n = 6, title = "Chemistry", mbid = "885c571d-d089-42a2-8484-638a59097020" },
+  { n = 7, title = "Infinite Content", mbid = "dbbf8de6-4cb4-4d62-a539-0f6aa745ae43" },
+  { n = 8, title = "Infinite_Content", mbid = "14210b4b-973c-40b6-b9bd-f7896ed1f1e4" },
+  { n = 9, title = "Electric Blue", mbid = "f378bde0-e25c-4a7b-99b0-39ae1a7243a4" },
+  { n = 10, title = "Good God Damn", mbid = "ff77d67d-b986-498b-8a87-dab3c694ef76" },
+  { n = 11, title = "Put Your Money on Me", mbid = "4ed3fb6d-1210-40d7-a2d9-3cb75cc5ab76" },
+  { n = 12, title = "We Don’t Deserve Love", mbid = "20b87ef4-c174-4591-89e5-d512e04c9678" },
+  { n = 13, title = "Everything Now (continued)", mbid = "1efd1d68-8a1e-4ffc-b668-26561dd86356" },
+]
+
+[[release]]
+mbid = "1b45b5ea-37da-4ce4-beda-866d5ca72103"
+title = "Spotify Singles"
+type = "single"
+date = "2017-09-20"
+spotify = "1KX4ZoGCzeRAkgHDXv0Wdz"
+tracks = [
+  { n = 1, title = "Everything Now", mbid = "133a7676-33fb-4c9e-8979-9732d5e25c9b" },
+  { n = 2, title = "Mind Games", mbid = "c3e29325-c530-4b82-b1ef-05dced72a6f5" },
+]
+
+[[release]]
+mbid = "bc5cadfc-c246-43af-8d6f-6fa0210f6093"
+title = "Peter Pan"
+type = "single"
+date = "2018-09-20"
+spotify = "2VGVvpVmS8LSXs06gIgW4Z"
+tracks = [
+  { n = 1, title = "Peter Pan (Equiknoxx Music Remix)", mbid = "18fcf50b-93df-4f98-aea3-6e3fba09419a" },
+]
+
+[[release]]
+mbid = "fff60717-784d-4878-83af-5c7b19445ce2"
+title = "Baby Mine"
+type = "single"
+date = "2019-03-11"
+spotify = "6e9I7W5LrZ512paeUY7hS4"
+tracks = [
+  { n = 1, title = "Baby Mine", mbid = "374b15a5-7496-485e-83b4-1c6962b825fb" },
+]
+
+[[release]]
+mbid = "efc79100-96f1-4d13-9cc0-e91adb42c9d1"
+title = "Song on the Beach"
+type = "single"
+date = "2021-02-12"
+spotify = "0HbW2CBcNoyIvb137vBYxy"
+tracks = [
+  { n = 1, title = "Song on the Beach", mbid = "42003c43-3305-46e3-a967-ed693a79c261" },
+]
+
+[[release]]
+mbid = "484195b5-e7a0-44da-97f5-f4d138d7bae2"
+title = "The Lightning I, II"
+type = "single"
+date = "2022-03-17"
+spotify = "5CW1F2qtnEt9lNaRSZlbHr"
+tracks = [
+  { n = 1, title = "The Lightning I", mbid = "65e1eb6d-d522-427e-8469-879b065ccddc" },
+  { n = 2, title = "The Lightning II", mbid = "e2cd8d56-273f-4086-a239-5c32d9d01b12" },
+]
+
+[[release]]
+mbid = "7cd8bd68-c7b5-4621-80e9-5a96df357167"
+title = "Unconditional I"
+type = "single"
+date = "2022-04-27"
+spotify = "245E4YWubHwp4sZNlz82dG"
+tracks = [
+  { n = 1, title = "Unconditional I (Lookout Kid)", mbid = "34934271-4d14-4cda-ac1b-f92e4c09b099" },
+  { n = 2, title = "The Lightning I", mbid = "65e1eb6d-d522-427e-8469-879b065ccddc" },
+  { n = 3, title = "The Lightning II", mbid = "e2cd8d56-273f-4086-a239-5c32d9d01b12" },
+]
+
+[[release]]
+mbid = "3491b3c7-47ff-49fc-ab71-c654f66401e7"
+title = "WE"
+type = "album"
+date = "2022-05-06"
+spotify = "2sAePf08xIp4tnDlMUCV8B"
+tracks = [
+  { n = 1, title = "Age of Anxiety I", mbid = "940c7454-0c45-4d83-a137-bdcf74c16c30" },
+  { n = 2, title = "Age of Anxiety II (Rabbit Hole)", mbid = "4755f5d5-af9c-425e-80dd-d37739887f91" },
+  { n = 3, title = "End of the Empire I-IV", mbid = "0c09651a-31e9-46dc-bb72-606e80152ba2" },
+  { n = 4, title = "The Lightning I, II", mbid = "14470cbf-3578-44ec-90d8-518eaa285e7a" },
+  { n = 5, title = "Unconditional I (Lookout Kid)", mbid = "34934271-4d14-4cda-ac1b-f92e4c09b099" },
+  { n = 6, title = "Unconditional II (Race and Religion)", mbid = "77617d5e-8582-408f-9e69-fb061ee29d20" },
+  { n = 7, title = "WE", mbid = "2f0fe935-3364-49b7-afaf-47b933594fb4" },
+]
+
+[[release]]
+mbid = "85ce12a7-17c1-436f-9747-fe66d62c1769"
+title = "Year of the Snake"
+type = "single"
+date = "2025-04-08"
+spotify = "40kcviBHQOANd1C29Qwp25"
+tracks = [
+  { n = 1, title = "Year of the Snake", mbid = "a2cf3212-69bf-44ba-ba90-5c9300b24290" },
+]
+
+[[release]]
+mbid = "4a7172fe-8354-4f13-8230-5c5529a105e4"
+title = "Year Of The Snake / Cars And Telephones"
+type = "single"
+date = "2025-04-22"
+tracks = [
+  { n = 1, title = "Year of the Snake", mbid = "3edf3ed0-134e-420b-ad6e-2489b3aa17f5" },
+  { n = 2, title = "Cars and Telephones", mbid = "cc37c705-12ce-4a6a-b70f-30c1f666a61a" },
+]
+
+[[release]]
+mbid = "c725a61a-2efc-4847-bffc-e2a5edb34c18"
+title = "Pink Elephant"
+type = "single"
+date = "2025-04-25"
+spotify = "4IQcPaShC0RkEghzFd46aQ"
+tracks = [
+  { n = 1, title = "Pink Elephant", mbid = "a0570b7c-2929-4afe-8230-a6ba8f4e7ffa" },
+  { n = 2, title = "Year of the Snake", mbid = "a2cf3212-69bf-44ba-ba90-5c9300b24290" },
+]
+
+[[release]]
+mbid = "08c61147-ec81-48e2-b91a-333de26d1ce8"
+title = "Pink Elephant"
+type = "album"
+date = "2025-05-09"
+spotify = "5qLTlCTZvN24Fm1nqd7XCV"
+tracks = [
+  { n = 1, title = "Open Your Heart or Die Trying", mbid = "b5529731-e68d-4327-9dc3-fc560a89fa38" },
+  { n = 2, title = "Pink Elephant", mbid = "a0570b7c-2929-4afe-8230-a6ba8f4e7ffa" },
+  { n = 3, title = "Year of the Snake", mbid = "a2cf3212-69bf-44ba-ba90-5c9300b24290" },
+  { n = 4, title = "Circle of Trust", mbid = "c3c78daf-d2cd-4681-a6db-a91ee2b68dcf" },
+  { n = 5, title = "Alien Nation", mbid = "4b7e7b4e-6734-4371-90c7-e4019db3c6a4" },
+  { n = 6, title = "Beyond Salvation", mbid = "24f0bbe9-4e97-46c1-a6ba-ab2826f80080" },
+  { n = 7, title = "Ride or Die", mbid = "705a6246-0472-4e74-abe0-7e70ef405c32" },
+  { n = 8, title = "I Love Her Shadow", mbid = "48a49166-eb45-48c3-9260-b909ebe6ad92" },
+  { n = 9, title = "She Cries Diamond Rain", mbid = "996afff1-f579-4917-ab51-e319cd812ddd" },
+  { n = 10, title = "Stuck in My Head", mbid = "08264862-94d9-410f-887e-9c000ec51f0d" },
+]

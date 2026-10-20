@@ -1,0 +1,124 @@
+format = 1
+
+[[release]]
+mbid = "669d43ff-0aaf-4d9c-9af7-6e901a54e54c"
+title = "La Langue"
+type = "album"
+date = "2010-11-12"
+tracks = [
+  { n = 1, title = "La Rouille", mbid = "ab4bb150-a010-457a-a9f4-99b646fddcca" },
+  { n = 2, title = "Après quoi nous avons ri", mbid = "80675734-ad69-41f5-bc78-cd505bc5fe02" },
+  { n = 3, title = "La Honte", mbid = "a0394a67-bd96-420f-a929-625fda68a948" },
+  { n = 4, title = "Château d'eau", mbid = "5233d421-8bc0-4166-87d0-d8293e6094d5" },
+  { n = 5, title = "Les Dents", mbid = "a8af8d2a-11ab-4507-870f-84c32f0fd8ad" },
+  { n = 6, title = "Une joie", mbid = "7b8e8db3-6063-41e6-965a-ce301fc60058" },
+  { n = 7, title = "Revoir la mer", mbid = "2479a56a-da7e-474d-bdcf-84f092b849fb" },
+  { n = 8, title = "De haut en bas", mbid = "5aab6077-4e5e-46f1-b5d3-3c60a2a4760a" },
+  { n = 9, title = "Je voudrais être mariée", mbid = "977faafe-5ed4-405d-895c-506778f54abb" },
+  { n = 10, title = "Lettre morte", mbid = "d66780e9-ed0f-44aa-9f4b-870ad13fb767" },
+  { n = 11, title = "Que se passe-t-il ?", mbid = "ed5b9fb1-3458-4d29-ab24-2efb2b154728" },
+]
+
+[[release]]
+mbid = "2696819b-a4db-4c86-b5ed-3983e34e1e63"
+title = "Feu la figure"
+type = "album"
+date = "2012-04-23"
+tracks = [
+  { n = 1, title = "Le Pistolet", mbid = "91de52cc-696e-4fcd-b988-2fb33f9931e5" },
+  { n = 2, title = "Sans mes bras", mbid = "282da438-1e14-42b3-b70d-aec585962f20" },
+  { n = 3, title = "L'Eau froide", mbid = "cca43350-ec36-4449-bf20-991f96e0bdce" },
+  { n = 4, title = "Une sauterelle (dessinée par un fou)", mbid = "a9335ec2-7ccd-44a1-bd81-0df8dc2472ec" },
+  { n = 5, title = "Tu m'as encore crevé un cheval", mbid = "98159e6e-35dd-45ef-b77e-c505d6adae82" },
+  { n = 6, title = "Rhinocéros", mbid = "65a40873-80d8-4d88-a814-9c36712dd1fe" },
+  { n = 7, title = "Le Ventre de la baleine", mbid = "335c8b6a-07a0-4192-8f4b-94fa88693287" },
+  { n = 8, title = "Le Périscope", mbid = "da414043-baf2-4987-a2c9-75351ecb50a6" },
+  { n = 9, title = "Chien mort, mi amor", mbid = "e414c6d7-db75-4cea-81f0-6c00ef7c1fd1" },
+  { n = 10, title = "La ville est triste", mbid = "262d75aa-48b5-48fb-850d-9389f1a8f7a5" },
+]
+
+[[release]]
+mbid = "d4549068-01c6-44e4-825c-cb81fab3f698"
+title = "Arlt & Thomas Bonvalet"
+type = "album"
+date = "2014-03-31"
+tracks = [
+  { disc = 1, n = 1, title = "Sans mes bras", mbid = "b3fbeaca-6fdd-4921-a751-aadf04624bf1" },
+  { disc = 1, n = 2, title = "Grande fille", mbid = "1875c5cb-b505-4f75-b7f2-d20aa0d52b6c" },
+  { disc = 1, n = 3, title = "Tu m'as encore crevé un cheval", mbid = "955a5d64-d59d-4783-b98b-1633efa6df33" },
+  { disc = 1, n = 4, title = "La Honte", mbid = "bad8c67c-8e15-4e48-a83f-88d24e790fd7" },
+  { disc = 1, n = 5, title = "Lettre morte", mbid = "b0ee2bf6-195a-4d33-8ec9-4e36d5cbb3b4" },
+  { disc = 1, n = 6, title = "Le Pistolet", mbid = "039e72c9-1022-4bdf-844e-de2b32cbc318" },
+  { disc = 1, n = 7, title = "L'Eau froide", mbid = "fd424754-44e6-4667-9916-0fc99fc73be9" },
+  { disc = 1, n = 8, title = "Le Ciel de Lille", mbid = "ba2aa5af-0ae1-4606-a71b-fe0ae54bae5c" },
+  { disc = 1, n = 9, title = "Je voudrais être mariée", mbid = "c14c6ada-ce3b-4ae0-8b15-6bd2d7a1f110" },
+  { disc = 1, n = 10, title = "Château d'eau", mbid = "32eb1d72-267b-42c6-84b1-d3a09b940ee9" },
+  { disc = 1, n = 11, title = "Après quoi nous avons ri", mbid = "7da8243c-2221-43d0-8f41-5c2acbe4805f" },
+  { disc = 2, n = 1, title = "Sans mes bras", mbid = "b3fbeaca-6fdd-4921-a751-aadf04624bf1" },
+  { disc = 2, n = 2, title = "Grande fille", mbid = "1875c5cb-b505-4f75-b7f2-d20aa0d52b6c" },
+  { disc = 2, n = 3, title = "Tu m'as encore crevé un cheval", mbid = "955a5d64-d59d-4783-b98b-1633efa6df33" },
+  { disc = 2, n = 4, title = "La Honte", mbid = "bad8c67c-8e15-4e48-a83f-88d24e790fd7" },
+  { disc = 2, n = 5, title = "Lettre morte", mbid = "b0ee2bf6-195a-4d33-8ec9-4e36d5cbb3b4" },
+  { disc = 2, n = 6, title = "Le Pistolet", mbid = "039e72c9-1022-4bdf-844e-de2b32cbc318" },
+  { disc = 2, n = 7, title = "L'Eau froide", mbid = "fd424754-44e6-4667-9916-0fc99fc73be9" },
+  { disc = 2, n = 8, title = "Le Ciel de Lille", mbid = "ba2aa5af-0ae1-4606-a71b-fe0ae54bae5c" },
+  { disc = 2, n = 9, title = "Je voudrais être mariée", mbid = "c14c6ada-ce3b-4ae0-8b15-6bd2d7a1f110" },
+  { disc = 2, n = 10, title = "Château d'eau", mbid = "32eb1d72-267b-42c6-84b1-d3a09b940ee9" },
+  { disc = 2, n = 11, title = "Après quoi nous avons ri", mbid = "7da8243c-2221-43d0-8f41-5c2acbe4805f" },
+]
+
+[[release]]
+mbid = "1e443d10-94bc-477b-b8dc-dfbdee0f084c"
+title = "Deableries"
+type = "album"
+date = "2015-10-16"
+tracks = [
+  { n = 1, title = "Piège à loups", mbid = "3c4dd8c7-6dd9-4e8a-acff-62b4e35268da" },
+  { n = 2, title = "Nue comme la main", mbid = "67c02e26-5a31-414b-90e6-78e9b32c6f8a" },
+  { n = 3, title = "Les oiseaux cassent", mbid = "a6a83a1c-96ee-4cbf-8280-4e83330109c9" },
+  { n = 4, title = "Le Diable", mbid = "f67b14d2-929f-446f-ba06-aa8738ab8616" },
+  { n = 5, title = "La rhubarbe", mbid = "273d3ee9-db86-469f-ba38-4dac6e8a5caa" },
+  { n = 6, title = "Nous taire un peu", mbid = "8f3e0ed3-8964-41f1-8a7c-f5231b2951ab" },
+  { n = 7, title = "Grande fille", mbid = "ab892e7f-d68e-439b-a074-55dff0fd7132" },
+  { n = 8, title = "L'enterrement", mbid = "4b34f417-1923-4ab0-b930-14e91529a0a7" },
+  { n = 9, title = "De plein fouet", mbid = "df2964d5-b019-41ac-931b-37287d1070f1" },
+  { n = 10, title = "Le cancer", mbid = "802a78fd-5f04-47b3-afb1-5181a8b07b5b" },
+  { n = 11, title = "Le ciel de Lille", mbid = "fcad52b2-3466-4ab1-ae99-2b23d4c07dec" },
+  { n = 12, title = "Piège à loups 2", mbid = "d794145f-50c3-445c-a52f-0c03c4d9aa16" },
+]
+
+[[release]]
+mbid = "2c694def-e279-4c02-a8cf-39e41c956db8"
+title = "'Soleil Enculé'"
+type = "album"
+date = "2019-11-15"
+tracks = [
+  { n = 1, title = "Frère & sœur", mbid = "ef58ea88-6acc-4791-a03d-f83b98e14ba2" },
+  { n = 2, title = "Les commencements", mbid = "3fd4e098-3a91-47d2-9ffa-fc7954e0673a" },
+  { n = 3, title = "L'instant même", mbid = "9a495b6c-83f7-4db2-ba39-2b897d8a0312" },
+  { n = 4, title = "La violence est rose", mbid = "dd463996-cf8a-4124-a124-20895b9ee39c" },
+  { n = 5, title = "L'angine", mbid = "c46fa396-3406-4e67-84ab-f4a466b972f5" },
+  { n = 6, title = "Le ciel est tarte", mbid = "e29935df-0b5c-4b91-8c9d-34d0c1aa8b24" },
+  { n = 7, title = "Les fleurs", mbid = "8b21e954-45cc-4845-bc00-467a400c9534" },
+  { n = 8, title = "Quand le soir tombe", mbid = "318b40f3-92f2-4be4-985a-fb2ab705e16a" },
+  { n = 9, title = "Soleil enculé", mbid = "4f74bcb8-a6de-4804-9469-6986af194e7f" },
+]
+
+[[release]]
+mbid = "820b3adb-39a9-4101-a800-ec9f947cca96"
+title = "Turnetable"
+type = "album"
+date = "2022-05-20"
+tracks = [
+  { n = 1, title = "Oh bagnole", mbid = "2b420467-123b-4843-8e28-678c32fdc5b6" },
+  { n = 2, title = "Pars à la guerre", mbid = "8a8c72ee-18ba-444d-bfc9-7b0c8c1cac02" },
+  { n = 3, title = "Grand dehors", mbid = "68bd4bff-0bf7-429a-b479-339b900ce715" },
+  { n = 4, title = "Le Renard", mbid = "ff9eb9cf-41ef-4fb9-9335-b8a1126c67f2" },
+  { n = 5, title = "Bain de sang", mbid = "0a560bf5-0d83-4986-9d5d-f87ec0a86521" },
+  { n = 6, title = "Le Village", mbid = "cb3a93be-9c44-4e2e-b38b-4d342a315c46" },
+  { n = 7, title = "Vaisseau spatial", mbid = "7b6a0e31-c9b5-42c5-bcac-c2516e1329d7" },
+  { n = 8, title = "La Nature", mbid = "98b9a008-9ab4-4fc3-9825-957c1f5421dc" },
+  { n = 9, title = "Des amis", mbid = "454ab67e-7c33-4b6e-88ea-fca76cdaa555" },
+  { n = 10, title = "Vache malade", mbid = "5ef81a72-dce0-4ba6-a0a8-c26f553a55a1" },
+  { n = 11, title = "Je mets ma joie là", mbid = "53ff52e3-2829-4749-9760-0ade0b257594" },
+]

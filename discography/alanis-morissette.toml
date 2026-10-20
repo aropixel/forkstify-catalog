@@ -1,0 +1,865 @@
+format = 1
+
+[[release]]
+mbid = "64b14f2e-d0e6-332e-919c-df2daf0c7ade"
+title = "Fate Stay With Me"
+type = "single"
+date = "1987"
+tracks = [
+  { n = 1, title = "Fate Stay With Me", mbid = "464d0f50-9d79-4655-a1eb-55aa7a3a8ae5" },
+  { n = 2, title = "Find the Right Man", mbid = "418ffbfc-7927-4ea7-8c9a-723e95db4134" },
+]
+
+[[release]]
+mbid = "8a81513e-0cfd-3381-90cc-37706a40771c"
+title = "Alanis"
+type = "album"
+date = "1991"
+tracks = [
+  { n = 1, title = "Feel Your Love", mbid = "f55163ae-62e8-49b9-8092-8c3d366c5c0a" },
+  { n = 2, title = "Too Hot", mbid = "b535596e-ae9b-4734-bb1f-6f07157eb6b1" },
+  { n = 3, title = "Plastic", mbid = "7c5014d8-aa5a-4a72-9eb2-bb8604f5cc34" },
+  { n = 4, title = "Walk Away", mbid = "f9f8c4ff-68df-4e3f-94a0-ba312ff9382a" },
+  { n = 5, title = "On My Own", mbid = "18fa3bad-70d8-489b-95ab-84fcb9141de4" },
+  { n = 6, title = "Superman", mbid = "17c3fc7d-0198-4f67-ac9d-d85f765695d8" },
+  { n = 7, title = "Jealous", mbid = "173ce8fa-41db-44b9-950a-11a362416822" },
+  { n = 8, title = "Human Touch", mbid = "9495a3d5-2dc3-4844-be15-a4521aa37fb5" },
+  { n = 9, title = "Oh Yeah!", mbid = "53ea421f-d739-4918-8408-7b04c46d5ecd" },
+  { n = 10, title = "Party Boy", mbid = "b6b99c1b-073a-49b1-8d66-068da1494bc7" },
+]
+
+[[release]]
+mbid = "da265e0a-7ad3-3adf-8a7f-c772c357bf9e"
+title = "Now Is the Time"
+type = "album"
+date = "1992-10-20"
+tracks = [
+  { n = 1, title = "Real World", mbid = "a2be6785-0ba0-4e13-836d-2e664fac5736" },
+  { n = 2, title = "An Emotion Away", mbid = "7db7297e-ab80-46a4-8382-8a19a228212f" },
+  { n = 3, title = "Rain", mbid = "1d7f0fb6-3d71-4f8f-89c3-ddd792148154" },
+  { n = 4, title = "The Time of Your Life", mbid = "42ed1d29-9504-4f20-b200-63dc97b0d53a" },
+  { n = 5, title = "No Apologies", mbid = "a830c14e-07e2-4e2b-8b6f-1d451cff361f" },
+  { n = 6, title = "Can't Deny", mbid = "ac8418e2-63da-492c-bb35-daeab7372477" },
+  { n = 7, title = "When We Meet Again", mbid = "fbfbff22-0786-44ff-adc9-71f9a52801d3" },
+  { n = 8, title = "Give What You Got", mbid = "9a19f885-1c4d-4535-b500-6481b22b4608" },
+  { n = 9, title = "(Change Is) Never a Waste of Time", mbid = "65502786-7e11-463b-b5dd-b73624c8b008" },
+  { n = 10, title = "Big Bad Love", mbid = "cbc5173a-22db-497f-8e97-99035de1042b" },
+]
+
+[[release]]
+mbid = "9127f91c-94d2-3aa2-a020-f93a5dada9ba"
+title = "Hand in My Pocket"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Hand in My Pocket", mbid = "a905e294-853a-436c-aa70-161e930265ee" },
+  { n = 2, title = "Head Over Feet (live acoustic)", mbid = "808ca663-c526-4cd2-b2b8-4b58334ad7c2" },
+  { n = 3, title = "Not the Doctor (live acoustic)", mbid = "831bc8cb-f5b8-425c-b202-90b6c0aa471e" },
+]
+
+[[release]]
+mbid = "ee3d18ed-d6a8-37c7-a964-41bbdb6d59f1"
+title = "Jagged Little Pill"
+type = "album"
+date = "1995-06-09"
+spotify = "53PMAZQe9VoLQ3U87SjFkd"
+tracks = [
+  { n = 1, title = "All I Really Want", mbid = "c5659cc0-b86b-4e2f-95f3-8d55b0d1e672" },
+  { n = 2, title = "You Oughta Know", mbid = "8e25b4da-cd53-45d8-9c86-aa0d72d8b5ce" },
+  { n = 3, title = "Perfect", mbid = "b0ead1e3-f8a0-4078-b994-c0c6a3f407c5" },
+  { n = 4, title = "Hand in My Pocket", mbid = "a905e294-853a-436c-aa70-161e930265ee" },
+  { n = 5, title = "Right Through You", mbid = "f171431e-2e3f-4898-a6e3-7062920c4e21" },
+  { n = 6, title = "Forgiven", mbid = "8dac9304-b57d-45f6-9860-ce27f20b2da4" },
+  { n = 7, title = "You Learn", mbid = "e3b19d83-1fe3-47ac-91d3-36ce33d53732" },
+  { n = 8, title = "Head Over Feet", mbid = "30624418-169b-4007-9b50-27414a63f5de" },
+  { n = 9, title = "Mary Jane", mbid = "5955a265-57f9-4a3d-a7fa-27049469ca64" },
+  { n = 10, title = "Ironic", mbid = "245329cb-8cdb-43ba-8fe4-0b3e1aad8761" },
+  { n = 11, title = "Not the Doctor", mbid = "cd7c7fc6-c8dc-4b3e-8ae7-b92bb301bb3b" },
+  { n = 12, title = "Wake Up", mbid = "d3e78cc1-2f05-4e59-96f0-5b07495bb877" },
+  { n = 13, title = "You Oughta Know (Jimmy the Saint Blend) / Your House", mbid = "8a2f962e-0512-4d38-82b7-cbd6fefc9aed" },
+]
+
+[[release]]
+mbid = "eedb58ec-d753-3ac8-adfe-939939127e6f"
+title = "You Oughta Know"
+type = "single"
+date = "1995-07-07"
+tracks = [
+  { n = 1, title = "You Oughta Know (The Jimmy the Saint Blend clean version)", mbid = "f6ea1eef-1a38-4f51-a1ed-421ebb78b724" },
+  { n = 2, title = "You Oughta Know (The Jimmy the Saint Blend)", mbid = "57ac3798-f960-4e3a-813c-7c7f8357f479" },
+  { n = 3, title = "Perfect (acoustic version)", mbid = "879a4dd3-092f-4ba3-8eff-e3d531c91f59" },
+]
+
+[[release]]
+mbid = "794c315c-15dd-3e8b-a0d5-ea16ba5afddf"
+title = "All I Really Want"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "All I Really Want", mbid = "c5659cc0-b86b-4e2f-95f3-8d55b0d1e672" },
+  { n = 2, title = "Ironic (live from Sydney)", mbid = "12090ba7-9b9e-496a-b17e-3f386f32bef9" },
+  { n = 3, title = "Hand in My Pocket (live from Brisbane)", mbid = "61cad58d-5178-4737-a042-b7263339efa8" },
+]
+
+[[release]]
+mbid = "a048de6d-b84e-3a73-8777-bc84ca3456c0"
+title = "Ironic"
+type = "single"
+date = "1996-02-27"
+tracks = [
+  { n = 1, title = "Ironic", mbid = "245329cb-8cdb-43ba-8fe4-0b3e1aad8761" },
+  { n = 2, title = "You Oughta Know (acoustic live from the Grammy Awards)", mbid = "6b6701b8-748e-42bf-ad4a-8b0395f23c00" },
+  { n = 3, title = "Mary Jane (live)", mbid = "c899e012-de6e-45be-8684-013f7fc9757a" },
+  { n = 4, title = "All I Really Want (live)", mbid = "5074c2b5-14f6-4314-a189-08cc0ebd0d1a" },
+]
+
+[[release]]
+mbid = "3841fee4-a7a5-3470-b2a5-58e8a545e967"
+title = "You Learn"
+type = "single"
+date = "1996-07-09"
+tracks = [
+  { n = 1, title = "You Learn", mbid = "e3b19d83-1fe3-47ac-91d3-36ce33d53732" },
+  { n = 2, title = "Your House (live in Tokyo)", mbid = "4dc5ee1a-0d46-4747-9ac9-810b174794a7" },
+  { n = 3, title = "Wake Up (Modern Rock live)", mbid = "2156a19a-ee28-450f-b27e-fdaa1589ce4e" },
+  { n = 4, title = "Hand in My Pocket", mbid = "a905e294-853a-436c-aa70-161e930265ee" },
+]
+
+[[release]]
+mbid = "3387c693-baea-3581-b90d-34ec3462facf"
+title = "Head Over Feet"
+type = "single"
+date = "1996-10-10"
+tracks = [
+  { n = 1, title = "Head Over Feet (LP version)", mbid = "30624418-169b-4007-9b50-27414a63f5de" },
+  { n = 2, title = "You Learn (live)", mbid = "39efa3a3-aa8d-4bf3-8f34-7e12be8fe607" },
+  { n = 3, title = "Hand in My Pocket (live)", mbid = "32192f78-e864-4475-82ea-29c813a322d4" },
+  { n = 4, title = "Right Through You (live)", mbid = "4bcb5d38-875f-44fe-8821-3f90a109d8f9" },
+]
+
+[[release]]
+mbid = "da5765f8-4306-32f7-aab0-793739a3599a"
+title = "Thank U"
+type = "single"
+date = "1998-09"
+tracks = [
+  { n = 1, title = "Thank U", mbid = "72930b59-2fe0-414d-b384-d65897bd3cf5" },
+  { n = 2, title = "Uninvited (demo)", mbid = "a57322fc-6974-4309-8eaf-3917a1d0d20b" },
+]
+
+[[release]]
+mbid = "d0d7a3a4-b419-3e50-b032-3255c830765e"
+title = "Supposed Former Infatuation Junkie"
+type = "album"
+date = "1998-11-02"
+spotify = "2QXT4rGSfqjqfgpZ059yKp"
+tracks = [
+  { n = 1, title = "Front Row", mbid = "96465bf5-fa7d-4ca4-a325-4a0484320b75" },
+  { n = 2, title = "Baba", mbid = "0e35ba82-7eff-4be0-8fe1-bde2ef4419b0" },
+  { n = 3, title = "Thank U", mbid = "72930b59-2fe0-414d-b384-d65897bd3cf5" },
+  { n = 4, title = "Are You Still Mad", mbid = "2e3972f5-ad1b-40e3-9282-1e34fb2dc0f9" },
+  { n = 5, title = "Sympathetic Character", mbid = "6f065ff8-44b6-4c70-83e6-e0dbf24c5c66" },
+  { n = 6, title = "That I Would Be Good", mbid = "e9e4690d-ac5a-4cc4-8736-326741f23f91" },
+  { n = 7, title = "The Couch", mbid = "b123d90d-8db4-44cc-af55-174f8a483018" },
+  { n = 8, title = "Can’t Not", mbid = "f0daae14-9959-4c65-9843-0a1a0c33be21" },
+  { n = 9, title = "UR", mbid = "2869f218-122f-450f-874d-8e1d0de54361" },
+  { n = 10, title = "I Was Hoping", mbid = "e80307d8-2a10-4a18-b6f2-fe9725ae6d5e" },
+  { n = 11, title = "One", mbid = "ef5486fe-b9b2-4e48-a7b9-7166b1bece76" },
+  { n = 12, title = "Would Not Come", mbid = "67c7c0f0-b394-4ce3-b6b8-a1b798a86bd5" },
+  { n = 13, title = "Unsent", mbid = "a7f2a2c5-981c-4a26-91a5-732a7dfdcd7a" },
+  { n = 14, title = "So Pure", mbid = "7371b910-3c6b-448b-a0de-4f2dea2bbf8a" },
+  { n = 15, title = "Joining You", mbid = "86507214-9878-43df-b23d-3a75e495f46c" },
+  { n = 16, title = "Heart of the House", mbid = "b59092c0-a41b-421a-9075-96549b1a3ccd" },
+  { n = 17, title = "Your Congratulations", mbid = "a74e1b19-28a8-4ff2-9808-af1df103ef89" },
+  { n = 18, title = "Uninvited (demo)", mbid = "a57322fc-6974-4309-8eaf-3917a1d0d20b" },
+]
+
+[[release]]
+mbid = "9c3bc04c-4075-310e-bca8-b4c493a4619b"
+title = "Joining You"
+type = "single"
+date = "1999-02-23"
+tracks = [
+  { n = 1, title = "Joining You", mbid = "86507214-9878-43df-b23d-3a75e495f46c" },
+  { n = 2, title = "Your House (BBC/Radio One live)", mbid = "099b2aea-0a9e-4722-a73b-f42a0a6628ec" },
+  { n = 3, title = "London (Bridge School Benefit live)", mbid = "69c4ad34-6e0f-492a-b06c-057c88a4abe7" },
+]
+
+[[release]]
+mbid = "5c056163-18de-3ee4-a083-304c0a545e78"
+title = "Unsent"
+type = "single"
+date = "1999-03"
+tracks = [
+  { n = 1, title = "Unsent", mbid = "a7f2a2c5-981c-4a26-91a5-732a7dfdcd7a" },
+  { n = 2, title = "Are You Still Mad (BBC/Radio One live)", mbid = "b1805c25-4fa5-4fe2-8914-af4f3cec20bc" },
+  { n = 3, title = "London (Bridge School Benefit live)", mbid = "69c4ad34-6e0f-492a-b06c-057c88a4abe7" },
+]
+
+[[release]]
+mbid = "53b3dfb8-eeab-3772-b90a-f986cf4163c8"
+title = "So Pure"
+type = "single"
+date = "1999-03-05"
+tracks = [
+  { n = 1, title = "So Pure", mbid = "7371b910-3c6b-448b-a0de-4f2dea2bbf8a" },
+  { n = 2, title = "Would Not Come (live)", mbid = "ba83c770-0545-4a9b-9656-f33f826236c3" },
+  { n = 3, title = "So Pure (acoustic Modern Rock live)", mbid = "25b6083b-2264-4796-bf53-7f0bca01f251" },
+]
+
+[[release]]
+mbid = "ffa5355a-6bbb-37c8-bc34-3d76fac6c555"
+title = "Under Rug Swept"
+type = "album"
+date = "2001"
+spotify = "0kKfmdca8GY7bDWFWtY801"
+tracks = [
+  { n = 1, title = "21 Things I Want in a Lover", mbid = "3ef350b9-75b1-406a-9568-883aedba7bb1" },
+  { n = 2, title = "Narcissus", mbid = "ae506f5e-5762-48f8-a231-1292762b8e2e" },
+  { n = 3, title = "Hands Clean", mbid = "1ca02031-b1bc-434d-b18e-83fda3a710f9" },
+  { n = 4, title = "Flinch", mbid = "3735c24b-bc74-4116-9df9-23080524d7a8" },
+  { n = 5, title = "So Unsexy", mbid = "c3f96c9c-4e58-4b2d-b5aa-a579e42d150c" },
+  { n = 6, title = "Precious Illusions", mbid = "286a1266-c1b0-430f-b1af-4f0adc49a141" },
+  { n = 7, title = "That Particular Time", mbid = "5cf6ea23-d80f-4323-9ff0-332b1c4b25ed" },
+  { n = 8, title = "A Man", mbid = "a9536e1e-411f-482f-8ad3-d4d37ad2cde8" },
+  { n = 9, title = "You Owe Me Nothing in Return", mbid = "539458ba-c991-44e7-9a17-41bb3105705a" },
+  { n = 10, title = "Surrendering", mbid = "67826808-1eb9-49a6-95e9-da9251e15a87" },
+  { n = 11, title = "Utopia", mbid = "40da0525-267e-4536-b59d-22179a65b1c0" },
+]
+
+[[release]]
+mbid = "4a5be1d3-b4bd-3eaa-8639-3f77ebde3ce8"
+title = "Hands Clean"
+type = "single"
+date = "2002-01-28"
+tracks = [
+  { n = 1, title = "Hands Clean", mbid = "1ca02031-b1bc-434d-b18e-83fda3a710f9" },
+  { n = 2, title = "Fear of Bliss", mbid = "2ee39c69-360c-4c71-b28b-87759f541a0f" },
+  { n = 3, title = "Sister Blister", mbid = "dc385bad-8a50-4061-aa9d-64bc82ee6331" },
+]
+
+[[release]]
+mbid = "a05b00cd-3f33-3f5a-aad8-952a2988e0c0"
+title = "Precious Illusions"
+type = "single"
+date = "2002-08-05"
+tracks = [
+  { n = 1, title = "Precious Illusions", mbid = "286a1266-c1b0-430f-b1af-4f0adc49a141" },
+  { n = 2, title = "Hands Clean (acoustic)", mbid = "98c1e4c5-b790-426f-bc06-3e801bc80fc0" },
+  { n = 3, title = "Offer", mbid = "f9b4f995-b136-4a4c-a9ee-e14373e31c63" },
+  { n = 4, title = "Bent 4 U", mbid = "4979b439-5409-4ced-9511-c823aae16c44" },
+]
+
+[[release]]
+mbid = "a9a390d3-a16a-392d-bc73-7d35b801b097"
+title = "So‐Called Chaos"
+type = "album"
+date = "2004-04-21"
+tracks = [
+  { n = 1, title = "Eight Easy Steps", mbid = "1955111a-be62-4308-a364-25135a1ca519" },
+  { n = 2, title = "Out Is Through", mbid = "49808aa3-09e3-44c0-b05d-e07a6ec50af4" },
+  { n = 3, title = "Excuses", mbid = "5fff9b32-1f4f-4898-aa1f-b0861ed396f5" },
+  { n = 4, title = "Doth I Protest Too Much", mbid = "6938b71d-1df8-4a48-8450-f3e9af8f9a19" },
+  { n = 5, title = "Knees of My Bees", mbid = "0644a604-5083-4537-90f7-9151e89d899c" },
+  { n = 6, title = "So‐Called Chaos", mbid = "7f1146ac-48cc-47fd-8a94-5eb48dc47f81" },
+  { n = 7, title = "Not All Me", mbid = "29f10439-6212-44e1-8e28-a774cafedd70" },
+  { n = 8, title = "This Grudge", mbid = "1cbeea3e-a284-4cda-86d0-d0d7bd7a94e3" },
+  { n = 9, title = "Spineless", mbid = "1f844dd1-1125-45bf-9af4-8237d6e8189f" },
+  { n = 10, title = "Everything", mbid = "3198e94e-02ef-486d-a533-8d31c3f5ffdd" },
+]
+
+[[release]]
+mbid = "e16e6c4d-18a6-3142-a149-a0582b2b1b2f"
+title = "Everything"
+type = "single"
+date = "2004-05-10"
+tracks = [
+  { n = 1, title = "Everything (radio edit)", mbid = "5ba2bb14-57f1-4305-bc23-499a23ea3db1" },
+  { n = 2, title = "So Unsexy (Vancouver sessions)", mbid = "6343efc9-9d26-48a6-923b-69e68e87be05" },
+  { n = 3, title = "Everything (Vancouver sessions)", mbid = "9b34320e-a67f-409f-9381-57beb8ef26df" },
+]
+
+[[release]]
+mbid = "2cfc4461-e411-4c64-8c37-4bda3cc8ea17"
+title = "A Man"
+type = "single"
+date = "2004-05-18"
+tracks = [
+  { n = 1, title = "A Man (Vancouver sessions)", mbid = "117389ea-f191-4ae4-892e-58530a920412" },
+]
+
+[[release]]
+mbid = "ea7e56a6-6751-4abd-b2ba-fda45fdf1e57"
+title = "Excuses"
+type = "single"
+date = "2004-05-18"
+spotify = "2HXpuHXodrdvfAwagU4nqo"
+tracks = [
+  { n = 1, title = "Excuses (acoustic)", mbid = "ad4d457f-75ff-4149-9e77-137836d7c70f" },
+]
+
+[[release]]
+mbid = "2f42b9c6-805c-4a45-9e60-d06ce009f44f"
+title = "So-Called Chaos"
+type = "single"
+date = "2004-05-18"
+tracks = [
+  { n = 1, title = "So-Called Chaos (Vancouver sessions)", mbid = "f41e2e2b-709c-408f-8048-7ceaee55d6cf" },
+]
+
+[[release]]
+mbid = "ed9586a1-3b13-36a2-9fdd-10fe44c3974b"
+title = "Out Is Through"
+type = "single"
+date = "2004-07-19"
+tracks = [
+  { n = 1, title = "Out Is Through", mbid = "49808aa3-09e3-44c0-b05d-e07a6ec50af4" },
+  { n = 2, title = "Eight Easy Steps (Vancouver sessions)", mbid = "c9c5695e-4ec7-4015-a182-9f6081359bd1" },
+  { n = 3, title = "This Grudge (Vancouver sessions)", mbid = "4150c5cb-6feb-4c7b-bcfe-4fac5dbeefe3" },
+]
+
+[[release]]
+mbid = "61148b5a-1a93-3c3e-86a7-0d477fd590dd"
+title = "Eight Easy Steps"
+type = "single"
+date = "2004-10-26"
+spotify = "02Ybqh2fhRs8pi57ukDIGB"
+tracks = [
+  { n = 1, title = "Eight Easy Steps (Thick Dick Filter mix)", mbid = "8a99d6bb-cb4c-4be0-b701-6a88613a9aa1" },
+  { n = 2, title = "Eight Easy Steps (Jez Colin & Flipper Dalton remix)", mbid = "dd8bcf06-8502-4b21-bb97-e41f203ce539" },
+  { n = 3, title = "Eight Easy Steps (The Orange Factory mix)", mbid = "d5f7c3b2-ad8d-4d13-be13-73ee4ba6b653" },
+  { n = 4, title = "Eight Easy Steps (Smitty & Gabriel D. Vine remix)", mbid = "c8030e30-1bc2-4ad1-9784-510e39f0770b" },
+]
+
+[[release]]
+mbid = "b6b00010-f596-352d-b967-1bca87009cb7"
+title = "Jagged Little Pill (acoustic)"
+type = "album"
+date = "2005-05-24"
+tracks = [
+  { n = 1, title = "All I Really Want", mbid = "377f98ae-8a3c-4124-b756-c1955bcbfc37" },
+  { n = 2, title = "You Oughta Know", mbid = "a0ef03d3-5592-4c49-a7ba-16efef279773" },
+  { n = 3, title = "Perfect", mbid = "fd266cd5-a007-4989-960c-2a1583b090c9" },
+  { n = 4, title = "Hand in My Pocket", mbid = "d4edafe0-be57-4c20-9c87-64762f5e810f" },
+  { n = 5, title = "Right Through You", mbid = "e0a2bc69-d4ab-4213-9263-a9729f80e2c5" },
+  { n = 6, title = "Forgiven", mbid = "394824d8-b862-4bed-a8d1-c94dda573d78" },
+  { n = 7, title = "You Learn", mbid = "cf897b11-da88-466b-a385-d76327b63afc" },
+  { n = 8, title = "Head Over Feet", mbid = "6fb7379f-2a81-4997-ad5d-5117ab0a622b" },
+  { n = 9, title = "Mary Jane", mbid = "7b2a08d7-01d8-43d9-a416-73d239bb18f6" },
+  { n = 10, title = "Ironic", mbid = "dfc023e4-08d2-4433-9d48-139233638b79" },
+  { n = 11, title = "Not the Doctor", mbid = "ccadef85-8d24-49c7-b443-c7b50932dceb" },
+  { n = 12, title = "Wake Up / Your House", mbid = "8ff4f328-4566-40e1-a640-d2caa857974e" },
+]
+
+[[release]]
+mbid = "fbe03ad6-3526-4770-a7c5-4b07526c15da"
+title = "Hand in My Pocket"
+type = "single"
+date = "2005-07-18"
+tracks = [
+  { n = 1, title = "Hand in My Pocket (acoustic version)", mbid = "7e1cce65-f374-4c96-ac4c-6d6635ee199d" },
+]
+
+[[release]]
+mbid = "940bd9e6-8a7b-3a51-a516-1e3096a02e90"
+title = "Crazy"
+type = "single"
+date = "2005-09-26"
+tracks = [
+  { n = 1, title = "Crazy (James Michaels Mix)", mbid = "e886abe9-ffa4-4b58-af35-79d86eb81542" },
+]
+
+[[release]]
+mbid = "5237dcb0-03f7-4997-9c9e-0df92502f5ce"
+title = "My Humps"
+type = "single"
+date = "2007-05-10"
+tracks = [
+  { n = 1, title = "My Humps", mbid = "4275eca0-c4a2-493c-a873-b3aa6498184f" },
+]
+
+[[release]]
+mbid = "315364c9-525d-369d-adce-8e9526e72d24"
+title = "Flavors of Entanglement"
+type = "album"
+date = "2008-05-21"
+spotify = "1CNRxsbDzDbMVc85bA9E2i"
+tracks = [
+  { disc = 1, n = 1, title = "Citizen of the Planet", mbid = "777c3e8a-f3aa-41e9-8296-28d09bf42f18" },
+  { disc = 1, n = 2, title = "Underneath", mbid = "dccc9e68-5a4d-4468-9f8f-8f37bddea7bc" },
+  { disc = 1, n = 3, title = "Straitjacket", mbid = "f63a624e-0a51-4890-ac20-5a275b6b8d6d" },
+  { disc = 1, n = 4, title = "Versions of Violence", mbid = "f6bd724c-a6fb-4833-9ac1-2731abcad32d" },
+  { disc = 1, n = 5, title = "Not as We", mbid = "159eee77-dce1-4258-87be-b185e2503395" },
+  { disc = 1, n = 6, title = "In Praise of the Vulnerable Man", mbid = "bd2d0232-c17b-477b-91a5-6a35bae6d22a" },
+  { disc = 1, n = 7, title = "Moratorium", mbid = "0b22d011-2905-4b74-9ee5-94cb97358cb0" },
+  { disc = 1, n = 8, title = "Torch", mbid = "e13759d3-cee8-4fba-8732-00d89308de54" },
+  { disc = 1, n = 9, title = "Giggling Again for No Reason", mbid = "baf2105e-b7bb-4cdb-8daa-b59cda7883d6" },
+  { disc = 1, n = 10, title = "Tapes", mbid = "a8010e40-792d-4925-a746-b9a96a38a4b9" },
+  { disc = 1, n = 11, title = "Incomplete", mbid = "3c3240f2-538e-4bcb-846c-3fdb5fd05d54" },
+  { disc = 2, n = 1, title = "Orchid", mbid = "7f678134-96aa-435d-b9c3-60f1d0328722" },
+  { disc = 2, n = 2, title = "The Guy Who Leaves", mbid = "b49cf80f-fe88-494d-8379-15850bf8bf24" },
+  { disc = 2, n = 3, title = "Madness", mbid = "48c8faa0-50e7-4af7-933b-d9e316b585dd" },
+  { disc = 2, n = 4, title = "Limbo No More", mbid = "e6b5d13c-cf46-4421-87bc-16ad6f87504b" },
+  { disc = 2, n = 5, title = "On the Tequila", mbid = "a0162ef7-684f-415c-9db9-3ccc3c44eafc" },
+]
+
+[[release]]
+mbid = "fb3d2765-2841-3878-8d78-aa9daff780aa"
+title = "Underneath"
+type = "single"
+date = "2008-05-23"
+tracks = [
+  { n = 1, title = "Underneath", mbid = "dccc9e68-5a4d-4468-9f8f-8f37bddea7bc" },
+  { n = 2, title = "20/20", mbid = "0df5fb5f-dbca-46f3-80b8-8cb69724a460" },
+  { n = 3, title = "Underneath (Josh Harris remix)", mbid = "5717a890-82ff-4110-b197-6f22ec99bea3" },
+]
+
+[[release]]
+mbid = "81e3001d-968c-4df3-a483-dad829edacd9"
+title = "Underneath / 20/20"
+type = "single"
+date = "2008-07-08"
+tracks = [
+  { n = 1, title = "Underneath", mbid = "8aa4e900-f894-4ee4-93d8-956a3a778d36" },
+  { n = 2, title = "20/20", mbid = "fbfbc0f4-1e45-4798-98c7-4805f245598e" },
+]
+
+[[release]]
+mbid = "5b0e5a9a-5a49-3149-b769-8d6af54a95a0"
+title = "In Praise of the Vulnerable Man"
+type = "single"
+date = "2008-08-15"
+tracks = [
+  { n = 1, title = "In Praise of the Vulnerable Man", mbid = "129f8445-4f7a-4829-af09-ffd8685d9ebc" },
+]
+
+[[release]]
+mbid = "eccf1eb7-d1d5-3abb-ab25-edddf96e5c43"
+title = "Not as We"
+type = "single"
+date = "2008-10-03"
+tracks = [
+  { n = 1, title = "Not as We", mbid = "a6293dad-9b19-4d56-b67f-1a8f465a2672" },
+]
+
+[[release]]
+mbid = "af0d878b-e6c9-4f01-ab95-19aafe23a30d"
+title = "Guardian"
+type = "single"
+date = "2012-05-15"
+tracks = [
+  { n = 1, title = "Guardian", mbid = "811451fb-9f02-402e-8a55-992a3d62d01e" },
+  { n = 2, title = "Ironic (live in Berlin edit)", mbid = "ac729f2c-92e2-4141-9e7f-6c0b9b90c641" },
+]
+
+[[release]]
+mbid = "c982b294-eb95-415c-80ca-5d071ab7c74a"
+title = "Havoc and Bright Lights"
+type = "album"
+date = "2012-08-12"
+spotify = "6bodlJ1XXirCh8YDvJUim8"
+tracks = [
+  { n = 1, title = "Guardian", mbid = "811451fb-9f02-402e-8a55-992a3d62d01e" },
+  { n = 2, title = "Woman Down", mbid = "a3e44ce6-5883-4ea1-a355-7f93d2db7206" },
+  { n = 3, title = "’Til You", mbid = "3284a064-a7cd-492e-b603-98401b98bcc5" },
+  { n = 4, title = "Celebrity", mbid = "89ad6166-e5e6-4363-9373-72742ccdde4e" },
+  { n = 5, title = "Empathy", mbid = "f6c3ec52-2797-44b7-838d-668d7c603e21" },
+  { n = 6, title = "Lens", mbid = "4c1066a6-f635-455f-ae26-1df6505e2a48" },
+  { n = 7, title = "Spiral", mbid = "b2a1626b-4537-47d8-ba56-d088b7ce7cab" },
+  { n = 8, title = "Numb", mbid = "acb951a8-53e3-44ca-9684-208d287138b6" },
+  { n = 9, title = "Havoc", mbid = "fdcdd57a-7dde-474a-b8b4-dfa3ff715bbd" },
+  { n = 10, title = "Win and Win", mbid = "c1ad9cc3-5188-4806-bcde-1e1b95f81936" },
+  { n = 11, title = "Receive", mbid = "9f18e458-f695-407e-b0f1-73f78ee3571e" },
+  { n = 12, title = "Edge of Evolution", mbid = "5973218d-ff11-42d4-98e8-b4ddc2f622bf" },
+  { n = 13, title = "No", mbid = "432671d1-129c-41db-8094-03031ca93efd" },
+]
+
+[[release]]
+mbid = "1671ebc6-2a48-45c4-85f1-3301fbd6e248"
+title = "Receive"
+type = "single"
+date = "2012-10-26"
+tracks = [
+  { n = 1, title = "Receive (radio edit)", mbid = "b27b7008-10b9-4180-9324-f0ff096421ef" },
+]
+
+[[release]]
+mbid = "3d5cef51-7a9f-4859-9405-e2fb0241e765"
+title = "Big Sur"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Big Sur", mbid = "9c82fa50-b391-49de-b2fa-d00c41566b7f" },
+  { n = 2, title = "Into a King", mbid = "18fbdaa5-8f8a-45e8-bb30-11b23c3d54e3" },
+]
+
+[[release]]
+mbid = "3337192e-0e12-4ad3-a033-1661cafb54b2"
+title = "The Morning"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "The Morning", mbid = "d786644a-d40d-4b8f-8536-3610b10f80bb" },
+]
+
+[[release]]
+mbid = "ddf137d4-d443-40c5-8b7b-d940e1479bc3"
+title = "Superstar Wonderful Weirdos"
+type = "single"
+date = "2015-09-10"
+tracks = [
+  { n = 1, title = "Superstar Wonderful Weirdos", mbid = "2b26ecf6-1bf3-42f3-93fe-d488fd0da033" },
+]
+
+[[release]]
+mbid = "174d2ee4-07ea-46c1-b730-212480d0c19b"
+title = "Closer Than You Might Believe"
+type = "single"
+date = "2015-09-30"
+spotify = "6j2WKsT19bHuJYIHnx82dl"
+tracks = [
+  { n = 1, title = "Closer Than You Might Believe", mbid = "aec790b7-8f07-4564-bdec-9b0906204e66" },
+]
+
+[[release]]
+mbid = "1b4a489c-c204-4f39-89e4-22abb7fe67d1"
+title = "The Bottom Line"
+type = "single"
+date = "2015-10-23"
+spotify = "5pGLcJOMqHJ6TeI0CfUJ5m"
+tracks = [
+  { n = 1, title = "The Bottom Line", mbid = "508025ee-b3fd-4012-9f4d-2bda15895a87" },
+]
+
+[[release]]
+mbid = "b267647b-41b0-455b-b124-c4f9d565b057"
+title = "Lens"
+type = "single"
+date = "2016"
+tracks = [
+  { n = 1, title = "Lens", mbid = "b3490292-d10d-4f3c-947f-8274076c4047" },
+]
+
+[[release]]
+mbid = "cbc9be44-e06a-4107-b190-3c322c51aec9"
+title = "Snow Angel"
+type = "single"
+date = "2017-01-27"
+spotify = "31PjnEys3AlEsVC6kgYJah"
+tracks = [
+  { n = 1, title = "Snow Angel", mbid = "75fb1aed-fc83-4b93-8589-de93df31d67f" },
+]
+
+[[release]]
+mbid = "02cec9e1-3791-4616-9ce7-214418076fc0"
+title = "Jagged Little Pill (Original Broadway Cast Recording)"
+type = "album"
+date = "2019-11-28"
+spotify = "2nxawjFtmRnYQpDYZicDL2"
+tracks = [
+  { n = 1, title = "Overture", mbid = "ed9e4759-80ea-4eff-ab6c-54ea1525c57e" },
+  { n = 2, title = "Right Through You", mbid = "410891fc-906b-4718-bf95-ed5dd13a1115" },
+  { n = 3, title = "All I Really Want", mbid = "ebf23fe7-e981-4785-a4b7-686c6be33d63" },
+  { n = 4, title = "Hand in My Pocket", mbid = "bf7ae08f-71c0-4254-b78c-4cb395f912ad" },
+  { n = 5, title = "Smiling", mbid = "efafabf5-ec49-415e-96f6-79a4d634a95d" },
+  { n = 6, title = "Ironic", mbid = "a28d6c68-b95f-4e8f-b270-dad8ea667cfd" },
+  { n = 7, title = "So Unsexy", mbid = "5413247d-e9ec-46e2-8d05-b621b839100a" },
+  { n = 8, title = "Perfect", mbid = "8929dbda-56d6-45b0-9f40-0018a37261a3" },
+  { n = 9, title = "Lancer’s Party (So Pure)", mbid = "1fba2bc7-578c-445f-bba2-b7128d9b4ab6" },
+  { n = 10, title = "That I Would Be Good", mbid = "bd4513b6-94be-474f-ba32-d08fdddf48aa" },
+  { n = 11, title = "Wake Up", mbid = "4d560beb-8cdd-48d8-bd21-12660e60d8a9" },
+  { n = 12, title = "Forgiven", mbid = "02cd24d7-1b9e-4f7b-992b-55af62d57ae2" },
+  { n = 13, title = "Entr’Acte (Hands Clean)", mbid = "82419041-76ae-4aa7-a69d-b20d7d498b65" },
+  { n = 14, title = "Not the Doctor", mbid = "0ba7088d-9446-498e-b5ed-6b8839c88c28" },
+  { n = 15, title = "Head Over Feet", mbid = "81fdb2e4-cad9-480a-9c11-a7032ec618d6" },
+  { n = 16, title = "Unprodigal Daughter", mbid = "1d098f97-94a6-404c-aa61-a2184ae74bea" },
+  { n = 17, title = "Predator", mbid = "a01d49b1-fdec-4de8-9330-5e1d29aeddf0" },
+  { n = 18, title = "You Oughta Know", mbid = "f0348466-2a46-45b4-8509-6fb567e7821c" },
+  { n = 19, title = "Uninvited", mbid = "4daa8858-2903-4dba-b8ca-1ab4d1ab065a" },
+  { n = 20, title = "Mary Jane", mbid = "f2bf91df-2f5f-45f3-9824-5c245d2e58ad" },
+  { n = 21, title = "No", mbid = "88e8c6b8-7b73-4b5f-ac39-3e7c4957d77a" },
+  { n = 22, title = "Thank U", mbid = "c4cefca5-8be9-4af1-bac1-720fdc2b44d4" },
+  { n = 23, title = "You Learn", mbid = "f220fe4d-404b-4cb2-a3be-3351ff28b0d7" },
+]
+
+[[release]]
+mbid = "73afa574-34bb-4aea-ae47-10f40678d91c"
+title = "Reasons I Drink"
+type = "single"
+date = "2019-12-02"
+spotify = "6wK00Db3muwYy5MrnH9PZ0"
+tracks = [
+  { n = 1, title = "Reasons I Drink", mbid = "21fdbfb2-bfa0-46f1-8404-5ffca609a398" },
+]
+
+[[release]]
+mbid = "5c8eace7-1fe4-4b94-abf6-c075ab65cd12"
+title = "Smiling"
+type = "single"
+date = "2020-02-21"
+spotify = "0tO08sdniPRapOCl6QgJwy"
+tracks = [
+  { n = 1, title = "Smiling", mbid = "e16259d2-b77f-4f09-8690-0dc78e514b72" },
+]
+
+[[release]]
+mbid = "a7b8913f-70f8-4f0e-9d32-3491cd8c7c05"
+title = "Diagnosis"
+type = "single"
+date = "2020-04-24"
+spotify = "7fauiby57DB9rfdC5xcdnQ"
+tracks = [
+  { n = 1, title = "Diagnosis", mbid = "5e74a939-d9ff-4b8f-b832-0c129c8de975" },
+]
+
+[[release]]
+mbid = "75a242c6-8fae-4893-b03b-5b993db72e85"
+title = "Smiling"
+type = "single"
+date = "2020-07-03"
+spotify = "3R2VssgfdyUVOlRbLYyPCY"
+tracks = [
+  { n = 1, title = "Smiling", mbid = "3592bb65-88de-4a8c-b387-f2f580ef74e5" },
+]
+
+[[release]]
+mbid = "e71822ed-b9d2-4224-a0c5-d68f4de32103"
+title = "Reckoning"
+type = "single"
+date = "2020-07-10"
+spotify = "2NjWrM6yXb0zuZHXUlYTNT"
+tracks = [
+  { n = 1, title = "Reckoning", mbid = "189c1475-3a95-4c28-8c64-49c4c7618c36" },
+]
+
+[[release]]
+mbid = "f68b2a8b-4010-48b7-977e-8d85e60d5f26"
+title = "Such Pretty Forks in the Road"
+type = "album"
+date = "2020-07-31"
+spotify = "2eOvsabOLLh9ibyANQiFFM"
+tracks = [
+  { n = 1, title = "Smiling", mbid = "e16259d2-b77f-4f09-8690-0dc78e514b72" },
+  { n = 2, title = "Ablaze", mbid = "5fc9f002-50e1-4214-8833-02765dbac4a9" },
+  { n = 3, title = "Reasons I Drink", mbid = "21fdbfb2-bfa0-46f1-8404-5ffca609a398" },
+  { n = 4, title = "Diagnosis", mbid = "5e74a939-d9ff-4b8f-b832-0c129c8de975" },
+  { n = 5, title = "Missing the Miracle", mbid = "824d4217-fd1f-462f-a9aa-06f4999bd6d8" },
+  { n = 6, title = "Losing the Plot", mbid = "1ccd3d32-8177-4d30-982b-d5248327ed87" },
+  { n = 7, title = "Reckoning", mbid = "189c1475-3a95-4c28-8c64-49c4c7618c36" },
+  { n = 8, title = "Sandbox Love", mbid = "7f247fb1-d650-45f1-9a9a-2d544b67053f" },
+  { n = 9, title = "Her", mbid = "a04a1aa2-e34c-45ea-8ee8-f4e24cef3b48" },
+  { n = 10, title = "Nemesis", mbid = "b907f288-9dcf-4859-9cd5-4bae449f088c" },
+  { n = 11, title = "Pedestal", mbid = "af5233d7-c084-4bc0-9583-171a590660da" },
+]
+
+[[release]]
+mbid = "05bd48e3-f022-48ec-88ff-76aca0702c2f"
+title = "Spotify Singles"
+type = "single"
+date = "2020-08-26"
+spotify = "5NKwlPY53QWP0SEsJM3qwY"
+tracks = [
+  { n = 1, title = "Reasons I Drink", mbid = "fbd4797f-f31d-4cb4-8682-89599830e624" },
+  { n = 2, title = "You Oughta Know", mbid = "37174af8-bdc5-42c5-898a-a2dfc7b051bf" },
+]
+
+[[release]]
+mbid = "7d93d71a-dc09-402d-9570-e490e03b2a1e"
+title = "Happy Xmas (War Is Over)"
+type = "single"
+date = "2020-11-27"
+spotify = "2UKOPmLTHkXGWXz2YOwAiI"
+tracks = [
+  { n = 1, title = "Happy Xmas (War Is Over)", mbid = "a88a5b92-4b17-4ea9-b415-f06d9114873e" },
+]
+
+[[release]]
+mbid = "566b25ac-293b-4d9c-9bad-7e9316487fb7"
+title = "Predator"
+type = "single"
+date = "2021-03-05"
+spotify = "7AGh2qKH7uNPZVZj02JNAD"
+tracks = [
+  { n = 1, title = "Predator", mbid = "2fa07ff3-3c96-431e-8703-5669f91cdf06" },
+]
+
+[[release]]
+mbid = "110950c2-6737-4a12-b501-d47b4c914a98"
+title = "I Miss the Band"
+type = "single"
+date = "2021-04-16"
+spotify = "7gV1IagJhRUliOKfn7LnIp"
+tracks = [
+  { n = 1, title = "I Miss the Band", mbid = "63ec7428-b1f9-405d-bf96-528b5c6736ee" },
+]
+
+[[release]]
+mbid = "d799911b-1e2d-4564-aeb3-27be8df04885"
+title = "Rest"
+type = "single"
+date = "2021-05-20"
+spotify = "04330b00NOjaj13gIDYbF9"
+tracks = [
+  { n = 1, title = "Rest", mbid = "cf082857-2fd3-4646-9a78-69d30b464e8e" },
+]
+
+[[release]]
+mbid = "42806899-7685-4427-b6b0-aed14069124e"
+title = "On the Road Again"
+type = "single"
+date = "2021-06-01"
+spotify = "07QIJ8zAWHMOKVAutNHsww"
+tracks = [
+  { n = 1, title = "On the Road Again", mbid = "57c3a2f0-2ed8-4f2f-8ad2-c0dca959ce36" },
+]
+
+[[release]]
+mbid = "51a392a0-5e04-4b9b-b204-c76c3199449e"
+title = "Emergency"
+type = "single"
+date = "2022"
+tracks = [
+  { n = 1, title = "Emergency", mbid = "b8661f22-6b9e-4f68-bb20-09d0849f34ed" },
+]
+
+[[release]]
+mbid = "cce778dd-7df7-451d-ab43-f02c4dcf6869"
+title = "Olive Branch"
+type = "single"
+date = "2022-03-11"
+spotify = "5YbaY96BSXMWPGKlqVW5VW"
+tracks = [
+  { n = 1, title = "Olive Branch", mbid = "9938188b-0bf5-4b99-8bbb-9a93393db7cd" },
+]
+
+[[release]]
+mbid = "52328941-fd17-42f8-9781-7c84621d0412"
+title = "You Oughta Know"
+type = "single"
+date = "2022-04-01"
+spotify = "7eMwL8nKcoYE8AYFO7LTuO"
+tracks = [
+  { n = 1, title = "You Oughta Know", mbid = "8035eedb-1428-42b3-b58d-432c8c285990" },
+]
+
+[[release]]
+mbid = "b2b5c94f-762a-4f39-a17f-f78046d0af82"
+title = "safety—empath in paradise"
+type = "single"
+date = "2022-05-18"
+spotify = "1On3FG0Rx4ujm6QGk2A69X"
+tracks = [
+  { n = 1, title = "safety—empath in paradise", mbid = "cc421197-2600-4712-87dc-0ff8edae644f" },
+]
+
+[[release]]
+mbid = "e6fda880-b2ca-4db9-901c-21a4b492598a"
+title = "The Storm Before the Calm"
+type = "album"
+date = "2022-06-17"
+spotify = "5mXNbzv8w9yL7yT4fcls2r"
+tracks = [
+  { n = 1, title = "light-the lightworker's lament", mbid = "94e8ec34-dd09-4ceb-8433-7ba1c2375cd8" },
+  { n = 2, title = "heart-power of a soft heart", mbid = "b18f3ecc-a2d8-45de-8712-862ae5e07176" },
+  { n = 3, title = "explore-the other side of stillness", mbid = "b9b6b687-50a5-4eba-845a-7266b32f44a3" },
+  { n = 4, title = "space-pause on violence", mbid = "c2c7522e-fdbf-498f-8904-675be393a982" },
+  { n = 5, title = "purification-the alchemical crunch", mbid = "f6732c83-50c0-4278-a4c7-48e3dffd68f5" },
+  { n = 6, title = "restore-calling generation X", mbid = "8b5d2e52-d7dc-4350-b73b-80a3029ef918" },
+  { n = 7, title = "awakening-in between thoughts", mbid = "de9cb5a8-1375-41e2-832d-5fea5cc22fbb" },
+  { n = 8, title = "ground-i want to live.", mbid = "0abec30c-3f01-4ad7-8b72-6686731a186b" },
+  { n = 9, title = "safety-empath in paradise", mbid = "cc421197-2600-4712-87dc-0ff8edae644f" },
+  { n = 10, title = "mania-resting in the fire", mbid = "7cc1b7b5-9dc3-4f77-ad90-0bf8af8bf45b" },
+  { n = 11, title = "vapor-amplified in stillness", mbid = "3ad0c0d7-6562-462e-bfc7-da80bffae7cd" },
+]
+
+[[release]]
+mbid = "b532f07f-73df-41a9-8428-38c5121de016"
+title = "Little Drummer Boy"
+type = "single"
+date = "2022-12-09"
+tracks = [
+  { n = 1, title = "Little Drummer Boy", mbid = "99e8464e-8c16-4596-8a00-2bac574d255d" },
+]
+
+[[release]]
+mbid = "39b4a300-4487-47c7-8685-c514f35c254a"
+title = "No Return"
+type = "single"
+date = "2023-04-14"
+spotify = "6G0kmbUxRMuYWptVeptxNn"
+tracks = [
+  { n = 1, title = "No Return (extended version from the original series “Yellowjackets”)", mbid = "8c0f40ed-4238-4982-b6a7-f072004d04be" },
+]
+
+[[release]]
+mbid = "3b655fde-121d-4852-b4bb-b4c9cf883114"
+title = "You Oughta Know"
+type = "single"
+date = "2023-04-21"
+spotify = "6IwwVGLtiflk9IkTcRwE6n"
+tracks = [
+  { n = 1, title = "You Oughta Know", mbid = "fd24becc-f9c1-4681-8094-9bb6f1755aee" },
+]
+
+[[release]]
+mbid = "eb8819d8-ba16-41a5-8ab4-df2f7ec59dcd"
+title = "Last Christmas"
+type = "ep"
+date = "2023-11-03"
+spotify = "0hWKsbIJAxQsvd0Yzt7TAY"
+tracks = [
+  { n = 1, title = "Happy Xmas (War Is Over)", mbid = "a88a5b92-4b17-4ea9-b415-f06d9114873e" },
+  { n = 2, title = "Little Drummer Boy", mbid = "0b7db51a-a657-4e88-b16d-63f9bec2e272" },
+  { n = 3, title = "What Child Is This", mbid = "3691fee4-16fb-4ef0-920e-9c6e1edfc9fc" },
+  { n = 4, title = "Last Christmas", mbid = "23b75e40-9c19-4a5c-b020-7c989af89244" },
+]
+
+[[release]]
+mbid = "d88dbd55-9ef2-44ff-ac33-e42003309b18"
+title = "O Holy Night"
+type = "single"
+date = "2024-12-19"
+spotify = "70FFfdqrZ3Hh5DsroqVeZj"
+tracks = [
+  { n = 1, title = "O Holy Night", mbid = "4eaa9052-c49f-49e6-8590-30a615a4e3ef" },
+]
+
+[[release]]
+mbid = "f939f84b-7178-44f6-9574-bcb6ca4f6a52"
+title = "Coming Around Again"
+type = "single"
+date = "2025-08-08"
+spotify = "04Gf1mGtzHDfQ4fI0I231I"
+tracks = [
+  { n = 1, title = "Coming Around Again", mbid = "4e99b715-a647-4016-819e-b7ccd236f2b2" },
+]
+
+[[release]]
+mbid = "f88917bc-61d0-4337-9ba3-aa26e4599a74"
+title = "Ave Maria"
+type = "single"
+date = "2025-12-18"
+spotify = "1IHnuhUXcl3LjZEhYLrBTe"
+tracks = [
+  { n = 1, title = "Ave Maria", mbid = "12eb3619-0821-4bb2-9a2b-52a7da5e46e7" },
+]
+
+[[release]]
+mbid = "5e290c68-6646-4b16-9c98-0ac84fb2ab86"
+title = "Season of the Witch"
+type = "single"
+date = "2026-09-25"
+spotify = "5BgDVmJ1cd0oqAUOWaXHLX"
+tracks = [
+  { n = 1, title = "Season of the Witch", mbid = "b1e58a97-bf27-44e9-b1a4-cb09739af971" },
+]
+
+[[release]]
+mbid = "4dd6dc8d-35b1-428a-aa80-50c7a455d0ec"
+title = "Beautiful Star of Bethlehem"
+type = "single"
+date = "2026-10-09"
+spotify = "5uZnaQHTcvXacWK1HSlXsg"
+tracks = [
+  { n = 1, title = "Beautiful Star of Bethlehem", mbid = "f12bc77d-4208-4c9c-9f4b-b71114e94a8f" },
+]

@@ -1,0 +1,268 @@
+format = 1
+
+[[release]]
+mbid = "299cc873-af43-4ae7-8e86-5313cce4fbf0"
+title = "La Loi de Murphy"
+type = "single"
+date = "2017-10-23"
+tracks = [
+  { n = 1, title = "La Loi de Murphy", mbid = "d2c29827-29d0-4327-82c2-b8a706b969ab" },
+]
+
+[[release]]
+mbid = "eb758ca6-7f7f-4c50-a4c9-aece2036f25e"
+title = "Je veux tes yeux"
+type = "single"
+date = "2018-01-31"
+tracks = [
+  { n = 1, title = "Je veux tes yeux", mbid = "196b3058-c318-4b5d-9fae-023d31152725" },
+]
+
+[[release]]
+mbid = "3747e483-6786-48dc-ae83-c92e3422e777"
+title = "La Thune"
+type = "single"
+date = "2018-06-19"
+tracks = [
+  { n = 1, title = "La Thune", mbid = "491bdc4c-a61b-44d7-b73c-f9ffd6e6446d" },
+]
+
+[[release]]
+mbid = "7c5d863e-443c-4ad9-90a2-05131c5f67d7"
+title = "La Madrague"
+type = "single"
+date = "2018-07-20"
+tracks = [
+  { n = 1, title = "La Madrague", mbid = "727e6f3b-7983-444f-9a9b-f1938d40b441" },
+]
+
+[[release]]
+mbid = "742fe5d1-5b2f-49c4-a989-be049f187d6f"
+title = "Jalousie"
+type = "single"
+date = "2018-09-20"
+spotify = "3Z7uaPeZzWCLC1ohxT7h5M"
+tracks = [
+  { n = 1, title = "Jalousie", mbid = "d2dffc63-3a1e-4658-af54-0609f34a7721" },
+]
+
+[[release]]
+mbid = "f5c122fd-4d97-4948-9f03-6515bd2ec667"
+title = "Brol"
+type = "album"
+date = "2018-10-05"
+spotify = "6KSvWFf4g4PrIldtchJsTC"
+tracks = [
+  { n = 1, title = "La Thune", mbid = "491bdc4c-a61b-44d7-b73c-f9ffd6e6446d" },
+  { n = 2, title = "Balance ton quoi", mbid = "bc543f2f-ad72-4223-82fe-8668e4ef02f3" },
+  { n = 3, title = "Jalousie", mbid = "cc13687b-ed3e-4bdf-8fad-3c37e381494b" },
+  { n = 4, title = "Tout oublier", mbid = "19d9ee7a-162f-4d33-87c1-f0041168a835" },
+  { n = 5, title = "La Loi de Murphy", mbid = "d2c29827-29d0-4327-82c2-b8a706b969ab" },
+  { n = 6, title = "Nombreux", mbid = "e023abac-c9ac-4cb8-94fc-3f47a7622143" },
+  { n = 7, title = "Victime des réseaux", mbid = "faab2dae-478c-4db4-a3e0-732fccd63180" },
+  { n = 8, title = "Les Matins", mbid = "da911412-5f26-4063-b924-07887b20e647" },
+  { n = 9, title = "Je veux tes yeux", mbid = "196b3058-c318-4b5d-9fae-023d31152725" },
+  { n = 10, title = "Ta reine", mbid = "e20630fc-752f-4741-9bc0-c421ae3bf4c8" },
+  { n = 11, title = "Flemme", mbid = "db14e406-71df-4cc2-b577-8ed6538c7e64" },
+  { n = 12, title = "Flou", mbid = "0916b327-c4e0-4a99-a770-41a783dc6d84" },
+]
+
+[[release]]
+mbid = "9a092cf1-959c-46fb-a9d1-cdd4e7edddb1"
+title = "Tout oublier"
+type = "single"
+date = "2018-10-13"
+tracks = [
+  { n = 1, title = "Tout oublier", mbid = "19d9ee7a-162f-4d33-87c1-f0041168a835" },
+]
+
+[[release]]
+mbid = "0b8f995c-2ab5-4f62-a34d-36902a981a33"
+title = "Oui ou non"
+type = "single"
+date = "2019-11-08"
+tracks = [
+  { n = 1, title = "Oui ou non", mbid = "d676bd39-1afb-4ca0-a86b-0fb56771bda7" },
+]
+
+[[release]]
+mbid = "6496f42b-f1c7-4aeb-aa65-f81d13e049e4"
+title = "Fever"
+type = "single"
+date = "2020-10-29"
+spotify = "35c9iadFgrCWLY0tuJH23H"
+tracks = [
+  { n = 1, title = "Fever", mbid = "c9c73eef-c709-4167-9d3c-245495637b2f" },
+]
+
+[[release]]
+mbid = "938d92dc-08d8-4de7-aa80-c032d1818c39"
+title = "Bruxelles je t’aime"
+type = "single"
+date = "2021-10-21"
+spotify = "72XwipnC6NWfEd5BIWAXMp"
+tracks = [
+  { n = 1, title = "Bruxelles je t’aime", mbid = "54f6a31f-7d60-4926-8242-2d48dd7cf423" },
+]
+
+[[release]]
+mbid = "4ac88d9d-46bd-47c9-9c93-27018bb750c1"
+title = "Démons"
+type = "single"
+date = "2021-12-02"
+spotify = "3lJzZK7Xt7pNi5mumlW0p8"
+tracks = [
+  { n = 1, title = "Démons", mbid = "a72d1519-6501-45ac-8030-3f2e36bf4f86" },
+]
+
+[[release]]
+mbid = "ae0033cb-db62-4e53-8c1c-c003304c0173"
+title = "Nonante‐cinq"
+type = "album"
+date = "2021-12-02"
+spotify = "3I756vFQ1PWvG2Q2jJsIkA"
+tracks = [
+  { n = 1, title = "Bruxelles je t’aime", mbid = "54f6a31f-7d60-4926-8242-2d48dd7cf423" },
+  { n = 2, title = "Libre", mbid = "d59f13be-31a4-4350-9255-1235435a2ef8" },
+  { n = 3, title = "On s’habitue", mbid = "8de43cb8-26c0-4061-95d6-a7acdaea0f4b" },
+  { n = 4, title = "Solo", mbid = "68dbcebc-1b2d-428b-86f5-d4844adf72cd" },
+  { n = 5, title = "Pensées positives", mbid = "6c122351-8fb1-4de0-8406-106bc7900923" },
+  { n = 6, title = "Taxi", mbid = "a3da677f-0b18-43ab-8a9c-c55c3c6c8a2b" },
+  { n = 7, title = "Démons", mbid = "a72d1519-6501-45ac-8030-3f2e36bf4f86" },
+  { n = 8, title = "Plus de sens", mbid = "b8c9c2cb-777a-487d-8787-1e21a3e75436" },
+  { n = 9, title = "Tempête", mbid = "550eacd0-5c35-44c9-8291-e90716aa5ac0" },
+  { n = 10, title = "Profite", mbid = "51bca00d-d39e-4bcd-86b5-f092dc055fda" },
+  { n = 11, title = "Mots justes", mbid = "c7cb3c5a-f225-4ea8-b8c3-189afb3410ad" },
+  { n = 12, title = "Mauvais rêves", mbid = "2ffbe202-8cf6-4f71-a8c8-c909844aa0ff" },
+]
+
+[[release]]
+mbid = "a2a9853b-4f5c-4322-a65a-7fbb319bbdf6"
+title = "Amour, haine et danger"
+type = "single"
+date = "2022-09-30"
+spotify = "6XXGJ69eGc1pjZCWcPuKm3"
+tracks = [
+  { n = 1, title = "Amour, haine et danger", mbid = "e675856d-8f3b-4d7f-8958-53a4bf9922eb" },
+]
+
+[[release]]
+mbid = "c7cc9bcf-ab89-4706-9b79-d587e6a7fb11"
+title = "Le temps fera les choses (Alternative version)"
+type = "single"
+date = "2023-02-16"
+spotify = "0nQUwoNmv8iylRwnl5ZJqa"
+tracks = [
+  { n = 1, title = "Le temps fera les choses (Alternative version)", mbid = "5ab28ac5-3cfc-491f-a570-d0b003c7d2dc" },
+]
+
+[[release]]
+mbid = "fc5f68dd-db37-498f-abd3-0e53453975e5"
+title = "NOTRE DAME"
+type = "single"
+date = "2024-07-28"
+spotify = "4qar0KwrgbpkVPPxshShhE"
+tracks = [
+  { n = 1, title = "NOTRE DAME", mbid = "8fcfd52e-55b1-4378-a06a-26fd7515c146" },
+]
+
+[[release]]
+mbid = "8a17f42c-f913-4a9f-8c40-ba4a719ed28d"
+title = "Nightcall"
+type = "single"
+date = "2024-09-20"
+spotify = "05OLq8nG4L5WYZXTfXVYM7"
+tracks = [
+  { n = 1, title = "Nightcall", mbid = "bdc66d13-bd51-48a8-b07c-7ca4fd033ea0" },
+]
+
+[[release]]
+mbid = "9e30339c-f589-4a82-8876-f781e9bc7744"
+title = "A Little More"
+type = "single"
+date = "2025-04-15"
+spotify = "0od1i4Xi2xwskVvHAWCQOt"
+tracks = [
+  { n = 1, title = "A Little More", mbid = "fcafebd5-47e8-43cb-b633-59022c7ea1c7" },
+]
+
+[[release]]
+mbid = "fbb30a58-02a5-4473-bd5c-72302df3ba34"
+title = "What You Want"
+type = "single"
+date = "2026-02-27"
+spotify = "0PWDYw8t6pEp4n8sFHZzOj"
+tracks = [
+  { n = 1, title = "What You Want", mbid = "08b0ae35-ab1e-421d-b4f3-74fe4fb4c1c0" },
+]
+
+[[release]]
+mbid = "45f9a256-c60e-4347-b935-94f98c5f632b"
+title = "Dis-le"
+type = "single"
+date = "2026-06-19"
+spotify = "27cdPx9msMd1V64HzU4DyF"
+tracks = [
+  { n = 1, title = "Dis-le", mbid = "3f270219-9f25-4f51-8b1c-1ae005567439" },
+]
+
+[[release]]
+mbid = "a864ff77-3946-4979-8896-c2f77ddb4509"
+title = "Dis-le (Acoustic)"
+type = "single"
+date = "2026-07-24"
+spotify = "7DijESNKToR0E0v9X72ksc"
+tracks = [
+  { n = 1, title = "Dis-le (Acoustic)", mbid = "22941e8f-fe8d-4c39-9711-938e7fd293a7" },
+]
+
+[[release]]
+mbid = "7430f54c-9086-4847-87ee-eb8151f74068"
+title = "run"
+type = "single"
+date = "2026-08-07"
+spotify = "0rbA7c9RUVkHiNWMJ04Usk"
+tracks = [
+  { n = 1, title = "run", mbid = "04c27408-f714-4d3a-a8e2-a776527a66cb" },
+]
+
+[[release]]
+mbid = "85470b09-e080-4856-a101-88fcf43e3916"
+title = "Une seule vie"
+type = "single"
+date = "2026-08-28"
+spotify = "2QiKXoR9j4aj69MmKI6gvQ"
+tracks = [
+  { n = 1, title = "Une seule vie", mbid = "c037c903-50b3-4857-903d-65f355f8e61f" },
+]
+
+[[release]]
+mbid = "a057f59e-f583-40c6-a359-ea2acb90141f"
+title = "Love Triangle"
+type = "single"
+date = "2026-09-29"
+spotify = "2pMOWlF8r0xfUkrloQEO49"
+tracks = [
+  { n = 1, title = "Love Triangle", mbid = "0ca2c408-95ad-4a79-b441-4557961d80b1" },
+]
+
+[[release]]
+mbid = "bae77a67-0bac-4843-9ff4-7182c75fc4db"
+title = "Instinct"
+type = "album"
+date = "2026-10-16"
+tracks = [
+  { n = 1, title = "Instinct (intro)", mbid = "dedb91be-9465-43fc-ad77-8b21b86ebd02" },
+  { n = 2, title = "Dis-le", mbid = "3f270219-9f25-4f51-8b1c-1ae005567439" },
+  { n = 3, title = "Au revoir", mbid = "ae15351c-3e5e-414a-a5cd-42f808fe6383" },
+  { n = 4, title = "Une seule vie", mbid = "c037c903-50b3-4857-903d-65f355f8e61f" },
+  { n = 5, title = "Trop", mbid = "c639270a-e3fa-4ed2-b6b2-fbf02e6446c9" },
+  { n = 6, title = "On verra", mbid = "a4ba05bb-4121-4235-8510-444ab5a3e140" },
+  { n = 7, title = "What You Want", mbid = "08b0ae35-ab1e-421d-b4f3-74fe4fb4c1c0" },
+  { n = 8, title = "Je compte", mbid = "c1fa3bd3-a375-48f3-84a0-a768edb7299f" },
+  { n = 9, title = "F4ck 4ever", mbid = "b656f78b-007b-4ccd-895b-87a9347bcb18" },
+  { n = 10, title = "Tout décider", mbid = "c02d02eb-43a6-4afe-b6a2-249a7f7c52c6" },
+  { n = 11, title = "Je sais", mbid = "eb7428ea-38ac-4030-809b-d238ffa271bf" },
+  { n = 12, title = "Love Triangle", mbid = "0ca2c408-95ad-4a79-b441-4557961d80b1" },
+  { n = 13, title = "NYC Blues", mbid = "8e92647c-fcd2-4f9d-b5e2-adb3754c7646" },
+]

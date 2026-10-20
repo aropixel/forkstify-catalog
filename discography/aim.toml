@@ -1,0 +1,214 @@
+format = 1
+
+[[release]]
+mbid = "d80ecc43-d139-4647-949e-be8fa89771c9"
+title = "Demotape"
+type = "ep"
+date = "1996-10-24"
+tracks = [
+  { n = 1, title = "Hope", mbid = "5782d3fc-5247-496f-a6aa-c07a220421a8" },
+  { n = 2, title = "Intellectual Overdose", mbid = "542dcfdb-9fc8-4559-94c8-b1b546d2c006" },
+  { n = 3, title = "I saw it", mbid = "9279ee05-ec6a-439d-ba65-193ed61bd428" },
+  { n = 4, title = "Free Animal", mbid = "7f4cc167-bb1e-4024-a3b1-abd9133b9eab" },
+  { n = 5, title = "Start", mbid = "469bb006-a70b-4d94-9472-f27caee9befc" },
+  { n = 6, title = "In search of...", mbid = "b52a7c25-d763-4a7a-bbfd-03898144abde" },
+]
+
+[[release]]
+mbid = "cd3d9dcf-0f19-3729-93e5-adfeacfd2403"
+title = "Downstate"
+type = "ep"
+date = "1998-07-06"
+tracks = [
+  { n = 1, title = "Downstate", mbid = "7b95ebb4-f5c6-4296-92aa-efcba9b2f2a6" },
+  { n = 2, title = "Just Passin' Through", mbid = "3b0a20ff-059b-470d-8127-b71234572c5d" },
+  { n = 3, title = "Demonique", mbid = "4ffaccbe-7ef8-4311-88ad-8000c66f9c3b" },
+  { n = 4, title = "Demonique (instrumental)", mbid = "e4e47ac5-684c-4153-962a-b800cc10fe72" },
+  { n = 5, title = "Coast Road", mbid = "4294b759-d8a7-40ea-b2a2-4bbca5e61a15" },
+]
+
+[[release]]
+mbid = "aa79e147-0019-47a7-a2a7-3d619dc4e1e9"
+title = "True To Hip Hop"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "True to Hip Hop (vocal version)", mbid = "58d30b75-9091-4ef7-bbc9-100d00bb640c" },
+  { n = 2, title = "Ain't Got Time to Waste (vocal version)", mbid = "6409d899-4ffe-44db-bdf4-62b2389a412f" },
+  { n = 3, title = "True to Hip Hop (instrumental)", mbid = "836c8b54-862b-44bb-b897-0fbd0314d179" },
+  { n = 4, title = "Ain't Got Time to Waste (instrumental W/Vibes)", mbid = "e32a5532-fdaa-4502-8bfb-04253685f3db" },
+]
+
+[[release]]
+mbid = "61963565-e790-4dcb-a307-7ec2bda443c7"
+title = "The Force"
+type = "single"
+date = "1999-09-27"
+tracks = [
+  { n = 1, title = "The Force (LP mix)", mbid = "ebd609aa-1f7d-42db-9845-ba9967436ab3" },
+  { n = 2, title = "The Force (Force Productions remix) (clean)", mbid = "076d9280-d7ab-44d8-8d06-e465ab7b271c" },
+  { n = 3, title = "Another Summer", mbid = "31d16cfd-acf7-48ea-a3e5-1e0f4d5cd8bd" },
+]
+
+[[release]]
+mbid = "e4def5f6-618f-3c56-9557-8b7074a0b12b"
+title = "Cold Water Music"
+type = "album"
+date = "1999-10-11"
+spotify = "6N5ST7D8lhiW1I5YfPDE5R"
+tracks = [
+  { n = 1, title = "Intro", mbid = "eabffa8a-350f-4593-842d-82e9fd0774ff" },
+  { n = 2, title = "Cold Water Music", mbid = "1cb398e2-d913-4338-a125-0060905bb9c9" },
+  { n = 3, title = "The Force", mbid = "e936b9e0-87c6-48d7-85d8-4a1be634f294" },
+  { n = 4, title = "Sail", mbid = "cdc6b974-824e-4b4d-a938-6e1a8383fd27" },
+  { n = 5, title = "Downstate", mbid = "770a88db-cdc7-4985-b4fc-f00003797aa7" },
+  { n = 6, title = "Ain’t Got Time to Waste", mbid = "d31e0ed3-d7ea-438c-b019-40564d9f978d" },
+  { n = 7, title = "Fat City (interlude)", mbid = "d1c871d0-9188-4a36-905b-93e3a5ca79c1" },
+  { n = 8, title = "True to Hip Hop", mbid = "523f132d-0ed3-45fb-9f4a-61696d053389" },
+  { n = 9, title = "Demonique", mbid = "32a9dd34-9252-471f-b6e7-690e619bcd12" },
+  { n = 10, title = "A Tree, a Rock and a Cloud", mbid = "febf5b0d-cb36-4542-bb1a-14a213b6b69b" },
+  { n = 11, title = "Journey to the End of Night", mbid = "17073c5e-6845-4abf-90b8-476debc4c2e6" },
+  { n = 12, title = "From Here to Fame", mbid = "639c4b1b-4c03-418b-b44b-e2955f5ee3fa" },
+]
+
+[[release]]
+mbid = "7aa25204-4947-3046-9b5c-ddb9b585031d"
+title = "Sail"
+type = "single"
+date = "1999-11-22"
+tracks = [
+  { n = 1, title = "Sail (radio edit)", mbid = "5ad74877-24f7-4864-aff5-467ef486621b" },
+  { n = 2, title = "Sail (Rae & Christian remix)", mbid = "d45d5d88-0e0b-4e2b-af87-545bc8c87474" },
+  { n = 3, title = "Underground Crownholders", mbid = "c72df56e-3d65-4b91-9770-39df4f25d19c" },
+]
+
+[[release]]
+mbid = "aef01a53-9692-395e-bb0a-6c5c0ccae7e0"
+title = "Cold Water Music E.P."
+type = "ep"
+date = "2000-11-13"
+tracks = [
+  { n = 1, title = "Cold Water Music (LP version)", mbid = "ebc46cb0-ad45-4668-a9a9-758bc1000c57" },
+  { n = 2, title = "Cold Water Music (Deadbeats remix)", mbid = "0022ed95-58be-4315-9408-cc65e1c61570" },
+  { n = 3, title = "Ain't Got Time to Waste (Lords of the Last Daze remix)", mbid = "4154de0f-dac7-417e-a66f-6cd6675ccf94" },
+  { n = 4, title = "Schulz", mbid = "1c24e45a-8511-4c44-a03f-9be7aecb44fb" },
+]
+
+[[release]]
+mbid = "8476747c-9af2-302a-9ac3-9f746ca6b9a9"
+title = "Hinterland"
+type = "album"
+date = "2002-02-26"
+spotify = "6MetCTWIpLl7tQVUumL7MM"
+tracks = [
+  { n = 1, title = "Intro", mbid = "df7ca8f5-0bfc-465f-9128-d239980ec10b" },
+  { n = 2, title = "The Girl Who Fell Through the Ice", mbid = "eee072aa-b58c-4b65-b401-9f34974a3ffb" },
+  { n = 3, title = "What Do People Do All Day", mbid = "f1969a56-f10d-4948-b34f-ebd9affb29d3" },
+  { n = 4, title = "No Restriction", mbid = "ca1f96b8-0b42-4354-8f60-6530812b8eeb" },
+  { n = 5, title = "Fall Break", mbid = "9627289b-ba14-47f2-a532-a5ba7959142b" },
+  { n = 6, title = "Guimar", mbid = "c76ad0be-0f7a-4f16-a21d-a04038220ada" },
+  { n = 7, title = "Good Disease", mbid = "bce61c01-0a77-44ed-a4b7-5caef227f8a5" },
+  { n = 8, title = "The Omen", mbid = "98453608-2f28-4309-b5ff-5cc69345c9c7" },
+  { n = 9, title = "Linctus", mbid = "2cc8fc42-b6a0-49ff-9d73-3bd565feecd9" },
+  { n = 10, title = "Vipco", mbid = "f6e392fb-705d-4093-b8fd-8ce21bf60979" },
+  { n = 11, title = "A Twilight Zone", mbid = "dad5c4f1-c914-4d72-98b7-69306860c440" },
+  { n = 12, title = "From a Seaside Town", mbid = "33d270b5-f4d3-4c83-87a3-03620e6e39b5" },
+  { n = 13, title = "Hinterland", mbid = "20a67cc5-4117-467f-8968-9d3c04a0787e" },
+]
+
+[[release]]
+mbid = "d3aea44e-6c78-3ac4-bc54-3fb410dfff70"
+title = "Good Disease"
+type = "single"
+date = "2002-08-19"
+tracks = [
+  { n = 1, title = "Good Disease", mbid = "63873fcf-096d-4895-9c9f-6995dc8e8a02" },
+  { n = 2, title = "Peru", mbid = "947dc453-dff2-43e5-ad47-5812cf81179c" },
+  { n = 3, title = "Good Disease (Stephen Jones A.K.A. Arthritis Kid remix)", mbid = "d5014518-6de4-47d0-8c8e-5ccb6d77e91d" },
+]
+
+[[release]]
+mbid = "2d014a99-ae0c-3dca-b5ae-46310e16a2d8"
+title = "Flight 602"
+type = "album"
+date = "2006-09-18"
+spotify = "2AXw92RSIb4ASc5ZOmKbal"
+tracks = [
+  { n = 1, title = "Intro #3", mbid = "30aa5189-d344-4718-945d-cf0149e021f7" },
+  { n = 2, title = "Walking Home Through the Park", mbid = "30f765dd-9546-4def-ae83-891598ab1423" },
+  { n = 3, title = "Northwest", mbid = "86053ff5-2c74-4742-a93a-42d70a2b3a95" },
+  { n = 4, title = "Puget Sound", mbid = "17e34397-d8d0-4355-8802-7d48b240ddab" },
+  { n = 5, title = "Pier 57", mbid = "62debba0-ae49-49d2-8ae1-b2fdb55679b9" },
+  { n = 6, title = "Smile", mbid = "ec9f712b-a764-48f3-9c5e-b73358719cc1" },
+  { n = 7, title = "Landlord", mbid = "5aaac91f-0efe-4361-9709-4230b27ed083" },
+  { n = 8, title = "Aberdeen", mbid = "6322c557-0e75-4929-9c29-753113ade351" },
+  { n = 9, title = "Birchwood", mbid = "09344f53-561b-4331-aa43-e8d20af58e72" },
+  { n = 10, title = "Flight 602", mbid = "49aab1ea-ed65-4f9f-b02c-025898b2fddc" },
+  { n = 11, title = "Interview", mbid = "1eec49bb-482e-4460-b44d-0012cee0184f" },
+  { n = 12, title = "It’s Later Than You Think", mbid = "5fe0e24d-1030-4248-bfa6-8636dcfeb795" },
+]
+
+[[release]]
+mbid = "e4dbef1f-ab51-4845-a7b3-2a1c243c4232"
+title = "Birchwood EP"
+type = "ep"
+date = "2007-11-05"
+tracks = [
+  { n = 1, title = "Birchwood", mbid = "3b1aad72-d458-40b0-b2b8-3572c0589ed0" },
+  { n = 2, title = "Corliss Avenue North", mbid = "a12a896a-57a2-4be6-a4fe-be6b714450e7" },
+  { n = 3, title = "Before...", mbid = "b260ecc0-0e39-48de-9762-f5a4b346c766" },
+  { n = 4, title = "Northwest (Gripper remix)", mbid = "75a7a664-6bf3-41da-838a-33e94e263b54" },
+]
+
+[[release]]
+mbid = "7ad676c0-5e61-412e-8b3a-73e4ac2c16bb"
+title = "Adora - Rarities & Outtakes"
+type = "ep"
+date = "2015-01-20"
+tracks = [
+  { n = 1, title = "Holy Day", mbid = "4a9c00ab-18ab-420c-99a6-c08da6d919c2" },
+  { n = 2, title = "Xave", mbid = "26ebbb3c-f72b-42d6-b122-5d6470416b1a" },
+  { n = 3, title = "Reverse", mbid = "c1810b4d-78f2-47c7-b069-a4f9af5b19d1" },
+  { n = 4, title = "We Are Sailing", mbid = "0feb7f0b-aa43-40d3-9e7e-6983a1e4f059" },
+  { n = 5, title = "Solaris", mbid = "9f77347f-d501-45e5-8ee6-efc113ecd12a" },
+  { n = 6, title = "Xave Away (Remix)", mbid = "0d3a761e-8e17-43de-ade8-6ff66e4fb836" },
+]
+
+[[release]]
+mbid = "e5c16ba6-a254-451f-b827-e15ca62587ce"
+title = "The Habit of a Lifetime (And How to Kick It)"
+type = "album"
+date = "2015-10-09"
+tracks = [
+  { n = 1, title = "We Don't Play", mbid = "4b0c6fe6-2ae9-4168-af88-d5cd1795800d" },
+  { n = 2, title = "The More I Get (The More I Want)", mbid = "0a7cb02f-3a9e-41f6-9837-3e469f9f58dd" },
+  { n = 3, title = "The Reunion", mbid = "6906edcd-09a4-4ace-8c5c-0684d44d415f" },
+  { n = 4, title = "1000 Reasons", mbid = "715e9be7-9104-41a8-a645-d12c0d15535d" },
+  { n = 5, title = "How It All Got Started", mbid = "310146b5-db14-4dce-918c-62bc0f27f78a" },
+  { n = 6, title = "Gangstarr (The Tribute)", mbid = "a2baa559-4003-449c-a908-0469223c0657" },
+  { n = 7, title = "On the Block", mbid = "8afe5ae8-2a7b-456a-8304-d3acaeb25fc0" },
+  { n = 8, title = "Takin' Shots", mbid = "31620a1e-d14f-4f50-9a0f-929d98b1b079" },
+  { n = 9, title = "Igotchu", mbid = "e608d177-8b99-4d54-853e-a276401adde1" },
+  { n = 10, title = "It Ain't Nuthin", mbid = "f19c54c0-0928-4ffe-8221-3ffd1ef1e8b0" },
+  { n = 11, title = "She Ain't You", mbid = "365ae388-00ce-4c1e-8daa-2ad2f6c1cbb0" },
+]
+
+[[release]]
+mbid = "703d7fef-cca5-4f57-ad40-704fcd38f049"
+title = "Aim"
+type = "single"
+date = "2017-12-06"
+tracks = [
+  { n = 1, title = "Roadtrip", mbid = "6abce19e-f060-4832-98fe-f6e651b63b03" },
+  { n = 2, title = "Answers from the Night", mbid = "340c8e72-2bfc-4f9b-84cf-a4f764c06be1" },
+]
+
+[[release]]
+mbid = "f73579c6-18ec-4f42-abb3-46555f363c08"
+title = "После Нас"
+type = "single"
+date = "2025-04-04"
+spotify = "3fCLKJCATYrTNZmPBbA3Xo"
+tracks = [
+  { n = 1, title = "После Нас", mbid = "26ba319e-c172-4c1e-9cfe-6e5ede406e5e" },
+]

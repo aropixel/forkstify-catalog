@@ -1,0 +1,398 @@
+format = 1
+
+[[release]]
+mbid = "68eb7ebd-ae69-3baa-a898-6547e206017d"
+title = "Chocolates and Cigarettes"
+type = "ep"
+date = "2006-08-26"
+tracks = [
+  { n = 1, title = "Private Lawns", mbid = "e901c704-43df-433b-8f61-1b6f4f5227a6" },
+  { n = 2, title = "Mango Tree", mbid = "a9e2a028-2d6f-4a04-8a89-8ad8a8618791" },
+  { n = 3, title = "All of Me", mbid = "62688541-1436-4918-a2e1-68f5243ae353" },
+  { n = 4, title = "Paper Aeroplane", mbid = "2596d895-a2c5-478b-94d4-2791c785beb4" },
+  { n = 5, title = "Babylon", mbid = "2911e35f-b69e-4d9f-8773-7c11de25d2b0" },
+  { n = 6, title = "Chocolates and Cigarettes", mbid = "20d3ee1b-05f5-4f11-9f82-ecec46d2dc08" },
+]
+
+[[release]]
+mbid = "c1a23375-af6e-442a-b241-e546c42d4618"
+title = "Just A Boy"
+type = "single"
+date = "2007-01-01"
+tracks = [
+  { n = 1, title = "Just A Boy", mbid = "5ee0b6b4-ee47-4788-8035-ff6a206e52a2" },
+  { n = 2, title = "Red Berries", mbid = "3ea572de-1180-4705-b374-a06b22eac5d3" },
+  { n = 3, title = "Lonely Goat", mbid = "82f9a447-ca42-476c-b457-977d7b836b93" },
+]
+
+[[release]]
+mbid = "ee4ddc92-6792-35de-90ca-fed684e550c5"
+title = "Heart Full of Wine"
+type = "ep"
+date = "2007-02-03"
+tracks = [
+  { n = 1, title = "What You Wanted", mbid = "d1037321-eca9-454e-b4bc-af0964639ab6" },
+  { n = 2, title = "Fooled Myself", mbid = "9ff5963e-5f5c-46a0-92c1-3a8311c53e35" },
+  { n = 3, title = "Heart Full of Wine", mbid = "73f4d5d5-cc63-4a4e-9612-1b8e69bea5e9" },
+  { n = 4, title = "I'm Yours", mbid = "a618b9f8-0501-492e-a104-50694ceb96a6" },
+  { n = 5, title = "Sadder Than You", mbid = "276ce60d-03d4-47f7-aa49-4076dfb7821e" },
+  { n = 6, title = "Wooden Chair", mbid = "33f53b2d-bfbd-47fa-bef5-345098a9e4ec" },
+]
+
+[[release]]
+mbid = "d435d4ec-42ce-3a2c-ade5-da7636ad218b"
+title = "The Beast"
+type = "single"
+date = "2007-08-18"
+tracks = [
+  { n = 1, title = "The Beast", mbid = "c6febd9d-88fc-4a23-93ca-277ef186af79" },
+  { n = 2, title = "Purple Skivvy", mbid = "3be25c08-784b-47b2-81cb-d74ce5303db1" },
+  { n = 3, title = "I'll Wait", mbid = "b985f595-275b-4af9-a1bc-e55689f99239" },
+  { n = 4, title = "Little Bird", mbid = "7898d0dd-a287-41b7-a799-d28f55ecac81" },
+]
+
+[[release]]
+mbid = "f1a9a700-1f84-4cd5-a5aa-57d935ab5050"
+title = "A Book Like This"
+type = "album"
+date = "2007-09-08"
+spotify = "7CfQmtGtqbDfw9R20B6cnH"
+tracks = [
+  { n = 1, title = "The Beast", mbid = "4dd7f68b-37e7-405a-9a3d-adb7de40df5d" },
+  { n = 2, title = "Here We Go Again", mbid = "302244d4-6be0-4e0e-a6dc-850c65bb654e" },
+  { n = 3, title = "Wasted", mbid = "af1e42b0-ee73-4a6d-aebe-6497bdd9bc56" },
+  { n = 4, title = "Just a Boy", mbid = "641b3bf6-fe5d-4b8e-a167-1de692bc7395" },
+  { n = 5, title = "Bella", mbid = "b3167ee2-af3b-4c0e-9011-7ed4d78404da" },
+  { n = 6, title = "Hollywood", mbid = "ac3d9b4e-2784-47d5-8690-92cb40028fa5" },
+  { n = 7, title = "A Book Like This", mbid = "a42c9c39-e511-437c-8ffd-a6d5741b4ead" },
+  { n = 8, title = "Silver Coin", mbid = "9266c741-df89-41fc-8662-24332d861240" },
+  { n = 9, title = "Stranger", mbid = "363a7714-48d4-4765-934a-eb2a5dc03350" },
+  { n = 10, title = "Soldier", mbid = "e73853a2-0aed-46a8-b0b3-4968ddc142cb" },
+  { n = 11, title = "Jewels and Gold", mbid = "37a4924a-7d98-47dd-8feb-178b5a31e844" },
+  { n = 12, title = "Another Day", mbid = "004c9ff9-36fb-4ee5-8eb2-995cdea93824" },
+  { n = 13, title = "Horse and Cart", mbid = "a42ea909-a91d-45f5-8ee9-a7c790cb6a91" },
+]
+
+[[release]]
+mbid = "564710ab-7ea4-3620-bc76-f5bfffef7ad1"
+title = "Hollywood"
+type = "ep"
+date = "2008-11-18"
+tracks = [
+  { n = 1, title = "Hollywood", mbid = "ac3d9b4e-2784-47d5-8690-92cb40028fa5" },
+  { n = 2, title = "Johnny & June (Angus’ version of Hollywood)", mbid = "5c42cc43-cbd5-4e76-8823-d969a0c12bd1" },
+  { n = 3, title = "Lonely Hands (Julia’s version of Just A Boy)", mbid = "0ba253e3-d0ae-41fb-b47f-898a5f47bc70" },
+  { n = 4, title = "All the Colours (Angus’ version of Wasted)", mbid = "60886b41-f684-4962-9ea7-94f0bbb9d0cf" },
+]
+
+[[release]]
+mbid = "ec1ed5a3-a4aa-4f4d-ae0f-658ce9b525e2"
+title = "And the Boys"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "And the Boys", mbid = "b8824ce7-0778-4682-bbb6-a1984611c02a" },
+  { n = 2, title = "Change", mbid = "44f4876d-3e53-4705-a621-878bb69ed3cd" },
+  { n = 3, title = "Take You Away", mbid = "24de2787-dc53-4705-b0dd-149c17e41473" },
+]
+
+[[release]]
+mbid = "d7f2bd86-a1ac-42e3-bd78-af684421e47e"
+title = "Down the Way"
+type = "album"
+date = "2010-03-12"
+spotify = "78BXB0tWspQKtatJK5DTXZ"
+tracks = [
+  { disc = 1, n = 1, title = "Hold On", mbid = "07460626-47cb-495d-b817-efdcf958ff44" },
+  { disc = 1, n = 2, title = "Black Crow", mbid = "92f017a6-d9bb-4cd2-9f36-9e0e1914054b" },
+  { disc = 1, n = 3, title = "For You", mbid = "444d6dcf-f512-4f1f-91b2-3df6fb66be98" },
+  { disc = 1, n = 4, title = "Big Jet Plane", mbid = "4f20b0fd-b61f-4630-b4f1-7abc1c5c1ec9" },
+  { disc = 1, n = 5, title = "Santa Monica Dream", mbid = "cfb1d596-aa2f-4635-b057-ada333799645" },
+  { disc = 1, n = 6, title = "Yellow Brick Road", mbid = "18be8ffa-920e-4d66-83a3-24e1d0c1b6cf" },
+  { disc = 1, n = 7, title = "And the Boys", mbid = "b8824ce7-0778-4682-bbb6-a1984611c02a" },
+  { disc = 1, n = 8, title = "On the Road", mbid = "bdf8c021-b6f6-4dac-892e-17983b0e863a" },
+  { disc = 1, n = 9, title = "Walk It Off", mbid = "a09b9780-798d-4097-a266-ef704b52d0a4" },
+  { disc = 1, n = 10, title = "Hush", mbid = "19e62071-ded0-47e8-9989-6ab9e0635e67" },
+  { disc = 1, n = 11, title = "Draw Your Swords", mbid = "cebbcbc2-ec3d-460b-ac84-ab75ad1130e3" },
+  { disc = 1, n = 12, title = "I'm Not Yours", mbid = "6d0524d8-8d6f-45c7-ab43-fcaedc61d211" },
+  { disc = 1, n = 13, title = "The Devil's Tears / Old Friend", mbid = "d0f43552-0d63-47d8-91f2-d4ca89cffbfe" },
+  { disc = 2, n = 1, title = "Private Lawns", mbid = "e901c704-43df-433b-8f61-1b6f4f5227a6" },
+  { disc = 2, n = 2, title = "Babylon", mbid = "2911e35f-b69e-4d9f-8773-7c11de25d2b0" },
+  { disc = 2, n = 3, title = "Paper Aeroplane", mbid = "2596d895-a2c5-478b-94d4-2791c785beb4" },
+  { disc = 2, n = 4, title = "Take You Away", mbid = "24de2787-dc53-4705-b0dd-149c17e41473" },
+  { disc = 2, n = 5, title = "My Malakai", mbid = "7b757c67-f82c-4225-95b0-460001e333c9" },
+  { disc = 2, n = 6, title = "Lonely Hands", mbid = "0ba253e3-d0ae-41fb-b47f-898a5f47bc70" },
+  { disc = 2, n = 7, title = "Little Bird", mbid = "6e0e53e6-7f10-425c-86c0-3acc3261dfa6" },
+  { disc = 2, n = 8, title = "Chocolates & Cigarettes", mbid = "20d3ee1b-05f5-4f11-9f82-ecec46d2dc08" },
+  { disc = 2, n = 9, title = "Old Friend", mbid = "398de8ee-4836-40b1-8968-23a56af08adc" },
+  { disc = 2, n = 10, title = "Choking", mbid = "7f3c29ed-6130-4d22-bf50-66d8174376f9" },
+  { disc = 2, n = 11, title = "Mango Tree", mbid = "a9e2a028-2d6f-4a04-8a89-8ad8a8618791" },
+  { disc = 2, n = 12, title = "Heart Full of Wine", mbid = "73f4d5d5-cc63-4a4e-9612-1b8e69bea5e9" },
+  { disc = 2, n = 13, title = "All of Me", mbid = "62688541-1436-4918-a2e1-68f5243ae353" },
+  { disc = 2, n = 14, title = "You're the One That I Want", mbid = "db25381e-dcff-4e65-81f8-2dddf922e09c" },
+]
+
+[[release]]
+mbid = "741f41f8-358e-4cc1-89be-cee4a1a24dbd"
+title = "Big Jet Plane"
+type = "ep"
+date = "2010-05-07"
+spotify = "1MqIFlrrhEh7lO6yZQjzUX"
+tracks = [
+  { n = 1, title = "Big Jet Plane (radio edit)", mbid = "9020385a-35f6-41eb-b7b5-6559b532eba6" },
+  { n = 2, title = "Living On a Rainbow", mbid = "3d9d6991-5b53-4669-b4fb-dad5a3547048" },
+  { n = 3, title = "My Malakai", mbid = "7b757c67-f82c-4225-95b0-460001e333c9" },
+  { n = 4, title = "You’re the One That I Want", mbid = "4936ad92-3b2e-4689-a137-2b87a6665257" },
+]
+
+[[release]]
+mbid = "305ab943-a60c-46d1-8d13-961faa3661fb"
+title = "Just a Boy"
+type = "ep"
+date = "2010-09-28"
+tracks = [
+  { n = 1, title = "Just a Boy", mbid = "8470aec2-694a-4488-ba51-aea92e77367d" },
+  { n = 2, title = "Little Bird", mbid = "fdd612d4-f1b8-49f9-8ab7-e936760ec08d" },
+  { n = 3, title = "All of Me", mbid = "62688541-1436-4918-a2e1-68f5243ae353" },
+  { n = 4, title = "Stranger", mbid = "759c8c19-6849-4971-a41b-d0f72465a8cd" },
+  { n = 5, title = "Another Day", mbid = "934205b4-09dc-4b34-aae3-b548ca86d6b1" },
+  { n = 6, title = "What You Wanted", mbid = "d87ec505-c832-4e48-86ed-36e60df0bf3a" },
+]
+
+[[release]]
+mbid = "e06b8f81-70dc-4c1c-b7d1-128403529e04"
+title = "Grizzly Bear"
+type = "single"
+date = "2014-05-27"
+tracks = [
+  { n = 1, title = "Grizzly Bear (edit)", mbid = "00b7ad85-9cf3-41e7-91c0-88b117f569b6" },
+]
+
+[[release]]
+mbid = "4ffec746-3753-4185-8dda-a4209befa7f2"
+title = "Angus & Julia Stone"
+type = "album"
+date = "2014-06-28"
+spotify = "6w97X470r5gNmmfBkwPm04"
+tracks = [
+  { disc = 1, n = 1, title = "A Heartbreak", mbid = "7744c3d2-5fd9-47a6-abd8-130249eb1262" },
+  { disc = 1, n = 2, title = "My Word for It", mbid = "1d4ed75e-4030-4f36-a0bd-1104b4658c4b" },
+  { disc = 1, n = 3, title = "Grizzly Bear", mbid = "092d40fe-dec4-4181-b613-80439d9dc352" },
+  { disc = 1, n = 4, title = "Heart Beats Slow", mbid = "f408ab3b-afa9-4752-bc89-a97f3117c404" },
+  { disc = 1, n = 5, title = "Wherever You Are", mbid = "2830abdc-ed24-4384-8646-002e49113d02" },
+  { disc = 1, n = 6, title = "Get Home", mbid = "3a0cecdd-8a3e-4c67-b4b9-9a3b97f8671c" },
+  { disc = 1, n = 7, title = "Death Defying Acts", mbid = "f7daa9d1-f2f9-435b-838a-76687ba5d2e0" },
+  { disc = 1, n = 8, title = "Little Whiskey", mbid = "560d84b8-2123-4e6b-b0b2-f08b2c3730e8" },
+  { disc = 1, n = 9, title = "From the Stalls", mbid = "2e00ed6a-f519-48a9-885e-56fafa658ee8" },
+  { disc = 1, n = 10, title = "Other Things", mbid = "2718b7b7-deab-45d9-a78b-d987e25d19aa" },
+  { disc = 1, n = 11, title = "Please You", mbid = "402aa018-fca8-4c05-bd7b-35a44ec68db3" },
+  { disc = 1, n = 12, title = "Main Street", mbid = "8ed8cdc8-4911-4767-805c-a8d4240b9b3c" },
+  { disc = 1, n = 13, title = "Crash and Burn", mbid = "8a36bf50-da30-4aec-a768-7b4993e7a499" },
+  { disc = 2, n = 1, title = "Grizzly Bear (Lakechild remix)", mbid = "2b3f8bab-d846-4147-bf9e-22153d3c1b79" },
+  { disc = 2, n = 2, title = "Grizzly Bear (Thom alt-J remix)", mbid = "841c05bb-7bf3-4b19-b380-0912d1ca2aa7" },
+  { disc = 2, n = 3, title = "Heart Beats Slow (Suna- remix)", mbid = "09663283-c40b-447a-98f5-1b0f9a95cbfc" },
+  { disc = 2, n = 4, title = "Heart Beats Slow (Simian Ghost remix)", mbid = "d11d3da6-976c-4ec4-941f-1617fcc08c4e" },
+  { disc = 2, n = 5, title = "A Heartbreak (Odesza remix)", mbid = "f4a6a4e1-b64b-4023-b321-053442f94c9a" },
+  { disc = 2, n = 6, title = "A Heartbreak (Tigerz remix)", mbid = "547d47d3-fe09-4683-875c-81c4674cfcab" },
+  { disc = 2, n = 7, title = "A Heartbreak (Active Child remix)", mbid = "bd81045f-bcd5-4727-bee2-ecdc7c12e914" },
+  { disc = 2, n = 8, title = "A Heartbreak (Ten Ven remix)", mbid = "ffd1fb54-c9ae-479d-acee-76ea55def137" },
+  { disc = 2, n = 9, title = "A Heartbreak (RAC remix)", mbid = "84de710d-03fe-46d2-a3a4-90579478dd52" },
+  { disc = 2, n = 10, title = "From the Stalls (Fever 105 remix)", mbid = "dd7d4de6-c406-4c2b-a355-2ac72e011292" },
+]
+
+[[release]]
+mbid = "aa6d592f-20c1-451e-b9fa-ea0dcfc7600f"
+title = "Chateau"
+type = "single"
+date = "2017-08-24"
+spotify = "68Uy1KyPTQTWjVqrSE97hV"
+tracks = [
+  { n = 1, title = "Chateau", mbid = "88877188-1e49-4987-8c31-b8d65febefa3" },
+]
+
+[[release]]
+mbid = "d80f1a29-1a05-49a0-9915-5440f0e7275b"
+title = "Snow"
+type = "album"
+date = "2017-09-15"
+tracks = [
+  { n = 1, title = "Snow", mbid = "82c67b53-55a9-4382-a796-d95e2855afcf" },
+  { n = 2, title = "Oakwood", mbid = "fd65c636-f794-47a2-87cc-9bd032399efb" },
+  { n = 3, title = "Chateau", mbid = "88877188-1e49-4987-8c31-b8d65febefa3" },
+  { n = 4, title = "Cellar Door", mbid = "60d66126-6bce-4cf4-8265-bb6d4e243ce1" },
+  { n = 5, title = "Sleep Alone", mbid = "158cdfec-9e3e-4bf5-8273-2da2746b15b1" },
+  { n = 6, title = "Make It Out Alive", mbid = "eb279b18-1a1b-4dd8-a1ac-e55991417da0" },
+  { n = 7, title = "Who Do You Think You Are", mbid = "8d62a32f-504b-4d54-9bc9-d1c52d472b65" },
+  { n = 8, title = "Nothing Else", mbid = "190d5887-5300-40c2-bcd7-c23183e37314" },
+  { n = 9, title = "My House Your House", mbid = "1e295737-2b54-4793-aa25-cca0a0c75260" },
+  { n = 10, title = "Bloodhound", mbid = "e4125d86-c4d0-4a69-8fb8-86fb3bf46a4b" },
+  { n = 11, title = "Baudelaire", mbid = "ed140fed-7cd2-4050-b3a9-ca5098b65809" },
+  { n = 12, title = "Sylvester Stallone", mbid = "764d0cde-63a2-4415-9e63-45b3654f5235" },
+]
+
+[[release]]
+mbid = "860b199f-d136-4098-a527-db39af08195f"
+title = "Cellar Door"
+type = "single"
+date = "2017-11-17"
+tracks = [
+  { n = 1, title = "Cellar Door", mbid = "60d66126-6bce-4cf4-8265-bb6d4e243ce1" },
+]
+
+[[release]]
+mbid = "ae9992da-8ed9-49c1-8218-4d50259eb1a3"
+title = "Chateau (acoustic)"
+type = "single"
+date = "2018-10-19"
+spotify = "0suqMoiihrl7bRsamMxWNG"
+tracks = [
+  { n = 1, title = "Chateau (acoustic)", mbid = "5d944210-a64c-4bf1-871c-376679768eed" },
+]
+
+[[release]]
+mbid = "c3f1b94b-a269-40b8-ba85-60dca9adf248"
+title = "Youngblood"
+type = "single"
+date = "2018-11-02"
+spotify = "4LKwkGDfN1OXZy1qXRAQZm"
+tracks = [
+  { n = 1, title = "Youngblood", mbid = "0aa068f4-c264-40f3-9248-3bb61c2bebb9" },
+]
+
+[[release]]
+mbid = "b8a98204-307d-4a24-a2a7-729eda14eec8"
+title = "Life Is Strange"
+type = "album"
+date = "2021-08-20"
+spotify = "6ozSLuLzK71i6l4o2OiN1A"
+tracks = [
+  { n = 1, title = "Love Song", mbid = "8167ff3d-f98e-4bee-9a34-3934f2093528" },
+  { n = 2, title = "Heavy Gets Light", mbid = "d613dae6-1811-4164-947a-1ce03efc0295" },
+  { n = 3, title = "Living Underground", mbid = "cbc53d6f-993d-4718-8734-447edc20a63f" },
+  { n = 4, title = "For Remembering", mbid = "ff7a56a2-f089-444a-84d2-3ce80064322a" },
+  { n = 5, title = "Take Me Home", mbid = "f36da95d-11a1-42b8-9eb6-01678c5c9076" },
+  { n = 6, title = "Let Me Know", mbid = "5882edce-789a-4b82-9840-39b7227e85bd" },
+  { n = 7, title = "Blue", mbid = "f1cd0b5b-b98f-425d-bd55-ad91091dce1c" },
+  { n = 8, title = "Forever for Us", mbid = "a2faf0d5-3bac-4796-8c05-b3993335cc43" },
+  { n = 9, title = "From a Dream", mbid = "30632cdd-91bd-4f98-9a8d-7230ac059afc" },
+  { n = 10, title = "In My Arms", mbid = "a3ac7a8f-32cb-4737-84fa-b0e861000b56" },
+  { n = 11, title = "When Was That", mbid = "c14a2985-30d7-4118-b888-b6f8a3b5cd1a" },
+  { n = 12, title = "Tears", mbid = "c2ad38ba-4113-4041-9a53-9e0bcaf968b1" },
+]
+
+[[release]]
+mbid = "6fa0de21-9e95-4f41-a469-684c3b860c72"
+title = "The Wedding Song"
+type = "single"
+date = "2024-02-09"
+spotify = "2zRkxDn6Nu5AOXzEj5QtTJ"
+tracks = [
+  { n = 1, title = "The Wedding Song", mbid = "e9873cba-d17d-4e06-8eb5-6863cc866c63" },
+]
+
+[[release]]
+mbid = "69c8095c-912c-4061-8fa0-481b99793725"
+title = "Losing You"
+type = "single"
+date = "2024-04-05"
+tracks = [
+  { n = 1, title = "Losing You", mbid = "eba5f454-f81e-4491-ba36-387d93a282d5" },
+  { n = 2, title = "Cape Forestier", mbid = "55262740-5a88-49bd-9ab7-ecf6056e8500" },
+  { n = 3, title = "The Wedding Song", mbid = "31868d0d-59b4-45c5-8c81-2c00f162b21c" },
+]
+
+[[release]]
+mbid = "57d66df5-66e3-4f8e-92ca-efc49811389c"
+title = "Cape Forestier"
+type = "album"
+date = "2024-05-03"
+tracks = [
+  { n = 1, title = "Losing You", mbid = "30c61096-2807-43cb-81a2-a6d06a2d58f1" },
+  { n = 2, title = "Down to the Sea", mbid = "c62a85ec-7d93-4a0c-835d-46384d8f63f7" },
+  { n = 3, title = "My Little Anchor", mbid = "cda15fab-044d-45ce-95c7-2c256ee5774b" },
+  { n = 4, title = "Cape Forestier", mbid = "b16380b2-2097-45a0-99b5-2314792c1afd" },
+  { n = 5, title = "County Sign", mbid = "76679afb-f0c5-4dea-9ce0-ae6ea15c6373" },
+  { n = 6, title = "City of Lights", mbid = "7b4c08c0-65c0-4596-ae86-7932b09d7423" },
+  { n = 7, title = "No Boat No Aeroplane", mbid = "b162d846-2b3b-474d-ae14-bf526f487438" },
+  { n = 8, title = "The Wedding Song", mbid = "e9873cba-d17d-4e06-8eb5-6863cc866c63" },
+  { n = 9, title = "I Want You", mbid = "80555037-6e8f-429e-98f7-dbb327ca140d" },
+  { n = 10, title = "Somehow", mbid = "e1603679-01b9-433c-b01b-f89c1400f64c" },
+  { n = 11, title = "Sitting in Seoul", mbid = "21f07fdc-0a82-4788-8630-c0a7149cfa6d" },
+  { n = 12, title = "The Wonder of You", mbid = "e8c0c12d-f0ea-4824-b790-03c5a80482c3" },
+]
+
+[[release]]
+mbid = "e943049c-3080-46dd-9d19-77227b22864d"
+title = "No Boat No Aeroplane"
+type = "ep"
+date = "2024-05-03"
+tracks = [
+  { n = 1, title = "No Boat No Aeroplane", mbid = "a6edb111-f22d-463b-b748-fc05dbf50adf" },
+  { n = 2, title = "Losing You", mbid = "bdd08b78-c73b-4d7a-a4dc-90701a287201" },
+  { n = 3, title = "Cape Forestier", mbid = "9dcf1ebc-42cf-4224-96d3-3fd938d310c3" },
+  { n = 4, title = "The Wedding Song", mbid = "5537b228-d6e5-4b41-934a-5b236c95a072" },
+]
+
+[[release]]
+mbid = "33dcb7a8-6506-4cb5-bc82-e6a5432d3745"
+title = "Karaoke Bar"
+type = "single"
+date = "2026-05-07"
+spotify = "7glG1v9GDkGqCA8M5ad1Qa"
+tracks = [
+  { n = 1, title = "Karaoke Bar", mbid = "9488cd36-6b30-4e0a-b1b3-8c84a29ec1e7" },
+]
+
+[[release]]
+mbid = "155007fd-10d7-4025-8372-cf0802d58cdc"
+title = "Monroe"
+type = "single"
+date = "2026-06-26"
+spotify = "2RHzAwuXOlgiqedUFioxHQ"
+tracks = [
+  { n = 1, title = "Monroe", mbid = "7f7d2ab7-3de8-4be9-8f5f-2eb95f212f21" },
+  { n = 2, title = "Karaoke Bar", mbid = "9488cd36-6b30-4e0a-b1b3-8c84a29ec1e7" },
+]
+
+[[release]]
+mbid = "282bf16e-ea48-4eac-91b6-3a17d47385dd"
+title = "Celestial Bodies"
+type = "single"
+date = "2026-07-31"
+spotify = "0jvsyrItr5n4mJXVrEulJt"
+tracks = [
+  { n = 1, title = "Celestial Bodies", mbid = "0a21fe82-467a-4bba-bc3c-393543c6e11e" },
+  { n = 2, title = "Monroe", mbid = "7f7d2ab7-3de8-4be9-8f5f-2eb95f212f21" },
+  { n = 3, title = "Karaoke Bar", mbid = "9488cd36-6b30-4e0a-b1b3-8c84a29ec1e7" },
+]
+
+[[release]]
+mbid = "6affcbd6-dbff-4fa1-bd1d-c88a8cf2c865"
+title = "The Cherry Farm"
+type = "ep"
+date = "2026-08-28"
+spotify = "5IsfijJGDAIof1NXts7gAq"
+tracks = [
+  { n = 1, title = "The Cherry Farm", mbid = "72e3d264-f17c-4421-9680-9220d7e2e71e" },
+  { n = 2, title = "Celestial Bodies", mbid = "0a21fe82-467a-4bba-bc3c-393543c6e11e" },
+  { n = 3, title = "Monroe", mbid = "7f7d2ab7-3de8-4be9-8f5f-2eb95f212f21" },
+  { n = 4, title = "Karaoke Bar", mbid = "9488cd36-6b30-4e0a-b1b3-8c84a29ec1e7" },
+]
+
+[[release]]
+mbid = "fda71d63-785f-4946-b609-5898207019e1"
+title = "Karaoke Bar"
+type = "album"
+date = "2026-09-04"
+tracks = [
+  { n = 1, title = "Karaoke Bar", mbid = "9488cd36-6b30-4e0a-b1b3-8c84a29ec1e7" },
+  { n = 2, title = "Monroe", mbid = "7f7d2ab7-3de8-4be9-8f5f-2eb95f212f21" },
+  { n = 3, title = "Celestial Bodies", mbid = "0a21fe82-467a-4bba-bc3c-393543c6e11e" },
+  { n = 4, title = "The Start", mbid = "5b0e5766-2609-45f0-93b5-e97f94487ac4" },
+  { n = 5, title = "Strangely Strangely", mbid = "550d3b87-102e-4f1e-b3d0-6aef03316c25" },
+  { n = 6, title = "Brightest Place", mbid = "9ac59785-f3d8-4928-89d7-f6aa302bfed7" },
+  { n = 7, title = "Take Me Back to Japan", mbid = "795f6b8a-da1a-4717-bfae-0cf826015f5a" },
+  { n = 8, title = "Cowgirls Lover Boi", mbid = "1522fd42-1d6e-4cad-8749-fa45d6c28a7b" },
+  { n = 9, title = "The Cherry Farm", mbid = "72e3d264-f17c-4421-9680-9220d7e2e71e" },
+  { n = 10, title = "Mexico City", mbid = "8495737b-085e-494e-8440-cb3dd49d5e22" },
+]
