@@ -1,0 +1,169 @@
+format = 1
+
+[[release]]
+mbid = "fdacc683-3c71-4aa2-a65c-a47f12ef6c76"
+title = "At Last!"
+type = "single"
+date = "2007"
+tracks = [
+  { n = 1, title = "At Last!", mbid = "972fa6be-1341-4aba-802e-ea7fd646c503" },
+]
+
+[[release]]
+mbid = "4dd748b6-c6e3-47b0-9318-b5d9cc1ce859"
+title = "On My Shoulders"
+type = "single"
+date = "2007-10-22"
+spotify = "4GtQlZdZKAnzVaG3UyaOc4"
+tracks = [
+  { n = 1, title = "On My Shoulders", mbid = "0476dc62-2b58-43fe-96b3-49b76ba17a08" },
+]
+
+[[release]]
+mbid = "6b560938-5080-3819-b523-e9458092e4e9"
+title = "A Mouthful"
+type = "album"
+date = "2008-01-01"
+tracks = [
+  { n = 1, title = "Playground Hustle", mbid = "ea48096f-4d30-4f20-b592-b74ddcaee141" },
+  { n = 2, title = "At Last", mbid = "972fa6be-1341-4aba-802e-ea7fd646c503" },
+  { n = 3, title = "On My Shoulders", mbid = "0476dc62-2b58-43fe-96b3-49b76ba17a08" },
+  { n = 4, title = "Song for Lovers", mbid = "6de6f58e-878e-4608-9336-f12294ac03a5" },
+  { n = 5, title = "The Bridge Is Broken", mbid = "e9b8dc59-4a13-4d83-9bde-077548b6fa05" },
+  { n = 6, title = "Stay (Just a Little Bit More)", mbid = "612d2f86-e925-4aed-994e-c3b949a608a8" },
+  { n = 7, title = "Unissasi laulelet", mbid = "11fe2116-6d03-40e6-a95f-3949111fe867" },
+  { n = 8, title = "Tammie", mbid = "b876b8e3-661b-45c8-b00c-29dc9b16c427" },
+  { n = 9, title = "Queen Dot Kong", mbid = "45711862-f1ca-47b9-8ceb-1ba10be3dc45" },
+  { n = 10, title = "Coda", mbid = "90497d90-d26a-4979-8138-fc4ef91c106e" },
+  { n = 11, title = "Searching Gold", mbid = "7b23948f-2d5c-4c6c-b4d9-9a1374e3cdba" },
+  { n = 12, title = "When Was I Last Home?", mbid = "dac8b880-3851-4507-a333-08c513a3ee59" },
+  { n = 13, title = "Travel Light", mbid = "196a6b7b-f8fc-46a9-bf82-fa345f68f095" },
+  { n = 14, title = "Aha", mbid = "3a1c50e2-47d1-45a2-89c8-4c7b88cd7a4d" },
+  { n = 15, title = "In My Box", mbid = "fc3efcae-cc89-47bb-add7-79825ed250e1" },
+  { n = 16, title = "On My Shoulders (Chamber version)", mbid = "5a7cbfac-29f1-469b-8fa9-19025390c2c2" },
+  { n = 17, title = "Unissasi laulelet (Chamber version)", mbid = "7845d049-37fe-4c94-9f2c-87d98546a907" },
+  { n = 18, title = "Playground Hustle and Bustle", mbid = "a83f172b-a5d0-4b71-8818-d75f44068571" },
+]
+
+[[release]]
+mbid = "748507ff-e98d-4b52-a973-aec6378c6265"
+title = "Stay (Just a Little Bit More)"
+type = "single"
+date = "2009-02-23"
+tracks = [
+  { n = 1, title = "Stay (Just a Little Bit More)", mbid = "612d2f86-e925-4aed-994e-c3b949a608a8" },
+]
+
+[[release]]
+mbid = "3e83d21e-b1ba-48ad-a29d-2d61a377ae4f"
+title = "Dust It Off"
+type = "ep"
+date = "2010-12-13"
+spotify = "4AntLWNg85A1TEX7tgj26D"
+tracks = [
+  { n = 1, title = "Dust It Off", mbid = "da4e06ba-2028-45c4-a371-0cce49e93e6c" },
+  { n = 2, title = "Too Insistent", mbid = "0f0dab07-70de-4f26-a2b6-0173f3ffd484" },
+  { n = 3, title = "Slippery Slope", mbid = "5f3438f9-a38f-4337-af52-ef63a9367ccc" },
+]
+
+[[release]]
+mbid = "2f1733b6-897a-49e3-a120-176f16c68b52"
+title = "Too Insistent"
+type = "single"
+date = "2011"
+tracks = [
+  { n = 1, title = "Too Insistent", mbid = "5187bd92-7e21-493f-b1ab-cdfb6dd3acc9" },
+]
+
+[[release]]
+mbid = "c30ce84f-0b1a-4b29-bf18-7379a6dc02b4"
+title = "Both Ways Open Jaws"
+type = "album"
+date = "2011-03-07"
+spotify = "4VPsDiUtgIDmKrK52O7GTN"
+tracks = [
+  { n = 1, title = "Dust It Off", mbid = "da4e06ba-2028-45c4-a371-0cce49e93e6c" },
+  { n = 2, title = "Gonna Be Sick!", mbid = "db56dace-1368-4bc9-99b8-95258f542c10" },
+  { n = 3, title = "The Wicked & the Blind", mbid = "bf5ce679-6327-4668-8bdd-f7341d1c2739" },
+  { n = 4, title = "Too Insistent", mbid = "ff4ce4f8-22eb-4fa9-a05d-33ceadb6318c" },
+  { n = 5, title = "Bohemian Dances", mbid = "0bcba03b-edaf-4207-8678-cdd1ff92ad70" },
+  { n = 6, title = "Smash Them All (Night Visitors)", mbid = "b1387b89-eb99-4377-b420-c778020ec710" },
+  { n = 7, title = "Leo Leo", mbid = "e2c54bca-ad6d-44ba-a3e4-f36e48cf6c74" },
+  { n = 8, title = "B.W.O.J.", mbid = "f8a1c4a6-c064-4872-9c64-cbb043dc2602" },
+  { n = 9, title = "Slippery Slope", mbid = "3bb1f2c9-12c7-4667-8e01-ea623885711a" },
+  { n = 10, title = "The Calendar", mbid = "dc92cc35-c58b-419f-aee0-88eb8fdcaaa7" },
+  { n = 11, title = "Was It a Dream?", mbid = "59fca99a-70ad-4911-bb7d-c5068894f35b" },
+  { n = 12, title = "Quake, Mountain, Quake", mbid = "15276e25-0506-44b7-b2a2-6a91ac372f7b" },
+  { n = 13, title = "Moon Mermaids", mbid = "8c7b3d8c-2ad0-4fc1-b387-a2ae3705ff0a" },
+]
+
+[[release]]
+mbid = "ea49d5f9-a5d6-4f88-aaf8-681d242a12dd"
+title = "Trustful Hands"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Trustful Hands", mbid = "6d764f4c-80d9-45b5-aa3d-3200a409adf5" },
+]
+
+[[release]]
+mbid = "95bc842c-194c-4c63-b3e2-33b54e97df16"
+title = "Keep Your Lips Sealed"
+type = "single"
+date = "2014-05-14"
+spotify = "4wzlDo3xUP6fN3S4agi9VY"
+tracks = [
+  { n = 1, title = "Keep Your Lips Sealed", mbid = "86285723-914d-42ad-9ebf-f94c8652def1" },
+]
+
+[[release]]
+mbid = "6281c849-6e1f-46ac-ab0f-8f275595ddee"
+title = "Miracles (Back in Time)"
+type = "single"
+date = "2014-07-10"
+tracks = [
+  { n = 1, title = "Miracles (Back in Time)", mbid = "d0321ae3-f02a-42b3-a40b-ff5594b2c0ed" },
+]
+
+[[release]]
+mbid = "c7267e50-c555-454f-a483-a12362d97893"
+title = "Despair, Hangover & Ecstasy"
+type = "single"
+date = "2014-08-18"
+spotify = "0wb4q2YGoOd5fPH5Z2ZJAJ"
+tracks = [
+  { n = 1, title = "Despair, Hangover & Ecstasy", mbid = "c392d2d2-84bf-407e-a3e7-194cf656477a" },
+]
+
+[[release]]
+mbid = "2ddc4338-6dae-4996-9a46-30d98bffd73d"
+title = "Shake Shook Shaken"
+type = "album"
+date = "2014-09-29"
+spotify = "3hMasYpm6Nx2KcupwwbyTi"
+tracks = [
+  { n = 1, title = "Keep Your Lips Sealed", mbid = "86285723-914d-42ad-9ebf-f94c8652def1" },
+  { n = 2, title = "Trustful Hands", mbid = "6d764f4c-80d9-45b5-aa3d-3200a409adf5" },
+  { n = 3, title = "Miracles (Back in Time)", mbid = "d0321ae3-f02a-42b3-a40b-ff5594b2c0ed" },
+  { n = 4, title = "Sparks", mbid = "1cf3b11e-c65d-493c-8ebf-d617837b58ea" },
+  { n = 5, title = "Going Through Walls", mbid = "e34912dd-e5d1-41ce-ba2e-6839ee1090d8" },
+  { n = 6, title = "Despair, Hangover & Ecstasy", mbid = "c392d2d2-84bf-407e-a3e7-194cf656477a" },
+  { n = 7, title = "Anita No!", mbid = "012b6fc4-1875-43c3-98b8-bcf10784e4cf" },
+  { n = 8, title = "A Mess Like This", mbid = "9ea93028-4910-4137-868f-b36505c7dd19" },
+  { n = 9, title = "Lick My Wounds", mbid = "1204f1cc-ef1c-48cf-ad9e-a3f49c83b48e" },
+  { n = 10, title = "Opposite Ways", mbid = "646932b3-d460-41c3-9f89-d883f574952c" },
+  { n = 11, title = "Nature Will Remain", mbid = "fa8ab16a-bc93-430c-b614-a37f3bbbd991" },
+  { n = 12, title = "Omen", mbid = "ac091784-ed85-443d-a5ec-6a4d57097189" },
+]
+
+[[release]]
+mbid = "7c95a8a4-fa09-4584-b8ad-3e8b55f61207"
+title = "Shake Shook Shaken B‐Sides"
+type = "ep"
+date = "2015-12-04"
+spotify = "3MIuiHVG9TDuCBOp5HJUzT"
+tracks = [
+  { n = 1, title = "Poppies", mbid = "d32d59dd-7cd3-4fd2-a43f-32f9a1a0e4bb" },
+  { n = 2, title = "The Watchtower", mbid = "998aa27d-71e1-40f3-a122-1b65a377b3e6" },
+  { n = 3, title = "Only Takes a Night", mbid = "8d29850d-b46b-4d32-8bf1-daf753023f26" },
+]

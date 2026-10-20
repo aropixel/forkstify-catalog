@@ -1,0 +1,422 @@
+format = 1
+
+[[release]]
+mbid = "2ea453e0-b54a-40a1-9200-a7c689f39a04"
+title = "Rock Lobster / 52 Girls"
+type = "single"
+date = "1978-04"
+tracks = [
+  { n = 1, title = "Rock Lobster", mbid = "db76caf8-2006-4fcd-b869-3568ce278d55" },
+  { n = 2, title = "52 Girls", mbid = "bb46511f-21cc-4794-9010-8e95ca538dbf" },
+]
+
+[[release]]
+mbid = "eceeb564-2733-3720-b857-329cc957344a"
+title = "52 Girls"
+type = "single"
+date = "1979"
+tracks = [
+  { n = 1, title = "52 Girls", mbid = "4a714ff1-5c44-4e11-a707-5347e22bfc3d" },
+  { n = 2, title = "6060‒842", mbid = "ca6c04ae-3a89-45f1-89e3-487c06a45151" },
+]
+
+[[release]]
+mbid = "e7570009-bfcd-4f40-8eb1-b5bd91cb3bbf"
+title = "6060‒842"
+type = "single"
+date = "1979"
+tracks = [
+  { n = 1, title = "6060‒842", mbid = "ca6c04ae-3a89-45f1-89e3-487c06a45151" },
+  { n = 2, title = "Hero Worship", mbid = "54be7fc6-f052-4e8b-84aa-ce36efa71fc0" },
+]
+
+[[release]]
+mbid = "a7d6be8d-ccd6-441b-baf4-4d77488108b7"
+title = "Rock Lobster"
+type = "single"
+date = "1979"
+tracks = [
+  { n = 1, title = "Rock Lobster", mbid = "24592d49-e9df-4b17-b7ef-688b77bb280d" },
+  { n = 2, title = "6060–842", mbid = "ca6c04ae-3a89-45f1-89e3-487c06a45151" },
+]
+
+[[release]]
+mbid = "68699ffe-f5fd-337a-8bb9-8a196157afa8"
+title = "The B‐52’s"
+type = "album"
+date = "1979-07-12"
+spotify = "3eXETk1esvZPRluDCWH3GN"
+tracks = [
+  { n = 1, title = "Planet Claire", mbid = "7b978353-cb21-4151-a0ef-c0280862b312" },
+  { n = 2, title = "52 Girls", mbid = "4a714ff1-5c44-4e11-a707-5347e22bfc3d" },
+  { n = 3, title = "Dance This Mess Around", mbid = "29208da7-72f6-49d9-a318-a8cfa2222831" },
+  { n = 4, title = "Rock Lobster", mbid = "af6703f8-de60-46f0-aa48-de5916867ccc" },
+  { n = 5, title = "Lava", mbid = "32154943-b259-4edb-a9d5-937b00419394" },
+  { n = 6, title = "There’s a Moon in the Sky (Called the Moon)", mbid = "edf75837-7fc5-42ca-86de-c0adc5a44367" },
+  { n = 7, title = "Hero Worship", mbid = "13b3d373-2468-491e-a59c-ecf2b68255cc" },
+  { n = 8, title = "6060‒842", mbid = "ca6c04ae-3a89-45f1-89e3-487c06a45151" },
+  { n = 9, title = "Downtown", mbid = "224b85c4-9d9b-4468-bf68-35486926899b" },
+]
+
+[[release]]
+mbid = "202c33b0-3af8-414e-831c-dccb2994f534"
+title = "Dirty Back Road"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "Dirty Back Road", mbid = "f20510e9-1430-492e-affe-8e20fa032697" },
+  { n = 2, title = "Strobe Light", mbid = "58a07172-7d87-4e14-888d-2b1fe07890c4" },
+]
+
+[[release]]
+mbid = "52e48509-52aa-49d9-9554-b20f50a35a05"
+title = "Give Me Back My Man"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "Give Me Back My Man", mbid = "09b1f698-3f61-445b-a38b-c9bb2669d312" },
+  { n = 2, title = "Give Me Back My Man (version)", mbid = "61e7223d-5ed6-4e48-b613-ec9fd3980102" },
+]
+
+[[release]]
+mbid = "2a322e44-3b71-4909-9597-f758c66de8ba"
+title = "Private Idaho"
+type = "single"
+date = "1980-08"
+tracks = [
+  { n = 1, title = "Private Idaho", mbid = "1033f216-2239-4c9e-a5e6-d6aa4bde3650" },
+  { n = 2, title = "52 Girls", mbid = "4a714ff1-5c44-4e11-a707-5347e22bfc3d" },
+]
+
+[[release]]
+mbid = "7c9f7229-7f75-371d-8165-e1d57a81155c"
+title = "Wild Planet"
+type = "album"
+date = "1980-08-27"
+tracks = [
+  { n = 1, title = "Party Out of Bounds", mbid = "6388a567-3bfc-4a75-aea9-6a2ab12aea2d" },
+  { n = 2, title = "Dirty Back Road", mbid = "f20510e9-1430-492e-affe-8e20fa032697" },
+  { n = 3, title = "Runnin’ Around", mbid = "54efbb51-5861-42f6-a2ef-f36c9d19866a" },
+  { n = 4, title = "Give Me Back My Man", mbid = "f7008f16-4de2-4d6a-969e-4ae5e27e0f9a" },
+  { n = 5, title = "Private Idaho", mbid = "1033f216-2239-4c9e-a5e6-d6aa4bde3650" },
+  { n = 6, title = "Devil in My Car", mbid = "b4da443d-16c1-4a3b-b4f4-c694c18fb455" },
+  { n = 7, title = "Quiche Lorraine", mbid = "32aac0da-1348-4237-a980-7b863155a526" },
+  { n = 8, title = "Strobe Light", mbid = "88e1560e-d535-47cb-aae8-b01d32538590" },
+  { n = 9, title = "53 Miles West of Venus", mbid = "44e56f74-984b-47bc-9c4c-100728ddf59e" },
+]
+
+[[release]]
+mbid = "3ee4c062-73a3-3bea-b677-69a39b70d371"
+title = "Mesopotamia"
+type = "ep"
+date = "1982-01-27"
+spotify = "7m2x3va85ro7vByPj4K86I"
+tracks = [
+  { n = 1, title = "Loveland", mbid = "7498cbfb-a3ac-4c3e-9659-31a7fc07040f" },
+  { n = 2, title = "Deep Sleep", mbid = "ae9f1406-ade9-4efb-94a0-24296c1c78a9" },
+  { n = 3, title = "Mesopotamia", mbid = "c66c3757-09f5-42cc-8393-60ee67eb6139" },
+  { n = 4, title = "Cake", mbid = "bdc5a418-9749-4a6f-a65e-f5bb845d89bf" },
+  { n = 5, title = "Throw That Beat in the Garbage Can", mbid = "c282388a-08b8-4d35-bd19-1c75f00428b4" },
+  { n = 6, title = "Nip It in the Bud", mbid = "0ab51111-81b0-4882-a47a-1d815a91060d" },
+]
+
+[[release]]
+mbid = "dd870496-4a3b-3c0c-9345-1b1fc49e70cf"
+title = "Whammy!"
+type = "album"
+date = "1983-04"
+spotify = "2ojB6bLksROr6MjpOskDkO"
+tracks = [
+  { n = 1, title = "Legal Tender", mbid = "1349c0d3-88ce-4b35-a195-8b8fe7e25a45" },
+  { n = 2, title = "Whammy Kiss", mbid = "d7158e6c-a5b8-4397-8b75-bc0e55328a91" },
+  { n = 3, title = "Song for a Future Generation", mbid = "b315cfd6-7d61-4fcf-99b3-07333180f35b" },
+  { n = 4, title = "Butterbean", mbid = "2f2c073a-a078-452e-bc46-117ac189f6d6" },
+  { n = 5, title = "Trism", mbid = "63cdf322-e9a9-46b6-8d42-a861d41f4995" },
+  { n = 6, title = "Queen of Las Vegas", mbid = "5cc9a907-1af2-4bb8-918e-6032bd196ce0" },
+  { n = 7, title = "Moon 83", mbid = "9ef19bda-1d74-4cbb-88f8-2f2f5d64d428" },
+  { n = 8, title = "Big Bird", mbid = "3f0de470-b6ed-452c-a4fe-feb9ed295d3e" },
+  { n = 9, title = "Work That Skirt", mbid = "a43003c1-fda2-43af-ba89-f376085c00d7" },
+]
+
+[[release]]
+mbid = "32423370-119c-4332-8b7d-f9ac0fd21414"
+title = "Summer of Love"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "Summer of Love (summer party mix)", mbid = "9e43c58b-c111-458e-b7fa-d2f83bd67793" },
+  { n = 2, title = "Summer of Love (love dub)", mbid = "62fa3540-239b-4512-afbf-823a865bef83" },
+  { n = 3, title = "Summer of Love (single edit)", mbid = "c6282fb3-dc9f-4596-86b7-d3d3c1a2540b" },
+]
+
+[[release]]
+mbid = "f219381e-f4a2-3c33-8544-47febfae8837"
+title = "Bouncing Off the Satellites"
+type = "album"
+date = "1986-09"
+spotify = "7sbtKCgp0O8V62d0gFZ97d"
+tracks = [
+  { n = 1, title = "Summer of Love", mbid = "f400610f-9ebf-4938-9c44-3b5f2faacd73" },
+  { n = 2, title = "Girl From Ipanema Goes to Greenland", mbid = "8f64dd76-8cf2-40ad-b145-e7160e5a4346" },
+  { n = 3, title = "Housework", mbid = "ef883966-2650-4627-a679-66c1e25db2c3" },
+  { n = 4, title = "Detour Thru Your Mind", mbid = "829fa591-50a5-4da6-9af8-e2035838d364" },
+  { n = 5, title = "Wig", mbid = "efd2f0a4-77cf-4207-a4f1-88f7c349fe83" },
+  { n = 6, title = "Theme for a Nude Beach", mbid = "42ca35a4-64b6-4ad4-9890-9cf73a599507" },
+  { n = 7, title = "Ain’t It a Shame", mbid = "82932265-2f7e-47ca-860a-21bab8ffc3dc" },
+  { n = 8, title = "Juicy Jungle", mbid = "1faaf204-7e88-447d-8881-3b20d9361ad9" },
+  { n = 9, title = "Communicate", mbid = "086b90f4-dd33-4f94-bc19-23afd4f315b5" },
+  { n = 10, title = "She Brakes for Rainbows", mbid = "30fc9fa3-93e0-4cf4-bb60-4674f9212a3c" },
+]
+
+[[release]]
+mbid = "b947aaf6-a0ed-4c25-b2b2-5eb81d829cb5"
+title = "Wig"
+type = "single"
+date = "1987-06"
+tracks = [
+  { n = 1, title = "Wig", mbid = "efd2f0a4-77cf-4207-a4f1-88f7c349fe83" },
+  { n = 2, title = "Summer of Love", mbid = "984faee7-474b-467b-81cb-20de05b5e2f9" },
+]
+
+[[release]]
+mbid = "3bf4f37d-29e4-33da-b7c7-14ba8fc125c1"
+title = "Channel Z"
+type = "single"
+date = "1989"
+spotify = "2mQoO2PJOsusSvYGCmYin0"
+tracks = [
+  { n = 1, title = "Channel Z (remix / edit)", mbid = "bb342443-ada0-4f60-84b8-e5f78528f532" },
+  { n = 2, title = "Channel Z (rock mix)", mbid = "5d59ceb1-9a92-40b4-bc69-aec9cc2d8980" },
+  { n = 3, title = "Channel Z (12″ mix)", mbid = "ebf85544-c7f5-4635-8bdb-0123622c20ab" },
+]
+
+[[release]]
+mbid = "e8968fd3-e701-3aac-8fcb-8f72a4fa26a1"
+title = "Deadbeat Club"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Deadbeat Club", mbid = "7ee29c87-09f6-4fb3-b7db-1e905da02147" },
+  { n = 2, title = "Love Shack", mbid = "fa7fb56d-71fa-4747-b123-04f217700ea4" },
+  { n = 3, title = "B52’s Megamix", mbid = "a698ee84-34cf-4ed7-a084-b2d96ce0ecce" },
+]
+
+[[release]]
+mbid = "1176acd3-6afe-3985-99b0-19a07190b043"
+title = "Roam"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Roam", mbid = "d41c76d4-0010-4b3e-849f-e88b9ab1af79" },
+  { n = 2, title = "Bushfire", mbid = "c64cd109-2976-4ce5-8249-3535f81d833c" },
+]
+
+[[release]]
+mbid = "1b36a363-eec6-35ba-b0ed-34a1f2f2cd82"
+title = "Cosmic Thing"
+type = "album"
+date = "1989-06-06"
+spotify = "5BAzAODqIwttjj7wxmlNMS"
+tracks = [
+  { n = 1, title = "Cosmic Thing", mbid = "7f45ff7c-38d6-4545-bee6-0b5a8b318346" },
+  { n = 2, title = "Dry County", mbid = "0669ada4-c924-4f22-8255-53f6a667a71e" },
+  { n = 3, title = "Deadbeat Club", mbid = "1ab8d493-c560-4b13-aeee-ee6492a96e45" },
+  { n = 4, title = "Love Shack", mbid = "5ff339b8-06a9-4344-9190-ddd46a7606df" },
+  { n = 5, title = "Junebug", mbid = "f58549a3-927d-49f9-95c2-966afb7a15ba" },
+  { n = 6, title = "Roam", mbid = "8c56fa84-0ee5-43e7-b0b9-b84c6100c948" },
+  { n = 7, title = "Bushfire", mbid = "c64cd109-2976-4ce5-8249-3535f81d833c" },
+  { n = 8, title = "Channel Z", mbid = "0ac51893-e578-42b5-839c-de4ed5694b53" },
+  { n = 9, title = "Topaz", mbid = "e5a327da-1baa-4e46-8708-1851d1a2037e" },
+  { n = 10, title = "Follow Your Bliss", mbid = "7fd8d841-98c0-4990-8307-d3cdd4197e7b" },
+]
+
+[[release]]
+mbid = "13810781-fe0d-4263-b372-5cd4cdaed92c"
+title = "Love Shack"
+type = "single"
+date = "1989-09-26"
+spotify = "6pBjFjxIbf3CqaPJLZp3MK"
+tracks = [
+  { n = 1, title = 'Love Shack (12" remix)', mbid = "104d4e57-9c68-41bd-916e-48869ba24727" },
+  { n = 2, title = 'Love Shack (12" mix)', mbid = "897f8204-a613-46b6-9870-eb2cd6ed7ce3" },
+  { n = 3, title = "Love Shack (big radio mix)", mbid = "05ba4663-7c05-4e05-8790-0ad7094857fb" },
+]
+
+[[release]]
+mbid = "d3e6c8f9-1e7f-4635-a1b9-00de6ae286e1"
+title = "Love Shack / Roam"
+type = "single"
+date = "1990-04-25"
+tracks = [
+  { n = 1, title = "Love Shack (Hypersonic Mix)", mbid = "3eda1523-fa5a-4e83-bd84-4911a1f2e33f" },
+  { n = 2, title = 'Love Shack (12" Remix)', mbid = "104d4e57-9c68-41bd-916e-48869ba24727" },
+  { n = 3, title = 'Roam (12" Remix)', mbid = "5d1ef1f9-852b-43f5-9622-0ada48547658" },
+  { n = 4, title = "Roam (Single Version)", mbid = "52c91da0-d833-4553-832b-09fe1c3349cb" },
+  { n = 5, title = "Love Shack (Danny Rampling Mix)", mbid = "b5254783-1cfa-41fa-af40-e1a1ff36294c" },
+]
+
+[[release]]
+mbid = "a7ec31a7-9b54-4d15-8a4c-6d89168536bd"
+title = "Is That You Mo‐Dean?"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Is That You Mo‐Dean? (edit)", mbid = "d4f7ac2e-475f-45b7-91a2-c041cab81207" },
+  { n = 2, title = "Is That You Mo‐Dean? (Liquid Sky dub)", mbid = "2d07417c-e91a-4391-857f-da1b25267717" },
+  { n = 3, title = "Is That You Mo‐Dean? (Harpapella)", mbid = "5446385b-6041-4153-8730-3a0370b1c4f0" },
+]
+
+[[release]]
+mbid = "4bdaf2f4-1872-4b3e-8120-fb99d14f6781"
+title = "Revolution Earth / Is That You Mo‐Dean?"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Revolution Earth (edit)", mbid = "efbc4f48-45ca-4713-9842-428a3585666e" },
+  { n = 2, title = "Revolution Earth (CO₂ mix)", mbid = "d7f15eb6-e9dd-4acf-853a-d7cc5873af1b" },
+  { n = 3, title = "Is That You Mo‐Dean? (Interdimension mix)", mbid = "dfac7c1d-c286-4f9c-bf74-aecf8179e970" },
+  { n = 4, title = "Revolution Earth (Vibe Tribe version)", mbid = "6888216a-9d94-484b-8142-75141dc7f91d" },
+  { n = 5, title = "Revolution Earth (PPM dub)", mbid = "eb439b35-7c12-4d74-b4e9-0ba40a3451a8" },
+  { n = 6, title = "Is That You Mo‐Dean? (Roots mix)", mbid = "31451646-48eb-4795-b072-9643da908a57" },
+  { n = 7, title = "Is That You Mo‐Dean? (Harpapella)", mbid = "b286e642-a98a-496d-8d67-7297625b577b" },
+]
+
+[[release]]
+mbid = "9e693d75-7972-33af-9aab-94beae1b59de"
+title = "Good Stuff"
+type = "single"
+date = "1992-06"
+tracks = [
+  { n = 1, title = "Good Stuff (edit)", mbid = "49e0dd92-f5a5-49d2-b3bc-8287496b1810" },
+  { n = 2, title = "Bad Influence (album version)", mbid = "515ee055-e4ef-44bf-9802-440f2086be4f" },
+  { n = 3, title = "Return to Dreamland", mbid = "938abb72-74d7-494e-a505-e12ccb2a7a50" },
+]
+
+[[release]]
+mbid = "1beb455d-140e-3384-8822-7204c7720408"
+title = "Good Stuff"
+type = "album"
+date = "1992-06-19"
+tracks = [
+  { n = 1, title = "Tell It Like It T-I-Is", mbid = "68257c14-6d95-4b58-8368-3e14b5fb6df5" },
+  { n = 2, title = "Hot Pants Explosion", mbid = "ac12e18d-8ac0-4329-a19b-f2a9223f8fd3" },
+  { n = 3, title = "Good Stuff", mbid = "73c69e18-5fa7-45c4-9102-cf0526765dc3" },
+  { n = 4, title = "Revolution Earth", mbid = "e325fc37-4b9b-4da7-90e0-8bc12c40df02" },
+  { n = 5, title = "Dreamland", mbid = "fa0a5321-57cf-496c-a21d-b7e6f0a05793" },
+  { n = 6, title = "Is That You Mo-Dean?", mbid = "fbd9c9a4-8c96-4e05-99bd-305ee9bd9e40" },
+  { n = 7, title = "The World's Green Laughter", mbid = "00c48d4e-a1d9-438b-8567-2eeb4c0a0f31" },
+  { n = 8, title = "Vision of a Kiss", mbid = "72d5702c-bbcf-4e40-8355-65f2608980ff" },
+  { n = 9, title = "Breezin'", mbid = "57b5c212-dfe4-41b4-bc69-71baa651ce30" },
+  { n = 10, title = "Bad Influence", mbid = "515ee055-e4ef-44bf-9802-440f2086be4f" },
+]
+
+[[release]]
+mbid = "d2af8a4c-0254-350d-a620-b5a11bb659dc"
+title = "Tell It Like It T‐I‐Is"
+type = "single"
+date = "1992-09"
+tracks = [
+  { n = 1, title = "Tell It Like It T‐I‐Is (edit)", mbid = "bda291bf-7481-4561-8603-0a9b81bc42b8" },
+  { n = 2, title = "Tell It Like It T‐I‐Is (MK Respect mix)", mbid = "1a8023b8-ccbd-4e37-8ed8-8dba7d064546" },
+  { n = 3, title = "The World’s Green Laughter", mbid = "00c48d4e-a1d9-438b-8567-2eeb4c0a0f31" },
+  { n = 4, title = "Tell It Like It T‐I‐Is (MK mix)", mbid = "6256892b-c106-4424-9478-c8ab44e45bd1" },
+  { n = 5, title = "Tell It Like It T‐I‐Is (MK dub)", mbid = "14eb3a0a-7144-4647-9743-662d4d7dba1b" },
+  { n = 6, title = "Tell It Like It T‐I‐Is (MK Underground mix)", mbid = "766c3679-896b-42db-905a-d7b5b39b4f9a" },
+]
+
+[[release]]
+mbid = "782b5887-f9ef-3e02-962c-9648b85850ca"
+title = "(Meet) The Flintstones"
+type = "single"
+date = "1994-07-15"
+tracks = [
+  { n = 1, title = "(Meet) The Flintstones (original LP version)", mbid = "ef485449-c2cd-479c-9d3c-be6c1f204af4" },
+  { n = 2, title = "(Meet) The Flintstones (Barney’s edit)", mbid = "f9a8459d-0b34-4cc1-a2bb-a428719bda48" },
+  { n = 3, title = "(Meet) The Flintstones (Space Cowboy mix 1)", mbid = "1748c8ab-235d-45c7-9055-0b04b14a83f5" },
+  { n = 4, title = "(Meet) The Flintstones (instrumental)", mbid = "4533f1a6-f38a-4484-ab2c-9e4a050c2fe4" },
+]
+
+[[release]]
+mbid = "ce40751b-be3b-31e7-a1c0-6ab5d110109f"
+title = "Hallucinating Pluto"
+type = "single"
+date = "1998-08-25"
+spotify = "3PlMSO8Z09BLuNWAFx8rvT"
+tracks = [
+  { n = 1, title = "Hallucinating Pluto", mbid = "675a25c5-cb77-48c9-add0-7f4458868147" },
+  { n = 2, title = """Hallucinating Pluto (Jason's "Ride On" remix)""", mbid = "29d28f6c-1206-4441-bc27-d10b727e8915" },
+  { n = 3, title = "Good Stuff (Schottische mix)", mbid = "16efb162-2a05-4308-b969-4a4e01d59e45" },
+  { n = 4, title = "Love Shack (DJ Tonka remix)", mbid = "a0c39b70-b8d8-46eb-aee2-f3907beb8449" },
+  { n = 5, title = "Debbie (Edge Factor club mix)", mbid = "1c4b535a-0890-4c58-8e2d-726faa0ce14a" },
+  { n = 6, title = 'Hallucinating Pluto (The "Ride On" beats)', mbid = "464b014e-b960-4080-9aa5-44b8860559f0" },
+  { n = 7, title = 'Love Shack (12" mix)', mbid = "104d4e57-9c68-41bd-916e-48869ba24727" },
+]
+
+[[release]]
+mbid = "cbcec2ea-188d-4a65-afb0-c74d00e162d6"
+title = "Time Capsule: The Mixes – Summer of Love ’98"
+type = "ep"
+date = "1998-08-25"
+spotify = "4ZQUVKTsqmSSuKYrXVKfxr"
+tracks = [
+  { n = 1, title = "Summer of Love (David Kahne remix)", mbid = "f687f341-5349-4d9a-be3a-1e47be17093b" },
+  { n = 2, title = "Planet Claire (François Kevorkian remix)", mbid = "bb79592a-98f5-47cf-ac59-cdddd11de410" },
+  { n = 3, title = "Roam (Miami Phunky Break mix)", mbid = "5cf8bce2-a51f-4463-be2e-913bea087755" },
+  { n = 4, title = "Roam (Indamix Tekno mix)", mbid = "92fa5a46-1eaf-4e17-bbd1-d9fbc041aeee" },
+  { n = 5, title = "Summer of Love (Summer Party mix)", mbid = "8e047fc3-6b4d-451f-a718-9494214be262" },
+]
+
+[[release]]
+mbid = "c780d82f-06b8-47c7-805e-f5eeb04dbcc4"
+title = "(At the) Love Shack"
+type = "single"
+date = "1999-03-08"
+tracks = [
+  { n = 1, title = "(At the) Love Shack (DJ Tonka radio edit)", mbid = "ee94a4ee-98c5-47df-88ff-9c33ae20eaf7" },
+  { n = 2, title = "(At the) Love Shack (DJ Tonka mix)", mbid = "a0c39b70-b8d8-46eb-aee2-f3907beb8449" },
+  { n = 3, title = "Love Shack (12″ mix)", mbid = "104d4e57-9c68-41bd-916e-48869ba24727" },
+  { n = 4, title = "Love Shack (album version)", mbid = "4a6d84a5-f40c-4fb6-93a9-34b921adb082" },
+]
+
+[[release]]
+mbid = "0a325859-9a84-3540-873b-d67028fcbd74"
+title = "Funplex"
+type = "album"
+date = "2008-03-25"
+spotify = "70lwB0qpBSjFf1dB7dPdis"
+tracks = [
+  { n = 1, title = "Pump", mbid = "1f5b56ef-8610-4a56-9407-70c390095805" },
+  { n = 2, title = "Hot Corner", mbid = "55440a4f-ff57-4d80-93fe-d06988c0eee0" },
+  { n = 3, title = "Ultraviolet", mbid = "b1bbbafe-30ba-4141-a7f9-a0b08021e9f6" },
+  { n = 4, title = "Juliet of the Spirits", mbid = "c5d29bab-bc3c-4cd0-bb85-4bbebff2bab0" },
+  { n = 5, title = "Funplex", mbid = "1fe87ca1-ec1e-4ae0-bbe9-5c8695c148d0" },
+  { n = 6, title = "Eyes Wide Open", mbid = "d013c46d-9537-4841-b734-c46f507ea875" },
+  { n = 7, title = "Love in the Year 3000", mbid = "6fdb4386-f4fb-4761-ad4f-74c17ba8c85c" },
+  { n = 8, title = "Deviant Ingredient", mbid = "6ecb0ecd-3e3e-41b8-9f60-dfa5a16f1837" },
+  { n = 9, title = "Too Much to Think About", mbid = "1c1a94da-32b6-43cf-aac9-029496129789" },
+  { n = 10, title = "Dancing Now", mbid = "aaec7466-e395-4b5f-97a5-72740e6c3611" },
+  { n = 11, title = "Keep This Party Going", mbid = "147ff2cd-8d93-4b2b-882d-91345cc62ef7" },
+]
+
+[[release]]
+mbid = "6903d510-1d6e-4843-955d-c61df58c66a0"
+title = "Deadbeat Club"
+type = "ep"
+date = "2025-09-18"
+spotify = "4rrzdpPDFK4MW3ZigaU7u1"
+tracks = [
+  { n = 1, title = "Deadbeat Club (remix edit)", mbid = "89a7828a-58d1-4da1-8590-3bf7b78a4f32" },
+  { n = 2, title = "Deadbeat Club (edit)", mbid = "221c78ae-bcc1-492c-8993-4d219d09367f" },
+  { n = 3, title = "Deadbeat Club", mbid = "62785a86-8e83-4d18-ba63-e4bccf1ead21" },
+  { n = 4, title = "Planet Claire (live at Cleveland Music Hall, Cleveland, OH, 12/2/1989)", mbid = "e68a3b74-0d24-4501-8598-8c286a6f0192" },
+]
+
+[[release]]
+mbid = "53cc176a-9a26-44bf-9573-05a9a27eeb14"
+title = "Mesopotamia"
+type = "single"
+date = "2026-07-08"
+spotify = "7laqyz6RnQqRHCIVY4pjUR"
+tracks = [
+  { n = 1, title = "Mesopotamia", mbid = "cd282575-b3d3-4729-81eb-a450d0c2a209" },
+]

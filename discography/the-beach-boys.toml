@@ -1,0 +1,1590 @@
+format = 1
+
+[[release]]
+mbid = "208c6df1-7bc5-37b5-9954-bf3c1777e78a"
+title = "Surfin"
+type = "single"
+date = "1961-11-27"
+tracks = [
+  { n = 1, title = "Surfin", mbid = "9ffbfdc3-4f2d-4ae6-92aa-199fad1bf7aa" },
+  { n = 2, title = "Luau", mbid = "00b537cf-0f1d-433c-9380-d67892fee2e2" },
+]
+
+[[release]]
+mbid = "52118bdf-6b46-32a4-aa46-31696f69603c"
+title = "Barbie"
+type = "single"
+date = "1962-04"
+tracks = [
+  { n = 1, title = "Barbie", mbid = "ef3049af-c0a8-4da0-91b8-57f12730a42f" },
+  { n = 2, title = "What Is a Young Girl Made Of?", mbid = "55792af8-ad0f-4103-8c98-fcb37f0c67fe" },
+]
+
+[[release]]
+mbid = "7381e2ff-fdd7-3138-894f-ca2540a3bb4d"
+title = "Surfin’ Safari"
+type = "single"
+date = "1962-06-04"
+tracks = [
+  { n = 1, title = "Surfin' Safari", mbid = "323c9568-119c-47ff-ab76-7003a1794068" },
+  { n = 2, title = "409", mbid = "aa649ac4-992d-4ab9-9fd4-c967cab2392e" },
+]
+
+[[release]]
+mbid = "6ac5e93d-d669-34ee-8be5-5d3977bec839"
+title = "Surfin’ Safari"
+type = "album"
+date = "1962-10-01"
+spotify = "6gcXDGhzGcCBY4dLzEgNFB"
+tracks = [
+  { n = 1, title = "Surfin’ Safari", mbid = "323c9568-119c-47ff-ab76-7003a1794068" },
+  { n = 2, title = "County Fair", mbid = "bd68d2b0-a09e-48ec-a734-2ec497179ee1" },
+  { n = 3, title = "Ten Little Indians", mbid = "48d819d9-912b-42ad-90dc-9912a3b21916" },
+  { n = 4, title = "Chug-a-Lug", mbid = "e3e7f0e9-a5c0-4b2c-b194-9dc9e108be5c" },
+  { n = 5, title = "Little Girl (You’re My Miss America)", mbid = "65959dee-3103-4af1-86a8-10cb644b4b4e" },
+  { n = 6, title = "409", mbid = "98860ec0-5362-4ae5-a936-bf866cf43f98" },
+  { n = 7, title = "Surfin’", mbid = "f80dba44-c71e-404e-bf35-c9702aebab81" },
+  { n = 8, title = "Heads You Win – Tails I Lose", mbid = "92b84ca9-a2ac-4b89-b1ee-67de08952fb9" },
+  { n = 9, title = "Summertime Blues", mbid = "648042ae-cb89-4bd7-bac3-50a8e45b2338" },
+  { n = 10, title = "Cuckoo Clock", mbid = "50ba88cd-0e58-4fcd-a49d-ab53ff0b2881" },
+  { n = 11, title = "Moon Dawg", mbid = "ab99fc70-9c71-4159-8d81-a9f2353d702a" },
+  { n = 12, title = "The Shift", mbid = "93295bac-6974-4f11-91c4-2bdf7a1f0661" },
+]
+
+[[release]]
+mbid = "5ffbadf6-9a9b-3e66-829c-5e382db955bb"
+title = "Ten Little Indians"
+type = "single"
+date = "1962-11-26"
+tracks = [
+  { n = 1, title = "Ten Little Indians", mbid = "506955f3-976b-4e9b-8b5c-743d96d651b1" },
+  { n = 2, title = "County Fair", mbid = "1b323694-0dc3-4156-aec4-b453576e7f92" },
+]
+
+[[release]]
+mbid = "c004faa9-2a17-47ac-bf48-f489ae6d1aca"
+title = "Lonely Sea"
+type = "single"
+date = "1963"
+tracks = [
+  { n = 1, title = "Lonely Sea", mbid = "645c70bd-63d6-47bd-9156-6729f33e4bcf" },
+]
+
+[[release]]
+mbid = "7e887369-d3a2-4483-a214-f8b47d7bffc3"
+title = "Surfer Girl / Little Deuce Coupe"
+type = "single"
+date = "1963"
+tracks = [
+  { n = 1, title = "Surfer Girl", mbid = "c551d0cf-7132-485c-b2d2-d397abce0ec5" },
+  { n = 2, title = "Little Deuce Coupe", mbid = "cd96ce76-ce86-4f72-a7a6-890ba477fecf" },
+]
+
+[[release]]
+mbid = "b01bca6b-5010-3306-85ce-0a99b7b63114"
+title = "Surfin’ U.S.A."
+type = "ep"
+date = "1963"
+tracks = [
+  { n = 1, title = "Surfin’ U.S.A.", mbid = "99197e2b-c35f-4960-9f29-9c65fd8cec72" },
+  { n = 2, title = "Shut Down", mbid = "40eede8c-b121-450e-b4bb-15402408db11" },
+  { n = 3, title = "Surfer Girl", mbid = "6564a753-856e-4a83-a82f-d416cc3ce1bd" },
+  { n = 4, title = "Surfin’ Safari", mbid = "5d9e92cd-2b9e-48c4-b432-dce1d3b2994e" },
+]
+
+[[release]]
+mbid = "07013160-cced-3c32-9870-fe2b1467fad7"
+title = "Surfin' U.S.A."
+type = "single"
+date = "1963-03-04"
+tracks = [
+  { n = 1, title = "Surfin’ U.S.A.", mbid = "09fa8bae-e17c-4866-85c2-7357937e7889" },
+  { n = 2, title = "Shut Down", mbid = "3a66c842-f9c1-403e-bc43-c32dda949281" },
+]
+
+[[release]]
+mbid = "0a02cd8b-efe1-4d55-87b2-4e29e32273eb"
+title = "Surfin' USA / Shut Down"
+type = "single"
+date = "1963-03-04"
+tracks = [
+  { n = 1, title = "Surfin' USA", mbid = "09fa8bae-e17c-4866-85c2-7357937e7889" },
+  { n = 2, title = "Shut Down", mbid = "87b5419f-ef97-4466-b331-144bbea8411b" },
+]
+
+[[release]]
+mbid = "9a7228ff-f6f9-3d90-a39b-65a2f1dabade"
+title = "Surfin’ USA"
+type = "album"
+date = "1963-03-25"
+spotify = "6u5tGarzvESDsQiIpC4SlI"
+tracks = [
+  { n = 1, title = "Surfin’ U.S.A.", mbid = "b4019c1c-0f40-4b7b-84ed-06ea85ca54fd" },
+  { n = 2, title = "Farmer’s Daughter", mbid = "950ff8ae-fd40-4ec0-8ee1-c85c04c7626e" },
+  { n = 3, title = "Misirlou", mbid = "0f41f276-ee12-489c-9cf2-31b06b1f9a0e" },
+  { n = 4, title = "Stoked", mbid = "0a98fbf5-e910-48ab-a1da-97acbcfbd000" },
+  { n = 5, title = "Lonely Sea", mbid = "a8b65497-89bc-4d51-b963-ca25e30e1955" },
+  { n = 6, title = "Shut Down", mbid = "6f719d57-10b1-4bc5-91a1-86195e588198" },
+  { n = 7, title = "Noble Surfer", mbid = "9c7c251d-c1e3-49ac-ae26-b3b6b7625358" },
+  { n = 8, title = "Honky Tonk", mbid = "0e96c1b2-2904-493d-ab70-1db7843c80c7" },
+  { n = 9, title = "Lana", mbid = "7c2a3d2e-122b-4e4d-9bdf-04fd1d2ed0d9" },
+  { n = 10, title = "Surf Jam", mbid = "f2541774-eeb2-480c-aa47-4ec08d07f0db" },
+  { n = 11, title = "Let’s Go Trippin’", mbid = "cb3bd7f2-ee09-4923-b495-b021436e82f6" },
+  { n = 12, title = "Finders Keepers", mbid = "039de8c2-7985-4c62-8de0-42bce8ee9a03" },
+]
+
+[[release]]
+mbid = "11611cb5-c7f9-30fe-9a25-5d2c2f350c74"
+title = "Surfer Girl"
+type = "single"
+date = "1963-07-22"
+tracks = [
+  { n = 1, title = "Surfer Girl", mbid = "a45ca632-d5cd-4303-90a8-e562a1a1b609" },
+  { n = 2, title = "Little Deuce Coupe", mbid = "d82ed330-b14f-4fae-ae34-7442577a6421" },
+]
+
+[[release]]
+mbid = "09f10c6c-e9b4-383c-9744-3df6e3d2770e"
+title = "Surfer Girl"
+type = "album"
+date = "1963-09-23"
+spotify = "1AhsZr98dNCfhO1XC4Ht7C"
+tracks = [
+  { n = 1, title = "Surfer Girl", mbid = "a45ca632-d5cd-4303-90a8-e562a1a1b609" },
+  { n = 2, title = "Catch a Wave", mbid = "c11097ff-4c63-4622-8ed3-edaa7880b21c" },
+  { n = 3, title = "The Surfer Moon", mbid = "beed43b2-fae4-4846-b3b7-87f07675383c" },
+  { n = 4, title = "South Bay Surfer", mbid = "c08db0a4-ddd3-48bc-ab44-153f678e10de" },
+  { n = 5, title = "The Rocking Surfer", mbid = "886f0d1f-af97-4a64-9f73-4e371994a1d2" },
+  { n = 6, title = "Little Deuce Coupe", mbid = "728630c7-3665-4259-95be-edf88a4b0f96" },
+  { n = 7, title = "In My Room", mbid = "32249ae1-03f0-4631-a5d9-6a348e2ad174" },
+  { n = 8, title = "Hawaii", mbid = "237b546b-0196-46ea-9bfa-4e803ca1759d" },
+  { n = 9, title = "Surfer's Rule", mbid = "e2caef1f-9383-4ca7-bcbe-80cd01104f82" },
+  { n = 10, title = "Our Car Club", mbid = "01764f02-9176-45ab-a97b-3c6e75908bdd" },
+  { n = 11, title = "Your Summer Dream", mbid = "c586cab8-0d7d-4f09-9d10-37f1f17563a0" },
+  { n = 12, title = "Boogie Woodie", mbid = "b5ea16ec-d424-473b-b344-4d9634568bad" },
+]
+
+[[release]]
+mbid = "86a79fe7-50a3-3f80-8628-c9a5e6bab12f"
+title = "Little Deuce Coupe"
+type = "album"
+date = "1963-10-21"
+spotify = "7Cp1SuzeSuz07vrE48IrK7"
+tracks = [
+  { n = 1, title = "Little Deuce Coupe", mbid = "d98ae149-b966-4553-a46a-2586ddd99615" },
+  { n = 2, title = "Ballad of Ole’ Betsy", mbid = "41bdebd4-fd68-421e-89f3-75b0ada22e0c" },
+  { n = 3, title = "Be True to Your School", mbid = "67eafec7-a399-4ecc-8caa-f0ef9f01ea75" },
+  { n = 4, title = "Car Crazy Cutie", mbid = "7ca3b770-0340-4358-bfc2-911ffe05f5c4" },
+  { n = 5, title = "Cherry, Cherry Coupe", mbid = "2f7c6060-f8a1-404f-8566-d3249cc83d73" },
+  { n = 6, title = "409", mbid = "98860ec0-5362-4ae5-a936-bf866cf43f98" },
+  { n = 7, title = "Shut Down", mbid = "90d39d2b-b7f3-4d92-8a84-0d711e823cc7" },
+  { n = 8, title = "Spirit of America", mbid = "9f51758d-7259-4df6-8d7d-6f04f20ff6a7" },
+  { n = 9, title = "Our Car Club", mbid = "c06c2378-d41e-4e29-8648-6118f3b78ee8" },
+  { n = 10, title = "No‐Go Showboat", mbid = "03805e2a-afe4-4402-bf0a-423ae34a469f" },
+  { n = 11, title = "A Young Man Is Gone", mbid = "e7abeb00-a48f-4822-a9b1-5e9c97224f72" },
+  { n = 12, title = "Custom Machine", mbid = "0c2c22d1-2ef9-4e69-9750-d31dd9ef12d1" },
+]
+
+[[release]]
+mbid = "99305747-f15c-3731-a6e3-6db7fc251a80"
+title = "Be True to Your School"
+type = "single"
+date = "1963-10-28"
+tracks = [
+  { n = 1, title = "Be True to Your School", mbid = "9af3562c-da27-40e7-b4ec-4616b39542b3" },
+  { n = 2, title = "In My Room", mbid = "5515b4a7-e773-406d-b255-c4ac597375ee" },
+]
+
+[[release]]
+mbid = "afbe49cb-408b-37fd-80e1-9841549ab927"
+title = "Little Saint Nick"
+type = "single"
+date = "1963-11-09"
+tracks = [
+  { n = 1, title = "Little Saint Nick", mbid = "87fd102c-9765-4eae-be43-96f88bf86966" },
+  { n = 2, title = "The Lord's Prayer", mbid = "127deb62-b7e7-4f67-96d5-354ad41b6f09" },
+]
+
+[[release]]
+mbid = "153ecf29-dc1d-3f1c-bcd6-9d1dc8d91a32"
+title = "Fun, Fun, Fun / Why Do Fools Fall in Love"
+type = "single"
+date = "1964"
+tracks = [
+  { n = 1, title = "Fun, Fun, Fun", mbid = "5c6e08bf-2e3c-4eca-8f90-e5faa60e37fa" },
+  { n = 2, title = "Why Do Fools Fall in Love", mbid = "39eb2b07-7417-48fd-a6a2-dc8531746594" },
+]
+
+[[release]]
+mbid = "a860ce48-980d-427c-ba24-1ce5faf3b1e2"
+title = "I Get Around / Fun, Fun, Fun"
+type = "ep"
+date = "1964"
+tracks = [
+  { n = 1, title = "I Get Around", mbid = "5207b725-8cfc-4197-8e3b-6f16195498ef" },
+  { n = 2, title = "Finders Keepers", mbid = "007d79a5-2231-4a0e-8086-0e26b51df34f" },
+  { n = 3, title = "Fun, Fun, Fun", mbid = "d3e19cdf-2474-4ba9-b9ff-42b072da5108" },
+  { n = 4, title = "Don't Worry Baby", mbid = "55306031-fcaa-4031-b379-922c0beb4a8d" },
+]
+
+[[release]]
+mbid = "ec6f2682-dd53-30cf-b4df-f288419c29b2"
+title = "When I Grow Up (to Be a Man)"
+type = "single"
+date = "1964"
+tracks = [
+  { n = 1, title = "When I Grow Up (to Be a Man)", mbid = "0cea3179-c777-443a-9206-491ff2832f5f" },
+  { n = 2, title = "She Knows Me Too Well", mbid = "b7c122f3-2437-4ca8-b61f-f09cd64a6cbd" },
+]
+
+[[release]]
+mbid = "74940c19-0669-304a-a59e-2f6aafb18f95"
+title = "Shut Down, Volume 2"
+type = "album"
+date = "1964-03-02"
+spotify = "1G8AfOjrE0FO9w1gfemIy1"
+tracks = [
+  { n = 1, title = "Fun, Fun, Fun", mbid = "e81abfb1-67c5-4594-98e8-5d40c633a559" },
+  { n = 2, title = "Don’t Worry Baby", mbid = "e6398c9a-76b3-4972-869a-fee30d734cee" },
+  { n = 3, title = "In the Parkin’ Lot", mbid = "728ad408-b738-4f7d-96c1-fd9994c5e5b1" },
+  { n = 4, title = "“Cassius” Love vs. “Sonny” Wilson", mbid = "1b5b2d4a-f788-4b4b-b2cf-3edfe6da7742" },
+  { n = 5, title = "The Warmth of the Sun", mbid = "08551cbf-2f0c-4f2b-8e01-33beeb139ae5" },
+  { n = 6, title = "This Car of Mine", mbid = "e503b156-1464-4d58-926e-716f8d614164" },
+  { n = 7, title = "Why Do Fools Fall in Love", mbid = "2f827ddc-96f8-4e30-ab68-02ff3948df5e" },
+  { n = 8, title = "Pom, Pom Play Girl", mbid = "87d59558-0c2d-4612-afbe-51f38bcfae43" },
+  { n = 9, title = "Keep an Eye on Summer", mbid = "dda40dbf-4068-4b9b-b133-c16300c692c3" },
+  { n = 10, title = "Shut Down, Part II", mbid = "4aa8792c-5f32-4ddd-94de-406298271e4b" },
+  { n = 11, title = "Louie, Louie", mbid = "1b22134a-8fc9-4226-9f05-b6620fc74483" },
+  { n = 12, title = "Denny’s Drums", mbid = "6bbb4516-3c14-45b4-a426-90e890bd93cd" },
+]
+
+[[release]]
+mbid = "c21963af-e5a5-43ed-8dd4-974947639bcd"
+title = "Don't Worry Baby / I Get Around"
+type = "single"
+date = "1964-05-11"
+tracks = [
+  { n = 1, title = "Don't Worry Baby", mbid = "e6398c9a-76b3-4972-869a-fee30d734cee" },
+  { n = 2, title = "I Get Around", mbid = "b5c802ab-8e07-480e-b655-615f080be7fd" },
+]
+
+[[release]]
+mbid = "6b66f366-bdae-3450-898c-794e65d6703f"
+title = "All Summer Long"
+type = "album"
+date = "1964-07-13"
+spotify = "6GnzWMUyNEETCq6eftD98v"
+tracks = [
+  { n = 1, title = "I Get Around", mbid = "d8da8b8c-3e45-42a2-91c5-65f0df14c821" },
+  { n = 2, title = "All Summer Long", mbid = "953cca04-1808-49a1-a5f7-d7bc8e3e8a76" },
+  { n = 3, title = "Hushabye", mbid = "d73ac6a1-e95c-4834-b935-16d4a6a4d16c" },
+  { n = 4, title = "Little Honda", mbid = "239f0632-f582-49e0-9f2f-18e3dfb83475" },
+  { n = 5, title = "We'll Run Away", mbid = "acdeb582-618a-4341-8006-9a1f2a83ef96" },
+  { n = 6, title = "Carl's Big Chance", mbid = "8e0ef7d6-46fb-4bee-aaed-d204888b0a70" },
+  { n = 7, title = "Wendy", mbid = "03a15030-10d1-400f-8c33-b48dfa024ee3" },
+  { n = 8, title = "Do You Remember?", mbid = "060a2093-8aaf-4a9a-a43c-60177eb46092" },
+  { n = 9, title = "Girls on the Beach", mbid = "17d5b0e3-a060-4b26-910c-5faba57b0f51" },
+  { n = 10, title = "Drive-In", mbid = "0111673d-3903-4532-8bda-ca097965f1ee" },
+  { n = 11, title = "Our Favorite Recording Sessions", mbid = "ad29b3ab-e6cd-401d-b2be-e970af885c3d" },
+  { n = 12, title = "Don't Back Down", mbid = "58d53061-9dd9-4033-8677-3b84d674a8c3" },
+]
+
+[[release]]
+mbid = "cce66eef-782f-3631-9c3d-38acc5d0aeb3"
+title = "Four by The Beach Boys"
+type = "ep"
+date = "1964-09-21"
+tracks = [
+  { n = 1, title = "Wendy", mbid = "93ad6a6d-cea5-421d-a3d8-55c811f5085e" },
+  { n = 2, title = "Don’t Back Down", mbid = "b23a9bca-7132-4e76-a107-f637a7dc4e72" },
+  { n = 3, title = "Little Honda", mbid = "2b03b75e-a002-4c06-a871-116039dec626" },
+  { n = 4, title = "Hushabye", mbid = "07d254f2-7e7b-42a2-879e-71d898bda0cc" },
+]
+
+[[release]]
+mbid = "dae9e689-d16a-36c3-95b6-5e02891dd16f"
+title = "The Beach Boys’ Christmas Album"
+type = "album"
+date = "1964-10"
+spotify = "67nqYhvjDyJXGD64937Lw3"
+tracks = [
+  { n = 1, title = "Little Saint Nick", mbid = "a391d2cc-0acc-4de9-be51-2b71b909ba17" },
+  { n = 2, title = "The Man With All the Toys", mbid = "ca0dc46a-1d41-4e0f-8003-9bb55089da4a" },
+  { n = 3, title = "Santa’s Beard", mbid = "d9137d5a-b1c8-424f-bf7c-f65f109dd08b" },
+  { n = 4, title = "Merry Christmas, Baby", mbid = "f12143c9-28ce-48c4-9f6f-37903d8ebddf" },
+  { n = 5, title = "Christmas Day", mbid = "bd523772-55be-4a02-acf5-d1e2349b0ec5" },
+  { n = 6, title = "Frosty the Snowman", mbid = "bc14f2cf-cd9a-4af6-a75b-392eb924513a" },
+  { n = 7, title = "We Three Kings of Orient Are", mbid = "b5ec4d96-7fbc-4c77-a8d9-e091e30e3718" },
+  { n = 8, title = "Blue Christmas", mbid = "49625d2e-63de-4af5-9c44-39c38b6299dc" },
+  { n = 9, title = "Santa Claus Is Comin’ to Town", mbid = "f7dced92-e9a6-49cd-a551-0c36323497d3" },
+  { n = 10, title = "White Christmas", mbid = "994f4e1c-fa53-422f-95b7-bb2f04b16d43" },
+  { n = 11, title = "I’ll Be Home for Christmas", mbid = "c9ab0a98-2f2b-460f-a27d-1fdc1182df5a" },
+  { n = 12, title = "Auld Lang Syne", mbid = "d4ef031d-c31b-4d1a-abc0-d7fd51acfdd6" },
+]
+
+[[release]]
+mbid = "ae3ba5fa-93ee-3484-93e0-0580bbbf4d1f"
+title = "Dance, Dance, Dance"
+type = "single"
+date = "1964-11"
+tracks = [
+  { n = 1, title = "Dance, Dance, Dance", mbid = "ca5ce882-176d-4495-8e11-94168f4a8c9c" },
+  { n = 2, title = "The Warmth of the Sun", mbid = "910ac166-50a7-4c11-a3b0-8ac7a0ca3b82" },
+]
+
+[[release]]
+mbid = "7adfe8b4-eb00-358e-a5cf-c1ee594968b2"
+title = "The Man With All the Toys"
+type = "single"
+date = "1964-11-09"
+tracks = [
+  { n = 1, title = "The Man With All the Toys", mbid = "ca0dc46a-1d41-4e0f-8003-9bb55089da4a" },
+  { n = 2, title = "Blue Christmas", mbid = "cbac14e5-dbae-407a-8644-2f4899b86262" },
+]
+
+[[release]]
+mbid = "48a89bca-ff98-354d-ace7-7320094731ce"
+title = "Do You Wanna Dance"
+type = "single"
+date = "1965-02-15"
+tracks = [
+  { n = 1, title = "Do You Wanna Dance?", mbid = "c2ac3486-4ef2-45dd-843a-b563a1ddc554" },
+  { n = 2, title = "Please Let Me Wonder", mbid = "2760ebbf-8d7d-4917-b0f3-06ebfad6043b" },
+]
+
+[[release]]
+mbid = "2b581513-39cc-3a81-9c50-79a8dbf5c031"
+title = "The Beach Boys Today!"
+type = "album"
+date = "1965-03-08"
+spotify = "1xPtXzS5yCbDAqC7pxRCaF"
+tracks = [
+  { n = 1, title = "Do You Wanna Dance?", mbid = "3778fe17-742f-48d6-a952-7b6ed7a36775" },
+  { n = 2, title = "Good to My Baby", mbid = "d894831c-307e-4ee0-b163-f170dcf0f96a" },
+  { n = 3, title = "Don’t Hurt My Little Sister", mbid = "1fade582-682b-428c-bd7d-6a880f8991db" },
+  { n = 4, title = "When I Grow Up (to Be a Man)", mbid = "844cebaf-c292-4cb2-b2cc-dda6f641748e" },
+  { n = 5, title = "Help Me, Ronda", mbid = "81339123-4aba-4938-92d4-5c746933ce76" },
+  { n = 6, title = "Dance, Dance, Dance", mbid = "6a63c168-bc72-474a-89e0-92c61d413015" },
+  { n = 7, title = "Please Let Me Wonder", mbid = "e14761ca-071c-46f5-86aa-5e451fd0f65e" },
+  { n = 8, title = "I’m So Young", mbid = "06b0804c-cb2c-4204-8022-3f4be475bc0c" },
+  { n = 9, title = "Kiss Me, Baby", mbid = "62f7c4e1-2c55-4442-a678-aa8dd0c7ab8f" },
+  { n = 10, title = "She Knows Me Too Well", mbid = "c766e6cc-abcb-4d3e-b7d7-8f104c1b56b0" },
+  { n = 11, title = "In the Back of My Mind", mbid = "2202111e-4457-45f5-9ba3-2217c25eec80" },
+  { n = 12, title = "Bull Session With the “Big Daddy”", mbid = "70ef2792-cbbc-4df0-9c2c-169081fcc8bf" },
+]
+
+[[release]]
+mbid = "8964767d-00f2-3f8e-ab81-17e5d88a12da"
+title = "Help Me, Rhonda"
+type = "single"
+date = "1965-04-05"
+tracks = [
+  { n = 1, title = "Help Me, Rhonda", mbid = "de6dd011-c90b-4746-8be5-de5ebf0133e1" },
+  { n = 2, title = "Kiss Me Baby", mbid = "76f72624-92b2-423a-9093-2955f787f6a5" },
+]
+
+[[release]]
+mbid = "51d1dbfa-b621-3eed-a611-2591718eba6a"
+title = "Summer Days (and Summer Nights!!)"
+type = "album"
+date = "1965-07-05"
+spotify = "13f845bYjx8MUVF2bl1uJ0"
+tracks = [
+  { n = 1, title = "The Girl From New York City", mbid = "1abdb0f2-89d5-4b04-9c59-4ace2d8a15ed" },
+  { n = 2, title = "Amusement Parks U.S.A.", mbid = "c321a17b-6aaf-46a8-b06a-b2523a39ca62" },
+  { n = 3, title = "Then I Kissed Her", mbid = "246edf4d-be6b-46f4-9c4c-886b1ce3a5f6" },
+  { n = 4, title = "Salt Lake City", mbid = "d133d7d1-baf0-405a-b378-9e81ba010878" },
+  { n = 5, title = "Girl Don't Tell Me", mbid = "d248c16b-534d-4d3e-8be7-e4c0aada8c55" },
+  { n = 6, title = "Help Me, Rhonda", mbid = "de6dd011-c90b-4746-8be5-de5ebf0133e1" },
+  { n = 7, title = "California Girls", mbid = "a246698b-add1-4b9e-91ce-c596e80e6d85" },
+  { n = 8, title = "Let Him Run Wild", mbid = "09f43d1f-24fb-4f98-83a7-d1d4c3f349f4" },
+  { n = 9, title = "You’re So Good to Me", mbid = "9d2601dc-1c06-48ac-b7fc-48b9eac50f70" },
+  { n = 10, title = "Summer Means New Love", mbid = "f1a965bc-4d78-43ce-93ee-d5e755ed0070" },
+  { n = 11, title = "I’m Bugged at My Ol’ Man", mbid = "40f89d4b-119b-443f-a527-accad71602fc" },
+  { n = 12, title = "And Your Dream Comes True", mbid = "a2e57042-e634-4323-bb18-da61c72dfc6c" },
+]
+
+[[release]]
+mbid = "124b9d27-e544-32e7-bec7-90c35254dc69"
+title = "California Girls"
+type = "single"
+date = "1965-07-12"
+spotify = "6Mp8vUCopBKkmLwd5RfKLR"
+tracks = [
+  { n = 1, title = "California Girls", mbid = "603766af-b5ec-4edc-822f-33b63751252d" },
+  { n = 2, title = "Let Him Run Wild", mbid = "c811f744-e52c-4853-ab44-78d14250d112" },
+]
+
+[[release]]
+mbid = "9df49d50-1ce3-3d2b-bbf2-cfc70dcc290f"
+title = "The Little Girl I Once Knew"
+type = "single"
+date = "1965-11"
+tracks = [
+  { n = 1, title = "The Little Girl I Once Knew", mbid = "a0911c60-d510-47a5-a861-db07c3dcf02a" },
+  { n = 2, title = "There's No Other (Like My Baby)", mbid = "96f7e0e9-a54a-4ca1-b3f4-e261b08e9c65" },
+]
+
+[[release]]
+mbid = "f0373811-ca62-312a-a9db-1a5a4228ce02"
+title = "Beach Boys’ Party!"
+type = "album"
+date = "1965-11-08"
+spotify = "0TfICuUVNoaytFJ7oahGO2"
+tracks = [
+  { n = 1, title = "Hully Gully", mbid = "df7bcd30-0445-4466-b138-4b2895a17fad" },
+  { n = 2, title = "I Should Have Known Better", mbid = "921ac768-d3ec-44bd-af45-8b6a2049830a" },
+  { n = 3, title = "Tell Me Why", mbid = "2ca3e804-13d8-4f71-8902-85212d6c7a4d" },
+  { n = 4, title = "Papa‐Oom‐Mow‐Mow", mbid = "39906118-4131-43ac-8e4e-b031c80ddbc7" },
+  { n = 5, title = "Mountain of Love", mbid = "d7cf9e03-0d2e-4465-ab91-e3d0fa44886e" },
+  { n = 6, title = "You’ve Got to Hide Your Love Away", mbid = "977f2664-20e0-4200-bcdf-b112e688faff" },
+  { n = 7, title = "Devoted to You", mbid = "9cd39e93-8e35-4d0a-8453-396141c28b48" },
+  { n = 8, title = "Alley Oop", mbid = "c94eacd9-c5a5-41fd-a394-54e55e90914f" },
+  { n = 9, title = "There's No Other (Like My Baby)", mbid = "b84350ad-50ee-4d02-98f7-ff8f712c9dff" },
+  { n = 10, title = "Medley: I Get Around / Little Deuce Coupe", mbid = "1c51883a-8d6f-410e-8bb2-fcd7c8faee04" },
+  { n = 11, title = "The Times They Are A‐Changin’", mbid = "f714751d-3981-48eb-b431-40c3d33e8de0" },
+  { n = 12, title = "Barbara Ann", mbid = "eb7eb9b0-1105-4d76-b83f-fb704b27071b" },
+]
+
+[[release]]
+mbid = "b52474f8-3e05-3170-ab25-210cb5bbafd4"
+title = "Barbara Ann / Girl Don’t Tell Me"
+type = "single"
+date = "1965-12-20"
+tracks = [
+  { n = 1, title = "Barbara Ann", mbid = "720ff6be-99c3-42b4-8d7c-ffc3991b3cb9" },
+  { n = 2, title = "Girl Don’t Tell Me", mbid = "2e146911-4cb8-4887-900e-fe51c3131245" },
+]
+
+[[release]]
+mbid = "d4894d35-04bd-4759-8746-49387b6c398e"
+title = "God Only Knows"
+type = "single"
+date = "1966"
+tracks = [
+  { n = 1, title = "God Only Knows", mbid = "600ffd79-e1a9-438c-9f43-a251d15b17b5" },
+  { n = 2, title = "Wouldn't It Be Nice", mbid = "e9f92521-0e8b-4921-b433-6c6e3b442f8f" },
+]
+
+[[release]]
+mbid = "8c7d1120-75aa-3d22-9dce-082914e8ba12"
+title = "Sloop John B"
+type = "single"
+date = "1966-03"
+tracks = [
+  { n = 1, title = "Sloop John B", mbid = "ad5870d8-ce52-43e9-a79a-337e41e2716a" },
+  { n = 2, title = "You’re So Good to Me", mbid = "c1c499df-47a0-4498-ad18-71181219c06b" },
+]
+
+[[release]]
+mbid = "fdd96703-7b21-365e-bdea-38029fbeb84e"
+title = "Pet Sounds"
+type = "album"
+date = "1966-05-16"
+spotify = "6GphKx2QAPRoVGWE9D7ou8"
+tracks = [
+  { n = 1, title = "Wouldn't It Be Nice", mbid = "9420e8c4-2ff5-4092-a31c-38aacc5d42d0" },
+  { n = 2, title = "You Still Believe in Me", mbid = "4c853404-66d2-4faa-9e66-d21f40984f0c" },
+  { n = 3, title = "That's Not Me", mbid = "21a91b97-2fb3-4b70-b767-f01d693fede4" },
+  { n = 4, title = "Don't Talk (Put Your Head on My Shoulder)", mbid = "ed052c50-4f33-4548-b36c-401740fec687" },
+  { n = 5, title = "I'm Waiting for the Day", mbid = "75b17896-82f4-40b1-8df7-34084cb88e6b" },
+  { n = 6, title = "Let's Go Away for Awhile", mbid = "0a064a3e-e9d8-4e95-bb50-1540ccc2b9eb" },
+  { n = 7, title = "Sloop John B", mbid = "9cdcb56e-2e88-446c-bb06-08e99c78b886" },
+  { n = 8, title = "God Only Knows", mbid = "e69ad76d-d2c0-4981-a39b-78d8794c7f0d" },
+  { n = 9, title = "I Know There's an Answer", mbid = "fc2d3497-40e6-4371-be4a-d79c0b2d8a0e" },
+  { n = 10, title = "Here Today", mbid = "6aa6b932-5c34-400a-a4de-afe45230e3e4" },
+  { n = 11, title = "I Just Wasn't Made for These Times", mbid = "03a2a02d-188d-4274-863a-414c8cfc13b8" },
+  { n = 12, title = "Pet Sounds", mbid = "7d0f5629-4560-4eb0-bc4c-1fa428dc17ad" },
+  { n = 13, title = "Caroline No", mbid = "197fdc39-6bb3-4e41-930d-bf07e1fa6ae0" },
+]
+
+[[release]]
+mbid = "e8192d13-5986-382e-9158-2edfe00b3dc9"
+title = "Wouldn't It Be Nice"
+type = "single"
+date = "1966-08-01"
+tracks = [
+  { n = 1, title = "Wouldn't It Be Nice", mbid = "9420e8c4-2ff5-4092-a31c-38aacc5d42d0" },
+  { n = 2, title = "God Only Knows", mbid = "c8ba41ad-5b66-448f-93e5-0efd574c7059" },
+]
+
+[[release]]
+mbid = "bb5ccf62-9cc8-3aeb-a4be-a380a707eb7a"
+title = "Good Vibrations"
+type = "single"
+date = "1966-10-10"
+tracks = [
+  { n = 1, title = "Good Vibrations", mbid = "3ad31947-ae54-4409-aeaa-8dbd16c3825f" },
+  { n = 2, title = "Wendy", mbid = "1b35d835-6316-44ce-b88e-761f7a44acfa" },
+]
+
+[[release]]
+mbid = "b84677f6-c781-361b-8259-a07180cb9da9"
+title = "Heroes and Villains / You’re Welcome"
+type = "single"
+date = "1967-07"
+tracks = [
+  { n = 1, title = "Heroes and Villains", mbid = "688a91a6-279f-4297-9d2b-594952bdf1ed" },
+  { n = 2, title = "You’re Welcome", mbid = "21625f93-44e7-4522-b6c9-580f1d881d5f" },
+]
+
+[[release]]
+mbid = "89bfb7e8-20dc-340d-a921-6a312c5abbd4"
+title = "Gettin’ Hungry / Devoted to You"
+type = "single"
+date = "1967-08-28"
+tracks = [
+  { n = 1, title = "Gettin’ Hungry", mbid = "49b19ac0-50e1-49c9-9fee-58563df7e18e" },
+  { n = 2, title = "Devoted to You", mbid = "05fc4d6f-c6b7-4e63-86ca-328733aa9054" },
+]
+
+[[release]]
+mbid = "9f28a4d3-95b9-3807-8c7d-92ba17dfa7f5"
+title = "Smiley Smile"
+type = "album"
+date = "1967-09-05"
+spotify = "37rNuexqEXWeSIOiJtn3A9"
+tracks = [
+  { n = 1, title = "Heroes and Villains", mbid = "11231d41-f0d4-4194-aa50-495d24623edc" },
+  { n = 2, title = "Vegetables", mbid = "e68c9d33-5995-44ec-9da1-26af3be2ba27" },
+  { n = 3, title = "Fall Breaks and Back to Winter (W. Woodpecker Symphony)", mbid = "95843b28-9905-4fdf-9e3f-5b14404ef52f" },
+  { n = 4, title = "She’s Goin’ Bald", mbid = "22633aaf-10d6-43c4-a275-cd02350cd89e" },
+  { n = 5, title = "Little Pad", mbid = "a5d9d8f0-02b4-4441-abb0-fb1123615b0f" },
+  { n = 6, title = "Good Vibrations", mbid = "3ad31947-ae54-4409-aeaa-8dbd16c3825f" },
+  { n = 7, title = "With Me Tonight", mbid = "1882d92d-0ccf-490c-a4b2-e2551c0a864e" },
+  { n = 8, title = "Wind Chimes", mbid = "734b05d7-81d5-4006-b113-3b1bb792e017" },
+  { n = 9, title = "Gettin’ Hungry", mbid = "dfc06b32-1a38-46bb-a057-9ad285f5f681" },
+  { n = 10, title = "Wonderful", mbid = "50d45aa4-084b-496f-8883-fc40951784d7" },
+  { n = 11, title = "Whistle In", mbid = "c554148c-6db8-4df7-a58a-0af3b24bac46" },
+]
+
+[[release]]
+mbid = "057258f4-1586-355a-8a5a-e09eecbe7539"
+title = "Wild Honey"
+type = "single"
+date = "1967-10-23"
+tracks = [
+  { n = 1, title = "Wild Honey", mbid = "5edab60d-2744-4635-b70a-aef243bacda2" },
+  { n = 2, title = "Wind Chimes", mbid = "dc4c589d-5cce-44b2-95ff-ad6f9b869d76" },
+]
+
+[[release]]
+mbid = "25db75ad-e1e3-3941-85bd-291009a5f00d"
+title = "Wild Honey"
+type = "album"
+date = "1967-12-11"
+spotify = "01uTaEF0YlcBgNwaSS9iIl"
+tracks = [
+  { n = 1, title = "Wild Honey", mbid = "84687501-1caa-4276-be64-a3607c028491" },
+  { n = 2, title = "Aren't You Glad", mbid = "11ae1c5e-cfdf-47be-93e0-110e58715849" },
+  { n = 3, title = "I Was Made to Love Her", mbid = "4a86d04d-80af-4eff-bcc6-485697c2f383" },
+  { n = 4, title = "Country Air", mbid = "1920a5fe-d2fa-46d0-9fa9-e2837bc9ad82" },
+  { n = 5, title = "A Thing or Two", mbid = "87378712-bcaf-4842-a127-5b9f36447ab6" },
+  { n = 6, title = "Darlin'", mbid = "cf789b94-d893-4ea4-9557-f5af2a7500d2" },
+  { n = 7, title = "I'd Love Just Once to See You", mbid = "c98df8e9-c7bc-4fa6-a0c2-518dbc33133c" },
+  { n = 8, title = "Here Comes the Night", mbid = "afe450a1-01e4-479d-aa11-e519ce3aabc2" },
+  { n = 9, title = "Let the Wind Blow", mbid = "455d9807-ec2a-488c-918e-8ba9df81a902" },
+  { n = 10, title = "How She Boogalooed It", mbid = "a16ed705-d94f-4b4c-a312-e38c9399e1ed" },
+  { n = 11, title = "Mama Says", mbid = "054dada3-2671-4282-b17c-8a85190dc602" },
+]
+
+[[release]]
+mbid = "b5f14936-3d46-3f1e-a6c0-43753edd13b8"
+title = "Darlin'"
+type = "single"
+date = "1967-12-18"
+tracks = [
+  { n = 1, title = "Darlin'", mbid = "ed4f3a3b-58b5-49e1-84d7-b1f55a4dbc7f" },
+  { n = 2, title = "Here Today", mbid = "b63adafb-7074-48a5-a6c1-613df20fd90b" },
+]
+
+[[release]]
+mbid = "fa7d31a7-2a85-3515-a6b4-eb714e97bb95"
+title = "Friends"
+type = "single"
+date = "1968-04-15"
+tracks = [
+  { n = 1, title = "Friends", mbid = "01670eb4-8438-47a9-9ad8-e6faf1eda935" },
+  { n = 2, title = "Little Bird", mbid = "81756154-69aa-4920-970b-08b3155a41c4" },
+]
+
+[[release]]
+mbid = "320eeca0-a5ff-383f-a66e-b2f559ed0ab6"
+title = "Friends"
+type = "album"
+date = "1968-06-10"
+spotify = "2EeDLAhZi04oPV3FJ2s6uS"
+tracks = [
+  { n = 1, title = "Meant for You", mbid = "1a3a3518-dd33-4044-aa92-1d98eef05216" },
+  { n = 2, title = "Friends", mbid = "908eb2b6-a381-40b2-96b3-522c7fa7575b" },
+  { n = 3, title = "Wake the World", mbid = "20870825-3aed-45ce-9f1a-ea53e5aa15c2" },
+  { n = 4, title = "Be Here in the Mornin'", mbid = "074c62bc-6b8b-4544-84e0-ab5f2a333aa7" },
+  { n = 5, title = "When a Man Needs a Woman", mbid = "a5be11fc-e876-438d-8d38-580d6a2a972c" },
+  { n = 6, title = "Passing By", mbid = "d1e02a48-a627-488b-ad6a-7b7479882472" },
+  { n = 7, title = "Anna Lee, the Healer", mbid = "7ba04a37-0dab-4100-a996-b9fbef39d198" },
+  { n = 8, title = "Little Bird", mbid = "cd5ea7a7-f57e-46cb-9373-54cbff6aedd0" },
+  { n = 9, title = "Be Still", mbid = "b3bc51a5-a159-4d34-bc75-3986c142ecab" },
+  { n = 10, title = "Busy Doin' Nothing", mbid = "b8c2729e-7209-4848-85ad-98e242edeb5d" },
+  { n = 11, title = "Diamond Head", mbid = "59e61413-8889-4375-9e2d-edef3d056598" },
+  { n = 12, title = "Transcendental Meditation", mbid = "c6579e81-d7f3-4a75-9b6e-1db9db8cb0aa" },
+]
+
+[[release]]
+mbid = "1e56158e-869e-3fdc-86c3-08331bf23fa8"
+title = "Do It Again"
+type = "single"
+date = "1968-07-08"
+tracks = [
+  { n = 1, title = "Do It Again", mbid = "814730d9-8cd2-4ba5-a253-25ef98fe9ea6" },
+  { n = 2, title = "Wake the World", mbid = "24483382-c24b-46b7-9b16-98834109fdc1" },
+]
+
+[[release]]
+mbid = "3fa59e08-4424-3f03-909e-211a9903de26"
+title = "Bluebirds Over the Mountain / Never Learn Not to Love"
+type = "single"
+date = "1968-12-02"
+tracks = [
+  { n = 1, title = "Bluebirds Over the Mountain", mbid = "aa2cc6f1-e525-4123-8de9-3878676725e6" },
+  { n = 2, title = "Never Learn Not to Love", mbid = "64d34c26-ce41-48bf-848e-0039f1a94f98" },
+]
+
+[[release]]
+mbid = "23b32f60-012c-4e8c-b046-bca98cc8a2aa"
+title = "Break Away"
+type = "ep"
+date = "1969"
+tracks = [
+  { n = 1, title = "Break Away", mbid = "3f679360-cb7d-4b71-9d34-97c157f8aea9" },
+  { n = 2, title = "Here Comes the Night", mbid = "5d94d917-0c1f-425b-b962-1393a9a393a7" },
+  { n = 3, title = "Celebrate the News", mbid = "a1005ae9-74de-4b1f-b270-f5c6165d12d4" },
+  { n = 4, title = "A Thing or Two", mbid = "051f2cf3-c2a9-4a40-9d23-5119ebc1bb60" },
+]
+
+[[release]]
+mbid = "34293279-e22b-3407-a1d1-ca08c394a567"
+title = "Cotton Fields / Time to Get Alone"
+type = "single"
+date = "1969"
+tracks = [
+  { n = 1, title = "Cotton Fields", mbid = "f2270ee1-c937-4686-b22f-9a0910661575" },
+  { n = 2, title = "Time to Get Alone", mbid = "9665ac00-76f9-4380-9e8d-4ab9a43aea2e" },
+]
+
+[[release]]
+mbid = "27e5bbcc-1ff7-3f87-896f-e5f0dfc3464e"
+title = "20/20"
+type = "album"
+date = "1969-02-03"
+spotify = "2vFDenbFedYVMOwDqTiw82"
+tracks = [
+  { n = 1, title = "Do It Again", mbid = "941730ea-7259-4970-bdfd-56d63574c1f2" },
+  { n = 2, title = "I Can Hear Music", mbid = "790ac5fa-6957-4875-ad4f-fc6c36acd676" },
+  { n = 3, title = "Bluebirds Over the Mountain", mbid = "170cb16c-b59d-4166-8efa-384903421fbd" },
+  { n = 4, title = "Be With Me", mbid = "6d9e418c-4795-4058-b617-635e7bc4ca89" },
+  { n = 5, title = "All I Want to Do", mbid = "a9bb3212-1999-4b18-8991-022907982051" },
+  { n = 6, title = "The Nearest Faraway Place", mbid = "077ca6a9-deea-48b4-9338-da01ab291c9e" },
+  { n = 7, title = "Cotton Fields (The Cotton Song)", mbid = "f329f1ce-48e6-4f4b-b731-6469a14f1a84" },
+  { n = 8, title = "I Went to Sleep", mbid = "b718ac21-a6b0-448f-bef7-584458b22505" },
+  { n = 9, title = "Time to Get Alone", mbid = "96ea8a40-f889-4923-8ffb-4dd7be91e272" },
+  { n = 10, title = "Never Learn Not to Love", mbid = "6fc4bcfa-b6a1-4c22-9e6e-9ae64a59f4b5" },
+  { n = 11, title = "Our Prayer", mbid = "823eb2a7-e642-4622-85d6-5bd119ac771c" },
+  { n = 12, title = "Cabinessence", mbid = "7e06c789-2274-4bf4-bdf2-86249379558f" },
+]
+
+[[release]]
+mbid = "0670aa2a-9904-339d-ab45-a1d16c6a0dcd"
+title = "I Can Hear Music"
+type = "single"
+date = "1969-03-03"
+tracks = [
+  { n = 1, title = "I Can Hear Music", mbid = "b778921f-1dca-4686-a41d-65632b494f20" },
+  { n = 2, title = "All I Want to Do", mbid = "56b77f66-9892-4528-8b62-6c7c372ab0a1" },
+]
+
+[[release]]
+mbid = "3f810a52-c670-3d8b-8401-a495c15c37ee"
+title = "Break Away"
+type = "single"
+date = "1969-06-16"
+tracks = [
+  { n = 1, title = "Break Away", mbid = "4c8d0a31-06b2-43f9-b1de-4a2333d8e875" },
+  { n = 2, title = "Celebrate the News", mbid = "db123e3a-ec2d-4624-a559-b97e97855652" },
+]
+
+[[release]]
+mbid = "b23ae70d-c524-3181-88ad-752bdf16c46b"
+title = "Add Some Music to Your Day"
+type = "single"
+date = "1970-02-23"
+tracks = [
+  { n = 1, title = "Add Some Music to Your Day", mbid = "8b6463f2-4989-4e6e-8e63-602c57c446f8" },
+  { n = 2, title = "Susie Cincinnati", mbid = "4ebed004-0e81-4608-980f-7c0b843a2942" },
+]
+
+[[release]]
+mbid = "f7afc948-c42b-3dd2-87d0-034dfd769bed"
+title = "Slip On Through"
+type = "single"
+date = "1970-06-29"
+tracks = [
+  { n = 1, title = "Slip On Through", mbid = "30ff6fb1-b4b5-4689-b389-a557350d3f98" },
+  { n = 2, title = "This Whole World", mbid = "4c6afbc0-0421-4439-8181-c98163828fb5" },
+]
+
+[[release]]
+mbid = "464dba39-079e-3ea4-84e1-1829324de678"
+title = "Sunflower"
+type = "album"
+date = "1970-08-31"
+spotify = "6oUeivCrkGIQwM9uSy0N1P"
+tracks = [
+  { n = 1, title = "Slip on Through", mbid = "cde323b2-ad60-4691-9ff6-8975e0d299d0" },
+  { n = 2, title = "This Whole World", mbid = "91b44c34-34dc-4601-bc6c-073405cd673e" },
+  { n = 3, title = "Add Some Music to Your Day", mbid = "8af52748-f295-43d6-abcc-236c9b49b7fc" },
+  { n = 4, title = "Got to Know the Woman", mbid = "a4f0f24a-ad99-49bf-a1f3-5bb55d4d942c" },
+  { n = 5, title = "Deirdre", mbid = "54204e01-5c44-4285-aa3b-5a48a0104748" },
+  { n = 6, title = "It's About Time", mbid = "af64e288-5b65-4a0c-851e-390323d1eaa1" },
+  { n = 7, title = "Tears in the Morning", mbid = "1fd35b10-7638-4fc7-9b28-8022468f11c1" },
+  { n = 8, title = "All I Wanna Do", mbid = "5b19b187-66d5-4043-b43e-5fa6d9a5bdc4" },
+  { n = 9, title = "Forever", mbid = "6c6ff42f-2079-4432-87f3-dc65b7848f6c" },
+  { n = 10, title = "Our Sweet Love", mbid = "5bbb1079-1b77-465a-bf27-b63fc27f171e" },
+  { n = 11, title = "At My Window", mbid = "35be9b23-a7c7-4ebd-819f-b126206d34eb" },
+  { n = 12, title = "Cool, Cool Water", mbid = "9ccfac8d-e711-42b3-871f-dd7187ec882a" },
+]
+
+[[release]]
+mbid = "b3014658-a41e-3a6a-8f34-f31d350225fb"
+title = "Tears in the Morning"
+type = "single"
+date = "1970-10-12"
+tracks = [
+  { n = 1, title = "Tears in the Morning", mbid = "23dd8b67-cec3-4980-b964-b6120f45fe8d" },
+  { n = 2, title = "It’s About Time", mbid = "d3f20111-d0eb-4686-b21c-d16a395eeb31" },
+]
+
+[[release]]
+mbid = "fd9be3fa-75fe-420c-a4b0-aa1e5f7bee5c"
+title = "Don't Go Near The Water"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Don't Go Near The Water", mbid = "b41056f0-4bde-4640-8a50-426dc7839ef7" },
+  { n = 2, title = "Student Demonstration Time", mbid = "09c8b7e6-5f17-4d7d-8055-c1f758e8ba41" },
+]
+
+[[release]]
+mbid = "8f5b628c-8010-3b4b-a346-2f922db807c7"
+title = "Cool, Cool Water"
+type = "single"
+date = "1971-03-01"
+tracks = [
+  { n = 1, title = "Cool, Cool Water", mbid = "6a0720b7-8c81-44b2-8c30-e6cc0deebd21" },
+  { n = 2, title = "Forever", mbid = "ef1e4c43-2d0b-4ce1-96c1-1216725bf413" },
+]
+
+[[release]]
+mbid = "d7d5a441-cb4d-419d-a1c5-6a843a4e36d9"
+title = "Long Promised Road"
+type = "single"
+date = "1971-05-24"
+tracks = [
+  { n = 1, title = "Long Promised Road", mbid = "a09df04d-15d9-42cc-9d2d-7de8253e1738" },
+  { n = 2, title = "Deirdre", mbid = "54204e01-5c44-4285-aa3b-5a48a0104748" },
+]
+
+[[release]]
+mbid = "a42b6a80-b542-344c-921d-15a07fdb580e"
+title = "Surf's Up"
+type = "album"
+date = "1971-08-30"
+spotify = "5NJHGcHNdLURknY2LfzjZg"
+tracks = [
+  { n = 1, title = "Don’t Go Near the Water", mbid = "92c21068-91b2-47c3-beb4-a3bab3cfe2a9" },
+  { n = 2, title = "Long Promised Road", mbid = "a09df04d-15d9-42cc-9d2d-7de8253e1738" },
+  { n = 3, title = "Take a Load Off Your Feet", mbid = "4b7a6724-6c74-4d22-8750-4748e87432d3" },
+  { n = 4, title = "Disney Girls (1957)", mbid = "629a1d0e-b9ee-4f47-b5d8-22e888950135" },
+  { n = 5, title = "Student Demonstration Time", mbid = "27225122-3cf5-4f02-8354-16ca4e5bf40d" },
+  { n = 6, title = "Feel Flows", mbid = "3a38d966-3ace-40fd-9e98-9bc61ae6bf55" },
+  { n = 7, title = "Lookin’ at Tomorrow (A Welfare Song)", mbid = "f01b107e-1eeb-4d44-bc78-daedb3400dfa" },
+  { n = 8, title = "A Day in the Life of a Tree", mbid = "65ab52c7-e842-4c46-9e2d-50ed33f28717" },
+  { n = 9, title = "’Til I Die", mbid = "be07f61d-a425-4fc4-8841-0b4b22f666c6" },
+  { n = 10, title = "Surf’s Up", mbid = "ce113910-d44f-494d-845c-b883b2196bbd" },
+]
+
+[[release]]
+mbid = "8991b8f5-7e98-3f5b-8ff1-fe8a05cd2b83"
+title = "Surf's Up"
+type = "single"
+date = "1971-11-29"
+tracks = [
+  { n = 1, title = "Surf's Up", mbid = "b7bbe092-6876-4a2f-a82a-d66e7867cd9e" },
+  { n = 2, title = "Don't Go Near the Water", mbid = "b14fbcd3-0900-4110-91f1-ea8874e16ff4" },
+]
+
+[[release]]
+mbid = "7d2a1053-38b5-4ff9-8723-1c4d0ae40ea2"
+title = "Mount Vernon and Fairway"
+type = "ep"
+date = "1972"
+tracks = [
+  { n = 1, title = "Mt. Vernon and Fairway (theme)", mbid = "c91eb1fa-43df-4d1c-bed8-8303cec99920" },
+  { n = 2, title = "I'm the Pied Piper (instrumental)", mbid = "9acd1a26-126d-4ea9-a74e-928d44d59d2c" },
+  { n = 3, title = "Better Get Back in Bed", mbid = "1174d3f0-b5f3-47b1-abec-43c0ddc81b0c" },
+  { n = 4, title = "Magic Transistor Radio", mbid = "a19fb4b3-2132-444a-8a88-217f32733b4a" },
+  { n = 5, title = "I'm the Pied Piper", mbid = "4c84f63e-72e4-4d5c-92d8-b6eeb2c7ebb1" },
+  { n = 6, title = "Radio King Dom", mbid = "bd011f48-3e2c-4641-9b3d-982aeb982f2c" },
+]
+
+[[release]]
+mbid = "f2b6c43f-cf6c-3261-ba53-cd4286cee0d8"
+title = "You Need a Mess of Help to Stand Alone"
+type = "single"
+date = "1972"
+tracks = [
+  { n = 1, title = "You Need a Mess of Help to Stand Alone", mbid = "6a159295-1e3a-4ae5-8fd2-a956af6a0b64" },
+  { n = 2, title = "Cuddle Up", mbid = "aa9b6199-58f8-45b6-8840-c0dd10aeff3a" },
+]
+
+[[release]]
+mbid = "c8e6f795-2021-3203-8e10-e14d8aef4a19"
+title = "Carl and the Passions: “So Tough”"
+type = "album"
+date = "1972-05-15"
+spotify = "632t0m8ejm3Geu5rW1CELD"
+tracks = [
+  { n = 1, title = "You Need a Mess of Help to Stand Alone", mbid = "abd7962e-7a6d-4e35-a9b6-07e746025efc" },
+  { n = 2, title = "Here She Comes", mbid = "9f6b6040-f10f-4387-af0c-b30793cf73bb" },
+  { n = 3, title = "He Come Down", mbid = "e7cbbdc2-9d06-40ad-9213-aa12e755c1c1" },
+  { n = 4, title = "Marcella", mbid = "a32f23c7-50a6-41b3-8c8c-0c6fa9c61a60" },
+  { n = 5, title = "Hold On Dear Brother", mbid = "83941afd-af49-4edb-b479-8840473ee34d" },
+  { n = 6, title = "Make It Good", mbid = "e6d045a0-84ae-4f0c-9170-25c19d08d2cf" },
+  { n = 7, title = "All This Is That", mbid = "eb4c7a67-48a6-4f2e-8b07-f32f68d6e5f9" },
+  { n = 8, title = "Cuddle Up", mbid = "64ce01e4-cd02-4d56-a043-f1b4e91a74ba" },
+]
+
+[[release]]
+mbid = "ded1a032-410a-3441-b6fd-35d6944cd01b"
+title = "Marcella"
+type = "single"
+date = "1972-06-26"
+tracks = [
+  { n = 1, title = "Marcella", mbid = "10803fac-a622-4c79-a113-2a7ad389b906" },
+  { n = 2, title = "Hold On Dear Brother", mbid = "a27c7323-be8d-4e12-b06f-a6ad6478a365" },
+]
+
+[[release]]
+mbid = "64555f78-140a-4c72-bfcd-d1c75e45b116"
+title = "Disney Girls (1957)"
+type = "single"
+date = "1973"
+tracks = [
+  { n = 1, title = "Disney Girls (1957)", mbid = "032792f8-001d-4aef-88ae-bd5e9baf50ee" },
+  { n = 2, title = "Surf's Up", mbid = "04b46559-cc86-46c8-837c-d34ff0296459" },
+]
+
+[[release]]
+mbid = "458f48ac-5063-3384-a65d-6963e3d18304"
+title = "Holland"
+type = "album"
+date = "1973-01-08"
+spotify = "56TmtkBepKW3eZKiRjEl0M"
+tracks = [
+  { n = 1, title = "Sail On, Sailor", mbid = "69556d2b-7eda-49c8-b3e6-d4ddca0dc4e7" },
+  { n = 2, title = "Steamboat", mbid = "e3503299-782c-46a7-a3c3-c3c15bec6b38" },
+  { n = 3, title = "California Saga: Big Sur", mbid = "9ccd320a-9740-4a42-807b-deae3b7c79a0" },
+  { n = 4, title = "California Saga: The Beaks of Eagles", mbid = "d505a59d-c496-4ab8-b2ac-cb0ae7d620d5" },
+  { n = 5, title = "California Saga: California", mbid = "1130caf7-6f92-4a0c-8b61-d7a09e5db94f" },
+  { n = 6, title = "The Trader", mbid = "ae02822c-d401-47fe-bdd1-ceb8d0c26238" },
+  { n = 7, title = "Leaving This Town", mbid = "ca2a3beb-cdd0-4202-aa68-472888fe51f5" },
+  { n = 8, title = "Only With You", mbid = "c4d5cdf1-10d4-4dd0-a8b4-baa5ce957ae4" },
+  { n = 9, title = "Funky Pretty", mbid = "b54bee5d-d6c8-46ea-a3c3-d45b591128ab" },
+]
+
+[[release]]
+mbid = "4758591f-3201-34d4-b3a2-9809cb7ff6c6"
+title = "Sail On, Sailor"
+type = "single"
+date = "1973-02-05"
+tracks = [
+  { n = 1, title = "Sail On, Sailor", mbid = "57a98bc1-52a6-4697-a2c1-66c54330a76f" },
+  { n = 2, title = "Only With You", mbid = "c0e4dc70-49f0-46ba-a16c-454ac653ae69" },
+]
+
+[[release]]
+mbid = "99f6f669-fb25-3a4c-81bc-a822d9116302"
+title = "California Saga: California"
+type = "single"
+date = "1973-04-16"
+tracks = [
+  { n = 1, title = "California Saga: California", mbid = "f05e219e-bb38-4ec6-ae9e-04283d56cf19" },
+  { n = 2, title = "Funky Pretty", mbid = "c20146df-74fe-4857-b813-90d193df0b4a" },
+]
+
+[[release]]
+mbid = "e20db33f-89dc-4fe8-aa9d-147f45544a17"
+title = "Child of Winter"
+type = "single"
+date = "1974-12-23"
+tracks = [
+  { n = 1, title = "Child of Winter", mbid = "24ac1399-940e-4688-844a-66ef1a1dd06b" },
+  { n = 2, title = "Susie Cincinnati", mbid = "562fce45-bda2-45f9-bc65-afdd8d0a479d" },
+]
+
+[[release]]
+mbid = "b25163e3-838c-4094-bea7-4abbdcecae56"
+title = "Rock and Roll Music"
+type = "single"
+date = "1976-05-24"
+tracks = [
+  { n = 1, title = "Rock and Roll Music", mbid = "dd952d43-1739-467f-a603-91b684e80444" },
+  { n = 2, title = "T M Song", mbid = "5170155f-d22b-49fa-9db1-509583419d93" },
+]
+
+[[release]]
+mbid = "b044386c-21fd-3bc3-9c55-8e4df91830f2"
+title = "15 Big Ones"
+type = "album"
+date = "1976-06-28"
+tracks = [
+  { n = 1, title = "Rock and Roll Music", mbid = "dd952d43-1739-467f-a603-91b684e80444" },
+  { n = 2, title = "It’s OK", mbid = "c864e858-4c39-450b-a5d7-da875d6a9e13" },
+  { n = 3, title = "Had to Phone Ya", mbid = "01ac4989-773e-4dc1-914f-b930b8692758" },
+  { n = 4, title = "Chapel of Love", mbid = "7494f950-5941-434e-be5d-f91ec4c7f515" },
+  { n = 5, title = "Everyone’s in Love With You", mbid = "9c61c914-3e3f-4bc8-afb4-6c6d117a6250" },
+  { n = 6, title = "Talk to Me", mbid = "ad975720-83ea-45f9-ac8c-82fca8a117f9" },
+  { n = 7, title = "That Same Song", mbid = "4e866eb0-f83c-4ee8-8586-0fdbe5a3d694" },
+  { n = 8, title = "T.M. Song", mbid = "f2835e98-dfc8-4b30-ad24-38a65255241b" },
+  { n = 9, title = "Palisades Park", mbid = "f529f11c-6e36-4e28-8636-61e8632872cd" },
+  { n = 10, title = "Susie Cincinnati", mbid = "f3bd4b7e-8403-4ece-b861-fee6915a046e" },
+  { n = 11, title = "A Casual Look", mbid = "a12e49d5-cb3a-49c3-bb8b-f7415a637085" },
+  { n = 12, title = "Blueberry Hill", mbid = "c6e8913d-175d-47bd-921f-df1c8bd2a712" },
+  { n = 13, title = "Back Home", mbid = "04c00e1c-27b1-4d0c-9ce9-21c9a23017c5" },
+  { n = 14, title = "In the Still of the Night (I’ll Remember)", mbid = "c6d17d5e-af5b-4fe7-9e7f-0c81be8f98d3" },
+  { n = 15, title = "Just Once in My Life", mbid = "38dbaa68-6921-4047-8ca7-36629a031e70" },
+]
+
+[[release]]
+mbid = "b094f17e-397f-4da9-925f-9d749a16aff7"
+title = "It’s OK / Had to Phone Ya"
+type = "single"
+date = "1976-08-30"
+tracks = [
+  { n = 1, title = "It’s OK", mbid = "fa55f368-a5bb-4605-83ce-642cf0c0791f" },
+  { n = 2, title = "Had to Phone Ya", mbid = "99d3cc1b-45dd-47b4-aa73-d87887f9bf90" },
+]
+
+[[release]]
+mbid = "d53d8b45-011d-4e3f-9601-9f85810511ed"
+title = "Everyone's in Love with You"
+type = "single"
+date = "1976-11-08"
+tracks = [
+  { n = 1, title = "Everyone's in Love with You", mbid = "0c7c2728-1a08-4f1f-b281-dfd652f278bc" },
+  { n = 2, title = "Susie Cincinnati", mbid = "d8a562ed-f52f-4034-a037-16c4eb85d228" },
+]
+
+[[release]]
+mbid = "a40f5de9-459a-4d83-97d3-57a7fcfa92e2"
+title = "Mona / Rock And Roll Music / Sail On Sailor / Marcella"
+type = "ep"
+date = "1977"
+tracks = [
+  { n = 1, title = "Mona", mbid = "eef0994f-e916-4d60-8923-f1a6c3cd61c6" },
+  { n = 2, title = "Rock And Roll Music", mbid = "0901fb4b-328f-446c-8a2f-90872c409827" },
+  { n = 3, title = "Sail On Sailor", mbid = "9f51ae1e-8091-4320-a00e-998eabb3d784" },
+  { n = 4, title = "Marcella", mbid = "8b28465e-a4dc-4663-a253-666b680de06b" },
+]
+
+[[release]]
+mbid = "f9ca779a-a7cc-3129-b536-eda3dcfc550e"
+title = "Love You"
+type = "album"
+date = "1977-04-11"
+spotify = "3ttmiqBiRWbbloqIwOfRZi"
+tracks = [
+  { n = 1, title = "Let Us Go on This Way", mbid = "de4b7d7e-22e8-4345-8859-130c0c1897f8" },
+  { n = 2, title = "Roller Skating Child", mbid = "e2167965-96cd-4b93-b62d-d9f2dc8547ef" },
+  { n = 3, title = "Mona", mbid = "19c604e8-bb1c-4b59-bed5-a737ec07a3a6" },
+  { n = 4, title = "Johnny Carson", mbid = "22c65906-dfdc-4b74-9872-1161771015d1" },
+  { n = 5, title = "Good Time", mbid = "7a301f35-4d33-4cc6-8706-658681bc0f65" },
+  { n = 6, title = "Honkin’ Down the Highway", mbid = "4879925f-cdbe-4e25-918d-d3e64341e89d" },
+  { n = 7, title = "Ding Dang", mbid = "d93d957f-96ec-4b9a-b7e9-13de50b185a4" },
+  { n = 8, title = "Solar System", mbid = "e4ccdf57-16fb-4b6a-ba38-5c9346a2bf67" },
+  { n = 9, title = "The Night Was So Young", mbid = "4bc1d203-97f0-433f-a987-255262010459" },
+  { n = 10, title = "I’ll Bet He’s Nice", mbid = "24a859f7-f974-423c-96a3-5fae02c951b3" },
+  { n = 11, title = "Let’s Put Our Hearts Together", mbid = "e178915b-d938-438e-ba35-9020a125bf9b" },
+  { n = 12, title = "I Wanna Pick You Up", mbid = "1a5bac3a-d452-4d2d-9ec6-42e86c267c1b" },
+  { n = 13, title = "Airplane", mbid = "a65a1db3-9b66-4f25-89e5-6f9fc0dfc751" },
+  { n = 14, title = "Love Is a Woman", mbid = "096863c7-ff24-4073-b547-55a5fb529083" },
+]
+
+[[release]]
+mbid = "3ee626b9-0ccb-4487-aa82-ef9dbccad15e"
+title = "Honkin’ Down the Highway / Solar System"
+type = "single"
+date = "1977-05-30"
+tracks = [
+  { n = 1, title = "Honkin’ Down the Highway", mbid = "ec716836-1a6d-4a88-bae4-4e14d7bbc7ef" },
+  { n = 2, title = "Solar System", mbid = "f9079fe0-61ac-4361-bd6f-f35607660dfe" },
+]
+
+[[release]]
+mbid = "ca88e0cb-b360-483a-bc80-9448a0be6984"
+title = "Peggy Sue"
+type = "single"
+date = "1978"
+tracks = [
+  { n = 1, title = "Peggy Sue", mbid = "46a39c95-0431-41c9-8e0d-3cfdd960b506" },
+  { n = 2, title = "Hey Little Tomboy", mbid = "b1c55c3b-2f8d-4aa1-8827-92206e8e1542" },
+]
+
+[[release]]
+mbid = "831134fb-1aa2-30f8-9045-469c3df17daa"
+title = "M.I.U. Album"
+type = "album"
+date = "1978-10-02"
+tracks = [
+  { n = 1, title = "She’s Got Rhythm", mbid = "42db5453-14c9-4cef-85bc-2732b1e0e26b" },
+  { n = 2, title = "Come Go With Me", mbid = "b3dacbd0-1e29-46ae-b1f6-acca242f7f16" },
+  { n = 3, title = "Hey Little Tomboy", mbid = "68d5021a-e5fd-4a93-ad53-9958791a3250" },
+  { n = 4, title = "Kona Coast", mbid = "1d0dc7d5-ae08-4e01-891d-80f9be6592d9" },
+  { n = 5, title = "Peggy Sue", mbid = "488aabee-d12a-480e-a2b9-ee19fc00fd73" },
+  { n = 6, title = "Wontcha Come Out Tonight", mbid = "34fd361b-4040-4dc6-8d23-12a87eeb6889" },
+  { n = 7, title = "Sweet Sunday Kind of Love", mbid = "88174a05-53d3-432f-b31c-84dec4a0f320" },
+  { n = 8, title = "Belles of Paris", mbid = "e69048f6-cb9f-4f6e-a6ef-b4afb8877db3" },
+  { n = 9, title = "Pitter Patter", mbid = "5fefa207-6f21-4720-8861-fc4736c706a0" },
+  { n = 10, title = "My Diane", mbid = "d05e46b5-39ea-402e-a8b0-f3c8d948d9b7" },
+  { n = 11, title = "Matchpoint of Our Love", mbid = "dbf203c8-ea7f-49a4-be1a-17d3c080dd90" },
+  { n = 12, title = "Winds of Change", mbid = "6aa57aa1-e530-4243-9688-e320b53584fd" },
+]
+
+[[release]]
+mbid = "56cfb0eb-01d3-4e1d-a138-2e56b6ecc96d"
+title = "Here Comes the Night"
+type = "single"
+date = "1979-02-19"
+tracks = [
+  { n = 1, title = "Here Comes the Night", mbid = "7d2b3ae9-bc2c-4f8f-ab91-05c913c02808" },
+  { n = 2, title = "Baby Blue", mbid = "fd182267-2ebe-44e0-8327-e26321725cf7" },
+]
+
+[[release]]
+mbid = "9baa156d-1f8e-3cfe-917b-674abeac8ac5"
+title = "L.A. (Light Album)"
+type = "album"
+date = "1979-03-19"
+tracks = [
+  { n = 1, title = "Good Timin’", mbid = "79546ebe-8922-4054-af0a-cc07d5b2320d" },
+  { n = 2, title = "Lady Lynda", mbid = "6114503c-1fe7-4a8b-bc31-36088a8c84b1" },
+  { n = 3, title = "Full Sail", mbid = "393b622d-9c5b-4f26-b3af-47a5ba2b7a04" },
+  { n = 4, title = "Angel Come Home", mbid = "3482b003-21f5-4d27-8841-0dd85de8f516" },
+  { n = 5, title = "Love Surrounds Me", mbid = "cf8eb239-447e-4d35-9669-5c7231c488fc" },
+  { n = 6, title = "Sumahama", mbid = "e0b23405-9471-4afc-8127-b89ca3d34249" },
+  { n = 7, title = "Here Comes the Night", mbid = "c5c78770-29e4-49aa-86e1-4d6e5623b931" },
+  { n = 8, title = "Baby Blue", mbid = "c355e3a6-ca7d-4e60-a15d-6dc44a30ba6b" },
+  { n = 9, title = "Goin’ South", mbid = "a93045e6-9186-4509-b7b0-89b96088dee1" },
+  { n = 10, title = "Shortenin’ Bread", mbid = "5e9141e3-b5b1-4fb3-8f87-054a99654100" },
+]
+
+[[release]]
+mbid = "2aa6cf8b-fe4b-4826-8478-f86e3abcfa40"
+title = "Good Timin’ / Love Surrounds Me"
+type = "single"
+date = "1979-04-17"
+tracks = [
+  { n = 1, title = "Good Timin’", mbid = "918d1ab4-ed00-4488-a6b9-13c18b179bf7" },
+  { n = 2, title = "Love Surrounds Me", mbid = "c4ad02c7-b526-41d8-ac2d-f5916eec8de5" },
+]
+
+[[release]]
+mbid = "fbcedc8f-4782-4930-ae64-9483fee1e208"
+title = "Lady Lynda"
+type = "single"
+date = "1979-06"
+tracks = [
+  { n = 1, title = "Lady Lynda", mbid = "23b0545a-bfd2-4ead-97e1-fdf3d275657a" },
+  { n = 2, title = "Full Sail", mbid = "5f062e7b-3d53-48d0-a20d-285f3d1429b6" },
+]
+
+[[release]]
+mbid = "49ed553d-c1ff-4dd7-8cc4-c2130a505aae"
+title = "It’s a Beautiful Day"
+type = "single"
+date = "1979-10-18"
+tracks = [
+  { n = 1, title = "It’s a Beautiful Day", mbid = "c9dfbb12-242e-44be-aca9-62fe2f3fedd4" },
+  { n = 2, title = "Sumahama", mbid = "31424788-f561-459f-bdf1-7b043835e2d6" },
+]
+
+[[release]]
+mbid = "818082a6-112c-4fc0-95de-27247f69deaf"
+title = "Keepin’ the Summer Alive"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "Keepin’ the Summer Alive", mbid = "a62ab0cd-4efd-4746-8620-61a81ab2b813" },
+  { n = 2, title = "When Girls Get Together", mbid = "00b5ae29-0b67-4cbb-9e40-176deb912975" },
+]
+
+[[release]]
+mbid = "f8116b5f-70f4-4b54-ae6c-0d91f7df0d8c"
+title = "Oh Darlin’ / Endless Harmony"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "Oh Darlin’", mbid = "f480d6ca-b4b5-4e5d-af4c-57fde7445b78" },
+  { n = 2, title = "Endless Harmony", mbid = "1043470f-7603-4cf3-bba1-e5d04a71b06f" },
+]
+
+[[release]]
+mbid = "d1730905-7d36-3124-bb1e-421a3127390d"
+title = "Keepin’ the Summer Alive"
+type = "album"
+date = "1980-03-24"
+tracks = [
+  { n = 1, title = "Keepin’ the Summer Alive", mbid = "059883f7-be69-4dd4-b690-5fa5f9582636" },
+  { n = 2, title = "Oh Darlin’", mbid = "b8e42d06-ffac-4b14-8361-e114ea29ed0f" },
+  { n = 3, title = "Some of Your Love", mbid = "91dd8493-b967-41ab-8e6c-9401eaa10833" },
+  { n = 4, title = "Livin’ With a Heartache", mbid = "35f6b4a7-19d0-40e8-a852-5d8fc1756dcf" },
+  { n = 5, title = "School Day (Ring! Ring! Goes the Bell)", mbid = "27dc3875-844e-4f90-a90d-92413ca04aaa" },
+  { n = 6, title = "Goin’ On", mbid = "9a2dbe27-42d0-47e7-8e1b-74aceb903fc1" },
+  { n = 7, title = "Sunshine", mbid = "18e79c18-0644-42e3-8a02-325ca9d124f4" },
+  { n = 8, title = "When Girls Get Together", mbid = "707f2c82-11f6-404f-9b19-4886e967354c" },
+  { n = 9, title = "Santa Ana Winds", mbid = "b14aa15a-2d86-4c43-bb89-5ef69123e6b1" },
+  { n = 10, title = "Endless Harmony", mbid = "27a4ab05-bfc4-4361-ae15-fbd8d8f69514" },
+]
+
+[[release]]
+mbid = "56ef3fcb-d11f-46ca-98a9-21fe296b5888"
+title = "Livin' with a Heartache"
+type = "single"
+date = "1980-05-21"
+tracks = [
+  { n = 1, title = "Livin' With A Heartache", mbid = "285124d3-c29f-44d6-89df-1da50b4394b4" },
+  { n = 2, title = "Santa Ana Winds", mbid = "70eed6f1-2aaf-4712-a713-20a279a1b6fa" },
+]
+
+[[release]]
+mbid = "859bbb58-4f71-481a-95fe-de0b7bc3b3a0"
+title = "The Beach Boys Medley / God Only Knows"
+type = "single"
+date = "1981"
+tracks = [
+  { n = 1, title = "The Beach Boys Medley", mbid = "dd486552-125a-4679-ba49-ed4e8925376e" },
+  { n = 2, title = "God Only Knows", mbid = "c0edb144-3805-4254-9669-c3fb8a26baf2" },
+]
+
+[[release]]
+mbid = "69a1c096-08cc-4429-9091-7f821a17e983"
+title = "Come Go With Me"
+type = "single"
+date = "1981-11-02"
+tracks = [
+  { n = 1, title = "Come Go With Me", mbid = "594412e4-4bc9-45f9-a156-4f384a429101" },
+  { n = 2, title = "Don't Go Near The Water", mbid = "387f7d79-7292-414a-adb9-d4548ff0aa23" },
+]
+
+[[release]]
+mbid = "bdb48666-98b0-4393-b06d-c2fec2ebb25c"
+title = "Getcha Back"
+type = "single"
+date = "1985-05-08"
+tracks = [
+  { n = 1, title = "Getcha Back", mbid = "b78be69d-f7b9-451d-bc82-73c8be8773e8" },
+  { n = 2, title = "Male Ego", mbid = "fecfeac0-05e2-4b4d-9053-9f6c2695683d" },
+]
+
+[[release]]
+mbid = "9ae9a6ec-181c-3025-bcd1-aa3184d50618"
+title = "The Beach Boys"
+type = "album"
+date = "1985-06-10"
+tracks = [
+  { n = 1, title = "Getcha Back", mbid = "d4e714e9-619b-4ba9-bf0a-3fc974bb7564" },
+  { n = 2, title = "It’s Gettin’ Late", mbid = "8f0bef07-1ae9-41b3-939d-caf0bca2ce5a" },
+  { n = 3, title = "Crack at Your Love", mbid = "74b539b7-2538-499e-ae48-e030d2d2ca71" },
+  { n = 4, title = "Maybe I Don’t Know", mbid = "f75c9c9b-73a7-4a84-a191-3452c66796f3" },
+  { n = 5, title = "She Believes in Love Again", mbid = "677683ae-9928-49f3-9541-ad717fd16ed6" },
+  { n = 6, title = "California Calling", mbid = "ee1bfebe-0131-4d24-9dc2-158f78fbf4a6" },
+  { n = 7, title = "Passing Friend", mbid = "d342c8fa-2f0b-4f2d-bd27-0bae63f99f2e" },
+  { n = 8, title = "I’m So Lonely", mbid = "2e1e6826-4907-4e62-85c8-cc2f55d7e98a" },
+  { n = 9, title = "Where I Belong", mbid = "d8719c44-e8dc-4e69-8ee2-58dd0c7d8d28" },
+  { n = 10, title = "I Do Love You", mbid = "27efe2ec-3567-4c48-8c2c-ddf7a16962ff" },
+  { n = 11, title = "It’s Just a Matter of Time", mbid = "b0823664-01fd-4cdd-99f0-362059a4aeae" },
+  { n = 12, title = "Male Ego", mbid = "38eaeb2c-f4e4-4d10-8a22-0accef1f642b" },
+]
+
+[[release]]
+mbid = "eeb32c10-c4c2-4aa7-a646-481739eeae29"
+title = "It’s Gettin’ Late / It’s OK"
+type = "single"
+date = "1985-07-17"
+tracks = [
+  { n = 1, title = "It’s Gettin’ Late", mbid = "bae769a7-0da5-4b0e-bb98-2e01bbb654b1" },
+  { n = 2, title = "It’s OK", mbid = "d42ecf63-58e3-4404-b525-ea94a85cabfe" },
+]
+
+[[release]]
+mbid = "0490d788-10ca-435f-a194-e8a4dd95cb22"
+title = "Rock 'n' Roll To The Rescue"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "Rock 'n' Roll To The Rescue (Beach Party Mix) (Extended Dance Version)", mbid = "71d81306-696d-4b9c-8c1a-4a98afd8a3ab" },
+  { n = 2, title = "Rock 'n' Roll To The Rescue (Percadella Mix)", mbid = "b0b8114d-220d-4846-aacd-b66790858f42" },
+  { n = 3, title = "Rock 'n' Roll To The Rescue (7'' Version)", mbid = "d7f7f49c-9624-4181-a3ba-66f4f19e3d2c" },
+  { n = 4, title = "Good Vibrations (Live In London)", mbid = "39efdc2b-792d-4be3-a4a5-9596c3941e01" },
+  { n = 5, title = "Rock 'n' Roll To The Rescue (Instrumental)", mbid = "a1ab9fde-8e3a-406f-b1ec-1d306c6332c8" },
+]
+
+[[release]]
+mbid = "e6b769b9-5986-4265-a2bc-580a2ba5dd2c"
+title = "Rock 'n' Roll to the Rescue"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "Rock 'n' Roll To The Rescue", mbid = "c215163e-0cd2-4bc2-864d-2315333f35c6" },
+  { n = 2, title = "Good Vibrations (Live In London)", mbid = "163604dd-49f2-4c89-a15c-34b9c65fad42" },
+]
+
+[[release]]
+mbid = "5aec379a-a530-4e8d-a44d-2ca88940718e"
+title = "California Dreamin’ / Lady Liberty"
+type = "single"
+date = "1986-05"
+tracks = [
+  { n = 1, title = "California Dreamin’", mbid = "d975bc1d-c86b-456d-ae26-d3f68b3bbaa3" },
+  { n = 2, title = "Lady Liberty", mbid = "543ac50c-3ff8-4c8f-a99a-17e4053246c3" },
+]
+
+[[release]]
+mbid = "0412f945-2121-4273-a293-e53b05615b7d"
+title = "Kokomo"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Kokomo (LP Version)", mbid = "8ac90f40-98e1-450d-8456-77d46ffd47fe" },
+  { n = 2, title = "Tutti Frutti", mbid = "afa4df79-ba20-4858-9615-921e0c7fd06f" },
+]
+
+[[release]]
+mbid = "157268b0-eb39-447e-a02a-9ca98f8d4a2f"
+title = "Still Cruisin'"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Still Cruisin'", mbid = "873450c6-ecaa-46a0-96e6-a8c9254ecee2" },
+  { n = 2, title = "Kokomo", mbid = "8ac90f40-98e1-450d-8456-77d46ffd47fe" },
+  { n = 3, title = "Fun, Fun, Fun", mbid = "8f032479-da2d-44d0-8e36-84ab45be4ad5" },
+]
+
+[[release]]
+mbid = "4f6a66c0-c5e1-3ae1-8810-3b6f451a5c6c"
+title = "Still Cruisin’"
+type = "album"
+date = "1989-08-28"
+tracks = [
+  { n = 1, title = "Still Cruisin’", mbid = "4c5e1358-58e9-43fe-8d83-a16878a02614" },
+  { n = 2, title = "Somewhere Near Japan", mbid = "5b73da20-6894-40de-83c3-933e65f7cd83" },
+  { n = 3, title = "Island Girl", mbid = "04c4acb6-103f-4764-b6dd-383b9e153351" },
+  { n = 4, title = "In My Car", mbid = "73afa14f-2202-42be-93e9-e8f01662cf6c" },
+  { n = 5, title = "Kokomo", mbid = "8ac90f40-98e1-450d-8456-77d46ffd47fe" },
+  { n = 6, title = "Wipe Out", mbid = "fc97e5c7-89a0-42c9-be12-785b12d9ca0d" },
+  { n = 7, title = "Make It Big", mbid = "4dd2533d-fe69-45c6-b5a6-ac4a318b5a8d" },
+  { n = 8, title = "I Get Around", mbid = "d8da8b8c-3e45-42a2-91c5-65f0df14c821" },
+  { n = 9, title = "Wouldn’t It Be Nice", mbid = "9420e8c4-2ff5-4092-a31c-38aacc5d42d0" },
+  { n = 10, title = "California Girls", mbid = "a246698b-add1-4b9e-91ce-c596e80e6d85" },
+]
+
+[[release]]
+mbid = "18fef801-4428-4226-8c18-ec4d8b89132a"
+title = "Somewhere Near Japan"
+type = "single"
+date = "1990-01-11"
+tracks = [
+  { n = 1, title = "Somewhere Near Japan", mbid = "87935857-2ab9-49a9-acdc-6e6040b6b9c3" },
+  { n = 2, title = "Kokomo", mbid = "c005f33d-3cd6-4d09-af38-8c5126305bd3" },
+]
+
+[[release]]
+mbid = "667b6a5e-1b74-4b39-9213-ab1142208c03"
+title = "Problem Child"
+type = "single"
+date = "1990-07-23"
+tracks = [
+  { n = 1, title = "Problem Child (Radio Edit)", mbid = "7725912e-a10d-409c-b638-887becf798d2" },
+  { n = 2, title = "Problem Child (Instrumental)", mbid = "f8d390f7-a627-487c-be68-18310e83cc36" },
+]
+
+[[release]]
+mbid = "d1cb203b-61ce-4b2e-9e55-3f1508e2ca08"
+title = "Crocodile Rock"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "Crocodile Rock", mbid = "93edbb08-b5d3-4cb9-8569-79200edf421a" },
+]
+
+[[release]]
+mbid = "5d5048c2-9f33-44a9-a7cc-df1803a72233"
+title = "Surfer Girl / I Love You 1000 Times"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "Surfer Girl", mbid = "e7195197-882f-4f92-82ab-88b1256d844d" },
+  { n = 2, title = "I Love You 1000 Times", mbid = "7d0ebf0b-1ba5-4ca9-89c6-c99feb81ab80" },
+]
+
+[[release]]
+mbid = "5b3dfd62-5645-4b30-a122-923fbd4fbb23"
+title = "Hot Fun in the Summertime"
+type = "single"
+date = "1992-07-14"
+tracks = [
+  { n = 1, title = "Hot Fun in the Summertime", mbid = "13ef64bd-5273-4538-acf4-dcf9ce7db59b" },
+  { n = 2, title = "Summer of Love", mbid = "2de10225-d67d-41d0-9849-f5d0bc36c2a9" },
+]
+
+[[release]]
+mbid = "530efbfd-c678-39ca-9f69-f3d15920309d"
+title = "Summer in Paradise"
+type = "album"
+date = "1992-08-03"
+tracks = [
+  { n = 1, title = "Hot Fun in the Summertime", mbid = "86e69bfe-ab3c-4798-91bd-828189e8631b" },
+  { n = 2, title = "Surfin’", mbid = "42dfe6ec-ac04-4aaf-ac70-986a0ac55957" },
+  { n = 3, title = "Summer of Love", mbid = "cc14402b-e062-49ce-be7e-03a24e5b31a6" },
+  { n = 4, title = "Island Fever", mbid = "ab53366d-443c-4d05-9d62-7c76a44b68d1" },
+  { n = 5, title = "Still Surfin’", mbid = "6acca2ed-231f-46dd-b143-e4678c80426e" },
+  { n = 6, title = "Slow Summer Dancin’ (One Summer Night)", mbid = "7a28804f-c61b-4ab2-a41c-bd8f25ee9636" },
+  { n = 7, title = "Strange Things Happen", mbid = "48768fbd-c2f2-46b5-8fec-15ff1dd28434" },
+  { n = 8, title = "Remember “Walking in the Sand”", mbid = "11982b0a-6c6c-4921-b6c9-4af37dcc4b8a" },
+  { n = 9, title = "Lahaina Aloha", mbid = "53f49ca3-c245-4546-9708-2b7749b78f2d" },
+  { n = 10, title = "Under the Boardwalk", mbid = "a750a750-d4b1-4c3e-ab5a-cc10af87f722" },
+  { n = 11, title = "Summer in Paradise", mbid = "a3518776-8c81-416b-b5ab-1042cf956fb1" },
+  { n = 12, title = "Forever", mbid = "e8775a45-00aa-4b02-9443-1887d6708c3a" },
+]
+
+[[release]]
+mbid = "0588a04b-648f-3ce5-bc45-af4cba55f424"
+title = "Stars & Stripes, Volume 1"
+type = "album"
+date = "1996"
+spotify = "34JlRcgNiuX3288zaeAbEI"
+tracks = [
+  { n = 1, title = "Don’t Worry Baby", mbid = "03e3ebb3-90e9-4058-a4d9-a6aa856b5ebe" },
+  { n = 2, title = "Little Deuce Coupe", mbid = "364c334c-51b9-4f7c-8015-fda8bb0fc8e9" },
+  { n = 3, title = "409", mbid = "ceac24e9-7b57-4ba5-beaf-4303f9f9e3b5" },
+  { n = 4, title = "Long Tall Texan", mbid = "aaac2368-f48a-45f8-9c4d-e5a628bd20e8" },
+  { n = 5, title = "I Get Around", mbid = "17b4fa51-1c28-447a-b6de-5e83b56e2060" },
+  { n = 6, title = "Be True to Your School", mbid = "dcade96b-3c89-43c0-9681-e18416dd3ecd" },
+  { n = 7, title = "Fun, Fun, Fun", mbid = "387c8956-cec3-4eae-adea-4e5e04ab2f22" },
+  { n = 8, title = "Help Me Rhonda", mbid = "905225aa-ff7f-41d4-aa54-62525e9b0923" },
+  { n = 9, title = "The Warmth of the Sun", mbid = "7c405f03-6995-42c2-b86c-1c206d175b95" },
+  { n = 10, title = "Sloop John B.", mbid = "3937d7e6-54f2-4f05-9980-420de29461d5" },
+  { n = 11, title = "I Can Hear Music", mbid = "3887ba8a-ca7b-4cf4-a9cc-9a4062b30dc8" },
+  { n = 12, title = "Caroline, No", mbid = "6822fce9-267b-4f40-92f1-699f123cf811" },
+]
+
+[[release]]
+mbid = "e1c9890d-4962-39d6-a351-3a8b219a9954"
+title = "Fun Fun Fun"
+type = "single"
+date = "1996-02-19"
+tracks = [
+  { n = 1, title = "Fun Fun Fun (short version)", mbid = "04c5ff7c-8332-4af7-aa8c-b67bd0aa69e9" },
+  { n = 2, title = "Fun Fun Fun (extended fade version)", mbid = "294ddd4b-f5ca-4321-8cf9-2f0288796149" },
+  { n = 3, title = "Mortified", mbid = "5582db0c-f336-42e2-9a7b-3c8008eabf6f" },
+]
+
+[[release]]
+mbid = "d00341bc-1bf5-4639-bfa0-d1b0294e5aa9"
+title = "I Just Wasn't Made For These Times"
+type = "single"
+date = "1996-06-04"
+tracks = [
+  { n = 1, title = "I Just Wasn't Made For These Times (Stereo Mix)", mbid = "9241d7f8-13c2-4625-94f2-ad8f173686c4" },
+  { n = 2, title = "Wouldn't It Be Nice (Vocals Only)", mbid = "c3ea5168-990f-47f2-823c-7f5afd375b14" },
+  { n = 3, title = "Here Today (Stereo Backing Track)", mbid = "4ceb73f5-23fe-4561-82ac-803bca769e55" },
+]
+
+[[release]]
+mbid = "c9094f43-6309-3e8f-85d5-c5526d104a60"
+title = "Endless Harmony"
+type = "album"
+date = "1998-08-11"
+tracks = [
+  { n = 1, title = "Soulful Old Man Sunshine (writing session excerpt)", mbid = "5e96ed30-023b-4b32-93db-087ca656cddd" },
+  { n = 2, title = "Soulful Old Man Sunshine", mbid = "337fd74e-9b84-4d7a-b2a6-f5e537cd9a8e" },
+  { n = 3, title = "Radio Concert Promo 1", mbid = "2d978a27-be35-4d67-8ded-7012b624ed17" },
+  { n = 4, title = "Medley: Surfin’ Safari / Fun, Fun, Fun / Shut Down / Little Deuce Coupe / Surfin’ U.S.A. (live 1966)", mbid = "dd66464b-56aa-4dd0-a197-131f8908772f" },
+  { n = 5, title = "Surfer Girl (Binaural version)", mbid = "f9d0db6f-1867-4679-83b3-3302bb15362e" },
+  { n = 6, title = "Help Me, Rhonda (alternate single version)", mbid = "aadfffec-dd48-4869-8883-7748bc994448" },
+  { n = 7, title = "Kiss Me, Baby (stereo mix)", mbid = "0c784c0c-4a3c-4ea3-a966-3d8dc030009d" },
+  { n = 8, title = "California Girls (stereo remix)", mbid = "4ece69de-7999-4577-863f-32bd0ed76a34" },
+  { n = 9, title = "Good Vibrations (live)", mbid = "3062e9ba-18d8-436c-a4dc-20f927555081" },
+  { n = 10, title = "Heroes and Villains (demo)", mbid = "f2de3584-7ca2-4a8d-8a38-f308367abfe3" },
+  { n = 11, title = "Heroes and Villains (live)", mbid = "b23a0238-626a-46a2-8781-5d64e4d90be1" },
+  { n = 12, title = "God Only Knows (live)", mbid = "a432ba82-651f-4ba6-b4b8-774d1f3c9584" },
+  { n = 13, title = "Radio Concert Promo 2", mbid = "68cfc615-ee3b-4ffe-b386-416b8370361a" },
+  { n = 14, title = "Darlin’ (live)", mbid = "29649c13-8d45-4aaa-988e-068cddcdf7ad" },
+  { n = 15, title = "Wonderful / Don’t Worry, Bill (live)", mbid = "d815640f-b932-4eab-b252-081ae54cfdbd" },
+  { n = 16, title = "Do It Again", mbid = "8a3c09df-164a-4d49-9e22-7a2415c2153b" },
+  { n = 17, title = "Break Away (demo)", mbid = "57e6037b-0504-49db-8c06-b67629ae283e" },
+  { n = 18, title = "Sail Plane Song", mbid = "30b48495-318d-453a-95e3-e62f15c27cc5" },
+  { n = 19, title = "Loop de Loop (Flip Flop Flyin’ in an Airplane)", mbid = "1ef9d391-a969-4715-8a1d-db630346e068" },
+  { n = 20, title = "Barbara", mbid = "9c9f1da1-5719-4df3-9bb7-4cd6309868c7" },
+  { n = 21, title = "’Til I Die (alternate mix)", mbid = "82ffe8fc-8a63-484a-98be-6da282382616" },
+  { n = 22, title = "Long Promised Road (live)", mbid = "71ac3366-d155-4d17-8ad1-7e889681f01f" },
+  { n = 23, title = "All Alone", mbid = "91f32beb-e67c-4dff-92aa-3d63699244a6" },
+  { n = 24, title = "Brian’s Back", mbid = "621b62c0-dc33-4bcc-8039-c51aad0131df" },
+  { n = 25, title = "Endless Harmony", mbid = "986f6fa4-636b-4889-8b17-7e936803071d" },
+]
+
+[[release]]
+mbid = "81d231f0-8e31-466d-8e24-4aaf9f64bb1a"
+title = "Good Vibrations / Heroes and Villains"
+type = "single"
+date = "2011-04-16"
+tracks = [
+  { n = 1, title = "Good Vibrations", mbid = "d50727f8-8dc7-46c2-a2dc-4c38d79b3747" },
+  { n = 2, title = "Heroes and Villains", mbid = "932d0d65-439e-4a88-92dc-86f114ccb8da" },
+  { n = 3, title = "Good Vibrations (early take)", mbid = "a85aaa8c-8da5-45f8-922c-e5d76535fc0a" },
+  { n = 4, title = "Heroes and Villains (alternate take)", mbid = "a9485877-0e48-4e32-b009-a8bad73e9677" },
+]
+
+[[release]]
+mbid = "d433ee18-9260-4638-8a43-4b8273d0c555"
+title = "Vega-Tables / Surf's Up"
+type = "single"
+date = "2011-10-31"
+tracks = [
+  { n = 1, title = "Vega-Tables", mbid = "0cd3e8a0-3159-4d05-aa3b-2559cb9532d9" },
+  { n = 2, title = "Surf's Up", mbid = "a521d504-9fb9-4d0e-b119-c49d9d104ce4" },
+]
+
+[[release]]
+mbid = "2a185f07-7689-4270-bc27-ac4ffff4876c"
+title = "That's Why God Made The Radio"
+type = "single"
+date = "2012-04-26"
+tracks = [
+  { n = 1, title = "That's Why God Made The Radio", mbid = "4d2bed47-3883-471e-8d97-dfa6f0c14bce" },
+]
+
+[[release]]
+mbid = "899d54db-beff-4c2b-8324-69c1694d7800"
+title = "That’s Why God Made the Radio"
+type = "album"
+date = "2012-06-01"
+tracks = [
+  { n = 1, title = "Think About the Days", mbid = "78a418c9-4011-4504-8b4b-3ed3fc049178" },
+  { n = 2, title = "That’s Why God Made the Radio", mbid = "4d2bed47-3883-471e-8d97-dfa6f0c14bce" },
+  { n = 3, title = "Isn’t It Time", mbid = "1a855ed7-79d7-481d-a6bb-33a71307ee5c" },
+  { n = 4, title = "Spring Vacation", mbid = "9d0273c3-ca29-4622-a9bb-e71d11ca7fda" },
+  { n = 5, title = "Beaches in Mind", mbid = "23994762-8c18-404d-9c06-c34e278f755c" },
+  { n = 6, title = "Daybreak Over the Ocean", mbid = "f8c26f09-71c7-4b6e-8892-674639a97fbb" },
+  { n = 7, title = "Shelter", mbid = "92e85a1d-fcac-44c6-9c95-544b5a1600e5" },
+  { n = 8, title = "The Private Life of Bill and Sue", mbid = "2d8d1b41-9233-475c-9794-678cf1edf934" },
+  { n = 9, title = "Strange World", mbid = "77fee609-f23c-4ea1-9b94-ecc90eb5e0bf" },
+  { n = 10, title = "From There to Back Again", mbid = "d954f35c-7e9c-4bb7-8384-0e32357338e0" },
+  { n = 11, title = "Pacific Coast Highway", mbid = "87c46d92-e23b-4630-8284-8efeb0dbc3e5" },
+  { n = 12, title = "Summer’s Gone", mbid = "25976676-9a5b-4ccb-a854-e109294fc7a0" },
+]
+
+[[release]]
+mbid = "ab00c8b9-de09-4326-be6b-333913e2b55a"
+title = "Isn’t It Time"
+type = "single"
+date = "2012-11-28"
+tracks = [
+  { n = 1, title = "Isn’t It Time (single mix)", mbid = "490d1d38-7c4b-484a-9558-dc85efc1665d" },
+  { n = 2, title = "Isn’t It Time (instrumental)", mbid = "3e0c8423-3ec7-4739-8cdc-49970ba6ce4c" },
+]
+
+[[release]]
+mbid = "6f7698a4-7016-4b92-8ad0-382ba7d2dcf9"
+title = "素敵じゃないか (Wouldn't It Be Nice)"
+type = "single"
+date = "2013-08-07"
+tracks = [
+  { n = 1, title = "Wouldn't It Be Nice", mbid = "18d25248-1080-403a-a0ca-f73c6d5ebfa6" },
+  { n = 2, title = "Good To My Baby", mbid = "ca595c6b-3a87-4517-b33e-2b1bb549d276" },
+  { n = 3, title = "Deirdre", mbid = "e1026bf9-b660-440a-a441-0bdbb9152724" },
+  { n = 4, title = "God Only Knows", mbid = "7db10177-1b59-406a-99bb-38bbedd54233" },
+]
+
+[[release]]
+mbid = "d8e19959-1324-41fb-af7f-67762b438e84"
+title = "Good Vibrations (Live On The Ed Sullivan Show, October 13, 1968)"
+type = "single"
+date = "2020-06-12"
+tracks = [
+  { n = 1, title = "Good Vibrations (Live On The Ed Sullivan Show, October 13, 1968)", mbid = "52a7a5ad-cfaa-489a-887f-ad5ed6b6dbb1" },
+]
+
+[[release]]
+mbid = "2f757b2c-6e89-4485-82e5-b2c68dea6e93"
+title = "Wendy (Live On The Ed Sullivan Show, September 27, 1964)"
+type = "single"
+date = "2020-09-20"
+tracks = [
+  { n = 1, title = "Wendy (live on The Ed Sullivan Show, September 27, 1964)", mbid = "93718484-2ff2-45e0-a62c-8e8c693d09f0" },
+]
+
+[[release]]
+mbid = "14bd87d2-3596-4f8e-95ba-18f76e39666b"
+title = "Shut Down / Good Vibrations (2021 stereo mix)"
+type = "single"
+date = "2022-05-27"
+spotify = "7o1TsJgTlyE5IspzERWwU6"
+tracks = [
+  { n = 1, title = "Shut Down (2021 stereo mix)", mbid = "e76add92-1786-45d7-b571-407d71182666" },
+  { n = 2, title = "Good Vibrations (2021 stereo mix)", mbid = "3ad31947-ae54-4409-aeaa-8dbd16c3825f" },
+]
+
+[[release]]
+mbid = "c625676d-fa54-4f92-a1aa-500e79d72e54"
+title = "Carry Me Home / You Need a Mess of Help to Stand Alone"
+type = "single"
+date = "2022-10-28"
+spotify = "20K9FpnNLWHHRdVW5hw0Zb"
+tracks = [
+  { n = 1, title = "Carry Me Home", mbid = "a3f92916-a133-46f4-b563-59cc331d529e" },
+  { n = 2, title = "You Need a Mess of Help to Stand Alone (live at Carnegie Hall)", mbid = "61de83c9-2432-4ea0-bc08-8a1718957fc5" },
+]
+
+[[release]]
+mbid = "82cf5411-06d9-46fc-9fe1-ac3e6373a89e"
+title = "All This Is That / Carry Me Home / You Need A Mess of Help To Stand Alone"
+type = "single"
+date = "2022-11-11"
+tracks = [
+  { n = 1, title = "All This Is That (A Cappella)", mbid = "def2fcea-3b20-4c9f-8d6b-7ad932845cf9" },
+  { n = 2, title = "Carry Me Home", mbid = "a3f92916-a133-46f4-b563-59cc331d529e" },
+  { n = 3, title = "You Need a Mess of Help to Stand Alone (live at Carnegie Hall)", mbid = "61de83c9-2432-4ea0-bc08-8a1718957fc5" },
+]
+
+[[release]]
+mbid = "97bee44b-6c62-46ee-8d58-4f50d2ff6a4f"
+title = "Fun, Fun, Fun (Steve Aoki Remix)"
+type = "single"
+date = "2023-05-17"
+spotify = "7oZtDgH5DbplvaZNRIh35j"
+tracks = [
+  { n = 1, title = "Fun, Fun, Fun (Steve Aoki remix)", mbid = "bddab71c-016e-418d-aa10-a7493e0acbdc" },
+  { n = 2, title = "Fun, Fun, Fun (Steve Aoki remix edit)", mbid = "9aba3c38-ed0c-4954-9ba2-8a78738fba59" },
+]
+
+[[release]]
+mbid = "c7ef7984-4470-48af-880d-b5f42c170ce4"
+title = "Wouldn't It Be Nice"
+type = "single"
+date = "2026-04-17"
+spotify = "5uAAQ8lvOIqjpIZEGPb7zQ"
+tracks = [
+  { n = 1, title = "Wouldn't It Be Nice (Stack-O-Vocals)", mbid = "7098bb95-1ae8-4304-a895-6c70ec4ab658" },
+  { n = 2, title = "Wouldn't It Be Nice (Stereo Backing Track)", mbid = "a1cd0ffc-ae09-41ba-b193-0f9209051ba8" },
+  { n = 3, title = "Wouldn't It Be Nice (The Stereo mix)", mbid = "395cdd86-7f59-4edb-a724-89bbcf4d7d00" },
+]

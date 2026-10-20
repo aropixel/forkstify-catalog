@@ -1,0 +1,373 @@
+format = 1
+
+[[release]]
+mbid = "955fcb91-8ec4-4559-b163-02dffecfc4bf"
+title = "C’est quoi ?"
+type = "ep"
+date = "1988"
+tracks = [
+  { n = 1, title = "Mad’leine", mbid = "ca599f36-d875-4808-875f-bbb8b4f6a2b2" },
+  { n = 2, title = "Vicking’s Tragédie", mbid = "18bcedbc-5da9-4c9f-93b5-718fcdaba3fa" },
+  { n = 3, title = "Des aveugles", mbid = "179c5ea0-90a4-4f1b-9957-190ecb923b73" },
+  { n = 4, title = "Emily elle", mbid = "762b5a98-b273-42eb-8117-43a0755e7714" },
+]
+
+[[release]]
+mbid = "80ed6489-3128-331d-a9d0-2682f97a2232"
+title = "Not dead but bien raides"
+type = "album"
+date = "1989"
+tracks = [
+  { n = 1, title = "Creeple’s Band", mbid = "d8e842ff-801f-4751-97f7-aaa2af4f83e2" },
+  { n = 2, title = "Moon Is a Pancake", mbid = "f5c9b77e-0823-4aec-a148-a3c9d85619f9" },
+  { n = 3, title = "Armance, Théo, Marcel et les autres aussi", mbid = "a382d47a-e541-4fb1-9726-b050f14b2954" },
+  { n = 4, title = "Les Affamés", mbid = "43a5c924-6bb5-41e4-a237-c8e509fdd3d4" },
+  { n = 5, title = "Educ mon Luc", mbid = "f7bef74d-cbfb-4ac5-907f-3c3d1b23cbd7" },
+  { n = 6, title = "Rue d’la peste", mbid = "a20ea45c-369c-47fc-8555-845275e08337" },
+  { n = 7, title = "L’une à l’autre", mbid = "52b5052f-383f-419c-ab55-43e00c2c58f5" },
+  { n = 8, title = "Ginette", mbid = "8226e3b4-8e34-400c-9023-64be68ac39c3" },
+  { n = 9, title = "Il neige", mbid = "b8a99c51-02e1-4b55-a856-038071e87b75" },
+  { n = 10, title = "Les Renards", mbid = "3b91d3db-7f1b-42c8-aed0-ddcd63aa4412" },
+]
+
+[[release]]
+mbid = "16227a14-2f63-46db-aa35-739bf7e7f8b7"
+title = "La Galette molle"
+type = "ep"
+date = "1991"
+spotify = "2om88K0Fi4jkA6RbY7WXUl"
+tracks = [
+  { n = 1, title = "Lesson n°6", mbid = "77beebdf-0e78-4dc3-ac32-4a0086c914ef" },
+  { n = 2, title = "Dam dam", mbid = "0ec28bb8-1c8d-48ea-b0cb-ed22148f9029" },
+  { n = 3, title = "Gueule de bois", mbid = "0d083f78-5836-427f-bb33-bcff9dfd2a8a" },
+]
+
+[[release]]
+mbid = "a4d447c7-32d5-3ce5-b64e-a05967b459d5"
+title = "Mange tes morts"
+type = "album"
+date = "1991"
+tracks = [
+  { n = 1, title = "Les Clampettes", mbid = "ea678361-0485-47d0-aae0-404ca8f2f699" },
+  { n = 2, title = "Fuckingham Palace", mbid = "e0fb8980-a6dd-43f5-9d3a-14597bb3c577" },
+  { n = 3, title = "Bas Quartiers", mbid = "e64c0e7b-f0cc-4f58-9ce0-8177c02e6fd6" },
+  { n = 4, title = "Home Freedom", mbid = "4ab8b114-8d79-411d-9d63-9dd35ffea70d" },
+  { n = 5, title = "Exsangue", mbid = "02b391a8-999f-421b-839f-c59a1dc0b8f5" },
+  { n = 6, title = "Journal", mbid = "40156af2-a9af-4aac-bfce-29144021b122" },
+  { n = 7, title = "Chanson marrant pour les enfants trit’stes", mbid = "d4469c4e-a0cd-45c4-94ee-acb2107bb021" },
+  { n = 8, title = "Prisons", mbid = "e2c7478a-7b8b-4e3b-b606-f674ca40a9e1" },
+  { n = 9, title = "Rue d’Nièvre", mbid = "77f06ba2-6f56-4277-a3b7-9f33235bfdc5" },
+  { n = 10, title = "Frigo", mbid = "53db92c1-c3c0-49dd-99d8-8e88afd6841d" },
+  { n = 11, title = "Cozette", mbid = "fa86a026-eeb4-4274-9f35-a327a56cb932" },
+  { n = 12, title = "Les Conquérants", mbid = "82698785-4a0a-4482-87f8-b89f539a7525" },
+  { n = 13, title = "Boy", mbid = "240675d2-f05e-4ae1-a301-a02c612de0dd" },
+  { n = 14, title = "Retour de Rigodon", mbid = "0491b718-1a5e-4419-bf45-126e534c6497" },
+  { n = 15, title = "Café", mbid = "01b29939-d877-4f66-ab0d-ec5c4b64e4d1" },
+  { n = 16, title = "La P’tite Dame en rouge", mbid = "e5475c63-1c1b-4ecc-a200-b71591b0eff4" },
+  { n = 17, title = "Les Manèges", mbid = "3791e6af-96ca-4b4b-96ad-e912bca52b92" },
+]
+
+[[release]]
+mbid = "e8658827-ee88-3e03-94a4-32fe9d66d32a"
+title = "Les Oiseaux"
+type = "album"
+date = "1992-01-01"
+spotify = "6Ag6IjRBcL0VfMwQ7rSjaN"
+tracks = [
+  { n = 1, title = "Les Gens", mbid = "76087443-1398-43e1-8330-1e74b19e60de" },
+  { n = 2, title = "Gino", mbid = "d3dd0e6d-5200-4418-9f30-837e9617a055" },
+  { n = 3, title = "Aurélie", mbid = "cfca1a02-602a-485f-9268-ae075001c11a" },
+  { n = 4, title = "Les P’tites Gueules", mbid = "4169824f-1154-499a-9e59-e1dff17008bc" },
+  { n = 5, title = "Austerlitz", mbid = "620a5d2e-2b39-485e-b1c6-75e027cdd5d4" },
+  { n = 6, title = "Luna", mbid = "df6270b9-d248-4cab-b2e7-8f1225cf66e8" },
+  { n = 7, title = "9h2", mbid = "1b22bbcf-564e-4e0c-aa41-f37b5e52fd4b" },
+  { n = 8, title = "Barcelona", mbid = "ca4433c7-2d36-4bb4-9ee2-af97899b9c87" },
+  { n = 9, title = "Le Grand Bal", mbid = "6aa4d9ca-029d-4249-80e3-6a26dbaa4dc1" },
+  { n = 10, title = "La Comptine", mbid = "345a2f1f-108e-497d-b462-970d4de1e7ae" },
+  { n = 11, title = "Le Phare", mbid = "66c4fed4-a4fb-47b2-9eb9-b8df43fab4af" },
+  { n = 12, title = "La P’tite Dernière", mbid = "3915a55e-3926-4dcf-9ce4-e7aae93937d8" },
+  { n = 13, title = "Les Gens", mbid = "0bdd5492-9610-48f3-ae29-95aacee99280" },
+  { n = 14, title = "Emily", mbid = "b798a8e8-3d2f-453f-ae5b-7c212e8e51e1" },
+]
+
+[[release]]
+mbid = "1d6e3850-64c5-410f-b8b3-fcb51959e848"
+title = "Trumpet Song"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Trumpet song", mbid = "60b125b0-239f-442c-aff5-6270ae2f8aa5" },
+  { n = 2, title = "Sans titre", mbid = "ff2412e8-19a0-4c91-841c-b88ee20cdcea" },
+]
+
+[[release]]
+mbid = "698ab6b3-89a6-368f-b03b-865a5537e009"
+title = "Fleur de yeux"
+type = "album"
+date = "1993-10-15"
+tracks = [
+  { n = 1, title = "Dame !", mbid = "dfa539b5-0423-45aa-8173-eaff98533d06" },
+  { n = 2, title = "Les Papiers", mbid = "c8e939af-234f-42b0-89e4-59ff116bb8a6" },
+  { n = 3, title = "Zigo", mbid = "59d09225-0392-4429-9ec4-13702e90fb4e" },
+  { n = 4, title = "Bestiaire", mbid = "985c70ae-fedd-4a63-a0ae-313643294b12" },
+  { n = 5, title = "Fleur de yeux", mbid = "9a4f5543-8612-4aff-b85e-6cd15bcfb992" },
+  { n = 6, title = "La Biffe", mbid = "18269ea6-1bef-4b9d-b7d1-e46fd972d534" },
+  { n = 7, title = "The Mad Fiddler", mbid = "cff7c2c0-8cbd-4da1-9c47-fee5f23a9e31" },
+  { n = 8, title = "Postulat", mbid = "f6b74c27-51dc-4dcc-948f-94a54f7c3389" },
+  { n = 9, title = "Jour de pêche", mbid = "8f19db52-8467-41a6-8036-48ee0b564ddc" },
+  { n = 10, title = "Sans titre", mbid = "ff2412e8-19a0-4c91-841c-b88ee20cdcea" },
+  { n = 11, title = "Rien ?", mbid = "6cf50216-44b1-45ab-a7a9-1b8ff17d7487" },
+  { n = 12, title = "Trumpet Song", mbid = "60b125b0-239f-442c-aff5-6270ae2f8aa5" },
+  { n = 13, title = "Ton portrait", mbid = "42b05d39-f892-40cc-863c-ba91108413eb" },
+]
+
+[[release]]
+mbid = "b1589a5f-18c9-3ad6-8662-d9e225a0730b"
+title = "Le Bout du toit"
+type = "album"
+date = "1996"
+tracks = [
+  { n = 1, title = "St Vincent", mbid = "83f17667-dcb4-45ff-a216-3747d02969ea" },
+  { n = 2, title = "Les Bouquets", mbid = "2abf1b81-a468-40c4-8c66-b10de18dd87d" },
+  { n = 3, title = "Le Bout…", mbid = "756c5b1a-6907-490c-b862-8ea75db31a6f" },
+  { n = 4, title = "Le Théâtre des poissons", mbid = "33a8ccda-b995-4fbe-ba99-ed5cc6d30535" },
+  { n = 5, title = "La Chanson du trépassé", mbid = "1e8b134b-193f-495c-bcc9-b0dcdb8dbbfd" },
+  { n = 6, title = "Viens !", mbid = "dfcd6bb4-1f59-45cd-a1d0-5c3c8ec6dc20" },
+  { n = 7, title = "Le Bout du…", mbid = "26df19e0-a4c6-4a5f-9c48-a828b0e5f29f" },
+  { n = 8, title = "Vendu(e) au diable", mbid = "75336988-6778-43f3-a7ed-bfbb1fddf46d" },
+  { n = 9, title = "La Religieuse", mbid = "6d7dc471-d33c-4337-b824-f17684a3e24d" },
+  { n = 10, title = "L’Hermaphrodite", mbid = "d91eaf39-6447-4abd-acd2-390e9b9b8185" },
+  { n = 11, title = "Des accords", mbid = "23dbc0af-22b6-4563-a13a-74c2d9ee7502" },
+  { n = 12, title = "L’amour tombe des nues", mbid = "29dff44d-e932-4b3d-8822-6a343f191f34" },
+  { n = 13, title = "Le Bout du toit", mbid = "52b84879-523e-40e6-8046-80eac8bbdf77" },
+  { n = 14, title = "Manuela", mbid = "c6d159af-c3c5-43bf-a2bb-b1bcc4afb651" },
+  { n = 15, title = "Mille façons", mbid = "bad68140-8d09-41c8-8ea2-90a93923e6eb" },
+  { n = 16, title = "Un p’tit air", mbid = "32b4753e-d6bc-48b2-b224-29f56ce4b849" },
+  { n = 17, title = "Les Marrons", mbid = "6768ae1a-abb7-4cf5-9243-2744769bfaf1" },
+]
+
+[[release]]
+mbid = "89261b2b-2bba-30bf-a552-1eeea3c52fc2"
+title = "Chamboultou"
+type = "album"
+date = "1998"
+tracks = [
+  { n = 1, title = "Du boulot", mbid = "4878af9f-3f15-4803-8e63-290dffeae083" },
+  { n = 2, title = "Les Hirondelles", mbid = "15c1b240-7af3-4a5b-beb1-45e1138ae8bd" },
+  { n = 3, title = "Les Roseaux", mbid = "82e59006-94e1-4fc2-806b-9b8aa3e45b5f" },
+  { n = 4, title = "Chamboultou", mbid = "21b97576-af8b-48bb-adb1-33e6f40cee93" },
+  { n = 5, title = "Oublie cette chanson", mbid = "0e5aa6bb-e6aa-424c-8dd0-3734020c8da0" },
+  { n = 6, title = "Le Créditeur", mbid = "30eec2eb-09d9-4031-b3b3-96e4229dc558" },
+  { n = 7, title = "Le cœur a sa mémoire", mbid = "31726ae1-6040-4909-ae58-79a003f1b0f8" },
+  { n = 8, title = "Parazite", mbid = "c331c2e2-03fb-443b-a309-917112c15c74" },
+  { n = 9, title = "Dans la gueule du Loup", mbid = "537e5728-362b-4662-ba05-8849d5509158" },
+  { n = 10, title = "Guignol", mbid = "381de107-0b2f-48c2-8502-101b49501702" },
+  { n = 11, title = "Écris‐moi", mbid = "76884561-f114-456b-8f70-61d2c8e0d067" },
+  { n = 12, title = "Mon slip", mbid = "a1d151d4-3ec4-457d-8d57-9f6e87103515" },
+  { n = 13, title = "Vent chante", mbid = "370b1c5d-cc12-49e6-9689-12a260ce60ea" },
+]
+
+[[release]]
+mbid = "aface6ae-8180-3f3c-9dbe-bfb64314d7db"
+title = "Gratte poil"
+type = "album"
+date = "2000-10-06"
+spotify = "2utInP6jbz1gVaTm8Djozo"
+tracks = [
+  { n = 1, title = "Je chante", mbid = "65856ac0-8c43-429e-a91d-746535ef6233" },
+  { n = 2, title = "Bibliothèque I", mbid = "f51fb82f-20f5-46e2-807a-5863fc64b416" },
+  { n = 3, title = "Les Poupées", mbid = "bde2e372-0d0c-4fd1-9e33-97095fe60fd9" },
+  { n = 4, title = "C’est dimanche", mbid = "cdaed2e5-e386-4591-be71-d749e0d9362d" },
+  { n = 5, title = "Chapeau", mbid = "833e534b-258b-4b71-8780-c597e03acf83" },
+  { n = 6, title = "Les Choses", mbid = "8acb71ae-5880-4ed8-aa7e-2fe6fcfb8c25" },
+  { n = 7, title = "Bibliothèque II", mbid = "181c092b-d542-4ddb-a516-5a6d29a8dbdd" },
+  { n = 8, title = "Dépêche toi", mbid = "0cfb0aef-50c9-40fa-a8ae-89c341ab0721" },
+  { n = 9, title = "L’Iditenté", mbid = "bdbf5742-488b-4c65-9501-d62bc644f8ec" },
+  { n = 10, title = "KO", mbid = "07a36242-7092-48f0-8046-5acfa5887ae4" },
+  { n = 11, title = "OK", mbid = "600e64eb-9d83-4ca5-8a79-2cb6df13cab9" },
+  { n = 12, title = "Le Cabaret des nues", mbid = "5ecc3613-d5bc-4590-b6c5-f492162fca95" },
+  { n = 13, title = "Ennemis", mbid = "e6d55b81-d4fc-490a-97f1-509c494de4be" },
+  { n = 14, title = "Bibliothèque III", mbid = "b83c3a6d-ab07-4fb0-8609-4c35df6aee16" },
+  { n = 15, title = "Patalo", mbid = "13ced7f8-c124-45d8-9c05-5236b0ba6d39" },
+  { n = 16, title = "Le Gratte poil", mbid = "2b6f8dab-b576-48fe-92b6-7210ec4eacfc" },
+  { n = 17, title = "Bibliothèque IV", mbid = "22e68b47-2881-4870-81c3-62e9737bcc6a" },
+  { n = 18, title = "Dans la gueule", mbid = "84ed3c37-05d7-4581-b4b1-cc50af3fc332" },
+  { n = 19, title = "Urgence", mbid = "f654de13-548c-4123-aba8-1f4450d45169" },
+]
+
+[[release]]
+mbid = "6bc69aba-9e68-36ee-aab3-dba4df344024"
+title = "Qu’est-ce qu’on s’fait chier !"
+type = "album"
+date = "2003-09-16"
+tracks = [
+  { n = 1, title = "Civili", mbid = "003183c2-95a1-4eb6-88b1-84e86b1be484" },
+  { n = 2, title = "Les Radis", mbid = "b5603113-0efe-4281-946d-e554ce662648" },
+  { n = 3, title = "Qu’est-ce qu’on s’fait chier !", mbid = "7dced8d9-60e7-48f2-8484-be1a71de0185" },
+  { n = 4, title = "Patipata", mbid = "aa0a0f4f-3217-499f-a3d5-9967305457fa" },
+  { n = 5, title = "Go Away", mbid = "a6728c8b-046b-4d09-a65a-233f41558a98" },
+  { n = 6, title = "Black Is Beautiful", mbid = "0ceb0950-ab4f-40fe-a33b-c964b93c644c" },
+  { n = 7, title = "La Fin", mbid = "e76b301b-b8dd-47ee-8b70-9a265d4d7ed6" },
+  { n = 8, title = "Pitance", mbid = "ce73ff51-6743-451c-aded-147cad5dff34" },
+  { n = 9, title = "Vaille que vaille", mbid = "24aed9fe-3310-4c45-8d62-c281beb96167" },
+  { n = 10, title = "Soupault", mbid = "3c9acf95-c44e-49e2-be7e-2f4989cf270d" },
+  { n = 11, title = "Les Souris", mbid = "529cb175-3e24-4066-b0a4-d526adcb0b8d" },
+  { n = 12, title = "Aïe", mbid = "a3eb2118-89d3-48f6-9f7f-689a868a7f96" },
+  { n = 13, title = "Les Dents", mbid = "42b3bc24-bc9c-4a21-837c-daa75db7b4cf" },
+  { n = 14, title = "En silence", mbid = "ea69cc4d-cce0-4aae-b33b-9adc518cb99d" },
+  { n = 15, title = "Coda", mbid = "3a319feb-3142-47da-8e8f-81b62948fecb" },
+]
+
+[[release]]
+mbid = "4043f247-94fa-3ee9-97dd-c7a635d57ada"
+title = "Fragile"
+type = "album"
+date = "2005-11-07"
+tracks = [
+  { n = 1, title = "Je préfère", mbid = "2c424a48-85c6-486e-9096-e24067902745" },
+  { n = 2, title = "Fragile", mbid = "551450a4-3eef-4b9a-8e53-a78c7fe7ce9f" },
+  { n = 3, title = "Je voudrais pas crever", mbid = "5f2aec8b-6f63-4a98-8ea2-a31da09ea8cd" },
+  { n = 4, title = "Latuvu", mbid = "485fd050-fe01-4a02-95f7-99fe9f110475" },
+  { n = 5, title = "L’Oraison", mbid = "7064abe5-979e-4bb7-b9b5-dcb7af3dcc1a" },
+  { n = 6, title = "Je préfère comprendre", mbid = "4b3c794b-a4bf-4855-8a70-b885d19e3289" },
+  { n = 7, title = "We Gonna Love Me", mbid = "3b9018e9-f768-419b-add8-c91628076e29" },
+  { n = 8, title = "Lové‐moi", mbid = "47263f2e-3c31-47ac-a299-1d0e6aeb1df9" },
+  { n = 9, title = "Constipé", mbid = "964d0614-ca50-4b13-9ac0-a536c2e97202" },
+  { n = 10, title = "Le Raccourci", mbid = "af4dc1e8-22e6-453b-bfa8-622dd7e83361" },
+  { n = 11, title = "Houba", mbid = "8318734e-9b27-4b06-a77a-8902a1fb7177" },
+  { n = 12, title = "Les Animaux", mbid = "1eb20721-2a1f-4f6d-867b-7ea107e6f00b" },
+  { n = 13, title = "Chanson pour pieds", mbid = "51765e26-7719-4f82-baf2-7af328d56c5c" },
+  { n = 14, title = "Je comprends", mbid = "4c550309-e79c-4f92-a361-845602421033" },
+  { n = 15, title = "De Kracht", mbid = "458eb47e-978e-4f82-9d18-316682492a40" },
+]
+
+[[release]]
+mbid = "f9d3dd08-8669-326e-98f3-0142e44ed5c3"
+title = "Banco"
+type = "album"
+date = "2007-12-03"
+tracks = [
+  { n = 1, title = "Tam-tam", mbid = "f9e911dc-a959-4ada-b357-4de59003f65a" },
+  { n = 2, title = "La Bougie", mbid = "4baecca7-b6dc-47c0-a11f-d90f6774caa3" },
+  { n = 3, title = "Expulsez-moi", mbid = "b16c4dc1-e9e9-4333-98ec-07d544a855e0" },
+  { n = 4, title = "Banco", mbid = "505cd545-d714-48a1-a9f3-80497133b13d" },
+  { n = 5, title = "J’ai menti", mbid = "68c8a1c3-3b43-4cc9-8eb1-ca301c927883" },
+  { n = 6, title = "Les Autres", mbid = "9c7ff108-90d1-4b75-86f8-dde518a296ca" },
+  { n = 7, title = "Ici", mbid = "8a553c11-5292-4e02-97cb-f01724b93845" },
+  { n = 8, title = "Les Pleins", mbid = "7a262769-097b-4f63-8158-8692c9af57ab" },
+  { n = 9, title = "Plus haut", mbid = "6ccd1201-7636-4e56-87f1-44551e14bce2" },
+  { n = 10, title = "Notre besoin de consolation est impossible à rassasier", mbid = "247477f9-d5c9-4038-9c84-fccb6d48e068" },
+  { n = 11, title = "On s’amarre", mbid = "376fd2ff-b8d5-496e-9ca4-cb833f797b97" },
+]
+
+[[release]]
+mbid = "634eddb4-bc47-478d-acda-e65d22c8e767"
+title = "L’An demain"
+type = "album"
+date = "2011-01-31"
+tracks = [
+  { n = 1, title = "L’An demain", mbid = "1ece12f6-964f-4584-bf0a-c4539f71ddb6" },
+  { n = 2, title = "Fulgurance", mbid = "840bb1d8-9317-43fe-ae8e-d875f26856c8" },
+  { n = 3, title = "Emma", mbid = "ac8b2a5a-8d1a-4e42-bf62-8465e4c54413" },
+  { n = 4, title = "Angata", mbid = "004aa5cf-7997-41eb-9c55-351f99c757d2" },
+  { n = 5, title = "Marteau-piqueur", mbid = "119831fd-520a-49f3-8452-11cf450a32b7" },
+  { n = 6, title = "J’m’en fous", mbid = "27518657-c2e2-4479-89c8-a13d4799117d" },
+  { n = 7, title = "Météo", mbid = "02307156-eba7-4af7-881a-584c9f3644c8" },
+  { n = 8, title = "Gérard", mbid = "a1194e67-fa01-481c-98da-df47d70d65cb" },
+  { n = 9, title = "So Free", mbid = "d7a8ec03-c34a-4795-aa9a-ae2b90452621" },
+  { n = 10, title = "Pas à pas", mbid = "26f2ccc6-3e95-495a-8782-059fd4251212" },
+  { n = 11, title = "Olé", mbid = "bfd085c3-3dd4-44fb-8446-bff3a7f9511a" },
+  { n = 12, title = "Maquis", mbid = "04dc99a6-1bf8-4483-b3a5-34b0f03d5c83" },
+  { n = 13, title = "Je voudrais", mbid = "049151d5-bfed-4a8e-8d1f-40f7ad215e14" },
+]
+
+[[release]]
+mbid = "7cb6ef90-835b-477e-921b-92614140a31e"
+title = "Les Artistes"
+type = "ep"
+date = "2011-05"
+spotify = "79FtmOpHccffNNrcsLYjii"
+tracks = [
+  { n = 1, title = "L’Ombre", mbid = "278e97c5-04bc-4562-8f8a-cba7af5c367b" },
+  { n = 2, title = "Je", mbid = "4f75c1c8-cac5-407a-8dc4-0663e513293b" },
+  { n = 3, title = "Attention", mbid = "69c70158-d9dc-41ec-bb07-5b85f087affc" },
+  { n = 4, title = "Personne", mbid = "104e676d-9182-4ae0-be9e-4bad658f1d8c" },
+  { n = 5, title = "Les Artistes", mbid = "7ee2f770-1674-4e17-aa8c-8348a0765a01" },
+]
+
+[[release]]
+mbid = "eb543228-77a3-4d4e-8ea5-51c24aa6f2a5"
+title = "Corps de mots"
+type = "album"
+date = "2013-04-15"
+spotify = "17Lqryxac5YRnAbxopKVJH"
+tracks = [
+  { n = 1, title = "Le Cheval rouge", mbid = "52572c27-09a3-42ab-9593-40119f5a1a94" },
+  { n = 2, title = "Corps de cris", mbid = "7d57a695-db3a-4c59-a43f-52f427a8042c" },
+  { n = 3, title = "Corps de langouste", mbid = "c20222c4-bfa8-4783-ba18-f9e33c488889" },
+  { n = 4, title = "Les Corbeaux", mbid = "63e79ce6-ae8a-41c8-8035-8af6d7569afe" },
+  { n = 5, title = "Avec moi dieu le chien", mbid = "78ec9daf-0a19-40cc-9294-9e17d21cc783" },
+  { n = 6, title = "Un enfant a dit", mbid = "7681572b-583a-4677-869e-881e3c4cff80" },
+  { n = 7, title = "L’Éphéméride", mbid = "bfaacee1-720a-4b64-bcf2-54950835df65" },
+  { n = 8, title = "Love Me Tender", mbid = "13187c30-9f94-4171-95c2-a0defce6537f" },
+  { n = 9, title = "La Neige", mbid = "610ef840-d884-479a-b9d5-ac8ab62f58eb" },
+  { n = 10, title = "Le Condamné à mort", mbid = "6eaaee7a-d833-4f81-b266-859e0ac40769" },
+  { n = 11, title = "À boire", mbid = "e7818fb4-5fed-48cf-9a13-7c94ac8ea6e6" },
+  { n = 12, title = "Décembre", mbid = "1c8ed7d7-b424-43c8-b3b8-74d55f73e3f7" },
+  { n = 13, title = "Qui est‐là ?", mbid = "25f44349-fe36-4662-8850-4be0adb5db1d" },
+  { n = 14, title = "J’achète un fusil", mbid = "165f4a13-2349-4bda-9247-d370963e6b1c" },
+  { n = 15, title = "Georgia", mbid = "6bbd04df-5a8b-4ef1-847b-01bd1c0522cb" },
+  { n = 16, title = "On ne quitte pas son ami", mbid = "59bbf6fd-db76-4644-9d46-7ac5f6b6e6e1" },
+  { n = 17, title = "Ginette", mbid = "3f8d473f-0833-4d2e-b7b1-5cbb00adbf25" },
+  { n = 18, title = "Le Pont Mirabeau", mbid = "33aa7939-a38b-42f4-9dfb-bd863fce8d06" },
+]
+
+[[release]]
+mbid = "db4f7f1f-2b02-4b1d-a559-b64ae7c9cd60"
+title = "Les Terriens"
+type = "album"
+date = "2014-02-17"
+tracks = [
+  { n = 1, title = "Alice", mbid = "ef6993c9-8668-453e-9ce1-0b00427a4181" },
+  { n = 2, title = "Moderato", mbid = "ffecd9c1-12ce-42be-a10b-e20e92dc98f3" },
+  { n = 3, title = "Les Terriens", mbid = "16b5d2f2-1fcc-4976-b4dc-49ccf3767e1a" },
+  { n = 4, title = "Oublie‐moi", mbid = "5544b600-cb07-41e9-b7e8-9d8784f4dd29" },
+  { n = 5, title = "Le Rendez‐vous", mbid = "4dccb9b7-639e-4b69-a721-5e55d90e5a4c" },
+  { n = 6, title = "La Tache", mbid = "7564b7ad-4575-4e2d-a4ca-780d6153cbeb" },
+  { n = 7, title = "L’Au‐delà", mbid = "b91da22f-4c82-46b5-bdba-29eee677017e" },
+  { n = 8, title = "Mon carnet", mbid = "bdd2aa93-7f1d-448b-9ab7-2a082b85b29b" },
+  { n = 9, title = "Bird", mbid = "f0fb7b71-becb-499e-b08e-2ab70b911f75" },
+  { n = 10, title = "À ta gueule", mbid = "2fd7f3dd-f2c6-47b0-8d98-632155c7ebc5" },
+  { n = 11, title = "Vers où je vas", mbid = "b4419ca5-7c47-4124-b1c3-a92333272438" },
+  { n = 12, title = "Des silences", mbid = "f69398f5-d696-4507-8e27-d6802223689e" },
+]
+
+[[release]]
+mbid = "8f8a4720-9769-4b86-9656-97f6911f55a9"
+title = "Je ne veux pas"
+type = "single"
+date = "2021-06-25"
+spotify = "6QvkEh9zkJMmKhQOJevRBD"
+tracks = [
+  { n = 1, title = "Je ne veux pas", mbid = "ade590b5-ae05-49a5-a484-70046ea4b2e0" },
+]
+
+[[release]]
+mbid = "bf6edc84-ea88-4a4a-8b82-d6b4cbf31d38"
+title = "Bing Bang Boum"
+type = "album"
+date = "2021-09-24"
+tracks = [
+  { n = 1, title = "En avant", mbid = "ba17ab7d-da3e-4c4c-9771-4109d1a00186" },
+  { n = 2, title = "La liberté", mbid = "7193d37a-5f62-4ec1-9016-64bb5eb98794" },
+  { n = 3, title = "Haut les mains", mbid = "31959008-33fe-4fb2-ad61-59a6d814113f" },
+  { n = 4, title = "Le frisson", mbid = "450b5a3b-809a-4c28-88af-75f39ea14d35" },
+  { n = 5, title = "ABCédaire", mbid = "f6f558b6-fb0c-4f2c-bf21-ad792d48b372" },
+  { n = 6, title = "L'incendie", mbid = "558e85a7-7f97-44c1-82ca-af16a68944a6" },
+  { n = 7, title = "Are You Ready?", mbid = "815b9d57-780a-4922-a3a3-baa2f52e75be" },
+  { n = 8, title = "Yaourt", mbid = "3880d0d2-092b-46f1-8ede-f189f37a9ce5" },
+  { n = 9, title = "Face à face", mbid = "d72288dc-36a1-41f4-9292-24283f073ad6" },
+  { n = 10, title = "Critik", mbid = "57b2edb7-9f95-4b8f-a809-2c23fd1410ea" },
+  { n = 11, title = "Je ne veux pas", mbid = "ade590b5-ae05-49a5-a484-70046ea4b2e0" },
+  { n = 12, title = "Levez-vous du tombeau", mbid = "6db1f7d0-15a5-454c-bdef-ead6f4a9de25" },
+]

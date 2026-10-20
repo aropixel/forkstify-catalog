@@ -1,0 +1,322 @@
+format = 1
+
+[[release]]
+mbid = "2382670b-9f1f-32b7-963c-ef16b003a81d"
+title = "Ladovo album"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "Křeček a Krtek", mbid = "002d88d9-ac23-444b-90f2-7c3c9c5d5c0b" },
+  { n = 2, title = "Karel, Pepík, Eman a Josef", mbid = "eb4132e8-4abe-4213-95f0-c0820973b416" },
+  { n = 3, title = "Bába", mbid = "676a511a-20d3-4afc-8e45-e472346bfe97" },
+  { n = 4, title = "O myši, žábě a orlu", mbid = "eec247e5-b0fe-4fce-a233-f5c251868217" },
+  { n = 5, title = "Qu'est-ce que c'est?", mbid = "c7ca99c5-4061-4e9f-884d-fcd37b540c3f" },
+  { n = 6, title = "Kulička I.", mbid = "72586233-48aa-449c-b14c-4e673a1718a6" },
+  { n = 7, title = "Jedno Ráno", mbid = "9b4f194f-ada2-4d60-94ec-95a0381d7243" },
+  { n = 8, title = "Kulička II.", mbid = "217146a6-d3b5-487a-a04d-e3cf4e92e60b" },
+  { n = 9, title = "Vtip", mbid = "6ba095c3-3863-4ea9-ae90-b4a2f26ef2c2" },
+]
+
+[[release]]
+mbid = "94fd3576-8db2-47b0-bf66-750f74be283d"
+title = "JARO lomeno DIVNOSTI"
+type = "ep"
+date = "1997"
+tracks = [
+  { n = 1, title = "Jaro (album verze)", mbid = "dd530668-b4bc-429e-8de8-738528d57093" },
+  { n = 2, title = "Divnosti (lůp verze)", mbid = "70fbf691-beea-48e5-987b-ed45c403ff45" },
+  { n = 3, title = "Poslední dobou (Cowboys in Сою́з Де Луксе remix)", mbid = "713c1232-492b-4b8e-b350-46829777b6e7" },
+  { n = 4, title = "Jaro (Bird Cat Caruso mix)", mbid = "2b12175b-a920-40bd-9729-68efb0de5571" },
+  { n = 5, title = "Divnosti (Strýček Jonatán remix)", mbid = "74daf6e8-6e6c-4cb7-ab34-5bc4b2c07dee" },
+  { n = 6, title = "Si kles (akustická verze)", mbid = "b608799d-a2e9-48bd-a27f-ce0b1871a0e9" },
+  { n = 7, title = "Jaro (akustická verze)", mbid = "8310fdb9-c4fa-4bfd-9c36-971420278956" },
+]
+
+[[release]]
+mbid = "e78857a5-7a80-3b53-a692-cbe2130bd7c9"
+title = "Ukončete nás...!"
+type = "album"
+date = "1997-01-06"
+spotify = "30029EKrS8U2JN9OkvnpbI"
+tracks = [
+  { n = 1, title = "Bim bam", mbid = "083a4bb2-4778-4289-ad6a-98fdeaec3663" },
+  { n = 2, title = "Kus vody", mbid = "87ac54f6-62fa-4a26-b7df-a8a433f3948d" },
+  { n = 3, title = "Jaro", mbid = "8b448a59-0a36-4a71-aa9c-59254e83f664" },
+  { n = 4, title = "Léto", mbid = "a3b97ac6-7a7f-463a-834a-bb69567a1085" },
+  { n = 5, title = "Podzim", mbid = "65537325-930c-4401-85d8-0483a87c3a21" },
+  { n = 6, title = "Zima", mbid = "c1328e99-0745-474a-9824-b13152cd64fc" },
+  { n = 7, title = "Podmořská", mbid = "2f2e6e9f-12a9-41c0-848a-73cca5582d65" },
+  { n = 8, title = "De vo to", mbid = "24372a19-840c-4831-94da-0473ac8eafff" },
+  { n = 9, title = "Mardoš jede", mbid = "17416f8c-4537-4419-b3da-b73cf8ab9265" },
+  { n = 10, title = "Kovbojové", mbid = "bf3664a4-da98-4038-b683-13b7d2d43cbd" },
+  { n = 11, title = "Tělesná", mbid = "99ade6ea-6f21-4b1e-a83d-7df485c4ac6f" },
+  { n = 12, title = "Mouchy", mbid = "aa3f2b17-00ab-4eb4-b398-b79cbe14a010" },
+  { n = 13, title = "Poslední dobou", mbid = "c49eedd3-0acf-4313-adcf-eb8142d16352" },
+  { n = 14, title = "A.N.I.", mbid = "78e66bc1-6abb-435c-90af-57135188f7b9" },
+  { n = 15, title = "To sou hlásky", mbid = "bdb665dc-d1c1-452a-99a8-69617c174a85" },
+  { n = 16, title = "Štestí", mbid = "152bc939-890e-45b5-a7e6-6782716611b3" },
+  { n = 17, title = "Divnosti", mbid = "d624748e-5f3b-47db-92dd-ee4f158f341a" },
+  { n = 18, title = "Beruška", mbid = "df88fc06-9b04-414b-97bc-cf4cf6c6e0e8" },
+  { n = 19, title = "Konec", mbid = "163165f6-ea06-432c-9c47-7952d3f81999" },
+  { n = 20, title = "Konec II.", mbid = "1ed2ce33-1a7e-4dc5-acce-27af53e929e5" },
+]
+
+[[release]]
+mbid = "2ddba5d0-9941-3655-96cf-f2efa684de2a"
+title = "Nekonečná stanice"
+type = "album"
+date = "1998-12-08"
+spotify = "6ofTzJ6AYelTe82G2ViOTX"
+tracks = [
+  { n = 1, title = "Jaro", mbid = "7456186f-34bb-4bec-a810-e5be40098e0a" },
+  { n = 2, title = "De vo to", mbid = "cd502b6d-2245-43f9-9bdd-8020cb60094d" },
+  { n = 3, title = "Žluté křeslo", mbid = "26e9980c-06f1-4f63-a8c0-d8b560a1728d" },
+  { n = 4, title = "Ramínka", mbid = "91ef6ca6-1d33-464a-ab30-6de9293c7b88" },
+  { n = 5, title = "A.N.I.", mbid = "7a4442ac-d2ad-4b30-972c-8bc2a52c726b" },
+  { n = 6, title = "Poslední dobou", mbid = "c4b4fb27-d0c3-4a87-b6f1-556dfd754e0e" },
+  { n = 7, title = "Bába", mbid = "785c66b2-baf8-4672-bdfe-34e970f32a8d" },
+  { n = 8, title = "Toreadorská otázka", mbid = "707c08ad-775b-4e6d-86e3-b68a749c627f" },
+  { n = 9, title = "Jahůdka", mbid = "713fdd7a-437b-4f5a-bb0a-4a26506fe7b6" },
+  { n = 10, title = "Si kles", mbid = "fc5701a9-3cf6-413e-9bfd-71d40577f6c2" },
+  { n = 11, title = "Tělesná", mbid = "6c8a0a87-43cd-4068-865a-cdd2cf790efd" },
+  { n = 12, title = "Duševní", mbid = "7b3df3fd-351a-4a02-9fe3-1e9173236a6a" },
+  { n = 13, title = "Podmořská", mbid = "14c18047-8268-4e8b-a1f3-82eed2b01e2c" },
+  { n = 14, title = "Divnosti", mbid = "5c9848bb-3ba8-43d6-8c58-bd7cb3e84b2f" },
+  { n = 15, title = "Prométheus", mbid = "dcc03de4-1e33-40ec-bcc8-3aa4ea61d054" },
+  { n = 16, title = "Národní výbor", mbid = "f0e5aaa1-4b2c-445b-8693-d2af33967169" },
+]
+
+[[release]]
+mbid = "6f827286-ccf2-37e0-878c-a78a892c007c"
+title = "Futuretro"
+type = "album"
+date = "2000-03-15"
+spotify = "0wh4Ku3WKlWusi64iWLsx8"
+tracks = [
+  { n = 1, title = "[intro]", mbid = "06edb100-93ec-4602-a9ed-14f1249c704f" },
+  { n = 2, title = "Ramínka", mbid = "cbe67daa-cc88-423f-8358-4590d02c4f78" },
+  { n = 3, title = "Vesmírná", mbid = "37a2cf40-698c-400e-9727-2577d19412ea" },
+  { n = 4, title = "Lasičky", mbid = "bb944e36-c266-4470-badb-e68ee9a10fbf" },
+  { n = 5, title = "Toreadorská otázka", mbid = "d5bf3a06-f2e0-4dca-bde3-ba4ec113050a" },
+  { n = 6, title = "Duševní", mbid = "850b4aed-b21d-44ef-9838-b8cdae6adf1b" },
+  { n = 7, title = "Geometrická", mbid = "ecfd7785-b11d-448e-b2b4-5e42b9c02967" },
+  { n = 8, title = "Maličká", mbid = "cc0a17b9-4413-48ea-b782-39ed4878c118" },
+  { n = 9, title = "Žluté křeslo", mbid = "3c5c47eb-111e-416f-9f6f-8463330001a4" },
+  { n = 10, title = "Prometheus", mbid = "745835ab-6fc3-4006-8e0b-b479cd4878c5" },
+  { n = 11, title = "Jednotka času", mbid = "9069e1cd-8a75-4419-83e3-565d2470bac4" },
+  { n = 12, title = "Oba dva", mbid = "0cd49105-0d07-4ad3-a629-bb8b328d6013" },
+]
+
+[[release]]
+mbid = "0a1a8542-470b-3639-bd66-126cd534bacc"
+title = "Attention!"
+type = "album"
+date = "2002"
+tracks = [
+  { n = 1, title = "Vlezlá", mbid = "6acd2d34-3173-4914-a61e-e61bd2484394" },
+  { n = 2, title = "Tanečnice", mbid = "a7d8ed5f-8e17-4de2-8559-dcd9b0a50be4" },
+  { n = 3, title = "Attention aux hommes!", mbid = "be47133f-6649-455c-908d-b3bdcc4cbbbb" },
+  { n = 4, title = "Dubová psychóza", mbid = "f5259949-4429-47d8-bd39-8432d52b2507" },
+  { n = 5, title = "Cyberkartáč", mbid = "9c5481dc-84f6-4ef5-9fe6-484f392046c2" },
+  { n = 6, title = "2001 Vesmírná", mbid = "9235e645-d99d-414e-b61e-3b41c3ee7eba" },
+  { n = 7, title = "2001 Podmořská", mbid = "02b0ee10-3635-4a7a-b8d3-38706b4b4669" },
+  { n = 8, title = "2001 Kovbojská", mbid = "26d8182e-8e49-4275-aab3-2b6e5b281494" },
+]
+
+[[release]]
+mbid = "84b1797c-b1d5-3918-84c7-6ff45db06e48"
+title = "Biorytmy"
+type = "album"
+date = "2002"
+spotify = "2t0t3fR3sgn86ocztJ6jOc"
+tracks = [
+  { n = 1, title = "Náměsíčná", mbid = "86f2fe9e-3a3c-4f01-8076-412a3775c1b5" },
+  { n = 2, title = "Vlezlá", mbid = "bcf263b5-79d0-4769-940d-920531a6adc5" },
+  { n = 3, title = "B.M.O. (Black Moving Object)", mbid = "128a1950-c9b2-4348-91e6-3ac5d6259784" },
+  { n = 4, title = "Tanečnice", mbid = "f2b3e30d-d73d-4de4-b91a-a9b46a14ae56" },
+  { n = 5, title = "Dubová psychóza", mbid = "9fa0caae-075b-4a6f-b9dd-7662afd3eb87" },
+  { n = 6, title = "Snová", mbid = "0795bd23-c320-4fc1-9e41-f9bb45421597" },
+  { n = 7, title = "Attention Aux Hommes! (Pozor na muže!)", mbid = "b67db3fa-6731-4e0d-92ef-e1929037316f" },
+  { n = 8, title = "Časová", mbid = "6b7ce6c2-149c-4d7c-950b-4201194cee2f" },
+  { n = 9, title = "Vozejček", mbid = "f427b5bf-9587-4965-801b-72662064c5f2" },
+  { n = 10, title = "Šťastnější", mbid = "4ae5f768-a1e0-49ec-979e-83ddd52ab655" },
+  { n = 11, title = "Shower Girl", mbid = "32104036-001c-4673-9e67-51773b5cb2a6" },
+  { n = 12, title = "Růžová armáda", mbid = "c0990056-f470-49fc-b180-f880a5f8fc87" },
+]
+
+[[release]]
+mbid = "0287448e-9a3d-3b27-b07d-c91773de45ff"
+title = "Nanoalbum"
+type = "album"
+date = "2004-06-07"
+spotify = "2Ru1WdHCtHINDHrVz6cxhg"
+tracks = [
+  { n = 1, title = "Halovo vodítko 1", mbid = "b96fdb45-892d-49a4-abc4-5790fe8dffb4" },
+  { n = 2, title = "Elišce", mbid = "94f8fb81-fc78-4c23-ad0c-2593b301daaa" },
+  { n = 3, title = "Tomášovi", mbid = "6e133f89-f742-4406-8648-8049c7898eb7" },
+  { n = 4, title = "Halovo vodítko 2", mbid = "6ed31edb-dae7-4e6f-80e4-60b9dcb16f05" },
+  { n = 5, title = "C.V.A.N.", mbid = "8c59ea09-cb10-40e2-8c09-f5273a6b48a1" },
+  { n = 6, title = "Léčitel", mbid = "09b95114-14d4-4ffa-a8ef-416045c21a92" },
+  { n = 7, title = "Hal se zatoulal", mbid = "6b73f3b4-9dcf-488d-aefd-2de87bd423a9" },
+  { n = 8, title = "Halovo vodítko 3", mbid = "d6a27bb3-5af9-4d0c-88fc-65426ef4d697" },
+  { n = 9, title = "Virtuální duet", mbid = "1ce5736f-dd73-40a6-bc3e-b44d2dcaec62" },
+  { n = 10, title = "Nemocná", mbid = "4ed5258b-48f3-42f5-badf-9beb0adfae9b" },
+  { n = 11, title = "Pan Tečka", mbid = "bf0ee33c-0055-4fd3-b608-0418477a7cf1" },
+  { n = 12, title = "Halovo vodítko 4", mbid = "6e89376d-be46-4b8b-a847-e1cb61b1d945" },
+  { n = 13, title = "Nový nanopilot", mbid = "34bac8a2-ff5c-4518-989b-b8b33d57a6a2" },
+  { n = 14, title = "Zmenšený", mbid = "1132a690-759a-4d21-9fb6-8b16d6f6a93e" },
+  { n = 15, title = "Halovo vodítko 5", mbid = "e228f0bc-44e7-4560-93b2-b0c375e62617" },
+  { n = 16, title = "Boj", mbid = "a02aafd1-2551-4f00-8b12-4f3a80044814" },
+  { n = 17, title = "Probuzení", mbid = "8a99fdac-20dd-4070-a8cf-fd1a0a254b34" },
+]
+
+[[release]]
+mbid = "62f2cc04-7896-3413-9dba-e8f6e9352f08"
+title = "Kluci kde ste?"
+type = "album"
+date = "2007-04-16"
+spotify = "5X1GEwP3gJnmgJZEEUPd9q"
+tracks = [
+  { n = 1, title = "Intro", mbid = "cda4784c-9de4-4153-ae61-191aecb1199c" },
+  { n = 2, title = "Pěšáci", mbid = "ea644e92-695b-449f-8278-a37c6b39a194" },
+  { n = 3, title = "Trilobeat", mbid = "e35b8640-28d2-4c32-a97b-bd8a752802ed" },
+  { n = 4, title = "Eko echo", mbid = "20dcfc34-3508-4e9e-b085-7f82915587cb" },
+  { n = 5, title = "Vítací", mbid = "dd2e8506-8df2-4e13-95aa-9438868dcf45" },
+  { n = 6, title = "Nedám si, díky", mbid = "80cd7f1e-47a9-453f-aadf-9d04333bbb81" },
+  { n = 7, title = "Informační", mbid = "a4b0f656-ac15-49db-b88b-74f4ac6752f5" },
+  { n = 8, title = "Splasklé vzpomínky", mbid = "9967a5b8-f126-4a03-8af1-c92bfededc7e" },
+  { n = 9, title = "Skovka", mbid = "c47ece6d-3c9f-429d-88c8-5ed9dffb7cf2" },
+  { n = 10, title = "Spáč", mbid = "afb77174-ce76-4d15-b894-6a36a4710a47" },
+  { n = 11, title = "Chudáci", mbid = "921929ff-019c-4b2b-b3c3-0ce29c2ed6c2" },
+  { n = 12, title = "Kudu aditsuh", mbid = "c45172f1-54a1-42f7-8597-c4c2c4d5a8c9" },
+  { n = 13, title = "Hlídací", mbid = "960e0d91-cc4b-45bd-8b3b-2b8cf53fe5dd" },
+]
+
+[[release]]
+mbid = "eb076ca8-fc58-31ba-8845-081581aafa17"
+title = "smetana"
+type = "album"
+date = "2008-11-03"
+spotify = "6Qpt8z1vqDJuo00YQ8B1Xz"
+tracks = [
+  { n = 1, title = "Toreadorská otázka", mbid = "1186fcbe-6610-458e-bda6-73b1411ca6b9" },
+  { n = 2, title = "Tanečnice", mbid = "124dc984-dead-4c5a-9446-149378cce3ce" },
+  { n = 3, title = "Attention Aux Hommes!", mbid = "03055261-25de-49c3-b6e5-cc086c4cd817" },
+  { n = 4, title = "C.V.A.N.", mbid = "880afd0b-b54d-4933-bc86-cd694c8c7f92" },
+  { n = 5, title = "Lasičky", mbid = "09bcd760-7657-406f-b2d8-4426a982e729" },
+  { n = 6, title = "Šťastnější", mbid = "03b3b82e-a72c-4d2b-9ae0-c68048a6b09b" },
+  { n = 7, title = "Náměsíčná", mbid = "d2c1e024-9991-4787-b5dd-3cab11337df6" },
+  { n = 8, title = "Skovka", mbid = "3c20b0a0-12a7-421d-a052-55602ef6d07f" },
+  { n = 9, title = "Vesmírná", mbid = "57421150-80d7-4fb3-8516-7bf79cd7a308" },
+  { n = 10, title = "Elišce", mbid = "2b16706d-96f9-49fb-ac9e-d1588825a158" },
+  { n = 11, title = "Kudu Aditsuh", mbid = "9ef8b048-c474-4910-a9f5-ca5524a506ec" },
+  { n = 12, title = "Jednotka času", mbid = "da8a2429-3f75-4245-b026-b7d821fc9a06" },
+  { n = 13, title = "Pěšáci", mbid = "20709adc-8fe3-40dc-a19b-2564ec89d2b0" },
+  { n = 14, title = "Jaro", mbid = "5864145a-a530-466b-a183-0592ee87e0e1" },
+]
+
+[[release]]
+mbid = "40fca996-b005-43a2-9d6c-f30ed51258a9"
+title = "∞"
+type = "album"
+date = "2011-06-03"
+spotify = "76hqWhTJic6rvJc4NTwpWp"
+tracks = [
+  { n = 1, title = "Progresivní (Intro)", mbid = "fdb87b64-3d6b-44ff-a2a0-5a6224ebd369" },
+  { n = 2, title = "Papírovka", mbid = "3d8f4a05-c1af-463c-8748-0a1a4a97c2d5" },
+  { n = 3, title = "Opakování", mbid = "a5720244-0297-4afa-8d4a-977dca46e74c" },
+  { n = 4, title = "Usínací", mbid = "45685793-7c24-48ae-8e6f-66ee52a1e386" },
+  { n = 5, title = "2031", mbid = "fd4865b1-1fd0-453a-96d2-4fb7066a4700" },
+  { n = 6, title = "Světová", mbid = "1a0d4236-08ef-4ca2-acfb-80c6a72e662c" },
+  { n = 7, title = "Filmařská", mbid = "1fb93395-c266-4053-9745-3604ad57af4a" },
+  { n = 8, title = "Ztraceni v překladu", mbid = "34606141-bae9-432a-b75a-3cea02e8107b" },
+  { n = 9, title = "Písmenková", mbid = "087a6128-0aeb-4ce8-9c7d-9409ea1fee25" },
+  { n = 10, title = "Hořká čokoláda", mbid = "13ca8458-cad3-4253-bfea-f6ad3c9327d7" },
+  { n = 11, title = "Homo demo", mbid = "4308740f-dfe7-42ee-9a7a-4af6003aff3e" },
+  { n = 12, title = "Progresivní (Outro)", mbid = "96a85803-9030-4fb1-878b-82685a2992b5" },
+]
+
+[[release]]
+mbid = "1c40773a-5e87-40eb-972c-098903233bf5"
+title = "A/B"
+type = "album"
+date = "2015-10-09"
+spotify = "7IECyeeP59MvedXKOYZZ9A"
+tracks = [
+  { n = 1, title = "Nadčasová", mbid = "1ecf088f-7d2e-497d-8323-c258a64b0f15" },
+  { n = 2, title = "Gastronaut", mbid = "2f9f50b1-11ee-4c47-a783-263910826110" },
+  { n = 3, title = "Sonda", mbid = "96805d78-6b95-4b7a-871b-f122d4241f5b" },
+  { n = 4, title = "Radioamatér", mbid = "d78ea35f-171e-4b83-aac5-84372e9c3f2e" },
+  { n = 5, title = "Rubik a Kubrick", mbid = "095953d0-7949-41fa-83ef-2c42d95bdc0b" },
+  { n = 6, title = "S ní", mbid = "d419e350-3e8c-4e1d-815d-186c4562c44b" },
+  { n = 7, title = "Kamarádky", mbid = "750e8850-2338-4252-9b41-7568c5113a5a" },
+  { n = 8, title = "Moderní lidi", mbid = "79a9f4d9-86b2-4333-b7d8-cd8681165ee8" },
+  { n = 9, title = "Hrana", mbid = "85963ce0-922b-4e24-b4a7-7855ca698683" },
+  { n = 10, title = "Antikvariát /nová verze 2015/", mbid = "07ffb500-cbc2-463c-8329-7b09efb9de78" },
+  { n = 11, title = "Bežec", mbid = "831a512b-0f3b-494b-938f-8a1853bf865b" },
+  { n = 12, title = "Noční linky", mbid = "6b2b3797-38b0-4bd2-a905-66b0a69d34b2" },
+  { n = 13, title = "Národní", mbid = "c3f33019-e6c0-42b1-be9a-fde16d28ffc5" },
+]
+
+[[release]]
+mbid = "022676ea-4427-438f-a33b-37d4fc8dd337"
+title = "Zvony"
+type = "single"
+date = "2020-06-10"
+spotify = "2IAGrr6MuqjRq3AqIkGGkP"
+tracks = [
+  { n = 1, title = "Zvony", mbid = "ad0340cf-388e-4fdc-996e-5c71794e0e48" },
+]
+
+[[release]]
+mbid = "d94fb186-d6c4-457e-80f9-a5f5c7789d46"
+title = "Jedna nula"
+type = "album"
+date = "2020-11-27"
+spotify = "75wrMEXJ6DTtTRwMQwgYKC"
+tracks = [
+  { n = 1, title = "Holka z plakátu", mbid = "5fb60808-c57a-4bfd-af34-ab8e21d2e1cc" },
+  { n = 2, title = "Minoritní", mbid = "c1fa6cc3-2ca4-48c3-bc72-499223691c10" },
+  { n = 3, title = "Velký třesk, part I", mbid = "baeaebba-ff1c-49dc-9a12-396e74b86c0b" },
+  { n = 4, title = "Zvony", mbid = "ad0340cf-388e-4fdc-996e-5c71794e0e48" },
+  { n = 5, title = "Zavazadlo", mbid = "d2b71686-de7f-4fff-b90f-659395073edd" },
+  { n = 6, title = "Velký třesk, part II", mbid = "9036f84e-0554-4b52-b298-23479c7c4bea" },
+  { n = 7, title = "Kraftwerk in Saint Tropez", mbid = "26d05c54-54ad-4eb2-9bc2-74d808fd9f87" },
+  { n = 8, title = "Spolek holek", mbid = "ed3e4427-d6f6-492a-9d7e-8f733eece301" },
+  { n = 9, title = "Tajemství (feat. Emma Smetana)", mbid = "7429fd67-55bf-4bfd-a6bd-1698ed951937" },
+  { n = 10, title = "220 Travoltů", mbid = "fef5c9ca-31c0-4fed-9d4e-249e4814de4e" },
+  { n = 11, title = "Vlasní brácha", mbid = "aff75c49-7bd8-4f9f-84d4-5f1fdecb61e8" },
+]
+
+[[release]]
+mbid = "01f1a6b1-e3b5-4c71-aa09-7ffc21a69ac6"
+title = "EP25"
+type = "ep"
+date = "2025-02-28"
+tracks = [
+  { n = 1, title = "Bůh má problém", mbid = "7adef528-0942-4df7-8121-79a0424e4760" },
+  { n = 2, title = "Slovní", mbid = "975e8322-a2ef-4197-b190-e9125ba6886d" },
+  { n = 3, title = "Novej člověk", mbid = "e6385bcd-9267-473d-9c22-c6615bc8e478" },
+  { n = 4, title = "Chybí prázdno", mbid = "cfbcead7-d003-408b-a9ad-5024a49af7a7" },
+  { n = 5, title = "L'amour en mai 1968 (bonus)", mbid = "077e5810-ae0b-44bc-8193-03c53a687be3" },
+]
+
+[[release]]
+mbid = "c9c86724-0d0a-4308-86ed-6863c9343377"
+title = "V původním snění"
+type = "album"
+date = "2026-02-26"
+spotify = "3gHNEXBXRHEnpKOKgS6yDg"
+tracks = [
+  { n = 1, title = "Továrna na sny", mbid = "7e7cb540-e535-48e4-af20-0d4edbe8cfec" },
+  { n = 2, title = "Umělá", mbid = "e50ed84c-5f47-4080-b6ae-2bf505004bd9" },
+  { n = 3, title = "Bůh má problém", mbid = "7a31109e-b3fa-4933-9195-2cf5ba106adf" },
+  { n = 4, title = "Alibistická", mbid = "79c28517-66b3-42b7-a698-f888014f082e" },
+  { n = 5, title = "Třetí osoba", mbid = "35369227-7daf-486d-b777-b92a7010b94e" },
+  { n = 6, title = "Novej člověk", mbid = "cd07abb0-3ae1-4ec4-a5ce-664688553237" },
+  { n = 7, title = "Slovní", mbid = "e8fc7f6f-61f5-49a2-bf6f-a3e44cc75e4e" },
+  { n = 8, title = "Holandský kakao", mbid = "fab72ef1-79e2-46f6-adac-37c5519e0906" },
+  { n = 9, title = "Mlčení", mbid = "14f258dd-201d-4261-9ee0-07453b74dca6" },
+  { n = 10, title = "Chybí prázdno", mbid = "ced6118e-33c9-4a61-b9f4-9ec325698f91" },
+  { n = 11, title = "V původním snění", mbid = "b04fdcfe-497c-4e48-ade0-988f1a4ba4b4" },
+]

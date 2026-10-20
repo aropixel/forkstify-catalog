@@ -1,0 +1,169 @@
+format = 1
+
+[[release]]
+mbid = "197f3c1f-6d51-4d93-8b8d-c91bb80cd3df"
+title = "Tamino"
+type = "ep"
+date = "2017-05-05"
+spotify = "6tdpYkNItUYvx0WZaJTLNJ"
+tracks = [
+  { n = 1, title = "Habibi", mbid = "d808fd27-4f4b-43db-9d52-597f9a1786a2" },
+  { n = 2, title = "Cigar", mbid = "c138ddbc-0901-4639-9c13-42d5d971b1c8" },
+  { n = 3, title = "Reverse", mbid = "ebc0d897-a773-4433-9312-1efb59c9b75d" },
+  { n = 4, title = "Indigo Night", mbid = "364d5d9d-32cf-4d4c-9d7b-682d4953fb80" },
+  { n = 5, title = "Smile", mbid = "6dece186-91ee-4790-873e-375214c6435c" },
+]
+
+[[release]]
+mbid = "3515231a-3a67-401f-a9e6-b97bb712403e"
+title = "Habibi - EP"
+type = "ep"
+date = "2018-05-04"
+spotify = "5dfvaY29NIowd1A4gmwk63"
+tracks = [
+  { n = 1, title = "Habibi", mbid = "d808fd27-4f4b-43db-9d52-597f9a1786a2" },
+  { n = 2, title = "Indigo Night", mbid = "364d5d9d-32cf-4d4c-9d7b-682d4953fb80" },
+  { n = 3, title = "Cigar", mbid = "c138ddbc-0901-4639-9c13-42d5d971b1c8" },
+  { n = 4, title = "Sun May Shine", mbid = "185e736b-6514-458c-8903-fc87676757e0" },
+]
+
+[[release]]
+mbid = "d154680b-e9a9-4128-a82a-d5e7fa436c7b"
+title = "Persephone"
+type = "single"
+date = "2018-08-24"
+spotify = "3jBE6QNYaSdHfymbE4RBip"
+tracks = [
+  { n = 1, title = "Persephone", mbid = "842f3302-2a95-453b-90f5-9cbc1f27a46d" },
+]
+
+[[release]]
+mbid = "7d56f3a1-7e82-4788-b1d7-7f3d371d6dd0"
+title = "Tummy"
+type = "single"
+date = "2018-09-07"
+tracks = [
+  { n = 1, title = "Tummy", mbid = "ba337cc4-995d-4b0e-b6cb-962df4223886" },
+]
+
+[[release]]
+mbid = "6fae4085-8ad6-41e9-bf06-feed3abe81cd"
+title = "Amir"
+type = "album"
+date = "2018-10-19"
+spotify = "5znkKeZluet6ArfR5RplEy"
+tracks = [
+  { n = 1, title = "Habibi", mbid = "d808fd27-4f4b-43db-9d52-597f9a1786a2" },
+  { n = 2, title = "Sun May Shine", mbid = "185e736b-6514-458c-8903-fc87676757e0" },
+  { n = 3, title = "Tummy", mbid = "ba337cc4-995d-4b0e-b6cb-962df4223886" },
+  { n = 4, title = "Chambers", mbid = "6acfa710-8ef7-4308-919c-df72f19e0fcf" },
+  { n = 5, title = "So It Goes", mbid = "3a216012-3197-4009-98c4-e4c9543fc737" },
+  { n = 6, title = "Indigo Night", mbid = "364d5d9d-32cf-4d4c-9d7b-682d4953fb80" },
+  { n = 7, title = "Cigar", mbid = "c138ddbc-0901-4639-9c13-42d5d971b1c8" },
+  { n = 8, title = "Each Time", mbid = "c165e390-9ab1-4c62-8043-6af82f7ce219" },
+  { n = 9, title = "Verses", mbid = "db087daf-62b8-45a9-b242-a5f6e40f51b7" },
+  { n = 10, title = "w.o.t.h.", mbid = "f411fda0-a725-4e87-8eaf-3baa21026351" },
+  { n = 11, title = "Intervals", mbid = "0fd342ee-0fb3-4453-9ec5-5dfd524a88d3" },
+  { n = 12, title = "Persephone", mbid = "842f3302-2a95-453b-90f5-9cbc1f27a46d" },
+]
+
+[[release]]
+mbid = "875c0fad-6970-4f2d-a2e2-bd79b00e154e"
+title = "The First Disciple"
+type = "single"
+date = "2022-04-27"
+spotify = "7dnuhgQrPlzCVz91koWich"
+tracks = [
+  { n = 1, title = "The First Disciple", mbid = "6cacbc90-8033-45d2-aa3e-a71b56e35538" },
+]
+
+[[release]]
+mbid = "251ffd3d-2ab7-4579-8920-620419c55105"
+title = "You Don’t Own Me"
+type = "single"
+date = "2022-09-01"
+spotify = "1YrfFAtUYvapMLU8620TTj"
+tracks = [
+  { n = 1, title = "You Don’t Own Me", mbid = "48748bad-bcbd-4dc0-8e42-57767832fa49" },
+  { n = 2, title = "Fascination", mbid = "f124ee36-4905-444c-92a7-f9787a1e8261" },
+  { n = 3, title = "The First Disciple", mbid = "afdf8380-cc7f-48e6-98aa-fb1de8c943eb" },
+]
+
+[[release]]
+mbid = "ee30de49-1832-4535-8e74-ca3570b21a7d"
+title = "Sahar"
+type = "album"
+date = "2022-09-23"
+tracks = [
+  { n = 1, title = "The Longing", mbid = "c3fd4ecb-1698-4e0a-bae6-0f70a7f3dea9" },
+  { n = 2, title = "The Flame", mbid = "c10c76bf-c274-4514-9a3f-c5a9414f832d" },
+  { n = 3, title = "You Don't Own Me", mbid = "48748bad-bcbd-4dc0-8e42-57767832fa49" },
+  { n = 4, title = "Fascination", mbid = "f124ee36-4905-444c-92a7-f9787a1e8261" },
+  { n = 5, title = "Sunflower", mbid = "e52df83e-a301-4b93-8019-4b5fbc8d191e" },
+  { n = 6, title = "The First Disciple", mbid = "afdf8380-cc7f-48e6-98aa-fb1de8c943eb" },
+  { n = 7, title = "Cinnamon", mbid = "a520ee6d-6cbb-4005-a43d-bb929d2692f2" },
+  { n = 8, title = "Only Our Love", mbid = "6b4e774d-f53f-456c-ae20-b8074fb35170" },
+  { n = 9, title = "A Drop of Blood", mbid = "26c279a9-c108-46aa-af3e-97173a11ce2d" },
+  { n = 10, title = "My Dearest Friend and Enemy", mbid = "2b2b97a9-b211-48c9-88dd-87b3a5cc12da" },
+]
+
+[[release]]
+mbid = "ff5c24ab-0836-4a74-b476-d3c4bb460b52"
+title = "Babylon"
+type = "single"
+date = "2024-10-15"
+tracks = [
+  { n = 1, title = "Babylon", mbid = "7e308613-dfcb-4769-9831-3516ed3e5e76" },
+]
+
+[[release]]
+mbid = "53658b89-59cb-4f7b-8ca2-fc35082a7487"
+title = "Dissolve"
+type = "single"
+date = "2024-12-04"
+tracks = [
+  { n = 1, title = "Dissolve", mbid = "5cda4431-03c4-4e83-a956-fdf9c27df5bf" },
+  { n = 2, title = "Babylon", mbid = "7e308613-dfcb-4769-9831-3516ed3e5e76" },
+]
+
+[[release]]
+mbid = "d0e4d0a5-f58a-486c-b3ad-18a24a10c64c"
+title = "Sanctuary"
+type = "single"
+date = "2025-01-23"
+tracks = [
+  { n = 1, title = "Sanctuary", mbid = "6639a719-82a3-4351-bf46-624afc99a324" },
+  { n = 2, title = "Dissolve", mbid = "5cda4431-03c4-4e83-a956-fdf9c27df5bf" },
+  { n = 3, title = "Babylon", mbid = "7e308613-dfcb-4769-9831-3516ed3e5e76" },
+]
+
+[[release]]
+mbid = "68a5662a-97c5-46a4-8776-7e5f4e480cf2"
+title = "Willow"
+type = "ep"
+date = "2025-03-04"
+spotify = "0PBWBfwJx9pW7E3gVYlCB0"
+tracks = [
+  { n = 1, title = "Willow", mbid = "ba7ee330-783c-4a05-bb57-a1b77d1c6669" },
+  { n = 2, title = "Sanctuary", mbid = "6639a719-82a3-4351-bf46-624afc99a324" },
+  { n = 3, title = "Dissolve", mbid = "5cda4431-03c4-4e83-a956-fdf9c27df5bf" },
+  { n = 4, title = "Babylon", mbid = "7e308613-dfcb-4769-9831-3516ed3e5e76" },
+]
+
+[[release]]
+mbid = "fb754edd-46b3-42b3-a18c-b10b805ed5d0"
+title = "Every Dawn’s a Mountain"
+type = "album"
+date = "2025-03-21"
+tracks = [
+  { n = 1, title = "My Heroine", mbid = "f39755c0-d9e3-4fbd-91ae-7b937e4f9578" },
+  { n = 2, title = "Babylon", mbid = "7e308613-dfcb-4769-9831-3516ed3e5e76" },
+  { n = 3, title = "Every Dawn’s a Mountain", mbid = "98538a96-a0d7-411f-b26e-743206e4b474" },
+  { n = 4, title = "Sanpaku", mbid = "35130154-9d82-448b-94b3-a1a315ddbc67" },
+  { n = 5, title = "Sanctuary", mbid = "6639a719-82a3-4351-bf46-624afc99a324" },
+  { n = 6, title = "Raven", mbid = "1d7503e5-d590-448c-b4cb-43e08f16c7b9" },
+  { n = 7, title = "Willow", mbid = "ba7ee330-783c-4a05-bb57-a1b77d1c6669" },
+  { n = 8, title = "Elegy", mbid = "0817945a-338f-40c0-a517-7bf723bd7f4d" },
+  { n = 9, title = "Dissolve", mbid = "5cda4431-03c4-4e83-a956-fdf9c27df5bf" },
+  { n = 10, title = "Amsterdam", mbid = "59130ba2-09bb-46a8-be92-af1cfbdc1e2b" },
+]

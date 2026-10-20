@@ -1,0 +1,870 @@
+format = 1
+
+[[release]]
+mbid = "f09b4dbd-d387-42c3-b1dc-ba0f2eda0ac2"
+title = "Song to the Siren"
+type = "single"
+date = "1992-10-01"
+tracks = [
+  { n = 1, title = "Song to the Siren (full Sabre mix)", mbid = "79eebda7-00dd-4029-a387-cc40181c7407" },
+  { n = 2, title = "Song to the Siren (original Dust Brothers mix)", mbid = "a3a83d40-6ab5-463f-94b5-23fc2a258b86" },
+  { n = 3, title = "Song to the Siren (Sabre 100% Chunk mix)", mbid = "07ce53cb-44a0-4e70-ba6d-ff44653538cd" },
+]
+
+[[release]]
+mbid = "0c0f16d3-6468-386a-818d-a427639e0837"
+title = "Fourteenth Century Sky"
+type = "ep"
+date = "1994-02-28"
+tracks = [
+  { n = 1, title = "Chemical Beats", mbid = "26e43fb8-a0ce-4898-869c-16b48dfa830b" },
+  { n = 2, title = "One Too Many Mornings", mbid = "60409be0-18b9-428e-b449-4fec6f4e6767" },
+  { n = 3, title = "Dope Coil", mbid = "40c854a9-2b26-4a91-aaef-4711b60374f8" },
+  { n = 4, title = "Her Jazz", mbid = "065c720d-0019-42da-be3e-72ca10f14433" },
+]
+
+[[release]]
+mbid = "f5b6a71f-fad0-39cf-9ed4-0750ad415c1b"
+title = "My Mercury Mouth E.P."
+type = "ep"
+date = "1994-05-27"
+tracks = [
+  { n = 1, title = "My Mercury Mouth", mbid = "5c0bce7c-008f-4dbd-a974-ec05cea607b1" },
+  { n = 2, title = "If You Kling to Me, I’ll Klong You", mbid = "20fc5eb1-bb5f-40cc-af81-8609e2b858cd" },
+  { n = 3, title = "Dust-Up Beats", mbid = "b27929bb-3583-40e5-956a-89c4c3353156" },
+]
+
+[[release]]
+mbid = "b673c2a9-bba0-37ee-8bdc-07386f12541c"
+title = "Loops of Fury"
+type = "ep"
+date = "1995"
+tracks = [
+  { n = 1, title = "Loops of Fury", mbid = "6fdd2b2f-6c10-473c-a00f-d29b0bb9cb80" },
+  { n = 2, title = "(The Best Part of) Breaking Up", mbid = "5ca076fe-d5df-476e-b64a-aeba0a7bc502" },
+  { n = 3, title = "Get Up on It Like This", mbid = "755cb0f3-8054-470b-9079-25531c8bdd5c" },
+  { n = 4, title = "Chemical Beats (Dave Clarke remix)", mbid = "4e2e94c3-9ebb-408a-8e8f-c5d1b3af5de8" },
+]
+
+[[release]]
+mbid = "794d4d43-8952-31c6-97fd-741603f8deef"
+title = "Leave Home"
+type = "single"
+date = "1995-06-05"
+spotify = "5tymkGqhwccHiEmDnqKjLX"
+tracks = [
+  { n = 1, title = "Leave Home", mbid = "ffa5ae0a-8ac3-4d58-9271-18e7dc70d4a2" },
+  { n = 2, title = "Leave Home (The Sabres of Paradise mix)", mbid = "b2c2a880-33e6-42f6-916f-71644cd3671b" },
+  { n = 3, title = "Let Me in Mate", mbid = "771f86d2-c473-4fb6-9775-607537d65bed" },
+]
+
+[[release]]
+mbid = "8fffd616-de95-3597-b1f2-211666cfc2dd"
+title = "Exit Planet Dust"
+type = "album"
+date = "1995-06-26"
+spotify = "1Bmuyq89rXZJNK1w8pauEg"
+tracks = [
+  { n = 1, title = "Leave Home", mbid = "ffa5ae0a-8ac3-4d58-9271-18e7dc70d4a2" },
+  { n = 2, title = "In Dust We Trust", mbid = "d10d105c-1b96-4dda-8880-61dabd26b953" },
+  { n = 3, title = "Song to the Siren", mbid = "ad76764e-e522-4cb1-9c2c-7009c5fa08c9" },
+  { n = 4, title = "Three Little Birdies Down Beats", mbid = "2fd615de-8780-4c89-a26b-2214ee7c973e" },
+  { n = 5, title = "Fuck Up Beats", mbid = "e19af04d-40da-4a0e-9b8a-058244b266bd" },
+  { n = 6, title = "Chemical Beats", mbid = "730a12a9-e40d-4766-bde5-685e108da8bb" },
+  { n = 7, title = "Chico’s Groove", mbid = "6d3e6a9b-2460-4cfb-84f7-c9394ec24b3e" },
+  { n = 8, title = "One Too Many Mornings", mbid = "752319ad-b3cc-4439-856e-9f09e18e21eb" },
+  { n = 9, title = "Life Is Sweet", mbid = "7d7d22d0-2835-4527-9b6e-717de5998f57" },
+  { n = 10, title = "Playground for a Wedgeless Firm", mbid = "7f0550cc-e6e4-46d9-b96b-858ea4405dee" },
+  { n = 11, title = "Alive Alone", mbid = "f3368a88-f3a5-4a2a-b573-615e03da8a7a" },
+]
+
+[[release]]
+mbid = "b2801fa9-1052-3f1b-b207-00d0d720449e"
+title = "Life Is Sweet"
+type = "single"
+date = "1995-08-28"
+tracks = [
+  { n = 1, title = "Life Is Sweet (album version)", mbid = "7d7d22d0-2835-4527-9b6e-717de5998f57" },
+  { n = 2, title = "Life Is Sweet (remix 2)", mbid = "fa1547e9-d855-4376-9788-490580962bfe" },
+  { n = 3, title = "Life Is Sweet (Daft Punk remix)", mbid = "fb711950-6403-406e-b110-aea57721a332" },
+  { n = 4, title = "Leave Home (Terror Drums)", mbid = "f73bc385-5c5b-4d81-b1fb-98adeb9a94d3" },
+  { n = 5, title = "Life Is Sweet (remix 1)", mbid = "a86567fe-9dfa-41a0-9bcd-205c2d9cc65f" },
+  { n = 6, title = "If You Kling to Me I'll Klong You", mbid = "20fc5eb1-bb5f-40cc-af81-8609e2b858cd" },
+  { n = 7, title = "Chico's Groove (mix 2)", mbid = "9f5e45f2-a676-4e5e-a92d-e49a7cb1f62d" },
+]
+
+[[release]]
+mbid = "534fac15-ad78-4148-9c83-fdec9536cd4f"
+title = "Setting Sun"
+type = "single"
+date = "1996-09-30"
+tracks = [
+  { n = 1, title = "Setting Sun (radio edit)", mbid = "abe9c91a-3519-45f4-b556-5b20510033d4" },
+  { n = 2, title = "Setting Sun (full length version)", mbid = "7a7d7fb7-075b-4fdc-8c5e-9b5e03ee00b3" },
+]
+
+[[release]]
+mbid = "6871d9a4-a3eb-3792-b90e-741026ff9e07"
+title = "Block Rockin’ Beats"
+type = "single"
+date = "1997-03-24"
+spotify = "6e5MN47Ap6ZLMTLKw1oBXw"
+tracks = [
+  { n = 1, title = "Block Rockin' Beats", mbid = "14358605-a6ef-4f9c-b6ba-a633ebb250c0" },
+  { n = 2, title = "Prescription Beats", mbid = "9f8f1c72-0201-42b3-9761-c848fb49ec24" },
+  { n = 3, title = "Morning Lemon", mbid = "b267b7a6-ff99-44e1-a54c-7707fc87294a" },
+]
+
+[[release]]
+mbid = "69f4aa7f-d760-3890-bd2a-902fb9abe40b"
+title = "Dig Your Own Hole"
+type = "album"
+date = "1997-03-25"
+spotify = "3ZLXrrrtNcyyJP5lqwGEVL"
+tracks = [
+  { disc = 1, n = 1, title = "Block Rockin' Beats", mbid = "0eb9b386-0321-4c73-94c8-62b4fe05aa1d" },
+  { disc = 1, n = 2, title = "Dig Your Own Hole", mbid = "9e36dcc8-586d-4324-a477-c5c9351e8d58" },
+  { disc = 1, n = 3, title = "Elektrobank", mbid = "836e32f6-ff35-40c9-8107-992f293121a6" },
+  { disc = 1, n = 4, title = "Piku", mbid = "581b497d-637f-451b-bd93-7c3573986714" },
+  { disc = 1, n = 5, title = "Setting Sun", mbid = "7a7d7fb7-075b-4fdc-8c5e-9b5e03ee00b3" },
+  { disc = 2, n = 1, title = "It Doesn't Matter", mbid = "036c9ed0-06c0-4364-984d-342e8a36dccf" },
+  { disc = 2, n = 2, title = "Don't Stop the Rock", mbid = "d476fa65-034e-4f40-bb3c-a0612a2f4cb9" },
+  { disc = 2, n = 3, title = "Get Up on It Like This", mbid = "a1c6796e-455c-4ed2-8030-a602c82a5b13" },
+  { disc = 2, n = 4, title = "Lost in the K-Hole", mbid = "9a6789df-245a-4732-a40e-0bb47ead49a4" },
+  { disc = 2, n = 5, title = "Where Do I Begin", mbid = "5c9a4578-b50a-486e-a7b0-49c2d9bf7c5d" },
+  { disc = 2, n = 6, title = "The Private Psychedelic Reel", mbid = "7dddb4c6-f714-44c8-ac9e-8e553578dd07" },
+]
+
+[[release]]
+mbid = "a35ed62e-42cd-3a32-97c9-03387d3cfa92"
+title = "Elektrobank"
+type = "single"
+date = "1997-07-09"
+spotify = "7bvY0v8eX152Ur52UIKFIL"
+tracks = [
+  { n = 1, title = "Elektrobank (radio edit)", mbid = "2adf9764-d9e7-41a0-8db4-975e6a080dc2" },
+  { n = 2, title = "Elektrobank (Dust Brothers remix)", mbid = "23d7fb86-16fa-4565-96ee-cdf7e1eabbba" },
+  { n = 3, title = "Not Another Drugstore", mbid = "6dfac9b7-9758-4fa5-a4f4-d66a6159b5bf" },
+  { n = 4, title = "Don't Stop the Rock (Electronic Battle Weapon version)", mbid = "a0648419-0a9e-4a1c-8b78-d5caa9cd53c4" },
+]
+
+[[release]]
+mbid = "80e616d3-65f0-3dff-ae0e-24be8d6676a3"
+title = "The Private Psychedelic Reel"
+type = "single"
+date = "1997-12-01"
+tracks = [
+  { n = 1, title = "The Private Psychedelic Reel", mbid = "7dddb4c6-f714-44c8-ac9e-8e553578dd07" },
+  { n = 2, title = "Setting Sun (live version)", mbid = "c81942c2-846c-47ef-801f-10915cc13c52" },
+]
+
+[[release]]
+mbid = "3688d54f-0da9-471a-81c4-c22de2175be8"
+title = "Asleep From Day / Music: Response"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Asleep From Day", mbid = "1344425c-47ea-4d7b-a759-c7f5ec0fa191" },
+  { n = 2, title = "Music: Response", mbid = "077d4a18-4ff2-4b52-bc90-55d5e7b6ff1b" },
+]
+
+[[release]]
+mbid = "3802570c-6a88-4101-815c-9bffcbd000e1"
+title = "Hey Boy Hey Girl"
+type = "single"
+date = "1999-05-31"
+tracks = [
+  { n = 1, title = "Hey Boy Hey Girl", mbid = "cb2b5473-b9a5-4ee4-942e-135f8f0948d5" },
+]
+
+[[release]]
+mbid = "22ca85ec-ee39-3895-aef9-dee5d5c2f4d6"
+title = "Surrender"
+type = "album"
+date = "1999-06-07"
+spotify = "0w4g3UozYbp6rppoQwQehJ"
+tracks = [
+  { n = 1, title = "Music: Response", mbid = "12842247-cabf-4a85-9e8d-4e1201c42364" },
+  { n = 2, title = "Under the Influence", mbid = "4b364aa9-f227-42b8-b0c2-ee32f5ccf4fa" },
+  { n = 3, title = "Out of Control", mbid = "fc336694-71c3-4963-b221-2c0687e26cfb" },
+  { n = 4, title = "Orange Wedge", mbid = "0982e813-a279-482c-8057-285d07372fb9" },
+  { n = 5, title = "Let Forever Be", mbid = "6abc5eed-68a4-4ea3-a092-374772b8f09d" },
+  { n = 6, title = "The Sunshine Underground", mbid = "7d37745a-fdf8-4ee4-b6f2-1453bd432572" },
+  { n = 7, title = "Asleep From Day", mbid = "1344425c-47ea-4d7b-a759-c7f5ec0fa191" },
+  { n = 8, title = "Got Glint?", mbid = "310a7db0-9a0f-4833-817f-ae4f6adc026e" },
+  { n = 9, title = "Hey Boy Hey Girl", mbid = "bf7845cc-eac3-48a3-8b06-543b4b7ba117" },
+  { n = 10, title = "Surrender", mbid = "9c83afdc-cd59-4d2a-b990-611b6c7c1899" },
+  { n = 11, title = "Dream On", mbid = "6efd1d7e-4c99-4dee-b3ef-55724809fb28" },
+]
+
+[[release]]
+mbid = "abde0563-f0cc-3afa-bb63-a8e1097ecc6c"
+title = "Let Forever Be"
+type = "single"
+date = "1999-07"
+tracks = [
+  { n = 1, title = "Let Forever Be", mbid = "6abc5eed-68a4-4ea3-a092-374772b8f09d" },
+  { n = 2, title = "The Diamond Sky", mbid = "031dfb5f-3f89-4af3-b8ce-28b841192b2e" },
+  { n = 3, title = "Studio K", mbid = "87673b51-9ed0-4e39-87c8-825bfd27e0df" },
+]
+
+[[release]]
+mbid = "e29a61de-704a-36dc-87ee-79295743d374"
+title = "Out of Control"
+type = "single"
+date = "1999-10-08"
+spotify = "33l5YUKeKrbwxtz1fQwZrd"
+tracks = [
+  { n = 1, title = "Out of Control", mbid = "fc336694-71c3-4963-b221-2c0687e26cfb" },
+  { n = 2, title = "Out of Control (Sasha club mix)", mbid = "daaee567-39a8-4506-9529-7b555f8b63b5" },
+]
+
+[[release]]
+mbid = "5c5d72b5-eb4e-3007-a3cc-ccc63b8fc8f2"
+title = "Music: Response"
+type = "single"
+date = "2000-01-13"
+spotify = "03U0pzrQRlhAHGviqulQMf"
+tracks = [
+  { n = 1, title = "Music: Response", mbid = "d542549b-840c-4e17-91dd-1d41fa47a21f" },
+  { n = 2, title = "Freak of the Week", mbid = "3b7322a8-3695-43d1-829e-ba108ae87faa" },
+  { n = 3, title = "Enjoyed", mbid = "2abc0fe5-8810-4492-bba5-2531949ff5af" },
+  { n = 4, title = "Piku Playground (live)", mbid = "6c6631e8-dc9c-4018-b137-d5826b296336" },
+  { n = 5, title = "Setting Sun (live)", mbid = "5b0ce3b3-eae7-45b4-b1fd-ef366163f04e" },
+]
+
+[[release]]
+mbid = "64b854ef-e886-3a01-a953-bdebe68b750f"
+title = "It Began in Afrika"
+type = "single"
+date = "2001-09-10"
+tracks = [
+  { n = 1, title = "It Began in Afrika", mbid = "9fb7cb87-3dfc-439f-81fc-4e6511a93307" },
+  { n = 2, title = "Hot Acid Rhythm 1", mbid = "926c5552-a688-4a54-8557-8b5ae360fa05" },
+]
+
+[[release]]
+mbid = "8cdb31c4-2215-3c0f-b61c-fee2d40326e2"
+title = "Star Guitar"
+type = "single"
+date = "2002-01-14"
+tracks = [
+  { n = 1, title = "Star Guitar (edit)", mbid = "b5a372a8-e8bb-4fbb-88ad-ba2ea342b84d" },
+  { n = 2, title = "Base 6", mbid = "9d456a0f-4077-4f8e-9d72-7d5bca5dc698" },
+  { n = 3, title = "Star Guitar (Pete Heller’s Expanded mix)", mbid = "0fe164d3-cab2-4386-a0b8-7448170ec469" },
+]
+
+[[release]]
+mbid = "77a274d0-ab11-304f-85c4-991838dffdfb"
+title = "Come With Us"
+type = "album"
+date = "2002-01-21"
+spotify = "56nVadPbdCs1yGB0AtXSGp"
+tracks = [
+  { n = 1, title = "Come With Us", mbid = "676da1f5-ac9d-44ee-9170-4e586b5f9fd4" },
+  { n = 2, title = "It Began in Afrika", mbid = "4a285125-3282-4a01-b53c-4e4113625194" },
+  { n = 3, title = "Galaxy Bounce", mbid = "11dddd5c-ebfc-4ff1-b160-b1aaaed8e5f8" },
+  { n = 4, title = "Star Guitar", mbid = "93411521-d7b4-4c87-9bce-a4ba5e6b95fa" },
+  { n = 5, title = "Hoops", mbid = "13924157-e8a4-477f-af35-cabc7f368004" },
+  { n = 6, title = "My Elastic Eye", mbid = "3dfc9ae5-5b00-4cd5-986b-94f44a38df3d" },
+  { n = 7, title = "The State We're In", mbid = "abc77855-2109-4615-b6de-14064f9b931b" },
+  { n = 8, title = "Denmark", mbid = "c72f9cd0-ad5a-48a0-bc3d-67bf33d629de" },
+  { n = 9, title = "Pioneer Skies", mbid = "81da7a90-6947-41a1-a195-6b410c2d5155" },
+  { n = 10, title = "The Test", mbid = "685b8ded-b390-4d4d-9001-d9d926db4da4" },
+]
+
+[[release]]
+mbid = "f5bb4a94-d44d-3022-a9f8-1d30499615e7"
+title = "Come With Us / The Test"
+type = "single"
+date = "2002-04-22"
+spotify = "5LVvAgLSOuUZz1nq1DnG2t"
+tracks = [
+  { n = 1, title = "Come With Us", mbid = "676da1f5-ac9d-44ee-9170-4e586b5f9fd4" },
+  { n = 2, title = "Come With Us (Fatboy Slim remix)", mbid = "9e8b8e7f-008f-43dc-9ea0-683246f77d7c" },
+  { n = 3, title = "H.I.A.", mbid = "373a6690-bf65-4caf-91ae-678cc0ffd785" },
+]
+
+[[release]]
+mbid = "e63689f4-37ae-32f5-99d9-fdb78f7ba98d"
+title = "Come With Us"
+type = "ep"
+date = "2002-07-17"
+tracks = [
+  { n = 1, title = "Come With Us (radio edit)", mbid = "25ca0f8e-5c38-4851-92ec-8a4215cfa2cc" },
+  { n = 2, title = "Star Guitar (Trisco LA Funk dub)", mbid = "ab322b3f-df45-4797-b5c2-84a4cc42c774" },
+  { n = 3, title = "H.I.A.", mbid = "3f839a15-d15c-4d39-b997-89ffd9855172" },
+  { n = 4, title = "Come With Us (H Foundation remix)", mbid = "9913703a-6c7a-490c-94e0-f042a2d25ace" },
+  { n = 5, title = "Temptation/Star Guitar (live from Brixton Academy)", mbid = "3c5cc525-c796-42e1-b19b-b569fdeff605" },
+]
+
+[[release]]
+mbid = "f7e2d7f0-206f-3969-b0e2-49e9c5038612"
+title = "American EP"
+type = "ep"
+date = "2002-11-19"
+tracks = [
+  { n = 1, title = "Star Guitar (Trisco la Funk dub)", mbid = "91708c28-8ff5-4b93-81ec-b24f1cedd844" },
+  { n = 2, title = "H.I.A.", mbid = "373a6690-bf65-4caf-91ae-678cc0ffd785" },
+  { n = 3, title = "Come With Us (H Foundation remix)", mbid = "59c15655-ae9a-40b3-99a0-01923d5b6ce7" },
+  { n = 4, title = "Electronic Battle Weapon 6", mbid = "a5fcceb9-6645-4550-a338-47eb99d33aa0" },
+  { n = 5, title = "Temptation / Star Guitar (live from Brixton Academy)", mbid = "8854fcac-032d-4f85-933e-bea4138204cb" },
+]
+
+[[release]]
+mbid = "3af34d46-1bac-3e98-ab38-864df6aee59d"
+title = "The Golden Path"
+type = "single"
+date = "2003-06"
+tracks = [
+  { n = 1, title = "The Golden Path (edit)", mbid = "ee2023a3-20a9-43ae-b0a3-b6053b71ae4b" },
+  { n = 2, title = "The Golden Path", mbid = "6e2eb235-5fd6-4ced-9fd2-9548ff989697" },
+  { n = 3, title = "Nude Night", mbid = "66b38432-a502-46fa-b366-45ee4f542fe2" },
+]
+
+[[release]]
+mbid = "218a51ec-12c3-3a2b-8eda-53346917ff6e"
+title = "Get Yourself High"
+type = "single"
+date = "2003-11-24"
+spotify = "4kEQq9V81q23uKSzUUUsEj"
+tracks = [
+  { n = 1, title = "Get Yourself High (extended version)", mbid = "f0799528-1d77-4c7c-a87e-039df96942a6" },
+  { n = 2, title = "Get Yourself High (Felix da Housecat’s Chemical Meltdown mix)", mbid = "4382c0bc-fea8-4842-8204-51217208ebdb" },
+  { n = 3, title = "Get Yourself High (Switches Rely on Rub)", mbid = "88de90d6-d076-49e1-b26e-0fa1a8b6aa4f" },
+  { n = 4, title = "The Golden Path (Ewan Pearson extended vocal)", mbid = "920a6da5-7905-4a15-98e1-5007f0e387a5" },
+  { n = 5, title = "The Golden Path (Ewan’s Rave Hell dub)", mbid = "9d932ce4-76cb-4253-b8e5-d204b1f557a1" },
+  { n = 6, title = "Nude Night", mbid = "66b38432-a502-46fa-b366-45ee4f542fe2" },
+]
+
+[[release]]
+mbid = "71482123-eeaa-3e52-aa10-12fcf3dce78c"
+title = "Electronic Battle Weapon 7"
+type = "single"
+date = "2004-08"
+tracks = [
+  { n = 1, title = "Electronic Battle Weapon 7", mbid = "21fe7de0-6016-44a4-bc45-6bc79766d64f" },
+]
+
+[[release]]
+mbid = "6dd71d5e-847f-3288-b244-e20918317d7c"
+title = "Galvanize"
+type = "single"
+date = "2004-11"
+spotify = "2vbwV1miGrWjonWQXUyMQR"
+tracks = [
+  { n = 1, title = "Galvanize (extended version)", mbid = "64d09f51-ab1b-4686-adc7-d4d26d1165d7" },
+  { n = 2, title = "Electronic Battle Weapon 7", mbid = "21fe7de0-6016-44a4-bc45-6bc79766d64f" },
+]
+
+[[release]]
+mbid = "5acf62a9-00e8-3896-abeb-4598abad7e8b"
+title = "Push the Button"
+type = "album"
+date = "2004-12"
+spotify = "715rku55lldqdw9WiEuPgi"
+tracks = [
+  { n = 1, title = "Galvanize", mbid = "bac8e50d-d899-4518-9268-b2a8b384eb92" },
+  { n = 2, title = "The Boxer", mbid = "a607e814-0f8b-4e25-846a-a025e71280e7" },
+  { n = 3, title = "Believe", mbid = "6db56e37-00ff-4a9f-9ced-7b5b8655447e" },
+  { n = 4, title = "Hold Tight London", mbid = "5efe0991-3407-4abc-b3fb-b76da1a6ef2f" },
+  { n = 5, title = "Come Inside", mbid = "d6f030ee-7c6a-4a0b-a8e7-9e0baa01e157" },
+  { n = 6, title = "The Big Jump", mbid = "6fb230ff-77e5-4951-bcd7-356feb0c7876" },
+  { n = 7, title = "Left Right", mbid = "83b3ee17-1b4c-4fa1-9dfb-e3b1995705b4" },
+  { n = 8, title = "Close Your Eyes", mbid = "0e90381b-9a7b-48b3-a03c-78092c6c2ed8" },
+  { n = 9, title = "Shake Break Bounce", mbid = "6db45219-f66d-4897-a7e2-8ff60a96defe" },
+  { n = 10, title = "Marvo Ging", mbid = "f0abb4c9-0627-4d32-a912-aeafb597f617" },
+  { n = 11, title = "Surface to Air", mbid = "c5a5f775-e9d5-4c17-b4df-cf760b870209" },
+  { n = 12, title = "Giant", mbid = "09063724-93ed-46a2-9dc7-6dde88feae67" },
+]
+
+[[release]]
+mbid = "8a1452e9-4256-3943-b875-f35d87fe579a"
+title = "Believe"
+type = "single"
+date = "2005-03"
+spotify = "2fXZR6fM20dsVqX6IJ4EAj"
+tracks = [
+  { n = 1, title = "Believe (edit)", mbid = "ce2fd4be-0560-491f-8a5f-5007b0a8938d" },
+  { n = 2, title = "Giant", mbid = "6e27ef7b-52d6-4121-bbb3-910f4e18b963" },
+]
+
+[[release]]
+mbid = "b9243a76-c461-3d03-96cd-8b3728168063"
+title = "The Boxer"
+type = "single"
+date = "2005-07-11"
+spotify = "6S6kwKR3Kxx5bm7K3KVIhD"
+tracks = [
+  { n = 1, title = "The Boxer", mbid = "7c012682-97d2-4976-bfd3-bd31dcb6884c" },
+  { n = 2, title = "The Boxer (DFA version)", mbid = "d507a82e-92e7-4bcf-b183-70a8b2332842" },
+  { n = 3, title = "Believe (live at the Milano Forum)", mbid = "dc3f3dd2-9b6b-4668-ad9a-af81dff8ed9d" },
+]
+
+[[release]]
+mbid = "a77fc462-4f23-3e65-9857-dd1e29493e93"
+title = "Do It Again"
+type = "single"
+date = "2007-05"
+spotify = "3ODH0SbCdKDSRP4nRWyuOi"
+tracks = [
+  { n = 1, title = "Do It Again (extended mix)", mbid = "d28cf528-7229-47b6-bfce-97d16ccaaaec" },
+  { n = 2, title = "Do It Again (Oliver Huntemann remix)", mbid = "c39a7c54-4685-4e01-9cb9-e8b824562363" },
+  { n = 3, title = "Do It Again (Audion's House Arrest mix)", mbid = "6615e176-187f-4f12-8aad-770e26ffee2c" },
+  { n = 4, title = "Clip Kiss", mbid = "220e486d-fba5-4176-b57a-6374c27448fe" },
+  { n = 5, title = "No Need", mbid = "6fc7cbcf-4184-4f42-9bc5-f60558d67813" },
+]
+
+[[release]]
+mbid = "5e0c6af6-3be2-3bd9-aa63-d2daff6537bf"
+title = "We Are the Night"
+type = "album"
+date = "2007-05"
+spotify = "5iEwzKTpvYEvQvaHuBnlOh"
+tracks = [
+  { n = 1, title = "No Path to Follow", mbid = "04c3c148-9d7b-43f1-ac25-b48ac677f127" },
+  { n = 2, title = "We Are the Night", mbid = "6d0f865b-7db9-428b-947d-2a0a886fd481" },
+  { n = 3, title = "All Rights Reversed", mbid = "5184419c-583b-42d4-afb4-94519a0ed606" },
+  { n = 4, title = "Saturate", mbid = "9559e30a-efed-476d-9b86-1fa6dd52d940" },
+  { n = 5, title = "Do It Again", mbid = "f305efbc-625b-4024-993b-95683c29e00e" },
+  { n = 6, title = "Das Spiegel", mbid = "0ecd9c44-f358-4e34-8844-3b368c014721" },
+  { n = 7, title = "The Salmon Dance", mbid = "3b190847-7a1d-41fc-bfe5-876e3091418e" },
+  { n = 8, title = "Burst Generator", mbid = "b2777865-414f-4871-ab96-e4644eb64d4a" },
+  { n = 9, title = "A Modern Midnight Conversation", mbid = "78d9b6e6-cdfd-451a-a08a-1915f7060767" },
+  { n = 10, title = "Battle Scars", mbid = "10805ace-454c-4a04-a141-4087e9f3709e" },
+  { n = 11, title = "Harpoons", mbid = "251816a2-ca9d-4940-b64c-bba167b2b2d6" },
+  { n = 12, title = "The Pills Won’t Help You Now", mbid = "b5efd8db-893c-4bc6-9b7f-62dc93736ac0" },
+]
+
+[[release]]
+mbid = "29459376-ac8d-374f-be8e-90944d963c25"
+title = "Battle Scars"
+type = "single"
+date = "2007-06-25"
+spotify = "4yz1Cf179rIvCdBoh7PyUu"
+tracks = [
+  { n = 1, title = "Battle Scars - Beyond The Wizard’s Sleeve Re‐Animation", mbid = "dc5a5284-229f-435a-a99e-47acd2029b98" },
+]
+
+[[release]]
+mbid = "bc5264ab-f5b0-38a7-8ce7-81b78c85c209"
+title = "The Salmon Dance"
+type = "single"
+date = "2007-08"
+spotify = "6eRqBsDa7hRaXb02udjqG0"
+tracks = [
+  { n = 1, title = "The Salmon Dance (edit)", mbid = "d17c0a30-58a7-4639-a913-369a557fffb9" },
+  { n = 2, title = "Electronic Battle Weapon 8", mbid = "cdbbc855-7cc2-4a0c-95f9-ba03682da36d" },
+]
+
+[[release]]
+mbid = "0cb1e7f5-0238-3726-837a-e38ef371517f"
+title = "Midnight Madness"
+type = "single"
+date = "2008-07"
+spotify = "4VgIqUWfgdPbRRToqoFILY"
+tracks = [
+  { n = 1, title = "Midnight Madness - Alternate Edit", mbid = "df6664a9-2fde-4336-8e26-5e8c482df882" },
+]
+
+[[release]]
+mbid = "f72aa9a1-a88e-4cd6-950a-b816d02178e1"
+title = "Saturate (Stanton Warriors Remix)"
+type = "single"
+date = "2009-12-22"
+tracks = [
+  { n = 1, title = "Saturate (Stanton Warriors remix)", mbid = "cc7f75be-3858-4c06-b24c-3d048cd27dfe" },
+]
+
+[[release]]
+mbid = "7b4aecf7-242c-47a8-b198-b2c9d8a96ace"
+title = "Escape Velocity"
+type = "single"
+date = "2010-04-17"
+tracks = [
+  { n = 1, title = "Escape Velocity", mbid = "1e9933bf-f036-40e4-9137-8f87b6cff1aa" },
+]
+
+[[release]]
+mbid = "2d8e6b68-fccd-422f-8a12-b581927ac3dd"
+title = "Swoon"
+type = "single"
+date = "2010-06"
+spotify = "5isQ4U7DOEc5oc6d2LSQuN"
+tracks = [
+  { n = 1, title = "Swoon (Boyz Noize Summer Remix)", mbid = "490e5e25-8430-4bb3-b6fe-e917041a4f5f" },
+  { n = 2, title = "Swoon (Lindstrøm & Prins Thomas Remix)", mbid = "e6dde6b1-417e-497a-b815-5742a583fbc0" },
+  { n = 3, title = "Horse Power (Popof Remix)", mbid = "4812fb67-7e79-4a7a-b3db-c4b0806b2034" },
+]
+
+[[release]]
+mbid = "8d3659b5-e2b0-4651-906e-721630ca649c"
+title = "Further"
+type = "album"
+date = "2010-06-09"
+spotify = "5AWouw8qYspux6tH4epnMm"
+tracks = [
+  { disc = 1, n = 1, title = "Snow", mbid = "5acab9c2-8a57-4da4-8957-7c48a3a9e8ff" },
+  { disc = 1, n = 2, title = "Escape Velocity", mbid = "1e9933bf-f036-40e4-9137-8f87b6cff1aa" },
+  { disc = 1, n = 3, title = "Another World", mbid = "1640b3a6-e651-4489-898e-b718cabd53b9" },
+  { disc = 1, n = 4, title = "Dissolve", mbid = "9874a203-d32a-48a1-9dca-dacee399da3c" },
+  { disc = 1, n = 5, title = "Horse Power", mbid = "0d141b41-7126-4105-9a40-3fb8b5d6b197" },
+  { disc = 1, n = 6, title = "Swoon", mbid = "29deac8c-a7da-46f3-b02f-fc9513d78fe5" },
+  { disc = 1, n = 7, title = "K+D+B", mbid = "71a810d6-111c-410f-a58c-26a7a44fffe4" },
+  { disc = 1, n = 8, title = "Wonders of the Deep", mbid = "2a997dd7-cf4b-4cbb-b383-57880074ee71" },
+  { disc = 1, n = 9, title = "Don’t Think", mbid = "4d3de85b-3005-442f-9852-47d3d77dcde9" },
+  { disc = 2, n = 1, title = "Snow", mbid = "a200ff66-6d17-41b3-b78e-be12b5d241fd" },
+  { disc = 2, n = 2, title = "Escape Velocity", mbid = "8c372284-a008-41b0-a28c-4b65cb3c7771" },
+  { disc = 2, n = 3, title = "Another World", mbid = "32c1a8d3-46e6-4b66-9ad1-41672487c456" },
+  { disc = 2, n = 4, title = "Dissolve", mbid = "0504db05-e719-447d-9406-b65c579b2ec2" },
+  { disc = 2, n = 5, title = "Horse Power", mbid = "b36c841d-85f1-4393-bf8b-16a61344d625" },
+  { disc = 2, n = 6, title = "Swoon", mbid = "4aed7712-545e-4fab-8662-1a119c599b55" },
+  { disc = 2, n = 7, title = "K+D+B", mbid = "a67c37d3-5229-4ba9-baf3-cc501887add6" },
+  { disc = 2, n = 8, title = "Wonders of the Deep", mbid = "de773894-796c-47ab-93b4-3157d04c329f" },
+]
+
+[[release]]
+mbid = "222d6497-9d35-4087-92d0-22dc8338bea3"
+title = "Another World"
+type = "single"
+date = "2010-08-18"
+spotify = "0YjNjkn49hKkPWqhqrxaol"
+tracks = [
+  { n = 1, title = "Another World (radio edit)", mbid = "5becf6e0-174d-475e-b79b-216f9b5d58ed" },
+  { n = 2, title = "Swoon (Boyz Noize Summer remix)", mbid = "44e33d5f-8092-4061-8f8a-45d80c531725" },
+  { n = 3, title = "Swoon (Lindstrøm & Prins Thomas remix)", mbid = "b5a1137a-6db4-47d3-8d83-54c4daf9f49b" },
+  { n = 4, title = "Horse Power (Popof remix)", mbid = "45846363-61e3-4d5b-ac5d-f780267a8c42" },
+]
+
+[[release]]
+mbid = "cb7032aa-bdc9-4dbc-ab9c-a808b2225da1"
+title = "Hanna (Original Motion Picture Soundtrack)"
+type = "album"
+date = "2011-03-01"
+spotify = "4F95vjAL6EEVfVVgb3tFMn"
+tracks = [
+  { n = 1, title = "Hanna's Theme", mbid = "8fcf8b45-9deb-4964-9371-48d2cb513b3b" },
+  { n = 2, title = "Escape 700", mbid = "b13d7864-420a-4b91-b501-317018421085" },
+  { n = 3, title = "Chalice 1", mbid = "b615a5eb-8eef-41da-ae48-2f95d815ddd9" },
+  { n = 4, title = "The Devil Is in the Details", mbid = "b7037334-904b-4f19-87be-2a53d6ed2616" },
+  { n = 5, title = "Map Sounds / Chalice 2", mbid = "22f3eafe-f4c5-4952-8108-e7264a28308c" },
+  { n = 6, title = "The Forest", mbid = "70e6522e-c2c5-415d-8069-93591f1f16d9" },
+  { n = 7, title = "Quayside Synthesis", mbid = "e2939bea-40f3-483a-ba2b-14f219bbc575" },
+  { n = 8, title = "The Sandman", mbid = "3522b00f-6052-4e07-9e35-783b8fa2f36a" },
+  { n = 9, title = "Marissa Flashback", mbid = "b88483af-6df7-4eaf-9f23-852dd1a0dc05" },
+  { n = 10, title = "Bahnhof Rumble", mbid = "406b20a1-0977-48a3-bed3-132faef3ac2a" },
+  { n = 11, title = "The Devil Is in the Beats", mbid = "b8de9459-009c-4de4-a3d0-6b852928bc94" },
+  { n = 12, title = "Car Chase (Arp Worship)", mbid = "e671cfe2-91d3-44b1-beb7-e22cb8d2d5a8" },
+  { n = 13, title = "Interrogation / Lonesome Subway / Grimm's House", mbid = "93aae233-8f6e-4bf0-8b68-e5471efb9a64" },
+  { n = 14, title = "Hanna vs. Marissa", mbid = "07c247fe-99b1-4832-a356-94f031913372" },
+  { n = 15, title = "Sun Collapse", mbid = "9cec2594-d02a-4c97-b89d-1701d59d5f99" },
+  { n = 16, title = "Special Ops", mbid = "005a45ec-23fa-48d2-a4fc-134732668abf" },
+  { n = 17, title = "Escape Wavefold", mbid = "17a04dfb-fed1-4d9c-9083-b0b651e5c021" },
+  { n = 18, title = "Isolated Howl", mbid = "ec8e6b40-1c87-423b-9e8b-c5557ebc4ab6" },
+  { n = 19, title = "Container Park", mbid = "e2d0bae0-a9d9-474b-af42-b68b3292b095" },
+  { n = 20, title = "Hanna's Theme (vocal version)", mbid = "fe5f682b-91b5-41ca-b3e7-d32c6ac85de0" },
+]
+
+[[release]]
+mbid = "df831ff1-407f-4ad0-8576-69153c2afc16"
+title = "Theme for Velodrome"
+type = "single"
+date = "2012-07-30"
+tracks = [
+  { n = 1, title = "Theme for Velodrome", mbid = "aff1cf2d-2204-409c-9218-d1811a813d10" },
+  { n = 2, title = "Theme for Velodrome (radio edit)", mbid = "a11a3b33-dc6b-4811-982a-84ce75373890" },
+]
+
+[[release]]
+mbid = "486cd006-de91-4c77-83e1-0687d10aba09"
+title = "Sometimes I Feel So Deserted"
+type = "single"
+date = "2015-04-24"
+spotify = "6C7TaT0wL2db8NdsrjyHHB"
+tracks = [
+  { n = 1, title = "Sometimes I Feel So Deserted", mbid = "a162633f-7a46-4418-8508-0876e93c8038" },
+]
+
+[[release]]
+mbid = "e407fd20-7e8b-4e86-9060-c8b67b69eda0"
+title = "Go"
+type = "single"
+date = "2015-05-04"
+spotify = "2zmxQmCbyMKEflSyHLim0C"
+tracks = [
+  { n = 1, title = "Go (radio edit)", mbid = "d27248f4-a666-43e4-baab-3a7cd1d2f963" },
+  { n = 2, title = "Go", mbid = "c4d27e06-b397-4664-a74a-b732e5121ed0" },
+  { n = 3, title = "Go (Edge of Control dub)", mbid = "a425bc5b-47a9-4efe-9c93-1837dfd84114" },
+  { n = 4, title = "Go (Claude Vonstroke remix)", mbid = "fa5aab21-8097-4256-b95f-5e72ba2127bf" },
+  { n = 5, title = "Go (Special Request Basement remix)", mbid = "b6d69f4c-40be-47d4-8a78-941d1dc96bc7" },
+  { n = 6, title = "Go (Special Request Warehouse remix)", mbid = "19e7a4af-3d97-4d31-b5fc-f15032519898" },
+  { n = 7, title = "Go (extended mix)", mbid = "21253623-64b7-4505-b3ad-a9c394a45dbb" },
+  { n = 8, title = "Go (extended mix)", mbid = "b8d8241d-66ec-4240-b89c-96eb9a6fbce4" },
+]
+
+[[release]]
+mbid = "affe9ac3-a679-4792-a4f8-4d65f9882b84"
+title = "Wide Open"
+type = "single"
+date = "2015-05-22"
+spotify = "6unelYuDaqGcktST1r9Uav"
+tracks = [
+  { n = 1, title = "Wide Open (edit)", mbid = "db1183b2-4fa2-49fe-b24c-a50a81f7e6cc" },
+  { n = 2, title = "Wide Open (Kölsch remix)", mbid = "b720ffe8-fa3b-4c89-a95d-d9cd8a65f18d" },
+  { n = 3, title = "Wide Open (Joe Goddard remix)", mbid = "db987195-2c94-452d-9534-ad6dd66cde2a" },
+  { n = 4, title = "Wide Open (By the Light of the Moon mix)", mbid = "5caa2f1d-27d5-46a1-9d16-c70d56437aba" },
+]
+
+[[release]]
+mbid = "7db94347-6d91-492b-94db-5308ea88f12c"
+title = "Under Neon Lights"
+type = "single"
+date = "2015-06-23"
+tracks = [
+  { n = 1, title = "Under Neon Lights", mbid = "eb58cc13-e947-42bb-91fc-a5a0c4aa4b42" },
+]
+
+[[release]]
+mbid = "c151db01-86d7-4190-8ee0-709dbc7d2f51"
+title = "Born in the Echoes"
+type = "album"
+date = "2015-07-17"
+spotify = "36E5LAM5D3AKnVx8s5dyc6"
+tracks = [
+  { n = 1, title = "Sometimes I Feel So Deserted", mbid = "a162633f-7a46-4418-8508-0876e93c8038" },
+  { n = 2, title = "Go", mbid = "c4d27e06-b397-4664-a74a-b732e5121ed0" },
+  { n = 3, title = "Under Neon Lights", mbid = "eb58cc13-e947-42bb-91fc-a5a0c4aa4b42" },
+  { n = 4, title = "EML Ritual", mbid = "ed50602f-86d2-45d7-b195-c1e2ebccbd17" },
+  { n = 5, title = "I’ll See You There", mbid = "4e780fbd-b9c0-4b2b-a4e1-66dc2b7b6a4e" },
+  { n = 6, title = "Just Bang", mbid = "90e49cb8-71da-4c83-8bcc-8ce44ea0d9b1" },
+  { n = 7, title = "Reflexion", mbid = "10799f5a-9163-42f2-b9ec-ea9b419199d5" },
+  { n = 8, title = "Taste of Honey", mbid = "16e89f5a-17b0-4cee-b63d-02df4149f8ad" },
+  { n = 9, title = "Born in the Echoes", mbid = "180ff0d9-559f-4a58-8576-dbbfeb547bb8" },
+  { n = 10, title = "Radiate", mbid = "fc8fd1f4-cfef-469e-b377-d3153a24e170" },
+  { n = 11, title = "Wide Open", mbid = "329fd528-45a3-46de-b685-d960c92ddab0" },
+]
+
+[[release]]
+mbid = "de34e11d-6599-4874-ab1b-2da8a6eb3a37"
+title = "C-H-E-M-I-C-A-L"
+type = "single"
+date = "2016-11-04"
+spotify = "4wLyXooZfgm9gg3UWV2Di3"
+tracks = [
+  { n = 1, title = "C-H-E-M-I-C-A-L (edit)", mbid = "50d720c4-183a-4bac-a19f-b200998c86e6" },
+]
+
+[[release]]
+mbid = "9464d3ca-1b12-4f0f-9b93-06019556a45c"
+title = "Where Do I Begin"
+type = "single"
+date = "2017"
+tracks = [
+  { n = 1, title = "Where Do I Begin (radio edit)", mbid = "5dd01289-3636-4415-9aca-8f78a5a56be9" },
+  { n = 2, title = "Where Do I Begin", mbid = "5c9a4578-b50a-486e-a7b0-49c2d9bf7c5d" },
+]
+
+[[release]]
+mbid = "be8243e3-a129-4d18-80bc-be4326587b4c"
+title = "I Never Asked to Be Your Mountain"
+type = "single"
+date = "2018-06-01"
+tracks = [
+  { n = 1, title = "I Never Asked to Be Your Mountain", mbid = "74784458-8efe-4b83-8a10-994432e819bc" },
+]
+
+[[release]]
+mbid = "08824f62-3f27-4d85-8e8f-d92e9977612d"
+title = "MAH"
+type = "single"
+date = "2019-01-07"
+tracks = [
+  { n = 1, title = "MAH", mbid = "690c1b9b-6dcf-485a-8240-08e8f6f59326" },
+]
+
+[[release]]
+mbid = "3f2e5d5a-3500-479e-b591-b1e03f71e7e2"
+title = "We’ve Got to Try"
+type = "single"
+date = "2019-03-08"
+spotify = "2P9byO53UqBL4s9Muvojma"
+tracks = [
+  { n = 1, title = "We’ve Got to Try", mbid = "3d6204f1-9c74-472b-8e92-0fa0b116ddda" },
+]
+
+[[release]]
+mbid = "137d0c73-1cfb-4c9e-a5ac-a7eb9dc53cea"
+title = "No Geography"
+type = "album"
+date = "2019-04-12"
+spotify = "7d1KwAPdMEBqCERVsKRUox"
+tracks = [
+  { n = 1, title = "Eve of Destruction", mbid = "6467e588-eccd-4db2-8f14-f25536f210e7" },
+  { n = 2, title = "Bango", mbid = "e64cb87e-7e04-4b1b-b65d-ba5b900533dc" },
+  { n = 3, title = "No Geography", mbid = "dc79386d-94d8-488d-baf5-8a60518e902b" },
+  { n = 4, title = "Got to Keep On", mbid = "cd86979d-c387-4563-b827-838d5f821e1c" },
+  { n = 5, title = "Gravity Drops", mbid = "40ff0fcc-ff84-404a-9b49-66ca66e30e5f" },
+  { n = 6, title = "The Universe Sent Me", mbid = "72a53d6b-f004-4c66-bb76-999caf70bee1" },
+  { n = 7, title = "We’ve Got to Try", mbid = "3d6204f1-9c74-472b-8e92-0fa0b116ddda" },
+  { n = 8, title = "Free Yourself", mbid = "6e883b1d-8d77-45df-b5c1-f04c0a1dca14" },
+  { n = 9, title = "MAH", mbid = "690c1b9b-6dcf-485a-8240-08e8f6f59326" },
+  { n = 10, title = "Catch Me I’m Falling", mbid = "b0eece1a-5645-48c3-8450-15cce10bff1f" },
+]
+
+[[release]]
+mbid = "f21ffb72-45b6-460a-a0e3-fee1bf76fc3b"
+title = "Eve of Destruction"
+type = "single"
+date = "2019-06-10"
+spotify = "4lrG9VP9uKWJPzABvBd2Wn"
+tracks = [
+  { n = 1, title = "Eve of Destruction", mbid = "6467e588-eccd-4db2-8f14-f25536f210e7" },
+]
+
+[[release]]
+mbid = "69f1a015-6ef3-4665-86cc-e178ac3b4265"
+title = "Eve of Dubstruction"
+type = "single"
+date = "2019-06-21"
+spotify = "3lalPKFYBK4mt1LdqE5uEO"
+tracks = [
+  { n = 1, title = "Eve of Dubstruction", mbid = "e3a5b5a3-98d5-4a5c-a08c-68c46eaa37a7" },
+  { n = 2, title = "Eve of Destruction", mbid = "6467e588-eccd-4db2-8f14-f25536f210e7" },
+]
+
+[[release]]
+mbid = "b50ffeff-4dab-45fe-8efe-7ced027116a8"
+title = "The Darkness That You Fear"
+type = "single"
+date = "2021-04-23"
+spotify = "52kKJRnz58Nd6RB5uWmg8a"
+tracks = [
+  { n = 1, title = "The Darkness That You Fear", mbid = "1601fc4c-5683-482f-ae45-1e1b5ba157a9" },
+  { n = 2, title = "The Darkness That You Fear (edit)", mbid = "e654ff50-b1e1-4769-90bc-a7176ef5bda1" },
+]
+
+[[release]]
+mbid = "e2c86eab-91b9-4d42-bafb-6da7c3241fde"
+title = "I Love Tekno (Alt Mix / 4/10/96)"
+type = "single"
+date = "2022-05-24"
+spotify = "2T62BhcaW7sXAop6kdWi2f"
+tracks = [
+  { n = 1, title = "I Love Tekno (alt mix / 4/10/96)", mbid = "6de5676a-5427-431e-8b14-ccde8f279bf6" },
+  { n = 2, title = "It Doesn’t Matter (alt mix / 28/9/96)", mbid = "6cb3e9ff-6f33-46a3-a70a-e54beaa2d9f7" },
+  { n = 3, title = "Elektrobank (demo / 3/6/96)", mbid = "50fcc913-89ac-46c1-8260-0bea055a5104" },
+]
+
+[[release]]
+mbid = "2a8b7937-bae5-4f2f-8935-0a29a701532f"
+title = "Cylinders (25/9/96)"
+type = "single"
+date = "2022-06-17"
+spotify = "1ONcBI5iXbqviURsZg8e9Q"
+tracks = [
+  { n = 1, title = "Cylinders (25/9/96)", mbid = "b61b3ea8-750f-44d6-8d25-9393fca71085" },
+]
+
+[[release]]
+mbid = "d070429e-5869-4a15-8a43-be58dd6b630d"
+title = "No Reason"
+type = "single"
+date = "2023-03-17"
+spotify = "0noR7T69B8RDZ71B5VIIrt"
+tracks = [
+  { n = 1, title = "No Reason", mbid = "6f86b4e3-14ac-4247-b20b-5666e8634738" },
+]
+
+[[release]]
+mbid = "d8bd54fc-f7c6-48e1-9932-a5bc177c231d"
+title = "All of a Sudden"
+type = "single"
+date = "2023-04-28"
+spotify = "5hcYHt4yIcGt24boikeG18"
+tracks = [
+  { n = 1, title = "All of a Sudden", mbid = "dcbf33d7-b3de-4016-8539-1ec59fd7f8f3" },
+  { n = 2, title = "No Reason", mbid = "6f86b4e3-14ac-4247-b20b-5666e8634738" },
+]
+
+[[release]]
+mbid = "503184c8-5247-4961-91e3-97918a7c101e"
+title = "Live Again"
+type = "single"
+date = "2023-06-28"
+spotify = "2VWYSkeqaMC9lXlf6gNp5T"
+tracks = [
+  { n = 1, title = "Live Again", mbid = "4d6f7d79-314d-47a6-a946-074fcd845209" },
+  { n = 2, title = "Live Again (single edit)", mbid = "29978503-b081-4d8c-a28a-7df99deb2d68" },
+]
+
+[[release]]
+mbid = "1fad143c-f189-4c62-9c97-3b275780ebb0"
+title = "Skipping Like a Stone"
+type = "single"
+date = "2023-08-21"
+spotify = "7nWojjbfKGtHyYeA8vsBXa"
+tracks = [
+  { n = 1, title = "Skipping Like a Stone", mbid = "ff894c23-f522-4268-a172-aa5ea9908371" },
+  { n = 2, title = "Live Again", mbid = "4d6f7d79-314d-47a6-a946-074fcd845209" },
+  { n = 3, title = "No Reason", mbid = "6f86b4e3-14ac-4247-b20b-5666e8634738" },
+  { n = 4, title = "Skipping Like a Stone (single edit)", mbid = "c62328b0-ce2c-4acb-a0b6-a09f20b83391" },
+]
+
+[[release]]
+mbid = "cf263767-825a-4476-9834-a8e1ebacf272"
+title = "For That Beautiful Feeling"
+type = "single"
+date = "2023-09-06"
+tracks = [
+  { n = 1, title = "For That Beautiful Feeling", mbid = "e4c1214c-671a-4c74-a0ec-e21678e5162c" },
+]
+
+[[release]]
+mbid = "0eb13d65-b2a3-4b1b-9a2e-da61d6ba55e5"
+title = "For That Beautiful Feeling"
+type = "album"
+date = "2023-09-08"
+spotify = "5cLkbqs0qo552lJvXH1JTH"
+tracks = [
+  { n = 1, title = "Intro", mbid = "f9bd4489-f29e-45cd-98cf-69211effd028" },
+  { n = 2, title = "Live Again", mbid = "9cbaac1f-38ef-48df-afd2-70f95f0a7615" },
+  { n = 3, title = "No Reason", mbid = "f08647f0-1b01-4176-8916-6a7d27966d8c" },
+  { n = 4, title = "Goodbye", mbid = "234ed36a-b526-4503-b285-816edd373d64" },
+  { n = 5, title = "Fountains", mbid = "9763972b-484f-4ad8-b838-045e10f404f4" },
+  { n = 6, title = "Magic Wand", mbid = "05436b03-54d7-4ef6-a44c-86830d515e1a" },
+  { n = 7, title = "The Weight", mbid = "9fbf62ae-28a3-4f72-ab04-a3417471a240" },
+  { n = 8, title = "Skipping Like a Stone", mbid = "ff894c23-f522-4268-a172-aa5ea9908371" },
+  { n = 9, title = "The Darkness That You Fear (Harvest mix)", mbid = "c75e3a97-bdf1-4077-aa6b-0f3453c70797" },
+  { n = 10, title = "Feels Like I Am Dreaming", mbid = "12f0aca3-4e3b-4552-9adf-b97190e580aa" },
+  { n = 11, title = "For That Beautiful Feeling", mbid = "e4c1214c-671a-4c74-a0ec-e21678e5162c" },
+  { n = 12, title = "All of a Sudden", mbid = "dcbf33d7-b3de-4016-8539-1ec59fd7f8f3" },
+  { n = 13, title = "I Want to Know", mbid = "7808b38c-a679-437c-91ba-48739fe9cc2a" },
+]
+
+[[release]]
+mbid = "d51be146-6d3f-4e8a-963d-e2648479a2b2"
+title = "Superflash"
+type = "single"
+date = "2023-11"
+tracks = [
+  { n = 1, title = "Superflash", mbid = "1075370d-5522-4549-81b3-e4eb362075b8" },
+]
+
+[[release]]
+mbid = "391ad18d-6f90-4bad-8a5f-70e13bae0b1d"
+title = "Galvanize (Chris Lake remix)"
+type = "single"
+date = "2025-08-29"
+spotify = "4rxSgHTfUkvO4PCuIQUcMB"
+tracks = [
+  { n = 1, title = "Galvanize (Chris Lake remix)", mbid = "8332af5c-ee2e-4602-82f9-9380cbd638e0" },
+]
+
+[[release]]
+mbid = "9288f687-9dce-401f-bd57-82392a509583"
+title = "Go (Live from Glastonbury)"
+type = "ep"
+date = "2026-06-11"
+tracks = [
+  { n = 1, title = "Go (Live from Glastonbury)", mbid = "7c8add1e-a976-4be2-9930-66457da1a204" },
+]

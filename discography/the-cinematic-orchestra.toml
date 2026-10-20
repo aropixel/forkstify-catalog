@@ -1,0 +1,269 @@
+format = 1
+
+[[release]]
+mbid = "028c0725-ec0e-3b10-b507-f856c7b93291"
+title = "Diabolus EP"
+type = "ep"
+date = "1998"
+tracks = [
+  { n = 1, title = "Diabolus", mbid = "aeec8105-9312-4228-aa1d-ab69bee78bc4" },
+  { n = 2, title = "Diabolus (reprise)", mbid = "ae4080f9-21b7-4150-be58-de75c9947798" },
+  { n = 3, title = "Continuum", mbid = "152b7bb8-1096-4bcc-a732-7af2dc09ae65" },
+]
+
+[[release]]
+mbid = "0a5e4ba2-72eb-3852-8337-07299dce536b"
+title = "Channel 1 Suite / Ode to the Big Sea"
+type = "single"
+date = "1999-09-01"
+spotify = "1C4YPhBX1l4hPG6Uj4ZGuW"
+tracks = [
+  { n = 1, title = "Channel 1 Suite", mbid = "cade1f40-f20b-4e30-bed1-15fc97c23046" },
+  { n = 2, title = "Channel 1 Suite (Hefner mix)", mbid = "95be8b15-ef72-49b9-a2f5-6067d55949fe" },
+  { n = 3, title = "Ode to the Big Sea", mbid = "c00b7430-86f3-4da0-a148-7a6964f28773" },
+  { n = 4, title = "Ode to the Big Sea (Four Tet mix)", mbid = "582ca36b-fb54-4294-a3cd-eb7018d890e4" },
+]
+
+[[release]]
+mbid = "a0f50eac-7b9b-39f9-81ca-f74daa9eec91"
+title = "Motion"
+type = "album"
+date = "1999-09-13"
+spotify = "7juArEEjY6Eu9uPI6SvCER"
+tracks = [
+  { n = 1, title = "Durian", mbid = "f0140754-720a-4519-9cd7-b3e55f44d056" },
+  { n = 2, title = "Ode to the Big Sea", mbid = "c00b7430-86f3-4da0-a148-7a6964f28773" },
+  { n = 3, title = "Night of the Iguana", mbid = "53f5308e-7abe-49e8-88ca-2b449fc91daf" },
+  { n = 4, title = "Channel 1 Suite", mbid = "cade1f40-f20b-4e30-bed1-15fc97c23046" },
+  { n = 5, title = "Bluebirds", mbid = "881266fa-76fe-4358-99fa-1e0e203bfa69" },
+  { n = 6, title = "And Relax!", mbid = "8143a238-87a2-4892-9fb1-c96d35a8b353" },
+  { n = 7, title = "Diabolus", mbid = "16a3d11d-d2ac-4270-a383-1dd8380c62ad" },
+]
+
+[[release]]
+mbid = "43a53064-77ec-3ea3-883a-e2715017d237"
+title = "All That You Give"
+type = "single"
+date = "2002-04-16"
+spotify = "45lr8ctuNGFzN46FREltz2"
+tracks = [
+  { n = 1, title = "All That You Give (radio edit)", mbid = "3a0349cd-db1d-4684-97e7-f02e9927e470" },
+  { n = 2, title = "All That You Give (Herbert’s Raving dub)", mbid = "a9ff3bee-9af9-478d-ab41-8831360b1e69" },
+  { n = 3, title = "All That You Give (Doctor Rockit’s Giving mix)", mbid = "ccab8396-52a4-481f-bdb4-76289784e31c" },
+  { n = 4, title = "Kalima (Bootleg Cassette version)", mbid = "ca226265-31e9-4b54-9679-024d70d32f71" },
+  { n = 5, title = "All That You Give (album version)", mbid = "3c871d9f-f69a-4ed8-bb25-ac4b0e6f2b88" },
+]
+
+[[release]]
+mbid = "ed9770a6-8946-3e04-8dc3-aba641a64ed7"
+title = "Every Day"
+type = "album"
+date = "2002-04-27"
+spotify = "1EUXHvyflL27HwOTQgaVuh"
+tracks = [
+  { n = 1, title = "All That You Give", mbid = "3c871d9f-f69a-4ed8-bb25-ac4b0e6f2b88" },
+  { n = 2, title = "Burn Out", mbid = "4ed61d84-57f9-4a81-90de-b17a0860dd4c" },
+  { n = 3, title = "Flite", mbid = "e8db4e5c-0637-4b5f-841b-9a9449c85997" },
+  { n = 4, title = "Evolution", mbid = "f99108d6-b600-4518-b692-8d9314c364a3" },
+  { n = 5, title = "Man With the Movie Camera", mbid = "db2eb9bb-32f1-4655-876e-168793920596" },
+  { n = 6, title = "All Things to All Men", mbid = "fbfc6862-e842-4e86-ae2c-51b091f63b5a" },
+  { n = 7, title = "Everyday", mbid = "52cce82c-a12b-477c-82ad-9ded68fc18ae" },
+  { n = 8, title = "Oregon", mbid = "71c2b5a3-94fa-423a-ad3e-38d268e4c6dc" },
+  { n = 9, title = "Semblance", mbid = "d90f16f6-b43c-45f0-bc0e-28969381fab8" },
+]
+
+[[release]]
+mbid = "e2f477f2-c818-361b-9906-a49a6512e8c6"
+title = "Horizon"
+type = "single"
+date = "2002-09-17"
+tracks = [
+  { n = 1, title = "Horizon", mbid = "7bdf3c32-b9fb-4a88-b996-bfcab2bf8438" },
+  { n = 2, title = "Oregon", mbid = "71c2b5a3-94fa-423a-ad3e-38d268e4c6dc" },
+  { n = 3, title = "Evolution II (Mr. P remix)", mbid = "30731f8a-94e6-4930-8400-98e46717abf1" },
+]
+
+[[release]]
+mbid = "09643bf3-6aec-3cae-9b88-2c4c797ddb13"
+title = "Man With the Movie Camera"
+type = "single"
+date = "2003-04-14"
+tracks = [
+  { n = 1, title = "Man With the Movie Camera", mbid = "db2eb9bb-32f1-4655-876e-168793920596" },
+  { n = 2, title = "Man With the Movie Camera (Domu remix)", mbid = "58b16aee-50c9-4805-9fd1-3d457bda8817" },
+]
+
+[[release]]
+mbid = "9e53d985-bf92-3c9f-9350-aee7391b7552"
+title = "Man With a Movie Camera"
+type = "album"
+date = "2003-05-31"
+tracks = [
+  { n = 1, title = "The Projectionist", mbid = "d6d69430-804a-4781-9ea4-c63a846decff" },
+  { n = 2, title = "Melody", mbid = "21706bf4-e7b2-4042-a334-26dc0cddc76b" },
+  { n = 3, title = "Dawn", mbid = "7c71c7f0-7561-48c9-9564-ff27c75325f5" },
+  { n = 4, title = "The Awakening of a Woman (Burnout)", mbid = "1d64f040-18b6-4abd-adfe-f4cb69b79a1c" },
+  { n = 5, title = "Reel Life (Evolution II)", mbid = "6eb6d490-c8db-42fd-9f49-932daa8a69fc" },
+  { n = 6, title = "Postlude", mbid = "d76b50fd-2180-4162-8f56-bc72f498be8d" },
+  { n = 7, title = "Evolution (Versao Portuense)", mbid = "2b72c4e2-282c-4191-bfa0-f407aa81179f" },
+  { n = 8, title = "Work It! (Man With the Movie Camera)", mbid = "576c8ccf-554d-4cdb-a5bc-e6333315957f" },
+  { n = 9, title = "Voyage", mbid = "97f9a4bc-3564-490b-b423-38f9e6a5e76e" },
+  { n = 10, title = "Odessa", mbid = "41bee7b3-9d1e-4fc2-8712-52190873d322" },
+  { n = 11, title = "Theme de Yoyo", mbid = "bab3b4a1-c2f4-4552-b33f-b004ec56a8e8" },
+  { n = 12, title = "The Magician", mbid = "dd4733b9-ec5b-48cf-a741-938bbe7bb56f" },
+  { n = 13, title = "Theme Reprise", mbid = "a6107f91-1a4b-47c3-8621-791d3df09904" },
+  { n = 14, title = "Yoyo Waltz", mbid = "e010c326-a170-4720-ae20-4802f3194e82" },
+  { n = 15, title = "Drunken Tune", mbid = "951c62dc-00a9-49d3-b44b-1862b5df7c5e" },
+  { n = 16, title = "The Animated Tripod", mbid = "23045a77-64a0-4e56-a499-060eff80aa86" },
+  { n = 17, title = "All Things", mbid = "419db1f8-2259-4162-9476-fb8378a11a40" },
+]
+
+[[release]]
+mbid = "5440625a-3da5-37bc-8bb5-37fbf9fe8703"
+title = "To Build a Home"
+type = "single"
+date = "2007-03"
+tracks = [
+  { n = 1, title = "To Build a Home (edit)", mbid = "ae987279-3c73-4ad3-bf3f-24cb8f029543" },
+  { n = 2, title = "Child Song", mbid = "ead433ca-a4d6-462b-af46-afafe9b0f4ad" },
+]
+
+[[release]]
+mbid = "6a04f600-5bf1-36f8-8d7e-2ea637896ebd"
+title = "Breathe"
+type = "single"
+date = "2007-04-09"
+tracks = [
+  { n = 1, title = "Breathe", mbid = "867f9dca-c45c-406e-b208-1217afb658a9" },
+  { n = 2, title = "Colours", mbid = "1fd06b64-83a2-4f63-8055-41f3c37a6683" },
+  { n = 3, title = "To Build a Home", mbid = "d44d5e15-a022-463e-9cf9-30e951a33d4a" },
+]
+
+[[release]]
+mbid = "6648611f-ff81-4664-9c0d-c597ff434b91"
+title = "Flowers"
+type = "single"
+date = "2007-05-07"
+tracks = [
+  { n = 1, title = "Flowers", mbid = "240a9352-7eca-4415-b90d-414a0c2676fe" },
+]
+
+[[release]]
+mbid = "31097baf-d4d2-3d2a-b332-8c2718b615fd"
+title = "Ma fleur"
+type = "album"
+date = "2007-05-07"
+spotify = "5cPHT4yMCfETLRYAoBFcOZ"
+tracks = [
+  { disc = 1, n = 1, title = "That Home", mbid = "623c42fd-83fc-4abc-baba-2d8503efb8f2" },
+  { disc = 1, n = 2, title = "Familiar Ground", mbid = "6732916a-9412-408d-bccf-ff272ed6d9ca" },
+  { disc = 1, n = 3, title = "Ma fleur", mbid = "173fda43-7c04-42a1-92a4-0351aff82924" },
+  { disc = 1, n = 4, title = "Music Box", mbid = "27f99a2e-1d13-46ca-861d-7b0f3823b446" },
+  { disc = 1, n = 5, title = "Time and Space", mbid = "d4d884bf-1b11-4308-98bc-59b5f96fb261" },
+  { disc = 2, n = 1, title = "Prelude", mbid = "093e5b53-d25e-4e26-9479-285508e19b33" },
+  { disc = 2, n = 2, title = "As the Stars Fall", mbid = "12458a81-4153-4517-b6d2-44854707cd62" },
+  { disc = 2, n = 3, title = "Into You", mbid = "e9a6f402-5480-4409-853a-173fe79b05e7" },
+  { disc = 2, n = 4, title = "Breathe", mbid = "867f9dca-c45c-406e-b208-1217afb658a9" },
+  { disc = 2, n = 5, title = "To Build a Home", mbid = "17f99dee-938e-4afd-bd13-e279339cdb08" },
+]
+
+[[release]]
+mbid = "ac47f333-7406-41d2-89d2-032c3b304d86"
+title = "The Crimson Wing: Mystery of the Flamingos"
+type = "album"
+date = "2008-12-08"
+spotify = "1XkXmvhIZzIZDIg70zaLMW"
+tracks = [
+  { n = 1, title = "Opening Titles", mbid = "b1f379b0-2dad-4758-b508-a3a9bea6db5a" },
+  { n = 2, title = "Arrival of the Birds", mbid = "d3c02eaf-bea0-42ba-ad75-3ad30d3353b0" },
+  { n = 3, title = "The Dance", mbid = "320c11f6-5721-4695-abd8-9839eaede003" },
+  { n = 4, title = "Soda", mbid = "f7c0b81a-d2ac-4569-9084-6add7ac921de" },
+  { n = 5, title = "Hatching", mbid = "91d0b9ad-fa71-48a1-9bed-a859a9232943" },
+  { n = 6, title = "Marabou", mbid = "75e2e7a6-ca87-4d76-9b04-355034a5bf91" },
+  { n = 7, title = "Exodus", mbid = "0d394761-de24-449c-896e-6dec0ffa0d6a" },
+  { n = 8, title = "Transformation", mbid = "a8c4ed14-ca6d-4110-8d37-20388c3b7eee" },
+  { n = 9, title = "Hyena", mbid = "8ec5ddc0-9040-4f8c-a4ea-0186f16cb41c" },
+  { n = 10, title = "Life of the Bird", mbid = "19da9560-137b-42a9-a14b-90dc301e1ebe" },
+  { n = 11, title = "First Light", mbid = "42e9a2af-a314-4eb1-8112-7168013aaed2" },
+  { n = 12, title = "Crimson Skies", mbid = "33311fa5-1d0c-47dc-9136-cdaa44587fad" },
+]
+
+[[release]]
+mbid = "e8fab503-3af5-492c-a9f2-f8a701f6235b"
+title = "Entr’acte"
+type = "single"
+date = "2011-09-13"
+tracks = [
+  { n = 1, title = "Entr’acte", mbid = "b713e3f2-2ab8-46a7-ae0d-636b6fd90a1b" },
+]
+
+[[release]]
+mbid = "e3f25bff-3421-48a3-af72-c404190e16b0"
+title = "Manhatta"
+type = "single"
+date = "2011-09-13"
+tracks = [
+  { n = 1, title = "Manhatta", mbid = "6b04a344-02b8-4f67-a126-99dc4015fd4b" },
+]
+
+[[release]]
+mbid = "99667c88-1927-4c7a-a619-90b5bdc740f0"
+title = "In Motion #1"
+type = "album"
+date = "2012-06-25"
+tracks = [
+  { n = 1, title = "Necrology", mbid = "83b3f9f4-18eb-4c78-9535-00ef8ab558cd" },
+  { n = 2, title = "Lapis", mbid = "a1021543-e5fb-4df9-8344-e0ed6d57a93d" },
+  { n = 3, title = "Outer Space", mbid = "7108d063-ad5f-46f2-a0d0-94a4a6a08c55" },
+  { n = 4, title = "Dream Work", mbid = "d1b919b4-e322-44d3-8fe8-ea06380f76d6" },
+  { n = 5, title = "Entr’acte", mbid = "36feac1f-71a1-4da8-8855-67c36f941f56" },
+  { n = 6, title = "Regen", mbid = "50d91b59-5b8d-406e-89e5-9f71f248a8f0" },
+  { n = 7, title = "Manhatta", mbid = "d353dea0-d047-4ef1-8a2a-a05dffd9a8e0" },
+]
+
+[[release]]
+mbid = "123afafc-9a78-48c1-9fa4-6cff9e0524a2"
+title = "A Caged Bird / Imitations of Life"
+type = "single"
+date = "2015-01-15"
+tracks = [
+  { n = 1, title = "A Caged Bird / Imitations of Life", mbid = "22e7bcb5-78a3-4a8a-a29d-865a0e2756d6" },
+  { n = 2, title = "A Caged Bird / Imitations of Life (instrumental)", mbid = "65b40e1a-b727-43e8-a30d-e09ee5f114e6" },
+]
+
+[[release]]
+mbid = "82b13f78-788a-4f7e-9fe6-201b5f14d3d1"
+title = "To Believe"
+type = "single"
+date = "2016-10-20"
+tracks = [
+  { n = 1, title = "To Believe", mbid = "39d11195-4d3d-4c31-8665-b6a329dfd612" },
+]
+
+[[release]]
+mbid = "bab7d75b-5c1a-416f-952d-1e08367236da"
+title = "To Believe"
+type = "album"
+date = "2019-03-15"
+spotify = "3coLBjEk3wxbYrmIKVuSon"
+tracks = [
+  { n = 1, title = "To Believe", mbid = "3c880d53-a7b7-444a-ada1-21cf4c56e1e1" },
+  { n = 2, title = "A Caged Bird / Imitations of Life", mbid = "97683044-e42a-49bd-9b29-925d343d64f4" },
+  { n = 3, title = "Lessons", mbid = "5c9574ef-4d1d-47f6-9952-ae5cb27716c2" },
+  { n = 4, title = "Wait for Now / Leave the World", mbid = "a58c888e-5985-4d1d-9a4d-60fa0cf55732" },
+  { n = 5, title = "The Workers of Art", mbid = "20e62d22-468a-4153-8d5a-46938cffbc09" },
+  { n = 6, title = "Zero One / This Fantasy", mbid = "54e501df-08d1-4792-8af2-848b7739406c" },
+  { n = 7, title = "A Promise", mbid = "871b05af-5f1b-4e5f-9d1a-0a20563ef68f" },
+]
+
+[[release]]
+mbid = "261c854b-d105-45d5-999d-8ca823136b0a"
+title = "Wait for Now"
+type = "single"
+date = "2019-09-17"
+tracks = [
+  { n = 1, title = "Wait for Now", mbid = "e5f66171-6659-40c3-b341-27fecf0b428f" },
+  { n = 2, title = "Wait for Now (Mary Lattimore rework)", mbid = "91c1fe1d-2da0-4c8e-b0f1-102f26c77488" },
+  { n = 3, title = "To Believe (Anthony Naples remix)", mbid = "0c3f8715-75ae-4371-9c40-d9748c36b0a8" },
+  { n = 4, title = "Wait for Now / Leave the World", mbid = "a58c888e-5985-4d1d-9a4d-60fa0cf55732" },
+]

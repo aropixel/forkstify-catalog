@@ -1,0 +1,123 @@
+format = 1
+
+[[release]]
+mbid = "0d5d881e-65f4-46f7-be99-22d838563615"
+title = "Mannequin"
+type = "single"
+date = "1979"
+tracks = [
+  { n = 1, title = "Mannequin", mbid = "1fcf1740-9ec7-45a0-aacb-afd4a8c6c9c2" },
+  { n = 2, title = "Les Yeux des amants", mbid = "c38a2f7e-03aa-4596-bac2-0ba6bbc0215b" },
+  { n = 3, title = "Triste cocktail", mbid = "0791d751-f59a-409f-af41-46007ae1fd82" },
+]
+
+[[release]]
+mbid = "183f8736-6170-3b8c-b571-f8382a2f0614"
+title = "Cherchez le garçon"
+type = "album"
+date = "1980"
+tracks = [
+  { n = 1, title = "Petit jardin chinois", mbid = "3738dcfd-4ed8-4a02-8652-ce003f0c4ec6" },
+  { n = 2, title = "Cherchez le garçon", mbid = "3191bf77-55e5-4f7c-b718-da2c232c05c9" },
+  { n = 3, title = "V2 sur mes souvenirs", mbid = "bc37f89b-209e-4d51-8989-3bac65a4f3df" },
+  { n = 4, title = "Cherchez le garçon (Solitaire)", mbid = "b32a46cf-3a9b-4770-aba8-20c8214cb862" },
+  { n = 5, title = "S.O.S. Mannekin", mbid = "e9abb243-b08f-44ac-aecf-21889591bbf5" },
+  { n = 6, title = "Les Yeux des amants", mbid = "c38a2f7e-03aa-4596-bac2-0ba6bbc0215b" },
+  { n = 7, title = "Triste cocktail", mbid = "0791d751-f59a-409f-af41-46007ae1fd82" },
+]
+
+[[release]]
+mbid = "20199dd1-9b87-4bac-92dd-b37e64d65e9e"
+title = "Cherchez le garçon"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "Cherchez le garçon", mbid = "e437077f-9441-4632-ae72-5b7dd3b88720" },
+  { n = 2, title = "Cherchez le garçon (Solitaire)", mbid = "b32a46cf-3a9b-4770-aba8-20c8214cb862" },
+]
+
+[[release]]
+mbid = "93e08254-3bff-47d9-81e9-46a05648ad2e"
+title = "Jardin chinois (nouvelle version)"
+type = "single"
+date = "1981"
+spotify = "0cYKoQh48aNRlwON2kThn8"
+tracks = [
+  { n = 1, title = "Jardin chinois (nouvelle version)", mbid = "2d4fdedf-6105-46f7-b61d-32dab8458038" },
+  { n = 2, title = "Jardin chinois (version III)", mbid = "a9d4226d-1f31-48fd-8c4f-2b889b987f2d" },
+]
+
+[[release]]
+mbid = "5896de98-5aa5-3476-a0e3-cdc5717c6f87"
+title = "Seppuku"
+type = "album"
+date = "1981"
+tracks = [
+  { n = 1, title = "Les Armées de la nuit", mbid = "be525c61-28d7-4eb8-b635-0c8d12075cee" },
+  { n = 2, title = "Viviane Vog", mbid = "2ecc20f0-66b4-4b8d-aecc-f53d2a5679e7" },
+  { n = 3, title = "La Femme écarlate", mbid = "19c0af22-500e-4789-aa75-a79344a4d013" },
+  { n = 4, title = "N'importe quel soir", mbid = "152942c1-6e58-42de-9b24-4d022ef87199" },
+  { n = 5, title = "Avenue du crime", mbid = "dbb0946a-9aa3-471d-8820-fd06a5abe5ef" },
+  { n = 6, title = "Musée Tong", mbid = "01d5e9b1-4f32-42ae-aa34-2c12db647874" },
+  { n = 7, title = "John Doe 85", mbid = "c1731227-edab-4bfd-a599-8b49754d1eaa" },
+  { n = 8, title = "Les Damnés (Chant des enfants morts)", mbid = "22067214-80d2-4ee4-a4a2-3b89387386ef" },
+  { n = 9, title = "Treizième section", mbid = "9577f58b-25a6-4356-9ea9-a12ef4e20065" },
+]
+
+[[release]]
+mbid = "9cd403b0-780f-4482-88eb-f03510a69b7d"
+title = "Quelqu'un comme toi"
+type = "ep"
+date = "1983"
+tracks = [
+  { n = 1, title = "Quelqu'un comme toi", mbid = "f0f944ea-37e2-4fbd-b8de-1d114fa02f23" },
+  { n = 2, title = "De l'autre côté", mbid = "0f1e4f03-6b8f-4b73-8936-8f6248cc67a5" },
+  { n = 3, title = "Cette fille est une erreur", mbid = "712252e8-201b-44bc-bc5d-9bf8e38cff82" },
+  { n = 4, title = "Plus je sais plus j'oublie", mbid = "f79038bf-b84f-4264-97da-fa64793ad92b" },
+  { n = 5, title = "Mona", mbid = "6f2f2f71-5d41-4aee-8484-40adac2bd36e" },
+]
+
+[[release]]
+mbid = "f71173ad-6a10-482c-b425-62d339594d1f"
+title = "Nous sommes jeunes, nous sommes fiers"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Dites le fort (Nous sommes jeunes, nous sommes fiers)", mbid = "5db8d333-77a9-487c-9a57-54d73d1477b6" },
+  { n = 2, title = "Les jours sont bien trop longs", mbid = "d5943b94-06c0-4067-8782-767576eacc0e" },
+]
+
+[[release]]
+mbid = "2d6f1c4c-1fb0-4eef-b435-d5db3926eb40"
+title = "Paris"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "Paris", mbid = "238eaa05-0aea-4485-8fd9-05e2a20188d9" },
+  { n = 2, title = "Paris (version dub)", mbid = "98c3c847-aebd-4156-988c-adf150ad7c88" },
+]
+
+[[release]]
+mbid = "8c206d3c-f1d4-4631-a4cf-72003f5c1c9b"
+title = "Aussi belle qu’une balle"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "Aussi belle qu’une balle", mbid = "1ed3477c-e71c-4e43-9d0e-9010b1abf551" },
+  { n = 2, title = "Je suis déjà parti", mbid = "66901fd0-f73a-44da-a80d-e47e22dbd5cd" },
+]
+
+[[release]]
+mbid = "9528940a-8503-4d6b-bee7-a02ee90c7883"
+title = "Quelque part dans Paris"
+type = "ep"
+date = "1990"
+tracks = [
+  { n = 1, title = "Triste cocktail", mbid = "3e8200fd-2686-4ef4-8495-826d202ba460" },
+  { n = 2, title = "Position parallele", mbid = "3d057baf-774f-4e93-ae8d-37e9043fc72c" },
+  { n = 3, title = "Avenue du crime", mbid = "13518cca-290c-4ec2-9dce-f5f243b13843" },
+  { n = 4, title = "Mannequin", mbid = "480880a1-df81-46cd-818b-3d1a8d866147" },
+  { n = 5, title = "My Generation", mbid = "afad0fae-c31d-4de9-a9d5-fce007f041ce" },
+  { n = 6, title = "N'importe quel soir", mbid = "5fa1f7bf-53e7-408f-a344-380317d5ad6a" },
+  { n = 7, title = "All Tomorrow's Parties", mbid = "d8c90d20-32a7-46f2-bf8c-5b6f0d3fa120" },
+]

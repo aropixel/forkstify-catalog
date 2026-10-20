@@ -1,0 +1,56 @@
+format = 1
+
+[[release]]
+mbid = "1cd0ced0-273f-32e4-b550-d3067fcbaae1"
+title = "L’Atelier"
+type = "album"
+date = "2001"
+tracks = [
+  { n = 1, title = "Tu semblante", mbid = "6e7d98d7-1b4e-4e62-b777-cbb8d5f6a9d6" },
+  { n = 2, title = "Charleston", mbid = "11a84778-bc6b-4cf5-a3e2-305ef14cbe13" },
+  { n = 3, title = "Tordu tour du monde", mbid = "9cc1e114-fdef-43c5-9963-6c0257567e41" },
+  { n = 4, title = "Dis‐moi c’est quand…", mbid = "0049d658-8d14-4d4a-a4be-2f0e9cc3d1bc" },
+  { n = 5, title = "International", mbid = "f99e94ad-335c-4840-a828-25edcb4fe097" },
+  { n = 6, title = "Inùtil", mbid = "ab271b6c-b4dc-4547-bd38-55548ae67961" },
+  { n = 7, title = "Tout un pan de moi", mbid = "8b1a5dac-66ea-4a80-8657-b7c3dd9fccea" },
+  { n = 8, title = "L’Atelier", mbid = "c829025e-176b-4563-9b68-5a172c967f85" },
+  { n = 9, title = "Ce sourire est pour moi", mbid = "203dd08e-05c3-4c65-8361-8cba1e459d21" },
+  { n = 10, title = "Longtemps", mbid = "740b41b7-7aef-4dcf-a841-af3d84026359" },
+  { n = 11, title = "Cher oubli", mbid = "44ec88e6-46c6-49f1-b2f9-605c41b30a50" },
+  { n = 12, title = "Faustino fatal", mbid = "5834d36f-b9aa-4140-ad8b-5ec796dd6119" },
+  { n = 13, title = "La ballade des gens qui sont nés quelque part", mbid = "0fdd63b2-f865-4b73-b21f-ce0ae940d3be" },
+  { n = 14, title = "Des frontières aux pays", mbid = "48f6318c-b3b9-458c-bf7d-d2cb816e816b" },
+]
+
+[[release]]
+mbid = "a81735c8-ac57-3e88-8858-7cc2a248bf0a"
+title = "Notre époque"
+type = "album"
+date = "2003"
+spotify = "3nKsRvwwToIvCoodMywDeo"
+tracks = [
+  { n = 1, title = "Merci pour tout", mbid = "9cd8a529-6fad-4ad6-9e0b-b02ef6e0bf48" },
+  { n = 2, title = "La lune", mbid = "12076a63-3ee4-4623-972f-6e6b17b99fa7" },
+  { n = 3, title = "Notre époque", mbid = "282e4241-2d0f-4ccc-a4a6-277bdfd1cba1" },
+  { n = 4, title = "Je cherche", mbid = "a67b95b7-879e-4c0e-afdc-abe9ca0d32cb" },
+  { n = 5, title = "Ces moments-là", mbid = "d5eff092-0d29-41ce-85a0-92d9e2a5cd39" },
+  { n = 6, title = "Du velours", mbid = "b72af4f5-9f75-4d72-9081-44135361ee01" },
+  { n = 7, title = "Tout petit", mbid = "21be5466-fd8b-498b-8272-a005ee3549cc" },
+  { n = 8, title = "Sur mes lèvres", mbid = "7637b7ef-2966-4ee1-8ef2-e83301d39956" },
+  { n = 9, title = "Chaque ville", mbid = "4bde5eaa-c054-4fd2-8a68-24b1a9ef4dc9" },
+  { n = 10, title = "Volar", mbid = "ee33c296-03e0-4bee-a9a8-1788462f1c95" },
+  { n = 11, title = "Tout à côté (1)", mbid = "5f9fd907-35f2-4084-9c7a-9804c5cd60e9" },
+  { n = 12, title = "Dans ma tête", mbid = "49831004-47f6-45de-9692-f270f65783a4" },
+  { n = 13, title = "Post-scriptum", mbid = "f7eee330-7d67-4cf2-98c1-3c16dea5b71f" },
+  { n = 14, title = "Tout à côté (2)", mbid = "f9fc3a4a-dd6c-44c4-aa3b-70bfb2f7ac75" },
+]
+
+[[release]]
+mbid = "d2c503ad-79b9-4f4d-980b-743435dc2742"
+title = "Buster et Charlie (Glenn Gatsby remix)"
+type = "single"
+date = "2023-11-03"
+spotify = "2bdVa1QvDKyXLg4yznI9O8"
+tracks = [
+  { n = 1, title = "Buster et Charlie (Glenn Gatsby remix)", mbid = "f4f04685-f626-4272-8a22-8cc571270555" },
+]

@@ -1,0 +1,469 @@
+format = 1
+
+[[release]]
+mbid = "4156c51d-5711-3ac1-aec7-a4fbb735d089"
+title = "White Riot"
+type = "single"
+date = "1977-03-18"
+tracks = [
+  { n = 1, title = "White Riot", mbid = "8e576ef2-d195-4d39-9c9c-5d5bc1383a50" },
+  { n = 2, title = "1977", mbid = "246f89c6-93f2-4610-9c8f-18bb88c91907" },
+]
+
+[[release]]
+mbid = "ca91cb5a-7ecc-3c46-84a0-0d4951889374"
+title = "The Clash"
+type = "album"
+date = "1977-04-08"
+spotify = "1184u2MotesLLCUTxyBIW8"
+tracks = [
+  { n = 1, title = "Janie Jones", mbid = "4670cfcd-f13c-4be2-81c3-6f39d8876af7" },
+  { n = 2, title = "Remote Control", mbid = "55fd05ea-0067-41cb-a2e9-e4e264a1d51b" },
+  { n = 3, title = "I’m So Bored With the U.S.A.", mbid = "7d281132-6a2a-478c-a935-c50a158c81b2" },
+  { n = 4, title = "White Riot", mbid = "6b439d2c-8eef-43fd-afaa-972ab8b77954" },
+  { n = 5, title = "Hate & War", mbid = "a11fba6b-6b60-4273-98de-a61302731d3b" },
+  { n = 6, title = "What’s My Name", mbid = "0883d31c-2035-4838-8cc4-1358a5f23feb" },
+  { n = 7, title = "Deny", mbid = "1f0cd637-5da4-490c-bf75-f3c034df9315" },
+  { n = 8, title = "London’s Burning", mbid = "0b260003-1625-42c3-8489-1e5757a1e8cd" },
+  { n = 9, title = "Career Opportunities", mbid = "07ef24c4-8ef4-40f9-acf7-aab7fe0bb960" },
+  { n = 10, title = "Cheat", mbid = "65dffe43-69e3-4b49-b8bc-2b2ec1df8c9f" },
+  { n = 11, title = "Protex Blue", mbid = "16fe35f6-a594-454c-9831-4173892231db" },
+  { n = 12, title = "Police & Thieves", mbid = "b0b6a875-794c-4f3c-966a-07d7cd8caf68" },
+  { n = 13, title = "48 Hours", mbid = "21a79a7e-36d6-4b35-b9bd-3db0ca8dfb0d" },
+  { n = 14, title = "Garageland", mbid = "05fdd1c8-461c-4208-8cc6-b8d602b55c8e" },
+]
+
+[[release]]
+mbid = "ef3fb886-d02b-33a1-be9b-4ecaf9627fcc"
+title = "Remote Control"
+type = "single"
+date = "1977-05-13"
+tracks = [
+  { n = 1, title = "Remote Control", mbid = "8ca374c4-34ed-42f4-bc0d-d034527ddad5" },
+  { n = 2, title = "London’s Burning (live)", mbid = "0e706152-efbc-468e-a2e2-febe49d498e7" },
+]
+
+[[release]]
+mbid = "986bdfe9-7720-38bf-a969-6a997a1ad4fc"
+title = "Complete Control"
+type = "single"
+date = "1977-09-23"
+tracks = [
+  { n = 1, title = "Complete Control", mbid = "9f19f8b7-cb2e-4956-8be5-62002d9fbc0b" },
+  { n = 2, title = "City of the Dead", mbid = "71a7a7b6-f95e-4740-ab30-35ccc8c05e28" },
+]
+
+[[release]]
+mbid = "4bb4b3f5-8f3d-3e6a-bbab-61b472ff7344"
+title = "Clash City Rockers"
+type = "single"
+date = "1978-02-17"
+tracks = [
+  { n = 1, title = "Clash City Rockers", mbid = "308bf762-337e-4c7b-8b02-b6376aba86af" },
+  { n = 2, title = "Jail Guitar Doors", mbid = "a8cb4a83-4714-4deb-9563-fb3575d6d9c3" },
+]
+
+[[release]]
+mbid = "5aa3df3a-394b-3f91-b7b4-651fd9d0820b"
+title = "(White Man) In Hammersmith Palais"
+type = "single"
+date = "1978-06-16"
+tracks = [
+  { n = 1, title = "(White Man) In Hammersmith Palais", mbid = "08c70fb6-f5ac-4382-a904-9b356dd0d1cf" },
+  { n = 2, title = "The Prisoner", mbid = "bbf81780-3980-4e5e-b924-7cbbc648e2d7" },
+]
+
+[[release]]
+mbid = "fcd23bde-a71f-3a1e-8c7a-cde4eb427532"
+title = "Give ’Em Enough Rope"
+type = "album"
+date = "1978-11-10"
+spotify = "4NEvCc6vHcsCPviWPCCrVg"
+tracks = [
+  { n = 1, title = "Safe European Home", mbid = "de7e8437-e7b9-43a0-9354-3fe92ae71ef9" },
+  { n = 2, title = "English Civil War", mbid = "ded75ea4-e134-448c-8d92-f90d886029a3" },
+  { n = 3, title = "Tommy Gun", mbid = "b325e15b-1a63-43bd-b384-171244f28b96" },
+  { n = 4, title = "Julie’s Been Working for the Drug Squad", mbid = "66746883-3854-425a-9bb0-d671e1283521" },
+  { n = 5, title = "Last Gang in Town", mbid = "6384e05d-b137-4a03-a8f4-826954469dd6" },
+  { n = 6, title = "Guns on the Roof", mbid = "5f72b7fe-956e-48fc-82d1-ad2530b61fdf" },
+  { n = 7, title = "Drug‐Stabbing Time", mbid = "d5b9f1fc-2282-49ff-a024-52934c981c19" },
+  { n = 8, title = "Stay Free", mbid = "57698511-138a-4221-96ce-23200dd5bedc" },
+  { n = 9, title = "Cheapskates", mbid = "5f3d24dc-94e3-4837-aa8a-926879510188" },
+  { n = 10, title = "All the Young Punks (New Boots and Contracts)", mbid = "ef33e522-011e-4a8f-a7a4-a63b45897357" },
+]
+
+[[release]]
+mbid = "a94a8382-1214-3d6d-a391-926215f6576b"
+title = "Tommy Gun"
+type = "single"
+date = "1978-11-24"
+tracks = [
+  { n = 1, title = "Tommy Gun", mbid = "5e911275-0643-49a9-8575-97d8c795f32e" },
+  { n = 2, title = "1‐2 Crush on You", mbid = "6ddc86ca-a7f8-4504-9a26-23e0caa83dd7" },
+]
+
+[[release]]
+mbid = "0a219513-7a96-3783-b5c1-2684004ce8a4"
+title = "English Civil War"
+type = "single"
+date = "1979-02-23"
+tracks = [
+  { n = 1, title = "English Civil War (Johnny Comes Marching Home)", mbid = "ccc6c81b-3137-43b9-b7d9-57a4a1d2bfd8" },
+  { n = 2, title = "Pressure Drop", mbid = "cac0810f-2202-4dfc-b0f3-254b2ae29a76" },
+]
+
+[[release]]
+mbid = "7b5518c6-14e6-3a80-998f-29bd78e8537e"
+title = "The Cost of Living E.P."
+type = "ep"
+date = "1979-05-11"
+tracks = [
+  { n = 1, title = "I Fought the Law", mbid = "674cd2c5-0da1-4c07-ada1-f59b2a19adca" },
+  { n = 2, title = "Groovy Times", mbid = "723e2b16-ad35-43cf-ae42-321b6ce84e64" },
+  { n = 3, title = "Gates of the West", mbid = "97343cf0-4c77-4c65-97e2-8856029ac11a" },
+  { n = 4, title = "Capital Radio / [The Cost of Living Advertisement]", mbid = "9165fcdb-3349-4ded-b3d7-e8e62b0d35c3" },
+]
+
+[[release]]
+mbid = "68cd609c-112c-3240-b6e4-9daa51e1f0a7"
+title = "London Calling"
+type = "single"
+date = "1979-12"
+tracks = [
+  { n = 1, title = "London Calling", mbid = "8f7f788e-131e-406e-8276-84a0a9f04fa0" },
+  { n = 2, title = "Armagideon Time", mbid = "3647e96b-f5a5-4fa3-a2cd-e1f68493fb1b" },
+  { n = 3, title = "Armagideon Time (Justice Tonight version)", mbid = "1b39a4c4-a5e0-4a17-9d64-b927ad8ff27a" },
+  { n = 4, title = "Armagideon Time (Kick It Over version)", mbid = "7b164e9c-b472-4c26-be1a-725238a3867c" },
+]
+
+[[release]]
+mbid = "8d73e45e-7ca1-3cb4-ae28-6da76196c17c"
+title = "London Calling"
+type = "album"
+date = "1979-12-14"
+spotify = "3TZuLZx0zB3Q45aQXDswb9"
+tracks = [
+  { disc = 1, n = 1, title = "London Calling", mbid = "8f7f788e-131e-406e-8276-84a0a9f04fa0" },
+  { disc = 1, n = 2, title = "Brand New Cadillac", mbid = "b65f155c-2d57-48fc-8a0e-ceca51bb5d7d" },
+  { disc = 1, n = 3, title = "Jimmy Jazz", mbid = "6a38755f-68ca-4f9c-bfcd-2d9a12162156" },
+  { disc = 1, n = 4, title = "Hateful", mbid = "02937d76-a9a4-4815-bcfc-d449d26804f6" },
+  { disc = 1, n = 5, title = "Rudie Can’t Fail", mbid = "97ea0a85-14ad-47c4-a086-8493307a130e" },
+  { disc = 1, n = 6, title = "Spanish Bombs", mbid = "b9dc4b7b-34e0-4028-ae5d-756bf08e5f48" },
+  { disc = 1, n = 7, title = "The Right Profile", mbid = "4037fa0e-0497-4d59-b67c-50ddc9f05995" },
+  { disc = 1, n = 8, title = "Lost in the Supermarket", mbid = "93a46b67-3856-46eb-a0bb-377643b2f58d" },
+  { disc = 1, n = 9, title = "Clampdown", mbid = "f375693b-c3e5-4e16-aac7-921631aed677" },
+  { disc = 1, n = 10, title = "The Guns of Brixton", mbid = "6653886f-7d45-40bd-bb6c-51cc5895e022" },
+  { disc = 2, n = 1, title = "Wrong ’Em Boyo", mbid = "c0b50456-428c-4709-8cbc-44115ac2f014" },
+  { disc = 2, n = 2, title = "Death or Glory", mbid = "abeb0916-5221-480d-b188-0c328d54b5ca" },
+  { disc = 2, n = 3, title = "Koka Kola", mbid = "b7b519ff-66a9-4768-b9d2-1e527b091b7d" },
+  { disc = 2, n = 4, title = "The Card Cheat", mbid = "d8f25235-6a0c-4051-9952-03188b3cc51d" },
+  { disc = 2, n = 5, title = "Lover’s Rock", mbid = "4260ffa8-9bd2-4cd5-8350-2af1251caf7c" },
+  { disc = 2, n = 6, title = "Four Horsemen", mbid = "47ad3f7f-9285-4dcf-b391-b98f4c8d9ea4" },
+  { disc = 2, n = 7, title = "I’m Not Down", mbid = "34b3820a-2676-4081-841d-8b66ab09cbc3" },
+  { disc = 2, n = 8, title = "Revolution Rock", mbid = "3c933124-72de-42cc-b896-42e4f373ed2f" },
+  { disc = 2, n = 9, title = "Train in Vain", mbid = "e0cf6219-a871-44ca-af9a-f073dfa6c795" },
+]
+
+[[release]]
+mbid = "1b126f72-4763-4219-a084-56645ff4b32e"
+title = "Clampdown"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "Clampdown", mbid = "f375693b-c3e5-4e16-aac7-921631aed677" },
+  { n = 2, title = "The Guns of Brixton", mbid = "6653886f-7d45-40bd-bb6c-51cc5895e022" },
+]
+
+[[release]]
+mbid = "dabba8e0-7065-3343-a9a7-f3e1ebba4119"
+title = "Hitsville U.K."
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "Hitsville U.K.", mbid = "14dbe031-4628-4e65-a0df-7771259ff055" },
+  { n = 2, title = "Police on My Back", mbid = "23a7407f-e24d-419b-8280-0b518fd4f350" },
+]
+
+[[release]]
+mbid = "bb74aa37-cdfe-4032-a254-be499e06967e"
+title = "Police on My Back"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "Police on My Back", mbid = "23a7407f-e24d-419b-8280-0b518fd4f350" },
+  { n = 2, title = "The Crooked Beat", mbid = "09f33271-84e1-4b76-96bb-11007d68dae1" },
+]
+
+[[release]]
+mbid = "21684647-fe17-4a35-bc6c-a15aaa4f49c3"
+title = "Train in Vain / Bankrobber"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "Train in Vain", mbid = "e0cf6219-a871-44ca-af9a-f073dfa6c795" },
+  { n = 2, title = "Bankrobber", mbid = "8293124f-d484-44e3-ad5b-e2cc2cf8dec5" },
+  { n = 3, title = "Rockers Galore… UK Tour", mbid = "77186df6-49c7-4b54-ad86-ce560239ccf2" },
+]
+
+[[release]]
+mbid = "69ccba00-06b2-3d4a-a4cf-b93322e424bb"
+title = "Bankrobber"
+type = "single"
+date = "1980-08-08"
+tracks = [
+  { n = 1, title = "Bankrobber", mbid = "8293124f-d484-44e3-ad5b-e2cc2cf8dec5" },
+  { n = 2, title = "Rockers Galore…UK Tour", mbid = "7c9d4991-44a0-4204-80c4-bcf5c13982a2" },
+]
+
+[[release]]
+mbid = "ac8d6240-bdba-32b5-9052-bfa309c0f303"
+title = "The Call Up"
+type = "single"
+date = "1980-11-28"
+tracks = [
+  { n = 1, title = "The Call Up", mbid = "c9c4bd69-3144-41c4-add0-f9069a65bd49" },
+  { n = 2, title = "Stop the World", mbid = "21edfdbb-cafa-453c-b531-07c4f813f680" },
+]
+
+[[release]]
+mbid = "ff729e76-b7c5-3877-bf7d-bbad4fde43cb"
+title = "Sandinista!"
+type = "album"
+date = "1980-12-12"
+spotify = "2UxN3UKyS3Z5r0Sra8A5RF"
+tracks = [
+  { disc = 1, n = 1, title = "The Magnificent Seven", mbid = "860a7ffb-6226-47df-978f-af31436973c3" },
+  { disc = 1, n = 2, title = "Hitsville U.K.", mbid = "14dbe031-4628-4e65-a0df-7771259ff055" },
+  { disc = 1, n = 3, title = "Junco Partner", mbid = "da517274-fdfb-42d1-8388-60b59fc16e32" },
+  { disc = 1, n = 4, title = "Ivan Meets G.I. Joe", mbid = "2c63d322-33b7-42d1-a854-e7157e2f86d4" },
+  { disc = 1, n = 5, title = "The Leader", mbid = "2043c83e-f4a1-4151-ab3d-a2541bcf0461" },
+  { disc = 1, n = 6, title = "Something About England", mbid = "9abb5539-46f2-4e0f-aaf0-d2f4a8696b68" },
+  { disc = 1, n = 7, title = "Rebel Waltz", mbid = "44e8f032-9577-4d43-9652-20b8be8f6dbc" },
+  { disc = 1, n = 8, title = "Look Here", mbid = "f3c0702a-0654-4e18-9056-5f74b34753b3" },
+  { disc = 1, n = 9, title = "The Crooked Beat", mbid = "09f33271-84e1-4b76-96bb-11007d68dae1" },
+  { disc = 1, n = 10, title = "Somebody Got Murdered", mbid = "bbed1101-6855-4535-8f21-b4a4a5cffe34" },
+  { disc = 1, n = 11, title = "One More Time", mbid = "3236f044-c66a-4c81-b876-d7037a2ac70d" },
+  { disc = 1, n = 12, title = "One More Dub", mbid = "7c2821ec-b7e2-4f6d-9424-8f5769cc8285" },
+  { disc = 1, n = 13, title = "Lightning Strikes (Not Once but Twice)", mbid = "bcc1d276-b1ea-4884-a044-8b75b60410d2" },
+  { disc = 1, n = 14, title = "Up in Heaven (Not Only Here)", mbid = "a29478c7-688a-4fc3-8eb7-844850ca9e92" },
+  { disc = 1, n = 15, title = "Corner Soul", mbid = "ad7cc1ad-f696-4477-b1dc-1c37e9591db0" },
+  { disc = 1, n = 16, title = "Lets Go Crazy", mbid = "9edcac18-82d3-4aea-a585-1d042f919e2b" },
+  { disc = 1, n = 17, title = "If Music Could Talk", mbid = "0326a595-7393-4352-9eae-5ae8147f97f9" },
+  { disc = 1, n = 18, title = "The Sound of Sinners", mbid = "8462a150-a5d3-48b4-82c9-28c3bc1103d9" },
+  { disc = 2, n = 1, title = "Police on My Back", mbid = "23a7407f-e24d-419b-8280-0b518fd4f350" },
+  { disc = 2, n = 2, title = "Midnight Log", mbid = "6e55ceed-a61c-4f2d-a9e2-ba6b7fc27c8c" },
+  { disc = 2, n = 3, title = "The Equaliser", mbid = "4fda8279-7487-45a0-a4e7-69ba358fa000" },
+  { disc = 2, n = 4, title = "The Call Up", mbid = "a2ab2c42-7754-422f-930e-2fb8dd409df1" },
+  { disc = 2, n = 5, title = "Washington Bullets", mbid = "a3e36a58-7f25-43fe-a603-91365e4b4fa7" },
+  { disc = 2, n = 6, title = "Broadway", mbid = "304cd9d1-2ce1-4b41-a251-e2f48e03fba4" },
+  { disc = 2, n = 7, title = "Lose This Skin", mbid = "0d8c8c05-4e8e-477c-9ca3-877551d00019" },
+  { disc = 2, n = 8, title = "Charlie Don’t Surf", mbid = "1dd4e2c6-7944-42ae-89d1-8d2389e86ad5" },
+  { disc = 2, n = 9, title = "Mensforth Hill", mbid = "29eb15f1-b7ec-4e3e-b132-03b041e8dd67" },
+  { disc = 2, n = 10, title = "Junkie Slip", mbid = "2a33b642-80fc-4798-920a-e39dbeee75f7" },
+  { disc = 2, n = 11, title = "Kingston Advice", mbid = "ed043b7d-8478-4615-a0a6-4c9964bf78c2" },
+  { disc = 2, n = 12, title = "The Street Parade", mbid = "de0bbd6d-75c5-45f3-92ea-99cbf2811f4a" },
+  { disc = 2, n = 13, title = "Version City", mbid = "f9fc1036-309c-4105-91c1-d665ea27c756" },
+  { disc = 2, n = 14, title = "Living in Fame", mbid = "1fad49d7-ac9c-4e97-a734-83c1b1e2aa77" },
+  { disc = 2, n = 15, title = "Silicone on Sapphire", mbid = "466532ae-42f6-4dfb-8bcf-b96e08d0e437" },
+  { disc = 2, n = 16, title = "Version Pardner", mbid = "acd9cfe3-a2c9-44eb-9438-8bb4a91b60d1" },
+  { disc = 2, n = 17, title = "Career Opportunities", mbid = "eb0ea6f1-f665-483e-ade4-28375ab77835" },
+  { disc = 2, n = 18, title = "Shepherds Delight", mbid = "23d48833-d093-4a86-b2a3-5887e88b6b0a" },
+]
+
+[[release]]
+mbid = "969e49df-f791-3633-b3f4-7ebaae264467"
+title = "The Magnificent Seven"
+type = "single"
+date = "1981-04-10"
+tracks = [
+  { n = 1, title = "The Magnificent Seven", mbid = "94741014-2b0c-48c4-8020-6699e215cc32" },
+  { n = 2, title = "The Magnificent Dance", mbid = "b37bb557-7ee9-40fe-8d44-881fde901c92" },
+]
+
+[[release]]
+mbid = "a6d65d46-f891-30c1-b1fe-af725e433b0f"
+title = "This Is Radio Clash"
+type = "single"
+date = "1981-11-20"
+tracks = [
+  { n = 1, title = "This Is Radio Clash", mbid = "bbf0b8c7-60f4-47d6-8959-888b50500ed7" },
+  { n = 2, title = "Radio Clash", mbid = "a108687f-dd6f-4d15-9619-1c6f1654fea7" },
+]
+
+[[release]]
+mbid = "fee52f46-49de-3b05-a9d7-86a729006f6b"
+title = "Know Your Rights"
+type = "single"
+date = "1982-04-23"
+tracks = [
+  { n = 1, title = "Know Your Rights", mbid = "e8fec072-d173-48d8-87c7-ade77df075cc" },
+  { n = 2, title = "First Night Back in London", mbid = "94b66b00-2c3c-44f3-a51f-5e24ad83964b" },
+]
+
+[[release]]
+mbid = "b1907b62-6aaf-3ea4-9895-b71234a0e5c1"
+title = "Combat Rock"
+type = "album"
+date = "1982-05-14"
+spotify = "1ZH5g1RDq3GY1OvyD0w0s2"
+tracks = [
+  { n = 1, title = "Know Your Rights", mbid = "32e3027e-772c-455d-921d-a280f7afff0e" },
+  { n = 2, title = "Car Jamming", mbid = "cefaa0a1-3025-4c90-bcc2-e4be457abfaf" },
+  { n = 3, title = "Should I Stay or Should I Go", mbid = "266272ca-3a00-4364-b974-1aef7f1cc76d" },
+  { n = 4, title = "Rock the Casbah", mbid = "bc87a2e7-514a-4769-9aab-82db01792414" },
+  { n = 5, title = "Red Angel Dragnet", mbid = "70e6e673-4455-4072-a075-2f0aff4682f9" },
+  { n = 6, title = "Straight to Hell", mbid = "2ebbdd67-0faa-4cc1-97a2-9ea1859daa5d" },
+  { n = 7, title = "Overpowered by Funk", mbid = "97006e4a-9107-43d8-ac61-c6815b977bc8" },
+  { n = 8, title = "Atom Tan", mbid = "77a7e3cc-8101-488e-bd8a-ae9fe300f471" },
+  { n = 9, title = "Sean Flynn", mbid = "ebd7db53-b2d8-4ad6-9a3b-5195e7b0a2a2" },
+  { n = 10, title = "Ghetto Defendant", mbid = "a476a6d9-f2ef-4c4b-b293-237474a86568" },
+  { n = 11, title = "Inoculated City", mbid = "5ad97fb0-6f0d-463f-922e-c136d8d10fbb" },
+  { n = 12, title = "Death Is a Star", mbid = "1c621113-6c6b-4565-b9a4-e6a29e37b760" },
+]
+
+[[release]]
+mbid = "2d41304f-c1ed-318d-918d-0e335f51095e"
+title = "Rock the Casbah"
+type = "single"
+date = "1982-06-11"
+tracks = [
+  { n = 1, title = "Rock the Casbah", mbid = "bc87a2e7-514a-4769-9aab-82db01792414" },
+  { n = 2, title = "Mustapha Dance", mbid = "d8fdef73-068d-468e-8f99-07e9b0bdd557" },
+]
+
+[[release]]
+mbid = "680a8e86-eae4-32e1-9ca1-9101bc325e8d"
+title = "Should I Stay or Should I Go?"
+type = "single"
+date = "1982-09-17"
+tracks = [
+  { n = 1, title = "Should I Stay or Should I Go?", mbid = "266272ca-3a00-4364-b974-1aef7f1cc76d" },
+  { n = 2, title = "First Night Back in London", mbid = "53c2e7e9-59d9-4897-930a-9854bd7cb6fe" },
+]
+
+[[release]]
+mbid = "ec144641-58fb-4fd7-a0f3-1014bad69382"
+title = "Straight to Hell / Should I Stay or Should I Go?"
+type = "single"
+date = "1982-09-17"
+tracks = [
+  { n = 1, title = "Should I Stay or Should I Go?", mbid = "266272ca-3a00-4364-b974-1aef7f1cc76d" },
+  { n = 2, title = "Straight to Hell", mbid = "cfa4a47d-14d8-4cee-bb66-25f9cabfccaf" },
+]
+
+[[release]]
+mbid = "189b82a8-4d9b-4554-825d-85eb58565b77"
+title = "House of the Ju‐Ju Queen"
+type = "single"
+date = "1983"
+tracks = [
+  { n = 1, title = "House of the Ju‐Ju Queen", mbid = "e4e2d331-d714-4573-a34c-d0d67b742dd9" },
+  { n = 2, title = "Sex Machine", mbid = "bb82a7f5-c201-4f2f-b2f9-cba98406174a" },
+]
+
+[[release]]
+mbid = "7a538660-65bd-4ac0-8d81-8aaf19e4971e"
+title = "Are You Red..y"
+type = "single"
+date = "1985"
+tracks = [
+  { n = 1, title = "Are You Red..y", mbid = "a8bf2304-3368-4ac6-8ea3-95deeb872ef2" },
+  { n = 2, title = "Three Card Trick", mbid = "30ff31ac-2d01-4bf6-90a7-a1cba2b437e7" },
+]
+
+[[release]]
+mbid = "8c2f1caf-9a4b-3ebc-a6c8-502b7218b06c"
+title = "This Is England"
+type = "single"
+date = "1985-09-30"
+tracks = [
+  { n = 1, title = "This Is England", mbid = "212018ee-9678-463d-8683-6e1a63cc3963" },
+  { n = 2, title = "Do It Now", mbid = "a2a95055-9497-4c7b-ae18-4d9476b3f588" },
+  { n = 3, title = "Sex Mad Roar", mbid = "16cd4d38-3214-4d7c-8c21-2b8be81b22db" },
+]
+
+[[release]]
+mbid = "baa6b405-9291-39c1-9722-602c391dda81"
+title = "Cut the Crap"
+type = "album"
+date = "1985-11-04"
+tracks = [
+  { n = 1, title = "Dictator", mbid = "20eb5caf-8f4e-4b2b-a668-99abb740aafe" },
+  { n = 2, title = "Dirty Punk", mbid = "62287c5d-3da7-4abd-a3e1-a529d05b33ea" },
+  { n = 3, title = "We Are the Clash", mbid = "40fae834-9c3f-4607-a1d1-2a7c272b4f4f" },
+  { n = 4, title = "Are You Red..y", mbid = "a8bf2304-3368-4ac6-8ea3-95deeb872ef2" },
+  { n = 5, title = "Cool Under Heat", mbid = "ea80df7b-0e5c-4f28-9416-4bb715750d66" },
+  { n = 6, title = "Movers and Shakers", mbid = "ddf79ec7-59e9-4654-8578-fdb2bd0f65f9" },
+  { n = 7, title = "This Is England", mbid = "cda55b77-2954-477a-a45a-334b1e385886" },
+  { n = 8, title = "Three Card Trick", mbid = "30ff31ac-2d01-4bf6-90a7-a1cba2b437e7" },
+  { n = 9, title = "Play to Win", mbid = "ef22720d-4790-46fa-a98c-cf562a4bf7b9" },
+  { n = 10, title = "Fingerpoppin’", mbid = "d40f84cc-d4f7-41de-9123-67575f1be1b5" },
+  { n = 11, title = "North and South", mbid = "40f7b782-ca44-407c-b5ad-cf257ec3a651" },
+  { n = 12, title = "Life Is Wild", mbid = "f80a4051-7177-4b76-b041-e4064f191c31" },
+]
+
+[[release]]
+mbid = "7a5c67cb-79ae-318f-98c8-a3079cc9d97c"
+title = "I Fought the Law"
+type = "single"
+date = "1988-02-29"
+tracks = [
+  { n = 1, title = "I Fought the Law", mbid = "0deef0bb-87a9-496e-917b-96524d1679cc" },
+  { n = 2, title = "City of the Dead", mbid = "aa60c17e-8344-4f46-b639-98c388833a08" },
+  { n = 3, title = "Police on My Back", mbid = "044cc439-f0a7-44ec-b590-e002ba26a04f" },
+  { n = 4, title = "48 Hours", mbid = "21a79a7e-36d6-4b35-b9bd-3db0ca8dfb0d" },
+]
+
+[[release]]
+mbid = "d7f52b14-ee05-3237-8fd8-7de2bbfabe25"
+title = "Return to Brixton"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "Return to Brixton", mbid = "77215c83-2489-44f0-88e6-33f810521cba" },
+  { n = 2, title = "Return to Brixton (extended mix)", mbid = "a5399851-72a7-4bff-bd66-f50bdf46cbf8" },
+  { n = 3, title = "Return to Brixton (SW2 Dub)", mbid = "64b00344-c310-47f4-8e8b-a1b675cb0e32" },
+  { n = 4, title = "The Guns of Brixton", mbid = "6653886f-7d45-40bd-bb6c-51cc5895e022" },
+]
+
+[[release]]
+mbid = "6e874e83-9903-30ab-b2a3-400fc9b193d8"
+title = "Should I Stay or Should I Go? / Rush"
+type = "single"
+date = "1991-02-18"
+tracks = [
+  { n = 1, title = "Should I Stay or Should I Go?", mbid = "266272ca-3a00-4364-b974-1aef7f1cc76d" },
+  { n = 2, title = "Rush", mbid = "97b85c3e-917f-42f5-b11c-49baeee774cf" },
+]
+
+[[release]]
+mbid = "e78ac31b-b7ac-423c-be38-ed78b98c2ffb"
+title = "London Calling / Brand New Cadillac"
+type = "single"
+date = "1991-07-29"
+tracks = [
+  { n = 1, title = "London Calling", mbid = "8f7f788e-131e-406e-8276-84a0a9f04fa0" },
+  { n = 2, title = "Brand New Cadillac", mbid = "b65f155c-2d57-48fc-8a0e-ceca51bb5d7d" },
+]
+
+[[release]]
+mbid = "90fea4c4-c4f2-3bfc-96cf-654ba835b91d"
+title = "Train in Vain"
+type = "single"
+date = "1991-10-14"
+tracks = [
+  { n = 1, title = "Train in Vain", mbid = "e0cf6219-a871-44ca-af9a-f073dfa6c795" },
+  { n = 2, title = "The Right Profile", mbid = "4037fa0e-0497-4d59-b67c-50ddc9f05995" },
+  { n = 3, title = "Train in Vain (’91 7″ remix)", mbid = "59c475d9-2f24-4ed0-b10c-5dd2b2db751e" },
+  { n = 4, title = "Death or Glory", mbid = "abeb0916-5221-480d-b188-0c328d54b5ca" },
+]
+
+[[release]]
+mbid = "ab9068df-865a-4f99-9bd3-0036fee9917c"
+title = "Rock the Casbah"
+type = "single"
+date = "2022"
+tracks = [
+  { n = 1, title = "Rock the Casbah", mbid = "d44dfdc8-37cd-43b6-a70c-fd2f7125c216" },
+  { n = 2, title = "Red Angel Dragnet", mbid = "625cad98-4faa-4118-95d2-59c5084580a8" },
+]
