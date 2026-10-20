@@ -1,0 +1,181 @@
+format = 1
+artists = [
+  "835c8fb2-29e2-475c-8180-b8e79b76ef6b",  # Michel Cloup
+  "671970fb-8949-4dc0-946f-2a3b157c206b",  # Michel Cloup Duo
+]
+
+[[release]]
+mbid = "43408b63-3cd6-46a3-8f85-aa3e45f7cfd9"
+title = "Le Cercle parfait / Je te regarde dormir"
+type = "single"
+date = "2010-11"
+tracks = [
+  { n = 1, title = "Le Cercle parfait", mbid = "a8e3b4f8-3d2e-43c5-9a35-0993373a853b" },
+  { n = 2, title = "Je te regarde dormir", mbid = "17fea79d-261d-43f4-9b20-84c6354e0e39" },
+]
+
+[[release]]
+mbid = "0f704fd9-1cb7-452b-86c2-af14f6835ec3"
+title = "Notre silence"
+type = "album"
+date = "2011-06"
+tracks = [
+  { n = 1, title = "Mon histoire / Cette colère", mbid = "14a0dcf6-293e-4312-8f2e-7f9ecb9aa24d" },
+  { n = 2, title = "Le Cercle parfait", mbid = "b99f0915-43f2-4b48-9747-cb1166482c69" },
+  { n = 3, title = "L'Enfant", mbid = "60be62a3-5230-449c-8a37-7e77d9b6d12d" },
+  { n = 4, title = "Plusieurs fois cet après-midi", mbid = "2e6b191d-4ecf-40d0-ac65-e466939067b2" },
+  { n = 5, title = "Notre silence", mbid = "381c4546-e48c-496a-941c-7d3e941b8983" },
+  { n = 6, title = "Avant la fin / Un film américain", mbid = "3fb78f4c-a824-49c4-90a8-4cc36e55302b" },
+]
+
+[[release]]
+mbid = "f4865176-f415-40e4-8e18-25e60e4a439a"
+title = "Ville Nouvelle / Nouvelle Ville"
+type = "single"
+date = "2012-12-03"
+tracks = [
+  { n = 1, title = "Ville Nouvelle", mbid = "259b502a-3e99-4cf6-839b-d69641431f31" },
+  { n = 2, title = "Nouvelle Ville", mbid = "5a531604-e149-4f79-9d16-25420bc2c751" },
+]
+
+[[release]]
+mbid = "394f5aea-1527-4b38-b97f-7b51de81e5b1"
+title = "J’ai peur de nous"
+type = "single"
+date = "2013-06-17"
+tracks = [
+  { n = 1, title = "J’ai peur de nous", mbid = "4fd3b677-f004-4a59-90a7-04acdef5d8aa" },
+  { n = 2, title = "Vieux frère", mbid = "9c5f4d43-718a-485e-951b-750657fbe970" },
+]
+
+[[release]]
+mbid = "6074b3a3-9316-4489-93d2-7282002d9b4c"
+title = "Nous vieillirons ensemble"
+type = "single"
+date = "2013-09-14"
+tracks = [
+  { n = 1, title = "Nous vieillirons ensemble", mbid = "e4a005fb-dd77-4895-a4f8-0104fd264ad7" },
+  { n = 2, title = "Au milieu de nulle part", mbid = "77a30fd7-fcb0-4901-a676-4f853fb75d36" },
+]
+
+[[release]]
+mbid = "e6f6fe45-3759-4e53-b8c1-9c12706986d3"
+title = "Minuit dans tes bras"
+type = "album"
+date = "2014-01-27"
+spotify = "7zGpL2glAZ45U62zQyvnhm"
+tracks = [
+  { n = 1, title = "Minuit dans tes bras", mbid = "5f92579d-8be8-4d79-bbee-e0db4ec4128c" },
+  { n = 2, title = "J’ai peur de nous", mbid = "4fd3b677-f004-4a59-90a7-04acdef5d8aa" },
+  { n = 3, title = "Sortir boire et tomber", mbid = "5dedfed3-73e6-4e4f-aa17-875ebd431734" },
+  { n = 4, title = "Coma", mbid = "7733024d-8481-490a-8cea-007664debc76" },
+  { n = 5, title = "Ma vieille cicatrice", mbid = "20fb2d25-d3a5-49fe-811d-bd2c1717a02f" },
+  { n = 6, title = "Minuit dans tes bras #2", mbid = "08662c5c-1c73-46ea-8491-24d4ee1e9120" },
+  { n = 7, title = "Nous vieillirons ensemble", mbid = "e4a005fb-dd77-4895-a4f8-0104fd264ad7" },
+]
+
+[[release]]
+mbid = "93aee580-312f-4f34-9bc1-ba0e125856f6"
+title = "Ici et là‐bas"
+type = "album"
+date = "2016-04-01"
+tracks = [
+  { n = 1, title = "Qui je suis", mbid = "52b71fd2-c3b4-4c20-9118-a1b280762f40" },
+  { n = 2, title = "La classe ouvrière s'est enfuie", mbid = "389950c6-a53d-4cce-9081-cf9330535d8a" },
+  { n = 3, title = "Ici et là-bas", mbid = "2c669708-7cb3-4902-ac1c-5a265f865fc8" },
+  { n = 4, title = "Deux minutes vingt-cinq", mbid = "d0053121-b980-45bd-afbc-7353cec39b30" },
+  { n = 5, title = "Nous qui n'arrivons plus à dire nous", mbid = "e17256b3-6c5b-4545-a58e-32c8b9dba844" },
+  { n = 6, title = "Animal blessé", mbid = "461da2ce-895a-43db-a13f-234c9fb1554e" },
+  { n = 7, title = "D32W", mbid = "1bd4b91f-d2f8-4639-be85-f6c16c1ffd9e" },
+  { n = 8, title = "Séparer", mbid = "9ea4bb10-5cfc-49a7-9484-9c9041c3a011" },
+  { n = 9, title = "Nouveau en ville", mbid = "82002c28-247a-42ff-9c4a-66cb95f02f6f" },
+  { n = 10, title = "Étranger", mbid = "65008004-1238-4f1d-a66a-82f14dfc4a1b" },
+  { n = 11, title = "Une adresse en Italie", mbid = "e381be96-17ef-4ead-97d5-8c62a3e6a7d1" },
+]
+
+[[release]]
+mbid = "5eb44460-633a-4138-994d-c1ea903521d1"
+title = "États des lieux intérieurs"
+type = "album"
+date = "2017-12-11"
+tracks = [
+  { n = 1, title = "Dernière visite", mbid = "8c7cf25a-707f-4a89-b6f3-2bfc39e4e6ec" },
+  { n = 2, title = "Une autre année", mbid = "4fcf7e02-1f94-42cc-9573-d9bea4550d6c" },
+  { n = 3, title = "Dans ma tête", mbid = "7f1bdec1-45a8-43d9-a9c3-2adf003542fc" },
+  { n = 4, title = "Ces images", mbid = "35d74e0a-fe0a-4211-bc66-7b8e02b80d92" },
+  { n = 5, title = "Une voix", mbid = "a0a1c973-8bdb-468a-a76f-883b6d20a231" },
+  { n = 6, title = "Amour / Fiction", mbid = "0222e618-aaa1-4183-a757-57ae434b7c82" },
+  { n = 7, title = "Et mes souvenirs dans tout ça ?", mbid = "f84d62f5-4d6a-40b7-89aa-ee31c2e6b185" },
+  { n = 8, title = "Sedétacher 2017", mbid = "f3012416-4903-4991-9769-bb85c1d59bf1" },
+  { n = 9, title = "On continue", mbid = "060d9b2e-475c-4bdf-9226-2314b4624015" },
+]
+
+[[release]]
+mbid = "09f2600d-9994-4e78-a764-8a2c94fa5781"
+title = "Danser danser danser sur les ruines"
+type = "album"
+date = "2019-03-29"
+tracks = [
+  { n = 1, title = "Gagnants", mbid = "9f6e3cd7-92a6-45d3-9cbd-9ccd10b16496" },
+  { n = 2, title = "Amnésiques heureux", mbid = "98c4f818-07a3-4f47-be0c-82018a73b5da" },
+  { n = 3, title = "Les Invisibles", mbid = "0c13aad4-ce37-43e8-b2ce-6c8e3de47e76" },
+  { n = 4, title = "Le futur dans tes yeux", mbid = "9b2c3196-9b37-4787-925c-b297f79d3369" },
+  { n = 5, title = "En ne pensant à rien", mbid = "09751d82-0b0d-4892-a9cb-28baaeb36ed8" },
+  { n = 6, title = "Le jour d'après, celui qui suit", mbid = "a12c7351-b806-48af-a4b0-bb507f1071f2" },
+  { n = 7, title = "Et bien au‐delà", mbid = "74b613ac-0a5e-416b-8aaa-f275c7af7f04" },
+  { n = 8, title = "Les vrais héros ne meurent jamais", mbid = "b32eb9be-c12e-47c2-abaa-9464025439c4" },
+  { n = 9, title = "Nous perdre dans nos rires", mbid = "9e1f4b5d-5a33-4158-b33e-ad7f2b004877" },
+]
+
+[[release]]
+mbid = "5a030dff-a79d-4350-8ef9-6f96167b2f2f"
+title = "BLEU BLEU"
+type = "single"
+date = "2020-05-22"
+tracks = [
+  { n = 1, title = "Bleu Bleu (Thème)", mbid = "99b10b7f-024e-4e21-97de-4ef1fc6c0de0" },
+  { n = 2, title = "Le goût du sang", mbid = "2e618883-ea34-4bd5-bdf9-2f339ae59587" },
+]
+
+[[release]]
+mbid = "2317b351-4049-4901-bea8-fe232ad15b1d"
+title = "À la ligne - chansons d'usine"
+type = "album"
+date = "2020-12-11"
+tracks = [
+  { n = 1, title = "C'est fantastique", mbid = "f48a9469-22a5-4ce5-a23d-18ae35befed7" },
+  { n = 2, title = "À la chaine", mbid = "833ae2f1-424a-4102-8ee8-d50871ee169b" },
+  { n = 3, title = "La lumière des néons", mbid = "da4475cb-1c77-4f84-8ab7-f687fc709e2b" },
+  { n = 4, title = "Travailleurs de l'usine", mbid = "2ba5532a-c03f-43b2-a04c-e9e87707cdeb" },
+  { n = 5, title = "Le tofu", mbid = "37d9ebcb-9463-4292-88f9-d8c14b72a9e4" },
+  { n = 6, title = "Le week-end", mbid = "8488f97f-ef71-436b-a7e1-5a663fc57e75" },
+  { n = 7, title = "Les Bulots", mbid = "f0d7f990-8924-42eb-a098-c9b7ec6fb4f3" },
+  { n = 8, title = "À l'abattoir", mbid = "d7a3ad33-5825-4d67-8fbe-44b1b1a393de" },
+  { n = 9, title = "Penser à autre chose", mbid = "f860d8f1-5519-459b-b7a4-41bed49c331f" },
+  { n = 10, title = "À l'abattoir 2", mbid = "4e52bd9d-c241-4455-9a43-e2ff29c9257d" },
+  { n = 11, title = "Pok Pok", mbid = "9765cc54-0798-431d-9619-fbd0b7d4ae45" },
+  { n = 12, title = "À l'abattoir 3", mbid = "b0343db2-ca4b-43aa-b485-bb66dfed4d56" },
+  { n = 13, title = "La pause", mbid = "7269e539-ec8d-4eaa-b9c0-9f34a402ffd9" },
+  { n = 14, title = "La nuit", mbid = "16a467fc-e02d-4e62-8acf-626a97658296" },
+  { n = 15, title = "Cauchemars", mbid = "e3bcbc21-1b28-4874-914f-e9bed0a4647b" },
+  { n = 16, title = "A la ligne", mbid = "9d90dd19-7fd4-4a12-9ef8-a0b042db5a41" },
+  { n = 17, title = "Il y'a", mbid = "500af96c-caa3-4ffd-bb90-760df61b2a62" },
+]
+
+[[release]]
+mbid = "a6b8b09f-bca0-4692-b5c2-4d5e85e926c0"
+title = "Backflip au-dessus du chaos"
+type = "album"
+date = "2022-11-18"
+tracks = [
+  { n = 1, title = "En attendant demain", mbid = "edd8f598-0795-4c4e-941d-6ae5fd965820" },
+  { n = 2, title = "Mon ambulance", mbid = "9065389f-e130-47f3-bebf-04d7bd448355" },
+  { n = 3, title = "Introspection", mbid = "813ab2e6-237b-400d-bc6c-ab65bfffa8a6" },
+  { n = 4, title = "Brûle Brûle Brûle", mbid = "1b7e91e5-0543-43b3-ac11-97758f9b84ca" },
+  { n = 5, title = "Lâcher prise", mbid = "2191126e-3dde-47ba-827c-1f2db5eca81c" },
+  { n = 6, title = "Résurrection", mbid = "15d75452-c8be-41cc-bc8a-dcd7a6002f8f" },
+  { n = 7, title = "Dix ans", mbid = "c1d2ad93-adb7-493f-977b-41fcb9c58412" },
+  { n = 8, title = "Vieillir", mbid = "6019b8a9-75ef-479e-bc91-44d6612f2013" },
+  { n = 9, title = "Ciao bye bye", mbid = "0e422065-c4a2-4f16-a844-634a00271936" },
+  { n = 10, title = "L’internationale 2022", mbid = "7a204930-3b32-4a4f-b09c-ee99641c6bc7" },
+]

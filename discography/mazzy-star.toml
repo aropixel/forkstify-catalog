@@ -1,0 +1,237 @@
+format = 1
+
+[[release]]
+mbid = "328f73a5-37d1-35cc-8538-f880f4f18520"
+title = "She Hangs Brightly"
+type = "album"
+date = "1990-05-21"
+spotify = "2ZAcLWdHBHrdybwws1PVuA"
+tracks = [
+  { n = 1, title = "Halah", mbid = "6679e4a0-9721-45ab-9e6f-cad2305fb526" },
+  { n = 2, title = "Blue Flower", mbid = "932df3fe-0aa8-4fff-ad75-7d5fc9171d15" },
+  { n = 3, title = "Ride It On", mbid = "d36aec38-f8e8-4f44-bde4-2e6dee8545b4" },
+  { n = 4, title = "She Hangs Brightly", mbid = "7350481b-1e39-4420-89a4-637db7931b09" },
+  { n = 5, title = "I'm Sailin'", mbid = "2c78de52-71c7-4036-b41a-8422e75ebfeb" },
+  { n = 6, title = "Give You My Lovin'", mbid = "da3f6cab-f758-44b5-9ba4-726977508f69" },
+  { n = 7, title = "Be My Angel", mbid = "c81cdd17-3f59-4f43-8484-b25a0e2e5e36" },
+  { n = 8, title = "Taste of Blood", mbid = "521d2832-72ce-427f-9004-7e4d7a1a85ae" },
+  { n = 9, title = "Ghost Highway", mbid = "2b4e302b-1a86-4763-9cf3-e361d554a255" },
+  { n = 10, title = "Free", mbid = "9d14c3e6-0b42-4347-b4fc-29722999091f" },
+  { n = 11, title = "Before I Sleep", mbid = "ad751072-6918-44ac-863d-63b58674cc72" },
+]
+
+[[release]]
+mbid = "081fabdc-d422-429d-a562-e7c4617076f9"
+title = "Fade Into You"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Fade Into You", mbid = "2fb9bc6b-d4da-497e-ad3f-fabf12fe72cf" },
+  { n = 2, title = "Blue Flower", mbid = "97bf9a04-7bd0-471e-ba1f-59e4e5d800df" },
+  { n = 3, title = "I'm Gonna Bake My Biscuit", mbid = "c38d1f1c-2659-48f0-ade2-795750fed9ef" },
+]
+
+[[release]]
+mbid = "e212f022-9444-4f8b-be85-a4c3013c0f20"
+title = "She's My Baby"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "She's My Baby", mbid = "f0312c5f-2b4c-4c81-a907-3fd30e13ef8b" },
+  { n = 2, title = "Fade Into You", mbid = "2fb9bc6b-d4da-497e-ad3f-fabf12fe72cf" },
+]
+
+[[release]]
+mbid = "28547342-32ab-4f21-bc01-6e8b6afc6b60"
+title = "Five String Serenade"
+type = "single"
+date = "1993-06"
+tracks = [
+  { n = 1, title = "Five String Serenade", mbid = "bfa49855-e85f-4931-a85d-95b1e2c8d06f" },
+  { n = 2, title = "Under My Car", mbid = "27b4d3be-7bb5-46c5-b18e-191b5fd51ceb" },
+]
+
+[[release]]
+mbid = "2863caa0-14e9-3016-83e4-4f0cdab55f4f"
+title = "So Tonight That I Might See"
+type = "album"
+date = "1993-09-27"
+spotify = "5K18gTgac0q6Jma5HkV1vA"
+tracks = [
+  { n = 1, title = "Fade Into You", mbid = "2fb9bc6b-d4da-497e-ad3f-fabf12fe72cf" },
+  { n = 2, title = "Bells Ring", mbid = "b33907cf-96b8-4cd3-abcc-e42a91b01376" },
+  { n = 3, title = "Mary of Silence", mbid = "8ae6da7e-9e85-4bfa-9416-5e1a4bf57750" },
+  { n = 4, title = "Five String Serenade", mbid = "bfa49855-e85f-4931-a85d-95b1e2c8d06f" },
+  { n = 5, title = "Blue Light", mbid = "3d7fc05a-49e1-4256-8764-38a20f03b024" },
+  { n = 6, title = "She’s My Baby", mbid = "f0312c5f-2b4c-4c81-a907-3fd30e13ef8b" },
+  { n = 7, title = "Unreflected", mbid = "d19afe1c-bb9d-44f0-9e56-931c38fa03cd" },
+  { n = 8, title = "Wasted", mbid = "8fb1bbf5-eb41-4ed6-8e30-ca10b54882b9" },
+  { n = 9, title = "Into Dust", mbid = "90a1beeb-713b-4a63-974c-5d6248f472e9" },
+  { n = 10, title = "So Tonight That I Might See", mbid = "08d7f4b7-592a-4853-8146-e2ee3dec21db" },
+]
+
+[[release]]
+mbid = "b0708e63-3444-4dad-ab0b-4616a005ecaa"
+title = "Halah / She’s My Baby"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Halah", mbid = "6679e4a0-9721-45ab-9e6f-cad2305fb526" },
+  { n = 2, title = "She’s My Baby", mbid = "f0312c5f-2b4c-4c81-a907-3fd30e13ef8b" },
+  { n = 3, title = "Fade Into You", mbid = "2fb9bc6b-d4da-497e-ad3f-fabf12fe72cf" },
+  { n = 4, title = "Five String Serenade", mbid = "bfa49855-e85f-4931-a85d-95b1e2c8d06f" },
+]
+
+[[release]]
+mbid = "a9a3edd3-a7e2-3551-9771-0f7d6fe55ae1"
+title = "Flowers in December"
+type = "single"
+date = "1996"
+tracks = [
+  { disc = 1, n = 1, title = "Flowers in December", mbid = "07b7c84f-187c-4061-8358-63b9fb2644e6" },
+  { disc = 1, n = 2, title = "Tell Your Honey", mbid = "f0faf7a5-7adf-4f34-9322-55b01acc8eb3" },
+  { disc = 1, n = 3, title = "Hair and Skin", mbid = "85198033-27f3-46b8-8421-af4c96dd59ee" },
+  { disc = 2, n = 1, title = "Flowers in December", mbid = "07b7c84f-187c-4061-8358-63b9fb2644e6" },
+  { disc = 2, n = 2, title = "Ride It On (live)", mbid = "2f2026df-16e7-472d-8b1c-f2bdbb42fc03" },
+  { disc = 2, n = 3, title = "Had a Thought", mbid = "3c07d423-75df-465c-ad31-6a163d016450" },
+]
+
+[[release]]
+mbid = "2532c4a0-9253-4dbc-8108-ddafaff09dff"
+title = "I've Been Let Down"
+type = "single"
+date = "1996-10"
+tracks = [
+  { n = 1, title = "I've Been Let Down", mbid = "81a9c10f-bc80-44d6-857d-768c3813d9c7" },
+  { n = 2, title = "Roseblood", mbid = "bb2aad87-f354-4d92-ad3f-7498973f1570" },
+]
+
+[[release]]
+mbid = "966a02cf-fc62-3abc-8560-c60ce115efed"
+title = "Among My Swan"
+type = "album"
+date = "1996-10-29"
+spotify = "4mhpbf7jYc0L1nBceoebIE"
+tracks = [
+  { n = 1, title = "Disappear", mbid = "c0921c11-4a2e-4057-9156-7c44b6ef42cd" },
+  { n = 2, title = "Flowers in December", mbid = "07b7c84f-187c-4061-8358-63b9fb2644e6" },
+  { n = 3, title = "Rhymes of an Hour", mbid = "b42bddb0-0956-4d8b-80d8-b8cccd61d3e7" },
+  { n = 4, title = "Cry, Cry", mbid = "445e1164-3165-4ad5-99e7-d3d77f72cca3" },
+  { n = 5, title = "Take Everything", mbid = "520e2ef1-3775-4c54-a41b-3df1762141d0" },
+  { n = 6, title = "Still Cold", mbid = "0c86f7ca-0d01-4fc2-83ee-8ce1e4584ee1" },
+  { n = 7, title = "All Your Sisters", mbid = "13e51675-fab9-45c0-b75c-68f4ad745c65" },
+  { n = 8, title = "I've Been Let Down", mbid = "81a9c10f-bc80-44d6-857d-768c3813d9c7" },
+  { n = 9, title = "Roseblood", mbid = "bb2aad87-f354-4d92-ad3f-7498973f1570" },
+  { n = 10, title = "Happy", mbid = "19afcc0a-3ac8-4b84-bb2b-026b607f46bc" },
+  { n = 11, title = "Umbilical", mbid = "67f98acf-845c-4e66-adeb-c6f3ec9147d3" },
+  { n = 12, title = "Look on Down From the Bridge", mbid = "68c352ba-85e2-444d-a7bf-4e407fa871a1" },
+]
+
+[[release]]
+mbid = "c83be0a5-4e28-485d-8041-8a4ce286b79f"
+title = "Deep Cuts"
+type = "ep"
+date = "2009-06-16"
+spotify = "2H2VfNsm02WcWBZrGhrzOY"
+tracks = [
+  { n = 1, title = "Bells Ring (acoustic version)", mbid = "95960cc6-9cd4-4970-bb03-b095eaad3b99" },
+  { n = 2, title = "I'm Gonna Bake My Biscuit", mbid = "c38d1f1c-2659-48f0-ade2-795750fed9ef" },
+  { n = 3, title = "Under My Car", mbid = "27b4d3be-7bb5-46c5-b18e-191b5fd51ceb" },
+  { n = 4, title = "Hair and Skin", mbid = "8b6bd37e-eecb-44da-80a5-07c4413432fc" },
+]
+
+[[release]]
+mbid = "78522788-404b-4df8-9221-5fb1bc7d0799"
+title = "Common Burn"
+type = "single"
+date = "2011-10-24"
+tracks = [
+  { n = 1, title = "Common Burn", mbid = "10aef0c5-e188-4589-8376-0ee2501ba494" },
+]
+
+[[release]]
+mbid = "09000437-0e03-4536-a1d7-5f4627542e5c"
+title = "California"
+type = "single"
+date = "2013-08-20"
+tracks = [
+  { n = 1, title = "California", mbid = "e3975687-fbc5-48dc-86d8-0d44177ad208" },
+]
+
+[[release]]
+mbid = "e073708a-d2f6-412a-8d35-817be8794bed"
+title = "Seasons of Your Day"
+type = "album"
+date = "2013-09-23"
+spotify = "38Eb5LBD8yO5KbMYVUQQZp"
+tracks = [
+  { n = 1, title = "In the Kingdom", mbid = "82ad5404-dc93-4a18-aa76-9bb903969326" },
+  { n = 2, title = "California", mbid = "e3975687-fbc5-48dc-86d8-0d44177ad208" },
+  { n = 3, title = "I’ve Gotta Stop", mbid = "623ef0d0-db5d-493f-bd42-5df6cbae1d90" },
+  { n = 4, title = "Does Someone Have Your Baby Now?", mbid = "601ad05e-18fe-42f7-b850-a8f83b5a37fa" },
+  { n = 5, title = "Common Burn", mbid = "10aef0c5-e188-4589-8376-0ee2501ba494" },
+  { n = 6, title = "Seasons of Your Day", mbid = "d713cbee-5c66-4126-8943-4b7d13759d0f" },
+  { n = 7, title = "Lay Myself Down", mbid = "84f5ba12-7000-472f-a919-be3d93f7497b" },
+  { n = 8, title = "Sparrow", mbid = "c337b290-2a86-4664-be5d-54d65c9d6c58" },
+  { n = 9, title = "Spoon", mbid = "a9d187f5-174c-4132-b774-b8cbaad6d2ed" },
+  { n = 10, title = "Flying Low", mbid = "738fbea0-93d1-41f0-9035-7d0a5c56a5e7" },
+]
+
+[[release]]
+mbid = "17a4f42c-f30c-41b6-b1b8-d7efe8a93265"
+title = "Seasons of Your Day"
+type = "single"
+date = "2013-10-28"
+tracks = [
+  { n = 1, title = "Seasons of Your Day", mbid = "d713cbee-5c66-4126-8943-4b7d13759d0f" },
+  { n = 2, title = "Sparrow", mbid = "c337b290-2a86-4664-be5d-54d65c9d6c58" },
+]
+
+[[release]]
+mbid = "d32b4ab3-d71b-4e25-93c3-623a42c321c9"
+title = "I’m Less Here"
+type = "single"
+date = "2014-04-19"
+tracks = [
+  { n = 1, title = "I'm Less Here", mbid = "bacd472b-18b1-4932-9fcf-081907548330" },
+  { n = 2, title = "Things", mbid = "d0837424-cc63-4243-aa27-9508f9870be7" },
+]
+
+[[release]]
+mbid = "70434b30-df82-47e2-acc6-901bd75f7909"
+title = "Quiet, The Winter Harbor"
+type = "single"
+date = "2018-04-17"
+spotify = "1RUswUliHdQJcBoydEd059"
+tracks = [
+  { n = 1, title = "Quiet, The Winter Harbor", mbid = "6a6ac233-e278-434c-b29f-604601d56d9e" },
+]
+
+[[release]]
+mbid = "b88045ea-7a5e-4a7d-b55c-24d3d160d9a8"
+title = "Still"
+type = "ep"
+date = "2018-06-01"
+spotify = "4bpU9t9wzqJcIg40bmMf3K"
+tracks = [
+  { n = 1, title = "Quiet, the Winter Harbor", mbid = "6a6ac233-e278-434c-b29f-604601d56d9e" },
+  { n = 2, title = "That Way Again", mbid = "882f966b-806e-4e49-b198-e31e7f151b76" },
+  { n = 3, title = "Still", mbid = "49e112bf-72b9-4ff5-8074-786c90339c6c" },
+  { n = 4, title = "So Tonight That I Might See (Ascension version)", mbid = "0c9e4831-eb4a-41a2-aa6f-ffc41f18891e" },
+]
+
+[[release]]
+mbid = "982446d1-30f6-4a14-85c6-3d5c2d10deb4"
+title = "Into Dust"
+type = "ep"
+date = "2018-08-31"
+tracks = [
+  { n = 1, title = "Bells Ring", mbid = "5f9791e0-04a7-4798-8bfd-c84e42776852" },
+  { n = 2, title = "Into Dust", mbid = "0a105484-3430-4224-b7ea-bed949466f31" },
+  { n = 3, title = "Halah", mbid = "810c113e-9eb6-479f-909c-36e91569b6d8" },
+  { n = 4, title = "Flowers in December (live)", mbid = "0d6e32c5-e5b7-4b62-b34a-3b290dd27adf" },
+  { n = 5, title = "Bells Ring (live)", mbid = "0452058a-6125-4442-a0f5-e7975be7324f" },
+  { n = 6, title = "Blue Flower (live)", mbid = "94b91f66-cbe6-400c-8d95-de96b9e60115" },
+  { n = 7, title = "Halah (live)", mbid = "82f57497-1b54-4ee2-89bc-40c770121784" },
+  { n = 8, title = "So Tonight That I Might See (live)", mbid = "f119cdef-931c-4013-8e22-80db16f0dfd1" },
+]

@@ -1,0 +1,322 @@
+format = 1
+
+[[release]]
+mbid = "12b082e9-1713-3aa4-b9de-accdd9479c06"
+title = "Parla patois"
+type = "album"
+date = "1992"
+spotify = "1TAMPSM0py0mZ9YtrSX6r1"
+tracks = [
+  { n = 1, title = "Ara lo trobar es dins la dansa", mbid = "da593fbb-be04-4143-9f10-7ee73e56676b" },
+  { n = 2, title = "Lo òai", mbid = "a6f8704f-b729-4b89-9c90-195c5a857222" },
+  { n = 3, title = "Joyeux voyous", mbid = "48293f72-4a8c-44bc-841d-4f2ec420c018" },
+  { n = 4, title = "Canon es canon", mbid = "01b52deb-8c23-45c8-ae3e-7e34f860fd1d" },
+  { n = 5, title = "A la rasbalha", mbid = "24b9aebb-5da4-4d48-8ffb-7a79e228913d" },
+  { n = 6, title = "Violent", mbid = "682dbd79-37b9-4f45-aebc-4d4fb945aebd" },
+  { n = 7, title = "Reggae fadòli", mbid = "6c5e40bb-ba40-47bb-a216-101deda58727" },
+  { n = 8, title = "Rasbalha Dub", mbid = "c9167762-8268-4636-98a0-594bf3bc8eb4" },
+  { n = 9, title = "Parla patois", mbid = "930a2d39-1910-4394-a318-5e02c02ba2c4" },
+  { n = 10, title = "Connais-tu ces mecs ?", mbid = "7786e3b4-21ea-4929-93b3-7abe47ee63b9" },
+  { n = 11, title = "Fai pa lo morre", mbid = "c253792f-b893-46af-8f2c-a22ce11523d9" },
+  { n = 12, title = "Stòp the cònò", mbid = "edf0f53f-070f-46b5-bc53-8a14ffa98b54" },
+  { n = 13, title = "P.I.I.M., Part 2", mbid = "3e38fb14-eff3-408a-9b45-eea9a42cc9d5" },
+  { n = 14, title = "Canti, as, a", mbid = "cdce7e11-0bf7-49ec-beb3-704d9b591a62" },
+  { n = 15, title = "Parla Dub", mbid = "a57c7b73-7602-4ec2-8d5a-cd18f088c981" },
+]
+
+[[release]]
+mbid = "863603ae-962c-35ec-84df-a4ce98a6e98f"
+title = "Violent"
+type = "ep"
+date = "1992"
+tracks = [
+  { n = 1, title = "Violent", mbid = "55d91b1a-769a-4428-a145-e0858acc8b57" },
+  { n = 2, title = "Reggae Fadou", mbid = "2ffe5516-c951-4563-8078-87dd452f8c5b" },
+  { n = 3, title = "Fada Dub", mbid = "ac5d2ef6-b5dc-4f3e-bc2d-0b99ad56f1f1" },
+  { n = 4, title = "Qu'elle est bleue", mbid = "be98fc4d-b0b4-42c6-886e-922edb80c980" },
+  { n = 5, title = "Lo Trobar reven", mbid = "7933d5a4-307b-4cb9-8f05-25c0880ac7db" },
+  { n = 6, title = "Trobar Dub", mbid = "2e5c9f96-268b-467c-a015-d9a93d5e322a" },
+]
+
+[[release]]
+mbid = "d55607ac-e1ff-387e-b08a-c95adccb8557"
+title = "Chourmo !"
+type = "album"
+date = "1993"
+spotify = "4aRg30dSTWYMN1U5T6AbxA"
+tracks = [
+  { n = 1, title = "Aqui...", mbid = "60a9e1fb-0cf4-4896-b065-602a8257e7b1" },
+  { n = 2, title = "Disèm facèm", mbid = "d0aa29a4-93dd-4ac2-9c07-9a3e268f2a98" },
+  { n = 3, title = "Vetz T.", mbid = "cd41e4ae-025d-4123-ab32-a3d1c0fb0013" },
+  { n = 4, title = "Bus de nuit", mbid = "9706ea50-5e2b-4ba7-b7e6-a9488b389b3e" },
+  { n = 5, title = "Lo trobar reven", mbid = "629fe4a1-275d-49ea-acd7-030384baa49d" },
+  { n = 6, title = "Tafanari", mbid = "55c2b813-709e-4120-aac5-7045261793af" },
+  { n = 7, title = "A la comedia provençala", mbid = "17f59100-01f6-4df2-a13d-173cb2552dfd" },
+  { n = 8, title = "Electronaria", mbid = "e57f223a-3745-4bd4-b8cc-4c3d73975c58" },
+  { n = 9, title = "Trobador", mbid = "8bc4fb65-b0b0-476e-8066-0697cafdab63" },
+  { n = 10, title = "Tribute to Peire Vidal", mbid = "b0831c01-6f7a-427c-b750-c9f9c211f2af" },
+  { n = 11, title = "La Chanson du Moussu", mbid = "c6467704-cfce-4db8-8362-f52dc57aca3a" },
+  { n = 12, title = "Qu'elle est bleue", mbid = "a7cbd6af-f605-4291-bb2c-9e7cc232d3c6" },
+  { n = 13, title = "Ara que per riddim charra la cortesia", mbid = "aef92312-50ca-42e7-b845-8d9cc8480984" },
+  { n = 14, title = "Le Son des raggas", mbid = "bec32201-afa0-4e40-8bbf-e137eedf07f1" },
+  { n = 15, title = "Lyrics à verse", mbid = "6192768f-adc8-4343-aeaa-5a3b99b48476" },
+  { n = 16, title = "Chourmo !", mbid = "a60325c4-969b-4129-b879-89259fbec3bf" },
+  { n = 17, title = "Disètz fasètz Dub", mbid = "6f63b29f-6eea-41fb-b2f6-9fcac01319d9" },
+]
+
+[[release]]
+mbid = "288d1eaf-ef20-3611-8791-29dd477f8f46"
+title = "Commando Fada"
+type = "album"
+date = "1995-05"
+tracks = [
+  { n = 1, title = "En barca, gents de marca !", mbid = "ed85e5ad-b9f1-43e9-ab76-00038a3fadfd" },
+  { n = 2, title = "Commando Fada", mbid = "f119bead-1d5b-47b8-aba9-c35e97bdc090" },
+  { n = 3, title = "Des métallos !", mbid = "fddd717c-2333-4c6b-8ab9-d3343441869e" },
+  { n = 4, title = "M’en foti", mbid = "30843de5-8cd6-449f-bbd4-29dcfffeb6e0" },
+  { n = 5, title = "Occitan: leiçon No.1", mbid = "24c56086-8d48-4006-af67-b4d07c0aade9" },
+  { n = 6, title = "On danse le parpanhàs", mbid = "45e8e150-25a0-4082-88d8-ea4e74b798dc" },
+  { n = 7, title = "Mise en examen", mbid = "c6573338-5bd1-41bf-acad-4dc1d5297cd1" },
+  { n = 8, title = "Lo reggae es mon companh", mbid = "a9e1c0d4-30bd-421c-b182-540dacc2f455" },
+  { n = 9, title = "Remue", mbid = "5d91020c-de2c-4bef-9f54-0573e7c85531" },
+  { n = 10, title = "Jompa vò !", mbid = "545c2a20-fd9f-4069-94c5-687a5b06bb0d" },
+  { n = 11, title = "Degun ni personne", mbid = "85202338-0d30-49b7-8e96-be7a7479602c" },
+  { n = 12, title = "Quand le sound est bon", mbid = "2d46b00d-219f-46de-bc06-45f4a8463408" },
+  { n = 13, title = "Solelhadìs", mbid = "0a02867e-4b61-45a7-8682-8a5470472185" },
+  { n = 14, title = "Refusez la pression", mbid = "43f7fbc0-d2b3-4327-b48c-e2f8e7afc72a" },
+  { n = 15, title = "Marseillais", mbid = "13539515-4ada-4471-874d-5b394d6dfb28" },
+  { n = 16, title = "Vulgus vs Prostus", mbid = "3ca868c4-77e0-4644-aa3b-660a40a5bf15" },
+  { n = 17, title = "Duba vò !", mbid = "5fd9b457-d325-4623-af9c-124ba9f2791b" },
+  { n = 18, title = "Garriga picament", mbid = "ce18c048-6c91-4442-8d76-331a1d3df133" },
+]
+
+[[release]]
+mbid = "7475cd36-cf9a-4416-b0ba-e4ad4ad16e5c"
+title = "Degun!"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Degun ni personne", mbid = "85202338-0d30-49b7-8e96-be7a7479602c" },
+  { n = 2, title = "Commando Fada (Terrain vocal mix)", mbid = "98e38f6a-5254-43a4-9133-067779891192" },
+  { n = 3, title = "Commando Fada (Commando Mada)", mbid = "18fce9d3-b899-43fd-ad50-c8a6823a56f3" },
+  { n = 4, title = "Commando Fada (Calu mix)", mbid = "769bdf61-78e2-4dff-8680-7a5ba62c2ee4" },
+  { n = 5, title = "Commando Fada (Misérable mix)", mbid = "4ded83d6-cd25-4575-9443-c8b9453655af" },
+  { n = 6, title = "Commando Fada (Commando Balèti)", mbid = "b0f3f05c-d8fa-4d12-a62e-ae55d4470409" },
+]
+
+[[release]]
+mbid = "6d037b7d-c065-365c-810d-7485550f3233"
+title = "Aïollywood"
+type = "album"
+date = "1997"
+tracks = [
+  { n = 1, title = "Per carrier’ again", mbid = "91d17e08-ad2e-4142-b6e8-1af05b489a67" },
+  { n = 2, title = "Pas d’arrangement", mbid = "9501e31a-883f-47c5-b48c-f50db26a8d3b" },
+  { n = 3, title = "Micròwallah", mbid = "3bc8d5e9-bee4-409f-86fa-ae3da6fc077a" },
+  { n = 4, title = "Ma maison", mbid = "30ece1cb-a593-4722-8f07-359887341a12" },
+  { n = 5, title = "Chourmo F.C.", mbid = "996306a3-9dec-4998-8131-685397e71bf4" },
+  { n = 6, title = "Ma ville est malade", mbid = "e6f2790d-6d94-4cad-a9c2-d98e56ee2ec0" },
+  { n = 7, title = "Raja occitani", mbid = "c601c107-f7bc-4678-b437-74d898a6dd50" },
+  { n = 8, title = "Cròniq", mbid = "761761d3-079f-4eef-a1a7-79715a7ad94b" },
+  { n = 9, title = "Cansoneta farai", mbid = "89a0ab9c-51bf-44a7-b52c-5dda4f778bf1" },
+  { n = 10, title = "Cool", mbid = "cfa7f714-b691-4991-9ef5-386c932291f2" },
+  { n = 11, title = "2 B frit confit", mbid = "794185ae-89d2-426a-9358-f79484da13dc" },
+  { n = 12, title = "Es lo picament !", mbid = "6544cb8b-04f0-4bb7-a86a-d9d556205f5f" },
+  { n = 13, title = "Les Vacances", mbid = "7d6bbffc-4012-49f6-ba71-38dfe7be2d91" },
+  { n = 14, title = "La Dansa dau corsari", mbid = "fe66e187-db3e-45d4-bc1d-fa02c615732a" },
+  { n = 15, title = "Brûle ces papiers", mbid = "1222f3b3-4c95-4d69-a744-0ddbf689eb5f" },
+  { n = 16, title = "Aïollywood", mbid = "e1fea6cf-13bc-4be4-9393-68c4c33666cd" },
+  { n = 17, title = "De matin", mbid = "ca100452-80fb-41b2-8dc1-05e821c32b50" },
+]
+
+[[release]]
+mbid = "4cc319af-1e9f-3bd4-9a97-e68ff7ed01d4"
+title = "3968 CR 13"
+type = "album"
+date = "2000"
+spotify = "3xY7tBfPac7Uoi5P33oroE"
+tracks = [
+  { n = 1, title = "3968 CR 13", mbid = "1c11ef31-314b-4d13-a7b4-45c7b14e382b" },
+  { n = 2, title = "Pauvres de nous", mbid = "cb95c3ef-793a-4e3f-be98-043599b5a97b" },
+  { n = 3, title = "Sus'n èr de reggae", mbid = "b4564f81-cae7-4708-902e-7d810075a3bf" },
+  { n = 4, title = "Jovent", mbid = "23bb6b2e-9fbb-4c30-8104-728f6a4f4a6c" },
+  { n = 5, title = "Y'a des fois", mbid = "82130a06-93ee-4a37-a149-c955ac3f9419" },
+  { n = 6, title = "Bouteille sur bouteille", mbid = "447aa4b6-f60f-4356-ae4f-ac73c6ff67bd" },
+  { n = 7, title = "Elles ont des pilotis", mbid = "c56ea69e-d185-4b9d-8ec7-b428129425c4" },
+  { n = 8, title = "Occitanin hokin", mbid = "b782ebdb-ef0b-4990-8fa0-2f6b32246ec8" },
+  { n = 9, title = "Tout le monde ment", mbid = "5b8d0f21-8f82-48b2-a075-cb996b8fa210" },
+  { n = 10, title = "Tartarassas e vautors", mbid = "9ce2f0d0-c908-42fd-9724-cf3b1fd9da05" },
+  { n = 11, title = "La Fille du selecta", mbid = "53cb9cd4-3fae-44c3-8a2a-564e373b0a5e" },
+  { n = 12, title = "Vida", mbid = "81568fb3-2c62-4fc7-9ecb-8c6a976c45b4" },
+  { n = 13, title = "Triste es lo trin", mbid = "3464e42f-63db-4e02-af48-46bc3d31020f" },
+  { n = 14, title = "Tenson du bambou", mbid = "528117a0-5289-412f-bf6a-9cab6d83ec8f" },
+  { n = 15, title = "Doca amiga", mbid = "fd6ca87c-e11e-4f6e-b397-38b9010a1669" },
+  { n = 16, title = "Quand j'étais minot", mbid = "6f3beb76-e740-481c-acb3-35a9c369e2bb" },
+  { n = 17, title = "L'Éclat de la rose", mbid = "13ce9f7c-2de7-4aba-aacb-a6b5009cc3ec" },
+  { n = 18, title = "Méfi !", mbid = "2a82a3a0-53fb-4470-ac35-5520d29dc671" },
+  { n = 19, title = "Lei Compahns de fin amor", mbid = "36a84d44-e37e-408c-b22a-ebda1f76874e" },
+]
+
+[[release]]
+mbid = "89880b81-4566-30a3-92ef-fcb86703f5fe"
+title = "Marseille London Experience"
+type = "album"
+date = "2000"
+spotify = "4hiBZbknGE52NTUAvJoYQq"
+tracks = [
+  { n = 1, title = "Parla patois", mbid = "c7585f32-f675-4e24-b0ea-c2463ff0cd2d" },
+  { n = 2, title = "Qu'elle est bleue", mbid = "96e2ffce-4fe1-45ae-9425-795a545b5058" },
+  { n = 3, title = "Reggae fadoli", mbid = "b7164402-3feb-441e-b918-34763930f4aa" },
+  { n = 4, title = "Lo Òai", mbid = "325e771e-8962-444f-bd19-12df68a2ab38" },
+  { n = 5, title = "Joyeux voyous", mbid = "259a5f48-a4fa-4914-a0fc-147c5e7cde0a" },
+  { n = 6, title = "Canti, as, a", mbid = "78596edf-891a-44a9-bfc7-b7921ba26031" },
+  { n = 7, title = "Interdit aux cònòs", mbid = "f075f8c4-5cd4-4e0a-90d0-39274e8ce266" },
+  { n = 8, title = "Ma ville est malade", mbid = "502cec89-2b1c-49ad-9213-a1b739f5a5a9" },
+  { n = 9, title = "Fai virar", mbid = "c67ee30e-0c59-4e3c-b9e3-ce8fb1ed1f06" },
+  { n = 10, title = "Degun ni personne", mbid = "c113f7ba-35a1-48d8-a5dd-8c23b380bf8d" },
+  { n = 11, title = "Violent", mbid = "57c2e69d-8ad9-4339-a4ab-e5ae1eede4db" },
+  { n = 12, title = "A la rasbalha", mbid = "4747148b-6627-4bb7-a607-7a7ebdf789bd" },
+]
+
+[[release]]
+mbid = "0ecc9e61-8a73-3daa-936a-84a6c3b6ca53"
+title = "Occitanista"
+type = "album"
+date = "2002-10-08"
+tracks = [
+  { n = 1, title = "Occitanista", mbid = "f49221fd-ca9e-4ec3-a49f-aa5b2903127d" },
+  { n = 2, title = "Les Papets, les minots...", mbid = "2c392b36-3bae-4a06-8f35-43f6ffb63ff7" },
+  { n = 3, title = "Toute petite danse", mbid = "6727574a-a800-4b90-abfc-7991f97b5cbc" },
+  { n = 4, title = "I a tant de causas sus terra...", mbid = "67d1579e-1434-4d0a-9811-df2064184bc1" },
+  { n = 5, title = "Dins mon canton", mbid = "35b786df-7c90-429c-a2d8-4cf3e71def6a" },
+  { n = 6, title = "Passa mon blocò", mbid = "c770e9cf-713d-426e-8ae2-ef4c0f5c71ec" },
+  { n = 7, title = "Ne me dis pas non", mbid = "e8805b91-263c-49d2-92bc-acff46954cd3" },
+  { n = 8, title = "Lâcher prise", mbid = "c1ac4779-ea0c-415b-b18a-6ed3e6afbe6e" },
+  { n = 9, title = "Joglars (Nos fau cantar tot aquò)", mbid = "49d22435-d85e-483b-bed5-295513cb0da4" },
+  { n = 10, title = "Monter l'aïoli", mbid = "b0c5fa26-73eb-4160-ac31-11572bf07d27" },
+  { n = 11, title = "Masurcà Planetària", mbid = "b882eeca-530d-46af-b7a3-d1caa4fd351a" },
+  { n = 12, title = "Quand ma petite est dans la place", mbid = "418343da-3f7f-42ec-af89-258dbbaca1e8" },
+  { n = 13, title = "Street Dinner", mbid = "574bac0d-ba18-4e99-87d6-a685cb1e909d" },
+  { n = 14, title = "Lo Tamborn dei pòples", mbid = "98108ada-a2fa-4d67-ae2b-e5bcb88ade47" },
+  { n = 15, title = "Incasinati", mbid = "7012e725-fe7c-438b-ac45-728839afdcd9" },
+  { n = 16, title = "M.C.'s", mbid = "91dd21c1-0187-4616-b761-cf66fc2d8430" },
+  { n = 17, title = "La Regenta de mon còr", mbid = "d260e985-0bb2-4ae5-8f61-3bdae642e921" },
+]
+
+[[release]]
+mbid = "e6be4b97-c3ef-3afb-a4ba-78c126d19803"
+title = "Òai e libertat"
+type = "album"
+date = "2007-10-01"
+tracks = [
+  { n = 1, title = "Massilia fai avans", mbid = "dafc4b85-3342-4717-8cff-5550fad9286b" },
+  { n = 2, title = "Rendez-vous à Marseille", mbid = "412c76cb-8b4b-4da8-84d1-d2736aea2157" },
+  { n = 3, title = "De longue", mbid = "2e1a2b71-97aa-4340-8a24-ce97dc76ebbf" },
+  { n = 4, title = "Òai e libertat (Tati N'inja reviendra)", mbid = "37eab29c-1d3d-4414-9d5f-67bcff59ff87" },
+  { n = 5, title = "Toujours (... et toujours)", mbid = "3b5acc3c-32f3-41c1-ac2d-8171838557a8" },
+  { n = 6, title = "Lo micrò es romput", mbid = "a7b4f11b-76ac-410b-9e01-a6f310fbdb13" },
+  { n = 7, title = "Ton balanlè", mbid = "57852d43-1361-4d99-bcf2-0e8d4f911bd9" },
+  { n = 8, title = "Au marché du soleil", mbid = "d1af8152-c469-44c2-b6bf-bae7a7fa0c07" },
+  { n = 9, title = "À l'agonie, partie 2", mbid = "9171d78d-310b-4a1b-9d47-5e97ada11779" },
+  { n = 10, title = "Lo grand tramblament", mbid = "2a549803-8d98-43e4-bd6e-19c41d11252d" },
+  { n = 11, title = "Dimanche aux goudes", mbid = "91b74728-93ae-490f-b6e1-322c65929487" },
+  { n = 12, title = "Laissa nos passar", mbid = "06429da1-4229-4a56-a722-b1dc1762e0d8" },
+]
+
+[[release]]
+mbid = "74d72a99-e710-421e-9b83-188201b6c968"
+title = "Aïoliwood"
+type = "album"
+date = "2013-10-24"
+spotify = "0mLKVY4SvLW1rZJ2e3TUSG"
+tracks = [
+  { n = 1, title = "Per carrier' again", mbid = "8d4d5072-d069-493a-bdb0-999636f8d13f" },
+  { n = 2, title = "Pas d'arrangement", mbid = "4e5f09d0-ac3b-41a0-8187-989169b41c5a" },
+  { n = 3, title = "Micròwallah", mbid = "269b677d-7f77-4be7-b818-d8761dd91fa9" },
+  { n = 4, title = "Ma maison", mbid = "787fd87a-9ae0-4219-82ac-676d73969580" },
+  { n = 5, title = "Chourmo (F. C.)", mbid = "6fb6f079-f17c-44f6-ade6-2f81644cfd27" },
+  { n = 6, title = "Ma ville est malade", mbid = "48b7330c-9b8e-4ef8-b484-1082aa3ee4da" },
+  { n = 7, title = "Raja occitani", mbid = "4ba6c6a1-ca0f-4df5-be88-31170776f1e0" },
+  { n = 8, title = "Cròniq", mbid = "aecab6a7-ff01-4304-a7c0-538aabaf75d8" },
+  { n = 9, title = "Cansoneta farai", mbid = "61b4c2b7-ebea-4835-b0bd-f09267a22c75" },
+  { n = 10, title = "Cool", mbid = "26080049-e3b9-4184-923e-38223d7b1a8c" },
+  { n = 11, title = "2 b frit confit", mbid = "889adec7-064c-4425-80ac-0e39dcc20903" },
+  { n = 12, title = "Es lo picament !", mbid = "578c5ddc-ecd8-43d1-82a5-f014db87ed84" },
+  { n = 13, title = "Les Vacances", mbid = "44d92e1b-6dba-40bf-903e-bb847effed65" },
+  { n = 14, title = "La dansa dau corsari", mbid = "269e6ca0-8d2f-4e95-a5d0-52f8c7919e67" },
+  { n = 15, title = "Brûle ces papiers", mbid = "3fe637cd-b4cf-4aff-b42b-3d8bb1185d6c" },
+  { n = 16, title = "Aïoliwood", mbid = "768e01a0-28cd-4793-94a5-3704c5e7c05d" },
+  { n = 17, title = "De matin", mbid = "8d210d78-c1fd-4720-b115-1b23e95faa9c" },
+  { n = 18, title = "Vas-y minot", mbid = "224ce5f8-9d32-47a7-a9c2-dfeeb3bb8841" },
+]
+
+[[release]]
+mbid = "968e48c2-10f2-4491-8185-64c6b5c5e9e6"
+title = "Massilia"
+type = "album"
+date = "2014-10-15"
+spotify = "08aU9ZQbwe6NfqCDHI8fZX"
+tracks = [
+  { disc = 1, n = 1, title = "Si lèva mai la cançon", mbid = "bc820216-ca8c-4276-945f-e6015d1f9fca" },
+  { disc = 1, n = 2, title = "Trois MCs sur la version", mbid = "5df110fc-b356-4d94-bdbc-1bc4ded55968" },
+  { disc = 1, n = 3, title = "Es tot pagat", mbid = "93f3c90f-420e-46ea-bd10-a5d523d106f9" },
+  { disc = 1, n = 4, title = "Je marche avec", mbid = "27d27b2c-a148-422d-9668-22c3c923826d" },
+  { disc = 1, n = 5, title = "Ma ville réveille‐toi !", mbid = "fea8a554-7d76-4253-af23-da23f023d706" },
+  { disc = 1, n = 6, title = "La respònsa es dins lo vent", mbid = "6dc573a2-c931-4ba3-a1b0-ba7f14028a2b" },
+  { disc = 1, n = 7, title = "Massilia n°1", mbid = "bd77b107-3a6a-4c9f-9b73-0a95842add9a" },
+  { disc = 1, n = 8, title = "Libre jusqu’à lundi", mbid = "edb34d0c-2446-42b8-a49b-1c67d5fbccfd" },
+  { disc = 2, n = 1, title = "Pourquoi je morfle ?", mbid = "0966a177-77a8-43ac-af2b-8f25b507f76e" },
+  { disc = 2, n = 2, title = "L’Eligit", mbid = "d27302f6-67d3-4f44-a652-3b2966ba07cd" },
+  { disc = 2, n = 3, title = "Quand on vit connecté", mbid = "df84292f-333a-45d9-a99d-18f980d71ebb" },
+  { disc = 2, n = 4, title = "Ils sont loin", mbid = "dc635924-3966-4c3b-9956-b15dc5aeedfe" },
+  { disc = 2, n = 5, title = "Parlar fòrt", mbid = "94bb8a4d-1a02-4fe8-b59a-b4d5f602e71e" },
+  { disc = 2, n = 6, title = "Tous ces mots", mbid = "2a4b611e-6eaa-4a43-beed-64adceb0da8b" },
+  { disc = 2, n = 7, title = "À Marseille", mbid = "4b1bc12f-9f23-4c20-92e9-6f30fcdaf455" },
+  { disc = 2, n = 8, title = "Une version pour trois MCs", mbid = "ae384628-5d8e-4673-807f-a86b1b1b063b" },
+]
+
+[[release]]
+mbid = "081db1fb-0474-4ac6-b08a-e1673fab0013"
+title = "Massilia N°1"
+type = "ep"
+date = "2015-04-18"
+tracks = [
+  { n = 1, title = "Massilia N°1", mbid = "99ae7285-9a69-4b21-96fe-13baa2ea9055" },
+  { n = 2, title = "Massilia N°1 (version instrumentale)", mbid = "0c45ea5d-67b8-430b-9991-7dff7811a06a" },
+  { n = 3, title = "Massilia N°1 (version a cappella)", mbid = "5824a4ad-5f67-4df5-b0b5-4921b0212059" },
+  { n = 4, title = "Massilia N°1 (Goatari mix)", mbid = "f703db0b-9a8b-43a9-a3ce-f5601c24501f" },
+  { n = 5, title = "Massilia N°1 (Kafra RFX)", mbid = "c9d24211-fdd0-44a8-95ea-957a822c0861" },
+  { n = 6, title = "Massilia N°1 (Kayalik Moombathon mix)", mbid = "c536364c-7170-4266-8e0f-ca3705cc713d" },
+]
+
+[[release]]
+mbid = "6feac422-cc3e-4626-8ebc-e0ebbf391690"
+title = "Si lèva mai la cançon"
+type = "single"
+date = "2015-06-18"
+spotify = "5zJNxHAmUB30PilQhh8FpU"
+tracks = [
+  { n = 1, title = "Si lèva mai la cançon", mbid = "bc820216-ca8c-4276-945f-e6015d1f9fca" },
+]
+
+[[release]]
+mbid = "ade9ead2-467c-422a-8d02-2fa8a57f22af"
+title = "Sale Caractère"
+type = "album"
+date = "2021-06-04"
+spotify = "3nH39020OkvIMg5U5sx5Tm"
+tracks = [
+  { n = 1, title = "A Cavalòt", mbid = "a2587559-73ea-4294-a1d6-91222462362b" },
+  { n = 2, title = "Casa Massilia", mbid = "ea91333b-2701-46ba-b815-93c3f464a762" },
+  { n = 3, title = "Nine", mbid = "ab2d566b-5533-490a-929b-6e6f220a1a1f" },
+  { n = 4, title = "Sale Caractère", mbid = "b533fe26-4e18-4f90-a803-066d8878f619" },
+  { n = 5, title = "Dans l’oreillette", mbid = "98cc3d00-75e9-4762-8a64-256a12e26ad6" },
+  { n = 6, title = "À la rue", mbid = "7543e934-c618-40b3-b815-68ed651b4f68" },
+  { n = 7, title = "Lo Mercat", mbid = "8513089b-3688-44af-a511-cd468c77776d" },
+  { n = 8, title = "Drôles de poissons", mbid = "ccf69066-a74d-483d-aff0-1dc04ada9271" },
+  { n = 9, title = "La Mouche", mbid = "250e5ceb-9af8-432e-aa2c-9441821d374b" },
+  { n = 10, title = "Vive la solidarité", mbid = "30a453ca-9510-4b9e-b212-660e0496c2f2" },
+  { n = 11, title = "Bòna Adreiça", mbid = "ac2f035a-28d6-4735-a019-e46de9bcf1eb" },
+  { n = 12, title = "Tôt ou tard", mbid = "595d66c4-9746-4185-a1f0-080a8599a0cd" },
+  { n = 13, title = "Uei", mbid = "1294c63c-d4d6-4031-8555-93ddf3663409" },
+]

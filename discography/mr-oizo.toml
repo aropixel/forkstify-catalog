@@ -1,0 +1,532 @@
+format = 1
+
+[[release]]
+mbid = "f72d14a7-29c5-333c-8566-c548850d6103"
+title = "#1"
+type = "ep"
+date = "1997-09"
+tracks = [
+  { n = 1, title = "Intro", mbid = "2cfd54be-e7ad-4450-90c3-0b090a5d61f3" },
+  { n = 2, title = "Kirk", mbid = "445f8369-aabd-4126-b88b-5aa5d3b5fd2a" },
+  { n = 3, title = "L'homme de fer (1995 Cheap mix)", mbid = "57835460-cb7a-4e41-8904-b5067bcb8208" },
+  { n = 4, title = "Ke-ele", mbid = "7d7a4484-01d1-4eda-a335-7dac82d00535" },
+  { n = 5, title = "Klum", mbid = "aa5625dc-f581-4f20-82b7-3e788daae993" },
+]
+
+[[release]]
+mbid = "437a9606-3de6-358b-87d6-7746f435d3ae"
+title = "M-Seq"
+type = "ep"
+date = "1998-07"
+tracks = [
+  { n = 1, title = "Intro (Kirk's Back)", mbid = "c77488ca-b60d-45e5-9226-2a6ccc77e125" },
+  { n = 2, title = "M-Seq", mbid = "cf757069-6bce-4d95-b0bc-a099b4f778dd" },
+  { n = 3, title = "Shortkut", mbid = "1fb22a28-7ca4-4690-a965-4b7e050b66a1" },
+  { n = 4, title = "Tweeter Trouble", mbid = "81c42644-898a-49ba-9277-0418b32c79e3" },
+  { n = 5, title = "Oizo's (Doggy Bag mix)", mbid = "27a333a4-8f1b-4831-a17c-c7d8f3d7ca43" },
+]
+
+[[release]]
+mbid = "77bb8737-351c-4276-a02c-9d82eac32430"
+title = "Analog Worms Attack"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Analog Worms Attack", mbid = "e6986547-8ad7-4f56-b654-04d906d5dd69" },
+  { n = 2, title = "Analog Worms Attack (Oizark remix)", mbid = "204398c4-1757-4924-8f6f-41c162c792d6" },
+  { n = 3, title = "The Dead Chair", mbid = "e8c88a1f-a3b7-44e9-976b-47d37eaecd08" },
+  { n = 4, title = "Analog Worms Attack (Akapella)", mbid = "8a82cf31-a478-4337-af7f-bf2dc68af8f8" },
+]
+
+[[release]]
+mbid = "e31749af-ca16-37ef-acff-fa67ff998db5"
+title = "Flat Beat"
+type = "single"
+date = "1999-03-15"
+spotify = "4rUN2CpOOBouCSnbi3MfYQ"
+tracks = [
+  { n = 1, title = "Flat Beat (radio edit)", mbid = "37177670-0343-4697-b2f9-0fd44181e849" },
+  { n = 2, title = "Monday Massacre", mbid = "9a367d6e-2095-471b-a2c1-d90311008253" },
+]
+
+[[release]]
+mbid = "582cb922-de5e-3367-9205-bdd44bf7c507"
+title = "Analog Worms Attack"
+type = "album"
+date = "1999-10-19"
+spotify = "7kAKGbrd7MHykmOzRlNPee"
+tracks = [
+  { n = 1, title = "Bad Start", mbid = "ee0abd1f-1a66-4865-b39e-cd9f365c4e2f" },
+  { n = 2, title = "Monophonic Shit", mbid = "60631e68-bd7d-4bae-8ad3-1b12a297367d" },
+  { n = 3, title = "No Day Massacre", mbid = "67d5a6e7-f544-4c08-ab29-814047e79274" },
+  { n = 4, title = "Smoking Tape", mbid = "7fbd3ed3-13e6-40c9-8f8c-aa86a1247d04" },
+  { n = 5, title = "Last Night A DJ Killed My Dog", mbid = "5385a77d-d518-496a-8f53-e0ee706996d9" },
+  { n = 6, title = "The Salad", mbid = "ad78e04b-b626-4101-9357-b366e5623850" },
+  { n = 7, title = "Bobby Can't Dance", mbid = "33a7c7e0-6e25-408f-a69b-b4a79155c744" },
+  { n = 8, title = "Analog Worms Attack", mbid = "c5c49c27-820c-4bf4-a1a0-f93adcea46d5" },
+  { n = 9, title = "One Minute Shakin", mbid = "df088f20-2a7a-411a-acf8-385af9f88d57" },
+  { n = 10, title = "Inside The Kidney Machine", mbid = "2978ae09-5bc4-44e8-9620-557fed22d706" },
+  { n = 11, title = "Miaaaw", mbid = "ef918f27-e048-4f5f-8abe-7674098905be" },
+  { n = 12, title = "Flat 55", mbid = "0b1fc211-7661-4e31-a957-4ff0e1c07f61" },
+  { n = 13, title = "Feadz On", mbid = "ec4ef97f-c3af-4648-951b-6c6916b4cf74" },
+  { n = 14, title = "Analog Wormz Sequel", mbid = "a0dc850f-7575-49a3-8ff9-f9f575fa0033" },
+  { n = 15, title = "Flat Beat", mbid = "518242bd-6470-49f0-be72-784e0d17bc45" },
+]
+
+[[release]]
+mbid = "76cf209e-766c-3711-a3dc-8b6e46961393"
+title = "Last Night a DJ Killed My Dog"
+type = "single"
+date = "2000-02"
+tracks = [
+  { disc = 1, n = 1, title = "Last Night a DJ Killed My Dog", mbid = "5385a77d-d518-496a-8f53-e0ee706996d9" },
+  { disc = 1, n = 2, title = "Last Night a DJ Killed My Dog (Last Night Shalark Killed Oizo)", mbid = "706d019a-11fa-496e-907a-2d2b602a57d8" },
+  { disc = 1, n = 3, title = "Last Night a DJ Killed My Dog (Chien De Fusil mix)", mbid = "f2e13dfb-692c-47b8-a664-7bc754796ac7" },
+  { disc = 1, n = 4, title = "Last Night a DJ Killed My Dog (Last Night Herbert Murdered My Poodle)", mbid = "22f7f653-c9d0-431a-9cee-acfe07e8b60d" },
+  { disc = 2, n = 1, title = "Last Night a DJ Killed My Dog (LNaDJKMD remix)", mbid = "f07a0ae9-2fed-4e7f-b713-c2eafed7fb3f" },
+  { disc = 2, n = 2, title = "Electro Shit Non Stop", mbid = "debb7e86-d796-4103-95ba-01a8e1cf2670" },
+]
+
+[[release]]
+mbid = "a3f2a76c-0e8d-37f2-8576-8ed2f31c6a33"
+title = "Stunt"
+type = "single"
+date = "2004-04-01"
+tracks = [
+  { n = 1, title = "Stunt", mbid = "37714ce6-7485-4358-99ab-2cc01600597f" },
+  { n = 2, title = "1$44", mbid = "a8fbfef0-a5e8-4ea0-afa1-7b66dee4064e" },
+]
+
+[[release]]
+mbid = "65e994a0-f13e-387b-bef9-1fc2c8a73bba"
+title = "Moustache (Half a Scissor)"
+type = "album"
+date = "2005-08-29"
+tracks = [
+  { disc = 1, n = 1, title = "Untitled", mbid = "8c35c78b-cb7b-4bc5-a7c4-f7f835b19c7e" },
+  { disc = 1, n = 2, title = "The End", mbid = "ee0fefc0-30ab-4dd7-aba8-776d38516d2b" },
+  { disc = 1, n = 3, title = "Latex", mbid = "0ea01ddb-3919-403c-8f4d-797b421c0a92" },
+  { disc = 1, n = 4, title = "Vagiclean 2", mbid = "af0f3584-24aa-41a4-9fb3-98a8d54a9843" },
+  { disc = 1, n = 5, title = "Straw Anxious", mbid = "7102221f-762d-4c01-8218-45844b0f7005" },
+  { disc = 1, n = 6, title = "(e)", mbid = "9de1790b-6c66-4b46-9fca-1b8eade160ea" },
+  { disc = 1, n = 7, title = "Nurse Bob", mbid = "13878570-093d-4471-a57a-44c201efe4bb" },
+  { disc = 1, n = 8, title = "Berleef", mbid = "bb9ee7a4-4a55-404e-802c-b2a234623f3d" },
+  { disc = 1, n = 9, title = "Scum Hotel", mbid = "3ce8e8fa-3e7e-456c-84aa-5d7b5d77d8ff" },
+  { disc = 1, n = 10, title = "Drop Urge Need Elle", mbid = "30c6186c-5115-496f-88f8-b019c4a713e2" },
+  { disc = 1, n = 11, title = "(ee)", mbid = "a95b5edd-c245-456b-be4a-d2056a5617d2" },
+  { disc = 1, n = 12, title = "Stunt", mbid = "90a19e00-33fb-447f-bb72-c2016e17491f" },
+  { disc = 1, n = 13, title = "Moustache", mbid = "b983724a-00fe-4326-8147-f8b41da0262f" },
+  { disc = 1, n = 14, title = "Half A Scissor", mbid = "84fa8655-b7ed-4f11-a206-8a86a9cc758b" },
+  { disc = 1, n = 15, title = "1$44", mbid = "71274681-c731-4f8d-a68c-da7d6bfeaa8d" },
+  { disc = 1, n = 16, title = "Square Surf", mbid = "aea60180-f8ed-45b3-bca5-e810d382d9ac" },
+  { disc = 1, n = 17, title = "Vagiclean", mbid = "16a23826-d2e4-444a-9bd6-a8547459b0a9" },
+  { disc = 2, n = 1, title = "Half A Square", mbid = "2f08e517-f5ae-492c-8e7d-806d9508fded" },
+  { disc = 2, n = 2, title = "Stunt", mbid = "ca847c9e-6ca1-43cc-b098-e9e5ac1110a5" },
+]
+
+[[release]]
+mbid = "7c1ce9b6-c0d8-41cf-9ee0-38bc5444e0d9"
+title = "Moustache (Half a Scissor)"
+type = "ep"
+date = "2005-10-03"
+tracks = [
+  { n = 1, title = "Half a Scissor", mbid = "ce44e8be-3302-467f-a5fd-9d77cb4212e6" },
+  { n = 2, title = "Half a Square", mbid = "52f12dd1-2827-46bf-b9d0-ef3e10ad557a" },
+  { n = 3, title = "Square Surf", mbid = "c1238a20-80c0-4331-908a-5e103004e4f4" },
+  { n = 4, title = "Nurse Bob", mbid = "434210cd-fef4-4307-b0ef-1ae811d74e83" },
+]
+
+[[release]]
+mbid = "8fd0250b-e73c-326c-bfaa-593e64f2a9d9"
+title = "Nazis"
+type = "ep"
+date = "2006-05-19"
+tracks = [
+  { n = 1, title = "Half An Edit", mbid = "f01f8f78-c3b4-4222-8a27-d86cf526ce18" },
+  { n = 2, title = "Nazis", mbid = "1a9d340b-5bdb-4175-a0c3-7c4a16e4b008" },
+  { n = 3, title = "Nazis (Justice Remix)", mbid = "14c60ced-cae0-4835-8ff7-c7b9160e6d7a" },
+]
+
+[[release]]
+mbid = "11fe246e-9e6c-3534-ada8-4e8d724dfc30"
+title = "Transexual / Patrick122"
+type = "ep"
+date = "2007-06-05"
+tracks = [
+  { n = 1, title = "Hello", mbid = "89b7b1fd-26e6-4ecc-8416-e1e6ba96df91" },
+  { n = 2, title = "Transexual", mbid = "985b8500-7686-4317-b4b0-f8caa8f646a9" },
+  { n = 3, title = "Ovoma", mbid = "11c16b4e-8dba-4291-b2be-0c92711b9fa5" },
+  { n = 4, title = "Patrick122", mbid = "f0773e6e-1d2d-42c0-b64e-0550acc3b3e3" },
+  { n = 5, title = "Blind Concerto", mbid = "9e86133e-2e7f-4322-affe-94b2fc602040" },
+]
+
+[[release]]
+mbid = "0b23153e-621b-3f82-8517-29b0865eb808"
+title = "Steak: Music From the Motion Picture"
+type = "album"
+date = "2007-06-18"
+spotify = "6a4wMqczzcvMjgiGWLAI0e"
+tracks = [
+  { n = 1, title = "Arrival", mbid = "d41e61e9-1899-4b23-a356-7d60d0584c60" },
+  { n = 2, title = "Skatesteak", mbid = "d9434b1a-2ff7-4d86-b14b-e45fc0557531" },
+  { n = 3, title = "Chivers as a Female", mbid = "44475f2d-98c2-44be-9f98-8bbd6fc212ed" },
+  { n = 4, title = "Chuck", mbid = "d0ac055d-2b18-43ee-b176-e4f3df94b9db" },
+  { n = 5, title = "Letrablaise", mbid = "5b6bd8cb-72bd-4835-8bac-691a9f80de5b" },
+  { n = 6, title = "Ringardos", mbid = "3d6c1c34-2642-4f9f-8d5a-afd9b05f1eef" },
+  { n = 7, title = "Stadium", mbid = "f4e19d0b-19c4-4b11-870c-542348e65707" },
+  { n = 8, title = "Itea", mbid = "630bea6d-fe57-40bd-afe6-eadf9be45556" },
+  { n = 9, title = "Plug It", mbid = "adf46c7f-7b7b-4828-902c-e35afea1d939" },
+  { n = 10, title = "X Schmidt", mbid = "3a6b15ac-db83-47ae-a0ea-d441ed4a69e7" },
+  { n = 11, title = "Hashis Vers", mbid = "213ade2b-608a-4244-91c4-3daf84fc6b5b" },
+  { n = 12, title = "Blue Wet Shirt", mbid = "78bbb83a-21b9-476c-8e30-f5c919b6cfae" },
+  { n = 13, title = "Victimo", mbid = "ca8ba7db-36ce-464f-9ab5-de4c68933ffc" },
+  { n = 14, title = "Top 50", mbid = "e5e36bac-1a4d-4ad3-92ef-3dfea8321e0b" },
+  { n = 15, title = "Exploites", mbid = "fdd6b453-c918-4e26-bd5b-46f212180c7b" },
+  { n = 16, title = "C.H.I.V.E.R.S.", mbid = "490b9638-95f8-4a5c-89f1-dc38ec7e1cbf" },
+  { n = 17, title = "Bonhomme", mbid = "a8bb1576-0532-441d-94fe-da1759c35b47" },
+  { n = 18, title = "Toizelle", mbid = "504d3713-98ac-47d9-8158-2b479bcf004a" },
+  { n = 19, title = "Kinder", mbid = "0d082778-9d7a-4ac0-8f83-4b4bcf130fb9" },
+  { n = 20, title = "Bleue", mbid = "2b306439-2f20-4656-9488-c9793db0f112" },
+  { n = 21, title = "Construction", mbid = "acf691c8-d2c4-4e6d-bf62-f3b06ac8aed4" },
+]
+
+[[release]]
+mbid = "3d503f0f-f7df-3225-aefe-583305a46f89"
+title = "Lambs Anger"
+type = "album"
+date = "2008-11-05"
+spotify = "5trGnTKKV1Iz39gXQiAFwZ"
+tracks = [
+  { n = 1, title = "Hun", mbid = "6bf01cac-739f-462a-baa8-62dd06d26756" },
+  { n = 2, title = "Pourriture 2", mbid = "83dc2569-e5e4-4b8f-b15c-c03daecfc6bd" },
+  { n = 3, title = "Z", mbid = "d5357e4d-657a-42c1-9692-36ee78434305" },
+  { n = 4, title = "Cut Dick", mbid = "6c889391-5fe1-4f35-850f-dd3ebfa548c2" },
+  { n = 5, title = "Two Takes It", mbid = "913ae9c0-0912-47c3-a4e6-2238b7d38c20" },
+  { n = 6, title = "Rank", mbid = "8bfacdc6-2d1c-4509-bfcf-d44b2c6bdef5" },
+  { n = 7, title = "Bruce Willis Is Dead", mbid = "33846c2b-5e2e-46ed-8a8f-b9cbeb778c64" },
+  { n = 8, title = "Jo", mbid = "32b41b70-908d-4fdf-b331-b088de82b18b" },
+  { n = 9, title = "Positif", mbid = "12cc7ce7-eaf5-4bba-a9ef-9108cb8561e2" },
+  { n = 10, title = "Lambs Anger", mbid = "ba20d841-a51d-41e8-bb46-e686e8a98400" },
+  { n = 11, title = "Erreur Jean", mbid = "c50dfb5f-ad1e-4d73-b49d-f5f8d08a5459" },
+  { n = 12, title = "Steroïds", mbid = "e05761df-d346-4ea9-bcb6-515dd6161f53" },
+  { n = 13, title = "Gay Dentists", mbid = "be6463c6-0e2f-4d88-88a6-7d0dcfe6189d" },
+  { n = 14, title = "Pourriture 7", mbid = "589488e4-c278-4293-a878-90a66a972ffe" },
+  { n = 15, title = "W", mbid = "a6926dc7-34bb-4ae5-a5ae-0ef46f0785d9" },
+  { n = 16, title = "Lars Von Sen", mbid = "979613c6-c76c-4f44-ad37-22ecd6cb99e4" },
+  { n = 17, title = "Blind Concerto", mbid = "d4749c7d-87eb-4adc-89e9-8788aa3146a9" },
+]
+
+[[release]]
+mbid = "5bed27af-f1b9-3c14-a71a-7f05791f667a"
+title = "Positif"
+type = "single"
+date = "2008-11-10"
+tracks = [
+  { n = 1, title = "Positif", mbid = "12cc7ce7-eaf5-4bba-a9ef-9108cb8561e2" },
+  { n = 2, title = "Negatif (Mr Flash remix)", mbid = "e5bf2c49-f740-4f35-ade1-b45fef87e70d" },
+  { n = 3, title = "Positif (LFO remix)", mbid = "e4433c52-3d33-4eb0-a288-5c360b1352c6" },
+  { n = 4, title = "Lambs' Garbage (Unfinished)", mbid = "b0854af4-f515-4f58-b07c-10ea6f41e49e" },
+]
+
+[[release]]
+mbid = "cbfa8e43-3b7a-43e6-92ff-01653c6799bc"
+title = "Pourriture"
+type = "ep"
+date = "2009-03-16"
+tracks = [
+  { n = 1, title = "Pourriture X", mbid = "c87b17a8-a45c-4faf-8b60-360d5f3c048a" },
+  { n = 2, title = "Erreur Jean (Arveene and Misk remix)", mbid = "4c1b5344-d81f-47d0-be9a-4578077a6f16" },
+  { n = 3, title = "Von Sen Lars", mbid = "e6925cb7-ae24-41bd-ac05-c337d02f036b" },
+  { n = 4, title = "Steroids (Mr. Oizo remix)", mbid = "1bcab8bf-f893-453d-af70-8b7c43a3bbd1" },
+  { n = 5, title = "Lars Von Sen (X-Mas version)", mbid = "4e8d9644-430d-4982-a574-c06ab932db20" },
+  { n = 6, title = "Con Tact", mbid = "b5e6296f-b788-4fc1-a488-78c571e0c6f0" },
+]
+
+[[release]]
+mbid = "69cc1222-e1d5-49af-925c-a478fd3f1a70"
+title = "Rubber"
+type = "ep"
+date = "2010-07"
+tracks = [
+  { n = 1, title = "Rubber", mbid = "dcd624e7-f87c-4f08-87bc-936309e66de1" },
+  { n = 2, title = "Rubber (Flying Lotus Unprotected Sex mix)", mbid = "da743c44-f1ad-49d4-abdb-ee28866ec144" },
+  { n = 3, title = "Tricycle Express", mbid = "bac5df17-866a-4032-8094-8d543b7ffc84" },
+  { n = 4, title = "Polocaust", mbid = "dd5542cb-df4e-475c-b6de-23151abd945d" },
+]
+
+[[release]]
+mbid = "e1d85408-1b10-4815-9156-b914333e735b"
+title = "Rubber"
+type = "album"
+date = "2010-11-08"
+tracks = [
+  { n = 1, title = "Sympho8", mbid = "f05f7236-bbd3-43fe-9841-e96e479afc69" },
+  { n = 2, title = "Rubber", mbid = "dcd624e7-f87c-4f08-87bc-936309e66de1" },
+  { n = 3, title = "Crows and Guts", mbid = "7582ffa0-c92c-4b3e-8fe2-70ad4af92d90" },
+  { n = 4, title = "Tricycle Express", mbid = "dc771a29-5eab-4085-8f93-688b2eba34ec" },
+  { n = 5, title = "Everything Is Fake", mbid = "e3b3371e-56d3-46ea-9dcc-f6ef25e0502d" },
+  { n = 6, title = "Room 16", mbid = "6c7410b4-4ad5-4c58-a170-b578a25336ab" },
+  { n = 7, title = "Bellyball Road", mbid = "e824d9f0-4a4d-41bf-9ec2-b0f9a357d063" },
+  { n = 8, title = "No Reason", mbid = "1dec2070-1420-4e5d-a414-8bc624bb63b0" },
+  { n = 9, title = "Sheila", mbid = "9e5c5724-f206-41c6-bafa-86405600f40e" },
+  { n = 10, title = "Racket", mbid = "db0b5d43-1a92-469c-94ba-8d1e8a847d39" },
+  { n = 11, title = "Le Caoutchouc", mbid = "43aee659-0280-4ab2-9280-143ebb6b2c2c" },
+  { n = 12, title = "Polocaust", mbid = "c5635d31-e99a-47d4-ab5e-8d0bf46c1e94" },
+  { n = 13, title = "Dump", mbid = "e26fb478-57ff-4183-81c7-bc91d799b929" },
+  { n = 14, title = "Sunsetire", mbid = "dce7ef8b-74e4-44de-a121-26569d2dacd3" },
+]
+
+[[release]]
+mbid = "4cd51b1d-8b0f-4637-8393-0a44b8f61a8d"
+title = "Stade 2"
+type = "album"
+date = "2011-11-21"
+tracks = [
+  { n = 1, title = "Introeil", mbid = "c30b015a-da9b-4396-9e2f-d588e56ba6d0" },
+  { n = 2, title = "Camelfuck", mbid = "56d1822b-1745-423e-9adb-1564a8c57d5f" },
+  { n = 3, title = "Douche Beat", mbid = "a5fd7383-cb60-49db-b84d-c89d951621e5" },
+  { n = 4, title = "Datsun", mbid = "3eaed273-8e3b-44bb-b7a0-f6d968746f7d" },
+  { n = 5, title = "Ska", mbid = "d842b284-5849-4b91-8ef7-8aaac04b9236" },
+  { n = 6, title = "EDN", mbid = "096c4b32-aae7-42d1-b0f5-751012245796" },
+  { n = 7, title = "Cheeree", mbid = "1f15a0df-f0b0-4fae-bb5e-25ca81b79fdf" },
+  { n = 8, title = "Oral Sax", mbid = "20f01ee1-5318-4e99-af84-99c29b0140d5" },
+  { n = 9, title = "France7", mbid = "250c2078-a69e-4d35-b75d-8b28efd37e43" },
+  { n = 10, title = "Chiffon", mbid = "09446785-a984-4691-a0cc-a34c36ca8e5b" },
+  { n = 11, title = "Pompe", mbid = "6efd481c-3ae2-4e18-8ab1-1bd67afde488" },
+  { n = 12, title = "Stade2", mbid = "260f0236-3948-4a57-b7ab-66d490eaf261" },
+  { n = 13, title = "Druide", mbid = "4c678011-c43e-4743-bb63-2c7309483bae" },
+]
+
+[[release]]
+mbid = "b0eb80ed-9378-4e58-beb7-654ce81fc564"
+title = "Stade 3"
+type = "ep"
+date = "2012-04-25"
+tracks = [
+  { n = 1, title = "Stade 3", mbid = "467d9fa0-9c3f-4ec0-bf90-59ff4d0c6e9c" },
+  { n = 2, title = "Toodoo", mbid = "63759d6f-ab65-40b4-85ad-f1fc40f3ef42" },
+  { n = 3, title = "Fingers", mbid = "9a56ef13-41fd-4df4-adaf-30445c4b4cb8" },
+  { n = 4, title = "WC", mbid = "ed9e199b-584d-4fc5-bf65-eb2be6670e6f" },
+  { n = 5, title = "Textes", mbid = "c723dae0-2e40-4acc-9f7a-ef3bc2f1e8f5" },
+  { n = 6, title = "Calculatrix", mbid = "76518805-896b-4edb-a9ac-f0d4e3cd46d3" },
+  { n = 7, title = "Pee Hurts", mbid = "f6458776-d720-45f4-8044-e84552c2dbfb" },
+]
+
+[[release]]
+mbid = "552d9125-5ef3-4e9b-90df-1ec186dcbcb9"
+title = "Wrong"
+type = "album"
+date = "2012-08-27"
+tracks = [
+  { n = 1, title = "Wrong", mbid = "38a67f44-a377-4a1c-b19f-d91085627f54" },
+  { n = 2, title = "Ronnie", mbid = "a0f275fe-b289-4c0e-8373-0a370fca6f65" },
+  { n = 3, title = "Pizza Note", mbid = "bdf6a5a8-05d4-4d10-a076-8349eb4371ac" },
+  { n = 4, title = "Mind Link 1", mbid = "844ed677-74dc-47c7-b0a6-25770266dc08" },
+  { n = 5, title = "Mind Link 2", mbid = "a7f57f06-107e-4541-93aa-e37412c60cbe" },
+  { n = 6, title = "Ringtone", mbid = "35994c2c-3271-4563-8ad6-85bc3fc29783" },
+  { n = 7, title = "Solution", mbid = "75bf22aa-0e82-43b8-8f35-e353e5ef46ce" },
+  { n = 8, title = "Le Détective", mbid = "eca5efd8-5388-4df1-9e08-f8865638e36c" },
+  { n = 9, title = "Turd Vision", mbid = "4c6badaf-8a55-47b4-8aee-1bd21b21d4d1" },
+  { n = 10, title = "Phase 7", mbid = "a6eca8fa-1e79-4c66-9bbd-a7207222602e" },
+  { n = 11, title = "Palmtree", mbid = "9208b223-2bda-4b19-a137-4351825141c1" },
+  { n = 12, title = "Resolution", mbid = "066a6759-5a03-49d9-8261-dbff90aee83c" },
+  { n = 13, title = "Master Chang", mbid = "6ea7194b-b1ed-4903-8491-4a9adefeb8e1" },
+]
+
+[[release]]
+mbid = "27c6c1f3-6a63-4380-b2ed-f9de5c6a441e"
+title = "Unreleased Unfinished Unpleasant (2004–2012)"
+type = "ep"
+date = "2012-11-22"
+tracks = [
+  { n = 1, title = "Kylie", mbid = "5c4346b2-ccc3-48d1-aee0-b88a51ee99e3" },
+  { n = 2, title = "Duck Guts", mbid = "d4723a61-5999-42a0-855d-a8550817596b" },
+  { n = 3, title = "Hidolls", mbid = "c96b5c32-6699-4ded-9f2f-5cc81ef875c3" },
+  { n = 4, title = "Tissu", mbid = "4dfeea3b-7527-45a6-a4bb-1145ad7118d4" },
+  { n = 5, title = "Mositif", mbid = "f0550124-70f3-43d0-8fec-3d176d120dcb" },
+  { n = 6, title = "Pepa & Pepa", mbid = "46513be0-4a86-45d9-b973-5e2525a678be" },
+  { n = 7, title = "Gunzeon", mbid = "93406ac4-f9c1-4781-9fef-61afb9d1640b" },
+  { n = 8, title = "143", mbid = "c95f96e8-e4d9-410c-a2f5-2f22c47d19d1" },
+  { n = 9, title = "Flip Bat", mbid = "4bfb10cf-ac8b-466f-b026-df9f2fdba27b" },
+  { n = 10, title = "Coco", mbid = "bbaad3ec-738d-46df-bb60-a9f26fcde45a" },
+  { n = 11, title = "Moto44 (Crashed)", mbid = "76de6437-b711-4d1a-b165-eabcb0e55622" },
+  { n = 12, title = "JC Dus", mbid = "a1ea7975-46aa-4fc7-a1a2-3345b9638bbd" },
+]
+
+[[release]]
+mbid = "5af7308e-a2ce-47f3-9fc5-e013af08da43"
+title = "Amicalement"
+type = "ep"
+date = "2013-07-01"
+tracks = [
+  { n = 1, title = "Unicat", mbid = "ebabb5e4-cedb-40da-96b7-ea9281d627aa" },
+  { n = 2, title = "Solid", mbid = "1eb83ef5-0412-434d-800e-d0659a30d449" },
+  { n = 3, title = "Waltz-E-More", mbid = "147f0cc8-40c7-4e73-ba7e-2df5651d6d1f" },
+  { n = 4, title = "Lovin'", mbid = "3cc7b9bb-23a6-4a94-89a8-d322584a9aff" },
+]
+
+[[release]]
+mbid = "82efb42b-799b-4df0-b85d-cc18522bbf8c"
+title = "Bear Biscuit"
+type = "single"
+date = "2014-10-10"
+tracks = [
+  { n = 1, title = "Bear Biscuit", mbid = "855e810c-f34c-4a8d-8d26-804a2a550c0c" },
+]
+
+[[release]]
+mbid = "c438964d-0099-4007-b9ec-5068f4537a66"
+title = "The Church"
+type = "album"
+date = "2014-11-17"
+tracks = [
+  { n = 1, title = "Bear Biscuit", mbid = "8c4bf88b-0625-4204-a981-1857e9c77c87" },
+  { n = 2, title = "Ham", mbid = "e471ab98-f79b-42fb-bf38-5d570868e32f" },
+  { n = 3, title = "Destop", mbid = "aee74559-fc10-4964-93b3-ae5cd2d94f5f" },
+  { n = 4, title = "Dry Run", mbid = "ea12d6c8-2393-400d-a616-81d960361efa" },
+  { n = 5, title = "Mass Doom", mbid = "61deb66e-48b9-4b81-bfd6-2b5177ac8d80" },
+  { n = 6, title = "Machyne", mbid = "0e4f5cb6-4254-40c5-aa31-4e51dff24afe" },
+  { n = 7, title = "iSoap", mbid = "3d4feaf2-d51f-4cbf-9ef6-293f2a150ec7" },
+  { n = 8, title = "Torero", mbid = "7301e718-8189-457d-8efb-eba2e0244209" },
+  { n = 9, title = "Memorex", mbid = "5af8fed9-144d-4392-8cc0-36a978cc58bf" },
+  { n = 10, title = "The Church", mbid = "5ed95dc5-35fd-4470-98e3-825a6d1b9deb" },
+]
+
+[[release]]
+mbid = "51551a77-3140-4cba-b81c-08a71aa58bca"
+title = "Hand in the Fire"
+type = "ep"
+date = "2015-12-11"
+tracks = [
+  { n = 1, title = "Hand in the Fire", mbid = "1556b1a9-c7ba-4dd2-a8f6-8286bb02a2f8" },
+  { n = 2, title = "Being Flat", mbid = "8cf1a8d9-7b26-4bf0-8391-828e61699185" },
+  { n = 3, title = "A Rekurd", mbid = "d5e4aebe-ee18-4c0f-a845-90222b7097ec" },
+  { n = 4, title = "Hand in the Fire (instrumental)", mbid = "844e0b3d-662d-417a-8ed0-7e65bd2d9b9c" },
+]
+
+[[release]]
+mbid = "953936ea-5480-4f58-8e6a-158153b58367"
+title = "End of the World"
+type = "single"
+date = "2016-08-19"
+tracks = [
+  { n = 1, title = "End of the World", mbid = "630cc94f-30a4-418a-99cb-0ecaa42dde27" },
+]
+
+[[release]]
+mbid = "a2dddcf4-1caf-4000-8b54-9885d54e7329"
+title = "All Wet"
+type = "album"
+date = "2016-09-30"
+tracks = [
+  { n = 1, title = "Ok Then", mbid = "bfa14654-d97f-4577-9601-e218192e9373" },
+  { n = 2, title = "Sea Horses", mbid = "d7806f3b-06e0-4e65-b25c-5072f23e9328" },
+  { n = 3, title = "Freezing Out", mbid = "b4d9087d-1107-43af-9ddf-559c794202a7" },
+  { n = 4, title = "Oiseaux", mbid = "49457b85-de9a-408b-9742-3c0e96b18154" },
+  { n = 5, title = "Ruhe", mbid = "9db932e6-3503-4b7f-8cba-af2096f22097" },
+  { n = 6, title = "No Tony", mbid = "5d5750aa-f512-4d6c-a131-920488031df7" },
+  { n = 7, title = "End of the World", mbid = "630cc94f-30a4-418a-99cb-0ecaa42dde27" },
+  { n = 8, title = "The One You Buy", mbid = "44b0a4bb-194d-41b0-af8d-92197f640d12" },
+  { n = 9, title = "All Wet", mbid = "b71d5a0e-af40-458b-b086-ba134d802a9d" },
+  { n = 10, title = "Chairs", mbid = "2449a111-73fb-428e-aa56-493187bab4f6" },
+  { n = 11, title = "Your Liver", mbid = "9d2b102b-abcf-467f-9ee1-8d256343eaef" },
+  { n = 12, title = "Hand in the Fire (album version)", mbid = "ee3beeff-c11a-4692-b03d-6a709147b755" },
+  { n = 13, title = "Low Ink", mbid = "d4221ee3-426f-4522-8785-7c5002c59933" },
+  { n = 14, title = "Goulag Drums", mbid = "34ae0926-cfdf-48bc-ae0e-b50d784c8416" },
+  { n = 15, title = "Useless", mbid = "d3e83d39-c080-4681-b66b-517b409adce0" },
+]
+
+[[release]]
+mbid = "dc788599-200b-498b-bc01-83b11742ee15"
+title = "Rythme Plat"
+type = "ep"
+date = "2019-03-22"
+tracks = [
+  { n = 1, title = "Rythme Plat", mbid = "3755ac5a-8b44-4920-a100-b0698bce0e8c" },
+  { n = 2, title = "Viandes Légumes Véhicules", mbid = "af4e8575-4411-47f7-8adb-2d9a1f1aecea" },
+  { n = 3, title = "Dolce Vita", mbid = "dae213b6-1193-4fb6-a994-8936c44c1b30" },
+  { n = 4, title = "Nuque", mbid = "cb0a6719-4e9a-47a9-80ba-0380cbe4a52e" },
+]
+
+[[release]]
+mbid = "7b2a2682-9bc9-4e57-b8ba-83d1fdf9c532"
+title = "Pharmacist"
+type = "single"
+date = "2020-04-03"
+tracks = [
+  { n = 1, title = "Pharmacist", mbid = "b456dbce-047d-4288-988f-ef5d4a62e5a1" },
+  { n = 2, title = "Tsicamrahp", mbid = "5ff484fa-7c72-400c-bb33-afbd06854b0e" },
+]
+
+[[release]]
+mbid = "09d86a49-048c-4abf-aec1-8dff97848993"
+title = "Serenata Barbecue"
+type = "single"
+date = "2022-02-16"
+spotify = "6RQQjZLFr4KF19ulrvn3dU"
+tracks = [
+  { n = 1, title = "Serenata Barbecue", mbid = "18989b4b-5289-4db9-bd9b-2a1a212a6505" },
+]
+
+[[release]]
+mbid = "d7dfcff5-f72d-4433-a84d-1308c822d2ff"
+title = "VOILÀ"
+type = "album"
+date = "2022-02-18"
+tracks = [
+  { disc = 1, n = 1, title = "Foie Gras", mbid = "a0b01190-3516-47c7-bc04-112094fbcd42" },
+  { disc = 1, n = 2, title = "Sylvie", mbid = "7ea1f264-0f23-48ad-b86e-9012266cbcec" },
+  { disc = 1, n = 3, title = "Date 2", mbid = "706f8cf0-6390-40b8-a464-1f222d951e70" },
+  { disc = 1, n = 4, title = "Un Attimo", mbid = "26179d89-a3f2-4d34-b72a-286218892d2b" },
+  { disc = 1, n = 5, title = "Hot In Her", mbid = "bf15dd94-ffb8-41c5-b1b0-fa4d1459f06b" },
+  { disc = 1, n = 6, title = "Borrachos", mbid = "29afd60f-54e3-4b72-86e1-d598bd4989b9" },
+  { disc = 1, n = 7, title = "Easyjet", mbid = "afc1716c-5b01-4ddb-963a-f873adec5768" },
+  { disc = 1, n = 8, title = "Serenata Barbecue", mbid = "18989b4b-5289-4db9-bd9b-2a1a212a6505" },
+  { disc = 1, n = 9, title = "Hits Me", mbid = "6664a6d8-c337-42b4-848b-7f0f052aa931" },
+  { disc = 2, n = 1, title = "Foie Gras (Instrumental)", mbid = "cd179aae-6b06-4f7a-9b64-dfb6655fa489" },
+  { disc = 2, n = 2, title = "Sylvie (Instrumental)", mbid = "cc49a791-34dd-494f-b865-66e65d1e0df1" },
+  { disc = 2, n = 3, title = "Date 2 (Instrumental)", mbid = "60b7e688-7ed8-434e-a3af-8c4f23aafc95" },
+  { disc = 2, n = 4, title = "Un Attimo (Instrumental)", mbid = "5a98772c-7256-458e-b407-3c0573b40fb3" },
+  { disc = 2, n = 5, title = "Hot In Her (Instrumental)", mbid = "9ba7da9f-d4f7-4818-ae39-7784a94b63ed" },
+  { disc = 2, n = 6, title = "Borrachos (Instrumental)", mbid = "94836da4-0433-4a38-bfb9-d96da729d178" },
+  { disc = 2, n = 7, title = "Easyjet (Instrumental)", mbid = "9b252db5-339c-4c11-a611-6071166a156a" },
+  { disc = 2, n = 8, title = "Serenata Barbecue (Instrumental)", mbid = "6ae49b58-0594-44b9-b13c-82ff3219895d" },
+  { disc = 2, n = 9, title = "Hits Me (Instrumental)", mbid = "95d014cd-6317-4c8a-a0a9-8ecf02a5f7ba" },
+]
+
+[[release]]
+mbid = "28b51edf-c6ea-4e89-95d8-547638cd7765"
+title = "RATATA"
+type = "single"
+date = "2023-02-17"
+spotify = "1Gjfloocho6vjWqkxhW6L4"
+tracks = [
+  { n = 1, title = "RATATA", mbid = "f51f3509-29bd-4738-a3e4-58a0a5b79602" },
+]
+
+[[release]]
+mbid = "6e13e55f-a84d-44c3-acd9-54bb520d9327"
+title = "Amerika"
+type = "single"
+date = "2023-06-30"
+tracks = [
+  { n = 1, title = "Amerika", mbid = "e8f8e34b-3ce1-47ea-a71e-06f43c7eceba" },
+]
+
+[[release]]
+mbid = "e341552d-0afc-455f-9fad-15057d7d3d94"
+title = "L'Accident de piano"
+type = "album"
+date = "2025-07-02"
+spotify = "4oGCRsbQVJTyfvpMN71Rv7"
+tracks = [
+  { n = 1, title = "Magalie", mbid = "3b6ab66e-df31-49b4-bf76-a2090eaabece" },
+  { n = 2, title = "Machoires", mbid = "487f311a-ee22-424d-9262-b46bc144a68e" },
+  { n = 3, title = "Accident", mbid = "b3c104ae-1aee-4569-8204-486ce3b61902" },
+  { n = 4, title = "Mémoires", mbid = "f176a588-f4da-4aca-93ce-64ebe1bebe47" },
+  { n = 5, title = "Dents", mbid = "12808cc7-7149-4abe-b5c6-3223e082043e" },
+  { n = 6, title = "Simone Herzog", mbid = "75b2634d-b8a4-45b5-8be0-54efdba8ca13" },
+  { n = 7, title = "Romeo", mbid = "2e13978b-9b89-452e-adbb-5e530c1e7819" },
+  { n = 8, title = "Comshoppy", mbid = "ec365f03-922b-4e71-89df-dc66cd46ca0d" },
+  { n = 9, title = "Magalie Postlude", mbid = "bfc15c0f-946d-4757-acf7-f34e399b214c" },
+]

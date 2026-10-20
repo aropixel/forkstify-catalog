@@ -1,0 +1,733 @@
+format = 1
+
+[[release]]
+mbid = "93786698-1673-3977-8cd6-c7093e074d35"
+title = "Bongo Bong / Je ne t’aime plus"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Bongo Bong", mbid = "aef7788e-0132-4039-bb45-d2c6036ae1c8" },
+  { n = 2, title = "Je ne t'aime plus", mbid = "fa6e7487-1475-4ddd-adb1-b7bc0aef52fb" },
+  { n = 3, title = "Mr Bobby", mbid = "ee520b2d-bd0c-4103-9dd6-8f41b26b7db6" },
+  { n = 4, title = "Mentira…", mbid = "7719f9ca-c8fa-48a8-a8d1-df24e95247d0" },
+  { n = 5, title = "Bienvenido a Tijuana", mbid = "91944b16-8c73-4fb6-94fe-86a3cdae2bf8" },
+]
+
+[[release]]
+mbid = "24a451c9-a8f3-33f9-a4fc-5e2d00cb7816"
+title = "Clandestino"
+type = "album"
+date = "1998-03"
+spotify = "3xoAUqjKs7Ps7wR26VAMbq"
+tracks = [
+  { n = 1, title = "Clandestino", mbid = "b0eb1856-ef50-4f4b-a84a-04aea2ae9dcf" },
+  { n = 2, title = "Desaparecido", mbid = "69c2473e-c63c-42be-9dff-055136eb3a5a" },
+  { n = 3, title = "Bongo Bong", mbid = "aef7788e-0132-4039-bb45-d2c6036ae1c8" },
+  { n = 4, title = "Je ne t’aime plus", mbid = "9b419aac-9b02-4c12-b597-0cb6d6080387" },
+  { n = 5, title = "Mentira…", mbid = "7719f9ca-c8fa-48a8-a8d1-df24e95247d0" },
+  { n = 6, title = "Lágrimas de oro", mbid = "68c835aa-9947-4a0b-8495-646f3ec8ce96" },
+  { n = 7, title = "Mama Call", mbid = "67ebcdf6-a834-4747-ad22-d425d001f9a9" },
+  { n = 8, title = "Luna y sol", mbid = "c98764d7-3a9e-4bbb-9b37-87a6bca3e8b4" },
+  { n = 9, title = "Por el suelo", mbid = "296c8ef4-34d3-4aee-a369-bb2f49eac6a7" },
+  { n = 10, title = "Welcome to Tijuana", mbid = "1db726e5-6556-48a8-8fef-b0fd6720d676" },
+  { n = 11, title = "Día luna… Día pena", mbid = "e5039da9-667c-4ce0-ba74-e7fc04209059" },
+  { n = 12, title = "Malegría", mbid = "1453729a-394f-4d8a-8814-c6071d53abbd" },
+  { n = 13, title = "La vie à 2", mbid = "c0eb7b94-0a4d-4e1f-b4c5-6633acc8cbfd" },
+  { n = 14, title = "Minha galera", mbid = "0fcc03d9-ea69-45a5-af13-f0f9ddd5f230" },
+  { n = 15, title = "La despedida", mbid = "f4e6bc32-cd82-49ce-b04a-73fb716ad1ed" },
+  { n = 16, title = "El viento", mbid = "21fe115d-6b33-431c-b798-80651ccc9673" },
+]
+
+[[release]]
+mbid = "05929f8e-82c6-3f54-938b-dec810b4e5fb"
+title = "Me gustas tú"
+type = "single"
+date = "2001"
+spotify = "0HcjiEVNspzxKMJjev4PKZ"
+tracks = [
+  { n = 1, title = "Me gustas tu", mbid = "a591c74f-05d1-48e5-8a7e-a82becb43e7e" },
+  { n = 2, title = "La primavera", mbid = "cdd1a0e4-d46a-4e7a-8906-77784184782b" },
+]
+
+[[release]]
+mbid = "9d02392e-2bb5-3109-892d-75da91c9048b"
+title = "Próxima estación: Esperanza"
+type = "album"
+date = "2001-06-01"
+spotify = "4t1LLdXiWTfoywqricztFo"
+tracks = [
+  { n = 1, title = "Merry Blues", mbid = "3f3a94fe-1f25-4c6a-8880-dcd79382ea8a" },
+  { n = 2, title = "Bixo", mbid = "46a31097-055f-444f-9f78-a45867a850ab" },
+  { n = 3, title = "Eldorado 1997", mbid = "5351db83-202e-41b0-9571-aa3a92a3e788" },
+  { n = 4, title = "Promiscuity", mbid = "212bb253-6631-49fa-af03-44ce49caeaf3" },
+  { n = 5, title = "La primavera", mbid = "cdd1a0e4-d46a-4e7a-8906-77784184782b" },
+  { n = 6, title = "Me gustas tú", mbid = "a591c74f-05d1-48e5-8a7e-a82becb43e7e" },
+  { n = 7, title = "Denia", mbid = "1947fcf2-9db1-472f-8d0e-1f7b150d2104" },
+  { n = 8, title = "Mi vida", mbid = "ffa16d1c-18ca-4c7b-bfb9-8949a6871b5c" },
+  { n = 9, title = "Trapped by Love", mbid = "aa6773d2-90ff-4637-8c7c-948e8eb2581f" },
+  { n = 10, title = "Le rendez-vous", mbid = "66f408bd-a830-41bb-afaa-99a38798f82d" },
+  { n = 11, title = "Mr Bobby", mbid = "eab96afa-40ee-457f-885e-569fb4b34a8f" },
+  { n = 12, title = "Papito", mbid = "1f4a2fd3-a648-45bc-b2bb-ab7ec5169bbb" },
+  { n = 13, title = "La chinita", mbid = "7454b848-f893-46e2-8a1b-a40a2d3f7160" },
+  { n = 14, title = "La marea", mbid = "67348ca0-f7fe-4537-a1f2-bd343802d51b" },
+  { n = 15, title = "Homens", mbid = "70748db4-d9b7-4935-8ff7-560521dda869" },
+  { n = 16, title = "La vacaloca", mbid = "8c1b6457-47dc-4fff-9cbe-2ae1e99e65ac" },
+  { n = 17, title = "Infinita tristeza", mbid = "72577163-f9f8-4fbc-83f3-cba427066aec" },
+]
+
+[[release]]
+mbid = "1ecb8a4c-8e10-33b5-b3ad-8659312862df"
+title = "Merry Blues"
+type = "single"
+date = "2001-11-20"
+tracks = [
+  { n = 1, title = "Merry Blues", mbid = "3f3a94fe-1f25-4c6a-8880-dcd79382ea8a" },
+  { n = 2, title = "Merry Blues (Dancehall 161 remix)", mbid = "47b84b40-3dac-4ce3-aac1-e736690278b7" },
+  { n = 3, title = "Merry Blues (DJ Muggs remix)", mbid = "873808b5-c30b-45fe-9fbe-89b732048e8e" },
+]
+
+[[release]]
+mbid = "85f5763f-f1f4-34b2-8fb8-8ea77ddcce2b"
+title = "Mister Bobby"
+type = "single"
+date = "2002-09-09"
+tracks = [
+  { n = 1, title = "Mister Bobby (Politik Kills)", mbid = "6513f9c6-4cef-4394-b1b4-1332f998bd3e" },
+  { n = 2, title = "Mister Bobby (Wyskyfacile)", mbid = "e80e4838-e785-4ece-b151-ceac63b826d4" },
+  { n = 3, title = "Mister Bobby", mbid = "28112cba-cec3-40c6-bfd7-fe322d521099" },
+]
+
+[[release]]
+mbid = "92c71bd5-c272-32cd-8864-c13e3c83af9b"
+title = "Sibérie m’était contéee"
+type = "album"
+date = "2004-11-01"
+tracks = [
+  { n = 1, title = "Le p’tit jardin", mbid = "0fc252bc-3a79-4b0e-a51d-7b4eeb928b85" },
+  { n = 2, title = "Petite blonde du bld Brune", mbid = "6977dfc4-44c8-410d-a604-89dfa2fb71ce" },
+  { n = 3, title = "La Valse à sale temps", mbid = "7d5c23b0-5157-4257-8b12-bec1c20ee115" },
+  { n = 4, title = "Les Mille paillettes", mbid = "e52a3fc8-65a2-4b74-8f79-15715e2fbedc" },
+  { n = 5, title = "Il faut manger", mbid = "a3b89633-e980-4860-9598-4d92bd57855d" },
+  { n = 6, title = "Helno est mort", mbid = "271ad1e0-3994-4389-bcf9-cdec53f21ca5" },
+  { n = 7, title = "J’ai besoin de la lune", mbid = "0209e0cd-d25e-4f54-b38a-2eec4be3349b" },
+  { n = 8, title = "L’automne est las", mbid = "2b4b2415-1015-4bac-a93e-8d88022b8364" },
+  { n = 9, title = "Si loin de toi… je te joue…", mbid = "309b76c7-09b8-4d1e-8353-a2b3e642febe" },
+  { n = 10, title = "100.000 remords", mbid = "7fe07639-0a68-4a1b-ba93-300cd86edd17" },
+  { n = 11, title = "Trop tôt, trop tard…", mbid = "029df8d4-05ce-4ace-b7a5-55c6b0d74e89" },
+  { n = 12, title = "Te tromper", mbid = "64b49805-3e26-494d-b28f-f4ff7e7f0e75" },
+  { n = 13, title = "Madame Banquise", mbid = "a256c7c9-f8c0-4f71-8cdc-e9e0dd57894a" },
+  { n = 14, title = "Les Rues de l’hiver…", mbid = "530b4d66-acdd-4367-b0e7-e0e90a85b69f" },
+  { n = 15, title = "Sibérie fleuve amour", mbid = "e8dde24e-66f2-4d5a-98ec-2dba959326e0" },
+  { n = 16, title = "Les Petites planètes", mbid = "4341432d-5d99-4edc-bb1d-09bd242c2f17" },
+  { n = 17, title = "Te souviens‐tu…", mbid = "f9b4df68-a1fa-443e-82da-80a0ca2bfd59" },
+  { n = 18, title = "J’ai besoin de la lune… (remix)", mbid = "d4d82ee8-50b8-4835-a7f2-2d5a20ef7c66" },
+  { n = 19, title = "Dans mon jardin", mbid = "3d8c7e5d-8a62-4c8e-985c-e3a4dbb640b4" },
+  { n = 20, title = "Merci bonsoir…", mbid = "34f14ed1-8054-4088-9c24-5db2f5089245" },
+  { n = 21, title = "Fou de toi", mbid = "a208a5e1-3f8f-427c-aee3-1307869b8af6" },
+  { n = 22, title = "Les Yeux turquoise", mbid = "ab1b8ae8-7e38-46bc-8503-9b0b6841ac05" },
+  { n = 23, title = "…Sibérie…", mbid = "c24677de-74ea-4528-a650-2ab18d0117a9" },
+]
+
+[[release]]
+mbid = "979fd45a-70ae-3df1-89b1-f7415f85bb59"
+title = "Rainin in Paradize"
+type = "ep"
+date = "2007"
+tracks = [
+  { n = 1, title = "Rainin in Paradize (radio edit)", mbid = "1c6f543c-a03c-4684-ba45-78f0cbc79806" },
+  { n = 2, title = "Mama Cuchara", mbid = "305bae48-483b-436d-871d-be66501a9ddd" },
+  { n = 3, title = "Panik Panik", mbid = "19bbcfbb-1444-45d9-8b4e-dd25834e2d54" },
+  { n = 4, title = "Rainin' In Paradize (long album version)", mbid = "43620785-63e2-46ab-9569-9826cda39e8e" },
+]
+
+[[release]]
+mbid = "96ea2a3d-8175-338d-818b-965497f0aa56"
+title = "La Radiolina"
+type = "album"
+date = "2007-08-04"
+spotify = "3Gyn6McG8JN6dOFeQkQX2l"
+tracks = [
+  { n = 1, title = "13 días", mbid = "9b32b6f8-02d5-42ce-8076-50ee1194ef2a" },
+  { n = 2, title = "Tristeza maleza", mbid = "a7222d0e-f636-4bf0-951e-3c5e5f6b1a7e" },
+  { n = 3, title = "Politik Kills", mbid = "cf1f8bbb-bf61-4244-bc32-63c1f3784f6d" },
+  { n = 4, title = "Rainin in Paradize", mbid = "2502cc18-919d-4f4f-8f97-95b74cc4a27c" },
+  { n = 5, title = "Besoin de la lune", mbid = "b2dcae75-639b-4a17-beca-e65a1808470f" },
+  { n = 6, title = "El kitapena", mbid = "532d7f95-f9ec-4bf0-a36a-267203deda2b" },
+  { n = 7, title = "Me llaman calle", mbid = "1ef5a6da-0a82-4aa7-946d-46b76b15471a" },
+  { n = 8, title = "A cosa", mbid = "4716ab56-bd17-4b8d-8b04-35f2950ff79c" },
+  { n = 9, title = "The Bleedin Clown", mbid = "a0ffc324-c03a-4824-bc75-3cda7727856b" },
+  { n = 10, title = "Mundorévès", mbid = "874d0af0-a731-4cee-a2ad-2c4e8910616a" },
+  { n = 11, title = "El hoyo", mbid = "a78fb317-78bd-44a9-ad0a-7934b795e4d9" },
+  { n = 12, title = "La vida tómbola", mbid = "1575b872-4a39-490d-a715-27d70d3a37ec" },
+  { n = 13, title = "Mala fama", mbid = "71979e66-8ce4-4cb9-85c0-6e8144df6132" },
+  { n = 14, title = "Panik Panik", mbid = "552204c1-7f61-4bf6-8b73-164c685ab406" },
+  { n = 15, title = "Otro mundo", mbid = "61196b82-89d7-484e-a241-a455813c7538" },
+  { n = 16, title = "Piccola radiolina", mbid = "6d9a4dcd-3101-4feb-bb17-a7e313f834d2" },
+  { n = 17, title = "¿Y ahora qué?", mbid = "57fd5775-c05c-4c62-ae70-2df7e92b10d1" },
+  { n = 18, title = "Mama cuchara", mbid = "f954a13e-53a8-4346-b849-9cf1260ed773" },
+  { n = 19, title = "Siberia", mbid = "d5acd194-a2b6-4ab2-bac7-31b1eb5ce9e6" },
+  { n = 20, title = "Soñé otro mundo", mbid = "afbeda97-0637-4cd4-bc99-349b7f4537d1" },
+  { n = 21, title = "Amalucada vida", mbid = "6f2eaba5-93ee-43e3-8f52-439501b771d0" },
+]
+
+[[release]]
+mbid = "ca21aa76-2e96-4976-ab06-d5a404e1a33c"
+title = "Me Llaman Calle"
+type = "single"
+date = "2007-10-29"
+tracks = [
+  { n = 1, title = "Me Llaman Calle", mbid = "1ef5a6da-0a82-4aa7-946d-46b76b15471a" },
+  { n = 2, title = "Dia Luna...Dia Pena (Live @ Coachella 2007)", mbid = "6750b758-7db8-4139-af17-4555b82aa483" },
+  { n = 3, title = "Mr Bobby (Live @ Coachella 2007)", mbid = "4f4adfcd-aa3e-4a47-84d3-ea1c2fdcaeea" },
+]
+
+[[release]]
+mbid = "38232608-84ce-4aa9-b28e-4a9b047016a7"
+title = "La vida tombola"
+type = "single"
+date = "2008"
+tracks = [
+  { n = 1, title = "La vida tombola (album version)", mbid = "1575b872-4a39-490d-a715-27d70d3a37ec" },
+  { n = 2, title = "La vida tombola (Abbey Road version)", mbid = "7489701a-ab0e-4453-8de4-0ea5af2c24d2" },
+]
+
+[[release]]
+mbid = "0941201a-8069-483e-84b8-b5a7204172a1"
+title = "Politik Kills"
+type = "single"
+date = "2008-04-21"
+tracks = [
+  { n = 1, title = "Politik Kills (Dennis Bovell Remix)", mbid = "13782342-d7bd-4214-8d9f-7f7ad4db5743" },
+  { n = 2, title = "Politik Kills (Prince Fatty Remix)", mbid = "477bdfe8-2174-49ee-99c2-6c104f22a48f" },
+  { n = 3, title = 'Politik Kills (Chris Blackwell & Paul "Groucho" Smykle Remix)', mbid = "35cf4dfd-e20f-4ba7-a33d-baaab9489963" },
+  { n = 4, title = "Politik Kills (Rude Barriobeat Remix)", mbid = "9d4f1613-4bed-4b49-bb6d-3adb4f5773b6" },
+  { n = 5, title = "Politik Kills (David B. Remix)", mbid = "52198698-7eff-49ae-88f4-cf7b50663102" },
+  { n = 6, title = "Politik Kills (Prince Fatty Remix Instrumental Version)", mbid = "a1afde11-49ef-4237-b512-8dbafbd6f44e" },
+]
+
+[[release]]
+mbid = "9489c5dc-922c-3d9b-8fe4-bbccce09a18b"
+title = "A cosa"
+type = "single"
+date = "2008-12"
+tracks = [
+  { n = 1, title = "A cosa", mbid = "4716ab56-bd17-4b8d-8b04-35f2950ff79c" },
+  { n = 2, title = "A cosa (Prince Fatty version)", mbid = "acd08683-8c32-4e50-bdb5-2a91c4ce4ea3" },
+]
+
+[[release]]
+mbid = "3cd5acbd-194a-491d-b4f7-46eccc68de08"
+title = "Seinekvn"
+type = "single"
+date = "2014-08-04"
+tracks = [
+  { n = 1, title = "Seinekvn", mbid = "3ee91e3c-d049-42bc-9767-0778c1e53666" },
+]
+
+[[release]]
+mbid = "eaef48e6-f382-4a12-9300-29433773ad8e"
+title = "A la par del amor"
+type = "single"
+date = "2017"
+tracks = [
+  { n = 1, title = "A la par del amor", mbid = "50c9a513-269e-4e92-bd71-cd64fe5f4f9b" },
+]
+
+[[release]]
+mbid = "aa1a4da8-239e-403d-846b-b8e6e76b86e5"
+title = "La marea"
+type = "single"
+date = "2017"
+tracks = [
+  { n = 1, title = "La marea", mbid = "8285a155-3206-48a7-b355-b34324d97658" },
+]
+
+[[release]]
+mbid = "0bb4f24d-4f6f-40d6-90a1-5e21769ab891"
+title = "No solo en China hay futuro"
+type = "single"
+date = "2017-01"
+tracks = [
+  { n = 1, title = "No solo en China hay futuro", mbid = "c3e4cd57-1e43-4af5-8aff-343515267612" },
+]
+
+[[release]]
+mbid = "8c54bc31-aae0-424f-8ebf-fac476c75dde"
+title = "Words of Truth"
+type = "single"
+date = "2017-01"
+tracks = [
+  { n = 1, title = "Words of Truth", mbid = "3757999b-7a9f-46e1-b659-36098d614abf" },
+]
+
+[[release]]
+mbid = "5c1c298c-a38c-4d78-9c27-aab2ec3f5e22"
+title = "Moonlight Avenue"
+type = "single"
+date = "2017-01-01"
+spotify = "30Gnc3m1VfEut2poQThDph"
+tracks = [
+  { n = 1, title = "Moonlight Avenue (radio edit)", mbid = "cb940c7d-fca5-4d02-beac-247e09bd2ab5" },
+]
+
+[[release]]
+mbid = "7391a84b-cff2-4284-af9d-491da018c9ab"
+title = "Athina Vrazi"
+type = "single"
+date = "2017-06-01"
+tracks = [
+  { n = 1, title = "Athina Vrazi (Η Αθήνα Βράζει)", mbid = "88afe7ba-7547-4a6d-955c-8c8acf86ce71" },
+]
+
+[[release]]
+mbid = "4569f7f4-282c-4963-a119-8c439231ef39"
+title = "Seeds of Freedom"
+type = "single"
+date = "2017-06-02"
+tracks = [
+  { n = 1, title = "Seeds of freedom (instrumental version)", mbid = "d2b30354-8624-4ca5-873f-4f0e62c6f462" },
+]
+
+[[release]]
+mbid = "466e41e5-43a3-481a-88fa-8d73a2c1e6f2"
+title = "Peki Peki Song"
+type = "single"
+date = "2017-06-16"
+tracks = [
+  { n = 1, title = "Peki Peki Song", mbid = "82ad5025-1d30-4b51-8003-6dc9bb5f83b5" },
+]
+
+[[release]]
+mbid = "ddd2397d-12fd-4647-931c-ec9c4b4f3e0c"
+title = "La vecina del patio"
+type = "single"
+date = "2017-09-15"
+tracks = [
+  { n = 1, title = "La vecina del patio", mbid = "455dcb1b-73a2-4c7e-9e44-15da06799705" },
+]
+
+[[release]]
+mbid = "ea71bad8-09a4-4edb-ab07-6ba2ad7d08ea"
+title = "Do You Hear Me Calling"
+type = "single"
+date = "2017-09-22"
+tracks = [
+  { n = 1, title = "Do You Hear Me Calling", mbid = "a9ff0a3a-2a65-44fc-b166-9ac96b946d40" },
+]
+
+[[release]]
+mbid = "6b69ee1c-9d74-4f3d-996e-bcb523c4bbb9"
+title = "Anatoli"
+type = "single"
+date = "2017-11-24"
+tracks = [
+  { n = 1, title = "Anatoli (Ανατολή)", mbid = "9c4c7a46-6ccd-48a1-9122-08d45eccf244" },
+]
+
+[[release]]
+mbid = "a7046c57-6d31-445a-8048-139a20f402d4"
+title = "Palabras de verdad"
+type = "single"
+date = "2017-12-21"
+tracks = [
+  { n = 1, title = "Palabras de verdad", mbid = "21878000-bfac-4e91-90e4-3f789c102fae" },
+]
+
+[[release]]
+mbid = "8b176d81-8a35-4703-8f2f-db54cf699b57"
+title = "El Boca River"
+type = "single"
+date = "2018-12-01"
+tracks = [
+  { n = 1, title = "El Boca River", mbid = "817bcbfc-3ff3-4e65-94e3-f2273df988d4" },
+]
+
+[[release]]
+mbid = "519e50e3-31f2-4987-a6f8-ac4df5e444bd"
+title = "Bienvenido a Tijuana"
+type = "single"
+date = "2019"
+tracks = [
+  { n = 1, title = "Bienvenido a Tijuana", mbid = "91944b16-8c73-4fb6-94fe-86a3cdae2bf8" },
+]
+
+[[release]]
+mbid = "a0a9cb90-99a2-47d4-b774-1cda2578df6a"
+title = "Bleeding Clown"
+type = "single"
+date = "2019"
+tracks = [
+  { n = 1, title = "Bleeding Clown", mbid = "865679c8-5996-4fd7-87b4-c6956d3a86f8" },
+]
+
+[[release]]
+mbid = "aba28a60-fdeb-4625-9234-573116fdc86c"
+title = "Easy Rider"
+type = "single"
+date = "2019"
+tracks = [
+  { n = 1, title = "Easy Rider", mbid = "b64ef26b-440e-4045-842d-139beed71e7c" },
+]
+
+[[release]]
+mbid = "e1d67ab5-c10a-40d3-ba36-d325fcc30de2"
+title = "Roadies Rules"
+type = "single"
+date = "2019"
+tracks = [
+  { n = 1, title = "Roadies Rules", mbid = "04309fe7-c8fa-4a9b-a9a4-dba63d4e4a6a" },
+]
+
+[[release]]
+mbid = "cafb27c9-b64e-456b-b5b6-5a5748296c98"
+title = "Clandestino"
+type = "single"
+date = "2019-05-31"
+tracks = [
+  { n = 1, title = "Clandestino", mbid = "1ae719f1-50dc-454a-a9de-e2cc89c0e599" },
+]
+
+[[release]]
+mbid = "73582021-85aa-4e8b-8eec-d28d44c50ed2"
+title = "Bloody Bloody Border"
+type = "single"
+date = "2019-07"
+tracks = [
+  { n = 1, title = "Bloody Bloody Border", mbid = "0552086e-e691-49a4-928d-7b2efa684f18" },
+]
+
+[[release]]
+mbid = "8c98224d-22f8-4496-ab23-e95f008ede8f"
+title = "Bloody Border"
+type = "single"
+date = "2019-07"
+tracks = [
+  { n = 1, title = "Bloody Border", mbid = "9e6f0077-2ac0-4aad-916b-288b84b9cdaa" },
+]
+
+[[release]]
+mbid = "7132cf7e-8293-49b8-b77f-a973788158c1"
+title = "Cross the Line"
+type = "single"
+date = "2019-11-05"
+spotify = "4m1cxTvYX2HIcri29vA2j0"
+tracks = [
+  { n = 1, title = "Cross the Line", mbid = "41e5ea55-cada-4015-8e5b-cf02a8f3b734" },
+]
+
+[[release]]
+mbid = "304d1148-681e-4cc0-ace9-706b1a4f7bae"
+title = "Soul Rebel featuring Bunny Wailer and Manu Chao - Song Around The World - Playing For Change"
+type = "single"
+date = "2019-12-31"
+tracks = [
+  { n = 1, title = "Soul Rebel", mbid = "04ceae1b-b222-4905-a43c-4b3eb1826c29" },
+]
+
+[[release]]
+mbid = "a08148a9-0102-47be-b0d4-74247d466b11"
+title = "Acontecer"
+type = "single"
+date = "2020-06-26"
+spotify = "1RVsLyEqAsfhKD6CvQjdrc"
+tracks = [
+  { n = 1, title = "Acontecer", mbid = "24e82312-1a34-4f09-8e0b-8d08340e3d5d" },
+]
+
+[[release]]
+mbid = "39e74493-93ab-4e6f-bbf0-5a5e12a0b108"
+title = "Salary Man"
+type = "single"
+date = "2020-07-03"
+spotify = "0rT095JzPnarA22fCUiala"
+tracks = [
+  { n = 1, title = "Salary Man", mbid = "2159d9c3-9563-4076-bd31-6e97f687d5d6" },
+]
+
+[[release]]
+mbid = "924766e0-f799-49e1-8173-70273844c768"
+title = "Promiscuity"
+type = "single"
+date = "2020-07-10"
+spotify = "4qV915uOt2D6POjyCMMeap"
+tracks = [
+  { n = 1, title = "Promiscuity", mbid = "e1882da7-915d-4261-979b-a8ff004b81ed" },
+]
+
+[[release]]
+mbid = "a9c83faf-5462-4cfc-a776-a0b7cf062b2d"
+title = "Fire inna Streets"
+type = "single"
+date = "2020-07-17"
+spotify = "32ZlDHDItwCsdX8oxm5gWE"
+tracks = [
+  { n = 1, title = "Fire inna Streets", mbid = "812c7460-60fd-41ae-9ef7-94f1860940f6" },
+]
+
+[[release]]
+mbid = "e3a599d3-a9f1-49d1-9f6c-1682c6055e62"
+title = "Pokito de mí"
+type = "single"
+date = "2020-12-04"
+spotify = "1D4MCYNbyL9tyLTExWge3j"
+tracks = [
+  { n = 1, title = "Pokito de mí", mbid = "6541a113-1114-4d01-877d-3ba40afd10ac" },
+]
+
+[[release]]
+mbid = "4743fc8b-248c-4e3a-9dba-7845156f5cd3"
+title = "Algundiavacaer"
+type = "single"
+date = "2020-12-18"
+spotify = "10mWSsk2msA86Sl48sOf39"
+tracks = [
+  { n = 1, title = "Algundiavacaer", mbid = "287be361-b7f7-4fd4-a4e3-fd173ff5e32c" },
+]
+
+[[release]]
+mbid = "d3ca9e32-28f0-4c3c-ba6b-a5f8c8947e42"
+title = "Todo llegará"
+type = "single"
+date = "2020-12-31"
+spotify = "3BuzL6UOG8e4kVxLDqlbqr"
+tracks = [
+  { n = 1, title = "Todo llegará", mbid = "7646c04b-71a7-47ed-8d0d-4311af889f1d" },
+]
+
+[[release]]
+mbid = "63dc4006-04db-42df-832f-56017db6a280"
+title = "Free the People"
+type = "single"
+date = "2021-05-28"
+tracks = [
+  { n = 1, title = "Free the People", mbid = "f04b04e2-de55-4aaa-a1a3-84113217fa93" },
+]
+
+[[release]]
+mbid = "c34b6b7d-4cc0-45c7-8b10-064fb0278b1b"
+title = "Estación Esperanza"
+type = "single"
+date = "2022-01-17"
+spotify = "64q41JtvnThaB2VaVrqfpQ"
+tracks = [
+  { n = 1, title = "Estación Esperanza", mbid = "cd453530-ad40-4191-9f86-aff0cfc00127" },
+]
+
+[[release]]
+mbid = "ca7a4ab8-c635-4551-92f6-e4b7ccc7ce1a"
+title = "Inna Reggae Style"
+type = "album"
+date = "2022-07-14"
+spotify = "7ep2XO3J473wqGp9ag2g1x"
+tracks = [
+  { n = 1, title = "A la par del amor", mbid = "fe15c54e-5ada-4fbc-9388-c4c754e0396a" },
+  { n = 2, title = "La vecina del patio", mbid = "455dcb1b-73a2-4c7e-9e44-15da06799705" },
+  { n = 3, title = "Palabras de verdad", mbid = "60af8e81-5dd1-4139-a66f-cc7f3451257a" },
+  { n = 4, title = "Bloody Border", mbid = "d7fa9599-f7af-4ec7-8af5-53777db69507" },
+  { n = 5, title = "Promiscuity", mbid = "e1882da7-915d-4261-979b-a8ff004b81ed" },
+  { n = 6, title = "Fire inna Streets", mbid = "812c7460-60fd-41ae-9ef7-94f1860940f6" },
+  { n = 7, title = "Pokito de mi", mbid = "89577f4e-cfe6-4631-afc3-77efd45170cb" },
+  { n = 8, title = "Algundiavacaer", mbid = "445da552-6afd-47a6-8766-73053aba34ce" },
+  { n = 9, title = "Todo llegará", mbid = "e119aef9-c8dd-4593-affe-60eff5153056" },
+  { n = 10, title = "Free the People", mbid = "736792d7-41cf-4249-9c3e-52e545fb83e5" },
+]
+
+[[release]]
+mbid = "4b7b9283-c067-41df-af5e-d8086d245f78"
+title = "Me Provoca Te Ver"
+type = "single"
+date = "2022-07-22"
+tracks = [
+  { n = 1, title = "Me Provoca Te Ver", mbid = "c6a35e11-b070-4082-aea3-fcfed032dadf" },
+]
+
+[[release]]
+mbid = "e1d924f1-f5ba-4ada-8c6f-3ae11f4a97ca"
+title = "Me Duele"
+type = "single"
+date = "2022-09-14"
+tracks = [
+  { n = 1, title = "Me duele", mbid = "6e92b830-79cb-48b2-93b5-36b43269f95c" },
+]
+
+[[release]]
+mbid = "6842c194-64ba-438d-bb14-dff6d92050d2"
+title = "Déjame"
+type = "single"
+date = "2023-02-17"
+spotify = "2cOmi1R3BT25t9XZvgiphj"
+tracks = [
+  { n = 1, title = "Déjame", mbid = "604ae37e-5182-4d05-8c34-455d4963d7b8" },
+]
+
+[[release]]
+mbid = "59e4f191-5800-4b7f-9ed3-a534d2292330"
+title = "Santa Maradona"
+type = "ep"
+date = "2023-11-24"
+spotify = "282OvlOFitscdeNBcC5a2L"
+tracks = [
+  { n = 1, title = "La vida tombola", mbid = "247641a2-163e-4b2e-a12a-e47536682314" },
+  { n = 2, title = "Santa Maradona (Larchuma Football club)", mbid = "18b29eeb-f17c-458b-a362-eb7e2bd056ca" },
+  { n = 3, title = "La vida tombola (live Baïonarena)", mbid = "1fa4f987-af0b-4544-891f-1ababe274dab" },
+]
+
+[[release]]
+mbid = "e1e9a09d-0900-4584-96f2-b47c4c6b10e4"
+title = "Clandestino EP"
+type = "ep"
+date = "2024-01-12"
+spotify = "0niZTNRBacC1Sywof53IIu"
+tracks = [
+  { n = 1, title = "Clandestino", mbid = "b0eb1856-ef50-4f4b-a84a-04aea2ae9dcf" },
+  { n = 2, title = "Clandestino (BRBeats remix)", mbid = "e643ec80-8d47-40e6-a006-c08bb11a006c" },
+  { n = 3, title = "Clandestino", mbid = "1ae719f1-50dc-454a-a9de-e2cc89c0e599" },
+  { n = 4, title = "Clandestino (live)", mbid = "7b4d2d0a-eb37-4337-b2df-16b746fe4245" },
+  { n = 5, title = "Clandestino (live Baïoarena)", mbid = "858ebfeb-e045-471d-8e60-590c7510872a" },
+  { n = 6, title = "Clandestino (Saga Whiteblack remix)", mbid = "ba03d307-21cb-45d1-8b47-9d5748c98ee9" },
+  { n = 7, title = "Clandestino (E Kelly remix)", mbid = "398fa2cc-e6de-451a-bf2e-727cb69aef4b" },
+  { n = 8, title = "Clandestino (Kubiyashi remix)", mbid = "279b1678-6557-43a5-ad29-537138d5b03b" },
+]
+
+[[release]]
+mbid = "4abb044a-2b4b-48ee-8962-ae07ef89086d"
+title = "Viva tu"
+type = "single"
+date = "2024-05-29"
+spotify = "1mlsE7Il5lCZi83yzXj0pU"
+tracks = [
+  { n = 1, title = "Viva tu", mbid = "e2527296-4158-4ec5-acf3-2cbbd259764b" },
+]
+
+[[release]]
+mbid = "bc85ae0a-3a3f-4016-8734-0d387e325eee"
+title = "Tu te vas"
+type = "single"
+date = "2024-08-28"
+spotify = "6Wl9NMhu7szXfbjJSB9YO0"
+tracks = [
+  { n = 1, title = "Tu te vas", mbid = "f00d60ee-b5b9-4005-bfc6-61e643094c38" },
+]
+
+[[release]]
+mbid = "7ee013e6-d0d7-4afe-b67b-c66f685f2a83"
+title = "Viva tu"
+type = "album"
+date = "2024-09-19"
+spotify = "0de0VSMdg29Rwoe9MG4ck2"
+tracks = [
+  { n = 1, title = "Vecinos en el mar", mbid = "cfe64be2-9a06-45c4-84aa-78ba01481b80" },
+  { n = 2, title = "La Couleur du temps", mbid = "463344e7-6564-4cf7-8e82-7b13c1ebaf4e" },
+  { n = 3, title = "River Why", mbid = "8c5a9f4f-cc23-454e-b4ec-9e8977ab2b18" },
+  { n = 4, title = "Viva tu", mbid = "e2527296-4158-4ec5-acf3-2cbbd259764b" },
+  { n = 5, title = "Heaven’s Bad Day", mbid = "257dae08-1ef6-40cf-83b0-5b3495eca303" },
+  { n = 6, title = "Tu te vas", mbid = "f00d60ee-b5b9-4005-bfc6-61e643094c38" },
+  { n = 7, title = "Coraçao no mar", mbid = "f4cab421-e805-4b22-8b61-d04f8afeef77" },
+  { n = 8, title = "Cuatro calles", mbid = "f03804e7-8b10-4066-9dc7-ad3ff6321d80" },
+  { n = 9, title = "La colilla", mbid = "065aef83-35af-467a-bbba-64468dbcd1a5" },
+  { n = 10, title = "São Paulo Motoboy", mbid = "65dd2669-a72e-44c1-82d4-0ec4738b0936" },
+  { n = 11, title = "Tom et Lola", mbid = "e7cb8eb1-341b-4df1-ab6e-6f4818120b5c" },
+  { n = 12, title = "Lonely Night", mbid = "01445d7a-ee76-4aa7-9109-9d97db3495b1" },
+  { n = 13, title = "Tantas tierras", mbid = "2615c2a5-9ab6-429e-8af3-4a32c3387ecc" },
+]
+
+[[release]]
+mbid = "bac59995-e66f-4112-a2b3-23b8a4f4a237"
+title = "Heaven’s Bad Day"
+type = "single"
+date = "2024-09-20"
+spotify = "0YLn0gNG58UJegp6oWgCh2"
+tracks = [
+  { n = 1, title = "Heaven’s Bad Day", mbid = "257dae08-1ef6-40cf-83b0-5b3495eca303" },
+]
+
+[[release]]
+mbid = "707d18a6-1bfd-45d8-88a6-6caf61e1467f"
+title = "La Despedida"
+type = "single"
+date = "2024-11-22"
+tracks = [
+  { n = 1, title = "La Despedida", mbid = "b7ae58be-be23-4c31-bc2f-13556cde8317" },
+]
+
+[[release]]
+mbid = "c69041ce-a6f7-4d9c-a46d-1be69756d821"
+title = "Melô do bode"
+type = "single"
+date = "2025-03-07"
+spotify = "2bJS9Lth7PJjpWPI9P0SQR"
+tracks = [
+  { n = 1, title = "Melô do bode", mbid = "f68c6f73-10e1-4697-a161-fe29442bf919" },
+]
+
+[[release]]
+mbid = "f9f2561d-423d-48ea-acbf-7754365b433e"
+title = "Coraçao no mar"
+type = "ep"
+date = "2025-03-21"
+spotify = "2hvVsmV6iWNNilyQNJINb2"
+tracks = [
+  { n = 1, title = "São Paulo motoboy", mbid = "65dd2669-a72e-44c1-82d4-0ec4738b0936" },
+  { n = 2, title = "São Paulo motoboy (Mario Caldato Rock version)", mbid = "3f9b9f9a-ce95-4b8d-bef7-34f46cb66281" },
+  { n = 3, title = "Coraçao no mar", mbid = "f4cab421-e805-4b22-8b61-d04f8afeef77" },
+  { n = 4, title = "Coraçao no mar (Miguel Rumbao remix)", mbid = "8abbef53-2656-4e0d-841c-118d6324e590" },
+  { n = 5, title = "Melo do bode", mbid = "f68c6f73-10e1-4697-a161-fe29442bf919" },
+  { n = 6, title = "Homens", mbid = "70748db4-d9b7-4935-8ff7-560521dda869" },
+  { n = 7, title = "Minha galera", mbid = "0fcc03d9-ea69-45a5-af13-f0f9ddd5f230" },
+]
+
+[[release]]
+mbid = "69313ba0-9719-490f-9ce0-0850811fcb52"
+title = "A me mi piace"
+type = "single"
+date = "2025-05-09"
+spotify = "50KsSqMmKIcModa3dbbNzW"
+tracks = [
+  { n = 1, title = "A me mi piace", mbid = "8a769c11-3f49-40be-9b9f-4e9d864accfb" },
+]
+
+[[release]]
+mbid = "5b72222b-adfa-4000-b5ee-f6235e1669b0"
+title = "Viajando Por El Mundo"
+type = "single"
+date = "2025-06-17"
+spotify = "2IjjIDWnwH9Db5k0SoJTf5"
+tracks = [
+  { n = 1, title = "Viajando Por El Mundo", mbid = "341bd717-6bd6-4adb-afdb-960140c96649" },
+]
+
+[[release]]
+mbid = "c2bbfee5-2f01-4612-904d-ec20381bc3e7"
+title = "Solamente"
+type = "single"
+date = "2025-07-11"
+tracks = [
+  { n = 1, title = "Solamente", mbid = "b5460fcd-7fa2-4a1e-8e26-38d2cb17c027" },
+]
+
+[[release]]
+mbid = "fe7257ba-cda3-4a22-8a03-62570bdd9d77"
+title = "Où tu veux on y va"
+type = "single"
+date = "2025-12-05"
+spotify = "78YGgNuPYq4SVDpVFON1wj"
+tracks = [
+  { n = 1, title = "Où tu veux on y va", mbid = "8f9867ad-f127-44fa-8c53-0d0ea49694a5" },
+  { n = 2, title = "Grito poder de la tierra", mbid = "eb655ed0-f0a4-49b1-8e8c-bf440e80a5c8" },
+  { n = 3, title = "Paz amor unidad y la libertad", mbid = "3faf6684-01ab-431d-9fad-e0a06c0b9664" },
+]
+
+[[release]]
+mbid = "e282bccd-fbae-4772-8d53-28aa8e882f92"
+title = "La Couleur du Temps"
+type = "ep"
+date = "2025-12-10"
+spotify = "0CDryqtAXHipWspm1i5DKN"
+tracks = [
+  { n = 1, title = "La Couleur du Temps", mbid = "673ae343-89cf-4e41-aacd-017b38a65980" },
+  { n = 2, title = "Tom et Lola", mbid = "84bc7074-849a-455a-9ee4-a31fb34eb2d6" },
+  { n = 3, title = "La Couleur du Temps (Mariano Mellino remix)", mbid = "5721dac0-b6fa-454c-ad2e-08c09d2840f4" },
+  { n = 4, title = "La Vie a 2 (Demaya extended remix)", mbid = "30da2436-914e-427e-94fe-8fdbc9ac4a4d" },
+  { n = 5, title = "Senegal Fast‐Food", mbid = "d479a203-dd8c-4be6-84df-9a9aff59f5c6" },
+  { n = 6, title = "L'Automne est las", mbid = "8f5c9629-b52e-4c84-8c06-d43b5a9d14ea" },
+]

@@ -1,0 +1,199 @@
+format = 1
+
+[[release]]
+mbid = "9b765467-f3a9-4ac9-8241-b47fd9eae78c"
+title = "The Sweetest Thing"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "The Sweetest Thing (album version)", mbid = "21c961df-b366-4570-9b76-e679819a319a" },
+  { n = 2, title = "The Sweetest Thing (instrumental)", mbid = "95a4b4bf-0bd4-4c99-ab1f-529cf8870748" },
+  { n = 3, title = "Never Enough", mbid = "2ddbb996-2419-48f7-a6f9-96852548b26d" },
+  { n = 4, title = "Can't Get Enough", mbid = "a367d4a4-6c39-46a9-8608-b825e6e07887" },
+]
+
+[[release]]
+mbid = "8e4e938e-e524-4abb-9534-6dd30efb1ba9"
+title = "Lost Ones"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Lost Ones", mbid = "b35e172d-b4d5-46f9-9cc1-3cc1314e1b44" },
+]
+
+[[release]]
+mbid = "cd214051-8f47-30e4-b873-90159efcd2cd"
+title = "Ex‐Factor"
+type = "single"
+date = "1998-02-15"
+tracks = [
+  { n = 1, title = "Ex-Factor (album version)", mbid = "b17c1440-2a91-4a75-843f-85cb24041c75" },
+  { n = 2, title = "Ex-Factor (Part II Ex-Factor remix)", mbid = "8b588dae-5099-4262-aca9-5aa3745b9911" },
+  { n = 3, title = "Ex-Factor (A Simple mix)", mbid = "fb4abf5d-55dc-418f-bb9c-af8430cddfe4" },
+]
+
+[[release]]
+mbid = "8691d12c-abd8-385c-b1eb-d841190124f7"
+title = "The Miseducation of Lauryn Hill"
+type = "album"
+date = "1998-08-19"
+spotify = "1BZoqf8Zje5nGdwZhOjAtD"
+tracks = [
+  { n = 1, title = "Intro", mbid = "44d8417e-df89-4546-bc8d-1a8a37c53c1c" },
+  { n = 2, title = "Lost Ones", mbid = "58566d0c-7f20-4c6a-9e71-3647d67d066c" },
+  { n = 3, title = "Ex-Factor", mbid = "20ddc463-1ac9-47b0-a242-75a7d5c84c61" },
+  { n = 4, title = "To Zion", mbid = "cd0aa0b1-6d36-4f73-9b7e-7868fcfba8af" },
+  { n = 5, title = "Doo Wop (That Thing)", mbid = "83f4ab28-f069-4fe7-8071-41ab81e138c3" },
+  { n = 6, title = "Superstar", mbid = "e82bd1a3-718b-4fb9-b8f2-df35dbeba4f6" },
+  { n = 7, title = "Final Hour", mbid = "4dc1679b-b2ce-4cfb-b7ab-2c283060f443" },
+  { n = 8, title = "When It Hurts So Bad", mbid = "daa1918c-ad59-4a31-9aa3-b4dcd7b3e307" },
+  { n = 9, title = "I Used to Love Him", mbid = "2accd8ab-02b8-4425-aaac-658363cfbcbf" },
+  { n = 10, title = "Forgive Them Father", mbid = "58f9f3ea-e880-4dd8-a781-d7f4445593fb" },
+  { n = 11, title = "Every Ghetto, Every City", mbid = "15d3e2b6-a603-43cf-859b-61efd20e196a" },
+  { n = 12, title = "Nothing Even Matters", mbid = "a13a1ca6-98cf-4303-811c-bebe7d243f6f" },
+  { n = 13, title = "Everything Is Everything", mbid = "58aedf74-3187-4bbf-8827-8aba369a251a" },
+  { n = 14, title = "The Miseducation of Lauryn Hill", mbid = "fec6578d-a695-4ad3-a255-f9eafa2d51fa" },
+  { n = 15, title = "Can’t Take My Eyes Off of You", mbid = "9bf240ff-8cac-4e5b-b411-d68ebed8086c" },
+  { n = 16, title = "Tell Him", mbid = "416d8d90-fbc3-4b76-989d-366b6405f8d2" },
+]
+
+[[release]]
+mbid = "c180b25c-efe3-3c23-9ea6-d3d080655c8a"
+title = "Doo Wop (That Thing)"
+type = "single"
+date = "1998-09-21"
+tracks = [
+  { n = 1, title = "Doo Wop (That Thing) (radio edit)", mbid = "3086d4ca-fee1-44d9-9ebc-8d057f90f586" },
+  { n = 2, title = "Doo Wop (That Thing) (Gordon's dub)", mbid = "2bc69080-3d69-40f6-8e35-fa329a5af140" },
+  { n = 3, title = "Doo Wop (That Thing) (instrumental)", mbid = "958bb8f1-dbd5-4413-9c25-474b3ce31581" },
+]
+
+[[release]]
+mbid = "b3fd4191-e98d-3a5f-8bd1-c0d3d88b34db"
+title = "Turn Your Lights Down Low"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Turn Your Lights Down Low", mbid = "4152b2ea-bd44-4b71-b98e-541a896946c4" },
+  { n = 2, title = "Forgive Them Father", mbid = "3ecd79dd-19d6-47d5-88ae-74abdd62cc6a" },
+  { n = 3, title = "To Zion", mbid = "67cde378-d525-49d7-9b4a-129d621d00da" },
+]
+
+[[release]]
+mbid = "53c60249-9a50-3c9a-86cd-24e109156447"
+title = "Everything Is Everything"
+type = "single"
+date = "1999-06-28"
+tracks = [
+  { n = 1, title = "Everything Is Everything (radio edit)", mbid = "3c4ff7b1-793a-4dd5-b0a0-b59b95eb22d5" },
+  { n = 2, title = "Lost Ones (live From radio 1)", mbid = "3f1e0421-af9a-4bbc-b087-008da6a11c6c" },
+  { n = 3, title = "Ex-Factor (live From radio 1)", mbid = "3f08198d-2abd-4bdc-9b2d-317e61b03caf" },
+  { n = 4, title = "Tell Him (live)", mbid = "80053bc4-f231-452e-bd0a-da73f8aa81f1" },
+  { n = 5, title = "Everything Is Everything", mbid = "d58a5061-e3da-4fd9-b691-1de4c6464c77" },
+]
+
+[[release]]
+mbid = "71663a40-189b-46d4-8afb-d35c74439fb2"
+title = "Neurotic Society (Compulsory mix)"
+type = "single"
+date = "2013-05-03"
+tracks = [
+  { n = 1, title = "Neurotic Society (Compulsory mix)", mbid = "8852b80b-4f24-47d9-becb-426f416a3236" },
+]
+
+[[release]]
+mbid = "358ef93d-cfe8-4e05-83fd-bb5a2dcc0e6b"
+title = "Consumerism"
+type = "single"
+date = "2013-09-30"
+tracks = [
+  { n = 1, title = "Consumerism", mbid = "4eb40457-8dc1-44aa-9554-6551ca1dec2d" },
+]
+
+[[release]]
+mbid = "b588485d-8a25-46a8-8ade-fc40ab2fa3b5"
+title = "Nina Revisited: A Tribute to Nina Simone"
+type = "album"
+date = "2015-10-07"
+tracks = [
+  { n = 1, title = "Feeling Good", mbid = "04c9daed-3da0-452a-a608-1429f0fdb5b6" },
+  { n = 2, title = "I’ve Got Life", mbid = "4541d0a6-c53f-4eb9-ae6c-f616bd048c80" },
+  { n = 3, title = "Ne me quitte pas", mbid = "5300820c-b40e-4912-b988-947bf1b68576" },
+  { n = 4, title = "Black Is the Color of My True Love’s Hair", mbid = "f21e8e2b-1e74-483e-9242-ec899a01225d" },
+  { n = 5, title = "Wild Is the Wind", mbid = "f03cde4e-b512-4e7d-bfd8-8573af10fe35" },
+  { n = 6, title = "African Mailman (instrumental)", mbid = "bf0f4d3a-8d92-4308-8b25-2552d4edfc4e" },
+]
+
+[[release]]
+mbid = "48878123-ac06-44ec-8ffe-2cdf35d90a94"
+title = "Coming Home"
+type = "single"
+date = "2019-01-26"
+spotify = "2qtMrGLdjgNbVJ1xKDiqAf"
+tracks = [
+  { n = 1, title = "Coming Home", mbid = "2ba542a8-112e-46b9-ae55-66580e07b73a" },
+]
+
+[[release]]
+mbid = "6d117551-8174-42a4-8f68-b105a3e70dc1"
+title = "A Espera de um Milagre"
+type = "single"
+date = "2019-07-05"
+tracks = [
+  { n = 1, title = "A Espera de um Milagre", mbid = "23048a2b-a4b9-498b-bd6e-df2b81bd1081" },
+]
+
+[[release]]
+mbid = "d239286f-7e32-4e0e-b3ef-b8dd16a85a1d"
+title = "Guarding the Gates"
+type = "single"
+date = "2019-11-15"
+tracks = [
+  { n = 1, title = "Guarding the Gates", mbid = "feb6f6ca-5a94-4e73-9622-cd81b1c38c98" },
+]
+
+[[release]]
+mbid = "7947f8db-3360-410b-8570-f4430cc82eb7"
+title = "Save the Day (2020)"
+type = "single"
+date = "2020-08-21"
+spotify = "2YjzMFVEK0gWVc95yJaCAe"
+tracks = [
+  { n = 1, title = "Save the Day (2020)", mbid = "035fafb3-27fe-4810-b7ca-00dd7a844866" },
+]
+
+[[release]]
+mbid = "fc3dfca3-9e37-409d-ac83-559e506f1595"
+title = "Forgive Them Father"
+type = "single"
+date = "2024-03-29"
+tracks = [
+  { n = 1, title = "Forgive Them Father", mbid = "8d6e20b2-d924-4192-a623-5dd04efbd218" },
+]
+
+[[release]]
+mbid = "0ea0468e-0c67-41cc-b6e0-6e5608a9c441"
+title = "Superstar"
+type = "single"
+date = "2024-03-29"
+tracks = [
+  { n = 1, title = "Superstar", mbid = "20ab60bf-d249-4482-847a-5b920bb13736" },
+]
+
+[[release]]
+mbid = "319b9da2-fce0-4c84-ba99-6353147e98a6"
+title = "To Zion"
+type = "single"
+date = "2024-03-29"
+tracks = [
+  { n = 1, title = "To Zion", mbid = "0c0ff24a-1a25-46cf-94a3-05777a9e3f9f" },
+]
+
+[[release]]
+mbid = "d6b59bea-10be-4273-b22e-1af7684cf46a"
+title = "When It Hurts So Bad"
+type = "single"
+date = "2024-03-29"
+tracks = [
+  { n = 1, title = "When It Hurts So Bad", mbid = "55742d30-637f-418c-bbc3-802b21d6a4a5" },
+]

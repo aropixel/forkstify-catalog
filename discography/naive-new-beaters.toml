@@ -1,0 +1,174 @@
+format = 1
+
+[[release]]
+mbid = "1fb300e8-42c6-48e1-aca1-800ec1c82c7f"
+title = "That's What I Like E.P."
+type = "ep"
+date = "2005"
+tracks = [
+  { n = 1, title = "Hamburger", mbid = "53dd44ca-c6ce-43dc-9d46-ce48c85fa25d" },
+  { n = 2, title = "That's The Way I Like", mbid = "70f32c08-715f-45e0-81a5-52787870774d" },
+  { n = 3, title = "L.A.", mbid = "b0fb9bfd-25e9-498f-8419-1dae10e31cae" },
+  { n = 4, title = "Simply I Go", mbid = "74cb4015-ce4c-45d8-b1cc-884ce1bd36e6" },
+]
+
+[[release]]
+mbid = "b4f28d83-442e-479b-ae50-47402a06a414"
+title = "Bang Bang"
+type = "single"
+date = "2007-04"
+tracks = [
+  { n = 1, title = "Bang Bang", mbid = "ec4f6ae9-a87f-49e0-8846-bafd3ffea366" },
+  { n = 2, title = "Bang Bang (Ajax remix)", mbid = "19391ce3-373d-4e88-8bc1-f49674948e24" },
+  { n = 3, title = "Bang Bang (Yuksek remix)", mbid = "dbaf2e34-30b3-4721-8578-2483edf8482e" },
+]
+
+[[release]]
+mbid = "b7a9c2cf-fd93-40f6-9908-1d9de5d7b432"
+title = "Live Good"
+type = "single"
+date = "2009-04-13"
+spotify = "1GpHa6XEU20gdRLItgMvOe"
+tracks = [
+  { n = 1, title = "Live Good", mbid = "7a87786e-5ba6-4fea-94eb-4754fe669381" },
+  { n = 2, title = "Live Good (In Flagranti Stoner Mix)", mbid = "25e0db7c-aa43-40c1-ab94-b0b3bb44baa5" },
+  { n = 3, title = "Live Good (The Bloody Beetroots Remix)", mbid = "6babd480-03a9-4e8b-a3d9-fcea2bcf1be6" },
+]
+
+[[release]]
+mbid = "dd279301-abaa-4105-bb42-88d63ec02287"
+title = "Wallace"
+type = "album"
+date = "2009-05-25"
+tracks = [
+  { n = 1, title = "L.A. Trumpets", mbid = "5e53752d-8e60-4a02-b33c-af6d9cfffefe" },
+  { n = 2, title = "Get Love", mbid = "e19f5ae4-e3d6-4eec-8714-7789939938a3" },
+  { n = 3, title = "Live Good", mbid = "61085b46-d590-4058-bef2-866e71e414c3" },
+  { n = 4, title = "Wow Now", mbid = "be0e4265-9713-4d38-a40f-7beba6b9eb9f" },
+  { n = 5, title = "Can't Choose", mbid = "371c8287-840d-48df-8513-81f9ffc1e446" },
+  { n = 6, title = "Just Another Day", mbid = "e863f2f8-2f8a-48a7-95f4-b72ea936fd07" },
+  { n = 7, title = "Dual Income No Kids", mbid = "c357b714-7b2b-4147-89b1-95d4d83794bd" },
+  { n = 8, title = "Janeiro", mbid = "135f9169-a784-4478-b8c2-4a9bc21eed08" },
+  { n = 9, title = "Boring David", mbid = "9b8a4c83-4cb4-4660-9d62-9d709f6ff0b2" },
+  { n = 10, title = "The Last Badaboum", mbid = "f5097a78-9463-462e-b9bd-8bc0fd90dc60" },
+]
+
+[[release]]
+mbid = "2e5c74e3-aca2-4a79-947f-a7eeace22421"
+title = "Get Love"
+type = "single"
+date = "2009-07"
+tracks = [
+  { n = 1, title = "Get Love (radio edit)", mbid = "b68b4da5-2411-4dd7-8756-2109020bde49" },
+  { n = 2, title = "Get Love (The Shoes remix)", mbid = "0f7f69e9-1208-4937-ad37-171a9ec0db42" },
+  { n = 3, title = "Get Love (Blamma! Blamma! Sister Lisa remix)", mbid = "17a02bb4-3f02-47c1-a8b7-d6b05050675d" },
+]
+
+[[release]]
+mbid = "7ea5c6a1-7a8f-4b75-9be1-4808db41967c"
+title = "La Onda"
+type = "album"
+date = "2012-09-24"
+tracks = [
+  { n = 1, title = "Special Thanks", mbid = "59782424-b8d3-4472-8bca-aa8505c6d6f7" },
+  { n = 2, title = "Shit Happens", mbid = "aef89157-06b4-422c-803b-66213f546697" },
+  { n = 3, title = "Jersey", mbid = "5475891f-55b1-4eb6-9de2-2ee94e9fb823" },
+  { n = 4, title = "La Onda", mbid = "c91d574c-fc30-4f74-8297-78df75fb6dc0" },
+  { n = 5, title = "Heatwave", mbid = "4079bca1-2f4d-4d38-aaf5-eca24c72a061" },
+  { n = 6, title = "Friends", mbid = "1f5fbb9b-31dd-4583-8d05-231e0d7f22b2" },
+  { n = 7, title = "Over the Years", mbid = "6865a723-75de-4e9f-86b5-b4395011d21c" },
+  { n = 8, title = "Basic Zoom", mbid = "8275a15c-ad71-4af9-8adc-6e328d23d383" },
+  { n = 9, title = "Fourteen", mbid = "6c5df195-a1df-4bce-9ed5-c3cfde5625d4" },
+  { n = 10, title = "Pop You", mbid = "65197251-28d1-410e-96e9-d7cc22d539c9" },
+  { n = 11, title = "Angry at 8", mbid = "de71aec5-2b92-4306-88f7-09adaa6f8c24" },
+  { n = 12, title = "Word", mbid = "4e2c9622-81e1-4948-bdf1-e57ec004de9f" },
+]
+
+[[release]]
+mbid = "e4df4574-b090-4afe-8833-4effcc0ca0ea"
+title = "Heal Tomorrow"
+type = "single"
+date = "2016-02-04"
+tracks = [
+  { n = 1, title = "Heal Tomorrow", mbid = "0aea07ce-7550-487e-8a77-1b2cae54af98" },
+]
+
+[[release]]
+mbid = "2d4dcc42-7428-4da2-90fb-cfa5139bcf2c"
+title = "À la folie"
+type = "album"
+date = "2016-07-22"
+tracks = [
+  { n = 1, title = "Break", mbid = "108d7e3f-1c45-44a7-bd28-6e7d5aba4a1b" },
+  { n = 2, title = "Montecristo", mbid = "e520c204-e118-42c5-88ca-78513032e9cf" },
+  { n = 3, title = "Made to Last Long", mbid = "dc3e3723-5bee-4396-9aef-8799673bd17d" },
+  { n = 4, title = "Heal Tomorrow", mbid = "bee97431-5eee-4af0-984f-c4a797a31b81" },
+  { n = 5, title = "Never Let You Down", mbid = "dc56ac0f-facd-43b1-ae42-4ce3e77fb1a5" },
+  { n = 6, title = "Run Away", mbid = "be05d1a6-4fba-4ed2-9a36-0079fc8b95b1" },
+  { n = 7, title = "Words Hurt", mbid = "c9917204-c872-4589-9db9-2b8d044af1e5" },
+  { n = 8, title = "Where Have You Been?", mbid = "0dcf5738-ec62-4381-bc27-0fe6db79b540" },
+  { n = 9, title = "Tornado", mbid = "bdef0340-ab44-4584-9931-5038da63ce22" },
+  { n = 10, title = "Egoblaster", mbid = "62c6e645-c0ba-4634-811d-7c1c17cc3701" },
+  { n = 11, title = "The Same", mbid = "7210c5ef-c1f9-4e16-8bc6-28df067e4eca" },
+]
+
+[[release]]
+mbid = "c4019df2-5d0d-4e33-8ed2-98d324334b5a"
+title = "Fun Hours"
+type = "album"
+date = "2019-10-18"
+tracks = [
+  { n = 1, title = "Fun Hours", mbid = "ff54d3c9-9521-4152-b212-39dcbfa3bfe6" },
+  { n = 2, title = "Holding Love", mbid = "460d2ca6-be44-454c-ae7a-38c5089f8e8c" },
+  { n = 3, title = "Make Way", mbid = "6648777b-bea3-4db4-8e8f-ff029f74b32a" },
+  { n = 4, title = "One way To Go", mbid = "abbf84c8-36e8-41be-8b36-c8b12cde36c8" },
+  { n = 5, title = "Addicted to Joy", mbid = "dd5164d2-61ef-4f7d-bfc2-f61bde2671b9" },
+  { n = 6, title = "I See Fire", mbid = "23507d97-bd16-4524-b561-6d0701e2d392" },
+  { n = 7, title = "Dope", mbid = "dff72517-7ebd-4520-86ac-4839e139133b" },
+  { n = 8, title = "Only When I'm Old", mbid = "12f74b0e-14a7-4815-ba41-e6e99a8d5d2c" },
+  { n = 9, title = "Fireman", mbid = "d681c782-ac4e-4b72-a653-1c40cb7ae4b3" },
+  { n = 10, title = "Keep Runnin'", mbid = "46a50e15-e930-4039-92fb-d2846328ab6f" },
+  { n = 11, title = "Go Nowhere", mbid = "d082d36b-1df7-41eb-84b8-1aff6966b463" },
+  { n = 12, title = "Today's Mood", mbid = "2171bf13-1d33-470e-a5cb-05dc17522ca9" },
+]
+
+[[release]]
+mbid = "74f7abf4-c875-45a9-954b-31dbbb6b61ac"
+title = "Dancing"
+type = "single"
+date = "2023-11-07"
+spotify = "0Rr8das5gDz1mOZKWXtNFz"
+tracks = [
+  { n = 1, title = "Dancing", mbid = "de7c46e0-8714-4327-a460-475a698f30d0" },
+]
+
+[[release]]
+mbid = "d5e7895f-04b6-4b8c-b7ac-e9404c401371"
+title = "Desires"
+type = "single"
+date = "2024-02-08"
+spotify = "2SjOpWl4xSM2f6LStnoRg7"
+tracks = [
+  { n = 1, title = "Desires", mbid = "b477469a-a1ca-4151-bc3d-b6be4e82cf54" },
+]
+
+[[release]]
+mbid = "144de62a-fc81-4969-b893-2fbc07773266"
+title = "FVTVRVM"
+type = "album"
+date = "2024-06-06"
+spotify = "2BxOeDV8tqsRRqIS5fk9QE"
+tracks = [
+  { n = 1, title = "The Sun", mbid = "886d22fd-795c-4a57-8625-a93aa2a3b0f8" },
+  { n = 2, title = "Desires", mbid = "b477469a-a1ca-4151-bc3d-b6be4e82cf54" },
+  { n = 3, title = "Dancing", mbid = "de7c46e0-8714-4327-a460-475a698f30d0" },
+  { n = 4, title = "Love Scares", mbid = "b72f268d-5822-44d0-bc28-10bc013804b6" },
+  { n = 5, title = "My Precious Jewel", mbid = "249d17f4-5cd1-4635-bf07-37ce0ace731e" },
+  { n = 6, title = "All Good For Me", mbid = "2d2dde93-f69c-4886-8828-a815824ce8c2" },
+  { n = 7, title = "Rising Above", mbid = "a37ae184-2a3b-480c-8a6b-ed1634775df0" },
+  { n = 8, title = "Ye Kou Si Kuo", mbid = "c90fe69e-4f48-47be-be12-4396581e3e4c" },
+  { n = 9, title = "Sailor Way", mbid = "0d3cdf88-6e8a-4898-b33c-8defa93e2dd9" },
+  { n = 10, title = "Dream On", mbid = "0a509f72-39cf-40a1-9254-ff3a3de7d339" },
+  { n = 11, title = "Such a Waste", mbid = "f407713e-f47f-4230-bdf4-637b21398660" },
+  { n = 12, title = "Started As A Joke", mbid = "e5737cf1-dbc9-4ba8-a8a8-37dc0a8056ca" },
+]
