@@ -1,0 +1,419 @@
+format = 1
+
+[[release]]
+mbid = "3c0c2f61-1d06-3b35-8170-836a1c7c773a"
+title = "Happening Songs"
+type = "album"
+date = "1996"
+tracks = [
+  { n = 1, title = "Wet", mbid = "7a0f03d0-64ed-4e6d-9c0b-ae419a0c248d" },
+  { n = 2, title = "No Sense Words Harmony", mbid = "0e615562-c3ef-4bdd-b89c-453d51a24de2" },
+  { n = 3, title = "Polar Girl", mbid = "cff84837-4cad-4f81-8361-c107599e94e7" },
+  { n = 4, title = "Can I?", mbid = "90b33895-1459-41dc-95a4-58ef9fe3dcdd" },
+  { n = 5, title = "Everything", mbid = "164b3be0-5416-4720-a3a1-1719d9a38f1f" },
+  { n = 6, title = "Children of My Walk", mbid = "21bc9fa3-231b-4103-aee5-4113dfcdc425" },
+  { n = 7, title = "Flying Cake", mbid = "a8bd0d79-878e-4529-a7b3-9a7b9eaa332c" },
+  { n = 8, title = "Still Bleeding", mbid = "0868885a-6b2f-4a76-9b37-d90fe5090e7a" },
+  { n = 9, title = "New Eye Blues", mbid = "6a7fc6c7-e7cc-4d19-83fc-119bd06e33b3" },
+  { n = 10, title = "Socks Tears", mbid = "3f907e75-d900-422e-8d31-7c6420e246c4" },
+  { n = 11, title = "Screamin' Like an Egg", mbid = "2283fb28-fc0a-4e9e-a86b-d4342120c722" },
+  { n = 12, title = "Sad Smiling F…", mbid = "4984073c-e94f-4bb9-884e-e19425df111e" },
+  { n = 13, title = "Wet Folk / Here Comes the Sun", mbid = "b152a504-5536-4e9c-abc0-31562377e765" },
+]
+
+[[release]]
+mbid = "346b133e-351c-3616-b3db-1841a6951c45"
+title = "The Sun Is Blue Like the Eggs in Winter"
+type = "album"
+date = "1998-02-16"
+tracks = [
+  { n = 1, title = "Intro", mbid = "e6d6ab82-8f54-4138-93e1-53d1ecfebe5d" },
+  { n = 2, title = "Fais pas si", mbid = "938344e7-c54f-4d3a-b753-e199c2abfbd8" },
+  { n = 3, title = "Frog = Electric Torch", mbid = "e88159bd-3729-40bb-a6c5-709d5bac8461" },
+  { n = 4, title = "Wet (remix)", mbid = "0efd9c28-cc2a-427c-9a98-4b71acda8308" },
+  { n = 5, title = "Ciel en sauce", mbid = "fe678e26-25de-463c-a156-667733035043" },
+  { n = 6, title = "Plastic Fear", mbid = "f3fff1a1-5b8d-440d-878e-7b6a11961420" },
+  { n = 7, title = "Arthur", mbid = "7c50682a-835b-4510-82b3-90c8db824c1a" },
+  { n = 8, title = "Feet Can Dali", mbid = "6481f2c9-3951-4f38-9fa2-ea26e29e35f2" },
+  { n = 9, title = "Broken Tit's", mbid = "11331ed1-5d80-46ec-bf2d-de2a5efa8a5c" },
+  { n = 10, title = "I'll Shot My Bed", mbid = "162c7c12-23ae-432a-b8ef-cbed9e03b90e" },
+  { n = 11, title = "Like a Dead Horse One", mbid = "2eb24762-2e07-4f96-919e-46f397b3bfde" },
+]
+
+[[release]]
+mbid = "e71b607f-f2d8-36e9-aa71-9934c96ed477"
+title = "Haïku"
+type = "album"
+date = "1999-09-07"
+tracks = [
+  { n = 1, title = "45 tours", mbid = "80bbbeb8-c574-464c-8af0-fc33d9fe1b1e" },
+  { n = 2, title = "La Petite Princesse aux seins écrasés", mbid = "5eb9b0e8-c822-46fa-aecf-3ecb0100d42e" },
+  { n = 3, title = "Sick Philarmonic Body", mbid = "d747daf1-ed2c-4866-9284-1084142f3f7d" },
+  { n = 4, title = "Nicholsong", mbid = "e8533c7d-b91b-427f-943d-8e1f0af8d795" },
+  { n = 5, title = "Wedding Idea", mbid = "1136788b-cda2-4f4c-91c1-9f16dc9fda3f" },
+  { n = 6, title = "Poissons = stickers", mbid = "1083edb2-5c92-4441-a91a-0a86c88b302c" },
+  { n = 7, title = "Pyjama", mbid = "b0ea7d91-5a30-4edc-a210-fa37e618485a" },
+  { n = 8, title = "Asshole Car Orchestra", mbid = "1f1a4f42-3868-43b1-9029-4b2609a9745f" },
+  { n = 9, title = "Coccinelle", mbid = "eb714e1a-7b2c-448c-8bf0-5c4537d5175f" },
+  { n = 10, title = "Lune bulle et Only Knees", mbid = "34bbeb87-f4ef-4d62-adac-b27da65dbb91" },
+  { n = 11, title = "Mandarine", mbid = "391d89f0-bf7e-492d-824b-146a77b16dc8" },
+  { n = 12, title = "Built for Myself", mbid = "54f6f83c-ccba-4a21-88f8-f56f40541882" },
+  { n = 13, title = "Train à l'américaine", mbid = "d16130a1-353e-4468-bf99-0affb0669d57" },
+  { n = 14, title = "Poe-m / Ladybird (demo) / Mrs Squeeze (demo)", mbid = "aab712e0-0d15-43bf-a62c-514a71c1a39d" },
+]
+
+[[release]]
+mbid = "51fd0c4b-526e-4994-8cab-f39f74979582"
+title = "Coccinelle / Wet"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Coccinelle", mbid = "ee3cb6fd-0583-48c3-9a6a-b173e394b023" },
+  { n = 2, title = "Wet", mbid = "4e6d5d14-7cf8-4f8f-8c53-d61b2e32841c" },
+  { n = 3, title = "Wedding Idea", mbid = "5e63c2db-7b9a-4bd3-b364-aa9330055c38" },
+]
+
+[[release]]
+mbid = "18d9a286-2b2a-3baf-92bd-d6628507194f"
+title = "Western sous la neige"
+type = "album"
+date = "2002-03-05"
+tracks = [
+  { n = 1, title = 'Intro: Theme from "Western sous la neige"', mbid = "5d6a6556-5086-44b4-b3c6-0d7710fe33ed" },
+  { n = 2, title = "Coiffeur d'oiseaux", mbid = "9b93b5b9-9cc5-4861-a2e1-3ad50bef3f21" },
+  { n = 3, title = "Tokyo Montana", mbid = "1f7d8ce3-509c-4e89-951a-54cfa43cd4d1" },
+  { n = 4, title = "Longboard Blues", mbid = "7f38ccac-056d-45c9-84f1-fa712472049b" },
+  { n = 5, title = "Déguisé en pas moi", mbid = "fa1b7bed-8b0b-4c80-b848-c4aa937de131" },
+  { n = 6, title = "Mc Enroe's Poetry", mbid = "09117a00-6729-4147-8f96-f6f277c05c1e" },
+  { n = 7, title = "Don Diego 2000, Part 1", mbid = "8e09bc8b-a504-43b5-9cdf-1832f045da53" },
+  { n = 8, title = "Don Diego 2000, Part 2", mbid = "5531c72b-96eb-4ae5-bcb8-d8e74e7ec16c" },
+  { n = 9, title = "Surfin Frog", mbid = "39c7020d-1d90-417c-8abc-b495f0cc9878" },
+  { n = 10, title = "Coffin Song", mbid = "f2d4ec72-9f45-42d0-b026-59e1540d5312" },
+  { n = 11, title = "She Is the Liquid Princess", mbid = "965d9cac-dac5-4469-8316-9d23aae61258" },
+  { n = 12, title = "Petit Colorado", mbid = "41ac1e3d-a7c7-42b9-b8c8-a8e5dbc09fa3" },
+  { n = 13, title = "Anorak", mbid = "caefe25c-f269-4c11-bceb-ef05b45fde54" },
+  { n = 14, title = "I Love You", mbid = "cce4da74-1c11-47b7-9204-283b2814fd77" },
+  { n = 15, title = "Longboard Train", mbid = "448deaa6-8f46-4450-b1a1-5758ea924b7f" },
+  { n = 16, title = "Song for Jedi", mbid = "789279e7-656e-4334-ad11-586332e9adce" },
+  { n = 17, title = "Rodéo / Mc Enroe folk", mbid = "a2ea3cfb-dde8-4c96-bf1a-9330eafd2a20" },
+]
+
+[[release]]
+mbid = "798e9cf6-9c63-45c7-b29f-a288ad173d64"
+title = "Song for Jedi"
+type = "single"
+date = "2002-07"
+tracks = [
+  { n = 1, title = "Song for Jedi", mbid = "789279e7-656e-4334-ad11-586332e9adce" },
+  { n = 2, title = "Manga Girlfriend", mbid = "e0d89c16-fc49-427d-afed-7af094e30b5c" },
+]
+
+[[release]]
+mbid = "6dabb66b-97a3-4543-b78f-674f903b859b"
+title = "Don Diego 2000"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Don Diego 2000", mbid = "cc1df7a7-6760-44df-a6f4-ef4899e145b6" },
+  { n = 2, title = "Longboard Train (Evening mix)", mbid = "5ae7a77c-91d4-4add-88d3-9d19ed0a5c28" },
+]
+
+[[release]]
+mbid = "3575b042-1294-3ce2-8b03-443787fa1426"
+title = "Monsters in Love"
+type = "album"
+date = "2005-11-14"
+tracks = [
+  { n = 1, title = "Giant Jack’s Theme", mbid = "0469fded-e44b-4246-87ed-f2d39d3800b8" },
+  { n = 2, title = "Giant Jack", mbid = "d3ff06ad-e21c-421a-8274-606ad6b74ffa" },
+  { n = 3, title = "La Métamorphose de Mister Chat", mbid = "3876116d-c735-409f-bb04-387720e934ee" },
+  { n = 4, title = "L’homme qui pondait des œufs", mbid = "c963495d-add7-49bf-8cb8-e0c0d706b6f2" },
+  { n = 5, title = "Broken Bird", mbid = "9567b872-4dee-4569-8661-49c99176c031" },
+  { n = 6, title = "Miss Acacia", mbid = "c8e24311-e59e-4a82-8100-d2abb06a49d8" },
+  { n = 7, title = "Le Retour de Bloody Betty", mbid = "ed0b30b0-ce48-4790-a5fb-477858a34827" },
+  { n = 8, title = "Mon ombre est personne", mbid = "40479f29-abb8-4fa7-a551-1c6a54665c4a" },
+  { n = 9, title = "I Love Liou", mbid = "3f764f1a-7b77-4f81-97c0-eaca367dcc78" },
+  { n = 10, title = "Lips Story in a Chocolate River", mbid = "690c9898-2962-4592-8f96-3e0c31df5004" },
+  { n = 11, title = "Giant John et le sanglophone", mbid = "11630af2-c17e-4133-89d5-0db03e37c80a" },
+  { n = 12, title = "Tes lacets sont des fées", mbid = "93ab153c-8cfc-46cd-bdb7-23b190f07e24" },
+  { n = 13, title = "Old Child", mbid = "b223e80c-e2f3-4ff4-a1b4-61586dc8b2d7" },
+  { n = 14, title = "Monsters in Love", mbid = "9313e213-4460-4011-bc41-abfe9b24d8ed" },
+  { n = 15, title = "Midnight Letter", mbid = "3fa71b29-ad31-421f-bdaf-c8ed00bb1e3b" },
+  { n = 16, title = "Neige", mbid = "2af9b343-333f-48f2-ba85-b8db2a4344ae" },
+]
+
+[[release]]
+mbid = "1d92a7a2-23e2-48d6-a999-8e61e6cba4e3"
+title = "Les Métamorphoses de Mister Chat"
+type = "ep"
+date = "2006-03-27"
+tracks = [
+  { n = 1, title = "La Métamorphose de Mister Chat (Dionysos remix)", mbid = "1bd76059-1200-45d3-b63b-b87597434832" },
+  { n = 2, title = "Le Rêve de Monsieur Chat", mbid = "48568fe6-6f72-48fb-8395-037aec36612d" },
+  { n = 3, title = "Mister Chat", mbid = "be5cc04a-4bbf-42a7-8e49-3a220b95a94b" },
+  { n = 4, title = "La Métamorphose de Mister Chat (Cali / Lebart remix)", mbid = "d478f6c7-0f50-4cc4-b11b-76f1c67e2601" },
+  { n = 5, title = "Kim chante Mister Chat", mbid = "0615bcae-fbf1-4841-82c3-9d101fcbde06" },
+  { n = 6, title = "It's Hard to Be a Cat", mbid = "d91b038e-e5b6-4c35-9bd3-ec67ed0b5ffd" },
+  { n = 7, title = "Little Mama", mbid = "cb1e4587-89b9-4096-9ce1-9b47b0f15be4" },
+  { n = 8, title = "Maintenant qu'il fait tout le temps nuit sur toi (extraits)", mbid = "dda6e86e-9c2a-49b9-97ff-1f01e596f34a" },
+  { n = 9, title = "La Métamorphose de Mister Chat (AnAM remix)", mbid = "3f03f17e-6662-49de-9817-5bdfbfc4d040" },
+]
+
+[[release]]
+mbid = "6b04b475-aef5-3035-8904-07636b2a53f5"
+title = "La Mécanique du cœur"
+type = "album"
+date = "2007-11-05"
+tracks = [
+  { n = 1, title = "Le Jour le plus froid du monde", mbid = "3818f22a-26a4-4b17-8827-1376d2036a15" },
+  { n = 2, title = "La Berceuse hip hop du docteur Madeleine", mbid = "10f09ee4-f410-49c1-b33b-e707c65a0f27" },
+  { n = 3, title = "When the Saints Go Marchin' In", mbid = "57ff4780-fb29-47fa-b43a-a86a03db34b8" },
+  { n = 4, title = "Flamme à lunettes", mbid = "507cf9f8-c47c-47ac-8f20-be2a4172d681" },
+  { n = 5, title = "Symphonie pour horloge cassée", mbid = "de56053a-3ba4-4bb6-b847-b703daa89865" },
+  { n = 6, title = "Cunnilingus mon amour !", mbid = "58ad76e1-9362-4e81-af5d-e9cb6ff7d614" },
+  { n = 7, title = "Thème de Joe", mbid = "7a6680a9-3a4d-4c74-ac22-7dae9030be82" },
+  { n = 8, title = "L'École de Joe", mbid = "a08bf4a5-a446-4aa7-8039-81a54fdf633a" },
+  { n = 9, title = "L'Homme sans trucages", mbid = "8c35965c-3739-428f-9667-858268a72ad7" },
+  { n = 10, title = "La Panique mécanique", mbid = "c5e20168-0cde-4a99-811a-df528e996142" },
+  { n = 11, title = "King of the Ghost Train", mbid = "0489b482-16b3-4d22-ad1b-d9d4a7f6829b" },
+  { n = 12, title = "Mademoiselle clé", mbid = "0e099370-3986-4660-81fe-e5a6eb888d2a" },
+  { n = 13, title = "Candy lady", mbid = "28c6dca7-1e21-4f31-acfb-910e48bb8cc0" },
+  { n = 14, title = "Le Retour de Joe", mbid = "859cbdcc-e0f3-4764-b5ee-93a18b42075a" },
+  { n = 15, title = "Death Song", mbid = "282aaf86-a1f4-4a11-86df-4236975cd43c" },
+  { n = 16, title = "Tais toi mon cœur", mbid = "f17ecaf6-accc-4525-b0cb-d4b352dbb5be" },
+  { n = 17, title = "Whatever the Weather", mbid = "84064792-3a30-4358-89cf-2dde08eb1dc6" },
+  { n = 18, title = "Épilogue", mbid = "d97a029c-e466-4fc8-8dd5-b3da678be663" },
+]
+
+[[release]]
+mbid = "30bc7646-b7cf-429f-8bb3-399e7608428f"
+title = "On aime, on aide"
+type = "single"
+date = "2008-10"
+tracks = [
+  { n = 1, title = "Tais toi mon cœur", mbid = "0e5242e8-89e5-49a9-8faa-4e74f11920cc" },
+  { n = 2, title = "Miss Acacia (live)", mbid = "5de28fef-3b4f-47eb-b8eb-4cb929c03ef0" },
+  { n = 3, title = "Coccinelle (live)", mbid = "6a0cab50-85a4-419b-b659-4ee89efd2293" },
+]
+
+[[release]]
+mbid = "0074eb33-8c0e-4483-b69b-4a1f3c2e2a02"
+title = "Cloudman"
+type = "single"
+date = "2012-01-16"
+tracks = [
+  { n = 1, title = "Cloudman", mbid = "0f767660-711d-4c3a-92bc-bade419114b4" },
+  { n = 2, title = "Breed", mbid = "4489c897-6606-4596-ba8a-81155559e2b4" },
+]
+
+[[release]]
+mbid = "fdae6ddb-685c-4b8b-beb7-b1ec66d96016"
+title = "Dionysos Plays Bird'n'Roll!"
+type = "album"
+date = "2012-03-26"
+tracks = [
+  { n = 1, title = "Bird'n'Roll", mbid = "f6fffc2f-3e2b-489b-9741-b063f5c33b67" },
+  { n = 2, title = "Cloudman", mbid = "0f767660-711d-4c3a-92bc-bade419114b4" },
+  { n = 3, title = "La Sirène et le Pygmalion", mbid = "b5f03542-2b79-4d41-9443-093b46934806" },
+  { n = 4, title = "June Carter en slim", mbid = "ff2ca705-19a1-4123-8e5b-e743ba8aeeee" },
+  { n = 5, title = "Le Roi en pyjama", mbid = "6873cba5-952c-43ab-976a-b57d692ffcd0" },
+  { n = 6, title = "Dreamoscope", mbid = "73b984a1-9c53-490a-bab3-26222c410c3b" },
+  { n = 7, title = "Le Grand Cheval aux yeux gris", mbid = "c29c86e9-4b0c-4587-ad2b-205d5d8155de" },
+  { n = 8, title = "Sex With a Bird", mbid = "534864f2-9473-4f46-b7be-dae6c44d1e72" },
+  { n = 9, title = "Dark Side", mbid = "d610f17f-4c83-46d5-a91a-6b74197b9f4b" },
+  { n = 10, title = "Platini(s)", mbid = "7133560b-f185-4139-b64e-2120a1791fdb" },
+  { n = 11, title = "Le Retour de Jack l'Inventeur", mbid = "5a03ed4d-13af-4d7e-8648-db15114a42da" },
+  { n = 12, title = "Spidergirl Blues", mbid = "7e5903f8-ee38-48d2-ba7a-7fb3cba6d2d4" },
+]
+
+[[release]]
+mbid = "30e455b9-2c01-4d32-88b8-a7440a3b4f88"
+title = "Jack et la Mécanique du Coeur"
+type = "album"
+date = "2014-03-11"
+tracks = [
+  { n = 1, title = "Jack et la mécanique du coeur", mbid = "cf164997-0663-4c38-b462-0dae9ee6d4e5" },
+  { n = 2, title = "Thème de madeleine", mbid = "0539a59a-3361-427b-b40c-7d14ad9cab0d" },
+  { n = 3, title = "Le jour le plus froid du monde", mbid = "3818f22a-26a4-4b17-8827-1376d2036a15" },
+  { n = 4, title = "La berceuse hip hop du docteur madeleine", mbid = "10f09ee4-f410-49c1-b33b-e707c65a0f27" },
+  { n = 5, title = "Les trois lois", mbid = "9913020a-0c71-4108-abc5-efc3826f8259" },
+  { n = 6, title = "When the saints go marchin'in", mbid = "57ff4780-fb29-47fa-b43a-a86a03db34b8" },
+  { n = 7, title = "Down by the hill", mbid = "77cb519d-b909-46f8-b6ea-0e3aa3f6de7e" },
+  { n = 8, title = "Flamme a lunettes", mbid = "507cf9f8-c47c-47ac-8f20-be2a4172d681" },
+  { n = 9, title = "Thème de joe", mbid = "7a6680a9-3a4d-4c74-ac22-7dae9030be82" },
+  { n = 10, title = "Les larmes de mister chat", mbid = "219460bb-7457-4c15-9403-62d9ded2a084" },
+  { n = 11, title = "Happy birthday to you", mbid = "b6e19981-82f6-4f4a-a1b6-9ba05eeea46e" },
+  { n = 12, title = "L'ecole de joe", mbid = "a08bf4a5-a446-4aa7-8039-81a54fdf633a" },
+  { n = 13, title = "Ne va jamais voir un docteur pour un problème de coeur", mbid = "6c2ae825-ca7e-4460-8b72-143a6fad5d5a" },
+  { n = 14, title = "La panique mécanique", mbid = "c5e20168-0cde-4a99-811a-df528e996142" },
+  { n = 15, title = "Thème de mélies", mbid = "08047f01-e6f5-491c-a84c-120d3702546e" },
+  { n = 16, title = "L'homme sans trucage", mbid = "8c35965c-3739-428f-9667-858268a72ad7" },
+  { n = 17, title = "Malaguena", mbid = "ca8b9511-8eb9-489f-8cde-64ea181531a3" },
+  { n = 18, title = "King of the ghost train", mbid = "0489b482-16b3-4d22-ad1b-d9d4a7f6829b" },
+  { n = 19, title = "Jack et miss acacia", mbid = "d8e300e8-d406-4464-8baa-5fbccf007d09" },
+  { n = 20, title = "Les effets de mademoiselle clé", mbid = "0db2c39b-c9cc-4ba8-b6e8-647636bc9be3" },
+  { n = 21, title = "Quijote", mbid = "6d59b7e4-94b1-45e4-8a8b-796641b87b3c" },
+  { n = 22, title = "Candy lady", mbid = "28c6dca7-1e21-4f31-acfb-910e48bb8cc0" },
+  { n = 23, title = "Le retour de joe", mbid = "859cbdcc-e0f3-4764-b5ee-93a18b42075a" },
+  { n = 24, title = "Death song (no more sparkles)", mbid = "7f20283d-288d-46f4-856a-f72887345885" },
+  { n = 25, title = "Lorsqu'il travail a son rêve, il est intraitable", mbid = "a07bdaf2-28db-4db0-84f5-3082ab388a4c" },
+  { n = 26, title = "Tais-toi mon coeur", mbid = "f17ecaf6-accc-4525-b0cb-d4b352dbb5be" },
+  { n = 27, title = "When the saints go marchin'in", mbid = "b2eff003-a89a-4299-97f5-ea850b1308c7" },
+  { n = 28, title = "Miss acacia est la locomotive", mbid = "39ae5531-188c-4666-a515-372b3579885f" },
+  { n = 29, title = "Whatever the weather", mbid = "84064792-3a30-4358-89cf-2dde08eb1dc6" },
+  { n = 30, title = "Hamac of clouds", mbid = "57fce454-a29f-47ec-98ea-1eef8f051df5" },
+  { n = 31, title = "Le réveil des coucous vivants", mbid = "7e606a96-c6be-40d1-8d1a-e92dd3b20ecd" },
+]
+
+[[release]]
+mbid = "aa3dbe5a-4226-4a95-a9bc-356f2aa03442"
+title = "Vampire en pyjama"
+type = "album"
+date = "2016-01-29"
+spotify = "3ZHkTvDroPnS3PNkvlM3Xw"
+tracks = [
+  { n = 1, title = "Chanson d'été", mbid = "da85c72a-a475-47fe-849b-9cedbfb92b07" },
+  { n = 2, title = "Guerrier de porcelaine", mbid = "c44b7ceb-7206-4ebd-b9f7-31a797c25000" },
+  { n = 3, title = "Vampire de l'amour", mbid = "dde0ba8a-46d3-4bc9-8971-ec0658cff321" },
+  { n = 4, title = "Hospital Blues", mbid = "887dbda8-29df-43fd-962a-b7784529fcd5" },
+  { n = 5, title = "L'Heure des lueurs", mbid = "60d6f6a4-3e67-44e8-b474-0416272bb577" },
+  { n = 6, title = "Skateboarding sous morphine", mbid = "e7b48913-3f06-4d24-99e7-4254398b7b09" },
+  { n = 7, title = "Know Your Anemy", mbid = "718ef4e3-bce8-4f3c-9ac4-88412882eb1a" },
+  { n = 8, title = "I Follow Rivers", mbid = "08724311-42e3-414f-b5bc-63f1e30ca508" },
+  { n = 9, title = "Dame Ocles", mbid = "1f9b99ac-050c-4524-9210-45681224c30a" },
+  { n = 10, title = "Le Petit Lion", mbid = "b3136dad-c4b2-4117-ba88-1e207ce5fb57" },
+  { n = 11, title = "Déguisé en moi", mbid = "3a8fc153-6558-489d-9f59-fae71ed8f64e" },
+  { n = 12, title = "Le Chant du mauvais cygne", mbid = "f4a1c003-f9f2-479a-9d0e-5b1aad99d54b" },
+  { n = 13, title = "Vampire en pyjama", mbid = "275bcc91-39a5-4a48-8a08-3fb92ee76a3a" },
+]
+
+[[release]]
+mbid = "2bf841ac-6027-4791-b385-972d189e0b46"
+title = "Une sirène à Paris"
+type = "single"
+date = "2019-02-06"
+spotify = "0s9G2pFbbz9EaxvSdc2GSe"
+tracks = [
+  { n = 1, title = "Une sirène à Paris", mbid = "e3efbb72-ace0-4dad-92aa-7291a6455504" },
+]
+
+[[release]]
+mbid = "50d56c1d-e046-4dc9-82ce-4cd2c000a96f"
+title = "Paris brille‐t‐il ?"
+type = "single"
+date = "2019-07-05"
+spotify = "2G4scafhVDoH0oNniQyrRL"
+tracks = [
+  { n = 1, title = "Paris brille‐t‐il ?", mbid = "5b4e707a-983d-490d-bba2-4830d7c4ac11" },
+]
+
+[[release]]
+mbid = "ec635e4c-3fa6-4f97-822a-2d5bce20c668"
+title = "Le Livre des surprisiers"
+type = "ep"
+date = "2019-10-11"
+spotify = "13WizA0kcO9uHboBnxztCP"
+tracks = [
+  { n = 1, title = "Surprisier", mbid = "5982c472-3fd6-47a0-a0b3-bd89cf88dc06" },
+  { n = 2, title = "Bouquet d’haïku 1", mbid = "5f806b71-27f1-4b13-924f-7c9a730bb031" },
+  { n = 3, title = "Opération commando", mbid = "0a077033-d4fe-4eb9-9c56-b32b1091367d" },
+  { n = 4, title = "L’Arrêteur de temps", mbid = "5bfa70ec-f9a7-4f76-8ad0-e8c8a81fd442" },
+  { n = 5, title = "Bouquet d’haïku 2", mbid = "1256563c-00f2-4619-8bca-05909cdc908f" },
+  { n = 6, title = "L’Humour de dieu", mbid = "8aee2273-a649-4450-9013-acea04b8fd2d" },
+]
+
+[[release]]
+mbid = "994e56ae-4e4c-4cad-be39-2fe5cbb1a2a5"
+title = "Le Chêne"
+type = "single"
+date = "2019-10-18"
+spotify = "1aCNPcrPk4Oa3C8KLbbkA8"
+tracks = [
+  { n = 1, title = "Le Chêne", mbid = "e3924ef5-6592-4e57-9fb2-e4080d38eed0" },
+]
+
+[[release]]
+mbid = "5f8d9713-891f-4010-b966-b2da4a073997"
+title = "Surprisier"
+type = "album"
+date = "2020-02-28"
+spotify = "5ZZQn9yj5Cqc1kvvBEM1am"
+tracks = [
+  { n = 1, title = "Thème de Lula", mbid = "b3fd44e2-8def-4df1-8121-26c5f79c84c3" },
+  { n = 2, title = "Paris brille‐t’il ?", mbid = "0f29a3d6-77bd-4fdd-8b8a-5b71873306ca" },
+  { n = 3, title = "Le Chêne", mbid = "a088f7bc-9450-453d-b448-26d26d90ed62" },
+  { n = 4, title = "Panna Cotta Girl", mbid = "5f94a5d6-bdde-4e7d-a1b2-df250889a2e1" },
+  { n = 5, title = "Une sirène à Paris", mbid = "28d48512-24fe-4904-9283-1b87f46de950" },
+  { n = 6, title = "Le Grand Sapin", mbid = "3e8850d6-0c86-478d-9d8f-c523efe1a800" },
+  { n = 7, title = "Forever Forêt", mbid = "69c000f8-9628-414c-a9a6-93bc974e560c" },
+  { n = 8, title = "All the Pretty Waves", mbid = "0917f265-22c4-4ef2-8905-f3951e043e5f" },
+  { n = 9, title = "Les Filles barbelées", mbid = "5f6266b5-4df7-4911-81bf-215271959abe" },
+  { n = 10, title = "Flower Burger", mbid = "68393a12-50d9-4602-99d7-2e416d656b3e" },
+  { n = 11, title = "Thème du Lula version 2", mbid = "b9b48440-937f-4f49-ba49-89812238a63b" },
+  { n = 12, title = "Johnny Cat", mbid = "1f27d934-3dd6-4282-bfee-a180cbaae12d" },
+  { n = 13, title = "Voler en amour", mbid = "c1193b2f-0b88-427a-9418-c2279c0ef2af" },
+]
+
+[[release]]
+mbid = "3f21c09a-0b9d-4a43-81a3-d503277d45be"
+title = "Time Machine Experience"
+type = "album"
+date = "2021-04-30"
+spotify = "0G3bhk69SY2UvrWYEOswnB"
+tracks = [
+  { n = 1, title = "Thème de Lula", mbid = "80ef3393-df90-4f19-99b8-a8d9e60c4454" },
+  { n = 2, title = "Paris brille‐t‐il ?", mbid = "4a2434f5-15f4-464b-be1a-537094971a1b" },
+  { n = 3, title = "All the Pretty Waves", mbid = "13b7e9dd-ad18-4676-af78-d0001261ec54" },
+  { n = 4, title = "Neige", mbid = "35bc00ae-fcbf-4d17-bad6-bb35ef626d04" },
+  { n = 5, title = "Song for Jedi", mbid = "7c494b41-efa0-43db-9d37-0930f08c08fd" },
+  { n = 6, title = "Thème de Lula 2", mbid = "44bd7895-87c9-416f-a58b-685f146bf816" },
+  { n = 7, title = "Une sirène à Paris", mbid = "839b9d59-7889-4c6a-9a3e-47dc0f0ed8cc" },
+  { n = 8, title = "Old Child", mbid = "027428ba-1c2e-4a24-9da0-5f9a6c96f446" },
+  { n = 9, title = "Vampire de l’amour", mbid = "3be941cf-f943-43a1-ad2f-3454494fd82d" },
+  { n = 10, title = "Bird’n’Roll", mbid = "87e4d286-fedf-4fcf-9a70-c8daeab05c1d" },
+  { n = 11, title = "Voler en amour", mbid = "c713b5db-192e-4c12-9fbd-4ef309284fd7" },
+  { n = 12, title = "Flowerburger", mbid = "5230decb-05f3-45e0-a945-bca2096feac6" },
+  { n = 13, title = "Family", mbid = "100532e0-f93c-4b67-9041-74b362b83a73" },
+]
+
+[[release]]
+mbid = "c031245f-3155-4630-a0bc-1e817f4b6a33"
+title = "Song for Jedi"
+type = "single"
+date = "2023-09-29"
+spotify = "76Id5QKkMwtpqcLtYinohl"
+tracks = [
+  { n = 1, title = "Song for Jedi", mbid = "86555ddc-ed7f-4f6f-a0fb-c565dbfe2e81" },
+]
+
+[[release]]
+mbid = "9c3932f6-1346-4a30-960b-e841d6f5effa"
+title = "L’Extraordinarium"
+type = "album"
+date = "2023-11-03"
+spotify = "6mzi4tzXS4VUybvG1eTK25"
+tracks = [
+  { n = 1, title = "Ombrologie", mbid = "b51064e5-8867-4190-b986-587fbfca5baf" },
+  { n = 2, title = "Giant Jack", mbid = "73b558bf-f961-4159-a865-f4e06b981f52" },
+  { n = 3, title = "Song for Jedi", mbid = "41ed59af-1d6f-44f3-834d-0b0b5fbcae7a" },
+  { n = 4, title = "I Love You", mbid = "ca7b3b2b-3448-488a-a170-54442d5caab2" },
+  { n = 5, title = "Vampire de l’amour", mbid = "708015ec-e420-49ab-b4f9-e96952677af0" },
+  { n = 6, title = "MC Enroes’ Poetry", mbid = "8422d6e7-2911-4d7b-a653-1299a54332ea" },
+  { n = 7, title = "La métamorphose de Mister Chat", mbid = "12a91c3e-bb48-4274-9707-037839ead843" },
+  { n = 8, title = "Ciel en sauce", mbid = "ae899a3a-469c-459b-bfa9-b601ea6dc969" },
+  { n = 9, title = "Cloudman", mbid = "4d1948e2-b162-4339-b89f-9af7ebcfbdb4" },
+  { n = 10, title = "Le Chêne", mbid = "560cb72a-32fb-4733-be15-45957198d9a1" },
+  { n = 11, title = "Tokyo Montana", mbid = "55b4c308-18e4-48a6-93f1-aa36099adc3f" },
+  { n = 12, title = "Vampire en pyjama", mbid = "a33c1db4-6cb5-46cb-b13a-5444df252e5e" },
+  { n = 13, title = "Wet", mbid = "17dae2f2-0c9e-404b-add0-9b35d1fd7555" },
+  { n = 14, title = "Tuto pour marcher sur l’eau", mbid = "0b0e4e01-6584-4196-a5af-13fe272538aa" },
+  { n = 15, title = "Coccinelle", mbid = "3ccbbe0e-bf3c-4eed-a090-7b101f4d70f9" },
+  { n = 16, title = "Don Diego 2000", mbid = "9ba5704e-e6f3-453f-9342-5d0d7f4064a9" },
+  { n = 17, title = "Poudlard de rien", mbid = "6691497d-ebbb-4e55-b29f-630bdea7c87e" },
+  { n = 18, title = "La naissance de Jack", mbid = "9debe93a-6423-45f2-8e10-650745e3dfaa" },
+  { n = 19, title = "Le jour le plus froid du monde", mbid = "06b380b6-3b29-4056-a152-e5774f739903" },
+  { n = 20, title = "Flamme à lunettes", mbid = "d49c0e85-3038-4b22-9bac-b79f90d38e00" },
+  { n = 21, title = "Neige", mbid = "3c8e04c8-1c83-4906-8c04-d82d2747b414" },
+  { n = 22, title = "Le cinéma de nos rêves", mbid = "27623c8b-5f38-4db7-8cd5-38e00e3bbd8a" },
+  { n = 23, title = "Epilogue", mbid = "f17b562d-c5ba-49e1-84a8-4a98528b7d5a" },
+]

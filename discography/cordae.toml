@@ -1,0 +1,365 @@
+format = 1
+
+[[release]]
+mbid = "696212a1-350f-4d95-8a4f-630197a6295f"
+title = "My Name Is (Eminem Remix)"
+type = "single"
+date = "2018-05-11"
+tracks = [
+  { n = 1, title = "My Name Is (Eminem Remix)", mbid = "9522ca19-4624-4096-be61-611ce188aebb" },
+]
+
+[[release]]
+mbid = "c85350d0-d93c-4e94-bf70-e4dce26623b5"
+title = "Old Niggas"
+type = "single"
+date = "2018-05-16"
+tracks = [
+  { n = 1, title = "Old Niggas", mbid = "4ec06937-c41d-4f02-bc07-a99f3b20e2f0" },
+]
+
+[[release]]
+mbid = "b3d3a801-2f93-4274-a02b-ecc9cf2aa5ce"
+title = "Fighting Temptations"
+type = "single"
+date = "2018-06-15"
+tracks = [
+  { n = 1, title = "Fighting Temptations", mbid = "2681904c-01a2-403d-8dd7-4ddca4038a64" },
+]
+
+[[release]]
+mbid = "f8ee275f-bc76-4636-b3e2-4f3d1ddc1709"
+title = "Kung Fu"
+type = "single"
+date = "2018-07-13"
+tracks = [
+  { n = 1, title = "Kung Fu", mbid = "84a2d747-f9b5-4241-b79f-2673ae737b26" },
+]
+
+[[release]]
+mbid = "a82e3650-814b-4194-9cab-907029e382cc"
+title = "Scotty Pippen"
+type = "single"
+date = "2018-08-24"
+spotify = "4Oz422RVJsdQQgeG7qMQEo"
+tracks = [
+  { n = 1, title = "Scotty Pippen", mbid = "2a702b27-6aee-4cc1-b141-1608954d8b16" },
+]
+
+[[release]]
+mbid = "756acf1d-ffd8-4320-b549-f8087d5b2528"
+title = "Whats Life"
+type = "single"
+date = "2018-12-31"
+tracks = [
+  { n = 1, title = "Whats Life", mbid = "6556ed14-e586-4fff-b9f0-c2419a3246c0" },
+]
+
+[[release]]
+mbid = "fbbcbdfc-3b6a-4e17-aad3-66ae35f4d029"
+title = "Locationships"
+type = "single"
+date = "2019-01-28"
+tracks = [
+  { n = 1, title = "Locationships", mbid = "96be801f-3998-4b38-a996-7757a6040186" },
+]
+
+[[release]]
+mbid = "d79dd685-70dd-4f27-935e-39866093e19f"
+title = "Bad Idea"
+type = "single"
+date = "2019-06-16"
+tracks = [
+  { n = 1, title = "Bad Idea", mbid = "8bb2b84a-901d-472f-a466-496e6365587f" },
+]
+
+[[release]]
+mbid = "c7b336f7-87f4-46e2-b83f-9821366957dd"
+title = "Racks"
+type = "single"
+date = "2019-06-28"
+tracks = [
+  { n = 1, title = "Racks", mbid = "a27693f1-5d04-466c-8c22-d7a4e29e21e0" },
+]
+
+[[release]]
+mbid = "358ec6f6-1605-4988-b8a5-ecce381cd29c"
+title = "RNP"
+type = "single"
+date = "2019-07-23"
+tracks = [
+  { n = 1, title = "RNP", mbid = "93fa79e1-3099-4060-ae96-9da984064cba" },
+]
+
+[[release]]
+mbid = "7da9e96f-4ece-4e16-96b4-bb3764082b97"
+title = "The Lost Boy"
+type = "album"
+date = "2019-07-26"
+spotify = "1fis1tOVDsffi2Q9hkBLfC"
+tracks = [
+  { n = 1, title = "Wintertime", mbid = "c40df557-2292-4f18-8569-46292164a554" },
+  { n = 2, title = "Have Mercy", mbid = "d1e64b29-611f-43b7-97cb-eca2a9cb523a" },
+  { n = 3, title = "Sweet Lawd (skit)", mbid = "2fe5b73d-35ca-4a8d-987e-8a570f55d316" },
+  { n = 4, title = "Bad Idea", mbid = "8bb2b84a-901d-472f-a466-496e6365587f" },
+  { n = 5, title = "Thanksgiving", mbid = "6990fcac-4223-46a9-ac44-8e36077c5b45" },
+  { n = 6, title = "RNP", mbid = "3ff4a833-821d-4aa8-9882-f137f311d890" },
+  { n = 7, title = "Broke as Fuck", mbid = "8dc6fd73-c04c-4cc2-b3e2-795254e1f457" },
+  { n = 8, title = "Thousand Words", mbid = "94f16481-0bfe-4d4a-bccd-c360245c8bf0" },
+  { n = 9, title = "Way Back Home", mbid = "b1182616-3af1-4126-bb2d-9c2b0b0b7b5c" },
+  { n = 10, title = "Grandma’s House (skit)", mbid = "6c167e91-032b-4676-a2cc-373bbdddfc8d" },
+  { n = 11, title = "Been Around", mbid = "232c9711-cef8-420b-98c5-447d004314da" },
+  { n = 12, title = "Nightmares Are Real", mbid = "c120dc60-3821-49fe-b0c0-f34c420b1d60" },
+  { n = 13, title = "Family Matters", mbid = "37f48357-0206-4838-aecd-02236e37abb3" },
+  { n = 14, title = "We Gon Make It", mbid = "8aaee14f-dfe8-42c3-846f-eb0ce8f3e1c2" },
+  { n = 15, title = "Lost & Found", mbid = "607eec7a-437b-4210-9691-f85a497a6225" },
+]
+
+[[release]]
+mbid = "476da775-5c45-4a80-bd98-5afe27eb5684"
+title = "In These Streets"
+type = "single"
+date = "2019-11-29"
+tracks = [
+  { n = 1, title = "In These Streets", mbid = "c02d5e48-f577-40da-bc05-6dff0db9df30" },
+]
+
+[[release]]
+mbid = "e3c01c12-18e2-4d81-84c0-5e2c937f03ea"
+title = "Can’t Put It in the Hands of Fate"
+type = "single"
+date = "2020-10-13"
+spotify = "1ApeRxPcw8A0rFPwhQniNn"
+tracks = [
+  { n = 1, title = "Can’t Put It in the Hands of Fate", mbid = "2628bf7e-9808-4e1b-99ce-e8af61ba3966" },
+]
+
+[[release]]
+mbid = "34047152-2ddc-4fb0-806b-9be0e966e4b8"
+title = "Soda"
+type = "single"
+date = "2020-11-13"
+spotify = "7LCjUebfsa3JayXyozO9EY"
+tracks = [
+  { n = 1, title = "Soda", mbid = "1b039e8d-9c44-4403-b3de-7efdeb0a1283" },
+]
+
+[[release]]
+mbid = "6017f1c6-f0bc-4c83-a2f3-31cfbff4208c"
+title = "The Parables"
+type = "single"
+date = "2020-11-24"
+spotify = "2r50ydw2FOuiffavTsvXAM"
+tracks = [
+  { n = 1, title = "The Parables", mbid = "279c4251-d4a8-4ba8-b8f3-a9611315ccb3" },
+]
+
+[[release]]
+mbid = "c2e7736f-8c07-4627-8d55-7aa6fa3ba96e"
+title = "Just Until...."
+type = "ep"
+date = "2021-04-22"
+spotify = "30yaw026DyEABjcuUyxNiI"
+tracks = [
+  { n = 1, title = "More Life", mbid = "68d1613c-b243-4d10-a550-fc6360b2443e" },
+  { n = 2, title = "Dream in Color", mbid = "5d50a407-d7f3-4c37-a449-ecc2781a44ca" },
+  { n = 3, title = "Wassup", mbid = "b930af04-2a7d-4f34-813f-4d386b0cfe92" },
+  { n = 4, title = "Thornton Street", mbid = "c3c70790-e0fe-4947-8e28-908aee03091a" },
+]
+
+[[release]]
+mbid = "4077145a-c4cd-4813-a6b9-af5d488ac200"
+title = """What's Life (From "Liberated / Music For the Movement Vol. 3")"""
+type = "single"
+date = "2021-06-18"
+tracks = [
+  { n = 1, title = "What's Life", mbid = "b8e68999-5dcf-4a50-ad1c-a159882002c0" },
+]
+
+[[release]]
+mbid = "aa00f11f-8030-4d4d-9046-9bdc918590ec"
+title = "Life Is Like a Dice Game"
+type = "single"
+date = "2021-07-01"
+spotify = "07XItOn4L2uyxBeZBOAwVt"
+tracks = [
+  { n = 1, title = "Life Is Like a Dice Game", mbid = "308e231e-f280-48aa-acc6-943667bbf357" },
+]
+
+[[release]]
+mbid = "efd4d6b0-8016-437b-b8ec-a7c63de558ed"
+title = 'Taxes (from the Netflix Series "We The People")'
+type = "single"
+date = "2021-07-02"
+spotify = "0UzK4J9pQCVJGHwX7P0oSO"
+tracks = [
+  { n = 1, title = 'Taxes (from the Netflix Series "We The People")', mbid = "c06147c1-3870-4217-875a-857fdd6bce0a" },
+]
+
+[[release]]
+mbid = "913af4e6-99f4-4408-a71c-4ef0f88b545d"
+title = "From a Birds Eye View"
+type = "album"
+date = "2022-01-14"
+spotify = "3N3alcn9EvmanafUt70Vxh"
+tracks = [
+  { disc = 1, n = 1, title = "Shiloh’s Intro", mbid = "b735e268-a17f-4a8c-bcee-0a9188cf3593" },
+  { disc = 1, n = 2, title = "Jean Michel", mbid = "8ffefd30-02da-40ba-84ec-e83fb3b1880b" },
+  { disc = 1, n = 3, title = "Super", mbid = "3f1d3744-963b-4838-984b-199841275e34" },
+  { disc = 1, n = 4, title = "Momma’s Hood", mbid = "7581d9a1-02ed-439c-a7f1-69d8663d7e2f" },
+  { disc = 1, n = 5, title = "Want From Me", mbid = "5b7dafdf-715d-4361-8602-93eb4de073ee" },
+  { disc = 1, n = 6, title = "Today", mbid = "b5f17173-c398-45b8-aa23-7d9ab4413849" },
+  { disc = 1, n = 7, title = "Shiloh’s Interlude", mbid = "c3833fab-f610-41cf-9e88-1162c7ea1c3f" },
+  { disc = 1, n = 8, title = "Coach Carter", mbid = "24f53ce6-578a-49a5-b2fd-fac45d7e4733" },
+  { disc = 1, n = 9, title = "Sinister", mbid = "5aee0e83-caa0-4857-babc-6abd92a342f4" },
+  { disc = 1, n = 10, title = "Chronicles", mbid = "e0fc1f9a-b539-4087-9e7c-031f536451e8" },
+  { disc = 1, n = 11, title = "Champagne Glasses", mbid = "243e6ed7-125f-400a-a64f-c438422c81c6" },
+  { disc = 1, n = 12, title = "Westlake High", mbid = "0ecb9eeb-69d5-4bb4-9c5a-d84a17fe3c54" },
+  { disc = 2, n = 1, title = "Parables (remix)", mbid = "959e9086-616f-4c71-99b5-618f865107e9" },
+  { disc = 2, n = 2, title = "Gifted", mbid = "5a2d6c8b-fcb0-484e-a234-cbb5ca407a90" },
+]
+
+[[release]]
+mbid = "04c91545-58eb-4bc2-a79b-5a801b9e0b96"
+title = "Still Here"
+type = "single"
+date = "2022-03-04"
+spotify = "0zeQClmSZ283w0KoFrB14b"
+tracks = [
+  { n = 1, title = "Still Here", mbid = "80c961a0-5326-4836-81bf-3d918e6dcc07" },
+]
+
+[[release]]
+mbid = "0c6c2546-0aba-47ea-b5ec-cd05fcabbfe3"
+title = "Checkmate (Madden version)"
+type = "single"
+date = "2022-08-10"
+spotify = "32vUD1doZZX4xRvnYxhyn0"
+tracks = [
+  { n = 1, title = "Checkmate (Madden version)", mbid = "fa6850b6-f58d-4cbe-bc63-06b4a6d91ca9" },
+]
+
+[[release]]
+mbid = "6a7d0fb0-7c6d-459d-8735-549ca1275f08"
+title = "Unacceptable"
+type = "single"
+date = "2022-08-11"
+spotify = "79v3fsCuDJoEfpMJc6G7fI"
+tracks = [
+  { n = 1, title = "Unacceptable", mbid = "561364a6-d8bf-442a-b79b-a631599df612" },
+  { n = 2, title = "So With That", mbid = "a3e0c4f3-b2b9-4e08-bc19-255285defa8a" },
+]
+
+[[release]]
+mbid = "23881a85-5ef6-4084-a591-10db9b9313bf"
+title = "Two Tens"
+type = "single"
+date = "2023-01-25"
+spotify = "32iVvfIYkmugGRxcTlzYjr"
+tracks = [
+  { n = 1, title = "Two Tens", mbid = "93320a5f-33d0-48a8-85ef-d6026ac136d1" },
+]
+
+[[release]]
+mbid = "a0c861b1-63b0-4bbb-b036-1b356bea6dd9"
+title = "Doomsday"
+type = "single"
+date = "2023-06-23"
+spotify = "0uGrHjpQjFttH2ztKbouyb"
+tracks = [
+  { n = 1, title = "Doomsday", mbid = "fa34dd2e-a821-4a60-86f0-189447b16cce" },
+]
+
+[[release]]
+mbid = "19cf1985-9e4e-451f-b381-8b56eacb1d5f"
+title = "Make Up Your Mind"
+type = "single"
+date = "2023-08-04"
+spotify = "1Fb1bL19kIPe24nhMcpE80"
+tracks = [
+  { n = 1, title = "Make Up Your Mind", mbid = "f3b5552e-b8b8-4d70-aa3a-b9fef7875ee8" },
+]
+
+[[release]]
+mbid = "4e5945b6-d3df-41bb-8c0a-25562b38e673"
+title = "Saturday Mornings"
+type = "single"
+date = "2024-07-24"
+spotify = "3IySMEnXL20Sm0ZwZXxS66"
+tracks = [
+  { n = 1, title = "Saturday Mornings", mbid = "0acb945e-5ce7-4dc9-ba82-282beffe8a5e" },
+]
+
+[[release]]
+mbid = "042d167e-6114-4c44-ad81-46580c2be1fb"
+title = "Summer Drop"
+type = "single"
+date = "2024-08-28"
+spotify = "0OKZ5MM08qofVfUlyORPcU"
+tracks = [
+  { n = 1, title = "Summer Drop", mbid = "bd8c82ec-f088-4005-af50-cc54c744fabc" },
+]
+
+[[release]]
+mbid = "98296c2e-7ae3-4990-89f8-3862602a1def"
+title = "Mad as F*ck"
+type = "single"
+date = "2024-10-11"
+tracks = [
+  { n = 1, title = "Mad as F*ck", mbid = "b5c9177b-72dc-454d-82f8-b49947e03b54" },
+]
+
+[[release]]
+mbid = "ccce07ca-9451-46ab-a2a4-f423c5c79d90"
+title = "The Crossroads"
+type = "album"
+date = "2024-11-15"
+spotify = "7oZOlyOhZSUn1zfojIzMHR"
+tracks = [
+  { n = 1, title = "Intro", mbid = "8ae1b7ab-3c07-4a23-ad5e-51a7bda51f75" },
+  { n = 2, title = "06 dreamin", mbid = "b9382e06-823c-42ff-8938-b03edb97680c" },
+  { n = 3, title = "Back on the Road", mbid = "b1b1a3d0-bfd0-4700-affb-324351224d55" },
+  { n = 4, title = "Summer Drop", mbid = "bd8c82ec-f088-4005-af50-cc54c744fabc" },
+  { n = 5, title = "Nothings Promised", mbid = "bf052135-899e-4354-9cb6-5d76b9381a5a" },
+  { n = 6, title = "Mad as F*ck", mbid = "b5c9177b-72dc-454d-82f8-b49947e03b54" },
+  { n = 7, title = "All Alone", mbid = "b3d95b5d-cc69-434a-a6e8-948d911327a0" },
+  { n = 8, title = "Never See It", mbid = "8f95b230-42b0-4fdf-9329-6f2476363694" },
+  { n = 9, title = "Pray", mbid = "00715912-a128-4e4c-a30d-d012af07797a" },
+  { n = 10, title = "Don’t Walk Away", mbid = "1177e1f2-acc9-40d0-8ffb-171f7c309220" },
+  { n = 11, title = "Saturday Mornings", mbid = "0acb945e-5ce7-4dc9-ba82-282beffe8a5e" },
+  { n = 12, title = "No Bad News", mbid = "e09e15b0-2065-4d3a-a205-3f23b9ec11c6" },
+  { n = 13, title = "Shai Afeni", mbid = "f6562d93-4446-4150-8d73-b62c1902463c" },
+  { n = 14, title = "What Really Matters", mbid = "3bee8474-62c1-4f9c-a5c9-e16890cc3be5" },
+  { n = 15, title = "Syrup Sandwiches", mbid = "63b8918f-9d1f-4943-9c00-c6dfc0b85542" },
+  { n = 16, title = "Now You Know", mbid = "b66bbb2b-c7a4-44e1-96b6-b7954e4618dc" },
+  { n = 17, title = "Two Tens", mbid = "93320a5f-33d0-48a8-85ef-d6026ac136d1" },
+]
+
+[[release]]
+mbid = "a5ec351a-0bbf-4fe0-8ccf-acfde2abe139"
+title = "Prince George"
+type = "single"
+date = "2025-06-27"
+spotify = "7KgX5kBpWVvLiYLjSo6po1"
+tracks = [
+  { n = 1, title = "Prince George", mbid = "6a3cc397-cffd-44ba-b5e9-abd135f26933" },
+]
+
+[[release]]
+mbid = "55810f68-1c8f-4b58-abae-0a4f6d3fecb0"
+title = "A Good Day"
+type = "single"
+date = "2026-09-16"
+spotify = "6CvhDt8XclejVEWC19b2lX"
+tracks = [
+  { n = 1, title = "A Good Day", mbid = "e8be46db-0f34-4a63-b949-60363c0afbad" },
+]
+
+[[release]]
+mbid = "89d1a299-a5c2-4751-bd03-1b803ef3c27a"
+title = "Heavy Is the Crown"
+type = "album"
+date = "2026-10-23"
+spotify = "1pbMoqpMgCyjPefcJ9PKdq"
+tracks = [
+]

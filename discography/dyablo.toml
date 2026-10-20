@@ -1,0 +1,65 @@
+format = 1
+
+[[release]]
+mbid = "28152237-8e0a-36ba-bdaf-63fd0d8e870c"
+title = "El Profeta y Sus Disipuloz"
+type = "album"
+date = "2003-10-14"
+tracks = [
+  { n = 1, title = "El Profeta", mbid = "89d99bcb-0b83-479f-bbf6-0e157136598b" },
+  { n = 2, title = "Porque Yo Soy", mbid = "3901c8a4-6b2f-4cf2-a17a-ef63723f9f28" },
+  { n = 3, title = "Guerrilleroz", mbid = "622f55e9-6831-48bd-97b8-b9568211ad4d" },
+  { n = 4, title = "If U Were Me", mbid = "66372871-074c-49d7-9876-848fd6532683" },
+  { n = 5, title = "Solo Recuerda", mbid = "f1c68dcb-6448-4767-9ebb-524493f128e4" },
+  { n = 6, title = "Trucha!", mbid = "12606163-ec92-4baa-8d45-53c403f64e53" },
+  { n = 7, title = "Dyablo's Love Song", mbid = "551345f2-5984-4b26-8ba6-3c144d4e8e07" },
+  { n = 8, title = "You Know My Name", mbid = "5fc77c31-82bb-461d-873a-e0e0a064a05d" },
+  { n = 9, title = "Esto Es Asi", mbid = "0841ef9a-faab-4213-8729-4257a4fb9f98" },
+  { n = 10, title = "Ilegales", mbid = "defc959e-3969-4477-b574-cdd95c4d0c70" },
+  { n = 11, title = "Quien?", mbid = "30a1b20b-106e-407c-aabd-c0167459b247" },
+  { n = 12, title = "El Poder", mbid = "89c8cf03-7dce-4e91-9e1c-f4e6a2fa0893" },
+  { n = 13, title = "Hasta la Madre", mbid = "18c49ff7-e93b-4a01-b07e-76065af1443d" },
+  { n = 14, title = "Sigo Siendo", mbid = "6892e9d4-2c78-41c4-9a6b-87d1c90c148f" },
+  { n = 15, title = "Gangsters for Life", mbid = "41b2404c-4422-49cf-8d0e-aed75dd67a07" },
+  { n = 16, title = "Doing the Things You Do", mbid = "e3cd74dd-a416-4f4c-a0d5-12a8dae23a07" },
+]
+
+[[release]]
+mbid = "1549f80a-36be-49d0-98b9-66bbb970f737"
+title = "CRTFYD Files, Vol. 1"
+type = "album"
+date = "2019-05-01"
+tracks = [
+  { n = 1, title = "Mafiozoz Azteca", mbid = "da4b226c-673a-4089-97b9-03f3e6c5fb7e" },
+  { n = 2, title = "Brinca Paro", mbid = "2fc8b9b6-8e78-499d-a2fe-ed2ed4ec8450" },
+  { n = 3, title = "Quintero", mbid = "3f17c3be-4e34-4e9e-8dcf-a93a56f40adc" },
+  { n = 4, title = "Contradicciones", mbid = "a2ad66ba-d067-4050-85a6-d51b42297e94" },
+  { n = 5, title = "Escuela de la Calle", mbid = "fda86b92-e7a5-4087-ad14-d176ffdaafe3" },
+  { n = 6, title = "A la Verga Lo Demas", mbid = "972ac9a9-bcfb-47ce-abde-1b1f3fe511b2" },
+  { n = 7, title = "Habrete", mbid = "86ccdca6-0644-4f76-852d-77e00f8c9140" },
+  { n = 8, title = "Pensamientos Verdes", mbid = "64fe26f9-b9da-40c7-88f4-840502f07504" },
+  { n = 9, title = "Respeto", mbid = "e8900bb4-b6ca-46e5-b195-9c3a9d7c961e" },
+  { n = 10, title = "Luz Verde", mbid = "2506111e-9b95-465a-b89e-bb39e8839393" },
+  { n = 11, title = "Feo", mbid = "e4da80fe-848b-4b0a-80ec-3e9a3c8deebb" },
+  { n = 12, title = "Enemiga Killa", mbid = "c9e4c9ef-030c-46e8-9ce4-e04555c877b3" },
+]
+
+[[release]]
+mbid = "9513c0ce-8804-41de-bc7f-190444abe607"
+title = "CRTFYD Files, Vol .2"
+type = "album"
+date = "2019-05-31"
+tracks = [
+  { n = 1, title = "Algo Va Pasar", mbid = "2c2a7373-e1bb-4ea1-b313-f1b43c31a0d5" },
+  { n = 2, title = "Callejero sin Piedad", mbid = "8ced1927-cdbb-46d5-8210-0ed034e7d58d" },
+  { n = 3, title = "Don Dyablo", mbid = "71fe6868-2a69-42de-b8ae-d8d2689c5008" },
+  { n = 4, title = "Las Armas", mbid = "cb686572-7518-4b30-aa3a-932b867e9ff0" },
+  { n = 5, title = "Soldado Profeta", mbid = "1a933ca3-76d8-461a-a4dc-8a9cfb3dc6bc" },
+  { n = 6, title = "619 to 707", mbid = "fa25b542-e48d-4141-94aa-017ca560904c" },
+  { n = 7, title = "Gangsters", mbid = "1adfee2a-8c55-4fcc-92a9-612a4dbdc611" },
+  { n = 8, title = "Guerrilleros", mbid = "9fc4ffdb-26ad-4d5b-88ca-768e5e00ddb8" },
+  { n = 9, title = "Los Jugadores", mbid = "d6d9eaad-2c90-4df9-b48f-a7cc7d6a47b1" },
+  { n = 10, title = "Malditos Pensamiento", mbid = "921c0f29-bff5-481f-97ad-eb82449bbc93" },
+  { n = 11, title = "Poniendo Jale", mbid = "f2853580-b97e-431e-9481-d4ae0d7e384d" },
+  { n = 12, title = "No Te Escondas", mbid = "7f93d1dd-d853-430d-83a6-1460a8981999" },
+]

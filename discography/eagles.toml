@@ -1,0 +1,369 @@
+format = 1
+
+[[release]]
+mbid = "97e5e33f-ac0b-4b32-a295-a06a7d7e7eea"
+title = "Take It Easy / Get You in the Mood"
+type = "single"
+date = "1972"
+spotify = "0QTXAYpC3hdQBKWMa2uGh0"
+tracks = [
+  { n = 1, title = "Take It Easy", mbid = "2510bc41-cf3a-41f7-89eb-a493c88d06a7" },
+  { n = 2, title = "Get You in the Mood", mbid = "2ce53304-f736-465e-813b-2b423dd8f2a1" },
+]
+
+[[release]]
+mbid = "23eafc30-3978-37fb-bfa0-8058aa1eb81a"
+title = "Eagles"
+type = "album"
+date = "1972-06-01"
+spotify = "51B7LbLWgYLKBVSpkan8Z7"
+tracks = [
+  { n = 1, title = "Take It Easy", mbid = "a0afbeeb-8f66-408a-bdcb-79a9dcb4777c" },
+  { n = 2, title = "Witchy Woman", mbid = "d7db5cf7-ad84-4261-a68e-7c881f07dae4" },
+  { n = 3, title = "Chug All Night", mbid = "c4c84b29-af1b-498b-b291-39b90f270847" },
+  { n = 4, title = "Most of Us Are Sad", mbid = "4d847a55-d0f4-4926-82a7-8ade8207acb0" },
+  { n = 5, title = "Nightingale", mbid = "6932e4bf-0d2d-4703-96ab-31a84d0a6210" },
+  { n = 6, title = "Train Leaves Here This Morning", mbid = "1e60b91a-3e53-4fd8-a22a-fc65a7606ef2" },
+  { n = 7, title = "Take the Devil", mbid = "1d63d511-c479-44b7-a42c-4adeb26a95c9" },
+  { n = 8, title = "Earlybird", mbid = "bcf26430-70e9-4c73-ac21-8b9da0d53b29" },
+  { n = 9, title = "Peaceful Easy Feeling", mbid = "0f026cb2-07ab-4e4a-aaf2-cb9e1a902969" },
+  { n = 10, title = "Tryin'", mbid = "fed673c6-2c96-4d64-b478-e6d4c668be8d" },
+]
+
+[[release]]
+mbid = "a7dd04b2-d84b-4b69-a2e5-39ed2f423256"
+title = "What’s It All About?"
+type = "single"
+date = "1973"
+tracks = [
+  { n = 1, title = "Top of the World", mbid = "1f947978-ca63-435f-9327-6cb19381fc38" },
+  { n = 2, title = "Tequila Sunrise", mbid = "aee4f220-f947-46ab-a706-e813af8c0bce" },
+]
+
+[[release]]
+mbid = "9e7b49bb-b4bd-3583-87ba-f516f793eff2"
+title = "Desperado"
+type = "album"
+date = "1973-04-17"
+spotify = "09WBxbis5Sixt01FVMs8UM"
+tracks = [
+  { n = 1, title = "Doolin‐Dalton", mbid = "f7d5bd78-a80c-452d-85cf-3482d7857c34" },
+  { n = 2, title = "Twenty‐One", mbid = "306f9a11-35dd-4c0c-b544-fc4b57f8ccff" },
+  { n = 3, title = "Out of Control", mbid = "9a4f41e7-2015-40c5-8c5b-397e96caf764" },
+  { n = 4, title = "Tequila Sunrise", mbid = "59bc7fbc-5c03-4bc9-b530-dba554f8d67a" },
+  { n = 5, title = "Desperado", mbid = "96308d6d-77c8-48d6-b866-bdc48675ef10" },
+  { n = 6, title = "Certain Kind of Fool", mbid = "fa0c1271-aeac-4118-8f6b-249dd89cd8a4" },
+  { n = 7, title = "Doolin‐Dalton (instrumental)", mbid = "5474134a-f411-4493-a370-7a6329bf760a" },
+  { n = 8, title = "Outlaw Man", mbid = "7900ddb1-b175-4fcb-9412-1a3fc1197cf5" },
+  { n = 9, title = "Saturday Night", mbid = "781489e9-478b-4ab2-9ec1-207ddff481c2" },
+  { n = 10, title = "Bitter Creek", mbid = "c62eaeb9-8b84-42c1-ab5a-d010dd115e97" },
+  { n = 11, title = "Doolin‐Dalton / Desperado (reprise)", mbid = "eba041a7-01f2-49b4-a5c3-9f11d0c6217e" },
+]
+
+[[release]]
+mbid = "425353d2-98b9-35a0-94d1-15f99f125994"
+title = "On the Border"
+type = "album"
+date = "1974-03-22"
+spotify = "7tikjn4HBdS6TbeEFrJjVc"
+tracks = [
+  { n = 1, title = "Already Gone", mbid = "4c37f175-096a-4f42-966d-f411984eeca1" },
+  { n = 2, title = "You Never Cry Like a Lover", mbid = "3b82b8b3-9b7d-4db8-9547-9b08766bad75" },
+  { n = 3, title = "Midnight Flyer", mbid = "290876bf-c7ed-4916-b9ca-f98c2963799f" },
+  { n = 4, title = "My Man", mbid = "2c3f88b4-9b3b-425b-a7fe-349c9e1feb6d" },
+  { n = 5, title = "On the Border", mbid = "c818b2ae-629f-4ad7-a660-5364ca96bb34" },
+  { n = 6, title = "James Dean", mbid = "f64a8382-6eaa-4e96-9ab1-c5e559009bd0" },
+  { n = 7, title = "Ol’ 55", mbid = "035494d9-f1ed-4013-b851-15d3512a774c" },
+  { n = 8, title = "Is It True?", mbid = "33942246-161c-4ad4-80d2-a708052953ff" },
+  { n = 9, title = "Good Day in Hell", mbid = "29980b84-bcf0-4045-9d5d-e236ad054d3a" },
+  { n = 10, title = "The Best of My Love", mbid = "d32625a2-0f25-45a2-a478-e17790c4d0e0" },
+]
+
+[[release]]
+mbid = "c67b62d6-9607-48dd-8642-7df0ffef352e"
+title = "Already Gone"
+type = "single"
+date = "1974-04"
+tracks = [
+  { n = 1, title = "Already Gone", mbid = "53ca79fe-83f5-42b1-b85d-fdc61e858bd2" },
+  { n = 2, title = "Tequila Sunrise", mbid = "59bc7fbc-5c03-4bc9-b530-dba554f8d67a" },
+]
+
+[[release]]
+mbid = "6cdacb6d-518e-4375-8a28-dceaf91c46d2"
+title = "Best of My Love"
+type = "single"
+date = "1974-11-05"
+tracks = [
+  { n = 1, title = "Best of My Love", mbid = "4114f168-a828-4400-8829-029ce6ea7989" },
+  { n = 2, title = "Ol’ 55", mbid = "035494d9-f1ed-4013-b851-15d3512a774c" },
+]
+
+[[release]]
+mbid = "d9a51a3f-cea4-45ca-b72c-5c8add870279"
+title = "One of These Nights / Visions"
+type = "single"
+date = "1975-05-19"
+tracks = [
+  { n = 1, title = "One of These Nights", mbid = "d6af2df3-6a35-4359-ab36-e878cca9675a" },
+  { n = 2, title = "Visions", mbid = "8c8b4541-b530-44b3-891e-b5f36ed0c374" },
+]
+
+[[release]]
+mbid = "7f9ea3a4-5c4b-3082-a233-3462540e57e3"
+title = "One of These Nights"
+type = "album"
+date = "1975-06-10"
+spotify = "0F77QekrNe8vVAjU2sepja"
+tracks = [
+  { n = 1, title = "One of These Nights", mbid = "bab67eb0-c46a-494c-9894-602595c303bf" },
+  { n = 2, title = "Too Many Hands", mbid = "def33565-4496-4718-9f42-10170b50329e" },
+  { n = 3, title = "Hollywood Waltz", mbid = "32892e90-6f5d-4934-8d31-8a35c960018a" },
+  { n = 4, title = "Journey of the Sorcerer", mbid = "09c0089f-2c0c-41d5-be99-3149d0cef1ff" },
+  { n = 5, title = "Lyin’ Eyes", mbid = "f4bd678a-f16b-479e-8df1-8233223c6878" },
+  { n = 6, title = "Take It to the Limit", mbid = "05c0cadb-8ff5-49f3-8189-9bee8ff35502" },
+  { n = 7, title = "Visions", mbid = "8c8b4541-b530-44b3-891e-b5f36ed0c374" },
+  { n = 8, title = "After the Thrill Is Gone", mbid = "1f02e438-812d-4331-8292-5a2be89a3862" },
+  { n = 9, title = "I Wish You Peace", mbid = "e0424f92-12f1-4958-8070-6b18a783790a" },
+]
+
+[[release]]
+mbid = "f5d915e3-24b3-445f-a9ad-bfb64eb015c7"
+title = "Lyin’ Eyes"
+type = "single"
+date = "1975-09-13"
+tracks = [
+  { n = 1, title = "Lyin’ Eyes", mbid = "d754538f-9a63-43cf-9d07-736d4062706e" },
+  { n = 2, title = "Too Many Hands", mbid = "def33565-4496-4718-9f42-10170b50329e" },
+]
+
+[[release]]
+mbid = "4a2444f4-56f8-40c7-a5ef-f3ea30616a9e"
+title = "Take It to the Limit"
+type = "single"
+date = "1975-11-15"
+spotify = "13hDsZDGHlTx5gtUbeshd5"
+tracks = [
+  { n = 1, title = "Take It to the Limit", mbid = "b7d9e598-708d-4b2f-bfc2-3cfc5de23575" },
+  { n = 2, title = "After the Thrill is Gone", mbid = "1f02e438-812d-4331-8292-5a2be89a3862" },
+]
+
+[[release]]
+mbid = "d9797f23-a517-498c-be57-960d656a633f"
+title = "Hotel California"
+type = "single"
+date = "1976"
+tracks = [
+  { n = 1, title = "Hotel California", mbid = "14126611-94fc-45df-9b2a-e6d3a98d2e46" },
+  { n = 2, title = "Pretty Maids All in a Row", mbid = "e1de5771-92f0-4a7d-a796-b0c6b66c7cf4" },
+]
+
+[[release]]
+mbid = "fc53bd16-42d2-3863-9079-7c12a129bfe0"
+title = "New Kid in Town"
+type = "single"
+date = "1976"
+tracks = [
+  { n = 1, title = "New Kid in Town", mbid = "d4bc4fd6-d991-4c62-8976-a8e0f74dd90d" },
+  { n = 2, title = "Victim of Love", mbid = "2c729d44-66bd-4f3c-a4c4-4e0980ebed5b" },
+]
+
+[[release]]
+mbid = "836f349a-0434-3e8b-a0bc-261f77a9f99c"
+title = "Hotel California"
+type = "album"
+date = "1976-12-08"
+spotify = "2widuo17g5CEC66IbzveRu"
+tracks = [
+  { n = 1, title = "Hotel California", mbid = "40bd0203-bc3f-4b15-9ab3-ceeb2ef35d7a" },
+  { n = 2, title = "New Kid in Town", mbid = "eb5641b3-196d-45ba-9edf-1d37671bd3b8" },
+  { n = 3, title = "Life in the Fast Lane", mbid = "eb5550c8-9d31-4270-9dac-1f11566a3805" },
+  { n = 4, title = "Wasted Time", mbid = "826c84b4-b625-4ba9-847d-8fb1a31a2d21" },
+  { n = 5, title = "Wasted Time (reprise)", mbid = "1f2ce3df-edbf-4da9-84a6-688ca7adbb37" },
+  { n = 6, title = "Victim of Love", mbid = "898fe0ff-71a7-40b1-913c-9157a34ba16e" },
+  { n = 7, title = "Pretty Maids All in a Row", mbid = "e1de5771-92f0-4a7d-a796-b0c6b66c7cf4" },
+  { n = 8, title = "Try and Love Again", mbid = "dacd1802-bd44-4843-957d-7b51b8b0e764" },
+  { n = 9, title = "The Last Resort", mbid = "887f7e1c-5eb1-4f3b-9c12-8e54a6ebedbd" },
+]
+
+[[release]]
+mbid = "b8f3a39c-0b35-3bc7-9573-8f895fdc2d6a"
+title = "Please Come Home for Christmas / Funky New Year"
+type = "single"
+date = "1978-11-27"
+spotify = "4QxtDUU3U7gCCyT9Lm3bg5"
+tracks = [
+  { n = 1, title = "Please Come Home for Christmas", mbid = "f39919aa-d50e-480b-8d89-2cc709c5f59a" },
+  { n = 2, title = "Funky New Year", mbid = "efff6d82-f0ff-49a8-a147-da0d0abe6be7" },
+]
+
+[[release]]
+mbid = "daa05b25-4b4c-4f5a-a2b2-5dda4d80dcaf"
+title = "The Long Run"
+type = "single"
+date = "1979"
+tracks = [
+  { n = 1, title = "The Long Run", mbid = "d01e02de-9045-4e93-9861-637ebba8f5c0" },
+  { n = 2, title = "The Disco Strangler", mbid = "2f50f1c4-0976-4ad5-a07e-872dd2525854" },
+]
+
+[[release]]
+mbid = "462ccab2-20c4-43d2-9169-54450ead171e"
+title = "Отель «Калифорния» / На острове Буяне"
+type = "single"
+date = "1979"
+tracks = [
+  { n = 1, title = 'Отель "Калифорния"', mbid = "85c3abee-5e39-406e-b260-0457755190c0" },
+  { n = 2, title = "Новый ребенок в городе", mbid = "e863e9a9-08b1-40e4-8bd8-0ef1328d65dc" },
+  { n = 3, title = "На острове Буяне", mbid = "d4aba69d-9fc4-4da2-91a5-e03ba38eba15" },
+  { n = 4, title = "Нахлебалася пресного молока", mbid = "e00dfbd0-70b5-420a-a336-096c39e63552" },
+]
+
+[[release]]
+mbid = "155931b5-6563-4345-adc5-c0df69be40bd"
+title = "Heartache Tonight"
+type = "single"
+date = "1979-09"
+tracks = [
+  { n = 1, title = "Heartache Tonight", mbid = "1dc4ea40-d427-48ec-aa2d-1bc061d655bc" },
+  { n = 2, title = "Teenage Jail", mbid = "5fd2bab8-2d4e-4d27-88c6-2fdacc066ff6" },
+]
+
+[[release]]
+mbid = "1a265de4-136d-3414-adf5-b0913ca2aa15"
+title = "The Long Run"
+type = "album"
+date = "1979-09-24"
+spotify = "1sW1HxI9VppbiXqgFQHVCP"
+tracks = [
+  { n = 1, title = "The Long Run", mbid = "d01e02de-9045-4e93-9861-637ebba8f5c0" },
+  { n = 2, title = "I Can’t Tell You Why", mbid = "53fad7e6-0b45-4fdf-ae65-53da69546783" },
+  { n = 3, title = "In the City", mbid = "a8f0a06d-1f89-48d3-a1d5-eedab2eef1ec" },
+  { n = 4, title = "The Greeks Don’t Want No Freaks", mbid = "c21b434f-3bc4-4284-b489-66d2e4e870b8" },
+  { n = 5, title = "The King of Hollywood", mbid = "57ff58ea-fa5f-46cf-a7b0-56a8f8b1aa91" },
+  { n = 6, title = "Heartache Tonight", mbid = "1dc4ea40-d427-48ec-aa2d-1bc061d655bc" },
+  { n = 7, title = "Those Shoes", mbid = "66b1ce48-c988-48f2-8df0-aab4499a2e0c" },
+  { n = 8, title = "Teenage Jail", mbid = "5fd2bab8-2d4e-4d27-88c6-2fdacc066ff6" },
+  { n = 9, title = "The Disco Strangler", mbid = "2f50f1c4-0976-4ad5-a07e-872dd2525854" },
+  { n = 10, title = "Sad Café", mbid = "a9a943ae-99fc-4791-91f5-d024e33916ea" },
+]
+
+[[release]]
+mbid = "0005a2cb-fb46-4407-ac1b-fcb0932ae50a"
+title = "Hotel California"
+type = "single"
+date = "1980"
+tracks = [
+  { n = 1, title = "Hotel California", mbid = "00af1659-2adb-4f39-9e5f-5f2586625710" },
+  { n = 2, title = "Life in the Fast Lane", mbid = "79cd337d-8c84-4817-9acd-7d1fa83d7b7c" },
+]
+
+[[release]]
+mbid = "5462fbe2-8262-4bfe-aeb4-3cde44479393"
+title = "I Can’t Tell You Why"
+type = "single"
+date = "1980-02-04"
+tracks = [
+  { n = 1, title = "I Can’t Tell You Why", mbid = "0d683398-2a7f-4764-aa6c-d0ea8f7f3f28" },
+  { n = 2, title = "The Greeks Don’t Want No Freaks", mbid = "c21b434f-3bc4-4284-b489-66d2e4e870b8" },
+]
+
+[[release]]
+mbid = "b85c13de-264e-46af-9626-68e3b6cdf541"
+title = "Hotel California"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Hotel California", mbid = "40bd0203-bc3f-4b15-9ab3-ceeb2ef35d7a" },
+  { n = 2, title = "New Kid in Town", mbid = "eb5641b3-196d-45ba-9edf-1d37671bd3b8" },
+]
+
+[[release]]
+mbid = "b34f603a-7431-4011-86fb-457307c3c2f8"
+title = "Get Over It"
+type = "single"
+date = "1994-11-02"
+tracks = [
+  { n = 1, title = "Get Over It (LP version)", mbid = "68431fd4-8249-45a5-a41c-772f90f7091a" },
+  { n = 2, title = "Get Over It (live version)", mbid = "2cde3439-e59f-4b42-bb84-115516ec12dc" },
+]
+
+[[release]]
+mbid = "5d35cdcf-76d1-4ccf-b412-526ad4419df6"
+title = "Hotel California / New Kid in Town"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Hotel California", mbid = "f18334f8-a985-4719-b14a-d4e54572ee1f" },
+  { n = 2, title = "New Kid in Town", mbid = "ea9ada2d-ac19-4262-b617-2ae087a7b1fb" },
+]
+
+[[release]]
+mbid = "a76af061-ef1a-492f-909d-07826f2f4dd4"
+title = "Love Will Keep Us Alive"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Love Will Keep Us Alive (LP version)", mbid = "fe401c6f-33bc-4f15-aa39-5775ee9184d2" },
+  { n = 2, title = "New York Minute (LP version)", mbid = "4a5baf05-e85b-4e57-8fa6-cc3ed1c5e615" },
+  { n = 3, title = "Help Me Through the Night", mbid = "8ce5ce6b-c69e-4cdc-9ebd-ef71ab888b6f" },
+]
+
+[[release]]
+mbid = "5234644e-be14-3f1a-b1db-110e70c79502"
+title = "Hole in the World"
+type = "single"
+date = "2003-07-08"
+tracks = [
+  { n = 1, title = "Hole in the World", mbid = "cb0a2d0d-5327-4c06-8746-c43852ea23a6" },
+  { n = 2, title = "Hole in the World (live version)", mbid = "133ad7cc-cf26-414e-ae50-9c67fca4f02b" },
+]
+
+[[release]]
+mbid = "c75607b2-be6f-457d-bd5b-8b9f2ada010e"
+title = "Bonus – 3 Brand New Songs"
+type = "ep"
+date = "2006"
+tracks = [
+  { n = 1, title = "No More Cloudy Days", mbid = "9026a047-acf0-4733-a486-1209c18a31fa" },
+  { n = 2, title = "Fast Company", mbid = "d452614f-5413-4f3f-a37d-7a8b13484ec6" },
+  { n = 3, title = "Do Something", mbid = "fe664b18-d66e-42e9-a2ac-fc9fadd67daa" },
+]
+
+[[release]]
+mbid = "82e10fc2-3863-39d8-b91e-8f59f0cb7a03"
+title = "Long Road Out of Eden"
+type = "album"
+date = "2007-10-29"
+spotify = "2cWtnFvM7BmyQG1ojQDcCT"
+tracks = [
+  { disc = 1, n = 1, title = "No More Walks in the Wood", mbid = "6784db4f-ab16-4d71-9991-98fb199cf440" },
+  { disc = 1, n = 2, title = "How Long", mbid = "941a5658-42e8-40af-8aad-a38f847aeb70" },
+  { disc = 1, n = 3, title = "Busy Being Fabulous", mbid = "f2ccaa2f-5a79-4525-8b31-8f14e46081c3" },
+  { disc = 1, n = 4, title = "What Do I Do With My Heart", mbid = "6ad52d2d-b719-476a-a384-b8a3cee706e0" },
+  { disc = 1, n = 5, title = "Guilty of the Crime", mbid = "f59aff44-6244-4db8-a2cd-677a6297f3b0" },
+  { disc = 1, n = 6, title = "I Don’t Want to Hear Any More", mbid = "5418c724-2284-4f2a-8d86-90b64d364b6a" },
+  { disc = 1, n = 7, title = "Waiting in the Weeds", mbid = "40ec026e-23bf-4fa7-a993-ce066da503fd" },
+  { disc = 1, n = 8, title = "No More Cloudy Days", mbid = "9026a047-acf0-4733-a486-1209c18a31fa" },
+  { disc = 1, n = 9, title = "Fast Company", mbid = "d452614f-5413-4f3f-a37d-7a8b13484ec6" },
+  { disc = 1, n = 10, title = "Do Something", mbid = "fe664b18-d66e-42e9-a2ac-fc9fadd67daa" },
+  { disc = 1, n = 11, title = "You Are Not Alone", mbid = "6a2f0f28-94fc-4ed2-beb2-6f0a3430e4e7" },
+  { disc = 2, n = 1, title = "Long Road Out of Eden", mbid = "62c903d1-2c3d-4ad6-9597-e6346d36e63e" },
+  { disc = 2, n = 2, title = "I Dreamed There Was No War", mbid = "ebac19fd-57b7-4c17-9594-4bfbbcec603b" },
+  { disc = 2, n = 3, title = "Somebody", mbid = "fccb309c-d52a-4a67-999d-a43d1aab2307" },
+  { disc = 2, n = 4, title = "Frail Grasp on the Big Picture", mbid = "6627b9ae-c7b9-413e-95a7-587e2e724f4d" },
+  { disc = 2, n = 5, title = "Last Good Time in Town", mbid = "5b92dbc9-d566-46a0-b01a-715f74e11180" },
+  { disc = 2, n = 6, title = "I Love to Watch a Woman Dance", mbid = "3fb0be78-8bf6-42cf-87f9-a05780499159" },
+  { disc = 2, n = 7, title = "Business as Usual", mbid = "bcb69c5e-e78e-454a-976a-e4b1a6782bf6" },
+  { disc = 2, n = 8, title = "Center of the Universe", mbid = "398bdebb-14be-4d2b-8aed-c40f9b5de6f1" },
+  { disc = 2, n = 9, title = "It’s Your World Now", mbid = "ecb0d1af-3d03-47eb-bddc-a42bef9d118c" },
+]
+
+[[release]]
+mbid = "f25f88d3-b344-49ba-a8e9-d22ac82a2f65"
+title = "One of These Nights"
+type = "single"
+date = "2026-03-25"
+tracks = [
+  { n = 1, title = "One of These Nights", mbid = "bab67eb0-c46a-494c-9894-602595c303bf" },
+]

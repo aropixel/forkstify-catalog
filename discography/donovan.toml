@@ -1,0 +1,904 @@
+format = 1
+
+[[release]]
+mbid = "c723c063-3503-36a9-8cea-b861e20f0bac"
+title = "What’s Bin Did and What’s Bin Hid"
+type = "album"
+date = "1965-05-14"
+spotify = "627n67TYQ6bIijcrkD7V7Y"
+tracks = [
+  { n = 1, title = "Josie", mbid = "2e235d43-65b7-4106-b661-5ba3e63fbfc1" },
+  { n = 2, title = "Catch the Wind", mbid = "65febcad-8872-480e-a8cd-4fcbcada162c" },
+  { n = 3, title = "Remember the Alamo", mbid = "ce306a3c-c260-44a4-9e15-ca7dff9891db" },
+  { n = 4, title = "Cuttin’ Out", mbid = "02f1b719-54cf-44af-bc20-07d88a775ddc" },
+  { n = 5, title = "Car Car", mbid = "0f3ae2fe-914b-4b9a-9719-9dcdf70f33a3" },
+  { n = 6, title = "Keep on Truckin’", mbid = "74defa8f-283f-4c77-88fd-ed20147898ea" },
+  { n = 7, title = "Goldwatch Blues", mbid = "7690039a-c654-43e6-a297-b82b4c008f47" },
+  { n = 8, title = "To Sing for You", mbid = "aacefe7f-f355-46de-8f1e-ce84d83c06f0" },
+  { n = 9, title = "You’re Gonna Need Somebody on Your Bond", mbid = "50605def-8be7-4329-86cf-935d6ce006cd" },
+  { n = 10, title = "Tangerine Puppet", mbid = "53de02b9-8fb6-45b1-a933-a077a3ad2af6" },
+  { n = 11, title = "Donna Donna", mbid = "e2f19719-74c0-41ab-9197-52ec6d873abd" },
+  { n = 12, title = "Ramblin’ Boy", mbid = "52c59ccf-40ed-4a95-8915-19f7347bfb76" },
+]
+
+[[release]]
+mbid = "09557808-0be3-4493-a30c-da4e45bfc6f0"
+title = "Colours"
+type = "single"
+date = "1965-05-28"
+tracks = [
+  { n = 1, title = "Colours", mbid = "6c3e55cf-45c1-424f-80a1-58fc5728423e" },
+  { n = 2, title = "To Sing for You", mbid = "a1f9a8de-92c1-4e4a-9ce8-91953012cf66" },
+]
+
+[[release]]
+mbid = "282afc34-f0b1-4eb3-8fb7-27335d9d97a4"
+title = "Universal Soldier"
+type = "ep"
+date = "1965-08-15"
+tracks = [
+  { n = 1, title = "Universal Soldier", mbid = "cc83d0b1-e27b-4e67-bfd0-b96ef1a1e5be" },
+  { n = 2, title = "The Ballad of a Crystal Man", mbid = "da1a454b-bd13-43e4-8a2a-98e4c6bf3ffa" },
+  { n = 3, title = "Do You Hear Me Now?", mbid = "ddac2ba4-a050-47c3-8de8-65144b90484b" },
+  { n = 4, title = "The War Drags On", mbid = "bf4d84f7-9b1e-42a4-b6d9-33301d7fd102" },
+]
+
+[[release]]
+mbid = "cc590c1b-50eb-3083-9e1d-7b86af6dcdcf"
+title = "Fairytale"
+type = "album"
+date = "1965-10-22"
+tracks = [
+  { n = 1, title = "Universal Soldier", mbid = "56659cb3-3933-4449-8122-3741fb1e0d26" },
+  { n = 2, title = "To Try for the Sun", mbid = "3ef97d20-8074-43aa-ae8e-c4c551e49194" },
+  { n = 3, title = "Sunny Goodge Street", mbid = "48e2b7e5-6cbe-4814-bbbf-82a014d828ff" },
+  { n = 4, title = "Colours", mbid = "d52bfb4b-9f33-412f-9fe9-b5e0ca32b811" },
+  { n = 5, title = "Circus of Sour", mbid = "32faba4a-a607-4e42-bbc9-cd5f2d429c83" },
+  { n = 6, title = "Summer Day Reflection Song", mbid = "f0fe4d8f-a760-455a-ad4d-95d412cb9843" },
+  { n = 7, title = "Candy Man", mbid = "61773a9b-a2ce-4b47-bcfb-6a2f61c3e50f" },
+  { n = 8, title = "Jersey Thursday", mbid = "59f0c46c-26e8-4350-bfdb-35cb70291ddd" },
+  { n = 9, title = "Belated Forgiveness Plea", mbid = "e4eec01b-41b5-458e-aa32-60c9d0bb4e5d" },
+  { n = 10, title = "The Ballad of the Crystal Man", mbid = "690402d0-8364-4e0c-9761-80333b0fea0f" },
+  { n = 11, title = "The Little Tin Soldier", mbid = "ba892b39-61b0-404f-bef5-2b5998066af3" },
+  { n = 12, title = "The Ballad of Geraldine", mbid = "dfd1b55f-5924-4b6b-a4ec-30be75145028" },
+]
+
+[[release]]
+mbid = "9baab56e-8a88-38ff-9bc4-a14925b134c7"
+title = "Turquoise / Hey Gyp (Dig the Slowness)"
+type = "single"
+date = "1965-10-30"
+tracks = [
+  { n = 1, title = "Turquoise", mbid = "9fdb35cf-26c1-4308-90bd-9d1c2c1944a7" },
+  { n = 2, title = "Hey Gyp (Dig the Slowness)", mbid = "0870e7e5-cd85-43fc-92ae-d06b87c24967" },
+]
+
+[[release]]
+mbid = "b1750c56-13c8-39e6-a40a-ed4c0081e2e5"
+title = "Sunshine Superman"
+type = "single"
+date = "1966"
+tracks = [
+  { n = 1, title = "Sunshine Superman", mbid = "3663a69c-b7fc-4872-a9e7-95e0181390a8" },
+  { n = 2, title = "The Trip", mbid = "26da62b5-8978-4b85-86de-109ca1245e67" },
+]
+
+[[release]]
+mbid = "092eedd3-b8e2-33a6-8a9b-e9788e060886"
+title = "Sunshine Superman"
+type = "album"
+date = "1966-09-26"
+spotify = "2ULhVPvdhT7RREnqRWM06G"
+tracks = [
+  { n = 1, title = "Sunshine Superman", mbid = "1ba85391-5979-4f2a-bd87-34c16b3bc3f9" },
+  { n = 2, title = "Legend of a Girl Child Linda", mbid = "251b052f-67ae-4afc-af8b-b75381d243f3" },
+  { n = 3, title = "Three King Fishers", mbid = "c04e9e9e-f382-44e7-b266-9ad9f4116877" },
+  { n = 4, title = "Ferris Wheel", mbid = "06882606-7f2b-413d-9bdf-e121213a694b" },
+  { n = 5, title = "Bert's Blues", mbid = "e2bfc000-3139-4dd6-ac69-0227bfc7bc14" },
+  { n = 6, title = "Season of the Witch", mbid = "0cb902fb-9c4c-4bc1-8142-78528effe0bc" },
+  { n = 7, title = "The Trip", mbid = "05e02d9d-004a-41e0-88eb-e82ead7e6b7a" },
+  { n = 8, title = "Guinevere", mbid = "1f9bc40d-f7ca-43bc-b918-ab78e2c7d34a" },
+  { n = 9, title = "The Fat Angel", mbid = "d0695fb7-54d5-4f2a-ae7e-0e433e43ca4a" },
+  { n = 10, title = "Celeste", mbid = "fa6e5ef1-bac4-4c17-8d0a-d64f40270a45" },
+]
+
+[[release]]
+mbid = "d5aa5654-42db-4413-b71e-82e9728a9e30"
+title = "Mellow Yellow"
+type = "single"
+date = "1966-10-24"
+tracks = [
+  { n = 1, title = "Mellow Yellow", mbid = "ad554d11-c766-4717-9507-b9be56b49f68" },
+  { n = 2, title = "Sunny South Kensington", mbid = "7ddd1d14-ec69-4f89-9082-4e2e94b9e320" },
+]
+
+[[release]]
+mbid = "e36698e1-2499-4312-b14b-ef58a0eafe5c"
+title = "Wear Your Love Like Heaven"
+type = "single"
+date = "1967"
+tracks = [
+  { n = 1, title = "Wear Your Love Like Heaven", mbid = "e15e829f-cf71-4c11-a7e5-18e8dcd6f36a" },
+  { n = 2, title = "Oh Gosh", mbid = "8013fa8e-1257-467f-840a-1cd614f2b571" },
+]
+
+[[release]]
+mbid = "a62a43ac-e94d-402a-8d7c-414966e1fe96"
+title = "Epistle to Dippy"
+type = "single"
+date = "1967-01"
+tracks = [
+  { n = 1, title = "Epistle to Dippy", mbid = "9f051525-9942-4852-8f22-62dd06bb3215" },
+  { n = 2, title = "Preachin' Love", mbid = "5482bcc0-9a9a-467a-ba7a-688052ac9cea" },
+]
+
+[[release]]
+mbid = "99a5598e-0d2f-33fc-8f65-a50a4795e715"
+title = "Mellow Yellow"
+type = "album"
+date = "1967-03"
+tracks = [
+  { n = 1, title = "Mellow Yellow", mbid = "b803d77f-bd83-4d63-a41a-c07ceac7af74" },
+  { n = 2, title = "Writer in the Sun", mbid = "b182551a-bee3-45e9-9a5c-ce79bcdc98d9" },
+  { n = 3, title = "Sand and Foam", mbid = "4487097e-21bb-4505-8626-4720809b9753" },
+  { n = 4, title = "The Observation", mbid = "678be897-f0ef-4c17-bb9f-2b72848a0ab2" },
+  { n = 5, title = "Bleak City Woman", mbid = "b4203621-8b81-40c9-9f4d-e5d78cf2402b" },
+  { n = 6, title = "House of Jansch", mbid = "9fb0e753-85fb-46c1-8bfe-7ba7bf4701a5" },
+  { n = 7, title = "Young Girl Blues", mbid = "425f3247-c993-4c7d-8037-fbffbf1ebc9f" },
+  { n = 8, title = "Museum", mbid = "b41ad02e-8d60-4cb9-baf2-b195e579d7e5" },
+  { n = 9, title = "Hampstead Incident", mbid = "9945faf3-1c15-432a-9544-51d674edfcf0" },
+  { n = 10, title = "Sunny South Kensington", mbid = "9b95c527-be11-4fb6-a849-5b4144033be9" },
+]
+
+[[release]]
+mbid = "45af56c6-81a9-3c1a-8a3d-0da429d8a300"
+title = "There Is a Mountain / Sand and Foam"
+type = "single"
+date = "1967-10"
+tracks = [
+  { n = 1, title = "There Is a Mountain", mbid = "42eb1cad-79ba-439b-b822-772fd048eeae" },
+  { n = 2, title = "Sand and Foam", mbid = "829f3daa-3089-4af4-bbec-050b1876cd9a" },
+]
+
+[[release]]
+mbid = "d341bce3-0e64-367b-ab1b-11cecfd9d7af"
+title = "A Gift From a Flower to a Garden"
+type = "album"
+date = "1967-12"
+spotify = "4g2Bs0K7hTjvMEWM44USwz"
+tracks = [
+  { disc = 1, n = 1, title = "Wear Your Love Like Heaven", mbid = "e15e829f-cf71-4c11-a7e5-18e8dcd6f36a" },
+  { disc = 1, n = 2, title = "Mad John’s Escape", mbid = "3b52272c-3c7c-495c-a5a6-5603db4daeb9" },
+  { disc = 1, n = 3, title = "Skip‐A‐Long Sam", mbid = "e5c64376-a5ff-4eeb-ad4a-6c67c9daa58e" },
+  { disc = 1, n = 4, title = "Sun", mbid = "bef809f9-14c5-4eba-90ee-96fe73c33cdb" },
+  { disc = 1, n = 5, title = "There Was a Time", mbid = "25702ee0-ca31-4887-97fb-e1415cc4da31" },
+  { disc = 1, n = 6, title = "Oh Gosh", mbid = "32e54212-e3d9-41f1-be12-876d70dbcea8" },
+  { disc = 1, n = 7, title = "Little Boy in Corduroy", mbid = "629beb06-f46f-422e-94bd-9e4c86ebe5a9" },
+  { disc = 1, n = 8, title = "Under the Greenwood Tree", mbid = "a521e343-40bd-4f81-a829-54cb26e35879" },
+  { disc = 1, n = 9, title = "The Land of Doesn’t Have to Be", mbid = "d81480d3-1760-44ca-a37f-c5bfca3e46ef" },
+  { disc = 1, n = 10, title = "Someone Singing", mbid = "eec8ea71-aed5-4a34-a3e8-08bcc2daf243" },
+  { disc = 2, n = 1, title = "Song of the Naturalist’s Wife", mbid = "39a60748-5c91-4673-b5d1-b0a9e0eb594d" },
+  { disc = 2, n = 2, title = "The Enchanted Gypsy", mbid = "51dc9ba5-69cc-492f-b2bc-2970578ed4ce" },
+  { disc = 2, n = 3, title = "Voyage Into the Golden Screen", mbid = "dd616ee4-9daf-43ad-9dfe-b576136dbf95" },
+  { disc = 2, n = 4, title = "Isle of Islay", mbid = "a2a8b9ea-f5a8-4459-9219-26f92421beca" },
+  { disc = 2, n = 5, title = "The Mandolin Man and His Secret", mbid = "071037c8-3ce9-4e7f-9548-ecb408f5a145" },
+  { disc = 2, n = 6, title = "Lay of the Last Tinker", mbid = "7954e69f-cfe7-4854-9452-9c08732c34d9" },
+  { disc = 2, n = 7, title = "The Tinker and the Crab", mbid = "65399e38-4d45-4f9a-bb6e-37ec63e5c113" },
+  { disc = 2, n = 8, title = "Window With Schawl (A Portrait)", mbid = "00dac1bf-c78a-4441-b19f-8d96243e4792" },
+  { disc = 2, n = 9, title = "The Lullaby of Spring", mbid = "1220c74b-1a41-470e-9ade-c638c2d0f58f" },
+  { disc = 2, n = 10, title = "The Magpie", mbid = "e53730a2-40f3-4347-bdce-cf43527b3336" },
+  { disc = 2, n = 11, title = "Starfish‐on‐the‐Toast", mbid = "8705fa18-3fdf-47ea-b10f-954464ca20a7" },
+  { disc = 2, n = 12, title = "Epistle to Derroll", mbid = "e8a58e28-3aed-4a61-ab14-4405f228b498" },
+]
+
+[[release]]
+mbid = "84db5ba7-4f7c-453c-8100-b3f17074f49a"
+title = "For Little Ones"
+type = "album"
+date = "1967-12"
+tracks = [
+  { n = 1, title = "Song of the Naturalist’s Wife", mbid = "39a60748-5c91-4673-b5d1-b0a9e0eb594d" },
+  { n = 2, title = "The Enchanted Gypsy", mbid = "51dc9ba5-69cc-492f-b2bc-2970578ed4ce" },
+  { n = 3, title = "Voyage Into the Golden Screen", mbid = "dd616ee4-9daf-43ad-9dfe-b576136dbf95" },
+  { n = 4, title = "Isle of Islay", mbid = "a2a8b9ea-f5a8-4459-9219-26f92421beca" },
+  { n = 5, title = "The Mandolin Man and His Secret", mbid = "071037c8-3ce9-4e7f-9548-ecb408f5a145" },
+  { n = 6, title = "Lay of the Last Tinker", mbid = "7954e69f-cfe7-4854-9452-9c08732c34d9" },
+  { n = 7, title = "The Tinker and the Crab", mbid = "65399e38-4d45-4f9a-bb6e-37ec63e5c113" },
+  { n = 8, title = "Widow With Shawl (A Portrait)", mbid = "00dac1bf-c78a-4441-b19f-8d96243e4792" },
+  { n = 9, title = "The Lullaby of Spring", mbid = "1220c74b-1a41-470e-9ade-c638c2d0f58f" },
+  { n = 10, title = "The Magpie", mbid = "e53730a2-40f3-4347-bdce-cf43527b3336" },
+  { n = 11, title = "Starfish-on-the-Toast", mbid = "8705fa18-3fdf-47ea-b10f-954464ca20a7" },
+  { n = 12, title = "Epistle to Derroll", mbid = "e8a58e28-3aed-4a61-ab14-4405f228b498" },
+]
+
+[[release]]
+mbid = "c019288b-92d1-49c9-a3d5-fb73f0bb5968"
+title = "Wear Your Love Like Heaven"
+type = "album"
+date = "1967-12"
+tracks = [
+  { n = 1, title = "Wear Your Love Like Heaven", mbid = "e15e829f-cf71-4c11-a7e5-18e8dcd6f36a" },
+  { n = 2, title = "Mad John’s Escape", mbid = "3b52272c-3c7c-495c-a5a6-5603db4daeb9" },
+  { n = 3, title = "Skip-a-Long Sam", mbid = "e5c64376-a5ff-4eeb-ad4a-6c67c9daa58e" },
+  { n = 4, title = "Sun", mbid = "bef809f9-14c5-4eba-90ee-96fe73c33cdb" },
+  { n = 5, title = "There Was a Time", mbid = "25702ee0-ca31-4887-97fb-e1415cc4da31" },
+  { n = 6, title = "Oh Gosh", mbid = "32e54212-e3d9-41f1-be12-876d70dbcea8" },
+  { n = 7, title = "Little Boy in Corduroy", mbid = "629beb06-f46f-422e-94bd-9e4c86ebe5a9" },
+  { n = 8, title = "Under the Greenwood Tree", mbid = "a521e343-40bd-4f81-a829-54cb26e35879" },
+  { n = 9, title = "The Land of Doesn’t Have to Be", mbid = "d81480d3-1760-44ca-a37f-c5bfca3e46ef" },
+  { n = 10, title = "Someone Singing", mbid = "ce6e24b6-4330-4ec8-88c8-6f7d83abf7c6" },
+]
+
+[[release]]
+mbid = "cbf59d0c-a2d9-424e-b8ab-1d2b384e409c"
+title = "Atlantis"
+type = "single"
+date = "1968"
+tracks = [
+  { n = 1, title = "Atlantis", mbid = "31be6397-636c-4dc0-8f81-a204a4ab185a" },
+  { n = 2, title = "To Susan on the West Coast Waiting", mbid = "97409e98-c648-4fbb-9fcb-d6a9df45842f" },
+]
+
+[[release]]
+mbid = "50d22bbe-81af-4f42-b7fc-debcda8b4c35"
+title = "Jennifer Juniper"
+type = "single"
+date = "1968-02-20"
+tracks = [
+  { n = 1, title = "Jennifer Juniper", mbid = "5c0c1445-86c1-437a-a973-bc42cd6c77ec" },
+  { n = 2, title = "Poor Cow", mbid = "113f0037-7b62-4815-a50c-d044d292fa58" },
+]
+
+[[release]]
+mbid = "2b19bd1a-b55c-38d4-86ff-b8d8127e6efe"
+title = "Hurdy Gurdy Man / Teen Angel"
+type = "single"
+date = "1968-05"
+tracks = [
+  { n = 1, title = "Hurdy Gurdy Man", mbid = "afc2296a-9eaa-47a4-a8f0-64552067c5e2" },
+  { n = 2, title = "Teen Angel", mbid = "5a864496-379d-4f7f-a470-bd7b0a72a32c" },
+]
+
+[[release]]
+mbid = "20631080-dcd6-4406-968f-42543694c4f1"
+title = "Laléna"
+type = "single"
+date = "1968-10"
+tracks = [
+  { n = 1, title = "Laléna", mbid = "842dff4c-3a72-4ac3-96e1-309cd8f7e62a" },
+  { n = 2, title = "Aye My Love", mbid = "46141e75-e790-4a93-b5e1-8fed46c28318" },
+]
+
+[[release]]
+mbid = "ee3eefa5-9de8-3309-9adc-9119313b1ab1"
+title = "The Hurdy Gurdy Man"
+type = "album"
+date = "1968-10"
+tracks = [
+  { n = 1, title = "Hurdy Gurdy Man", mbid = "afc2296a-9eaa-47a4-a8f0-64552067c5e2" },
+  { n = 2, title = "Peregrine", mbid = "32c3dc70-b068-4d04-b448-a01deda38467" },
+  { n = 3, title = "The Entertainment of a Shy Girl", mbid = "e5835d1c-bb8c-4965-9512-15a8d4fb127b" },
+  { n = 4, title = "As I Recall It", mbid = "cf4f3ef6-9445-4dd9-ada0-5de4aec0c5a6" },
+  { n = 5, title = "Get Thy Bearings", mbid = "5ddb1c49-ec3e-4d17-8c78-bebc84c71109" },
+  { n = 6, title = "Hi It’s Been a Long Time", mbid = "34849dbd-70af-4855-aa5d-648c48e26c93" },
+  { n = 7, title = "West Indian Lady", mbid = "8286f8b3-cd48-4006-9507-15d91c0b3aef" },
+  { n = 8, title = "Jennifer Juniper", mbid = "2087a6a2-bc36-413f-8722-924f1b9f5d69" },
+  { n = 9, title = "The River Song", mbid = "f90f58aa-3b8d-4758-836a-5aeb32a1583e" },
+  { n = 10, title = "Tangier", mbid = "b584107d-6932-43d0-8866-51906377ab38" },
+  { n = 11, title = "A Sunny Day", mbid = "50dd7a42-889c-4d1f-93df-5ce6838191e2" },
+  { n = 12, title = "The Sun Is a Very Magic Fellow", mbid = "2e87af37-9f31-49e3-a5ae-71933b02a0f9" },
+  { n = 13, title = "Teas", mbid = "b99f122e-f084-448a-a0eb-c554a006a6ff" },
+]
+
+[[release]]
+mbid = "96b33026-1b18-4b4c-b5ba-927abf89a92a"
+title = "Barabajagal (Love Is Hot)"
+type = "single"
+date = "1969"
+tracks = [
+  { n = 1, title = "Barabajagal (Love Is Hot)", mbid = "33e3a60c-3062-49c3-a296-593122b9f245" },
+  { n = 2, title = "Trudi", mbid = "99189765-f93c-406d-b835-f702c6672b3a" },
+]
+
+[[release]]
+mbid = "33f73b60-bd5d-33f8-8009-9a6f3eab4b87"
+title = "Barabajagal"
+type = "album"
+date = "1969-08-11"
+tracks = [
+  { n = 1, title = "Barabajagal", mbid = "33e3a60c-3062-49c3-a296-593122b9f245" },
+  { n = 2, title = "Superlungs My Supergirl", mbid = "4a2ceefb-f63e-4c2b-b85d-a6a881f1b8c9" },
+  { n = 3, title = "Where Is She", mbid = "3fb0ac24-7151-4d4d-aac3-8acef1a95025" },
+  { n = 4, title = "Happiness Runs", mbid = "66bca83c-8a66-4f98-9141-624326e30d46" },
+  { n = 5, title = "I Love My Shirt", mbid = "0b4d5598-a312-4fa4-9730-adf504594344" },
+  { n = 6, title = "The Love Song", mbid = "326d0793-aac5-450f-b034-04871b3c240d" },
+  { n = 7, title = "To Susan on the West Coast Waiting", mbid = "c7cd5c8b-a653-4725-a73a-51707472fed3" },
+  { n = 8, title = "Atlantis", mbid = "c69d6b87-b9c1-4fca-9f1f-130b8eb8a859" },
+  { n = 9, title = "Trudi", mbid = "99189765-f93c-406d-b835-f702c6672b3a" },
+  { n = 10, title = "Pamela Jo", mbid = "9992cf67-4f65-42d1-aa96-ff050bff6c17" },
+]
+
+[[release]]
+mbid = "a739fbf5-6a35-3f87-82d8-222b2a64ad17"
+title = "Atlantis"
+type = "single"
+date = "1970"
+tracks = [
+  { n = 1, title = "Atlantis", mbid = "5fd8a428-2ab7-4e94-9798-e61a6f23a1c6" },
+  { n = 2, title = "To Susan on the West Coast Waiting", mbid = "be65930e-e840-41cd-9e3d-8ae4ae4a04b0" },
+]
+
+[[release]]
+mbid = "89e0b39c-3152-3665-8653-5c72029901e0"
+title = "Open Road"
+type = "album"
+date = "1970"
+tracks = [
+  { n = 1, title = "Changes", mbid = "bf04b224-4345-4269-908e-68e6b00230e5" },
+  { n = 2, title = "Song for John", mbid = "993e9448-860d-4744-8e0a-5e974f789e8a" },
+  { n = 3, title = "Curry Land", mbid = "fe98c2ce-5619-49fb-83ae-8c002ff6caa3" },
+  { n = 4, title = "Joe Bean’s Theme", mbid = "540eaddb-67d2-41bd-9395-560fc0878021" },
+  { n = 5, title = "People Used To", mbid = "49afa35e-2b6d-46af-8537-522f865ce24a" },
+  { n = 6, title = "Celtic Rock", mbid = "a93dc78c-e79f-44bf-a1e7-5cab809f6025" },
+  { n = 7, title = "Riki Tivi Tavi", mbid = "fc9152a3-5ba7-4c16-a35c-a0d7fa60a881" },
+  { n = 8, title = "Clara Clairvoyant", mbid = "65b08e4e-d993-4732-b3e1-980f90c31e93" },
+  { n = 9, title = "Roots of Oak", mbid = "039749f0-b8e3-4682-8e85-882659482884" },
+  { n = 10, title = "Season of Farewell", mbid = "070c9642-527d-43aa-9e52-9122eb5d47bf" },
+  { n = 11, title = "Poke at the Pope", mbid = "1071f899-59a2-44b6-8719-34d282fcedf9" },
+  { n = 12, title = "New Year’s Resovolution", mbid = "f6df70fe-0936-4edc-bcc5-8d6b45379c15" },
+]
+
+[[release]]
+mbid = "b4f9414e-dad4-33e0-8648-100f6b315aa4"
+title = "Celia of the Seals"
+type = "single"
+date = "1971"
+tracks = [
+  { n = 1, title = "Celia of the Seals", mbid = "1859b557-dc00-402c-8e09-35c69966fa9b" },
+  { n = 2, title = "The Song of the Wandering Aengus", mbid = "5c7b1e59-c054-4df3-81ba-db08173ef48c" },
+]
+
+[[release]]
+mbid = "c78a23e5-9bbe-30df-bd23-106aa89070b8"
+title = "HMS Donovan"
+type = "album"
+date = "1971"
+tracks = [
+  { disc = 1, n = 1, title = "The Walrus and the Carpenter", mbid = "069c05fd-b868-441a-944c-7f613eae2206" },
+  { disc = 1, n = 2, title = "Jabberwocky", mbid = "377e140c-d8db-4d81-afbf-a8f330e87f36" },
+  { disc = 1, n = 3, title = "The Seller of Stars", mbid = "4870d2bf-f310-4dba-bc72-93372fde5385" },
+  { disc = 1, n = 4, title = "Lost Time", mbid = "2354a226-788f-44cc-a247-51dbb1e5c6cb" },
+  { disc = 1, n = 5, title = "The Little White Road", mbid = "685bf652-c48c-481c-9d37-5a1b207b7aac" },
+  { disc = 1, n = 6, title = "The Star", mbid = "49f722e9-c613-4fb8-ae63-acfeb93d1bd5" },
+  { disc = 1, n = 7, title = "Coulter's Candy", mbid = "8c6aad2e-7b85-4c41-b18d-46971c48ad50" },
+  { disc = 1, n = 8, title = "The Road", mbid = "ad989715-22de-4f03-afc9-185c677651cf" },
+  { disc = 1, n = 9, title = "Things to Wear", mbid = "128b4955-f8bb-4a0f-b70d-3a466ef92373" },
+  { disc = 1, n = 10, title = "The Owl and the Pussycat", mbid = "082b80af-0b93-4907-a5cf-f4fa903cae19" },
+  { disc = 1, n = 11, title = "Homesickness", mbid = "990dfe8c-d9c4-4e06-aa11-26a44909ccbe" },
+  { disc = 1, n = 12, title = "Fishes in Love", mbid = "ee616d08-3356-43dc-914b-fba7073ae9ae" },
+  { disc = 1, n = 13, title = "Mr. Wind", mbid = "0a7ecc52-59cb-4234-8251-254b4a69c6fc" },
+  { disc = 1, n = 14, title = "Wynken, Blynken and Nod", mbid = "f980e75a-338f-4d71-88b0-cd9281e901a6" },
+  { disc = 2, n = 1, title = "Celia of the Seals", mbid = "d7b3d757-f57d-42e4-9416-197fa6c681da" },
+  { disc = 2, n = 2, title = "The Pee Song", mbid = "973949bd-eaed-4d3c-8911-dcdfa392e962" },
+  { disc = 2, n = 3, title = "The Voyage of the Moon", mbid = "32fba6ff-c263-4459-9415-c4745eccb258" },
+  { disc = 2, n = 4, title = "The Unicorn", mbid = "6356d7a5-ab51-45fc-9df9-4252636589dc" },
+  { disc = 2, n = 5, title = "Lord of the Dance", mbid = "4e69900f-61a2-41eb-91fb-ae6e1f32c39b" },
+  { disc = 2, n = 6, title = "Little Ben", mbid = "1c5f0f98-ce7a-415e-bcbb-faaff3cada77" },
+  { disc = 2, n = 7, title = "Can Ye Dance", mbid = "11e42b34-0dfc-4e35-aaac-6c1903ec7889" },
+  { disc = 2, n = 8, title = "In an Old Fashioned Picture Book", mbid = "9b8f68d6-50b4-429e-ba4c-1ce175665c56" },
+  { disc = 2, n = 9, title = "The Song of the Wandering Aengus", mbid = "397bba68-678b-4d20-af0b-1ca318a4aea1" },
+  { disc = 2, n = 10, title = "A Funny Man", mbid = "de20335c-86de-4b01-a9db-d22ef443e1e3" },
+  { disc = 2, n = 11, title = "Lord of the Reedy River", mbid = "e3c5b28c-a9f2-4269-9ab2-6673ae3f126a" },
+  { disc = 2, n = 12, title = "Henry Martin", mbid = "a766f86d-f642-457c-a593-6da93368deb5" },
+  { disc = 2, n = 13, title = "Queen Mab", mbid = "4f90151d-9445-49f6-886f-5b30d54fcc24" },
+  { disc = 2, n = 14, title = "La Moora", mbid = "a21b0ead-e8ac-423d-b77e-f2074a54cd89" },
+]
+
+[[release]]
+mbid = "9c53d6ad-0fce-4972-9d39-56f56fe60846"
+title = "Brother Sun, Sister Moon"
+type = "album"
+date = "1972"
+tracks = [
+  { n = 1, title = "Theme No. 1", mbid = "8ca91edb-24db-4c02-8cc9-b3074495a0f4" },
+  { n = 2, title = "Brother Sun, Sister Moon", mbid = "40484a03-0ad0-4bd5-a139-a6ac429b4a88" },
+  { n = 3, title = "Lovely Day", mbid = "79bca587-2491-4186-8c2a-bf772a15d90c" },
+  { n = 4, title = "Joy No. 1", mbid = "75929eb8-be16-4a46-ab59-1948ae18152b" },
+  { n = 5, title = "Bread", mbid = "ce684888-d999-4c1c-9a00-a2f2b52f15c7" },
+  { n = 6, title = "Suffering", mbid = "236891b3-e71a-4d24-91d7-d0d7cc7f38aa" },
+  { n = 7, title = "Mercy", mbid = "1b6d7ea0-bb22-4318-b27f-eb765be298bd" },
+  { n = 8, title = "Mother's Love", mbid = "a1d7696e-e10c-445f-95fc-90cd374cece8" },
+  { n = 9, title = "Giving", mbid = "663b8d02-370e-4c84-b53a-56aa4c00841e" },
+  { n = 10, title = "Joy No. 2", mbid = "dccc5e7d-d655-42b2-843c-e323369c3751" },
+  { n = 11, title = "Theme No. 2", mbid = "eb8858c1-8934-4289-b520-5fa7c3d5e1c0" },
+]
+
+[[release]]
+mbid = "ad613d41-07e9-3421-bb33-6f479679d733"
+title = "Cosmic Wheels"
+type = "album"
+date = "1973"
+tracks = [
+  { n = 1, title = "Cosmic Wheels", mbid = "e25d4ad8-cf32-4dfa-ac2c-aeec98de7e4a" },
+  { n = 2, title = "Earth Sign Man", mbid = "4a739454-d56c-41a5-88e2-762f539c7b4b" },
+  { n = 3, title = "Sleep", mbid = "adbda7e9-ec45-44e2-a2c7-6bc40b390efc" },
+  { n = 4, title = "Maria Magenta", mbid = "2e5cddc6-ff08-4d44-88e0-8eecac504755" },
+  { n = 5, title = "Wild Witch Lady", mbid = "804fe84e-373e-400a-a18c-6e77b169d9e8" },
+  { n = 6, title = "The Music Makers", mbid = "7f71e375-8272-4c05-ace7-5c17a57e047c" },
+  { n = 7, title = "The Intergalactic Laxative", mbid = "b0827739-bcf5-453a-90fd-3150e9e3cbb6" },
+  { n = 8, title = "I Like You", mbid = "a089b766-86e5-46b1-ad41-8181d9e8090e" },
+  { n = 9, title = "Only the Blues", mbid = "d4e30793-b43c-432f-b3c9-a94715f33798" },
+  { n = 10, title = "Appearances", mbid = "eb92ca62-9435-45e1-a899-917505bcc068" },
+]
+
+[[release]]
+mbid = "a374d170-0163-3ff6-b259-fbe9365eff04"
+title = "Essence to Essence"
+type = "album"
+date = "1973"
+tracks = [
+  { n = 1, title = "Operating Manual for Spaceship Earth", mbid = "07c465fb-dfcd-40db-ac59-5a88b2164dae" },
+  { n = 2, title = "Lazy Daze", mbid = "5f2a63ae-f7e5-423d-85cd-e461deaeefbd" },
+  { n = 3, title = "Life Goes On", mbid = "027f2734-d012-4422-8628-3b6fbf47a049" },
+  { n = 4, title = "There Is an Ocean", mbid = "735b2c3f-666d-4fce-91f7-23c4fcc960e3" },
+  { n = 5, title = "Dignity of Man", mbid = "84fa010e-44a5-43fe-9168-740b61121be0" },
+  { n = 6, title = "Yellow Star", mbid = "36b68c10-d7ec-4a73-895c-65570f413a85" },
+  { n = 7, title = "Divine Daze of Deathless Delight", mbid = "763f7569-b72d-47a0-8e92-0da4672d25a3" },
+  { n = 8, title = "Boy for Every Girl", mbid = "72e5d8cc-fef4-4a25-93d3-de82a5ae4e2f" },
+  { n = 9, title = "Saint Valentine’s Angel", mbid = "ec18b02d-42b8-4d31-ad40-28ecaba29806" },
+  { n = 10, title = "Life Is a Merry-Go-Round", mbid = "6608c5d0-5d2f-4fdc-9f55-0a9055b55055" },
+  { n = 11, title = "Sailing Homeward", mbid = "c0ee6fdf-5a53-49e9-891e-717a1bb42c8b" },
+]
+
+[[release]]
+mbid = "f5ca24df-eece-4564-9aee-0cee90efcb02"
+title = "7-Tease"
+type = "album"
+date = "1974-11"
+tracks = [
+  { n = 1, title = "Rock And Roll Souljer", mbid = "c4c77415-2ec4-425d-8f90-9691773adae5" },
+  { n = 2, title = "Your Broken Heart", mbid = "484fcb27-d8e3-4032-8f91-08c3cfb5e9e6" },
+  { n = 3, title = "Salvation Stomp", mbid = "bb7dc999-2698-487f-b0af-cca1239175fa" },
+  { n = 4, title = "The Ordinary Family", mbid = "7743c758-eca7-43ba-99df-d38d1e519aae" },
+  { n = 5, title = "Ride-A-Mile", mbid = "23bee571-06d1-4c58-86d3-b174f6ade3a4" },
+  { n = 6, title = "Sadness", mbid = "befea5ac-92f9-4513-b474-fe3b9a16c3c5" },
+  { n = 7, title = "Moon Rok", mbid = "1e275afa-595a-429c-86a0-11646bde0bc9" },
+  { n = 8, title = "Love Of My Life", mbid = "d520d721-5f75-4203-bbe8-e679923fee31" },
+  { n = 9, title = "The Voice Of Protest", mbid = "396b6bdb-373e-41c5-9c64-051a7abe4c9d" },
+  { n = 10, title = "How Silly", mbid = "a6de0bf3-0aa1-4289-b699-1f928c473740" },
+  { n = 11, title = "The Great Song Of The Sky", mbid = "3db680b2-6e57-4d4f-aeb1-1ed68d47cf1d" },
+  { n = 12, title = "The Quest", mbid = "9b236729-4033-4a67-b7ef-ac14abfc0df6" },
+]
+
+[[release]]
+mbid = "61de0b5b-8151-3a44-8682-659d69d0bf3b"
+title = "Slow Down World"
+type = "album"
+date = "1976-05-01"
+tracks = [
+  { n = 1, title = "Dark-Eyed Blue Jean Angel", mbid = "793945c2-2376-48c8-96c2-4bacc4ee52a4" },
+  { n = 2, title = "Cryin' Shame", mbid = "383572ef-aec4-4b9d-afff-d619467ea2c0" },
+  { n = 3, title = "The Mountain (Derroll Adams)", mbid = "10fc552f-5341-434a-95fb-cc496582cee7" },
+  { n = 4, title = "Children of the World", mbid = "b1bcc056-d793-4920-bdad-03f50515acd0" },
+  { n = 5, title = "My Love Is True (Love Song)", mbid = "5ce49776-93ab-4472-8c0d-5ffa4ccad7a4" },
+  { n = 6, title = "A Well Known Has-Been", mbid = "936604be-b609-41da-89d9-bce58ebed9ef" },
+  { n = 7, title = "Black Widow", mbid = "7ee0f8c2-8b28-4a73-b803-7362b351adbe" },
+  { n = 8, title = "Slow Down World", mbid = "3ed7c745-bdc2-422e-87fe-abd58a602c2b" },
+  { n = 9, title = "Liberation Rag", mbid = "49be9f3a-5492-462f-8dc0-db1c207903c1" },
+]
+
+[[release]]
+mbid = "407fb4cb-6b21-438d-8dde-be319360f581"
+title = "The Light"
+type = "single"
+date = "1977"
+tracks = [
+  { n = 1, title = "The Light", mbid = "b1b5b223-7b7b-4d6a-b063-10f5f0a0131f" },
+  { n = 2, title = "The International Man", mbid = "e7ef3fe8-d6f4-4efd-858e-6831e1ed3759" },
+]
+
+[[release]]
+mbid = "b8a85331-e781-433e-988d-4812148ee351"
+title = "Donovan"
+type = "album"
+date = "1977-08"
+tracks = [
+  { n = 1, title = "Brave New World", mbid = "abdf698c-a8da-4251-b748-0844db8d7c38" },
+  { n = 2, title = "Astral Angel", mbid = "a7e73e99-0361-4e44-a85b-e0f7c8c2bf45" },
+  { n = 3, title = "Local Boy Chops Wood", mbid = "0c3024a9-74b2-4ca5-a90c-5a4b647e459e" },
+  { n = 4, title = "California Kiddies", mbid = "acf6ab70-6f8d-41a0-ba3a-d64d7dafa3bd" },
+  { n = 5, title = "International Man", mbid = "24a1f4ed-3e10-45d9-82c8-defa3fd26347" },
+  { n = 6, title = "The Light", mbid = "9c0972fd-c179-46ec-a71e-4857f2706656" },
+  { n = 7, title = "Sing My Song", mbid = "20f6ad6b-8baa-4843-9a4e-51603e960fef" },
+  { n = 8, title = "Lady of the Stars", mbid = "12f996aa-c7f1-494f-acbf-940867a57108" },
+  { n = 9, title = "Maya's Dance", mbid = "933476a9-c98d-4054-8041-f6f3b0df532d" },
+  { n = 10, title = "Dare to Be Different", mbid = "d2713e29-3a9d-4141-9bed-35930f1e7090" },
+]
+
+[[release]]
+mbid = "a5b3b271-009b-41a1-bcd8-55a698d511ac"
+title = "Dare to Be Different"
+type = "single"
+date = "1978"
+tracks = [
+  { n = 1, title = "Dare to Be Different", mbid = "a64b0ec7-733a-4e42-8fda-542ec8588888" },
+  { n = 2, title = "Sing My Song", mbid = "9ed709f8-5414-4a6b-a4ce-c131a7f0261d" },
+]
+
+[[release]]
+mbid = "3dab83df-f0a9-323b-83a7-6d2e88646e3d"
+title = "Neutronica"
+type = "album"
+date = "1980"
+tracks = [
+  { n = 1, title = "Shipwreck", mbid = "b2cf17ce-26a6-4fc4-8f2c-78e28a99a213" },
+  { n = 2, title = "Only to Be Expected", mbid = "41351c1c-cd75-4265-823f-b8e63e87bbe2" },
+  { n = 3, title = "Comin' to You", mbid = "243cb4c4-5fa9-42c6-82ea-727afabbd165" },
+  { n = 4, title = "No Hunger", mbid = "8a41a89b-5106-4108-8216-edfed17add13" },
+  { n = 5, title = "Neutron", mbid = "3659da65-d174-4735-9b59-2d988254579c" },
+  { n = 6, title = "Mee Mee I Love You", mbid = "955a12ba-2437-4942-91bd-dc4466365b0c" },
+  { n = 7, title = "The Heights of Alma", mbid = "771d8cda-0b5c-42d9-928b-8a137eb224f2" },
+  { n = 8, title = "No Man's Land", mbid = "92a1cd76-6663-48cc-a7e4-1a48a197ea57" },
+  { n = 9, title = "We Are One", mbid = "1a5a22b5-4fce-4d2b-90d0-472b546f32c2" },
+  { n = 10, title = "Madrigalinda", mbid = "c44c20e6-46d6-4cea-a74d-33decc201e4f" },
+  { n = 11, title = "Harmony", mbid = "887a70a5-ef27-48ca-b757-f251651cdc23" },
+]
+
+[[release]]
+mbid = "08c90bf7-2fb9-30b3-9fdc-d24f9da25d8f"
+title = "Love Is Only Feeling"
+type = "album"
+date = "1981-10"
+tracks = [
+  { n = 1, title = "Lady of the Flowers", mbid = "ea117be2-acff-466a-9d98-c29915d1b300" },
+  { n = 2, title = "Lover O Lover", mbid = "af72694e-d965-440c-8e84-a2b596f2f342" },
+  { n = 3, title = "The Actor", mbid = "94baa0f4-06f3-4170-9f80-3634c9459c93" },
+  { n = 4, title = "Half Moon Bay", mbid = "934a10d2-8257-4ce4-82a0-0c2a145d9a28" },
+  { n = 5, title = "The Hills of Tuscany", mbid = "6f1028a9-db78-4fb2-9e12-49fb60cc0303" },
+  { n = 6, title = "Lay Down Lassie", mbid = "fdf68cd6-e2d9-4f1e-948d-718e7212adae" },
+  { n = 7, title = "She", mbid = "310fb4f8-af4e-4898-842e-b0420461e3c4" },
+  { n = 8, title = "Johnny Tuff", mbid = "4cb9cb1b-41b7-40a2-a39b-ea6bb91dddd9" },
+  { n = 9, title = "Love Is Only Feeling", mbid = "0519982d-cc24-468c-ad2a-839aa83b6d55" },
+  { n = 10, title = "Marjorie Margerine", mbid = "a564f699-698d-4351-b1aa-67d79ca6cbde" },
+]
+
+[[release]]
+mbid = "985f6dc3-eadf-4dc0-b422-f54bdb348c47"
+title = "Lady of the Stars"
+type = "single"
+date = "1983"
+tracks = [
+  { n = 1, title = "Lady of the Stars", mbid = "f1e76ebb-8cad-4d47-983f-85fc8702d892" },
+  { n = 2, title = "Every Reason", mbid = "89a204df-98ed-49f0-8894-9f09dc7dd348" },
+]
+
+[[release]]
+mbid = "c7e6fdf6-298c-4d39-9add-6cb54f3fdcd8"
+title = "Lady of the Stars"
+type = "album"
+date = "1984-01"
+tracks = [
+  { n = 1, title = "Lady of the Stars", mbid = "a356f6fa-28c0-4b31-a5c1-dc805c07d7cd" },
+  { n = 2, title = "I Love You Baby", mbid = "bb4610d6-d19b-42ff-9beb-2e2ecae54add" },
+  { n = 3, title = "Bye, Bye Girl", mbid = "d0c76b20-afe2-424a-b4d2-d4f7547bc974" },
+  { n = 4, title = "Every Reason", mbid = "4214c412-e8ba-4162-870b-142d96e7d5d0" },
+  { n = 5, title = "Season of the Witch", mbid = "07d81aef-0b59-4044-8977-ea85ea7ad291" },
+  { n = 6, title = "Boy for Every Girl", mbid = "32369ac9-4006-4dc3-932e-af426d88ec3b" },
+  { n = 7, title = "Local Boy Chops Wood", mbid = "6c6be9e6-e03c-4fdf-a82c-966e3e2096e6" },
+  { n = 8, title = "Sunshine Superman", mbid = "348cec24-1fe1-4f32-87ab-4302cd3d0fb1" },
+  { n = 9, title = "Living for the Love Light", mbid = "bfbea073-33a3-4427-99a0-ecd9c13535f2" },
+  { n = 10, title = "Till I See You Again", mbid = "7b0d6c57-e210-4f2b-b4ba-ac27669bb13e" },
+]
+
+[[release]]
+mbid = "0879186c-178f-4961-9141-97686832b4f8"
+title = "Jennifer Juniper"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "Jennifer Juniper", mbid = "ef53f39f-dd2f-42d3-9cdd-831042eb8cea" },
+  { n = 2, title = "Geraldine Tangerine", mbid = "35613557-83af-4aef-9477-24980c3a07cb" },
+  { n = 3, title = "Jennifer Juniper (Too Much Tea Mix)", mbid = "b8a2894a-30d6-493b-894a-b81941193a35" },
+]
+
+[[release]]
+mbid = "af163b11-1f8b-3f35-8543-0f0061af21a6"
+title = "Sutras"
+type = "album"
+date = "1996-10-14"
+tracks = [
+  { n = 1, title = "Please Don't Bend", mbid = "f1833002-6433-4ff4-b1c6-d53c87870b97" },
+  { n = 2, title = "Give It All Up", mbid = "d92ef2f8-c97d-4753-bab9-d8957957b2d9" },
+  { n = 3, title = "Sleep", mbid = "c6c343a3-656f-497b-9c87-adcdf2c47c45" },
+  { n = 4, title = "Everlasting Sea", mbid = "fb149ff4-f6f9-4eea-9264-70256baebad1" },
+  { n = 5, title = "High Your Love", mbid = "d433d041-6c2b-4b25-a9d8-f04032fee8e9" },
+  { n = 6, title = "The Clear-Browed One", mbid = "8baa4d6d-bfa8-482d-a564-49ca5cdbe617" },
+  { n = 7, title = "The Way", mbid = "5e462409-8d75-44b3-b62e-0c2fd6c69c95" },
+  { n = 8, title = "Deep Peace", mbid = "0f9aee3f-9472-4b2c-8a2b-7a2696d28a6d" },
+  { n = 9, title = "Nirvana", mbid = "cf007458-9a2d-445c-b915-6227f416f9c6" },
+  { n = 10, title = "Eldorado", mbid = "7b50dbf7-6ec8-4dd6-ae12-2a0ba3b768e2" },
+  { n = 11, title = "Be Mine", mbid = "ea14450a-9c62-4f73-bc22-6f45a54c17b7" },
+  { n = 12, title = "Lady of the Lamp", mbid = "09f5ebed-e417-4e30-8392-7339a7fe33a0" },
+  { n = 13, title = "The Evernow", mbid = "3c7d7490-890e-4bb4-9e7d-6a4867813cd9" },
+  { n = 14, title = "Universe Am I", mbid = "44d55d34-54e8-4755-804f-d4f73c27df58" },
+  { n = 15, title = "The Garden", mbid = "419d3373-bc15-4234-8f79-163ec5d5983f" },
+]
+
+[[release]]
+mbid = "bd7643ed-4359-4d1a-beb3-3528513b34bc"
+title = "Sixty Four"
+type = "album"
+date = "2002"
+tracks = [
+  { n = 1, title = "Crazy ’Bout a Woman", mbid = "eb6d2d83-1597-4d46-935a-855484ac77ce" },
+  { n = 2, title = "Talkin’ Pop Start Blues", mbid = "b501a6aa-f7b4-45e2-a490-181b7ce4a4d7" },
+  { n = 3, title = "Dirty Old Town", mbid = "f8bcaf54-23b7-4a70-8b6d-431a91f16949" },
+  { n = 4, title = "Keep on Trucking", mbid = "f73ded6e-93dc-440e-bc9d-32f5d311d151" },
+  { n = 5, title = "Co’dine", mbid = "f78e1b23-0ac7-45e7-b4bf-44d9b7ce6bb2" },
+  { n = 6, title = "London Town", mbid = "fcf5620b-ac78-46ce-a35e-dd077e77dc80" },
+  { n = 7, title = "Isle of Sadness", mbid = "55c003c3-0e50-4e12-bdda-ddd6793d7454" },
+  { n = 8, title = "The Darkness of My Night", mbid = "097a1be8-4215-45c1-be1b-ab8e84a080ab" },
+  { n = 9, title = "Freedom Road", mbid = "d517b011-8057-42fc-827c-c8ae5d4e5522" },
+]
+
+[[release]]
+mbid = "7e0cb662-904c-3a55-a264-0ee36dac9379"
+title = "Pied Piper"
+type = "album"
+date = "2002-03-19"
+tracks = [
+  { n = 1, title = "I Love My Shirt", mbid = "f75d3a47-6032-42d0-a7af-1b565389bfcc" },
+  { n = 2, title = "Happiness Runs", mbid = "c3b3072f-e92a-41fa-9587-7fbb9b268b46" },
+  { n = 3, title = "Sun Magic", mbid = "fe4de71a-9d70-42c9-b3f1-f7705c77a496" },
+  { n = 4, title = "People Call Me the Pied Piper", mbid = "06ea4338-2555-4087-bccf-1f0da32c82d6" },
+  { n = 5, title = "Little Boy in Corduroy", mbid = "63093693-a786-48e0-b9a4-e3657ca346fa" },
+  { n = 6, title = "Colours", mbid = "d8a5e647-267f-49b2-b738-686ee77fa34c" },
+  { n = 7, title = "Jackie Beanstalk", mbid = "641c8893-b8e3-4e20-9706-cca94ad6a4a5" },
+  { n = 8, title = "A Funny Man", mbid = "568899cb-6df5-4656-a28f-1ec2d0342fd0" },
+  { n = 9, title = "Mandolin Man and His Secret", mbid = "b49c1bf7-69c0-4351-80d0-75a60d7f3a48" },
+  { n = 10, title = "Nature Friends", mbid = "6b757259-69d7-43d9-92e1-a1ccc4e18781" },
+  { n = 11, title = "Wynken, Blynkers and Nod", mbid = "543e493f-9adb-47d7-a75e-95e5d3c2fc18" },
+  { n = 12, title = "Little Teddy Bear", mbid = "0e1d8f52-75b9-4811-b424-f003553bf99c" },
+  { n = 13, title = "Voyage of the Moon", mbid = "55fe7f6c-36a3-4c84-b2e0-69896aecbf4e" },
+]
+
+[[release]]
+mbid = "bdfe924f-594a-306e-bf04-bb01e3e8793f"
+title = "Beat Cafe"
+type = "album"
+date = "2004"
+tracks = [
+  { n = 1, title = "Love Floats", mbid = "99a22d23-ddfa-4505-a63d-b8b9944bd430" },
+  { n = 2, title = "Poorman's Sunshine", mbid = "c0102176-019b-4380-a4df-f4da0a70c585" },
+  { n = 3, title = "Beat Cafe", mbid = "1e1e5bfc-3f67-4317-a34d-970f54efca68" },
+  { n = 4, title = "Yin My Yang", mbid = "5a341a0f-46f7-4967-aa9a-56028fcedf1d" },
+  { n = 5, title = "Whirlwind", mbid = "80af5730-fa6d-4da1-a75e-17b4d8a10b41" },
+  { n = 6, title = "Two Lovers", mbid = "b3f08a75-845c-4fc3-bb09-138e1ec606f2" },
+  { n = 7, title = "The Question", mbid = "8f1c181f-7f7a-4adb-8606-4d4dbfe1489d" },
+  { n = 8, title = "Lord of the Universe", mbid = "5b775f66-919c-4e6d-aa24-1138b0297d58" },
+  { n = 9, title = "Lover o Lover", mbid = "74b368f8-5793-494e-9118-3dc9f7dc350e" },
+  { n = 10, title = "The Cuckoo", mbid = "2ed3a26b-cdc9-4650-bcf0-2cd544ba1087" },
+  { n = 11, title = "Do Not Go Gentle", mbid = "f923a4ea-3fcb-406a-b12c-88ace8dc6b4c" },
+  { n = 12, title = "Shambhala", mbid = "5179d877-be5c-4fb2-bd2f-da2ba7f81001" },
+]
+
+[[release]]
+mbid = "1fd75c46-80b4-30be-a9b8-2aaa47247151"
+title = "Brother Sun, Sister Moon"
+type = "album"
+date = "2004"
+tracks = [
+  { n = 1, title = "The Little Church", mbid = "7a88adb2-569d-45d5-8d4d-de522f5c4c77" },
+  { n = 2, title = "The Lovely Day", mbid = "cd04e25a-1a3d-45e9-b3d9-77d13a7cfb4a" },
+  { n = 3, title = "Lullaby", mbid = "4f7e1b49-e226-4093-b226-f0ac762a179f" },
+  { n = 4, title = "Brother Sun, Sister Moon", mbid = "12d4c6f7-4bcf-4631-bb8c-100f4d849dff" },
+  { n = 5, title = "A Soldier’s Dream", mbid = "afe70c43-e833-46c9-af76-e7930434ca3b" },
+  { n = 6, title = "Shape in the Sky", mbid = "c1eeb629-55bf-4094-ad0d-42f844024a59" },
+  { n = 7, title = "Gentle Heart", mbid = "3e7a5691-a4cc-4ade-b535-bc7274211ffc" },
+  { n = 8, title = "The Year Is Awakening", mbid = "bed38886-6cea-48cb-89a9-d49058b26962" },
+  { n = 9, title = "Island of Circles", mbid = "67cdd061-0209-4116-b859-0c428ae94124" },
+  { n = 10, title = "The Lovely Day (instrumental)", mbid = "2fe7cfc6-af6a-49a4-aee3-a6fd324295ea" },
+]
+
+[[release]]
+mbid = "e83ab373-abe7-38a4-bc98-0f86cca7de46"
+title = "Happiness Runs"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "Happiness Runs", mbid = "4987f229-4a42-411c-9e5a-79030285f6ba" },
+]
+
+[[release]]
+mbid = "bf9a1ec4-bb04-4dba-aae6-958a7daaaadb"
+title = "Ritual Groove"
+type = "album"
+date = "2010-10-18"
+spotify = "1z6LpAyaiBn6BXrF1cEOha"
+tracks = [
+  { n = 1, title = "Univerz", mbid = "55209e8e-5aed-4976-8e22-d4e2489a8704" },
+  { n = 2, title = "E-Motion", mbid = "46351e07-2b16-40be-987f-489d65803427" },
+  { n = 3, title = "Waves", mbid = "ea86b0ab-8730-483e-8e60-87bd8f111f45" },
+  { n = 4, title = "Diggin' The Future Now", mbid = "4d6c151a-ab9a-4841-be9f-9ece8eee85d2" },
+  { n = 5, title = "I'm An American", mbid = "6cc1ccf7-9913-4a4a-86f4-d6453ad3d06d" },
+  { n = 6, title = "Mistaken Eternity", mbid = "edbe4d5d-7ff4-4b74-bd09-437fca1b4f8f" },
+  { n = 7, title = "Cherchez L'Erreur", mbid = "88024e26-6f2c-4aea-953c-46f3a5feec5c" },
+  { n = 8, title = "Shaman", mbid = "5bae3dd0-1060-432f-91a4-e4a7cc3958cc" },
+  { n = 9, title = "The Mountain", mbid = "cf56b8e7-90b5-44a9-ba69-065e3055555f" },
+  { n = 10, title = "Devil Weed", mbid = "e985d5fd-0495-4cbc-b743-accca6e3a40b" },
+  { n = 11, title = "The Olive Tree", mbid = "fd0d5039-b7f8-4217-9352-f9e193b1d55e" },
+  { n = 12, title = "Linda", mbid = "3c2f68bc-69c0-4631-8869-dfe8aee621d9" },
+  { n = 13, title = "Local Boy Chops Wood", mbid = "a9bda396-290d-4c8e-a772-c04ab0abe1e0" },
+  { n = 14, title = "The Breath", mbid = "bc4f60f8-91f5-40e4-bdc0-86b52779563d" },
+  { n = 15, title = "The Illusion", mbid = "5174a6e2-b5f1-4ba8-a8ce-1c0cfb40fd1e" },
+  { n = 16, title = "Flame", mbid = "3977b412-f9cf-4895-8003-9b6bab9b9fea" },
+  { n = 17, title = "Refugee of Love", mbid = "7cfdafff-e5e5-4527-b804-5a6651ea3d45" },
+  { n = 18, title = "Still Waters", mbid = "0adf6b4e-cf70-4216-93a3-dec4b398f62d" },
+  { n = 19, title = "Big Pop Star", mbid = "7e0ed1e6-b0ae-4627-ab61-1f28ed3074fe" },
+  { n = 20, title = "Love Seed", mbid = "8db017f8-d239-447e-8442-02e40834e16f" },
+  { n = 21, title = "Ja Healer", mbid = "b2e38670-7e40-4640-a43e-10fc9b9c01f0" },
+  { n = 22, title = "Gentle Heart", mbid = "9a2d07be-65fa-4b6c-a5b2-2a3e238f4a29" },
+  { n = 23, title = "Dreams of Love", mbid = "67109366-35f5-48e6-867b-11c33fbd85f2" },
+  { n = 24, title = "A Woman's Work", mbid = "e86133ce-c1ef-4b42-afc5-023909f2fb88" },
+  { n = 25, title = "Save the World", mbid = "08d55ae2-c0d1-4af3-a3bf-e2e45660b5e4" },
+  { n = 26, title = "The Breath (Reprise)", mbid = "da761c33-796b-4b55-b9f8-21a43c952576" },
+]
+
+[[release]]
+mbid = "ab5cb8fe-d208-48cf-a27f-34ca7156ec99"
+title = "The Sensual Donovan"
+type = "album"
+date = "2012"
+tracks = [
+  { n = 1, title = "Only You", mbid = "8fafe599-c807-4581-a424-e4120f7f4bfe" },
+  { n = 2, title = "Amore", mbid = "770695e1-aa27-4cde-9d5b-8c0e6545444c" },
+  { n = 3, title = "Two Lovers", mbid = "c3a6f042-a26c-433d-84b9-e1fef61d6e14" },
+  { n = 4, title = "Astrella", mbid = "0acbcebc-5921-43e1-ab84-f239744411e6" },
+  { n = 5, title = "Amore (instrumental)", mbid = "69dfcd56-99df-4e15-829f-49bab7dc5bfc" },
+  { n = 6, title = "Hotel Lonely", mbid = "14f4f48f-d3b8-4be0-8245-098191824201" },
+  { n = 7, title = "Two Lovers (instrumental)", mbid = "3652b6cd-bd27-4011-97ea-36047baf6e4a" },
+  { n = 8, title = "Open Up Your Heart", mbid = "73e72593-0d5f-4156-8962-0f1bf9b333fc" },
+  { n = 9, title = "Astrella (instrumental)", mbid = "26bf7a37-e827-416b-935d-2db16616c31d" },
+  { n = 10, title = "Bonus Track: Dignity of Man", mbid = "335092bd-0197-4359-8e00-469e28f9d772" },
+]
+
+[[release]]
+mbid = "dba626d0-75d8-4a73-b2a9-986ce5d1650b"
+title = "Shadows of Blue"
+type = "album"
+date = "2013-09-09"
+tracks = [
+  { n = 1, title = "Blue Jean Angel", mbid = "8833d4ad-8bed-4088-8f51-16f909f9368d" },
+  { n = 2, title = "Ressurect Your Love", mbid = "a927bc8e-4c08-4cb2-a25c-44d7e55f346b" },
+  { n = 3, title = "To Love You", mbid = "820cbd5a-8ad8-457e-bfb9-2c2d1d6a6d6a" },
+  { n = 4, title = "River Of Ruin", mbid = "e00060e9-5b22-4f64-b39d-e7061cc3615c" },
+  { n = 5, title = "Shadows Of Blue", mbid = "74dd06ea-1b13-47b0-99b9-eb2de59d3f0a" },
+  { n = 6, title = "Rock & Roll Gypsy", mbid = "05ead1ca-1aaa-4668-a0bc-559d7efe18bc" },
+  { n = 7, title = "The Loving Of You", mbid = "c1e3bb57-6ba2-46c1-95b7-718958b02293" },
+  { n = 8, title = "The Blame Game", mbid = "abcabd3b-a0c1-446a-b388-ef3000cbbf00" },
+  { n = 9, title = "The Harmonica Girl", mbid = "13738941-77aa-487a-a791-3c9cb7625333" },
+  { n = 10, title = "The Bungalow", mbid = "bfdb0cfc-557c-4f7e-b50b-4c4e94fe7a8e" },
+]
+
+[[release]]
+mbid = "76c44351-a09d-40ff-a76f-e07b457b473e"
+title = "Desert Winds"
+type = "album"
+date = "2014-03-03"
+tracks = [
+  { n = 1, title = "Catch the Wind", mbid = "10b0e6cb-0a0e-42a4-99e8-a01f56e992d0" },
+  { n = 2, title = "Sunshine Superman", mbid = "e9ad3b41-d716-434a-838e-679e3ffdd6fc" },
+  { n = 3, title = "Universal Soldier", mbid = "f59d7ef4-952d-4252-b098-5451c1214049" },
+  { n = 4, title = "Atlantis", mbid = "c822fff5-7f5c-4240-bf75-32cef12cd745" },
+  { n = 5, title = "To Susan on the West Coast Wating", mbid = "3310003d-696e-404f-a934-934f2b913910" },
+  { n = 6, title = "Young Girl Blues", mbid = "0137ccb3-2402-43e2-9d67-1ec50581484e" },
+  { n = 7, title = "Stealing", mbid = "14517f99-9ef6-44db-bb8c-16ef62e00e2d" },
+  { n = 8, title = "Love Will Find a Way", mbid = "3205b173-0566-40b2-aaa5-09e92a5d1d4f" },
+  { n = 9, title = "Desert Winds", mbid = "044aec5a-33c0-47e3-8792-a43bef679582" },
+  { n = 10, title = "It Will Soon Be Gone", mbid = "6ef6daa5-4608-4cd6-9436-2181562a22f7" },
+  { n = 11, title = "It’s Been a Long Time", mbid = "6eb1ae91-3d8f-4c6f-b37b-e9807be29b9a" },
+  { n = 12, title = "As You Lie Sleeping", mbid = "115b4237-6ecf-4d06-980a-0290e7b627c4" },
+  { n = 13, title = "When Your Heroes Have All Gone", mbid = "a469730a-4b55-483e-8da9-f8fec724604c" },
+  { n = 14, title = "Truck Driving Man", mbid = "da49620e-211e-4ee4-83d4-14412b89da07" },
+  { n = 15, title = "Love Lost to Cocaine", mbid = "680d57b7-d8f3-4c73-afe0-e35983295b50" },
+  { n = 16, title = "Ghosts", mbid = "b760112c-2a15-46c3-807d-157655ce44b3" },
+]
+
+[[release]]
+mbid = "b314b842-2761-483d-9618-9e27a3c4d76f"
+title = "The Living Crystal Faery Realm"
+type = "album"
+date = "2017-05-09"
+tracks = [
+  { n = 1, title = "The Seller of Stars", mbid = "88a90f28-9a20-466c-b59c-fd4f30aef002" },
+  { n = 2, title = "Things to Wear", mbid = "bdaf8afa-8487-4524-a3af-eef407aa981c" },
+  { n = 3, title = "Mr Wind", mbid = "d7b34e45-0fcd-4c29-b771-1151586e88dc" },
+  { n = 4, title = "The Voyage Of The Moon", mbid = "c987d314-4e1f-47a4-a60f-b0c8bba866da" },
+  { n = 5, title = "The Unicorn", mbid = "1c7de794-c074-4a52-8ed9-c5e4e12a45d8" },
+  { n = 6, title = "Little Ben", mbid = "73929ada-87d3-4556-a275-49a067967ba9" },
+  { n = 7, title = "Can Ya Dance", mbid = "69d09ce1-e053-4da7-be2a-7df796c52fec" },
+  { n = 8, title = "The Song Of Wandering Aengus", mbid = "0adff37b-ada5-4193-85c3-88c29058f401" },
+  { n = 9, title = "Lord Of The Reedy River", mbid = "17a2721f-bce9-4707-9641-96d876a2e1e1" },
+  { n = 10, title = "Queen Mab", mbid = "eb2364e3-e1b4-4854-b052-f0453a2d22e4" },
+  { n = 11, title = "La Moora", mbid = "5cb25532-6473-483f-8d2e-5c42bae2c66d" },
+  { n = 12, title = "The Owl And The Pussycat", mbid = "47722b6a-a61d-408d-9850-0eb30a2204f4" },
+  { n = 13, title = "The Star", mbid = "173ff715-5a2d-4123-b044-eabe425e7ff0" },
+  { n = 14, title = "The Walrus And The Carpenter", mbid = "8e3e457f-6218-4b54-90c4-030797489b5c" },
+  { n = 15, title = "Wynken Blymken And Nod", mbid = "640a48dc-a3e2-4503-ab84-ef8fc6c45896" },
+]
+
+[[release]]
+mbid = "ba19e33d-06aa-4c41-8c12-1abed89b7b72"
+title = "Jump In the Line - A Tribute to Harry Belafonte"
+type = "album"
+date = "2019-07-17"
+tracks = [
+  { n = 1, title = "Jump in the Line - A Tribute to Harry Belafonte", mbid = "9038092f-7fdf-44c3-9eeb-a4568f13d6d2" },
+  { n = 2, title = "Day O", mbid = "962e7729-777d-481c-8cb9-64d98a0784f2" },
+  { n = 3, title = "Island in the Sun", mbid = "8d5d1884-fd10-403c-bbee-1cdb502b4c48" },
+  { n = 4, title = "Scarlet Ribbons", mbid = "f92f0669-aa0e-42b3-9e2d-928bb7c06512" },
+  { n = 5, title = "Jamaica Farewell", mbid = "e0be7cb6-92be-49c1-b579-3fb06eeb96e6" },
+  { n = 6, title = "Where Have All the Flowers Gone", mbid = "c1525a52-3f0e-48a1-8845-8ad0b5576e81" },
+  { n = 7, title = "Shenandoah", mbid = "78d9e554-e84d-4b3d-b0dc-0d6b6daf4310" },
+  { n = 8, title = "No Hunger", mbid = "a326fc11-0a5e-4950-835f-9f1be7d49284" },
+  { n = 9, title = "The First Time I Ever Saw Your Face", mbid = "82825fed-d36d-41cc-af51-b0d66e91aa1e" },
+  { n = 10, title = "Jamaica Time", mbid = "d11e6148-67c5-4900-9623-592352365d95" },
+]
+
+[[release]]
+mbid = "1448ba89-4341-4ee3-8fba-af23e24fd352"
+title = "Lunarian"
+type = "album"
+date = "2021-03-31"
+tracks = [
+  { n = 1, title = "Only You", mbid = "2350963c-4089-4942-87b9-2670fbddf9f0" },
+  { n = 2, title = "The Language of Love", mbid = "2f06f10a-3962-48ac-857e-d77fd7fea274" },
+  { n = 3, title = "Nature Boy", mbid = "7c70f37e-16a1-4b34-9b4e-88a3226dd596" },
+  { n = 4, title = "The Olive Tree", mbid = "141f259c-0772-4086-8f31-b7d873ae2a39" },
+  { n = 5, title = "Still Waters", mbid = "5bdf2212-91db-450b-ac05-6b21a81d8ee8" },
+  { n = 6, title = "Ressurect your Love", mbid = "35f64742-bfad-49a2-9e29-5338cd426d31" },
+  { n = 7, title = "Mistaken Eternity", mbid = "ca5fb692-d42e-4d6f-9ab5-9b1fda828895" },
+  { n = 8, title = "To Love You", mbid = "241962f9-cd7e-49d8-8717-1a6b559c7e1b" },
+  { n = 9, title = "Linda", mbid = "4739dd85-fc33-416f-b0fd-3ece8acce080" },
+  { n = 10, title = "Listen", mbid = "258e7285-1ca6-4ed7-adc5-2167abd2da3e" },
+]
+
+[[release]]
+mbid = "22bc05c1-bd3e-44bf-af90-014886895046"
+title = "I Am the Shaman"
+type = "single"
+date = "2021-05-10"
+spotify = "1NkhLQWRO0sz75oOOyZQ0F"
+tracks = [
+  { n = 1, title = "I Am the Shaman", mbid = "35b57a32-b191-440a-9e84-b5275addff62" },
+]
+
+[[release]]
+mbid = "988a8974-a1c2-494d-9e1b-3b8decba9007"
+title = "Gimme Some a That"
+type = "single"
+date = "2021-10-17"
+tracks = [
+  { n = 1, title = "Gimme Some a That", mbid = "49ae350a-80b0-4c9c-b233-bca7e7fba072" },
+]
+
+[[release]]
+mbid = "0a05b6c7-68da-484a-9938-fc59895c70ae"
+title = "Gaelia"
+type = "album"
+date = "2022-12-02"
+tracks = [
+  { n = 1, title = "Moon Over Clare", mbid = "ccc54798-43ce-49cf-914e-c40e34eee3a6" },
+  { n = 2, title = "Watching the Sun Go Down", mbid = "22496e63-4cfd-48e7-a988-cdd5bac64baa" },
+  { n = 3, title = "Glasgow Town", mbid = "30cf154a-a3bf-4d06-8fe4-6ddf0d86672f" },
+  { n = 4, title = "The Ferryman’s Daughter", mbid = "03ff42a7-d8a3-4fe2-a7d0-78023cebd7e6" },
+  { n = 5, title = "The Ghost of Pagan Song", mbid = "fba1cd90-5258-4bab-86f1-b0a4b8902e77" },
+  { n = 6, title = "Where Are You Now?", mbid = "2384200b-088f-4e24-a878-9cc333badf6e" },
+  { n = 7, title = "Living on Love", mbid = "070b2ebe-779f-400f-a541-dcf2a1944af6" },
+  { n = 8, title = "The Lake Isle of Innisfree", mbid = "a325204a-1e02-4cf9-a9a0-8b9be236c244" },
+  { n = 9, title = "Madrigalinda", mbid = "9ab90b28-da81-4d0c-a2b6-6a458a8a74f2" },
+  { n = 10, title = "Down by the Harbour", mbid = "c134d4e3-1440-49f8-9b3b-76376e00d166" },
+  { n = 11, title = "Rock Me", mbid = "e7adcdcd-18b5-44a4-8a48-0e803f60bef5" },
+  { n = 12, title = "Lover O’ Lover", mbid = "ac7b1540-37c3-4b3b-a807-28eeac27344a" },
+  { n = 13, title = "Awaking Year", mbid = "f54f4a79-2abe-4f0e-8fb5-dbda9d8f6b16" },
+]

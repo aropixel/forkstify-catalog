@@ -1,0 +1,278 @@
+format = 1
+
+[[release]]
+mbid = "18ae3ddc-93bb-3f82-892f-92786573b904"
+title = "Dirty Three"
+type = "album"
+date = "1994"
+spotify = "0ce6VI782qfsWJZHCasbmy"
+tracks = [
+  { n = 1, title = "Indian Love Song", mbid = "0ef1770f-430e-40a0-a179-14378392990a" },
+  { n = 2, title = "Better Go Home Now", mbid = "eb5c2b81-ebed-4a37-874c-f25f00e1826d" },
+  { n = 3, title = "Odd Couple", mbid = "a0b10e66-71a2-4d58-ade2-ea473bfc9500" },
+  { n = 4, title = "Kim’s Dirt", mbid = "52e0d0b0-c58a-4c78-a38a-0e5c72e92579" },
+  { n = 5, title = "Everything’s Fucked", mbid = "1b515eb3-0fa6-4085-87d0-0fe0fc8a438c" },
+  { n = 6, title = "The Last Night", mbid = "4a293b4f-aba4-42d1-8233-0d8cba8ad90e" },
+  { n = 7, title = "Dirty Equation", mbid = "e709630b-d530-40ed-83cc-091a1bedc73f" },
+]
+
+[[release]]
+mbid = "7e021eb5-bde9-3f9b-a727-fb40bd0973b7"
+title = "Sad & Dangerous"
+type = "album"
+date = "1995-03-20"
+tracks = [
+  { n = 1, title = "Kim’s Dirt", mbid = "913255d6-aca6-4e67-96fe-be70d5623614" },
+  { n = 2, title = "Killy Kundane", mbid = "fe4a2409-0b1f-47e3-bce8-2f5fdbed7c8d" },
+  { n = 3, title = "Jaguar", mbid = "cfc2e05c-1d29-4d1c-8295-98535726f081" },
+  { n = 4, title = "Devil in the Hole", mbid = "db5ac905-c26a-4d5f-bab4-4e1124ef2df2" },
+  { n = 5, title = "Jim’s Dog", mbid = "52439724-b46b-46d3-b28b-fff039b03219" },
+  { n = 6, title = "Short Break", mbid = "21507036-bd0f-4505-878e-b8c31192b4c5" },
+  { n = 7, title = "Turk Reprise", mbid = "3e0e78d2-defd-4a36-bb76-e1e7970f7672" },
+  { n = 8, title = "You Were a Bum Dream", mbid = "77a50dc3-4eb3-4837-a138-0d3afe696c88" },
+  { n = 9, title = "Warren’s Waltz", mbid = "fd9b556f-935c-4cf1-a249-0b9e473b8a24" },
+  { n = 10, title = "Turk", mbid = "782dc87e-7f50-4f28-960a-d221a0efb8fe" },
+]
+
+[[release]]
+mbid = "8825bff1-369b-3907-a164-35cd2eaaac70"
+title = "Horse Stories"
+type = "album"
+date = "1996-09-09"
+spotify = "1U0Sd5G4tDMvasRER9zxrG"
+tracks = [
+  { n = 1, title = "1000 Miles", mbid = "11498e2e-f461-4a4f-924d-a5cb96fffb87" },
+  { n = 2, title = "Sue's Last Ride", mbid = "59420360-6b38-4555-b33f-1ae4aba4670c" },
+  { n = 3, title = "Hope", mbid = "a9201b4c-914f-4b0b-9de2-f28be2ff8b18" },
+  { n = 4, title = "I Remember a Time When Once You Used to Love Me", mbid = "e1e0c234-fcb5-4f79-8783-078bf3c2241a" },
+  { n = 5, title = "At the Bar", mbid = "b714acf9-db73-4bab-a4fe-0bf2a9a9f6dd" },
+  { n = 6, title = "Red", mbid = "ae5e7b68-57fd-4aaa-be08-9501d499e678" },
+  { n = 7, title = "Warren's Lament", mbid = "39e50ee2-2cde-442f-bfb8-de123edcf936" },
+  { n = 8, title = "Horse", mbid = "1d32be5f-6ff6-443c-b648-225863cc4a0a" },
+  { n = 9, title = "I Knew It Would Come to This", mbid = "041117fb-7f61-4c88-b2a2-48866e3b0aae" },
+]
+
+[[release]]
+mbid = "779b0557-df32-360d-9822-57f4ada0d99d"
+title = "Obvious Is Obvious"
+type = "single"
+date = "1997-03-11"
+tracks = [
+  { n = 1, title = "Obvious Is Obvious (instrumental version)", mbid = "f8160ccc-259a-477f-84ef-c22a4cbf5ef4" },
+  { n = 2, title = "No Need", mbid = "3b1cf0c2-dbfc-4074-aeab-af71879e2cb6" },
+]
+
+[[release]]
+mbid = "3cf08630-5c13-334b-b55d-5953e358bf5f"
+title = "Sharks EP"
+type = "ep"
+date = "1998"
+tracks = [
+  { n = 1, title = "Obvious Is Obvious", mbid = "f8160ccc-259a-477f-84ef-c22a4cbf5ef4" },
+  { n = 2, title = "Two AM", mbid = "df03f154-25a5-4a1b-a350-b33bc567f4ba" },
+  { n = 3, title = "Rope", mbid = "65e31db6-1c5e-4347-841d-d2d2da9e5409" },
+  { n = 4, title = "Running Scared", mbid = "474c4b9a-a7c0-4455-a413-a49f85f75f65" },
+]
+
+[[release]]
+mbid = "3c58c9d9-a469-3957-890c-3711d4ec7380"
+title = "Ocean Songs"
+type = "album"
+date = "1998-03-31"
+tracks = [
+  { disc = 1, n = 1, title = "Sirena", mbid = "11735519-50f5-4802-b5b7-5fbe1218b364" },
+  { disc = 1, n = 2, title = "The Restless Waves", mbid = "31c147e5-eb71-4b8e-951f-2bc8a8d9e3f4" },
+  { disc = 1, n = 3, title = "Distant Shore", mbid = "25303ad1-d55e-4a4b-8fc0-9be6755c243f" },
+  { disc = 1, n = 4, title = "Authentic Celestial Music", mbid = "26a65d48-b832-40b8-aee9-1c9014d4a03f" },
+  { disc = 1, n = 5, title = "Backwards Voyager", mbid = "d1edf393-45a0-4353-9a44-b28d53cae974" },
+  { disc = 1, n = 6, title = "Last Horse on the Sand", mbid = "bc7cf034-76ca-42bd-96f5-3db96cd8489f" },
+  { disc = 1, n = 7, title = "Sea Above, Sky Below", mbid = "e551f30d-70ea-4947-8e91-b95bd61943e9" },
+  { disc = 1, n = 8, title = "Black Tide", mbid = "7c8c85e0-bf87-4590-9c18-0d9acdeb6033" },
+  { disc = 1, n = 9, title = "Deep Waters", mbid = "b6f7e7f2-ef60-408d-bc4a-a4e5d5e5eb91" },
+  { disc = 1, n = 10, title = "Ends of the Earth", mbid = "802759dd-7742-41b8-bbe8-4f4442547163" },
+  { disc = 2, n = 1, title = "Toaster", mbid = "8f4e54be-05ba-4d15-b762-937a6c676ba1" },
+  { disc = 2, n = 2, title = "Mihelkos Arm", mbid = "192ce82b-25d1-411e-bd72-2bdad63bdfb6" },
+  { disc = 2, n = 3, title = "Cast Adrift", mbid = "a3249efb-d590-41ad-8d0e-f2bb12e59fa6" },
+]
+
+[[release]]
+mbid = "888254ee-ce00-3387-8f63-fc03f71a9cea"
+title = "Ufkuko"
+type = "ep"
+date = "1998-11-23"
+tracks = [
+  { n = 1, title = "To Aster!", mbid = "8f4e54be-05ba-4d15-b762-937a6c676ba1" },
+  { n = 2, title = "Mihelkos Arm", mbid = "192ce82b-25d1-411e-bd72-2bdad63bdfb6" },
+  { n = 3, title = "Cast Adrift", mbid = "a3249efb-d590-41ad-8d0e-f2bb12e59fa6" },
+  { n = 4, title = "Three Wheels", mbid = "513d2b16-57ac-4628-8816-2fc98e38c0a7" },
+  { n = 5, title = "Wish I Could", mbid = "5e93c44a-6b8b-41d1-8229-bf27eb49052f" },
+]
+
+[[release]]
+mbid = "e079144d-8308-32fd-b697-eb110494d77f"
+title = "Lowlands"
+type = "ep"
+date = "2000"
+tracks = [
+  { n = 1, title = "Cottonhead", mbid = "99f5dc0d-b451-4c14-986b-6be59b9dcef4" },
+  { n = 2, title = "Country Song", mbid = "652bd4e3-edbc-4e17-a95f-a2965de9dedd" },
+  { n = 3, title = "Kangaroo", mbid = "362ae05a-9505-46bb-9200-fdac84bc8744" },
+  { n = 4, title = "Lowlands", mbid = "caaf07c5-698b-413c-b57d-d18a691dd5e1" },
+  { n = 5, title = "Three Mile Creek", mbid = "2d10252c-3fb6-41a2-a028-b36a2a713ec2" },
+  { n = 6, title = "Wheels", mbid = "644459d3-8762-4dd7-99f3-f6c032441e37" },
+  { n = 7, title = "Time After", mbid = "af8f58c3-5185-4229-8de5-1afb63446eb0" },
+  { n = 8, title = "Irish Red", mbid = "c81a8d20-a308-4a18-a16d-86916e99c62a" },
+]
+
+[[release]]
+mbid = "58510b24-3adf-3058-b8ab-f0619339cb43"
+title = "Whatever You Love, You Are"
+type = "album"
+date = "2000-03-07"
+tracks = [
+  { n = 1, title = "Some Summers They Drop Like Flys", mbid = "38f4d38d-ab74-4d51-b6e5-01f13dbbd872" },
+  { n = 2, title = "I Really Should've Gone Out Last Night", mbid = "72455091-8a8a-4620-aa18-c2a28d62d264" },
+  { n = 3, title = "I Offered It Up to the Stars & the Night Sky", mbid = "02e1ee98-4bde-4ed2-85d6-c3f549dc20ee" },
+  { n = 4, title = "Some Things I Just Don't Want to Know", mbid = "bb90e250-a5ec-4942-8215-d066f69ef589" },
+  { n = 5, title = "Stellar", mbid = "3437c7ce-0c45-4297-8ea5-f89b83b39464" },
+  { n = 6, title = "Lullabye for Christie", mbid = "ac454e4f-2c2f-4ee9-b533-b2456cd7c6cd" },
+]
+
+[[release]]
+mbid = "bcc55f3a-2c64-3f2c-9ef0-a4a82135d01f"
+title = "In the Fishtank"
+type = "ep"
+date = "2001-05-22"
+spotify = "7avK5gWeOwMfoCTSeUddUN"
+tracks = [
+  { n = 1, title = "I Hear… Goodnight", mbid = "17056ca9-c9c0-4c08-bdf4-d647be65cc57" },
+  { n = 2, title = "Down by the River", mbid = "a2afc24d-256c-4633-8dc1-ee3ce1a9d595" },
+  { n = 3, title = "Invitation Day", mbid = "cd875f03-4d5e-4514-964d-5b64c5abf3d7" },
+  { n = 4, title = "When I Called Upon Your Seed", mbid = "78423c17-e485-4a4d-9649-5a2a869c6a5e" },
+  { n = 5, title = "Cody", mbid = "891f98b5-d78a-4230-aea5-b7cb65433839" },
+  { n = 6, title = "Lordy", mbid = "af3611ad-b515-445c-a105-2f489759d5b5" },
+]
+
+[[release]]
+mbid = "fd539f79-819a-353b-8a26-37b69e449048"
+title = "A Strange Holiday"
+type = "ep"
+date = "2003"
+tracks = [
+  { n = 1, title = "Summer's Lost Heart", mbid = "0bda9490-2062-493b-a843-661a854e7818" },
+  { n = 2, title = "Somewhere Else, Someplace Good", mbid = "117399b2-4aa0-4f80-949a-9c10e9e5a153" },
+  { n = 3, title = "A Strange Holiday", mbid = "71bec39c-aff7-4e46-8acf-c2261489b22f" },
+  { n = 4, title = "Xmas Song", mbid = "057b79ee-729a-40d4-8b64-d8f30900b41c" },
+  { n = 5, title = "Au revoir petit chat", mbid = "6e4f7c46-4231-400e-89e6-044de40b096b" },
+]
+
+[[release]]
+mbid = "655d85df-57fd-30c1-b066-d27badf9b6c0"
+title = "She Has No Strings Apollo"
+type = "album"
+date = "2003-02-18"
+spotify = "4R0J4gTeDoYY6lX5NBd0mC"
+tracks = [
+  { n = 1, title = "Alice Wading", mbid = "e73f2dda-f133-413b-ab48-85830f1acfba" },
+  { n = 2, title = "She Has No Strings", mbid = "d10708bb-44c5-4da4-8aa1-ae78ad37a986" },
+  { n = 3, title = "Long Way to Go With No Punch", mbid = "7f7c0204-6afb-4602-b5a1-2de0d56dad02" },
+  { n = 4, title = "No Stranger Than That", mbid = "c549d2fe-f7e0-41fc-bc84-d9d5c9d7f187" },
+  { n = 5, title = "Sister Let Them Try and Follow", mbid = "b1738eba-ad96-44ee-bae3-5a61a1c790ae" },
+  { n = 6, title = "She Lifted the Net", mbid = "383bf3e6-ecd2-4b19-81ff-7c814540aaa6" },
+  { n = 7, title = "Rude (and Then Some Slight Return)", mbid = "fec3e254-8995-4f2b-8f2f-36503378040a" },
+]
+
+[[release]]
+mbid = "d13b060f-c7ca-3fcf-aa40-6a46d6b9bb81"
+title = "Cinder"
+type = "album"
+date = "2005-10-11"
+tracks = [
+  { n = 1, title = "Ever Since", mbid = "1f062f78-a5e4-48ad-9a0f-c5237e1c2f7e" },
+  { n = 2, title = "She Passed Through", mbid = "e9e8153d-7392-49a3-8a04-effec8b6828a" },
+  { n = 3, title = "Amy", mbid = "45e4b57a-42af-4757-ade8-2b0613716161" },
+  { n = 4, title = "Sad Sexy", mbid = "c3b6e9d0-b290-4978-a685-9fb6becdae7d" },
+  { n = 5, title = "Cinders", mbid = "38385de9-414d-4440-880e-d1f57abadffe" },
+  { n = 6, title = "Doris", mbid = "45250b0b-a13d-4614-b1e1-762bca67c039" },
+  { n = 7, title = "Flutter", mbid = "597dd619-a802-4faa-9963-17c61d016ac6" },
+  { n = 8, title = "The Zither Player", mbid = "0fb9890c-413b-4640-ab00-494a6e06ecd3" },
+  { n = 9, title = "It Happened", mbid = "b8b43ea1-9ecc-4940-9dcb-8db539c7c501" },
+  { n = 10, title = "Great Waves", mbid = "b1df8f04-c8a9-466d-807c-81f44223c025" },
+  { n = 11, title = "Dream Evie", mbid = "3eef8e41-7459-4419-a150-6e4cc554ac16" },
+  { n = 12, title = "Too Soon, Too Late", mbid = "8d3343a5-f319-48c1-8a01-ed6a6135b830" },
+  { n = 13, title = "This Night", mbid = "c027cf34-0b30-44ad-803f-dd0f49318433" },
+  { n = 14, title = "Rain On", mbid = "601cfc3e-3bff-4db9-8384-d008da3062cb" },
+  { n = 15, title = "Ember", mbid = "d1a3772d-3220-4097-b207-acd590e6a0fb" },
+  { n = 16, title = "Michèle", mbid = "ddbb6ea4-640e-4678-9998-1ac11e25b489" },
+  { n = 17, title = "Feral", mbid = "d2152d8a-6b32-4059-b0ef-f73e1ae28e5d" },
+  { n = 18, title = "Last Dance", mbid = "09469b63-9035-4e78-a2d2-e4c10e838ca7" },
+  { n = 19, title = "In Fall", mbid = "d9d071de-8fd7-43eb-847d-a9b280217af3" },
+  { n = 20, title = "June's A Calling", mbid = "6b865648-7867-440c-8708-fbb72dbb03aa" },
+  { n = 21, title = "Lisa's Mountain", mbid = "1269501c-6c76-439f-83de-5dc4014d9dca" },
+]
+
+[[release]]
+mbid = "f14fe51d-d64a-48d8-a094-88f0d0c74edb"
+title = "Great Waves"
+type = "single"
+date = "2005-11-07"
+tracks = [
+  { n = 1, title = "Great Waves", mbid = "b1df8f04-c8a9-466d-807c-81f44223c025" },
+  { n = 2, title = "Lisa's Mountain", mbid = "1269501c-6c76-439f-83de-5dc4014d9dca" },
+]
+
+[[release]]
+mbid = "b104e742-56db-3c3f-858e-206ae650ce9b"
+title = "Doris / I’m So Lonesome I Could Cry"
+type = "single"
+date = "2006-03-06"
+tracks = [
+  { n = 1, title = "Doris", mbid = "36978b35-c8bc-4e7e-8a64-d5993470e2fb" },
+  { n = 2, title = "I’m So Lonesome I Could Cry", mbid = "fb329322-237f-4a96-9eaf-713bd2a647a4" },
+]
+
+[[release]]
+mbid = "e14c493f-f755-431c-a985-fd9b0d640960"
+title = "Ulterior Motives"
+type = "ep"
+date = "2012"
+tracks = [
+  { n = 1, title = "Better Go Home Now (radio version)", mbid = "c2bb008d-77db-4b0c-b480-85b71d4f96bb" },
+  { n = 2, title = "Sue's Last Ride (demo)", mbid = "4881466b-7a9e-4979-aa56-18f1afa251f1" },
+  { n = 3, title = "The Last Night (demo)", mbid = "9fbac788-5eb5-47aa-8708-024243a42590" },
+  { n = 4, title = "Hope (acoustic radio version with George Xylouris)", mbid = "65e31db6-1c5e-4347-841d-d2d2da9e5409" },
+  { n = 5, title = "Everything Is Pretty Much Fucked (demo)", mbid = "e56eba6f-e73d-4880-9a8b-4905d9230b82" },
+  { n = 6, title = "Indian Love Song (demo)", mbid = "1abd7228-e420-44b7-a49e-162deb848136" },
+  { n = 7, title = "Deep Waters (demo)", mbid = "f161749f-f010-4a1d-a81b-db3cc2feac9b" },
+]
+
+[[release]]
+mbid = "383ed06a-02e6-40cf-af4f-03f621ed8f1c"
+title = "Toward the Low Sun"
+type = "album"
+date = "2012-02-24"
+tracks = [
+  { n = 1, title = "Furnace Skies", mbid = "2534cf25-6625-4f05-91b1-dbbb0b844849" },
+  { n = 2, title = "Sometimes I Forget You've Gone", mbid = "654ffd5c-e040-47c0-9782-282cf1055939" },
+  { n = 3, title = "Moon on the Land", mbid = "e4ba146f-46c1-408d-a91c-a77cc0490a1a" },
+  { n = 4, title = "Rising Below", mbid = "ab55c89d-55b4-4827-b7bf-19bde23b4391" },
+  { n = 5, title = "The Pier", mbid = "170376ca-c43b-4de4-a2e5-0a36b5f8e32c" },
+  { n = 6, title = "Rain Song", mbid = "623afe72-802a-4b9d-8cbd-4a67b012e892" },
+  { n = 7, title = "That Was Was", mbid = "80edff49-6c74-4947-a1a3-a9854eeaadab" },
+  { n = 8, title = "Ashen Snow", mbid = "77b9bb00-6f12-4a94-9c60-e8dbed1addfc" },
+  { n = 9, title = "You Greet Her Ghost", mbid = "d7a4a5af-25c7-4f8b-a1e0-555e6b9038e4" },
+]
+
+[[release]]
+mbid = "5b4ecd02-1f0d-45b6-86c3-86f12b478790"
+title = "Love Changes Everything"
+type = "album"
+date = "2024-06-14"
+tracks = [
+  { n = 1, title = "Love Changes Everything I", mbid = "1cc6a971-04c5-47a5-948d-836ae6cd33f7" },
+  { n = 2, title = "Love Changes Everything II", mbid = "b7f9cd26-74f7-4de2-9d8e-1dbaf821c2d9" },
+  { n = 3, title = "Love Changes Everything III", mbid = "ef6c13fe-8636-46aa-b836-c505d8257138" },
+  { n = 4, title = "Love Changes Everything IV", mbid = "bb275129-43d0-4352-bab2-18a428910519" },
+  { n = 5, title = "Love Changes Everything V", mbid = "c410c0b7-1f46-4818-b5a3-3bec45ea1cce" },
+  { n = 6, title = "Love Changes Everything VI", mbid = "3c842b49-2478-4816-a7ac-1588eda099ae" },
+]

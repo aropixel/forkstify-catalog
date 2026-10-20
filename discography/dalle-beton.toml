@@ -1,0 +1,41 @@
+format = 1
+
+[[release]]
+mbid = "4e418572-74f7-44ab-8766-a581b54b912e"
+title = "Comment réussir sa terrasse"
+type = "ep"
+date = "2022-05-16"
+tracks = [
+  { n = 1, title = "Dalle béton", mbid = "07fc3e8e-7b25-424e-b2c5-97649aab0fbf" },
+  { n = 2, title = "Cabadalle", mbid = "a12ad279-ed06-47ec-a23c-804182393484" },
+  { n = 3, title = "Les aléas du vin nat", mbid = "29769a35-ca0b-4e37-8ea0-76e2245147b3" },
+  { n = 4, title = "La réalité des hôpitaux", mbid = "b2e31a2a-f6b2-45b5-a363-9cfcac1faf1e" },
+  { n = 5, title = "Manuel Valls", mbid = "6873920f-3df7-49ae-8b07-fa535702d3f1" },
+]
+
+[[release]]
+mbid = "ab6fce74-aff3-46ad-a1b1-dbeed47544fc"
+title = "Béton Force 9 Fixation 24h"
+type = "ep"
+date = "2022-12-02"
+tracks = [
+  { n = 1, title = "Mange ton Compost", mbid = "020f1a6e-9390-4891-a20e-8e60e1f749b8" },
+  { n = 2, title = "CPF, du Cash pour les Fumiers", mbid = "2216c4d2-945f-45d3-bde6-9562f833ddcd" },
+]
+
+[[release]]
+mbid = "dd70ba12-8f63-4f68-b16a-b7462b4cf52c"
+title = "Nos plus belles chansons"
+type = "album"
+date = "2024-05-28"
+tracks = [
+  { n = 1, title = "Dalle béton", mbid = "6b6f7d92-5e8d-4a57-878f-40dfeef6e46e" },
+  { n = 2, title = "Les aléas du vin nat", mbid = "8989c4ca-ac25-43f7-87f4-08e696123521" },
+  { n = 3, title = "Machine à laver", mbid = "dbc1f9f4-46e7-448a-b1cf-04e5b41233f4" },
+  { n = 4, title = "Range Ta Kiloute", mbid = "155aa2d5-8a78-4d30-bb49-77834b83b86d" },
+  { n = 5, title = "Mange Ton Compost", mbid = "4259ba0a-a3e2-415d-82e0-da1ef148e322" },
+  { n = 6, title = "Concrete Slab In Madchester", mbid = "f84af7c2-9992-436a-84b5-a59536e7c1ba" },
+  { n = 7, title = "Doudoune Sans Manche", mbid = "81f2a4f9-00f1-4ec5-a939-081bbc1517d5" },
+  { n = 8, title = "49.3", mbid = "19c9920d-6dab-4f29-aff6-9fb44c9f4ce0" },
+  { n = 9, title = "Freestyle du Rasta Blanc", mbid = "e696b284-cc05-4e7d-8aeb-e99edf66b9c5" },
+]

@@ -1,0 +1,653 @@
+format = 1
+
+[[release]]
+mbid = "2597f1fb-1119-3232-943a-08133b7e7e6d"
+title = "Un disque sourd"
+type = "album"
+date = "1991"
+tracks = [
+  { n = 1, title = "Le Courage des oiseaux", mbid = "0b65556d-8be0-4884-a197-9e189270787c" },
+  { n = 2, title = "Passé l’hiver", mbid = "7e18e324-1064-4285-8021-e042861b0957" },
+  { n = 3, title = "Ce qui sépare", mbid = "85f6dbf1-b6fb-4d02-8d89-f8b10c130b0b" },
+  { n = 4, title = "La Bête", mbid = "13cceb2e-027d-414e-a399-a34c9eda364a" },
+  { n = 5, title = "Syl", mbid = "dc6ef71a-0800-48f2-b93e-5a5c4de27ba8" },
+  { n = 6, title = "Un tour de manche", mbid = "83236c5e-c4df-417d-9e17-c823bbc80f58" },
+  { n = 7, title = "Silence entre nos larmes", mbid = "b96d93aa-d805-44da-b3e5-5c2931eadd32" },
+  { n = 8, title = "Everyday’s Not Like Sunday", mbid = "8104be1e-0184-4ad3-98c0-8eb1f8782095" },
+  { n = 9, title = "Sous la neige", mbid = "566cf6a0-934f-4723-8d3a-88ddd59ed144" },
+  { n = 10, title = "La Folie des hommes", mbid = "a00ec034-aaec-4068-b6e0-ec6210e56aa1" },
+  { n = 11, title = "Tout le temps", mbid = "77bed344-dbd2-455a-af23-09356cfffe18" },
+  { n = 12, title = "Points de mire", mbid = "58090596-80f3-43ef-a318-844c5be0ba1c" },
+  { n = 13, title = "L’Attirance", mbid = "70207322-6785-4afc-bbbd-173da9337382" },
+]
+
+[[release]]
+mbid = "fd5e8f9b-be81-3a97-b7d2-d931861f743b"
+title = "La Fossette"
+type = "album"
+date = "1992-01-01"
+tracks = [
+  { n = 1, title = "Vivement dimanche", mbid = "540d8ef7-aa5a-4345-a98b-6d0793b4c219" },
+  { n = 2, title = "Février", mbid = "6e9f7aad-3c44-44ca-9fae-9d4dfc561f0c" },
+  { n = 3, title = "Trombes d’eau", mbid = "4ebf6921-04b3-4e22-bb29-3bc4a1400efd" },
+  { n = 4, title = "Va t’en", mbid = "fbd77eac-aedc-4d7c-9bab-780fbe805197" },
+  { n = 5, title = "L’un dans l’autre", mbid = "5a64f499-1da1-4849-87c4-653b8bb1c68b" },
+  { n = 6, title = "Mes lapins", mbid = "66bae46d-2958-422b-8270-2dc092cc5fc4" },
+  { n = 7, title = "Sous la neige", mbid = "bf4bae58-60c6-437e-97c8-b90720bf1c1c" },
+  { n = 8, title = "Le Courage des oiseaux", mbid = "fd9a1ba0-c98b-4b27-bb08-5fbd8456a32c" },
+  { n = 9, title = "Les habitudes se perdent", mbid = "15234ea9-c7f2-4f7f-b8ea-341791214002" },
+  { n = 10, title = "Ce qui sépare", mbid = "94c016a1-05a5-4222-af50-ff8febccf333" },
+  { n = 11, title = "Passé l’hiver", mbid = "3544bc84-b3e2-4ecc-b290-b7405d068709" },
+  { n = 12, title = "La Folie des hommes", mbid = "f57360a8-151c-49fa-bb67-8bd40d828853" },
+  { n = 13, title = "L’Écho", mbid = "c82b5d8f-f089-46ac-b314-0be236eb532d" },
+]
+
+[[release]]
+mbid = "f082dd7d-961e-3d92-af0b-57785d6996bd"
+title = "Si je connais Harry"
+type = "album"
+date = "1993-10"
+tracks = [
+  { n = 1, title = "Chanson de la ville silencieuse", mbid = "291669c5-d45b-4caf-a2b3-ce48fff3853e" },
+  { n = 2, title = "Le gros Boris", mbid = "a127e2e1-de75-4747-8ca3-1de932fc8fe8" },
+  { n = 3, title = "L'Amour", mbid = "132fd83f-5f02-49ea-873c-2f065cb3eea0" },
+  { n = 4, title = "L'Onglée", mbid = "2d7224da-c906-4585-977d-a071d0b2f16f" },
+  { n = 5, title = "Pour qui je me prends", mbid = "1ddc916e-d6af-4e71-8e77-3c1159a5827f" },
+  { n = 6, title = "Otto Box", mbid = "44d80a17-7023-403f-a4b8-6cd9f15bc98c" },
+  { n = 7, title = "Pignolo sur sa barquette", mbid = "5200ec03-1f9d-4b17-b68c-ca32f418185d" },
+  { n = 8, title = "Un ménage", mbid = "8ba248f9-6777-4934-a181-cf8077049b89" },
+  { n = 9, title = "Un mauvais ami", mbid = "00120ce2-bebc-4c23-84ae-dd0a245797c4" },
+  { n = 10, title = "Chiqué, chiqué", mbid = "3b1e0185-d8c1-4969-8a05-909f0c158775" },
+  { n = 11, title = "L'Adversité", mbid = "54315744-7fc7-49af-91e8-f1bc2a6443b6" },
+  { n = 12, title = "Retour au calme", mbid = "be92b050-6fa8-471d-a25b-114d99d89cd4" },
+]
+
+[[release]]
+mbid = "059caefd-a88c-3c1d-a959-fbcebb5f6cc6"
+title = "L’Amour EP"
+type = "ep"
+date = "1994-04"
+tracks = [
+  { n = 1, title = "L’Amour", mbid = "272854e9-f120-4094-a957-a3084c90a384" },
+  { n = 2, title = "La Valse boîte", mbid = "8f6e1044-adbc-44d8-84bf-2143a50609a8" },
+  { n = 3, title = "John Love 2", mbid = "a1c8db83-bad1-41d0-8a8a-83e36716911a" },
+  { n = 4, title = "Les Menteurs", mbid = "12aa3099-5af5-42f7-9028-b67e16dea162" },
+]
+
+[[release]]
+mbid = "ef56e384-3ba4-3d04-bb8e-337ddf873d32"
+title = "La Mémoire neuve"
+type = "album"
+date = "1995-05"
+spotify = "3bx0az6xDMdtaYxuvAlJQz"
+tracks = [
+  { disc = 1, n = 1, title = "Je ne respire plus, Milos", mbid = "1bc6efff-7886-41f7-bc6d-46d2b69a6654" },
+  { disc = 1, n = 2, title = "Il ne faut pas souhaiter la mort des gens", mbid = "e43df60e-0343-4541-9d3e-fe9baece58cb" },
+  { disc = 1, n = 3, title = "Le Twenty-Two Bar", mbid = "852461c3-e55c-4ebf-9e87-05ae2aaf9ca3" },
+  { disc = 1, n = 4, title = "Les Hauts Quartiers de peine", mbid = "f0c1cd25-ce05-4f00-93b8-8d8512aac03a" },
+  { disc = 1, n = 5, title = "Ainsi, parfois", mbid = "48c6173a-f152-47b1-bba1-8a1b2ca22a16" },
+  { disc = 1, n = 6, title = "La vie rend modeste", mbid = "6903eb46-e43a-4e15-8002-9b8df960180d" },
+  { disc = 1, n = 7, title = "La Mémoire neuve", mbid = "395d5a67-6fc5-4e41-a211-50f7e7a00cc7" },
+  { disc = 1, n = 8, title = "Hear No More, Dear No More", mbid = "e1d20ee5-5c49-4e19-8abe-5aff4ebd5d36" },
+  { disc = 1, n = 9, title = "Le Métier de faussaire", mbid = "3cad0e63-c2f1-4a6a-bc7c-16e34f20d76d" },
+  { disc = 1, n = 10, title = "Le Travail", mbid = "76003a6d-248c-45ce-b1e2-c11a66345757" },
+  { disc = 1, n = 11, title = "Le Ravalement des façades", mbid = "6537e5aa-4307-413f-bf5e-26d06a4d935a" },
+  { disc = 1, n = 12, title = "Tutti va bene", mbid = "a043ea17-b987-41f5-92db-dd802acec9c8" },
+  { disc = 2, n = 1, title = "Chanson de la ville silencieuse", mbid = "9c26bbcc-66ab-4671-95b2-cf506501759d" },
+  { disc = 2, n = 2, title = "La valse boite", mbid = "a168c282-ce5f-40e9-b8c9-ce5895904335" },
+  { disc = 2, n = 3, title = "Le Courage des oiseaux", mbid = "61d2f9d5-89f8-4c58-9492-08eb087d0d27" },
+  { disc = 2, n = 4, title = "And Then (S)he Kissed Me", mbid = "b3cd0f2c-4d6c-474b-875f-cc24579a9f5a" },
+]
+
+[[release]]
+mbid = "33c9f070-96a2-43b3-91d7-1cc13fcdcdd7"
+title = "Le Twenty-Two Bar"
+type = "single"
+date = "1995-10"
+tracks = [
+  { n = 1, title = "Le Twenty-Two Bar", mbid = "27c0f17e-dd99-4c17-a0d3-a23afad7b20d" },
+  { n = 2, title = "En fin démissionnaire", mbid = "b5a613aa-67a0-4287-b711-12f674d39439" },
+]
+
+[[release]]
+mbid = "a0df5222-3b34-3dee-b056-9004575632ff"
+title = "L’Attirance"
+type = "ep"
+date = "1998-07-27"
+tracks = [
+  { n = 1, title = "Friseur von Elvis", mbid = "23d4d8ff-ae1c-44e1-b34e-b7d625a3aaa2" },
+  { n = 2, title = "By Night", mbid = "28e3a958-fba1-4794-b170-ebc52a4cd753" },
+  { n = 3, title = "L’Attirance", mbid = "dcb2342b-d2b5-4dbc-9754-ac6760b98cbe" },
+  { n = 4, title = "Portsmouth", mbid = "e587019a-b123-4307-a34a-270435131d8e" },
+  { n = 5, title = "Milena Jesenská", mbid = "a18e0c28-b735-476e-b759-ed029f30a6d4" },
+]
+
+[[release]]
+mbid = "7644a28a-5a6d-3c87-b623-294473bf3122"
+title = "Remué"
+type = "album"
+date = "1999-03-01"
+tracks = [
+  { n = 1, title = "Comment certains vivent", mbid = "49703812-1191-4726-bf8e-06a9aedab814" },
+  { n = 2, title = "Pères", mbid = "9fadfee5-efc1-43fc-97bc-2ead269bee07" },
+  { n = 3, title = "Encore", mbid = "1ab0cf2e-b27d-4d01-af57-fcd0be85dd2e" },
+  { n = 4, title = "Je suis une ville", mbid = "f6c8758a-b2f3-4d50-8d85-462844aee605" },
+  { n = 5, title = "Tu vas voir ailleurs", mbid = "ae81b361-678f-4f6e-a875-77d47a2421d4" },
+  { n = 6, title = "Avant l'enfer", mbid = "9507e757-67f2-4980-9bef-7dfb187b3f47" },
+  { n = 7, title = "Exit", mbid = "3cb4bee4-5e28-47b8-9637-5b5a53410b01" },
+  { n = 8, title = "Douanes", mbid = "2906d0a6-61ea-4e49-987f-4c0c8a531e15" },
+  { n = 9, title = "Ma vieille tête", mbid = "fb699c66-e9d1-4a2b-b12c-f19d5afac786" },
+  { n = 10, title = "Le Détour", mbid = "8e8aac15-7280-4ea1-a96e-10b2f2470bf8" },
+  { n = 11, title = "Rien qu'à voir", mbid = "8fae6ef3-36f2-42ea-9f30-9ee3a4d199d8" },
+  { n = 12, title = "Retrouvailles", mbid = "c355c055-8186-496b-a141-cbe568efe4b8" },
+  { n = 13, title = "Surestimé", mbid = "327ff3bf-e88d-4200-b5ce-e96926eac62b" },
+  { n = 14, title = "Le Morceau caché", mbid = "0e0e42d6-c2cc-47ab-9cd9-828f0544edae" },
+]
+
+[[release]]
+mbid = "dfdad801-9ed7-37c5-abcb-468652e2c5ce"
+title = "Auguri"
+type = "album"
+date = "2001-10-15"
+tracks = [
+  { n = 1, title = "Antonia", mbid = "5be008d6-2fa9-4d81-ac8c-81e2f51d12f6" },
+  { n = 2, title = "Pour la peau", mbid = "3139a666-5a2a-4054-a0f6-70f85a844b72" },
+  { n = 3, title = "Ses yeux brûlent", mbid = "3957a054-9273-4c01-bab1-df0dad8c44da" },
+  { n = 4, title = "En secret", mbid = "854796e4-f613-482c-820c-78cc541eae96" },
+  { n = 5, title = "Évacuez", mbid = "3a183f3a-2444-45df-9438-77fec0bb6542" },
+  { n = 6, title = "Je t'ai toujours aimée", mbid = "c6262acc-fa1b-4c74-887b-606653d853a8" },
+  { n = 7, title = "Burano", mbid = "0178bfdd-732f-40eb-bf75-71c883daaf82" },
+  { n = 8, title = "Les chanteurs sont mes amis", mbid = "d3c798bb-bc9c-4054-8c85-0023b173715f" },
+  { n = 9, title = "Où conduit l'escalier", mbid = "434231f9-7c41-4aff-a8cd-5bdfaa62b724" },
+  { n = 10, title = "Le Commerce de l'eau", mbid = "3673bca9-c7ae-45f4-bceb-c5dfa6c37f58" },
+  { n = 11, title = "Nous reviendrons", mbid = "eb1b38e8-339f-483a-9f4c-0e2b69fbbad9" },
+  { n = 12, title = "Les Hommes entre eux", mbid = "439ad931-f952-4704-8528-e4cae36b393f" },
+  { n = 13, title = "Les Enfants du Pirée", mbid = "166f4d93-4c2d-4753-8de0-da0d59e2093e" },
+  { n = 14, title = "Les Terres brunes", mbid = "9cac70b9-df94-4339-8f77-e791f5899a61" },
+]
+
+[[release]]
+mbid = "a9c2a4f5-7d77-3399-bd86-eaddae64d0df"
+title = "Tout sera comme avant"
+type = "album"
+date = "2004-03-08"
+tracks = [
+  { n = 1, title = "Tout sera comme avant", mbid = "94697a1b-e595-412c-ad21-d32bcfa6085c" },
+  { n = 2, title = "Elle parle à des gens qui ne sont pas là", mbid = "1fa64e90-e364-40e4-b66d-98e6c0cb3e09" },
+  { n = 3, title = "Pendant que les enfants jouent", mbid = "9eb77138-9246-4650-b80c-ef077ce8b0cb" },
+  { n = 4, title = "Dans les hommes", mbid = "c981008d-85ab-4129-a526-8f8dab91cca6" },
+  { n = 5, title = "Bowling", mbid = "d605e903-e36a-420a-9ee5-00e2220a3ad3" },
+  { n = 6, title = "Mira", mbid = "5f56a5c6-5cbd-457e-b810-6943ac8be337" },
+  { n = 7, title = "Revenir au monde", mbid = "4281e021-52f8-4254-bde0-9d1020c93163" },
+  { n = 8, title = "Le Fils d'un enfant", mbid = "7171c9a6-5d31-4065-a61c-65a9bb8912f7" },
+  { n = 9, title = "Où sont les lions?", mbid = "324e80a5-8b98-47b2-9d6c-047bed1b65da" },
+  { n = 10, title = "L'Inuktitut", mbid = "0ec17862-5f09-421f-82ca-5059130a2a47" },
+  { n = 11, title = "Le Départ des ombres", mbid = "867ea954-a12e-4bd8-9ed1-4acb8b0dddea" },
+  { n = 12, title = "Dobranoc", mbid = "79d75318-df72-439b-98f7-de334b80457c" },
+  { n = 13, title = "Les Clés", mbid = "6f813a25-869f-449f-88c7-3bef574331ad" },
+  { n = 14, title = "La Retraite à Miami", mbid = "9080c8e6-9935-4bf0-9646-32368a1c0b4b" },
+  { n = 15, title = "Les Éoliennes", mbid = "c160213c-b696-4a13-83bf-3a3c0579a792" },
+]
+
+[[release]]
+mbid = "3375aed7-c66c-4515-81a5-015ed2b5bf55"
+title = "Les Éoliennes"
+type = "single"
+date = "2004-05-05"
+tracks = [
+  { n = 1, title = "Les Éoliennes", mbid = "b436b271-61d8-4659-9218-1d69a4daa309" },
+]
+
+[[release]]
+mbid = "f3af41ee-c180-3f96-af10-e2e4698a2d6a"
+title = "L'Horizon"
+type = "album"
+date = "2006-03-06"
+tracks = [
+  { n = 1, title = "L'Horizon", mbid = "00a6a997-ec87-4204-b255-1f7dfb2e3942" },
+  { n = 2, title = "Rouvrir", mbid = "b5b22c35-856a-468c-b94f-ddd9fedaa69f" },
+  { n = 3, title = "Dans un camion", mbid = "9c96b31f-7813-4420-a624-f8ce1ca3f4b8" },
+  { n = 4, title = "Antaimoro", mbid = "96e070c4-896e-4b9d-9f53-60bb2317237a" },
+  { n = 5, title = "La Relève", mbid = "b28660c0-8b63-4e12-b03b-05bcaf5cfd84" },
+  { n = 6, title = "Retour au quartier lointain", mbid = "9803f0c0-ba25-47cf-87be-1a48b69e23b9" },
+  { n = 7, title = "Music-hall", mbid = "9ec68e0c-ed3f-438a-8ea7-3d17798cc78e" },
+  { n = 8, title = "Par l'ouest", mbid = "38238a88-17fb-443e-9742-ed6e326cf644" },
+  { n = 9, title = "La Pleureuse", mbid = "273be5b1-ae7d-43e7-98dd-5b01615fe76b" },
+  { n = 10, title = "Rue des Marais", mbid = "4568b617-1061-48d4-bf02-b013ab163f03" },
+  { n = 11, title = "Adieu, Alma", mbid = "e8d2b9f4-559b-4fe1-8534-7e0e5cc453cb" },
+]
+
+[[release]]
+mbid = "0baffd77-e3be-469d-ab99-5653e3b56104"
+title = "Le Courage des oiseaux"
+type = "single"
+date = "2007-09-10"
+tracks = [
+  { n = 1, title = "Le Courage des oiseaux (radio edit)", mbid = "776c767f-6e1d-4a10-ac98-4b91a6657823" },
+]
+
+[[release]]
+mbid = "0128bc7d-61fc-41aa-9707-77f3d4cbbbe7"
+title = "Manque-moi moins"
+type = "single"
+date = "2007-11-20"
+tracks = [
+  { n = 1, title = "Manque-moi moins", mbid = "4d3ecf27-d27a-4ac7-bdd7-7ff15a0de076" },
+]
+
+[[release]]
+mbid = "effacb42-99e1-4273-8bf7-4408adb7bd49"
+title = "Les Sons cardinaux"
+type = "album"
+date = "2007-11-26"
+tracks = [
+  { disc = 1, n = 1, title = "Agonie d'un soleil", mbid = "e7aff5c9-395a-4a17-a814-7c2830c0cf8d" },
+  { disc = 1, n = 2, title = "Tous les dimanches", mbid = "ec7ac100-a8a0-4673-9b54-8ee8d19d5bc4" },
+  { disc = 1, n = 3, title = "Il faut être un fantôme", mbid = "c31d36e4-ad4a-454f-9bf0-9e29984a8663" },
+  { disc = 1, n = 4, title = "Points de mire", mbid = "002fadb4-e989-402e-b267-bf61bc821323" },
+  { disc = 2, n = 1, title = "Un albedo", mbid = "637c83dd-7a79-4403-8faf-296f3e7e274e" },
+  { disc = 2, n = 2, title = "Cent escaliers, cent paliers", mbid = "ed11641d-bddc-48b7-b29b-8668c98f431f" },
+  { disc = 2, n = 3, title = "Tout plutôt qu'aujourd'hui", mbid = "97d020b1-887a-4312-8c6f-cfbc82492047" },
+  { disc = 2, n = 4, title = "Un bon gars", mbid = "3bed7bb3-fcb6-4428-b655-63e0904e7525" },
+  { disc = 3, n = 1, title = "Décrocher les trains", mbid = "e8599ae6-408c-4d47-8a58-7057d91f67c6" },
+  { disc = 3, n = 2, title = "Souled", mbid = "573e7001-7018-48be-9848-7a69b401cf69" },
+  { disc = 3, n = 3, title = "La Renverse", mbid = "1b8bf139-6c33-49a0-8600-a10028f16b4b" },
+  { disc = 3, n = 4, title = "Je ne me rappelle pas de moi", mbid = "5aa55118-b780-4471-8430-6b23ddc1bcb0" },
+  { disc = 4, n = 1, title = "L'Azur", mbid = "65e57666-5959-4b33-be44-f49565c342da" },
+  { disc = 4, n = 2, title = "Endermonde", mbid = "ffe68fca-7ad8-42a5-b135-ea018ad85d9d" },
+  { disc = 4, n = 3, title = "Le Pont face aux trois tours", mbid = "4c3bb6ff-2848-4e10-97f3-43b360d0de97" },
+  { disc = 4, n = 4, title = "Entre mes bras", mbid = "4d2be5c1-c04d-41a0-b9fe-26022f538f48" },
+]
+
+[[release]]
+mbid = "c44f66bc-f443-4c2b-ab0d-dd3bb533b4d8"
+title = "Kick Peplum E.P."
+type = "ep"
+date = "2009"
+tracks = [
+  { n = 1, title = "Gisor", mbid = "46ea1a27-68fc-4930-804e-31061b40746f" },
+  { n = 2, title = "Sarah, Bristol", mbid = "28d8c07f-5c2d-48f4-95e7-637e857e3883" },
+  { n = 3, title = "Manset", mbid = "8c0463f3-fcb8-443a-b78d-ad43978f49f9" },
+  { n = 4, title = "Chambre d'écho", mbid = "4cfbac3d-ea5d-4ad7-a094-520d02b99a53" },
+]
+
+[[release]]
+mbid = "df3b84de-471b-33e7-9922-9bf7d51a5c5c"
+title = "La Musique"
+type = "album"
+date = "2009-04-06"
+tracks = [
+  { disc = 1, n = 1, title = "Le Sens", mbid = "f9dce6c4-7d47-44d9-81f9-aed3ea3e1708" },
+  { disc = 1, n = 2, title = "Immortels", mbid = "f661be9c-ba12-425a-a1d2-46ce998020a7" },
+  { disc = 1, n = 3, title = "Nanortalik", mbid = "da9e3293-60c9-4a15-8c87-560c64ad8eb8" },
+  { disc = 1, n = 4, title = "Qui es-tu ?", mbid = "730cecbd-f438-4ab4-9dde-5f18c6df52d7" },
+  { disc = 1, n = 5, title = "Hasta que el cuerpo aguante", mbid = "ec493a5e-f9f4-4ae2-a758-707089fa7b6d" },
+  { disc = 1, n = 6, title = "La Musique", mbid = "975a10b1-5836-441e-8cbe-44178664c4ae" },
+  { disc = 1, n = 7, title = "Je suis parti avec toi", mbid = "450b188b-2b14-4992-9faf-53f252b2465c" },
+  { disc = 1, n = 8, title = "Le Bruit blanc de l’été", mbid = "b1ad98ed-c343-42b7-93cf-dc3264834ccb" },
+  { disc = 1, n = 9, title = "Des étendues", mbid = "b887c45c-1eda-4778-a9ef-726da7033c37" },
+  { disc = 1, n = 10, title = "Les Garçons perdus", mbid = "b40cb846-cb70-4da2-9995-11b61c71c9e6" },
+  { disc = 1, n = 11, title = "Hôtel Congress", mbid = "607f3f03-0249-49ff-9461-050198ccc7fe" },
+  { disc = 1, n = 12, title = "La Fin d’un monde", mbid = "e7c8d9ca-9f74-47f7-81a1-ceea27a017d1" },
+  { disc = 2, n = 1, title = "Immortels (radio version)", mbid = "7af6d921-1f56-4348-a7a1-f0b53e43f0d6" },
+  { disc = 2, n = 2, title = "La Fin d’un monde (radio version)", mbid = "10d74924-68cf-4646-a127-bd04b974cb9c" },
+  { disc = 2, n = 3, title = "Morning kisses", mbid = "5e146896-276c-49af-b81f-047c4b24a01e" },
+  { disc = 2, n = 4, title = "Un amour à la rue (demo version)", mbid = "b048537e-e92e-45a5-a0a6-a6a318992c6f" },
+  { disc = 2, n = 5, title = "La Beauté (demo version)", mbid = "ac21de28-e2e5-47f5-8eb7-dc9bb9a88340" },
+  { disc = 2, n = 6, title = "Tu es ma nuit (demo version)", mbid = "5cae08a8-e772-474f-b36d-ee3f384ffcf3" },
+  { disc = 2, n = 7, title = "Dernier Chant d’amour (demo version)", mbid = "cc222e7d-79ff-4344-85b3-b31d4a8edf20" },
+]
+
+[[release]]
+mbid = "118aa9a7-0107-4b7e-8040-295f6e00ef16"
+title = "La Musique Bonus EP"
+type = "ep"
+date = "2010-02-15"
+tracks = [
+  { n = 1, title = "Immortels (radio version)", mbid = "7af6d921-1f56-4348-a7a1-f0b53e43f0d6" },
+  { n = 2, title = "La Fin d’un monde (radio version)", mbid = "10d74924-68cf-4646-a127-bd04b974cb9c" },
+  { n = 3, title = "Morning kisses", mbid = "5e146896-276c-49af-b81f-047c4b24a01e" },
+  { n = 4, title = "Un amour à la rue (demo version)", mbid = "b048537e-e92e-45a5-a0a6-a6a318992c6f" },
+  { n = 5, title = "La Beauté (demo version)", mbid = "ac21de28-e2e5-47f5-8eb7-dc9bb9a88340" },
+  { n = 6, title = "Tu es ma nuit (demo version)", mbid = "5cae08a8-e772-474f-b36d-ee3f384ffcf3" },
+  { n = 7, title = "Dernier Chant d’amour (demo version)", mbid = "cc222e7d-79ff-4344-85b3-b31d4a8edf20" },
+]
+
+[[release]]
+mbid = "1cd02221-9b37-4adf-9562-98868bc7ec1a"
+title = "Rendez-nous la lumière"
+type = "single"
+date = "2012-03-02"
+tracks = [
+  { n = 1, title = "Rendez-nous la lumière", mbid = "7065dafb-b416-499f-98b6-67fe87ff74f9" },
+  { n = 2, title = "Ce geste absent", mbid = "0f07880e-0794-48fa-b401-6e489bf26a7d" },
+]
+
+[[release]]
+mbid = "671f8980-ebbe-48cc-be87-0b322195dd7c"
+title = "Vers les lueurs"
+type = "album"
+date = "2012-03-26"
+tracks = [
+  { n = 1, title = "Contre un arbre", mbid = "51251adf-a067-4fc9-bee7-3f91716810bc" },
+  { n = 2, title = "Rendez-nous la lumière", mbid = "58da204b-48d2-4795-bdac-29d611f6a070" },
+  { n = 3, title = "Ostinato", mbid = "e24da7dc-6d9a-4c78-a6d1-318fa294b56a" },
+  { n = 4, title = "Parce que tu étais là", mbid = "80358871-c283-4910-88f5-97ada02097bd" },
+  { n = 5, title = "Parfois j’entends des cris", mbid = "54c83cba-4225-476e-b3f2-605d9334162f" },
+  { n = 6, title = "Close West", mbid = "3d6a1f3e-01d4-4e44-ba25-be10a9200141" },
+  { n = 7, title = "Loin du soleil", mbid = "0fafa5d4-add9-4ce1-be86-a45f6ed24b3a" },
+  { n = 8, title = "Quelques lumières", mbid = "ad6a9f66-1610-44ea-b0f7-477ba3d045cb" },
+  { n = 9, title = "Vers le bleu", mbid = "4358a633-676a-4ee0-a60f-7079331e43aa" },
+  { n = 10, title = "La Possession", mbid = "c58d8c87-3c29-4b39-9e50-2c9d15eb072b" },
+  { n = 11, title = "Ce geste absent", mbid = "d8592148-d148-4258-81c0-18bd81ebf83f" },
+  { n = 12, title = "Le Convoi", mbid = "404f1df6-741e-4b64-b5e5-aa12724746f2" },
+  { n = 13, title = "Par les lueurs", mbid = "e44af6dd-e36f-45e5-b713-229c8394c5f3" },
+]
+
+[[release]]
+mbid = "b9e07a5f-9fb0-408c-a9fd-80a453548124"
+title = "For a Day"
+type = "single"
+date = "2013-10-21"
+tracks = [
+  { n = 1, title = "For a Day", mbid = "cb4222e2-b259-495b-885e-509a1d532425" },
+]
+
+[[release]]
+mbid = "14957dc5-ab9d-4f74-b9f6-0fc175f34415"
+title = "Éléor"
+type = "album"
+date = "2015-03-16"
+tracks = [
+  { disc = 1, n = 1, title = "Cap Farvel", mbid = "7fc3f1cf-4b48-45bb-8571-383e3be9f980" },
+  { disc = 1, n = 2, title = "Par le Canada", mbid = "c8697a69-1d94-4f31-84be-4991d0a577b2" },
+  { disc = 1, n = 3, title = "Nouvelles Vagues", mbid = "e0815b07-eebc-4b2c-9447-e4d2f7d1c759" },
+  { disc = 1, n = 4, title = "Central Otago", mbid = "696dc4ab-0dc7-437f-a5b4-0a0b6ec83013" },
+  { disc = 1, n = 5, title = "Au revoir mon amour", mbid = "9e4b07e5-d423-4a63-abd6-4b350ec28f02" },
+  { disc = 1, n = 6, title = "Une autre vie", mbid = "1a58dada-2ed1-41eb-a4d7-e1b8f421a2d9" },
+  { disc = 1, n = 7, title = "L'Océan", mbid = "c2631e00-9ade-4509-8ad1-bfca6443eb20" },
+  { disc = 1, n = 8, title = "Semana Santa", mbid = "5e314899-a79f-4161-88b3-0d6e02f8f9a5" },
+  { disc = 1, n = 9, title = "Celle qui ne me quittera jamais", mbid = "8d6d4672-05c8-4a6d-b4e0-1fc06cb2bf13" },
+  { disc = 1, n = 10, title = "Passer nous voir", mbid = "59114267-6f8e-4084-9061-13437823c793" },
+  { disc = 1, n = 11, title = "Éléor", mbid = "8f3da351-0cf8-4233-840c-f3afdebbe0c2" },
+  { disc = 1, n = 12, title = "Oklahoma, 1932", mbid = "e082dcdb-284d-4812-af1f-e7deda1636e3" },
+  { disc = 2, n = 1, title = "Cernés par les falaises", mbid = "08f70c45-bb45-4743-89f8-827aa5e79e27" },
+  { disc = 2, n = 2, title = "Lente Ascension", mbid = "fb904440-bdd8-4a3a-ae6e-e6d25aa2fadc" },
+  { disc = 2, n = 3, title = "Molly Drake", mbid = "c7298046-4eab-469f-94bd-96bd83cbdf63" },
+  { disc = 2, n = 4, title = "Le Long Nuage blanc", mbid = "a527e672-c6b3-4812-b12d-0223cebc570d" },
+  { disc = 2, n = 5, title = "Deux fenêtres", mbid = "bd6a15fb-7f59-4ddc-83f5-42d02944df7b" },
+  { disc = 2, n = 6, title = "Naissance d'Éléor", mbid = "a724b39c-0f43-4a7e-8bef-25950d04ec43" },
+  { disc = 2, n = 7, title = "Aux sources d'Arma", mbid = "0d277424-a60e-4170-910e-740cb78d8466" },
+  { disc = 2, n = 8, title = "Un sentier, la nuit", mbid = "9a25a4bd-0aa8-4587-a10e-9436bfcddcd0" },
+  { disc = 2, n = 9, title = "Un paysage", mbid = "65e943be-89b9-4b29-b4cb-3e0f88bde505" },
+  { disc = 2, n = 10, title = "Brillance du mal", mbid = "04c89885-f77e-41d0-997e-1ec1bb1378c0" },
+  { disc = 2, n = 11, title = "La Douceur", mbid = "9fd83784-3376-432e-9081-efd66892276b" },
+  { disc = 2, n = 12, title = "Une arrivée", mbid = "3cdf4c5f-06f5-4dd3-9406-bbbb763fe715" },
+]
+
+[[release]]
+mbid = "643c0cf0-214e-483d-b75c-ff07991e0800"
+title = "Toute latitude"
+type = "album"
+date = "2018-03-09"
+tracks = [
+  { disc = 1, n = 1, title = "Cycle", mbid = "eca44a33-6e0f-46a2-b964-9f109e3ded69" },
+  { disc = 1, n = 2, title = "Désert d’hiver", mbid = "f9a3305f-67ac-4834-9ca5-6d0b5d16a798" },
+  { disc = 1, n = 3, title = "Toute latitude", mbid = "fcfe3fa4-2796-4501-b4f3-509db58de54d" },
+  { disc = 1, n = 4, title = "Les Deux Côtés d’une ombre", mbid = "7f0ae01e-8b69-4c4d-bd11-b5cda56a7f95" },
+  { disc = 1, n = 5, title = "La Mort d’un oiseau", mbid = "4710e8fc-8cdf-4d14-ad01-4e6ce163726e" },
+  { disc = 1, n = 6, title = "Aujourd’hui n’existe plus", mbid = "26ba19eb-414e-44ab-b71b-fb90149344bf" },
+  { disc = 1, n = 7, title = "La Clairière", mbid = "98fc9484-b73a-4fbc-9921-2200aed0f173" },
+  { disc = 1, n = 8, title = "Enfants de la plage", mbid = "6526cbd9-0502-4b4b-a36b-7f67d46b7b4d" },
+  { disc = 1, n = 9, title = "Lorsque nous vivions ensemble", mbid = "775ed3a5-65a4-4690-9661-150679f6244a" },
+  { disc = 1, n = 10, title = "Corps de ferme à l’abandon", mbid = "5bea7620-881f-46dd-ba15-7199ea7e6632" },
+  { disc = 1, n = 11, title = "Se décentrer", mbid = "5fec12f0-8d21-41aa-92be-e4c8272ef5e4" },
+  { disc = 1, n = 12, title = "Le Reflet", mbid = "44d9d979-f841-4757-835b-7998b6a4928e" },
+  { disc = 2, n = 1, title = "Cycle", mbid = "eca44a33-6e0f-46a2-b964-9f109e3ded69" },
+  { disc = 2, n = 2, title = "Désert d’hiver", mbid = "f9a3305f-67ac-4834-9ca5-6d0b5d16a798" },
+  { disc = 2, n = 3, title = "Toute latitude", mbid = "fcfe3fa4-2796-4501-b4f3-509db58de54d" },
+  { disc = 2, n = 4, title = "Les Deux Côtés d’une ombre", mbid = "7f0ae01e-8b69-4c4d-bd11-b5cda56a7f95" },
+  { disc = 2, n = 5, title = "La Mort d’un oiseau", mbid = "4710e8fc-8cdf-4d14-ad01-4e6ce163726e" },
+  { disc = 2, n = 6, title = "Aujourd’hui n’existe plus", mbid = "26ba19eb-414e-44ab-b71b-fb90149344bf" },
+  { disc = 2, n = 7, title = "La Clairière", mbid = "98fc9484-b73a-4fbc-9921-2200aed0f173" },
+  { disc = 2, n = 8, title = "Enfants de la plage", mbid = "6526cbd9-0502-4b4b-a36b-7f67d46b7b4d" },
+  { disc = 2, n = 9, title = "Lorsque nous vivions ensemble", mbid = "775ed3a5-65a4-4690-9661-150679f6244a" },
+  { disc = 2, n = 10, title = "Corps de ferme à l’abandon", mbid = "5bea7620-881f-46dd-ba15-7199ea7e6632" },
+  { disc = 2, n = 11, title = "Se décentrer", mbid = "5fec12f0-8d21-41aa-92be-e4c8272ef5e4" },
+  { disc = 2, n = 12, title = "Le Reflet", mbid = "44d9d979-f841-4757-835b-7998b6a4928e" },
+  { disc = 2, n = 13, title = "Ta parole", mbid = "205f1862-dfa0-41df-a18f-a744b321d730" },
+  { disc = 2, n = 14, title = "L’Eau des cailloux", mbid = "a33a4f74-72bf-479b-a416-2213ad87eac9" },
+  { disc = 2, n = 15, title = "Highlands", mbid = "0f711568-7386-4cdd-9b8a-8c148a44ad59" },
+  { disc = 2, n = 16, title = "Derrière chaque coucher de soleil", mbid = "03547608-f498-4588-a3a4-d8e16e0d2a7e" },
+  { disc = 2, n = 17, title = "Maisons de Léonard", mbid = "2220a24f-ba2b-4ad8-af2b-e933c3177f73" },
+  { disc = 2, n = 18, title = "Nationale 137", mbid = "a4001bd3-2995-4c91-a6bc-55830bf793ed" },
+  { disc = 2, n = 19, title = "Celui que je ne dois pas croiser", mbid = "8c83558d-6286-4ed7-9880-1112f81ae47a" },
+  { disc = 2, n = 20, title = "Sous la main", mbid = "d7ffc02f-4775-4e9f-b452-bb3572a9282e" },
+]
+
+[[release]]
+mbid = "b0a4b1d1-02b8-4b2c-801f-aaa1dcce88ae"
+title = "La Fragilité"
+type = "album"
+date = "2018-10-05"
+tracks = [
+  { disc = 1, n = 1, title = "La Poésie", mbid = "c99599b9-0fcb-4e3f-b66d-67757dc9ded0" },
+  { disc = 1, n = 2, title = "Comme l’encre", mbid = "7011876c-2ab2-42ff-aa48-119f6a942659" },
+  { disc = 1, n = 3, title = "Le Grand Silence des campagnes", mbid = "20973218-036f-4d07-9ddb-a09cc04c80e0" },
+  { disc = 1, n = 4, title = "Comme au jour premier", mbid = "aeb3d747-d7ea-4c98-8171-373233d01bd4" },
+  { disc = 1, n = 5, title = "J’avais oublié que tu m’aimais autant", mbid = "e7bfa70d-fad5-471c-9aa7-9a864084b7f3" },
+  { disc = 1, n = 6, title = "La Splendeur", mbid = "ccf87e68-0e7a-45f8-93cf-b01e126c0a18" },
+  { disc = 1, n = 7, title = "Le temps qui passe sans moi", mbid = "5efbef3e-1388-419a-a2b8-c07fc767156c" },
+  { disc = 1, n = 8, title = "Le Ruban", mbid = "dc736cac-1ba3-4abf-97b1-58a940fef0e9" },
+  { disc = 1, n = 9, title = "Le Soleil", mbid = "61d8ba67-9e95-4f16-9378-7a08ba5e7cd6" },
+  { disc = 1, n = 10, title = "Beau Rivage", mbid = "abde1e28-1361-4aac-8dbf-79255ab0dae9" },
+  { disc = 1, n = 11, title = "La Route vers toujours", mbid = "1e149106-bd28-422b-ba9e-58b313177766" },
+  { disc = 1, n = 12, title = "La Fragilité", mbid = "a7bc141c-dfbc-487e-b604-2f177813b45f" },
+  { disc = 2, n = 1, title = "La Poésie", mbid = "c99599b9-0fcb-4e3f-b66d-67757dc9ded0" },
+  { disc = 2, n = 2, title = "Comme l’encre", mbid = "7011876c-2ab2-42ff-aa48-119f6a942659" },
+  { disc = 2, n = 3, title = "Le Grand Silence des campagnes", mbid = "20973218-036f-4d07-9ddb-a09cc04c80e0" },
+  { disc = 2, n = 4, title = "Comme au jour premier", mbid = "aeb3d747-d7ea-4c98-8171-373233d01bd4" },
+  { disc = 2, n = 5, title = "J’avais oublié que tu m’aimais autant", mbid = "e7bfa70d-fad5-471c-9aa7-9a864084b7f3" },
+  { disc = 2, n = 6, title = "La Splendeur", mbid = "ccf87e68-0e7a-45f8-93cf-b01e126c0a18" },
+  { disc = 2, n = 7, title = "Le temps qui passe sans moi", mbid = "5efbef3e-1388-419a-a2b8-c07fc767156c" },
+  { disc = 2, n = 8, title = "Le Ruban", mbid = "dc736cac-1ba3-4abf-97b1-58a940fef0e9" },
+  { disc = 2, n = 9, title = "Le Soleil", mbid = "61d8ba67-9e95-4f16-9378-7a08ba5e7cd6" },
+  { disc = 2, n = 10, title = "Beau Rivage", mbid = "abde1e28-1361-4aac-8dbf-79255ab0dae9" },
+  { disc = 2, n = 11, title = "La Route vers toujours", mbid = "1e149106-bd28-422b-ba9e-58b313177766" },
+  { disc = 2, n = 12, title = "La Fragilité", mbid = "a7bc141c-dfbc-487e-b604-2f177813b45f" },
+  { disc = 2, n = 13, title = "Le Vent, ce matin", mbid = "ba891a8f-6efa-46a6-8f41-011a77452b93" },
+  { disc = 2, n = 14, title = "Les Couloirs", mbid = "2bd2e256-a740-4188-bd07-0711070bd2f4" },
+  { disc = 2, n = 15, title = "Une fête dans la solitude", mbid = "3a993fbe-c9cd-4299-8513-fa35e2ed131a" },
+  { disc = 2, n = 16, title = "Et alors j’ai levé les yeux", mbid = "1aff2ca3-3938-4ff4-bbba-d061f7427e6b" },
+  { disc = 2, n = 17, title = "Les Rives ordinaires", mbid = "e486f041-4030-458c-ac33-1044d3eea3ba" },
+  { disc = 2, n = 18, title = "La Pauvreté", mbid = "7a0658c6-63d8-40bc-bc07-b12ff76a839e" },
+  { disc = 2, n = 19, title = "J’ouvre les yeux", mbid = "c12a89ee-16e0-4aac-b946-0fdfb82677e5" },
+  { disc = 2, n = 20, title = "La Loire", mbid = "deab513f-d0ff-4167-a755-19eed56332d2" },
+]
+
+[[release]]
+mbid = "3d280d9c-98ce-4275-a9f2-118679028ed1"
+title = "J’ai choisi"
+type = "single"
+date = "2020-01-28"
+tracks = [
+  { n = 1, title = "J’ai choisi", mbid = "0294e5a9-9a8b-455c-9ba1-4a6899c3ff59" },
+]
+
+[[release]]
+mbid = "6c059395-a173-4ae4-93b0-3b1c99c1a583"
+title = "L'Éclaircie"
+type = "single"
+date = "2020-04-15"
+tracks = [
+  { n = 1, title = "L'Éclaircie", mbid = "0a7b773e-66d7-4a4f-8b58-dbc76d6570ae" },
+]
+
+[[release]]
+mbid = "f8602634-e2ad-45ba-932a-b1c97d7dd60c"
+title = "Le silence ou tout comme"
+type = "ep"
+date = "2020-07-10"
+spotify = "5v9reS0ACkSbaLZ21ZJgmz"
+tracks = [
+  { n = 1, title = "Papiers froissés", mbid = "3220ab49-1eaa-482f-906c-40e54ac282bb" },
+  { n = 2, title = "À la même place", mbid = "4e2161d6-ca91-4c5e-b839-b478c1861cf3" },
+  { n = 3, title = "Vie étrange", mbid = "b18e4cce-1392-4087-8918-b79b167c8cde" },
+  { n = 4, title = "Un endroit mystérieux", mbid = "56c366eb-304a-4ad5-b8b1-c0f89cb2fdcc" },
+]
+
+[[release]]
+mbid = "be21d3c9-78f6-4363-b7b5-b2c2c2205756"
+title = "Vie étrange"
+type = "album"
+date = "2020-11-06"
+spotify = "3S9OTx34qM7MuI5F9kNC6t"
+tracks = [
+  { n = 1, title = "Papiers froissés", mbid = "3220ab49-1eaa-482f-906c-40e54ac282bb" },
+  { n = 2, title = "À la même place", mbid = "4e2161d6-ca91-4c5e-b839-b478c1861cf3" },
+  { n = 3, title = "Vie étrange", mbid = "b18e4cce-1392-4087-8918-b79b167c8cde" },
+  { n = 4, title = "Rien qu’un amour", mbid = "6c006611-6d1e-414d-b761-f9b560a23c89" },
+  { n = 5, title = "Un endroit mystérieux", mbid = "56c366eb-304a-4ad5-b8b1-c0f89cb2fdcc" },
+  { n = 6, title = "Quand je rentre", mbid = "ef601591-4ee5-4e42-a6d4-a0045f5bba60" },
+  { n = 7, title = "L'Éclaircie", mbid = "c3ae0ffe-99ec-431a-9161-15eac7b35a12" },
+  { n = 8, title = "Wagons de porcelaine", mbid = "54be69ee-3da6-40ac-833a-84cbaf24c369" },
+  { n = 9, title = "Les Éveillés", mbid = "566ef7e4-0e5d-45e5-a08f-9aaae8ce3f6d" },
+  { n = 10, title = "Sols d’automne", mbid = "e6269390-e5d8-424b-a4a3-03d5e37ff8c8" },
+]
+
+[[release]]
+mbid = "3cddb7ca-a23f-4830-a2ea-b4571826bf46"
+title = "Le Monde réel"
+type = "album"
+date = "2022-09-16"
+tracks = [
+  { n = 1, title = "Dernier Appel de la forêt", mbid = "cc3064ff-84cc-42f5-9bd8-e87bac8c0494" },
+  { n = 2, title = "Avec les autres", mbid = "65ad6396-78c4-4504-9604-8045948dd943" },
+  { n = 3, title = "Nouvelles du monde lointain", mbid = "05d08a87-7138-4220-9275-028de597309f" },
+  { n = 4, title = "Les Roches", mbid = "77b7913b-9689-428d-8368-8d2f6619ec62" },
+  { n = 5, title = "Désaccord des éléments", mbid = "15b3b103-b1e0-405d-9b05-2f1a9c3d4426" },
+  { n = 6, title = "Le Manteau retourné de l'enfance", mbid = "1c10bd31-6945-4dfd-9926-af2b652448ad" },
+  { n = 7, title = "Le Monde réel", mbid = "6922c142-074e-4293-8e5a-778a86f77892" },
+  { n = 8, title = "Et tout le monde comme des toupies", mbid = "b91a4bcc-8f48-42de-8d24-5bc6a16c8815" },
+  { n = 9, title = "La Maison", mbid = "4aa3ebce-f195-49c1-b7cd-95dc9f85a251" },
+  { n = 10, title = "Au bord de la mer sous la pluie", mbid = "3f1a9964-083c-4cb3-b78e-52c4206d8933" },
+]
+
+[[release]]
+mbid = "0787dba4-fce1-4cbc-a032-0c620bab41d1"
+title = "Reflets du monde lointain"
+type = "album"
+date = "2023-03-03"
+spotify = "0uXqMLgnWf7LogP0F1cfUn"
+tracks = [
+  { n = 1, title = "Le dénouement", mbid = "89d96983-bb0b-458c-be7d-f05008761044" },
+  { n = 2, title = "Les vagues et les regrets", mbid = "aabd3767-71d3-4d01-8ec6-aa3412ee9891" },
+  { n = 3, title = "La fadeur et l'intensité", mbid = "5c04e084-ad05-4cd1-a19c-67b0db559897" },
+  { n = 4, title = "Les yeux dans soleil", mbid = "e75900f6-801f-410c-9aa4-0a7d8a77d303" },
+  { n = 5, title = "Chaque enfant dans son monde", mbid = "c29b4b07-cbe3-421b-9193-60e497c8620e" },
+  { n = 6, title = "Le retournement", mbid = "9b228891-e861-40b6-8781-d2b7994b8d7d" },
+  { n = 7, title = "La plaine", mbid = "81f8653c-bbbd-4a38-a2b3-cb8ee8994ada" },
+  { n = 8, title = "Maison d'ambre", mbid = "453483bf-1b69-4106-a62a-0091587e453f" },
+]
+
+[[release]]
+mbid = "da8a4f91-7167-4d4f-8c45-83cc1020fd62"
+title = "Tes désirs font désordre"
+type = "single"
+date = "2024-03-15"
+spotify = "2dFK5kOHSqi68cN8vJ4hqx"
+tracks = [
+  { n = 1, title = "Tes désirs font désordre", mbid = "8d4395b1-25a1-45d7-bf09-1287f25638e1" },
+]
+
+[[release]]
+mbid = "0ac8a9c3-9dbf-4b76-8ee3-19cf25fa0161"
+title = "Le temps qui passe sans moi"
+type = "single"
+date = "2024-06-26"
+spotify = "4tlu9XTFmBkk10T2ZoLa1E"
+tracks = [
+  { n = 1, title = "Le temps qui passe sans moi", mbid = "66b2c94d-943d-4c56-b7c0-b5717df9b16f" },
+  { n = 2, title = "Chanson de la ville silencieuse", mbid = "80109e35-f1db-4002-949f-4bd7d87fec06" },
+]
+
+[[release]]
+mbid = "82ae818e-9a52-4907-8059-9935fd97f6af"
+title = "Quelques lumières"
+type = "album"
+date = "2024-10-18"
+tracks = [
+  { disc = 1, n = 1, title = "LʼÉcho", mbid = "7508e220-b8d5-49df-802c-22fa38c7fde9" },
+  { disc = 1, n = 2, title = "La Mémoire neuve", mbid = "eaae30bf-73fc-46ef-9fa1-2ff7ab4cfdda" },
+  { disc = 1, n = 3, title = "Vers le bleu", mbid = "52351bd5-ae35-4925-a45d-e43b86390c0e" },
+  { disc = 1, n = 4, title = "Le Temps qui passe sans moi", mbid = "d4171e2d-bb90-4cb5-9a1c-244fce04c11c" },
+  { disc = 1, n = 5, title = "Le Commerce de lʼeau", mbid = "124acf89-cdea-4371-bfab-9c3f1173f68a" },
+  { disc = 1, n = 6, title = "Éléor", mbid = "086df5e8-1b5a-46e6-bf5a-73c66044aa55" },
+  { disc = 1, n = 7, title = "Le Ruban", mbid = "3b9f9278-0365-4aca-9030-70bae28978d4" },
+  { disc = 1, n = 8, title = "Le Twenty-Two Bar", mbid = "435c7868-3c28-4842-a651-1210a18ddc20" },
+  { disc = 1, n = 9, title = "Au revoir mon amour", mbid = "578d5966-39e2-41bf-8033-5ec7e5ebff14" },
+  { disc = 1, n = 10, title = "Rue des Marais", mbid = "ac1b73a5-9d32-4136-adc1-361ae5a12e88" },
+  { disc = 1, n = 11, title = "Immortels", mbid = "86129a76-8b89-427a-a2c7-c04fb358d5cf" },
+  { disc = 1, n = 12, title = "Corps de ferme à lʼabandon", mbid = "eb471a7e-0960-41ac-900d-c04703d6a37c" },
+  { disc = 1, n = 13, title = "Le Courage des oiseaux", mbid = "1df22c4a-7fdd-4bb8-872e-49b13d083a35" },
+  { disc = 1, n = 14, title = "Comme lʼencre", mbid = "80d7f861-d0d4-46b5-9f09-4c8184117d86" },
+  { disc = 2, n = 1, title = "Ce geste absent", mbid = "8b9aa1c6-38a4-4161-babf-da305d74f577" },
+  { disc = 2, n = 2, title = "LʼOcéan", mbid = "bb08d071-b21d-4379-a017-3abddbfc13c5" },
+  { disc = 2, n = 3, title = "Chanson de la ville silencieuse", mbid = "e6baac08-429b-435a-9a16-777a9bd35667" },
+  { disc = 2, n = 4, title = "Chemise à fleurs", mbid = "e8550c4f-2dd6-4269-a97a-0404184d1761" },
+  { disc = 2, n = 5, title = "Les Éveillés", mbid = "bbc8948b-1aa2-45c5-b5b3-e715889ac070" },
+  { disc = 2, n = 6, title = "Elle parle à des gens qui ne sont pas là", mbid = "5bd9fc42-0e1e-471d-bd70-942d40420265" },
+  { disc = 2, n = 7, title = "Valparaiso", mbid = "0664c56b-3cc5-48a9-a6bf-c93e19900f87" },
+  { disc = 2, n = 8, title = "Rendez-nous la lumière", mbid = "6472d82f-009f-47d8-a0e8-111742db688a" },
+  { disc = 2, n = 9, title = "Les Animaux", mbid = "b00090cb-810b-4073-aee8-bf62cd2f670b" },
+  { disc = 2, n = 10, title = "Music-hall", mbid = "46ee2ab9-5fed-4cdd-883e-ae424ef11e01" },
+  { disc = 2, n = 11, title = "Le Sens", mbid = "d31b34a2-1dfb-4c48-848b-c2d400095d34" },
+  { disc = 2, n = 12, title = "LʼHumanité", mbid = "fec19738-8b10-4a5f-9a50-06218e8fffd7" },
+  { disc = 2, n = 13, title = "Tout sera comme avant", mbid = "4852613a-d99a-4fd5-bd04-6ff607a78cf5" },
+  { disc = 2, n = 14, title = "Quelques lumières", mbid = "f30a5af6-d18f-4a73-940c-9b7095877536" },
+]
+
+[[release]]
+mbid = "c871e700-dfbe-466a-8f37-d26d48a64d39"
+title = "Un jour j'ai disparu"
+type = "single"
+date = "2026-05-27"
+spotify = "1jB1xIJOREMqemt8MC7x4C"
+tracks = [
+  { n = 1, title = "Un jour j'ai disparu", mbid = "d91f8ec3-677e-49d6-bb03-3528109250e7" },
+  { n = 2, title = "Bromure", mbid = "1d0c290c-7b4e-483b-8ba0-c362924b0536" },
+  { n = 3, title = "Un jour j'ai disparu (Radio Edit)", mbid = "328faa62-6feb-49c1-9771-cea78c3193b8" },
+]
+
+[[release]]
+mbid = "7afe6858-7e53-4158-b523-b3cd768661f7"
+title = "La terre à personne"
+type = "single"
+date = "2026-07-01"
+tracks = [
+  { n = 1, title = "La terre à personne", mbid = "bdb520bd-0ffe-498b-9dde-45e56e807b97" },
+]
+
+[[release]]
+mbid = "defc09b6-2411-4164-8c48-f22eef2a470b"
+title = "Spirales"
+type = "album"
+date = "2026-10-09"
+tracks = [
+  { n = 1, title = "La roue du Jardin Garnier", mbid = "fe791c53-3a0a-4809-9699-d3338b82d1f6" },
+  { n = 2, title = "Un jour j'ai disparu", mbid = "38a60327-adbe-41de-8371-241eeec458b9" },
+  { n = 3, title = "Bromure", mbid = "8a890c28-4ac1-43b6-a0e5-3f222ba51ff5" },
+  { n = 4, title = "Mark", mbid = "938eeb61-1e20-43b9-b607-ff68c487c6f8" },
+  { n = 5, title = "La rue des Flandres", mbid = "172d325f-ce17-4579-83fd-a9d4879f8440" },
+  { n = 6, title = "Picasso y los Simios", mbid = "53920da5-20e7-4e59-b77d-45e25869cec9" },
+  { n = 7, title = "Apparaître sur le quai", mbid = "749d7663-cdb2-4087-b879-ed15c035f056" },
+  { n = 8, title = "La terre à personne", mbid = "571dd66b-a171-475c-8ebc-afa1754d16a4" },
+  { n = 9, title = "Longueville", mbid = "c2dd15a5-6635-4e95-8e95-cf23433207c5" },
+  { n = 10, title = "Coltan", mbid = "9d6f631b-1ec2-4592-80a1-5380bd2eb781" },
+  { n = 11, title = "Shining à 12 ans", mbid = "e94edeab-74bc-4a7a-bed7-42471367a5d8" },
+  { n = 12, title = "La brique orange", mbid = "6caab6fd-bc5a-42fc-b6e4-d9adb9507ddc" },
+  { n = 13, title = "39 rue Sainte-Croix", mbid = "202aff54-9676-4791-a82f-814765bb514e" },
+  { n = 14, title = "Évanoui", mbid = "251b2635-0668-47d9-9807-5853012bcda2" },
+  { n = 15, title = "Le silence des autres", mbid = "604c22df-bbac-444e-92c9-8b9bf39e5086" },
+  { n = 16, title = "La clair obscurité", mbid = "7c76c09d-3464-4a71-9f2f-e5cce9841b7b" },
+]

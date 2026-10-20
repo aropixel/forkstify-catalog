@@ -1,0 +1,654 @@
+format = 1
+artists = [
+  "d2e123d0-c53e-4444-a52a-efeff44953c7",  # DJ Cam
+  "68b28a39-0966-42b8-b9e9-af6115c9fd77",  # DJ Cam Quartet
+]
+
+[[release]]
+mbid = "8ea1e4e8-5fef-3fe9-89e2-a126fb3651e6"
+title = "Underground Vibes"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "Abstract Intro", mbid = "5d77b89a-a382-4f0e-a1ff-972d3aadf0b8" },
+  { n = 2, title = "Gangsta Shit", mbid = "2e46cb4b-e04d-48f0-80ea-f6731b48e966" },
+  { n = 3, title = "Mad Blunted Jazz", mbid = "ef6f0f6c-00c0-43eb-95bb-33e5cb7cab6a" },
+  { n = 4, title = "Suckers Never Play That", mbid = "c8b62ce5-003b-4a12-afa2-a5346df6f1a3" },
+  { n = 5, title = "Sang Lien", mbid = "3aa7c5b7-3a6d-4345-b634-5e617b3546e3" },
+  { n = 6, title = "Underground Vibes", mbid = "d9fc0c1b-786d-46db-97cd-d3266f245bfe" },
+  { n = 7, title = "Romantic Love", mbid = "0a11cced-758a-4dff-849c-b62c3a52ffd1" },
+  { n = 8, title = "The Return of the Jedi", mbid = "1ffb1099-8170-44ee-a961-3856db477415" },
+  { n = 9, title = "Other Aspect", mbid = "ae7d44bc-cf07-4f7c-985a-e51f5a32d088" },
+  { n = 10, title = "Dieu reconnaîtra les siens", mbid = "7bf44c8f-8952-4f00-8171-5d3c89c21876" },
+  { n = 11, title = "Free Your Turntable and Your Scratch Will Follow", mbid = "e0efdd27-6136-444c-9097-9a1fd2a657ca" },
+  { n = 12, title = "Pure Pleasure", mbid = "5ebcf9fd-3109-4928-9a71-af1897b3db9d" },
+]
+
+[[release]]
+mbid = "625933aa-aa71-3e3b-86f2-944fcc5a716c"
+title = "Substances"
+type = "album"
+date = "1996"
+spotify = "2uJ9NuUAE7rHpSD0JP4HrE"
+tracks = [
+  { n = 1, title = "Intro", mbid = "bbd1fe45-4f9b-40c3-b518-a6caa1218d38" },
+  { n = 2, title = "Friends and Enemies", mbid = "01424060-d34a-4ee9-a411-12dfe4d93db9" },
+  { n = 3, title = "Essence, Part One", mbid = "7a6b2b9a-1914-442a-82d0-3f55cd78a431" },
+  { n = 4, title = "Meera", mbid = "fb5f2876-c282-48d6-8e5e-d3182c6f18f3" },
+  { n = 5, title = "Essence, Part Two", mbid = "c0686a3c-03c8-42e8-bbf6-1637adc11482" },
+  { n = 6, title = "Sound System Children", mbid = "78eaf2a2-32a7-478a-8dd1-c8bc6f8ff46a" },
+  { n = 7, title = "Alexandra's Interlude", mbid = "971d6156-762d-4a89-9709-5e2cdc5e5f75" },
+  { n = 8, title = "Innervisions", mbid = "6775f789-3621-4ac9-ae82-1d2e43832f8e" },
+  { n = 9, title = "Essence, Part Three", mbid = "b40e3f71-42c9-4b84-8a4f-18fd000840b4" },
+  { n = 10, title = "Hip Hop Pioneers", mbid = "85072ed9-e815-4bec-9abe-6e363d1a7456" },
+  { n = 11, title = "Essence, Part Four", mbid = "f510b92b-655c-4abc-afb5-41042e9a9b6b" },
+  { n = 12, title = "Lost Kingdom", mbid = "1af67d96-4d23-4417-b092-dda6f1711065" },
+  { n = 13, title = "Essence, Part Five", mbid = "d10fef0b-6063-4399-8c5f-d885e3b2430f" },
+  { n = 14, title = "Angel Dust", mbid = "362cd38b-2d54-44b0-96fe-a9f3ab0c927f" },
+  { n = 15, title = "Essence, Part Six", mbid = "8dad36dd-c374-4b12-8ffa-407bf98027fc" },
+  { n = 16, title = "Twilight Zone", mbid = "78cc7969-77d2-475b-84ad-ddb7a4786433" },
+  { n = 17, title = "Outro", mbid = "04b70bcc-1938-46b2-8e27-9b5d687b72b1" },
+]
+
+[[release]]
+mbid = "44b3e321-7b01-33a9-98f8-6379f01263a1"
+title = "Abstract Manifesto"
+type = "album"
+date = "1996-11-20"
+tracks = [
+  { n = 1, title = "Maiden Voyage", mbid = "d05dc208-af08-4832-ae3f-a76c55a2266c" },
+  { n = 2, title = "Hip Hop Opera", mbid = "a7dcf11f-9aab-4d51-99c6-eb92bfb306ac" },
+  { n = 3, title = "Underground Vibes (No Short remix)", mbid = "1f2bf85c-fc78-49f3-9f97-501eac7ba213" },
+  { n = 4, title = "Life", mbid = "b5e02b46-6ade-45c0-962c-4e15ccc2dece" },
+  { n = 5, title = "Freestylelifeshit", mbid = "107d2fda-f37d-44fd-a48c-f77ef6db5626" },
+  { n = 6, title = "No Competition", mbid = "edbefcd2-3fc9-46a3-a823-b32ae448ebb7" },
+  { n = 7, title = "Summersmashit", mbid = "928de66a-7229-48ab-96f3-748850e38b5e" },
+  { n = 8, title = "Yes Yes Yo", mbid = "6af58c88-f288-4bcb-b181-a2c8d4cff396" },
+  { n = 9, title = "Un été à Paris", mbid = "a4a60b6d-6c31-4acd-b4f1-d9c6deb31ef1" },
+  { n = 10, title = "Turntable Shit (Special Track for Japanese Hip Hop Tribe)", mbid = "465063fa-4eba-4f4e-a310-6105d118eb5a" },
+  { n = 11, title = "The Return of the Jedi (Extra Lucid remix)", mbid = "5564f7f3-4a53-45ae-bfe5-33daa3ac1454" },
+  { n = 12, title = "Deep in a Mind of a Slave", mbid = "c9422640-5b39-4660-b929-b6a97e41fce1" },
+]
+
+[[release]]
+mbid = "d308401e-7634-3647-98f9-74afc5264037"
+title = "Mad Blunted Jazz"
+type = "album"
+date = "1996-12-12"
+tracks = [
+  { disc = 1, n = 1, title = "Abstract Intro", mbid = "5d77b89a-a382-4f0e-a1ff-972d3aadf0b8" },
+  { disc = 1, n = 2, title = "Gangsta Shit", mbid = "2e46cb4b-e04d-48f0-80ea-f6731b48e966" },
+  { disc = 1, n = 3, title = "Mad Blunted Jazz", mbid = "ef6f0f6c-00c0-43eb-95bb-33e5cb7cab6a" },
+  { disc = 1, n = 4, title = "Suckers Never Play That", mbid = "c8b62ce5-003b-4a12-afa2-a5346df6f1a3" },
+  { disc = 1, n = 5, title = "Sang-Lien", mbid = "3aa7c5b7-3a6d-4345-b634-5e617b3546e3" },
+  { disc = 1, n = 6, title = "Underground Vibes", mbid = "d9fc0c1b-786d-46db-97cd-d3266f245bfe" },
+  { disc = 1, n = 7, title = "Romantic Love", mbid = "0a11cced-758a-4dff-849c-b62c3a52ffd1" },
+  { disc = 1, n = 8, title = "The Return of the Jedi", mbid = "1ffb1099-8170-44ee-a961-3856db477415" },
+  { disc = 1, n = 9, title = "Other Aspects", mbid = "ae7d44bc-cf07-4f7c-985a-e51f5a32d088" },
+  { disc = 1, n = 10, title = "Dieu reconnaîtra les siens", mbid = "7bf44c8f-8952-4f00-8171-5d3c89c21876" },
+  { disc = 1, n = 11, title = "Free Your Turntable and Your Scratch Will Follow", mbid = "e0efdd27-6136-444c-9097-9a1fd2a657ca" },
+  { disc = 1, n = 12, title = "Pure Pleasure", mbid = "5ebcf9fd-3109-4928-9a71-af1897b3db9d" },
+  { disc = 2, n = 1, title = "Experience", mbid = "3b00c513-4310-4631-bbe8-48558f8c1fbb" },
+  { disc = 2, n = 2, title = "Hip Hop Opera", mbid = "865810e1-d1d4-44df-937e-10b3186eeb67" },
+  { disc = 2, n = 3, title = "Underground Vibes", mbid = "d118d9a6-82bf-499a-9b7a-1d84e6aafc52" },
+  { disc = 2, n = 4, title = "Meera", mbid = "e9c6c400-6bd3-4a79-a140-6623a49e195a" },
+  { disc = 2, n = 5, title = "Dieu reconnaîtra les siens", mbid = "0c0f4185-1050-422e-9511-52d63eba0c20" },
+  { disc = 2, n = 6, title = "Mad Blunted Jazz", mbid = "f49ae259-bf41-4423-afdb-684e74eef695" },
+  { disc = 2, n = 7, title = "Lost Kingdom", mbid = "d26dcee6-f07b-4de5-b54f-5a91d0bfba09" },
+  { disc = 2, n = 8, title = "Gangsta Shit", mbid = "17baf4d6-3b8d-4b20-a2ff-c058469137bd" },
+  { disc = 2, n = 9, title = "London 1995", mbid = "528d7d0d-2f6e-4b23-b6d9-1f5e12d8be6a" },
+]
+
+[[release]]
+mbid = "7cd319ae-fb37-31d7-896b-e79cdfc5f861"
+title = "Jack in the Box / Rolling"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Jack in the Box", mbid = "57e638bf-f84e-463d-ad24-e65a655c7f66" },
+  { n = 2, title = "Jack in the Box (DJ Cam remix)", mbid = "703fa9dc-0bf7-4e43-bea4-3cedb6d22a09" },
+  { n = 3, title = "Rolling (DJ Cam remix)", mbid = "d282295a-0170-425a-a45a-def8ee2f12e8" },
+  { n = 4, title = "Jack in the Box (DJ Cam remix instrumental)", mbid = "33e603e0-73ed-4b54-9f7d-faeada6f3d93" },
+  { n = 5, title = "Rolling (DJ Cam remix instrumental)", mbid = "f7722114-f077-40fa-965a-ae627c3342e6" },
+]
+
+[[release]]
+mbid = "69104bdb-13a6-4715-b87f-cfb05a9e5afa"
+title = "No. 1"
+type = "ep"
+date = "1997"
+tracks = [
+  { disc = 1, n = 1, title = "Return of the Jedi (Luh mix)", mbid = "3ec79a3e-c97d-4b37-b930-ac7999f0ea71" },
+  { disc = 1, n = 2, title = "Underground Vibes (Double Bounce mix)", mbid = "942ee67f-e0cf-4830-8ebe-acf28ed3279e" },
+  { disc = 1, n = 3, title = "Suckers Never Play That", mbid = "0a7ed05c-c48c-4a8a-aa4b-c71fc73c26a6" },
+  { disc = 2, n = 1, title = "Dieu reconnaitra les siens", mbid = "7bf44c8f-8952-4f00-8171-5d3c89c21876" },
+  { disc = 2, n = 2, title = "Return of the Jedi", mbid = "1ffb1099-8170-44ee-a961-3856db477415" },
+  { disc = 2, n = 3, title = "Experience", mbid = "3b00c513-4310-4631-bbe8-48558f8c1fbb" },
+]
+
+[[release]]
+mbid = "bf4f783a-b214-421f-9d5f-34b2b4a908c7"
+title = "Innervisions: Remix Collection"
+type = "single"
+date = "1997-07-14"
+tracks = [
+  { n = 1, title = "Innervisions (album version)", mbid = "b1483a1d-3774-4bf8-9143-2f8a84d986ac" },
+  { n = 2, title = "Innervisions (Mighty Bop remix)", mbid = "1fbf174b-8e4d-4a91-96ee-26f9cfc0c443" },
+  { n = 3, title = "Innervisions (DJ Vadim remix)", mbid = "ac9ae8e8-761a-419c-b086-8a2a35edc608" },
+  { n = 4, title = "Innervisions (DJ Vadim remix instrumental)", mbid = "1fe71776-3b61-4ab1-92ef-55da37af32a5" },
+  { n = 5, title = "Innervisions (Flytronix remix)", mbid = "e67d31b0-c74d-4ac4-b9d4-de445a430a71" },
+  { n = 6, title = "Innervisions (DJ Die remix)", mbid = "2fc761d6-41be-4419-a480-5615e0f75ddd" },
+]
+
+[[release]]
+mbid = "d2d6835b-f0a1-4a3f-8294-507c10a5c704"
+title = "Broadcasting Live"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Broadcasting Live (Lord Finesse Remix Vocal)", mbid = "37dcae12-b411-43cc-bf3d-9aeb096519ae" },
+  { n = 2, title = "Broadcasting Live (Inflamable B Boy Remix Vocal)", mbid = "a3388879-f656-40c4-89ed-729e4381c703" },
+  { n = 3, title = "Broadcasting Live (Album Version)", mbid = "1fc2ef6d-de5b-4f3d-aae4-fa9ef8cad5be" },
+  { n = 4, title = "L'Invasion (Album Version)", mbid = "1fc2ef6d-de5b-4f3d-aae4-fa9ef8cad5be" },
+  { n = 5, title = "Broadcasting Live (Homebru Remix)", mbid = "5345065d-62b8-4eef-bae4-52f3105ebc51" },
+]
+
+[[release]]
+mbid = "0f17ede9-55da-4d71-94d8-03ba4ca3b2a1"
+title = "Success"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Success (Kenny Dope mix)", mbid = "ac8a2c5c-8151-4ff9-be0e-b23f183e7573" },
+  { n = 2, title = "Success (Kenny Dope Sci-Fi mix)", mbid = "27e4d07f-7e2d-4773-87c9-746ef6b7a303" },
+  { n = 3, title = "Success (Attica Blues mix)", mbid = "faf0bffe-77d6-4911-bba2-f0f6fe9e8157" },
+  { n = 4, title = "Success (Attica Blues bonus beat)", mbid = "2cd7751d-253a-4a5d-a445-bf1f48463cba" },
+  { n = 5, title = "Success (Thievery Corporation mix)", mbid = "454f264d-0c4a-410a-9ed8-3c5c63b283b0" },
+]
+
+[[release]]
+mbid = "75d09750-45a2-3cd4-868e-64fec9c863e2"
+title = "The Beat Assassinated"
+type = "album"
+date = "1998-04-30"
+tracks = [
+  { n = 1, title = "I Love Hip Hop", mbid = "32e4bb81-b7b9-4c28-8500-507dbacc357f" },
+  { n = 2, title = "Broadcasting Live", mbid = "e48d6f4e-be04-4df1-8b5d-9fceabc24653" },
+  { n = 3, title = "Success", mbid = "9dcae2f3-f9d7-4562-8624-0e5930e89424" },
+  { n = 4, title = "Renegade", mbid = "4de5f5c7-9b70-409e-a73a-7a9498e9163c" },
+  { n = 5, title = "Inside in a Mind", mbid = "766efeb0-1f4c-493d-856c-38f11ff44dcb" },
+  { n = 6, title = "Danger Interlude", mbid = "92d0bee4-0962-4441-b54b-82b95809289f" },
+  { n = 7, title = "Raise Up", mbid = "bcf50267-e4a5-4b18-821b-c0a5d1ada687" },
+  { n = 8, title = "Hardcore Freestyle", mbid = "f9d870c6-e0a3-4fd5-8ca2-ba4825af1276" },
+  { n = 9, title = "Brooklyn 1 2", mbid = "9bd926bb-5e11-4598-95ad-5a8283ccc158" },
+  { n = 10, title = "Interlude", mbid = "c06ec1b7-24f5-4763-a26a-c8eda9ad59b8" },
+  { n = 11, title = "L'invasion", mbid = "79665e5f-5ffd-4541-b522-02658593f103" },
+  { n = 12, title = "Baron Samedi", mbid = "cbec9478-5e7e-4c43-ab68-5f0aab06c4c8" },
+  { n = 13, title = "Pressure", mbid = "9ed5a5b7-3be7-4dc7-b282-a77b3828bd80" },
+]
+
+[[release]]
+mbid = "f841fde9-ade0-46e8-90b6-b05c70386571"
+title = "Turf Wars, Volume 3"
+type = "ep"
+date = "2000"
+tracks = [
+  { n = 1, title = "The Blue Eyed Bandit", mbid = "1a105062-4f16-4e5e-9fa0-da312b1ac772" },
+  { n = 2, title = "Love Is the Message (Cam remix)", mbid = "6daa2569-0ade-41c6-a33c-20e5b989b143" },
+  { n = 3, title = "Love Is the Message", mbid = "dba85caf-67ea-4c4a-bef7-b37c720d5983" },
+  { n = 4, title = "The Blue Eyed Bandit (Hools remix)", mbid = "e0cafdd4-36aa-4c5d-bdb2-7c72df1a3031" },
+]
+
+[[release]]
+mbid = "1fc78b48-be55-3f1e-ac55-24f191514d69"
+title = "Loa Project, Volume 2"
+type = "album"
+date = "2000-05"
+tracks = [
+  { n = 1, title = "Millennium", mbid = "54b101e8-41fb-442f-b2c7-e809247727f5" },
+  { n = 2, title = "Juliet", mbid = "4b36c959-b8b0-45af-ad93-1cf9d24725e3" },
+  { n = 3, title = "Mental Invasion", mbid = "7122c78e-02e6-4a85-94a1-12564ef2143c" },
+  { n = 4, title = "Ganja Man", mbid = "adcfbc43-5ab8-4784-bb10-05ad6246cd1a" },
+  { n = 5, title = "Ghetto Love", mbid = "0757036f-e65d-4acf-aff5-233f462cf3e9" },
+  { n = 6, title = "Candyman", mbid = "975c7b6a-41b1-4d4e-890a-322db4095867" },
+  { n = 7, title = "Voodoo Jazz", mbid = "cf504b2b-685c-4d52-beb1-7ebb4fa6c6c1" },
+  { n = 8, title = "Cycle Interlude", mbid = "3728f712-4940-470e-846d-fc9537f10111" },
+  { n = 9, title = "DJ Cam Sound System", mbid = "c2bd9b42-606d-4bdc-83e9-1e48af6981c7" },
+  { n = 10, title = "Waiting for Franck Black", mbid = "d8a70c6e-5cce-4f12-a851-ebd2bdbfede3" },
+  { n = 11, title = "You Do Something to Me", mbid = "c9e8957f-c251-4338-bc47-b07e20fbe9c2" },
+  { n = 12, title = "Angel Heart", mbid = "f60958fb-5178-46d4-a514-119311355408" },
+]
+
+[[release]]
+mbid = "748585dd-5d42-3eb8-a439-ba82200770dc"
+title = "Soulshine"
+type = "album"
+date = "2001"
+tracks = [
+  { disc = 1, n = 1, title = "Welcome to Soulshine", mbid = "0e587069-708e-4865-af5a-dd4264227c22" },
+  { disc = 1, n = 2, title = "Love Junkee", mbid = "4926b1f5-3b85-4922-90f0-e022d7ed7d96" },
+  { disc = 1, n = 3, title = "Summer in Paris", mbid = "5f9d466c-a779-4cea-b7f9-9cc5200c4152" },
+  { disc = 1, n = 4, title = "The Show", mbid = "1ea61c69-6a9d-4957-96ac-0556e26fdded" },
+  { disc = 1, n = 5, title = "Condor (Espionage)", mbid = "d3c00a84-2d82-4456-ac9b-cc443998f107" },
+  { disc = 1, n = 6, title = "For Aaliyah", mbid = "5511d5ae-19d1-4b24-b113-0b8b8626a5b4" },
+  { disc = 1, n = 7, title = "Child's Play", mbid = "59b1e23b-fe5b-4d9f-aa11-b08c6ad6a10a" },
+  { disc = 1, n = 8, title = "Afu Ra (interlude)", mbid = "cd221306-b6ed-4446-a7d8-e0c34df4131f" },
+  { disc = 1, n = 9, title = "Voodoo Child (DJ Premier remix)", mbid = "76d82951-5de8-4a25-bd63-18f8e25f2cf2" },
+  { disc = 2, n = 1, title = "To Be Continued", mbid = "ec555c30-35b0-412e-bcb5-dc994ef9789b" },
+  { disc = 2, n = 2, title = "Bounce", mbid = "5fe8e0e9-901b-4f3a-82d3-fdca42975985" },
+  { disc = 2, n = 3, title = "Soulshine", mbid = "45d18ef1-6bf4-4924-afa1-ab74144420bf" },
+  { disc = 2, n = 4, title = "3/4 (interlude)", mbid = "fa0d48f8-5784-48bd-9a12-93166328166e" },
+  { disc = 2, n = 5, title = "He's Gone", mbid = "a6058832-86f6-4e3f-95d0-935362121f6b" },
+  { disc = 2, n = 6, title = "Elevation", mbid = "9c107796-b20d-4eb6-b16e-5ba35d243fac" },
+]
+
+[[release]]
+mbid = "4a4b06ae-6cc0-40ce-8c32-a7d29181fdf4"
+title = "Summer in Paris"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Summer in Paris", mbid = "5f9d466c-a779-4cea-b7f9-9cc5200c4152" },
+  { n = 2, title = "Summer in Paris (radio edit)", mbid = "cdbd9ac5-1783-4cb8-bcf8-311d73a20a80" },
+  { n = 3, title = "Summer in Paris (instrumental)", mbid = "d0bcfdd9-6bd6-4fb1-9924-701f85e0a9d1" },
+]
+
+[[release]]
+mbid = "e521413d-a351-4db3-af61-083b8b8b9193"
+title = "I’m a Rasta"
+type = "ep"
+date = "2003"
+tracks = [
+  { n = 1, title = "I’m a Rasta (club mix)", mbid = "d3bd1632-e4a0-4688-b12c-5dde6c0e76c3" },
+  { n = 2, title = "I’m a Rasta (bonus beat)", mbid = "7dacf5a2-fdc5-4d55-baff-9bb63139feef" },
+  { n = 3, title = "I’m a Rasta (dub mix)", mbid = "f8000fbe-b128-4469-99da-2544a0423456" },
+  { n = 4, title = "I’m a Rasta (original MPC mix)", mbid = "8adeb026-680e-4167-9cec-75dde96f92cd" },
+]
+
+[[release]]
+mbid = "2ad6a965-fe38-36e2-8248-a61f71c1aa02"
+title = "Liquid Hip Hop"
+type = "album"
+date = "2003"
+tracks = [
+  { n = 1, title = "The Sound of the Street", mbid = "453b41fc-e941-4b06-b322-8f5d87440a93" },
+  { n = 2, title = "6 Sense", mbid = "0b201a08-6eb1-4053-b5e9-db7642c9b3e1" },
+  { n = 3, title = "Premier", mbid = "ff54796a-9023-4df3-a862-1f77664e451c" },
+  { n = 4, title = "Ghetto Supastar", mbid = "f2a7c27a-63fa-453a-84d9-f3eaf121a83b" },
+  { n = 5, title = "The L", mbid = "91c6bb77-9c02-4c0f-ae18-5ff373a3a988" },
+  { n = 6, title = "Espionage", mbid = "05074a09-75e4-4a73-8b14-c4acb83f2c05" },
+  { n = 7, title = "Don Dada", mbid = "39fb2e67-c910-4cdd-a5d5-4f0b2c87a47c" },
+  { n = 8, title = "Kalimba Groove", mbid = "28079db9-83b2-4225-9365-f4ccf1a9b1ab" },
+  { n = 9, title = "Liquid Hip Hop", mbid = "9b724c51-8910-4b6d-92f5-5f670b025b47" },
+  { n = 10, title = "Love Junkee", mbid = "ddf67abe-d5a5-40e0-9580-8d8ed25ccaae" },
+  { n = 11, title = "Comewithastring", mbid = "5c480e9c-8da4-4516-8c03-58fe9c4c5830" },
+  { n = 12, title = "Espionage (Cutee B remix)", mbid = "e94b37c6-f98e-47d9-95f6-9d6cd0bbdaa0" },
+]
+
+[[release]]
+mbid = "1b1f8420-30a7-4e38-9f02-11d6ed3f2893"
+title = "Espionage"
+type = "ep"
+date = "2004"
+spotify = "0sUIMJMqbpS8Zp2kzNrxHb"
+tracks = [
+  { n = 1, title = "Espionage (Dynamic Duo vocal remix)", mbid = "da94d62e-6b06-47c3-bfbf-69344e1400ec" },
+  { n = 2, title = "Espionage (Dynamic Duo instrumental remix)", mbid = "b10eb88a-8a2e-49ab-9773-472875aa2d07" },
+  { n = 3, title = "Espionage (original vocal LP mix)", mbid = "63fc0361-2b9d-42cc-828e-c26535535387" },
+  { n = 4, title = "Espionage (Cutee B vocal remix)", mbid = "a902aed1-746b-4d50-998a-6b75c9458180" },
+  { n = 5, title = "Espionage (Cutee B instrumental remix)", mbid = "5399993f-52a3-414b-adc9-4d7ca2b4c68c" },
+  { n = 6, title = "Espionage (original instrumental LP mix)", mbid = "0b202bff-36a5-42b7-9bfe-1ec70d2c8ccc" },
+]
+
+[[release]]
+mbid = "940634fe-0bf9-4b7c-b428-a08e4ad6fba6"
+title = "Eklektik 2sides Volume 2"
+type = "ep"
+date = "2008"
+spotify = "5dKNCao3M7bmOvNoBRZxbe"
+tracks = [
+  { n = 1, title = "Skipping", mbid = "ceb24ec6-aa72-4148-bfbe-56b244a75140" },
+  { n = 2, title = "What the Fuck", mbid = "b5184b68-e499-459a-b769-6df8d670e523" },
+  { n = 3, title = "What the Fuck (DJ CAM remix)", mbid = "ab33e44d-a73d-455f-baa8-76bd7caf9313" },
+  { n = 4, title = "What the Fuck (DJ CAM remix instrumental)", mbid = "ade2bfeb-3ff7-4179-8e06-bdba14948f6f" },
+]
+
+[[release]]
+mbid = "8171b343-7177-35d4-a07b-581711e2e35b"
+title = "Lost & Found"
+type = "album"
+date = "2008-03-31"
+tracks = [
+  { n = 1, title = "Show Your Love", mbid = "6abc276a-03c4-4d7c-a0e0-f2646ad4658a" },
+  { n = 2, title = "So What, Part 2", mbid = "1a9ee332-5d50-4ce2-a1ea-a7bdb899e3c4" },
+  { n = 3, title = "China Girl", mbid = "e1483613-c9e9-43af-8403-db664c08c98e" },
+  { n = 4, title = "Lost and Found", mbid = "629b3dbe-2502-4224-b2fa-3df253f874be" },
+  { n = 5, title = "Summermadness", mbid = "c8717601-cf23-40fe-8175-91c47735b89b" },
+  { n = 6, title = "A Supreme Love", mbid = "93014465-5e4c-4647-a7c7-d6121c8668ec" },
+  { n = 7, title = "The Nautilus", mbid = "9a9db277-290e-453e-bfb9-32560a95fd8a" },
+  { n = 8, title = "La 4eme Dimension", mbid = "8ab62747-ffa9-4fa3-b6bc-eab2418e2128" },
+  { n = 9, title = "Los Angeles", mbid = "931b2257-e84b-4786-bdb1-f10af95f7f34" },
+]
+
+[[release]]
+mbid = "54cf8a0a-e50e-45bd-9c0f-ffcc1d7aefde"
+title = "Rebirth of Cool"
+type = "album"
+date = "2008-10-08"
+tracks = [
+  { n = 1, title = "Rebirth of Cool", mbid = "652d3fb7-0b38-48de-8526-ad2df3854f45" },
+  { n = 2, title = "So Sweet", mbid = "a3663174-6365-41e3-8e05-1feed198544b" },
+  { n = 3, title = "New York New York", mbid = "7ef2264b-3d64-405e-9b12-7a7e10ecbd33" },
+  { n = 4, title = "It's Yours", mbid = "f5b72275-2953-4b91-b0f3-9be3cbc192ea" },
+  { n = 5, title = "Raise Up", mbid = "ab83edb9-f393-4e1d-9e2d-cf5f7832d6e3" },
+  { n = 6, title = "St Germain", mbid = "7a8c5147-67a0-493c-9072-33dc9bff418b" },
+  { n = 7, title = "Visions", mbid = "cc694360-1efc-4d2e-939a-33b29c922869" },
+  { n = 8, title = "Tribute to J Dilla", mbid = "61ba39b1-bed0-4c09-8520-8f1a308f4c39" },
+  { n = 9, title = "Hold Tight", mbid = "23d066cd-94bf-430f-984a-6b42121d1373" },
+  { n = 10, title = "Back in the Dayz", mbid = "96e52a9c-fedb-4e4a-aa0d-e53d410beb6c" },
+  { n = 11, title = "So What Part 2", mbid = "b0f97821-15ea-422c-88bf-ca470f20ba9d" },
+  { n = 12, title = "A Supreme Love", mbid = "a142bd15-630b-4442-acf5-0e0cba9230a1" },
+  { n = 13, title = "Herbie", mbid = "42a4014c-d4f6-4555-8c79-7f87d4f46207" },
+]
+
+[[release]]
+mbid = "b4efef3c-fa34-4edf-9407-0b87087ef809"
+title = "Stay"
+type = "album"
+date = "2009"
+tracks = [
+  { n = 1, title = "Sweetest Pain", mbid = "71091403-07dd-4535-9b35-c1ceedd132e4" },
+  { n = 2, title = "Stay", mbid = "544d4b12-66f9-4f43-a724-7c1751a49535" },
+  { n = 3, title = "Funny (For Janet)", mbid = "6515964d-1a7f-4085-861e-e1e817dacc02" },
+  { n = 4, title = "Midnight Sun", mbid = "f5f67785-5a7b-41f9-9a66-dde75b610b4b" },
+  { n = 5, title = "Do for Love", mbid = "4d08017d-a58f-4871-a52c-131d78cc6314" },
+  { n = 6, title = "Look of Love", mbid = "857c8e3d-09d0-4e63-96ef-e3f5ee64f46f" },
+  { n = 7, title = "Magic Wand", mbid = "4cdd5df9-6115-406b-90e6-760516bbcc4d" },
+  { n = 8, title = "Come Running to Me", mbid = "c899285c-6389-452f-804b-7917624b3013" },
+]
+
+[[release]]
+mbid = "93118ba1-9bc7-430a-a536-b56faf59c991"
+title = "Diggin'"
+type = "album"
+date = "2009-09-02"
+spotify = "7hfyWIdOtwpWQdML3L6SGS"
+tracks = [
+  { n = 1, title = "Nebulosa", mbid = "d5abad78-43df-4474-b972-467145b0c67a" },
+  { n = 2, title = "Montara", mbid = "c968dca0-36f8-460b-8e65-bda65250d215" },
+  { n = 3, title = "Everybody Loves the Sunshine", mbid = "1a0afd7f-7ecb-4691-b34c-f880bc203491" },
+  { n = 4, title = "Boss Guitar", mbid = "a2aefb31-8c55-40e6-b3f1-3dfa811ec5ca" },
+  { n = 5, title = "Think Twice", mbid = "b17200b5-a705-4eb9-8f18-3f1c0b0b7b94" },
+  { n = 6, title = "Little Sunflower (A Tribute to Freddie)", mbid = "5153a483-2596-4f45-a431-57217371be4c" },
+  { n = 7, title = "Quincy", mbid = "ba7e19dd-6ac0-4887-9c75-f76e19657b5a" },
+  { n = 8, title = "Mystic View", mbid = "fd425814-d1a5-4cfd-a348-d862012c3e99" },
+  { n = 9, title = "Climax", mbid = "ebeb175e-c331-49b1-9468-7eb68c78e314" },
+  { n = 10, title = "You’ve Got to Have Freedom", mbid = "7bf5e23d-5623-47d5-86e8-62325d90e3c3" },
+  { n = 11, title = "Inside My Love (For Minnie)", mbid = "5177b098-4911-4c04-9ed3-2ef515f7f777" },
+]
+
+[[release]]
+mbid = "04f40105-ac6f-4ad7-b527-d827308e0773"
+title = "Love"
+type = "single"
+date = "2010-01"
+tracks = [
+  { n = 1, title = "Love", mbid = "8505c0cc-48f7-464f-925c-f8fa92c7219d" },
+  { n = 2, title = "Love (instrumental)", mbid = "253bebef-ac2d-4120-ad09-3bd84ede2e4d" },
+  { n = 3, title = "Seven (album version)", mbid = "714d3026-34da-4ae5-be9a-d937b7d829e4" },
+]
+
+[[release]]
+mbid = "6b66c2fa-c8f6-4309-9e2b-bc2d3d9e20cc"
+title = "Seven"
+type = "album"
+date = "2011-10-24"
+spotify = "0c22YZ3FpXqvxOSvaxzlfw"
+tracks = [
+  { n = 1, title = "California Dreamin", mbid = "94a5c2ab-805e-4b3b-806d-0d99074c4a13" },
+  { n = 2, title = "Swim", mbid = "a8410fbc-048a-4047-b843-2b11073bcbc0" },
+  { n = 3, title = "Dreamcatcher", mbid = "61be13ce-a259-4020-9513-da77cf9131e7" },
+  { n = 4, title = "Love", mbid = "8505c0cc-48f7-464f-925c-f8fa92c7219d" },
+  { n = 5, title = "Seven", mbid = "03217e91-7278-4f40-b1da-a2b0d9013e76" },
+  { n = 6, title = "1988", mbid = "ddbd07d6-b0a5-430d-bbec-9a5cc17fc644" },
+  { n = 7, title = "Ghost", mbid = "eb0576b9-404f-4d0b-a136-837af0b3295e" },
+  { n = 8, title = "Fontainbleau", mbid = "d61d27de-676e-4e59-878c-f24504aa1ab5" },
+  { n = 9, title = "Uncomfortable", mbid = "46d055bd-674c-4df1-a05e-69306d0ef430" },
+  { n = 10, title = "A Loop", mbid = "97cc4f62-5397-4c1c-a4f5-c0de3dbd1837" },
+]
+
+[[release]]
+mbid = "21e66e20-4b0b-4d7b-909a-72cd82680f0b"
+title = "Westside 2004-2007"
+type = "album"
+date = "2014-01-13"
+spotify = "30nMub9iztHsE8tzvYjxXL"
+tracks = [
+  { n = 1, title = "Hot", mbid = "5318beec-0f53-434d-9ff3-562c266d2af7" },
+  { n = 2, title = "Streetlife", mbid = "e1f543cd-23b7-40ca-98b3-4740f8209e69" },
+  { n = 3, title = "808 Club", mbid = "16b68e32-1d59-480d-b663-4b8c06e10400" },
+  { n = 4, title = "Bumper", mbid = "5c580975-cdf6-4ba4-9ffb-e395e8f6c3ae" },
+  { n = 5, title = "Lowrider", mbid = "c35739a3-660a-40b3-b0ea-3cdc908fbb94" },
+  { n = 6, title = "Endless Love", mbid = "4fecb17f-23b2-418a-936e-21296124018b" },
+  { n = 7, title = "In da Club", mbid = "d4d731a6-9efc-4574-8c7a-46b9c39f95aa" },
+  { n = 8, title = "Sunset", mbid = "960ee911-c347-4084-9ed4-fb6b25743562" },
+  { n = 9, title = "FND", mbid = "cd56b186-2ac8-48d2-b5fe-04412241aa08" },
+  { n = 10, title = "Colorz", mbid = "7b7d65c9-d96b-483d-b732-bd1c5c0da704" },
+  { n = 11, title = "Training Day", mbid = "de7895d1-901a-451c-b803-3dd777248e4a" },
+  { n = 12, title = "Endless Summer", mbid = "6f07abfc-2c71-4b79-b73a-8f5462c6ef1d" },
+]
+
+[[release]]
+mbid = "629acd8d-1cec-4387-a212-16b79cd24a4d"
+title = "Miami Vice"
+type = "album"
+date = "2015-06-01"
+tracks = [
+  { n = 1, title = "Crockett's theme", mbid = "a7ebd8a2-2e73-47ca-abb5-71e3915a9c6c" },
+  { n = 2, title = "In the Air Tonight", mbid = "0718480e-e888-4c89-80c4-38eefa8f7853" },
+  { n = 3, title = "Music to Drive By", mbid = "db76e5d0-088e-4024-9458-97f87905be9a" },
+  { n = 4, title = "Move That Dope", mbid = "8cbe090f-5f8e-48d3-952d-18c2753ca52b" },
+  { n = 5, title = "Love Theme", mbid = "334b7bde-359d-450e-b96d-7f61ab6c4287" },
+  { n = 6, title = "Thubbs Theme", mbid = "bc11fafe-1c57-4ea5-9cc6-7a8784562372" },
+  { n = 7, title = "The Chase", mbid = "875ef56c-2a12-4131-918e-f4a1b264119c" },
+  { n = 8, title = "Inside the Strip Club", mbid = "1329313f-955c-4d98-b53d-33dfafe0e07b" },
+  { n = 9, title = "Street Life", mbid = "cfbb5848-ec54-41b8-8223-220bebecbc98" },
+  { n = 10, title = "A Dangerous Method", mbid = "450ff5fb-4994-4851-a823-76e9c643cefb" },
+  { n = 11, title = "End Title", mbid = "c7c2ad29-eceb-4821-a04d-d5ba01126050" },
+  { n = 12, title = "Welcome to Little Haiti", mbid = "7ee350c7-22df-4e7f-8136-41cc87491d02" },
+  { n = 13, title = "On Ocean Drive", mbid = "79d7b5ee-626e-45fb-9ebc-98b957828276" },
+]
+
+[[release]]
+mbid = "cd124045-681b-464e-97c1-5d8e03f800c1"
+title = "The Soulshine Session"
+type = "album"
+date = "2016-01-08"
+tracks = [
+  { n = 1, title = "Angel Heart (The session version)", mbid = "84aead00-6b0e-4280-948d-d446c5af5c98" },
+  { n = 2, title = "Espionnage (The session version)", mbid = "c38e0b04-eb14-4c41-ae03-49d565d82692" },
+  { n = 3, title = "Juliet (The session version)", mbid = "fd50b2b7-4e9b-432d-b65c-8deb32dddebd" },
+  { n = 4, title = "Friends & Enemies (The session version)", mbid = "5d37c87f-1eac-4693-8232-14ec42ba65c6" },
+  { n = 5, title = "Dieu reconnaitra les siens (The session version)", mbid = "77e7c507-4738-416b-ada0-11837411177d" },
+  { n = 6, title = "Un été à Paris (The session version)", mbid = "43df8839-65de-4b70-9b95-808ca34e05c9" },
+  { n = 7, title = "Mental Invasion (The session version)", mbid = "db041f47-11fd-446d-87b4-186d0c9fcc36" },
+  { n = 8, title = "Gangsta S**t (The session version)", mbid = "d8f11161-1a44-4431-968e-7f3a9000a270" },
+]
+
+[[release]]
+mbid = "8cf45f1a-992a-48b8-9cbc-c58096b4852e"
+title = "Beats"
+type = "album"
+date = "2016-02-19"
+tracks = [
+  { n = 1, title = "Jdilla", mbid = "e00ef4a4-3bcf-4b8c-97df-89541d05fae4" },
+  { n = 2, title = "Wilson", mbid = "bfe4ee38-1e4d-4491-aa90-8e08e92502c3" },
+  { n = 3, title = "Come Get Me", mbid = "431447f7-b8c7-469c-9603-cd62658668a8" },
+  { n = 4, title = "Diamond on My Neck", mbid = "0f65ae6d-a49c-4156-9a15-0a2617ef47ca" },
+  { n = 5, title = "Tebé", mbid = "e79de7a2-825f-4fe7-80b0-692be1261096" },
+  { n = 6, title = "Digital Thugz", mbid = "e47fc9be-b20f-4f00-8168-d0cfa63bb58b" },
+  { n = 7, title = "808 Beat", mbid = "6b78618e-b502-49a3-acb3-ca42ae30ef45" },
+  { n = 8, title = "Back in a Day", mbid = "d4a272fa-a728-4cb7-9992-da987d7c1813" },
+  { n = 9, title = "Club Life", mbid = "e9b2f433-efca-4193-80f9-a1fc5a6a9383" },
+  { n = 10, title = "Suave Key", mbid = "db87c428-5f18-467b-8268-9ec557776bd6" },
+  { n = 11, title = "Dream", mbid = "24268f69-b675-46de-8b91-3eb48125bf81" },
+  { n = 12, title = "Bounce", mbid = "4b433bdd-bb83-4d8a-993a-6cea49c16796" },
+  { n = 13, title = "Come On", mbid = "760428e7-3ed9-4153-a68c-fa3f82bc1251" },
+  { n = 14, title = "Life Skillz Trip", mbid = "e4c650b8-a033-4780-a1b4-c0b86142ddce" },
+]
+
+[[release]]
+mbid = "3b62a2de-f574-4541-b301-7edac4b243ac"
+title = "Best Of"
+type = "album"
+date = "2017-01-13"
+spotify = "2nu4LBUsWNdNazxpzIYRrM"
+tracks = [
+  { n = 1, title = "Swim", mbid = "a8410fbc-048a-4047-b843-2b11073bcbc0" },
+  { n = 2, title = "Dieu reconnaîtra les siens", mbid = "6c953c79-f075-45f8-8f2e-ea7ac9f31e30" },
+  { n = 3, title = "Summer in Paris", mbid = "04f7a1df-70aa-4da0-9b39-4d1098b22f08" },
+  { n = 4, title = "So What, Pt. 2", mbid = "fd5db229-c3e1-4202-8a13-e6a0d9705e6c" },
+  { n = 5, title = "Love Junkee (J Dilla remix)", mbid = "ddf67abe-d5a5-40e0-9580-8d8ed25ccaae" },
+  { n = 6, title = "Juliet (remix)", mbid = "74833f52-f312-4bbc-8926-6d8e003ea73e" },
+  { n = 7, title = "Voodoo Child (DJ Premier remix)", mbid = "76d82951-5de8-4a25-bd63-18f8e25f2cf2" },
+  { n = 8, title = "Love (Blockhead remix)", mbid = "51cf1664-07fd-433e-a352-265cb68e7f8d" },
+  { n = 9, title = "California Dreamin'", mbid = "94a5c2ab-805e-4b3b-806d-0d99074c4a13" },
+  { n = 10, title = "Innervisions", mbid = "6775f789-3621-4ac9-ae82-1d2e43832f8e" },
+  { n = 11, title = "Espionage (remix)", mbid = "b6033742-070e-4bdc-90e5-12840bffe0cc" },
+  { n = 12, title = "Show Your Love", mbid = "6abc276a-03c4-4d7c-a0e0-f2646ad4658a" },
+  { n = 13, title = "Underground Vibes", mbid = "74d07ba4-081e-4830-9e2f-e9a04910a8ff" },
+  { n = 14, title = "Broadcasting Live (Lord Finesse remix)", mbid = "894d1a38-8c1c-4af5-8c7a-92a0ace8325d" },
+  { n = 15, title = "Swim (Blackjoy remix)", mbid = "feaaea76-2ffa-4b7a-b850-d5d2da7cf56d" },
+  { n = 16, title = "Summer in Paris (Reflex remix)", mbid = "36b25777-6e7a-468a-af10-0e7c2d5f74f6" },
+  { n = 17, title = "Mad Blunted Jazz", mbid = "ef6f0f6c-00c0-43eb-95bb-33e5cb7cab6a" },
+  { n = 18, title = "Spring Beat", mbid = "54b1fd5b-84c9-4aa4-8362-2404e5e5c3f9" },
+]
+
+[[release]]
+mbid = "a1264fb2-b28d-4a83-a064-fa3c3ed24775"
+title = "Thug Love"
+type = "album"
+date = "2017-04-21"
+tracks = [
+  { n = 1, title = "Thug Love", mbid = "969ed932-05ce-48b5-9587-e06e868af656" },
+  { n = 2, title = "GangStarr", mbid = "b430d1a7-5ad2-4274-b86c-2491679ddb3a" },
+  { n = 3, title = "Sunset Harbour", mbid = "ba38f030-ea64-44f8-a772-3715c2e9f3aa" },
+  { n = 4, title = "Daft Punk Goes Hip Hop", mbid = "7083902f-c7e9-4ddb-b3eb-b2bb7c86075d" },
+  { n = 5, title = "Tempus Fugit", mbid = "c92ae396-4da8-43d2-ad46-383736bac51a" },
+  { n = 6, title = "Ganjaman (Remix)", mbid = "6de0bb6d-b83e-4482-bf43-f9a8567d6d2c" },
+  { n = 7, title = "Conforce", mbid = "9488c2ff-02fc-4a59-866f-67e554f3fb3c" },
+  { n = 8, title = "Dub Angel (Remix)", mbid = "36b9c7e2-c6fb-4dfb-ad8b-e3089283b97e" },
+  { n = 9, title = "Surface", mbid = "54323e37-1ef6-4f42-b630-69db0f314c28" },
+]
+
+[[release]]
+mbid = "bca864e4-b0a1-441f-a5f1-d99fc914df1a"
+title = "Soul Assassin"
+type = "single"
+date = "2018-10-31"
+tracks = [
+  { n = 1, title = "Soul Assassin, Pt. 1", mbid = "af451cac-e087-4499-ae12-2696f43a406a" },
+  { n = 2, title = "Soul Assassin, Pt. 2", mbid = "8d245371-21cf-4881-8479-e930f8318eaf" },
+]
+
+[[release]]
+mbid = "a5b1914a-9510-48e6-9ba7-8055d8796ac7"
+title = "90’s"
+type = "album"
+date = "2019-11-22"
+spotify = "4J60MtY7A3qpcrjM8zIkP6"
+tracks = [
+  { n = 1, title = "Make Your Life a Dream Intro", mbid = "d5523283-7c5e-4d5e-83b1-33fffa4f649b" },
+  { n = 2, title = "Hey Love", mbid = "6b26c02f-e0c6-4de2-b580-dbb862cfdf18" },
+  { n = 3, title = "Q Tip", mbid = "7e136f4b-c1ab-4500-9a39-a41413366b3e" },
+  { n = 4, title = "Phife", mbid = "acc20268-2c04-4fd8-a677-af0f4aed080a" },
+  { n = 5, title = "Ahmad", mbid = "7b7bc752-9801-4bca-aa61-9aae46309b98" },
+  { n = 6, title = "Summer of 92", mbid = "b3100093-aa4d-4810-908c-a70ab4b55c32" },
+  { n = 7, title = "Aretha", mbid = "aa40293c-3e11-4630-b6ab-9cd2920f188f" },
+  { n = 8, title = "90’s", mbid = "7e1459c2-d56f-4b58-a595-0ae0cb979a0f" },
+  { n = 9, title = "The Mudd Club", mbid = "eea75126-d8ff-4f48-9105-efd1a8ce1d95" },
+  { n = 10, title = "Queensbridge", mbid = "bcb98d9e-edb8-4bb7-b838-93e174a2de0e" },
+]
+
+[[release]]
+mbid = "e046db31-15cb-46fc-b930-5896ad0867a0"
+title = "Aquaverde"
+type = "single"
+date = "2020-10-22"
+spotify = "5Yi3j1RCZE57wgS4Inq2Vr"
+tracks = [
+  { n = 1, title = "Aquaverde", mbid = "fb0c58c8-c22b-473f-9b42-f6cb4761d78e" },
+]
+
+[[release]]
+mbid = "3dbc7450-7130-4a46-94ad-9af82fed2bbf"
+title = "Lost Found 2"
+type = "album"
+date = "2021-01-15"
+tracks = [
+  { n = 1, title = "Venice Beach", mbid = "e4a82e6a-3020-4f2f-8430-6e02a44136d8" },
+  { n = 2, title = "Summer Madness", mbid = "eb6b3171-de7d-4046-9a7a-4c4f16ca5247" },
+  { n = 3, title = "Dieu Reconnaitra Les Siens (Moar remix)", mbid = "0b9762de-cda6-445e-9330-e3c30cb04ced" },
+  { n = 4, title = "Peace Yo", mbid = "06d123ed-21ce-412a-8114-66d2c7f46ffa" },
+  { n = 5, title = "Music to Drive By", mbid = "f35c9658-52c1-40fb-8b83-e9bdccc43da0" },
+  { n = 6, title = "Swim (Alex Tassel remix)", mbid = "bc9a9b43-8a48-41ca-bc60-1b0e3b2daf49" },
+  { n = 7, title = "Kundalini (For Lili)", mbid = "f12f5007-961c-45b7-8cc8-81b8c30eb177" },
+  { n = 8, title = "Bossa Nova (Part 2)", mbid = "a461311e-68d4-4660-a3df-bab335e9c79c" },
+  { n = 9, title = "Minimal", mbid = "abc8f15e-de96-48dc-924b-60ac09742d5d" },
+]
+
+[[release]]
+mbid = "efa97b40-9603-4a5f-9058-b5dedea11f7f"
+title = "Tropical Gypsy"
+type = "album"
+date = "2021-06-12"
+tracks = [
+  { n = 1, title = "Tropical Gipsy", mbid = "2b086bc2-5dea-4d17-8196-59ef57732a61" },
+  { n = 2, title = "Paradise Garage", mbid = "7de3290c-caf6-4b46-b58b-afacb539967f" },
+  { n = 3, title = "We Live in Tulum", mbid = "421eafbc-5359-4787-901b-6eea22f69dfa" },
+  { n = 4, title = "Late Night Love", mbid = "4aeb9f3f-2da0-48f4-bb9a-bbdee7256d83" },
+  { n = 5, title = "Jealousy", mbid = "a3eb69c6-a0de-43d0-ba45-be5f2d17d702" },
+  { n = 6, title = "Joao", mbid = "9161dcb0-67e0-4e8c-ba29-6123a69b5dae" },
+  { n = 7, title = "Soul Assassin, Pt. 2", mbid = "b2ea22d1-e501-4a5b-9f14-86b38b6a6f47" },
+  { n = 8, title = "A New World Order", mbid = "ef8327bc-fa3f-44a8-8629-709bd6086ec5" },
+  { n = 9, title = "Late Night Fuck", mbid = "ff9e47de-6a32-4175-aec2-7f20bcd84151" },
+  { n = 10, title = "Waves Interlude", mbid = "d101ecd5-e410-46d0-9790-0206403f2511" },
+  { n = 11, title = "A Castle in Spain", mbid = "d19288f5-1ada-4ca5-a511-0cc23db8bea8" },
+]
+
+[[release]]
+mbid = "78283088-d513-4fdb-88a2-39d049f822b9"
+title = "WESTSIDE GUN SOUL"
+type = "album"
+date = "2023-01-20"
+spotify = "3QElSepFGRehZcFkdpfs4e"
+tracks = [
+  { n = 1, title = "THE FIRST DATE", mbid = "3aad6c13-024d-4df5-9033-01d572477e01" },
+  { n = 2, title = "BE THERE", mbid = "e86ceded-4d68-47be-be8b-2af7a3429e5d" },
+  { n = 3, title = "THE PAIN", mbid = "50273080-253c-4a65-9a38-b5c9fcaaa279" },
+  { n = 4, title = "48 HOURS", mbid = "94e3f830-c0dd-4e74-920a-371b1236c914" },
+  { n = 5, title = "GHOST DOG", mbid = "3bc02259-0b8a-485e-a744-468f029572a9" },
+  { n = 6, title = "THE FIRST NIGHT", mbid = "187520fc-0647-46aa-aaeb-8d8fe5cde8c8" },
+  { n = 7, title = "SUFFERING", mbid = "07fa2df7-4fba-4366-a7ef-576879b205d8" },
+  { n = 8, title = "STRANGE FEELING", mbid = "b49c1aae-6724-429b-b880-f2bd0111d4f4" },
+  { n = 9, title = "UZI'S LAMENT", mbid = "485fc8cf-3180-4dff-baf6-d3bd29b248f1" },
+  { n = 10, title = "SHE LEFT", mbid = "705ccabf-743a-43ed-8a9b-27bf8a9dc790" },
+  { n = 11, title = "UNBREAKABLE", mbid = "3ff225ed-d80f-43bc-83d6-31acd9afd060" },
+]
+
+[[release]]
+mbid = "c7d7120e-5029-4760-b261-07dcbab8bcf6"
+title = "Broken Melancholy"
+type = "album"
+date = "2024-03-29"
+tracks = [
+  { n = 1, title = "Without You", mbid = "e0c9d834-27c6-428f-9c89-0e3c076b62c9" },
+  { n = 2, title = "A Bird With Broken Wings", mbid = "13f3694a-f37e-4c55-9573-a2b07890f7d5" },
+  { n = 3, title = "Que Les Etoiles Contemplent Mes Larmes", mbid = "c6ee496f-7355-4731-8e4e-d80e3b5f6322" },
+  { n = 4, title = "Parisian Drum Cartel", mbid = "3dd9b6ff-d78d-420e-88e6-94b7cacb66a4" },
+  { n = 5, title = "Broken Melancholy", mbid = "2a05d05d-d427-4422-aa29-191fc5b0989d" },
+  { n = 6, title = "Tell Me", mbid = "d22ae01f-cf19-4009-868d-d7452bfc2923" },
+  { n = 7, title = "Feels Like Love", mbid = "3594170f-4d60-4eae-82dc-1d7ef3293135" },
+  { n = 8, title = "The Dawn", mbid = "c3d59a9b-1015-484a-a7cb-3e6b25220416" },
+  { n = 9, title = "Raving", mbid = "b7e089ea-1a57-41ed-b4ec-2799666727d1" },
+]

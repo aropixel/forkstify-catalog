@@ -1,0 +1,375 @@
+format = 1
+
+[[release]]
+mbid = "dfddb911-4ca8-385b-9143-bb4b4c6575a8"
+title = "Destiny’s Child"
+type = "album"
+date = "1997"
+tracks = [
+  { n = 1, title = "Second Nature", mbid = "bf1a2a88-2eaa-47d6-8c88-d0f0069ba844" },
+  { n = 2, title = "No, No, No, Part 2", mbid = "9c630ce6-3f98-46d4-8dfa-eec726e4adb2" },
+  { n = 3, title = "With Me, Part 1", mbid = "4cdeed5c-dc1e-4fbc-9015-5af5358d3bea" },
+  { n = 4, title = "Tell Me", mbid = "7a8d9189-9913-4eb4-950f-b6490e971e75" },
+  { n = 5, title = "Bridges", mbid = "9fe5ae92-c967-4d87-8e44-12668f414559" },
+  { n = 6, title = "No, No, No, Part 1", mbid = "63bbc1e2-3220-4bb4-933f-e9291d228f53" },
+  { n = 7, title = "With Me, Part 2", mbid = "7e9670e5-5a55-460d-9e64-a4ff82e046b6" },
+  { n = 8, title = "Show Me the Way", mbid = "1f36d703-d56c-44b2-8ed5-62bfd39ca5de" },
+  { n = 9, title = "Killing Time", mbid = "e7559377-f9ac-45b4-a811-a28f920ac9e8" },
+  { n = 10, title = "Illusion", mbid = "d16a770b-45db-45b3-b8af-34717b49c7f9" },
+  { n = 11, title = "Birthday", mbid = "77f137e9-c598-4764-8bff-2b4cfbb0fb4e" },
+  { n = 12, title = "Sail On", mbid = "96ec43fb-7faf-48c7-8b2e-5bba60b24de2" },
+  { n = 13, title = "My Time Has Come", mbid = "d2ad4a80-7ff7-4a96-9ae0-c2ede35e35c7" },
+  { n = 14, title = "Know That", mbid = "640a3624-0a15-43d2-b3ca-ad1a69d8ae89" },
+]
+
+[[release]]
+mbid = "1f874d0b-7705-3a86-8acb-7a2d94cb26f5"
+title = "No, No, No"
+type = "single"
+date = "1997-11-11"
+tracks = [
+  { n = 1, title = "No No No (Part II)", mbid = "9c630ce6-3f98-46d4-8dfa-eec726e4adb2" },
+  { n = 2, title = "No No No (Part I)", mbid = "63bbc1e2-3220-4bb4-933f-e9291d228f53" },
+  { n = 3, title = "No No No (Part II - w/o rap)", mbid = "0b47c66e-eeec-4a84-9026-6f3b862c321c" },
+  { n = 4, title = "No No No (Part II - a cappella)", mbid = "86e4b22e-c4e4-4d9b-9334-dbecd4dd857a" },
+  { n = 5, title = "No No No (Part II - instrumental)", mbid = "abf3f49c-16a5-4c9d-ab55-0794809e36e3" },
+  { n = 6, title = "No No No (Part I - instrumental)", mbid = "361db8b3-52a2-46c2-8485-53e279146b94" },
+]
+
+[[release]]
+mbid = "0997dc13-91e0-4e7f-acb5-8bc8441ed784"
+title = "She’s Gone"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "She’s Gone", mbid = "a1b44a9c-9eea-4ad2-a4eb-94301a86ccb8" },
+  { n = 2, title = "She’s Gone (G. Bug’s Smooth City mix)", mbid = "543f3f3e-bc09-4e3a-9d7f-d9a2ef80a783" },
+  { n = 3, title = "She’s Gone (Full Crew radio mix)", mbid = "89a15983-0505-431f-b9a9-c43fac45d835" },
+]
+
+[[release]]
+mbid = "f54cb644-7aa7-441a-89c2-8a72c7a66716"
+title = "With Me"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "With Me Part I", mbid = "39697fd3-dc8b-4571-afdc-7ddb2cb03ffd" },
+  { n = 2, title = "With Me Part II", mbid = "4b857a32-f3a4-432d-806e-a3300305c2dd" },
+  { n = 3, title = "With Me Part I (instrumental)", mbid = "44c767de-b19b-4f44-a412-5f9a24cb8846" },
+  { n = 4, title = "Second Nature", mbid = "16b96d8c-8918-4ad4-863d-b1bcc4edacd1" },
+]
+
+[[release]]
+mbid = "748587d3-03eb-4709-8681-14a0e97db944"
+title = "Get on the Bus"
+type = "single"
+date = "1998-12-07"
+tracks = [
+  { n = 1, title = "Get on the Bus (radio version)", mbid = "4e2532ff-f591-49d0-ba0d-0faf3104fcc8" },
+  { n = 2, title = "Get on the Bus (radio edit w/o rap)", mbid = "b976dff0-a3c0-4c59-9bc4-e1893bb25ae8" },
+  { n = 3, title = "Birthday", mbid = "f061e9ed-ef33-4ebc-ab55-67b732146cff" },
+]
+
+[[release]]
+mbid = "2e74a003-0414-418d-ae24-cb6030f2370c"
+title = "Bills, Bills, Bills"
+type = "single"
+date = "1999-06-15"
+tracks = [
+  { n = 1, title = "Bills, Bills, Bills (album version)", mbid = "e101d9a5-008a-4df5-9752-fdead14a9a69" },
+  { n = 2, title = "Bills, Bills, Bills (Digital Black-N-Groove club mix)", mbid = "4664d761-786b-4163-913a-59b25f6c9227" },
+  { n = 3, title = "Bills, Bills, Bills (a cappella)", mbid = "a8f27090-74b3-4345-9e3a-1cc56596d75d" },
+  { n = 4, title = "Bills, Bills, Bills (Maurice's Xclusive Livegig mix)", mbid = "740d792c-c47a-4041-b9cf-ea43aa567e01" },
+  { n = 5, title = "Bills, Bills, Bills (Maurice's Xclusive dub mix)", mbid = "2e9fa6c6-3811-463a-930a-2067de3e73d2" },
+]
+
+[[release]]
+mbid = "7bfda0d3-5747-3f7c-a60f-065b6ea29db1"
+title = "The Writing’s on the Wall"
+type = "album"
+date = "1999-07-14"
+spotify = "283NWqNsCA9GwVHrJk59CG"
+tracks = [
+  { n = 1, title = "Intro (The Writing’s on the Wall)", mbid = "f3079709-f30e-47e2-b93b-c3a188b0efa9" },
+  { n = 2, title = "So Good", mbid = "ad980d39-4203-4a96-8394-aedf5e6c00e5" },
+  { n = 3, title = "Bills, Bills, Bills", mbid = "e101d9a5-008a-4df5-9752-fdead14a9a69" },
+  { n = 4, title = "Confessions", mbid = "99fa45c1-13a1-4ceb-9124-794ff64c7b73" },
+  { n = 5, title = "Bug a Boo", mbid = "c5f39703-a7b3-4772-976a-800028752a84" },
+  { n = 6, title = "Temptation", mbid = "ebff56cf-53cf-42b0-bea0-2f1d492de1dd" },
+  { n = 7, title = "Now That She’s Gone", mbid = "87a2b4a2-3003-472c-8af1-4fecbd8fc954" },
+  { n = 8, title = "Where’d You Go", mbid = "e81d0d68-e929-4e59-80f1-c9d8d5925c4c" },
+  { n = 9, title = "Hey Ladies", mbid = "262691c8-8fd4-48b5-8bc7-037c16e80556" },
+  { n = 10, title = "If You Leave", mbid = "f64ecca0-d401-4aa4-9f83-89677ac81cd0" },
+  { n = 11, title = "Jumpin, Jumpin", mbid = "da5d1b1d-f5ad-4c13-b726-605d808283aa" },
+  { n = 12, title = "Say My Name", mbid = "946f2f12-121b-4906-b74a-0e7ba8ae2d29" },
+  { n = 13, title = "She Can’t Love You", mbid = "505c2b55-253f-4489-8001-f2046279ca78" },
+  { n = 14, title = "Stay", mbid = "7e176547-ba0c-4a73-aa77-f8eed708802b" },
+  { n = 15, title = "Sweet Sixteen", mbid = "adb7e910-81be-4b5e-9efa-f28679cac02f" },
+  { n = 16, title = "Outro (Amazing Grace Dedicated to Andretta Tillman)", mbid = "72099684-42dd-499b-bd65-a65cfd5e6527" },
+  { n = 17, title = "Get on the Bus", mbid = "28ee9d0c-c9c3-49d8-a119-630e19a64bf3" },
+]
+
+[[release]]
+mbid = "be556c8e-6a70-3e8a-99fc-bddfcb2597bb"
+title = "Say My Name"
+type = "single"
+date = "1999-10-14"
+tracks = [
+  { n = 1, title = "Say My Name", mbid = "946f2f12-121b-4906-b74a-0e7ba8ae2d29" },
+  { n = 2, title = "Say My Name (Timbaland remix)", mbid = "5a51b7c7-001a-43ff-9358-8a35687331c9" },
+  { n = 3, title = "Say My Name (Maurice's Last Days of disco Millennium mix)", mbid = "0228d346-197e-42b0-b1ab-3ddf554e90de" },
+  { n = 4, title = "Say My Name (Daddy D remix)", mbid = "0f5846d6-0817-4688-9adb-541c970415b1" },
+  { n = 5, title = "Say My Name", mbid = "76c7950e-e384-4553-88aa-6d970d962a89" },
+]
+
+[[release]]
+mbid = "ae6c6f1c-fda2-399c-8c6c-03dda48c6bfc"
+title = "Bug a Boo"
+type = "single"
+date = "1999-10-18"
+spotify = "1zyZCvWC5JWw5jjMTszfku"
+tracks = [
+  { n = 1, title = "Bug a Boo (Refugee Camp remix)", mbid = "bb71522a-c16d-4889-9307-94b826f70031" },
+  { n = 2, title = "Bug a Boo (Maurice’s Xclusive Bug a Boo club mix)", mbid = "d51e28e2-b0ae-486f-82a6-826d03cdef6e" },
+  { n = 3, title = "Bug a Boo (Maurice’s Bug a dub mix)", mbid = "22f5529c-c112-4fa4-90db-bc396b15fb27" },
+  { n = 4, title = "Bug a Boo (album version)", mbid = "c5f39703-a7b3-4772-976a-800028752a84" },
+]
+
+[[release]]
+mbid = "6015740b-cc20-48e3-a783-b89019f8e93d"
+title = "Thug Love"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Thug Love (explicit album version)", mbid = "2e573de4-2f42-47d1-bd03-ecd91b7bac6c" },
+  { n = 2, title = "Thug Love (clean album version)", mbid = "88e63861-3980-4b25-b1de-71107b37eb8e" },
+  { n = 3, title = "Thug Love (instrumental)", mbid = "1a78044a-1dd1-4488-81eb-79e29c355160" },
+  { n = 4, title = "Thug Love (explicit a cappella)", mbid = "ee576275-38ad-471c-bc5d-b05b19541420" },
+]
+
+[[release]]
+mbid = "a3a1f837-9a0a-4be0-82d3-cc77bafb037d"
+title = "Jumpin’, Jumpin’"
+type = "single"
+date = "2000-07-04"
+spotify = "5o3CCi7LYMAuqfQsIl0WCp"
+tracks = [
+  { n = 1, title = "Jumpin’ Jumpin’", mbid = "da5d1b1d-f5ad-4c13-b726-605d808283aa" },
+  { n = 2, title = "Jumpin’ Jumpin’ (So So Def remix)", mbid = "52f72bf1-96f7-454f-b9e8-5d4d78103b11" },
+  { n = 3, title = "Upside Down (live version)", mbid = "5fdf7348-4c33-451d-8c6b-0b60d1986dd4" },
+  { n = 4, title = "Jumpin’ Jumpin’ (Maurice’s radio mix)", mbid = "9d5c10f7-5264-4509-a96a-deae51a40458" },
+]
+
+[[release]]
+mbid = "135b34b9-835f-3d1c-870c-bca3d0dcede6"
+title = "Independent Women"
+type = "single"
+date = "2000-10-16"
+tracks = [
+  { n = 1, title = "Independent Women, Part I", mbid = "3c1b83a3-e00a-4ec8-a1fc-3dda82545bbe" },
+  { n = 2, title = "Independent Women, Part I (Victor Calderone radio mix)", mbid = "7606eb23-5468-4054-9f7b-3366739e6c6f" },
+]
+
+[[release]]
+mbid = "36837414-586f-30b2-baca-0f9501b1c343"
+title = "Emotion"
+type = "single"
+date = "2000-11-20"
+tracks = [
+  { disc = 1, n = 1, title = "Emotion (Calderone AM: mix)", mbid = "7bde7381-a926-4886-8e1c-5f7978cb1be9" },
+  { disc = 1, n = 2, title = "Emotion (Calderone dub mix)", mbid = "6057dddd-9631-46a7-8b26-fc088196de1c" },
+  { disc = 1, n = 3, title = "Emotion (Maurice's NuSoul mix)", mbid = "1f3850b5-6bd2-4ac8-add6-c958b0ca7e24" },
+  { disc = 1, n = 4, title = "Emotion (NuPrise mix)", mbid = "10325487-b9bf-4128-bbfc-d73e73c3bc7d" },
+  { disc = 2, n = 1, title = "Emotion (The Neptunes remix)", mbid = "39f46dc7-3f7b-4f20-b1c5-44c24e6e6d95" },
+  { disc = 2, n = 2, title = "Emotion (The Neptunes remix instrumental)", mbid = "a129ed61-2d1f-4e6a-892b-ab84a12c6639" },
+  { disc = 2, n = 3, title = "Emotion (The Neptunes remix a cappella)", mbid = "f5a80aa2-5e4c-44b2-922a-d6e1d4bf987f" },
+  { disc = 2, n = 4, title = "Emotion (Errol McCalla remix)", mbid = "a9e71f2f-af82-4992-82f2-33f7bad06714" },
+  { disc = 2, n = 5, title = "Emotion (Errol McCalla remix instrumental)", mbid = "b8160ace-c13e-4dfc-bf2b-d4af601567ca" },
+  { disc = 2, n = 6, title = "Emotion (a cappella)", mbid = "d82fcc05-7bc9-4996-95f3-7c833dd927b2" },
+]
+
+[[release]]
+mbid = "172b8b3e-8c75-3b5d-a0a8-5e7ad063e686"
+title = "Survivor"
+type = "single"
+date = "2001-04-01"
+tracks = [
+  { n = 1, title = "Survivor (remix extended version Featuring Da Brat)", mbid = "65d2deb9-0efd-4c15-bfdf-230751764383" },
+  { n = 2, title = "Survivor (Calderone club mix)", mbid = "b0bda0fe-6648-4d34-ac31-f0a9898be3ff" },
+  { n = 3, title = "Survivor (Calderone Drum dub mix)", mbid = "3c795e0b-447f-4d17-8ab6-07f3ac006f8a" },
+  { n = 4, title = "Survivor (CB200 club Anthem mix)", mbid = "fd53c312-2f81-464f-bdf6-8c915cca0304" },
+  { n = 5, title = "Survivor (Azza'z Soul remix)", mbid = "47fba71e-21ff-4db9-a9a0-ec990c82bb8e" },
+]
+
+[[release]]
+mbid = "9def6672-e304-36f1-9d32-59ab846d1da8"
+title = "Survivor"
+type = "album"
+date = "2001-04-25"
+spotify = "2HcjLD0ButtKsQYqzoyOx9"
+tracks = [
+  { n = 1, title = "Independent Women, Part I", mbid = "3c1b83a3-e00a-4ec8-a1fc-3dda82545bbe" },
+  { n = 2, title = "Survivor", mbid = "41fd298e-3ccf-4844-96fc-8115c3636c1e" },
+  { n = 3, title = "Bootylicious", mbid = "c25e8798-1347-4553-acd6-403ace3a2a59" },
+  { n = 4, title = "Nasty Girl", mbid = "5c91145f-8906-4108-a9c7-d3512668e920" },
+  { n = 5, title = "Fancy", mbid = "8f21e54a-c5c5-49eb-ac42-28b7e88b449d" },
+  { n = 6, title = "Apple Pie à la mode", mbid = "835d6c2c-cc11-4e53-897a-e150a939dd77" },
+  { n = 7, title = "Sexy Daddy", mbid = "0754e76c-3e00-4eb7-85fa-5ddc6b9e3aa6" },
+  { n = 8, title = "Independent Women, Part II", mbid = "4c4975d6-754b-47c0-b17e-d6b70644255b" },
+  { n = 9, title = "Happy Face", mbid = "73bc9e02-4901-42db-be58-c1636b68cabb" },
+  { n = 10, title = "Emotion", mbid = "d751f2d4-6a8a-453d-aff6-c3b63a9e692d" },
+  { n = 11, title = "Dangerously in Love", mbid = "1ed84e95-4b4a-4dbe-974d-3bc4530ea9b4" },
+  { n = 12, title = "Brown Eyes", mbid = "57a1d61a-ec81-483d-a393-7fb1008ba42a" },
+  { n = 13, title = "The Story of Beauty", mbid = "09ecfbe3-4fb2-4e5c-ab63-9ed6f93888cb" },
+  { n = 14, title = "Gospel Medley (dedicated to Andretta Tillman): You’ve Been So Good / Now Behold the Lamb / Jesus Loves Me / Total Praise", mbid = "83d7fd0d-91a8-4d29-b1f2-b9e5e48b41ff" },
+  { n = 15, title = "Outro (DC‐3) Thank You", mbid = "c358c512-fb1c-4934-ae01-df64fcf1f421" },
+]
+
+[[release]]
+mbid = "ffe63525-6013-34a5-a286-74f902262ca9"
+title = "Bootylicious"
+type = "single"
+date = "2001-06-18"
+tracks = [
+  { n = 1, title = "Bootylicious", mbid = "c25e8798-1347-4553-acd6-403ace3a2a59" },
+  { n = 2, title = "Bootylicious (Richard Vission’s V‐Quest)", mbid = "6d3a5bf7-92a9-439b-90e8-88ef4e84758a" },
+  { n = 3, title = "Bootylicious (Richard Vission’s DJ dub)", mbid = "36c5ed40-20ff-4980-a6af-b1e0af3066cc" },
+  { n = 4, title = "Bootylicious (Big Boyz remix)", mbid = "99bb0d36-708d-4b3f-a5d8-80fd9a81d4a1" },
+  { n = 5, title = "Bootylicious (Case remix)", mbid = "26fdffd0-4fa4-4f91-9819-0430f7270074" },
+]
+
+[[release]]
+mbid = "bbb5e304-c03f-3d07-afb2-d41c54594343"
+title = "8 Days of Christmas"
+type = "album"
+date = "2001-10-23"
+spotify = "1BME2jlrd8HJSCiC4TFrq7"
+tracks = [
+  { n = 1, title = "8 Days of Christmas", mbid = "802d8d00-dd01-4a9c-9e60-65c5ce5ea2dd" },
+  { n = 2, title = "Winter Paradise", mbid = "97b4914b-d0f6-4747-87cd-083f726acaf6" },
+  { n = 3, title = "A “DC” Christmas Medley", mbid = "fc5c4fc3-bcb8-4bf3-945e-5c04ef0d3737" },
+  { n = 4, title = "Silent Night", mbid = "599f65d1-3df4-488e-8a03-abd1c5bf169e" },
+  { n = 5, title = "Little Drummer Boy", mbid = "cced45ac-8fce-4204-9132-573707c5da7f" },
+  { n = 6, title = "Do You Hear What I Hear", mbid = "8ea8ba8b-fb34-43d5-ae20-27e71b1cca64" },
+  { n = 7, title = "White Christmas", mbid = "36892f8c-b14e-4305-a21b-bb350ffce509" },
+  { n = 8, title = "Platinum Bells", mbid = "d121b1c6-5ab5-4c26-ae31-ac2b48636bcf" },
+  { n = 9, title = "O’ Holy Night", mbid = "17d0c0c5-0c31-4ed8-a78e-00c38c3cdb98" },
+  { n = 10, title = "Spread a Little Love on Christmas Day", mbid = "4b755b57-199c-4909-943f-70af799085cb" },
+  { n = 11, title = "This Christmas", mbid = "32bff9db-1729-4e26-b4dc-e6d33c87a0a2" },
+  { n = 12, title = "Opera of the Bells", mbid = "b382e7a2-6be9-4581-94a8-563ed6b36f70" },
+  { n = 13, title = "The Proud Family", mbid = "2b869824-aaa0-429b-b412-15acaee7098f" },
+]
+
+[[release]]
+mbid = "2de1d23a-519b-35af-80d3-0e1954c16428"
+title = "Nasty Girl"
+type = "single"
+date = "2002-03-25"
+tracks = [
+  { n = 1, title = "Nasty Girl", mbid = "5c91145f-8906-4108-a9c7-d3512668e920" },
+  { n = 2, title = "Nasty Girl (Maurice’s Nu Soul remix radio edit)", mbid = "5220d0a7-b14c-49e2-8236-929fd6572334" },
+  { n = 3, title = "Nasty Girl (Azza’s Nu Soul mix)", mbid = "5283d6f8-9ebd-428a-b70f-00fc2b86a8c0" },
+]
+
+[[release]]
+mbid = "e7c9ff16-4fe6-4e8a-bf3b-98a66b59ca4d"
+title = "Rudolph the Red Nosed Reindeer"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Rudolph the Red Nosed Reindeer", mbid = "42fb06db-8dd9-422a-ad1f-2d7cc4335254" },
+]
+
+[[release]]
+mbid = "b44049ce-a846-305b-b112-2ba0c4a6b405"
+title = "Soldier"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "Soldier (album version)", mbid = "799418ff-86c2-4e8f-82d0-79333042aecf" },
+  { n = 2, title = "Soldier (Grizz Blackmarket remix)", mbid = "953ed0cb-fc65-4a75-b011-7fa2cf286679" },
+  { n = 3, title = "Soldier (Bizarre remix)", mbid = "82e2ae2e-9b36-477b-b175-eb21428eacaa" },
+  { n = 4, title = "Soldier (Maurice's Nu Soul mix)", mbid = "dbecb562-a519-49d7-a3a2-8e16229efb78" },
+  { n = 5, title = "Soldier (Danny Howell's & Dick Trevor's Kinkyfunk mix)", mbid = "e8e18149-3a83-4e61-90cd-6fea765f72a6" },
+]
+
+[[release]]
+mbid = "17fa2905-dbfa-3061-ab62-73dfbddaeb80"
+title = "Lose My Breath"
+type = "single"
+date = "2004-11-01"
+spotify = "3gEwuDnD1WCDrenLQjVgYB"
+tracks = [
+  { n = 1, title = "Lose My Breath (Maurice's Nu Soul mix)", mbid = "d6d62422-380d-4e05-882f-07a332ca8379" },
+  { n = 2, title = "Lose My Breath (Maurice's Nu Soul mix instrumental)", mbid = "02def37f-98c9-4bc4-884b-da1ef81dd867" },
+  { n = 3, title = "Lose My Breath (MGM mix)", mbid = "3a54746a-dad2-476a-9875-c88ec7a6fe03" },
+  { n = 4, title = "Lose My Breath (Paul Johnson's club mix)", mbid = "cdb72cd8-9b8e-4f3e-86b3-f0a67cbc0da1" },
+]
+
+[[release]]
+mbid = "5f159cdf-c62d-3311-80e5-7d3857a1e09e"
+title = "Destiny Fulfilled"
+type = "album"
+date = "2004-11-10"
+spotify = "0b6ivSFfDs38MG7aLn9rvO"
+tracks = [
+  { n = 1, title = "Lose My Breath", mbid = "2751403f-d24e-483a-9dcd-5fa5e1ca3b07" },
+  { n = 2, title = "Soldier", mbid = "312ee3af-0036-44ca-a3b5-cdd74aef9828" },
+  { n = 3, title = "Cater 2 U", mbid = "ce7b9240-0813-4eab-ba53-ea76ddf2af39" },
+  { n = 4, title = "T-Shirt", mbid = "ade5d63c-c69d-41de-998d-2e47bcfb01a7" },
+  { n = 5, title = "Is She the Reason", mbid = "81703cda-3089-4ade-9e3d-119400a92fcf" },
+  { n = 6, title = "Girl", mbid = "68563a65-5d0e-45af-8f5f-ebe10398916d" },
+  { n = 7, title = "Bad Habit", mbid = "a6df77eb-66e5-47bf-bbb8-9fc2c7950bc2" },
+  { n = 8, title = "If", mbid = "4f7c318e-a5f8-403c-9a29-0f4244adb579" },
+  { n = 9, title = "Free", mbid = "12bf9402-5e5d-4b21-9a61-e3fd368f1ff6" },
+  { n = 10, title = "Through With Love", mbid = "88561240-f0aa-4e90-8211-474301e6982a" },
+  { n = 11, title = "Love", mbid = "e924bf68-4fcc-45cf-9950-744010184ef0" },
+  { n = 12, title = "Game Over", mbid = "a94c06f7-ae5a-4ab4-9ea2-77e89a61d2ed" },
+]
+
+[[release]]
+mbid = "90947919-83f8-43ca-9d17-33a36c737809"
+title = "Lose My Breath / Soldier"
+type = "single"
+date = "2004-12-07"
+tracks = [
+  { n = 1, title = "Lose My Breath (Maurice's Nu Soul mix)", mbid = "d6d62422-380d-4e05-882f-07a332ca8379" },
+  { n = 2, title = "Lose My Breath (MGM mix)", mbid = "f18c0bfa-b859-44a2-8d58-a60cfe9601b3" },
+  { n = 3, title = "Lose My Breath (Paul Johnson's club mix)", mbid = "6b79b07f-5166-49df-881b-29c7878abe8e" },
+  { n = 4, title = "Soldier", mbid = "a5048335-8a91-4127-af2b-9beaf6aefb19" },
+  { n = 5, title = "Soldier (Maurice's Nu Soul mix)", mbid = "7007d988-994b-43df-9437-ba568a21f330" },
+]
+
+[[release]]
+mbid = "c0d95466-af18-446c-a3c4-37c7bc7067de"
+title = "Cater 2 U"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "Cater 2 U (Album Version)", mbid = "ce7b9240-0813-4eab-ba53-ea76ddf2af39" },
+  { n = 2, title = "Cater 2 U (Storch remix edit)", mbid = "ce5d1e81-3820-46bf-9571-c3fcde353622" },
+  { n = 3, title = "Cater 2 U (Grizz to the club)", mbid = "f1484c83-64fe-40d3-8d67-bcbf66e30387" },
+  { n = 4, title = "Cater 2 U (J. Beck dance mix)", mbid = "42b3ab8c-c9c7-48e0-be13-9878b3bebc85" },
+  { n = 5, title = 'Girl (Maurice Joshua "U Go Girl" Remix)', mbid = "a22f0c60-9564-405a-87ea-8f26f2256485" },
+]
+
+[[release]]
+mbid = "3febab1d-2944-3977-885a-7b5117074646"
+title = "Girl"
+type = "single"
+date = "2005-04-25"
+tracks = [
+  { n = 1, title = "Girl (radio edit)", mbid = "68563a65-5d0e-45af-8f5f-ebe10398916d" },
+  { n = 2, title = "Girl (Maurice's JS club mix)", mbid = "a52e0509-136b-4a09-bf54-76a76ccaf5c5" },
+  { n = 3, title = "Got's My Own", mbid = "aa8fa78c-56ce-476e-96c1-b71a32d4270e" },
+]
+
+[[release]]
+mbid = "48b15527-ae41-4d8c-9d63-311d059b838a"
+title = "The Girl Is Mine"
+type = "single"
+date = "2015-11-06"
+spotify = "7Il6JWULBkO3Huz8AN6jeD"
+tracks = [
+  { n = 1, title = "The Girl Is Mine", mbid = "e98b15a4-80bf-458c-9092-14f7f64513b4" },
+]

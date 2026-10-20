@@ -1,0 +1,342 @@
+format = 1
+
+[[release]]
+mbid = "d8d6b92f-be29-4e93-aedc-3015649394ab"
+title = "Don't Forget About Me, Demos"
+type = "ep"
+date = "2018-10-10"
+spotify = "1DNx0H5ZX1ax3yyRwtgT4S"
+tracks = [
+  { n = 1, title = "3 Nights", mbid = "504fd879-af64-45a3-8b09-6713f0079450" },
+  { n = 2, title = "She Wants My Money", mbid = "0f792cbb-cc86-4cb0-871c-adae35b09821" },
+  { n = 3, title = "Babydoll", mbid = "5b2e8994-f2cb-48c3-b5d3-e7d4351f7a9e" },
+  { n = 4, title = "Westcoast Collective", mbid = "fb1b3956-6967-4417-b096-9459b34a6056" },
+  { n = 5, title = "Socks", mbid = "c824dbd6-2e46-4249-8fa2-a96b05a46492" },
+  { n = 6, title = "King of Everything", mbid = "58b9bb93-9efc-4b35-bb10-8f5ae3cf0cd8" },
+]
+
+[[release]]
+mbid = "be9c8e46-0bd1-427f-919e-08b197b9fcac"
+title = "The Finish"
+type = "single"
+date = "2019-03-15"
+spotify = "0A5y06hFv1cQlrhiz2GAD0"
+tracks = [
+  { n = 1, title = "The Finish", mbid = "8b5fa119-c49e-4d0d-b6b0-31b27038ca83" },
+]
+
+[[release]]
+mbid = "a8c9efd1-57d6-42e3-a806-e3a347bfb2fc"
+title = "Rollerblades"
+type = "single"
+date = "2019-06-06"
+spotify = "6pOBptbCkOMPilLRihX4tw"
+tracks = [
+  { n = 1, title = "Rollerblades", mbid = "cbe1b34d-7c0a-489d-8481-1385883d3014" },
+]
+
+[[release]]
+mbid = "6a7605df-fa21-4303-976a-ae68447f6530"
+title = "Açaí Bowl"
+type = "single"
+date = "2019-06-07"
+spotify = "20mfnTTQTPZ4MHVOg0R83D"
+tracks = [
+  { n = 1, title = "Açaí Bowl", mbid = "c001a174-2e4a-4ec3-bd21-0ae4bd282702" },
+]
+
+[[release]]
+mbid = "37377296-6fab-4718-82d8-d32b0ba044bd"
+title = "Phone Numbers"
+type = "single"
+date = "2019-07-07"
+spotify = "6RhSCF1Z3g95Q1rZWqpUdT"
+tracks = [
+  { n = 1, title = "Phone Numbers", mbid = "8eaef099-ae4c-4578-bd7c-aaad58fde360" },
+]
+
+[[release]]
+mbid = "ee298674-b1c2-4009-ba76-860cb5f54b89"
+title = "Hit Me Up"
+type = "single"
+date = "2019-11-05"
+spotify = "0wrlmSfB9kG1b5iHulNOv4"
+tracks = [
+  { n = 1, title = "Hit Me Up", mbid = "5b066083-2c40-44b9-a9e4-2b8b1632cc0c" },
+]
+
+[[release]]
+mbid = "6508fc5b-c362-4882-82b0-68161236ed12"
+title = "Chicken Tenders"
+type = "single"
+date = "2020-06-26"
+spotify = "6Hlyw2Jvzz7BnIQQYzSXVZ"
+tracks = [
+  { n = 1, title = "Chicken Tenders", mbid = "4a6ea75c-df50-4c7c-92d8-dcd70ab70a0f" },
+]
+
+[[release]]
+mbid = "c503c95c-c4da-40bd-bbe5-af7712c31821"
+title = "Politics & Violence"
+type = "single"
+date = "2020-07-07"
+spotify = "17PZeiOFJ78sUMsquQYQYR"
+tracks = [
+  { n = 1, title = "Politics & Violence", mbid = "e61945b3-d646-495b-a664-d07e6c55672c" },
+]
+
+[[release]]
+mbid = "feeba0dc-5f84-45f1-9acd-68851437c7b4"
+title = "What Could Possibly Go Wrong"
+type = "album"
+date = "2020-07-31"
+spotify = "1BubKJqf6Uc4fNae5kLJJ7"
+tracks = [
+  { n = 1, title = "Come Here", mbid = "121fca15-ae06-43dc-9dfe-7aaec8f69243" },
+  { n = 2, title = "Double Negative (Skeleton Milkshake)", mbid = "9a916196-3dfa-46dd-9ca0-73b2c8d9c9cd" },
+  { n = 3, title = "Cancel Me", mbid = "71bd8c9e-a0fd-425b-8eed-c7e683475080" },
+  { n = 4, title = "10x Stronger", mbid = "36c24013-19db-487f-ae6e-4c81ba0c3be9" },
+  { n = 5, title = "Good Game", mbid = "c8cd396d-9e14-4389-9752-15ddabb232a6" },
+  { n = 6, title = "Why", mbid = "77214a57-c1c4-400f-a74d-f7cd0a39a211" },
+  { n = 7, title = "Chicken Tenders", mbid = "4a6ea75c-df50-4c7c-92d8-dcd70ab70a0f" },
+  { n = 8, title = "Whats for Dinner?", mbid = "78c01e1d-54fd-463e-b283-bbc34f7e8c0f" },
+  { n = 9, title = "Vampire", mbid = "efe0fb38-33ed-480a-8fe5-eeec7a795071" },
+  { n = 10, title = "Superstar Shit", mbid = "39a940b7-3fa3-4b94-a45d-0bbe7f67183c" },
+  { n = 11, title = "Politics & Violence", mbid = "5aa31a05-d265-4b19-bb80-d5af740f2d44" },
+  { n = 12, title = "Joe Blazey", mbid = "652de8fe-7243-4e22-86bc-10988918aaa0" },
+  { n = 13, title = "Wurli", mbid = "f7593c3f-893c-45c8-a9eb-d77a46f222ac" },
+  { n = 14, title = "Florida", mbid = "b2fd29db-a5cf-4ed6-8333-5e99c0f90913" },
+]
+
+[[release]]
+mbid = "473344ac-2dba-4ce4-9f36-ee06543a4bd2"
+title = "Photo ID"
+type = "single"
+date = "2021-03-03"
+tracks = [
+  { n = 1, title = "Photo ID", mbid = "94c3396a-b630-4c09-ad30-440112c9a932" },
+]
+
+[[release]]
+mbid = "d26acd90-25c5-4988-b7d0-04fee67b194b"
+title = "The Kiss Of Venus"
+type = "single"
+date = "2021-03-11"
+tracks = [
+  { n = 1, title = "The Kiss Of Venus", mbid = "522a22b1-8f42-4161-a6b1-b84a79d39aea" },
+]
+
+[[release]]
+mbid = "90941a9b-5a31-4e81-9d91-8890120935e1"
+title = "Elliot’s Song"
+type = "single"
+date = "2022-03-04"
+spotify = "67WBZwhfjfOQ5gnH8iXsQ8"
+tracks = [
+  { n = 1, title = "Elliot’s Song", mbid = "ff768c0b-fc7b-4d43-970e-ad4953740e8e" },
+]
+
+[[release]]
+mbid = "d739094b-4f1e-4ba9-9278-5a8e422adb08"
+title = "Dancing in the Courthouse"
+type = "single"
+date = "2023-04-14"
+spotify = "6y1x1MUnhsqTIRkp6KpYkq"
+tracks = [
+  { n = 1, title = "Dancing in the Courthouse", mbid = "584852b6-2c02-4615-9193-ae85c4985ea9" },
+]
+
+[[release]]
+mbid = "821430a1-0c5f-41bf-9f79-866815d79022"
+title = "Ant Pile"
+type = "single"
+date = "2023-05-26"
+spotify = "0SBIuYBUOdwBL5yZ1DXpl4"
+tracks = [
+  { n = 1, title = "Ant Pile", mbid = "e84982ed-c293-4331-8106-1cc173e37fef" },
+]
+
+[[release]]
+mbid = "9dcbc1eb-d9e8-47a0-81fd-7a2c51a339c2"
+title = "Mona Lisa"
+type = "single"
+date = "2023-06-02"
+spotify = "57bOm4y0cT0j9Kwl7Osasj"
+tracks = [
+  { n = 1, title = "Mona Lisa", mbid = "701875b0-9392-480e-9776-4eac914366d7" },
+]
+
+[[release]]
+mbid = "f0285f29-8d70-469c-8149-97adbd6af873"
+title = "Mona Lisa (Spider-Man: Across the Spider-Verse)"
+type = "single"
+date = "2023-06-02"
+spotify = "57bOm4y0cT0j9Kwl7Osasj"
+tracks = [
+  { n = 1, title = "Mona Lisa", mbid = "701875b0-9392-480e-9776-4eac914366d7" },
+]
+
+[[release]]
+mbid = "be497e42-3e75-48ab-89e2-20ad8700ca7f"
+title = "Mama’s Boy"
+type = "single"
+date = "2023-06-23"
+spotify = "6dgC3pUWlaKFLbm1sIQxGA"
+tracks = [
+  { n = 1, title = "Mama’s Boy", mbid = "1e8ae802-d652-46d1-9758-cf9a70f026af" },
+  { n = 2, title = "Ant Pile", mbid = "e84982ed-c293-4331-8106-1cc173e37fef" },
+  { n = 3, title = "Dancing in the Courthouse", mbid = "584852b6-2c02-4615-9193-ae85c4985ea9" },
+]
+
+[[release]]
+mbid = "5324b97c-c5ac-423e-97f4-b2e21aa2410a"
+title = "Sunburn"
+type = "album"
+date = "2023-07-07"
+spotify = "2T7LuxZRr6SQMgABLtoYTH"
+tracks = [
+  { n = 1, title = "How Much Is Weed?", mbid = "0b2af247-30c7-4765-b496-67fe4dbef3a8" },
+  { n = 2, title = "Ant Pile", mbid = "e84982ed-c293-4331-8106-1cc173e37fef" },
+  { n = 3, title = "Think Fast", mbid = "fe5c3229-bf1c-4c36-b8c5-1c220b4f67ac" },
+  { n = 4, title = "Sick", mbid = "f9567a1c-ab5a-4287-91ba-b91167efb12a" },
+  { n = 5, title = "7 Hours", mbid = "a07aa995-3ffe-49cc-8087-beea8c4bf93e" },
+  { n = 6, title = "Dancing in the Courthouse", mbid = "584852b6-2c02-4615-9193-ae85c4985ea9" },
+  { n = 7, title = "Bodies", mbid = "c4dad75c-e1a8-49c5-9292-430be4516871" },
+  { n = 8, title = "Sunburn", mbid = "dd6fceb2-7e69-436c-bbf0-5ec5fb13d7d2" },
+  { n = 9, title = "Pasture Child", mbid = "4dc750f1-17d2-4db1-9ed2-cc74d84e8bc5" },
+  { n = 10, title = "4x4", mbid = "4e7dfebe-bda7-4c48-b71c-4277757322d2" },
+  { n = 11, title = "Frisky", mbid = "4d5bfcbb-3a10-49b9-9e09-c1b9723090aa" },
+  { n = 12, title = "Mama’s Boy", mbid = "1e8ae802-d652-46d1-9758-cf9a70f026af" },
+  { n = 13, title = "Dark", mbid = "70d0d37c-885c-446d-8b68-d9df5050eb76" },
+  { n = 14, title = "What Kinda Woman", mbid = "4f7baf43-5900-443b-85df-6974c22a9d78" },
+]
+
+[[release]]
+mbid = "02a4b0fd-7bda-4efe-9425-9ac63d8e310a"
+title = "Hey Blondie"
+type = "single"
+date = "2023-07-21"
+spotify = "4xkTjrcq1DSA8fZ09ILDm5"
+tracks = [
+  { n = 1, title = "Hey Blondie", mbid = "6c4d8afd-80a1-46bc-974d-00631e06a448" },
+]
+
+[[release]]
+mbid = "1350570e-5a48-4c1c-a2ee-f43611ffd20e"
+title = "14 minutes"
+type = "ep"
+date = "2024-05-03"
+spotify = "2qwv7hNjSGfLarHY2adeq9"
+tracks = [
+  { n = 1, title = "megaman", mbid = "b61aa34b-ecd6-4707-a539-9e24742c230f" },
+  { n = 2, title = "hi grace", mbid = "52510077-da76-4284-ac46-425abbe21108" },
+  { n = 3, title = "1.23.23", mbid = "9eb9609c-1317-4e93-aa2f-7ae7434cc475" },
+  { n = 4, title = "THICKRICK", mbid = "644bc776-0440-4f0d-baba-dc6c10cc2f1f" },
+  { n = 5, title = "bowie box", mbid = "ae91bd4b-b389-479f-be43-e69cff38f13f" },
+  { n = 6, title = "misses", mbid = "604c1218-555a-4cc3-beff-5383ca4ccc77" },
+  { n = 7, title = "to say to say", mbid = "a60c40d9-9632-4bcd-98b1-3ddb5ebc01ae" },
+  { n = 8, title = "coast2coast", mbid = "011b0fbc-1b05-4da6-85ca-7f713b1216b7" },
+]
+
+[[release]]
+mbid = "e847e485-81b3-464d-976b-43e20735a6cb"
+title = "Love Hangover"
+type = "single"
+date = "2025-01-31"
+spotify = "3vTmTXu1fTOw2vRn6bfI5j"
+tracks = [
+  { n = 1, title = "Love Hangover", mbid = "02fe9461-d166-45ac-94ea-836cd1dd2cb8" },
+]
+
+[[release]]
+mbid = "60c6c9e7-d6d3-43ce-9949-254963ef441e"
+title = "Geezer"
+type = "single"
+date = "2025-06-13"
+spotify = "7ludJVUn2P4sfeQPzQ62eO"
+tracks = [
+  { n = 1, title = "Geezer", mbid = "5022790c-db89-40b3-ada5-da28f3a3337b" },
+]
+
+[[release]]
+mbid = "44498f94-fd3a-463f-abf5-b6aa777369aa"
+title = "White Keys"
+type = "single"
+date = "2025-11-14"
+spotify = "0PRccyeXfXZBxi8dkIv17c"
+tracks = [
+  { n = 1, title = "White Keys", mbid = "545779be-3333-465d-998b-f2d0e9418582" },
+]
+
+[[release]]
+mbid = "6aa43f70-674e-4fe7-8b1f-c69ad79db012"
+title = "Images of Love"
+type = "single"
+date = "2025-12-05"
+tracks = [
+  { n = 1, title = "Images of Love", mbid = "61588cd8-40c0-492f-b362-f7aef4cd3419" },
+]
+
+[[release]]
+mbid = "4c073155-47e5-4592-98bf-a73f08ec1c8d"
+title = "Images of Love (with Dominic Fike)"
+type = "single"
+date = "2025-12-05"
+spotify = "2Fwe7dJvmbzU3m2gJKXn2D"
+tracks = [
+  { n = 1, title = "Images of Love (with Dominic Fike)", mbid = "61588cd8-40c0-492f-b362-f7aef4cd3419" },
+]
+
+[[release]]
+mbid = "d78e26cf-af34-474e-8a44-cb70f5530297"
+title = "Wallflower"
+type = "single"
+date = "2026-08-28"
+spotify = "2qTsxiYvMYv1uJIzcj29Ao"
+tracks = [
+  { n = 1, title = "Wallflower", mbid = "63989934-bff8-4f63-b3cc-c49670386126" },
+]
+
+[[release]]
+mbid = "ddbc3206-505d-4a02-9c9c-82e7f414e809"
+title = "Small Town"
+type = "single"
+date = "2026-09-18"
+spotify = "5HWgZgMLGybC8F7RMHL7Y2"
+tracks = [
+  { n = 1, title = "Small Town", mbid = "dac9a3ec-43ee-4d02-adac-989266d87415" },
+]
+
+[[release]]
+mbid = "6edbf231-82fb-47e9-b291-8dd5482add13"
+title = "Pangea"
+type = "single"
+date = "2026-10-19"
+spotify = "7F0wEfyBPyUlHyCnXHQwiG"
+tracks = [
+  { n = 1, title = "Pangea", mbid = "85b2b203-249e-4480-b7ab-8d6073dd562f" },
+]
+
+[[release]]
+mbid = "2b30d561-41b0-4d5a-965f-13b4d21bd8e3"
+title = "How To Quit Smoking"
+type = "album"
+date = "2026-10-30"
+spotify = "4JxUxYheA8Xs2dvEZTWsyg"
+tracks = [
+  { n = 1, title = "Wallflower", mbid = "63989934-bff8-4f63-b3cc-c49670386126" },
+  { n = 2, title = "Track 2", mbid = "dac9a3ec-43ee-4d02-adac-989266d87415" },
+  { n = 3, title = "Track 3", mbid = "2a54d7c2-b29e-49da-a8a7-134328e83a61" },
+  { n = 4, title = "Track 4", mbid = "871c48bb-8e0c-4387-9ca3-2b67d0b71afb" },
+  { n = 5, title = "Track 5", mbid = "b0a72dab-ab97-447f-9423-e54be9c81101" },
+  { n = 6, title = "Track 6", mbid = "54b07c87-75cc-4895-83e4-8bc736d4cf36" },
+  { n = 7, title = "Track 7", mbid = "b469820b-11d7-48f2-bbbc-3320eaf9ee0d" },
+  { n = 8, title = "Track 8", mbid = "80f062e4-8567-4e94-97d2-11ba7bb27331" },
+  { n = 9, title = "Track 9", mbid = "1883556f-cc50-4d2c-8bcc-219ae90265da" },
+  { n = 10, title = "Track 10", mbid = "644b5f32-c46c-4b82-941b-2ecf08657ffe" },
+  { n = 11, title = "Track 11", mbid = "db16e1bf-8ad6-474c-b219-02fd74037bf5" },
+  { n = 12, title = "Track 12", mbid = "6c9f0915-a3fe-4043-bd68-98b01bcecb11" },
+  { n = 13, title = "Track 13", mbid = "39277705-66b2-4d9a-9de7-cd9dd8b05459" },
+  { n = 14, title = "Track 14", mbid = "15346a5b-adfb-4662-a72c-3b00cded8e84" },
+  { n = 15, title = "Track 15", mbid = "7c02ceb3-bd28-45c1-8de6-a83499d70dad" },
+]

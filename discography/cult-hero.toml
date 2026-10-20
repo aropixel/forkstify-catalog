@@ -1,0 +1,11 @@
+format = 1
+
+[[release]]
+mbid = "6fcb8333-e2f8-393e-a0a7-560c678bb901"
+title = "I’m a Cult Hero"
+type = "single"
+date = "1979-12"
+tracks = [
+  { n = 1, title = "I’m a Cult Hero", mbid = "7915a3f5-afdb-4be8-ad19-e6a512a1d6b5" },
+  { n = 2, title = "I Dig You", mbid = "40ee2c55-26fa-49f9-9d5b-d6f0369146e2" },
+]

@@ -1,0 +1,417 @@
+format = 1
+
+[[release]]
+mbid = "35a4f900-60c1-3f79-8cdb-193941b78768"
+title = "The New Wave"
+type = "single"
+date = "1994-04-11"
+tracks = [
+  { n = 1, title = "The New Wave (full length)", mbid = "d54a68ab-929a-461b-98bc-40168bfc1d73" },
+  { n = 2, title = "The New Wave (edit)", mbid = "d06eb3be-44fa-4703-b12f-10903246479b" },
+  { n = 3, title = "Assault", mbid = "d3cf1fff-e63c-4b5d-af26-8b9f177ca7a1" },
+  { n = 4, title = "Alive (New Wave Final mix)", mbid = "a08473a1-e622-49cc-bb97-65f813429025" },
+]
+
+[[release]]
+mbid = "d86198a6-29e6-3748-93a8-1a4a0fadef57"
+title = "Da Funk"
+type = "single"
+date = "1995-12-07"
+spotify = "4iPei0ERbLxTwUd888Hv5G"
+tracks = [
+  { n = 1, title = "Da Funk", mbid = "4cde50af-2c78-4202-b8d0-30c1d916db97" },
+  { n = 2, title = "Rollin' & Scratchin'", mbid = "bfbd9b4b-12c6-405d-9681-45cb71057985" },
+]
+
+[[release]]
+mbid = "5b1c02ac-8608-3857-a9b6-62e056177d96"
+title = "Around the World"
+type = "single"
+date = "1996"
+spotify = "4TaKGJaappn4hWMuLdwUEF"
+tracks = [
+  { n = 1, title = "Around the World (Motorbass Miami mix)", mbid = "de114899-3074-4b2a-873a-98f0aea9f710" },
+  { n = 2, title = "Around the World (I:Cube remix)", mbid = "844ea2fd-c12a-47cd-9dcc-873b9fe7a5c6" },
+]
+
+[[release]]
+mbid = "4a25766d-f1ab-30de-9599-e0e0920df0a4"
+title = "Revolution 909"
+type = "single"
+date = "1996"
+spotify = "2Xjx9rNWxYrLeBHOIwZV9r"
+tracks = [
+  { n = 1, title = "Revolution 909 (radio edit)", mbid = "bdfc87af-aa1a-4f03-9e7a-1b388148a9bb" },
+  { n = 2, title = "Revolution 909 (Roger Sanchez & Junior Sanchez remix)", mbid = "c4d0a019-b324-4f95-8b3a-1041c849e604" },
+  { n = 3, title = "Revolution 909 (revolution a cappella)", mbid = "8df063aa-5f25-4aa0-9a89-ba0b7d07a911" },
+  { n = 4, title = "Revolution 909", mbid = "0a6e234d-0c9d-41e0-bce7-5c0ca09befbd" },
+]
+
+[[release]]
+mbid = "af768bc7-cd05-342a-8e9f-c53b3881278f"
+title = "Indo Silver Club"
+type = "single"
+date = "1996-02-26"
+tracks = [
+  { n = 1, title = "Indo Silver Club, Part One", mbid = "8a6501a2-10e2-4d30-8625-08d3260ba421" },
+  { n = 2, title = "Indo Silver Club, Part Two", mbid = "4b760480-5dff-4992-b77c-4a881cf72ecd" },
+]
+
+[[release]]
+mbid = "73569814-a0a7-3969-be46-b88de57297b9"
+title = "Assault"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Assault", mbid = "684837fb-bcc6-4711-80bc-d8d41845f4e5" },
+  { n = 2, title = "Alive", mbid = "a08473a1-e622-49cc-bb97-65f813429025" },
+]
+
+[[release]]
+mbid = "00054665-89fa-33d5-a8f0-1728ea8c32c3"
+title = "Homework"
+type = "album"
+date = "1997-01-20"
+spotify = "6JRaPcrT3cMBEmkgSqEPhI"
+tracks = [
+  { n = 1, title = "Daftendirekt", mbid = "10cdacde-e54a-412a-863b-81d9ea6b3df2" },
+  { n = 2, title = "WDPK 83.7 FM", mbid = "9fc87ed0-cf62-4447-b411-d0832eb9daae" },
+  { n = 3, title = "Revolution 909", mbid = "0a6e234d-0c9d-41e0-bce7-5c0ca09befbd" },
+  { n = 4, title = "Da Funk", mbid = "4cde50af-2c78-4202-b8d0-30c1d916db97" },
+  { n = 5, title = "Phœnix", mbid = "28651acc-1f13-4431-b2de-d93a33a50084" },
+  { n = 6, title = "Fresh", mbid = "9ca385f4-4082-494a-974a-b1a8aa997838" },
+  { n = 7, title = "Around the World", mbid = "7813d6e5-fe21-4cd0-8f8b-82b7c15662ae" },
+  { n = 8, title = "Rollin’ & Scratchin’", mbid = "bfbd9b4b-12c6-405d-9681-45cb71057985" },
+  { n = 9, title = "Teachers", mbid = "3707ab0d-ff31-46a2-9056-d094bae44c3e" },
+  { n = 10, title = "High Fidelity", mbid = "95ab771e-62b4-4324-befd-024356c190c6" },
+  { n = 11, title = "Rock’n Roll", mbid = "a42b76a0-3bd1-4c3a-8e83-751f48d818ec" },
+  { n = 12, title = "Oh Yeah", mbid = "89ae9c78-7e38-40ec-bf9f-79d1f2678890" },
+  { n = 13, title = "Burnin’", mbid = "5fceebe4-d425-4e83-85d0-b4ee61b8d8d6" },
+  { n = 14, title = "Indo Silver Club", mbid = "1285a717-b387-4353-91d4-3ea357dfc9c5" },
+  { n = 15, title = "Alive", mbid = "a08473a1-e622-49cc-bb97-65f813429025" },
+  { n = 16, title = "Funk Ad", mbid = "eab36835-9fa7-4598-a50a-8bb114c9c5fb" },
+]
+
+[[release]]
+mbid = "8dfbd2f1-be5d-3b42-9d7a-8ab3a6d66cb6"
+title = "Burnin’"
+type = "single"
+date = "1997-09-01"
+tracks = [
+  { n = 1, title = "Burnin’ (edit version)", mbid = "6373694b-2bae-4bc1-89a3-8545441304c9" },
+  { n = 2, title = "Burnin’ (Ian Pooley “Cut Up mix”)", mbid = "d94be8de-7431-4a9b-9d13-d238c55a9f01" },
+]
+
+[[release]]
+mbid = "1f63ade9-c584-37c3-84b2-930a7d5c353b"
+title = "One More Time"
+type = "single"
+date = "2000-09-28"
+spotify = "0bHuuhpKn42ktYbyTIeumE"
+tracks = [
+  { n = 1, title = "One More Time (short radio edit)", mbid = "c3c3b281-5943-4c7d-bd1c-69d877277714" },
+  { n = 2, title = "One More Time (radio edit)", mbid = "9dbdc948-790e-4b96-b5f0-7067ee724ae7" },
+  { n = 3, title = "One More Time (club mix)", mbid = "38523c69-718a-40ef-872c-422c86fc74ac" },
+]
+
+[[release]]
+mbid = "48117b90-a16e-34ca-a514-19c702df1158"
+title = "Discovery"
+type = "album"
+date = "2001-02-26"
+spotify = "2noRn2Aes5aoNVsU6iWThc"
+tracks = [
+  { n = 1, title = "One More Time", mbid = "60fa767a-d85d-4991-82bc-4294e0b11ae7" },
+  { n = 2, title = "Aerodynamic", mbid = "7c0e11a3-1c7a-4e6d-a14d-6e86d86dbaad" },
+  { n = 3, title = "Digital Love", mbid = "15f16efc-8762-4151-95ab-c12d06268640" },
+  { n = 4, title = "Harder, Better, Faster, Stronger", mbid = "f1a6a40f-78f5-4918-968d-f64363bae94c" },
+  { n = 5, title = "Crescendolls", mbid = "d63ad586-1124-4df1-9a2b-c014d7b7cb02" },
+  { n = 6, title = "Nightvision", mbid = "712edd8d-b413-4e4e-aca4-9b91fce2e65c" },
+  { n = 7, title = "Superheroes", mbid = "8a98614f-0533-44ef-890a-639cab407a2d" },
+  { n = 8, title = "High Life", mbid = "07b720fc-0d6f-4342-a6df-876d1749de0b" },
+  { n = 9, title = "Something About Us", mbid = "defbfcb2-7a5c-4456-be28-b7e5ccf92cc2" },
+  { n = 10, title = "Voyager", mbid = "e1fe1d12-dac2-4325-ae1b-25e0ef06b998" },
+  { n = 11, title = "Veridis Quo", mbid = "2a220770-1150-4190-b0e0-57d89a0a7469" },
+  { n = 12, title = "Short Circuit", mbid = "3f60ae01-43cc-4db9-86ec-97b79f83764f" },
+  { n = 13, title = "Face to Face", mbid = "59038571-03ea-4ca4-965c-a57eae2aa138" },
+  { n = 14, title = "Too Long", mbid = "1a915a2d-e2f4-4300-a230-96fc9c8a7b60" },
+]
+
+[[release]]
+mbid = "c265ac4b-aa80-3f8b-83f7-47b81d8175c0"
+title = "Aerodynamic"
+type = "single"
+date = "2001-03-23"
+tracks = [
+  { n = 1, title = "Aerodynamic", mbid = "97414e77-d4ae-4c25-a7d9-efee274aef43" },
+  { n = 2, title = "Aerodynamite", mbid = "e36a5702-459a-49e7-8a5b-4822f49f7923" },
+]
+
+[[release]]
+mbid = "3888f64b-f8ce-3e3d-a2f7-23d83697f43d"
+title = "Digital Love"
+type = "single"
+date = "2001-04-25"
+spotify = "3UvcQMj1oRf9D3bPz4P1Zf"
+tracks = [
+  { n = 1, title = "Digital Love (radio edit)", mbid = "e76a9d91-498f-4c3d-ab5e-ff9c62f22ab8" },
+  { n = 2, title = "Digital Dub (radio edit)", mbid = "a9cf616a-de6d-4a6f-a3ba-67a582637cb6" },
+]
+
+[[release]]
+mbid = "aa5b9bea-dcdf-4911-838f-8f90b0fc1171"
+title = "Harder, Better, Faster, Stronger"
+type = "single"
+date = "2001-10-22"
+tracks = [
+  { n = 1, title = "Harder, Better, Faster, Stronger (album version)", mbid = "f1a6a40f-78f5-4918-968d-f64363bae94c" },
+  { n = 2, title = "Harder, Better, Faster, Stronger (Breakers Break remix)", mbid = "b1a88e4a-5526-47e1-88f0-96eaf547c848" },
+]
+
+[[release]]
+mbid = "13ba6204-83e8-3bf2-aeb4-05b14acc9167"
+title = "Something About Us: Love Theme From Interstella 5555"
+type = "single"
+date = "2003-11-17"
+spotify = "2CvZLTWcP7LMVV4GkE67xH"
+tracks = [
+  { n = 1, title = "Something About Us (Love Theme From Interstella 5555)", mbid = "43c55fb8-d18f-4ff3-a0d8-c6b54da43e5b" },
+  { n = 2, title = "Veridis Quo", mbid = "2a220770-1150-4190-b0e0-57d89a0a7469" },
+  { n = 3, title = "Voyager (Dominique Torti’s Wild Style edit)", mbid = "15dae73a-e743-49dd-b2a5-77ed31c8b551" },
+  { n = 4, title = "Something About Us (album version)", mbid = "defbfcb2-7a5c-4456-be28-b7e5ccf92cc2" },
+]
+
+[[release]]
+mbid = "da00fcb0-4c72-3612-8a14-4ba083505fe2"
+title = "Robot Rock"
+type = "single"
+date = "2005-01-25"
+spotify = "6nwye4zd7OY5FmMKZRMiDl"
+tracks = [
+  { n = 1, title = "Robot Rock (edit)", mbid = "a40ded37-1af6-4465-8751-0be9bcd9eee0" },
+]
+
+[[release]]
+mbid = "f9e8042a-674e-3f01-80ec-7f0ab1c537df"
+title = "Human After All"
+type = "album"
+date = "2005-03-01"
+spotify = "2T7DdrOvsqOqU9bGTkjBYu"
+tracks = [
+  { n = 1, title = "Human After All", mbid = "1f7b6b76-ea87-428b-b731-52ea62a708d2" },
+  { n = 2, title = "The Prime Time of Your Life", mbid = "955a556d-7cda-4060-b402-bbfaf9d96c44" },
+  { n = 3, title = "Robot Rock", mbid = "f92e924f-e795-433b-95ce-b256098abfd6" },
+  { n = 4, title = "Steam Machine", mbid = "0ca77e5a-1c86-440b-a8e4-fa8c4b296c9c" },
+  { n = 5, title = "Make Love", mbid = "82f8a6c1-21b1-4aec-96ed-d76a473b38c6" },
+  { n = 6, title = "The Brainwasher", mbid = "a6a58800-dd8f-4649-a61a-369a82d9ef38" },
+  { n = 7, title = "On/Off", mbid = "21a0211f-b7e5-4800-aa89-461591ac2a01" },
+  { n = 8, title = "Television Rules the Nation", mbid = "76fa60bf-10c5-46d1-a47a-bf156dec2035" },
+  { n = 9, title = "Technologic", mbid = "48d9340a-0c6a-469a-b043-eeaec9f577c6" },
+  { n = 10, title = "Emotion", mbid = "fd0da185-a03d-405f-b7f2-8a271c6f632b" },
+]
+
+[[release]]
+mbid = "8a8ca5fc-4eff-3aa8-939b-9c064ba73d7f"
+title = "Technologic"
+type = "single"
+date = "2005-06-06"
+spotify = "5QXkaMax7wx3eI65FUSboS"
+tracks = [
+  { n = 1, title = "Technologic (Basement Jaxx Kontrol Mixx)", mbid = "7f569533-08d3-42fd-acce-4c5d23ac8e92" },
+  { n = 2, title = "Technologic (Vitalic remix)", mbid = "fb751a1b-4fde-4cf3-bf4c-6cf7f8bcd599" },
+  { n = 3, title = "Technologic (Digitalism's Highway to Paris remix)", mbid = "1bb95b8f-31da-4028-876b-c07496903916" },
+  { n = 4, title = "Technologic (Peaches No Logic remix)", mbid = "71a8e994-5042-4dc6-8ea0-3ae7349da46d" },
+  { n = 5, title = "Technologic (radio edit)", mbid = "fbb595a4-23f8-48c0-9c0d-43e54ea71045" },
+]
+
+[[release]]
+mbid = "14d335b6-71e9-43a3-9ad8-cf8367990c23"
+title = "Human After All"
+type = "single"
+date = "2005-10-21"
+tracks = [
+  { n = 1, title = "Human After All", mbid = "1f7b6b76-ea87-428b-b731-52ea62a708d2" },
+  { n = 2, title = "Human After All (Justice remix)", mbid = "10f05631-cb9b-467c-8349-eea641022b97" },
+  { n = 3, title = "Human After All (Emperor Machine version)", mbid = "fae2db2d-90d4-40b6-8ff4-aeef78624b31" },
+  { n = 4, title = "Human After All (Alter Ego remix)", mbid = "9f5df0bb-1244-4627-87fb-aeb79869f1ea" },
+  { n = 5, title = "Human After All (SebastiAn remix)", mbid = "12f055b1-1654-48a5-ae42-765dbba00255" },
+  { n = 6, title = "Human After All (The Juan MacLean remix)", mbid = "d6d4bf70-561e-44a2-8989-084fd8903452" },
+]
+
+[[release]]
+mbid = "f9b52398-c578-32c4-95a6-b2e4a9bdc472"
+title = "Prime Time of Your Life"
+type = "single"
+date = "2006-05-27"
+tracks = [
+  { n = 1, title = "Prime Time of Your Life", mbid = "955a556d-7cda-4060-b402-bbfaf9d96c44" },
+  { n = 2, title = "Prime Time of Your Life (Para One remix)", mbid = "6943fab7-444f-47a0-ae18-099125cfea02" },
+  { n = 3, title = "The Brainwasher (Erol Alkan’s Horrorhouse Dub)", mbid = "1b0f9355-7a45-4ecc-bfe8-187573450cd0" },
+  { n = 4, title = "Technologic (Digitalism’s RMX)", mbid = "5dcdf041-b98f-4fcc-803f-e4b09374ba1b" },
+]
+
+[[release]]
+mbid = "e4d45d1f-55dc-488f-a774-6ee82dbe9c86"
+title = "Drive (Unreleased 1994)"
+type = "single"
+date = "2010"
+tracks = [
+  { n = 1, title = "Drive", mbid = "34a51b84-d1ac-427d-b277-034caebe541d" },
+]
+
+[[release]]
+mbid = "b585e56e-69cb-4f53-9597-320af5e5f541"
+title = "TRON: Legacy"
+type = "album"
+date = "2010-12-03"
+spotify = "4US3nmuLIKELhVZdBPiKxx"
+tracks = [
+  { n = 1, title = "Overture", mbid = "858f5d53-4cf9-42b1-b1c5-81420a032e2c" },
+  { n = 2, title = "The Grid", mbid = "15d45d57-f939-4279-8305-2e660d2f7f0c" },
+  { n = 3, title = "The Son of Flynn", mbid = "007e7a6d-944d-4046-96f8-615aad34837c" },
+  { n = 4, title = "Recognizer", mbid = "76a3901c-b1eb-42f6-8bf8-9fe6991339d8" },
+  { n = 5, title = "Armory", mbid = "e62adcf7-adc5-4d7b-9665-c88329fb8030" },
+  { n = 6, title = "Arena", mbid = "575d1039-43e5-4c38-9c7a-1566600491ff" },
+  { n = 7, title = "Rinzler", mbid = "e5bcb6a7-c1d9-4fc2-b0ff-f00b20cd5b05" },
+  { n = 8, title = "The Game Has Changed", mbid = "660404c9-a3e5-43c5-bd76-4339b00190e6" },
+  { n = 9, title = "Outlands", mbid = "f16fd55f-2eba-4c4e-b667-1f244037f10a" },
+  { n = 10, title = "Adagio for TRON", mbid = "bea00600-c226-4216-96bc-4a487f4de7cf" },
+  { n = 11, title = "Nocturne", mbid = "42470842-44bf-48d8-92fc-a0d5e39182c4" },
+  { n = 12, title = "End of Line", mbid = "c25aba65-17ae-4f2e-a8a8-5aefa4e1348b" },
+  { n = 13, title = "Derezzed", mbid = "66f340f5-ccaa-4b63-a6ec-dcf67c6982df" },
+  { n = 14, title = "Fall", mbid = "afcc5bd3-1f0f-4c3e-b8b0-ddb59b96296d" },
+  { n = 15, title = "Solar Sailer", mbid = "8a688b72-49f5-449a-85af-31af6d27043f" },
+  { n = 16, title = "Rectifier", mbid = "c67490e8-56a0-4cb8-a6f9-d932895b4c26" },
+  { n = 17, title = "Disc Wars", mbid = "236bed16-209e-4f6c-bc8c-9ba685852787" },
+  { n = 18, title = "C.L.U.", mbid = "56346b16-32ce-482c-ad13-ff5f28714cc7" },
+  { n = 19, title = "Arrival", mbid = "99a355cc-ab08-400d-8b18-84ed1fe2bcda" },
+  { n = 20, title = "Flynn Lives", mbid = "ebbbe19b-e08d-4957-9445-d81745a96a93" },
+  { n = 21, title = "TRON Legacy (End Titles)", mbid = "dec7f17f-0399-40cf-ab47-b0d1ea6a6767" },
+  { n = 22, title = "Finale", mbid = "101c3d11-4f80-45be-bf69-1cba778438c1" },
+  { n = 23, title = "Sea of Simulation", mbid = "7fd5828b-d41e-44a9-9504-2905cbe98377" },
+  { n = 24, title = "Encom, Part II", mbid = "10e1393b-6ed4-45b7-a461-6889cc340e6e" },
+  { n = 25, title = "Encom, Part I", mbid = "520a09bc-4cb9-452f-9a50-703b0c5637fd" },
+  { n = 26, title = "Round One", mbid = "2aa7f91e-ac6f-4f95-9f47-876c1f1919f8" },
+  { n = 27, title = "Castor", mbid = "d253e814-a07e-4d7e-bbc2-bac6d86645c0" },
+  { n = 28, title = "Reflections", mbid = "9fed8281-d85a-4e53-a168-34251b0aaa28" },
+  { n = 29, title = "Sunrise Prelude", mbid = "b0700595-a0c0-4151-b7fd-12b046ebc9df" },
+]
+
+[[release]]
+mbid = "34aace74-9378-48dd-ad9b-93f1336f5861"
+title = "Derezzed"
+type = "single"
+date = "2010-12-08"
+spotify = "3wDNqlA3VDqLKyeTlHKO8P"
+tracks = [
+  { n = 1, title = "Derezzed", mbid = "66f340f5-ccaa-4b63-a6ec-dcf67c6982df" },
+]
+
+[[release]]
+mbid = "1c90e3ab-e2c3-4fde-b93c-4ff6a0c69b06"
+title = "Translucence"
+type = "single"
+date = "2011-04-16"
+tracks = [
+  { n = 1, title = "Derezzed", mbid = "66f340f5-ccaa-4b63-a6ec-dcf67c6982df" },
+  { n = 2, title = "Tron Legacy", mbid = "dec7f17f-0399-40cf-ab47-b0d1ea6a6767" },
+  { n = 3, title = "End of the Line", mbid = "c25aba65-17ae-4f2e-a8a8-5aefa4e1348b" },
+  { n = 4, title = "Castor", mbid = "d253e814-a07e-4d7e-bbc2-bac6d86645c0" },
+]
+
+[[release]]
+mbid = "b3916e07-4d0f-4ff0-bfd6-0f94060d401e"
+title = "TRON: Legacy Collector’s Digital EP"
+type = "ep"
+date = "2011-04-19"
+tracks = [
+  { n = 1, title = "Sea of Simulation", mbid = "7fd5828b-d41e-44a9-9504-2905cbe98377" },
+  { n = 2, title = "Encom, Part II", mbid = "10e1393b-6ed4-45b7-a461-6889cc340e6e" },
+  { n = 3, title = "Encom, Part I", mbid = "520a09bc-4cb9-452f-9a50-703b0c5637fd" },
+  { n = 4, title = "Round One", mbid = "2aa7f91e-ac6f-4f95-9f47-876c1f1919f8" },
+  { n = 5, title = "Castor", mbid = "d253e814-a07e-4d7e-bbc2-bac6d86645c0" },
+  { n = 6, title = "Reflections", mbid = "9fed8281-d85a-4e53-a168-34251b0aaa28" },
+  { n = 7, title = "Sunrise Prelude", mbid = "b0700595-a0c0-4151-b7fd-12b046ebc9df" },
+]
+
+[[release]]
+mbid = "00eb1335-7ff0-4dd6-8cee-51f395b06fd3"
+title = "Human After All (Medley)"
+type = "single"
+date = "2012-06-22"
+tracks = [
+  { n = 1, title = "Human After All (Medley)", mbid = "dc08b223-4607-405e-b8d5-b6611252255a" },
+]
+
+[[release]]
+mbid = "9b7ce16c-8310-4cc5-aad5-09893a5a8297"
+title = "Get Lucky"
+type = "single"
+date = "2013-04-19"
+spotify = "2ePFIvZKMe8zefATp9ofFA"
+tracks = [
+  { n = 1, title = "Get Lucky (radio edit)", mbid = "744787e9-444c-4494-a544-7640dafc0e9d" },
+]
+
+[[release]]
+mbid = "aa997ea0-2936-40bd-884d-3af8a0e064dc"
+title = "Random Access Memories"
+type = "album"
+date = "2013-05-17"
+spotify = "4m2880jivSbbyEGAKfITCa"
+tracks = [
+  { n = 1, title = "Give Life Back to Music", mbid = "0c871a4a-efdf-47f8-98c2-cc277f806d2f" },
+  { n = 2, title = "The Game of Love", mbid = "294a1b4d-ebc0-4b03-be25-6171d382cb58" },
+  { n = 3, title = "Giorgio by Moroder", mbid = "cac27da9-20c5-4722-9a25-f2c26e2c04cf" },
+  { n = 4, title = "Within", mbid = "20999e3e-b964-4d66-b7c2-660fc45178bb" },
+  { n = 5, title = "Instant Crush", mbid = "dbc0da50-4bc6-4230-9e7b-136b5dc2b31a" },
+  { n = 6, title = "Lose Yourself to Dance", mbid = "9f381fef-7bbd-4f2a-be8b-2acd072bb7e1" },
+  { n = 7, title = "Touch", mbid = "2c718ee9-ad54-4016-ae43-e8df5ea1b4e1" },
+  { n = 8, title = "Get Lucky", mbid = "833f00e1-781f-4edd-90e4-e52712618862" },
+  { n = 9, title = "Beyond", mbid = "ce495790-b2f7-4ff0-858c-8df38c2025ab" },
+  { n = 10, title = "Motherboard", mbid = "762e120f-6d52-4fae-a796-699ae0a0ea9f" },
+  { n = 11, title = "Fragments of Time", mbid = "770894b7-030e-404d-a833-4a77d0558cb2" },
+  { n = 12, title = "Doin’ It Right", mbid = "4e4a5947-a6e5-4091-9b42-f7e9ba387c1b" },
+  { n = 13, title = "Contact", mbid = "78194fbe-3bcd-4afe-b4a6-7a97711c325f" },
+]
+
+[[release]]
+mbid = "985a7746-4207-45ba-9400-49796eaaaf72"
+title = "Starboy"
+type = "single"
+date = "2016-09-21"
+spotify = "43q3pqbLczNrtr8vVTtcbM"
+tracks = [
+  { n = 1, title = "Starboy", mbid = "32d23acd-98d0-400c-ace7-98b17a6e58ef" },
+]
+
+[[release]]
+mbid = "0f813c16-1663-49fa-8316-fb32766dd554"
+title = "I Feel It Coming"
+type = "single"
+date = "2016-11-17"
+spotify = "5zLwiG6UFFIQGcUD01I7CE"
+tracks = [
+  { n = 1, title = "I Feel It Coming", mbid = "911e4813-56ea-4490-8fcd-cc3dcd0ae7ca" },
+]
+
+[[release]]
+mbid = "1f8c7f41-c3f1-4b0c-a151-943a3583f202"
+title = "The Writing of Fragments of Time"
+type = "single"
+date = "2023-03-22"
+spotify = "0URgTo9T2POPAXgjqeVHVv"
+tracks = [
+  { n = 1, title = "The Writing of Fragments of Time", mbid = "eb1a3018-e2ae-4a9f-84d3-1b38c4a35503" },
+  { n = 2, title = "Fragments of Time", mbid = "770894b7-030e-404d-a833-4a77d0558cb2" },
+]
+
+[[release]]
+mbid = "70fdfa1b-f1ed-4a6b-b52c-c96020e3bf21"
+title = "Veridis Quo"
+type = "single"
+date = "2024-12-13"
+tracks = [
+  { n = 1, title = "Veridis Quo (edit)", mbid = "47bdb22a-d0d3-4ff7-af84-325992e13e3b" },
+  { n = 2, title = "Veridis Quo", mbid = "2a220770-1150-4190-b0e0-57d89a0a7469" },
+]

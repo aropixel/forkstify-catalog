@@ -1,0 +1,524 @@
+format = 1
+
+[[release]]
+mbid = "61b6a090-1c81-4f69-b99c-69a4b6d4be18"
+title = "County Line / Sticky Fingers"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "County Line (radio version)", mbid = "1cb048d3-313a-4c78-842a-bafb6278da00" },
+  { n = 2, title = "Sticky Fingers (radio version)", mbid = "b624e719-f1de-46d7-b1b7-6ac0c831d1d5" },
+  { n = 3, title = "County Line (vocal version)", mbid = "cec0c30e-945c-4407-b8c4-f42f919ce5a3" },
+  { n = 4, title = "Sticky Fingers (vocal version)", mbid = "dc2ffc53-b705-40d6-b596-1de5c11b192c" },
+  { n = 5, title = "County Line (instrumental)", mbid = "980e9af9-d6a6-44d6-ac35-eb4f2fdc9534" },
+  { n = 6, title = "Sticky Fingers (instrumental)", mbid = "dbfbeb42-d88a-4592-abf2-8a716827cbf9" },
+]
+
+[[release]]
+mbid = "f0572666-c9b3-32a2-872a-ebc096ce5d63"
+title = "I Remember"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "I Remember (album mix)", mbid = "77850ba4-060b-4bc3-9292-72000e3fa186" },
+  { n = 2, title = "I Remember (original version)", mbid = "6462b4b8-2847-474b-8e36-9093e698bf80" },
+  { n = 3, title = "I Remember (LA remix)", mbid = "b468a77f-4b91-4c75-80e0-ee19bd54e420" },
+  { n = 4, title = "I Remember (Kendal’s J Funk remix)", mbid = "8d17cad2-a99e-43a1-8535-415a18d01361" },
+  { n = 5, title = "Mama I’m In Love Wit’ a Gangsta (album mix)", mbid = "e5c97e0c-78ee-4dd8-972d-7bf57046268a" },
+  { n = 6, title = "I Remember (LA remix instr.)", mbid = "5d64cccb-1f29-4367-9d7c-23768cd35eea" },
+  { n = 7, title = "I Remember (Kendal’s J Funk instr.)", mbid = "d039f33f-fd1e-49e7-9de3-ff3e787817b4" },
+]
+
+[[release]]
+mbid = "80d32c51-d3f8-39b3-9467-1d004e63cd30"
+title = "Fantastic Voyage"
+type = "single"
+date = "1994-07-11"
+tracks = [
+  { n = 1, title = "Fantastic Voyage (album version)", mbid = "40fb2fad-414e-4ca7-a214-c006c38cfa52" },
+  { n = 2, title = "Fantastic Voyage (Timber mix)", mbid = "7dcde633-969b-44aa-80ad-7889e251666d" },
+  { n = 3, title = "Fantastic Voyage (Dave Bellochio Street mix)", mbid = "aac6020a-3ca2-47d1-84a7-81b04990775b" },
+  { n = 4, title = "Fantastic Voyage (QDill remix)", mbid = "25a7f737-f4eb-4824-a6ef-9386b41526ef" },
+  { n = 5, title = "U Know Hoo! (album version)", mbid = "567c68fb-4b38-4f9a-b101-42c2b272cf15" },
+  { n = 6, title = "Fantastic Voyage (Qdill Bonus Beats)", mbid = "8f816d4a-e2f5-4436-a364-930287dddfa5" },
+]
+
+[[release]]
+mbid = "5f584dd9-40c0-34ab-bd08-15650c4ba119"
+title = "It Takes a Thief"
+type = "album"
+date = "1994-07-19"
+spotify = "72hHodJKJV6cbyA5etLyNb"
+tracks = [
+  { n = 1, title = "Fantastic Voyage", mbid = "4ec09183-b7fb-459a-bcb6-585f78a172dc" },
+  { n = 2, title = "County Line", mbid = "a2d4bbba-f62a-4c93-863b-64961ba1399f" },
+  { n = 3, title = "Mama, I'm in Love Wit a Gangsta", mbid = "fddcbd21-785a-4647-af64-3614c12b491a" },
+  { n = 4, title = "Hand on My Nutsac", mbid = "faa59934-ff59-4686-80e5-2784df7670ed" },
+  { n = 5, title = "Ghetto Cartoon", mbid = "ddcfc1a2-ff6f-41a7-87e3-31c186aaba10" },
+  { n = 6, title = "Smokin' Stix", mbid = "4f7cffae-d368-404e-b798-b01a8660c00d" },
+  { n = 7, title = "Can-O-Corn", mbid = "0128b2f2-a6f7-4d0b-877a-fb55dbd28121" },
+  { n = 8, title = "U Know Hoo!", mbid = "0dab264c-bf17-4cf4-a71b-dfe001eb6a14" },
+  { n = 9, title = "It Takes a Thief", mbid = "a8fb1902-dac8-45f3-aeb3-941f783dd37b" },
+  { n = 10, title = "Bring Back Somethin fo da Hood", mbid = "efae87b9-a225-4025-9ba6-f5cfe3148724" },
+  { n = 11, title = "N da Closet", mbid = "0e32a216-6d1d-46ff-aa04-63a5cc40b1fb" },
+  { n = 12, title = "On My Way to Harlem", mbid = "03240965-1787-4378-9901-bdfbb306feef" },
+  { n = 13, title = "Sticky Fingers", mbid = "aa263c86-274f-4684-964b-849adf67f4cf" },
+  { n = 14, title = "Thought You Knew", mbid = "341bab6f-947d-4da2-b779-287fe152b2f3" },
+  { n = 15, title = "Ugly Bitches", mbid = "12b16dcc-6d6d-4df3-a753-0539119360eb" },
+  { n = 16, title = "I Remember", mbid = "c352de42-472c-478c-bea6-b092cfc1ab85" },
+]
+
+[[release]]
+mbid = "9b0e0fa9-ab53-37ae-9486-ff09b7bdee23"
+title = "Too Hot"
+type = "single"
+date = "1995"
+tracks = [
+  { n = 1, title = "Too Hot (clean version)", mbid = "410db101-8aa9-4a03-8667-2d0e2dbfc656" },
+  { n = 2, title = "Exercise Yo’ Game (clean version)", mbid = "b7838944-ef02-4c23-91f8-8c4978ad06b8" },
+]
+
+[[release]]
+mbid = "02994ff3-e782-30da-9d57-1f35d67a2c67"
+title = "Gangsta’s Paradise"
+type = "single"
+date = "1995-08-01"
+tracks = [
+  { n = 1, title = "Gangsta’s Paradise", mbid = "2f7a6735-2e09-4ce2-81e4-b148e6c39a55" },
+  { n = 2, title = "Gangsta’s Paradise (instrumental)", mbid = "ea691c83-c9b5-4206-9dc1-0bbc737dae75" },
+]
+
+[[release]]
+mbid = "de8d13e3-eb1b-326f-a56c-822dac4bb628"
+title = "Gangsta’s Paradise"
+type = "album"
+date = "1995-10-02"
+spotify = "3ugr537NspySQRHKTIrBQE"
+tracks = [
+  { n = 1, title = "That’s How It Is", mbid = "d81fa97e-4042-4748-af30-20ab68078b50" },
+  { n = 2, title = "Geto Highlites", mbid = "8b77076d-1070-45a1-bf9f-cb3dc5ce0ed2" },
+  { n = 3, title = "Gangsta’s Paradise", mbid = "2f7a6735-2e09-4ce2-81e4-b148e6c39a55" },
+  { n = 4, title = "Too Hot", mbid = "410db101-8aa9-4a03-8667-2d0e2dbfc656" },
+  { n = 5, title = "Cruisin’", mbid = "03638e1d-44b5-4626-980b-f6bb4e0fdcec" },
+  { n = 6, title = "Exercise Yo’ Game", mbid = "c513be83-308e-4440-90ba-1f3aca3b779a" },
+  { n = 7, title = "Sumpin’ New", mbid = "385facb2-e291-4656-9730-6adcaedbaf7c" },
+  { n = 8, title = "Smilin’", mbid = "3bec7f92-ca26-43e9-b835-62ee265f72b2" },
+  { n = 9, title = "Fucc Coolio", mbid = "76e5df26-7328-4022-a3ac-3635de142c56" },
+  { n = 10, title = "Kinda High Kinda Drunk", mbid = "18e56fcd-80bf-4a08-ae1b-15aa17e73ad1" },
+  { n = 11, title = "For My Sistas", mbid = "432f123c-b77b-4796-9714-ef20437e2317" },
+  { n = 12, title = "Is This Me?", mbid = "b749bcab-ced6-4d4a-8d4c-9e3dc6f44b19" },
+  { n = 13, title = "A Thing Goin’ On", mbid = "027dc734-d608-4d4e-8111-63013e9d712a" },
+  { n = 14, title = "Bright as the Sun", mbid = "9f3df1e5-d139-4e16-b214-e13ea5011d5e" },
+  { n = 15, title = "Recoup This", mbid = "1bc2a3f8-0c40-437a-9488-e4fcf5068591" },
+  { n = 16, title = "The Revolution", mbid = "fdaa262b-173f-4954-bca2-b86e9903d73d" },
+  { n = 17, title = "Get Up Get Down", mbid = "15496a32-bec2-409e-a137-be1ff8145895" },
+]
+
+[[release]]
+mbid = "dfead125-5b30-32a4-b8d5-f7a5d4acfc08"
+title = "Hit ‘em High (The Monstars’ Anthem)"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Hit ’em High (The Monstars’ Anthem) (radio edit)", mbid = "d57c1541-0916-456b-b34b-1d6ec2fa1e3c" },
+  { n = 2, title = "Hit ’em High (The Monstars’ Anthem) (extended mix)", mbid = "e885dea0-6bf2-4907-95ed-cbd34b4ae645" },
+  { n = 3, title = "Hit ’em High (The Monstars’ Anthem) (extended Track Masters remix)", mbid = "de4d8f6d-3506-40e3-af56-98aae2281366" },
+  { n = 4, title = "Hit ’em High (The Monstars’ Anthem) (original instrumental)", mbid = "160e7fee-af7a-45bf-a67a-7da70c8be185" },
+]
+
+[[release]]
+mbid = "7d0538d2-26a6-3172-9616-12bfc10938b4"
+title = "It's All the Way Live (Now)"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "It's All the Way Live (Timber mix)", mbid = "4a543972-af86-46d2-bff5-71e5d06bddca" },
+  { n = 2, title = "1,2,3,4 (Sumpin' New) (Timber mix)", mbid = "0ffcd999-fd61-4f02-996a-2a1c7bdbae3b" },
+]
+
+[[release]]
+mbid = "3c73436a-6f24-413f-a575-4c816e153223"
+title = "Keep It on the Red Light"
+type = "single"
+date = "1996"
+tracks = [
+  { n = 1, title = "Keep It on the Red Light", mbid = "c9b02b08-8603-4670-84e4-8c27a7df74bb" },
+  { n = 2, title = "Keep It on the Red Light (1000 lbs)", mbid = "239e7f61-dfb1-412f-90d6-ecc1baaddd01" },
+  { n = 3, title = "Shame on You (remix P4)", mbid = "5f8f26ce-ac9c-40eb-9973-73f32e7f5842" },
+]
+
+[[release]]
+mbid = "c7e7ffc0-21c3-37a0-9e12-f03bce4b18aa"
+title = "1, 2, 3, 4 (Sumpin’ New)"
+type = "single"
+date = "1996-03-25"
+tracks = [
+  { n = 1, title = "1, 2, 3, 4 (Sumpin' New) (Timber mix)", mbid = "f1042ac1-cb25-431d-9aca-52c614ddd9f3" },
+  { n = 2, title = "Smilin'", mbid = "9a914795-8bda-4d71-ad07-fde32f87d7f1" },
+  { n = 3, title = "1, 2, 3, 4 (Sumpin' New) (Timber mix / Extended version)", mbid = "69d4c6c5-7c45-4e9c-a1d1-f3ab8232307a" },
+  { n = 4, title = "1, 2, 3, 4 (Sumpin' New) (Timber mix / instrumental)", mbid = "4e55d6b3-c265-4d4b-a655-d9a684f172c1" },
+]
+
+[[release]]
+mbid = "5fadbd6b-83e9-389d-89b8-f4a029a4359e"
+title = "Ooh La La"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Ooh La La (album version)", mbid = "e583bcce-2921-45d6-a695-bf98e5816625" },
+  { n = 2, title = "2 Minutes & 21 Seconds of Funk", mbid = "973cd4bd-64eb-4c0c-89df-14a38a72cdc8" },
+  { n = 3, title = "Geto Highlites", mbid = "8b77076d-1070-45a1-bf9f-cb3dc5ce0ed2" },
+  { n = 4, title = "County Line", mbid = "60cb412e-7719-425a-ad62-6ee1bbfb8d88" },
+]
+
+[[release]]
+mbid = "cfa84eb3-9b8f-4bd6-ba1b-a387a6e810f4"
+title = "The Winner"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "The Winner (remix)", mbid = "a98ae5a8-c0ed-416b-986a-e7cfc74f61af" },
+  { n = 2, title = "The Winner (instrumental)", mbid = "b1d087e8-577c-4bbe-a891-a5921d430886" },
+  { n = 3, title = "The Winner (album version)", mbid = "24bb57e3-7ebf-4798-be86-e676510397d5" },
+]
+
+[[release]]
+mbid = "fac254c7-2d5c-3dd0-929b-62528dd0aa92"
+title = "C U When U Get There"
+type = "single"
+date = "1997-06-17"
+tracks = [
+  { n = 1, title = "C U When U Get There (Radio Edit)", mbid = "03290117-999c-408c-8eab-a9fb8f7076b0" },
+  { n = 2, title = "Hit 'Em (Album Version)", mbid = "908eb90b-e2af-4d18-9cde-22ac73ac8930" },
+  { n = 3, title = "The Winner (Remix)", mbid = "a98ae5a8-c0ed-416b-986a-e7cfc74f61af" },
+  { n = 4, title = "All The Way Live (Now) (Timber Mix)", mbid = "2c1a326a-16fe-482f-b29d-0128a76325c8" },
+]
+
+[[release]]
+mbid = "80ed9eb8-e223-3234-b216-05808e0cd6cf"
+title = "My Soul"
+type = "album"
+date = "1997-08-22"
+tracks = [
+  { n = 1, title = "Intro", mbid = "4a47ba21-d8d5-4cb8-a823-775f746e9073" },
+  { n = 2, title = "2 Minutes & 21 Seconds of Funk", mbid = "f421fecd-fa41-475a-a5e7-34620d86cd7e" },
+  { n = 3, title = "One Mo", mbid = "8c2f934c-3a7d-41f3-8385-394d7065a93d" },
+  { n = 4, title = "The Devil Is Dope", mbid = "f4beb839-5a5f-4697-8931-8549bb806994" },
+  { n = 5, title = "Hit 'Em", mbid = "c9cf345f-6b1f-45a1-ace8-500c8899599e" },
+  { n = 6, title = "Knight Fall", mbid = "a85f403e-bdcd-427b-9848-0896f30f2c36" },
+  { n = 7, title = "Ooh La La", mbid = "28080114-1884-4a5d-91d5-3ce9b837944d" },
+  { n = 8, title = "Can U Dig It", mbid = "3b55a77e-a342-456f-bea8-9faa3c9b8a08" },
+  { n = 9, title = "Nature of the Business", mbid = "56220108-8523-4fd1-b5db-a26f7a590b73" },
+  { n = 10, title = "Homeboy", mbid = "821e01b3-c721-4537-8a9f-88b7cd645645" },
+  { n = 11, title = "Throwndown 2000", mbid = "e1c14479-8cde-45ce-b798-ac64eb4f734d" },
+  { n = 12, title = "Can I Get Down 1x", mbid = "b083e105-bf76-4478-b3c1-7e959b419101" },
+  { n = 13, title = "Interlude", mbid = "18047990-59dd-46a1-a5e3-956e72505b53" },
+  { n = 14, title = "My Soul", mbid = "cc6079b7-c6eb-45df-a0d5-08ce87f245cf" },
+  { n = 15, title = "Let's Do It", mbid = "0ac862a2-fff3-4f27-a48b-c0360d25c1b5" },
+  { n = 16, title = "C U When U Get There", mbid = "1db1a792-a045-4e1a-a154-57ac515c1b08" },
+]
+
+[[release]]
+mbid = "100d786b-4bd1-4f3e-9d34-5dad82757b96"
+title = "Raise the Roof"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "Raise the Roof (Mousse T.’s Deep as F**k mix)", mbid = "fe5abde0-d54e-4301-8dfc-20cdbfa16838" },
+  { n = 2, title = "Raise the Roof (Mousse T.’s Fierce dub)", mbid = "90b73c27-fe6e-4ddd-9e30-a10732c8b920" },
+  { n = 3, title = "Raise the Roof (C & G house mix)", mbid = "4654226f-df9d-482e-a349-24cb258b6783" },
+  { n = 4, title = "Raise the Roof (G-Man nasty mix)", mbid = "a2788949-c894-4829-8195-15e19d7ab692" },
+]
+
+[[release]]
+mbid = "873a47c5-c224-397b-adfb-946ba9907110"
+title = "Coolio.com"
+type = "album"
+date = "2001-04-18"
+tracks = [
+  { n = 1, title = "I Like Girls", mbid = "8f3223a9-728a-4713-8b53-48cffcaf2bee" },
+  { n = 2, title = "Yo-Ho-Ho", mbid = "6cd7c634-3052-4d48-a972-edcec3b3b06f" },
+  { n = 3, title = "Gangbangers", mbid = "20527eaa-56b3-40e5-a175-da8478792ad9" },
+  { n = 4, title = "Show Me Love", mbid = "68fed6e9-f933-4fa7-81d3-e2e707e03605" },
+  { n = 5, title = "The Hustler", mbid = "aab92ac8-1635-4294-9c84-a458b1d972b0" },
+  { n = 6, title = "Right Now", mbid = "f27c7db6-de4f-461d-bc2b-9c41e716832f" },
+  { n = 7, title = "The Partay", mbid = "843ac7d2-5132-405e-aad2-120e1651fb9c" },
+  { n = 8, title = "Dead Man Walking", mbid = "681991eb-c9b4-41f4-9a5c-0950b2ef2aa3" },
+  { n = 9, title = "Life", mbid = "57e7273c-81c1-4117-8fb2-bf8c1318838d" },
+  { n = 10, title = "Would You Still Be Mine", mbid = "e27aabe8-c65c-4eff-ac43-90e35d3a7988" },
+  { n = 11, title = "Skirrrrrrrt", mbid = "444e3852-5685-4bd3-a8fa-9b06c10aa7e4" },
+  { n = 12, title = "Neighborhood Square Dance", mbid = "491e7c42-1f36-42c7-a6c7-2a9ed60c0c54" },
+  { n = 13, title = "These Are the Days", mbid = "453ed3f3-3e0a-465f-bfb2-8262656ba774" },
+  { n = 14, title = "Somebody's Gotta Die", mbid = "5b3c0b6e-83ce-4c43-b9fb-31318b50404c" },
+]
+
+[[release]]
+mbid = "a7a8d6ab-abb7-34f4-8c49-ddda432dae6f"
+title = "El Cool Magnifico"
+type = "album"
+date = "2002-10-21"
+tracks = [
+  { n = 1, title = "What Is an MC", mbid = "c62dfc27-330d-4ce1-b5e1-d3ab9a2b39d5" },
+  { n = 2, title = "Shake It Up", mbid = "a06e928c-869b-4e17-a86a-6b32a22d74b4" },
+  { n = 3, title = "Cadillac Vogues", mbid = "3d68581f-00b3-4a8f-ae83-4dc75c37c94d" },
+  { n = 4, title = "Show Me Love", mbid = "68fed6e9-f933-4fa7-81d3-e2e707e03605" },
+  { n = 5, title = "I Like Girls", mbid = "8f3223a9-728a-4713-8b53-48cffcaf2bee" },
+  { n = 6, title = "Ghetto Square Dance", mbid = "983a8ab4-6df5-4df1-96f3-5709df184200" },
+  { n = 7, title = "Would You Still Be Mine", mbid = "6ff3bcf2-f580-4241-b2c5-855f95927ee7" },
+  { n = 8, title = "Sunshine", mbid = "73d17e50-791b-4e89-b81d-970d35fb7f3f" },
+  { n = 9, title = "Hear Me Now", mbid = "5dd393af-825d-4076-9cb4-54a00768a48a" },
+  { n = 10, title = "Island Hop", mbid = "5c7a69a6-8ecf-43ad-af8e-fa700423a988" },
+  { n = 11, title = "Like This", mbid = "4b55b549-1edb-405c-ab7a-a8704d2bb2c8" },
+  { n = 12, title = "Skirrrt", mbid = "79fd9249-d5ab-438d-ba6f-2c8a19bfc90b" },
+  { n = 13, title = "Knock Out Kings", mbid = "5555d3bd-fd46-4f2e-980d-5eaf3fa18e79" },
+  { n = 14, title = "Gangbangers", mbid = "20527eaa-56b3-40e5-a175-da8478792ad9" },
+  { n = 15, title = "Pop Yo Collars", mbid = "11e2002e-9ec5-43b6-9a3b-052d5584b6bd" },
+]
+
+[[release]]
+mbid = "c4bfe7cc-678d-4819-b0b0-1f477c79c75e"
+title = "Ghetto Square Dance - DJ Tomekk Remix"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Ghetto Sqaure Dance (DJ Tomekk Remix)", mbid = "b2bd2760-6af6-4b3a-89b4-1738628755b4" },
+  { n = 2, title = "Ghetto Sqaure Dance", mbid = "625e42a9-8820-4968-8250-5978737bfbd4" },
+  { n = 3, title = "Ghetto Sqaure Dance (Video Version)", mbid = "6b484ace-867f-448f-b7d0-e1e7c1a22f35" },
+]
+
+[[release]]
+mbid = "b3e6af10-8b4a-4d86-9e15-880eb1b28a7d"
+title = "The Hustler"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "The Hustler", mbid = "5dd57b3d-a608-4a0a-9449-de1c235ad48e" },
+  { n = 2, title = "Sunshine", mbid = "549f5b27-671b-46f8-a922-c45e4b917fc8" },
+  { n = 3, title = "What Is a MC (Jiggy club remix)", mbid = "00eeb535-adbc-4d8c-9967-179a0afcb2f2" },
+]
+
+[[release]]
+mbid = "d2e33b18-4da6-4c53-a9db-717fc9b95c99"
+title = "Gangsta Walk"
+type = "single"
+date = "2006-08-08"
+tracks = [
+  { n = 1, title = "Gangsta Walk", mbid = "3675c830-5548-43dd-95ad-b338ace56dbb" },
+]
+
+[[release]]
+mbid = "1ba08460-1cee-384f-8f2b-27a96e11f6ff"
+title = "The Return of the Gangsta"
+type = "album"
+date = "2006-08-18"
+spotify = "3RncKCwGU2dZ6qdtqs2RPb"
+tracks = [
+  { n = 1, title = "Intro", mbid = "a2d24962-9ee7-4466-8d6d-937b186fde51" },
+  { n = 2, title = "Let It Go", mbid = "02e2e3df-0946-4417-bde9-1e00a64bb356" },
+  { n = 3, title = "Gangsta Walk", mbid = "fd9bafe6-edec-426c-8e8a-d7f2c929a682" },
+  { n = 4, title = "Do It", mbid = "1f5db419-5f32-4a36-b002-88b6f3e8a3c0" },
+  { n = 5, title = "Drop Something", mbid = "77a337ef-df34-4e7b-850e-f603debd7204" },
+  { n = 6, title = "Bloops", mbid = "590ffedd-11cf-4ebc-8648-72c4e76a23a3" },
+  { n = 7, title = "Make Money", mbid = "4ee03b96-6155-4ece-8321-8b5fa23bf019" },
+  { n = 8, title = "Lady & Gangsta", mbid = "9d09618a-55cf-4dfb-8ed3-c6a5bb91f886" },
+  { n = 9, title = "Daddy’s Song", mbid = "1e458fb0-a19f-4d4c-b58b-4053a2fcdb4a" },
+  { n = 10, title = "One More Night", mbid = "3054132e-dd8a-4e90-b161-2b78a297fd94" },
+  { n = 11, title = "Loosemobile", mbid = "ffee9baf-81ba-465d-a283-74c04c10fde0" },
+  { n = 12, title = "Dip It", mbid = "8e4ef9c8-f475-4676-9dc9-1663e83d3c33" },
+  { n = 13, title = "Keep On Dancing", mbid = "d0070f79-9292-4a3f-9599-d0ef7c2dc635" },
+  { n = 14, title = "187% WRPM", mbid = "5270d194-55f1-4ad4-8987-9eb035a62263" },
+  { n = 15, title = "Keep It Gangsta", mbid = "3b6d866c-83ee-42f8-8f68-f5b57f6438d6" },
+  { n = 16, title = "They Don’t Know", mbid = "28cac867-37ac-411f-a1d5-229e4cf54f7b" },
+  { n = 17, title = "West Coast Anthem", mbid = "a373a20a-d376-4bff-8a93-cb97f4bc2ab8" },
+  { n = 18, title = "Outro", mbid = "4ecd007e-4704-4b55-8b85-f1607ab73198" },
+]
+
+[[release]]
+mbid = "6c9732b4-804b-4aa5-9855-1ce7a7922d7e"
+title = "Gangsta’s Paradise (re‐recorded)"
+type = "single"
+date = "2008-09-01"
+tracks = [
+  { n = 1, title = "Gangsta’s Paradise (re‐recorded version)", mbid = "d7c95497-0e18-4a0c-8aef-11638b7f0b38" },
+]
+
+[[release]]
+mbid = "5a9497b1-1c7a-4bd8-ae6b-69ee488010a4"
+title = "Steal Hear"
+type = "album"
+date = "2008-10-28"
+tracks = [
+  { n = 1, title = "Gangster Walk", mbid = "43c0bb56-81d8-45cd-ad18-2ae9bca2ad8c" },
+  { n = 2, title = "Cruise Off", mbid = "ea3d8172-b4eb-46a6-8ecd-36a8a0f6a997" },
+  { n = 3, title = "They Don't Know", mbid = "38abae5e-e7e5-4d4f-9fca-8ecb94e8d2b1" },
+  { n = 4, title = "It's On", mbid = "b92e3e24-5300-4613-88a7-ed327ccced40" },
+  { n = 5, title = "Boyfriend", mbid = "3f8d6b50-2f11-449e-a711-3f50e7b5db86" },
+  { n = 6, title = "Do It", mbid = "512cc363-4df0-4812-9aa5-d2a99e35bed1" },
+  { n = 7, title = "Lady & A Gangsta", mbid = "ac75cc73-0467-49b9-b256-0de4c19187cf" },
+  { n = 8, title = "Make Money", mbid = "e72a2319-e9fb-454e-822e-c46b8bd21c8e" },
+  { n = 9, title = "Back It Up Now", mbid = "2dfc9eb1-100d-480b-955c-f783c0b8080c" },
+  { n = 10, title = "Keep on Dancing", mbid = "f4584d87-bff4-4fb6-a144-19c020afce62" },
+  { n = 11, title = "Dip It", mbid = "48c8831c-cefc-4391-9eeb-3efe8b12121b" },
+  { n = 12, title = "Motivation", mbid = "37262800-08ff-492a-88e5-5d8cf781e0b0" },
+  { n = 13, title = "One More Night", mbid = "c2df77ca-850f-4bcd-a741-da0352dfa8f7" },
+  { n = 14, title = "Here We Come", mbid = "86e0de5c-445c-472b-b898-75af06b47d73" },
+  { n = 15, title = "Keep It Gangsta", mbid = "62286d54-884b-4406-90a4-a6048cdf64b2" },
+]
+
+[[release]]
+mbid = "942f5feb-5f69-4963-9972-b4a8591a38cb"
+title = "Gangsta's Paradise (Re-Recorded/Re-Mastered Version) (Instrumental Stems)"
+type = "single"
+date = "2008-11-01"
+tracks = [
+  { n = 1, title = "Gangsta's Paradise (Instrumental Stems)", mbid = "706dba56-544d-4d1b-9362-774907cbee51" },
+  { n = 2, title = "Gangsta's Paradise (Drum Machine Stem)", mbid = "2083778e-83d9-407b-9a08-21cc7656c441" },
+  { n = 3, title = "Gangsta's Paradise (Lead Vocals Stem)", mbid = "1e7fc8fb-0427-420f-8b12-dea635144fae" },
+  { n = 4, title = "Gangsta's Paradise (Backround Vocals & Hooks Stem)", mbid = "74a87278-b95a-486f-95de-713381ccb038" },
+]
+
+[[release]]
+mbid = "79a5ffb7-3361-4f2c-a24a-8f735f98914a"
+title = "Lady"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Lady (Radio Edit)", mbid = "c68a1bac-02c7-44ed-a9df-fa8737e7b083" },
+  { n = 2, title = "Lady (Mattara Extended Remix)", mbid = "170c3864-1ce3-4c2a-acfb-91fd75b9dabd" },
+  { n = 3, title = "Lady (Uppermost Club Remix)", mbid = "b4d94f92-b722-4b84-a240-3be6324a9bd9" },
+  { n = 4, title = "Lady (Nils Van Zandt Remix)", mbid = "1163b0ae-a446-4964-8e73-54fcb9afc8f0" },
+  { n = 5, title = "Lady (Robert Abigail Remix)", mbid = "5e40f8ab-e89a-411c-96c9-1c789cdb8daa" },
+]
+
+[[release]]
+mbid = "400a5af7-3326-4ada-9141-25a7c58c5b3a"
+title = "From the Bottom 2 the Top"
+type = "album"
+date = "2009-07-02"
+spotify = "3cDc17Nz495NPYzpJajF4m"
+tracks = [
+  { n = 1, title = "Change (radio edit)", mbid = "58192f32-f7c9-4f52-9c70-2c5d90cd0efa" },
+  { n = 2, title = "I Will", mbid = "65e08734-03df-4f53-a622-7a1ed2ebf52b" },
+  { n = 3, title = "From the Bottom 2 the Top", mbid = "f7ab68a6-9399-4fba-bae0-0d88d574c7b9" },
+  { n = 4, title = "Hotel C", mbid = "f40c6993-3749-4356-8327-ddf1130b1067" },
+  { n = 5, title = "Lady Vs Beat Nouveau", mbid = "71efd826-0d46-44cd-8d6a-d47b7aab0623" },
+  { n = 6, title = "Boyfriend", mbid = "9f974634-eb50-4ac9-bbab-dcca2941021b" },
+  { n = 7, title = "Destinesya vs. Ives Larock", mbid = "5c8630ca-ef46-43ea-9048-929604b8a4aa" },
+  { n = 8, title = "Cruis Off", mbid = "dfbee25d-9a84-4a5d-80e6-3d97aebe13ab" },
+  { n = 9, title = "Motivation", mbid = "ce308de0-df3e-40c9-9e71-6f69c0de51be" },
+  { n = 10, title = "Stimulate", mbid = "70979260-2fe1-44e2-9b32-cf2995f74ff1" },
+  { n = 11, title = "She Loves Me", mbid = "2e723bd7-3ffe-420e-a898-d888d80407af" },
+]
+
+[[release]]
+mbid = "cf8ec847-63ee-483f-8221-5dfea75ee047"
+title = "One Night in L.A."
+type = "single"
+date = "2011-04-30"
+tracks = [
+  { n = 1, title = "One Night in L.A.", mbid = "24917a06-f7ec-4fe2-8d72-cdc15e2a31ae" },
+]
+
+[[release]]
+mbid = "5569699a-6ddc-494f-b2b3-c541a8d4a614"
+title = "Gangsta’s Paradise 2K11"
+type = "single"
+date = "2011-07-14"
+tracks = [
+  { n = 1, title = "Gangsta’s Paradise 2K11 (Bernasconi & Farenthide radio mix)", mbid = "18756cb6-ce57-4817-a417-90124c2e2ec1" },
+  { n = 2, title = "Gangsta’s Paradise 2K11 (Kylian Mash & Tim Resler radio remix)", mbid = "d5c7f0a4-2687-4733-a069-a834a4b5b29e" },
+  { n = 3, title = "Gangsta’s Paradise 2K11 (Sannyboi & Kwame Old Skool Recall mix)", mbid = "954ca052-97fb-4f11-ab2a-d1c221fba568" },
+  { n = 4, title = "Gangsta’s Paradise 2K11 (Kylian Mash & Tim Resler Upgrade radio remix)", mbid = "85a1efc7-af79-47b3-b777-49a384dbcfeb" },
+  { n = 5, title = "Gangsta’s Paradise 2K11 (Jake & Cooper radio remix)", mbid = "d0649f50-f613-4282-9e0f-d2b73d8723b3" },
+  { n = 6, title = "Gangsta’s Paradise 2K11 (Moroder vs. Romano & Masi radio remix)", mbid = "cba5202a-aa45-4b09-932b-27a8640554dd" },
+  { n = 7, title = "Gangsta’s Paradise 2K11 (Splash vs. Scotty remix edit)", mbid = "af1122ba-bb69-4286-911e-26137a4b13bf" },
+  { n = 8, title = "Gangsta’s Paradise 2K11 (Bernasconi & Farenthide dub re-cut)", mbid = "79b2cc96-1a7c-49e1-8c98-1c00cf55f73a" },
+  { n = 9, title = "Gangsta’s Paradise 2K11 (Bernasconi & Farenthide club remix)", mbid = "1b73412e-8eac-499f-9ab3-a8ebb5388da9" },
+  { n = 10, title = "Gangsta’s Paradise 2K11 (Kylian Mash & Tim Resler Upgrade club remix)", mbid = "738b9b96-cfed-4d50-8599-4a1c6f9a36e1" },
+  { n = 11, title = "Gangsta’s Paradise 2K11 (Jake & Cooper club remix)", mbid = "16382560-031c-4446-8c61-c7c04e9e84bf" },
+  { n = 12, title = "Gangsta’s Paradise 2K11 (Moroder vs. Romano & Masi club remix)", mbid = "8e1874ef-216e-4899-8345-4ac3dbb42375" },
+  { n = 13, title = "Gangsta’s Paradise 2K11 (Splash vs. Scotty club remix)", mbid = "054cdb43-2d4d-4442-a563-6a3257d4df6f" },
+  { n = 14, title = "Gangsta’s Paradise 2K11 (Montesano & Katuin Gangsta club mix)", mbid = "ad082cee-a243-49d9-b58e-988a27d63d91" },
+  { n = 15, title = "Gangsta’s Paradise 2K11 (Stormkiss club remix)", mbid = "033e21e2-9f95-4de7-b0b7-e3e54fa8f724" },
+  { n = 16, title = "Gangsta’s Paradise 2K11 (Bernasconi & Farenthide dub remix)", mbid = "90d7dac9-7537-4f97-ab2d-a792b6816c56" },
+]
+
+[[release]]
+mbid = "2f97eae9-f041-4ec7-8915-05722b64282e"
+title = "Gangsta's Paradise (2017 YT)"
+type = "single"
+date = "2017-08-01"
+tracks = [
+  { n = 1, title = "Gangsta's Paradise", mbid = "71a20eaf-8153-485b-8503-59c5bfeb8a36" },
+]
+
+[[release]]
+mbid = "92c34e10-2887-49b0-bb83-2d8907761a86"
+title = "Cruise Off"
+type = "album"
+date = "2018"
+tracks = [
+  { n = 1, title = "I Will", mbid = "aee5203d-dd17-4d9d-b16c-aed9807ddecc" },
+  { n = 2, title = "From the Bottom 2 the Top", mbid = "ce37e1b4-8dd6-4fd3-934b-bd89fbffa416" },
+  { n = 3, title = "Hotel C", mbid = "100d790c-de77-4a54-8b84-958f8fff10c9" },
+  { n = 4, title = "Lady", mbid = "c9cc18f9-6c2d-408e-aa5f-2753f096cfe4" },
+  { n = 5, title = "Boyfriend", mbid = "4a3d7986-ac9c-42fe-a55a-12095778041e" },
+  { n = 6, title = "Destinesya", mbid = "7f54c8e6-48eb-4a86-a8ee-c61061d25161" },
+  { n = 7, title = "Cruise Off", mbid = "66317acd-7ace-4fe4-ab06-2a88efc09791" },
+  { n = 8, title = "Motivation", mbid = "d52a893a-8da6-4984-af36-578aeb7d0b52" },
+  { n = 9, title = "Stimulate", mbid = "8ebff6e9-7174-4a79-95ef-01c8ccc60a40" },
+  { n = 10, title = "She Loves Me", mbid = "47e05f39-bbc7-44a5-9161-a0dfbdb8e11f" },
+  { n = 11, title = "[unknown]", mbid = "2f491ca8-d9c3-4f11-8aa6-3d201b0fd00c" },
+]
+
+[[release]]
+mbid = "83553ee6-1d0e-489c-84fc-d89c33ed5500"
+title = "Gangsta's Paradise (Mike & Me edit)"
+type = "single"
+date = "2019-11-21"
+tracks = [
+  { n = 1, title = "Gangsta's Paradise (Mike & Me edit)", mbid = "0cbdccfe-fae5-4b9c-90c3-e3c9b0ba9a6b" },
+]
+
+[[release]]
+mbid = "f81260eb-410a-4f9f-8c69-403432c28dd7"
+title = "Gangsta’s Paradise"
+type = "single"
+date = "2022"
+spotify = "5miAnRqv7eWbmgY4nK7jU9"
+tracks = [
+  { n = 1, title = "Gangsta’s Paradise", mbid = "0c3307a2-f870-4d1a-9733-b42650674b5c" },
+]
+
+[[release]]
+mbid = "14377e2c-dcc1-4e57-8a95-652b031bb604"
+title = "The Floor Is Lava"
+type = "single"
+date = "2022-07-01"
+spotify = "2nK1VUhIejfsfU9yzNsVMg"
+tracks = [
+  { n = 1, title = "The Floor Is Lava", mbid = "4b918e78-59be-4657-8984-19ec15c610a5" },
+]
+
+[[release]]
+mbid = "5d0fce50-40dc-46b0-a564-04a75655f73d"
+title = "Gangsta's Paradise (Re-Recorded - Orchestral Version)"
+type = "single"
+date = "2022-12-16"
+tracks = [
+  { n = 1, title = "Gangsta's Paradise (Re-Recorded Orchestral Version)", mbid = "4af87244-0abc-4210-b135-10643b1b7dda" },
+  { n = 2, title = "Gangsta's Paradise (Re-Recorded Orchestral Version Instrumental)", mbid = "c0843fc6-4c64-43e3-900e-863f8c2d2dea" },
+]
+
+[[release]]
+mbid = "c01af5df-f10d-44e2-b7d2-80c5e50a81c3"
+title = "Gangsta's Paradise (Re-Recorded - Sped Up)"
+type = "ep"
+date = "2023-05-03"
+spotify = "3f34It9rmSjSTbivSANySQ"
+tracks = [
+  { n = 1, title = "Gangsta's Paradise (Re-Recorded - Sped Up)", mbid = "a290409c-4bc8-4aa6-b396-53d52d9f0c7b" },
+  { n = 2, title = "Gangsta's Paradise (Re-Recorded)", mbid = "a81b3298-ace8-4f4b-8a40-b25dcf80dfcc" },
+  { n = 3, title = "Gangsta's Paradise (Re-Recorded - instrumental)", mbid = "1616734f-a6c1-4c68-ae89-8588deed7880" },
+  { n = 4, title = "Gangsta's Paradise (Re-Recorded - Slowed + Reverb)", mbid = "f0042193-7e09-4c78-9ad2-6f58b6b9b0b5" },
+]
