@@ -1,0 +1,1064 @@
+format = 1
+
+[[release]]
+mbid = "c7b245c9-8099-32ea-af95-893acedde2cf"
+title = "Weezer"
+type = "album"
+date = "1994-05-10"
+spotify = "1xpGyKyV26uPstk1Elgp9Q"
+tracks = [
+  { n = 1, title = "My Name Is Jonas", mbid = "392cea06-94c2-416b-80aa-f5b1e7d0fb1c" },
+  { n = 2, title = "No One Else", mbid = "271a81af-6c2d-44cf-a0b8-a25ad74c82f9" },
+  { n = 3, title = "The World Has Turned and Left Me Here", mbid = "5d7e41b2-ec4b-44dd-b25a-a576d7a08adb" },
+  { n = 4, title = "Buddy Holly", mbid = "d615590b-1546-441d-9703-b3cf88487cbd" },
+  { n = 5, title = "Undone - The Sweater Song", mbid = "48908d8b-3a40-46fa-bfee-3a88012c2689" },
+  { n = 6, title = "Surf Wax America", mbid = "d8f04ba0-8f7e-4016-b818-5f07514d11e8" },
+  { n = 7, title = "Say It Ain't So", mbid = "e7ada1d0-0604-4ff2-9361-939ebf5b53af" },
+  { n = 8, title = "In the Garage", mbid = "3761f313-1239-46e9-b720-9d24b06da5ab" },
+  { n = 9, title = "Holiday", mbid = "e5b7a191-79d2-41ca-aa96-2d041c741aac" },
+  { n = 10, title = "Only in Dreams", mbid = "e1b7cd2e-bdf9-45d5-b52e-cc8a94d5d1da" },
+]
+
+[[release]]
+mbid = "d883da98-26f0-3448-b76f-c616b8a43576"
+title = "Undone – The Sweater Song"
+type = "single"
+date = "1994-06-24"
+tracks = [
+  { n = 1, title = "Undone – The Sweater Song (LP version)", mbid = "48908d8b-3a40-46fa-bfee-3a88012c2689" },
+  { n = 2, title = "Mykel & Carli", mbid = "f13b8bd5-133d-4fb9-8da9-9668191f2689" },
+  { n = 3, title = "Susanne", mbid = "ede912a6-3c83-4156-b87a-9f59f0cbe9d7" },
+  { n = 4, title = "Holiday (LP version)", mbid = "e5b7a191-79d2-41ca-aa96-2d041c741aac" },
+]
+
+[[release]]
+mbid = "20fd9edd-b8dc-38aa-bc57-a9588f6bedc6"
+title = "Buddy Holly"
+type = "single"
+date = "1994-09-07"
+tracks = [
+  { n = 1, title = "Buddy Holly (LP version)", mbid = "d615590b-1546-441d-9703-b3cf88487cbd" },
+  { n = 2, title = "Jamie (Geffen Rarities LP version)", mbid = "a5468508-80c9-4c70-a559-5d60f266c082" },
+  { n = 3, title = "Buddy Holly (LP version)", mbid = "d615590b-1546-441d-9703-b3cf88487cbd" },
+  { n = 4, title = "Jamie (Geffen Rarities LP version)", mbid = "a5468508-80c9-4c70-a559-5d60f266c082" },
+]
+
+[[release]]
+mbid = "908c75df-b9e0-345c-a885-17a7fea106c2"
+title = "Say It Ain’t So"
+type = "single"
+date = "1995-07-13"
+tracks = [
+  { n = 1, title = "Say It Ain’t So (remix)", mbid = "2e9667e0-f973-45db-9a5c-251cd1edc414" },
+  { n = 2, title = "No One Else (live and acoustic)", mbid = "018dc7e0-5846-4210-94c7-2d428370a377" },
+  { n = 3, title = "Jamie (live and acoustic)", mbid = "dad646a9-d58c-4e8c-960e-1433a2185f01" },
+]
+
+[[release]]
+mbid = "385f30e2-0483-355d-aded-23e66aa20f87"
+title = "Pinkerton"
+type = "album"
+date = "1996-08-24"
+spotify = "56LtTJnIBlgf4obkP13Skz"
+tracks = [
+  { n = 1, title = "Tired of Sex", mbid = "4298f4f8-8681-4d59-b38c-98205956548e" },
+  { n = 2, title = "Getchoo", mbid = "500e3ce6-5a90-4f39-a2d7-d0465588bf72" },
+  { n = 3, title = "No Other One", mbid = "7a5d4c8f-f99c-45ec-897a-2a8793f84971" },
+  { n = 4, title = "Why Bother?", mbid = "975c5751-00af-45ed-8ec9-fe1d37166f9a" },
+  { n = 5, title = "Across the Sea", mbid = "6710f994-f6ff-4196-b81d-05b4aed0f544" },
+  { n = 6, title = "The Good Life", mbid = "508d2095-da88-49f2-b6c9-f9ba49f3cab6" },
+  { n = 7, title = "El Scorcho", mbid = "67233bd7-a0de-410c-a281-1f392c33a2d4" },
+  { n = 8, title = "Pink Triangle", mbid = "21957b37-ac2c-41ee-9a6d-37a0645df727" },
+  { n = 9, title = "Falling for You", mbid = "14bc92a9-9f1a-4276-99a8-f94908a524bb" },
+  { n = 10, title = "Butterfly", mbid = "24c8706a-e05b-4e87-9c11-78d75ed88cf3" },
+]
+
+[[release]]
+mbid = "58d5ee31-a92c-347c-89d6-3acc765cab9b"
+title = "El Scorcho"
+type = "single"
+date = "1996-09-21"
+tracks = [
+  { n = 1, title = "El Scorcho", mbid = "67233bd7-a0de-410c-a281-1f392c33a2d4" },
+  { n = 2, title = "You Gave Your Love to Me Softly", mbid = "c665e3bf-c0df-493c-b3ac-500ee365f731" },
+]
+
+[[release]]
+mbid = "af175c19-5886-49f3-8504-739b78d20883"
+title = "The Good Life"
+type = "ep"
+date = "1996-10-29"
+tracks = [
+  { n = 1, title = "The Good Life (LP version)", mbid = "508d2095-da88-49f2-b6c9-f9ba49f3cab6" },
+  { n = 2, title = "Waiting on You", mbid = "ac59146a-ae5b-4ed2-bd89-9fb19125fa14" },
+  { n = 3, title = "I Just Threw Out the Love of My Dreams", mbid = "5ffc99f8-8e63-44a4-adcc-80d6e31076b9" },
+]
+
+[[release]]
+mbid = "0255fe7b-32f9-3513-8cc7-7e95fa3145bf"
+title = "Christmas CD"
+type = "single"
+date = "2000-12-07"
+spotify = "1HaPBR0BDJUDkcOxiHdGTy"
+tracks = [
+  { n = 1, title = "The Christmas Song", mbid = "3b6a5b4d-76cc-4446-9824-fc7a6854bdd3" },
+  { n = 2, title = "Christmas Celebration", mbid = "108d1c3c-b193-4c4b-80d5-5bcfce441c71" },
+]
+
+[[release]]
+mbid = "31fb71f4-0806-32de-9168-536af61dbe45"
+title = "Photograph"
+type = "single"
+date = "2001-05"
+tracks = [
+  { n = 1, title = "Photograph", mbid = "a22d4155-cbc4-40a9-972a-b71bcb7503ef" },
+  { n = 2, title = "Christmas Celebration", mbid = "108d1c3c-b193-4c4b-80d5-5bcfce441c71" },
+]
+
+[[release]]
+mbid = "923d5ba6-7eee-3bce-bcb2-c913b2bd69d4"
+title = "Weezer"
+type = "album"
+date = "2001-05-07"
+spotify = "2OBSz5Nlto0Q5CtYPzPY7c"
+tracks = [
+  { n = 1, title = "Don’t Let Go", mbid = "129d60a4-6d2a-4728-aac6-4a61f150aef1" },
+  { n = 2, title = "Photograph", mbid = "a22d4155-cbc4-40a9-972a-b71bcb7503ef" },
+  { n = 3, title = "Hash Pipe", mbid = "b465ee62-8189-4aac-a294-43f4958dffae" },
+  { n = 4, title = "Island in the Sun", mbid = "58044028-9a7e-4da6-9ca8-e5322a25d9a2" },
+  { n = 5, title = "Crab", mbid = "92969b64-efd9-4f7d-bea5-c9154e56d8e2" },
+  { n = 6, title = "Knock-Down Drag-Out", mbid = "4ca0da9c-bd6d-4071-9614-c8684e4978f1" },
+  { n = 7, title = "Smile", mbid = "e8e01316-8be1-4028-85e7-9d28a2f35945" },
+  { n = 8, title = "Simple Pages", mbid = "2c623d93-4e45-4886-86af-a153db6da6b5" },
+  { n = 9, title = "Glorious Day", mbid = "b855eea9-ca26-43e2-8304-0e83e3f9b46a" },
+  { n = 10, title = "O Girlfriend", mbid = "f1db7477-f8f1-4624-9d70-2df7753a3124" },
+]
+
+[[release]]
+mbid = "a2243f59-e2ed-35fc-b80f-bb54e69a31bb"
+title = "Hash Pipe"
+type = "single"
+date = "2001-06-02"
+spotify = "45XpFhf62cB6JrtkPXmWIS"
+tracks = [
+  { n = 1, title = "Hash Pipe", mbid = "b465ee62-8189-4aac-a294-43f4958dffae" },
+  { n = 2, title = "Teenage Victory Song", mbid = "6a635d6e-f88c-4915-bb64-20c0d8526c4e" },
+]
+
+[[release]]
+mbid = "6ef63241-3b32-3ed5-9d0b-ae86dbe6bf39"
+title = "Island in the Sun"
+type = "single"
+date = "2001-09-10"
+tracks = [
+  { n = 1, title = "Island in the Sun", mbid = "58044028-9a7e-4da6-9ca8-e5322a25d9a2" },
+  { n = 2, title = "Oh, Lisa", mbid = "0f5773ce-b0a6-44a6-a1ad-fbd19aab2c6f" },
+  { n = 3, title = "Always", mbid = "e54d8d28-2086-4fb7-b621-97c6b8484f8f" },
+  { n = 4, title = "Hash Pipe (Jimmy Pop remix)", mbid = "355c7a23-2518-4a1e-89f8-0958e5c86126" },
+]
+
+[[release]]
+mbid = "5585d787-0b8e-34ac-ba82-efba1aaae8ea"
+title = "Maladroit"
+type = "album"
+date = "2002-05-11"
+spotify = "274YHaMmctXWht39Olh8ub"
+tracks = [
+  { n = 1, title = "American Gigolo", mbid = "f1ec1fa7-7238-4d42-aac9-9ad1cfa4531c" },
+  { n = 2, title = "Dope Nose", mbid = "4bd8ac07-c420-4e1d-97ba-e04d1bfc11c3" },
+  { n = 3, title = "Keep Fishin’", mbid = "0d7ed8ce-e04e-450b-b3b6-50ab55b84f8e" },
+  { n = 4, title = "Take Control", mbid = "99d986ea-c865-4dda-8713-0a07ea653b27" },
+  { n = 5, title = "Death and Destruction", mbid = "9f50c7bd-08f6-4895-a02a-2ddee10b46ff" },
+  { n = 6, title = "Slob", mbid = "6e423b78-7a2f-49cc-b3eb-7adf9bec83a3" },
+  { n = 7, title = "Burndt Jamb", mbid = "ea814bdf-ea5b-4da2-ad78-d0e37effe503" },
+  { n = 8, title = "Space Rock", mbid = "04a14dd9-2c32-4bf4-bdda-3c3d8b6b74da" },
+  { n = 9, title = "Slave", mbid = "f22ced8e-9d43-45d1-85a1-7a2c250af3a6" },
+  { n = 10, title = "Fall Together", mbid = "5d431f4c-d873-4bd2-b877-69a6ff7fef8e" },
+  { n = 11, title = "Possibilities", mbid = "456d62bf-543c-4843-9eff-f0eb1a271a96" },
+  { n = 12, title = "Love Explosion", mbid = "5438f8b5-8b48-4b2f-98dd-57214e2a0d8c" },
+  { n = 13, title = "December", mbid = "9370473b-08e7-4cfd-b594-9289a3adcfd0" },
+  { n = 14, title = "Island in the Sun", mbid = "58044028-9a7e-4da6-9ca8-e5322a25d9a2" },
+  { n = 15, title = "Living Without You", mbid = "6fd20b68-f76e-436a-b724-21b5d6102ea3" },
+]
+
+[[release]]
+mbid = "b2596aca-7492-32ce-a72b-53b4972baf58"
+title = "Keep Fishin’"
+type = "single"
+date = "2002-09-02"
+tracks = [
+  { n = 1, title = "Keep Fishin’", mbid = "fb7a35f9-f373-4a4a-8d8e-d6b57afcea13" },
+  { n = 2, title = "Keep Fishin’ (Franklin Mint)", mbid = "f8512dc6-67c0-425d-b69e-1199580824de" },
+]
+
+[[release]]
+mbid = "db984b15-a625-32e9-a764-4ca19ce4a45d"
+title = "Beverly Hills"
+type = "single"
+date = "2005-05-03"
+spotify = "6vIqin1WWBaHg2KY13exHf"
+tracks = [
+  { n = 1, title = "Beverly Hills", mbid = "b63053dd-5d18-439b-92e8-e1532485d273" },
+  { n = 2, title = "Island in the Sun (live)", mbid = "f687faaf-8ef1-4e17-a828-d18b0c73c7ab" },
+]
+
+[[release]]
+mbid = "150f9a00-0881-38dd-a5e8-faa3f1b828d2"
+title = "Make Believe"
+type = "album"
+date = "2005-05-09"
+tracks = [
+  { n = 1, title = "Beverly Hills", mbid = "b63053dd-5d18-439b-92e8-e1532485d273" },
+  { n = 2, title = "Perfect Situation", mbid = "c5e19b7e-68ca-440e-9599-24e01179d352" },
+  { n = 3, title = "This Is Such a Pity", mbid = "c4ef9c8b-7ee0-4e41-a797-5283daad5fe4" },
+  { n = 4, title = "Hold Me", mbid = "675e8cac-47c2-4244-a848-70281bafc38a" },
+  { n = 5, title = "Peace", mbid = "79fb4c74-51a5-41a8-bf6d-2904b445a371" },
+  { n = 6, title = "We Are All on Drugs", mbid = "7b281cd0-cb6e-4f4f-969f-926f56c7a207" },
+  { n = 7, title = "The Damage in Your Heart", mbid = "a415ea49-962a-40bc-b050-e24489344d74" },
+  { n = 8, title = "Pardon Me", mbid = "2ac7eef9-bda3-4339-8e89-e078cb1fb31b" },
+  { n = 9, title = "My Best Friend", mbid = "fa1d7ff4-c175-435a-9723-37fc57d453dc" },
+  { n = 10, title = "The Other Way", mbid = "cb0511f3-89da-4e84-aae8-746b6461dd5a" },
+  { n = 11, title = "Freak Me Out", mbid = "25a746db-6d1b-44bf-b27b-eb3ebb9ae0bc" },
+  { n = 12, title = "Haunt You Every Day", mbid = "afc145b5-186a-4c38-a764-d3df05fbd8a3" },
+]
+
+[[release]]
+mbid = "a171f2ee-2a10-30b1-a432-6f322db8c006"
+title = "We Are All on Drugs"
+type = "single"
+date = "2005-08-01"
+tracks = [
+  { n = 1, title = "We Are All on Drugs", mbid = "7b281cd0-cb6e-4f4f-969f-926f56c7a207" },
+  { n = 2, title = "Beverly Hills (Urbanix mix)", mbid = "e69d77f9-77e6-4413-8049-cc29a72b74b3" },
+]
+
+[[release]]
+mbid = "eee5ad49-48cb-3abc-8c61-d7e50eb13d88"
+title = "Pork and Beans"
+type = "single"
+date = "2008-04-24"
+spotify = "1g56xCbXyHFF9ZPLBUS3BR"
+tracks = [
+  { n = 1, title = "Pork and Beans", mbid = "e9830e6a-e32d-488e-9680-10d016a6c03c" },
+]
+
+[[release]]
+mbid = "58fa0c99-fb50-4833-a511-ef301ad30a5c"
+title = "The Greatest Man That Ever Lived"
+type = "single"
+date = "2008-05-13"
+tracks = [
+  { n = 1, title = "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)", mbid = "dcb42eeb-3bab-4578-9b84-64ebdd6393a1" },
+]
+
+[[release]]
+mbid = "61ad59c9-16b3-4077-8b13-ec0eb0b2386f"
+title = "Dreamin'"
+type = "single"
+date = "2008-05-27"
+tracks = [
+  { n = 1, title = "Dreamin'", mbid = "7e8d8ecb-28c4-4167-91b0-2cbb010eb2db" },
+]
+
+[[release]]
+mbid = "9b8af98f-8214-32ee-9b05-96b8c557f7f0"
+title = "Weezer"
+type = "album"
+date = "2008-06-03"
+spotify = "6v8wNjiQDhDijoapXXZ9mZ"
+tracks = [
+  { n = 1, title = "Troublemaker", mbid = "41ff6482-2ae2-4b2a-905d-c35870f534af" },
+  { n = 2, title = "The Greatest Man That Ever Lived (Variations on a Shaker Hymn)", mbid = "dcb42eeb-3bab-4578-9b84-64ebdd6393a1" },
+  { n = 3, title = "Pork and Beans", mbid = "c0962dcb-3621-4d78-a479-795007fb5783" },
+  { n = 4, title = "Heart Songs", mbid = "be0ea60a-4137-4089-b0c5-ddd7a8ad41af" },
+  { n = 5, title = "Everybody Get Dangerous", mbid = "e25e6c31-ffc3-4a20-bf7b-ea49f2ce1958" },
+  { n = 6, title = "Dreamin’", mbid = "7e8d8ecb-28c4-4167-91b0-2cbb010eb2db" },
+  { n = 7, title = "Thought I Knew", mbid = "7e95c9dc-8b52-4f40-96e1-981e1cb49eb1" },
+  { n = 8, title = "Cold Dark World", mbid = "211d6973-ab84-4199-8512-b881d20ce1fe" },
+  { n = 9, title = "Automatic", mbid = "1d132ac5-15aa-49a1-875c-b24f86257f6e" },
+  { n = 10, title = "The Angel and the One", mbid = "e8ec7899-49d9-454e-932a-9434dc669387" },
+  { n = 11, title = "The Weight", mbid = "d4153e16-67e9-4462-92aa-a29afcd2a627" },
+]
+
+[[release]]
+mbid = "a275aeb6-65fa-33c5-9349-f09318c54b99"
+title = "Christmas With Weezer"
+type = "ep"
+date = "2008-12-16"
+spotify = "0CxHijFYwiAVHCGmwN0hAq"
+tracks = [
+  { n = 1, title = "We Wish You a Merry Christmas", mbid = "77ee7b07-1e96-41f7-aeba-c3eb94df2000" },
+  { n = 2, title = "O Come All Ye Faithful", mbid = "f948f49e-7f33-425a-95d3-c888a5ef2a86" },
+  { n = 3, title = "O Holy Night", mbid = "c9067836-b617-423b-a837-5b1a82e3472e" },
+  { n = 4, title = "The First Noel", mbid = "81b943b6-01d3-466b-b300-6625016ec9cb" },
+  { n = 5, title = "Hark! The Herald Angels Sing", mbid = "891608b9-7d26-4b7e-b5ae-c56f78d8064c" },
+  { n = 6, title = "Silent Night", mbid = "71c2fa80-c407-498c-b91b-e3ab3d22a899" },
+]
+
+[[release]]
+mbid = "1739fdb2-7a0d-4568-9d15-fd44754bb436"
+title = "iTunes Pass: The Weezer Raditude Club Week 1"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "I’m Your Daddy", mbid = "aa5223bb-2111-4690-bce0-c8658ec7e70f" },
+  { n = 2, title = "Should I Stay or Should I Go?", mbid = "75f3cbe0-99cc-44a1-bc35-dcf47e1053d3" },
+]
+
+[[release]]
+mbid = "f5e753f8-7200-45b7-ae2c-80794eb66cbe"
+title = "iTunes Pass: The Weezer Raditude Club Week 2"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Tripping Down the Freeway", mbid = "62947ae4-eb5b-47d5-86b9-01ba9bbf0635" },
+  { n = 2, title = "I Hear Bells", mbid = "0c4c3a1f-d0ff-49b1-afc8-2e6235f00c4b" },
+]
+
+[[release]]
+mbid = "f3cf7357-a65d-4a67-ab76-0ebababd446a"
+title = "iTunes Pass: The Weezer Raditude Club Week 3"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Put Me Back Together (Rich Costey mix)", mbid = "22cfe913-badf-4a9e-b458-6efff1dca327" },
+  { n = 2, title = "Cold Dark World (Rivers Lead vocal)", mbid = "74763a8f-0f4c-4796-998e-f0181bc79c14" },
+]
+
+[[release]]
+mbid = "390d4be6-2a4c-492c-bc41-49fbcdd5c38d"
+title = "iTunes Pass: The Weezer Raditude Club Week 5"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Across the Sea (live in Japan)", mbid = "c8ce7871-4751-476a-b2d1-6626e2489e9b" },
+]
+
+[[release]]
+mbid = "726db2d3-7f30-459f-9bb1-6a501dd98e33"
+title = "iTunes Pass: The Weezer Raditude Club Week 6"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "(If You’re Wondering If I Want You To) I Want You To (Steve Aoki remix)", mbid = "56bfb0ba-d332-4bdf-905d-f20e8bb80ca0" },
+  { n = 2, title = "The Prettiest Girl In The Whole Wide World (Karlophone Remix)", mbid = "6281670b-d4b1-4b23-886c-b773feb1c3ad" },
+  { n = 3, title = "I’m Your Daddy (Pat Wilson Remix)", mbid = "494f544e-5802-4339-a132-7415ee66f434" },
+  { n = 4, title = "(If You’re Wondering If I Want You To) I Want You To (Closed Captioned)", mbid = "286b576c-3c57-4b43-b75c-1106e5a1d015" },
+]
+
+[[release]]
+mbid = "c235ee60-d667-4f0d-a866-5732b098e4cc"
+title = "iTunes Pass: The Weezer Raditude Club Week 7"
+type = "single"
+date = "2009"
+tracks = [
+  { n = 1, title = "Can't Stop Partying (Coconut Teaser Mix)", mbid = "9925afd6-4437-4f54-8093-cd923ac1f291" },
+  { n = 2, title = "Love Is The Answer (Laid Back Mix)", mbid = "901a0b22-1082-4b33-bf88-0bf1002fcebb" },
+]
+
+[[release]]
+mbid = "92f24cb9-ec1c-4314-96c2-a3c5d3b27280"
+title = "Raditude"
+type = "album"
+date = "2009-10-28"
+spotify = "2wJ1m0RNk8CEDyPNFK6JDa"
+tracks = [
+  { n = 1, title = "(If You’re Wondering If I Want You to) I Want You To", mbid = "fdfc53ef-1a50-4783-8617-a22aaf49b6eb" },
+  { n = 2, title = "I’m Your Daddy", mbid = "aa5223bb-2111-4690-bce0-c8658ec7e70f" },
+  { n = 3, title = "The Girl Got Hot", mbid = "a429d148-53f4-40ec-9539-867451130cdd" },
+  { n = 4, title = "Can’t Stop Partying", mbid = "0936f764-b669-4082-b75d-2d52aa8005aa" },
+  { n = 5, title = "Put Me Back Together", mbid = "c759d724-e286-475b-ad99-357a0efdd291" },
+  { n = 6, title = "Trippin’ Down the Freeway", mbid = "62947ae4-eb5b-47d5-86b9-01ba9bbf0635" },
+  { n = 7, title = "Love Is the Answer", mbid = "55be0d6b-27b3-4c64-95d3-209228eb1b14" },
+  { n = 8, title = "Let It All Hang Out", mbid = "f1256335-d3c4-4b78-a389-99484e088743" },
+  { n = 9, title = "In the Mall", mbid = "71f51f7c-6879-4d04-8bc0-23864d62dccb" },
+  { n = 10, title = "I Don’t Want to Let You Go", mbid = "b4b75334-1d17-4adb-aa2a-353cda362f2d" },
+  { n = 11, title = "Turn Me Round", mbid = "bf58429c-cdac-4a5b-a68c-26881b1fee69" },
+]
+
+[[release]]
+mbid = "47f839b1-ae44-4759-82ea-c8bee0c67e77"
+title = "(If You're Wondering If I Want You To) I Want You To"
+type = "single"
+date = "2009-11-09"
+tracks = [
+  { n = 1, title = "(If You’re Wondering If I Want You To) I Want You To", mbid = "fdfc53ef-1a50-4783-8617-a22aaf49b6eb" },
+  { n = 2, title = "(If You’re Wondering If I Want You To) I Want You To", mbid = "c90e5ff9-7ad4-452d-9496-161cf5b56cdb" },
+]
+
+[[release]]
+mbid = "9a8bc623-b002-4146-b003-1da31b958522"
+title = "Tripping Down the Freeway / (If You’re Wondering If I Want You to) I Want You To (live)"
+type = "single"
+date = "2010-01-01"
+tracks = [
+  { n = 1, title = "Trippin’ Down the Freeway", mbid = "62947ae4-eb5b-47d5-86b9-01ba9bbf0635" },
+  { n = 2, title = "(If You’re Wondering If I Want You to) I Want You To (live)", mbid = "189705ad-41d3-4744-8d1a-b432a74353bb" },
+]
+
+[[release]]
+mbid = "19502a16-eb89-4e4a-92d2-ad977fb79308"
+title = "The Rat Race"
+type = "single"
+date = "2010-02-03"
+tracks = [
+  { n = 1, title = "The Rat Race", mbid = "b97ea751-93fb-47a8-8188-6c97c2f26702" },
+]
+
+[[release]]
+mbid = "2980f336-cdb6-45c4-958b-ec86915a4f4b"
+title = "Represent"
+type = "single"
+date = "2010-06-11"
+spotify = "0yNoTL9GoDepkE2DcJ9JJL"
+tracks = [
+  { n = 1, title = "Represent", mbid = "3c023c93-6931-4fd8-bd32-dd6fa5ee7d6b" },
+]
+
+[[release]]
+mbid = "4c23031b-ede0-43a3-8e0c-2f5210188a2f"
+title = "Memories"
+type = "single"
+date = "2010-08-09"
+tracks = [
+  { n = 1, title = "Memories", mbid = "0ae30c6f-39ae-458b-984e-b5964c401b1c" },
+]
+
+[[release]]
+mbid = "ea409819-578d-45c8-9c40-f8667921868a"
+title = "Hurley"
+type = "album"
+date = "2010-09-07"
+tracks = [
+  { n = 1, title = "Memories", mbid = "0ae30c6f-39ae-458b-984e-b5964c401b1c" },
+  { n = 2, title = "Ruling Me", mbid = "ba354ade-5179-4618-b24a-627f12343785" },
+  { n = 3, title = "Trainwrecks", mbid = "4f529bc6-7101-4234-a8a0-7e255a89f372" },
+  { n = 4, title = "Unspoken", mbid = "450ddba8-c845-4ba8-85e0-0a377be1f72e" },
+  { n = 5, title = "Where's My Sex?", mbid = "5b0dcd62-4519-4f31-99bc-2f1bda6dea5f" },
+  { n = 6, title = "Run Away", mbid = "ec16a4f7-628a-45d3-b5ba-78f15ad36032" },
+  { n = 7, title = "Hang On", mbid = "538b036d-1be6-45b0-9bd9-3619b83f0c60" },
+  { n = 8, title = "Smart Girls", mbid = "e6ef643a-c67d-4ab7-9cd0-5924f38a41f3" },
+  { n = 9, title = "Brave New World", mbid = "1c6aac7c-36de-4379-af74-f0ff3db61e3c" },
+  { n = 10, title = "Time Flies", mbid = "dc93677b-11ca-411d-832f-fbfa98af0d2a" },
+]
+
+[[release]]
+mbid = "56c59822-828e-43e2-b24c-daff520c27ca"
+title = "Like a Good Neighbor"
+type = "single"
+date = "2011-02-09"
+tracks = [
+  { n = 1, title = "Like a Good Neighbor", mbid = "b8ad7ee2-c106-44de-a2f4-bf0a6fffeea7" },
+]
+
+[[release]]
+mbid = "f69dbf99-60db-4179-bfa8-6ba15a772047"
+title = "Everything Will Be Alright in the End"
+type = "album"
+date = "2014-07-10"
+spotify = "4A7hGVYUwbgXaEPuVkRSGJ"
+tracks = [
+  { n = 1, title = "Ain’t Got Nobody", mbid = "e7ff22e8-accc-4d41-a67e-95106a0fd039" },
+  { n = 2, title = "Back to the Shack", mbid = "4f1743a8-587f-4348-93c8-17b8a23c3c55" },
+  { n = 3, title = "Eulogy for a Rock Band", mbid = "ad455bdd-314c-4e19-862a-ad553028092a" },
+  { n = 4, title = "Lonely Girl", mbid = "eede19f6-241a-4918-8443-55fa11b601e4" },
+  { n = 5, title = "I’ve Had It Up to Here", mbid = "0756da4e-e188-4714-a106-56af67e4e76b" },
+  { n = 6, title = "The British Are Coming", mbid = "0f70095c-1ab6-4fca-af97-274f5ed3c834" },
+  { n = 7, title = "Da Vinci", mbid = "559e8dbf-2eb1-4ccc-985e-b709710b8a56" },
+  { n = 8, title = "Go Away", mbid = "579ff83d-472f-4aad-902f-2f1180c22a52" },
+  { n = 9, title = "Cleopatra", mbid = "fb9c22e1-c808-4bae-bc14-f1c1dc68dd9d" },
+  { n = 10, title = "Foolish Father", mbid = "a4509370-2164-4d42-b7d3-5e18561101e9" },
+  { n = 11, title = "I. The Waste Land", mbid = "f74079d3-16ce-4d60-b2f0-986f7370ac8d" },
+  { n = 12, title = "II. Anonymous", mbid = "730d1017-021f-4df3-87b3-405298b36217" },
+  { n = 13, title = "III. Return to Ithaka", mbid = "35c63ea5-ac93-4881-81e3-626f477d0f46" },
+]
+
+[[release]]
+mbid = "f580ada5-5089-409a-9ba8-bdaaa7858d37"
+title = "Back to the Shack"
+type = "single"
+date = "2014-07-22"
+spotify = "6nJMaxTMZJbzd0SNZ4nLf7"
+tracks = [
+  { n = 1, title = "Back to the Shack", mbid = "4f1743a8-587f-4348-93c8-17b8a23c3c55" },
+]
+
+[[release]]
+mbid = "73f3e98e-0aab-4f82-b8d2-8560f9c9e6ff"
+title = "Cleopatra"
+type = "single"
+date = "2014-09-09"
+spotify = "3xiTed3FM3Z4J1H47rFTin"
+tracks = [
+  { n = 1, title = "Cleopatra", mbid = "fb9c22e1-c808-4bae-bc14-f1c1dc68dd9d" },
+]
+
+[[release]]
+mbid = "c18de7aa-5193-4e3e-b52c-b30e32b8b378"
+title = "Everybody Needs Salvation"
+type = "single"
+date = "2015-04-19"
+tracks = [
+  { n = 1, title = "Everybody Needs Salvation", mbid = "a2235109-5c63-4a0e-81c6-314c9c7f7cf0" },
+]
+
+[[release]]
+mbid = "c1581df7-c11f-4d58-9611-32ddf0d4ceff"
+title = "Thank God for Girls"
+type = "single"
+date = "2015-10-26"
+spotify = "6ly275qWHZk3BeqXKY413r"
+tracks = [
+  { n = 1, title = "Thank God for Girls", mbid = "65bb5ce9-6ff9-4385-b0f1-ece6366853b5" },
+]
+
+[[release]]
+mbid = "376e4971-b8d0-4897-a085-4cd07375ed8b"
+title = "Do You Wanna Get High?"
+type = "single"
+date = "2015-11-04"
+spotify = "3CTU4ruyTML8Lm0u48mjO9"
+tracks = [
+  { n = 1, title = "Do You Wanna Get High?", mbid = "74df62df-e330-4377-9f8d-af68c4e1d4c1" },
+]
+
+[[release]]
+mbid = "8b66e1bf-d978-4d9b-b58b-76bd92b6e486"
+title = "King of the World"
+type = "single"
+date = "2016-01-16"
+spotify = "45mBENTrmWmgu4GJeClRRU"
+tracks = [
+  { n = 1, title = "King of the World", mbid = "4882dcd4-213b-4d5c-a179-3e31a9d3369c" },
+]
+
+[[release]]
+mbid = "65793d65-7957-4dd1-8088-564f2582a78c"
+title = "L.A. Girlz"
+type = "single"
+date = "2016-02-19"
+tracks = [
+  { n = 1, title = "L.A. Girlz", mbid = "941e8fd3-7bc8-4136-bf9e-4117befb21b9" },
+]
+
+[[release]]
+mbid = "1568c69c-1308-4fde-92bd-e5244adb944b"
+title = "California Kids"
+type = "single"
+date = "2016-03-10"
+spotify = "696HrhrcRd0xItXSo75Hjr"
+tracks = [
+  { n = 1, title = "California Kids", mbid = "dd832390-db07-4f16-b7d3-36a08d86c921" },
+]
+
+[[release]]
+mbid = "18fa1fe1-1cfd-431f-906d-a335f245d220"
+title = "Weezer"
+type = "album"
+date = "2016-04-01"
+spotify = "6StNTJJ7Yq3Hf121kLvPBz"
+tracks = [
+  { n = 1, title = "California Kids", mbid = "dd832390-db07-4f16-b7d3-36a08d86c921" },
+  { n = 2, title = "Wind in Our Sail", mbid = "08de2b71-80dd-46f3-ad6a-912bdc779ed3" },
+  { n = 3, title = "Thank God for Girls", mbid = "65bb5ce9-6ff9-4385-b0f1-ece6366853b5" },
+  { n = 4, title = "(Girl We Got a) Good Thing", mbid = "5c895016-1752-499a-b161-448678767d41" },
+  { n = 5, title = "Do You Wanna Get High?", mbid = "74df62df-e330-4377-9f8d-af68c4e1d4c1" },
+  { n = 6, title = "King of the World", mbid = "4882dcd4-213b-4d5c-a179-3e31a9d3369c" },
+  { n = 7, title = "Summer Elaine and Drunk Dori", mbid = "bab2ddef-0960-4354-9b83-e227586c1647" },
+  { n = 8, title = "L.A. Girlz", mbid = "941e8fd3-7bc8-4136-bf9e-4117befb21b9" },
+  { n = 9, title = "Jacked Up", mbid = "9ff25305-e1c4-4f43-969c-d38161d32713" },
+  { n = 10, title = "Endless Bummer", mbid = "6e99b6da-d8e2-4f01-b91f-f5db166d081c" },
+]
+
+[[release]]
+mbid = "7ea88eed-e9fc-499c-95d2-e68e1eeb9eb4"
+title = "I Love the USA"
+type = "single"
+date = "2016-06-30"
+tracks = [
+  { n = 1, title = "I Love the USA", mbid = "6fa1a2fa-9adf-4b75-a9d7-ac422f260031" },
+]
+
+[[release]]
+mbid = "efd10a1a-a651-4324-8519-91dfbe220dc9"
+title = "Fake Smiles and Nervous Laughter / You Gave Your Love to Me Softly"
+type = "single"
+date = "2016-09-12"
+tracks = [
+  { n = 1, title = "Fake Smiles and Nervous Laughter", mbid = "247f9a5c-96e5-48ba-889a-497d180f3749" },
+  { n = 2, title = "You Gave Your Love to Me Softly", mbid = "ba26ce96-2115-48f2-b0ea-511fa2dfc468" },
+]
+
+[[release]]
+mbid = "16e7954b-1abb-4b50-8fa1-6737613d7655"
+title = "The Last Days of Summer / Prom Night"
+type = "single"
+date = "2016-12-17"
+tracks = [
+  { n = 1, title = "The Last Days of Summer", mbid = "0ccb2105-422a-4677-a181-d223d384b8e8" },
+  { n = 2, title = "Prom Night", mbid = "612798ef-40dd-4d60-b08c-fb9a0fa39229" },
+]
+
+[[release]]
+mbid = "8fe2e530-66b3-4440-bb50-7d29a4b1e9f8"
+title = "Feels Like Summer"
+type = "single"
+date = "2017-03-16"
+spotify = "6xvakWG4IcWw45p7rzs3mS"
+tracks = [
+  { n = 1, title = "Feels Like Summer", mbid = "9610063a-9350-405b-8de1-db06648aa35b" },
+]
+
+[[release]]
+mbid = "3f386eb8-b3ae-4b0c-ad51-fb0dab384e01"
+title = "Mexican Fender"
+type = "single"
+date = "2017-08-17"
+spotify = "5Rci9BnnP9nz7oInSOpQiZ"
+tracks = [
+  { n = 1, title = "Mexican Fender", mbid = "253971d3-d0e2-4fc9-addd-bb78fd28dd40" },
+]
+
+[[release]]
+mbid = "99289b05-c132-46bb-b01d-76dc1af4ccf0"
+title = "Beach Boys"
+type = "single"
+date = "2017-09-14"
+spotify = "0Ge9ve7PU5dZDvGcBDTCQU"
+tracks = [
+  { n = 1, title = "Beach Boys", mbid = "f79c0357-6968-483d-8972-1175e559d1ca" },
+]
+
+[[release]]
+mbid = "ff773c07-fd20-4949-ac44-a966032b88a9"
+title = "Weekend Woman"
+type = "single"
+date = "2017-10-05"
+spotify = "7sVPrY8oM8O6FmYn9T64IL"
+tracks = [
+  { n = 1, title = "Weekend Woman", mbid = "6b45c332-252c-44c1-bb6d-bd43ca5084d0" },
+]
+
+[[release]]
+mbid = "8b3b0f9e-5531-4ed9-b4d7-c765da783397"
+title = "Happy Hour"
+type = "single"
+date = "2017-10-19"
+spotify = "4AQR9pA9zbq5YOlLHi5HlO"
+tracks = [
+  { n = 1, title = "Happy Hour", mbid = "e272171e-1bee-4157-8519-38fc1004f065" },
+]
+
+[[release]]
+mbid = "32fed2b9-c5b1-4267-9c39-9ae7d1e18326"
+title = "Pacific Daydream"
+type = "album"
+date = "2017-10-27"
+spotify = "3EwfQtjvyRAXsPWAKO5FDP"
+tracks = [
+  { n = 1, title = "Mexican Fender", mbid = "253971d3-d0e2-4fc9-addd-bb78fd28dd40" },
+  { n = 2, title = "Beach Boys", mbid = "f79c0357-6968-483d-8972-1175e559d1ca" },
+  { n = 3, title = "Feels Like Summer", mbid = "9610063a-9350-405b-8de1-db06648aa35b" },
+  { n = 4, title = "Happy Hour", mbid = "e272171e-1bee-4157-8519-38fc1004f065" },
+  { n = 5, title = "Weekend Woman", mbid = "6b45c332-252c-44c1-bb6d-bd43ca5084d0" },
+  { n = 6, title = "QB Blitz", mbid = "4ae4088a-cd76-4176-9c7a-4d5cf8d5653c" },
+  { n = 7, title = "Sweet Mary", mbid = "e6a22a90-f62b-41d1-9522-e0903b0df5a4" },
+  { n = 8, title = "Get Right", mbid = "f0b262e9-f0e4-4b0f-9de8-0a2b9eec4384" },
+  { n = 9, title = "La Mancha Screwjob", mbid = "14c81af0-d84b-4fb2-8c0c-5db834e95f90" },
+  { n = 10, title = "Any Friend of Diane’s", mbid = "3f5bf463-e14d-4c8b-8374-10a7533dc234" },
+]
+
+[[release]]
+mbid = "857f860a-2a5a-458b-8c7f-0f3ebae2d1aa"
+title = "Rosanna"
+type = "single"
+date = "2018-05-24"
+spotify = "1hv12vSXULUw1RYJqQdfNq"
+tracks = [
+  { n = 1, title = "Rosanna", mbid = "7fe607c8-353b-4e10-aaec-dff3784855f4" },
+]
+
+[[release]]
+mbid = "7d9602e1-3bc3-4aca-8731-ff79782debfa"
+title = "Africa"
+type = "single"
+date = "2018-05-29"
+spotify = "6tQbPTiNSrq91AGxZcFlhi"
+tracks = [
+  { n = 1, title = "Africa", mbid = "49b9c5d5-0fac-4876-a991-d445325ffacd" },
+  { n = 2, title = "Rosanna", mbid = "7fe607c8-353b-4e10-aaec-dff3784855f4" },
+]
+
+[[release]]
+mbid = "22df022e-aa73-4a96-93ca-4206fd78342b"
+title = "California Snow"
+type = "single"
+date = "2018-09-20"
+tracks = [
+  { n = 1, title = "California Snow", mbid = "b878709a-0999-41fa-bbb6-80092f337a3b" },
+]
+
+[[release]]
+mbid = "d4e6cb9a-20fc-4b59-baa2-75cc1d37d121"
+title = "Can’t Knock the Hustle"
+type = "single"
+date = "2018-10-11"
+tracks = [
+  { n = 1, title = "Can’t Knock the Hustle", mbid = "bdf41b6a-94c0-4809-b3e0-fba84d8db79e" },
+]
+
+[[release]]
+mbid = "ddd677b9-cfd1-4dbd-9753-20adc61d9b4c"
+title = "Zombie Bastards"
+type = "single"
+date = "2018-11-21"
+tracks = [
+  { n = 1, title = "Zombie Bastards", mbid = "7a2943dc-0854-4ba0-90ad-240087f5ea86" },
+]
+
+[[release]]
+mbid = "c27987a9-d3bb-4929-8526-d3507e92a041"
+title = "Weezer"
+type = "album"
+date = "2019-01-24"
+spotify = "65sHj9PvsbyD0uugGHjueN"
+tracks = [
+  { n = 1, title = "Africa", mbid = "49b9c5d5-0fac-4876-a991-d445325ffacd" },
+  { n = 2, title = "Everybody Wants to Rule the World", mbid = "da5a27c5-31ee-4479-9977-c9f5603ac650" },
+  { n = 3, title = "Sweet Dreams (Are Made of This)", mbid = "6f70803d-1830-4e3f-bcd2-2440f4bfd845" },
+  { n = 4, title = "Take on Me", mbid = "1bd9016d-c525-47d9-8c3d-b18bc8353986" },
+  { n = 5, title = "Happy Together", mbid = "d2b2aff7-92b2-4845-b8f9-c1e03cf43439" },
+  { n = 6, title = "Paranoid", mbid = "b76a2b18-0de9-4e53-9678-5573dbb9c9ee" },
+  { n = 7, title = "Mr. Blue Sky", mbid = "9ea11049-ff39-49aa-9c43-ae12811c0341" },
+  { n = 8, title = "No Scrubs", mbid = "f5ec08be-e55b-4445-89bf-13d9c024e8c0" },
+  { n = 9, title = "Billie Jean", mbid = "3b87f209-d94b-477a-a90b-08a3897f9b21" },
+  { n = 10, title = "Stand by Me", mbid = "1dbc67f6-cd55-4971-99f8-a1649df4e24d" },
+]
+
+[[release]]
+mbid = "a0b82a4e-2ac1-4240-94cf-4929eeea0ffe"
+title = "High as a Kite"
+type = "single"
+date = "2019-02-21"
+tracks = [
+  { n = 1, title = "High as a Kite", mbid = "4a14e611-64b9-4223-9e11-cf724e79330e" },
+]
+
+[[release]]
+mbid = "7d53a603-6142-440c-a781-a7a96462eefa"
+title = "Living in L.A."
+type = "single"
+date = "2019-02-21"
+tracks = [
+  { n = 1, title = "Living in L.A.", mbid = "7803745d-03d9-49f0-9295-9a649cdb42ea" },
+]
+
+[[release]]
+mbid = "1a5ae023-9cd4-431d-8176-d93515e63549"
+title = "Weezer"
+type = "album"
+date = "2019-03-01"
+spotify = "49cHEhh4pSeWvV0HW3OYo6"
+tracks = [
+  { n = 1, title = "Can’t Knock the Hustle", mbid = "bdf41b6a-94c0-4809-b3e0-fba84d8db79e" },
+  { n = 2, title = "Zombie Bastards", mbid = "7a2943dc-0854-4ba0-90ad-240087f5ea86" },
+  { n = 3, title = "High as a Kite", mbid = "4a14e611-64b9-4223-9e11-cf724e79330e" },
+  { n = 4, title = "Living in L.A.", mbid = "7803745d-03d9-49f0-9295-9a649cdb42ea" },
+  { n = 5, title = "Piece of Cake", mbid = "137eba92-e239-4da0-b8ac-24e51fe5dba8" },
+  { n = 6, title = "I’m Just Being Honest", mbid = "d728be7f-4526-4b06-93ce-52302010864d" },
+  { n = 7, title = "Too Many Thoughts in My Head", mbid = "2dd88ef7-176e-42a0-9f74-7753f0d44081" },
+  { n = 8, title = "The Prince Who Wanted Everything", mbid = "8e1ba105-0fd3-4182-8687-2b0304116e51" },
+  { n = 9, title = "Byzantine", mbid = "4bb7e533-d75f-4243-87cd-8f6f96e28827" },
+  { n = 10, title = "California Snow", mbid = "539c4ccd-69ed-41ac-9c48-f201bdcbf189" },
+]
+
+[[release]]
+mbid = "6825df6e-1b3b-4523-a13f-b6998d923829"
+title = "It's Been So Long"
+type = "single"
+date = "2019-05-10"
+tracks = [
+  { n = 1, title = "It's Been So Long", mbid = "29cf0156-495d-4c06-ab6e-8d4bdd61cd57" },
+]
+
+[[release]]
+mbid = "d458da08-1851-4c59-87e7-f8ccd19d9862"
+title = "The End of the Game"
+type = "single"
+date = "2019-09-10"
+spotify = "2oIIKGUt4telkfiygjJ4il"
+tracks = [
+  { n = 1, title = "The End of the Game", mbid = "838381b8-ca3f-4735-8d42-f8fc23e5349c" },
+]
+
+[[release]]
+mbid = "60a86caa-26f5-4c5e-b5b0-67765e88ac5b"
+title = "Hero"
+type = "single"
+date = "2020-05-06"
+spotify = "4FrRRR86MYCjoLFV8dgnm5"
+tracks = [
+  { n = 1, title = "Hero", mbid = "2d7ce96f-01bc-4063-95de-b57f21989dd1" },
+]
+
+[[release]]
+mbid = "5bb63177-48cc-47ed-93a1-fcb22b322682"
+title = "Beginning of the End (Wyld Stallyns edit)"
+type = "single"
+date = "2020-08-13"
+spotify = "52IHbrIHVq9PzqX1TF9xro"
+tracks = [
+  { n = 1, title = "Beginning of the End (Wyld Stallyns edit)", mbid = "75c9ed1e-e400-426f-b42c-168031823d71" },
+]
+
+[[release]]
+mbid = "b133fc6a-cdd5-414e-bc33-be9e0248c742"
+title = "ReadMe.txt"
+type = "single"
+date = "2021-01-08"
+spotify = "7fkHMs3kwoJcWhlmwWktsH"
+tracks = [
+  { n = 1, title = "ReadMe.txt", mbid = "8d495d32-2b7a-4f6f-aaeb-4a57e672521f" },
+]
+
+[[release]]
+mbid = "ad856f24-fa1a-4a20-a461-01e57c379d62"
+title = "All My Favorite Songs"
+type = "single"
+date = "2021-01-21"
+spotify = "4TaPGfbNdbV8eMUevCMuCJ"
+tracks = [
+  { n = 1, title = "All My Favorite Songs", mbid = "de7e976a-b1a3-46e5-af84-ae7b5390798d" },
+]
+
+[[release]]
+mbid = "6cb9f36f-df55-463a-82a1-84bbdd03e95e"
+title = "OK Human"
+type = "album"
+date = "2021-01-29"
+spotify = "0dL9rGQxUeIqpiUndXaQLl"
+tracks = [
+  { n = 1, title = "All My Favorite Songs", mbid = "de7e976a-b1a3-46e5-af84-ae7b5390798d" },
+  { n = 2, title = "Aloo Gobi", mbid = "2f42cdab-9385-4792-bedc-75f5b19c3ef3" },
+  { n = 3, title = "Grapes of Wrath", mbid = "635f7949-2e3e-4159-82b5-b5c140cf32ac" },
+  { n = 4, title = "Numbers", mbid = "0e17b6d4-d5b4-4b93-be61-b3e62c65a563" },
+  { n = 5, title = "Playing My Piano", mbid = "f9963446-6689-4cc0-a5bb-7ba7be43fc54" },
+  { n = 6, title = "Mirror Image", mbid = "6be17a0e-43c3-48a9-bf11-5f31f3f7f186" },
+  { n = 7, title = "Screens", mbid = "9bfadcdd-209a-43ed-9a2c-93fdaa4708cb" },
+  { n = 8, title = "Bird With a Broken Wing", mbid = "f655e55f-cb2b-4e7f-9684-082a670871ad" },
+  { n = 9, title = "Dead Roses", mbid = "38be1425-1508-4ab9-8f03-d9eed3e533fe" },
+  { n = 10, title = "Everything Happens for a Reason", mbid = "ca1ed6d4-2f99-404f-81d7-d043da2ac103" },
+  { n = 11, title = "Here Comes the Rain", mbid = "f21a5228-390e-4f9a-8770-d0024d8ab403" },
+  { n = 12, title = "La Brea Tar Pits", mbid = "048518f4-58ee-43f5-8921-967cbb67ffb6" },
+]
+
+[[release]]
+mbid = "aeed8331-86bb-4a6f-8876-780bcb8f4e11"
+title = "I Need Some of That"
+type = "single"
+date = "2021-04-21"
+spotify = "758At0nYWEPPSkWiGOlEwj"
+tracks = [
+  { n = 1, title = "I Need Some of That", mbid = "d48ee7e4-dad2-422c-b7ac-9d04544deb5f" },
+]
+
+[[release]]
+mbid = "3f5c8b54-1851-434a-87ac-fab198fda979"
+title = "Van Weezer"
+type = "album"
+date = "2021-05-07"
+spotify = "4QIZtPbEAQTu1smtYyDHXz"
+tracks = [
+  { n = 1, title = "Hero", mbid = "2d7ce96f-01bc-4063-95de-b57f21989dd1" },
+  { n = 2, title = "All the Good Ones", mbid = "01261bed-2af6-4448-b8a8-4f29509d1445" },
+  { n = 3, title = "The End of the Game", mbid = "838381b8-ca3f-4735-8d42-f8fc23e5349c" },
+  { n = 4, title = "I Need Some of That", mbid = "d48ee7e4-dad2-422c-b7ac-9d04544deb5f" },
+  { n = 5, title = "Beginning of the End", mbid = "c47102ec-8662-4c28-9f4b-5834258637db" },
+  { n = 6, title = "Blue Dream", mbid = "9774a2b0-d7b0-465a-bbc1-a9d37d33564a" },
+  { n = 7, title = "1 More Hit", mbid = "8bd297da-083e-42e9-aab3-827cb7bffc06" },
+  { n = 8, title = "Sheila Can Do It", mbid = "999eee41-d057-4cc9-b84a-52ef2642ec32" },
+  { n = 9, title = "She Needs Me", mbid = "c9326cf8-d38e-49d5-b836-ab215193ea8e" },
+  { n = 10, title = "Precious Metal Girl", mbid = "56f5db1a-d9f5-4685-9889-fcc66fb8e331" },
+]
+
+[[release]]
+mbid = "787afdc1-2676-4b37-a545-cd02219497d3"
+title = "All My Favorite Songs"
+type = "single"
+date = "2021-05-12"
+spotify = "1FXt1CeMXHBlJ1AdvzaC5H"
+tracks = [
+  { n = 1, title = "All My Favorite Songs", mbid = "3c58ae97-b77c-4d99-9ef5-4a685d1b060f" },
+]
+
+[[release]]
+mbid = "1b7519f6-c53b-4b69-8207-2531ab00747c"
+title = "Tell Me What You Want"
+type = "single"
+date = "2021-06-11"
+spotify = "2Ifb0enfmHWUZT2iWrCmTY"
+tracks = [
+  { n = 1, title = "Tell Me What You Want", mbid = "c9ede995-8ce2-48b4-92d2-406411c41dec" },
+]
+
+[[release]]
+mbid = "80d86dc9-8aad-4b59-ac7e-47d89e58226b"
+title = "Enter Sandman"
+type = "single"
+date = "2021-08-03"
+spotify = "6G11fV7vuHS1WAhOs1eVNG"
+tracks = [
+  { n = 1, title = "Enter Sandman", mbid = "ea089372-a34f-4549-9705-c8b708c0bda5" },
+]
+
+[[release]]
+mbid = "f0a96088-124d-4f1b-9587-6c0c5c5ffbe6"
+title = "A Little Bit of Love"
+type = "single"
+date = "2022-03-16"
+spotify = "5PN3w2kkPaP3ZDVUtwebge"
+tracks = [
+  { n = 1, title = "A Little Bit of Love", mbid = "759d155c-253f-40b8-b426-e8e6495475e7" },
+]
+
+[[release]]
+mbid = "36b970a4-651e-4304-bbd0-acf10b24088f"
+title = "SZNZ: Spring"
+type = "ep"
+date = "2022-03-20"
+spotify = "5dpaxVXET01VAgivwwUac6"
+tracks = [
+  { n = 1, title = "Opening Night", mbid = "91cc7238-3ab9-4f69-b6cd-49d6e1aea546" },
+  { n = 2, title = "Angels on Vacation", mbid = "2f3219de-71ab-4b21-abca-4f9ce0b7b49c" },
+  { n = 3, title = "A Little Bit of Love", mbid = "759d155c-253f-40b8-b426-e8e6495475e7" },
+  { n = 4, title = "The Garden of Eden", mbid = "cd872a1d-09ad-482e-ba1c-dd345c785307" },
+  { n = 5, title = "The Sound of Drums", mbid = "f553dddd-3340-441e-8d33-75486c450375" },
+  { n = 6, title = "All This Love", mbid = "081d271f-3f70-4ea9-89b2-41134361f640" },
+  { n = 7, title = "Wild at Heart", mbid = "56620e42-1c32-4c08-bcd1-5ca5013bb714" },
+]
+
+[[release]]
+mbid = "0edcab14-d209-4b47-915f-8408c94579a0"
+title = "SZNZ: Summer"
+type = "ep"
+date = "2022-06-21"
+spotify = "1DvBf2E2OgU8HAjgInLT6H"
+tracks = [
+  { n = 1, title = "Lawn Chair", mbid = "71cd8906-5923-4ee0-93c4-d443f9f186eb" },
+  { n = 2, title = "Records", mbid = "9112378b-872b-41be-8850-e6ca6e5567f7" },
+  { n = 3, title = "Blue Like Jazz", mbid = "50095c5a-5a0a-4684-a1df-34569296e574" },
+  { n = 4, title = "The Opposite of Me", mbid = "6681ba6e-4844-4dbc-9f29-a60d3d04735f" },
+  { n = 5, title = "What’s the Good of Being Good", mbid = "782cf8c1-a5ff-4301-9fda-703b9a36df3e" },
+  { n = 6, title = "Cuomoville", mbid = "d6ef501f-b109-468a-89f7-d9967e0937c4" },
+  { n = 7, title = "Thank You and Good Night", mbid = "1f693c07-1e61-44a4-a8f1-944ff9c420e0" },
+]
+
+[[release]]
+mbid = "147eab71-05a6-4258-944d-18c7e8e8eed1"
+title = "Records"
+type = "single"
+date = "2022-08-31"
+spotify = "6i14pMUR9CMUtuuJITLEI7"
+tracks = [
+  { n = 1, title = "Records", mbid = "51e7e01d-c9e0-4f5d-88f2-3c562d4ddefd" },
+]
+
+[[release]]
+mbid = "9bf88d97-678e-4ffc-b0d2-453323579eca"
+title = "SZNZ: Autumn"
+type = "ep"
+date = "2022-09-22"
+spotify = "5dzUJv6MvjJsZ97kgHlx4P"
+tracks = [
+  { n = 1, title = "Can’t Dance, Don’t Ask Me", mbid = "277905e3-9dd0-46f8-bfdf-e00faa8bcb07" },
+  { n = 2, title = "Get Off on the Pain", mbid = "1d87582c-9219-496a-be3e-74e24476aecc" },
+  { n = 3, title = "What Happens After You?", mbid = "a9f4068f-8125-4966-a61d-67ee05a60fad" },
+  { n = 4, title = "Francesca", mbid = "ca649cc4-2b92-48b8-a2fb-0a958b9fbc89" },
+  { n = 5, title = "Should She Stay or Should She Go", mbid = "fbe16e3f-a730-4223-b0ba-272d17de9d1c" },
+  { n = 6, title = "Tastes Like Pain", mbid = "9825f4aa-d86e-4d2d-8d7c-b6e716e00d9b" },
+  { n = 7, title = "Run, Raven, Run", mbid = "4439c3b8-23fe-4b65-b2f4-ecf3b3170788" },
+]
+
+[[release]]
+mbid = "162544e4-c1a3-4e07-a061-c728565f7f62"
+title = "I Want a Dog"
+type = "single"
+date = "2022-12-09"
+spotify = "4Ttms3JPJD2QEczSv7lyUt"
+tracks = [
+  { n = 1, title = "I Want a Dog", mbid = "e88009c2-58e0-4018-b8e3-6825618b8d65" },
+]
+
+[[release]]
+mbid = "4b600d1c-b366-4827-af8b-c072476233ce"
+title = "SZNZ: Winter"
+type = "ep"
+date = "2022-12-21"
+tracks = [
+  { n = 1, title = "I Want a Dog", mbid = "e88009c2-58e0-4018-b8e3-6825618b8d65" },
+  { n = 2, title = "Iambic Pentameter", mbid = "e39ad52f-97aa-4631-bf75-fe0303a8ec12" },
+  { n = 3, title = "Basketball", mbid = "36ec237e-fd4b-485c-8375-7d51f06c6918" },
+  { n = 4, title = "Sheraton Commander", mbid = "ea32627b-62d8-47d7-a336-cb8afdf76322" },
+  { n = 5, title = "Dark Enough to See the Stars", mbid = "62c126e1-e221-4567-a69c-cdc07c8b0f70" },
+  { n = 6, title = "The One That Got Away", mbid = "180f320b-4571-4081-8f33-bf191a3a0018" },
+  { n = 7, title = "The Deep and Dreamless Sleep", mbid = "343b8f1d-bb77-4908-b020-4f2144e9377d" },
+]
+
+[[release]]
+mbid = "0f60e18b-7a84-4dbb-82bb-9b3f61669082"
+title = "Shine Again"
+type = "single"
+date = "2026-04-01"
+spotify = "6HqfvcCZYZMzTCbfWwu153"
+tracks = [
+  { n = 1, title = "Shine Again", mbid = "3eb7a1ee-4297-4972-84b3-1f2a28aad39e" },
+]
+
+[[release]]
+mbid = "1862c5a7-5303-4384-9c50-77fc2c62e682"
+title = "Go Away (Long Lost edit)"
+type = "single"
+date = "2026-04-03"
+spotify = "0yosx9mMyzgeOFn6PiuM82"
+tracks = [
+  { n = 1, title = "Go Away (Long Lost edit)", mbid = "c82a6668-6308-4fa2-86b8-deb0cf454519" },
+]
+
+[[release]]
+mbid = "42cd8414-b667-4796-8843-b8c1986fece3"
+title = "We Might as Well Be Strangers"
+type = "single"
+date = "2026-06-03"
+spotify = "0L6BByZ7oX4EOrx1nHd2SS"
+tracks = [
+  { n = 1, title = "We Might as Well Be Strangers", mbid = "a4fe832e-3353-46b3-9b30-3794a4f0a727" },
+]
+
+[[release]]
+mbid = "8c7f2dc2-1ddf-4397-a65a-e55bdb6e20a5"
+title = "C.E.O."
+type = "single"
+date = "2026-08-05"
+spotify = "02x4x22HOnv0j9Zk1FJpeY"
+tracks = [
+  { n = 1, title = "C.E.O.", mbid = "a62c962e-dce4-4c0d-9420-3a60269d52ad" },
+]
+
+[[release]]
+mbid = "171245fd-a5ff-4551-857c-710ce0967f8f"
+title = "Weezer"
+type = "album"
+date = "2026-08-21"
+spotify = "4X3LhfPfmdcMQblc5k11WC"
+tracks = [
+  { n = 1, title = "Say Yes", mbid = "d7eaeed8-fcbe-4f09-8d36-0a147c428433" },
+  { n = 2, title = "Shine Again", mbid = "3eb7a1ee-4297-4972-84b3-1f2a28aad39e" },
+  { n = 3, title = "Don’t Make It Weird", mbid = "b84f8f43-6abc-4f57-a18d-f9ec926a954f" },
+  { n = 4, title = "We Might as Well Be Strangers", mbid = "a4fe832e-3353-46b3-9b30-3794a4f0a727" },
+  { n = 5, title = "C.E.O.", mbid = "a62c962e-dce4-4c0d-9420-3a60269d52ad" },
+  { n = 6, title = "Hoops", mbid = "dc8c505e-e793-42e2-a268-eb8c5856276a" },
+  { n = 7, title = "Nowhere", mbid = "287d4cb3-f17b-4f9b-850c-ba9cf3a0edfb" },
+  { n = 8, title = "The Show Must Go On", mbid = "d26576d4-e22c-435f-b67b-d6dfa25be338" },
+  { n = 9, title = "Up in the Clouds", mbid = "60354167-97d2-4325-8559-186f9e96e0f4" },
+  { n = 10, title = "The LA Sound", mbid = "66772de3-cb87-4377-a676-8886e87eb2b9" },
+]

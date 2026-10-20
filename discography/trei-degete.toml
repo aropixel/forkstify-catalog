@@ -1,0 +1,21 @@
+format = 1
+
+[[release]]
+mbid = "32cbbcc5-dcec-4745-9ca2-af215b81bda9"
+title = "Time Time"
+type = "single"
+date = "2021-11-15"
+spotify = "7xMm03yU17hL31Ul5ctPnw"
+tracks = [
+  { n = 1, title = "Time Time", mbid = "456d0c5e-cc12-44e8-8be8-2c0a7d3dd0fa" },
+]
+
+[[release]]
+mbid = "07544c12-d5a5-4e24-b754-4c2234b983f0"
+title = "Spaceship"
+type = "single"
+date = "2023-01-19"
+spotify = "39LYTzf3YV2wGXX7C2vds3"
+tracks = [
+  { n = 1, title = "Spaceship", mbid = "8a79c94f-e6e6-4b2b-b71b-69d012c628a1" },
+]

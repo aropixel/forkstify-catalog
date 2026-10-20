@@ -1,0 +1,873 @@
+format = 1
+
+[[release]]
+mbid = "ecccbb5e-d0d5-4644-80ee-11d2ecec59eb"
+title = "Milky Teeth / Patchwork"
+type = "single"
+date = "1992-11"
+spotify = "0lI5sJrkzHLyMLT2RCRc74"
+tracks = [
+  { n = 1, title = "Milky Teeth", mbid = "d3944328-36aa-44d7-b613-884eb4efae6a" },
+  { n = 2, title = "Patchwork", mbid = "9a8a200b-db95-4d1a-9cac-eb619eeeb49c" },
+]
+
+[[release]]
+mbid = "a312b7fb-4fc2-4291-867e-90261fa13a1d"
+title = "City Sickness"
+type = "single"
+date = "1993-01-01"
+spotify = "6XV8TPEfrDLQhXNKdlCqCS"
+tracks = [
+  { n = 1, title = "City Sickness", mbid = "aa09e272-7c2f-43cc-83c6-2b2b61a2ac68" },
+  { n = 2, title = "[untitled]", mbid = "bb8aa844-6011-42a3-ad26-b0f169b1594c" },
+  { n = 3, title = "The Bull Ring", mbid = "11ee5201-3b77-46f1-983c-8b1feb49c667" },
+]
+
+[[release]]
+mbid = "14ee0bc7-6f1e-4227-9e82-2ecfab063093"
+title = "A Marriage Made in Heaven"
+type = "single"
+date = "1993-03"
+tracks = [
+  { n = 1, title = "A Marriage Made in Heaven", mbid = "fcc640c1-c5f8-4366-ace5-703e1f36d631" },
+  { n = 2, title = "A Marriage Made in Heaven (instrumental)", mbid = "c23751ec-10cb-4a79-ad24-6db624c1dd5d" },
+]
+
+[[release]]
+mbid = "563b8e98-e849-41ec-b03e-23d29534b3de"
+title = "Marbles"
+type = "ep"
+date = "1993-03"
+spotify = "5uIsJNyxicWRRaJU81vaRH"
+tracks = [
+  { n = 1, title = "Marbles", mbid = "33289162-cbbd-421f-9bca-ed723f9bc25a" },
+  { n = 2, title = "For Those", mbid = "5d9de6ff-f4e5-416f-b3d6-0a9c60df556a" },
+]
+
+[[release]]
+mbid = "a5a83ae4-6eb2-4b6c-8e49-610c1f021b7a"
+title = "Unwired"
+type = "ep"
+date = "1993-06"
+tracks = [
+  { n = 1, title = "Feeling Relatively Good", mbid = "ef135f38-ba2b-4285-86a5-4350d77c06c7" },
+  { n = 2, title = "Rottweilers & Mace", mbid = "398f654f-c109-418e-8925-807dbf37dbc5" },
+  { n = 3, title = "She", mbid = "6c36c181-8f8b-4ca7-8dc5-3230003a375c" },
+  { n = 4, title = "Kooks", mbid = "7e0518eb-b00b-4365-a2c3-f5636492a112" },
+]
+
+[[release]]
+mbid = "6c822742-52f9-4537-b784-1fefcbb6130c"
+title = "We Have All the Time in the World"
+type = "single"
+date = "1993-10"
+tracks = [
+  { n = 1, title = "We Have All the Time in the World", mbid = "a4282940-b76c-4426-93b5-a41c97f1edf9" },
+  { n = 2, title = "James Bond Theme", mbid = "780ff7d5-e1ec-4ede-8ed5-44930aa291b6" },
+  { n = 3, title = "Known, Not Wanted", mbid = "1067f789-35eb-4b12-b18d-e15d32c47ec9" },
+]
+
+[[release]]
+mbid = "70807268-d370-317b-b6d6-f65797ff17c4"
+title = "Tindersticks"
+type = "album"
+date = "1993-10-07"
+spotify = "6E7bTOxwVrOymhDLZXlGJe"
+tracks = [
+  { n = 1, title = "Nectar", mbid = "c8621ccd-c461-47e7-8d30-e50d48f900ae" },
+  { n = 2, title = "Tyed", mbid = "33339c94-d749-4190-9d3d-357eac950188" },
+  { n = 3, title = "Sweet, Sweet Man, Part 1", mbid = "41f385ef-833f-46ad-ab29-47cb86184af8" },
+  { n = 4, title = "Whiskey & Water", mbid = "d8eb1466-ebeb-4972-a5c4-604514dc0bc6" },
+  { n = 5, title = "Blood", mbid = "f59d0561-2754-4513-96cb-7ba5f5df2496" },
+  { n = 6, title = "City Sickness", mbid = "aa09e272-7c2f-43cc-83c6-2b2b61a2ac68" },
+  { n = 7, title = "Patchwork", mbid = "102096ca-29c8-4287-b1a4-291aa1d9e0fc" },
+  { n = 8, title = "Marbles", mbid = "33289162-cbbd-421f-9bca-ed723f9bc25a" },
+  { n = 9, title = "The Walt Blues", mbid = "184a1e7f-e533-4c27-a5c9-8bdbd3424aca" },
+  { n = 10, title = "Milky Teeth", mbid = "b6cdb16b-b680-45e5-b625-adedbbaa7a45" },
+  { n = 11, title = "Sweet, Sweet Man, Part 2", mbid = "f68cbb89-ef41-42d8-bbf4-88e33041f23b" },
+  { n = 12, title = "Jism", mbid = "483c35dd-215a-421e-957d-22190ad2fb3d" },
+  { n = 13, title = "Piano Song", mbid = "38c1b262-45ab-4b28-bed5-d38edcdb98bc" },
+  { n = 14, title = "Tie-Dye", mbid = "2e676546-63f0-4a8e-b57d-eff187f15c00" },
+  { n = 15, title = "Raindrops", mbid = "f9a7d9e9-5da6-4c9c-9249-fc2cfb77feba" },
+  { n = 16, title = "Sweet, Sweet Man, Part 3", mbid = "5802601a-a772-4d98-8646-d1c7dee5dc41" },
+  { n = 17, title = "Her", mbid = "a2fb9008-6eee-4e19-b3a5-225cc8a14031" },
+  { n = 18, title = "Tea Stain", mbid = "6986dd9d-fe19-4b32-b794-3abd8403fca9" },
+  { n = 19, title = "Drunk Tank", mbid = "ada0d7f8-2e39-496a-9f93-2cf095d9a450" },
+  { n = 20, title = "Paco de Renaldos Dream", mbid = "65702891-8070-4fc8-9ba8-83069b9a8367" },
+  { n = 21, title = "The Not Knowing", mbid = "5e0b2e10-b7e0-401c-a214-8800cc4dbf00" },
+]
+
+[[release]]
+mbid = "d848eba0-54a8-367b-b326-6e06626790b1"
+title = "Kathleen"
+type = "single"
+date = "1994-01"
+tracks = [
+  { n = 1, title = "Kathleen", mbid = "6c58e16b-ba64-4df7-b739-3eface171f0b" },
+  { n = 2, title = "Summat Moon", mbid = "88ad080e-4541-4c71-8eb3-1ee6fd591793" },
+  { n = 3, title = "Sweet Sweet Man", mbid = "c1ff1a84-6d34-4962-b9fa-115b07f12978" },
+  { n = 4, title = "E-Type Joe", mbid = "e492fb29-9686-47e9-b835-cd6020d00534" },
+]
+
+[[release]]
+mbid = "bc117c8d-8364-3fcd-8679-ae4503a5b19c"
+title = "Travelling Light"
+type = "single"
+date = "1995"
+spotify = "14XoNXVVC8lMk8SPqq1VIM"
+tracks = [
+  { n = 1, title = "Travelling Light", mbid = "8c3cf974-fe73-44b6-8ae3-e721ab1fd9b0" },
+  { n = 2, title = "Plus de liaisons", mbid = "82c6a9c3-99b2-4f28-89db-00913d0e4aed" },
+  { n = 3, title = "Waiting ’Round You", mbid = "2f541033-e50f-4156-8368-a255f94957f0" },
+  { n = 4, title = "I’ve Been Loving You Too Long", mbid = "aed18640-de22-4679-8430-e05beb6a943a" },
+]
+
+[[release]]
+mbid = "8c812e5d-7f72-3c4a-82de-c1b922fa8833"
+title = "No More Affairs"
+type = "single"
+date = "1995-03"
+spotify = "40oavq05PibM188FPZhNS9"
+tracks = [
+  { n = 1, title = "No More Affairs", mbid = "2cd10eb1-7266-4fa9-b695-da916dd49a07" },
+  { n = 2, title = "No More Affairs (instrumental)", mbid = "ad3a3235-c918-48da-a389-51a7bcb0560f" },
+  { n = 3, title = "Fruitless", mbid = "9b508a96-f321-4129-933b-f274b4665b6b" },
+]
+
+[[release]]
+mbid = "dcc219d3-c1ba-4ca2-9c79-d7550d56d1fc"
+title = "Plus de liaisons"
+type = "single"
+date = "1995-03"
+tracks = [
+  { n = 1, title = "Plus de liaisons", mbid = "82c6a9c3-99b2-4f28-89db-00913d0e4aed" },
+]
+
+[[release]]
+mbid = "ab3f9436-2168-3991-b179-97c851e97bb6"
+title = "Tindersticks"
+type = "album"
+date = "1995-04-03"
+spotify = "1h5RPHMghpcUh5wz6jvkqg"
+tracks = [
+  { disc = 1, n = 1, title = "El Diablo En El Ojo", mbid = "349b6ed1-19a7-4af3-b543-a2781aa102b8" },
+  { disc = 1, n = 2, title = "A Night In", mbid = "0f7976ad-2dcf-4f2a-ba74-d795f58f9f70" },
+  { disc = 1, n = 3, title = "My Sister", mbid = "37df7f79-dab8-4499-b3b9-26f5bb915dda" },
+  { disc = 1, n = 4, title = "Tiny Tears", mbid = "e028bad5-1fcb-47c0-a013-3e42fb98fb38" },
+  { disc = 1, n = 5, title = "Snowy in F♯ Minor", mbid = "ad938506-5ab7-4490-b600-76f6cb5ed75a" },
+  { disc = 1, n = 6, title = "Seaweed", mbid = "5589649d-d343-4e32-82a8-9253d9cba525" },
+  { disc = 1, n = 7, title = "Vertrauen II", mbid = "0136fa52-7182-4b59-a486-9f280ea83143" },
+  { disc = 1, n = 8, title = "Talk to Me", mbid = "bdbeb167-b2c3-4878-bbc0-7a753c1e0d27" },
+  { disc = 1, n = 9, title = "No More Affairs", mbid = "2cd10eb1-7266-4fa9-b695-da916dd49a07" },
+  { disc = 1, n = 10, title = "Singing", mbid = "0db3f6ee-7661-4741-ab3f-cb29e5a72a05" },
+  { disc = 1, n = 11, title = "Travelling Light", mbid = "2150106f-6b88-4677-bc65-ffe9aefb26c3" },
+  { disc = 1, n = 12, title = "Cherry Blossoms", mbid = "2d943f4b-9e66-46bb-87a5-3655cdb52ec1" },
+  { disc = 1, n = 13, title = "She's Gone", mbid = "48130166-1a99-40e7-9ce3-0fae4e491faa" },
+  { disc = 1, n = 14, title = "Mistakes", mbid = "8b754d27-7517-49c5-a728-54aa2c016556" },
+  { disc = 1, n = 15, title = "Vertrauen III", mbid = "aa400c2d-35ab-4383-951a-446f7f48efd1" },
+  { disc = 1, n = 16, title = "Sleepy Song", mbid = "f978a4f4-25d8-4609-ad79-d57a6720222d" },
+  { disc = 2, n = 1, title = "El Diablo En El Ojo", mbid = "e1be0ec9-90c8-48da-a1a8-b706b3d8fbc3" },
+  { disc = 2, n = 2, title = "A Night In", mbid = "9a0451d6-f476-469f-bf5e-33dc9a11a4c6" },
+  { disc = 2, n = 3, title = "Talk to Me", mbid = "24cf668d-c5b0-4707-b38b-198980bee7c2" },
+  { disc = 2, n = 4, title = "She's Gone", mbid = "516e773b-e45c-4da1-b8a5-8944629dd61a" },
+  { disc = 2, n = 5, title = "No More Affairs", mbid = "0bd01306-0d87-4a52-a59a-7555ed187351" },
+  { disc = 2, n = 6, title = "City Sickness", mbid = "b87a0af3-8b70-4328-9b87-ef23f2330501" },
+  { disc = 2, n = 7, title = "Vertrauen II", mbid = "97b9f511-82bb-4dca-995d-f71f5b8a38be" },
+  { disc = 2, n = 8, title = "Sleepy Song", mbid = "30c6b3d5-03e7-4c0d-8d8b-d9180ee318bb" },
+  { disc = 2, n = 9, title = "Jism", mbid = "0157d83a-6114-42ce-9f59-556dbedeb959" },
+  { disc = 2, n = 10, title = "Drunk Tank", mbid = "d36d3e62-12f0-4965-9cef-0c4868148b46" },
+  { disc = 2, n = 11, title = "Mistakes", mbid = "3ed5c6a7-0e04-481c-be0c-b2ea93ef6b18" },
+  { disc = 2, n = 12, title = "Tiny Tears", mbid = "c3c4dfba-34b3-4f9f-a274-3f54a82966cd" },
+  { disc = 2, n = 13, title = "Raindrops", mbid = "333f6414-f42e-450c-8b98-df08221e2c70" },
+  { disc = 2, n = 14, title = "For Those...", mbid = "59fd9dd6-e246-4825-9a31-0ec1839017bd" },
+]
+
+[[release]]
+mbid = "ea6abc3f-b893-434a-816b-5b87d292032b"
+title = "The Smooth Sounds of Tindersticks"
+type = "single"
+date = "1995-05-22"
+tracks = [
+  { n = 1, title = "Here", mbid = "40dbad28-a2b5-4452-bf76-78d1a83f85f0" },
+  { n = 2, title = "Harry's Dilemma", mbid = "30254fe7-1b09-4f19-baa2-d79ac0f5a896" },
+]
+
+[[release]]
+mbid = "dbbdd3eb-22ca-30d8-a296-03bf8316ed36"
+title = "Nénette et Boni"
+type = "album"
+date = "1996-10-04"
+spotify = "5veKBV7VejU84xfA3q0VYz"
+tracks = [
+  { n = 1, title = "Ma sœur", mbid = "2582027a-4130-4d30-a4b2-6bdf6c93d545" },
+  { n = 2, title = "La Passerelle", mbid = "ec13868e-241f-4586-8a29-e1db4d7535ba" },
+  { n = 3, title = "Les Gâteaux", mbid = "735219b8-9298-4306-a5f4-0b6a37cf0e0f" },
+  { n = 4, title = "Camions", mbid = "7e541ac6-b5a0-4dad-b7ac-6d97fdd465f8" },
+  { n = 5, title = "Nénette est là", mbid = "b04b39dc-6758-4715-b3a7-2eff8fd8fe1d" },
+  { n = 6, title = "Petites chiennes", mbid = "20519dd4-102a-4e62-999a-29bbcc2498c6" },
+  { n = 7, title = "Nosfératu", mbid = "fc74f84f-5182-433e-aefd-b6c078db4d33" },
+  { n = 8, title = "Petites gouttes d’eau", mbid = "3eb0b9f7-c463-47fd-9d45-ec59e255bd81" },
+  { n = 9, title = "Les Cannes à pêche", mbid = "051b65f7-5baf-47d7-9d7a-46b8d0c8ce70" },
+  { n = 10, title = "La Mort de Félix", mbid = "c44465a1-bb41-4a39-bb9c-893ff9891301" },
+  { n = 11, title = "Nénette s’en va", mbid = "8273f6cb-f20b-44f8-979b-a8a9ba9c506b" },
+  { n = 12, title = "Les Bébés", mbid = "7eba74a3-02e8-4c62-a1e3-1d88fc03cd1b" },
+  { n = 13, title = "Les Fleurs", mbid = "676a7952-a6ad-44c3-bb8e-af953fd07e40" },
+  { n = 14, title = "Rumba", mbid = "58dbd682-2fee-435c-a4dc-01a1b08cb1f5" },
+]
+
+[[release]]
+mbid = "61600518-3a95-377f-be72-d6b1bc136cfe"
+title = "Bathtime"
+type = "single"
+date = "1997-05-19"
+spotify = "05Hxokh9L813VVpHKwaLzx"
+tracks = [
+  { n = 1, title = "Bathtime", mbid = "b88a5c4e-2dae-4972-900f-85fe199ced97" },
+  { n = 2, title = "Paco’s Theme", mbid = "99d05d5a-69f3-4dd6-9eff-167cb517cae9" },
+  { n = 3, title = "Shadow", mbid = "dd5583c0-0731-432a-95c1-3c798b616b6a" },
+  { n = 4, title = "Manalow", mbid = "0f709051-3094-4e7e-901e-3cbccbec73c6" },
+]
+
+[[release]]
+mbid = "2c29af85-5580-34e3-b79b-01a08a9bf9c9"
+title = "Curtains"
+type = "album"
+date = "1997-06-09"
+tracks = [
+  { n = 1, title = "Another Night In", mbid = "3670548a-bad1-47f6-9251-865673c4754c" },
+  { n = 2, title = "Rented Rooms", mbid = "2241f6d0-147d-42b3-84a0-77a3aae9b7b7" },
+  { n = 3, title = "Don’t Look Down", mbid = "b0c2fbb7-ce24-4851-a7ff-1aad7f4d1312" },
+  { n = 4, title = "Dick’s Slow Song", mbid = "cd99b0cf-f7db-40ce-ae24-7e8c449ca052" },
+  { n = 5, title = "Fast One", mbid = "fd51452b-b4e1-4f90-8d62-35f1ad420307" },
+  { n = 6, title = "Ballad of Tindersticks", mbid = "ce0a1d5c-bfbd-4c8a-b237-6f6a9529673f" },
+  { n = 7, title = "Dancing", mbid = "6ce10251-90d8-447a-8bff-3f075a1fc637" },
+  { n = 8, title = "Let’s Pretend", mbid = "f93ec8e5-bd83-4864-a340-b54a19c3ac6f" },
+  { n = 9, title = "Desperate Man", mbid = "6326ef96-672d-4901-9d4b-018ce393df36" },
+  { n = 10, title = "Buried Bones", mbid = "20fc014a-1f64-4ee6-886d-ebcb55c6f3ec" },
+  { n = 11, title = "Bearsuit", mbid = "d0f37844-52e7-46b0-a364-3084d7302923" },
+  { n = 12, title = "(Tonight) Are You Trying to Fall in Love Again", mbid = "f146addc-9139-49b2-b9f2-5a225fccaf9e" },
+  { n = 13, title = "I Was Your Man", mbid = "5b944ec8-9c49-4d44-a0f2-b7056fd682ad" },
+  { n = 14, title = "Bathtime", mbid = "b88a5c4e-2dae-4972-900f-85fe199ced97" },
+  { n = 15, title = "Walking", mbid = "1b7ff8a5-8910-4e1d-8e9c-bfb7eb89f8bb" },
+]
+
+[[release]]
+mbid = "307a5be4-d293-33c6-be8e-139ab6b58730"
+title = "Rented Rooms"
+type = "single"
+date = "1997-10-20"
+tracks = [
+  { n = 1, title = "Rented Rooms", mbid = "2241f6d0-147d-42b3-84a0-77a3aae9b7b7" },
+  { n = 2, title = "Rented Rooms (swing version)", mbid = "a1b8f7d3-5df9-4663-a629-1132eb47f781" },
+]
+
+[[release]]
+mbid = "9c4d5efb-6028-34ba-b166-97e7c0e7fe57"
+title = "Can We Start Again?"
+type = "single"
+date = "1999-08-16"
+tracks = [
+  { n = 1, title = "Can We Start Again?", mbid = "f9a1134a-c885-49be-ac50-bf4ca017a96d" },
+  { n = 2, title = "One Way Street", mbid = "1f63d9e8-162b-4667-9794-f04b0fc20f6b" },
+  { n = 3, title = "A Little Time", mbid = "f1f91481-2ed3-49f6-a6a1-9db3f273ea6a" },
+]
+
+[[release]]
+mbid = "c4f7919e-c436-331d-96dc-529398990c02"
+title = "Simple Pleasure"
+type = "album"
+date = "1999-09-06"
+tracks = [
+  { n = 1, title = "Can We Start Again", mbid = "f9a1134a-c885-49be-ac50-bf4ca017a96d" },
+  { n = 2, title = "If You're Looking for a Way Out", mbid = "db89aa4e-5a3d-40ad-8de0-77617d09bad7" },
+  { n = 3, title = "Pretty Words", mbid = "1a62d169-56a2-4cb2-95fa-73658b3bb8a8" },
+  { n = 4, title = "From the Inside", mbid = "6414d3da-08ea-4c18-bc67-3b683e53efb6" },
+  { n = 5, title = "If She's Torn", mbid = "f2eeeb37-c315-4d64-a8c2-9eab3e3e6a12" },
+  { n = 6, title = "Before You Close Your Eyes", mbid = "19ff1e69-1965-4407-92eb-083387e94a03" },
+  { n = 7, title = "(You take) This Heart of Mine", mbid = "4be3362a-a7e1-44d4-aa89-51999c61a46d" },
+  { n = 8, title = "I Know That Loving", mbid = "56f9411e-917a-438f-b380-f550827159d4" },
+  { n = 9, title = "CF GF", mbid = "8101084a-3c54-45ed-96d7-4e23eda4ebeb" },
+  { n = 10, title = "One Way Street", mbid = "1f63d9e8-162b-4667-9794-f04b0fc20f6b" },
+]
+
+[[release]]
+mbid = "0f4a9844-084a-3966-9cf7-6d1f27b14e41"
+title = "What Is a Man"
+type = "single"
+date = "2000-12-04"
+spotify = "4NLpyNa4wAD6JLN47M2Yi7"
+tracks = [
+  { n = 1, title = "What Is a Man", mbid = "b9b9b1a6-c170-4543-a3a6-a973e939b8ab" },
+  { n = 2, title = "What Is a Man (instrumental)", mbid = "f9e17a19-5846-4308-bc39-0591cdc03d88" },
+]
+
+[[release]]
+mbid = "3a2a864d-d3e9-3386-ab37-495488efca9f"
+title = "Can Our Love…"
+type = "album"
+date = "2001-05-18"
+tracks = [
+  { n = 1, title = "Dying Slowly", mbid = "54071180-99c0-48b2-9b3e-36fa89249efd" },
+  { n = 2, title = "People Keep Comin’ Around", mbid = "77f62a0b-5677-4827-a65c-da05bb2a6771" },
+  { n = 3, title = "Tricklin’", mbid = "e404c524-6fea-42d7-ba0d-b8aff65e1e09" },
+  { n = 4, title = "Can Our Love…", mbid = "145b5311-0e6f-42ab-a6f9-9af948f454db" },
+  { n = 5, title = "Sweet Release", mbid = "7f224d6b-b185-497f-baf4-2e030898ba29" },
+  { n = 6, title = "Don’t Ever Get Tired", mbid = "f6b5ef1a-d440-424f-8b87-ce0b6e46d4e9" },
+  { n = 7, title = "No Man in the World", mbid = "8396af27-b5af-484b-b724-7e14c1d0e34e" },
+  { n = 8, title = "Chilitetime", mbid = "16e70f7b-d811-440b-8d90-fccba93d19a0" },
+]
+
+[[release]]
+mbid = "e459a0fe-4247-3496-9420-640c09679b80"
+title = "Trouble Every Day"
+type = "album"
+date = "2001-10-01"
+tracks = [
+  { n = 1, title = "Opening Titles", mbid = "5ccfe78e-9587-4b76-94cc-1825adbb316f" },
+  { n = 2, title = "Dream", mbid = "36921b36-a528-4b4e-b6c3-4670bd26f21e" },
+  { n = 3, title = "Houses", mbid = "44df707c-4e2a-4b16-a03f-80580071cc76" },
+  { n = 4, title = "Maid Theme", mbid = "e5813793-80b9-45fb-9928-6632c95e7a90" },
+  { n = 5, title = "Room 321", mbid = "c65f53ac-419f-48e0-8f20-1dcfcc19f1a6" },
+  { n = 6, title = "Computer", mbid = "f0fc63ea-ad97-47ba-a941-65174411287e" },
+  { n = 7, title = "Notre Dame", mbid = "6e7dc6b8-924d-4b39-a9ff-14998b47a032" },
+  { n = 8, title = "Killing Theme", mbid = "8c95cd53-11b9-4f92-b6f7-69f021a72a65" },
+  { n = 9, title = "Taxi to Coré", mbid = "91685027-4724-48ad-97a1-054d522d39a8" },
+  { n = 10, title = "Coré on Stairs / Love Theme", mbid = "d27c3ac1-d530-4503-a95c-d88d3fcbb010" },
+  { n = 11, title = "Maid Theme (end)", mbid = "f347d4af-f717-4efe-b1ca-f494b7d003c7" },
+  { n = 12, title = "Closing Titles", mbid = "3499838d-ad3e-4bb2-a3c0-e550c8ce29b7" },
+  { n = 13, title = "Killing Theme (alternative version)", mbid = "3f618755-1167-48d2-8e44-1ccd96b7d4b5" },
+  { n = 14, title = "Trouble Every Day", mbid = "b013c244-d3c0-4086-a44b-72c6724387bc" },
+]
+
+[[release]]
+mbid = "379f814d-4137-44e5-a9af-fabc59359361"
+title = "Sometimes It Hurts"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "Sometimes It Hurts", mbid = "2c9b2944-72b7-4622-a5e2-4fd9df6e8ab8" },
+  { n = 2, title = "My Autumn’s Done Come", mbid = "9c0d51d0-f0de-49fb-b63e-273a49f2b4a8" },
+]
+
+[[release]]
+mbid = "d5f718a2-d159-3d72-b120-b5b3287e1c4b"
+title = "The Trojan Horse"
+type = "ep"
+date = "2003"
+tracks = [
+  { n = 1, title = "The Trojan Horse (Parts 1-6)", mbid = "9d867740-4579-4906-954a-8d1ec67da40f" },
+]
+
+[[release]]
+mbid = "74d29ccb-57db-372c-936f-96effc387859"
+title = "Don't Even Go There"
+type = "ep"
+date = "2003-05-05"
+tracks = [
+  { n = 1, title = "Trying to Find a Home", mbid = "084a101e-3376-48cc-b226-32fed34ffab4" },
+  { n = 2, title = "Sexual Funk", mbid = "64929e4c-4520-4538-9985-4cdaaec521ec" },
+  { n = 3, title = "Everything Changes", mbid = "13c03730-068c-4246-a016-8e4eb9084e9a" },
+  { n = 4, title = "I Want You", mbid = "b30ccad1-9b12-4cea-86c3-3e1dce8fe2ee" },
+]
+
+[[release]]
+mbid = "c0c24fca-d225-3681-a9e8-e57b96145b89"
+title = "Waiting for the Moon"
+type = "album"
+date = "2003-06-09"
+spotify = "3OIj0Lgbx7yQOAXJHkCC5x"
+tracks = [
+  { n = 1, title = "Until the Morning Comes", mbid = "5d2b01a7-f4a7-4f90-9a77-f576a7886535" },
+  { n = 2, title = "Say Goodbye to the City", mbid = "a6e14fd8-955e-461a-a32f-10a7c1ba5c70" },
+  { n = 3, title = "Sweet Memory", mbid = "bab22702-e3fb-4840-9419-fb1a63097f41" },
+  { n = 4, title = "4.48 Psychosis", mbid = "97427c4c-11dd-4253-b558-3fecdba40fdf" },
+  { n = 5, title = "Waiting for the Moon", mbid = "5843e3f4-1d2a-4146-b260-9ab2005c9f96" },
+  { n = 6, title = "Trying to Find a Home", mbid = "084a101e-3376-48cc-b226-32fed34ffab4" },
+  { n = 7, title = "Sometimes It Hurts", mbid = "2c9b2944-72b7-4622-a5e2-4fd9df6e8ab8" },
+  { n = 8, title = "My Oblivion", mbid = "6ba90805-9ea1-4681-96a5-7d62aa3e5d0e" },
+  { n = 9, title = "Just a Dog", mbid = "06ea1546-b779-44dc-bf08-9b7bd679fa21" },
+  { n = 10, title = "Running Wild", mbid = "2f13e843-8640-4a59-8421-00485d137c86" },
+]
+
+[[release]]
+mbid = "eda4c8cd-89ee-3923-bc4e-1c619b6bea8d"
+title = "My Oblivion"
+type = "single"
+date = "2003-10-13"
+tracks = [
+  { n = 1, title = "My Oblivion (edit)", mbid = "0e1e01ba-94cc-4c59-a602-1c8d5fd58b62" },
+  { n = 2, title = "Now It's Over", mbid = "e5f78a33-f743-4eeb-b57a-b72e746adfbb" },
+  { n = 3, title = "Running Wild (extended instrumental)", mbid = "c3e3074b-8106-487f-aa27-3893c7a415cf" },
+]
+
+[[release]]
+mbid = "e096596a-6220-4869-8c64-22522f3e2deb"
+title = "The Flicker of a Little Girl"
+type = "single"
+date = "2008-02-04"
+tracks = [
+  { n = 1, title = "The Flicker of a Little Girl", mbid = "5a08dd5f-5b97-4960-9fb5-a6cb9ca8287d" },
+]
+
+[[release]]
+mbid = "f33a803d-9b74-4838-920a-dd06491b7610"
+title = "What Are You Fighting For?"
+type = "single"
+date = "2008-04"
+tracks = [
+  { n = 1, title = "What Are You Fighting For?", mbid = "41dec57c-8173-418d-9c78-79eca96cd6a3" },
+]
+
+[[release]]
+mbid = "3afd60e3-a166-3139-b3f4-7c32b718118f"
+title = "The Hungry Saw"
+type = "single"
+date = "2008-04-13"
+spotify = "5nNqglEzQbBI4CvgUNnWN4"
+tracks = [
+  { n = 1, title = "The Hungry Saw", mbid = "5d41d1a0-2d18-40b8-9a6e-d689fabe513b" },
+  { n = 2, title = "Back to the Earth", mbid = "f32f3a91-f61a-45d9-8526-f83371ee0fe5" },
+]
+
+[[release]]
+mbid = "d384eef7-ef83-311f-9e90-203493d73e3d"
+title = "The Hungry Saw"
+type = "album"
+date = "2008-04-27"
+spotify = "6B9NaxHOqYKTwt6sjBZRfv"
+tracks = [
+  { n = 1, title = "Introduction", mbid = "515a4657-44d1-4957-92f9-d1892803343e" },
+  { n = 2, title = "Yesterdays Tomorrows", mbid = "fb0b449e-87ce-4fe6-a8e4-612589df9f4f" },
+  { n = 3, title = "The Flicker of a Little Girl", mbid = "5a08dd5f-5b97-4960-9fb5-a6cb9ca8287d" },
+  { n = 4, title = "Come Feel the Sun", mbid = "bf8dc224-d7de-47e3-bed3-1dffd06f1be0" },
+  { n = 5, title = "E-Type", mbid = "e54ee951-fd36-4ea7-96f6-2f806c1d71dc" },
+  { n = 6, title = "The Other Side of the World", mbid = "9cd5ce3b-b53d-4bb2-b5d2-0619b325dea1" },
+  { n = 7, title = "The Organist Entertains", mbid = "49731105-c8db-4b02-9e84-23caeb7595ba" },
+  { n = 8, title = "The Hungry Saw", mbid = "5d41d1a0-2d18-40b8-9a6e-d689fabe513b" },
+  { n = 9, title = "Mother Dear", mbid = "de1b3d6c-6e48-401a-b6d8-204d4b3b2b35" },
+  { n = 10, title = "Boobar Come Back to Me", mbid = "f1951694-a984-4fc3-8032-9565b7f235e3" },
+  { n = 11, title = "All the Love", mbid = "520c5f22-371d-4d5a-89d9-15426e8b96dc" },
+  { n = 12, title = "The Turns We Took", mbid = "2d05bd2e-ef34-4673-9f97-b8f176c59a77" },
+]
+
+[[release]]
+mbid = "6e8863b8-f812-4e1f-9e4a-7044e7d92060"
+title = "35 Rhums (Original Soundtrack)"
+type = "album"
+date = "2008-08-29"
+spotify = "1wNnrYknoJGCGtgw18LUGY"
+tracks = [
+  { n = 1, title = "Opening", mbid = "7e18295b-ffde-4eb1-bada-8dc764427cb9" },
+  { n = 2, title = "Train Montage 1", mbid = "9e4a8a4d-4fd6-4712-b139-13319d0b686f" },
+  { n = 3, title = "Night Time Apartments", mbid = "ac040ad2-532b-4c6b-bd31-4819abb2486f" },
+  { n = 4, title = "Night Train", mbid = "3c1dc565-9b6e-4ed2-ae17-52b9f72e6052" },
+  { n = 5, title = "Lionel Home Drunk", mbid = "63a2a080-aa52-4540-b8a0-c0f45a322d9e" },
+  { n = 6, title = "Train Montage 2", mbid = "5906da7b-7517-4266-8353-f2eb73837a1e" },
+  { n = 7, title = "René’s Death", mbid = "05430b7c-e320-4b83-9c5a-9bdffddc9714" },
+  { n = 8, title = "Lubec", mbid = "0f762da8-edda-4ac2-8c2c-ef8ba5f0ae79" },
+  { n = 9, title = "Mechtilde", mbid = "bb36132f-3bc0-4bc0-8945-c05c1e1a5bca" },
+  { n = 10, title = "Lanterns", mbid = "06e95797-bb82-4365-ae8f-7ffd026f166b" },
+  { n = 11, title = "The Necklace", mbid = "1e81984c-52c3-40d9-b300-24297db4ccac" },
+  { n = 12, title = "Closing", mbid = "807aba26-b870-4b81-9313-c4d75a438538" },
+]
+
+[[release]]
+mbid = "15346652-a934-4ae3-ad7f-2ef4eeba95ca"
+title = "Boobar Come Back to Me"
+type = "single"
+date = "2008-09-29"
+spotify = "2W4yD4qga5VDu5W7Vvxk18"
+tracks = [
+  { n = 1, title = "Boobar Come Back to Me", mbid = "f1951694-a984-4fc3-8032-9565b7f235e3" },
+  { n = 2, title = "Tout l’amour", mbid = "f7a4c554-6bed-43c8-82a7-b797bd9b68c7" },
+]
+
+[[release]]
+mbid = "dc247619-edde-436f-8f5b-599bcbea1c37"
+title = "White Material (Original Soundtrack)"
+type = "album"
+date = "2009-09-06"
+spotify = "7MLJR8tFvY8P8wcCz8Kq3U"
+tracks = [
+  { n = 1, title = "Opening", mbid = "c1186953-8915-4e4a-a377-872ae25d57b3" },
+  { n = 2, title = "Bus Vision 1", mbid = "d0ec09a0-1f83-4112-95b4-6fb9451564c5" },
+  { n = 3, title = "The Boxer", mbid = "c63122b3-d10c-4b60-b270-5aa0f79fdc6f" },
+  { n = 4, title = "White Material", mbid = "b75fccc9-bd37-4ec1-9da2-444018a71619" },
+  { n = 5, title = "Children’s Theme 1", mbid = "b5f5a4c6-1e32-4029-9d82-a026961edbb0" },
+  { n = 6, title = "Maria and the Boxer", mbid = "62656a88-8ab3-4943-ae5c-62e3922520fd" },
+  { n = 7, title = "Workers", mbid = "65192308-0c17-4683-8bd7-865792f26ee2" },
+  { n = 8, title = "Andre and the Old Man", mbid = "76e8611b-2df7-4c6a-a722-3a0e54570f88" },
+  { n = 9, title = "Yellow Dog", mbid = "2886d157-bf83-4cd6-8885-a664c7e9cdcd" },
+  { n = 10, title = "Maria and the Old Man", mbid = "3f2ef5cd-7adc-4ccb-a74d-bef8b797ac0e" },
+  { n = 11, title = "Maria and the Sheriff", mbid = "b617bdf9-506f-487f-a730-959f58c4d056" },
+  { n = 12, title = "Andre’s Death", mbid = "e9a1811d-e619-40f8-9d10-0f092a6d4159" },
+  { n = 13, title = "Children’s Theme 2", mbid = "32520b73-b2ba-408d-88a9-f2f481a44601" },
+  { n = 14, title = "Attack on the Pharmacy", mbid = "15fdc0d7-965f-4e39-b205-446ad4e9e5cb" },
+  { n = 15, title = "Bus Vision 2", mbid = "9f2e9729-d88d-499e-bf2f-ebdac9ce7620" },
+  { n = 16, title = "Closing", mbid = "8289573a-16f1-4e07-8d8d-f279bf21e7a3" },
+]
+
+[[release]]
+mbid = "7eeae845-b358-4b37-bcf5-dd978467eae4"
+title = "Falling Down a Mountain"
+type = "album"
+date = "2010-01-25"
+tracks = [
+  { n = 1, title = "Falling Down a Mountain", mbid = "48e43a64-ad28-4c0e-9d94-8d0e6e2df8c1" },
+  { n = 2, title = "Keep You Beautiful", mbid = "d63c381b-785e-4911-9a42-62da33a16175" },
+  { n = 3, title = "Harmony Around My Table", mbid = "ef58ec48-6102-4d92-83fb-e830c675b71d" },
+  { n = 4, title = "Peanuts", mbid = "2c24dc4a-47b3-4ec0-a6a3-481cd5914520" },
+  { n = 5, title = "She Rode Me Down", mbid = "453a49c3-4bd7-4966-b28e-c241c8e3f62c" },
+  { n = 6, title = "Hubbards Hills", mbid = "5578f381-af5a-4ee3-9f9b-e59f91c276ef" },
+  { n = 7, title = "Black Smoke", mbid = "dcf7aa93-6b69-465a-b89f-957939798f64" },
+  { n = 8, title = "No Place So Alone", mbid = "6288d93f-ac08-4ce0-91c9-2109c6e71232" },
+  { n = 9, title = "Factory Girls", mbid = "230dacaa-ade1-48fc-b8db-37cc0ff6efff" },
+  { n = 10, title = "Piano Music", mbid = "d9da6150-671d-4f4b-a919-d284ef210f03" },
+]
+
+[[release]]
+mbid = "c4e98dc0-73ff-4789-b077-71653fd4d919"
+title = "Black Smoke / Just Drifting"
+type = "single"
+date = "2010-03-08"
+tracks = [
+  { n = 1, title = "Black Smoke", mbid = "dcf7aa93-6b69-465a-b89f-957939798f64" },
+  { n = 2, title = "Just Drifting", mbid = "4267a299-e149-4a97-9b43-3c0bf1a79e68" },
+]
+
+[[release]]
+mbid = "b1b0871c-caa5-45e7-913f-b418b3dde536"
+title = "The Something Rain"
+type = "album"
+date = "2012-02-20"
+tracks = [
+  { n = 1, title = "Chocolate", mbid = "8ab5e539-bc67-43a1-9e06-dd19c686cc27" },
+  { n = 2, title = "Show Me Everything", mbid = "d9327401-bb28-4918-bd6e-55bdb8a40eb4" },
+  { n = 3, title = "This Fire of Autumn", mbid = "a1dfdd68-5ff1-429b-a1aa-b83f01899e8a" },
+  { n = 4, title = "A Night So Still", mbid = "ca6f83b1-bab8-4fe9-8b39-6435a01f541d" },
+  { n = 5, title = "Slippin’ Shoes", mbid = "0f29d8a1-cb78-4988-9a87-ca2d0873163b" },
+  { n = 6, title = "Medicine", mbid = "0970636e-ae3c-4e20-bc86-f10d35638270" },
+  { n = 7, title = "Frozen", mbid = "1e045e70-9004-4b92-a9e3-b7635d2c59db" },
+  { n = 8, title = "Come Inside", mbid = "b55e6478-3eb2-4b8c-a289-8f8ca39e615d" },
+  { n = 9, title = "Goodbye Joe", mbid = "d6eaad45-6203-476b-897c-9ad4b60860b3" },
+]
+
+[[release]]
+mbid = "03953444-89f6-410d-97e8-18890dee3dca"
+title = "Medicine"
+type = "single"
+date = "2012-03"
+tracks = [
+  { n = 1, title = "Medicine (Full version)", mbid = "29cdcf03-608d-45da-84e3-068f18682830" },
+  { n = 2, title = "In a Secret Place", mbid = "c0f1a67a-0825-4729-b287-52386ab43f0b" },
+]
+
+[[release]]
+mbid = "de684e47-9bdf-47de-b1cd-1a5b8ac33832"
+title = "This Fire of Autumn"
+type = "single"
+date = "2012-10-08"
+spotify = "0MBCER2GIeFVZpcDFwJRrD"
+tracks = [
+  { n = 1, title = "This Fire of Autumn", mbid = "a1dfdd68-5ff1-429b-a1aa-b83f01899e8a" },
+  { n = 2, title = "This Fire of Autumn (instrumental)", mbid = "a462bbe6-46c1-41f5-a04e-5d6560e671ca" },
+]
+
+[[release]]
+mbid = "3cca9d12-6b63-47da-a4e9-7c136720de2d"
+title = "Les Salauds"
+type = "album"
+date = "2013-08-05"
+tracks = [
+  { n = 1, title = "Put Your Love in Me (fade)", mbid = "aead881b-aa2a-4bcb-9901-2ab655cc3e92" },
+  { n = 2, title = "Opening", mbid = "6a6eb715-2d5a-4575-a671-4a6daabc5d5c" },
+  { n = 3, title = "Marco", mbid = "ecc56a1a-d9be-4d07-997e-e4ce11438f9c" },
+  { n = 4, title = "Elevator", mbid = "8755d76c-e08c-4f54-9255-5c5b628621d0" },
+  { n = 5, title = "Night Time Cigarettes", mbid = "26706cc3-1b28-4e0a-8955-c27d03d66da6" },
+  { n = 6, title = "The Yellow Bike", mbid = "5afed7de-f603-41ae-8398-b261a56c2c41" },
+  { n = 7, title = "Naked Walk", mbid = "5c12b351-262c-4990-ad15-05eb2e164105" },
+  { n = 8, title = "Factory / Dave Drive", mbid = "e4022fa5-c265-4979-9fc7-5ce2a2f33cd2" },
+  { n = 9, title = "Love on the Stairs", mbid = "05b63a6e-0bfa-4bad-9c9f-408407839b0a" },
+  { n = 10, title = "Low Life", mbid = "c9ee3cd1-7e22-4364-b83b-c9a6e1f6e1b3" },
+  { n = 11, title = "Night Time Woods", mbid = "b269ea6c-9c10-4b50-a911-bf416bd14783" },
+  { n = 12, title = "Night Drive", mbid = "7406972b-4ae7-4acf-b150-0369840bc40a" },
+  { n = 13, title = "Put Your Love in Me", mbid = "c23a2a4a-4b4f-43fe-8273-d75386a95a19" },
+]
+
+[[release]]
+mbid = "0e0b38d7-da88-4fc1-96d5-f8aeb468c668"
+title = "Across Six Leap Years"
+type = "album"
+date = "2013-10-10"
+tracks = [
+  { n = 1, title = "Friday Night", mbid = "d3e7836e-d891-4825-b231-f255c6b6987c" },
+  { n = 2, title = "Marseilles Sunshine", mbid = "43265f61-2ea1-4103-9ea0-5a3c0d5643dd" },
+  { n = 3, title = "She’s Gone", mbid = "a3943ec0-cac9-4430-a90a-7b05de417b87" },
+  { n = 4, title = "Dying Slowly", mbid = "490559f6-f312-4c24-9ccb-792a01624f5f" },
+  { n = 5, title = "If You’re Looking for a Way Out", mbid = "1eea288f-840e-4908-a7bf-f7ed1143645b" },
+  { n = 6, title = "Say Goodbye to the City", mbid = "9229cbce-e745-48cd-be03-6c99025de379" },
+  { n = 7, title = "Sleepy Song", mbid = "f978a4f4-25d8-4609-ad79-d57a6720222d" },
+  { n = 8, title = "A Night In", mbid = "c5b0c487-3411-47a1-913e-95727de840b8" },
+  { n = 9, title = "I Know That Loving", mbid = "1fc3ac04-e01f-4d46-b764-f9e5886c37d9" },
+  { n = 10, title = "What Are You Fighting For?", mbid = "92d0d44e-0041-4869-a841-6c05aba28c46" },
+]
+
+[[release]]
+mbid = "ed2a78f6-6471-42b1-8f57-1aa8d1880fc4"
+title = "Ypres"
+type = "album"
+date = "2014-10-17"
+spotify = "4uTbV4JVvZjJT4Lb2fENoO"
+tracks = [
+  { n = 1, title = "Whispering Guns, Parts 1, 2 and 3", mbid = "8594fd0b-1f84-4a13-900f-e1006ca26c73" },
+  { n = 2, title = "Ananaes Et Poivre", mbid = "9eebc777-dd17-44e9-8b80-d4e73d951a89" },
+  { n = 3, title = "La Guerre Souterraine", mbid = "5c87e6b8-ddf2-4479-a398-a6653efda1c2" },
+  { n = 4, title = "Gueules Cassées", mbid = "184e4d16-cca0-48a4-9ba8-6d4529916c7c" },
+  { n = 5, title = "Sunset Glow", mbid = "5ff6cf04-efd1-48fe-8edb-6caf5c768682" },
+  { n = 6, title = "The Third Battle of Ypres OST", mbid = "69ea1571-5282-4cd5-b3f2-0d04cc992ee5" },
+]
+
+[[release]]
+mbid = "5d4d93e9-5469-413e-b47f-2c1cb769f6ad"
+title = "We Are Dreamers!"
+type = "single"
+date = "2015-09-23"
+tracks = [
+  { n = 1, title = "We Are Dreamers!", mbid = "b0a5e2f7-06a4-481d-b237-c161bfa011c1" },
+]
+
+[[release]]
+mbid = "691b54df-9bc0-47ff-b7a4-327714e186da"
+title = "The Waiting Room"
+type = "album"
+date = "2016-01-22"
+spotify = "63AzUPQYJWNY6O7y9iLvdr"
+tracks = [
+  { n = 1, title = "Follow Me", mbid = "bdf9b4bc-b809-45bd-bf43-ced576ded99d" },
+  { n = 2, title = "Second Chance Man", mbid = "f2843c7e-15f5-4077-915b-237fcedce12c" },
+  { n = 3, title = "Were We Once Lovers?", mbid = "51799b7a-5bf1-487e-9fe8-c5c23ae15687" },
+  { n = 4, title = "Help Youself", mbid = "e0032dfb-477d-44e0-8cfd-d0ad3d58748d" },
+  { n = 5, title = "Hey Lucinda", mbid = "57d95c8a-974c-4bbd-af3c-89eeb249a87a" },
+  { n = 6, title = "This Fear of Emptiness", mbid = "afa4cf10-c6e4-4767-8775-d2f92a74f16d" },
+  { n = 7, title = "How He Entered", mbid = "2dd7ae4d-969b-4b35-afad-3d7de2857ee0" },
+  { n = 8, title = "The Waiting Room", mbid = "7268a66f-5fe1-4e15-91f3-a5ff5ec6d6cf" },
+  { n = 9, title = "Planting Holes", mbid = "0ce79d00-5b95-422f-8b2e-8f7f27299e75" },
+  { n = 10, title = "We Are Dreamers!", mbid = "b0a5e2f7-06a4-481d-b237-c161bfa011c1" },
+  { n = 11, title = "Like Only Lovers Can", mbid = "e488c791-9a82-4c25-821c-cd97d160a446" },
+]
+
+[[release]]
+mbid = "7c4682c5-88e2-4b9f-81c9-3e6b972bd426"
+title = "Minute Bodies: The Intimate World of F. Percy Smith"
+type = "album"
+date = "2017-06-09"
+spotify = "7HVQrwOQAFXQVe1ccLhOg5"
+tracks = [
+  { n = 1, title = "Percy’s Theme", mbid = "91633d4c-12ac-4e2c-a4c8-4a7d8dc02839" },
+  { n = 2, title = "Gathering Moss", mbid = "926fabb3-83e2-402d-a711-22c922eafcef" },
+  { n = 3, title = "Magic Myxies", mbid = "ad9fcdaf-86f3-42b9-8329-b01cfe40a4ee" },
+  { n = 4, title = "Peas and Ques", mbid = "7de416ee-7bef-4324-bef5-ea786cd72c3a" },
+  { n = 5, title = "Tiny Honey Gatherers", mbid = "6f049693-0694-4abd-b91c-4d16e92c4f0c" },
+  { n = 6, title = "World in a Wine Glass", mbid = "5afd3687-7579-46ac-81c9-6079a41197c7" },
+  { n = 7, title = "Fireworks", mbid = "7fcaa966-d0e2-4150-921d-e22fc1016a7f" },
+  { n = 8, title = "The Strangler", mbid = "c7999abb-6d0c-4d85-afd5-8512954d1f6d" },
+  { n = 9, title = "Percy’s Dream", mbid = "d8f86253-45d3-43f4-80e1-3022b7c84c6c" },
+  { n = 10, title = "Brewsters Magic", mbid = "0369b154-0132-4cf8-b073-eecaf826fcf9" },
+  { n = 11, title = "Reverse Frog", mbid = "c7043f4b-bb05-4595-b2f7-95a78f85c263" },
+  { n = 12, title = "Life Cycle of a Newt", mbid = "4ca0e915-00f2-462d-9d49-65ca29e59848" },
+  { n = 13, title = "Reproduction Montage", mbid = "2134f370-05ce-43a3-93b5-8ba049a3168f" },
+  { n = 14, title = "Scarlet Runner", mbid = "09460192-76be-4081-95a8-6bc382cf3418" },
+  { n = 15, title = "Percy’s Dream (reprise)", mbid = "d28586cf-b04d-468f-9902-bd9ce613af52" },
+]
+
+[[release]]
+mbid = "94383a8d-b079-4a60-974b-b75de2665e6b"
+title = "Willow"
+type = "single"
+date = "2019-02-28"
+spotify = "4B6DVTdre4x0eAHWFsOwxA"
+tracks = [
+  { n = 1, title = "Willow", mbid = "4bfb5399-72e2-4e99-bf66-db03ce26eddf" },
+]
+
+[[release]]
+mbid = "d0f2d58a-4da8-412d-8d33-6b63b8f2687d"
+title = "The Amputees"
+type = "single"
+date = "2019-09-11"
+tracks = [
+  { n = 1, title = "The Amputees", mbid = "22024dea-8fda-4b03-b6c5-08e6adc8bc01" },
+]
+
+[[release]]
+mbid = "9cb08b05-4d92-4ef0-b99d-ee86c6417897"
+title = "Pinky In the Daylight"
+type = "single"
+date = "2019-10-31"
+tracks = [
+  { n = 1, title = "Pinky in the Daylight", mbid = "790816bc-59d8-4c1f-9dae-f428674c5642" },
+]
+
+[[release]]
+mbid = "c5e6d2e2-e96f-4635-8ceb-ddd1002691b2"
+title = "No Treasure but Hope"
+type = "album"
+date = "2019-11-15"
+spotify = "5tcpROvLfWz24FuutGVmoK"
+tracks = [
+  { n = 1, title = "For the Beauty", mbid = "2168079f-f59e-429a-b4f0-a564bf29aa84" },
+  { n = 2, title = "The Amputees", mbid = "22024dea-8fda-4b03-b6c5-08e6adc8bc01" },
+  { n = 3, title = "Trees Fall", mbid = "4f11fb39-b7d8-451e-a478-29c11b9cb6b6" },
+  { n = 4, title = "Pinky in the Daylight", mbid = "790816bc-59d8-4c1f-9dae-f428674c5642" },
+  { n = 5, title = "Carousel", mbid = "7ce3107d-c4f2-4591-9564-4f41b6860472" },
+  { n = 6, title = "Take Care in Your Dreams", mbid = "e2cbbac8-76b7-42fc-9155-afef9fc974de" },
+  { n = 7, title = "See My Girls", mbid = "e0670757-3de7-4d77-9cbc-8c4cae27610c" },
+  { n = 8, title = "The Old Mans Gait", mbid = "6988664b-e945-47aa-83d1-dfe92400cd61" },
+  { n = 9, title = "Tough Love", mbid = "66a86377-8643-4729-96e6-5c84737b337d" },
+  { n = 10, title = "No Treasure but Hope", mbid = "4d741c6e-a5f3-4a8c-a84e-d32363674dd3" },
+]
+
+[[release]]
+mbid = "cb70c7c0-0c07-49db-bf3a-1612110fe6ca"
+title = "See My Girls"
+type = "ep"
+date = "2020-01-29"
+tracks = [
+  { n = 1, title = "See My Girls (edit)", mbid = "2db2a7e2-a214-44c6-8607-4328ca960cf8" },
+  { n = 2, title = "A Street Walker's Carol", mbid = "5b51d178-fa7f-4ffa-a782-63758ced93bc" },
+  { n = 3, title = "Blood and Bone", mbid = "aaceb27d-2aaa-4636-985a-8a5075c9c8b3" },
+  { n = 4, title = "See My Girls (Le Chien version)", mbid = "2beeab73-f7f9-4d79-a80c-c9ae9e6dde7d" },
+]
+
+[[release]]
+mbid = "1f08027a-6170-4564-9911-b67413dac468"
+title = "You'll Have to Scream Louder"
+type = "single"
+date = "2020-12-07"
+spotify = "1WqZe5xzBMUMONBrrWUewt"
+tracks = [
+  { n = 1, title = "You'll Have to Scream Louder", mbid = "0f2d02b4-3af7-44d8-b586-b3a33ad37a0b" },
+]
+
+[[release]]
+mbid = "fcb83a86-6a0b-48b1-9c56-4e2ebd286424"
+title = "Man Alone (Can’t Stop the Fadin’)"
+type = "single"
+date = "2021-01-18"
+spotify = "5GZQd6shbFb2Etn9hiLD4z"
+tracks = [
+  { n = 1, title = "Man Alone (Can’t Stop the Fadin’)", mbid = "d8aad5ba-bde9-4085-9d90-af4d21f3f13e" },
+]
+
+[[release]]
+mbid = "0fc8c4ae-5c95-485c-8b41-96d62a508c29"
+title = "Distractions"
+type = "album"
+date = "2021-02-19"
+spotify = "3ytcVJj8sFTiUx9CQJa0au"
+tracks = [
+  { n = 1, title = "Man Alone (Can’t Stop the Fadin’)", mbid = "d8aad5ba-bde9-4085-9d90-af4d21f3f13e" },
+  { n = 2, title = "I Imagine You", mbid = "a884cf85-6e9a-4fa4-bb1e-9b6e3f07bf60" },
+  { n = 3, title = "A Man Needs a Maid", mbid = "4c6729a5-0dd2-4e66-97be-4c7a0e2f4a78" },
+  { n = 4, title = "Lady With the Braid", mbid = "452e5a35-dfa7-404c-9a21-95a0d143ed3e" },
+  { n = 5, title = "You’ll Have to Scream Louder", mbid = "0f2d02b4-3af7-44d8-b586-b3a33ad37a0b" },
+  { n = 6, title = "Tue-moi", mbid = "d9671540-5d19-4077-925f-d3768b16f1d3" },
+  { n = 7, title = "The Bough Bends", mbid = "d255ac26-d1bc-4dd0-ae4c-64b94bd2ce33" },
+]
+
+[[release]]
+mbid = "311724a9-bb27-45e4-a1b7-2a808cea991c"
+title = "Both Sides of the Blade"
+type = "single"
+date = "2022-01-17"
+spotify = "0XiwPUoBYZzqGgXe5kaSGA"
+tracks = [
+  { n = 1, title = "Both Sides of the Blade", mbid = "c93cafa5-f4d6-469f-a4ee-c64027e2e153" },
+]
+
+[[release]]
+mbid = "3f70e5d3-80b7-4c72-9864-6cc8a26e26b0"
+title = "Avec Amour et Acharnement (Original Soundtrack)"
+type = "album"
+date = "2022-08-31"
+spotify = "5ZKU1bQG6VSWe8N8S7yF4I"
+tracks = [
+  { n = 1, title = "Theme for Avec Amour Et Acharnement", mbid = "c52fbdfe-683b-4d80-bdf2-868489871995" },
+  { n = 2, title = "Maison de La Radio", mbid = "88f1f7cd-02dc-4040-ace4-84106912948d" },
+  { n = 3, title = "Follow Me", mbid = "bdf9b4bc-b809-45bd-bf43-ced576ded99d" },
+  { n = 4, title = "Apartment, Night", mbid = "36b65cbf-6fcb-4d92-9f60-2eecd3317cbc" },
+  { n = 5, title = "Jean, Telephone", mbid = "4bba240b-8883-4c76-98d7-d1715195ab00" },
+  { n = 6, title = "The Balcony, Night", mbid = "b0d88e70-d28a-4633-b91e-f4f8a6ff4eeb" },
+  { n = 7, title = "The Swing", mbid = "9846bf88-08cf-453c-8f4c-25d5177c0fa1" },
+  { n = 8, title = "Night Drive, Sarah in Bed", mbid = "cf7ce782-f431-47b8-8638-47258c3f450c" },
+  { n = 9, title = "Bayonne", mbid = "b7c962eb-6ebb-47fe-9540-23edbaf8a2ab" },
+  { n = 10, title = "Sarah Dreams", mbid = "a91d7a52-1723-43f4-a834-e07afd3ee780" },
+  { n = 11, title = "The Reception", mbid = "d327bc46-9a63-44ae-8348-7c4490755c93" },
+  { n = 12, title = "Stolen Kiss", mbid = "fe2eed0a-d54c-45cc-8578-07881e72d050" },
+  { n = 13, title = "Night Search", mbid = "836d6f0a-b054-48bf-8295-d283e050ae67" },
+  { n = 14, title = "Francois on the Balcony", mbid = "4cf6c120-a276-4c6b-80ed-04a4acf8c625" },
+  { n = 15, title = "Both Sides of the Blade", mbid = "c93cafa5-f4d6-469f-a4ee-c64027e2e153" },
+]
+
+[[release]]
+mbid = "b114a9d6-b23b-41c4-ab71-be6d5ca24681"
+title = "Stars at Noon"
+type = "single"
+date = "2022-10-04"
+tracks = [
+  { n = 1, title = "Stars at Noon", mbid = "e348469f-7901-4cb4-94e2-7fffe998a3a5" },
+]
+
+[[release]]
+mbid = "2437bfa1-5c81-4328-928b-c98592b00247"
+title = "Stars at Noon: Original Soundtrack"
+type = "album"
+date = "2022-10-14"
+spotify = "2aLiWRjSRh2XgySMSpbGzw"
+tracks = [
+  { n = 1, title = "Introduction", mbid = "ab6d9c3f-7c3a-461e-b92c-6258c3b9540b" },
+  { n = 2, title = "Opening", mbid = "c1186953-8915-4e4a-a377-872ae25d57b3" },
+  { n = 3, title = "Taxi Across Town", mbid = "f33bc017-83e6-4383-998c-d8dc1cd0f3ba" },
+  { n = 4, title = "Hotel Bar", mbid = "6efeb680-6aec-4737-a713-ffab1140411f" },
+  { n = 5, title = "Dawn Walk Home", mbid = "9c60bb6d-e609-4302-84de-f8c74573075b" },
+  { n = 6, title = "Los Periquitos", mbid = "634d4735-7898-44ff-9247-a7c3c57be524" },
+  { n = 7, title = "The Mercado", mbid = "9d3ad8e2-e474-48d1-bd46-01f6e388a315" },
+  { n = 8, title = "Motel Rain", mbid = "7a192620-1741-4af5-a3f7-0dd8305ab679" },
+  { n = 9, title = "The Costa Rican", mbid = "d125ada0-519b-47c6-aaa3-3975ba9a2a75" },
+  { n = 10, title = "Stars at Noon", mbid = "e348469f-7901-4cb4-94e2-7fffe998a3a5" },
+  { n = 11, title = "Blood Hands", mbid = "ffbee723-77d4-4513-af67-05ff67054887" },
+  { n = 12, title = "Burning Car", mbid = "e7b92f8b-8ee0-4dd3-9322-c4150d2ec95f" },
+  { n = 13, title = "The Consultant", mbid = "099bf5d9-5574-4c39-82d2-e1e5724be852" },
+  { n = 14, title = "Blood Hands - Version", mbid = "4d224f9a-f4bf-47f7-8c60-e600e4c9d647" },
+  { n = 15, title = "Apache", mbid = "51cf7808-36f3-4b6f-9451-e475c638241e" },
+  { n = 16, title = "The Bridge", mbid = "61e2c098-a54e-4e9b-89b9-f5fe4cc473b9" },
+  { n = 17, title = "The Crossing", mbid = "05a2b705-9eef-4c41-93bb-cec632af0018" },
+  { n = 18, title = "The Costa Rican", mbid = "4d6e41b3-2fe8-4cf0-80eb-72994c2eceba" },
+  { n = 19, title = "Stars at Noon", mbid = "b07b0ed1-a42b-4843-95c1-f1ad987e7438" },
+]
+
+[[release]]
+mbid = "eed82f91-385d-4df0-a935-eed72e0344dd"
+title = "Soft Tissue"
+type = "album"
+date = "2024-09-13"
+tracks = [
+  { n = 1, title = "New World", mbid = "f619e4d2-e1f5-4660-9ebf-f1d45f28b0b8" },
+  { n = 2, title = "Don’t Walk, Run", mbid = "a7125e75-4394-4c7c-afd8-5e77b8c705f4" },
+  { n = 3, title = "Nancy", mbid = "3259d77f-805a-449b-a7dc-8763c782b2f3" },
+  { n = 4, title = "Falling, the Light", mbid = "65129596-2f4a-4239-8003-aa429fc20284" },
+  { n = 5, title = "Always a Stranger", mbid = "b7c35b7f-dc86-4240-b54d-52dbda88f57b" },
+  { n = 6, title = "The Secret of Breathing", mbid = "ecef3eb3-55e4-45d6-a60b-eb191080e238" },
+  { n = 7, title = "Turned My Back", mbid = "49ceccbc-8b2e-413d-86e5-7543c689c611" },
+  { n = 8, title = "Soon to Be April", mbid = "10c643cb-9139-462e-8d9b-eec7feb6e649" },
+]
+
+[[release]]
+mbid = "77d67819-864e-481d-8354-1ed0016074bd"
+title = "Don't Walk, Run / Soft Tissue"
+type = "single"
+date = "2025-02-13"
+tracks = [
+  { n = 1, title = "Don't Walk, Run (Edit)", mbid = "976ef088-9c87-46f8-868e-fa48e586b4f9" },
+  { n = 2, title = "Soft Tissue", mbid = "f8cedcc3-8254-4cb5-8fb9-92ee4efa5ae5" },
+]

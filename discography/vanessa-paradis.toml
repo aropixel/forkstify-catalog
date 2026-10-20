@@ -1,0 +1,410 @@
+format = 1
+
+[[release]]
+mbid = "f0d165c0-1e33-41ac-8e3d-ae6b3f166abe"
+title = "La Magie des surprises parties"
+type = "single"
+date = "1985"
+tracks = [
+  { n = 1, title = "La Magie des surprises parties", mbid = "da705b9a-6846-49db-a55c-afcc4162e5e6" },
+  { n = 2, title = "La Magie des surprises parties (instrumental)", mbid = "f708285f-5fd6-4812-bbf2-80c665274042" },
+]
+
+[[release]]
+mbid = "563ddc14-1246-3819-ac20-a837fbff8111"
+title = "Manolo Manolete"
+type = "single"
+date = "1987"
+tracks = [
+  { n = 1, title = "Manolo manolete", mbid = "72bb3f0a-249b-4b72-914c-36eab6f3f6bc" },
+  { n = 2, title = "You You", mbid = "44a9529c-13ed-4d0e-acfa-5a7e4cbc1ee9" },
+]
+
+[[release]]
+mbid = "a53ff033-fbb7-38f8-8f59-a2f83fe744c7"
+title = "Joe le taxi"
+type = "single"
+date = "1987-09-14"
+tracks = [
+  { n = 1, title = "Joe le taxi", mbid = "610ecdc5-7717-4518-8784-90a16c2c2128" },
+  { n = 2, title = "Manolo Manolete", mbid = "92dbb15d-a3dc-45ed-a299-4c80879abc7f" },
+  { n = 3, title = "Joe le taxi (version espagnole)", mbid = "ed52ca01-1cf8-4558-a6c6-1b056f52eedc" },
+  { n = 4, title = "Joe le taxi (version longue)", mbid = "68ca72e1-5dad-40f7-966a-f85b864573d5" },
+]
+
+[[release]]
+mbid = "564d5b7b-7079-3b4b-a859-ab475ffb3809"
+title = "Marilyn & John"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Marilyn & John", mbid = "1118e069-8a88-470c-9243-dad2ecab4ae5" },
+  { n = 2, title = "Marilyn & John (English version)", mbid = "2cbe8623-7cb4-49e3-9a17-91357c0912d6" },
+]
+
+[[release]]
+mbid = "d0ad9bdc-a70b-4796-8ec2-17e0d358fda2"
+title = "Maxou"
+type = "single"
+date = "1988"
+tracks = [
+  { n = 1, title = "Maxou (remix)", mbid = "08dede4c-4ea1-40d0-ae27-a5e57105abfb" },
+  { n = 2, title = "Soldat", mbid = "0c8c6616-4c34-4703-ac57-5cd9ac8f8e96" },
+  { n = 3, title = "Le Bon Dieu est un marin", mbid = "7d3560f7-d4cf-4b1f-8adf-9018d00c79d3" },
+]
+
+[[release]]
+mbid = "69328a30-51c9-31f5-a082-9059dd9b9a39"
+title = "M & J"
+type = "album"
+date = "1988-08-08"
+spotify = "3ptx9VPjMyOjQzrNsvjLIc"
+tracks = [
+  { n = 1, title = "Marilyn & John", mbid = "45ab7dae-5d63-48a5-8b56-1d304b88cd6d" },
+  { n = 2, title = "Maxou", mbid = "ccd06928-a062-4263-a307-7e1e80d154c4" },
+  { n = 3, title = "Le Bon Dieu est un marin", mbid = "3d2d258e-c2a0-4bcb-a362-323e78842a82" },
+  { n = 4, title = "Mosquito", mbid = "13dd21a8-5ca2-4fc5-abcf-aa0af54cc20c" },
+  { n = 5, title = "Soldat", mbid = "638d02a2-25bb-425e-8b81-95c92c5dfdcd" },
+  { n = 6, title = "Joe le taxi", mbid = "610ecdc5-7717-4518-8784-90a16c2c2128" },
+  { n = 7, title = "Coupe coupe", mbid = "d4a659a5-c093-491e-8bc4-86e67ec0ec8c" },
+  { n = 8, title = "Chat ananas", mbid = "a7d07023-2152-4e57-9ed7-a7f4126cb03a" },
+  { n = 9, title = "Scarabée", mbid = "9c7e91d5-a921-4160-aafe-66bc26b618d7" },
+]
+
+[[release]]
+mbid = "17cdf698-fb52-4924-95da-e3958e5d9b54"
+title = "Coupe coupe"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Coupe coupe (remix)", mbid = "c8762023-bd4b-4e57-874a-893e737312a8" },
+  { n = 2, title = "Scarabée (remix)", mbid = "90a71890-530e-41d5-9b1a-477e23ee78dc" },
+]
+
+[[release]]
+mbid = "61113d34-c9a1-4084-b036-94d33c3bb3cc"
+title = "Mosquito"
+type = "single"
+date = "1989"
+tracks = [
+  { n = 1, title = "Mosquito", mbid = "13dd21a8-5ca2-4fc5-abcf-aa0af54cc20c" },
+  { n = 2, title = "Chat ananas", mbid = "a7d07023-2152-4e57-9ed7-a7f4126cb03a" },
+]
+
+[[release]]
+mbid = "87bca532-9a84-4058-a38b-20238e9a529f"
+title = "Dis lui toi que je t'aime"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "Dis lui toi que je t'aime", mbid = "930bee4e-1bb3-4592-91ed-eeb3fe07fa9c" },
+  { n = 2, title = "Ardoise", mbid = "33952871-e8a5-431c-b631-49d04c448fa6" },
+]
+
+[[release]]
+mbid = "5b70b1e5-7698-35e2-a345-a275db5004f5"
+title = "Tandem"
+type = "single"
+date = "1990"
+tracks = [
+  { n = 1, title = "Tandem", mbid = "d9f884ba-3d5a-4a1a-a790-3bb3f5f10f7d" },
+  { n = 2, title = "Ophélie", mbid = "a17aa0bd-230b-4275-bc80-b9a65d0900bb" },
+]
+
+[[release]]
+mbid = "b12fc478-9e69-326b-a995-1cd94fa6fdee"
+title = "Variations sur le même t’aime"
+type = "album"
+date = "1990-05-20"
+spotify = "6duILyA58Muhuk7JcV6L7R"
+tracks = [
+  { n = 1, title = "L'Amour à deux", mbid = "54b46143-7129-481e-9aa8-a01169bff0b9" },
+  { n = 2, title = "Dis lui toi que je t'aime", mbid = "930bee4e-1bb3-4592-91ed-eeb3fe07fa9c" },
+  { n = 3, title = "L'Amour en soi", mbid = "57b81faf-dfbc-417d-9f79-9104cd9f487e" },
+  { n = 4, title = "La Vague à lames", mbid = "65962d80-649c-4ac8-845f-452cee8c4d20" },
+  { n = 5, title = "Ophélie", mbid = "a17aa0bd-230b-4275-bc80-b9a65d0900bb" },
+  { n = 6, title = "Flagrant délire", mbid = "85b0746e-4fa0-4b11-98e3-f83182542d8a" },
+  { n = 7, title = "Tandem", mbid = "d9f884ba-3d5a-4a1a-a790-3bb3f5f10f7d" },
+  { n = 8, title = "Au charme non plus", mbid = "fe002317-8bcc-412d-a25f-6610adcd9628" },
+  { n = 9, title = "Variations sur le même t'aime", mbid = "47c81a86-8c1d-48be-a3e4-5e8ad66350df" },
+  { n = 10, title = "Amour jamais", mbid = "e90fe3cb-adde-49eb-accd-aeac8b591101" },
+  { n = 11, title = "Ardoise", mbid = "3736c429-34fb-4e14-9344-195aa6fdca09" },
+  { n = 12, title = "Walk on the Wild Side", mbid = "52fa13a0-c74a-464f-bd75-d511d6333a79" },
+]
+
+[[release]]
+mbid = "720f16ad-87fd-4fa0-8231-23ec88153524"
+title = "L'Amour en soi"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "L'Amour en soi", mbid = "2155151d-5703-4c4c-97ef-5c7e76a0cf29" },
+  { n = 2, title = "Flagrant délire", mbid = "b093bf58-5583-4833-89c9-d6ddbafc61d1" },
+]
+
+[[release]]
+mbid = "bf3ae767-d5f4-3d00-a269-79c4a7590bd2"
+title = "Be My Baby"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Be My Baby", mbid = "e3b119ae-9578-403a-aeb8-0125706727c8" },
+  { n = 2, title = "The Future Song", mbid = "233f770e-dba0-4d47-a854-94ee17a12046" },
+  { n = 3, title = "Joe le taxi", mbid = "610ecdc5-7717-4518-8784-90a16c2c2128" },
+]
+
+[[release]]
+mbid = "73162aad-a8cd-30d5-82a8-9f5aa72b048f"
+title = "Sunday Mondays"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "Sunday Mondays", mbid = "2753a085-2499-4602-9062-8069b386058b" },
+  { n = 2, title = "I'm Waiting for the Man", mbid = "74e34187-08cc-4d43-9576-00b467c390f0" },
+]
+
+[[release]]
+mbid = "092a7712-2782-3148-ac95-69ac444cfdcd"
+title = "Vanessa Paradis"
+type = "album"
+date = "1992-09"
+tracks = [
+  { n = 1, title = "Natural High", mbid = "fc6c58b6-2d91-4cd1-82d9-5579896842b2" },
+  { n = 2, title = "I’m Waiting for the Man", mbid = "74e34187-08cc-4d43-9576-00b467c390f0" },
+  { n = 3, title = "Silver and Gold", mbid = "046661d5-3bf3-4a60-8891-9e33d18c5f51" },
+  { n = 4, title = "Be My Baby", mbid = "e3b119ae-9578-403a-aeb8-0125706727c8" },
+  { n = 5, title = "Lonely Rainbows", mbid = "ac7732ea-e400-4170-b5c8-7c72c9284555" },
+  { n = 6, title = "Sunday Mondays", mbid = "2753a085-2499-4602-9062-8069b386058b" },
+  { n = 7, title = "Your Love Has Got a Handle on My Mind", mbid = "059a2b90-aaf1-44b4-b73b-b2688d7c253e" },
+  { n = 8, title = "The Future Song", mbid = "3a16a2a0-4629-4898-9900-ad227dc52e92" },
+  { n = 9, title = "Paradis", mbid = "d97f0995-d4d4-416b-b001-a78c0d55662d" },
+  { n = 10, title = "Just as Long as You Are There", mbid = "be450fc7-90a2-45c1-ba94-f77b6d4a067e" },
+  { n = 11, title = "Gotta Have It", mbid = "3b70b2ec-1430-49ff-a85c-3fa464895d34" },
+]
+
+[[release]]
+mbid = "eb8715bd-1bf0-491d-b87a-fba642c47906"
+title = "Just as Long as You Are There"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Just as Long as You Are There", mbid = "be450fc7-90a2-45c1-ba94-f77b6d4a067e" },
+  { n = 2, title = "Your Love Has Got a Handle on My Mind", mbid = "059a2b90-aaf1-44b4-b73b-b2688d7c253e" },
+]
+
+[[release]]
+mbid = "3e1adb3a-2414-4a24-9713-9b4d367cdd44"
+title = "Natural High"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "Natural High", mbid = "fc6c58b6-2d91-4cd1-82d9-5579896842b2" },
+  { n = 2, title = "Paradis", mbid = "d97f0995-d4d4-416b-b001-a78c0d55662d" },
+]
+
+[[release]]
+mbid = "580416c9-e7d2-39c8-8931-708331e00635"
+title = "Bliss"
+type = "album"
+date = "2000-10-14"
+tracks = [
+  { n = 1, title = "L’Eau et le Vin", mbid = "d01ab016-7e04-4db1-a953-656601c773df" },
+  { n = 2, title = "Commando", mbid = "06482d26-03e3-41a1-a6f4-a299dc9a2b03" },
+  { n = 3, title = "When I Say", mbid = "b2d4d12e-c617-4bcf-a5d0-6e2336e3578b" },
+  { n = 4, title = "Pourtant", mbid = "f3b58e8a-9596-4fc3-8ee4-910eecfdca55" },
+  { n = 5, title = "Que fait la vie ?", mbid = "869dcb91-acad-4741-a583-0594fce2074f" },
+  { n = 6, title = "Les Acrobates", mbid = "44751efc-1dfe-4154-b27b-0cb8d2e80818" },
+  { n = 7, title = "La La La Song", mbid = "98753295-ee4e-4316-8c5e-16dc214bccfd" },
+  { n = 8, title = "L’Air du temps", mbid = "3e61d799-487d-4f33-8eeb-7e7f4f3d18e9" },
+  { n = 9, title = "St‐Germain", mbid = "0d30535d-6e08-4016-b8f6-8e27afc15e02" },
+  { n = 10, title = "Dans mon café", mbid = "ec7c8b28-40e5-4886-a149-b4b86ce426f1" },
+  { n = 11, title = "Firmaman", mbid = "70df54b4-ae26-44c4-a87f-932eac0894fe" },
+  { n = 12, title = "La Ballade de Lily Rose", mbid = "c56a711a-0e76-4edd-812f-293b26020712" },
+  { n = 13, title = "Bliss", mbid = "41bcdcbc-3237-4f99-9d96-40bb813bca44" },
+]
+
+[[release]]
+mbid = "e76c8b45-e352-3364-a187-3c51ee22287e"
+title = "Commando"
+type = "single"
+date = "2000-11-06"
+tracks = [
+  { n = 1, title = "Commando (Daytime mix)", mbid = "e2f740fa-f3c3-4d8d-a68a-443f696e21ba" },
+  { n = 2, title = "Commando (Jackson's Come on mix)", mbid = "6a65e427-ca94-4bb6-b133-2692c024e685" },
+  { n = 3, title = "Commando", mbid = "06482d26-03e3-41a1-a6f4-a299dc9a2b03" },
+  { n = 4, title = "Commando (Nighttime mix)", mbid = "54457151-f625-4761-a175-a0429452d31e" },
+]
+
+[[release]]
+mbid = "128545ba-d833-3899-a008-bb9ff3ba7b00"
+title = "Divinidylle"
+type = "album"
+date = "2007-08-27"
+tracks = [
+  { n = 1, title = "Divine idylle", mbid = "c37a4253-faf6-49ff-a66d-5e4a5606cec3" },
+  { n = 2, title = "Chet Baker", mbid = "25b308c9-3a5b-468b-8ff0-bfb8c9804966" },
+  { n = 3, title = "Les Piles", mbid = "8e7e6705-4610-4871-abd8-959852720608" },
+  { n = 4, title = "Dès que j'te vois", mbid = "155cde18-6ff9-4098-8e31-ba7330bdaee0" },
+  { n = 5, title = "Les Revenants", mbid = "7f99beae-a3d7-4457-9144-ddf3fd915a22" },
+  { n = 6, title = "Junior Suite", mbid = "46fe5d96-036c-43ae-803f-ea22d245631f" },
+  { n = 7, title = "L'Incendie", mbid = "e82a5325-e6b6-4cdc-9e01-b4f7b13a455c" },
+  { n = 8, title = "Irrésistiblement", mbid = "7d590430-8236-424d-a5c3-b42da992e72c" },
+  { n = 9, title = "La Bataille", mbid = "a914cec9-5345-436f-986a-f6eb21628198" },
+  { n = 10, title = "La Mélodie", mbid = "84f21a62-467b-4f6b-945c-784111331849" },
+  { n = 11, title = "Jackadi", mbid = "4f66fdb1-7757-4b9c-ae23-3b6377f66dcb" },
+]
+
+[[release]]
+mbid = "30f1b1c6-00b3-47cd-8e14-2d6f82f58cfd"
+title = "Adrienne"
+type = "single"
+date = "2008-12-22"
+tracks = [
+  { n = 1, title = "Adrienne", mbid = "5727a500-b73e-4f5b-96b5-d286a20fa8cc" },
+]
+
+[[release]]
+mbid = "4a8739d6-dfa2-4c34-af14-102b550fdc38"
+title = "Il y a"
+type = "single"
+date = "2009-09-21"
+tracks = [
+  { n = 1, title = "Il y a", mbid = "56819ec4-8bb1-477c-b07a-005d27d0d976" },
+]
+
+[[release]]
+mbid = "c00e86cf-a405-4ae5-a278-718533e958e3"
+title = "La Vague à lames"
+type = "single"
+date = "2010-12-01"
+spotify = "0MQpSoSqfATisadVZyW3Eq"
+tracks = [
+  { n = 1, title = "La Vague à lames", mbid = "462a4dee-ba33-4c7a-b5d4-b14d156fa563" },
+]
+
+[[release]]
+mbid = "fe5d880b-abd4-473a-867f-0e9ebf938c22"
+title = "La Seine"
+type = "single"
+date = "2011-06-27"
+tracks = [
+  { n = 1, title = "La Seine", mbid = "243a73d3-6216-4db7-b69c-0b66a1f82112" },
+]
+
+[[release]]
+mbid = "0a5d5811-8612-448a-9f88-33aabf55c2f6"
+title = "Love Song"
+type = "single"
+date = "2013-03-04"
+tracks = [
+  { n = 1, title = "Love Song", mbid = "7763cc5b-c159-480f-bb6d-460c78392d85" },
+]
+
+[[release]]
+mbid = "e4643b4e-efeb-4f3e-86e2-0ffe17a4fa33"
+title = "Love Songs"
+type = "album"
+date = "2013-05-13"
+tracks = [
+  { disc = 1, n = 1, title = "L’Au-delà", mbid = "062f7116-c177-4a47-a797-74a7e9241727" },
+  { disc = 1, n = 2, title = "Love Song", mbid = "7763cc5b-c159-480f-bb6d-460c78392d85" },
+  { disc = 1, n = 3, title = "C’est quoi ?", mbid = "cb02afa2-fcbb-460b-8f57-6e572a0ffb78" },
+  { disc = 1, n = 4, title = "Les Espaces et les Sentiments", mbid = "ea392874-96b9-4e24-a436-8baa67b032a6" },
+  { disc = 1, n = 5, title = "Prends garde à moi", mbid = "d1f8bb38-03e4-486e-8cca-53351f61900b" },
+  { disc = 1, n = 6, title = "Tu pars comme on revient", mbid = "223bb149-6e6a-4b57-a822-b2bf55c53279" },
+  { disc = 1, n = 7, title = "The Dark, It Comes", mbid = "299c0185-c7d1-417c-86f1-d16503c9d99d" },
+  { disc = 1, n = 8, title = "Rocking-Chair", mbid = "116f8eb5-27b1-4481-b043-4624329442b6" },
+  { disc = 1, n = 9, title = "Station quatre septembre", mbid = "d24e898b-2551-4f33-b756-179c276956b8" },
+  { disc = 1, n = 10, title = "Tu vois c’que j’vois", mbid = "4e18ebe9-7c03-4132-b3ba-da0a285618e3" },
+  { disc = 2, n = 1, title = "La Crème", mbid = "c997bc96-8d88-41fd-ad93-31a023ee1ed8" },
+  { disc = 2, n = 2, title = "Le Rempart", mbid = "c7fc49e9-137c-4dcc-b2f1-2cc9c7126726" },
+  { disc = 2, n = 3, title = "Mi amor", mbid = "8097ffd4-d682-4ada-bf9b-58bce2cce2c2" },
+  { disc = 2, n = 4, title = "New Year", mbid = "781a59fb-3ca7-434f-9978-0c0da85e214e" },
+  { disc = 2, n = 5, title = "Tu si na cosa grande", mbid = "cf15ffa6-c08d-4955-8c0b-c5fd8bb0683c" },
+  { disc = 2, n = 6, title = "Sombreros", mbid = "83bf8f6e-7aae-4d3f-b070-380dcdab0c63" },
+  { disc = 2, n = 7, title = "Être celle", mbid = "572bb56c-d599-4bc0-8a98-6fe4577ba8dc" },
+  { disc = 2, n = 8, title = "Doorway", mbid = "832e0af0-b700-48e1-b4ed-916d3d9a44a2" },
+  { disc = 2, n = 9, title = "La Chanson des vieux cons", mbid = "7b319427-0217-4758-8c4e-a5d7d9bd0b7a" },
+  { disc = 2, n = 10, title = "Les Roses roses", mbid = "5780471c-fea6-43b8-8307-3a7bd97c0a0e" },
+]
+
+[[release]]
+mbid = "1afc690c-83bd-40ad-80c8-c5e27bc7154c"
+title = "Did You Really Say No"
+type = "single"
+date = "2017-03-10"
+tracks = [
+  { n = 1, title = "Did You Really Say No", mbid = "ed88cc72-333f-4951-b6e1-c7a9a0c1633d" },
+]
+
+[[release]]
+mbid = "c1637d4b-008e-401b-bcdc-326370bde27b"
+title = "Les Sources"
+type = "album"
+date = "2018-11-16"
+spotify = "18bPsu30Mp6qJXOqTAIRb6"
+tracks = [
+  { n = 1, title = "Les Sources", mbid = "a2288541-363b-4381-a420-7d083790e818" },
+  { n = 2, title = "Kiev", mbid = "3ad9a4a3-da2e-40bb-b78b-7842865f96fb" },
+  { n = 3, title = "La Plage", mbid = "12f3aa5a-b5ec-4bf2-8083-6dd3ecbfb57c" },
+  { n = 4, title = "Ces mots simples", mbid = "cd60bc7e-5be2-492e-af9b-b987c9f898a9" },
+  { n = 5, title = "C’est dire", mbid = "51db0952-385a-4f8b-845d-84b5310cf240" },
+  { n = 6, title = "On oubliera", mbid = "0ed19ae3-7dfe-4c55-b18f-6ee2ff0f4c69" },
+  { n = 7, title = "Mio cuore", mbid = "47052a4d-2377-4dc3-94c9-e7ca0a19099b" },
+  { n = 8, title = "Ce que le vent nous souffle", mbid = "a3b7643a-1725-4c92-b0d3-f04aabbd8e1b" },
+  { n = 9, title = "Dans notre monde", mbid = "b11af942-218a-498b-99c4-cbe1b8bacdf6" },
+  { n = 10, title = "Si loin si proche", mbid = "9ec90e6e-3867-4714-b2ef-043048674876" },
+  { n = 11, title = "À la hauteur de mes bas", mbid = "d4317946-41a2-4092-8ac9-4691f8679051" },
+  { n = 12, title = "Chéri", mbid = "47ca0817-016f-4d66-9a4f-dda0f6e463c2" },
+]
+
+[[release]]
+mbid = "587e3d28-c9e3-4a0f-94d5-3a5b66c2010e"
+title = "Bouquet final"
+type = "single"
+date = "2025-06-06"
+tracks = [
+  { n = 1, title = "Bouquet final", mbid = "3d5dd209-511d-4226-92e3-f98d718aa4db" },
+]
+
+[[release]]
+mbid = "e1862e9a-b3fa-4762-8686-f1efb2a987c5"
+title = "Le Retour des beaux jours"
+type = "single"
+date = "2025-08-29"
+spotify = "45IfEOM2tJVHxpNiC9uOmG"
+tracks = [
+  { n = 1, title = "Le Retour des beaux jours", mbid = "c5f198fc-4f11-4be2-9b39-cfb8bf97da46" },
+]
+
+[[release]]
+mbid = "f55d6abc-391c-44d3-bf6b-64c89679289c"
+title = "Le retour des beaux jours"
+type = "album"
+date = "2025-10-10"
+spotify = "0jOCYApJa6MBFbwExLJXJ9"
+tracks = [
+  { n = 1, title = "Cœur ardent", mbid = "94a11f9c-0a1b-4a16-b27c-a7929c8420f0" },
+  { n = 2, title = "Bouquet final", mbid = "3d5dd209-511d-4226-92e3-f98d718aa4db" },
+  { n = 3, title = "Trésor", mbid = "b7b6937a-8b53-4b2e-abfe-97aaf451dca5" },
+  { n = 4, title = "Le Retour des beaux jours", mbid = "c5f198fc-4f11-4be2-9b39-cfb8bf97da46" },
+  { n = 5, title = "Rendez-vous", mbid = "952f86b5-f5e6-4348-915d-7636a9cf7521" },
+  { n = 6, title = "Éléments", mbid = "c4a09a70-bc45-44d4-8a2f-4ef100056658" },
+  { n = 7, title = "Make You Mine", mbid = "5d4453f9-129e-4227-a351-d38e3187efd0" },
+  { n = 8, title = "Les Épines du cœur", mbid = "21d42253-fdd6-4a11-8a8f-6503dc8de75f" },
+  { n = 9, title = "Élégie", mbid = "1a65a3a8-eeb3-4562-b411-3a6036773345" },
+  { n = 10, title = "Un amour de jeunesse", mbid = "7c06e6df-6bb1-433c-a31c-b831e680608f" },
+  { n = 11, title = "Les Initiales des anges", mbid = "1adbbe24-c73f-49ac-995c-b5d67495d174" },
+  { n = 12, title = "I Am Alive", mbid = "a3663954-5467-4183-ab4e-3e5fbe15b278" },
+]
+
+[[release]]
+mbid = "32179807-270a-46f2-a17d-d4042fb98ae0"
+title = "Les épines du coeur"
+type = "ep"
+date = "2026-04-24"
+tracks = [
+  { n = 1, title = "Les épines du coeur", mbid = "21d42253-fdd6-4a11-8a8f-6503dc8de75f" },
+  { n = 2, title = "Les épines du coeur (The Ninety2 Remix)", mbid = "232a2a9f-a474-434f-b777-734043a4d49f" },
+  { n = 3, title = "Les épines du coeur (Julien Jabre Remix)", mbid = "cfd365f0-f2a3-45c0-ac77-da275ded036c" },
+]

@@ -1,0 +1,60 @@
+format = 1
+
+[[release]]
+mbid = "ff74cb80-f2b9-41e8-a62b-837580c1e90b"
+title = "Jsem hlína, jsem strom, jsem stroj"
+type = "album"
+date = "1994"
+tracks = [
+  { n = 1, title = "...a dny jak padlí andělé prsty ryjí hlínu", mbid = "0418e540-264a-4ffe-9835-fd083b7e4f35" },
+  { n = 2, title = "Za svítání", mbid = "6246ec68-dd73-4b4c-9626-3c477c813c37" },
+  { n = 3, title = "Přišel jsem", mbid = "329ba7d5-a099-4a3e-9bbf-1ee514d0e65d" },
+  { n = 4, title = "Báře", mbid = "7e1fa2ee-232d-45e2-8761-d5428c60e03c" },
+  { n = 5, title = "Ticho kroků", mbid = "ff756faa-0255-477e-9a19-4059c525d87c" },
+  { n = 6, title = "A nebe je na tvých rtech", mbid = "ea75abb4-f463-42ad-be26-db28f6ac08bd" },
+  { n = 7, title = "Uklouzl jsem", mbid = "127e640a-5410-40ec-aded-30a502b0aa78" },
+  { n = 8, title = "Svlečená v salóně", mbid = "0424863e-ac51-42e4-b3f7-c9afa7a10e77" },
+  { n = 9, title = "Taj, taj", mbid = "2285505c-5855-4d25-9ed2-52b503670362" },
+  { n = 10, title = "Buď mně v patách", mbid = "73e25702-cbf3-4979-99ab-f82c01ed1c40" },
+  { n = 11, title = "Nebyl jsem nikde a byl jsem všude", mbid = "4ea372d0-fad7-4018-beb5-39dd222bf662" },
+  { n = 12, title = "Dobrý den", mbid = "88b068a2-73d7-47d3-85ba-f93d7266091b" },
+]
+
+[[release]]
+mbid = "a8c6ab13-58f0-36d0-be1e-2c307151fa35"
+title = "Bílé inferno"
+type = "album"
+date = "1997"
+tracks = [
+  { disc = 1, n = 1, title = "Vzpomínka", mbid = "162143c5-ead1-47b5-a30f-619ab1e4e730" },
+  { disc = 1, n = 2, title = "Uspávanka", mbid = "28c38a62-ae5d-4037-88bf-776381a454fd" },
+  { disc = 1, n = 3, title = "Sirka v louži", mbid = "ada74f52-83fb-4c00-8106-9cc0a189fefa" },
+  { disc = 1, n = 4, title = "Sto let", mbid = "90d2e400-37d5-4cba-89a7-cd6ff304f3cd" },
+  { disc = 1, n = 5, title = "Kdoule", mbid = "dd41ea7a-6a72-41e3-8dd0-2435f61e7fab" },
+  { disc = 1, n = 6, title = "Zelený věneček", mbid = "2f293ae3-3208-4de4-a74c-b010de9ba38f" },
+  { disc = 1, n = 7, title = "Moucha", mbid = "a69792bc-edf6-4e02-b495-25140ed592c2" },
+  { disc = 2, n = 1, title = "Moře", mbid = "67a434c2-2e97-41a5-8569-e392d590c99a" },
+  { disc = 2, n = 2, title = "Starý mlýn", mbid = "d41af6d9-b6cc-4f14-9bc3-1fc761ef968b" },
+  { disc = 2, n = 3, title = "Je tma", mbid = "da523f7c-c120-4c46-9e39-9837e70ca771" },
+  { disc = 2, n = 4, title = "Churý churuj", mbid = "41c6bd93-6d69-4abf-a369-a3fe100a755c" },
+  { disc = 2, n = 5, title = "Zvon", mbid = "5d10e7f1-fa38-418e-a2e0-85a3c0bd74b0" },
+  { disc = 2, n = 6, title = "Huljet", mbid = "282d6c14-c1d2-459e-8726-bb36f1a9f8ce" },
+]
+
+[[release]]
+mbid = "587c6425-4248-4fd3-b77d-43e329ca721d"
+title = "Barvy Radugy"
+type = "album"
+date = "2015-04-13"
+tracks = [
+  { n = 1, title = "Barvy duhy", mbid = "a9fd4abf-fd30-478a-a959-0f92a68e5150" },
+  { n = 2, title = "Jako láska", mbid = "70199a09-a16d-43dc-93d4-1fa680f87667" },
+  { n = 3, title = "Peří pocitů", mbid = "21fd7ed7-fc2c-4790-933b-5ef1552c00c2" },
+  { n = 4, title = "Koně na pláních", mbid = "abe342db-6867-4268-809d-c28f85cd1a9d" },
+  { n = 5, title = "Ku potěše drakům", mbid = "182f141b-16e0-423d-84ef-670d315618ef" },
+  { n = 6, title = "Paci paci letí ptáci", mbid = "96def59b-9fe1-4a5d-8d93-3eb36dcd5aca" },
+  { n = 7, title = "Pod bílou věží", mbid = "de5c7917-6298-4a41-a9ab-7e22177159cf" },
+  { n = 8, title = "Uprostřed léta", mbid = "1fe106de-38bf-40ff-aed8-c606cb1d0707" },
+  { n = 9, title = "Pod jezem", mbid = "8ea948e8-2047-48ab-9947-1b8a91da31f0" },
+  { n = 10, title = "Vesmír", mbid = "a6f693eb-c2e3-4c39-b645-045f7c4e70a1" },
+]

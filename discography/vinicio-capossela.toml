@@ -1,0 +1,466 @@
+format = 1
+
+[[release]]
+mbid = "382cc970-e729-33a6-b4e9-9d7790b3460a"
+title = "All'una e trentacinque circa"
+type = "album"
+date = "1990-10-12"
+tracks = [
+  { n = 1, title = "Resta con me", mbid = "6abf8b2b-178f-466c-b192-3edcbd515a9a" },
+  { n = 2, title = "Una giornata senza pretese", mbid = "f6661e56-5ead-459a-9188-bef054346f2e" },
+  { n = 3, title = "Quando ti scrivo", mbid = "fc19317f-d782-4b55-a958-f2337030d30e" },
+  { n = 4, title = "Christmas Song", mbid = "7b47924a-8089-450b-a680-d0e4b2efab4b" },
+  { n = 5, title = "Pongo sbronzo", mbid = "cc53f051-ea07-415c-8f27-6e1b32879811" },
+  { n = 6, title = "Suite delle quattro ruote", mbid = "30f86d8d-2d06-4cd2-8278-8f6281e651ad" },
+  { n = 7, title = "Scivola vai via", mbid = "08f4e133-84fe-4264-b412-5b4c283fecb2" },
+  { n = 8, title = "I vecchi amori", mbid = "f7b15ab2-8c38-4046-aea2-c62c5dd59d8f" },
+  { n = 9, title = "Stanco e perduto", mbid = "38117a81-2547-40dd-b96f-a72ff854a532" },
+  { n = 10, title = "Sabato al Corallo", mbid = "407f316c-73b2-4685-8311-f8431a9dc085" },
+  { n = 11, title = "All'una e trentacinque circa", mbid = "7442becf-66a7-4351-b7f1-0b2f83710846" },
+]
+
+[[release]]
+mbid = "fcee838e-1700-3aac-acf3-69060911b42a"
+title = "Modì"
+type = "album"
+date = "1991-10-28"
+tracks = [
+  { n = 1, title = "Modì", mbid = "9d238bf5-3ecb-4497-90d3-98094e845ef6" },
+  { n = 2, title = "La regina del Florida", mbid = "320e56d5-75f6-4312-9460-e13cb9243624" },
+  { n = 3, title = "Notte newyorkese", mbid = "aefc9323-117a-4a8f-9c06-a89f3238d69e" },
+  { n = 4, title = "25 aprile", mbid = "22a5b5ee-7f01-469c-bd36-5a8179f04f5a" },
+  { n = 5, title = "Solo per me", mbid = "1eb216e2-86b9-4404-a80f-90554e9d2455" },
+  { n = 6, title = "Ultimo amore", mbid = "7ebc7630-d0bb-439f-ae49-a711988be4fa" },
+  { n = 7, title = "…e allora mambo", mbid = "066bbdef-45cb-4bcd-b09a-e1d7ebd6f003" },
+  { n = 8, title = "Pasionaria", mbid = "f8a0f0fe-7002-41fb-8272-566aa659caa7" },
+  { n = 9, title = "Cadillac", mbid = "164825f9-d57f-45dc-a1cd-71f0932838bb" },
+  { n = 10, title = "Notte di provincia", mbid = "cad9d05a-ca80-4dd8-bab2-b6d7237dfab2" },
+]
+
+[[release]]
+mbid = "b2281b09-a625-4114-a6da-a6ab85073fdc"
+title = "La regina del Florida"
+type = "single"
+date = "1992"
+tracks = [
+  { n = 1, title = "La regina del Florida", mbid = "320e56d5-75f6-4312-9460-e13cb9243624" },
+  { n = 2, title = "Modì", mbid = "9d238bf5-3ecb-4497-90d3-98094e845ef6" },
+  { n = 3, title = "All'una e trentacinque circa", mbid = "7442becf-66a7-4351-b7f1-0b2f83710846" },
+]
+
+[[release]]
+mbid = "23d09f1c-5a22-3452-8ac6-e6105e7e0e5b"
+title = "Camera a sud"
+type = "album"
+date = "1994-10-28"
+tracks = [
+  { n = 1, title = "Non è l'amore che va via", mbid = "ff683fdc-9151-49d0-a9a7-0ce7d2f50df6" },
+  { n = 2, title = "Zampanò", mbid = "b14e4a06-b65f-426c-8975-9139ee701db7" },
+  { n = 3, title = "Amburgo", mbid = "ea045c13-cb87-4647-bb50-246eacac0fc1" },
+  { n = 4, title = "Che coss'è l'amor", mbid = "a2fca0d3-ebbc-4366-b62f-9e8297579e9b" },
+  { n = 5, title = "Il mio amico ingrato", mbid = "af3a3fef-e033-43c5-9ebb-463f29959b4d" },
+  { n = 6, title = "Fatalità", mbid = "1cb85a81-5894-40c4-b3f5-95b3900d9c95" },
+  { n = 7, title = "Camminante", mbid = "a0cc4719-f5b6-4110-92b2-08fc42865ac6" },
+  { n = 8, title = "Furore", mbid = "e48326f2-c7e2-42a5-8e8e-90e7fa014621" },
+  { n = 9, title = "Ma l'America…", mbid = "e176dcce-5fd7-483b-ab53-dea36b29c8ee" },
+  { n = 10, title = "Il fantasma delle tre", mbid = "7499796f-96ec-45b7-a5ac-c2bf6ed40338" },
+  { n = 11, title = "Tornando a casa", mbid = "a04b63e5-eefb-4de5-8a30-a160db3c2dc4" },
+  { n = 12, title = "Guiro", mbid = "ea501c30-5ac8-4f76-95c1-e4660f535acf" },
+  { n = 13, title = "Camera a sud", mbid = "96587fa5-b2b0-4fe9-977a-1ddeae061ff0" },
+]
+
+[[release]]
+mbid = "502fd478-ada7-35f3-af2f-2e31d93475df"
+title = "Il ballo di San Vito"
+type = "album"
+date = "1996-10-15"
+tracks = [
+  { n = 1, title = "Il ballo di San Vito", mbid = "2325747c-2702-4ff0-b63a-12c3ae5090d1" },
+  { n = 2, title = "Morna", mbid = "a52a9430-4bf7-4863-809e-7b62e782bc65" },
+  { n = 3, title = "La notte se n'è andata", mbid = "626f1c8a-85d3-4cd2-b14e-03a99e022a7e" },
+  { n = 4, title = "Le case", mbid = "4b87a961-45b1-4730-b626-5464762e73ee" },
+  { n = 5, title = "Il corvo torvo", mbid = "eca90361-de63-4693-85e3-6615788dcf79" },
+  { n = 6, title = "Al veglione", mbid = "9ff12694-0f3f-4142-84ae-9ade183c34d0" },
+  { n = 7, title = "Body Guard", mbid = "de305947-e169-4294-8872-e0cde700d10b" },
+  { n = 8, title = "L'affondamento del Cinastic", mbid = "a492255d-5b12-420b-8423-7a2c213f08aa" },
+  { n = 9, title = "S'agapò", mbid = "1f9ec62b-a7eb-46a7-999e-d24877104911" },
+  { n = 10, title = "Contrada Chiavicone", mbid = "af359592-65f9-455f-8c14-8721db52a328" },
+  { n = 11, title = "L'accolita dei rancorosi", mbid = "6faa9e29-866b-4c16-b6fc-2a74ea7f9e25" },
+  { n = 12, title = "Pioggia di novembre", mbid = "7d14019b-edb1-4081-8bfe-dee20cb1af1d" },
+  { n = 13, title = "Tanco del murazzo", mbid = "a72e5044-2987-4492-a667-802d613de807" },
+]
+
+[[release]]
+mbid = "22e93a24-f5b7-3b3d-9c51-b21029a3007d"
+title = "Canzoni a manovella"
+type = "album"
+date = "2000-06-09"
+spotify = "61BtcNwTaqzLQjs3b7s2kp"
+tracks = [
+  { n = 1, title = "Bardamù", mbid = "bb65861c-784d-43ec-8897-914847a4da3c" },
+  { n = 2, title = "Polka di Warsava", mbid = "9e664600-868b-4a73-8159-a009be95c639" },
+  { n = 3, title = "Decervellamento", mbid = "5a65313c-0401-474e-ae26-5259e048b544" },
+  { n = 4, title = "Marajà", mbid = "e550f22c-0299-4dbb-b4a4-4a4b613af56c" },
+  { n = 5, title = "Canzone a manovella", mbid = "ebd5e12b-acd4-4970-9f98-8a0baed29ec9" },
+  { n = 6, title = "I pagliacci", mbid = "cbb6bbbf-02ac-46a1-b38c-ec14b06059dd" },
+  { n = 7, title = "Marcia del camposanto", mbid = "61832277-62cc-4ac0-9692-f99042d874b1" },
+  { n = 8, title = "I pianoforti di Lubecca", mbid = "17baec4d-be9b-4f01-a462-402c722739b6" },
+  { n = 9, title = "Suona Rosamunda", mbid = "adc10760-96e9-4954-b3b8-28040d54d43a" },
+  { n = 10, title = "Intermezzo", mbid = "eee52b15-2c97-4654-8d44-6a315c38439c" },
+  { n = 11, title = "Contratto per Karelias", mbid = "a8e4c92f-666e-4f8e-9a16-bccebde39d6e" },
+  { n = 12, title = "Solo mia", mbid = "cc071e3a-2b2e-404b-9245-ebf3fc0e1758" },
+  { n = 13, title = "Corre il soldato", mbid = "5f3af0d3-1271-4a1f-8214-e7dd05134d16" },
+  { n = 14, title = "Signora Luna", mbid = "6a33783f-f11f-4610-9820-73f3149948e6" },
+  { n = 15, title = "Con una rosa", mbid = "174e7a74-ef40-4acf-975e-50e01d29fe64" },
+  { n = 16, title = "Nella pioggia", mbid = "2d656ace-f1cb-4325-a8a2-411ca494333d" },
+  { n = 17, title = "Resto qua", mbid = "94754bb4-b026-44f3-90de-2806d10cc33c" },
+]
+
+[[release]]
+mbid = "082d708d-2954-414f-bec9-bca732ab26ef"
+title = "L’indispensabile"
+type = "album"
+date = "2003-01-31"
+spotify = "2dd0tiC5EWGCKRI3OnFmn9"
+tracks = [
+  { n = 1, title = "Si è spento il sole", mbid = "56a2326b-935a-48d6-8fd9-b71767cba1ac" },
+  { n = 2, title = "Marajà", mbid = "e41a608b-250e-4ab2-b644-4c081a7b3cf4" },
+  { n = 3, title = "Il ballo di San Vito", mbid = "b75c8520-e4b0-4c2e-a8bc-8c77af09ca42" },
+  { n = 4, title = "Zampano’", mbid = "9c763da2-8192-4906-b62a-69f148987b56" },
+  { n = 5, title = "Morna", mbid = "39225501-4a99-4c4f-b20e-af8b2ec24f2d" },
+  { n = 6, title = "Corre il soldato", mbid = "7a960bcb-6af7-4822-b45d-abbff04900d3" },
+  { n = 7, title = "Ultimo amore", mbid = "f03e8934-f6b9-42cc-8520-a71a80bacb82" },
+  { n = 8, title = "Che cossè l’amor", mbid = "10524e61-597a-4e44-8360-0499d6bc79a7" },
+  { n = 9, title = "Tanco del murazzo", mbid = "cc2e1d96-b372-4891-b6c2-c8794c4e2082" },
+  { n = 10, title = "Con una rosa", mbid = "0a23525d-543c-4074-aee2-ec7fb3091d3c" },
+  { n = 11, title = "Modì", mbid = "c75576fc-a4f2-444d-b9e5-339b40c14377" },
+  { n = 12, title = "Non e’ l’amore che va via", mbid = "680c7446-ad7a-4fa7-98a9-a0ae0e91fb08" },
+  { n = 13, title = "Il corvo torvo", mbid = "60bab093-cfde-4416-b855-cd0cb94f1255" },
+  { n = 14, title = "Malamerica....", mbid = "d56d82c3-153f-4174-b407-9fc6ad9873b4" },
+  { n = 15, title = "Scivola vai via", mbid = "0fe2185d-32f0-4c7e-8fef-636668944627" },
+  { n = 16, title = "…E allora mambo", mbid = "5f27a5d4-7fdd-45d8-ae0e-c454a2b4a1c1" },
+  { n = 17, title = "Una giornata senza pretese", mbid = "0c5b7ba4-30db-4e89-83c0-66c9109ef474" },
+  { n = 18, title = "All’una e trentacinque circa", mbid = "b9417d5a-de12-42cc-9525-d31c40ea48d8" },
+]
+
+[[release]]
+mbid = "a26ee605-7e45-4821-86bf-fa720f130162"
+title = "Dalla parte di Spessotto"
+type = "single"
+date = "2006-01-02"
+tracks = [
+  { n = 1, title = "Dalla parte di Spessotto", mbid = "8e9bdfd4-2c56-412c-aab9-f023305c4897" },
+]
+
+[[release]]
+mbid = "062637cf-72e5-3bba-abc8-d2572052b823"
+title = "Ovunque proteggi"
+type = "album"
+date = "2006-01-20"
+tracks = [
+  { n = 1, title = "Non trattare", mbid = "a801465b-763c-4e91-b623-fb6edf65d04d" },
+  { n = 2, title = "Brucia Troia", mbid = "d0daa570-3dde-49ca-b4bd-0fb9a0beedee" },
+  { n = 3, title = "Dalla parte di Spessotto", mbid = "023b5af7-2ff4-485f-ab47-ede61b2919ce" },
+  { n = 4, title = "Moskavalza", mbid = "d00b5210-370f-4e60-a2a3-66816689951e" },
+  { n = 5, title = "Al colosseo", mbid = "d7a765a5-3ab1-4a88-9634-55f6d3755f09" },
+  { n = 6, title = "L'uomo vivo", mbid = "f69dd436-e29c-43bc-ad0d-00e8a668e267" },
+  { n = 7, title = "Medusa cha cha cha", mbid = "97046166-cef4-4d6a-be15-a5575a990547" },
+  { n = 8, title = "Nel blu", mbid = "4803b809-05ba-4459-9bac-b2f086414a8c" },
+  { n = 9, title = "Dove siamo rimasti a terra nutless", mbid = "76de1675-fe95-4652-afa7-571e25a076bb" },
+  { n = 10, title = "Pena del alma", mbid = "079036ef-e52e-49bb-b4e4-607eab2e9ba4" },
+  { n = 11, title = "Lanterne rosse", mbid = "d21b4b4a-7f50-4346-811b-defcf09c6379" },
+  { n = 12, title = "S.S. dei naufragati", mbid = "a04df34a-aa60-4391-a16c-407afdbe5ede" },
+  { n = 13, title = "Ovunque proteggi", mbid = "5a863329-3581-42f8-8df3-1eb637e81704" },
+]
+
+[[release]]
+mbid = "807835d4-88e7-4552-aa8f-efea7db79d2c"
+title = "In clandestinità"
+type = "single"
+date = "2008-09-29"
+tracks = [
+  { n = 1, title = "In clandestinità", mbid = "7a110cb7-6ac2-47ed-9e5b-6794fed66e75" },
+]
+
+[[release]]
+mbid = "6e2b9811-fa7c-34e2-9422-35475753e702"
+title = "Da solo"
+type = "album"
+date = "2008-10-17"
+spotify = "6EBpY2C0Y4vFqVz7en6uRd"
+tracks = [
+  { n = 1, title = "Il gigante e il mago", mbid = "fd375482-8bb1-4330-8f24-8f7599aee829" },
+  { n = 2, title = "In clandestinità", mbid = "e598f269-1108-4cf7-985d-11ee8476670b" },
+  { n = 3, title = "Parla piano", mbid = "f5ed73b3-2302-43f1-af87-c1bc7c8ab756" },
+  { n = 4, title = "Una giornata perfetta", mbid = "130afde2-a72a-40e7-98a5-c89d8e1d74fd" },
+  { n = 5, title = "Il paradiso dei calzini", mbid = "ad476c68-94e3-4f2c-928a-44483b49ad09" },
+  { n = 6, title = "Orfani ora", mbid = "e3e8f156-9a8c-4ec0-918b-e308f8feba9c" },
+  { n = 7, title = "Sante Nicola", mbid = "1a9dad6c-2063-45b1-8fdc-f719ec39e71e" },
+  { n = 8, title = "Vetri appannati d’America", mbid = "2f749c6e-fd4d-4b95-95a1-cf00f9006e34" },
+  { n = 9, title = "Dall’altra parte della sera", mbid = "0157a05c-e951-4b7a-8bd3-fb81b938e074" },
+  { n = 10, title = "La faccia della Terra", mbid = "5c535d1f-91d3-4346-bb62-a7a9d8603e69" },
+  { n = 11, title = "Lettere di soldati", mbid = "9b07ad68-c191-4f5d-a3df-96065e7748e2" },
+  { n = 12, title = "Non c’è disaccordo nel cielo", mbid = "8b95f020-477c-42a6-b51a-bb97a3c00390" },
+  { n = 13, title = "Da solo tutt’quant (ghost track)", mbid = "f95dd4b3-4924-4f4f-89d1-51f079758112" },
+]
+
+[[release]]
+mbid = "cf343432-52bc-4785-b179-9fdee42e32e1"
+title = "La nave sta arrivando"
+type = "ep"
+date = "2011-03-31"
+tracks = [
+  { n = 1, title = "When the Ship Comes In", mbid = "b5fec197-0d7a-4c98-afc5-7f81d43e280a" },
+  { n = 2, title = "Billy Budd", mbid = "0ef9f883-dd44-413f-a221-3e4885f0111c" },
+  { n = 3, title = "Polpo d'amor", mbid = "242018ae-d76d-4632-a679-dd241095b407" },
+  { n = 4, title = "Medley: Che coss'è l'amor / ...E la barca tornò sola", mbid = "7f735720-04b5-419f-9e09-f02022455b2c" },
+  { n = 5, title = "Morna (Rebetika)", mbid = "222353ab-ee6c-46b4-8f65-fe1c4723edf3" },
+  { n = 6, title = "La costola di Garopaba", mbid = "e7ffbb21-9b76-426c-a95b-906a1ffb69c9" },
+]
+
+[[release]]
+mbid = "aace339b-9f3d-401d-ac8f-e23f2dc4a51d"
+title = "Marinai, profeti e balene"
+type = "album"
+date = "2011-04-26"
+tracks = [
+  { disc = 1, n = 1, title = "Il grande Leviatano", mbid = "da532362-5eb9-4644-bc2e-d5e9e15e5c35" },
+  { disc = 1, n = 2, title = "L'oceano oilalà", mbid = "c0d0bf10-5361-410c-ae90-91084f601517" },
+  { disc = 1, n = 3, title = "Pryntyl", mbid = "1cabafa1-0790-479e-b4dc-63c448cb9b22" },
+  { disc = 1, n = 4, title = "Polpo d'amor", mbid = "c3ff81fd-54f9-46af-bf60-e91979a2137b" },
+  { disc = 1, n = 5, title = "Lord Jim", mbid = "c2189f79-19ef-4e96-bc72-4e121ea49977" },
+  { disc = 1, n = 6, title = "La bianchezza della balena", mbid = "fcd388e8-32fa-4d83-982a-5817c21ad1d3" },
+  { disc = 1, n = 7, title = "Billy Budd", mbid = "0ef9f883-dd44-413f-a221-3e4885f0111c" },
+  { disc = 1, n = 8, title = "I fuochi fatui", mbid = "0f96d4d6-27e4-4d14-9621-d2e51ae1aab3" },
+  { disc = 1, n = 9, title = "Job", mbid = "db42a1dc-9437-455c-9981-d83d114a2afc" },
+  { disc = 1, n = 10, title = "La lancia del Pelide", mbid = "1faa8d5a-db17-490a-8957-2c381190bf1d" },
+  { disc = 2, n = 1, title = "Goliath", mbid = "8d20c429-509a-49c6-aedb-c416e43e02e8" },
+  { disc = 2, n = 2, title = "Vinocolo", mbid = "575bbed3-8df8-4a04-a3b6-20922c352c10" },
+  { disc = 2, n = 3, title = "Le Pleiadi", mbid = "292d1304-1004-4ae3-92c5-be67830689a2" },
+  { disc = 2, n = 4, title = "Aedo", mbid = "7c6d3a6a-5467-4f60-b77e-92f22010ae47" },
+  { disc = 2, n = 5, title = "La Madonna delle conchiglie", mbid = "b1ec4733-bace-4959-98d0-5c606a73bf2d" },
+  { disc = 2, n = 6, title = "Calipso", mbid = "039fde92-f01f-4bc6-a7e6-f7befca38708" },
+  { disc = 2, n = 7, title = "Dimmi Tiresia", mbid = "9026ab00-0947-4475-b0c7-e3d911a8d76c" },
+  { disc = 2, n = 8, title = "Nostos", mbid = "0ec29479-34aa-43a4-8410-10e1ce48da26" },
+  { disc = 2, n = 9, title = "Le sirene", mbid = "df4bd716-809a-4a8e-9b8a-2583d9cef38a" },
+]
+
+[[release]]
+mbid = "49909d75-fb9f-4096-a2af-a0190341d8a0"
+title = "Abbandonato (Los ejes de mi carreta)"
+type = "single"
+date = "2012-06-02"
+tracks = [
+  { n = 1, title = "Abbandonato (Los ejes de mi carreta)", mbid = "3727abb4-3ff5-4b67-b91c-c679fd2982d2" },
+]
+
+[[release]]
+mbid = "3c05cc95-874e-49b1-9b0c-2b34f74c3c60"
+title = "Rebetiko gymnastas"
+type = "album"
+date = "2012-06-12"
+tracks = [
+  { n = 1, title = "Abbandonato (Los ejes de mi carreta)", mbid = "3727abb4-3ff5-4b67-b91c-c679fd2982d2" },
+  { n = 2, title = "Rebetiko mou", mbid = "892fe932-8128-4f6c-94c7-e097caa96f93" },
+  { n = 3, title = "Utrennyaya gimnastika", mbid = "8b3104c0-3b76-43af-8a04-ee4bbb9bb594" },
+  { n = 4, title = "Misirlou", mbid = "9868764b-aada-4822-a57f-6e2942c5cbc5" },
+  { n = 5, title = "Contrada Chiavicone", mbid = "ea548e5e-da77-44f8-975f-6bf978ab3eca" },
+  { n = 6, title = "Con una rosa", mbid = "5e69c5ca-df2a-4582-b5e9-fae81d5386bc" },
+  { n = 7, title = "Non è l'amore che va via", mbid = "2b268111-217d-4a07-83c3-54eca1c91a3b" },
+  { n = 8, title = "Contratto per Karelias", mbid = "79a80249-1f6e-431e-99ef-80e2e86f185d" },
+  { n = 9, title = "Corre il soldato", mbid = "0d7ce697-8adf-4851-a7e4-fbbc11fce1f9" },
+  { n = 10, title = "Signora Luna", mbid = "4fa04e10-bd5d-4201-a787-35ef45de16ba" },
+  { n = 11, title = "Morna", mbid = "6b53e90d-82cb-4220-8c0a-e0d0587914b5" },
+  { n = 12, title = "Canción de las simples cosas", mbid = "c3217bce-f243-435f-8851-79568756be40" },
+  { n = 13, title = "Scivola vai via", mbid = "5e082fcb-088f-4267-8fb6-7b192aa6220a" },
+]
+
+[[release]]
+mbid = "82920ecc-ed6f-4046-9e83-fe90051f9c15"
+title = "Il pumminale"
+type = "single"
+date = "2016"
+tracks = [
+  { n = 1, title = "Il pumminale", mbid = "2a5a3af6-4912-4c6d-b741-c0cb89b8e1c8" },
+]
+
+[[release]]
+mbid = "5bcf59c9-ac1d-49ab-8564-bb58914f1f4e"
+title = "Canzoni della cupa"
+type = "album"
+date = "2016-05-06"
+tracks = [
+  { disc = 1, n = 1, title = "Femmine", mbid = "ab948d20-a036-4450-a904-f7f53e8a6c05" },
+  { disc = 1, n = 2, title = "Il lamento dei mendicanti", mbid = "18c34487-8fe4-4f8d-b8bb-4fb75010f264" },
+  { disc = 1, n = 3, title = "La padrona mia", mbid = "a6a72b7f-2226-4388-821d-a32df0c8cc36" },
+  { disc = 1, n = 4, title = "Dagarola del Carpato", mbid = "51ec7c30-e89a-4f37-8cab-e88ae8df9b2f" },
+  { disc = 1, n = 5, title = "L'acqua chiara alla fontana", mbid = "97d25e0c-84e0-4fd7-bf02-34857b892cb9" },
+  { disc = 1, n = 6, title = "Zompa la rondinella", mbid = "3596b28b-e6cc-45b2-ae62-a14bdbf02bb0" },
+  { disc = 1, n = 7, title = "Franceschina la calitrana", mbid = "23162042-919a-4868-9f81-0a6ef87886be" },
+  { disc = 2, n = 1, title = "Sonetti", mbid = "b40c32c1-459f-426e-9d7d-4c33ac9bc426" },
+  { disc = 2, n = 2, title = "Faccia di corno", mbid = "cb26ea05-98b8-47d7-80b1-63b5c9e9f862" },
+  { disc = 2, n = 3, title = "Pettarossa", mbid = "1385c872-77dd-4677-a45c-d2bd053ba5ac" },
+  { disc = 2, n = 4, title = "Faccia di corno - L'aggiunta", mbid = "d380ae58-6408-469d-85f3-967bebb3504d" },
+  { disc = 2, n = 5, title = "Nachecici", mbid = "547816d9-f9a0-4686-8e45-428bc2488dc0" },
+  { disc = 2, n = 6, title = "Lu furastiero", mbid = "5a9b4fd9-5a69-44bc-80ff-58d9b3c22136" },
+  { disc = 2, n = 7, title = "Rapatatumpa", mbid = "23736e2f-ce53-4ee2-843c-a4ba64393de9" },
+  { disc = 2, n = 8, title = "La lontananza", mbid = "1b1fbe75-cb1a-42b1-a32c-e31104a5ad5c" },
+  { disc = 2, n = 9, title = "La notte è bella da soli", mbid = "f0e19ef4-75e6-4cc8-a4c4-26f470bfafef" },
+  { disc = 3, n = 1, title = "La bestia nel grano", mbid = "1d2a458e-427e-488c-8552-bb6648effa9e" },
+  { disc = 3, n = 2, title = "Scorza di mulo", mbid = "80e68d99-a0d0-48c4-8071-b2129702e24e" },
+  { disc = 3, n = 3, title = "Il pumminale", mbid = "06002ac2-e9cf-4d75-a800-5569cd564da4" },
+  { disc = 3, n = 4, title = "Le creature della Cupa", mbid = "5265cfe2-cadf-472b-b61a-26ef299147d0" },
+  { disc = 3, n = 5, title = "La notte di San Giovanni", mbid = "f94659c6-abc6-4fc3-ab1d-e5603f424cc8" },
+  { disc = 3, n = 6, title = "L'angelo della luce", mbid = "24797af7-8fa8-4f88-b554-cf3ce69c47a1" },
+  { disc = 4, n = 1, title = "Componidori", mbid = "cd8e4d2d-2ca7-49d0-9edb-8ffe3a325b95" },
+  { disc = 4, n = 2, title = "Il bene mio", mbid = "03fad972-c815-411c-bfac-d498b91869ef" },
+  { disc = 4, n = 3, title = "Maddalena la castellana", mbid = "a9f321f9-0be0-4d8e-b2c6-91932212a83e" },
+  { disc = 4, n = 4, title = "Lo sposalizio di Maloservizio", mbid = "ab1ed762-1d93-4021-922b-8ec276b5dd64" },
+  { disc = 4, n = 5, title = "Il lutto della sposa", mbid = "696dd962-6b95-46de-904f-6d5f32db4bc7" },
+  { disc = 4, n = 6, title = "Il treno", mbid = "3b0eb6fe-63b4-42ed-bd39-fa60145bb365" },
+]
+
+[[release]]
+mbid = "f511837d-dee5-4736-81e4-a1b981dbf3df"
+title = "Il povero Cristo"
+type = "single"
+date = "2019-04-17"
+tracks = [
+  { n = 1, title = "Il povero Cristo", mbid = "a5e2fbb5-d986-43e1-917f-07dbe31123e9" },
+]
+
+[[release]]
+mbid = "3b096ce4-2ea4-4501-be54-d235212ac171"
+title = "Ballate per uomini e bestie"
+type = "album"
+date = "2019-05-17"
+tracks = [
+  { n = 1, title = "Uro", mbid = "63981780-c535-4d26-a4c8-40977c181ea2" },
+  { n = 2, title = "Il povero Cristo", mbid = "81f157f0-50d5-4899-bbc9-d44debf9260c" },
+  { n = 3, title = "La peste", mbid = "a49258fc-759b-4ecf-a68e-87e35c069027" },
+  { n = 4, title = "Danza macabra", mbid = "67d4ad63-9b08-4177-af90-28716d94a95d" },
+  { n = 5, title = "Il testamento del porco", mbid = "0a03846b-f6e6-44ff-ba18-a13ff4f8eaf0" },
+  { n = 6, title = "Ballata del carcere di Reading", mbid = "bad5e4ea-c218-4a53-a215-bf35213929c0" },
+  { n = 7, title = "Nuove tentazioni di Sant'Antonio", mbid = "8b8e86e7-27ce-4467-832e-21ebe9bb601a" },
+  { n = 8, title = "La belle dame sans merci", mbid = "45575ab7-657f-4fd6-aab3-f61c49c04eac" },
+  { n = 9, title = "Perfetta letizia", mbid = "10a70c7c-d161-4a13-b17e-c59273725c78" },
+  { n = 10, title = "I musicanti di Brema", mbid = "6d83915d-38a0-4c8f-8aa0-4af88fe83fdc" },
+  { n = 11, title = "Le loup garou", mbid = "da3f7018-de25-42ce-b011-ffce308b5733" },
+  { n = 12, title = "La giraffa di Imola", mbid = "e828d60a-4246-485f-92ab-5fe8c34ff2f0" },
+  { n = 13, title = "Di città in città (... e pora l'orso)", mbid = "b5dac610-c0d6-4c0a-a855-1dd41cbe96d6" },
+  { n = 14, title = "La lumaca", mbid = "86671baf-0285-4e0f-96a1-4b6c40c494d7" },
+]
+
+[[release]]
+mbid = "cab0eeb5-36b7-48c8-bc00-019d3072615d"
+title = "+Peste"
+type = "single"
+date = "2020-01-17"
+tracks = [
+  { n = 1, title = "+Peste", mbid = "9988a44c-f533-4529-a753-c3521edab52b" },
+]
+
+[[release]]
+mbid = "d8ec45e5-8bed-492f-b001-b1c1233751f8"
+title = "Bestiario d'amore"
+type = "ep"
+date = "2020-02-14"
+tracks = [
+  { n = 1, title = "Bestiis opertūra", mbid = "4923b9c6-6cb5-46ea-94e6-0e4f5abe1f51" },
+  { n = 2, title = "Bestiario d'amore", mbid = "d91b12c7-1b35-46cc-8f88-436cf8092859" },
+  { n = 3, title = "La lodoletta", mbid = "ebed68d7-8e21-464b-b699-e881b5927df3" },
+  { n = 4, title = "Canto all'alba", mbid = "8fd8a807-d7b8-40da-b948-e7f1a4467d0f" },
+]
+
+[[release]]
+mbid = "88bf2b4f-4b04-4dc8-a6e5-bfd3006814ff"
+title = "La crociata dei bambini"
+type = "single"
+date = "2023-02-24"
+tracks = [
+  { n = 1, title = "La crociata dei bambini", mbid = "750d34d9-53ec-4950-8eca-4bce091df13d" },
+]
+
+[[release]]
+mbid = "8a598a26-dd63-4593-8cc5-3bdc82e24bb6"
+title = "La parte del torto"
+type = "single"
+date = "2023-03-24"
+tracks = [
+  { n = 1, title = "La parte del torto", mbid = "d305f539-923c-44a5-bab0-9a5902f8d1a5" },
+]
+
+[[release]]
+mbid = "48445d1b-5b1a-4f0b-890f-7be9bb24c9ae"
+title = "Tredici canzoni urgenti"
+type = "album"
+date = "2023-04-21"
+tracks = [
+  { n = 1, title = "Il bene rifugio", mbid = "0d08fbe4-28c9-4b44-b787-05fbf84fab46" },
+  { n = 2, title = "All You Can Eat", mbid = "ae1b0075-cdc9-4499-bffd-d48215ae7af2" },
+  { n = 3, title = "La parte del torto", mbid = "f98b8f57-e266-434f-abb1-fab0b19c801c" },
+  { n = 4, title = "Staffette in bicicletta", mbid = "491ad3d2-2c30-4473-b316-af7c0d73e428" },
+  { n = 5, title = "Sul divano occidentale", mbid = "e4cd8954-dfa9-47bd-b9e3-bda1cbe4ed6c" },
+  { n = 6, title = "Gloria all'archibugio", mbid = "757e00aa-7904-4cbd-8000-eaa2886d9772" },
+  { n = 7, title = "Ariosto governatore", mbid = "6498e73a-d4bb-45ea-b858-4619dacf3024" },
+  { n = 8, title = "La crociata dei bambini", mbid = "7b2712db-48b3-417f-ad5c-42e405145418" },
+  { n = 9, title = "La cattiva educazione", mbid = "d0892f5a-1a3a-4fdc-b2ce-fccf22e18cff" },
+  { n = 10, title = "Minorità", mbid = "007379c5-a708-4964-8316-d6f7c373e925" },
+  { n = 11, title = "Cha cha chaf della pozzanghera", mbid = "2052960e-165f-424a-8b61-452a3d0184fe" },
+  { n = 12, title = "Il tempo dei regali", mbid = "08c0cdc4-643c-4b41-91f1-62a1b5d7fb91" },
+  { n = 13, title = "Con i tasti che ci abbiamo", mbid = "a79a6871-8ebd-4ef6-b12b-f777279d672c" },
+]
+
+[[release]]
+mbid = "efd603ce-85c5-4994-90b6-34e5372305ee"
+title = "Voodoo Mambo"
+type = "single"
+date = "2024-10-04"
+spotify = "24SyUDdw9q7KO23mjzLRTY"
+tracks = [
+  { n = 1, title = "Voodoo Mambo", mbid = "1ba0938c-5b2d-40f1-b8a6-176df3e738ec" },
+]
+
+[[release]]
+mbid = "717cf673-8b5a-4057-a2a3-a6d50280b475"
+title = "Sciusten feste n.1965"
+type = "album"
+date = "2024-10-20"
+spotify = "4MUBiiEmq0Bs215NyNnh1e"
+tracks = [
+  { n = 1, title = "Sopporta con me (Abide With Me)", mbid = "adccecfa-16d4-4d65-ae09-0c47b68bd1bb" },
+  { n = 2, title = "Sciusten feste n.1965", mbid = "8ccb52e4-b685-4fe4-82eb-cde57b7841e2" },
+  { n = 3, title = "Voodoo Mambo", mbid = "1ba0938c-5b2d-40f1-b8a6-176df3e738ec" },
+  { n = 4, title = "Bianco Natale (White Christmas)", mbid = "b9fcf86f-5223-4c9f-9817-1eaa5d97ef8e" },
+  { n = 5, title = "Campanelle (Jingle Bells)", mbid = "166d713e-da1d-4428-b40a-c652f60a6b39" },
+  { n = 6, title = "Charlie (Christmas Card From a Hooker in Minneapolis)", mbid = "d6ad109a-bd8e-4635-840a-1d9543b2e996" },
+  { n = 7, title = "Agita (Aggita)", mbid = "9b22ed87-7ddc-4440-9c23-baeed520a9e9" },
+  { n = 8, title = "Danza della Fata Confetto", mbid = "009bbf3a-479c-4f54-98db-2e2f34b2b884" },
+  { n = 9, title = "Conforto e gioia (God Rest You Merry Gentlemen)", mbid = "aec2138a-e75c-4165-9c9b-2d1dc4fe449d" },
+  { n = 10, title = "Santa Claus Is Coming to Town (Santa Claus è arrivato in città)", mbid = "21ea302f-7fb5-4ab2-9544-ceefcd181055" },
+  { n = 11, title = "Voglio essere come te (I wanna be like you)", mbid = "26e9a5c2-2467-41d7-af32-d5134c495ee6" },
+  { n = 12, title = "Come e più di te", mbid = "86bf5aab-c6e2-4cb0-940e-b8a3301b0272" },
+  { n = 13, title = "Il friscaletto (Eh cumpari)", mbid = "207bc813-0be1-4dba-90e8-4e5ab70600eb" },
+  { n = 14, title = "Dankeschoen (Grazieschoen)", mbid = "10190d8d-edb9-462a-b2b0-a04cd225cb4c" },
+  { n = 15, title = "Il guastafeste", mbid = "2595d77d-034c-4f0b-957c-101699f6a511" },
+]
+
+[[release]]
+mbid = "e5ec9831-b609-4374-9193-c1da20e89f49"
+title = "Tutti bodyguard"
+type = "single"
+date = "2026-08-21"
+spotify = "1lwZBtuwYDI33UKz8V17Vz"
+tracks = [
+  { n = 1, title = "Tutti bodyguard", mbid = "d23c9021-9414-47ca-b6b2-39d07439cb87" },
+]
+
+[[release]]
+mbid = "e06f8710-b00d-4122-9d7d-0d6c15e60329"
+title = "Oltre il bosco"
+type = "single"
+date = "2026-10-08"
+spotify = "0PUNfRIUq6iCvdWdXebGXk"
+tracks = [
+  { n = 1, title = "Oltre il bosco", mbid = "11e3824d-d533-484e-b9c7-a28831287a2b" },
+]

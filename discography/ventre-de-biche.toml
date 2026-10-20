@@ -1,0 +1,185 @@
+format = 1
+
+[[release]]
+mbid = "b53c3ec0-98c8-4380-a8af-edc1087e3958"
+title = "Une Sale Soiree"
+type = "album"
+date = "2012"
+tracks = [
+  { n = 1, title = "(Tu M'as Vendu Au) Marché Noir", mbid = "d6f7bcd4-b229-4eb4-86c1-74603252ba1f" },
+  { n = 2, title = "Le Diable Marche Avec Nous", mbid = "ddb2d166-fdc7-4811-9c12-372069703635" },
+  { n = 3, title = "Dernier Réveil", mbid = "c6328f27-51d7-4e38-9a2c-b94173c24c3e" },
+  { n = 4, title = "Les Yeux Le Couteau", mbid = "97bfbed9-65ae-43f8-8524-65447408e297" },
+  { n = 5, title = "Le Dub Marche Avec Nous", mbid = "69c9ee03-934b-4363-88ad-a1741a8d0e24" },
+]
+
+[[release]]
+mbid = "3f75d643-0346-42f2-b7ea-102fa4e6e001"
+title = "La vie est un long fleuve de merde"
+type = "album"
+date = "2012-06-20"
+tracks = [
+  { n = 1, title = "California Love on the Beach", mbid = "b8db5fb1-0101-4347-b526-22f72e725549" },
+  { n = 2, title = "Marché noir", mbid = "a2541857-a3a5-4aaf-a12e-9a109015041e" },
+  { n = 3, title = "Pauvre con", mbid = "6cfe2029-a194-4c58-9bcf-97c2a53e3c68" },
+  { n = 4, title = "La vie est un long fleuve de merde", mbid = "7db61454-3c88-48ff-9c04-8af3b9a31d8c" },
+  { n = 5, title = "Dernier réveil", mbid = "5cbc833e-a25c-4b64-8bb1-14f3716b1756" },
+  { n = 6, title = "Plus rien à faire", mbid = "23be5a4c-af51-4e21-b65e-7a6a4d5b7402" },
+  { n = 7, title = "Un bon vigile", mbid = "fa97466d-f9b2-40c9-8a31-b585cc721ddc" },
+  { n = 8, title = "Le diable marche avec nous", mbid = "a044d200-a77f-42c6-a161-f01dd96ce5b2" },
+  { n = 9, title = "Les yeux le couteau", mbid = "aae41f85-d5bc-4fee-968f-318b0a3ab0f0" },
+  { n = 10, title = "Le mur", mbid = "f6a84769-113d-4cb5-ae73-a8194989d5b5" },
+  { n = 11, title = "Viens mourir", mbid = "4398cf3c-d3f2-455f-b72b-19a574452c56" },
+  { n = 12, title = "Le tcherno", mbid = "b4c57809-e933-4465-ba0b-55dc6bc429d3" },
+  { n = 13, title = "Le dub marche avec nous", mbid = "0b9487cb-1f41-4319-a888-69169d9f8c29" },
+]
+
+[[release]]
+mbid = "ac548fbe-7dd6-47bf-893f-bca7fd001a90"
+title = "SPLIT TAPE"
+type = "album"
+date = "2013-05-07"
+tracks = [
+  { n = 1, title = "tour de garde", mbid = "a2a78507-227c-43e5-97ae-cf12e9d1369f" },
+  { n = 2, title = "chose sauvage", mbid = "ddc1d902-1b63-4ef3-ba0e-f882a7caa5cd" },
+  { n = 3, title = "la musique", mbid = "36e2273e-070a-4e2c-b9f9-d7c7e48f5363" },
+  { n = 4, title = "mal à la tête", mbid = "b943cb8d-a830-4327-85ee-6d137ea8d4a3" },
+  { n = 5, title = "maintenant tout craint", mbid = "dda023a2-09ec-4589-8ab2-0685ca0f44ce" },
+  { n = 6, title = "murs de briques", mbid = "4d19c990-8c88-404c-a0ea-e1a876bed137" },
+  { n = 7, title = "perfect devotion (zadcocar)", mbid = "4dd7a1f0-841d-4189-af2e-29eddf8f7e28" },
+  { n = 8, title = "toujours plus bas", mbid = "5950f16f-4c7f-4050-b403-cd484acc608a" },
+  { n = 9, title = "immobile", mbid = "efe9f258-5f95-40cd-aef4-617a575213a4" },
+  { n = 10, title = "plus rien à faire", mbid = "53f1a29e-fbd5-4dc5-beef-50197e647997" },
+  { n = 11, title = "intro", mbid = "97453ad9-c286-4f1b-9ba0-a537ab599681" },
+  { n = 12, title = "la pire denrée du monde", mbid = "50d2acc8-d925-44dc-a1a2-2873b0da88f1" },
+  { n = 13, title = "night scratches", mbid = "3cdf406b-6f3d-492d-84e6-a64b4a526432" },
+  { n = 14, title = "le tcherno (ventre de biche)", mbid = "2411bd8c-ec2c-489d-99f2-93bac16c4b65" },
+  { n = 15, title = "angstroms", mbid = "043edcd5-bd90-41a4-8355-0812c7a5126a" },
+  { n = 16, title = "perfect devotion", mbid = "8048420c-49b1-4a09-ab02-8f86c7e31e8c" },
+  { n = 17, title = "betax sonax", mbid = "e7a803e4-f538-45f2-9e62-f43249e0d466" },
+  { n = 18, title = "benett", mbid = "526a8802-8ac9-49c1-902e-86579c837ffb" },
+]
+
+[[release]]
+mbid = "47760ca6-c506-4ab6-ae3a-b92cd842a79c"
+title = "Viens mourir"
+type = "album"
+date = "2015-03-18"
+tracks = [
+  { n = 1, title = "Chose sauvage", mbid = "70e122e6-2277-4703-a69b-2af88bee5ac2" },
+  { n = 2, title = "Un bon vigile", mbid = "b5fac9c3-423e-4bd9-a50c-aec3ca7c537b" },
+  { n = 3, title = "Mal à la tête", mbid = "c2e2a2a4-7fbb-4b84-bd72-2f498c9b2be8" },
+  { n = 4, title = "Ressers moi", mbid = "bcacd703-5653-4cd0-899a-b66f39aa1741" },
+  { n = 5, title = "Dernier réveil", mbid = "5cbc833e-a25c-4b64-8bb1-14f3716b1756" },
+  { n = 6, title = "La vie est un long fleuve de merde", mbid = "cfa6094a-b12b-46db-b56d-2b6172e36e6a" },
+  { n = 7, title = "Immobile", mbid = "214fe4fc-5a07-4850-8c09-d1c884e10814" },
+  { n = 8, title = "Les gens comme toi", mbid = "d9103ef8-4b84-4948-9ace-215a434a6091" },
+  { n = 9, title = "Amour sale", mbid = "fdf3369f-1491-4f93-9233-e56b82b693a4" },
+  { n = 10, title = "Marché noir", mbid = "41fd625c-9a84-497a-a3b6-4b72541e5ae7" },
+  { n = 11, title = "Les murs de brique", mbid = "ac06d73d-c0d0-435c-b552-af48c35bd171" },
+  { n = 12, title = "Bête malade", mbid = "3c5ee5fc-afd9-48c5-9133-f72ccd7c5c1b" },
+  { n = 13, title = "Plus rien à faire", mbid = "c2c7e041-3c7f-4822-88d4-37358f7005fb" },
+]
+
+[[release]]
+mbid = "88bec90f-ca33-4c49-b326-0ad78bbaaef0"
+title = "Dalle 7 alle 2"
+type = "album"
+date = "2016-03-14"
+tracks = [
+  { n = 1, title = "Camera vuota", mbid = "85f0ab69-6dd7-4819-942e-bdb07c5b8381" },
+  { n = 2, title = "La sete", mbid = "eb71f203-caff-4ac0-9356-f27fb4f1f6fb" },
+  { n = 3, title = "Rompicapo", mbid = "7c1efda9-bc37-437f-9bd1-19aa875c10f8" },
+  { n = 4, title = "Postumi della sbornia", mbid = "ef9e3144-b88b-42c9-9890-4d54f8576430" },
+  { n = 5, title = "Adesso dammi la mano", mbid = "e0895f1c-d938-4620-b7c6-7947e70fc63e" },
+  { n = 6, title = "Nessun ricordo", mbid = "51796d3f-6b2c-43f4-97f3-bcb1132c86d7" },
+  { n = 7, title = "Avviciniamoci", mbid = "eecd457c-0346-4b01-a4b9-58aa7c316443" },
+  { n = 8, title = "Solo con te tutta la notte", mbid = "37a8a371-87ef-472d-af34-4bf8355c677a" },
+]
+
+[[release]]
+mbid = "592e4162-8d43-492c-8f9f-853a375c904d"
+title = "J'ai embrasé un flic"
+type = "album"
+date = "2016-08-11"
+tracks = [
+  { n = 1, title = "Camera vuota", mbid = "b56782f4-e07a-497a-8077-aae9a6e82562" },
+  { n = 2, title = "La sete", mbid = "ec816029-30be-456b-9d38-f85d75148c30" },
+  { n = 3, title = "Rompicapo", mbid = "1e7d37fe-147e-4336-a531-7702106df84b" },
+  { n = 4, title = "Postumi della sbornia", mbid = "bce12183-72dc-409f-adf4-ba37d77926a5" },
+  { n = 5, title = "Adesso dammi la mano", mbid = "0e4f5f67-0bb4-4c95-8197-89603e41e41d" },
+  { n = 6, title = "Nessun Ricordo", mbid = "e1b3e76b-34ee-4855-be3e-098e2790b1c1" },
+  { n = 7, title = "Avviciniamoci", mbid = "c5dcdf90-09f5-45d3-991d-12747ee25bc6" },
+  { n = 8, title = "Solo con te tutta la notte", mbid = "d8bf7ab4-cfcb-4432-8afe-3303fc69e8fa" },
+  { n = 9, title = "Contro la legge", mbid = "2f9f60b4-57eb-4af3-9a36-622b8f6f3c62" },
+  { n = 10, title = "La mattina", mbid = "f87b545e-9166-428b-b6bf-6e0a8187f803" },
+  { n = 11, title = "Vino", mbid = "cca3010e-ebeb-4c04-ac21-eb31ffb48b2e" },
+  { n = 12, title = "Ass kebap", mbid = "8f1f5a03-27b3-4f9f-8872-9fa6aab37145" },
+  { n = 13, title = "Je t'aime autant que la drogue", mbid = "fc911e42-eb28-4396-839a-a8b9aa2c7b09" },
+  { n = 14, title = "La mort en vue subjective", mbid = "a0401dc0-8eaa-4a50-927e-689cbb025175" },
+  { n = 15, title = "J'ecoute de la oï", mbid = "ec71c0d0-bd1f-48da-a429-aa620abc3e64" },
+  { n = 16, title = "1940", mbid = "9395374b-d8d7-4b96-91dc-7c623863bc4c" },
+]
+
+[[release]]
+mbid = "42934c0e-5ee8-4fce-8220-197fb0f6f68d"
+title = "333, Mi Homme, Mi Bête"
+type = "album"
+date = "2017-10-13"
+tracks = [
+  { n = 1, title = "Parmi Les Chiens", mbid = "d3f59d52-514b-4726-be6c-9d922aedfc61" },
+  { n = 2, title = "Flics à Ton Rythme", mbid = "cf7da9ba-8e21-471e-93e6-7efb0850740b" },
+  { n = 3, title = "Espace Schengen", mbid = "75d0ae2d-cb63-4ebb-8859-df0a8208ad94" },
+  { n = 4, title = "Les Choses Qui Arrivent", mbid = "1154834f-b9b7-4b58-abda-2d707bbc22b4" },
+  { n = 5, title = "Je suis Liquide", mbid = "82e9a3b4-1b68-4d6f-9450-f231bce295a6" },
+  { n = 6, title = "Vous ai Compris", mbid = "3818df68-be44-4b21-b734-baf11c51d798" },
+  { n = 7, title = "Kevin", mbid = "e9ba7ec3-824a-4b29-85a8-9eeeb20e501a" },
+  { n = 8, title = "L'or Des Cons", mbid = "1e4d9e88-79a5-49d4-b983-7f74154ff7b5" },
+  { n = 9, title = "Dans Ton Lit", mbid = "0791a049-5606-43b3-abf6-d359ce9f22d9" },
+  { n = 10, title = "Vivre Mort", mbid = "79423154-a9be-439c-9d63-494f5484ff7b" },
+  { n = 11, title = "Sous Mes Yeux Ou Dans Ma Tête", mbid = "c0a72bca-729c-4583-a251-704a832b0569" },
+  { n = 12, title = "Plaine Des Bouchers", mbid = "67a0412a-d54b-4df3-9b39-f1c8f37e2d7f" },
+]
+
+[[release]]
+mbid = "fe5a397a-48d3-42db-b393-a5bf62c7d174"
+title = "III"
+type = "album"
+date = "2019-11-29"
+tracks = [
+  { n = 1, title = "Où je cache les choses", mbid = "b6ee1add-96ae-4df8-a77a-68db126f5c1c" },
+  { n = 2, title = "Plan de carrière", mbid = "f50b3577-d33a-42fe-b498-b0db7333ddfb" },
+  { n = 3, title = "Sous les réverbères", mbid = "6a8dd0a6-c262-4417-8c78-08d88a567316" },
+  { n = 4, title = "Copkiller - Ice T", mbid = "86cc7229-bbe0-43c4-8e26-9cf67e572e15" },
+  { n = 5, title = "Interface trottoir", mbid = "90995a80-913f-46bb-acea-993810e23a0b" },
+  { n = 6, title = "La Fête", mbid = "551be83a-5308-466a-9f82-d92e7ee53d87" },
+  { n = 7, title = "Liquide incapacitant", mbid = "320d2645-0712-4f69-bfaf-25a1f3e9af54" },
+  { n = 8, title = "Mille ans de gardav'", mbid = "f7934e6a-4322-4b9c-a019-3178cd33106d" },
+  { n = 9, title = "Oh keskia, bouge", mbid = "6edc8bd7-7873-4385-88fb-0d6a9687ab38" },
+  { n = 10, title = "J'évite ton regard", mbid = "af3e8a46-3a97-4443-a90f-6dd5eb8e9a60" },
+  { n = 11, title = "Saint-pierre", mbid = "71cebbdc-ca9e-413f-8baa-fd67d2c6c051" },
+  { n = 12, title = "Topolino", mbid = "b49ebc36-315f-47fa-91cd-c237c9219628" },
+  { n = 13, title = "L'air est glacé", mbid = "2d1f6ed8-c7e6-46ad-abd4-12d22a4437ce" },
+]
+
+[[release]]
+mbid = "7a8a75ef-c570-4f38-b630-e943c8758289"
+title = "Vaniel"
+type = "album"
+date = "2023-06-02"
+tracks = [
+  { n = 1, title = "Introduction", mbid = "0c180bb6-9bb9-44c5-a2be-aa594bad9790" },
+  { n = 2, title = "Je suis lent", mbid = "8e788041-a92e-4fde-abf4-149fc7b6dd77" },
+  { n = 3, title = "L'errance de vaniel", mbid = "24926b6a-63e1-48c3-be7b-82d7e012cc4e" },
+  { n = 4, title = "Les rues de la street", mbid = "455f1d3d-56f7-48e1-a288-359fd10a410c" },
+  { n = 5, title = "Double filature", mbid = "57a32bd4-e624-4330-a14d-b41c722647e1" },
+  { n = 6, title = "Bitume mouillé", mbid = "63c4f6f3-1c8e-4e42-ad0a-258139f4b8e9" },
+  { n = 7, title = "Logiciel mental", mbid = "ceb1417e-9052-4e63-bc53-5960929783b4" },
+  { n = 8, title = "Cane perso", mbid = "2e43ce68-4d39-4b6d-9a5d-9e338d580050" },
+  { n = 9, title = "Interlude (piano Cuerens)", mbid = "22c88489-0605-406d-8354-3189f27bf821" },
+  { n = 10, title = "Armure en shit", mbid = "211ef4ec-af52-49fb-8ef0-07bf2bdf8a92" },
+  { n = 11, title = "Bourreau à la place du mort", mbid = "59e85187-0a64-4073-bcd5-144e3f825c47" },
+  { n = 12, title = "Du sang sur les mains", mbid = "8dcbef41-0e99-4ed6-8455-3700b40199d1" },
+  { n = 13, title = "Générique", mbid = "47309a7a-6da0-4ac3-b9e1-d16661c7439e" },
+  { n = 14, title = "Morceau cassé", mbid = "52a69f9e-45ca-490f-a03d-a110da350fda" },
+]

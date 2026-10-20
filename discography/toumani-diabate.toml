@@ -1,0 +1,367 @@
+format = 1
+artists = [
+  "b96ba7e7-d882-409a-9825-ed3d6dbb437d",  # Toumani Diabaté
+  "ca8da504-b281-478b-839c-52f49d85dbf2",  # Toumani Diabaté's Symmetric Orchestra
+]
+
+[[release]]
+mbid = "2cb9b638-c7da-3896-92bc-5a1b4760a2eb"
+title = "Kaira"
+type = "album"
+date = "1988"
+tracks = [
+  { n = 1, title = "Alla L'Aa Ke", mbid = "7c0cb4c7-05d9-49ca-b9d6-7e86f524ce62" },
+  { n = 2, title = "Jarabi", mbid = "be4f8509-d688-4e48-baf7-f85ba777a41b" },
+  { n = 3, title = "Kaira", mbid = "12fabb16-1255-41ce-b6fa-a4c95d9b6a09" },
+  { n = 4, title = "Konkoba", mbid = "91c51814-9cf1-43cf-bda0-5a569659c14a" },
+  { n = 5, title = "Tubaka", mbid = "9c8773f6-c77f-4c03-abc5-c92446afd8c8" },
+]
+
+[[release]]
+mbid = "229156df-ee1e-3d0e-8804-08405dbc23bc"
+title = "Songhai"
+type = "album"
+date = "1988"
+tracks = [
+  { n = 1, title = "Jarabi", mbid = "6d2ca98d-0e25-4b0a-bc3f-bbe2e0ed2e74" },
+  { n = 2, title = "Mani Mani Kuru", mbid = "7c2e3791-90c3-4302-8cf1-67480721e619" },
+  { n = 3, title = "Caramelo", mbid = "ff5be281-de46-4661-babb-8f63bcbc244c" },
+  { n = 4, title = "A Toumani", mbid = "d0ddca1c-07ec-444d-b4b3-c8d9fd7ae012" },
+  { n = 5, title = "Vente Pa Madrid", mbid = "bac5adc3-4c04-4979-a7b5-98021c31ffcc" },
+  { n = 6, title = "Africa", mbid = "554e1e8b-6b63-4e09-98fc-8a008fb962d3" },
+  { n = 7, title = "A Mi Tia Marina", mbid = "c527adf1-c7b9-4116-8231-5b01cd1ac9a5" },
+  { n = 8, title = "Ne Ne Koitaa", mbid = "e10f82e0-5e18-454c-876c-e52e2f3e423c" },
+]
+
+[[release]]
+mbid = "a7ffb3dd-cadc-4874-804a-90ec117f4be2"
+title = "Shake The Whole World"
+type = "album"
+date = "1992-06-21"
+tracks = [
+  { n = 1, title = "Jarabi", mbid = "f3a4e7a5-130b-4399-8be7-92f50b6ead2a" },
+  { n = 2, title = "Kaira", mbid = "9c1bdcb6-7cd1-4887-a204-0b59c4d92786" },
+  { n = 3, title = "Sidiki", mbid = "331c317d-ddd9-459a-ba5a-c34b160f8582" },
+  { n = 4, title = "Gypsy Dance", mbid = "68f2b9b7-182a-4357-a8a2-175ff229ca70" },
+  { n = 5, title = "Shake The Whole World", mbid = "e62a5996-6405-4fb3-b3ff-af2a38bb67f5" },
+  { n = 6, title = "N'Diati", mbid = "6840e183-b243-4b7d-9b94-344ea1d25e6e" },
+  { n = 7, title = "Across The Wind", mbid = "f3c43396-1924-47b6-a479-c1256ff13f62" },
+  { n = 8, title = "Moon", mbid = "a15d3e1f-057a-4504-aaa1-3ae5d17d19cd" },
+]
+
+[[release]]
+mbid = "f3e8ab3e-2521-3294-a1dc-2869b4c0ef03"
+title = "Songhai 2"
+type = "album"
+date = "1994"
+tracks = [
+  { n = 1, title = "Sute monebo", mbid = "a674a349-e153-4cd3-8322-ae21002fe12d" },
+  { n = 2, title = "Niani", mbid = "7329f4b4-f268-4198-87c7-2b03149368b2" },
+  { n = 3, title = "Pozo del deseo", mbid = "f4518839-5369-467f-b54e-7e63e0307dac" },
+  { n = 4, title = "Monte de los suspiros", mbid = "a0af5750-ebc5-4c6b-8ca3-f1b4694f51cd" },
+  { n = 5, title = "Djamana djana", mbid = "87ab9956-d2b6-43ab-94a5-fa1e364cda78" },
+  { n = 6, title = "De Jerez a Mali", mbid = "30a9d55f-cecc-4208-93b1-98e6f39365da" },
+  { n = 7, title = "Ndia", mbid = "65ecf452-65df-4a8f-94d0-8137d359123d" },
+  { n = 8, title = "De la noche a la mañana", mbid = "f302c000-99fe-4acb-b644-779aceceade5" },
+  { n = 9, title = "Mali sajio", mbid = "98398505-dab3-4df3-b14a-c9238c1165ed" },
+  { n = 10, title = "Pozo del deseo (instrumental)", mbid = "9b06b0fc-0346-491a-bc80-300b283fd0e7" },
+]
+
+[[release]]
+mbid = "7c9943f8-ad2b-366f-ac4b-e5a878140c7c"
+title = "Djelika"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "Djelika", mbid = "fc94a5b6-51a2-41ec-bdc3-9522704f3948" },
+  { n = 2, title = "Mankoman Djan", mbid = "1e41d307-64a7-42a8-bd01-c7bc21b5cdef" },
+  { n = 3, title = "Cheick Oumar Bah", mbid = "14a86d3f-bcfd-4826-befd-523d8c9eac5e" },
+  { n = 4, title = "Marielle", mbid = "43419d04-97ec-40b7-a06c-56fee58fdb65" },
+  { n = 5, title = "Kandjoura", mbid = "7eb27a34-1572-433a-874b-0cb6d57bdce0" },
+  { n = 6, title = "Aminata Santoro", mbid = "e6fdb413-47e0-4e28-ac4e-30a384dd704c" },
+  { n = 7, title = "Tony Vander", mbid = "61c94924-bce1-4ef0-9dfc-9589765b7495" },
+  { n = 8, title = "Sankoun Djabi", mbid = "0242ac19-d168-4f4d-8196-97a0a544afdb" },
+]
+
+[[release]]
+mbid = "84ebd88b-650d-319c-a80c-71bb16f1df72"
+title = "Kulanjan"
+type = "album"
+date = "1999-08-03"
+tracks = [
+  { n = 1, title = "Queen Bee", mbid = "7487875a-bba3-4016-a06a-4cbc39b20d8a" },
+  { n = 2, title = "Tunkaranke", mbid = "867f545b-fb81-480d-a5ac-8834eb268c51" },
+  { n = 3, title = "Ol’ Georgie Buck", mbid = "5b75ee41-1844-4e27-b13b-19e0db213ea9" },
+  { n = 4, title = "Kulanjan", mbid = "0e9e7f98-e6e9-4737-bf7c-24dbefd700f6" },
+  { n = 5, title = "Fanta", mbid = "fd815661-47a1-4bf5-8622-30567ac3677e" },
+  { n = 6, title = "Guede Man Na", mbid = "82bc6799-1426-43fd-8911-901f45ef58d8" },
+  { n = 7, title = "Catfish Blues", mbid = "f636ab2b-5d9f-40dd-9056-6f5d6d0e4ade" },
+  { n = 8, title = "K’an Ben", mbid = "fea1e2bc-cc57-4c69-9537-fd4463482d38" },
+  { n = 9, title = "Take This Hammer", mbid = "dbc3d23a-2df8-46a4-9222-5001de77cbed" },
+  { n = 10, title = "Atlanta Kaira", mbid = "d293139c-c67a-4e9d-932f-fddd4578fc20" },
+  { n = 11, title = "Mississippi‐Mali Blues", mbid = "dbe9a9e0-d283-4364-94bd-015ed15b6c14" },
+  { n = 12, title = "Sahara", mbid = "30eaa976-4993-4677-b889-584310a12d27" },
+]
+
+[[release]]
+mbid = "215fe595-8218-31d7-9c00-26ddf61cf12f"
+title = "Mali Music"
+type = "album"
+date = "2002-04-15"
+spotify = "40ncJvz2FvF1Z4EvpE3vU9"
+tracks = [
+  { n = 1, title = "Spoons", mbid = "767abab8-f42d-4a00-a52a-0f4403f7a581" },
+  { n = 2, title = "Bamako City", mbid = "49e30c66-3d1e-41af-b3cb-85ff4fe62469" },
+  { n = 3, title = "Le Relax", mbid = "0bdbe16b-af9f-47d2-a5c9-0e4774a10836" },
+  { n = 4, title = "Nabintou Diakite", mbid = "f1e12698-b18d-4c90-bf29-4bdf218213c7" },
+  { n = 5, title = "Makelekele", mbid = "e664ab07-8b65-40c0-8e80-fa0a38914497" },
+  { n = 6, title = "The Djembe", mbid = "250ddca7-0724-43f6-9d7a-6247182c55e6" },
+  { n = 7, title = "Tennessee Hotel", mbid = "19ac50c2-aeca-4559-8efa-99ca31d51095" },
+  { n = 8, title = "Niger", mbid = "ea04ef73-a041-4848-b57c-08adc35fec3c" },
+  { n = 9, title = "4AM at Toumanis", mbid = "f0393dd4-e564-478b-8f3f-e74e882d778a" },
+  { n = 10, title = "Institut National Des Arts", mbid = "8e8d0748-137c-4090-93a9-8fbf1f982515" },
+  { n = 11, title = "Kela Village", mbid = "6a9dcdd6-c01e-4fca-ae3a-de03ccbebba1" },
+  { n = 12, title = "Griot Village", mbid = "31761ce9-2357-4440-a0c4-edec491b729a" },
+  { n = 13, title = "Le Hogon", mbid = "637c985e-379a-4d51-8935-55e44f9d2ce0" },
+  { n = 14, title = "Sunset Coming On", mbid = "f05df8c7-6ee7-4324-808c-c75cab714834" },
+  { n = 15, title = "Kokanko Sata Doumbia on River", mbid = "fa8eedfd-975f-42e3-a438-973d5eacb6a8" },
+  { n = 16, title = "Les Escrocs", mbid = "bf9fda17-671b-48e7-9302-e7c2f74ca391" },
+]
+
+[[release]]
+mbid = "49af366d-8492-33d2-beda-28df775461d0"
+title = "Malicool"
+type = "album"
+date = "2002-04-26"
+tracks = [
+  { n = 1, title = "Bamako", mbid = "4e90fc2b-68b2-450f-b309-55fc16f505e4" },
+  { n = 2, title = "Rosmani", mbid = "0419a7d8-0a6d-44b3-9352-93a8c974d1be" },
+  { n = 3, title = "Jackie-ing", mbid = "e95f077a-8f4a-4fe5-952a-8c8553032b1a" },
+  { n = 4, title = "All Through the Night", mbid = "fc23d477-4ebc-40ae-a448-978cb017f62c" },
+  { n = 5, title = "Hank", mbid = "be071b7d-2507-452b-ba41-301f6abbf16a" },
+  { n = 6, title = "Johanna", mbid = "8e3cf4b6-68bf-4fef-8481-4a94ce0bd8bb" },
+  { n = 7, title = "For Toumani", mbid = "3e505603-a652-49a2-95e5-b2deec6ed579" },
+  { n = 8, title = "Malicool", mbid = "f48006a8-da26-4261-8689-0c2d553b7304" },
+  { n = 9, title = "Sena et Mariam", mbid = "37453a07-d40a-429e-8a48-20535696a049" },
+  { n = 10, title = "Malijam", mbid = "34613618-433f-4c58-aeb7-43256b27cbe8" },
+]
+
+[[release]]
+mbid = "5b523d11-661c-3b73-8a54-dcbfcfdade3f"
+title = "In the Heart of the Moon"
+type = "album"
+date = "2005-06-27"
+tracks = [
+  { n = 1, title = "Debe", mbid = "1e83e80d-03d1-43d7-95dc-ba6c34511e90" },
+  { n = 2, title = "Kala", mbid = "c077af5f-2d1f-48aa-b132-e94b1be3393d" },
+  { n = 3, title = "Mamadou Boutiquier", mbid = "a0cb7494-4e4a-4060-8995-683778af0b53" },
+  { n = 4, title = "Monsieur le Maire de Niafunké", mbid = "f28f5457-5370-4a9c-80c9-3fda54a41d6b" },
+  { n = 5, title = "Kaira", mbid = "fd8a6071-d5dd-4ae7-9749-e4a1017c39b1" },
+  { n = 6, title = "Simbo", mbid = "4c60b32a-0c45-453f-8c7b-87d1efac47d4" },
+  { n = 7, title = "Ai Ga Bani", mbid = "73de0530-49a1-48a8-9c0f-9db0e524a3af" },
+  { n = 8, title = "Soumbou Ya Ya", mbid = "5c9fa729-b788-44bd-bc1e-beadb485fa8b" },
+  { n = 9, title = "Naweye Toro", mbid = "b219b09d-d1e5-4442-bbd7-6c0daa475844" },
+  { n = 10, title = "Kadi Kadi", mbid = "0a2c5d96-9547-436c-aec2-006bf43ff3b1" },
+  { n = 11, title = "Gomni", mbid = "df417e8d-ec2d-451b-9aea-367ef114326b" },
+  { n = 12, title = "Hawa Dolo", mbid = "d524cd0c-4661-4484-941f-ad554fdb6158" },
+]
+
+[[release]]
+mbid = "220f819c-55ed-393c-a76b-2ebe00918108"
+title = "Boulevard de l'indépendance"
+type = "album"
+date = "2006-03-27"
+spotify = "2RmcBRi8Fjt3MFgj3J5Zib"
+tracks = [
+  { n = 1, title = "Toumani", mbid = "7cb1d847-a903-4635-9b0a-224212979a42" },
+  { n = 2, title = "Boulevard de l'indépendance", mbid = "0e6fdc43-004c-41b6-b8a2-479f723d6554" },
+  { n = 3, title = "Ya fama", mbid = "69646ae9-0c2f-41f1-b818-f99ca4da4106" },
+  { n = 4, title = "Mali sadio", mbid = "7f62ffb6-649a-4a44-8090-74dad4864361" },
+  { n = 5, title = "Africa Challenge", mbid = "f07aef5a-be58-4e92-ae3a-91b8c2fc4ff7" },
+  { n = 6, title = "Wasso", mbid = "6f60c38d-7432-43a6-aae7-b969ac57085b" },
+  { n = 7, title = "Mamadou diaby", mbid = "1982316c-1953-4cdc-a763-8fab2cbf77c6" },
+  { n = 8, title = "Tapha niang", mbid = "f5ec0065-ca47-469d-a087-8c24b3a6339d" },
+  { n = 9, title = "Single", mbid = "67677add-0739-407e-b885-0de92940b93c" },
+]
+
+[[release]]
+mbid = "646d5738-7220-3969-a247-53dd070d1ca1"
+title = "The Mandé Variations"
+type = "album"
+date = "2008-02-25"
+tracks = [
+  { n = 1, title = "Si naani", mbid = "702b2877-fd5d-40c4-a467-fcd6417e7c39" },
+  { n = 2, title = "Elyne Road", mbid = "9f383ef3-f5cd-4226-a54a-1eca27e6e3ac" },
+  { n = 3, title = "Ali Farka Touré", mbid = "555934e1-b891-4586-8443-1f49f0bb6f31" },
+  { n = 4, title = "Kaounding Cissoko", mbid = "31976d7d-9d24-4a58-ab22-b6846f41174d" },
+  { n = 5, title = "Ismael Drame", mbid = "044178f1-d78e-4033-93e0-3846ad01db49" },
+  { n = 6, title = "Djourou Kara Nany", mbid = "137503e3-bd60-4c43-a561-f5e59c1a6e56" },
+  { n = 7, title = "El Nabiyouna", mbid = "a49ea5d3-d094-4d16-a94e-8f4cdd0e56d6" },
+  { n = 8, title = "Cantelowes", mbid = "b58da12b-3182-4afc-b5ff-764687cdf9a8" },
+]
+
+[[release]]
+mbid = "ccf65293-2e07-4188-934c-e4cf873c31b9"
+title = "Ali and Toumani"
+type = "album"
+date = "2010-02-22"
+tracks = [
+  { n = 1, title = "Ruby", mbid = "28e5692c-a226-472a-86b0-6cff42c23b07" },
+  { n = 2, title = "Sabu Yerkoy", mbid = "6d7e8fb3-36b8-4a1e-9e30-8ae83fd56bc0" },
+  { n = 3, title = "Be Mankan", mbid = "1f50d9fb-1b3c-4edd-8d4d-ee1de5502c53" },
+  { n = 4, title = "Doudou", mbid = "d63900e0-9aa6-47ff-8476-29cc081cedb7" },
+  { n = 5, title = "Warbé", mbid = "6c044918-3508-4026-8f81-fdbde493131c" },
+  { n = 6, title = "Samba Geladio", mbid = "4a5642fd-d7b8-4ba7-aaec-952c21123b07" },
+  { n = 7, title = "Sina Mory", mbid = "78d99d31-3859-4ce6-814d-f88e660b38a1" },
+  { n = 8, title = "56", mbid = "fbb8420f-8dc6-4083-b8d2-8c3c86ec5b4e" },
+  { n = 9, title = "Fantasy", mbid = "4da32150-b853-440f-84e9-59808b00d840" },
+  { n = 10, title = "Machengoidi", mbid = "7569f1b1-0e86-41f7-b6f2-80e30da28295" },
+  { n = 11, title = "Kala Djula", mbid = "79046379-bf85-471c-a875-a8fdd7072d56" },
+]
+
+[[release]]
+mbid = "12924604-757c-4646-9025-2cd4f1cc68f5"
+title = "A Curva da Cintura"
+type = "album"
+date = "2012-06-11"
+tracks = [
+  { n = 1, title = "Cê Não Vai Me Acompanhar", mbid = "102941a6-4fdf-4dc3-8e47-9d7e82426e5c" },
+  { n = 2, title = "A Curva da Cintura", mbid = "6b1a94ef-3ffa-48b0-b687-89f5b69c8ffd" },
+  { n = 3, title = "Grão de Chãos", mbid = "1b8c5469-a976-4dcf-bd50-a78126986624" },
+  { n = 4, title = "Kaira", mbid = "642fac97-ed91-45f1-9b2b-751e9cc054e0" },
+  { n = 5, title = "Ir, Mão", mbid = "c050ee4b-9539-4742-b1b2-f646dddedc34" },
+  { n = 6, title = "Se Você", mbid = "675a9a0c-2a08-4827-bd16-3b63e0146d4c" },
+  { n = 7, title = "Um Senhor", mbid = "4c5fed6f-f842-4d34-9cb8-f3e77263bc9d" },
+  { n = 8, title = "Cara", mbid = "cd9503ab-25e4-45c5-8e7b-f3452b30e40f" },
+  { n = 9, title = "Psiu", mbid = "f92b8288-e83e-498c-ac5f-16b355ecd68f" },
+  { n = 10, title = "Que Me Continua", mbid = "746d8c9f-68d3-4d31-9288-c7142eab2adc" },
+  { n = 11, title = "Neblina de Areia", mbid = "3fbec354-ef64-4dc9-b4c8-fe642eca89e7" },
+  { n = 12, title = "Muito Além", mbid = "edc542b3-f2f4-46bd-9c52-e219f5eb7b65" },
+  { n = 13, title = "Coração de Mãe", mbid = "e7a22052-72fe-48f7-a690-1d5d2bc648f1" },
+  { n = 14, title = "Meu Cabelo", mbid = "242d389d-b585-47da-a6a5-58a67c8204e1" },
+  { n = 15, title = "Bamako's Blues", mbid = "401e8f47-7745-4ca1-9a20-6172729a7f71" },
+]
+
+[[release]]
+mbid = "46da2fb5-5188-406e-b037-5803013671e0"
+title = "L'âme du Mali"
+type = "album"
+date = "2013"
+tracks = [
+  { n = 1, title = "L'âme du Mali, Pt. 1", mbid = "43bda39e-2fe1-4d84-baee-98bfc7554931" },
+  { n = 2, title = "L'âme du Mali, Pt. 2", mbid = "92ea5975-729f-4903-bca1-0129979e6f9c" },
+  { n = 3, title = "L'âme du Mali, Pt. 3", mbid = "e8fcfc78-5031-44ac-8f9e-b79393ce6c5b" },
+  { n = 4, title = "L'âme du Mali, Pt. 4", mbid = "df116b8e-3cc1-4d0f-a8d2-8c7683aa1b87" },
+]
+
+[[release]]
+mbid = "940aed29-6fbb-4a8a-bb3a-edba881dc3b3"
+title = "Toumani & Sidiki"
+type = "album"
+date = "2014-03-10"
+tracks = [
+  { n = 1, title = "Hamadoun Toure", mbid = "f0475d47-3fbd-4f0d-aa69-e00f8c8156b3" },
+  { n = 2, title = "Claudia & Salma", mbid = "37b06efc-8d59-447d-a72e-8242bf92a556" },
+  { n = 3, title = "Rachid Ouiguini", mbid = "24d76eb4-9586-42f3-a857-1a87a7d430bb" },
+  { n = 4, title = "Toguna Industries", mbid = "71dd0fbb-5d41-4446-9eba-cc1d3d99f480" },
+  { n = 5, title = "Lampedusa", mbid = "697c0747-0952-4fcd-a3a0-f05c3389bdb2" },
+  { n = 6, title = "Bagadaji Sirifoula", mbid = "44fea4f0-7c30-416b-be68-ad6d01e3c979" },
+  { n = 7, title = "Tijaniya", mbid = "7b1778a9-f352-4c8d-8d8f-3d8ddee36b4b" },
+  { n = 8, title = "Dr. Cheikh Modibo Diarra", mbid = "f87c0388-5430-4a66-ba77-ba0399653f84" },
+  { n = 9, title = "A. C. I. 2000 Diaby", mbid = "74ca27d2-a728-4c5f-8f40-f3ff10ea8fff" },
+  { n = 10, title = "Bansang", mbid = "adc702d7-1828-4e5f-8a3d-706dcb82e489" },
+]
+
+[[release]]
+mbid = "03773c77-dff2-42e3-a985-dc5c0b190b1a"
+title = "Toumani & Sidiki EP"
+type = "ep"
+date = "2014-10-17"
+tracks = [
+  { n = 1, title = "Slimou", mbid = "4838354d-ae91-458e-9cf8-eaebd2d3d637" },
+  { n = 2, title = "Abdu Njai", mbid = "e5606c6c-f639-4ea7-b4d9-8dce6e55ba72" },
+  { n = 3, title = "Ni Ma Sori", mbid = "a9720c2e-05ba-49c7-9b8e-11af590464c6" },
+  { n = 4, title = "Bambugu Chi", mbid = "10d6f207-f83e-43e6-8321-82f25cc37710" },
+  { n = 5, title = "M'Barin", mbid = "49e3c15c-a1b3-4e25-9fe8-434d8f09a347" },
+]
+
+[[release]]
+mbid = "ebd384c0-a050-43cb-bb79-cb7f57fb527f"
+title = "The Ripple Effect"
+type = "album"
+date = "2020"
+tracks = [
+  { disc = 1, n = 1, title = "Bamako", mbid = "d6fff9de-3f99-429f-a728-3a486969d55d" },
+  { disc = 1, n = 2, title = "Nashville", mbid = "43b046c7-51f2-4ed4-8ad2-473d8868ae51" },
+  { disc = 1, n = 3, title = "Snug Harbor", mbid = "1dd6eae6-69f1-4462-988f-329d3995bf38" },
+  { disc = 1, n = 4, title = "Elyne Road", mbid = "7f5140b6-bde2-4e6b-a4a1-6efb387abf27" },
+  { disc = 1, n = 5, title = "Matitu/Buribalal", mbid = "d70d0b49-a74d-4842-884c-e275171d32ab" },
+  { disc = 2, n = 1, title = "Manchester", mbid = "ee684877-6209-4d44-8a49-02c834f674dd" },
+  { disc = 2, n = 2, title = "Throw Down Your Heart", mbid = "ce35aa94-30da-4f68-9d15-5f1c6b78ee3e" },
+  { disc = 2, n = 3, title = "Kauonding Sissoko", mbid = "5539c758-f706-45bf-b747-7ef133a323ce" },
+  { disc = 2, n = 4, title = "Katmandu", mbid = "a0fae72f-028e-4293-8a8d-755c85908431" },
+  { disc = 2, n = 5, title = "Dueling Banjos", mbid = "4b0791c2-0c53-4193-9d94-26b1ad7215c3" },
+]
+
+[[release]]
+mbid = "d1549475-541b-4ada-9abf-947b76a4016c"
+title = "Kôrôlén"
+type = "album"
+date = "2021-04-23"
+tracks = [
+  { n = 1, title = "Haïnamady Town", mbid = "5d0dceb4-ec5b-4989-8697-05394260a0ef" },
+  { n = 2, title = "Mama Souraka", mbid = "88e22827-c848-4ba8-9ae6-9ef9c36991b7" },
+  { n = 3, title = "Elyne Road", mbid = "6b98eb95-c115-4838-ae64-79f31dd2f1a0" },
+  { n = 4, title = "Cantelowes Dream", mbid = "03af754f-4f71-48a8-abe2-7f6fc03ede32" },
+  { n = 5, title = "Moon Kaira", mbid = "7f56b62e-25fd-486d-8309-a5487046a250" },
+  { n = 6, title = "Mamadou Kanda Keita", mbid = "f7e43e71-039b-4292-bb87-bdbde512ae04" },
+]
+
+[[release]]
+mbid = "c948c39d-43be-40c1-97be-47dd1d3b05b9"
+title = "Toumani, Family & Friends"
+type = "album"
+date = "2022-10-28"
+spotify = "04xsKrhSDIZbw4RXbdOXPW"
+tracks = [
+  { n = 1, title = "Mawla ya salim", mbid = "805237ac-7a09-4de8-a34e-f3d62676ac8e" },
+  { n = 2, title = "Les faux marabouts", mbid = "a21bf0de-ce9d-47dc-b021-202c5ac20cdb" },
+  { n = 3, title = "Bamako", mbid = "9f3e0a23-6a63-4472-81e5-39f07809cbed" },
+  { n = 4, title = "Edna", mbid = "f6ed7665-814e-49dc-b9e4-6f920324c19b" },
+  { n = 5, title = "Youssou Ndour", mbid = "735465cd-7aea-45db-8896-f69304ed89e0" },
+  { n = 6, title = "Ou to yé", mbid = "b6f97fcf-6ad4-4582-9f49-2fe937476fe0" },
+  { n = 7, title = "Kana ta", mbid = "9f569b73-fe4d-4105-9af8-f31eb1fbff7c" },
+  { n = 8, title = "Time", mbid = "7e06816c-9cda-434f-b712-31cded717856" },
+  { n = 9, title = "Yako", mbid = "042c5c91-17f6-4623-a649-d65b8f87b443" },
+  { n = 10, title = "Sarah Oubda", mbid = "5b94766a-6b86-4a9b-96b7-0bfd816e3ca7" },
+  { n = 11, title = "Zamakoulé", mbid = "2bb70fe4-2c38-4cfd-9c08-eb6c177272ab" },
+  { n = 12, title = "Ahmed Sylla", mbid = "0972d14a-4e16-4cb2-a5b1-d7ce10a74a45" },
+  { n = 13, title = "Nadine Sankaré", mbid = "9338f4d1-f610-461a-b6e1-f8e82fe11b3a" },
+  { n = 14, title = "Life", mbid = "4d064efb-4d5e-4386-9275-1e0c0e4dad7d" },
+]
+
+[[release]]
+mbid = "78621b06-cfa5-45ae-b04a-0134a0dc538b"
+title = "The Sky Is The Same Colour Everywhere"
+type = "album"
+date = "2023-05-05"
+tracks = [
+  { n = 1, title = "Wayfarers Of The Legends", mbid = "b372c1b4-251b-4db0-97be-c47f9cf4a076" },
+  { n = 2, title = "The Path Of No Return", mbid = "b6149a41-0b7f-43be-9083-8276795037a1" },
+  { n = 3, title = "Stay Here", mbid = "242a1541-7eb9-4bce-ad2d-ba302584e66e" },
+  { n = 4, title = "Joyful Sun", mbid = "a3b0af1f-d6ab-4b99-bf5a-7f5d39e153e8" },
+  { n = 5, title = "I'm Speaking To You", mbid = "e20c0a58-7657-4b3e-9cf7-5b0f0a69b638" },
+  { n = 6, title = "Whereto", mbid = "08df4a67-2aba-4bc3-bd4a-7d48d033e2a9" },
+  { n = 7, title = "Anywhere That Is Not Here", mbid = "fad81685-c3a0-4d3a-896b-d439e2d44af0" },
+  { n = 8, title = "Is Anyone There?", mbid = "04b6f295-ec5b-40b0-a72e-843a36242d8d" },
+  { n = 9, title = "The Sky Is The Same Colour Everywhere", mbid = "baec6035-3881-4002-901e-9a1a6c9d5c0e" },
+]
+
+[[release]]
+mbid = "13a4ec93-3a9d-49b0-811b-19a7d8446d84"
+title = "Toi l'enfant"
+type = "single"
+date = "2025-11-27"
+tracks = [
+  { n = 1, title = "Toi l'enfant", mbid = "7f4067fc-e44b-4720-bffe-7e733ba4d4db" },
+]

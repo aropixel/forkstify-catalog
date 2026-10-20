@@ -1,0 +1,78 @@
+format = 1
+
+[[release]]
+mbid = "f0b55980-da33-35c9-8d38-3361cd437136"
+title = "Exodus EP"
+type = "ep"
+date = "2000-10-02"
+tracks = [
+  { n = 1, title = "Electrorloge", mbid = "5f4f2c8b-6930-4335-9a4c-31473e6da07a" },
+  { n = 2, title = "Street Preacher", mbid = "40a88595-4100-498d-917d-e78d350fa3b1" },
+  { n = 3, title = "Mister Noulin", mbid = "4e5be455-6e0b-42eb-83a1-2d2c7bb37edf" },
+]
+
+[[release]]
+mbid = "bd0bc99f-aa27-38ca-a2cf-dd27cc71c0ae"
+title = "Doubts & Convictions"
+type = "album"
+date = "2001-03-20"
+tracks = [
+  { n = 1, title = "Street Preacher", mbid = "40a88595-4100-498d-917d-e78d350fa3b1" },
+  { n = 2, title = "Too Old to Die", mbid = "b2eb9c90-df50-4151-b4bc-99476176f174" },
+  { n = 3, title = "Noces Africaines", mbid = "c9d9b195-e995-4caf-82d6-468c53e6e45e" },
+  { n = 4, title = "Awake", mbid = "230c43b8-c766-4c00-9a6f-a42c40ea6a2c" },
+  { n = 5, title = "Get Misunderstood", mbid = "636d7134-394e-4b84-87be-6fcc985cb442" },
+  { n = 6, title = "Electrorloge", mbid = "ea240584-657c-4e92-8acb-f814f68ee7ca" },
+  { n = 7, title = "Fatigue Universelle", mbid = "ab092eb1-287c-49b1-bb0a-9eb098cefd6f" },
+  { n = 8, title = "Chez Roger Boité Funk", mbid = "65469294-9519-4690-9fa6-c8c6ed31aaa8" },
+  { n = 9, title = "Hum Hum", mbid = "c76f388e-ef54-4da5-b961-4beb14e9f1e8" },
+  { n = 10, title = "Groover Is Back", mbid = "9acc3fcc-28d9-44ce-85d5-29a25798f98b" },
+  { n = 11, title = "Black City", mbid = "54de581b-e89d-4e91-bc4d-25d94489d479" },
+]
+
+[[release]]
+mbid = "66fac50a-0611-432d-8419-84b5988aa369"
+title = "Get Misunderstood"
+type = "ep"
+date = "2002"
+tracks = [
+  { n = 1, title = "Get Misunderstood (Jori Hulkkonen remix)", mbid = "edb714bc-bbe3-4b1c-b250-90e5a71a8deb" },
+  { n = 2, title = "Get Misunderstood (original mix)", mbid = "f11f067b-25cd-4cb1-98ba-57dae260ce0c" },
+  { n = 3, title = "Get Misunderstood (Quantic remix)", mbid = "a2b89f3d-25af-4e00-9aa9-6faf04146050" },
+  { n = 4, title = "Get Misunderstood (L.B. Thomas remix)", mbid = "6210b89c-d16d-472a-915f-773746e03087" },
+]
+
+[[release]]
+mbid = "451a4d03-ba53-3600-92d7-63b5d684e0ac"
+title = "Too Old to Die"
+type = "single"
+date = "2002"
+tracks = [
+  { n = 1, title = "Too Old To Die (Geisha remix)", mbid = "2c835bda-6150-44e4-b186-9dd80ccde0e9" },
+  { n = 2, title = "Afghan (original mix)", mbid = "634a24ec-f93b-4938-abc1-f6e928420a44" },
+  { n = 3, title = "Too Old To Die (original mix)", mbid = "f70f3d9b-1f96-4239-9c4b-4f4cc0d27e89" },
+]
+
+[[release]]
+mbid = "89739d5f-4fb5-32be-b0ea-f2a6bcf07724"
+title = "Express Way"
+type = "album"
+date = "2004-09"
+tracks = [
+  { n = 1, title = "Everyday Is Just an Extension of Yesterday", mbid = "12706431-cf62-45ea-816c-ab101c5b9ab1" },
+  { n = 2, title = "V 72", mbid = "19658ddb-7f9a-483d-9314-a00c6bd054d3" },
+  { n = 3, title = "Le Bocal", mbid = "39e359d7-13b3-4e58-8f66-eadd8302d24e" },
+  { n = 4, title = "All We Love", mbid = "b3ebdfc6-4cf9-4f4a-934f-99a0406ac846" },
+  { n = 5, title = "Everywhere Is My Home", mbid = "1e43c3de-02c9-4116-8a9d-8a59626b099e" },
+  { n = 6, title = "County Farm", mbid = "2ecaefd7-568a-4177-9738-f23a6c07f9c8" },
+  { n = 7, title = "Highway Blues", mbid = "855194b7-2d6f-4d87-a045-d26abe55ac72" },
+  { n = 8, title = "Lemon", mbid = "ccd65a4a-6b5f-419f-9102-62d9f05c2b95" },
+  { n = 9, title = "Shadows Lights...", mbid = "bf703e83-6804-4aff-9989-b156eb027e73" },
+  { n = 10, title = "And Music Everywhere", mbid = "a0e7feb9-23f7-44ed-95ec-d2f4f1cb89e3" },
+  { n = 11, title = "I Could See", mbid = "2379eab5-40c8-40c0-8f25-039efbcb01b6" },
+  { n = 12, title = "If You Arrest Me", mbid = "09b8f0d5-b8ed-4e4e-9d52-6d2beafed280" },
+  { n = 13, title = "Call and Response", mbid = "00487168-0175-4b31-910e-95fa8d9939a9" },
+  { n = 14, title = "God Bless Billie", mbid = "20ef2cae-1a9a-46ad-8190-3e6dedea3cd7" },
+  { n = 15, title = "Race Records", mbid = "b21e73d6-0717-48bc-87ca-d9e41b92480b" },
+  { n = 16, title = "Lester Young in Eternity Blowing His Horn Alone", mbid = "fce0be48-4cc1-4790-b714-db743c37fc0b" },
+]

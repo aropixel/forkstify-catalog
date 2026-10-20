@@ -1,0 +1,1080 @@
+format = 1
+
+[[release]]
+mbid = "50b3d792-f100-3c3f-9fd2-87a1883fabdc"
+title = "La Valse des monstres"
+type = "album"
+date = "1995-06-13"
+spotify = "5XXKRUNLjePf5eGoMGpBni"
+tracks = [
+  { n = 1, title = "Mouvement introductif", mbid = "902bf987-b9de-40b9-9d55-f33a9458ced0" },
+  { n = 2, title = "La Valse des monstres", mbid = "a02d8358-e278-4199-97ef-7e3daffa3a95" },
+  { n = 3, title = "Frida", mbid = "2b2ed29d-1064-4f54-b7b8-6f03e4f1ac4c" },
+  { n = 4, title = "Quimper 94", mbid = "9a00c001-e0bb-4424-a21e-2464cdb1408b" },
+  { n = 5, title = "Ballendaï", mbid = "c57bf1ea-85aa-459c-8cfb-dabc405bc0ee" },
+  { n = 6, title = "Comptine d’été n°17", mbid = "112969f8-3c2a-450d-bba2-baefb6b1ed2e" },
+  { n = 7, title = "Cléo au trapèze", mbid = "e80881c5-a145-4135-9889-07c2d928321e" },
+  { n = 8, title = "La Valse des monstres", mbid = "d0dc1ba2-cd2e-4fe1-82ff-09916e571d45" },
+  { n = 9, title = "Le Banquet", mbid = "acafaa13-ce7a-487f-addd-80244bfd0d53" },
+  { n = 10, title = "Comptine d’été n°17", mbid = "be3c76c0-f729-4c70-8bfa-05c65aba8b78" },
+  { n = 11, title = "Mouvement introductif", mbid = "5d17fc33-eb9c-4f0b-badf-d8c47ecc4a2c" },
+  { n = 12, title = "La Rue", mbid = "76d03872-967b-4342-a0bd-753563fa1198" },
+  { n = 13, title = "Iwakichi", mbid = "ce35c829-66d3-40a1-9b74-08ed71b4d621" },
+  { n = 14, title = "Hanako", mbid = "229fa368-e6b8-4079-a2fc-fbbc5db606f8" },
+  { n = 15, title = "La Plaisanterie", mbid = "3649f6d0-13a3-4e5b-836f-b7ecefabebf0" },
+  { n = 16, title = "Le Compteur", mbid = "2ea33c41-fc84-46f1-8150-07726537126c" },
+  { n = 17, title = "Mouvement introductif", mbid = "cde06081-fdc9-4145-9625-2d1fb027f129" },
+]
+
+[[release]]
+mbid = "6396cf80-fd52-47a8-8c59-f0d8040c1ae7"
+title = "Rue des cascades"
+type = "ep"
+date = "1996"
+spotify = "5nt0KQQuejEhAEHSo1H2Ta"
+tracks = [
+  { n = 1, title = "Rue des cascades", mbid = "1ea132af-0b82-47ac-b842-53bead52c87a" },
+  { n = 2, title = "Toujours là (version Orchestrale)", mbid = "1261096a-d275-4e67-a930-a7094f667fa9" },
+  { n = 3, title = "Comptine N°9", mbid = "b40132fa-1029-4821-afca-8002b81f6506" },
+  { n = 4, title = "Pas si simple (version Toy piano)", mbid = "1602e425-e614-43dd-946e-ad2d0205ea5e" },
+  { n = 5, title = "Avant qu'ils arrivent", mbid = "67e03457-b5d5-4d5f-9113-26c79e0ec2c8" },
+]
+
+[[release]]
+mbid = "7a161e51-3fca-3a58-8f98-e00662ec3594"
+title = "Rue des cascades"
+type = "album"
+date = "1996-04-01"
+spotify = "7ELV10HZC94beTCa9B7n6y"
+tracks = [
+  { n = 1, title = "J'y suis jamais allé", mbid = "621e0ca0-a825-43de-84ba-04beffd37a4d" },
+  { n = 2, title = "Rue des cascades", mbid = "043a8ae9-47c7-422a-81f8-fdcba3c117e5" },
+  { n = 3, title = "Pas si simple", mbid = "e31f8a1e-3fb6-4799-860e-8ce0e3e07200" },
+  { n = 4, title = "Comptine d'été nº2", mbid = "d1bdf50c-38c3-42d2-9db4-43809cbaac27" },
+  { n = 5, title = "Comptine d'été nº3", mbid = "4f8b3d08-9b18-4a28-87c2-ea86d08089d8" },
+  { n = 6, title = "Déjà loin", mbid = "bf44d1f0-4a00-4a2d-abc8-a2d9159fcaeb" },
+  { n = 7, title = "La Chambre", mbid = "e4ba0ba6-db9b-408f-9ef2-26180a1e2c89" },
+  { n = 8, title = "Mouvement introductif", mbid = "26a2bc20-fcd4-48cf-b219-bea417ae2ba0" },
+  { n = 9, title = "La Muette", mbid = "0a0125f0-3e5a-4a0a-8988-47f6dee626f5" },
+  { n = 10, title = "Naomi", mbid = "7a30caca-8c7c-45a9-a092-e1aa612eaf45" },
+  { n = 11, title = "Soir de fête", mbid = "b0c9d1e6-eb24-4dfd-898f-d15abe071b85" },
+  { n = 12, title = "Le Vieux en veut encore", mbid = "21df706d-884c-4f18-a476-05d19ea5395b" },
+  { n = 13, title = "Toujours là", mbid = "5e6fe742-17ce-4aaa-a6fe-938de69727ef" },
+  { n = 14, title = "C'était ici", mbid = "8c864537-de67-4d6b-9736-617c7342c83b" },
+  { n = 15, title = "Prière nº2", mbid = "17445678-ca42-45bd-bd8a-481cb8e6c171" },
+  { n = 16, title = "Comptine d'été nº1", mbid = "125faddb-30e7-4b0b-9d0b-14a782a9bae1" },
+  { n = 17, title = "La Fenêtre", mbid = "b103e206-759a-4d6b-a4f3-67ce0ff914d6" },
+  { n = 18, title = "Prière nº3", mbid = "63fa49d5-ca00-4efb-b408-15e494c400da" },
+  { n = 19, title = "La Pièce vide", mbid = "1a70398d-4f78-4780-a3a3-b6dc9c004f38" },
+  { n = 20, title = "La Vie quotidienne", mbid = "c304f06c-cd2a-468e-802e-57232643fd5e" },
+]
+
+[[release]]
+mbid = "7eb7b908-b499-4aa4-af9e-1eec68bf1233"
+title = "Avant la chute"
+type = "ep"
+date = "1997"
+spotify = "6DbNTZ69LqobapLGSHiWZe"
+tracks = [
+  { n = 1, title = "Le Quartier", mbid = "229c397f-ff74-4388-aaa4-1c7d3a9a69af" },
+  { n = 2, title = "Soir de fête", mbid = "0040eb7a-2c26-4392-bf76-b24d321cbd38" },
+  { n = 3, title = "Avant la chute", mbid = "b5c6a18a-2f1d-41bb-bb00-9652fd8169e7" },
+  { n = 4, title = "Avant qu'ils n'arrivent", mbid = "23e49b0d-fd5d-4f4d-baf3-817c76de8e7e" },
+  { n = 5, title = "La Rupture", mbid = "f22fe5da-1666-4949-a7fb-9f6f0e782e20" },
+  { n = 6, title = "La Vie rêvée", mbid = "e68e4bd7-6a9d-416f-9198-1d08c10c83be" },
+]
+
+[[release]]
+mbid = "ca12f95c-f6c0-46c4-af83-70ad1e649aa3"
+title = "The lighthouse"
+type = "single"
+date = "1998"
+tracks = [
+  { n = 1, title = "The Drowned Girl", mbid = "273e70d6-6e91-4a6b-bd93-413f2ac7db31" },
+  { n = 2, title = "On the Wire", mbid = "5fa24bc7-8ef4-452d-9149-1989896c6753" },
+]
+
+[[release]]
+mbid = "9ab8de5f-1268-35b6-988d-695ee681d76d"
+title = "Le Phare"
+type = "album"
+date = "1998-02-20"
+spotify = "3sUxMeBMTzvty6ftA7gsda"
+tracks = [
+  { n = 1, title = "Le Quartier", mbid = "c02b3995-2533-4e9e-9f20-eafe7ddfcbb0" },
+  { n = 2, title = "La Rupture", mbid = "f22fe5da-1666-4949-a7fb-9f6f0e782e20" },
+  { n = 3, title = "Monochrome", mbid = "532253b8-359a-4668-92a8-4b3899b41371" },
+  { n = 4, title = "La Dispute", mbid = "55bcad7e-fa0e-451a-a630-d1f6e36d4548" },
+  { n = 5, title = "L’Arrivée sur l’île", mbid = "1e23780e-1f81-4643-90af-69ddce6da2e2" },
+  { n = 6, title = "La Noyée", mbid = "48dbbc5a-2783-4ab5-87f1-85e0d5ebc8ff" },
+  { n = 7, title = "Le Fromveur", mbid = "05c7e20d-11e7-4786-a02c-498dbaf6e973" },
+  { n = 8, title = "L’Homme aux bras ballants", mbid = "1f2e3e58-0ebd-4713-a844-1bb3add47dfc" },
+  { n = 9, title = "Sur le fil", mbid = "58d51059-e6c6-445b-8e19-1d41d88a9673" },
+  { n = 10, title = "Les Jours heureux", mbid = "2ceb8779-7cd8-47d3-ab69-bc4c80e4d5dc" },
+  { n = 11, title = "La Crise", mbid = "6b26fc73-5608-4feb-84a4-21489115f704" },
+  { n = 12, title = "Les Bras de mer", mbid = "7b42ccef-b30c-4206-847a-a6ddbf642c39" },
+  { n = 13, title = "La Chute", mbid = "72f5fd52-8e3b-4996-b50c-4a6a93bd215a" },
+  { n = 14, title = "L’Effondrement", mbid = "07612446-6cf1-4581-9204-5e1dcefed3d8" },
+]
+
+[[release]]
+mbid = "8bc30909-5513-3a4e-9ab4-c0c33445e6cd"
+title = "Bästard ~ Tiersen"
+type = "ep"
+date = "1998-07-09"
+tracks = [
+  { n = 1, title = "La Mancha", mbid = "2491e2bc-a627-4e12-945a-438c17752c92" },
+  { n = 2, title = "Twins", mbid = "2bed7660-e4b8-45ea-a71e-b137746a3402" },
+  { n = 3, title = "Marvelous Marvin Agler", mbid = "4dd35bd2-7aad-4af8-b956-a0e8646eee47" },
+]
+
+[[release]]
+mbid = "1cbd36b0-f6ad-4bf3-a300-dd488a7920a7"
+title = "Les grandes marées"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Les Grandes Marées (radio edit)", mbid = "79bd3e79-1e77-4e7b-8bc3-4eded4fdd6e7" },
+]
+
+[[release]]
+mbid = "4799b473-73c4-3b50-98b0-c7359d20b12e"
+title = "Tout est calme"
+type = "album"
+date = "1999-03-29"
+spotify = "1uIhxjFUqPUVdh6gtYPXFC"
+tracks = [
+  { n = 1, title = "Plus au sud", mbid = "9f342af1-982d-4c26-9f61-3ac258957a83" },
+  { n = 2, title = "Les Grandes Marées", mbid = "eba1a9a9-1810-41f1-8cc9-2a00dda0a68c" },
+  { n = 3, title = "La Crise", mbid = "0c18ef8c-04fa-47d5-b078-66ab6a819a83" },
+  { n = 4, title = "Tout est calme", mbid = "0f66dd52-bda0-4526-979d-af95ac637cc4" },
+  { n = 5, title = "La Rupture", mbid = "a06ef58e-019e-409a-bf72-9bd080012ac3" },
+  { n = 6, title = "La Relève", mbid = "f82c0a06-d4a8-41a5-9238-029e38fa9d7c" },
+  { n = 7, title = "La Pharmacie", mbid = "97591e2b-967e-47eb-b2b3-9a450cd33352" },
+  { n = 8, title = "La Terrasse", mbid = "ae7f8502-778d-4f5e-9dba-6fc5d553ad0e" },
+  { n = 9, title = "L’Étal", mbid = "6e937503-9d01-428c-84b5-1200bab9d1c6" },
+  { n = 10, title = "La Découverte", mbid = "2c4c845c-907a-4d96-940a-bbe8b2d0f126" },
+]
+
+[[release]]
+mbid = "2376736d-8fe2-430a-96fc-f9cb66e79a39"
+title = "Amélie"
+type = "ep"
+date = "2001"
+tracks = [
+  { n = 1, title = "La valse d’Amélie", mbid = "70e1f203-f7f8-4bbb-beae-a4ee72a2bd2d" },
+  { n = 2, title = "Comptine d’un autre été: L’après midi", mbid = "4577dac8-45a6-49f0-84a4-b40cf7d5c4d7" },
+  { n = 3, title = "L’autre valse d’Amélie", mbid = "19a07892-30f3-4102-80e8-e2a516910609" },
+  { n = 4, title = "Le Moulin", mbid = "d6fd86a4-2f45-4b35-bebc-2361d87b0b33" },
+  { n = 5, title = "La valse d’Amélie (orchestra version)", mbid = "0f34421d-d4df-41f9-bc19-7dcde500c304" },
+  { n = 6, title = "La valse des vieux os", mbid = "1dbbd8fc-3f22-4bae-8e0e-0e5a67625943" },
+  { n = 7, title = "La Redécouverte", mbid = "f1f38815-c20a-4aa6-80a2-1030b07d8a18" },
+  { n = 8, title = "La valse d’Amélie (piano version)", mbid = "68c24852-2bc3-415c-bd38-758792eb149e" },
+]
+
+[[release]]
+mbid = "96a37bdc-d488-4ba0-8d1f-ca864defebe0"
+title = "Les jours tristes"
+type = "single"
+date = "2001"
+tracks = [
+  { n = 1, title = "Les jours tristes", mbid = "a06cc444-b851-4760-bea1-69493389a661" },
+  { n = 2, title = "La parade", mbid = "2d53fcc0-1f27-44ac-bfe6-d30843c63fdf" },
+]
+
+[[release]]
+mbid = "052d0d67-5d1c-3b04-a7b9-fa3770e5a688"
+title = "L’Absente"
+type = "album"
+date = "2001-04-09"
+tracks = [
+  { disc = 1, n = 1, title = "À quai", mbid = "dd041388-f224-4a0b-b893-a37b7144db49" },
+  { disc = 1, n = 2, title = "La Parade", mbid = "7446415f-4990-465d-abf5-034b41bfa7da" },
+  { disc = 1, n = 3, title = "Bagatelle", mbid = "5ee3266a-7d8a-48bf-889f-d07cfa845cf7" },
+  { disc = 1, n = 4, title = "L'Absente", mbid = "4de10c45-d274-4eb2-81c5-585985350436" },
+  { disc = 1, n = 5, title = "Les Jours tristes", mbid = "cfe0406b-a25c-47a8-86e5-cdfb5ccd7b59" },
+  { disc = 2, n = 1, title = "L'Échec", mbid = "f8fdb59f-7a68-43bc-adc9-460d0e6e7040" },
+  { disc = 2, n = 2, title = "La Lettre d'explication", mbid = "68784958-e5a5-40e1-84a3-9eb22e944687" },
+  { disc = 2, n = 3, title = "Qu'en reste-t-il ?", mbid = "02a7bcb3-698d-4da8-bd57-168978ee91a8" },
+  { disc = 2, n = 4, title = "L'Autre Lettre", mbid = "08371474-844a-4d58-bb13-cb80e71dbe57" },
+  { disc = 2, n = 5, title = "Le Méridien", mbid = "c3d76ed3-fc40-4d1a-8bd8-16610ef63b7b" },
+  { disc = 2, n = 6, title = "Le Concert", mbid = "d4481ab2-8425-4e1c-af9e-6368688bef91" },
+  { disc = 2, n = 7, title = "Le Retour", mbid = "7284f7ec-321f-4d20-a419-8dbfe61d8189" },
+]
+
+[[release]]
+mbid = "9635e642-8321-3024-99f2-abe8f6af51f3"
+title = "Le Fabuleux Destin d’Amélie Poulain"
+type = "album"
+date = "2001-04-23"
+spotify = "6PRPYATK5VvjZ2p911y6U0"
+tracks = [
+  { n = 1, title = "J'y suis jamais allé", mbid = "621e0ca0-a825-43de-84ba-04beffd37a4d" },
+  { n = 2, title = "Les Jours tristes (instrumental)", mbid = "ab88a67e-1446-47c3-96d4-c20aefcd7cbb" },
+  { n = 3, title = "La Valse d'Amélie", mbid = "70e1f203-f7f8-4bbb-beae-a4ee72a2bd2d" },
+  { n = 4, title = "Comptine d'un autre été : L'Après-midi", mbid = "4577dac8-45a6-49f0-84a4-b40cf7d5c4d7" },
+  { n = 5, title = "La Noyée", mbid = "e07829ea-bf36-48ee-878a-dc333a42a57f" },
+  { n = 6, title = "L'Autre Valse d'Amélie", mbid = "19a07892-30f3-4102-80e8-e2a516910609" },
+  { n = 7, title = "Guilty", mbid = "71635479-38a6-476a-a4f8-7e85bc59da77" },
+  { n = 8, title = "À quai", mbid = "e43e5b0e-01ae-454f-888e-cff4610ebd6f" },
+  { n = 9, title = "Le Moulin", mbid = "d6fd86a4-2f45-4b35-bebc-2361d87b0b33" },
+  { n = 10, title = "Pas si simple", mbid = "e31f8a1e-3fb6-4799-860e-8ce0e3e07200" },
+  { n = 11, title = "La Valse d'Amélie (orchestra version)", mbid = "0f34421d-d4df-41f9-bc19-7dcde500c304" },
+  { n = 12, title = "La Valse des vieux os", mbid = "1dbbd8fc-3f22-4bae-8e0e-0e5a67625943" },
+  { n = 13, title = "La Dispute", mbid = "55bcad7e-fa0e-451a-a630-d1f6e36d4548" },
+  { n = 14, title = "Si tu n'étais pas là", mbid = "d0d7d830-bc17-42a5-86f8-62807fd1dad5" },
+  { n = 15, title = "Soir de fête", mbid = "b0c9d1e6-eb24-4dfd-898f-d15abe071b85" },
+  { n = 16, title = "La Redécouverte", mbid = "f1f38815-c20a-4aa6-80a2-1030b07d8a18" },
+  { n = 17, title = "Sur le fil", mbid = "03a8ae83-1e7e-4255-b897-c8fb617e74e0" },
+  { n = 18, title = "Le Banquet", mbid = "acafaa13-ce7a-487f-addd-80244bfd0d53" },
+  { n = 19, title = "La Valse d'Amélie (piano version)", mbid = "68c24852-2bc3-415c-bd38-758792eb149e" },
+  { n = 20, title = "La Valse des monstres", mbid = "a02d8358-e278-4199-97ef-7e3daffa3a95" },
+]
+
+[[release]]
+mbid = "bab18390-d0b3-4d93-810a-12095b43cb56"
+title = "Good Bye Lenin!"
+type = "ep"
+date = "2003"
+tracks = [
+  { n = 1, title = "Summer 78", mbid = "3eab0ae2-304a-4446-bb13-c68ee6ac6332" },
+  { n = 2, title = "I Saw Daddy Today", mbid = "0f154774-98b5-4864-bd52-3d1ea0a3cd3d" },
+  { n = 3, title = "Preparations for the Last TV Fake", mbid = "c5d6cc0d-2169-409e-86cd-c9c221c6584c" },
+  { n = 4, title = "Lara’s Castle", mbid = "47be8627-ffbc-4641-849c-c097052e2e01" },
+  { n = 5, title = "The Decant Session", mbid = "6291873d-84c1-479a-9eab-2ab972fd76b7" },
+  { n = 6, title = "Good Bye Lenin", mbid = "1bce6deb-3753-43bb-914a-31e0593bdf31" },
+]
+
+[[release]]
+mbid = "772e2cae-9de4-34d8-8b02-cc6586a3233f"
+title = "Good Bye Lenin!"
+type = "album"
+date = "2003-02-18"
+tracks = [
+  { n = 1, title = "Summer 78", mbid = "3eab0ae2-304a-4446-bb13-c68ee6ac6332" },
+  { n = 2, title = "Preparations for the Last TV Fake", mbid = "c5d6cc0d-2169-409e-86cd-c9c221c6584c" },
+  { n = 3, title = "Mother's Journey", mbid = "d7046b5a-985a-4c8b-8a91-52616e82667c" },
+  { n = 4, title = "Good Bye Lenin", mbid = "1bce6deb-3753-43bb-914a-31e0593bdf31" },
+  { n = 5, title = "Father and Mother", mbid = "c5f8449b-eb4d-4532-817e-77a3839a880f" },
+  { n = 6, title = "Lara's Castle", mbid = "47be8627-ffbc-4641-849c-c097052e2e01" },
+  { n = 7, title = "Childhood (1)", mbid = "dcdeb8c8-7135-4721-bca1-1e1ad1aeedb2" },
+  { n = 8, title = "The Deutsch Mark Is Coming", mbid = "2cc69d74-d8b0-420f-a814-c9626665e548" },
+  { n = 9, title = "Childhood (2)", mbid = "8e39a385-87f9-4a74-a050-39333c3384eb" },
+  { n = 10, title = "Letters", mbid = "0ea40b50-d17e-4fd8-93c4-1efdcfb45305" },
+  { n = 11, title = "Mother Will Die", mbid = "215526ce-e0cf-405e-af8c-ed8f9fd6e92b" },
+  { n = 12, title = "Father Is Late", mbid = "b7434d9b-5e8e-40dd-9048-00c7d7d62172" },
+  { n = 13, title = "First Rendez-Vous", mbid = "5f88ea3e-10cc-4b89-9df3-5b5d50b2b53b" },
+  { n = 14, title = "Dishes", mbid = "be7c7ae5-ea9f-4dea-baf5-2996b93fb728" },
+  { n = 15, title = "I Saw Daddy Today", mbid = "0f154774-98b5-4864-bd52-3d1ea0a3cd3d" },
+  { n = 16, title = "The Decant Session", mbid = "6291873d-84c1-479a-9eab-2ab972fd76b7" },
+  { n = 17, title = "Watching Lara", mbid = "ce331060-859f-4b88-b207-aaa572062cbe" },
+  { n = 18, title = "Summer 78 (instrumental)", mbid = "49b73da3-18ff-4fba-9e5a-cd37d649eb05" },
+]
+
+[[release]]
+mbid = "47446f36-5658-3d8d-af3b-9cf589c40957"
+title = "On aime, on aide : 3 titres inédits au profit de la FIDH"
+type = "single"
+date = "2003-11-14"
+tracks = [
+  { n = 1, title = "L’Intermittence", mbid = "cab8e81b-9b03-40be-a5ca-e65188758102" },
+  { n = 2, title = "Le Commerce", mbid = "e6ad0978-b100-4ea8-b552-8184903f4ec1" },
+  { n = 3, title = "La Vaisselle", mbid = "f6fa7798-ca6d-4e37-9d50-f05a297731b4" },
+]
+
+[[release]]
+mbid = "af3cf9b4-ef93-403a-b3d1-4584c79ec398"
+title = "Yann Tiersen & Shannon Wright"
+type = "single"
+date = "2004"
+tracks = [
+  { n = 1, title = "Dragon Fly", mbid = "b8b62f0c-40ac-49a5-bf09-ec8efc01b9a8" },
+  { n = 2, title = "Something to Live For", mbid = "0bcaf518-ea5d-4119-af03-74e64b921c73" },
+]
+
+[[release]]
+mbid = "5c3a20f0-da08-368c-b3a1-ae29282b92f7"
+title = "Yann Tiersen & Shannon Wright"
+type = "album"
+date = "2004-10-25"
+tracks = [
+  { disc = 1, n = 1, title = "No Mercy for She", mbid = "3521c769-0f92-485c-a32b-536a049a8ee0" },
+  { disc = 1, n = 2, title = "Dragon Fly", mbid = "b8b62f0c-40ac-49a5-bf09-ec8efc01b9a8" },
+  { disc = 1, n = 3, title = "Sound the Bells", mbid = "44434078-b141-48ce-a921-aa4d260a547b" },
+  { disc = 1, n = 4, title = "Something to Live For", mbid = "0bcaf518-ea5d-4119-af03-74e64b921c73" },
+  { disc = 1, n = 5, title = "Dried Sea", mbid = "cb0c37e1-3f3b-4c6f-8528-7ed08da1ad9f" },
+  { disc = 1, n = 6, title = "While You Sleep", mbid = "2780f27c-d057-4353-ba51-2827143c826c" },
+  { disc = 1, n = 7, title = "Ode to a Friend", mbid = "f6488f9b-2e06-4fb9-8a87-824626cd5cf1" },
+  { disc = 1, n = 8, title = "Ways to Make You See", mbid = "c8d9dd5a-672f-4717-810e-b823f0ae92f1" },
+  { disc = 1, n = 9, title = "Callous Sun", mbid = "9c7c8eca-6aee-472d-af0e-4beffd81ea24" },
+  { disc = 1, n = 10, title = "Pale White", mbid = "8492f7c8-0985-4ffb-bfc4-8b19ddc8ede2" },
+  { disc = 2, n = 1, title = "No Mercy for She", mbid = "3521c769-0f92-485c-a32b-536a049a8ee0" },
+  { disc = 2, n = 2, title = "Dragon Fly", mbid = "b8b62f0c-40ac-49a5-bf09-ec8efc01b9a8" },
+  { disc = 2, n = 3, title = "Sound the Bells", mbid = "44434078-b141-48ce-a921-aa4d260a547b" },
+  { disc = 2, n = 4, title = "Something to Live For", mbid = "0bcaf518-ea5d-4119-af03-74e64b921c73" },
+  { disc = 2, n = 5, title = "Dried Sea", mbid = "cb0c37e1-3f3b-4c6f-8528-7ed08da1ad9f" },
+  { disc = 2, n = 6, title = "While You Sleep", mbid = "2780f27c-d057-4353-ba51-2827143c826c" },
+  { disc = 2, n = 7, title = "Ode to a Friend", mbid = "f6488f9b-2e06-4fb9-8a87-824626cd5cf1" },
+  { disc = 2, n = 8, title = "Ways to Make You See", mbid = "c8d9dd5a-672f-4717-810e-b823f0ae92f1" },
+  { disc = 2, n = 9, title = "Callous Sun", mbid = "9c7c8eca-6aee-472d-af0e-4beffd81ea24" },
+  { disc = 2, n = 10, title = "Pale White", mbid = "8492f7c8-0985-4ffb-bfc4-8b19ddc8ede2" },
+]
+
+[[release]]
+mbid = "deda7414-e94a-4aad-91ce-aca97939b11d"
+title = "A Secret Place"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "A Secret Place", mbid = "2a47b63f-4f27-4822-9133-df33a8b2e28a" },
+]
+
+[[release]]
+mbid = "a6bbe197-cfef-46ee-b00c-cc3fa991705f"
+title = "Kala"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "Kala", mbid = "2cb75cdd-d97f-4d61-aa11-d1a0c66bd60b" },
+]
+
+[[release]]
+mbid = "3e0693e5-7b1c-3100-82ea-dcd426ef7a2a"
+title = "Les Retrouvailles"
+type = "album"
+date = "2005-05-23"
+tracks = [
+  { n = 1, title = "Western", mbid = "674172c4-2544-484e-a51c-3b968f1f4f5a" },
+  { n = 2, title = "Kala", mbid = "2cb75cdd-d97f-4d61-aa11-d1a0c66bd60b" },
+  { n = 3, title = "Loin des villes", mbid = "d8e88651-d7d3-45c9-b29c-8972fe629dc5" },
+  { n = 4, title = "La Veillée", mbid = "242490e6-56da-4e32-a9d9-64b9741a5390" },
+  { n = 5, title = "Plus d’hiver", mbid = "a39de8cb-3113-408d-b6d2-6e46e7b7d7df" },
+  { n = 6, title = "À ceux qui sont malades par mer calme", mbid = "8e2300ae-9da6-4f1a-a7ef-5d9f57e409e8" },
+  { n = 7, title = "A Secret Place", mbid = "2a47b63f-4f27-4822-9133-df33a8b2e28a" },
+  { n = 8, title = "Le Matin", mbid = "d34a83f4-63d9-4599-a0fb-0b3f45d6625b" },
+  { n = 9, title = "Les Enfants", mbid = "b6876937-7478-461a-9d44-af4e41003e24" },
+  { n = 10, title = "Le Jour de l’ouverture", mbid = "2fceb229-0a3c-4982-bd06-ea69d723480b" },
+  { n = 11, title = "La Boulange", mbid = "f5f5aa91-3586-4c08-a072-3846805dc42b" },
+  { n = 12, title = "La Plage", mbid = "e162c6db-f5b2-4963-a867-a47e9104d6f3" },
+  { n = 13, title = "Mary", mbid = "63062f50-9217-43e5-914d-20050cf6dabb" },
+  { n = 14, title = "7:PM", mbid = "39ad7a2a-b26c-427d-9348-095ce45aac75" },
+  { n = 15, title = "Les Retrouvailles", mbid = "0fcdd243-5dad-49d0-b631-ab5a47a72110" },
+  { n = 16, title = "La Jetée", mbid = "0b10c246-77c9-40e8-bc30-77665299fb45" },
+]
+
+[[release]]
+mbid = "bf178b31-f5b6-4e87-b9a6-197d7054ac2f"
+title = "La rade"
+type = "single"
+date = "2006"
+tracks = [
+  { n = 1, title = "La rade", mbid = "d141af1e-d890-4fa5-8a81-15f74cb0beef" },
+]
+
+[[release]]
+mbid = "6815025d-8e7b-35d7-9978-77d4480f8b33"
+title = "Tabarly"
+type = "album"
+date = "2008-05-31"
+tracks = [
+  { n = 1, title = "Tabarly", mbid = "4f697472-7764-4a7b-b323-ce1232f70b77" },
+  { n = 2, title = "Naval", mbid = "69fe564b-9047-4a69-90f7-7c6855293f8e" },
+  { n = 3, title = ".II", mbid = "5a128155-d22a-42d7-be48-9faca4a9b970" },
+  { n = 4, title = "Au‐dessous du volcan", mbid = "5b426b39-57d8-4423-b1c5-8c9250f260ec" },
+  { n = 5, title = ".IV", mbid = "00f7805e-1212-478a-ab76-f5139ea14c7c" },
+  { n = 6, title = "La Longue Route", mbid = "4d524cb8-aa0a-4f6b-aa42-dac92bcd1984" },
+  { n = 7, title = "1976", mbid = "09464b8d-8b2b-4149-830b-553816690924" },
+  { n = 8, title = "Yellow", mbid = "f3bb9baa-0f4e-46f5-a36c-210fc6fa8eaf" },
+  { n = 9, title = "Point zéro", mbid = "6f8f0fc5-5e1c-4623-b591-7443b777593e" },
+  { n = 10, title = "La Corde", mbid = "44972328-9094-4065-a7d2-fcbfedddbbb4" },
+  { n = 11, title = "8 mm", mbid = "85ac2798-0029-4f9c-828e-f9b5657f86c8" },
+  { n = 12, title = "Point mort", mbid = "135a2ff8-7c28-4b69-8bd4-694edcec980f" },
+  { n = 13, title = "Dernière", mbid = "716dbeca-7190-4c26-9c0b-3601d457ffc9" },
+  { n = 14, title = "Atlantique nord", mbid = "9dcf6711-2df4-4060-a223-0ea33db59be0" },
+  { n = 15, title = "Eire", mbid = "225a45f3-0643-472d-b7ac-fc4ff916bc07" },
+]
+
+[[release]]
+mbid = "652600e1-db15-4a4a-b5cd-c7635819f6cc"
+title = "Palestine"
+type = "single"
+date = "2010-03-15"
+tracks = [
+  { n = 1, title = "Palestine", mbid = "156919db-a20d-4f3e-bad2-de193457db8c" },
+  { n = 2, title = "Palestine (remix by Deadverse)", mbid = "1bf1ff66-ff48-44b6-8a02-52d710db3792" },
+  { n = 3, title = "Palestine (remix by Chapelier Fou)", mbid = "94976bc3-31ae-4442-9dfb-64cc7a9d692e" },
+  { n = 4, title = "Palestine (remix by The Third Eye Foundation)", mbid = "5e56ba08-94a4-432d-bc54-a19e79232274" },
+  { n = 5, title = "Palestine (remix by Yann Tiersen)", mbid = "e209c1be-6b72-44e5-bea9-22a17debf938" },
+]
+
+[[release]]
+mbid = "28d75b5d-7189-4c02-ba78-23c946806089"
+title = "Dust Lane"
+type = "album"
+date = "2010-10-04"
+tracks = [
+  { n = 1, title = "Amy", mbid = "eda4c9a1-eebb-43d4-b9b1-0fc25346c8db" },
+  { n = 2, title = "Dust Lane", mbid = "a0f495d8-e5fc-4295-88b0-4d2dfa6c487a" },
+  { n = 3, title = "Dark Stuff", mbid = "21242d44-7a15-4d9f-b8dd-758787b35893" },
+  { n = 4, title = "Palestine", mbid = "156919db-a20d-4f3e-bad2-de193457db8c" },
+  { n = 5, title = "Chapter 19", mbid = "c7a3addc-1ee5-422d-8e8e-bddab7e80d96" },
+  { n = 6, title = "Ashes", mbid = "eb8f2447-fb1d-4038-8dae-6121baca7dc6" },
+  { n = 7, title = "Till the End", mbid = "dbe2e041-8759-49fe-ac5d-a4ad11a02733" },
+  { n = 8, title = "Fuck Me", mbid = "093eb267-30c6-47e8-a583-ef5e92fe28aa" },
+]
+
+[[release]]
+mbid = "dbc99d27-8f4c-4790-9a07-153da8ec1a70"
+title = "Dust Lane"
+type = "ep"
+date = "2011"
+tracks = [
+  { n = 1, title = "Ashes (edit)", mbid = "be8200f9-3a96-43da-9055-6e44bb20ae4e" },
+  { n = 2, title = "Amy", mbid = "eda4c9a1-eebb-43d4-b9b1-0fc25346c8db" },
+  { n = 3, title = "Palestine", mbid = "156919db-a20d-4f3e-bad2-de193457db8c" },
+  { n = 4, title = "Dust Lane", mbid = "a0f495d8-e5fc-4295-88b0-4d2dfa6c487a" },
+]
+
+[[release]]
+mbid = "4ffdb379-bd66-4919-9135-52c1c9f27678"
+title = "I’m Gonna Live Anyhow"
+type = "single"
+date = "2011"
+tracks = [
+  { n = 1, title = "I’m Gonna Live Anyhow", mbid = "e804b8a6-be7d-4211-b3d0-396552434cd5" },
+  { n = 2, title = "Vanishing Point (instrumental)", mbid = "69be7f99-96fb-4c3b-acc4-497dadcc6af1" },
+]
+
+[[release]]
+mbid = "3b57ed8e-4c82-41a6-ae4f-28fe34aeea06"
+title = "Monuments"
+type = "single"
+date = "2011-08-15"
+tracks = [
+  { n = 1, title = "Monuments", mbid = "15e86642-8493-4ff6-b477-d2de1addc2b3" },
+  { n = 2, title = "Love Me", mbid = "54cf474f-eced-4d71-bd29-abc4ed1d515c" },
+]
+
+[[release]]
+mbid = "3d166d47-7261-4069-a9b0-8c8e8624b54e"
+title = "Skyline"
+type = "album"
+date = "2011-10-17"
+tracks = [
+  { n = 1, title = "Another Shore", mbid = "5cae4a34-6811-46d2-84dc-12ef5aeb70f4" },
+  { n = 2, title = "I’m Gonna Live Anyhow", mbid = "15fe60fd-0b93-4d5a-b6eb-9435e675dd0b" },
+  { n = 3, title = "Monuments", mbid = "15e86642-8493-4ff6-b477-d2de1addc2b3" },
+  { n = 4, title = "The Gutter", mbid = "15ee6ce9-26d3-44b3-8d00-1d9ee3c00dd4" },
+  { n = 5, title = "Exit 25 Block 20", mbid = "650cb53b-6c9d-4653-b29f-bbb15e6459f0" },
+  { n = 6, title = "Hesitation Wound", mbid = "fa927f1b-45ff-4df8-99c5-7a5ec2ec3051" },
+  { n = 7, title = "Forgive Me", mbid = "e9c916c7-685e-46f6-b790-a1dd5c2c8629" },
+  { n = 8, title = "The Trial", mbid = "844c86f0-639b-4718-92fe-72628aec07cf" },
+  { n = 9, title = "Vanishing Point", mbid = "e40548d8-a4d1-4707-9bf7-c9c64ad88f5c" },
+]
+
+[[release]]
+mbid = "0873b16f-5b25-4758-a9f1-59b917ad4ef4"
+title = "The Trail"
+type = "single"
+date = "2012"
+tracks = [
+  { n = 1, title = "The Trail (radio edit)", mbid = "2474f18c-5c89-43c1-8813-94a6440afd14" },
+]
+
+[[release]]
+mbid = "b3d8b2af-2bb3-4abb-9aef-fd81cde00ff2"
+title = "A Midsummer Evening"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "A Midsummer Evening (radio edit)", mbid = "c2a18866-d732-4366-8453-82b4c396b1c5" },
+]
+
+[[release]]
+mbid = "d2427603-b71a-4433-b429-357808de3769"
+title = "∞"
+type = "album"
+date = "2014-05-19"
+spotify = "1IDL2q8EA2nfO870NlvYd2"
+tracks = [
+  { disc = 1, n = 1, title = "∞", mbid = "8d3ca2ba-409e-49ca-97e4-ea009e1d0aa5" },
+  { disc = 1, n = 2, title = "Slippery Stones", mbid = "322a62f7-0f29-4193-905f-cdfb84dbe061" },
+  { disc = 1, n = 3, title = "A Midsummer Evening", mbid = "aabf0e80-8a1f-474e-b0b6-b7b79fa14858" },
+  { disc = 1, n = 4, title = "Ar maen bihan", mbid = "d420decd-5040-4ef8-ad94-93d610afd7c1" },
+  { disc = 1, n = 5, title = "Lights", mbid = "458f8a48-7d0c-4319-9041-dee4fee8b224" },
+  { disc = 2, n = 1, title = "Grønjørð", mbid = "2f167b2f-6b72-431a-a61a-2daca263993a" },
+  { disc = 2, n = 2, title = "Steinn", mbid = "b9944e59-634c-4a60-88b0-36bdfeec88d5" },
+  { disc = 2, n = 3, title = "In Our Minds", mbid = "34bbb789-beb0-4c66-aea7-2e3d219737d4" },
+  { disc = 2, n = 4, title = "The Crossing", mbid = "8ad2f084-c494-4628-a614-37eda6905bbf" },
+  { disc = 2, n = 5, title = "Meteorites", mbid = "102bed0f-cf29-4623-9679-5e30bd1bc37c" },
+]
+
+[[release]]
+mbid = "38e4315d-1dfb-420c-b03e-a377d15ff5b2"
+title = "Pour Amélie: Piano Music"
+type = "album"
+date = "2015-09-04"
+spotify = "0yK5uQabfypXDhYEsisV0G"
+tracks = [
+  { disc = 1, n = 1, title = "Comptine d’un autre été: l’après midi", mbid = "ec629e26-8567-494c-8e33-12bf6f8ebbe6" },
+  { disc = 1, n = 2, title = "Comptine d’été no. 2", mbid = "5e3b4053-5cf9-4a7c-9f50-cf37957bb479" },
+  { disc = 1, n = 3, title = "Comptine d’été no. 3", mbid = "38c05d37-c707-4c14-93ee-b188059c6805" },
+  { disc = 1, n = 4, title = "Le vieux en veut encore", mbid = "fe519c14-db87-445e-bd56-1c5b6053fc63" },
+  { disc = 1, n = 5, title = "Toujours la", mbid = "b8aedb3b-54af-422d-9a64-d4ea187fe9c4" },
+  { disc = 1, n = 6, title = "Comptine d’été no. 1", mbid = "85f65dc9-4c07-4ef3-a247-eeddf3581823" },
+  { disc = 1, n = 7, title = "La Piece vide", mbid = "8c1e27b7-6169-40e8-9b0b-d7734a558fec" },
+  { disc = 1, n = 8, title = "La Dispute", mbid = "eb445db2-7987-45fd-bc3d-645cbc24c779" },
+  { disc = 1, n = 9, title = "Sur le fil", mbid = "af481507-1ad4-45d1-b4d8-c8e44bd1652f" },
+  { disc = 1, n = 10, title = "Les Jours heureux", mbid = "089e4ddd-cf30-4a2a-9195-7fae5c107d53" },
+  { disc = 1, n = 11, title = "La Chute", mbid = "483f2be9-8965-4b42-afc6-ca377768b0d5" },
+  { disc = 1, n = 12, title = "L’Absente", mbid = "34c7ebd3-67ca-4697-9f19-2d86b097c4dc" },
+  { disc = 1, n = 13, title = "Le Retour", mbid = "656d2ca6-f3ad-48bd-85a7-73e5af6f58f2" },
+  { disc = 1, n = 14, title = "La Valse d’Amélie", mbid = "37113058-59d5-48fd-839b-da9d53c50a46" },
+  { disc = 1, n = 15, title = "Le Moulin", mbid = "15818d48-ad11-45ba-8534-e5fa67acbe61" },
+  { disc = 1, n = 16, title = "Le Matin", mbid = "8371d762-5f2f-447d-8781-fd423c6f03c4" },
+  { disc = 1, n = 17, title = "La Plage", mbid = "d7b21de2-d578-4d5f-bb37-cc51827f15d9" },
+  { disc = 1, n = 18, title = "Les Retrouvailles", mbid = "870a0f4f-3e80-47eb-b93c-881cbed76664" },
+  { disc = 1, n = 19, title = "La Jetee", mbid = "db48bd07-c99c-452f-ae68-473c00168c14" },
+  { disc = 1, n = 20, title = "Tabarly", mbid = "5ea20b4a-a05a-4e5e-9f7d-b271b387a1a3" },
+  { disc = 1, n = 21, title = "8 mmm", mbid = "5bea758e-34c1-436b-aadc-ba9ef2f7be8e" },
+  { disc = 1, n = 22, title = "Point Zero", mbid = "0fbec054-1269-4cce-9eaf-29dd9e8b4ea5" },
+  { disc = 2, n = 1, title = "Summer 78", mbid = "7b251edb-866c-4146-8c59-a325ca9a56b9" },
+  { disc = 2, n = 2, title = "Coma", mbid = "0810cb5c-2f10-4d4f-afa5-e372b6e805bb" },
+  { disc = 2, n = 3, title = "Childhood (1)", mbid = "0f329177-b9ea-45a3-9c38-7d170c41559c" },
+  { disc = 2, n = 4, title = "From Prison to Hospital", mbid = "9c62b63f-2049-4f05-9e02-25a95e202af1" },
+  { disc = 2, n = 5, title = "Mother", mbid = "37d49d0c-7afb-4ac7-b60e-146bb06f7547" },
+  { disc = 2, n = 6, title = "Watching Lara", mbid = "eedadec2-b7a2-482c-aff3-20a596f795f2" },
+  { disc = 2, n = 7, title = "Selling Dishes", mbid = "55fc98b5-649d-4da6-8c35-61d925520b82" },
+  { disc = 2, n = 8, title = "First Rendez-Vous", mbid = "6965519b-fec4-40a1-8ce9-36b06eec4d18" },
+  { disc = 2, n = 9, title = "The Decant Session", mbid = "8db1f949-4539-48da-9208-1f6c6a2043bb" },
+  { disc = 2, n = 10, title = "Lara's Castle", mbid = "59ca9e4b-0057-4c66-85e7-631272f5a9ab" },
+  { disc = 2, n = 11, title = "The Deutsch Mark Is Coming", mbid = "d0145ca2-82ca-473e-9fef-08807534b624" },
+  { disc = 2, n = 12, title = "I Saw Daddy Today", mbid = "5c02d0b7-9093-4608-a346-adbd100be749" },
+  { disc = 2, n = 13, title = "Birthday Preparations", mbid = "fd7df41a-1ccf-41e9-9394-c71e467a94cd" },
+  { disc = 2, n = 14, title = "Good Bye Lenin", mbid = "0db359ff-211a-48ba-9ccc-8ec37a2f13b5" },
+  { disc = 2, n = 15, title = "Childhood (2)", mbid = "e20e5d31-0098-43c9-9bc8-4d0cff0d44dd" },
+  { disc = 2, n = 16, title = "Letters", mbid = "97193f84-03a2-401e-bdac-ac9219780f83" },
+  { disc = 2, n = 17, title = "Mother's Journey", mbid = "c34582cb-7e61-4836-a389-97ea2b3ede7f" },
+  { disc = 2, n = 18, title = "Preparations for the Last TV Fake", mbid = "c6d84240-2f0b-4f28-9886-6878d703dd32" },
+  { disc = 2, n = 19, title = "Mother Will Die", mbid = "278ae945-d5eb-411d-a49d-e376b9a7391a" },
+  { disc = 2, n = 20, title = "Father Is Late", mbid = "1442b672-fcb2-432a-a9aa-756b672b1c65" },
+  { disc = 2, n = 21, title = "Father and Mother", mbid = "36e4ec1a-1f8f-4520-b0cb-9e2c2d065262" },
+  { disc = 2, n = 22, title = "Finding the Money", mbid = "77719542-9af5-4ed4-9fc5-300248552ca9" },
+  { disc = 2, n = 23, title = "Summer 78", mbid = "f5e32acc-65af-4e66-9efb-0cbe60ccea96" },
+]
+
+[[release]]
+mbid = "7e7e7d50-49c6-4307-b1ad-4cdb1a3a6637"
+title = "EUSA"
+type = "ep"
+date = "2016"
+tracks = [
+  { n = 1, title = "Pern", mbid = "6f68bee8-e24a-4559-9bbb-654c21720454" },
+  { n = 2, title = "Porz Goret", mbid = "3887adf3-56af-46e2-a448-082f47cb11fe" },
+  { n = 3, title = "Roc'h Ar Vugale", mbid = "9c4c738d-763a-431a-a0fc-c6cee472f049" },
+  { n = 4, title = "Kadoran", mbid = "e39c48a0-5cc4-4b27-b2dd-1bf84e2daf78" },
+]
+
+[[release]]
+mbid = "697e3ffd-4aab-49e8-93de-ea94c178978b"
+title = "EUSA – Field Recordings"
+type = "ep"
+date = "2016"
+tracks = [
+  { n = 1, title = "Pern", mbid = "08550086-4eb8-4f56-a62a-155e9fcdc254" },
+  { n = 2, title = "Porz Goret", mbid = "a80b6fbf-d294-463f-bbe8-156a1fa89532" },
+  { n = 3, title = "Lok Gweltaz", mbid = "f70f1eea-ef22-4250-ab27-0a33b5a56a10" },
+  { n = 4, title = "Penn Ar Roc’h", mbid = "a7721a49-996b-48ba-95bc-5754983b7205" },
+  { n = 5, title = "Kereon", mbid = "f941095b-04b9-4d65-96ea-1b832114ddb7" },
+  { n = 6, title = "Yuzin", mbid = "e6510e86-feb6-4389-8191-d19256502004" },
+  { n = 7, title = "Roc’h Ar Vugale", mbid = "03df7249-fedb-42ce-9c0c-c82fa8971767" },
+  { n = 8, title = "Penn Ar Lann", mbid = "3ebca5d9-6e92-4834-b8a3-4462cf4897da" },
+  { n = 9, title = "Enez Nein", mbid = "5560375f-0def-4079-a48f-8cf18a86f3e2" },
+  { n = 10, title = "Kadoran", mbid = "36face5b-05a5-45ce-afd5-e36564d79d43" },
+]
+
+[[release]]
+mbid = "52a8aeea-fbe5-4950-a85c-c37d4b06b909"
+title = "Ouragan: Bande originale du film"
+type = "album"
+date = "2016-06-03"
+tracks = [
+  { n = 1, title = "Hurricane, Pt. 1", mbid = "d57b89b6-795e-48d4-8347-b0c612011433" },
+  { n = 2, title = "Porz Goret", mbid = "3887adf3-56af-46e2-a448-082f47cb11fe" },
+  { n = 3, title = "Storm Eye", mbid = "90d8bc17-27d0-4a55-9324-708c7baaaac7" },
+  { n = 4, title = "Hurricane, Pt. 2", mbid = "33fd87c3-bddb-41fc-b30a-b7071a36d9af" },
+  { n = 5, title = "Slippery Stones, Pt. 1", mbid = "e3b46bfe-ae7a-4004-b0ea-f824e56400f2" },
+  { n = 6, title = "Hurricane, Pt. 3", mbid = "a1f6bc7f-ffff-4b1d-86df-980f5f933470" },
+  { n = 7, title = "Forest", mbid = "71b31ccc-e50c-4dc5-9287-49dd2be7bbe1" },
+  { n = 8, title = "Cloud", mbid = "7b129eaf-298b-42e8-802f-e5fb7e0fea42" },
+  { n = 9, title = "Shrimp", mbid = "3563b34f-ad22-4a56-a07f-7e6ce1b12ac1" },
+  { n = 10, title = "Slippery Stones, Pt. 2", mbid = "4fdf19b1-6987-47f3-b76a-c7405ee4a2a3" },
+  { n = 11, title = "Hurricane (reprise)", mbid = "1f0d612e-0ce8-4797-9c21-215f17642bb6" },
+]
+
+[[release]]
+mbid = "ded2b9c2-3df2-4fc5-8130-3fbd36b6e7e6"
+title = "EUSA"
+type = "album"
+date = "2016-09-30"
+spotify = "5PltkUc68UtX8ZOWRQV8Qw"
+tracks = [
+  { n = 1, title = "Hent I", mbid = "66ebe45b-be05-4dc9-84df-f079d754cf2b" },
+  { n = 2, title = "Pern", mbid = "6f68bee8-e24a-4559-9bbb-654c21720454" },
+  { n = 3, title = "Hent II", mbid = "4243c578-5ec0-40a9-bee4-ab489dfd2875" },
+  { n = 4, title = "Porz Goret", mbid = "3887adf3-56af-46e2-a448-082f47cb11fe" },
+  { n = 5, title = "Lok Gweltaz", mbid = "f30cfc7b-09f5-440d-9ae9-70f34ae3b7d9" },
+  { n = 6, title = "Hent III", mbid = "1bc66ed1-7af1-4502-9d53-e964270ef58e" },
+  { n = 7, title = "Penn ar Roc’h", mbid = "a086948a-2385-4727-8583-3accfd53bf62" },
+  { n = 8, title = "Hent IV", mbid = "9745c281-ec13-457e-8d01-1bce47a77990" },
+  { n = 9, title = "Kereon", mbid = "1f38969e-767d-465a-85f6-fe0a789cadb6" },
+  { n = 10, title = "Hent V", mbid = "3c05d934-1a71-4566-a58e-25dba043c38e" },
+  { n = 11, title = "Yuzin", mbid = "b4091f3e-ed9e-4a35-a319-7f547a9d2a3b" },
+  { n = 12, title = "Roc’h ar Vugale", mbid = "9c4c738d-763a-431a-a0fc-c6cee472f049" },
+  { n = 13, title = "Hent VI", mbid = "7e68e4cf-af5c-4e5f-b5a5-b3917198ae74" },
+  { n = 14, title = "Penn ar Lann", mbid = "fbbd986f-1b9b-41a1-a752-a3c4dc3577dc" },
+  { n = 15, title = "Hent VII", mbid = "11d5fcbf-ebb8-4192-8f78-51475352ae17" },
+  { n = 16, title = "Enez Nein", mbid = "8d588220-fd86-49fa-9b24-86956d62c8f2" },
+  { n = 17, title = "Kadoran", mbid = "e39c48a0-5cc4-4b27-b2dd-1bf84e2daf78" },
+  { n = 18, title = "Hent VIII", mbid = "767691dc-ea17-43a9-96d2-618d220142f1" },
+]
+
+[[release]]
+mbid = "02dff797-d05b-48a9-9a76-9f037ff82268"
+title = "The Lost Notebook - EUSA"
+type = "single"
+date = "2018-06-14"
+tracks = [
+  { n = 1, title = "Kieler Lambaol", mbid = "43b764a6-4c1f-40c3-b3ca-28c513593af5" },
+  { n = 2, title = "Stang Al Laedroun", mbid = "a6760bff-400f-4d70-b3d6-9fa614085ecd" },
+]
+
+[[release]]
+mbid = "2696533e-0c35-44ac-9fa5-368d963e5396"
+title = "Hent"
+type = "single"
+date = "2018-09-28"
+tracks = [
+  { n = 1, title = "Hent", mbid = "77285496-d9ee-405c-9c20-7bdc3a99f2dc" },
+]
+
+[[release]]
+mbid = "6503fa9b-6e61-42e6-8d80-8a545cb26cb7"
+title = "ALL"
+type = "album"
+date = "2019-02-15"
+spotify = "659sFKpaSzFSZi6j9a5Wuj"
+tracks = [
+  { n = 1, title = "Tempelhof", mbid = "c602f929-4e41-46b1-bb3b-b222989fcdd3" },
+  { n = 2, title = "Koad", mbid = "a4a002ee-dbd9-4b7d-8c8d-78d87b6e6ef7" },
+  { n = 3, title = "Erc'h", mbid = "8bfa5c58-65b2-4df8-87ef-35314c80f3ef" },
+  { n = 4, title = "Usal Road", mbid = "ff62eec6-4f9a-400e-898c-e7cd0fc3bd3f" },
+  { n = 5, title = "Pell", mbid = "64c65e5f-d5d6-4567-b22b-0102293e63c4" },
+  { n = 6, title = "Bloavezhioù", mbid = "4e3fa10a-ebbb-417e-98c2-80f306bd515f" },
+  { n = 7, title = "Heol", mbid = "448f9668-e820-4e8c-a9f0-b6757803bbc7" },
+  { n = 8, title = "Gwennilied", mbid = "711fe65d-bd36-4526-8a28-4030d7397e27" },
+  { n = 9, title = "Aon", mbid = "4b68130f-d206-40e8-8294-95deeaca3d3c" },
+  { n = 10, title = "Prad", mbid = "cab647cb-4364-4025-b5d0-732a36155571" },
+  { n = 11, title = "Beure kentañ", mbid = "996ebc22-9c66-49ad-86a2-8dd1f5475891" },
+]
+
+[[release]]
+mbid = "78f6546b-b62e-40c5-bc75-1af4087f5811"
+title = "Monochrome / Introductory Movement"
+type = "single"
+date = "2019-10-07"
+spotify = "1FTYcTFgXRMR1TsvrYFHwV"
+tracks = [
+  { n = 1, title = "Monochrome (Portrait version)", mbid = "b8e6424a-aad3-4787-ac9d-a079664bf9ca" },
+  { n = 2, title = "Introductory Movement (Portrait version)", mbid = "f5b4cd5c-5a4b-4bf6-a3de-94392e77a9eb" },
+]
+
+[[release]]
+mbid = "a891279e-47db-4db7-a5f6-5ab7ebaf6959"
+title = "Portrait"
+type = "album"
+date = "2019-12-06"
+spotify = "2WOB6ZxWo17hxphoNinZYE"
+tracks = [
+  { disc = 1, n = 1, title = "Introductory Movement", mbid = "3dc3536d-a480-404e-ab88-9619e02c8e3f" },
+  { disc = 1, n = 2, title = "The Long Road", mbid = "4589daab-1825-4f07-a9c3-cc53fb88d47d" },
+  { disc = 1, n = 3, title = "Monochrome", mbid = "675eb3a9-00b1-4cd6-9b71-dfe616e9f48b" },
+  { disc = 1, n = 4, title = "Chapter 19", mbid = "7487c196-3020-4ad0-9d74-88a3385356b1" },
+  { disc = 1, n = 5, title = "Rue des cascades", mbid = "14d0770b-0c50-44c1-8456-562d0ab218ab" },
+  { disc = 1, n = 6, title = "The Old Man Still Wants It", mbid = "87ea4de1-ef45-41b5-a5c7-a05edf4ce9ba" },
+  { disc = 1, n = 7, title = "Gwennilied", mbid = "85602e00-4b26-478b-a607-89aa7cd08fd4" },
+  { disc = 1, n = 8, title = "Prad", mbid = "c3a4cede-b148-41d9-af12-42aa03c1eb47" },
+  { disc = 1, n = 9, title = "Diouz an Noz", mbid = "345a44ad-64e6-4010-ab4a-16abc8a18846" },
+  { disc = 1, n = 10, title = "Porz Goret", mbid = "24fe0c56-ec8e-427f-adf0-ea4b418f7dd9" },
+  { disc = 1, n = 11, title = "La Dispute", mbid = "6723c002-d653-48b1-b8d9-3f1de3dbf7d2" },
+  { disc = 1, n = 12, title = "Pell", mbid = "a09bf96e-d868-4eee-8111-994114a55eb3" },
+  { disc = 2, n = 1, title = "Erc’h", mbid = "35324341-4b3c-445f-91c1-54c061e06ca9" },
+  { disc = 2, n = 2, title = "The Wire", mbid = "a26dd495-99f4-4760-9725-5d75ffa5971b" },
+  { disc = 2, n = 3, title = "The Waltz of the Monsters", mbid = "a7d28a41-52c1-4a27-b2fe-ae8b7c630ea6" },
+  { disc = 2, n = 4, title = "Closer", mbid = "240609cb-8559-4165-83aa-78dbf6fd9c2c" },
+  { disc = 2, n = 5, title = "Naval", mbid = "3ffbb62f-a87f-4c15-affa-db245df44050" },
+  { disc = 2, n = 6, title = "The Jetty", mbid = "ae00944d-604c-4dbe-843f-9d806bdf2e92" },
+  { disc = 2, n = 7, title = "Koad", mbid = "d99b4ecc-3c4f-4903-b486-3b45ac07f078" },
+  { disc = 2, n = 8, title = "Prayer No. 2", mbid = "8496904a-2689-4843-b7d9-0f3f3390efe5" },
+  { disc = 2, n = 9, title = "Grønjørð", mbid = "3cf60c47-33fc-4af2-bffb-bd8b2237aeee" },
+  { disc = 2, n = 10, title = "Kala", mbid = "a2e434e2-bd27-4991-b68d-a1af6629d320" },
+  { disc = 2, n = 11, title = "Comptine d’un autre été (l’après‐midi)", mbid = "35493dc3-fe29-4f5a-a784-9d2e25302daf" },
+  { disc = 2, n = 12, title = "Tempelhof, Pt. 2", mbid = "989f175a-47f3-4a5d-ba2d-f552f652cd6e" },
+  { disc = 2, n = 13, title = "Thinking Like a Mountain", mbid = "9aded30b-b8fe-47d5-bbc0-f8e60eeec209" },
+]
+
+[[release]]
+mbid = "33aa2c99-3012-4ccd-9fc7-3e71705d356d"
+title = "Closer"
+type = "single"
+date = "2020"
+tracks = [
+  { n = 1, title = "Closer (Portrait version)", mbid = "240609cb-8559-4165-83aa-78dbf6fd9c2c" },
+]
+
+[[release]]
+mbid = "5384581f-3a38-4420-a548-116defc3d931"
+title = "Lagniappe Session"
+type = "ep"
+date = "2020-02-28"
+tracks = [
+  { n = 1, title = "Tribulations", mbid = "f7e2deb1-807d-4e86-8b9f-97a3496d4fa2" },
+  { n = 2, title = "If You Listen", mbid = "0f5cd72d-be3b-46a1-a202-a721469ec7f0" },
+  { n = 3, title = "Piano Phase", mbid = "aa7fc3eb-d2e2-4275-b5c1-c9169454377d" },
+]
+
+[[release]]
+mbid = "c5c2f8d5-6dc6-435d-8098-30a737875185"
+title = "Portrait Remixed"
+type = "single"
+date = "2020-10-21"
+tracks = [
+  { n = 1, title = "Prad (Alessandro Cortini remix)", mbid = "2a37c86a-1a07-4d01-aba3-046c08783f72" },
+  { n = 2, title = "Diouz An Noz (The Field remix)", mbid = "ab17cda7-d5b7-4d1d-8308-4da8c9e45192" },
+]
+
+[[release]]
+mbid = "517a7634-5cdc-43e4-9844-e863fb7c9899"
+title = "Ker al Loch"
+type = "single"
+date = "2021-05-06"
+spotify = "7bHBiQN4Y7Q6nqKF1f3EaA"
+tracks = [
+  { n = 1, title = "Ker al Loch", mbid = "4a3a03d1-030d-4ace-aef2-fcc7b242ece6" },
+  { n = 2, title = "Ker al Loch (edit)", mbid = "56122e3d-bcb5-4b28-9b30-a69fc462d4f0" },
+]
+
+[[release]]
+mbid = "b5e377d5-a856-40a3-bf4f-ea749a7c83bc"
+title = "Poull Bojer"
+type = "single"
+date = "2021-06-14"
+spotify = "1BRfNj9VgzKxXsNlKAoMCc"
+tracks = [
+  { n = 1, title = "Poull Bojer", mbid = "445221d1-0ec2-4c23-88c6-a617213d1d0f" },
+  { n = 2, title = "Ker al Loch", mbid = "4a3a03d1-030d-4ace-aef2-fcc7b242ece6" },
+  { n = 3, title = "Poull Bojer (edit)", mbid = "1f778bd0-d509-4d5e-9e72-00ad2d7ff53b" },
+  { n = 4, title = "Ker al Loch (edit)", mbid = "56122e3d-bcb5-4b28-9b30-a69fc462d4f0" },
+]
+
+[[release]]
+mbid = "e5115c85-000f-4970-a8e4-2d0264f0afd2"
+title = "Ker Yegu"
+type = "ep"
+date = "2021-08-05"
+spotify = "00yvaIQnDdy4kNnLSnB8ml"
+tracks = [
+  { n = 1, title = "Ker Yegu", mbid = "e897f5ea-a040-498a-9f3d-6f5bd51604bd" },
+  { n = 2, title = "Poull Bojer", mbid = "445221d1-0ec2-4c23-88c6-a617213d1d0f" },
+  { n = 3, title = "Ker al Loch", mbid = "4a3a03d1-030d-4ace-aef2-fcc7b242ece6" },
+  { n = 4, title = "Poull Bojer (edit)", mbid = "1f778bd0-d509-4d5e-9e72-00ad2d7ff53b" },
+  { n = 5, title = "Ker al Loch (edit)", mbid = "56122e3d-bcb5-4b28-9b30-a69fc462d4f0" },
+]
+
+[[release]]
+mbid = "ec43d0a9-bbd7-4771-849c-bf7dd2f08d2a"
+title = "Kerber"
+type = "album"
+date = "2021-08-27"
+spotify = "0L9QNawAYPBbMOkHD1tZOM"
+tracks = [
+  { n = 1, title = "Kerlann", mbid = "5cf35196-a6b8-4c14-bbf4-a39b6b466dd5" },
+  { n = 2, title = "Ar Maner Kozh", mbid = "13da6854-6cf2-4ef5-9265-f8f0ff3a82ab" },
+  { n = 3, title = "Kerdrall", mbid = "9838dfc7-d3f5-4412-bc6d-478949e59fd7" },
+  { n = 4, title = "Ker Yegu", mbid = "e897f5ea-a040-498a-9f3d-6f5bd51604bd" },
+  { n = 5, title = "Ker al Loch", mbid = "4a3a03d1-030d-4ace-aef2-fcc7b242ece6" },
+  { n = 6, title = "Kerber", mbid = "95c2624e-4eb8-4cfc-a709-89fdac25a398" },
+  { n = 7, title = "Poull Bojer", mbid = "445221d1-0ec2-4c23-88c6-a617213d1d0f" },
+]
+
+[[release]]
+mbid = "a0316dfd-9587-4dbc-a4d5-5766decd31e5"
+title = "Kerber (Solo Piano)"
+type = "album"
+date = "2022"
+spotify = "739SgH5SoCbzVOWQw59o5r"
+tracks = [
+  { n = 1, title = "Kerlann (Solo Piano)", mbid = "5686d651-773f-4e70-b05f-96c52aed8f88" },
+  { n = 2, title = "Ar Maner Kozh (Solo Piano)", mbid = "15211ab7-798e-4c73-bb96-375ba7392af1" },
+  { n = 3, title = "Kerdrall (Solo Piano)", mbid = "bf84c687-39bb-4ba0-972a-4c248c00786a" },
+  { n = 4, title = "Ker Yegu (Solo Piano)", mbid = "c6c18db2-ea90-4470-bfdc-842f7f63f191" },
+  { n = 5, title = "Ker al Loch (Solo Piano)", mbid = "b8a8b1b4-eacf-4828-bbe7-e37b54d72b70" },
+  { n = 6, title = "Kerber (Solo Piano)", mbid = "08dec762-2565-47de-8bbf-8a6982f472c3" },
+  { n = 7, title = "Poull Bojer (Solo Piano)", mbid = "3b37cbb8-b555-4cfa-b08f-9616fc1aff2e" },
+]
+
+[[release]]
+mbid = "56bf25f8-39d3-43fd-a90f-426f571ed777"
+title = "11 5 18 2 5 18"
+type = "ep"
+date = "2022-03-29"
+tracks = [
+  { n = 1, title = "11 5 18 2 5 18", mbid = "c5a3d45c-a957-4e95-895e-2d10363cac62" },
+  { n = 2, title = "16 15 21 12 12. 2 15 10 5 18", mbid = "82a31238-a129-4d85-b43f-0413fd119d64" },
+]
+
+[[release]]
+mbid = "76f3ea1b-8b2c-4b53-be85-dce968c4b4e2"
+title = "13 1 18 25 (6 5 1 20. 17 21 9 14 17 21 9 19)"
+type = "single"
+date = "2022-04-26"
+spotify = "1Q0xtlRDnKPR1S2Nniuo3m"
+tracks = [
+  { n = 1, title = "13 1 18 25 (6 5 1 20. 17 21 9 14 17 21 9 19)", mbid = "f54a107d-672c-4912-87b8-3cea49196cf7" },
+]
+
+[[release]]
+mbid = "101db416-7537-48a0-b6bb-1743868963fc"
+title = "Amélie's World: Piano Themes"
+type = "ep"
+date = "2022-05-12"
+tracks = [
+  { n = 1, title = "La Valse d’Amélie (from « Le Fabuleux Destin d’Amélie Poulain »)", mbid = "6030ba77-661c-4b72-9bcb-43041d8e4760" },
+  { n = 2, title = "Comptine d’un autre été, l’après‐midi (from « Le Fabuleux Destin d’Amélie Poulain »)", mbid = "583ed542-2835-4033-987d-d5d5bbdfb50b" },
+  { n = 3, title = "Le Moulin (from « Le Fabuleux Destin d’Amélie Poulain »)", mbid = "c8a95893-137b-451b-8c58-ade99515d6a7" },
+]
+
+[[release]]
+mbid = "084aeea8-914b-49a4-a7ce-7af43f2328c2"
+title = "11 5 18 2 5 18"
+type = "album"
+date = "2022-06-10"
+spotify = "0AHIRPTCUJ9mBKKP4M0kVs"
+tracks = [
+  { n = 1, title = "11 5 18 2 5 18", mbid = "c5a3d45c-a957-4e95-895e-2d10363cac62" },
+  { n = 2, title = "11 5 18. 1 12. 12 15 3 8", mbid = "dc513227-35bc-4cb8-a205-5080ee4e6e5f" },
+  { n = 3, title = "1 18. 13 1 14 5 18. 11 15 26 8", mbid = "edc4e8de-f974-4af7-954e-d96667484c88" },
+  { n = 4, title = "16 1 12 5 19 20 9 14 5", mbid = "d773c47c-9af1-4712-a121-e9e1e719a6eb" },
+  { n = 5, title = "3 8 1 16 20 5 18. 14 9 14 5 20 5 5 14", mbid = "fe64e783-b054-46f8-85ec-3516299aa204" },
+  { n = 6, title = "11 5 18 12 1 14 14", mbid = "a7eea966-1652-4603-9690-da697e60604b" },
+  { n = 7, title = "11 5 18. 25 5 7 21", mbid = "fbc242b6-10ea-45f3-892d-32dd1a84c321" },
+  { n = 8, title = "16 15 21 12 12. 2 15 10 5 18", mbid = "82a31238-a129-4d85-b43f-0413fd119d64" },
+  { n = 9, title = "13 1 18 25 (6 5 1 20. 17 21 9 14 17 21 9 19)", mbid = "f54a107d-672c-4912-87b8-3cea49196cf7" },
+]
+
+[[release]]
+mbid = "7d8e3a59-ed71-441d-bb5a-1adfbfe4d1d7"
+title = "Avant la chute"
+type = "single"
+date = "2022-08-11"
+tracks = [
+  { n = 1, title = "Avant la chute", mbid = "b5c6a18a-2f1d-41bb-bb00-9652fd8169e7" },
+]
+
+[[release]]
+mbid = "c5430a9c-b5d9-4279-bcab-b290f7aad94f"
+title = "Yann Tiersen: Ker Yegu"
+type = "single"
+date = "2023-01-05"
+spotify = "2PWfqg5f9XdayidXJS1hQ1"
+tracks = [
+  { n = 1, title = "Yann Tiersen: Ker Yegu", mbid = "bf163768-4e25-4994-9be6-cebdfbdfde5a" },
+]
+
+[[release]]
+mbid = "c8a3d379-3909-40c9-a67e-e17db2b502fb"
+title = "Yann Tiersen: Eusa"
+type = "album"
+date = "2023-01-13"
+spotify = "4POL65Wz3o7qMqLmJD215D"
+tracks = [
+  { n = 1, title = "Eusa: Pern. Intro", mbid = "32826b1a-8db2-45b6-9f02-b935044be1cb" },
+  { n = 2, title = "Eusa: Pern", mbid = "8c3a74b7-e5a5-4835-b4a1-d09538158623" },
+  { n = 3, title = "Eusa: Porz Goret. Intro", mbid = "3a194017-c779-4847-9ad2-f40138e8e475" },
+  { n = 4, title = "Eusa: Porz Goret", mbid = "5eb038f1-66e6-461f-9d10-f1d67e01d29b" },
+  { n = 5, title = "Eusa: Lok Gweltaz. Intro", mbid = "e1ea8475-0aaf-4e8c-8c58-12d1fb82d7e4" },
+  { n = 6, title = "Eusa: Lok Gweltaz", mbid = "2c085041-e696-4366-8684-39ef6dcebc83" },
+  { n = 7, title = "Eusa: Penn ar Roc’h. Intro", mbid = "e8a3d0c2-082e-4d44-88d7-78e8bbd075bf" },
+  { n = 8, title = "Eusa: Penn ar Roc’h", mbid = "b24db4b7-329d-4ad5-a93a-7b5c14223645" },
+  { n = 9, title = "Eusa: Kereon. Intro", mbid = "d7978632-a9dc-4b17-a586-f7bf81a5b289" },
+  { n = 10, title = "Eusa: Kereon", mbid = "6a1c76bc-241c-4b25-a2f4-f9c19d49b498" },
+  { n = 11, title = "Eusa: Yuzin. Intro", mbid = "a1527c58-0a3f-4569-88a2-548202b8cf29" },
+  { n = 12, title = "Eusa: Yuzin", mbid = "72c93a40-1198-4400-af47-ed59e86c5890" },
+  { n = 13, title = "Eusa: Roc’h ar Vugale. Intro", mbid = "c9dc4e55-0c47-4ea8-8d56-2b8f2843dd0e" },
+  { n = 14, title = "Eusa: Roc’h ar Vugale", mbid = "e18172d6-8fc8-4f38-b43c-68167b7c872a" },
+  { n = 15, title = "Eusa: Penn ar Lann. Intro", mbid = "8b83b3f8-a170-46db-af7b-8689dd7a38d1" },
+  { n = 16, title = "Eusa: Penn ar Lann", mbid = "912d3111-a592-4d0a-9010-7a30bc82bb0c" },
+  { n = 17, title = "Eusa: Enen Nein. Intro", mbid = "5ea35461-628e-49cb-a7b8-ae5195fc6092" },
+  { n = 18, title = "Eusa: Enen Nein", mbid = "dcbaddf3-3ec9-4271-8b25-a32891944cd3" },
+  { n = 19, title = "Eusa: Kadoran. Intro", mbid = "6ef01e79-186c-472a-8188-cef9d2710a22" },
+  { n = 20, title = "Eusa: Kadoran", mbid = "c9e6b056-5706-4612-b927-4e9a84fcd4f9" },
+]
+
+[[release]]
+mbid = "61ae236c-a064-4f91-8854-03703119d072"
+title = "Island"
+type = "album"
+date = "2023-03-01"
+spotify = "1bCy64lNDgka1uz6xz1iGP"
+tracks = [
+  { n = 1, title = "Yann Tiersen: Eusa: I. Pern", mbid = "6d8df94a-7b4a-4512-bb7e-dc2fd9d150e0" },
+  { n = 2, title = "Yann Tiersen: Eusa: II. Porz Goret", mbid = "a567b336-6dc4-4bc3-adf5-ac6e869372ea" },
+  { n = 3, title = "Yann Tiersen: Eusa: III. Lok Gweltaz", mbid = "d08eefc3-0067-43b4-9ab8-a8ec3e1f8b80" },
+  { n = 4, title = "Yann Tiersen: Eusa: IV. Penn Ar Roc’h", mbid = "2f28f15b-3547-4c7a-8f45-e13071bdcf6b" },
+  { n = 5, title = "Yann Tiersen: Eusa: V. Kereon", mbid = "91c45226-516a-40c1-9df4-6fefde459b83" },
+  { n = 6, title = "Yann Tiersen: Eusa: VI. Yuzin", mbid = "995a4df8-c054-460b-b0b0-4ab9e035f9b3" },
+  { n = 7, title = "Yann Tiersen: Eusa: VII. Roc’h Ar Vugale", mbid = "d468de3f-683d-4a56-8552-a3614c18c1a5" },
+  { n = 8, title = "Yann Tiersen: Eusa: VIII. Penn Ar Lann", mbid = "f0e44bd0-ce80-4a81-b774-6eb24f9dc66d" },
+  { n = 9, title = "Yann Tiersen: Eusa: IX. Enez Nein", mbid = "a109aa46-8f76-4d15-b20e-02ad57942154" },
+  { n = 10, title = "Yann Tiersen: Eusa: X. Kadoran", mbid = "aa6d346c-59d0-4e1c-887a-74b3a6438045" },
+  { n = 11, title = "Yann Tiersen: Kerber: I. Kerlann", mbid = "2ac5ae72-e6f8-4935-9303-f65c8d0d2ca3" },
+  { n = 12, title = "Yann Tiersen: Kerber: II. Ar Maner Kozh", mbid = "d920156c-761d-4fed-b049-e084e1638dc2" },
+  { n = 13, title = "Yann Tiersen: Kerber: III. Kerdrall", mbid = "ec79925e-4db1-4b86-b052-5b9a61ebf246" },
+  { n = 14, title = "Yann Tiersen: Kerber: IV. Ker Yegu", mbid = "da2b584c-abf6-4c9e-a916-b11e90bd8b29" },
+  { n = 15, title = "Yann Tiersen: Kerber: V. Ker al Loch", mbid = "0e12ad00-6c86-441f-9e87-1a23e5cb204b" },
+  { n = 16, title = "Yann Tiersen: Kerber: VI. Kerber", mbid = "72a6421f-b0ee-4923-b7c2-f41104893223" },
+  { n = 17, title = "Yann Tiersen: Kerber: VII. Poull Bojer", mbid = "ad74b683-579a-470f-9645-06663213bb84" },
+]
+
+[[release]]
+mbid = "33e67790-cafd-4a67-93a3-3c548956d53c"
+title = "Kergelen"
+type = "single"
+date = "2023-03-24"
+tracks = [
+  { n = 1, title = "Kergelen", mbid = "bfe6d20d-b23a-434e-9f6a-39bfcd8a7843" },
+]
+
+[[release]]
+mbid = "b0792561-bc91-45d3-899c-3a6d3d93249e"
+title = "Ker al Loch (Four Ways)"
+type = "ep"
+date = "2023-06-07"
+spotify = "0Dj7gv30Jz736jF3SRYtzS"
+tracks = [
+  { n = 1, title = "Ker al Loch (solo piano)", mbid = "b8a8b1b4-eacf-4828-bbe7-e37b54d72b70" },
+  { n = 2, title = "Ker al Loch", mbid = "4a3a03d1-030d-4ace-aef2-fcc7b242ece6" },
+  { n = 3, title = "11 5 18. 1 12. 12 15 3 8", mbid = "dc513227-35bc-4cb8-a205-5080ee4e6e5f" },
+  { n = 4, title = "Ker al Loch (Terence Fixmer remix 2)", mbid = "08309e61-6e85-46c9-9294-40b0bd62d6d7" },
+]
+
+[[release]]
+mbid = "e987aa95-5b9f-4c5f-879e-1c410c9734e6"
+title = "Ar Maner Kozh (Solo Piano)"
+type = "single"
+date = "2023-07-11"
+spotify = "2WxztFLfi2t4vnIHmZA9nL"
+tracks = [
+  { n = 1, title = "Ar Maner Kozh (Solo Piano)", mbid = "15211ab7-798e-4c73-bb96-375ba7392af1" },
+  { n = 2, title = "Ker al Loch (Solo Piano)", mbid = "b8a8b1b4-eacf-4828-bbe7-e37b54d72b70" },
+]
+
+[[release]]
+mbid = "8a90ba4e-4dbc-435e-81ca-e2d7244f8974"
+title = "Nivlenn"
+type = "single"
+date = "2023-08-01"
+spotify = "080T0yt5d0BiqGp5K2zOOt"
+tracks = [
+  { n = 1, title = "Nivlenn", mbid = "c3fdd17a-0cfa-4f6d-a626-21d5c1aad51b" },
+]
+
+[[release]]
+mbid = "631c0172-f383-4f1a-8473-8fb5e63f0b0f"
+title = "Ker Yegu (solo piano)"
+type = "single"
+date = "2023-08-22"
+spotify = "5LsJpshcisYFxW3wz8jUuc"
+tracks = [
+  { n = 1, title = "Ker Yegu (solo piano)", mbid = "c6c18db2-ea90-4470-bfdc-842f7f63f191" },
+  { n = 2, title = "Ar Maner Kozh (solo piano)", mbid = "15211ab7-798e-4c73-bb96-375ba7392af1" },
+  { n = 3, title = "Ker al Loch (solo piano)", mbid = "b8a8b1b4-eacf-4828-bbe7-e37b54d72b70" },
+]
+
+[[release]]
+mbid = "c56857c1-a9bd-4f19-b589-e8623626f5a9"
+title = "Ninnog at Sea | Rathlin From a Distance"
+type = "single"
+date = "2024-12-04"
+spotify = "2LRTCtbAUMdBFVMnC4NtCV"
+tracks = [
+  { n = 1, title = "Ninnog at Sea", mbid = "d6141c17-bc3c-4cf7-9281-5106e49a4a60" },
+  { n = 2, title = "Rathlin From a Distance", mbid = "4039664c-f1d7-4ea2-af32-74667a95562f" },
+]
+
+[[release]]
+mbid = "416978cc-b9cf-425c-805b-2c69feeae975"
+title = "Arne"
+type = "single"
+date = "2025-02-19"
+spotify = "0kpyqaABw73mlAJFryG544"
+tracks = [
+  { n = 1, title = "Arne", mbid = "489422b1-4ead-4702-a88f-fda6c26e1794" },
+  { n = 2, title = "Ninnog at Sea", mbid = "d6141c17-bc3c-4cf7-9281-5106e49a4a60" },
+  { n = 3, title = "Rathlin From a Distance", mbid = "4039664c-f1d7-4ea2-af32-74667a95562f" },
+]
+
+[[release]]
+mbid = "2f3d431f-f162-4d4a-a698-5e2469fda6a7"
+title = "Caledonian Canal"
+type = "ep"
+date = "2025-03-19"
+spotify = "2EHNSSQh7MvveLM5duWjpx"
+tracks = [
+  { n = 1, title = "Caledonian Canal", mbid = "30b109dd-a771-4b5c-aa22-c931e1a05b10" },
+  { n = 2, title = "Arne", mbid = "489422b1-4ead-4702-a88f-fda6c26e1794" },
+  { n = 3, title = "Rathlin from a Distance", mbid = "4039664c-f1d7-4ea2-af32-74667a95562f" },
+  { n = 4, title = "Ninnog at Sea", mbid = "d6141c17-bc3c-4cf7-9281-5106e49a4a60" },
+]
+
+[[release]]
+mbid = "3889a51d-b2c4-4ef0-94c1-d448bd94d4ad"
+title = "Rathlin From a Distance | The Liquid Hour"
+type = "album"
+date = "2025-04-04"
+spotify = "1p3tbReIFZTZBOGgWZXlwm"
+tracks = [
+  { n = 1, title = "Ninnog", mbid = "935129a8-8cef-4ada-bbe0-2eaca17ebff8" },
+  { n = 2, title = "Fastnet", mbid = "e4f5bded-81ad-4358-8aaa-c527f2c9d5d5" },
+  { n = 3, title = "Rathlin From a Distance", mbid = "4039664c-f1d7-4ea2-af32-74667a95562f" },
+  { n = 4, title = "Tórshavn", mbid = "2d56848c-febe-419a-b019-b126b20cd01a" },
+  { n = 5, title = "Norðragøta", mbid = "6210b592-8891-4132-90f5-8a69822f69bc" },
+  { n = 6, title = "Papa Stour", mbid = "57734cb5-95bc-45e5-a110-d73e1b0a8d92" },
+  { n = 7, title = "Bigton", mbid = "f2b3d7fc-1f8f-4121-a686-a2008097bd2d" },
+  { n = 8, title = "Caledonian Canal", mbid = "30b109dd-a771-4b5c-aa22-c931e1a05b10" },
+  { n = 9, title = "Stourm", mbid = "68bf46cc-d6cf-46a7-a65e-fed1418dc4e6" },
+  { n = 10, title = "Ninnog at Sea", mbid = "bd932812-4d88-4de9-9ece-3176547e6b57" },
+  { n = 11, title = "Arne", mbid = "489422b1-4ead-4702-a88f-fda6c26e1794" },
+  { n = 12, title = "The Liquid Hour", mbid = "444d4bfe-d138-4672-8fff-bb4834c2e3ba" },
+  { n = 13, title = "Dolores", mbid = "fb3ba5b3-71c1-4dfa-94e6-ab4739e0aa2d" },
+]
+
+[[release]]
+mbid = "031d93b2-c33c-4720-92bf-53b5689c4d65"
+title = "The River and the Sea Monster"
+type = "single"
+date = "2025-04-22"
+spotify = "2y0QixJxSnnyuMJMCgTHtH"
+tracks = [
+  { n = 1, title = "The River and the Sea Monster", mbid = "f22c6a6b-f45d-4cfb-97f7-58d2eb2bd61e" },
+]
+
+[[release]]
+mbid = "62eccc05-da97-4200-a0a0-0b690950604a"
+title = "Harmony"
+type = "single"
+date = "2026-01-20"
+spotify = "5dH4C9JTQryCq1AHAMEeyL"
+tracks = [
+  { n = 1, title = "Harmony", mbid = "bf83bb5f-adb5-4777-82b5-1ce430970790" },
+]

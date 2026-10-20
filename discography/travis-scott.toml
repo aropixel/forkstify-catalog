@@ -1,0 +1,802 @@
+format = 1
+
+[[release]]
+mbid = "6d3e2b34-df32-437e-8d60-b3b1469b4104"
+title = "The Graduates EP"
+type = "ep"
+date = "2008-11-25"
+tracks = [
+  { n = 1, title = "No Introductions", mbid = "9c1789a0-ab8c-45ff-8f1c-1bf946027cc7" },
+  { n = 2, title = "Instrumental", mbid = "077ae1e3-67cf-41f9-9d13-d26aed5f4f20" },
+  { n = 3, title = "Day 'n' Nite", mbid = "3977f605-2caa-4d08-90bf-01c4a2a6a38f" },
+  { n = 4, title = "Dream", mbid = "5202fb36-3358-4549-a3ff-3a7a55d962d2" },
+  { n = 5, title = "Instrumental 2", mbid = "6c4a0854-3320-44ac-852c-6164067324cf" },
+  { n = 6, title = "Rush", mbid = "4c9c04f5-82ca-4e07-b951-22ac37fd4b62" },
+  { n = 7, title = "Have You Ever Heard", mbid = "574f3359-fae6-46f9-a45e-ebf7d6946111" },
+  { n = 8, title = "Who Am I", mbid = "a0881740-f927-42e5-9e46-7518e5d28193" },
+]
+
+[[release]]
+mbid = "8ee2d94e-d49a-4815-bce6-f973e396f758"
+title = "Owl Pharaoh Bonus"
+type = "ep"
+date = "2013-01-01"
+tracks = [
+  { n = 1, title = "That B!tch Crazy", mbid = "03cb02e6-cd23-430d-a55c-63a8d4534f2e" },
+  { n = 2, title = "Analogue", mbid = "e6c3a713-9c3d-461e-b502-d0ee59cf5859" },
+  { n = 3, title = "God Level", mbid = "e761cc4f-1fc1-4994-ab3f-2469b661db5d" },
+  { n = 4, title = "Lights (Love Sick)", mbid = "30c4b26d-17e3-4f11-ae64-891eea9954ec" },
+  { n = 5, title = "Old English", mbid = "ce842a43-cf37-40f8-b6db-30a8f5645e17" },
+  { n = 6, title = "Pussy", mbid = "3445410f-2335-4bb6-843e-7ae7fe0fc0a9" },
+  { n = 7, title = "UP", mbid = "06edd593-ce79-4374-9119-ca982b2db83a" },
+]
+
+[[release]]
+mbid = "23ad0c84-c98d-4f60-b90a-7d471f7e5f90"
+title = "Upper Echelon"
+type = "single"
+date = "2013-05-21"
+spotify = "17cSW3X8DeEW7RRzPvcpLf"
+tracks = [
+  { n = 1, title = "Upper Echelon", mbid = "43c9c4ca-980b-4ab5-84ee-d13c0ff3b66a" },
+]
+
+[[release]]
+mbid = "0c149b46-f2ed-436a-8d16-056cfa23797e"
+title = "Don't Play"
+type = "single"
+date = "2014-07-11"
+tracks = [
+  { n = 1, title = "Don't Play", mbid = "27b9b4fd-78a5-418e-abbe-55a584a54160" },
+]
+
+[[release]]
+mbid = "99b99351-a780-428f-8e8c-b450b89bf9f5"
+title = "Mamacita"
+type = "single"
+date = "2014-12-02"
+spotify = "6oEICQkozJ4HRWsetBGUl7"
+tracks = [
+  { n = 1, title = "Mamacita", mbid = "d8b92728-13df-49f0-a414-a0c8fddd48ff" },
+]
+
+[[release]]
+mbid = "98875f0c-198a-4a34-a824-afd5d2f091cf"
+title = "High Fashion"
+type = "single"
+date = "2015-01-26"
+tracks = [
+  { n = 1, title = "High Fashion", mbid = "17a91f69-ccf2-4235-9770-7f381e4a0e11" },
+]
+
+[[release]]
+mbid = "f8aca034-f107-4adf-babc-7905a2b78e6d"
+title = "Nothing but Net"
+type = "single"
+date = "2015-01-26"
+tracks = [
+  { n = 1, title = "Nothing but Net", mbid = "defaf2fd-0aa7-447d-bf76-bc123db633a9" },
+]
+
+[[release]]
+mbid = "a8f5666a-812e-4f7f-a1a3-9a77a56d8075"
+title = "Vulnerable"
+type = "single"
+date = "2015-03-27"
+tracks = [
+  { n = 1, title = "Vulnerable (Sango remix)", mbid = "0ee17ddc-1336-490a-93b5-a75017efaf38" },
+]
+
+[[release]]
+mbid = "e11c1e60-14ea-498f-b16e-020bbbde7aad"
+title = "Night Riders"
+type = "single"
+date = "2015-04-20"
+spotify = "3TrvPGHFpkiFmlMtpOtQXI"
+tracks = [
+  { n = 1, title = "Night Riders", mbid = "8ca39d9e-e722-4aaa-9ec3-7c713b7170c4" },
+]
+
+[[release]]
+mbid = "f85577ab-e7f0-4cd4-8d99-801bed7016c8"
+title = "3500"
+type = "single"
+date = "2015-06-04"
+spotify = "4HgWHjupBWsH7oFb1ds2ur"
+tracks = [
+  { n = 1, title = "3500", mbid = "a7dfe032-f287-40da-9f71-f4a283ece06e" },
+]
+
+[[release]]
+mbid = "5a8d241a-e307-4ad0-91be-909c35f4f45d"
+title = "Antidote"
+type = "single"
+date = "2015-07-28"
+tracks = [
+  { n = 1, title = "Antidote", mbid = "0164f4b7-7631-41e7-b70f-1329a9b60795" },
+]
+
+[[release]]
+mbid = "e6c9fd37-0211-48a2-8927-d7ef284218c4"
+title = "Rodeo"
+type = "album"
+date = "2015-09-04"
+spotify = "7EGY16IWSHpPdoWazUyL9R"
+tracks = [
+  { n = 1, title = "Pornography", mbid = "d7b25f27-585f-4013-b41e-b40a7c3c6350" },
+  { n = 2, title = "Oh My Dis Side", mbid = "716d4e01-39cf-4342-a511-007d54a2052d" },
+  { n = 3, title = "3500", mbid = "8914cf3d-9b05-425b-8435-d2eb6e398d13" },
+  { n = 4, title = "Wasted", mbid = "8b5659b7-0e09-4343-9d36-4949a52c6462" },
+  { n = 5, title = "90210", mbid = "92155ba2-b134-4f38-b964-1d80eb1bd75e" },
+  { n = 6, title = "Pray 4 Love", mbid = "bd061645-c390-4fd8-b177-a2439381ccb7" },
+  { n = 7, title = "Nightcrawler", mbid = "3a662f09-d248-406c-9dce-e1313b009144" },
+  { n = 8, title = "Piss on Your Grave", mbid = "943e91e8-965c-4a4b-8b8e-4a6c15b80885" },
+  { n = 9, title = "Antidote", mbid = "0164f4b7-7631-41e7-b70f-1329a9b60795" },
+  { n = 10, title = "Impossible", mbid = "15f4aeb3-ed89-4fc0-b16d-132134f4eb23" },
+  { n = 11, title = "Maria I’m Drunk", mbid = "f3f44d7c-0a28-4fcd-9eb7-0837acdb702a" },
+  { n = 12, title = "Flying High", mbid = "f588ec42-c7d3-4910-83cb-b3d8dc71347a" },
+  { n = 13, title = "I Can Tell", mbid = "0381496f-b809-49e3-8817-ffb473bc434d" },
+  { n = 14, title = "Apple Pie", mbid = "976064bd-953f-4b6e-976e-7dad5b362d4e" },
+  { n = 15, title = "OK Alright", mbid = "f1ad13f1-dff9-4fb2-b423-88327ec5651d" },
+  { n = 16, title = "Never Catch Me", mbid = "8c0b0eb8-ccdb-491a-828a-3fe1f19a9584" },
+]
+
+[[release]]
+mbid = "2c2df063-cc49-45cc-a1a1-49a373e526e1"
+title = "Party 101"
+type = "single"
+date = "2015-11-23"
+tracks = [
+  { n = 1, title = "Party 101", mbid = "48e609fc-730b-4924-b372-5f8b745f5064" },
+]
+
+[[release]]
+mbid = "08982d4d-49ae-4b8c-b0a7-692992781f8a"
+title = "Wonderful"
+type = "single"
+date = "2015-12-31"
+tracks = [
+  { n = 1, title = "Wonderful", mbid = "98b60bfc-577a-4d93-84ab-1e22c5bd7e39" },
+]
+
+[[release]]
+mbid = "424bbf7f-6125-4815-ab9a-f30c5c350957"
+title = "Whole Lotta Lovin'"
+type = "single"
+date = "2016-01-08"
+tracks = [
+  { n = 1, title = "Whole Lotta Lovin'", mbid = "81b66d5e-d2f4-4f24-8f50-ef134c956ea0" },
+]
+
+[[release]]
+mbid = "1f825d78-c15d-4844-beab-8e56d723c11d"
+title = "Bake Sale"
+type = "single"
+date = "2016-01-21"
+tracks = [
+  { n = 1, title = "Bake Sale", mbid = "f6ceff5e-b7e1-4733-bedd-95e97487f84d" },
+]
+
+[[release]]
+mbid = "35f2a325-d155-4132-a483-ed91a0d3655c"
+title = "A-Team"
+type = "single"
+date = "2016-02-06"
+tracks = [
+  { n = 1, title = "A-Team", mbid = "aca1e3df-9dc6-4dbd-914d-9e3c2bde3109" },
+]
+
+[[release]]
+mbid = "c6109cae-d4b7-474b-a28b-d505c9eb77fb"
+title = "She Love Me"
+type = "single"
+date = "2016-05-18"
+tracks = [
+  { n = 1, title = "She Love Me", mbid = "024c921b-a95e-4f75-b31e-8b217f28162a" },
+]
+
+[[release]]
+mbid = "82b4f8c8-00d9-4933-9b37-e8985932bba2"
+title = "Pick Up the Phone"
+type = "single"
+date = "2016-06-03"
+spotify = "4MDMfOdhV1IyoRnklwOHG9"
+tracks = [
+  { n = 1, title = "Pick Up the Phone", mbid = "fddebde1-db77-4fc4-8a8c-c7d05c6e5427" },
+]
+
+[[release]]
+mbid = "0274a491-01cf-4692-a865-860cee75db16"
+title = "Champions"
+type = "single"
+date = "2016-06-13"
+spotify = "1xuSorM2dDIiB5zhftB5NY"
+tracks = [
+  { n = 1, title = "Champions", mbid = "7b1c3c7c-d249-4141-b32d-78fce51f91d6" },
+]
+
+[[release]]
+mbid = "c7f4cfe4-6cf0-490d-a84d-4222f3e52820"
+title = "No English"
+type = "single"
+date = "2016-06-17"
+tracks = [
+  { n = 1, title = "No English", mbid = "1132cef9-6800-4030-8ad8-72b48aaf8838" },
+]
+
+[[release]]
+mbid = "2d87c53b-5e6b-40c6-9c37-d7fe7bec08bd"
+title = "Birds in the Trap Sing McKnight"
+type = "album"
+date = "2016-09-02"
+spotify = "42WVQWuf1teDysXiOupIZt"
+tracks = [
+  { n = 1, title = "the ends", mbid = "2ff3e451-0704-4a6e-a6ee-ee511c92812d" },
+  { n = 2, title = "way back", mbid = "f3d59336-f486-4a49-86b9-9ce3d27fa984" },
+  { n = 3, title = "coordinate", mbid = "eff8545b-ed01-4efa-ab8e-5ae0a4f91c8c" },
+  { n = 4, title = "through the late night", mbid = "1dfc4537-6575-4e27-a47b-8bb69cc119eb" },
+  { n = 5, title = "beibs in the trap", mbid = "d7121a8c-9b79-4b4e-aa8b-e89cacf41e8f" },
+  { n = 6, title = "sdp interlude", mbid = "f2c1ef66-a862-4570-87c5-c9110beb51bb" },
+  { n = 7, title = "sweet sweet", mbid = "1a4e1c35-d88b-471f-886b-481769ec12b7" },
+  { n = 8, title = "outside", mbid = "0a7e93a0-e573-4d45-89c6-ea0d5465b3c8" },
+  { n = 9, title = "goosebumps", mbid = "05b394e8-3b2c-4cc4-9a2c-cbe2814d362c" },
+  { n = 10, title = "first take", mbid = "db1e6ad1-2fca-45b9-9510-1352989eea3c" },
+  { n = 11, title = "pick up the phone", mbid = "fddebde1-db77-4fc4-8a8c-c7d05c6e5427" },
+  { n = 12, title = "lose", mbid = "acc46287-aca9-4820-b7fc-3a50a0fafe32" },
+  { n = 13, title = "guidance", mbid = "338f7a8a-389a-4b57-9d11-ad582dadb3dd" },
+  { n = 14, title = "wonderful", mbid = "4d379c7e-7583-404b-9820-68716daec4eb" },
+]
+
+[[release]]
+mbid = "0010f94e-37b6-46ba-a334-505361fd304c"
+title = "Last Time"
+type = "single"
+date = "2016-09-02"
+spotify = "0STjpQNkautdy2ZFylIUPX"
+tracks = [
+  { n = 1, title = "Last Time", mbid = "839fe688-d230-4a63-9891-c774eab82641" },
+]
+
+[[release]]
+mbid = "ce9d1284-ecb5-4c73-b366-fcb1cb5eea48"
+title = "RaRa"
+type = "single"
+date = "2016-09-06"
+tracks = [
+  { n = 1, title = "RaRa", mbid = "d0001569-5a3c-4322-9bbb-76719b99b250" },
+]
+
+[[release]]
+mbid = "b0a2a0dc-338b-48da-b810-afb648936440"
+title = "Yeah Yeah"
+type = "single"
+date = "2017-02-10"
+tracks = [
+  { n = 1, title = "Yeah Yeah", mbid = "c7ef92ce-9598-4844-abce-8ff616607e46" },
+]
+
+[[release]]
+mbid = "6a7fbc8f-264d-4967-b832-d9f10d820ab1"
+title = "Go Off"
+type = "single"
+date = "2017-03-02"
+spotify = "3G9US0Byt1UldeKifKPIwa"
+tracks = [
+  { n = 1, title = "Go Off", mbid = "db569be0-49d6-4206-918f-4d29327d7331" },
+]
+
+[[release]]
+mbid = "73c40c14-c39b-4d72-8b39-2ac897b67991"
+title = "Lens"
+type = "single"
+date = "2017-04-24"
+tracks = [
+  { n = 1, title = "Lens", mbid = "911d0995-670e-4c2f-b417-7093cae5df5c" },
+]
+
+[[release]]
+mbid = "ad0468a5-0f65-4174-b17b-a33916f58f0c"
+title = "Love Galore"
+type = "single"
+date = "2017-04-28"
+tracks = [
+  { n = 1, title = "Love Galore", mbid = "056fbf4a-a354-447f-91a9-39e0fb823a64" },
+]
+
+[[release]]
+mbid = "b58b4425-3d38-451f-871d-267d0b15391e"
+title = "Green & Purple"
+type = "single"
+date = "2017-05-17"
+tracks = [
+  { n = 1, title = "Green & Purple", mbid = "dab21765-bc62-4e41-aa5a-ae4579dd42b8" },
+]
+
+[[release]]
+mbid = "70a5a155-9ae2-432c-9a11-e9aabb4a89c2"
+title = "BUTTERFLY EFFECT"
+type = "single"
+date = "2017-05-18"
+spotify = "4fOw7xSDwqb58Z2Qia5j81"
+tracks = [
+  { n = 1, title = "BUTTERFLY EFFECT", mbid = "303107f3-8bf0-4850-a0db-6b906954475f" },
+]
+
+[[release]]
+mbid = "1d9d8062-6afe-4ce6-9495-0044a4fd57a7"
+title = "A Man"
+type = "single"
+date = "2017-08-02"
+tracks = [
+  { n = 1, title = "A Man", mbid = "f38f1829-7302-4341-a227-50e7f201bafb" },
+]
+
+[[release]]
+mbid = "20834a19-89fd-410c-8dba-5f7124d93bd7"
+title = "Sky Walker"
+type = "single"
+date = "2017-08-25"
+tracks = [
+  { n = 1, title = "Sky Walker", mbid = "cdcc3265-09d1-47a1-9d0e-beedbfe1b897" },
+]
+
+[[release]]
+mbid = "705058ab-efba-46e4-9528-20c6c5b67644"
+title = "Blue Pill"
+type = "single"
+date = "2017-10-06"
+spotify = "3B59OoKAFqhbnNogoZEDLN"
+tracks = [
+  { n = 1, title = "Blue Pill", mbid = "d69a2e16-d89c-490c-87f8-6405fc5d6d77" },
+]
+
+[[release]]
+mbid = "419c9d43-d92b-41a3-be41-773ef37eea32"
+title = "Deserve"
+type = "single"
+date = "2017-10-12"
+tracks = [
+  { n = 1, title = "Deserve", mbid = "69f90044-bf91-4af2-96cf-be000e3aed36" },
+]
+
+[[release]]
+mbid = "84e570ba-c59c-4cff-b99f-f30013c37a1b"
+title = "Dark Knight Dummo"
+type = "single"
+date = "2017-12-06"
+spotify = "1WSnqA1LRyB0vXtbMUACUl"
+tracks = [
+  { n = 1, title = "Dark Knight Dummo", mbid = "531d303e-0c09-48f9-8a46-9b55a102d4ee" },
+]
+
+[[release]]
+mbid = "205922bf-0ee6-493c-bf77-60264dd7545a"
+title = "++* love hurts **"
+type = "single"
+date = "2018-05-02"
+tracks = [
+  { n = 1, title = "++* love hurts **", mbid = "2c68d898-dbbc-47f3-a3f6-9f5b7a8bd13e" },
+]
+
+[[release]]
+mbid = "3ee001a3-7d17-431d-a5d9-cbfec4b6b600"
+title = "Watch"
+type = "single"
+date = "2018-05-02"
+spotify = "7hVFsGvQ1apmp4EAldMwID"
+tracks = [
+  { n = 1, title = "Watch", mbid = "fbb4dfc8-b089-4167-8463-16ca6f27982b" },
+]
+
+[[release]]
+mbid = "c0704c7d-dc5b-43cd-b372-8056a3bf7bb2"
+title = "ASTROWORLD"
+type = "album"
+date = "2018-08-03"
+spotify = "5qeikHFUgeO8f8HXm8k4cA"
+tracks = [
+  { n = 1, title = "STARGAZING", mbid = "b5d19b4f-4930-499e-9587-17edd85bcd3c" },
+  { n = 2, title = "CAROUSEL", mbid = "b7b29561-6d87-4044-8d32-512507ef75ca" },
+  { n = 3, title = "SICKO MODE", mbid = "b7326a80-8332-4ee0-8238-d6737efba347" },
+  { n = 4, title = "R.I.P. SCREW", mbid = "d7a65159-053f-4e4a-a727-0801182b4c37" },
+  { n = 5, title = "STOP TRYING TO BE GOD", mbid = "f6f48aa1-df2b-4adf-82a6-847fc6f5c7ed" },
+  { n = 6, title = "NO BYSTANDERS", mbid = "10c2910a-7144-4ad2-8271-1fc57132527d" },
+  { n = 7, title = "SKELETONS", mbid = "7a394f0d-caeb-4e1c-b96e-b7e9f566bd5c" },
+  { n = 8, title = "WAKE UP", mbid = "2a35a530-cda4-45ed-b2f3-7a41ab3c5365" },
+  { n = 9, title = "5% TINT", mbid = "864b5a39-2ba5-4aad-adfb-c2138affd940" },
+  { n = 10, title = "NC‐17", mbid = "501e60bf-7a86-4ace-a37e-dc2749e9f073" },
+  { n = 11, title = "ASTROTHUNDER", mbid = "694f7088-87df-4219-84e1-e23b5177f802" },
+  { n = 12, title = "YOSEMITE", mbid = "6c32d47e-cd7b-4055-8617-8f5b59a08c73" },
+  { n = 13, title = "CAN’T SAY", mbid = "bfde919d-541d-4003-8cbf-03e36832f1bc" },
+  { n = 14, title = "WHO? WHAT!", mbid = "796632fc-2ec5-43c7-ad02-e9f434985780" },
+  { n = 15, title = "BUTTERFLY EFFECT", mbid = "303107f3-8bf0-4850-a0db-6b906954475f" },
+  { n = 16, title = "HOUSTONFORNICATION", mbid = "2aada037-6cb6-4c3f-8f9f-2e917c07e096" },
+  { n = 17, title = "COFFEE BEAN", mbid = "ce82ccad-c59d-4793-a1be-ccbb80cfceee" },
+]
+
+[[release]]
+mbid = "2d68e203-44d9-4924-ae1d-5425664aee4c"
+title = "Dangerous World"
+type = "single"
+date = "2018-08-03"
+tracks = [
+  { n = 1, title = "Dangerous World", mbid = "27edcc87-0af5-480b-8c78-f75bd97bb419" },
+]
+
+[[release]]
+mbid = "7408aa2c-05eb-48e1-9429-126c0d71da2f"
+title = "ZEZE"
+type = "single"
+date = "2018-10-11"
+spotify = "3XtuGV5BJAhCp82dBn0Gvd"
+tracks = [
+  { n = 1, title = "ZEZE", mbid = "330e0416-4dac-48f4-9444-bb6a248d3ce3" },
+]
+
+[[release]]
+mbid = "bd415c44-8810-4044-b616-18e3c244b346"
+title = "SICKO MODE"
+type = "single"
+date = "2018-10-20"
+tracks = [
+  { n = 1, title = "SICKO MODE", mbid = "69913c93-47b1-4196-acc9-f492f6db35f5" },
+]
+
+[[release]]
+mbid = "8861998a-6101-40d2-9d2f-d8e478af4da9"
+title = "CHopstix"
+type = "single"
+date = "2019-04-08"
+spotify = "0ZJ2W7Ctmqay08A61L0mBi"
+tracks = [
+  { n = 1, title = "CHopstix", mbid = "94c56fb1-228f-48db-8851-76602fb657aa" },
+]
+
+[[release]]
+mbid = "cbfd64ff-881c-4489-867c-d1535fee1a59"
+title = "Power Is Power"
+type = "single"
+date = "2019-04-18"
+spotify = "7BwM7gyMP3LUOmU6MOTuyF"
+tracks = [
+  { n = 1, title = "Power Is Power", mbid = "65a6dd39-83f9-4c72-af5c-52195dff83f3" },
+]
+
+[[release]]
+mbid = "79d5fe64-8305-411e-9840-e9963ed8b66f"
+title = "The London"
+type = "single"
+date = "2019-05-24"
+spotify = "6p9Y1K9yu3ojyS8fBJXUnp"
+tracks = [
+  { n = 1, title = "The London", mbid = "94853b83-5992-4744-a87b-d949b31cf775" },
+]
+
+[[release]]
+mbid = "1aca234a-1566-42a1-921a-88220d7d2bc1"
+title = "Antisocial"
+type = "single"
+date = "2019-07-11"
+spotify = "0RDH4M8AhISBHwCVr2ByYX"
+tracks = [
+  { n = 1, title = "Antisocial", mbid = "23b814ac-5ec1-4151-bcad-bc2a2d61abfe" },
+]
+
+[[release]]
+mbid = "f1cc8696-f40f-45d3-a0d5-8fd2d51defa8"
+title = "HIGHEST IN THE ROOM"
+type = "single"
+date = "2019-10-04"
+spotify = "2uDTi1PlpSpvAv7IRAoAEU"
+tracks = [
+  { n = 1, title = "HIGHEST IN THE ROOM", mbid = "818548d8-869f-49e4-97b5-aff0eac2aab0" },
+]
+
+[[release]]
+mbid = "fb4d67b3-74b2-49c7-b22a-10ae72dda1b0"
+title = "Turks"
+type = "single"
+date = "2020-03-27"
+spotify = "2nfOFXxNyf61geA17cW6e6"
+tracks = [
+  { n = 1, title = "Turks", mbid = "cc62a8d7-9e80-4be6-b83e-3e41ce6b581e" },
+]
+
+[[release]]
+mbid = "986c9fff-27ac-45bd-9f8a-6296f1c4bcad"
+title = "TKN"
+type = "single"
+date = "2020-05-28"
+spotify = "4KEOAWBMpvJrIZ7tQfx44i"
+tracks = [
+  { n = 1, title = "TKN", mbid = "5a4ea0e9-214f-4542-8a44-449d0f16e920" },
+]
+
+[[release]]
+mbid = "29203ca8-7246-4066-9d2c-d188a75088bb"
+title = "Wash Us in the Blood"
+type = "single"
+date = "2020-06-30"
+spotify = "7jQPy8GhgSuT5A54pb5sHx"
+tracks = [
+  { n = 1, title = "Wash Us in the Blood", mbid = "31c2a445-d153-423d-9acc-4e88d82ba4ca" },
+]
+
+[[release]]
+mbid = "9cf82a78-9d76-4d63-a71f-4ae9e0e2c9f1"
+title = "The Plan"
+type = "single"
+date = "2020-08-21"
+spotify = "4JKpscG2yqtSpBwLwj9sfq"
+tracks = [
+  { n = 1, title = "The Plan (from the motion picture “TENET”)", mbid = "80b417cf-434b-4d2a-a5fc-dc896416bbcc" },
+]
+
+[[release]]
+mbid = "88e8e6f0-a46d-442d-9ce3-847c193d264a"
+title = "FRANCHISE"
+type = "single"
+date = "2020-09-24"
+spotify = "1ibsVA454fNUlhU0WRO70o"
+tracks = [
+  { n = 1, title = "FRANCHISE", mbid = "5c0f34ca-afb1-4863-82b7-50ebdfd8e8f9" },
+]
+
+[[release]]
+mbid = "d073afee-169e-469f-9c0c-db856c61a160"
+title = "durag activity"
+type = "single"
+date = "2021-04-30"
+spotify = "350p5MCLCeqF7ffyry16MO"
+tracks = [
+  { n = 1, title = "durag activity", mbid = "c3c03b69-d93e-4308-b8bd-b5ee8e73b19a" },
+]
+
+[[release]]
+mbid = "7de82347-635d-4a2e-a559-f494f53d9535"
+title = "ESCAPE PLAN / MAFIA"
+type = "single"
+date = "2021-11-05"
+spotify = "5FB5E1fwFeVqpz2CCzRSve"
+tracks = [
+  { n = 1, title = "ESCAPE PLAN", mbid = "03fde392-103a-4381-bd7e-f397ed2cdfb0" },
+  { n = 2, title = "MAFIA", mbid = "38ebe9a4-7d50-42a8-bb18-9fb0ab70fd74" },
+]
+
+[[release]]
+mbid = "d8c4dd91-c12b-49d3-9ba2-71dccf238823"
+title = "Hold That Heat"
+type = "single"
+date = "2022-04-22"
+spotify = "27rslGtWf5WEDhLlG05r12"
+tracks = [
+  { n = 1, title = "Hold That Heat", mbid = "0a330a71-6335-4135-828e-c653443b94fa" },
+]
+
+[[release]]
+mbid = "87a0b3c0-fb66-473d-8281-2aababf4ee81"
+title = "Never Sleep"
+type = "single"
+date = "2022-07-29"
+spotify = "4DTaEd8bTR412zUcBqv2VN"
+tracks = [
+  { n = 1, title = "Never Sleep", mbid = "1eabf423-9fd2-4fda-a763-ae0b74fc2ae8" },
+]
+
+[[release]]
+mbid = "df8b38af-64ef-4478-a61f-e0fcde9a0bed"
+title = "No Time"
+type = "single"
+date = "2022-08-25"
+tracks = [
+  { n = 1, title = "No Time", mbid = "2fc4723c-1901-4f9a-adc5-d22187c485e7" },
+]
+
+[[release]]
+mbid = "c181ccb4-17d7-41d5-afad-cd14f57e9aba"
+title = "Down in Atlanta"
+type = "single"
+date = "2022-11-18"
+spotify = "3SxiMoJROq0kvfbQtd75xp"
+tracks = [
+  { n = 1, title = "Down in Atlanta", mbid = "ccff66fe-7b5b-42e7-898a-5324fd6540a2" },
+]
+
+[[release]]
+mbid = "f3bd9d69-46cb-4e89-97c9-852f8d730d03"
+title = "KRZY TRAIN"
+type = "single"
+date = "2023-01-19"
+spotify = "4O2XiThg74B4NEOOkwjt4k"
+tracks = [
+  { n = 1, title = "KRZY TRAIN", mbid = "9f6e2f22-6e78-4227-b08c-b196ca9e8add" },
+]
+
+[[release]]
+mbid = "2ef2bfbf-cc77-4361-8ba5-f73afebf55b8"
+title = "Ring Ring"
+type = "single"
+date = "2023-05-11"
+spotify = "6Op5Oqgnb443EjcHdAR5eY"
+tracks = [
+  { n = 1, title = "Ring Ring", mbid = "a59b2bf3-39de-4f24-9b2e-88e33f16ac1b" },
+]
+
+[[release]]
+mbid = "83321e07-f832-4e71-901b-2784dc4ea0e5"
+title = "K‐POP"
+type = "single"
+date = "2023-07-18"
+spotify = "0jiAYLsE1PumLJncO7vUIl"
+tracks = [
+  { n = 1, title = "K‐POP", mbid = "28ca224c-489c-48e6-b0d8-a7c67851d9ca" },
+  { n = 2, title = "K‐POP (Chopped & Screwed)", mbid = "3401501c-8b4b-4f99-aa36-89f922197870" },
+  { n = 3, title = "K‐POP (Instrumental)", mbid = "5adb7dfd-dd6b-4d6a-adad-eaa501a1001c" },
+  { n = 4, title = "K‐POP (Sped Up)", mbid = "790913a7-d603-49b6-be14-4b28534d713e" },
+]
+
+[[release]]
+mbid = "291dc698-69c2-4a4a-8ce5-a62aaed8e404"
+title = "MELTDOWN"
+type = "single"
+date = "2023-07-27"
+spotify = "61XhXTtorAgw4lRnh8GN0c"
+tracks = [
+  { n = 1, title = "MELTDOWN", mbid = "03510dcb-0a80-4aac-ac11-baf75dddfd17" },
+]
+
+[[release]]
+mbid = "6aa0496c-90a6-40dd-9f3f-686b3c7ffdb6"
+title = "DELRESTO (ECHOES)"
+type = "single"
+date = "2023-07-28"
+spotify = "0219TxSZyWhfo1DgafkjX2"
+tracks = [
+  { n = 1, title = "DELRESTO (ECHOES)", mbid = "db9445e4-767c-43c7-a624-49c646043ddd" },
+]
+
+[[release]]
+mbid = "eac07d92-86b1-4fa7-906d-ec3177f8ebc2"
+title = "UTOPIA"
+type = "album"
+date = "2023-07-28"
+spotify = "18NOKLkZETa4sWwLMIm0UZ"
+tracks = [
+  { n = 1, title = "HYAENA", mbid = "bc8db1f5-66aa-4cee-bb93-e6dda033aaf5" },
+  { n = 2, title = "THANK GOD", mbid = "3f111917-ccbd-43fd-bca1-bdd6379ad175" },
+  { n = 3, title = "MODERN JAM", mbid = "50352d66-a80b-41b5-8d32-7b7a3ee9c373" },
+  { n = 4, title = "MY EYES", mbid = "10615e42-e1ca-4d54-91ff-e81a50cd6e8d" },
+  { n = 5, title = "GOD’S COUNTRY", mbid = "afadc173-723d-40d8-baec-7b0f28ec91a2" },
+  { n = 6, title = "SIRENS", mbid = "8382152a-a8d9-4ba3-8542-316ec4a62c4c" },
+  { n = 7, title = "AYE!", mbid = "23281490-b449-4c56-8cd8-2470015db5d3" },
+  { n = 8, title = "FE!N", mbid = "f8d87ff7-ff8e-4ddc-97ba-66eb80580d80" },
+  { n = 9, title = "DELRESTO (ECHOES)", mbid = "db9445e4-767c-43c7-a624-49c646043ddd" },
+  { n = 10, title = "I KNOW ?", mbid = "7b5f4f0d-fbde-481b-b211-c662a835e455" },
+  { n = 11, title = "TOPIA TWINS", mbid = "c9e0f136-24aa-48f6-89a4-5e19f13ba2c3" },
+  { n = 12, title = "CIRCUS MAXIMUS", mbid = "49c9bc60-3778-4184-900c-d4df574b86bf" },
+  { n = 13, title = "PARASAIL", mbid = "323c965b-1079-43a4-81a8-819cd17033ca" },
+  { n = 14, title = "SKITZO", mbid = "2d0975f6-6833-40af-a47f-d9ac9dbb5536" },
+  { n = 15, title = "LOST FOREVER", mbid = "769de054-ccd4-483d-8d53-cebcd973dfe6" },
+  { n = 16, title = "LOOOVE", mbid = "7901af2d-87d5-4387-8135-e15e6408c951" },
+  { n = 17, title = "K‐POP", mbid = "28ca224c-489c-48e6-b0d8-a7c67851d9ca" },
+  { n = 18, title = "TELEKINESIS", mbid = "0df1d027-bec2-40cc-901a-cdbaf66f2239" },
+  { n = 19, title = "TIL FURTHER NOTICE", mbid = "b98e7007-db7f-45b1-b4b7-e448ac8600dc" },
+]
+
+[[release]]
+mbid = "eaeaacfc-b352-4b4c-a70d-65635d926161"
+title = "AT THE PARTY"
+type = "single"
+date = "2023-11-03"
+spotify = "0kXRXezhirr0900HvfPYHV"
+tracks = [
+  { n = 1, title = "AT THE PARTY", mbid = "222a7e49-d1dd-4162-a879-9c1867fd3f68" },
+]
+
+[[release]]
+mbid = "4b49d0e1-cd32-4ede-a9ad-3c7ed604bcef"
+title = "Holly Jolly Christmas Type Beat"
+type = "single"
+date = "2023-12-25"
+tracks = [
+  { n = 1, title = "Holly Jolly Christmas Type Beat", mbid = "5a9bd4d8-6a2a-4f81-bedd-0fdbe672b0e6" },
+]
+
+[[release]]
+mbid = "d5777871-8cec-42f2-afbd-e1f0b7ef35f9"
+title = "née‐nah"
+type = "single"
+date = "2024-01-12"
+spotify = "4rdRRSa0PSQca066SdtsWT"
+tracks = [
+  { n = 1, title = "née‐nah", mbid = "0d10a467-935a-4779-be87-ce227b0a1ace" },
+]
+
+[[release]]
+mbid = "a80015ee-c4b4-4f32-b9d9-b99e94d863a5"
+title = "Parking Lot"
+type = "single"
+date = "2024-06-21"
+spotify = "6YQ5Y4ITpAQCANWhNHraXi"
+tracks = [
+  { n = 1, title = "Parking Lot", mbid = "9d72e1f8-ab73-4130-9f51-9608c5ec1d36" },
+]
+
+[[release]]
+mbid = "f6ed245a-70b8-4ed0-8fa2-ba501b8ced67"
+title = "Active"
+type = "single"
+date = "2024-08-06"
+spotify = "7pjNsxzij0oRzYy1xSSnzP"
+tracks = [
+  { n = 1, title = "Active", mbid = "c06d0e57-5c99-44e8-87dd-2e818a83584a" },
+]
+
+[[release]]
+mbid = "8542706c-38ae-4dc1-a85b-d1cfb274d167"
+title = "4X4"
+type = "single"
+date = "2025-01-24"
+spotify = "3bTbGN3QwizcRPt5SBHKT6"
+tracks = [
+  { n = 1, title = "4X4", mbid = "e6b55015-a520-4981-9258-972b7ab8c900" },
+]
+
+[[release]]
+mbid = "04844ccb-cadb-4a55-849c-86afcd6127de"
+title = "ILMB"
+type = "single"
+date = "2025-04-09"
+spotify = "0OORiZ1arhRjbiSzNq9itT"
+tracks = [
+  { n = 1, title = "ILMB", mbid = "d2427241-9925-4dc4-b087-23b320fd8bb6" },
+]
+
+[[release]]
+mbid = "858dfa6e-8f52-4586-a3e5-4e8b50d5805b"
+title = "TaTaTa"
+type = "single"
+date = "2025-05-21"
+spotify = "5g7VbiVwXeu8lVdj4tpAZ5"
+tracks = [
+  { n = 1, title = "TaTaTa", mbid = "b686965e-17b5-4ed6-97e0-1f669c5323c5" },
+]
+
+[[release]]
+mbid = "0eade730-4d0a-4d28-ac91-6ac6ee471e00"
+title = "CHAMPAIN & VACAY"
+type = "single"
+date = "2025-07-11"
+spotify = "14otbl3uzw1CGMcBlu2Ykt"
+tracks = [
+  { n = 1, title = "CHAMPAIN & VACAY", mbid = "f32247af-799f-4eb1-89e8-ae443f39819b" },
+]
+
+[[release]]
+mbid = "cb5c4bd4-195c-46e2-8f56-b826c90c8388"
+title = "SHYNE"
+type = "single"
+date = "2025-07-11"
+spotify = "1oPsvUo8WLjJmwHKVCZoLK"
+tracks = [
+  { n = 1, title = "SHYNE", mbid = "b67d71b7-1586-42cb-8ecc-145109194902" },
+]
+
+[[release]]
+mbid = "25c7aaac-b556-45df-9152-36b801ca2fa6"
+title = "GASS"
+type = "single"
+date = "2026-09-03"
+tracks = [
+  { n = 1, title = "GASS", mbid = "62a6a958-d694-4a76-b6c4-95ec7750f342" },
+]
+
+[[release]]
+mbid = "bb8a0930-7666-4fa5-a10b-2417211fc003"
+title = "RHYNO"
+type = "single"
+date = "2026-09-17"
+spotify = "5Csu5sbvhYVlDJ24hRWXns"
+tracks = [
+  { n = 1, title = "RHYNO", mbid = "1fe52bac-f8d2-42fa-8e62-f406798f3b50" },
+]

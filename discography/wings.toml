@@ -1,0 +1,539 @@
+format = 1
+
+[[release]]
+mbid = "ddf9c700-2c00-3ea3-bb1f-7bf314ed88fa"
+title = "Wild Life"
+type = "album"
+date = "1971-12-07"
+spotify = "1NkCbzb5GYIdcZwwbxb5PC"
+tracks = [
+  { n = 1, title = "Mumbo", mbid = "3b7a4099-2b7f-43df-a359-b01cff6dac83" },
+  { n = 2, title = "Bip Bop", mbid = "ec41e67a-4aa8-49a7-a783-e6820411ef0b" },
+  { n = 3, title = "Love Is Strange", mbid = "5621e8fc-d8da-4748-8b6b-b26f6cda9714" },
+  { n = 4, title = "Wild Life", mbid = "7428bf6d-9725-4792-b384-c261f3692bcd" },
+  { n = 5, title = "Some People Never Know", mbid = "62ac88f8-684a-4221-a838-d7f725940666" },
+  { n = 6, title = "I Am Your Singer", mbid = "14c92206-bcba-451f-9039-7d8e2afb605f" },
+  { n = 7, title = "Bip Bop Link", mbid = "8b832af2-ca3c-455c-83e1-753f3b77b096" },
+  { n = 8, title = "Tomorrow", mbid = "015e3438-95cc-4459-95ac-59722a69d87b" },
+  { n = 9, title = "Dear Friend", mbid = "26af8a8e-6157-4643-a0db-efb43e4e63a6" },
+  { n = 10, title = "Mumbo Link", mbid = "1d6a09ff-9c71-4189-b04c-f63483556f2e" },
+]
+
+[[release]]
+mbid = "b9c568d8-121a-34d8-94b0-a01dea63f761"
+title = "Give Ireland Back to the Irish"
+type = "single"
+date = "1972-02-25"
+tracks = [
+  { n = 1, title = "Give Ireland Back to the Irish", mbid = "545b8164-223f-4650-ac1d-dfbbd681223d" },
+  { n = 2, title = "Give Ireland Back to the Irish (version)", mbid = "da31e729-850b-4029-a7c7-edd1e6b46565" },
+]
+
+[[release]]
+mbid = "63989975-80d6-301d-bba5-70c85cc23e98"
+title = "Mary Had a Little Lamb / Little Woman Love"
+type = "single"
+date = "1972-05-12"
+tracks = [
+  { n = 1, title = "Mary Had a Little Lamb", mbid = "6c163239-15b6-470c-b198-11100ed520bd" },
+  { n = 2, title = "Little Woman Love", mbid = "5fa90ff8-8af1-4d52-aaf3-99811082261c" },
+]
+
+[[release]]
+mbid = "4841359f-a3f4-3d1b-89cf-cab57bb793dd"
+title = "Hi, Hi, Hi / C Moon"
+type = "single"
+date = "1972-12-01"
+tracks = [
+  { n = 1, title = "Hi Hi Hi", mbid = "3ca1acb6-4e0e-4808-967a-36ac9f908258" },
+  { n = 2, title = "C’Moon", mbid = "0fea6f66-e69d-49d0-9e13-91bccf9eaec6" },
+]
+
+[[release]]
+mbid = "0e33bbf8-32f7-46ad-919f-6bfc5fcacecf"
+title = "Jet / Let Me Roll It"
+type = "single"
+date = "1973"
+tracks = [
+  { n = 1, title = "Jet", mbid = "32809cb7-a074-4e6d-92d7-ef5625bc530f" },
+  { n = 2, title = "Let Me Roll It", mbid = "01f610a3-7667-431e-93b4-7632d9f3ef1b" },
+]
+
+[[release]]
+mbid = "b874afa8-15f5-403c-9ff7-bb4aa0c6bd4e"
+title = "Live and Let Die / I Lie Around"
+type = "single"
+date = "1973"
+tracks = [
+  { n = 1, title = "Live and Let Die", mbid = "ad23e670-2655-4ac6-8e56-8f09a3e0e80c" },
+  { n = 2, title = "I Lie Around", mbid = "e6bcf32f-c17b-4b7f-b8c8-34feda8e7b37" },
+]
+
+[[release]]
+mbid = "dce59555-4bd4-47bb-8a3f-975b9f57937c"
+title = "Mrs. Vandebilt / Bluebird"
+type = "single"
+date = "1973"
+tracks = [
+  { n = 1, title = "Mrs. Vandebilt", mbid = "dc4a9d72-4e55-4ad7-8792-5b943770119e" },
+  { n = 2, title = "Bluebird", mbid = "ab9f9811-36d8-4845-a10e-1babca4f547a" },
+]
+
+[[release]]
+mbid = "68643828-42f3-49b0-a18f-4c78db1fc7fa"
+title = "My Love / The Mess"
+type = "single"
+date = "1973-03-23"
+tracks = [
+  { n = 1, title = "My Love", mbid = "99e4a37d-a266-4391-bd1b-34923a4652d5" },
+  { n = 2, title = "The Mess", mbid = "e9c7aeac-a272-4e75-99e5-122eb0065eba" },
+]
+
+[[release]]
+mbid = "e8bd188c-deb4-398b-bde8-3a58f7f5c4b4"
+title = "Red Rose Speedway"
+type = "album"
+date = "1973-05-04"
+spotify = "0ht0PyiPPsG3mYqvFhTfgD"
+tracks = [
+  { n = 1, title = "Big Barn Bed", mbid = "f6a22de4-eddb-410f-8dd4-a9c0fe6cd838" },
+  { n = 2, title = "My Love", mbid = "99e4a37d-a266-4391-bd1b-34923a4652d5" },
+  { n = 3, title = "Get on the Right Thing", mbid = "10364c7f-8387-4d07-85a7-dc41973374b1" },
+  { n = 4, title = "Only One More Kiss", mbid = "86f46a6f-07d7-489a-a892-03bf946d3d54" },
+  { n = 5, title = "Little Lamb Dragonfly", mbid = "b30928f6-2f09-42aa-8071-d7e63859680d" },
+  { n = 6, title = "Single Pigeon", mbid = "98957311-f972-4146-a20b-9acd0b542221" },
+  { n = 7, title = "When the Night", mbid = "d59faa82-6ae7-4645-a110-419ac163f0a0" },
+  { n = 8, title = "Loup (1st Indian on the Moon)", mbid = "df6a8c04-0053-47d3-a97e-4585ff90d7b6" },
+  { n = 9, title = "Medley: Hold Me Tight / Lazy Dynamite / Hands of Love / Power Cut", mbid = "b1b337d7-8793-451c-991f-09cf862d11ec" },
+]
+
+[[release]]
+mbid = "623414b7-ed89-4919-861a-b325501fa330"
+title = "Helen Wheels / Country Dreamer"
+type = "single"
+date = "1973-10-26"
+tracks = [
+  { n = 1, title = "Helen Wheels", mbid = "c5efcd6d-2122-46e9-bb37-f2d1ff9226cb" },
+  { n = 2, title = "Country Dreamer", mbid = "b6813998-c8dd-435b-b3b6-40bb7e3b07ac" },
+]
+
+[[release]]
+mbid = "2b678170-1c4e-3e61-b18c-f889fc1537b3"
+title = "Band on the Run"
+type = "album"
+date = "1973-11-30"
+spotify = "257oomaawruFknt5wYCPDh"
+tracks = [
+  { n = 1, title = "Band on the Run", mbid = "db6c7347-34e9-4023-acf4-a1ce6d0f409b" },
+  { n = 2, title = "Jet", mbid = "32809cb7-a074-4e6d-92d7-ef5625bc530f" },
+  { n = 3, title = "Bluebird", mbid = "ab9f9811-36d8-4845-a10e-1babca4f547a" },
+  { n = 4, title = "Mrs Vandebilt", mbid = "dc4a9d72-4e55-4ad7-8792-5b943770119e" },
+  { n = 5, title = "Let Me Roll It", mbid = "01f610a3-7667-431e-93b4-7632d9f3ef1b" },
+  { n = 6, title = "Mamunia", mbid = "3e47441d-63a7-4863-b26e-ecdf030cefb6" },
+  { n = 7, title = "No Words", mbid = "80e69805-9bae-447a-befd-af9e0624621b" },
+  { n = 8, title = "Picasso’s Last Words (Drink to Me)", mbid = "cfca0a63-3b0d-458d-bc35-ea220b6c342d" },
+  { n = 9, title = "Nineteen Hundred and Eighty Five", mbid = "7db57fbb-dbcd-485a-ba31-943764135615" },
+]
+
+[[release]]
+mbid = "f00f6a97-4ddf-4731-a688-515283744dd1"
+title = "Band on the Run / Nineteen Hundred and Eighty Five"
+type = "single"
+date = "1974"
+tracks = [
+  { n = 1, title = "Band on the Run", mbid = "db6c7347-34e9-4023-acf4-a1ce6d0f409b" },
+  { n = 2, title = "Nineteen Hundred and Eighty Five", mbid = "7db57fbb-dbcd-485a-ba31-943764135615" },
+]
+
+[[release]]
+mbid = "75d662bc-516d-4c91-a187-c2de35d691b6"
+title = "Jet / Mamunia"
+type = "single"
+date = "1974-01-28"
+tracks = [
+  { n = 1, title = "Jet", mbid = "32809cb7-a074-4e6d-92d7-ef5625bc530f" },
+  { n = 2, title = "Mamunia", mbid = "3e47441d-63a7-4863-b26e-ecdf030cefb6" },
+]
+
+[[release]]
+mbid = "770eabad-bff6-4e22-b970-2ebc64bfffc2"
+title = "Band on the Run / Zoo Gang"
+type = "single"
+date = "1974-07"
+tracks = [
+  { n = 1, title = "Band on the Run", mbid = "db6c7347-34e9-4023-acf4-a1ce6d0f409b" },
+  { n = 2, title = "Zoo Gang", mbid = "1ac4197f-562f-4cc9-9c60-13e87c7d9313" },
+]
+
+[[release]]
+mbid = "d4340a75-8963-478d-bc02-54987d8a5ec3"
+title = "Walking in the Park With Eloise / Bridge on the River Suite"
+type = "single"
+date = "1974-10-18"
+tracks = [
+  { n = 1, title = "Walking in the Park With Eloise", mbid = "5a0e5f52-ee0d-4bad-980c-febc45c4b2eb" },
+  { n = 2, title = "Bridge on the River Suite", mbid = "e7f5061b-d000-4878-8333-5602ea9323d9" },
+]
+
+[[release]]
+mbid = "b826154b-2fe5-309e-859a-4b7286c287d2"
+title = "Junior’s Farm / Sally G"
+type = "single"
+date = "1974-10-25"
+tracks = [
+  { n = 1, title = "Junior’s Farm", mbid = "834a51a6-6362-4eee-b0ec-8948182bf03f" },
+  { n = 2, title = "Sally G", mbid = "3f8c320d-25fb-4d92-8118-19554f98ca57" },
+]
+
+[[release]]
+mbid = "f2606a94-bb60-4103-8897-5c35d2bc3cde"
+title = "Listen to What the Man Said"
+type = "single"
+date = "1975-05-16"
+tracks = [
+  { n = 1, title = "Listen to What the Man Said", mbid = "c5af1cb4-2169-4f7c-beb6-606f0da110b3" },
+  { n = 2, title = "Love in Song", mbid = "e2c71318-2ea6-4738-8d92-b9628e554eef" },
+]
+
+[[release]]
+mbid = "0dd4d0ee-1a30-3d65-b11d-bb9d4e305ffa"
+title = "Venus and Mars"
+type = "album"
+date = "1975-05-30"
+spotify = "5B1c0VlK24gvkbJx2g9Ft9"
+tracks = [
+  { n = 1, title = "Venus and Mars", mbid = "cba8da57-e361-44b0-a5e5-fb61263b3f86" },
+  { n = 2, title = "Rock Show", mbid = "e7c4c2b6-cab9-4328-8ae6-13336dc5f505" },
+  { n = 3, title = "Love in Song", mbid = "e2c71318-2ea6-4738-8d92-b9628e554eef" },
+  { n = 4, title = "You Gave Me the Answer", mbid = "18c7181a-fa8b-4ff3-a54f-99279ddf05a6" },
+  { n = 5, title = "Magneto and Titanium Man", mbid = "3a279db4-abb7-4f43-b649-e61ee987dc84" },
+  { n = 6, title = "Letting Go", mbid = "f075c48b-1f77-48f2-b5ff-77803c8b1d98" },
+  { n = 7, title = "Venus and Mars (reprise)", mbid = "3d36dfc2-d03e-417f-8b68-6f0b3bb4b083" },
+  { n = 8, title = "Spirits of Ancient Egypt", mbid = "3e9cb42c-bc7c-47f0-9a89-fb59b9a88caf" },
+  { n = 9, title = "Medicine Jar", mbid = "e8cb867b-1f46-4d7b-b56b-3318b687316d" },
+  { n = 10, title = "Call Me Back Again", mbid = "e845030b-e27d-4231-b446-e5eb7fbeb3e7" },
+  { n = 11, title = "Listen to What the Man Said", mbid = "c5af1cb4-2169-4f7c-beb6-606f0da110b3" },
+  { n = 12, title = "Treat Her Gently / Lonely Old People", mbid = "f4cc0b91-5eac-43d3-9893-761f75be7b84" },
+  { n = 13, title = "Crossroads Theme", mbid = "4a0a6af9-2356-486b-be58-692904a522be" },
+]
+
+[[release]]
+mbid = "f8f7c873-a6b7-4663-bc19-c491b7b1592b"
+title = "Letting Go"
+type = "single"
+date = "1975-10-04"
+tracks = [
+  { n = 1, title = "Letting Go", mbid = "dd700a02-7c59-41ff-9869-d2b8f298ea30" },
+  { n = 2, title = "You Gave Me the Answer", mbid = "18c7181a-fa8b-4ff3-a54f-99279ddf05a6" },
+]
+
+[[release]]
+mbid = "fde8e016-c09b-4770-9c09-46a7ed5aa4fa"
+title = "Venus and Mars / Rock Show"
+type = "single"
+date = "1975-10-27"
+tracks = [
+  { n = 1, title = "Venus and Mars / Rock Show", mbid = "7b990fb4-0bc7-426a-a4de-99db5bce4ae3" },
+  { n = 2, title = "Magneto and Titanium Man", mbid = "3a279db4-abb7-4f43-b649-e61ee987dc84" },
+]
+
+[[release]]
+mbid = "0b2cbdd8-440a-3503-947e-4643fae1aa2d"
+title = "Wings at the Speed of Sound"
+type = "album"
+date = "1976-03-25"
+spotify = "3eN0kcFvDvdpjAvv1qZa4D"
+tracks = [
+  { n = 1, title = "Let ’Em In", mbid = "c1848ac5-5553-4869-aab9-2548dcd0ec63" },
+  { n = 2, title = "The Note You Never Wrote", mbid = "5d8786b0-068c-42a7-821c-fa102082c143" },
+  { n = 3, title = "She’s My Baby", mbid = "df75a6de-2302-44ae-b12e-fde328c95238" },
+  { n = 4, title = "Beware My Love", mbid = "083deb78-ff69-497d-9aeb-4bbefd16f947" },
+  { n = 5, title = "Wino Junko", mbid = "4c73be9f-af53-402c-a8e5-8150d7e98e9c" },
+  { n = 6, title = "Silly Love Songs", mbid = "804faa86-7dc5-49b3-a151-9382e58f2eeb" },
+  { n = 7, title = "Cook of the House", mbid = "0a3d51ce-4c42-4e64-ad5d-21326386c472" },
+  { n = 8, title = "Time to Hide", mbid = "9f66e9cd-eab1-42f7-a30f-8a96b210f0c7" },
+  { n = 9, title = "Must Do Something About It", mbid = "822b4ada-27f5-41f1-90cb-0d8295e99b80" },
+  { n = 10, title = "San Ferry Anne", mbid = "52a71f36-748c-4e74-8b22-fe167a32ede8" },
+  { n = 11, title = "Warm and Beautiful", mbid = "e3948b97-607e-4d02-9ec2-c48b8a4e5841" },
+]
+
+[[release]]
+mbid = "11824ede-ccc9-4bb9-a4bf-f7ddcbcc8851"
+title = "Silly Love Songs / Cook of The House"
+type = "single"
+date = "1976-04"
+tracks = [
+  { n = 1, title = "Silly Love Songs", mbid = "804faa86-7dc5-49b3-a151-9382e58f2eeb" },
+  { n = 2, title = "Cook of the House", mbid = "0a3d51ce-4c42-4e64-ad5d-21326386c472" },
+]
+
+[[release]]
+mbid = "6ec21f13-21ab-31c7-91a8-242a8612badb"
+title = "Let ’em In / Beware My Love"
+type = "single"
+date = "1976-06-28"
+tracks = [
+  { n = 1, title = "Let ’em In", mbid = "c1848ac5-5553-4869-aab9-2548dcd0ec63" },
+  { n = 2, title = "Beware My Love", mbid = "083deb78-ff69-497d-9aeb-4bbefd16f947" },
+]
+
+[[release]]
+mbid = "f6e6589c-5de6-3403-a205-f39fcfeedcb0"
+title = "Mull of Kintyre / Girls School"
+type = "single"
+date = "1977"
+tracks = [
+  { n = 1, title = "Mull of Kintyre", mbid = "80effee3-06bf-4ea2-b4c3-296428df7415" },
+  { n = 2, title = "Girls’ School", mbid = "ec179b9d-912d-4044-b598-7ffbca434d10" },
+]
+
+[[release]]
+mbid = "7a3843cf-0d84-39f2-b646-5e59b72a61a6"
+title = "Seaside Woman"
+type = "single"
+date = "1977"
+tracks = [
+  { n = 1, title = "Seaside Woman", mbid = "f5cdb578-ce7c-438f-b46c-2306bcae6a1e" },
+  { n = 2, title = "B-Side to Seaside", mbid = "47a3eff5-190e-4aeb-b864-9de355fe04b9" },
+]
+
+[[release]]
+mbid = "e87088dc-2aa7-4f6b-8d39-ab22cf2d0c76"
+title = "With a Little Luck"
+type = "single"
+date = "1978-03-24"
+tracks = [
+  { n = 1, title = "With a Little Luck", mbid = "c441869b-ac00-4a6f-9075-bcbdb66dd1e3" },
+  { n = 2, title = "Backwards Traveller", mbid = "d8acfb00-3868-4173-8ff4-5b4b57e91ef5" },
+  { n = 3, title = "Cuff Link", mbid = "a7f486e9-a879-48d8-9c05-a26af547e688" },
+]
+
+[[release]]
+mbid = "83946933-8806-39e8-ba01-b868abc3f0bc"
+title = "London Town"
+type = "album"
+date = "1978-03-31"
+spotify = "5ye0I2FTRyBCNSbxk5KsTk"
+tracks = [
+  { n = 1, title = "London Town", mbid = "30dd2b44-ee35-45f1-a5d7-9e57c8fbcc9d" },
+  { n = 2, title = "Cafe on the Left Bank", mbid = "bd100ce4-4d5e-413e-9899-5aeb9ce6242d" },
+  { n = 3, title = "I’m Carrying", mbid = "88c371be-c83c-4dc5-94d8-747ab9d2558c" },
+  { n = 4, title = "Backwards Traveller", mbid = "d8acfb00-3868-4173-8ff4-5b4b57e91ef5" },
+  { n = 5, title = "Cuff Link", mbid = "a7f486e9-a879-48d8-9c05-a26af547e688" },
+  { n = 6, title = "Children Children", mbid = "4727c9b9-db2c-4adb-9e96-8c9146471f3e" },
+  { n = 7, title = "Girlfriend", mbid = "2b66cbd1-9028-49b5-b198-5091285c6c92" },
+  { n = 8, title = "I’ve Had Enough", mbid = "54785d05-1b92-402c-8ffa-933b473ab15a" },
+  { n = 9, title = "With a Little Luck", mbid = "b762e196-05c9-4622-bf1c-b36f9a2099ac" },
+  { n = 10, title = "Famous Groupies", mbid = "d56dbbd2-198d-4be7-8f56-f38ca4d0376a" },
+  { n = 11, title = "Deliver Your Children", mbid = "cb55ea60-5120-48ef-aa07-2bc0a3aad18a" },
+  { n = 12, title = "Name and Address", mbid = "b60b3aa3-4c0f-4848-a1ba-067e4fda4718" },
+  { n = 13, title = "Don’t Let It Bring You Down", mbid = "fccb48fe-af7c-419f-85a4-74073ef51fbe" },
+  { n = 14, title = "Morse Moose and the Grey Goose", mbid = "c754eb74-c075-47a8-ab3e-87a83b3d4871" },
+]
+
+[[release]]
+mbid = "cb9c53d7-8b97-4ec7-abf4-0c631a5ee266"
+title = "I've Had Enough"
+type = "single"
+date = "1978-06-16"
+tracks = [
+  { n = 1, title = "I've Had Enough", mbid = "54785d05-1b92-402c-8ffa-933b473ab15a" },
+  { n = 2, title = "Deliver Your Children", mbid = "cb55ea60-5120-48ef-aa07-2bc0a3aad18a" },
+]
+
+[[release]]
+mbid = "e9689cbd-448a-442a-aaef-f9c91ef58e70"
+title = "London Town"
+type = "single"
+date = "1978-08-26"
+tracks = [
+  { n = 1, title = "London Town", mbid = "30dd2b44-ee35-45f1-a5d7-9e57c8fbcc9d" },
+  { n = 2, title = "I’m Carrying", mbid = "88c371be-c83c-4dc5-94d8-747ab9d2558c" },
+]
+
+[[release]]
+mbid = "127274d7-9fae-44b0-9366-5c0eb7b28f06"
+title = "Goodnight Tonight"
+type = "single"
+date = "1979-03-26"
+tracks = [
+  { n = 1, title = "Goodnight Tonight", mbid = "5090e22e-947f-4b90-b497-c0841847751d" },
+  { n = 2, title = "Daytime Nightime Suffering", mbid = "2a605231-ea0d-4654-94e7-307755d29ce2" },
+]
+
+[[release]]
+mbid = "f66e00fa-272c-3ca0-8fc3-f184482e6c69"
+title = "Back to the Egg"
+type = "album"
+date = "1979-05-24"
+spotify = "3zMRSD0zUqopFPaoER2ODc"
+tracks = [
+  { n = 1, title = "Reception", mbid = "58ea87fe-ab57-4bc2-b699-c81d5d4d09ff" },
+  { n = 2, title = "Getting Closer", mbid = "4dda038f-8db6-4860-aa48-adc0f4037eb6" },
+  { n = 3, title = "We're Open Tonight", mbid = "4215a9cf-4a29-43bd-9d75-c2546019d300" },
+  { n = 4, title = "Spin It On", mbid = "3cbd66ce-cb2f-476a-a1f0-db63bf7e0c95" },
+  { n = 5, title = "Again and Again and Again", mbid = "7b621f09-e7e4-4614-a35d-c4ee10280e19" },
+  { n = 6, title = "Old Siam, Sir", mbid = "dd81a108-5b18-43cb-b2f0-7ef36dbf33de" },
+  { n = 7, title = "Arrow Through Me", mbid = "cb0af6b7-420a-4356-8ab0-96800148df41" },
+  { n = 8, title = "Rockestra Theme", mbid = "e92fb958-5824-4f0e-a9ba-ebd8ff5469c5" },
+  { n = 9, title = "To You", mbid = "1f4fd9ef-1e6f-4a40-a8a1-af3fafba2f11" },
+  { n = 10, title = "After the Ball / Million Miles", mbid = "2b70034d-4d68-45f3-8cf7-c36ed59b0242" },
+  { n = 11, title = "Winter Rose / Love Awake", mbid = "f9ffab86-51fe-482d-898b-361a6fa7b29f" },
+  { n = 12, title = "The Broadcast", mbid = "d04ee6af-d505-4a6d-ab61-4a741062884e" },
+  { n = 13, title = "So Glad to See You Here", mbid = "8d12b495-951b-49be-a442-04c7c1f70cb7" },
+  { n = 14, title = "Baby's Request", mbid = "a86f35ed-b7bf-413a-8636-3d18bcbd0e1d" },
+]
+
+[[release]]
+mbid = "0d0c91dd-5a2c-4e3e-81f9-b5295a933317"
+title = "Getting Closer / Spin It On"
+type = "single"
+date = "1979-06"
+tracks = [
+  { n = 1, title = "Getting Closer", mbid = "03cffdc6-5358-4eb3-a4fa-f0d264a272ae" },
+  { n = 2, title = "Spin It On", mbid = "acbf99aa-ca1d-4c7a-b452-b3816a8fb18f" },
+]
+
+[[release]]
+mbid = "0865f747-b850-4eb2-a7cd-2d9eb9bc47e3"
+title = "Old Siam, Sir"
+type = "single"
+date = "1979-06-01"
+tracks = [
+  { n = 1, title = "Old Siam, Sir", mbid = "dd81a108-5b18-43cb-b2f0-7ef36dbf33de" },
+  { n = 2, title = "Spin It On", mbid = "3cbd66ce-cb2f-476a-a1f0-db63bf7e0c95" },
+]
+
+[[release]]
+mbid = "e4328c90-cc5b-4bf4-a877-e9e264489d97"
+title = "Arrow Through Me"
+type = "single"
+date = "1979-08-14"
+tracks = [
+  { n = 1, title = "Arrow Through Me", mbid = "cb0af6b7-420a-4356-8ab0-96800148df41" },
+  { n = 2, title = "Old Siam, Sir", mbid = "dd81a108-5b18-43cb-b2f0-7ef36dbf33de" },
+]
+
+[[release]]
+mbid = "47e7726f-8e7b-4ff7-8dbe-9276c0aff2e1"
+title = "Getting Closer / Baby’s Request"
+type = "single"
+date = "1979-08-16"
+tracks = [
+  { n = 1, title = "Getting Closer", mbid = "03cffdc6-5358-4eb3-a4fa-f0d264a272ae" },
+  { n = 2, title = "Baby’s Request", mbid = "a86f35ed-b7bf-413a-8636-3d18bcbd0e1d" },
+]
+
+[[release]]
+mbid = "d1aaa3bf-40fa-4f69-a75a-de799d3a9fe0"
+title = "Maybe I’m Amazed"
+type = "single"
+date = "2013"
+tracks = [
+  { disc = 1, n = 1, title = "Maybe I’m Amazed (short version)", mbid = "90153e0c-7ca1-452e-9bbd-679f8461f5e9" },
+  { disc = 1, n = 2, title = "Maybe I’m Amazed (album version)", mbid = "dfd027c6-2056-4b26-8280-f4e91e2dcffc" },
+  { disc = 2, n = 1, title = "Maybe I’m Amazed (short version)", mbid = "cc7982a3-fbb5-40a0-89d6-b4befc6997e0" },
+  { disc = 2, n = 2, title = "Maybe I’m Amazed (album version)", mbid = "7c1ce9ce-d946-4240-a766-d5bcea74232d" },
+]
+
+[[release]]
+mbid = "f2708d52-eef2-4f39-b8e6-779f890a04d8"
+title = "Letting Go (extended version)"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Letting Go (extended version)", mbid = "a9e99d29-f405-42c1-aefd-e7aa2685586b" },
+]
+
+[[release]]
+mbid = "154fa51b-70a4-4c25-a14a-005176e0778a"
+title = "Love My Baby (From ‘One Hand Clapping’)"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Love My Baby (From ‘One Hand Clapping’)", mbid = "51b3728b-43d6-4e53-bbaa-4adfbfff74f1" },
+]
+
+[[release]]
+mbid = "e517bf68-da23-4365-af51-777db1bff57b"
+title = "Rock Show (new version)"
+type = "single"
+date = "2014-11-05"
+tracks = [
+  { n = 1, title = "Rock Show (new version)", mbid = "308fc701-3324-4cb8-b14b-6dde8699407b" },
+]
+
+[[release]]
+mbid = "25d154ff-f336-4d1e-b775-a7763a1a6d4e"
+title = "Nineteen Hundred and Eighty Five"
+type = "single"
+date = "2016-05-13"
+tracks = [
+  { n = 1, title = "Nineteen Hundred and Eighty Five (radio edit)", mbid = "75c54f75-b819-429a-a063-5c5cb12a54aa" },
+  { n = 2, title = "Nineteen Hundred and Eighty Five", mbid = "569439a3-37cc-482c-b923-ccdc47b5df71" },
+  { n = 3, title = "Nineteen Hundred and Eighty Five (club mix)", mbid = "5caf2e51-ce5f-4599-827a-588cc6a86440" },
+]
+
+[[release]]
+mbid = "e42008a9-c8c1-439d-b6df-7e65de67f0c2"
+title = "Band on the Run (Underdubbed mix)"
+type = "single"
+date = "2023-12-07"
+spotify = "391TZzS13fNdJ8Dk2AN0oO"
+tracks = [
+  { n = 1, title = "Band on the Run (Underdubbed mix)", mbid = "d2ceb1ef-4fcf-45a5-ac6f-e23000799870" },
+]
+
+[[release]]
+mbid = "df864d3f-e7d1-4806-a645-3c52a9715963"
+title = "Junior’s Farm (One Hand Clapping Sessions)"
+type = "single"
+date = "2024-04-26"
+tracks = [
+  { n = 1, title = "Junior’s Farm (One Hand Clapping Sessions)", mbid = "88451077-a2a4-4bc1-9b66-06a71223b8f4" },
+]
+
+[[release]]
+mbid = "6b2f58d7-34af-455f-b0e7-f2980200504c"
+title = "Hi, Hi, Hi / Junior’s Farm (One Hand Clapping)"
+type = "single"
+date = "2024-05-17"
+tracks = [
+  { n = 1, title = "Hi, Hi, Hi (One Hand Clapping)", mbid = "ed80d989-bcae-4cf0-a8b9-186e8f8765d5" },
+  { n = 2, title = "Junior’s Farm (One Hand Clapping)", mbid = "d837f21e-75a4-4854-8477-2fef3fed0b2b" },
+]
+
+[[release]]
+mbid = "67a99bff-e5c1-4f6a-828d-7b39871d4376"
+title = "One Hand Clapping – The Backyard (One Hand Clapping Sessions)"
+type = "ep"
+date = "2024-06-14"
+tracks = [
+  { n = 1, title = "Blackpool (One Hand Clapping Sessions)", mbid = "abfd325a-1a79-4619-825c-39cf055d8ce4" },
+  { n = 2, title = "Blackbird (One Hand Clapping Sessions)", mbid = "5a1c1a2f-3751-4e79-80ad-ba744d0564b5" },
+  { n = 3, title = "Country Dreamer (One Hand Clapping Sessions)", mbid = "39537c83-e878-4f0a-b838-fc17b91894c3" },
+  { n = 4, title = "Twenty Flight Rock (One Hand Clapping Sessions)", mbid = "0f6edfb5-4bfb-4e3d-91a4-84518c628f17" },
+  { n = 5, title = "Peggy Sue (One Hand Clapping Sessions)", mbid = "1cace59a-f0c5-4b27-9ecb-f3aa16046ebe" },
+  { n = 6, title = "I’m Gonna Love You Too (One Hand Clapping Sessions)", mbid = "9c263844-006c-4c25-ad42-c494b7817336" },
+]
+
+[[release]]
+mbid = "aa5c18f9-2174-4af9-91ac-549b081e5a40"
+title = "Man on the Run: Music From the Motion Picture Soundtrack"
+type = "album"
+date = "2026-02-27"
+spotify = "61ejPrybX5dxW0lc57wTOW"
+tracks = [
+  { n = 1, title = "Silly Love Songs (demo)", mbid = "843cf423-a7c2-48d0-b92a-4d6e653e4e15" },
+  { n = 2, title = "That Would Be Something", mbid = "84af2bb0-4442-4125-a23c-d8d3cf40e4b7" },
+  { n = 3, title = "Long Haired Lady", mbid = "3bc409d3-c180-4d81-8527-48613e8f7b4e" },
+  { n = 4, title = "Too Many People", mbid = "d9c6ba9d-c20c-45c4-8f20-408ed9331c1d" },
+  { n = 5, title = "Big Barn Bed", mbid = "f6a22de4-eddb-410f-8dd4-a9c0fe6cd838" },
+  { n = 6, title = "Gotta Sing Gotta Dance", mbid = "02963c46-c23b-4e11-8feb-32cd4046df10" },
+  { n = 7, title = "Live and Let Die (Rockshow)", mbid = "56f30057-342b-4311-8b88-2dd763f5d87d" },
+  { n = 8, title = "Band on the Run", mbid = "db6c7347-34e9-4023-acf4-a1ce6d0f409b" },
+  { n = 9, title = "Arrow Through Me (rough mix)", mbid = "1fb4e100-1c56-4b5b-9a53-8be30a6c50ea" },
+  { n = 10, title = "Mull of Kintyre", mbid = "80effee3-06bf-4ea2-b4c3-296428df7415" },
+  { n = 11, title = "Coming Up", mbid = "cd7dc999-5ca1-41a2-a5b0-8271ab36d87e" },
+  { n = 12, title = "Let Me Roll It", mbid = "01f610a3-7667-431e-93b4-7632d9f3ef1b" },
+]

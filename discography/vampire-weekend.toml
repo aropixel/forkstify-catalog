@@ -1,0 +1,428 @@
+format = 1
+
+[[release]]
+mbid = "44878c8d-4b85-3d7b-9ed2-143b9fbb9169"
+title = "Vampire Weekend"
+type = "ep"
+date = "2007"
+tracks = [
+  { n = 1, title = "Cape Cod Kwassa Kwassa", mbid = "787ed53a-da3f-4527-82e8-48eff8d8541a" },
+  { n = 2, title = "A-Punk", mbid = "81241097-a6f7-402b-b600-0603d6475633" },
+  { n = 3, title = "Oxford Comma", mbid = "96a6cbf8-228f-4da9-868d-9f5b13741377" },
+]
+
+[[release]]
+mbid = "6719eb4c-42fb-3118-84a2-98c2fdbca79f"
+title = "Vampire Weekend"
+type = "album"
+date = "2007-04"
+spotify = "5fedTyx7AnXeyxLL0giq6x"
+tracks = [
+  { n = 1, title = "Mansard Roof", mbid = "e217d422-47a3-4270-88b0-e331f3dc3722" },
+  { n = 2, title = "Oxford Comma", mbid = "96a6cbf8-228f-4da9-868d-9f5b13741377" },
+  { n = 3, title = "A-Punk", mbid = "81241097-a6f7-402b-b600-0603d6475633" },
+  { n = 4, title = "Cape Cod Kwassa Kwassa", mbid = "787ed53a-da3f-4527-82e8-48eff8d8541a" },
+  { n = 5, title = "M79", mbid = "69cf57b5-96c9-49c3-96a7-7828b0776dff" },
+  { n = 6, title = "Campus", mbid = "1703691a-ec5d-45ae-a880-f3f2a6f7843c" },
+  { n = 7, title = "Bryn", mbid = "736789f2-4c5d-454e-ade8-92e5aadbf37a" },
+  { n = 8, title = "One (Blake’s Got a New Face)", mbid = "c041669b-fb6f-4587-8b84-0795015f540e" },
+  { n = 9, title = "I Stand Corrected", mbid = "ff31b822-12f7-4b2c-a215-ab720caa9a6f" },
+  { n = 10, title = "Walcott", mbid = "9ff88e67-33db-4fd1-a741-2faf9a74c525" },
+  { n = 11, title = "The Kids Don’t Stand a Chance", mbid = "ade146d9-5444-4402-ae12-7e9282b8ad2c" },
+]
+
+[[release]]
+mbid = "7ce522b8-a001-3fa5-a02b-bd3b3ddec910"
+title = "Mansard Roof"
+type = "single"
+date = "2007-10-22"
+spotify = "19aVS0GYRKKGUPBIE7GajJ"
+tracks = [
+  { n = 1, title = "Mansard Roof", mbid = "e217d422-47a3-4270-88b0-e331f3dc3722" },
+]
+
+[[release]]
+mbid = "16cc9bf1-e3e4-3569-8515-953fb1e5607f"
+title = "A-Punk"
+type = "single"
+date = "2008-02-25"
+tracks = [
+  { disc = 1, n = 1, title = "A-Punk", mbid = "81241097-a6f7-402b-b600-0603d6475633" },
+  { disc = 1, n = 2, title = "Oxford Comma (rehearsal version)", mbid = "614da0ef-5f6a-413c-9eaf-47f29bb9a469" },
+  { disc = 2, n = 1, title = "A-Punk", mbid = "81241097-a6f7-402b-b600-0603d6475633" },
+  { disc = 2, n = 2, title = "Oxford Comma (rehearsal version)", mbid = "614da0ef-5f6a-413c-9eaf-47f29bb9a469" },
+]
+
+[[release]]
+mbid = "0269173d-045b-36d2-827b-7a9590abd8d6"
+title = "Oxford Comma"
+type = "single"
+date = "2008-05-27"
+spotify = "3gwYT74XYCqun1vfGmlx7O"
+tracks = [
+  { n = 1, title = "Oxford Comma", mbid = "96a6cbf8-228f-4da9-868d-9f5b13741377" },
+  { n = 2, title = "Walcott - Insane Mix", mbid = "7e2e103f-1a07-47a4-9307-147c436513cd" },
+]
+
+[[release]]
+mbid = "38cb74d6-16a0-4bcc-bb87-a64146fe01da"
+title = "Cape Cod Kwassa Kwassa"
+type = "single"
+date = "2008-08-18"
+tracks = [
+  { n = 1, title = "Cape Cod Kwassa Kwassa (radio edit)", mbid = "787ed53a-da3f-4527-82e8-48eff8d8541a" },
+  { n = 2, title = "Cape Cod Kwassa Kwassa (The Very Best remix)", mbid = "0d0dedde-c585-4d03-8448-a635916e6f9e" },
+]
+
+[[release]]
+mbid = "a602d621-43e6-3747-bbf8-30bb641484af"
+title = "The Kids Don’t Stand a Chance"
+type = "single"
+date = "2008-11-18"
+spotify = "2kHIPstyXGJqOARgBMQOHT"
+tracks = [
+  { n = 1, title = "The Kids Don’t Stand a Chance", mbid = "7d07822b-295d-4acc-ad11-3d15e96c5224" },
+  { n = 2, title = "The Kids Don’t Stand a Chance (Chromeo mix)", mbid = "17d5b4fa-4689-4661-9e90-3006a8f364b1" },
+]
+
+[[release]]
+mbid = "226d2c3d-3294-4f77-9c6c-0a39a2234e88"
+title = "Horchata"
+type = "single"
+date = "2009-10-05"
+tracks = [
+  { n = 1, title = "Horchata", mbid = "d2aac1e6-5750-4271-ad03-068134b90b0d" },
+]
+
+[[release]]
+mbid = "6d5d956c-ea2a-4600-9341-e744cf6c4f5a"
+title = "Cousins"
+type = "single"
+date = "2009-11-17"
+tracks = [
+  { n = 1, title = "Cousins", mbid = "67e9c2cd-3b5b-451d-a775-31ec7431e1c9" },
+]
+
+[[release]]
+mbid = "55d3145f-1051-40bb-b9e6-6f86e796bd6e"
+title = "California English Pt. 2"
+type = "single"
+date = "2009-12-14"
+tracks = [
+  { n = 1, title = "California English Pt. 2", mbid = "d80d942c-d38c-4088-8484-48a8b340dafc" },
+]
+
+[[release]]
+mbid = "6799fd76-db3d-43bd-aa91-dffae5c4d65b"
+title = "Contra"
+type = "album"
+date = "2010-01-08"
+spotify = "0zeAijecFGZOS4OaRdPVz5"
+tracks = [
+  { n = 1, title = "Horchata", mbid = "d2aac1e6-5750-4271-ad03-068134b90b0d" },
+  { n = 2, title = "White Sky", mbid = "61814ae1-f426-4661-b9fa-e439b38eecf2" },
+  { n = 3, title = "Holiday", mbid = "5ddb8502-d282-4aed-8ed5-f6919fdeb3b0" },
+  { n = 4, title = "California English", mbid = "39be1a80-b781-4663-8967-f8ae080ff5fd" },
+  { n = 5, title = "Taxi Cab", mbid = "88467bd3-09b6-433a-a79c-1036608a485e" },
+  { n = 6, title = "Run", mbid = "28f4c0cd-416d-4c8c-9d79-5e8f070953f8" },
+  { n = 7, title = "Cousins", mbid = "67e9c2cd-3b5b-451d-a775-31ec7431e1c9" },
+  { n = 8, title = "Giving Up the Gun", mbid = "1a0faab0-4d62-4947-84ff-7c5dcc5b1b31" },
+  { n = 9, title = "Diplomat’s Son", mbid = "09f75557-a240-43d2-925d-da37fe901ee8" },
+  { n = 10, title = "I Think Ur a Contra", mbid = "1c242a81-e3b1-4afd-b661-79889a8e7d58" },
+]
+
+[[release]]
+mbid = "42dc510e-67a7-4814-8442-a68a45e90a9b"
+title = "Contra Megamelt"
+type = "single"
+date = "2010-01-08"
+tracks = [
+  { n = 1, title = "Contramelt A", mbid = "ae8c6536-847a-401a-8f8c-acffffc50b6e" },
+  { n = 2, title = "Contramelt B", mbid = "660de710-ea05-421d-8ef1-cb9f908ba7dd" },
+  { n = 3, title = "Cousinz (Toy Selectah Mex-More remix)", mbid = "cf156478-6f64-4194-9fd5-3659e4f2603c" },
+]
+
+[[release]]
+mbid = "a505ecb2-6940-4959-aec2-c9f93ab2ac5a"
+title = "Giving Up the Gun"
+type = "single"
+date = "2010-06-22"
+tracks = [
+  { n = 1, title = "Giving Up the Gun (extended mix)", mbid = "e66350f3-2d08-4700-ba81-ceb702f025f7" },
+  { n = 2, title = "Giving Up the Gun (dub mix)", mbid = "24667bec-edb4-41fa-a11a-15cc6693f41d" },
+]
+
+[[release]]
+mbid = "7cc6c25d-526d-48ac-b88f-b0fea10619e9"
+title = "Holiday"
+type = "single"
+date = "2010-08-16"
+spotify = "0vBg2yD6xPz6svghRQRlEs"
+tracks = [
+  { n = 1, title = "Holiday", mbid = "5ddb8502-d282-4aed-8ed5-f6919fdeb3b0" },
+  { n = 2, title = "Ottoman", mbid = "e30fcc5b-e836-4e7e-a8f9-ee4570824611" },
+]
+
+[[release]]
+mbid = "594c9939-7927-411f-bba5-2a10c36ab3c3"
+title = "White Sky"
+type = "single"
+date = "2010-08-16"
+spotify = "7C4cItKZj427QBam5X8OlK"
+tracks = [
+  { n = 1, title = "White Sky", mbid = "61814ae1-f426-4661-b9fa-e439b38eecf2" },
+  { n = 2, title = "White Sky (Basement Jaxx club mix)", mbid = "25504098-975c-4d57-869c-adc760fe1cca" },
+  { n = 3, title = "White Sky (Warp dub)", mbid = "6a4559e4-1f08-44c3-a145-3fd50e12df6f" },
+  { n = 4, title = "White Sky (Vamp dub)", mbid = "b4f047b4-015e-4b95-8133-548d78fafe81" },
+]
+
+[[release]]
+mbid = "7396be58-ae0d-4996-a49b-026d1e761438"
+title = "Diane Young"
+type = "single"
+date = "2013-03-25"
+spotify = "2cF9AORYiohyV0ukBJ5cYY"
+tracks = [
+  { n = 1, title = "Diane Young", mbid = "f71a7804-e21d-4b5c-927b-21909970b4cb" },
+]
+
+[[release]]
+mbid = "eb143c5a-9a85-4bce-a78c-f7faf72c0169"
+title = "Modern Vampires of the City"
+type = "album"
+date = "2013-05-06"
+spotify = "1GXMNFfoHF4sN7lG8gZq1j"
+tracks = [
+  { n = 1, title = "Obvious Bicycle", mbid = "bd36856f-b7ad-4d44-9d2b-17244dae5d96" },
+  { n = 2, title = "Unbelievers", mbid = "5b4530ed-4a5f-4b61-aa67-801cb5303f4e" },
+  { n = 3, title = "Step", mbid = "507ecc4d-e166-41e5-a833-3378f189dba8" },
+  { n = 4, title = "Diane Young", mbid = "f71a7804-e21d-4b5c-927b-21909970b4cb" },
+  { n = 5, title = "Don’t Lie", mbid = "b8ae9b59-2eaa-4e0a-8940-a60c4c21c4b0" },
+  { n = 6, title = "Hannah Hunt", mbid = "0c6104c5-6669-480f-a534-96dadc3f462f" },
+  { n = 7, title = "Everlasting Arms", mbid = "756aa460-2341-4eb6-8ea4-20978daa593c" },
+  { n = 8, title = "Finger Back", mbid = "2760c03b-fc27-4783-89cc-fc69c3622b2f" },
+  { n = 9, title = "Worship You", mbid = "27cd8b84-b30b-451d-8974-73573af21743" },
+  { n = 10, title = "Ya Hey", mbid = "dfa0c984-371d-4fdd-89ba-4aea668605db" },
+  { n = 11, title = "Hudson", mbid = "4140150b-a912-423c-b5c7-13c701146c83" },
+  { n = 12, title = "Young Lion", mbid = "79b0b293-ec7c-403b-8c57-4a0d46c6d820" },
+]
+
+[[release]]
+mbid = "4551b10e-e70e-4f5b-951a-bbd1b367b83b"
+title = "Unbelievers"
+type = "ep"
+date = "2014-02-28"
+spotify = "6vNiKAVNU0qRdY4hl0pJ6j"
+tracks = [
+  { n = 1, title = "Unbelievers", mbid = "5b4530ed-4a5f-4b61-aa67-801cb5303f4e" },
+  { n = 2, title = "Unbelievers (Seeburg Drum Machine mix)", mbid = "aa51c804-c70c-400d-b1ea-4fe6104ee4e1" },
+  { n = 3, title = "Step", mbid = "d2982044-a4a5-4851-927d-0f34b950767c" },
+  { n = 4, title = "Unbelievers (live at iTunes Festival 2013)", mbid = "fec4f8d2-4367-417c-8986-33b2d67e3344" },
+]
+
+[[release]]
+mbid = "63eadad1-7525-4204-b8e1-ab59326b27f0"
+title = "Step"
+type = "single"
+date = "2015-04-18"
+tracks = [
+  { n = 1, title = "Step", mbid = "507ecc4d-e166-41e5-a833-3378f189dba8" },
+  { n = 2, title = "Step", mbid = "d2982044-a4a5-4851-927d-0f34b950767c" },
+  { n = 3, title = "Step (instrumental)", mbid = "6eb78db9-b4ea-4795-b567-9db6aba29c7c" },
+]
+
+[[release]]
+mbid = "489b2c59-c6e2-4fc1-bc5a-093aeb8f5fd3"
+title = "Arrows"
+type = "single"
+date = "2018-08-10"
+spotify = "1oW2EbrAKYj6bAZIATkAnC"
+tracks = [
+  { n = 1, title = "Arrows", mbid = "e3d4a46a-62bc-49e5-8b64-23ca86eba1c7" },
+]
+
+[[release]]
+mbid = "6123a830-635b-4e4f-9706-f1144a2bf9d9"
+title = "Giant"
+type = "single"
+date = "2018-08-10"
+spotify = "4WBDxMpJpzpHwz5mQltS45"
+tracks = [
+  { n = 1, title = "Giant", mbid = "b5f424b9-72e6-4d56-9c63-14be1e8d37f9" },
+]
+
+[[release]]
+mbid = "5e98f756-57dd-4c99-983e-54ac6ec600b3"
+title = "Jonathan Low"
+type = "single"
+date = "2018-08-10"
+spotify = "5klB0DE2KAZPiXBDPNUZkC"
+tracks = [
+  { n = 1, title = "Jonathan Low", mbid = "327a3bb7-16f2-41d6-a2fb-bffd4a72cf5e" },
+]
+
+[[release]]
+mbid = "da6deaf2-e898-41e2-a0b1-ccc06cf3562a"
+title = "Ladies of Cambridge"
+type = "single"
+date = "2018-08-10"
+spotify = "1lxLe5LSEKNANyMLcLD6pO"
+tracks = [
+  { n = 1, title = "Ladies of Cambridge", mbid = "5a0dc0a1-0279-45d5-b948-aea5f1517d2e" },
+]
+
+[[release]]
+mbid = "1b2cba3d-61f3-4b72-9c0e-827662809d28"
+title = "Ottoman"
+type = "single"
+date = "2018-08-10"
+spotify = "7K96i3cJU9e8sC3uYEEk6H"
+tracks = [
+  { n = 1, title = "Ottoman", mbid = "e30fcc5b-e836-4e7e-a8f9-ee4570824611" },
+]
+
+[[release]]
+mbid = "12024b07-5be0-45a7-ba7e-4418631aec37"
+title = "Harmony Hall / 2021"
+type = "single"
+date = "2019-01-24"
+spotify = "6CmSHV5rTZRBjXMVbaeE1h"
+tracks = [
+  { n = 1, title = "Harmony Hall", mbid = "ba930f88-6c26-4ca1-9c94-c466feb80798" },
+  { n = 2, title = "2021", mbid = "302e814f-9405-4893-9de2-e27be7f17066" },
+]
+
+[[release]]
+mbid = "2dbc6196-e10a-4ddd-a1a7-dc7d7bd3c0c4"
+title = "Sunflower / Big Blue"
+type = "single"
+date = "2019-03-06"
+spotify = "1WqsQoAZ6KIYS0mZAAezWa"
+tracks = [
+  { n = 1, title = "Sunflower", mbid = "db21986f-6131-4903-8cfc-9f69f18ea62b" },
+  { n = 2, title = "Big Blue", mbid = "204b0ba7-4460-4f1e-9482-7f8418a1cce9" },
+]
+
+[[release]]
+mbid = "79496a14-f95d-4151-a3d0-3d6fc8c82dd8"
+title = "This Life / Unbearably White"
+type = "single"
+date = "2019-04-04"
+spotify = "6N1pLez4f6aCvIc4z1ipU6"
+tracks = [
+  { n = 1, title = "This Life", mbid = "d702cd22-c2f7-4ee9-a8d3-f39f6b95d432" },
+  { n = 2, title = "Unbearably White", mbid = "37587b7d-ede1-40d0-899c-cf890b833b81" },
+  { n = 3, title = "Sunflower", mbid = "db21986f-6131-4903-8cfc-9f69f18ea62b" },
+  { n = 4, title = "Big Blue", mbid = "204b0ba7-4460-4f1e-9482-7f8418a1cce9" },
+  { n = 5, title = "Harmony Hall", mbid = "ba930f88-6c26-4ca1-9c94-c466feb80798" },
+  { n = 6, title = "2021", mbid = "302e814f-9405-4893-9de2-e27be7f17066" },
+]
+
+[[release]]
+mbid = "1e083685-2e58-40eb-81ef-4163c26e01d6"
+title = "Father of the Bride"
+type = "album"
+date = "2019-05-03"
+spotify = "1A3nVEWRJ8yvlPzawHI1pQ"
+tracks = [
+  { disc = 1, n = 1, title = "Hold You Now", mbid = "7fa48acb-d8b5-4598-8abb-97915ee67482" },
+  { disc = 1, n = 2, title = "Harmony Hall", mbid = "ba930f88-6c26-4ca1-9c94-c466feb80798" },
+  { disc = 1, n = 3, title = "Bambina", mbid = "23fc03da-8eaf-4ad2-a5e7-32198bbf85f2" },
+  { disc = 1, n = 4, title = "This Life", mbid = "d702cd22-c2f7-4ee9-a8d3-f39f6b95d432" },
+  { disc = 1, n = 5, title = "Big Blue", mbid = "204b0ba7-4460-4f1e-9482-7f8418a1cce9" },
+  { disc = 1, n = 6, title = "How Long?", mbid = "f78efc46-97dc-4308-8557-139862678d87" },
+  { disc = 1, n = 7, title = "Unbearably White", mbid = "37587b7d-ede1-40d0-899c-cf890b833b81" },
+  { disc = 1, n = 8, title = "Rich Man", mbid = "c135458d-12ba-4e7c-a4e7-711b3988c0dc" },
+  { disc = 1, n = 9, title = "Married in a Gold Rush", mbid = "cf1adabf-cacb-45fd-895d-cfe85b6b447d" },
+  { disc = 2, n = 1, title = "My Mistake", mbid = "d81f5df3-2d3e-4e50-81db-961283d63f67" },
+  { disc = 2, n = 2, title = "Sympathy", mbid = "d0057fbf-0739-4c02-8246-0ba3faf1f4ac" },
+  { disc = 2, n = 3, title = "Sunflower", mbid = "db21986f-6131-4903-8cfc-9f69f18ea62b" },
+  { disc = 2, n = 4, title = "Flower Moon", mbid = "65eb623c-e495-4868-929e-27b4329d52d6" },
+  { disc = 2, n = 5, title = "2021", mbid = "302e814f-9405-4893-9de2-e27be7f17066" },
+  { disc = 2, n = 6, title = "We Belong Together", mbid = "6e959c35-64b6-4ce8-a9b8-5ef4d79bfd21" },
+  { disc = 2, n = 7, title = "Stranger", mbid = "ce2ae206-f6d3-474b-a0bd-f13d9f718338" },
+  { disc = 2, n = 8, title = "Spring Snow", mbid = "a53525ad-bc60-428d-8f49-c525253a0517" },
+  { disc = 2, n = 9, title = "Jerusalem, New York, Berlin", mbid = "be8912cc-6f8c-4e4d-a055-adfc35f746e1" },
+]
+
+[[release]]
+mbid = "bf20a7d0-fbcd-4116-b47e-1809f2705b96"
+title = "Spotify Singles"
+type = "single"
+date = "2019-06-26"
+spotify = "7n2MqOxGeX7chH9Ld11cyA"
+tracks = [
+  { n = 1, title = "This Life", mbid = "0fc729ac-bb0e-4bc4-b412-bcd2d9c1dd2c" },
+  { n = 2, title = "I’m Goin’ Down", mbid = "b00ecbed-2b10-4866-9ff4-ae35357f0a80" },
+]
+
+[[release]]
+mbid = "8471c575-fd19-4da8-9f94-b1e0361b135c"
+title = "40:42"
+type = "single"
+date = "2021-02-04"
+spotify = "72TjwUTbv8m606I5SEASqZ"
+tracks = [
+  { n = 1, title = "2021 (in the space between two pieces of wood)", mbid = "fc943b09-af51-4b1a-9b3e-29aba9029e14" },
+  { n = 2, title = "2021 (January 5th, to be exact)", mbid = "90b091cc-16e4-4f7e-ab61-1c87e3fa730e" },
+]
+
+[[release]]
+mbid = "fb8f52df-b7fe-450a-a913-f07bc1b39605"
+title = "Watering a Flower"
+type = "ep"
+date = "2021-12-22"
+tracks = [
+  { n = 1, title = "Talking: Chit-Chatting This And That About You", mbid = "c7436db3-d562-414f-a0ca-30ea4fc70a1a" },
+  { n = 2, title = "2021", mbid = "302e814f-9405-4893-9de2-e27be7f17066" },
+  { n = 3, title = "2021 (2021 Version)", mbid = "ad1af08c-ba8b-45b9-a73c-4d36bcc3da72" },
+]
+
+[[release]]
+mbid = "c065b880-10ad-4bfe-8537-f44832c69592"
+title = "Capricorn / Gen-X Cops"
+type = "single"
+date = "2024-02-16"
+spotify = "3szHsSqtiYzj9UbJRgvqkv"
+tracks = [
+  { n = 1, title = "Capricorn", mbid = "3d0ce4e0-f033-44e6-a2c4-80105a7071fc" },
+  { n = 2, title = "Gen-X Cops", mbid = "124ea751-01a3-4b8a-b3ee-b240cd87d828" },
+]
+
+[[release]]
+mbid = "87ff6b05-6764-402d-921f-a87df2ff6483"
+title = "Classical"
+type = "single"
+date = "2024-03-14"
+spotify = "5feyAYllLDkJZtc0ZOkBnJ"
+tracks = [
+  { n = 1, title = "Classical", mbid = "276441e5-08ed-4539-acd2-09b6adb352ae" },
+]
+
+[[release]]
+mbid = "df6e97f4-5235-498a-8098-a6b2ebc66a66"
+title = "Mary Boone"
+type = "single"
+date = "2024-03-28"
+tracks = [
+  { n = 1, title = "Mary Boone", mbid = "25483b58-081e-4cd6-b81d-1c66576bac32" },
+]
+
+[[release]]
+mbid = "91ee3856-0ee6-467d-b01d-9d529affc9f4"
+title = "Only God Was Above Us"
+type = "album"
+date = "2024-04-05"
+spotify = "1W04wu2W4OIcuiNc5AMB3y"
+tracks = [
+  { n = 1, title = "Ice Cream Piano", mbid = "389e8e73-7c75-46aa-945a-f15356a153a3" },
+  { n = 2, title = "Classical", mbid = "276441e5-08ed-4539-acd2-09b6adb352ae" },
+  { n = 3, title = "Capricorn", mbid = "3d0ce4e0-f033-44e6-a2c4-80105a7071fc" },
+  { n = 4, title = "Connect", mbid = "f8a2a203-8957-47af-9db4-ff828cab4af4" },
+  { n = 5, title = "Prep‐School Gangsters", mbid = "3d39cf29-2434-4ebe-afd6-80750bfecc02" },
+  { n = 6, title = "The Surfer", mbid = "6508e61d-99ba-47ec-acd1-d20078b266e7" },
+  { n = 7, title = "Gen‐X Cops", mbid = "124ea751-01a3-4b8a-b3ee-b240cd87d828" },
+  { n = 8, title = "Mary Boone", mbid = "25483b58-081e-4cd6-b81d-1c66576bac32" },
+  { n = 9, title = "Pravda", mbid = "2869a6ad-3225-4099-8920-ad9d07f80a2c" },
+  { n = 10, title = "Hope", mbid = "6b16f847-91e0-40ab-8784-04291c9e059e" },
+]

@@ -1,0 +1,202 @@
+format = 1
+
+[[release]]
+mbid = "9527dd38-0216-42f5-a268-9b8d6f048f0e"
+title = "Game Over 99 / Trop Frais"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Game Over 99", mbid = "bab115b1-2be3-4e95-a772-3f968c099c9c" },
+  { n = 2, title = "Game Over 99 (version instrumentale)", mbid = "e47665e6-e4f1-46bd-a38c-10b44f240e4c" },
+  { n = 3, title = "Trop Frais", mbid = "5ee4c5e9-c410-48dd-8077-e3d5370d62ec" },
+  { n = 4, title = "Trop Frais (version instrumentale)", mbid = "24357387-7b63-457b-bcc5-caab6cb0a2b7" },
+]
+
+[[release]]
+mbid = "45f73dd0-9a10-485a-b40a-6c31d84ee39f"
+title = "Léguman / Subway"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Léguman", mbid = "2a1bf472-b2de-4dbf-8bbb-b12af1761948" },
+  { n = 2, title = "Léguman (version instrumentale)", mbid = "896dbc3e-11e3-4b3b-be91-1d57b1a40663" },
+  { n = 3, title = "Léguman (version a cappella)", mbid = "c73afe35-0bf1-4686-92b6-3a780bf0df57" },
+  { n = 4, title = "Subway", mbid = "38beea6b-db98-4049-9581-12eddcb09a58" },
+  { n = 5, title = "Subway (version instrumentale)", mbid = "f801c375-3f19-4e20-a461-512e14957d99" },
+  { n = 6, title = "Subway (version a cappella)", mbid = "b74072a3-8c48-4b2d-98f4-40ac701651f6" },
+]
+
+[[release]]
+mbid = "2274d5f6-e7c9-4e66-891c-da148f8dbd54"
+title = "Elémentaire EP"
+type = "ep"
+date = "2001-11"
+tracks = [
+  { n = 1, title = "Elémentaire", mbid = "fac604bc-bed2-4598-895e-456c9fbc025d" },
+  { n = 2, title = "Coffee shop", mbid = "35c79b41-c482-44fc-96a2-d3327d1dfbcc" },
+  { n = 3, title = "Toi", mbid = "83b31d5a-6560-4c54-9ac0-32d04f9a422b" },
+  { n = 4, title = "Elémentaire (instrumental)", mbid = "62c45552-2874-4e85-9bbd-9d35d7073a82" },
+  { n = 5, title = "Coffee shop (instrumental)", mbid = "0e030676-1520-4349-a002-8cb691674528" },
+  { n = 6, title = "Toi (instrumental)", mbid = "5ef98b52-080d-45a0-a2fb-8d8302399515" },
+]
+
+[[release]]
+mbid = "024cc72d-ab57-48c8-84f5-9f58448cc8ce"
+title = "Danser EP"
+type = "ep"
+date = "2002"
+tracks = [
+  { n = 1, title = "(Je n’arrive pas à) Danser", mbid = "05b2a560-44c0-47c0-9256-c027886b4a82" },
+  { n = 2, title = "D’une clarté rarissime", mbid = "5ee59463-a819-4bce-b8b7-30d4d19779aa" },
+  { n = 3, title = "Champagne sans bulle", mbid = "af02c0d5-c2c5-45ff-89d5-c301083fa0e4" },
+  { n = 4, title = "(Je n’arrive pas à) Danser (instrumental)", mbid = "c3b3401a-39b1-4638-8555-2c82f1361bab" },
+  { n = 5, title = "D’une clarté rarissime (instrumental)", mbid = "bef72053-bd81-4328-9298-b0e5b7e7a90a" },
+  { n = 6, title = "Champagne sans bulle (instrumental)", mbid = "387ed628-9364-498c-9781-514064ac226b" },
+]
+
+[[release]]
+mbid = "4ca3c5cc-5918-34a5-8412-2308d9ed5b88"
+title = "Ceci n’est pas un disque"
+type = "album"
+date = "2002-04-22"
+tracks = [
+  { n = 1, title = "Nonscience", mbid = "bf00e426-1e03-4dc6-8d99-decaac5d0459" },
+  { n = 2, title = "(Je n’arrive pas à) Danser", mbid = "05b2a560-44c0-47c0-9256-c027886b4a82" },
+  { n = 3, title = "De pauvres riches", mbid = "fc1870ca-9d86-432d-bd34-6ffcd71da1a2" },
+  { n = 4, title = "Teste ta compréhension", mbid = "76bab801-6e43-486c-bac4-bbc0d5122349" },
+  { n = 5, title = "Pas d’armure", mbid = "c4178499-7e69-4748-9ba8-235f80b168fc" },
+  { n = 6, title = "Reconstitution", mbid = "fbfc092d-f772-4638-ad26-61f46e010bae" },
+  { n = 7, title = "Subway", mbid = "38beea6b-db98-4049-9581-12eddcb09a58" },
+  { n = 8, title = "Pollutions", mbid = "b823defb-127d-4d1b-b571-fd40e6a8f653" },
+  { n = 9, title = "Soudaine montée d’adrénaline dans l’éloge", mbid = "ab2e5b40-b4fa-4869-8e7d-e1afa943a9b2" },
+  { n = 10, title = "Toi-même", mbid = "d3e28490-2407-4d63-990c-1c58bccf4c0a" },
+  { n = 11, title = "En soulevant le couvercle", mbid = "90137ec1-4543-43c3-9c17-7bdb3337aa98" },
+  { n = 12, title = "Élémentaire", mbid = "fac604bc-bed2-4598-895e-456c9fbc025d" },
+]
+
+[[release]]
+mbid = "f6fa20d3-9ee8-4827-8251-8983b3537f40"
+title = "De pauvres riches"
+type = "single"
+date = "2003"
+tracks = [
+  { n = 1, title = "De pauvres riches", mbid = "fc1870ca-9d86-432d-bd34-6ffcd71da1a2" },
+  { n = 2, title = "De pauvres riches (Black Fu's Empty Pocket remix)", mbid = "832e0d33-148e-4c04-bdf1-a646228a651f" },
+  { n = 3, title = "De pauvres riches (a cappella)", mbid = "d237b298-c1d0-4a16-993e-4a1d74ce0c40" },
+  { n = 4, title = "De pauvres riches (Diplodocus Electric Manatee remix)", mbid = "9431ea10-0644-4581-9d38-cecbb91ca6f1" },
+  { n = 5, title = "De pauvres riches (Tacteel remix)", mbid = "74b363ae-91c1-40ea-a67b-fadb2a580a19" },
+  { n = 6, title = "De pauvres riches (TVA remix)", mbid = "ae7b7f0c-a172-4718-b2a5-889c7c8029e9" },
+]
+
+[[release]]
+mbid = "88c7f524-22ca-456b-860b-2bf806b0ca59"
+title = "Trop singe"
+type = "ep"
+date = "2003-08-04"
+tracks = [
+  { n = 1, title = "Trop singe", mbid = "76f169fd-16b4-45b4-9d11-fff12ec22090" },
+  { n = 2, title = "Pas dD'armure (dDamage remix)", mbid = "78c70f72-cab6-4d93-a116-ee641dd91ef6" },
+  { n = 3, title = "Trop singe (instrumental)", mbid = "61586764-68c5-430e-b899-b03a77c43deb" },
+  { n = 4, title = "Pas dD'armure (dDamage remix) (instrumental)", mbid = "ac2796a9-2881-43fa-a69a-d1799ffa7486" },
+]
+
+[[release]]
+mbid = "86d41331-ab9a-3075-9c19-341087757e2a"
+title = "Dans le club"
+type = "ep"
+date = "2004"
+tracks = [
+  { n = 1, title = "Dans le club", mbid = "4122c34c-de76-4d4f-a528-e169d259b01c" },
+  { n = 2, title = "Codeine", mbid = "279acbe0-607e-4382-b6cf-0edf67ecbb4f" },
+  { n = 3, title = "Game Over 2099", mbid = "bab115b1-2be3-4e95-a772-3f968c099c9c" },
+  { n = 4, title = "Dans le club (instrumental)", mbid = "ad421260-f5cf-4c02-b95f-a72af580a0c5" },
+  { n = 5, title = "Codeine (instrumental)", mbid = "6d8c1bcd-f3d0-43e9-87e2-4a825ad433e4" },
+  { n = 6, title = "Game Over 2099 (instrumental)", mbid = "e47665e6-e4f1-46bd-a38c-10b44f240e4c" },
+]
+
+[[release]]
+mbid = "55a85cb1-8e74-3dec-941f-e2a6632ce357"
+title = "Bâtards sensibles"
+type = "album"
+date = "2004-10-25"
+tracks = [
+  { n = 1, title = "Ebisu rendez-vous", mbid = "b487e56e-b86e-4a5b-8994-ca377c76009e" },
+  { n = 2, title = "Dans le club", mbid = "4122c34c-de76-4d4f-a528-e169d259b01c" },
+  { n = 3, title = "Le chant des hommes", mbid = "32245c5a-7d34-42e3-869d-007e999084e7" },
+  { n = 4, title = "Du sang sur le dancefloor", mbid = "0029b1d3-00b5-4386-9a88-137743a1a072" },
+  { n = 5, title = "Catalogue", mbid = "ba38d491-3d9f-4aed-81af-d14e8abd2a36" },
+  { n = 6, title = "J’ai pas sommeil", mbid = "d1cb604c-7b19-4b6e-8bc3-4e6d65a4a419" },
+  { n = 7, title = "Rap jeu", mbid = "169fa063-5e31-42fc-bc65-490c2b3f2f64" },
+  { n = 8, title = "Latest Dance Craze", mbid = "728ce47a-d345-4b99-bf85-1dfcdbb0b4a6" },
+  { n = 9, title = "Girlfriend", mbid = "2e077157-c205-4c15-8fc5-8603dcd75062" },
+  { n = 10, title = "Bâtard sensible", mbid = "3e03ef7f-362a-4b32-8a10-e2ad21b577ea" },
+  { n = 11, title = "Codéine", mbid = "c6c65ddb-9733-4add-9c36-5e2eb8f02328" },
+  { n = 12, title = "Meet the New Boss", mbid = "9c0fa619-9220-40a0-95ce-e56df8f17ce6" },
+]
+
+[[release]]
+mbid = "253639be-d3f3-4c39-a7c0-947ce6bfbfac"
+title = "Girlfriend EP"
+type = "ep"
+date = "2005"
+tracks = [
+  { n = 1, title = "Girlfriend", mbid = "2e077157-c205-4c15-8fc5-8603dcd75062" },
+  { n = 2, title = "Girlfriend (a cappella)", mbid = "b18ef90b-7eb5-45eb-a7ea-24adb4b23cee" },
+  { n = 3, title = "Girlfriend (instrumental)", mbid = "0e238d34-10f5-4f41-a03e-e12f3269cbc1" },
+  { n = 4, title = "Le chant des hommes", mbid = "32245c5a-7d34-42e3-869d-007e999084e7" },
+  { n = 5, title = "Catalogue", mbid = "ba38d491-3d9f-4aed-81af-d14e8abd2a36" },
+  { n = 6, title = "Dans le club (All Star remix)", mbid = "30c331a9-6bde-453d-ab6d-fe746b36b282" },
+]
+
+[[release]]
+mbid = "c6d6d051-0180-4050-9834-c070b0766436"
+title = "Telephone / Paris, Paris"
+type = "single"
+date = "2006-11-18"
+tracks = [
+  { n = 1, title = "(Pas la peine d’appeler je ne réponds pas au) Téléphone", mbid = "d3665e68-e68a-4adb-a5fd-e2d094179589" },
+  { n = 2, title = "(Pas la peine d’appeler je ne réponds pas au) Téléphone (instrumental)", mbid = "c494de87-f6af-4500-9a6e-139bda5e00cf" },
+  { n = 3, title = "Paris, Paris", mbid = "d16c8e67-26b9-48b9-9189-2fb47656045a" },
+  { n = 4, title = "Paris, Paris (instrumental)", mbid = "f6977a65-3c6d-4cc1-812e-9b302ff46c5e" },
+]
+
+[[release]]
+mbid = "c1ee9b84-18a7-3fea-9d23-e91c8bb7c8f4"
+title = "3615 TTC"
+type = "album"
+date = "2006-12"
+tracks = [
+  { n = 1, title = "Quand je claque des doigts", mbid = "618ebde3-9c28-4da5-91fd-299be0466815" },
+  { n = 2, title = "Paris, Paris", mbid = "d16c8e67-26b9-48b9-9189-2fb47656045a" },
+  { n = 3, title = "Turbo", mbid = "bb4c1ecf-d07d-41d3-b643-fae8362e69d8" },
+  { n = 4, title = "(Pas la peine d’appeler je ne réponds pas au) Téléphone", mbid = "d3665e68-e68a-4adb-a5fd-e2d094179589" },
+  { n = 5, title = "Travailler", mbid = "b9b07ff2-a0c9-408e-8d17-95815374adaa" },
+  { n = 6, title = "Cé pou vou", mbid = "c8e5b8a8-fc81-4bb6-b570-a9efe27c240f" },
+  { n = 7, title = "Antenne 2", mbid = "3ef935ed-23c6-4805-b3e3-4ae4846b83e1" },
+  { n = 8, title = "J’ai le son", mbid = "5f21b2bb-1ab3-429c-8961-beba83b23958" },
+  { n = 9, title = "Frotte ton cul par terre", mbid = "5b315624-e59d-4942-a650-b21a4a7a3624" },
+  { n = 10, title = "Strip pour moi", mbid = "de8c6803-9f38-413c-9981-e7fbbbe2e5e7" },
+  { n = 11, title = "Ambition", mbid = "c7f5caeb-5d62-4765-a073-369d25778885" },
+  { n = 12, title = "Une bande de mecs sympas", mbid = "914fd5d0-624f-4a91-8be8-38d40573cd91" },
+  { n = 13, title = "Dancingbox", mbid = "785d5c85-f548-4e27-983c-a6ff25911add" },
+]
+
+[[release]]
+mbid = "530ef1da-492e-31c7-b193-9d6bc34521ad"
+title = "Travailler (Orgasmic remix)"
+type = "single"
+date = "2007-09-04"
+tracks = [
+  { n = 1, title = "Travailler (Orgasmic remix)", mbid = "3019d4bc-3c82-4a53-b18c-21c122caeff7" },
+  { n = 2, title = "Travailler (Orgasmic remix instrumental)", mbid = "85b13c56-ddd8-4a62-a45d-229cb89ea8c2" },
+]
+
+[[release]]
+mbid = "f35c2279-21f1-3edc-86a5-6f84a3dc8d83"
+title = "Scion A/V Remix"
+type = "single"
+date = "2007-10-30"
+tracks = [
+  { n = 1, title = "Blazin' (Modeselektor remix)", mbid = "90b695c7-d8a1-49b5-b2c2-e497e03f1384" },
+  { n = 2, title = "Téléphone (Ghislain Poirier remix)", mbid = "189272b6-9ff8-46e7-adda-5021aab0b42d" },
+]

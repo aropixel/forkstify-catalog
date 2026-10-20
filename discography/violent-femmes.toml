@@ -1,0 +1,380 @@
+format = 1
+
+[[release]]
+mbid = "88f06c0a-a296-35f7-b58d-ca9e60b5c3c7"
+title = "Ugly"
+type = "single"
+date = "1983"
+tracks = [
+  { n = 1, title = "Ugly", mbid = "9b49b887-a34b-4a37-9f1d-ee5ef93460c6" },
+  { n = 2, title = "Gimme the Car", mbid = "bae7d190-9491-4500-9ee3-d129f098cd52" },
+]
+
+[[release]]
+mbid = "616a1d80-83d0-3234-bf71-fe3de8109f99"
+title = "Violent Femmes"
+type = "album"
+date = "1983-04"
+tracks = [
+  { n = 1, title = "Blister in the Sun", mbid = "1acace10-134c-4c91-a87a-cb8314d50efd" },
+  { n = 2, title = "Kiss Off", mbid = "61aacb8f-bbaf-49b9-b008-d2f418d460ed" },
+  { n = 3, title = "Please Do Not Go", mbid = "35dd64d8-4aeb-400e-aa3e-9b335a6de617" },
+  { n = 4, title = "Add It Up", mbid = "8034b934-6d1c-44d0-807d-0fbeb03cd331" },
+  { n = 5, title = "Confessions", mbid = "8746b56b-af06-44f5-9586-6f04c65d05c2" },
+  { n = 6, title = "Prove My Love", mbid = "bef2c487-0664-4e98-95c0-e6fbab1b86ef" },
+  { n = 7, title = "Promise", mbid = "e04a7707-5b2d-4791-a304-c2abd4ad4a3b" },
+  { n = 8, title = "To the Kill", mbid = "76201e98-575c-45e5-a099-2a9c9b8427cc" },
+  { n = 9, title = "Gone Daddy Gone", mbid = "79b94b13-1efd-426f-b092-d4468b99cbc4" },
+  { n = 10, title = "Good Feeling", mbid = "c3db3053-c978-4e96-a680-c330b3ad0e77" },
+]
+
+[[release]]
+mbid = "a2b9ba6e-9b11-4f7b-b3ec-9ea7b6dbf59a"
+title = "It’s Gonna Rain"
+type = "single"
+date = "1984"
+tracks = [
+  { n = 1, title = "It’s Gonna Rain", mbid = "d929a330-a4e9-468b-93e0-ef8638b570a0" },
+  { n = 2, title = "Jesus Walking on the Water", mbid = "4915f971-7772-43fe-96ae-efdde48c6554" },
+  { n = 3, title = "Prove My Love", mbid = "a79b720e-99ea-46ca-ae5d-2e2ef753a420" },
+]
+
+[[release]]
+mbid = "ac908ab8-92fd-3545-a531-e7f7cae5bd9f"
+title = "Hallowed Ground"
+type = "album"
+date = "1984-06"
+tracks = [
+  { n = 1, title = "Country Death Song", mbid = "c68114c4-6229-438d-8a55-67141a9acb28" },
+  { n = 2, title = "I Hear the Rain", mbid = "bb5be5af-e437-481f-97d4-20446f589b4d" },
+  { n = 3, title = "Never Tell", mbid = "f3096bdf-8f05-4b0d-ad97-cdc238db20da" },
+  { n = 4, title = "Jesus Walking on the Water", mbid = "99babe49-8db4-4ac4-8b2b-88cad2ac23b0" },
+  { n = 5, title = "I Know It’s True but I’m Sorry to Say", mbid = "8dbf3ebe-3626-416f-bbe4-da9b5daeb539" },
+  { n = 6, title = "Hallowed Ground", mbid = "ec2999fc-c2c1-4c4d-b5d9-f367d12282d2" },
+  { n = 7, title = "Sweet Misery Blues", mbid = "d0d1c6d9-3f61-4673-97e6-13bac9fcc801" },
+  { n = 8, title = "Black Girls", mbid = "0281b8dd-04b4-49f5-8cc0-48722ddc92ee" },
+  { n = 9, title = "It’s Gonna Rain", mbid = "6f794a59-7e7c-4d19-8b7c-d44604fe932d" },
+]
+
+[[release]]
+mbid = "9e698cff-fdf3-4383-9cda-fdcc176956a0"
+title = "Children of the Revolution"
+type = "single"
+date = "1986"
+tracks = [
+  { n = 1, title = "Children of the Revolution", mbid = "fae4f99f-fbe1-4b34-bfbb-549f10c6e09b" },
+  { n = 2, title = "Heartache", mbid = "5eb8f011-0b89-4862-9c1a-57e3fc6a299f" },
+  { n = 3, title = "Good Feeling", mbid = "64a1e707-6e3e-4c63-8c7b-34af48a6d296" },
+]
+
+[[release]]
+mbid = "4e3f300e-43ed-3e79-b86b-3baeb1d9c21d"
+title = "The Blind Leading the Naked"
+type = "album"
+date = "1986"
+tracks = [
+  { n = 1, title = "Old Mother Reagan", mbid = "595a9a23-4e55-44ad-8d8a-edbf05630b86" },
+  { n = 2, title = "No Killing", mbid = "20adc596-ba69-4b1a-bb36-78a944207f53" },
+  { n = 3, title = "Faith", mbid = "76b88b4c-569a-4406-9874-242f04b11663" },
+  { n = 4, title = "Breakin’ Hearts", mbid = "e9f79512-dec3-4825-9a44-501f805a9e56" },
+  { n = 5, title = "Special", mbid = "8ac1a46a-ef70-4e0f-85ee-12eed93bc409" },
+  { n = 6, title = "Love & Me Make Three", mbid = "42c5db9d-2d89-4b31-9cf4-c355a62dd3e6" },
+  { n = 7, title = "Candlelight Song", mbid = "e7791c91-e592-4d7d-9a86-46a82b11c8f2" },
+  { n = 8, title = "I Held Her in My Arms", mbid = "fb0af048-d129-4276-a32d-ecde6a6f1d9a" },
+  { n = 9, title = "Children of the Revolution", mbid = "073ba74b-2b47-43cc-8d3e-60d931c2f434" },
+  { n = 10, title = "Good Friend", mbid = "35a273d6-23e6-42e6-bc41-21710abf0285" },
+  { n = 11, title = "Heartache", mbid = "889bd3b8-d532-40bc-8bff-d0c2af291cbe" },
+  { n = 12, title = "Cold Canyon", mbid = "995940c5-befe-49d6-bf4e-28f29d21bfa7" },
+  { n = 13, title = "Two People", mbid = "97af324e-9e68-4cfb-82a3-55e317f0c808" },
+]
+
+[[release]]
+mbid = "56ad6118-053f-35d1-8e0e-03fbc571f61a"
+title = "3"
+type = "album"
+date = "1988"
+tracks = [
+  { n = 1, title = "Nightmares", mbid = "d156f1af-6a78-44ae-a588-000130c64510" },
+  { n = 2, title = "Just Like My Father", mbid = "45c1dcec-6323-4a2c-92f7-e48148800ed4" },
+  { n = 3, title = "Dating Days", mbid = "cd517a60-bf78-4a81-8a12-cbeaa4d02f75" },
+  { n = 4, title = "Fat", mbid = "b41ab0aa-684e-48ab-856c-f4d746d51cc8" },
+  { n = 5, title = "Fool in the Full Moon", mbid = "4c48a098-8b44-423d-a674-e10202339000" },
+  { n = 6, title = "Nothing Worth Living For", mbid = "39d9896c-a477-469a-a861-c9829a889358" },
+  { n = 7, title = "World We’re Living In", mbid = "d5793e66-52f8-441e-8efe-bed11dca83c8" },
+  { n = 8, title = "Outside the Palace", mbid = "8f09d97d-6ce9-48e0-8242-fcd6c59c3804" },
+  { n = 9, title = "Telephone Book", mbid = "ecc93ab7-5ce4-4810-a277-c388974974c1" },
+  { n = 10, title = "Mother of a Girl", mbid = "50fb2a31-c019-46eb-ab37-85f559d71e06" },
+  { n = 11, title = "Lies", mbid = "849cf8c7-7c69-43f0-a223-4ce3bdd10926" },
+  { n = 12, title = "See My Ships", mbid = "db9b89c4-2077-4eb9-a2a8-bc128b185ed0" },
+]
+
+[[release]]
+mbid = "54849cdd-c951-3d49-8bdd-4a75adc564ab"
+title = "American Music"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "American Music", mbid = "0bf3a427-e176-428d-88ff-e344c2405b82" },
+  { n = 2, title = "American Music (LP version)", mbid = "662eef72-f432-4712-8cad-efe4e33c33f0" },
+  { n = 3, title = "Promise (live)", mbid = "eacf752b-f927-40dc-915a-426a96ac374d" },
+  { n = 4, title = "Kiss Off (live)", mbid = "11c81b0f-c191-4473-ba87-a509644cb55c" },
+]
+
+[[release]]
+mbid = "d5267bd0-a677-3e1b-9401-456c28e36836"
+title = "Do You Really Want to Hurt Me?"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "Do You Really Want to Hurt Me? (7″ edit)", mbid = "5624a083-0b94-47e6-a2e8-b5c15143bc4d" },
+  { n = 2, title = "Do You Really Want to Hurt Me? (full length)", mbid = "47eef9b6-71d5-4ca7-9d56-e5d4ec6b2468" },
+  { n = 3, title = "Dance, Motherfucker, Dance!", mbid = "6c69f85d-37f6-4361-8d0b-eb472593ec1f" },
+  { n = 4, title = "To the Kill (live)", mbid = "bd29b03f-c3d4-482f-bcf7-98995432901d" },
+]
+
+[[release]]
+mbid = "a5ea4fe5-fcb0-347d-bfc9-ac58f8ed75e6"
+title = "Used to Be"
+type = "single"
+date = "1991"
+tracks = [
+  { n = 1, title = "Used to Be", mbid = "234785ab-7e89-4d11-9f95-268c3925734a" },
+  { n = 2, title = "Dance, Motherfucker, Dance!", mbid = "902606ef-5fbe-439b-a8d0-8912a912e261" },
+  { n = 3, title = "Promise", mbid = "374061d3-16ca-4afe-8a64-837848b33d80" },
+  { n = 4, title = "To the Kill", mbid = "aa157491-0108-4520-857d-e7533f592cce" },
+]
+
+[[release]]
+mbid = "aff3dc58-a918-3dde-aad1-4d251108cabc"
+title = "Why Do Birds Sing?"
+type = "album"
+date = "1991-04-30"
+tracks = [
+  { n = 1, title = "American Music", mbid = "662eef72-f432-4712-8cad-efe4e33c33f0" },
+  { n = 2, title = "Out the Window", mbid = "c94720b8-7dd8-4e7b-9af8-524975957191" },
+  { n = 3, title = "Look Like That", mbid = "997b4236-ca48-4727-8c65-baca7e5be589" },
+  { n = 4, title = "Do You Really Want to Hurt Me", mbid = "1aca389e-4fd0-4e8c-9287-d8a5fe94dd1f" },
+  { n = 5, title = "Hey Nonny Nonny", mbid = "cb8a9d11-97fe-41e9-a071-62220743e906" },
+  { n = 6, title = "Used to Be", mbid = "234785ab-7e89-4d11-9f95-268c3925734a" },
+  { n = 7, title = "Girl Trouble", mbid = "4ecfcab4-7a4e-4bd3-ab1f-697a72d74eb6" },
+  { n = 8, title = "He Likes Me", mbid = "f3e023e5-4200-46cd-8bb4-01a0afd7dbcd" },
+  { n = 9, title = "Life Is a Scream", mbid = "655fb716-2149-4d01-8d9c-cea321b7c6f1" },
+  { n = 10, title = "Flamingo Baby", mbid = "e2edd548-512b-4814-a1f0-29f40c0c1038" },
+  { n = 11, title = "Lack of Knowledge", mbid = "d12d8a43-3122-4421-98b5-01bd1dea0c07" },
+  { n = 12, title = "More Money Tonight", mbid = "83de2380-07df-45ef-88bc-a28cbeb3d6ff" },
+  { n = 13, title = "I’m Free", mbid = "8625aefe-2c54-4ec5-a9a3-11b60c705d53" },
+]
+
+[[release]]
+mbid = "847a5c19-ce39-32af-af5a-826dd46f0ec0"
+title = "Money Is Not Our God (Hideous remix) / Special (live)"
+type = "single"
+date = "1991-09"
+tracks = [
+  { n = 1, title = "Money Is Not Our God (Hideous remix)", mbid = "13623464-df57-4290-8bdd-57ab378b0efe" },
+  { n = 2, title = "Special (live)", mbid = "95fbd1d6-339b-4107-b7bd-9e69746d0249" },
+]
+
+[[release]]
+mbid = "6c14f8ab-c013-3226-ae12-8b8d6b44a283"
+title = "I Held Her in My Arms"
+type = "single"
+date = "1993"
+tracks = [
+  { n = 1, title = "I Held Her in My Arms", mbid = "422aaddb-2426-44be-b2b3-e29d27cdba9c" },
+  { n = 2, title = "Fat (live on Triple J)", mbid = "6affbe20-f1c6-4e65-a197-0625c32a8e13" },
+]
+
+[[release]]
+mbid = "50d3deac-3594-34b2-bc9a-f0ae746ad6ea"
+title = "Breakin’ Up"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Breakin’ Up", mbid = "a46a915b-8117-43ef-8721-d392ab88c1fa" },
+  { n = 2, title = "Didjeriblues", mbid = "8c8e57aa-ad4f-43b2-9976-94d2322edf84" },
+  { n = 3, title = "Peter Jest", mbid = "2b70956e-1269-4cf3-9e71-90b376181b97" },
+  { n = 4, title = "Jesus of Rio", mbid = "f5c429bf-a531-46a4-ad71-db97bd4410d9" },
+]
+
+[[release]]
+mbid = "567ac52a-5791-3a24-827a-4eca943a86c8"
+title = "Machine"
+type = "single"
+date = "1994"
+tracks = [
+  { n = 1, title = "Machine (LP version)", mbid = "9e6f744e-76cc-4d85-b98a-cf11146c5d7e" },
+  { n = 2, title = "Machine (Dogpile remix)", mbid = "5e1cc932-1054-4668-8df9-7e29f854be3e" },
+  { n = 3, title = "Balkan Falcon", mbid = "c5a5aad5-bf2d-49ee-9e2e-c51060a584c6" },
+  { n = 4, title = "Chinese Rocks", mbid = "72a54b8d-7a37-494c-9ccc-26a4eae9bb0a" },
+  { n = 5, title = "Color Me Once (live version)", mbid = "ca611e73-3f16-4b66-a969-e1aed0b25608" },
+]
+
+[[release]]
+mbid = "daeec77c-d630-327d-b254-ce6f7f08bdbb"
+title = "New Times"
+type = "album"
+date = "1994-05-17"
+spotify = "3S5n5KhFOdXvyKYOJ2Rvcg"
+tracks = [
+  { n = 1, title = "Don’t Start Me on the Liquor", mbid = "d7566cfc-0379-432e-8a80-1b8cfb7ba56d" },
+  { n = 2, title = "New Times", mbid = "773e0ec2-e28b-426f-910f-ed073417b22a" },
+  { n = 3, title = "Breakin’ Up", mbid = "a46a915b-8117-43ef-8721-d392ab88c1fa" },
+  { n = 4, title = "Key of 2", mbid = "f14a9fcd-8b83-4f38-a138-229ea161cb3f" },
+  { n = 5, title = "4 Seasons", mbid = "ea0696d3-0383-4ef1-a134-a8637f6777a6" },
+  { n = 6, title = "Machine", mbid = "9e6f744e-76cc-4d85-b98a-cf11146c5d7e" },
+  { n = 7, title = "I’m Nothing", mbid = "f7ddcea2-189f-4a00-9bc5-e141b60aeb99" },
+  { n = 8, title = "When Everybody’s Happy", mbid = "575ddf51-de12-462f-9dfd-2b84c7d27f09" },
+  { n = 9, title = "Agamemnon", mbid = "0fcbc7a4-e7b9-449e-9c76-4666037ebaa7" },
+  { n = 10, title = "This Island Life", mbid = "3b320c7e-ec6c-40a4-9191-ae9c7c129c3c" },
+  { n = 11, title = "I Saw You in the Crowd", mbid = "b4985290-7998-4221-9c5a-bc93ebe6f213" },
+  { n = 12, title = "Mirror Mirror (I See a Damsel)", mbid = "0b0b0b7d-01fb-4c77-b692-b9c5931ca58a" },
+  { n = 13, title = "Jesus of Rio", mbid = "f5c429bf-a531-46a4-ad71-db97bd4410d9" },
+]
+
+[[release]]
+mbid = "1796cdff-9e30-3566-898f-95af040cf0f0"
+title = "Rock!!!!!"
+type = "album"
+date = "1995"
+tracks = [
+  { n = 1, title = "Living a Lie", mbid = "43fad378-12f5-48d0-9f50-fae228b6e6a4" },
+  { n = 2, title = "Tonight", mbid = "2111fee4-751e-49ee-ab87-18a7711eefcd" },
+  { n = 3, title = "Bad Dream", mbid = "4a868153-8b3b-4dcc-a938-107ecd06106d" },
+  { n = 4, title = "I Danced", mbid = "90bd8196-ce34-45c7-bd36-a3047a6cdcb8" },
+  { n = 5, title = "Thanksgiving (No Way Out)", mbid = "ff73cf97-1eb5-43a3-8f89-7ce4a5da20f8" },
+  { n = 6, title = "Dahmer Is Dead", mbid = "65a9ded6-21dc-449f-bbcd-fce341f6145b" },
+  { n = 7, title = "Life Is an Adventure", mbid = "d998f584-4b57-45d4-9f0a-c6b6db1291da" },
+  { n = 8, title = "She Went to Germany", mbid = "f619f22a-30bd-4046-9213-edaf6365446c" },
+  { n = 9, title = "I Wanna See You Again", mbid = "6d4f0601-b705-4cf4-9cf7-b4de93bd2e4f" },
+  { n = 10, title = "Didgeriblues", mbid = "a186585c-64bc-4cca-b684-95271d876577" },
+  { n = 11, title = "Death Drugs", mbid = "054a849f-457c-4f1e-b245-25d01d78a95a" },
+  { n = 12, title = "Sweet Worlds of Angels", mbid = "9e8dca97-0ad7-4d19-88ed-0e9e13dd8c3a" },
+]
+
+[[release]]
+mbid = "e69edd62-19c0-3a37-ad05-75b0d8c15ea1"
+title = "Freak Magnet"
+type = "album"
+date = "1998"
+tracks = [
+  { n = 1, title = "Hollywood Is High", mbid = "82a7a6cf-cea5-4fb5-a2fe-0af5e2512cd0" },
+  { n = 2, title = "Freak Magnet", mbid = "31edcd31-9b90-4fc1-8d71-79e97e163ec2" },
+  { n = 3, title = "Sleepwalkin’", mbid = "3c319b96-c9a9-406a-85a7-4095c87a8e06" },
+  { n = 4, title = "All I Want", mbid = "566aedb8-c191-4afb-acb0-5c22e7f8a108" },
+  { n = 5, title = "New Generation", mbid = "963d8dd9-18b2-4870-a1c2-7f3175aa8d26" },
+  { n = 6, title = "In the Dark", mbid = "a29d7267-0ff3-4eda-9f47-3d7a2446f2cc" },
+  { n = 7, title = "Rejoice and Be Happy", mbid = "faea6d7e-e77d-4f78-bdad-2db0a9135f65" },
+  { n = 8, title = "Mosh Pit", mbid = "dd8dbeea-4333-477d-a0c2-543f6823839f" },
+  { n = 9, title = "Forbidden", mbid = "89ad693d-d036-424a-880a-00b44482a2b8" },
+  { n = 10, title = "When You Died", mbid = "133f7275-19ed-43d2-8170-32568f6d9da7" },
+  { n = 11, title = "At Your Feet", mbid = "ad08164c-7642-454f-a2bb-f1eed36bacfa" },
+  { n = 12, title = "I Danced", mbid = "a2fd706b-479a-4c8c-acdf-b977a8cdf3de" },
+  { n = 13, title = "I’m Bad", mbid = "6e405282-4e5a-4b84-9cb2-5938e1556932" },
+  { n = 14, title = "Happiness Is", mbid = "594703e5-ace9-43fa-ad50-69825b04dd3f" },
+  { n = 15, title = "A Story", mbid = "ca85db47-c572-44f3-b3a2-ead502fcc237" },
+]
+
+[[release]]
+mbid = "cefd573d-8c00-4a89-8d92-73a33473e28c"
+title = "All I Want"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "All I Want", mbid = "51716356-60f7-4014-be97-c83e1479f0f7" },
+  { n = 2, title = "Raquel", mbid = "ca6924b1-7869-40f7-8910-fedf75a1ec16" },
+  { n = 3, title = "Yes Oh Yes", mbid = "d812a8f7-3097-4a2d-9fa2-76c072809927" },
+]
+
+[[release]]
+mbid = "a27946b1-b0a8-44ad-95cf-da51063359f1"
+title = "Sleepwalkin’"
+type = "single"
+date = "2000"
+tracks = [
+  { n = 1, title = "Sleepwalkin’ (radio edit)", mbid = "6ebdf794-5c56-4845-81ce-39bcf26ba0d9" },
+  { n = 2, title = "Requiem for Nico", mbid = "d43da929-b844-4612-a964-9d249c0f27b1" },
+  { n = 3, title = "All I Want (alternate version)", mbid = "9551d7da-ad14-4b72-979f-223d02a2980c" },
+]
+
+[[release]]
+mbid = "ab6a36d8-7d8a-4469-97ac-593d01dd32d6"
+title = "Happy New Year"
+type = "ep"
+date = "2015-04-18"
+tracks = [
+  { n = 1, title = "Happy New Year Next Year", mbid = "1a2f25c9-4308-42da-9161-33a97927646f" },
+  { n = 2, title = "Love Love Love Love Love", mbid = "90a16b59-9434-40d9-8440-80a5f53d681e" },
+  { n = 3, title = "Good for/at Nothing", mbid = "59746e32-4512-4ae5-8aff-b1232a9b0b0f" },
+  { n = 4, title = "Fast Horses", mbid = "c205d204-8f06-4113-9974-afbbf39259b0" },
+]
+
+[[release]]
+mbid = "eb10f730-864e-49e0-90a9-f308adcf9962"
+title = "We Can Do Anything"
+type = "album"
+date = "2016-03-04"
+tracks = [
+  { n = 1, title = "Memory", mbid = "b726e1f5-01b9-4230-a56b-050dbabfbd95" },
+  { n = 2, title = "I Could Be Anything", mbid = "c21e30cc-50ea-49e8-b7c5-2db37477db0b" },
+  { n = 3, title = "Issues", mbid = "3fad7a4b-4725-4da6-bab7-b2f3c0d7598b" },
+  { n = 4, title = "Holy Ghost", mbid = "47a7899e-c92f-408b-bb0c-fce01265e7d3" },
+  { n = 5, title = "What You Really Mean", mbid = "ab3473e9-596c-4249-bc75-34c46a2819bf" },
+  { n = 6, title = "Foothills", mbid = "a677df49-6d94-48a2-9f9d-43625a4fc7b4" },
+  { n = 7, title = "Traveling Solves Everything", mbid = "5c1e3be2-392d-4fc1-aeda-e567679e6177" },
+  { n = 8, title = "Big Car", mbid = "0db9b4d0-a6a0-4091-bfc3-fd2f60451c11" },
+  { n = 9, title = "Untrue Love", mbid = "5fc5d4e4-f240-4df4-be56-d110d8dd5d09" },
+  { n = 10, title = "I’m Not Done", mbid = "bdd97dc4-1ef3-443f-a552-bb3437f3c92a" },
+]
+
+[[release]]
+mbid = "ec70c3cb-43aa-460d-ab1a-12e551a97073"
+title = "Memory"
+type = "single"
+date = "2016-04-16"
+tracks = [
+  { n = 1, title = "Memory", mbid = "79d07e98-3917-4670-b944-179337d2ef63" },
+  { n = 2, title = "You Move Me", mbid = "e0504531-8ee3-4f2e-aa33-83646d1e1f4e" },
+]
+
+[[release]]
+mbid = "239153fb-af06-4a0a-922a-3f7bdec5e3ac"
+title = "Hotel Last Resort"
+type = "album"
+date = "2019-07-26"
+tracks = [
+  { n = 1, title = "Another Chorus", mbid = "8e82ece0-ff06-49ea-bbe2-0a66278c0c48" },
+  { n = 2, title = "I Get What I Want", mbid = "765827e3-22d3-4094-a798-6e1b0d130965" },
+  { n = 3, title = "I’m Nothing", mbid = "0ed01611-bde8-4e81-ad1e-01f0658b08c5" },
+  { n = 4, title = "Adam Was a Man", mbid = "243be296-6f8e-41dd-a6da-36c071633d58" },
+  { n = 5, title = "Not OK", mbid = "687dca00-fcf2-428e-8318-20c1761dadc6" },
+  { n = 6, title = "Hotel Last Resort", mbid = "2505e449-afbe-4e55-b741-583662c72de4" },
+  { n = 7, title = "Everlasting You", mbid = "e3b52824-060d-46b4-bf94-d91898762100" },
+  { n = 8, title = "It’s All or Nothing", mbid = "2350fdd1-ba59-4e69-b84d-bcfc10535c65" },
+  { n = 9, title = "I’m Not Gonna Cry", mbid = "c35c4ab9-c23b-4820-b6aa-7d91a56674ff" },
+  { n = 10, title = "This Free Ride", mbid = "1c0cc7ef-83aa-48a7-84d3-bcb654291ea5" },
+  { n = 11, title = "Paris to Sleep", mbid = "413a3a70-ab72-4ba1-b4d3-11752fbe9c22" },
+  { n = 12, title = "Sleepin’ at the Meetin’", mbid = "f4612436-8fcf-416d-9062-a43e7ea6d29b" },
+  { n = 13, title = "God Bless America", mbid = "ca4b047c-8d9d-484c-a16c-5d2a9506cb96" },
+]
+
+[[release]]
+mbid = "d52b7a2b-d381-4cd4-9809-48726315797e"
+title = "Waiting for the Bus"
+type = "single"
+date = "2021-05-07"
+spotify = "1uuhV0mz1VqBZM6H4R8Gs6"
+tracks = [
+  { n = 1, title = "Waiting for the Bus", mbid = "b799b8c9-5859-498a-bda5-9595fc58f0b3" },
+  { n = 2, title = "Add It Up (live)", mbid = "4507bfd3-5cf1-4784-bd46-62342fa99096" },
+]
+
+[[release]]
+mbid = "11d3d652-4c0d-47ea-bb3e-8598067a5bb6"
+title = "Catch the Wind"
+type = "single"
+date = "2023-06-09"
+spotify = "4RXKMUfw1lvPig0vWFk4Ea"
+tracks = [
+  { n = 1, title = "Catch the Wind", mbid = "fd5c13e4-7511-423e-8a5f-466b96a1ffc2" },
+]

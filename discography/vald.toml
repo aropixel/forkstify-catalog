@@ -1,0 +1,422 @@
+format = 1
+
+[[release]]
+mbid = "9ae45177-5b99-42c0-a1ab-31aeebf4b7ea"
+title = "NQNT"
+type = "ep"
+date = "2014-01-01"
+tracks = [
+  { n = 1, title = "C'est pour", mbid = "58456684-23ef-4016-a3dc-b7f614dfdefe" },
+  { n = 2, title = "Par Toutatis", mbid = "f39e0072-dbd3-4025-8435-b2a5661429d8" },
+  { n = 3, title = "Shoote un ministre", mbid = "25f83100-e32f-418b-82a1-23780286d53e" },
+  { n = 4, title = "Autiste", mbid = "de7a662c-45bd-4746-a5e9-75424aaafc00" },
+  { n = 5, title = "Sullyvan", mbid = "270abc9d-6fc8-496e-966d-de30f8c8a46e" },
+  { n = 6, title = "Flowjob", mbid = "71fa2bd8-0cb9-4182-9332-3c9637cbc9e3" },
+  { n = 7, title = "Vie de cochon", mbid = "8c2f397c-cb5c-43da-83c3-646a4b470b10" },
+  { n = 8, title = "Horrible", mbid = "5b27552c-405b-4692-8d06-f5faa8ce95e6" },
+  { n = 9, title = "Aulnay-sous-Bois", mbid = "540de311-5213-4b2d-af8b-507b4ef4d113" },
+  { n = 10, title = "Elle me regarde", mbid = "be619541-814b-48c6-a866-cbd4e8dc8fb6" },
+  { n = 11, title = "Smiley", mbid = "6c686c34-5125-464f-ab9e-574e32dbda68" },
+  { n = 12, title = "PF", mbid = "6cc73922-2956-48bd-b41c-c07c888b65d7" },
+  { n = 13, title = "CQFD", mbid = "e29e6a08-ccc9-4687-a9c6-ccaa3483d69a" },
+]
+
+[[release]]
+mbid = "f6bfaf51-46a1-4ee6-ad1f-dcbcedd4259c"
+title = "Shoote Un Ministre"
+type = "single"
+date = "2014-09-12"
+tracks = [
+  { n = 1, title = "Shoote Un Ministre", mbid = "25f83100-e32f-418b-82a1-23780286d53e" },
+  { n = 2, title = "Autiste", mbid = "de7a662c-45bd-4746-a5e9-75424aaafc00" },
+]
+
+[[release]]
+mbid = "ce6c77ba-c208-49e9-a015-a2d5da58b311"
+title = "NQNT 2"
+type = "ep"
+date = "2015-09-25"
+spotify = "5rSfVA2ufaFNRkCzMWyrYV"
+tracks = [
+  { n = 1, title = "Retour", mbid = "7231056d-bdd3-4ca3-83fc-fd441ec9c108" },
+  { n = 2, title = "Bonjour", mbid = "98bfd50f-b775-4c82-af0b-ac31b0dd050f" },
+  { n = 3, title = "Infanticide", mbid = "b44ba1aa-1ca2-4131-90e8-c9444593f19c" },
+  { n = 4, title = "Quidam", mbid = "88a50976-23a9-45cb-aa8b-6926de90a67b" },
+  { n = 5, title = "Cartes sous l'coude", mbid = "c49974b6-fac8-4bab-b29e-d5743920f765" },
+  { n = 6, title = "Urbanisme", mbid = "d9b0c81c-22a9-4e74-8b98-1c4d8988ea22" },
+  { n = 7, title = "Selfie", mbid = "8fd803d8-9bbf-496a-8653-652aa5617b7b" },
+  { n = 8, title = "Bareme", mbid = "45c64033-2a54-4313-bc0f-933ed399b90c" },
+  { n = 9, title = "Taga", mbid = "1649a8e1-f56e-4db9-984c-ee049a84a7c2" },
+  { n = 10, title = "Promesse", mbid = "e8cd6b1f-3644-41e6-948e-d3256956f59b" },
+  { n = 11, title = "Joffrey", mbid = "9bb4663e-7b3a-4578-bcf6-44d8fe579514" },
+  { n = 12, title = "Ogre", mbid = "1b219c8a-cd14-4816-bc42-d4da0405441a" },
+]
+
+[[release]]
+mbid = "bb758bb7-55ec-4fd0-aa2a-09fb16f7212a"
+title = "Compas"
+type = "single"
+date = "2015-11-13"
+tracks = [
+  { n = 1, title = "Compas", mbid = "43113c9e-4f6e-4f26-8337-3b47728638a9" },
+]
+
+[[release]]
+mbid = "04a88583-2062-4db4-ba46-087af5bafcf9"
+title = "Gizeh"
+type = "single"
+date = "2015-11-13"
+tracks = [
+  { n = 1, title = "Gizeh", mbid = "0bce0485-eb95-4c28-b270-25f2e0a3a2e7" },
+]
+
+[[release]]
+mbid = "d6a77b07-ba71-4f67-ac3f-fd33984e88eb"
+title = "Le mignon"
+type = "single"
+date = "2016-06-13"
+tracks = [
+  { n = 1, title = "Le mignon", mbid = "50a4712d-ed1f-4c1e-af80-413000259ee6" },
+]
+
+[[release]]
+mbid = "d7b44001-77a0-4401-b348-470ce5ecb1c6"
+title = "Envie"
+type = "single"
+date = "2016-07-21"
+tracks = [
+  { n = 1, title = "Envie", mbid = "3a8e8c1d-e3d9-4bf2-89c6-4bf19fb4aeb7" },
+]
+
+[[release]]
+mbid = "95939f17-344f-4377-a978-e0218063caa5"
+title = "Agartha"
+type = "album"
+date = "2017-01-20"
+tracks = [
+  { n = 1, title = "Acacia", mbid = "f056d724-b45c-4c7a-a529-59f34f269b13" },
+  { n = 2, title = "Megadose", mbid = "bf47feea-1967-410b-b909-b530841e2523" },
+  { n = 3, title = "Si j'arrêtais", mbid = "0a8f4418-b4ad-4814-8939-fc66440a0e50" },
+  { n = 4, title = "Je t'aime", mbid = "ee5aa7db-80f4-4115-a7cc-16c656905b0a" },
+  { n = 5, title = "Totem", mbid = "bebf9ff2-09f5-4d24-93a2-479b78242354" },
+  { n = 6, title = "L.D.S", mbid = "3660a107-1398-4d24-bfed-e9becf83dc9f" },
+  { n = 7, title = "Ma meilleure amie", mbid = "198ed7cc-5fdc-48ef-87d3-b5bacd3a3945" },
+  { n = 8, title = "Neo", mbid = "e995f881-a7a0-4c71-8091-f1348a34bcbc" },
+  { n = 9, title = "Lezarman", mbid = "269e5968-f77c-4be3-b304-34726fef6f7a" },
+  { n = 10, title = "Blanc", mbid = "cee993f3-f10d-4552-a19a-9cbce8006669" },
+  { n = 11, title = "Eurotrap", mbid = "d0e8240a-6a35-4d8e-85a3-37d7502f9a56" },
+  { n = 12, title = "Petite chatte", mbid = "8fc4995b-b7a1-495a-986e-ad3dc45b2882" },
+  { n = 13, title = "Vitrine", mbid = "6f2247d8-73cb-4a40-a896-606109c346bb" },
+  { n = 14, title = "Strip", mbid = "bb6d59c9-65ac-4de3-bcc6-d686c5af96b0" },
+  { n = 15, title = "Kid Cudi", mbid = "1ee135cf-3380-4d66-ba33-38f2ae29bbd9" },
+  { n = 16, title = "Libellule", mbid = "d657c364-f085-4b1f-8821-566cd6a7cc07" },
+  { n = 17, title = "Dernier verre", mbid = "26d6940a-5d1d-4c39-b6e0-4f0ee7bf5168" },
+]
+
+[[release]]
+mbid = "06ae2e15-5bdf-4031-8b16-d06b98ef833c"
+title = "Désaccordé"
+type = "single"
+date = "2018-01-05"
+tracks = [
+  { n = 1, title = "Désaccordé", mbid = "f603c875-d8c1-4e49-909c-09ea994b1a7c" },
+]
+
+[[release]]
+mbid = "8fbc99e2-ab3d-482c-8490-cf2ab1e22a56"
+title = "NQNT 3"
+type = "ep"
+date = "2018-01-18"
+spotify = "2DCh61KL0UEhOHAFTw9ETJ"
+tracks = [
+  { n = 1, title = "Accordé", mbid = "f9603139-a3e3-4868-9f23-2d1a56e79ab7" },
+  { n = 2, title = "Baby Squirt", mbid = "60c53aa8-ea63-46e3-9e79-9d0d98133f60" },
+  { n = 3, title = "Baraccuda", mbid = "9b558298-a565-48a9-b15d-a1b9245ff103" },
+  { n = 4, title = "Berflam", mbid = "6cfa0004-e4bc-415b-8403-a287aebb4b8c" },
+  { n = 5, title = "Foie Gras", mbid = "03717cfe-e145-4ffe-b535-3f94353e10c9" },
+  { n = 6, title = "Jean Teh", mbid = "08ff457f-3d43-4624-b56e-b865a2859415" },
+  { n = 7, title = "Mana", mbid = "9a71d4b4-6ab5-4f8e-8513-b04bb64388ea" },
+  { n = 8, title = "Maya", mbid = "c6cbc3d4-a320-4bfd-8a1d-1e0002a44f86" },
+  { n = 9, title = "Pas Comme Eux", mbid = "f33c6563-cf91-4700-a7fe-dec80935fcc2" },
+  { n = 10, title = "Pentacles Et Bougies", mbid = "53e8aaab-8d58-4d0f-b273-1fdd22c5bc4a" },
+  { n = 11, title = "Possédé Framboise", mbid = "db0d8c16-5da1-4fee-98c3-e4c49626d7b9" },
+  { n = 12, title = "Sombre soirée", mbid = "61ca7c77-f1c8-4e25-a24d-f47c92dab721" },
+  { n = 13, title = "Symphonie", mbid = "c128a9ea-adcf-49fc-a646-77082455f0e9" },
+  { n = 14, title = "Trophée (Démo)", mbid = "a4fe8be6-f85d-4329-a133-95295b7ced50" },
+]
+
+[[release]]
+mbid = "8dc57f90-a904-4dfd-8069-8cd51669f19e"
+title = "XEU"
+type = "album"
+date = "2018-02-02"
+tracks = [
+  { n = 1, title = "Primitif", mbid = "367c1674-9e88-4f83-8401-401886c04066" },
+  { n = 2, title = "Seum", mbid = "7fd549a5-5491-4cd8-a790-f0a0682af76c" },
+  { n = 3, title = "DQTP", mbid = "85051583-10c7-42e1-91cc-66a438df2bab" },
+  { n = 4, title = "Possédé", mbid = "c8674abd-991e-4fdc-ab8e-e55b04606e87" },
+  { n = 5, title = "Chépakichui", mbid = "513a5fab-5ddd-43e1-8806-2495d3366df1" },
+  { n = 6, title = "Résidus", mbid = "341e5ac3-92c2-441f-89d7-e9dd333a9344" },
+  { n = 7, title = "J'entertain", mbid = "7b081201-0fea-41ed-a5f2-65fa9fcee34e" },
+  { n = 8, title = "Rituel", mbid = "17b60061-e7c1-451c-98ec-dd07dda7dab4" },
+  { n = 9, title = "Désaccordé", mbid = "7c4130fa-b0bf-4201-b245-20afc0701b9a" },
+  { n = 10, title = "Gris", mbid = "f18c81ac-926c-4aad-866c-ef0183ea1ed2" },
+  { n = 11, title = "Réflexions basses", mbid = "f199a53d-22d6-4157-8a4c-78a5a52e49de" },
+  { n = 12, title = "Offshore", mbid = "41346744-9eeb-44b2-b872-b2a10ac0f243" },
+  { n = 13, title = "Ne me déteste pas", mbid = "4927eda8-3e7e-46d3-8193-d396efcdb889" },
+  { n = 14, title = "Rockin Chair", mbid = "6fd80de5-1f7b-421a-873f-784fe42c8a7a" },
+  { n = 15, title = "Dragon", mbid = "2b59c3b9-472f-4322-9b8b-8eb69bb847e2" },
+  { n = 16, title = "Deviens génial", mbid = "52655513-9c90-4241-b26d-6be45023359d" },
+  { n = 17, title = "Trophée", mbid = "374a1502-c491-4d14-ab06-f9900f81ab7c" },
+]
+
+[[release]]
+mbid = "9ce6ed89-707f-41d5-9f92-14854b579b93"
+title = "Iencli (Extrait du projet 93 Empire)"
+type = "single"
+date = "2018-10-04"
+tracks = [
+  { n = 1, title = "Iencli", mbid = "8eb91cec-11e6-4710-b998-a091cb0caf52" },
+]
+
+[[release]]
+mbid = "fae2e33c-10be-4cec-9d78-54776967dcca"
+title = "Élévation"
+type = "single"
+date = "2019-06-14"
+spotify = "6L0z2niBGwJuZd27ZVMcOb"
+tracks = [
+  { n = 1, title = "Élévation", mbid = "04e0d60a-5f8a-4889-953e-21edf2dfe5b3" },
+]
+
+[[release]]
+mbid = "e7e37c93-51ad-4146-bc80-9f3fa258a8ff"
+title = "Bitch"
+type = "single"
+date = "2019-07-10"
+tracks = [
+  { n = 1, title = "Bitch", mbid = "9f8ee8c7-b4b4-4acb-bc19-4f3e404db576" },
+]
+
+[[release]]
+mbid = "4bd09355-6cc4-45ca-8e0e-acf9a76c63be"
+title = "Journal perso II"
+type = "single"
+date = "2019-09-13"
+tracks = [
+  { n = 1, title = "Journal perso II", mbid = "c09d700f-1f2e-4ddd-8832-c19c2f43af5a" },
+]
+
+[[release]]
+mbid = "71f26e74-677f-4081-a4fc-91bacbf79a55"
+title = "Ce monde est cruel"
+type = "album"
+date = "2019-10-11"
+tracks = [
+  { n = 1, title = "Poches pleines", mbid = "4d3d5605-c3de-4777-8956-beabfcda675a" },
+  { n = 2, title = "NQNTMQMQMB", mbid = "20f0ef93-e059-4f95-ba64-fb3ea3d5b1dd" },
+  { n = 3, title = "Journal Perso II", mbid = "c09d700f-1f2e-4ddd-8832-c19c2f43af5a" },
+  { n = 4, title = "Ce monde est cruel", mbid = "eee4ed01-9b50-47d4-b366-683fb9e6e047" },
+  { n = 5, title = "Pensionman", mbid = "e52e1454-9dca-4143-83e8-d556b674dd8d" },
+  { n = 6, title = "Ma Star", mbid = "80f234f1-8753-450e-a607-9b0e38fa994a" },
+  { n = 7, title = "Ignorant", mbid = "fb6c68e1-61d6-4b5e-a4a1-312fe67c4c9b" },
+  { n = 8, title = "Halloween", mbid = "67827cc5-5604-4e79-85d2-8ff0127958a0" },
+  { n = 9, title = "Dernier retrait", mbid = "7c8ad6f7-d563-4717-8953-85b59e41d47d" },
+  { n = 10, title = "Keskivonfer", mbid = "deec407f-cd14-439c-8bd3-e57291abcf51" },
+  { n = 11, title = "Pourquoi", mbid = "a35b306c-8e2b-455f-a462-a58794bd63d8" },
+  { n = 12, title = "J’pourrai", mbid = "ece1d030-07f8-4d8e-876d-0855744e4436" },
+  { n = 13, title = "No Friends", mbid = "b99b6a4c-314b-4239-9e06-8d3f6d7f18d6" },
+  { n = 14, title = "ASB", mbid = "43a2a40f-57de-423c-badd-1b225edf38fa" },
+  { n = 15, title = "Royal Bacon", mbid = "c196986d-2263-4bc2-be33-78ea68af976d" },
+  { n = 16, title = "Rappel", mbid = "616237d6-5dfd-4bbe-a5c3-bd87687878b6" },
+]
+
+[[release]]
+mbid = "38a9f958-0098-4809-95fa-19e6fa9f40a2"
+title = "Guccissima x Matrixé"
+type = "single"
+date = "2020-12-03"
+spotify = "1WuYPmeBK7Kp5ijOkvONQM"
+tracks = [
+  { n = 1, title = "Guccissima", mbid = "236c63b2-215d-464e-869d-fc296a36f4ab" },
+  { n = 2, title = "Matrixé", mbid = "b11079be-cb05-40b6-9f57-8b9e6fbfd4a5" },
+]
+
+[[release]]
+mbid = "71777ae4-7f52-4592-8255-2ae119a31f88"
+title = "Horizon vertical"
+type = "album"
+date = "2020-12-18"
+spotify = "0mk2Znz1qdyhChMdX62pID"
+tracks = [
+  { n = 1, title = "Mélange", mbid = "9f954c8c-af1a-4110-a58e-48725fac8435" },
+  { n = 2, title = "Horizon vertical", mbid = "1ed99847-100f-4b9c-a12d-704648dfd5b4" },
+  { n = 3, title = "Matrixé", mbid = "9531c821-487d-4972-8556-6bc4b9491d13" },
+  { n = 4, title = "Canada", mbid = "93b3e3ae-3acb-43ac-9e0a-c8dc292cbc4f" },
+  { n = 5, title = "Mauvais", mbid = "e7b715db-a761-4c05-807f-cc979a641354" },
+  { n = 6, title = "1992", mbid = "15b74b0a-26e8-4555-9b4a-45fe285c3258" },
+  { n = 7, title = "Diviser pour mieux régner", mbid = "c4ef8a5f-eb63-481e-ae02-11d7c25ca89b" },
+  { n = 8, title = "Royal Cheese", mbid = "c5d22e92-7eb3-4974-bd8c-c7a309c8326b" },
+  { n = 9, title = "Guccissima", mbid = "c7982e2c-caed-4205-9321-42142b157626" },
+  { n = 10, title = "VHR", mbid = "3548056b-8fb4-48e2-8e31-df16d5173828" },
+  { n = 11, title = "2014", mbid = "088f4e84-a57d-4621-89a0-0374bd0a7a0f" },
+  { n = 12, title = "Adios", mbid = "d9e82167-e9e8-48e2-868a-5cf11c586886" },
+]
+
+[[release]]
+mbid = "07347ba8-26b2-4bbf-855e-2d0686102b0f"
+title = "Footballeur"
+type = "single"
+date = "2021-05-28"
+spotify = "4qo11YvCriHp3eeoIHDGEm"
+tracks = [
+  { n = 1, title = "Footballeur", mbid = "98c9752a-0164-40ca-b35b-7f3a3ad7fa99" },
+]
+
+[[release]]
+mbid = "103f25b0-7fd5-42e0-9537-0b90217e7452"
+title = "Anunnaki"
+type = "single"
+date = "2022-01-07"
+tracks = [
+  { n = 1, title = "Anunnaki", mbid = "db08f818-c1c8-425a-918c-e61e5bb06d66" },
+]
+
+[[release]]
+mbid = "f5f269e7-7a93-4670-8118-978094e3bef9"
+title = "V1"
+type = "album"
+date = "2022-02-04"
+spotify = "03ZLnEibkBpQxhXKaQiqfU"
+tracks = [
+  { n = 1, title = "Sushi", mbid = "ef539dad-3481-43ec-9d1d-f5f2512fad81" },
+  { n = 2, title = "Pandémie", mbid = "3d6407e1-e1ce-480d-b167-5cd0bebd6572" },
+  { n = 3, title = "La faux le fer", mbid = "e126d690-3d6e-48f9-90e3-cc45b80ccea9" },
+  { n = 4, title = "Sur un nouvel album", mbid = "7aa7507d-2a33-4d8e-885a-696c6158dad5" },
+  { n = 5, title = "Un mot", mbid = "92d70ede-c4b3-4b70-bb89-bc2c822b0c4e" },
+  { n = 6, title = "Péon", mbid = "38cd58df-7891-4281-9d3c-5318a0a95c8a" },
+  { n = 7, title = "Papoose", mbid = "376405c0-7fd3-4718-86a6-d52736e36986" },
+  { n = 8, title = "Je ressens rien", mbid = "3190cf9c-a6a6-4f1b-97f4-cef9907c1d5d" },
+  { n = 9, title = "Rappeur conscient", mbid = "447606db-9c45-4b3a-a9ac-7e6af494bbbb" },
+  { n = 10, title = "Maudit", mbid = "be530ec2-835b-461e-b55c-e17bcf07adf1" },
+  { n = 11, title = "Regarde-toi", mbid = "bea55527-25ed-44ce-a603-660f0fa84031" },
+  { n = 12, title = "Qui écoute", mbid = "693408b4-801f-4b33-8af2-ffb66b7de799" },
+  { n = 13, title = "Pas deux fois", mbid = "d79d91ad-f6e2-4d2d-8578-6374aeb60be9" },
+  { n = 14, title = "Anunnaki", mbid = "db08f818-c1c8-425a-918c-e61e5bb06d66" },
+  { n = 15, title = "Laisse tomber", mbid = "ff86a7c7-6574-4c04-8f5e-2f72ee0e8b9f" },
+  { n = 16, title = "Happy End", mbid = "0dd02c94-4c54-4d77-aa6d-95ad25528f25" },
+  { n = 17, title = "Bien sûr", mbid = "fd71abbb-7bb7-41a0-856f-30bdb0139c23" },
+]
+
+[[release]]
+mbid = "a631ca17-e43f-437d-85e8-8dc1a8014106"
+title = "Semi-auto"
+type = "single"
+date = "2022-09-09"
+tracks = [
+  { n = 1, title = "Semi-auto", mbid = "025c280f-1cd7-44c5-b772-e79c3f96d39d" },
+]
+
+[[release]]
+mbid = "9d1b04a0-31d4-4db7-8966-28fadd775323"
+title = "GAUCHE DROITE"
+type = "single"
+date = "2025-02-28"
+tracks = [
+  { n = 1, title = "GAUCHE DROITE", mbid = "3ce39904-06b9-467c-b8bb-2c200f7b94f0" },
+]
+
+[[release]]
+mbid = "0fc453ce-3a45-4a8c-8890-505318b92dfc"
+title = "PANDEMONIUM"
+type = "album"
+date = "2025-03-28"
+spotify = "5HATOAKIjRUr7vpZTF91YM"
+tracks = [
+  { n = 1, title = "DIEU MERCI", mbid = "8f3d6794-ef1f-454c-974f-5a36c9da5eaa" },
+  { n = 2, title = "RÉGULATION", mbid = "192ccba0-ebc1-4dc6-a277-fc3b8fe65df8" },
+  { n = 3, title = "LÉTHARGIE", mbid = "5681976a-9ffa-48d4-97ab-e919d55f1803" },
+  { n = 4, title = "PANDEMONIUM", mbid = "9d3be046-ebbd-4272-af88-154dd4bd78f1" },
+  { n = 5, title = "FLPVCOF", mbid = "07fa6153-9007-4bde-abbd-472d6949acc8" },
+  { n = 6, title = "GAUCHE DROITE", mbid = "3ce39904-06b9-467c-b8bb-2c200f7b94f0" },
+  { n = 7, title = "ROCHE NOIRE", mbid = "9eb0bced-98cd-4a7c-9fc9-2ab70462e849" },
+  { n = 8, title = "DARKNET", mbid = "ac2d6558-2a38-40df-96f3-674602071e04" },
+  { n = 9, title = "FUMÉE", mbid = "fd22038d-23bd-45c6-a7f4-804cff90c757" },
+  { n = 10, title = "QUE DES PROBLÈMES", mbid = "a00c3a9e-0dc3-426b-ae70-f80d1a014fd8" },
+  { n = 11, title = "UFOV", mbid = "5008d27c-9a77-4e6f-9768-69378230b49c" },
+  { n = 12, title = "SUPERMAN", mbid = "2d938908-83f4-4711-9a3e-dcb641ebeb55" },
+  { n = 13, title = "PROZACZOPIXAN", mbid = "c82f5b61-03f6-45d5-8209-8ab11291cc1c" },
+  { n = 14, title = "interlude", mbid = "3a44b6a1-ba62-427b-aaa6-dc9747a001de" },
+  { n = 15, title = "93 MILLIARDS", mbid = "ecdd408c-8436-4615-af4d-aa07a36bf0a7" },
+  { n = 16, title = "LES ÉCHAPPÉS", mbid = "5e5d3e00-127d-4f18-bf3c-1bb017ff56f5" },
+  { n = 17, title = "PARADIS PERDU", mbid = "8da81815-ee63-4e9d-a0ae-94d4beaf7f20" },
+  { n = 18, title = "VICTOIRE", mbid = "c7a3f046-94ea-46af-993a-f46009433b5a" },
+]
+
+[[release]]
+mbid = "6bd83ffe-0ce5-4078-97fc-833f6000f15c"
+title = "REGULATION RELOADED"
+type = "single"
+date = "2025-05-02"
+tracks = [
+  { n = 1, title = "REGULATION RELOADED", mbid = "1c1350a9-28a7-44fb-8137-a3881badf30a" },
+]
+
+[[release]]
+mbid = "26e191f3-07ef-472e-bf1c-280ddc4e353d"
+title = "PTSD"
+type = "single"
+date = "2025-10-31"
+tracks = [
+  { n = 1, title = "PTSD", mbid = "4f813fad-7c09-4d57-bef7-4e7608329f49" },
+]
+
+[[release]]
+mbid = "57d337a3-b4d2-4936-8daf-bb19c2ccbf14"
+title = "MAGNIFICAT"
+type = "album"
+date = "2025-11-30"
+spotify = "50aUxrW8cVj0Phidp3SDR1"
+tracks = [
+  { n = 1, title = "Blauwburgval", mbid = "78a6c3f0-c110-47a5-b159-d7b7b686a7e2" },
+  { n = 2, title = "Dans la rue", mbid = "04641850-347a-4c43-858a-fbb33adb05c8" },
+  { n = 3, title = "Magnificat", mbid = "b7e0a4b7-6e03-4d6f-a492-96a4e555ae98" },
+  { n = 4, title = "Retomber amoureux", mbid = "bb2e4c76-3ef8-4250-9b12-c8cafc9be7c2" },
+  { n = 5, title = "Dimension parallèle", mbid = "103d6740-cdca-406a-98a9-9a6879746b75" },
+  { n = 6, title = "Jolie fleur", mbid = "d88dc2c1-50e4-41e7-a939-f5b0848b2640" },
+  { n = 7, title = "Abysses", mbid = "8c71fa7d-a80b-4c24-89e4-b0c5bbdf50cb" },
+  { n = 8, title = "Décadence", mbid = "b954bc9f-8890-4f52-84aa-84c8391b762b" },
+  { n = 9, title = "Strass & paillettes", mbid = "53350ccf-afca-45e6-8fd2-0da9df955800" },
+  { n = 10, title = "Changer d'air", mbid = "32967321-06de-40f2-8b1f-33d7b4eef4d5" },
+  { n = 11, title = "Toujours pareil", mbid = "299b99e0-5094-4744-92ef-8bf6f39b4efa" },
+  { n = 12, title = "Mamacita", mbid = "db877320-a54e-418a-8b48-c7ed9991c873" },
+]
+
+[[release]]
+mbid = "8c100840-8e6f-4770-934a-87bf6f862504"
+title = "Plus loin"
+type = "single"
+date = "2026-02-11"
+spotify = "50yHAbwkOXmrcofmCPWTJb"
+tracks = [
+  { n = 1, title = "Plus loin", mbid = "a9284230-db1f-47fb-a7e4-79306d29e4b0" },
+]
+
+[[release]]
+mbid = "7ad74f80-8548-4413-9a61-122a8d777cd6"
+title = "Sport"
+type = "single"
+date = "2026-05-22"
+spotify = "666LgSSIKYrJZSF2LZDGlS"
+tracks = [
+  { n = 1, title = "Sport", mbid = "2572b1dd-b651-45cb-b197-eee07062f542" },
+]
+
+[[release]]
+mbid = "26f07b30-9d16-4abe-9d18-0229fb0ea630"
+title = "DIE HARD - ALL STARS"
+type = "single"
+date = "2026-06-30"
+tracks = [
+  { n = 1, title = "DIE HARD - ALL STARS", mbid = "46c4669e-c9fc-4dd8-b1e2-b7317e893022" },
+]
