@@ -1,7 +1,8 @@
 # Contributing to the reference catalog
 
-forkstify's reference catalog is one TOML card per artist, forked by
-every listener. What you write in your fork — a card generated when you
+forkstify's reference catalog is one TOML card per artist, and beside it
+one discography per artist (`discography/<slug>.toml`, MusicBrainz data
+only), forked by every listener. What you write in your fork — a card generated when you
 arrived at an artist, a top you fixed, a link you drew — is yours; some of
 it is worth sharing. This page says how it comes back here, and how it is
 read.
@@ -9,7 +10,8 @@ read.
 ## How a proposal is made
 
 From forkstify, on your fork: `Cp` (or `:catalog propose`). It compares
-your cards to the reference, puts their **state** on a branch `proposal`
+your cards and discographies to the reference, puts their **state** on a
+branch `proposal`
 — never your learned data, never the vectors — pushes it, and opens the
 pull request (through `gh` after your `y`, or as a comparison page in the
 browser). One proposal is open at a time: proposing again rewrites the
@@ -21,12 +23,16 @@ The pull request's body is written for the reviewer, in two lists:
   each. Nothing to read: things to check, and the action checks them.
 - **Edited cards** — what you changed on an existing card, with the
   sections touched and, for a link, the note that says where it came from.
+- **Discographies** — what `forkstify discography` harvested from
+  MusicBrainz for your cards: albums, EPs, singles and soundtracks, with
+  their tracks. Listed by slug; nothing to read.
 
 ## What the action checks
 
 On every pull request, `forkstify validate` runs on the whole catalog:
 
-- only `cards/` may change — `learned/`, `vectors/`, tooling stay out;
+- only `cards/` and `discography/` may change — `learned/`, `vectors/`,
+  tooling stay out;
 - every card reads as TOML, carries `format = 1`, a `name`, an `mbid`;
 - the `mbid` is **unique across the catalog** — the same artist under two
   files is refused, whatever the names;
@@ -34,14 +40,20 @@ On every pull request, `forkstify validate` runs on the whole catalog:
   longer matches it is a warning, not an error — the file is the key;
 - every link's target is a slug (a target without a card is a proposal,
   not a mistake), and its type is one of `member`, `collab`, `similar`,
-  `family`, `scene`, `influence`, or a type `catalog.toml` declares.
+  `family`, `scene`, `influence`, `audience`, or a type `catalog.toml`
+  declares;
+- every discography belongs to a card, starts its `artists` (when it has
+  one) with that card's `mbid`, and every release carries an `mbid`, a
+  `title`, a `type` (`album`, `ep`, `single`) and tracks with `n`, a
+  `title` and a recording `mbid`.
 
 After a merge — by the action or by hand — the action regenerates
 `vectors/` and commits it. Never include the index in a proposal.
 
 ## How a proposal is read
 
-- **New cards only** (cards added, nothing edited, nothing removed): the
+- **New cards or discographies only** (files added, nothing edited,
+  nothing removed): the
   action **merges it on its own** as soon as the check is green, says so
   in a comment, and regenerates the index on `main`. Nobody reads a
   generated card before it enters; the one thing the check cannot see —

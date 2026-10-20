@@ -1,8 +1,10 @@
 # Additions merge on their own (Joel, 20/09/2026): a pull request that only
-# ADDS cards — nothing edited, nothing removed, nothing outside cards/ —
-# is merged by the action as soon as `check` is green, and the index is
-# regenerated right after. A pull request that touches an existing card
-# waits for a reader (CONTRIBUTING.md).
+# ADDS cards or discographies — nothing edited, nothing removed, nothing
+# outside cards/ and discography/ — is merged by the action as soon as
+# `check` is green, and the index is regenerated right after. A
+# discography is MusicBrainz data, like a generated card's facts (0027). A
+# pull request that touches an existing file waits for a reader
+# (CONTRIBUTING.md).
 #
 # Why a second workflow on `workflow_run`: on a pull request from a fork,
 # the token of the `catalog` workflow is read-only; this one runs in the
@@ -42,7 +44,7 @@ jobs:
           fi
           files="$(gh api "repos/$GITHUB_REPOSITORY/pulls/$number/files" --paginate --jq '.[] | "\(.status) \(.filename)"')"
           echo "$files"
-          if [ -z "$files" ] || echo "$files" | grep -vqE '^added cards/[^/]+\.toml$'; then
+          if [ -z "$files" ] || echo "$files" | grep -vqE '^added (cards|discography)/[^/]+\.toml$'; then
             echo "not additions only — a reader decides (#$number)"
             exit 0
           fi
@@ -56,7 +58,7 @@ jobs:
           NUMBER: ${{ steps.pr.outputs.number }}
           COUNT: ${{ steps.pr.outputs.count }}
         run: |
-          gh pr comment "$NUMBER" --repo "$GITHUB_REPOSITORY" --body "Merged by the action: $COUNT new card(s), nothing edited, the check green. The index is regenerated on main right after."
+          gh pr comment "$NUMBER" --repo "$GITHUB_REPOSITORY" --body "Merged by the action: $COUNT new file(s), cards or discographies, nothing edited, the check green. The index is regenerated on main right after."
           gh pr merge "$NUMBER" --repo "$GITHUB_REPOSITORY" --merge
       - uses: actions/checkout@v4
         if: steps.pr.outputs.number != ''
