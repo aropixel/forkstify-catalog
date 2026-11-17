@@ -1,0 +1,24 @@
+format = 1
+
+[[release]]
+mbid = "0859f220-64e4-4be3-b581-1aa271ab1fe5"
+title = "Rock'n'roll"
+type = "album"
+date = "2008-09-03"
+tracks = [
+  { n = 1, title = "Intro", mbid = "a8449910-363f-41ed-ab1a-507949c72452" },
+  { n = 2, title = "SOS Suicide MC", mbid = "d104b662-deb4-479a-b6f5-f656230d416e" },
+  { n = 3, title = "Partis pour brûler", mbid = "9f71bb93-c146-4839-b8ae-9cfb13cafa92" },
+  { n = 4, title = "Efficace", mbid = "2abbb136-445b-437b-9988-ebe6731a553d" },
+  { n = 5, title = "J'rappe", mbid = "35d10d35-3b50-4707-85f8-ae36a378c774" },
+  { n = 6, title = "Choses vraies", mbid = "518dc943-9274-459e-8523-40fa24f9eb0f" },
+  { n = 7, title = "Interlad", mbid = "0a896d61-1bf9-4506-978a-dabf24c820c7" },
+  { n = 8, title = "Juicy fruit", mbid = "8afa7dbf-f550-4987-9101-a5ecd1270489" },
+  { n = 9, title = "Tant pis", mbid = "fafaa456-43fb-43d4-a515-c4eb967fa887" },
+  { n = 10, title = "Béton Boulouze", mbid = "227eac62-609a-47a6-b8bc-26dc931bb6fc" },
+  { n = 11, title = "Sapritch m'a tuer", mbid = "ca534f84-5068-482a-99c2-986ecbb55041" },
+  { n = 12, title = "Keskya", mbid = "890c46c9-aba5-4b3f-bca4-802036a198d6" },
+  { n = 13, title = "Hexagone", mbid = "270043e1-0bda-4a3c-821b-d2599f530c91" },
+  { n = 14, title = "Tout pour la musique", mbid = "1aeddbcb-e1aa-441e-8c60-c05860e4be73" },
+  { n = 15, title = "I don't Mind", mbid = "37553bf6-cc02-49a7-9505-16f04f117168" },
+]

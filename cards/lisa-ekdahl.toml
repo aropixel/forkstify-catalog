@@ -1,0 +1,23 @@
+format = 1
+name = "Lisa Ekdahl"
+mbid = "560c4706-0868-4c89-be8b-b26fb7754aba"
+spotify = "4SJSGUVZ04tezaGrxc96EE"
+begin = "1971"
+origin = "Stockholm municipality"
+
+tags = ["jazz", "pop", "vocal-jazz", "contemporary-jazz", "se"]
+
+tops = [
+  "All I Really Want Is Love",
+  "It's Oh So Quiet (feat. Patrik Boman & Ronnie Gardiner)",
+  "Daybreak",
+  "Rivers of Love",
+  "I Know You Love Me (feat. Ibrahim Maalouf) (Single version)",
+]
+
+links = [
+  { to = "madeleine-peyroux", type = "similar" },
+  { to = "melody-gardot", type = "similar" },
+  { to = "stacey-kent", type = "audience" },
+  { to = "malia", type = "audience" },
+]

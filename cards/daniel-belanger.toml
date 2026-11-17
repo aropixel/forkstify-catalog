@@ -1,0 +1,23 @@
+format = 1
+name = "Daniel Bélanger"
+mbid = "93c0a24d-9a7d-446a-b16b-93b412206780"
+spotify = "3k0HFz1mMtmsaWYsX75MiW"
+begin = "1961"
+origin = "Montréal"
+
+tags = ["dance", "electronica", "pop", "ca"]
+
+tops = [
+  "Fous n'importe où",
+  "Sèche tes pleurs",
+  "Les deux printemps",
+  "Rêver mieux",
+  "Étreintes",
+]
+
+links = [
+  { to = "jean-leloup", type = "audience" },
+  { to = "richard-desjardins", type = "audience" },
+  { to = "harmonium", type = "audience" },
+  { to = "jim-corcoran", type = "audience" },
+]

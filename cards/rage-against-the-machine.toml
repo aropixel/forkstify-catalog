@@ -1,0 +1,24 @@
+format = 1
+name = "Rage Against the Machine"
+mbid = "3798b104-01cb-484c-a3b0-56adc6399b80"
+spotify = "2d0hyoQ5ynDBnkvAbJKORj"
+begin = "1991"
+end = "2024"
+origin = "Los Angeles"
+
+tags = ["alternative-metal", "rap-metal", "funk-metal", "rap-rock", "us", "90s"]
+
+tops = [
+  "Killing In The Name",
+  "Wake Up",
+  "Bulls On Parade",
+  "Bombtrack",
+  "Guerrilla Radio",
+]
+
+links = [
+  { to = "nirvana", type = "audience" },
+  { to = "foo-fighters", type = "audience" },
+  { to = "faith-no-more", type = "audience" },
+  { to = "incubus", type = "audience" },
+]

@@ -1,0 +1,221 @@
+format = 1
+
+[[release]]
+mbid = "58bc08d9-59e0-4a70-9a59-f6e0d8c159eb"
+title = "TV Girl"
+type = "ep"
+date = "2010-10-21"
+tracks = [
+  { n = 1, title = "On Land", mbid = "d9b3678f-aee0-4304-8fa1-d5f06d025fa7" },
+  { n = 2, title = "It's Not Something", mbid = "a3571ed9-393c-4123-af78-236b52801baf" },
+  { n = 3, title = "I Don't Care", mbid = "05834b9b-eb95-4ba7-a042-bd9617ef78bd" },
+]
+
+[[release]]
+mbid = "e24f2325-f5f8-44f3-80b0-961524a7a6cc"
+title = "TV Girl / Dirty Gold"
+type = "single"
+date = "2011-03-31"
+tracks = [
+  { n = 1, title = "On Land", mbid = "6a236896-afd0-4152-9fbc-6eca7077f9fb" },
+  { n = 2, title = "Overboard", mbid = "830f2da4-9b4e-4469-bd2a-f705a96cc521" },
+]
+
+[[release]]
+mbid = "4be6b5b7-a941-47d8-bc50-238367bbb0f4"
+title = "Benny and the Jetts"
+type = "ep"
+date = "2011-07-25"
+tracks = [
+  { n = 1, title = "Benny and the Jetts", mbid = "86ceaeab-8670-499f-8ee5-8e9aff3b502d" },
+  { n = 2, title = "Baby you were there", mbid = "b293d56f-4643-40d5-9564-0391cb9ebab4" },
+  { n = 3, title = "Lizzy Come Back to Life", mbid = "5be0c9ca-6537-4e2e-82d6-6b7b8f74a016" },
+  { n = 4, title = "Your Own Religion", mbid = "43cea50f-a5e0-4e5d-8749-4075160c5d4d" },
+]
+
+[[release]]
+mbid = "dd15657f-f592-4963-b669-2dd52e9cd9b9"
+title = "Girls Like Me"
+type = "single"
+date = "2011-09-27"
+tracks = [
+  { n = 1, title = "Girls Like Me", mbid = "e7a9d3d2-305a-49dc-abbf-f9ac5e58763f" },
+  { n = 2, title = "Sarah (Meet Me in the Sauna)", mbid = "3b26faab-5d9d-40af-a457-3b0a41c0fea3" },
+]
+
+[[release]]
+mbid = "bfb2d6c8-c956-4f13-a0a9-6c00042b3b7f"
+title = "Diet-Coke"
+type = "single"
+date = "2012-05-23"
+tracks = [
+  { n = 1, title = "Diet-Coke", mbid = "ea98db19-4c9a-40d4-be23-c349cd11b355" },
+]
+
+[[release]]
+mbid = "ed7c14ea-2078-4c5f-be5a-3eaf68b51107"
+title = "Average Guy (Blame)"
+type = "single"
+date = "2013-04-19"
+spotify = "3IDnvOtwynPayvIxyY7Zdo"
+tracks = [
+  { n = 1, title = "Average Guy (Blame)", mbid = "972cf7b3-2e75-4739-a602-3c629be6c21a" },
+]
+
+[[release]]
+mbid = "e98ee221-ac36-4fd0-89a5-c6ef6ef0ff27"
+title = "Lonely Women"
+type = "ep"
+date = "2013-06-18"
+spotify = "2YYY0TCdTLMCTrNt5ii9Jl"
+tracks = [
+  { n = 1, title = "She Smokes in Bed", mbid = "13712420-f423-4d97-a304-a3f0761ce043" },
+  { n = 2, title = "Laura", mbid = "3cc070b4-30bd-4f87-92c9-6b682086de05" },
+  { n = 3, title = "My Girlfriend", mbid = "06a69303-b0dc-435c-9610-68f09570377b" },
+  { n = 4, title = "Easier to Cry", mbid = "b48119f3-f00c-43d9-b473-71024a8c6488" },
+  { n = 5, title = "Melanie", mbid = "dd81e5d3-b561-4471-abda-0d34e7788219" },
+]
+
+[[release]]
+mbid = "a7e457e6-4124-4cb5-9f2a-8c35a30835a3"
+title = "French Exit"
+type = "album"
+date = "2014-06-05"
+spotify = "6WrxgVbi9Q96gV8tZMq3FH"
+tracks = [
+  { n = 1, title = "Pantyhose", mbid = "e46e0e4f-19db-4ba3-9669-9bb50d0bec15" },
+  { n = 2, title = "Birds Don't Sing", mbid = "dabc16aa-8960-4a57-8b6e-26dd0a192119" },
+  { n = 3, title = "Louise", mbid = "a71ed673-30fd-483d-b674-9e77f1696d12" },
+  { n = 4, title = "Hate Yourself", mbid = "a90b82e0-6c2e-4c76-a8ca-aeb0252e9cc3" },
+  { n = 5, title = "The Getaway", mbid = "e3e7286a-b6a8-4b7a-a2f5-0a3a70822670" },
+  { n = 6, title = "Talk to Strangers", mbid = "728aead0-5fc1-45d3-8988-14027c42c58b" },
+  { n = 7, title = "The Blonde", mbid = "530103a2-b515-44d1-b6f2-22ce54549af5" },
+  { n = 8, title = "Daughter of a Cop", mbid = "aba5307b-bb19-4cd7-bba3-d43dea3f2f63" },
+  { n = 9, title = "Lovers Rock", mbid = "697eea7f-0067-496c-bc50-2921538e2cc4" },
+  { n = 10, title = "Her and Her Friend", mbid = "11507606-d2fe-48fa-975a-931e3f09fce0" },
+  { n = 11, title = "Come When You Call", mbid = "94c9c733-a4aa-43c5-80e9-4c9615d7e16a" },
+  { n = 12, title = "Anjela", mbid = "4edfe4d4-01c9-42bb-ad72-c923cdf99539" },
+]
+
+[[release]]
+mbid = "58f74a83-f0da-4621-b28f-16c61d77ff3d"
+title = "Natalie Wood"
+type = "single"
+date = "2015-06-10"
+spotify = "4W2LMk5q76Nr3royy9bhdn"
+tracks = [
+  { n = 1, title = "Natalie Wood", mbid = "8674bc8c-a2a8-48c2-9494-5729786976e0" },
+  { n = 2, title = "Like We Planned", mbid = "ab61b13d-35f3-418e-b5d3-588eb71b23b2" },
+]
+
+[[release]]
+mbid = "e9030f66-9494-418d-8bc9-02b7e9014834"
+title = "Who Really Cares"
+type = "album"
+date = "2016-02-26"
+spotify = "4oL7pMxnb04uuRI7ReXmuh"
+tracks = [
+  { n = 1, title = "Taking What’s Not Yours", mbid = "d45b3548-31b4-428e-9c6c-5546cac71cf6" },
+  { n = 2, title = "Song About Me", mbid = "808f530c-e71a-4ace-9f9c-6d362bd7e458" },
+  { n = 3, title = "Cigarettes Out the Window", mbid = "b589b70d-e156-4276-9c15-55b9398d4a0f" },
+  { n = 4, title = "Till You Tell Me to Leave", mbid = "65d66f18-4e27-4eaf-8b2f-679ddd483e75" },
+  { n = 5, title = "Not Allowed", mbid = "75d28825-110a-46b7-b08b-8001f7aacfd8" },
+  { n = 6, title = "(Do the) Act Like You Never Met Me", mbid = "c3be1e04-e8b6-43d9-a38e-85f5437102a5" },
+  { n = 7, title = "Safe Word", mbid = "2dc9877a-2cfa-4d76-a491-d828fd425377" },
+  { n = 8, title = "For You", mbid = "0dc91d3a-e947-4c7f-ad64-024712d67a15" },
+  { n = 9, title = "Loving Machine", mbid = "f0d7f6b7-33b1-49a6-abcc-8e1344645748" },
+  { n = 10, title = "Heaven Is a Bedroom", mbid = "ba7f781d-b8f8-452a-b22f-aefb95418191" },
+]
+
+[[release]]
+mbid = "9bf78dfd-b750-41e5-8944-15e72b69c568"
+title = "Death of a Party Girl"
+type = "album"
+date = "2018-05-08"
+spotify = "5kFjYk3umY8Pu1lymIJLVy"
+tracks = [
+  { n = 1, title = "Pretty Boy", mbid = "31bed8cd-75b0-4682-a5d2-8359fada3d5f" },
+  { n = 2, title = "7 Days Til Sunday", mbid = "6f42f8d6-16bb-445a-8e3e-04313ce29681" },
+  { n = 3, title = "Blue Hair", mbid = "77a807b4-5512-4250-9f42-cb57412124ad" },
+  { n = 4, title = "Lonely Girls", mbid = "03c694f9-b725-4c97-9d53-3879ef9b410e" },
+  { n = 5, title = "Drift Down", mbid = "5236e53b-9fdb-41cc-8a1d-ff947daa4117" },
+  { n = 6, title = "Cynical One", mbid = "60f22af3-2eff-4962-90ae-aa0fdd0a073d" },
+  { n = 7, title = "King of Echo Park", mbid = "9bfcff83-90c0-4886-8ba6-9ccce18884bd" },
+  { n = 8, title = "Legendary Lovers", mbid = "0f1562b2-df1c-470e-aa84-b1a2f366a737" },
+  { n = 9, title = "Every Stupid Actress", mbid = "4d5ee4cc-a238-4749-8ecf-dae8aca3fe07" },
+  { n = 10, title = "Death of a Party Girl", mbid = "5c99fbeb-4694-4a44-bc30-59bd79c60bca" },
+]
+
+[[release]]
+mbid = "d1d921a4-58fa-424a-9019-8795dc10d4e9"
+title = "Summer's Over"
+type = "album"
+date = "2021-10-13"
+spotify = "4l58JlPq72gOA4veRxboVR"
+tracks = [
+  { n = 1, title = "Summer's Over", mbid = "1872d027-9298-4694-9138-df08065c0581" },
+  { n = 2, title = "Lo on the Hi Way", mbid = "79e3e6ed-25fe-4b83-a211-121ac50ca77e" },
+  { n = 3, title = "Jump the Turnstile", mbid = "63dd152d-3196-4518-a7cd-78f4a8150923" },
+  { n = 4, title = "Sweet to Dream", mbid = "aa3ddc07-a3df-4a4f-9aad-915ac9f3c329" },
+  { n = 5, title = "Ordinary Day", mbid = "3be7be87-cebb-4e6d-9298-9dbd1369d07a" },
+  { n = 6, title = "Better in the Dark", mbid = "8830029e-c795-4cc7-928f-8b4c0b225115" },
+  { n = 7, title = "The Party's Not Over", mbid = "36efae1c-161e-4273-b0ba-dd309f043b63" },
+]
+
+[[release]]
+mbid = "e97a4276-0a66-455f-8d4c-b0c5ff433d35"
+title = "Grapes Upon the Vine"
+type = "album"
+date = "2023-06-30"
+spotify = "0SXtNBEYPTc7sXyLF9N7TT"
+tracks = [
+  { n = 1, title = "I’ll Be Faithful", mbid = "d62159b7-bfd5-430e-9cb3-19c55ed750dc" },
+  { n = 2, title = "All The Way Through", mbid = "ed59ac9d-1fca-41ec-b2a1-898b0d8e5eaa" },
+  { n = 3, title = "Hang On", mbid = "45106b9c-0556-43ac-bf60-cee5e41c7a9d" },
+  { n = 4, title = "Higher Ground", mbid = "20e95822-3411-4a74-979f-e704df366b59" },
+  { n = 5, title = "Shame", mbid = "fb94a797-ea45-4198-9bc4-19362cc1ab9b" },
+  { n = 6, title = "One of These Mornings", mbid = "607a2b4a-98da-4fca-b992-01343da31b6a" },
+  { n = 7, title = "The Night Time", mbid = "5690df35-3f67-4501-8991-c969aba4faeb" },
+  { n = 8, title = "Big Black Void", mbid = "f2637bb6-2de5-4a4c-ad73-ffae907b1cab" },
+  { n = 9, title = "Fire", mbid = "96fedbc7-578a-4b0a-b7f4-42e1648b134d" },
+  { n = 10, title = "99.5", mbid = "4b68051c-4f5c-4729-823e-62b2f0e36490" },
+  { n = 11, title = "Grapes Upon the Vine", mbid = "03ff72ac-cdb6-4706-9a38-0d994e5d8b6c" },
+  { n = 12, title = "Heaven Over our Heads", mbid = "bfd6b4ae-951b-4b3a-80ed-d1b13468da1a" },
+]
+
+[[release]]
+mbid = "b7ac7402-c738-473a-958c-6299ad6a9450"
+title = "Summer 2000 Baby / Take a Trip"
+type = "single"
+date = "2024-08-06"
+spotify = "6n25jgU7JCTYlCpI4abuT4"
+tracks = [
+  { n = 1, title = "Summer 2000 Baby", mbid = "09913054-a1f9-4510-8dd1-5668a14c93d4" },
+  { n = 2, title = "Take a Trip", mbid = "a048875d-6969-4a2f-aea2-a75325db1dcd" },
+]
+
+[[release]]
+mbid = "6f1f1e16-5f6e-4949-8d4e-fd251f6599e5"
+title = "Fauxllennium"
+type = "album"
+date = "2024-12-02"
+spotify = "6exBK52toUpg3zj2Gog3K1"
+tracks = [
+  { n = 1, title = "Summer 2000 Baby", mbid = "09913054-a1f9-4510-8dd1-5668a14c93d4" },
+  { n = 2, title = "Everything Blue", mbid = "43cac9eb-cb27-4707-8cba-dfcf239198f4" },
+  { n = 3, title = "Fauxllennium", mbid = "81141245-75b6-4c1c-991f-83d5ed92bb56" },
+  { n = 4, title = "Butterflies", mbid = "117d0f44-aacc-4400-a727-d7ce394f2016" },
+  { n = 5, title = "Take a Trip", mbid = "a048875d-6969-4a2f-aea2-a75325db1dcd" },
+  { n = 6, title = "The Sweet Life", mbid = "59aa04f5-9058-4c4a-b14b-94a4ab9dffe5" },
+  { n = 7, title = "Yesterday's World", mbid = "15f14c06-f68d-4960-bbd3-862e61bc7644" },
+]
+
+[[release]]
+mbid = "f83b086c-93a4-4a09-8814-961a9ef4074b"
+title = "Incredibly Blind"
+type = "single"
+date = "2025-11-06"
+spotify = "39ofopEoieuFM7zHvsdpKy"
+tracks = [
+  { n = 1, title = "Incredibly Blind", mbid = "a7eb2c31-ce75-4a13-b591-51f06a954126" },
+]

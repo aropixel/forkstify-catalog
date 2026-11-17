@@ -1,0 +1,281 @@
+format = 1
+
+[[release]]
+mbid = "a4f97e3b-b47d-3a90-b59f-8545a59d824f"
+title = "Dreamland"
+type = "album"
+date = "1996-10-01"
+tracks = [
+  { n = 1, title = "Walkin' After Midnight", mbid = "d6388a16-1b77-4c2a-81f8-f609ec5e5805" },
+  { n = 2, title = "Hey Sweet Man", mbid = "d8d1d03e-9667-4b72-977c-593288ce5bca" },
+  { n = 3, title = "I'm Gonna Sit Down And Write Myself A Letter", mbid = "460c3fc0-8fb3-487d-a350-4ae7eec7d2c0" },
+  { n = 4, title = "(Getting Some) Fun Out Of Life", mbid = "be3bc386-23a0-4041-8741-60172754125a" },
+  { n = 5, title = "La Vie En Rose", mbid = "af27b74b-ab7f-47de-ac7e-a53ed9987a15" },
+  { n = 6, title = "Always A Use", mbid = "59a4515c-2133-4d78-8907-971019dcc301" },
+  { n = 7, title = "A Prayer", mbid = "661c9eb1-a16c-4847-9018-e69b95121b2b" },
+  { n = 8, title = "Muddy Water", mbid = "7288ec08-a72b-4b9f-9554-59e973dde25c" },
+  { n = 9, title = "Was I ?", mbid = "a9df4ad1-da20-4727-bd28-c9f835746acf" },
+  { n = 10, title = "Dreamland", mbid = "4defed4d-edaa-4b88-b9a6-fca15e1fc7b4" },
+  { n = 11, title = "Reckless Blues", mbid = "d2b8a4c8-5370-4af3-b31e-1c575ea20360" },
+  { n = 12, title = "Lovesick Blues", mbid = "62a42d56-a72b-4c9e-ac3f-66d7e6e8a4a6" },
+]
+
+[[release]]
+mbid = "6f712c6f-6166-319d-83db-f1425fe0968d"
+title = "Got You on My Mind"
+type = "album"
+date = "2004-06-08"
+tracks = [
+  { n = 1, title = "Back In Your Own Back Yard", mbid = "1fac1795-8744-4587-8464-8ea3057e3aa2" },
+  { n = 2, title = "J’ai deux amours", mbid = "ede5384b-9bdb-4281-9e2e-8d799d3013a0" },
+  { n = 3, title = "Flambee Montalbanese", mbid = "67f7b080-31cc-4d10-b9ca-34b8675b5797" },
+  { n = 4, title = "Got You On My Mind", mbid = "4106c460-253a-4a80-a954-5e0e0e00d114" },
+  { n = 5, title = "Jealous Guy", mbid = "cac1285a-7a34-47cc-8be6-cfce48007642" },
+  { n = 6, title = "The Way You Look Tonight", mbid = "167c0ab9-d822-4de2-8e67-25d9dc87a5bf" },
+  { n = 7, title = "Rag for Madi", mbid = "df5697b1-2da4-43c4-a779-b450b05edaae" },
+  { n = 8, title = "Playin'", mbid = "f909ee9d-80ae-4b13-84b9-f8ed1c822de5" },
+  { n = 9, title = "Shoulda Known", mbid = "2716e676-135e-4a29-98f2-41a627cc9df3" },
+  { n = 10, title = "Heaven to Me", mbid = "4be035d6-567a-4c4f-8b6c-77ec47f90454" },
+  { n = 11, title = "Heaven Help Us All", mbid = "43261403-8022-415e-8561-18fa67612b6c" },
+]
+
+[[release]]
+mbid = "3dc0b59b-2044-3056-b4b4-14133cb7b098"
+title = "Careless Love"
+type = "album"
+date = "2004-09-14"
+spotify = "4Kev9VMY5Ypfo19jRqK6bW"
+tracks = [
+  { n = 1, title = "Dance Me to the End of Love", mbid = "51e5920d-fafa-4ba8-bbd1-d826e02fffb9" },
+  { n = 2, title = "Don’t Wait Too Long", mbid = "721e1c4b-4cd3-4f56-aa26-532541b96ff5" },
+  { n = 3, title = "Don’t Cry Baby", mbid = "9963dc7c-18a0-45ea-8926-5c0273da287b" },
+  { n = 4, title = "You’re Gonna Make Me Lonesome When You Go", mbid = "028ff6b8-bd97-4c7f-8315-b383ae581501" },
+  { n = 5, title = "Between the Bars", mbid = "49824834-65a2-4c9d-aef8-d24f597bd877" },
+  { n = 6, title = "No More", mbid = "818354c8-5135-4886-a7d1-a9464380eba2" },
+  { n = 7, title = "Lonesome Road", mbid = "faca12f8-e575-451f-bbdf-63a20a40d2b9" },
+  { n = 8, title = "J’ai deux amours", mbid = "79d7a682-223a-4130-a14e-484abdfc127b" },
+  { n = 9, title = "Weary Blues", mbid = "17b35859-cfd0-4857-9dfe-232bc458d800" },
+  { n = 10, title = "I’ll Look Around", mbid = "8d0232aa-56ab-4d42-a452-471c4501cbf2" },
+  { n = 11, title = "Careless Love", mbid = "b02c9865-13af-4ea5-9dcd-a9b440ddc7c6" },
+  { n = 12, title = "This Is Heaven to Me", mbid = "263d511f-a443-4aec-b3b3-8fd1e044e6b8" },
+]
+
+[[release]]
+mbid = "4e1d1c5a-20db-330a-87fe-59a1278e0cdc"
+title = "Half the Perfect World"
+type = "album"
+date = "2006-09-12"
+spotify = "6krx8ZgiDPDVTKDoZGwevx"
+tracks = [
+  { n = 1, title = "I’m All Right", mbid = "02134c35-2c07-4b06-ad86-0f37fd130c3c" },
+  { n = 2, title = "The Summer Wind", mbid = "2d00d653-1656-4622-8075-557488e5a7a5" },
+  { n = 3, title = "Blue Alert", mbid = "18ede02f-d223-48b3-aceb-ac8ec8266cbb" },
+  { n = 4, title = "Everybody’s Talking", mbid = "f2eba38c-767d-4b45-82a4-e8687da885b4" },
+  { n = 5, title = "River", mbid = "3061e2e8-cf24-421d-8f7c-828880a75caf" },
+  { n = 6, title = "A Little Bit", mbid = "e9322079-10be-42ab-b200-1f471ee52c22" },
+  { n = 7, title = "Once in a While", mbid = "d4c782c2-3843-4b94-a4d9-a5398c5b8164" },
+  { n = 8, title = "(Looking for) The Heart of Saturday Night", mbid = "4e07aa93-19be-4860-bcf5-7a62341064ab" },
+  { n = 9, title = "Half the Perfect World", mbid = "32d28b70-a41b-4f01-8296-053135daf384" },
+  { n = 10, title = "La Javanaise", mbid = "abe94f2e-a72b-48cf-92dc-7938386fc283" },
+  { n = 11, title = "California Rain", mbid = "dbb09015-7ba4-4e67-beb1-17d2bc73d208" },
+  { n = 12, title = "Smile", mbid = "04d0e971-295b-4b75-aada-29895e405cc9" },
+]
+
+[[release]]
+mbid = "461b74fc-1f5f-3b6b-a5a2-117bc2bee20a"
+title = "Bare Bones"
+type = "album"
+date = "2009-03-06"
+spotify = "5WSZnecSUMQprzWZLlk5ha"
+tracks = [
+  { n = 1, title = "Instead", mbid = "3d7e0bbb-cbe2-4264-b78a-999a83abd9c7" },
+  { n = 2, title = "Bare Bones", mbid = "35856ba6-b116-4386-be23-1e5982b666c3" },
+  { n = 3, title = "Damn the Circumstances", mbid = "b15e0c2c-119a-4707-8d17-fc34639f757c" },
+  { n = 4, title = "River of Tears", mbid = "f97864f8-b9ad-4d8b-a4c8-e1bd55196ab0" },
+  { n = 5, title = "You Can’t Do Me", mbid = "b762c90c-ba2b-43ae-b1de-a31f86a65697" },
+  { n = 6, title = "Love and Treachery", mbid = "6dc2f611-b77c-4cb8-b7d1-6ac81d40237e" },
+  { n = 7, title = "Our Lady of Pigalle", mbid = "378440aa-00fc-436f-ac29-81250563d3fc" },
+  { n = 8, title = "Homeless Happiness", mbid = "610a2745-2a8f-4d7b-94f7-4df0802c07f8" },
+  { n = 9, title = "To Love You All Over Again", mbid = "71e1deae-c33a-4291-9695-e836b5106775" },
+  { n = 10, title = "I Must Be Saved", mbid = "7a96b443-b323-4dda-9a75-0070726133da" },
+  { n = 11, title = "Somethin’ Grand", mbid = "880e0337-8ffe-41db-a43a-498893d79914" },
+]
+
+[[release]]
+mbid = "5d9e7a84-5757-4d65-a3e0-7b6588b10273"
+title = "I Threw It All Away"
+type = "single"
+date = "2011-05-23"
+spotify = "5ipK1ADRpiMWfDtPYoohHX"
+tracks = [
+  { n = 1, title = "I Threw It All Away", mbid = "feda78eb-aba6-41b5-bd6f-2ed08fd94fda" },
+]
+
+[[release]]
+mbid = "a21f4420-1c07-44d0-8135-c52e7cc79e2f"
+title = "Standing on the Rooftop"
+type = "album"
+date = "2011-06-14"
+tracks = [
+  { n = 1, title = "Martha My Dear", mbid = "d87b8aee-1625-409e-b14a-327bee960520" },
+  { n = 2, title = "The Kind You Can't Afford", mbid = "c58bb404-f5a6-464a-a5f0-af10f87c0074" },
+  { n = 3, title = "Leaving Home Again", mbid = "5ffbd8db-1c66-4eee-b09a-f2a4bf4b271f" },
+  { n = 4, title = "The Things I've Seen Today", mbid = "90cc772f-6bcd-4a4e-b223-9af4e7d25e45" },
+  { n = 5, title = "Fickle Dove", mbid = "311d1640-16e3-4a53-91ab-2bbaeb277289" },
+  { n = 6, title = "Lay Your Sleeping Head, My Love", mbid = "05452abf-c55c-4455-8e30-4931c1c7c82c" },
+  { n = 7, title = "Standing on the Rooftop", mbid = "44cb0bfd-0631-4cb0-b51e-f34a2f3c36de" },
+  { n = 8, title = "I Threw It All Away", mbid = "17452461-9a62-4130-8679-757d49f993cb" },
+  { n = 9, title = "The Party Oughta Be Comin' Soon", mbid = "c583734a-1bf8-4345-aa14-e41a8e470b9c" },
+  { n = 10, title = "Superhero", mbid = "a0be2838-e997-48a6-bb3d-ec110b9f5fe7" },
+  { n = 11, title = "Love in Vain", mbid = "1de2b96c-f49e-4c6f-80b9-a29d8706e250" },
+  { n = 12, title = "Don't Pick a Fight With a Poet", mbid = "87b80f06-ec28-4340-981a-c00eea8a073e" },
+  { n = 13, title = "Meet Me in Rio", mbid = "b8712751-68a2-494d-ba01-a9ca51698e47" },
+  { n = 14, title = "Ophelia", mbid = "5a7c7ee0-cb32-412c-a499-7dedb4af639e" },
+  { n = 15, title = "The Way of All Things", mbid = "1386d4df-06f9-4b6e-8fbd-e45d57e95b8c" },
+]
+
+[[release]]
+mbid = "627863be-7b0f-4301-97d2-de621f534557"
+title = "Changing All Those Changes"
+type = "single"
+date = "2012-12-14"
+tracks = [
+  { n = 1, title = "Changing All Those Changes", mbid = "da0716d3-c307-47df-b4a6-6d2a8071e50c" },
+]
+
+[[release]]
+mbid = "8fbed865-e2c0-42ac-b736-54ec3d3bc650"
+title = "The Blue Room"
+type = "album"
+date = "2013-03-05"
+spotify = "2uRmfYDnhFDkK42FPSAcVd"
+tracks = [
+  { n = 1, title = "Take These Chains", mbid = "36f77cef-5eed-435c-bda2-bab3bcc14250" },
+  { n = 2, title = "Bye Bye Love", mbid = "2a4683ff-5194-45b8-821a-98813a5e31d3" },
+  { n = 3, title = "Changing All Those Changes", mbid = "367d8082-ef79-48b6-8de2-031c7a6eb5f0" },
+  { n = 4, title = "Born to Lose", mbid = "bdcdcb46-fb0b-41bb-90ba-f705dc4e39a1" },
+  { n = 5, title = "Guilty", mbid = "0f3957d3-21c7-49b2-8a27-36af8feef6a5" },
+  { n = 6, title = "Bird on the Wire", mbid = "c937886c-c407-4a29-8dc9-ca5b02bf2381" },
+  { n = 7, title = "I Can’t Stop Loving You", mbid = "0bebfd98-f54c-48b1-96ca-f5182b87c683" },
+  { n = 8, title = "Gentle on My Mind", mbid = "87e06290-bda9-4c72-aa0d-25ced852809d" },
+  { n = 9, title = "You Don’t Know Me", mbid = "b1d8071b-9165-411e-a35e-e8e1838f315f" },
+  { n = 10, title = "Desperados Under the Eaves", mbid = "6d8bac1c-d367-420a-b632-9ecbaeda08f2" },
+  { n = 11, title = "I Love You So Much It Hurts", mbid = "e2339f7c-6edd-44f4-8d6f-9cb1759db939" },
+]
+
+[[release]]
+mbid = "5ebb660f-d638-4140-a0cd-849e57b7a67e"
+title = "Secular Hymns"
+type = "album"
+date = "2016-09-16"
+tracks = [
+  { n = 1, title = "Got You on My Mind", mbid = "9f07d4c5-5131-4a02-b59d-52e966b68dba" },
+  { n = 2, title = "Tango Till They’re Sore", mbid = "cc4b4cc5-abeb-4471-923c-488c4755113f" },
+  { n = 3, title = "The Highway Kind", mbid = "90e1c034-0627-4052-9cb3-bba5d86e1f04" },
+  { n = 4, title = "Everything I Do Gonh Be Funky (From Now On)", mbid = "4a7dff00-57b8-4dd9-a25a-fe515e8ac1af" },
+  { n = 5, title = "If the Sea Was Whiskey", mbid = "70e425f8-921d-424a-a2c5-311bf4ee04dd" },
+  { n = 6, title = "Hard Times Come Again No More", mbid = "a8fc10ff-ec1b-4e57-9737-d2b94b6151d2" },
+  { n = 7, title = "Hello Babe", mbid = "b21df3cc-97aa-44c2-b761-fb0d9a8a4cb4" },
+  { n = 8, title = "More Time", mbid = "384271ec-6035-4dd6-9a88-a96474791e7a" },
+  { n = 9, title = "Shout Sister Shout", mbid = "ac676909-9252-416d-824d-1048eb70aba8" },
+  { n = 10, title = "Trampin’", mbid = "45cda2f6-a312-4a92-87fc-00445b572174" },
+]
+
+[[release]]
+mbid = "221c2d32-7b8e-45c6-a959-d512761db8af"
+title = "On My Own"
+type = "single"
+date = "2018-06-08"
+spotify = "12mhNTknL87YjnBPEZamR4"
+tracks = [
+  { n = 1, title = "On My Own", mbid = "8969e3ec-4ad4-4e48-a0d8-6e00385fb3c6" },
+]
+
+[[release]]
+mbid = "3892d30d-47c6-4e42-a3bc-774912177452"
+title = "We Might as Well Dance"
+type = "single"
+date = "2018-07-13"
+spotify = "2CdQxLBNwamLhBAwqMd26n"
+tracks = [
+  { n = 1, title = "We Might as Well Dance", mbid = "d3984805-9ed3-4ba5-b37d-76ef7fc1d34a" },
+]
+
+[[release]]
+mbid = "a5becacf-4021-4dc1-aece-a42e71196a48"
+title = "Anthem"
+type = "album"
+date = "2018-08-31"
+tracks = [
+  { n = 1, title = "On My Own", mbid = "2ce845b6-62c6-4f9b-b0cb-aa14d069d8d6" },
+  { n = 2, title = "Down on Me", mbid = "f8001550-3b01-413e-aeed-c9e96103f972" },
+  { n = 3, title = "Party Tyme", mbid = "eb25bff7-29cb-45e2-8c9b-fe46e8c73728" },
+  { n = 4, title = "Anthem", mbid = "7d459f6b-9143-471e-8dfe-54133dbfec13" },
+  { n = 5, title = "All My Heroes", mbid = "b2b64a6e-483b-4069-afed-9f09957defee" },
+  { n = 6, title = "On a Sunday Afternoon", mbid = "54190b8e-38cc-4205-9e65-7304255ba8df" },
+  { n = 7, title = "The Brand New Deal", mbid = "40261efd-65d3-40fb-b402-58c7283d86ac" },
+  { n = 8, title = "Lullaby", mbid = "7a4fe3e0-d034-4b33-9c5b-e41e510975dd" },
+  { n = 9, title = "Honey Party", mbid = "9dcae951-fecd-4f07-81ce-c53453a721db" },
+  { n = 10, title = "The Ghosts of Tomorrow", mbid = "48534199-7dd5-4fc0-be31-35472b6cd301" },
+  { n = 11, title = "We Might as Well Dance", mbid = "b7b41ddd-525d-4522-a285-ad78e1c49b37" },
+  { n = 12, title = "Liberté", mbid = "10c4bc0f-2efe-4f32-9e24-d2d604668265" },
+]
+
+[[release]]
+mbid = "cf9b5795-3524-4790-927f-9b8f7d026232"
+title = "No Meanness"
+type = "single"
+date = "2019-09-13"
+spotify = "7noFCUICGN7dvCqeiyPgI6"
+tracks = [
+  { n = 1, title = "No Meanness", mbid = "1f430094-0ed9-464f-b12c-0bee36c455ac" },
+]
+
+[[release]]
+mbid = "ac0c88bd-c491-4625-8edd-6843a8755fc2"
+title = "American"
+type = "single"
+date = "2020-10-16"
+spotify = "0gFFs2mkDf2ygj3HDzSOL9"
+tracks = [
+  { n = 1, title = "American", mbid = "ddcb579f-bc8e-4175-9791-d98aeb851c1f" },
+]
+
+[[release]]
+mbid = "2b1c0053-4e9a-4e33-94c3-05d9fc395863"
+title = "It's a Mistake"
+type = "single"
+date = "2022-04-15"
+spotify = "6o5QjvrJoD2XYen4XAdJ39"
+tracks = [
+  { n = 1, title = "It's a Mistake", mbid = "30dfa325-61b6-482f-8baa-587474530d83" },
+]
+
+[[release]]
+mbid = "0f98ded9-c8e5-4084-9e22-943371ac7817"
+title = "Please Come On Inside"
+type = "single"
+date = "2024-03-13"
+spotify = "0e9xNTI1NdsipqtLvJPPFu"
+tracks = [
+  { n = 1, title = "Please Come On Inside", mbid = "c124ad0c-470d-48d6-ab68-c25653d7542c" },
+]
+
+[[release]]
+mbid = "464ee927-751c-4cf8-9b77-6d96b2b155f8"
+title = "Let’s Walk"
+type = "album"
+date = "2024-06-28"
+spotify = "5Nel74loT3L9CQff44dpGz"
+tracks = [
+  { n = 1, title = "Find True Love", mbid = "04e4a42c-5a0c-4f77-8c78-19623b262cbb" },
+  { n = 2, title = "How I Wish", mbid = "2ae2d454-06f4-400c-976c-b14015bfde7f" },
+  { n = 3, title = "Let's Walk", mbid = "0815cccc-068a-4e13-987f-7836fd9c33d2" },
+  { n = 4, title = "Please Come on Inside", mbid = "73f14050-68e6-4c0f-b383-a1856cc8f7d4" },
+  { n = 5, title = "Blues for Heaven", mbid = "c9718242-ff77-461d-86d3-bcd7be461ffb" },
+  { n = 6, title = "Et Puis", mbid = "64cadfd9-2011-403d-a044-bf2f01c60f2e" },
+  { n = 7, title = "Me and the Mosquito", mbid = "2ece5e6e-0351-4bce-a6f0-ccb6ef837973" },
+  { n = 8, title = "Nothing Personal", mbid = "1cb5fb8a-23e3-43eb-8555-e4c8b2658782" },
+  { n = 9, title = "Showman Dan", mbid = "7aca8bf6-1196-4b06-ac31-3cdbc150a516" },
+  { n = 10, title = "Take Care", mbid = "0620158b-b342-4810-b1ae-52d727ad44a7" },
+]

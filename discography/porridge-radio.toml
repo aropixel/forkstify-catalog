@@ -1,0 +1,539 @@
+format = 1
+
+[[release]]
+mbid = "44d163fb-bdab-43b3-9617-32095a4be0e1"
+title = "I Can Swim"
+type = "single"
+date = "2012"
+tracks = [
+  { n = 1, title = "I Can Swim", mbid = "8552a513-1141-4747-bc79-9443ec26cceb" },
+]
+
+[[release]]
+mbid = "0a99c487-bcf2-4810-94e6-f521af274f2f"
+title = "Morning"
+type = "single"
+date = "2012"
+tracks = [
+  { n = 1, title = "Morning", mbid = "a9a42565-1b6a-4c76-8e2c-bfa288cc3e5b" },
+]
+
+[[release]]
+mbid = "c0f31483-2fb3-4ae5-8e53-c0348e72da1a"
+title = "Fat Dog"
+type = "single"
+date = "2013"
+tracks = [
+  { n = 1, title = "Fat Dog", mbid = "20195e3f-1760-4890-88c8-e6baf5a4cd5a" },
+]
+
+[[release]]
+mbid = "b05716c4-2d07-4be2-b698-8db12854ff26"
+title = "Glossy Magazine"
+type = "single"
+date = "2013"
+tracks = [
+  { n = 1, title = "Glossy Magazine", mbid = "77434a3d-2bf0-4b35-865b-71066bd63aa3" },
+]
+
+[[release]]
+mbid = "375e7d15-7649-4ba2-a49a-1b633855150e"
+title = "OK"
+type = "single"
+date = "2013"
+tracks = [
+  { n = 1, title = "OK", mbid = "7180f12b-c908-4d54-a3a2-52b836873063" },
+]
+
+[[release]]
+mbid = "5699ef8e-6d5b-4d69-9c1f-b8d1f97deb89"
+title = "Please"
+type = "single"
+date = "2013"
+tracks = [
+  { n = 1, title = "Please", mbid = "c3fce59c-5ac9-4e6f-84c2-bb75436f48c6" },
+]
+
+[[release]]
+mbid = "decdf494-bab5-474e-b0da-070dc352630e"
+title = "Sedated"
+type = "single"
+date = "2013"
+tracks = [
+  { n = 1, title = "Sedated", mbid = "40f0ddd0-7e6b-48c1-b961-3b5f5b37874b" },
+]
+
+[[release]]
+mbid = "6f601869-0777-4f00-aca9-168404cdf7bd"
+title = "Blood Drinking Brain Squashing"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Blood Drinking Brain Squashing", mbid = "b0199cc8-67fd-406c-8b88-a40034d741e3" },
+]
+
+[[release]]
+mbid = "dbe162bc-fef7-4742-9078-c666fe5f8016"
+title = "Losercore"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Losercore", mbid = "bfa8a53f-38da-4997-8943-cac19a474308" },
+]
+
+[[release]]
+mbid = "6f71ab71-7744-429b-852f-3f72f8f8802a"
+title = "Lullaby #04"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Lullaby #04", mbid = "f915d1ab-d92c-4fd9-bea9-7e43e7b9c18a" },
+]
+
+[[release]]
+mbid = "149b2c91-d58a-4361-a829-ff5e942bedf5"
+title = "Lullaby #09"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Lullaby #09", mbid = "364d944e-f5e7-4a2b-9b7e-be0cca194ad0" },
+]
+
+[[release]]
+mbid = "1f6d408d-9705-4486-8925-d465423ab760"
+title = "Nephews"
+type = "single"
+date = "2014"
+tracks = [
+  { n = 1, title = "Nephews", mbid = "ca2b9e60-f9a5-48ca-a3c9-0d9288525092" },
+]
+
+[[release]]
+mbid = "e3a1fff6-4df0-4dd5-970d-21f678394285"
+title = "Hello Dog Friendly"
+type = "album"
+date = "2016-01-13"
+spotify = "6XWD7iHqw5BAQI5hOALYQG"
+tracks = [
+  { n = 1, title = "The World Destroys Itself", mbid = "10262401-1c4a-4e7f-9d50-837b58c29bc3" },
+  { n = 2, title = "Past Is Personal", mbid = "6484247b-9bbb-4749-a270-0bfa36e21035" },
+  { n = 3, title = "Gentrify the Moon", mbid = "d97652ef-23ac-4ffa-ae34-cab94a0b7c90" },
+  { n = 4, title = "Ghost Trees", mbid = "adcd49a1-0c85-460a-a078-33d4c2e1453f" },
+  { n = 5, title = "Don't Ask Me Twice", mbid = "3a44804a-2bb1-401a-9a22-950248eefba6" },
+  { n = 6, title = "I Don't Listen", mbid = "af5bf904-ab52-422f-a09d-794c9a4ba927" },
+  { n = 7, title = "Get Out of My House", mbid = "18a12f24-8dfc-4a34-b6d7-26a1f7acff72" },
+  { n = 8, title = "Born Confused", mbid = "104fbebc-cf00-4511-b229-409c2e7ff354" },
+]
+
+[[release]]
+mbid = "9c6490c1-9c6a-4f78-aa27-0650f9ca4480"
+title = "Say Sorry or Die"
+type = "single"
+date = "2016-01-19"
+tracks = [
+  { n = 1, title = "Hahaha", mbid = "8e80b389-f74f-4fff-a53e-079bd0d04b72" },
+  { n = 2, title = "Garbage Band", mbid = "604f7153-7df1-48c9-94f7-59137102e787" },
+  { n = 3, title = "Everybody We Know", mbid = "79cd0dd0-695b-4b37-a849-22a74e345189" },
+  { n = 4, title = "Plagiarism", mbid = "2e753760-59bc-4707-a491-39d80c10ec9f" },
+]
+
+[[release]]
+mbid = "00bda7a0-e92d-46f9-9051-bb472e7c3f24"
+title = "Go Away"
+type = "single"
+date = "2016-04-30"
+tracks = [
+  { n = 1, title = "Go Away", mbid = "f42870c3-fe06-4306-ba6b-8abd3e04b585" },
+]
+
+[[release]]
+mbid = "5d239980-bca8-46a8-9d39-a62f65944afe"
+title = "Alright Don't Worry"
+type = "single"
+date = "2016-05-16"
+tracks = [
+  { n = 1, title = "Alright Don't Worry", mbid = "dcc59adb-8751-4695-8841-b7d638c7b81d" },
+]
+
+[[release]]
+mbid = "956e74ac-dffc-46d0-9198-c63fc359a073"
+title = "frgttng"
+type = "single"
+date = "2016-10-01"
+tracks = [
+  { n = 1, title = "Game", mbid = "70e5c9ae-0a65-4ab3-857b-d294316c8d5e" },
+  { n = 2, title = "Walk Me Thru", mbid = "34f32706-a26a-40c4-8ac9-116e8b8b06e4" },
+  { n = 3, title = "What Is This", mbid = "588ee4e8-6ba7-4ac7-918f-c5dce0533d68" },
+  { n = 4, title = "Dont Talk to Me Today (It Could Always Be Colder Cover)", mbid = "ac75d6ca-1221-4a69-96ab-80a378c8d398" },
+]
+
+[[release]]
+mbid = "ec479c8c-d04f-42d1-a3ee-715918fa2e2d"
+title = "i'm not sure anymore"
+type = "album"
+date = "2016-11-11"
+tracks = [
+  { n = 1, title = "bbbbttr (demo)", mbid = "6f1be544-121e-40be-a1ac-4aa0fec2e3fd" },
+  { n = 2, title = "born confused (demo)", mbid = "d5b7339e-b9c6-41f5-8312-e8239e672cab" },
+  { n = 3, title = "don't ask me twice (demo)", mbid = "c438faa5-662a-4569-834d-06e919afe939" },
+  { n = 4, title = "get out of my house (demo)", mbid = "22224c45-60d9-42f2-b4f8-119144c54939" },
+  { n = 5, title = "go away (demo)", mbid = "27586d1c-7b5d-4ff5-81b3-5e5e26bd25cf" },
+  { n = 6, title = "i don't listen (demo)", mbid = "05f23c89-2ddb-47f1-8591-e15fa378f4d3" },
+  { n = 7, title = "say hi (demo)", mbid = "86cdf6be-57e8-4a83-81d2-61a1877bbaad" },
+  { n = 8, title = "?? (demo)", mbid = "7735910e-ca05-499b-8fc4-34a0ba368c3a" },
+  { n = 9, title = "want 2 be (demo)", mbid = "98450bee-b1bd-42bd-97ee-49cffd91be8b" },
+  { n = 10, title = "talking about it (demo)", mbid = "f1c910a5-046e-40c6-a770-1056d4bec797" },
+]
+
+[[release]]
+mbid = "7e3cc4cc-940e-404b-889b-7f97e2921337"
+title = "misery radio"
+type = "album"
+date = "2016-11-11"
+tracks = [
+  { n = 1, title = "and i was like (demo)", mbid = "968cb424-ca05-4bda-b0a8-8ff352b016c7" },
+  { n = 2, title = "danish pastry lyrics (demo)", mbid = "00d002c4-4971-4570-a947-2615aad5e792" },
+  { n = 3, title = "morning (demo)", mbid = "ed72407c-79cd-4126-b503-6c16535b54cd" },
+  { n = 4, title = "nephews (demo)", mbid = "77ed21f3-e825-4fb7-b6c5-ad94ad4db595" },
+  { n = 5, title = "eugh (demo)", mbid = "e49b7579-efec-468e-a688-49b298958a3a" },
+  { n = 6, title = "lullaby #04 (demo)", mbid = "8584f37e-5a12-47ac-8b2d-409edb842381" },
+  { n = 7, title = "p2 (demo)", mbid = "540327c3-c538-4077-a722-94def292589e" },
+  { n = 8, title = "ok (demo)", mbid = "048db2bd-91c5-43f9-a020-9626f6fa0ead" },
+  { n = 9, title = "lullaby #09 (demo)", mbid = "5de91159-73ac-492b-83ae-d7ddc5d2fc11" },
+  { n = 10, title = "barks like a dog (demo)", mbid = "8fbdef5b-86a2-439d-b3d1-edbb6698da90" },
+  { n = 11, title = "teeth (soft version) (demo)", mbid = "012a53fa-8152-49b8-a229-eb016352fa22" },
+  { n = 12, title = "our love is shrinking down (demo)", mbid = "0d2b5685-b61d-449c-b991-6f32a850cda4" },
+  { n = 13, title = "losercore (demo)", mbid = "a80a0e70-6279-42d3-b106-2d2ec5099989" },
+]
+
+[[release]]
+mbid = "f54581d4-fd93-4a15-b5f1-e0382dc7119a"
+title = "Rice, Pasta and Other Fillers"
+type = "album"
+date = "2016-11-25"
+spotify = "0va4erXOPFHrqESDcwRxwx"
+tracks = [
+  { n = 1, title = "Danish Pastry Lyrics", mbid = "b654a2c2-d238-4a6b-8545-a0ca86dcc52d" },
+  { n = 2, title = "Lemonade", mbid = "2bb85993-6920-4f22-a5bf-9ae65e0e52a2" },
+  { n = 3, title = "Barks Like a Dog", mbid = "617d36c7-ce3e-4117-9701-eba225234c48" },
+  { n = 4, title = "Walking the Cow", mbid = "3b9439a2-b49a-465c-bd28-77267819a3cc" },
+  { n = 5, title = "Can U Hear Me Now?", mbid = "90743f6b-ec04-440c-9bcb-1d7cfce8d8ea" },
+  { n = 6, title = "Sorry", mbid = "70eeaf88-9d4c-40ff-bbff-9627ad919d91" },
+  { n = 7, title = "Worms", mbid = "60d4c5ad-85af-450a-b8e5-171aa455387d" },
+  { n = 8, title = "And I Was Like", mbid = "bc944656-5088-4701-b5cc-b1f46583273e" },
+  { n = 9, title = "Eugh", mbid = "b1715859-e642-405f-bb62-03277742569f" },
+  { n = 10, title = "Our Love Is Shrinking Down", mbid = "c94d368a-a9f2-4b62-9564-c3688ce0146e" },
+]
+
+[[release]]
+mbid = "53712f4d-b71d-4f7a-a43d-6fe4c229299b"
+title = "Triptych"
+type = "single"
+date = "2017-01-26"
+tracks = [
+  { n = 1, title = "Losercore", mbid = "0c6bdb89-c453-4ca0-93b3-1472d5df21f5" },
+  { n = 2, title = "Safe Hole", mbid = "6c10c5ea-d961-4de4-822c-bb99823c2439" },
+  { n = 3, title = "Spacedust", mbid = "7643cb65-4654-4ea9-a53d-92d127110b90" },
+]
+
+[[release]]
+mbid = "6aeaa2ef-3f45-439f-a656-b6666e4ea3fd"
+title = "O. Christmas"
+type = "single"
+date = "2017-12-12"
+tracks = [
+  { n = 1, title = "O. Christmas", mbid = "20704bcb-86f6-42f7-b148-247545e355c3" },
+]
+
+[[release]]
+mbid = "86b8e358-ca78-4efa-9784-b55dd0fdc5e0"
+title = "Bad Breath"
+type = "album"
+date = "2017-12-18"
+tracks = [
+  { n = 1, title = "Intro / Outro", mbid = "70b2b44a-15f3-45cb-83a1-fe9d879e77d6" },
+  { n = 2, title = "www.", mbid = "dc32af6d-b69b-4e47-b89f-5d7cb3cf8542" },
+  { n = 3, title = "Computer Aided Music", mbid = "2b866703-72e3-49d5-92be-f02cf96cb791" },
+  { n = 4, title = "Biting My Nails", mbid = "104b8b3f-73af-4006-9749-2d8adde5633f" },
+  { n = 5, title = "Uplifting Joy (In February)", mbid = "87894c40-5b4b-4cad-bc63-b649d5c544a3" },
+  { n = 6, title = "Nude", mbid = "9e6ac2d4-d96d-4642-b57b-e533f35cc143" },
+  { n = 7, title = "eLectRoCutiE-)", mbid = "f2390d1b-c84e-4bdb-8190-a92647a5c409" },
+  { n = 8, title = "idk", mbid = "e682fe78-c193-4bfe-ad30-c53001052940" },
+  { n = 9, title = "Softness", mbid = "6b9e8fe3-dcae-434c-a1b6-86c068b1663a" },
+  { n = 10, title = "Love Song", mbid = "82d954d4-4d47-4768-b7b6-6e917b51da6d" },
+  { n = 11, title = "Bread", mbid = "d2d04a9a-008d-4120-b240-00d24b908b6c" },
+  { n = 12, title = "Baby Normcore", mbid = "2880496a-5247-4696-af22-12a113c5abc5" },
+  { n = 13, title = "Electrocutie for Dogs", mbid = "3363dc89-f171-4cb7-8459-92320648ae39" },
+  { n = 14, title = "tgthr", mbid = "feaec41e-125b-48fb-815c-cbcb998c429b" },
+]
+
+[[release]]
+mbid = "92de9a8e-f723-4e68-9ac9-d73837a7f782"
+title = "Give / Take"
+type = "single"
+date = "2019-04-02"
+spotify = "4mUTVAeLvgK033gZCsWabH"
+tracks = [
+  { n = 1, title = "Give/Take", mbid = "a1d20c71-9ca7-4c97-887d-47681aa618ac" },
+]
+
+[[release]]
+mbid = "029cf053-711f-43c3-8fc3-66058e88a826"
+title = "Don't Ask Me Twice"
+type = "single"
+date = "2019-05-01"
+spotify = "6eaOcutriWATcb5eP3MdXJ"
+tracks = [
+  { n = 1, title = "Don't Ask Me Twice", mbid = "bb52f8bf-dd1a-48d6-bf3f-20b0b43e32db" },
+]
+
+[[release]]
+mbid = "3e963fb7-3012-4f64-bb29-94e382fbff01"
+title = "Lilac"
+type = "single"
+date = "2019-12-05"
+spotify = "7GjheW2xX7Wbcu8nw5rDbP"
+tracks = [
+  { n = 1, title = "Lilac", mbid = "b3da7157-5060-4f2c-9812-07fc8a147e9d" },
+]
+
+[[release]]
+mbid = "4335c7fa-a220-4bfa-9815-aab17031cd3e"
+title = "Sweet"
+type = "single"
+date = "2020-01-16"
+spotify = "3dXNNBNCvRVX9Q0iS0IrgJ"
+tracks = [
+  { n = 1, title = "Sweet", mbid = "1a9c1b2f-6a04-4795-9688-f15f86ba1ded" },
+  { n = 2, title = "Lilac", mbid = "b3da7157-5060-4f2c-9812-07fc8a147e9d" },
+]
+
+[[release]]
+mbid = "ac5a5339-4098-4f07-8068-c73ffa151b05"
+title = "Circling"
+type = "single"
+date = "2020-03-04"
+spotify = "5YAFmQHeZWhtgAiyZ77UBF"
+tracks = [
+  { n = 1, title = "Circling", mbid = "18e40844-9fbf-4a1f-9808-bd7a9cbd840a" },
+  { n = 2, title = "Sweet", mbid = "1a9c1b2f-6a04-4795-9688-f15f86ba1ded" },
+  { n = 3, title = "Lilac", mbid = "6839fbee-54d5-4592-a895-f6682340e404" },
+]
+
+[[release]]
+mbid = "6bbb582d-a671-4a16-8b2d-0f46eb344712"
+title = "Every Bad"
+type = "album"
+date = "2020-03-13"
+spotify = "4DN3XbB33kHTJA7HhI0RFI"
+tracks = [
+  { n = 1, title = "Born Confused", mbid = "14bed015-f16b-4f68-9157-a0d374290ff2" },
+  { n = 2, title = "Sweet", mbid = "1a9c1b2f-6a04-4795-9688-f15f86ba1ded" },
+  { n = 3, title = "Don’t Ask Me Twice", mbid = "922e16ed-ef38-424e-b47b-7749e32ae42d" },
+  { n = 4, title = "Long", mbid = "2e84bd75-c836-45fb-a4da-37f05f2d4972" },
+  { n = 5, title = "Nephews", mbid = "783127b5-a8c2-4d49-a372-3379c30da8e8" },
+  { n = 6, title = "Pop Song", mbid = "ae9d365f-609d-4f15-9a2e-be09b200cfb6" },
+  { n = 7, title = "Give/Take", mbid = "a1d20c71-9ca7-4c97-887d-47681aa618ac" },
+  { n = 8, title = "Lilac", mbid = "2b208476-8364-41f9-b733-d1c2cf64d8b2" },
+  { n = 9, title = "Circling", mbid = "18e40844-9fbf-4a1f-9808-bd7a9cbd840a" },
+  { n = 10, title = "(Something)", mbid = "9c6f7e72-3ddc-4158-891a-50cedff91281" },
+  { n = 11, title = "Homecoming Song", mbid = "3daafe6c-5f66-48b2-b513-257991da7ab7" },
+]
+
+[[release]]
+mbid = "99cc46ce-6c9f-4a5b-9ea8-e2fc642ebc5d"
+title = "Talking About It"
+type = "single"
+date = "2020-03-13"
+tracks = [
+  { n = 1, title = "Talking About It", mbid = "107c9439-8b83-4988-bd2a-bbff8db4ad59" },
+  { n = 2, title = "Sweet (demo)", mbid = "ec428af1-1c33-4e0d-b804-f2ed7ccb1342" },
+]
+
+[[release]]
+mbid = "6f842294-097f-4c88-ae67-08333759b4a5"
+title = "Good For You"
+type = "single"
+date = "2020-07-02"
+spotify = "4UYS4jArAYYuBTTpCTPKwg"
+tracks = [
+  { n = 1, title = "Good For You", mbid = "bfa0ab33-720c-44c3-9ede-4c8861acd0c9" },
+]
+
+[[release]]
+mbid = "35ffe9a8-c43e-44f8-ab57-7f01f9ba8a4c"
+title = "7 Seconds"
+type = "single"
+date = "2020-09-13"
+spotify = "4Fy4aHwWkInjdiUzhzUhOk"
+tracks = [
+  { n = 1, title = "7 Seconds", mbid = "8744f050-73bb-4b3e-884e-1d94d254e09b" },
+  { n = 2, title = "Jealousy (demo)", mbid = "02bd41b0-e047-4740-a496-9f8070775920" },
+]
+
+[[release]]
+mbid = "5da59238-069e-4e3f-9541-eeab1df688b6"
+title = "Every Bad BBC Session"
+type = "ep"
+date = "2020-11-10"
+tracks = [
+  { n = 1, title = "Sweet (BBC session)", mbid = "e782c1c7-da61-45eb-ad62-0ab56f4cbde1" },
+  { n = 2, title = "Long (BBC session)", mbid = "b8e426e7-7c20-4537-a581-7df50decaa7b" },
+  { n = 3, title = "Pop Song (BBC session)", mbid = "20fb1f39-147e-42ed-8473-b4e631b3b503" },
+  { n = 4, title = "Circling (BBC session)", mbid = "38918d40-b830-4fcf-a8fd-ba6a2ee9fd78" },
+]
+
+[[release]]
+mbid = "f8c7e41d-840c-4134-bae2-8ca51168cdc8"
+title = "The Last Time I Saw You (O Christmas)"
+type = "single"
+date = "2020-12-08"
+spotify = "0jbDQf0vqndVNHo71YPUef"
+tracks = [
+  { n = 1, title = "The Last Time I Saw You (O Christmas)", mbid = "edda7465-1719-44bb-901c-e72cd866c1c5" },
+]
+
+[[release]]
+mbid = "af6a55e2-1a90-4f5b-b6b6-2a9376e3f002"
+title = "Let's Not Fight! / Strong Enough"
+type = "single"
+date = "2021-02-16"
+spotify = "2h37G8TLnjMalTMQJeJFMD"
+tracks = [
+  { n = 1, title = "Let's Not Fight!", mbid = "ca0cd958-5c54-451d-99ac-fe36dafaab39" },
+  { n = 2, title = "Strong Enough", mbid = "0764f72f-9e1b-4879-aba0-a0fc3d92aec3" },
+]
+
+[[release]]
+mbid = "96bc27e8-6f64-44fd-bdd5-0f0166539768"
+title = "Wet Road"
+type = "single"
+date = "2021-04-15"
+spotify = "5bysiVTvfUkDJ3YydbbYzu"
+tracks = [
+  { n = 1, title = "Wet Road", mbid = "438ec7fa-fd04-4d55-add2-731f2840a073" },
+]
+
+[[release]]
+mbid = "77311b89-9847-4228-b729-497e7019a581"
+title = "Happy in a Crowd"
+type = "single"
+date = "2021-06-04"
+spotify = "0rfb9jADbstYGLplXOEvFZ"
+tracks = [
+  { n = 1, title = "Happy in a Crowd", mbid = "910af0e2-fa7f-44c0-ab79-aee900e5d125" },
+]
+
+[[release]]
+mbid = "b5e377bc-e84f-460e-80a3-505488a638b9"
+title = "New Slang"
+type = "single"
+date = "2021-07-27"
+spotify = "5n1bgsaXNRP8y4jXGOEic2"
+tracks = [
+  { n = 1, title = "New Slang", mbid = "a12a91af-b48f-4f20-b2bc-6e80e2b6e563" },
+]
+
+[[release]]
+mbid = "ff9f9ebe-de95-4bdb-9b44-b38eff5bbfe3"
+title = "You Are a Runner and I Am My Father's Son"
+type = "single"
+date = "2021-08-09"
+spotify = "2LAC5rux87C29bv8vuhEgj"
+tracks = [
+  { n = 1, title = "You Are a Runner and I Am My Father's Son", mbid = "2250bf55-ba5a-46bd-9ea7-e599cb3ba135" },
+  { n = 2, title = "New Slang", mbid = "a12a91af-b48f-4f20-b2bc-6e80e2b6e563" },
+]
+
+[[release]]
+mbid = "01be0250-fcb8-423d-ae23-a52082210137"
+title = "Back to the Radio"
+type = "single"
+date = "2022-02-21"
+tracks = [
+  { n = 1, title = "Back to the Radio", mbid = "8a65a530-d6c6-472f-9910-b3b7812d80dd" },
+]
+
+[[release]]
+mbid = "aece812b-f8b2-4aad-b25c-065009a353bd"
+title = "Waterslide, Diving Board, Ladder to the Sky"
+type = "album"
+date = "2022-05-20"
+spotify = "6wdThJ2V58nkaWfv1jA4B5"
+tracks = [
+  { n = 1, title = "-", mbid = "f27b4edf-75c8-42a8-b495-4ffe37374112" },
+  { n = 2, title = "Back to the Radio", mbid = "8a65a530-d6c6-472f-9910-b3b7812d80dd" },
+  { n = 3, title = "Trying", mbid = "b0aa57c4-aa88-4cb3-a56a-797e09c7dfb1" },
+  { n = 4, title = "Birthday Party", mbid = "43c35de7-1e41-4291-8798-c7487dfa3750" },
+  { n = 5, title = "End of Last Year", mbid = "90bc2b4c-55a8-4514-9f72-3352e6e460b3" },
+  { n = 6, title = "Rotten", mbid = "4019e663-6e90-4385-bb9c-23a3e36b7081" },
+  { n = 7, title = "U Can Be Happy If U Want To", mbid = "79054b13-28c8-4d72-9d91-5f2452a10092" },
+  { n = 8, title = "Flowers", mbid = "a628186e-125e-48c7-9dbd-826ee5b57e0a" },
+  { n = 9, title = "Jealousy", mbid = "e7470d47-e084-42df-96ab-ff5f59536398" },
+  { n = 10, title = "I Hope She’s Okay 2", mbid = "44340181-7d06-460b-8ca0-6db4fc6255ed" },
+  { n = 11, title = "Splintered", mbid = "c535714a-308a-48be-85b7-1381a4497ad7" },
+  { n = 12, title = "The Rip", mbid = "abcf61f0-91ef-4a1a-a6a6-b2d660b2d087" },
+  { n = 13, title = "Waterslide, Diving Board, Ladder to the Sky", mbid = "34595691-15cf-47ee-8fc2-56f86fae641b" },
+]
+
+[[release]]
+mbid = "fc836f14-72fc-4aca-9df6-a56e7cfcedaf"
+title = "Everyone’s a Superstar"
+type = "single"
+date = "2024-06-04"
+tracks = [
+  { n = 1, title = "Everyone’s a Superstar", mbid = "91184dcb-c55b-4419-a238-aea81f3e3529" },
+]
+
+[[release]]
+mbid = "3c002649-1bbe-4efb-9b62-5105c88d5903"
+title = "A Hole in the Ground"
+type = "single"
+date = "2024-09-12"
+tracks = [
+  { n = 1, title = "A Hole in the Ground", mbid = "c7719e6d-228e-4e1e-8dad-66961a1e5ad6" },
+  { n = 2, title = "Sick of the Blues", mbid = "adb20546-d0cf-442d-8942-d6d29f91d232" },
+]
+
+[[release]]
+mbid = "53655195-c218-4e28-b66e-1b3bb7c3c119"
+title = "Clouds in the Sky They Will Always Be There for Me"
+type = "album"
+date = "2024-10-18"
+spotify = "2iXwKeYYKuXjalgAXtx9sd"
+tracks = [
+  { n = 1, title = "Anybody", mbid = "534ceb14-030d-4995-9635-7ab66c2bc614" },
+  { n = 2, title = "A Hole in the Ground", mbid = "c7719e6d-228e-4e1e-8dad-66961a1e5ad6" },
+  { n = 3, title = "Lavender, Raspberries", mbid = "ed34b44e-bc56-46fc-ab88-00f1abbdd2a8" },
+  { n = 4, title = "God of Everything Else", mbid = "9a2e04c2-5207-4f0a-b158-cd9ce3a6dd9f" },
+  { n = 5, title = "Sleeptalker", mbid = "f42cf3c7-7094-4da5-9a36-4b537891d976" },
+  { n = 6, title = "You Will Come Home", mbid = "0474abf5-2089-462b-8b62-d4ec2b2889c2" },
+  { n = 7, title = "Wednesday", mbid = "0624c458-9cbe-4aa6-acf1-f7f05859b2bf" },
+  { n = 8, title = "In a Dream I’m a Painting", mbid = "3e6c4650-bca8-4413-aae1-2cef89411103" },
+  { n = 9, title = "I Got Lost", mbid = "cdc96b9e-ac26-420e-9b01-da85fc125e46" },
+  { n = 10, title = "Pieces of Heaven", mbid = "2a9dd449-5e19-454e-8a1c-c67c95852252" },
+  { n = 11, title = "Sick of the Blues", mbid = "adb20546-d0cf-442d-8942-d6d29f91d232" },
+]
+
+[[release]]
+mbid = "901bc11b-41bd-47e2-832a-232674f1c973"
+title = "Don't Want To Dance"
+type = "single"
+date = "2025-01-15"
+spotify = "4m480I6O0EuUWLuFJf7Yuf"
+tracks = [
+  { n = 1, title = "Don’t Want To Dance", mbid = "2f5d3181-d494-4d01-a435-07b5e7effa97" },
+]
+
+[[release]]
+mbid = "28470e1b-e5ca-45c9-8faa-055a5d85d8ba"
+title = "The Machine Starts to Sing"
+type = "ep"
+date = "2025-02-21"
+spotify = "4bkObIgJvZmP7XwsdMEYy6"
+tracks = [
+  { n = 1, title = "Machine Starts to Sing", mbid = "353ff2df-a429-4b0e-8626-a4fba192919a" },
+  { n = 2, title = "OK", mbid = "f5d734ee-bb3a-4ad3-85df-97413bdd806d" },
+  { n = 3, title = "Don’t Want to Dance", mbid = "2f5d3181-d494-4d01-a435-07b5e7effa97" },
+  { n = 4, title = "I’ve Got a Feeling (Stay Lucky)", mbid = "ef05108e-1df0-4d3c-b0ef-4dd412da9c18" },
+]

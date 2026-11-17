@@ -20,4 +20,7 @@ links = [
   { to = "the-cranberries", type = "similar" },
   { to = "kings-of-leon", type = "similar" },
   { to = "u2", type = "similar" },
+  { to = "blur", type = "scene", proximity = 5, note = "The two defining bands of 90s Britpop, guitar anthems steeped in British pop." },
+  { to = "the-beatles", type = "influence", proximity = 4, note = "Oasis's melodies, harmonies and psychedelic touches descend directly from the Beatles' songbook." },
+  { to = "pulp", type = "scene", proximity = 4, note = "Britpop headliners of the mid-90s, big singalong choruses about British working-class life." },
 ]

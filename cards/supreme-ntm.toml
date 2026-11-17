@@ -1,0 +1,25 @@
+format = 1
+name = "Suprême NTM"
+mbid = "0135e5ec-4ffd-46e5-9c3c-566b3df46a8d"
+spotify = "4ko6Ysxtvx9EY9GEFslrIz"
+begin = "1989"
+end = "2019"
+origin = "Paris"
+
+tags = ["hip-hop", "fr", "80s"]
+
+tops = [
+  "Laisse pas traîner ton fils",
+  "Ma Benz (feat. Lord Kossity)",
+  "That's My People",
+  "Seine Saint-Denis Style",
+  "Sur le drapeau",
+]
+
+links = [
+  { to = "joeystarr", type = "member", note = "member (…–…)" },
+  { to = "iam", type = "similar" },
+  { to = "assassin", type = "audience" },
+  { to = "akhenaton", type = "similar" },
+  { to = "saian-supa-crew", type = "audience" },
+]

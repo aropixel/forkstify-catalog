@@ -1,0 +1,222 @@
+format = 1
+
+[[release]]
+mbid = "be4f96a6-22ab-3e52-9db0-176925024736"
+title = "Killing in the Name"
+type = "single"
+date = "1992-09-04"
+tracks = [
+  { n = 1, title = "Killing in the Name", mbid = "5f64bf87-a18e-4ac0-8a49-dc1d500a8ba5" },
+  { n = 2, title = "Darkness of Greed", mbid = "57e3dc45-1dcf-4c45-b47c-8ec9d03a82c8" },
+  { n = 3, title = "Clear the Lane", mbid = "968c1b3f-859a-4d4d-a500-60ed50b8f7b7" },
+]
+
+[[release]]
+mbid = "1305859b-8937-397f-9c33-39f62eb672fb"
+title = "Rage Against the Machine"
+type = "album"
+date = "1992-11-06"
+spotify = "4Io5vWtmV1rFj4yirKb4y4"
+tracks = [
+  { n = 1, title = "Bombtrack", mbid = "5bcd09ac-8a2e-4a12-a3cc-18341b7759c6" },
+  { n = 2, title = "Killing in the Name", mbid = "5f64bf87-a18e-4ac0-8a49-dc1d500a8ba5" },
+  { n = 3, title = "Take the Power Back", mbid = "6a6599d1-4859-40ea-9b1c-003002e7c77e" },
+  { n = 4, title = "Settle for Nothing", mbid = "6565fadc-a76a-4891-9a3b-ee84e67cba05" },
+  { n = 5, title = "Bullet in the Head", mbid = "7ab3b7d4-5a33-4478-aaa0-50cb6bdfc652" },
+  { n = 6, title = "Know Your Enemy", mbid = "3a554077-e310-4dda-9a13-0a5eab49ab3e" },
+  { n = 7, title = "Wake Up", mbid = "b16b3a84-c890-4d3a-aee8-2020c525b244" },
+  { n = 8, title = "Fistful of Steel", mbid = "cd2711d6-2687-44b3-9a0a-3b72a5932a38" },
+  { n = 9, title = "Township Rebellion", mbid = "9e35c92e-60ae-4165-8e5f-08152b1018c0" },
+  { n = 10, title = "Freedom", mbid = "1c022a92-0e26-475f-a170-7ccb1e568ef0" },
+]
+
+[[release]]
+mbid = "e5da24a4-87ed-3c7f-b939-424a3ad6f693"
+title = "Bullet in the Head"
+type = "single"
+date = "1993-03-01"
+tracks = [
+  { n = 1, title = "Bullet in the Head (album version)", mbid = "7ab3b7d4-5a33-4478-aaa0-50cb6bdfc652" },
+  { n = 2, title = "Bullet in the Head (remix)", mbid = "e1cdb7c6-0923-41fb-b8de-e83a9d21b5dd" },
+  { n = 3, title = "Bullet in the Head (live)", mbid = "75c35308-c1c1-42d7-9140-b82699bbc07f" },
+  { n = 4, title = "Settle for Nothing (live)", mbid = "f986c486-3f13-4b4c-a163-f4aeea6b407d" },
+]
+
+[[release]]
+mbid = "3acff9c6-fe2c-35b8-b692-1417ccc06a04"
+title = "Bombtrack"
+type = "single"
+date = "1993-08-10"
+tracks = [
+  { n = 1, title = "Bombtrack", mbid = "5bcd09ac-8a2e-4a12-a3cc-18341b7759c6" },
+  { n = 2, title = "Bombtrack (from Mark Goodier’s “Evening Session”)", mbid = "187d493e-ab50-4dce-a542-e656aa883009" },
+  { n = 3, title = "Bombtrack (live)", mbid = "ccc11943-24a4-452e-83bb-51fa5a8390f2" },
+]
+
+[[release]]
+mbid = "638fd26b-cfbc-40d6-b4b7-cbce069660b0"
+title = "Freedom"
+type = "single"
+date = "1993-11-10"
+tracks = [
+  { n = 1, title = "Freedom", mbid = "1c022a92-0e26-475f-a170-7ccb1e568ef0" },
+  { n = 2, title = "Take the Power Back (live)", mbid = "f058fa6e-9af5-4150-9ae3-689d7772f781" },
+  { n = 3, title = "Freedom (live)", mbid = "fa37faf5-24bb-49c2-97f4-e8adcd93a383" },
+]
+
+[[release]]
+mbid = "1b469da1-e542-346b-84e6-4d7fe45be181"
+title = "Evil Empire"
+type = "album"
+date = "1996-03-28"
+spotify = "24E6rDvGDuYFjlGewp4ntF"
+tracks = [
+  { n = 1, title = "People of the Sun", mbid = "9d0e7c62-d725-4fd0-90ff-28aae40dd9bc" },
+  { n = 2, title = "Bulls on Parade", mbid = "5fde776a-799a-462c-b8e1-55c985740a2c" },
+  { n = 3, title = "Vietnow", mbid = "e323c826-2ebf-45db-80dd-49d3764640c5" },
+  { n = 4, title = "Revolver", mbid = "d6ed029c-5790-41ec-b86e-7bdd5d61b2a4" },
+  { n = 5, title = "Snakecharmer", mbid = "f04430ec-8f7c-4706-9110-6bda0a0eba8e" },
+  { n = 6, title = "Tire Me", mbid = "3076c715-058e-42ec-bb97-3929ad1713fd" },
+  { n = 7, title = "Down Rodeo", mbid = "1f996db0-0a94-49af-b4e5-eb6cdab7378c" },
+  { n = 8, title = "Without a Face", mbid = "b5c62400-4763-49bd-9451-f5ade60b78d3" },
+  { n = 9, title = "Wind Below", mbid = "c0ac4050-73ae-4fa4-8350-9c5ea98b14f8" },
+  { n = 10, title = "Roll Right", mbid = "2621ae49-0bf3-4e3d-961a-e6bce652166b" },
+  { n = 11, title = "Year of tha Boomerang", mbid = "38ab80d0-6095-46db-b91d-3f661e76186f" },
+]
+
+[[release]]
+mbid = "67822930-22cd-37e5-9e85-d47eaed0085a"
+title = "Bulls on Parade"
+type = "single"
+date = "1996-03-30"
+tracks = [
+  { n = 1, title = "Bulls on Parade", mbid = "5fde776a-799a-462c-b8e1-55c985740a2c" },
+  { n = 2, title = "Hadda Be Playing on the Jukebox (live)", mbid = "6ec549cb-7c4a-4db9-a771-c2cb169f5cd3" },
+]
+
+[[release]]
+mbid = "5db756d6-ae2f-38e1-bb1c-549ab1b73c32"
+title = "People of the Sun"
+type = "single"
+date = "1996-08-22"
+tracks = [
+  { n = 1, title = "People of the Sun", mbid = "9d0e7c62-d725-4fd0-90ff-28aae40dd9bc" },
+  { n = 2, title = "Zapata’s Blood (live)", mbid = "7de85174-a89d-46c9-a881-f41728bfd66f" },
+  { n = 3, title = "Without a Face (live)", mbid = "dba6ce99-43ef-4adc-98b5-20126e3ff6ef" },
+]
+
+[[release]]
+mbid = "c7b5b853-3c9c-45e1-88b0-9a14557f1552"
+title = "People of the Sun EP"
+type = "ep"
+date = "1997"
+tracks = [
+  { n = 1, title = "People of the Sun", mbid = "9d0e7c62-d725-4fd0-90ff-28aae40dd9bc" },
+  { n = 2, title = "Without a Face (live)", mbid = "8fd41ab1-b5e6-4b56-8446-7a7eb294f2cf" },
+  { n = 3, title = "Intro (Black Steel in the Hour of Chaos) (live)", mbid = "b648f12c-707b-465b-8ee6-5f23b023cbf8" },
+  { n = 4, title = "Zapata's Blood (live)", mbid = "73b67a12-b685-4c87-8669-91536f2c3582" },
+  { n = 5, title = "Bulls on Parade", mbid = "5fde776a-799a-462c-b8e1-55c985740a2c" },
+  { n = 6, title = "Hadda Be Playing on the Jukebox (live)", mbid = "b90e2452-abed-4b1f-be63-d6f1ac686986" },
+]
+
+[[release]]
+mbid = "3fa3deea-a811-34ff-94db-f8eba2fd0904"
+title = "Vietnow"
+type = "single"
+date = "1997"
+tracks = [
+  { n = 1, title = "Vietnow", mbid = "e323c826-2ebf-45db-80dd-49d3764640c5" },
+  { n = 2, title = "Clear the Lane", mbid = "968c1b3f-859a-4d4d-a500-60ed50b8f7b7" },
+  { n = 3, title = "Intro (Black Steel in the Hour of Chaos) (live)", mbid = "1b05f77c-9619-45a9-b843-a7473d58450e" },
+  { n = 4, title = "Zapata’s Blood (live)", mbid = "941f305d-13c1-478e-8a7b-c6fe5d3db1ea" },
+]
+
+[[release]]
+mbid = "db0c5c92-4206-4fff-bc9b-724bca63f360"
+title = "Clear the Lane / Hadda Be Playing on the Jukebox"
+type = "single"
+date = "1999"
+tracks = [
+  { n = 1, title = "Clear the Lane (rare)", mbid = "968c1b3f-859a-4d4d-a500-60ed50b8f7b7" },
+  { n = 2, title = "Hadda Be Playing on the Jukebox (live)", mbid = "6ec549cb-7c4a-4db9-a771-c2cb169f5cd3" },
+]
+
+[[release]]
+mbid = "25e72bf4-09fc-3e66-9d31-9247d91b4819"
+title = "The Battle of Los Angeles"
+type = "album"
+date = "1999-09"
+spotify = "2eia0myWFgoHuttJytCxgX"
+tracks = [
+  { n = 1, title = "Testify", mbid = "1e6a7789-4fce-4798-909e-00e538026e33" },
+  { n = 2, title = "Guerrilla Radio", mbid = "3a98b840-1e18-4ef1-80cd-85041534bf1b" },
+  { n = 3, title = "Calm Like a Bomb", mbid = "82c1b8e7-d28b-4c1d-8d50-25ad57215a2e" },
+  { n = 4, title = "Mic Check", mbid = "e65c2aac-8497-4c0d-b189-2f26b769198b" },
+  { n = 5, title = "Sleep Now in the Fire", mbid = "1d9cea43-ce62-4f52-b3e6-703d2956dfd4" },
+  { n = 6, title = "Born of a Broken Man", mbid = "e884bfb3-b119-4064-ae8b-432a972ea9f5" },
+  { n = 7, title = "Born as Ghosts", mbid = "541a6f1e-3d64-42f4-b871-4f75b59cdb74" },
+  { n = 8, title = "Maria", mbid = "f4eb9a29-5dda-482b-8d3e-ed1d10898d88" },
+  { n = 9, title = "Voice of the Voiceless", mbid = "d7dfebf2-522a-4f6f-b0a7-d60868a309fb" },
+  { n = 10, title = "New Millennium Homes", mbid = "4cddf92a-e080-43d5-8566-3c549ad5ee12" },
+  { n = 11, title = "Ashes in the Fall", mbid = "6a2a6e54-2605-4f1d-8c96-cf897d9a26b7" },
+  { n = 12, title = "War Within a Breath", mbid = "a81cef97-c641-419b-9282-00594f61d3af" },
+]
+
+[[release]]
+mbid = "9190ab97-c476-3da0-bf2c-e144e00397c8"
+title = "Guerrilla Radio"
+type = "single"
+date = "1999-10-12"
+tracks = [
+  { n = 1, title = "Guerrilla Radio (radio edit)", mbid = "3a98b840-1e18-4ef1-80cd-85041534bf1b" },
+  { n = 2, title = "Without a Face (live)", mbid = "ee5a13a3-cabf-4374-97d0-c52887a3fe30" },
+  { n = 3, title = "No Shelter", mbid = "49a2ec2e-4e1d-4b50-bdc8-f384b7768010" },
+  { n = 4, title = "Freedom (live)", mbid = "5c3c0b09-b8f9-4688-b1f7-80179db669b7" },
+]
+
+[[release]]
+mbid = "4b8bb20e-21e2-3399-86a6-e903a803a2fe"
+title = "Sleep Now in the Fire"
+type = "single"
+date = "2000-02-15"
+spotify = "3tovVoVGrYT7vLob8wTIxF"
+tracks = [
+  { n = 1, title = "Sleep Now in the Fire", mbid = "1d9cea43-ce62-4f52-b3e6-703d2956dfd4" },
+  { n = 2, title = "Guerilla Radio (live)", mbid = "77898a4c-83cc-480c-a51d-ed0d8311e697" },
+]
+
+[[release]]
+mbid = "78990e89-ab98-38f7-84ae-da854a2b0372"
+title = "Testify"
+type = "single"
+date = "2000-08-01"
+tracks = [
+  { n = 1, title = "Testify", mbid = "1e6a7789-4fce-4798-909e-00e538026e33" },
+  { n = 2, title = "Testify (Testifly mix)", mbid = "2f21cbed-2f72-4d75-a676-8e3fbcf1d702" },
+  { n = 3, title = "Testify (Rowena Projects mix)", mbid = "e5f67f2d-35b5-42a1-a89d-c01b80552556" },
+  { n = 4, title = "Guerrilla Radio (live)", mbid = "4f2c6c2a-a522-4602-941d-d335276cb259" },
+  { n = 5, title = "Freedom (live)", mbid = "7cc0ff52-13a4-4bf6-b3d0-afcc7cc590cd" },
+]
+
+[[release]]
+mbid = "38c1dd77-0116-380c-a4f5-2ea8e13389a3"
+title = "Renegades"
+type = "album"
+date = "2000-11-28"
+spotify = "6iVOwFVjFRoQPgj8GUwSsi"
+tracks = [
+  { n = 1, title = "Microphone Fiend", mbid = "9ed2fa3d-17c3-49d7-a6d6-6a6b39c1a7ff" },
+  { n = 2, title = "Pistol Grip Pump", mbid = "8048ce1a-f904-463e-8ef5-bd1e9736f3e8" },
+  { n = 3, title = "Kick Out the Jams", mbid = "c2b4af40-adbc-4e9a-aac1-82335e4e3a52" },
+  { n = 4, title = "Renegades of Funk", mbid = "8e0f32f8-4e87-40c5-acb9-36e903f91aa8" },
+  { n = 5, title = "Beautiful World", mbid = "47528a70-1729-4cc2-958c-844e7b72f062" },
+  { n = 6, title = "I’m Housin’", mbid = "c641d434-8553-480b-b860-25230cab57c8" },
+  { n = 7, title = "In My Eyes", mbid = "bc4084ab-e3d5-4de2-bf80-e92f9b9880f5" },
+  { n = 8, title = "How I Could Just Kill a Man", mbid = "9f7d837a-af88-47ae-958e-c46222cabb93" },
+  { n = 9, title = "The Ghost of Tom Joad", mbid = "b8c83bbc-b8b4-42c4-8d95-e88aca2ec8ee" },
+  { n = 10, title = "Down on the Street", mbid = "63e9d5de-23b7-42d4-8936-82dbf4627d6a" },
+  { n = 11, title = "Street Fighting Man", mbid = "fc64b339-817c-44e8-a007-a6e1b40d98aa" },
+  { n = 12, title = "Maggie’s Farm", mbid = "291c715e-4c04-4de9-90c7-a53345278d7b" },
+  { n = 13, title = "Kick Out the Jams (live)", mbid = "a1ba1e38-1768-4187-91fe-e92ab1279076" },
+  { n = 14, title = "How I Could Just Kill a Man (live)", mbid = "6eee9a1b-d1cb-4bdc-a8b1-fa4a6f15d6df" },
+]

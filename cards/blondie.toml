@@ -17,7 +17,7 @@ tops = [
 
 links = [
   { to = "david-bowie", type = "similar" },
-  { to = "pretenders", type = "audience" },
+  { to = "pretenders", type = "similar" },
   { to = "talking-heads", type = "similar" },
   { to = "eurythmics", type = "audience" },
 ]

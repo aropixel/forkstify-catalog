@@ -1,0 +1,21 @@
+format = 1
+name = "0800"
+mbid = "cb759c34-5325-4849-80b3-543a8328c72b"
+spotify = "6IERXYoMmyee181MMzQzrk"
+
+tags = []
+
+tops = [
+  "DONDE",
+  "Brother",
+  "SOS Suicide Mc",
+  "Rap",
+  "On reste ici",
+]
+
+links = [
+  { to = "izabo", type = "audience" },
+  { to = "concrete-knives", type = "audience" },
+  { to = "abhi-the-nomad", type = "audience" },
+  { to = "success", type = "audience" },
+]

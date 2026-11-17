@@ -1,0 +1,79 @@
+format = 1
+
+[[release]]
+mbid = "a5c30bba-9330-47a7-8489-707f5d8560b7"
+title = "Ghost Woman"
+type = "album"
+date = "2022-07-01"
+spotify = "7vpXyhnVVUdrln1HfdURkr"
+tracks = [
+  { n = 1, title = "All the Time", mbid = "6073d37c-8fda-4e5d-ad5a-563e1d838175" },
+  { n = 2, title = "Do You", mbid = "081aa061-3ced-4685-80e5-acac3fc59734" },
+  { n = 3, title = "Dead & Gone", mbid = "e467c2ad-3a33-4d5f-ab27-7aab53cd59eb" },
+  { n = 4, title = "Along", mbid = "82f4169b-f3ed-4f53-be47-c2e1ad37ac9a" },
+  { n = 5, title = "Clockwork", mbid = "f249ff1e-f651-41aa-8bb9-c77ee5071e76" },
+  { n = 6, title = "Behind Your Eyes", mbid = "121313d2-c964-4743-914f-eb976de9d98d" },
+  { n = 7, title = "All Your Love", mbid = "0d8447d2-ad8e-41e1-b83c-914fd07fb6cc" },
+  { n = 8, title = "Jreaming", mbid = "54251716-dcae-47c8-8a79-7c9f5b2a1aca" },
+  { n = 9, title = "Good", mbid = "bd3e73a1-7b57-43b4-aba6-ee5467742ad1" },
+  { n = 10, title = "Comes On", mbid = "011fa006-65d1-469e-bec3-71d71a5498db" },
+]
+
+[[release]]
+mbid = "1e8a8203-cbb5-41df-8416-c590fa978754"
+title = "Anne, If"
+type = "album"
+date = "2023-01-20"
+spotify = "0QT2yndJqhKN66VQ1WLSXf"
+tracks = [
+  { n = 1, title = "Welcome", mbid = "d5ca8372-de4c-4178-aead-389180335f12" },
+  { n = 2, title = "Broke", mbid = "6a8e855a-597d-4aa4-a786-cac4bb6d5a7b" },
+  { n = 3, title = "3 Weeks Straight", mbid = "ce5ca24b-77d0-4d49-9714-c5be7d043c5d" },
+  { n = 4, title = "Anne, If", mbid = "1d6271cf-fc26-45b9-b2ee-395996d952c0" },
+  { n = 5, title = "Street Meet", mbid = "c2a45376-9328-44d3-938c-6d59b0259d52" },
+  { n = 6, title = "The End of a Gun", mbid = "8431963d-a988-4e20-8e06-14ecc6feb861" },
+  { n = 7, title = "Lo Extraño", mbid = "e92f7f11-9320-49a3-b06e-ca45013ae74a" },
+  { n = 8, title = "Arline", mbid = "a98dfdbd-8e2c-49c1-ad8b-a4aecfbfe079" },
+  { n = 9, title = "Down Again", mbid = "43e6abd5-1f63-4f8d-a553-eda67132bc34" },
+  { n = 10, title = "Tripped", mbid = "f85b76e8-9cfb-4180-be5d-d5033a2cc03b" },
+  { n = 11, title = "So Long", mbid = "675de51c-bee6-4ee5-ae1b-3670859355f8" },
+  { n = 12, title = "The End of a Gun - (edit)", mbid = "8ff78aad-e981-4af0-8d76-21492051b985" },
+  { n = 13, title = "Tripped - (edit)", mbid = "53c7c7f9-64dd-4731-bac1-4cabb5314833" },
+]
+
+[[release]]
+mbid = "44116e11-95c4-4888-bf37-77e7b5fd12aa"
+title = "Hindsight is 50/50"
+type = "album"
+date = "2023-11-24"
+tracks = [
+  { n = 1, title = "Bonehead", mbid = "799073f5-83ae-48cc-81e8-70e8e173318f" },
+  { n = 2, title = "Alright Alright", mbid = "70de8296-33b8-4253-bd62-008151bd7a96" },
+  { n = 3, title = "Highly Unlikely", mbid = "60a7208f-dc47-4f6e-8d91-31df4d6e7e69" },
+  { n = 4, title = "Ottessa", mbid = "2605376e-ba82-47b8-a8f8-33a099617dd4" },
+  { n = 5, title = "Along Pt.2", mbid = "b078f7fb-b1ba-4c6c-aae3-edd5d91193cd" },
+  { n = 6, title = "Yoko", mbid = "207fd0ec-46ff-460b-8245-33ca18940b78" },
+  { n = 7, title = "Wormfeast", mbid = "a73102f5-84d2-495c-bf54-6a7895511ad1" },
+  { n = 8, title = "Juan", mbid = "6c5700c7-448e-4eac-aea9-6191af5a542f" },
+  { n = 9, title = "Hindsight is 50/50", mbid = "6f7a13d2-b9f8-48a1-bad9-0a176ccbd380" },
+  { n = 10, title = "Buik", mbid = "b8e48243-3406-43c3-ae2e-476b72d3b97c" },
+]
+
+[[release]]
+mbid = "adcda8a0-88e3-4249-8629-b8446ea94e1f"
+title = "Welcome to the Civilized World"
+type = "album"
+date = "2025-09-05"
+tracks = [
+  { n = 1, title = "Welcome to the Civilized World", mbid = "3568daa2-bf65-4927-9d6b-9993ceeba6d1" },
+  { n = 2, title = "Alive", mbid = "104ba09f-c1c0-475a-baef-c9a4e76f2b0e" },
+  { n = 3, title = "that Jesus", mbid = "60466fe6-674c-4883-831b-ce4b06b1e19d" },
+  { n = 4, title = "5 Gold Pieces", mbid = "f7c6a2e6-3666-4f04-a154-5ec50a1354cb" },
+  { n = 5, title = "Levon", mbid = "cf6c341f-236e-4a7b-bbea-c30859240794" },
+  { n = 6, title = "Dime a Dozen", mbid = "5d5858dd-d484-4915-9424-024e80bf6981" },
+  { n = 7, title = "When You All Were Young", mbid = "a47a66cf-30e0-469f-8b0a-a43e4e18d542" },
+  { n = 8, title = "Song for Sunny", mbid = "bbc83fd7-4397-4941-a0b1-74f00658970f" },
+  { n = 9, title = "From Now On", mbid = "f477b37a-d803-4029-84e9-f4e8457b60da" },
+  { n = 10, title = "Anhedonia", mbid = "6dd8aad6-b7b2-4b71-ac65-684d46227c43" },
+  { n = 11, title = "Who Are You?", mbid = "30fcc504-78e5-40ae-9c3d-34d16c1fe8c6" },
+]

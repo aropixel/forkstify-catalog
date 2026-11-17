@@ -1,0 +1,23 @@
+format = 1
+name = "Django Django"
+mbid = "4bfce038-b1a0-4bc4-abe1-b679ab900f03"
+spotify = "2ARO60gI5do88ho6azmzab"
+begin = "2009"
+origin = "London"
+
+tags = ["art-rock", "indie-rock", "electronic-rock", "indie-pop", "uk", "2000s"]
+
+tops = [
+  "Default",
+  "Year Of The Snake",
+  "First Light",
+  "Firewater",
+  "Waveforms",
+]
+
+links = [
+  { to = "metronomy", type = "audience" },
+  { to = "baxter-dury", type = "similar" },
+  { to = "hot-chip", type = "audience" },
+  { to = "fujiya-and-miyagi", type = "audience" },
+]

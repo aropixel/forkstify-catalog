@@ -1,0 +1,103 @@
+format = 1
+
+[[release]]
+mbid = "23b7b7b9-33ff-4061-be48-341c07d719e5"
+title = "You Can’t Blame the Youth"
+type = "ep"
+date = "2011-04-18"
+spotify = "4W3cALBFLkrg7nZQAO6OPr"
+tracks = [
+  { n = 1, title = "Youth Compass", mbid = "3254dfc0-e3b5-422c-b9af-6c0697dd1fbc" },
+  { n = 2, title = "Greyhound Racing", mbid = "df8ed641-7ca5-4567-9328-7f9b4af46c70" },
+  { n = 3, title = "Brand New Start", mbid = "b3456f70-3220-4fca-83bf-1686cbd461dc" },
+  { n = 4, title = "Happy Mondays", mbid = "ea788cb5-3448-4d84-878d-6be1d8c5f976" },
+  { n = 5, title = "Time for Disco", mbid = "530c51bc-9f47-4c59-9143-054bc2f5336c" },
+]
+
+[[release]]
+mbid = "2ee35889-9fd9-4b28-8af7-aac48e3008c6"
+title = "Be Your Own King"
+type = "single"
+date = "2012-10-29"
+tracks = [
+  { n = 1, title = "Wall Paper", mbid = "88248f03-bfc9-48ed-88d8-74c2f68d4056" },
+]
+
+[[release]]
+mbid = "7e9a8742-267d-4e90-8a37-93a6df295139"
+title = "Be Your Own King"
+type = "album"
+date = "2012-10-29"
+spotify = "5HnSAFIXg80WB2AWd85FcV"
+tracks = [
+  { n = 1, title = "Bornholmer", mbid = "90656622-afc5-42b3-ba2a-4d1d0ca32105" },
+  { n = 2, title = "Happy Mondays", mbid = "ea788cb5-3448-4d84-878d-6be1d8c5f976" },
+  { n = 3, title = "Brand New Start", mbid = "b3456f70-3220-4fca-83bf-1686cbd461dc" },
+  { n = 4, title = "Wallpaper", mbid = "88248f03-bfc9-48ed-88d8-74c2f68d4056" },
+  { n = 5, title = "Africanize", mbid = "1f3e2083-9e62-4ad0-870f-44007e35dcf9" },
+  { n = 6, title = "Roller Boogie", mbid = "92bcc9d6-0559-4192-9081-a243f3b6c107" },
+  { n = 7, title = "Greyhound Racing", mbid = "df8ed641-7ca5-4567-9328-7f9b4af46c70" },
+  { n = 8, title = "Wild Gun Man", mbid = "f178e43a-b987-46da-a808-37a5cab71a66" },
+  { n = 9, title = "Truth", mbid = "b5fc2486-7bb9-4b9b-a7ab-424b9e4c1d72" },
+  { n = 10, title = "Blessed", mbid = "ccb685b1-533f-4394-a300-aa5211503e73" },
+]
+
+[[release]]
+mbid = "aad6769d-6ac3-4a4c-8223-344c8fc0ffe0"
+title = "Greyhound Racing / Wallpaper"
+type = "single"
+date = "2012-12-11"
+spotify = "5xQRNsNSub27wWCDKAvGvd"
+tracks = [
+  { n = 1, title = "Greyhound Racing", mbid = "df8ed641-7ca5-4567-9328-7f9b4af46c70" },
+  { n = 2, title = "Wallpaper", mbid = "88248f03-bfc9-48ed-88d8-74c2f68d4056" },
+]
+
+[[release]]
+mbid = "92f51114-804e-4791-801c-560daae2f54e"
+title = "The Lights"
+type = "single"
+date = "2018-01-11"
+spotify = "684sFqBCqC2Eo7ZRYUTdSc"
+tracks = [
+  { n = 1, title = "The Lights", mbid = "1ed03810-ba59-4e32-af5e-c7abc49a1a4e" },
+]
+
+[[release]]
+mbid = "bce73d16-13c9-4155-8e6e-3b75f75c8878"
+title = "Our Hearts"
+type = "album"
+date = "2018-02-23"
+spotify = "6hRREWJfQgDfDke1Eti32s"
+tracks = [
+  { n = 1, title = "Bring the Fire", mbid = "2905a13f-b855-441c-9427-86792bd1c0c5" },
+  { n = 2, title = "The Lights", mbid = "1ed03810-ba59-4e32-af5e-c7abc49a1a4e" },
+  { n = 3, title = "Gold Digger", mbid = "1893f33b-93fc-4e7b-9ce3-2cbd4bbcdad7" },
+  { n = 4, title = "Our Hearts", mbid = "a312e2d1-af4f-45a3-92c0-b56d15eb78b6" },
+  { n = 5, title = "Gone", mbid = "0d741687-03d7-4c8a-b24d-f37ea135a50a" },
+  { n = 6, title = "Babies", mbid = "2cf6bdc4-2ffa-4f42-9afe-54d8cdb3a48b" },
+  { n = 7, title = "Tightrope", mbid = "548e4960-4562-4fe6-b7de-8bbf19d02600" },
+  { n = 8, title = "Sometimes", mbid = "1f47c13c-5869-420e-8b5b-0de3c6b16ecb" },
+  { n = 9, title = "The Quiet Ones", mbid = "8217b2b6-a9bb-4634-a1f3-5d225328879d" },
+  { n = 10, title = "On the Pavement", mbid = "1b7fbc1e-2006-4746-9ae8-1945d93034d2" },
+]
+
+[[release]]
+mbid = "2aaa74b2-8645-4d88-9912-4e236737e6ec"
+title = "Gold Digger"
+type = "single"
+date = "2018-03-05"
+spotify = "0P9vcJzfoqQ3K9PNuSzhHn"
+tracks = [
+  { n = 1, title = "Gold Digger", mbid = "1893f33b-93fc-4e7b-9ce3-2cbd4bbcdad7" },
+]
+
+[[release]]
+mbid = "ae14658c-19c4-4fe3-8b79-dee664b4ff64"
+title = "Our Hearts"
+type = "single"
+date = "2018-03-27"
+spotify = "4gU3G72VfgCA736RuR9xPE"
+tracks = [
+  { n = 1, title = "Our Hearts", mbid = "a312e2d1-af4f-45a3-92c0-b56d15eb78b6" },
+]

@@ -1,0 +1,21 @@
+format = 1
+name = "Txmy"
+mbid = "0bb96fc6-5286-43ed-898f-92713284267d"
+spotify = "5sHlUJiG0VTOGG6g9u3TFF"
+
+tags = []
+
+tops = [
+  "Ethereal",
+  "Ethereal (Drums Version)",
+  "Ethereal (Drums Version + Sped Up)",
+  "Ethereal (Drums Version + Slowed)",
+  "western (Demo)",
+]
+
+links = [
+  { to = "insensible", type = "audience" },
+  { to = "daniel-mp3", type = "audience" },
+  { to = "dopuu", type = "audience" },
+  { to = "dybbukk", type = "audience" },
+]

@@ -1,0 +1,481 @@
+format = 1
+
+[[release]]
+mbid = "d1748032-bcc6-4eb4-b589-8d9ce4bb00de"
+title = "Gyalist Ina Paris"
+type = "single"
+date = "2011-07-11"
+spotify = "5RyBFTtW37FwyvSKpKoTzH"
+tracks = [
+  { n = 1, title = "Gyalist ina Paris", mbid = "ea3f9cda-6a49-4a59-a9e3-e8cb905c306c" },
+]
+
+[[release]]
+mbid = "37ee129f-97f1-4812-81a0-aae7521e63cd"
+title = "Gipsy Rock"
+type = "single"
+date = "2011-08-31"
+spotify = "3xFYCf2VuXl6oDq8ZKIDys"
+tracks = [
+  { n = 1, title = "Gipsy Rock", mbid = "b2d30a62-a1bc-46d0-a55d-bf144616fa0f" },
+]
+
+[[release]]
+mbid = "717d95bd-6875-4078-ae0a-842f47320bac"
+title = "Ordinary Day"
+type = "single"
+date = "2011-10-03"
+spotify = "5n8ZtRbNFlIcZBnDu8lvJM"
+tracks = [
+  { n = 1, title = "Ordinary Day", mbid = "90f0c192-3ebf-4d5f-bfed-25ba17cca559" },
+]
+
+[[release]]
+mbid = "6d7f9a0a-fe77-45c3-ac3e-c721cbdb027c"
+title = "On Time"
+type = "album"
+date = "2011-10-23"
+tracks = [
+  { n = 1, title = "Bad Boy Comedy", mbid = "d0362900-0b7a-4c8e-b65d-722357683f1d" },
+  { n = 2, title = "Ordinary Day", mbid = "30c97532-e674-4b31-8d28-fba5454f92bd" },
+  { n = 3, title = "Gipsy Rock", mbid = "d355e48a-6c0a-464f-b083-c28a6857f39b" },
+  { n = 4, title = "On Time", mbid = "5a4ee1d1-a80e-4e2c-a3b3-689634f367a8" },
+  { n = 5, title = "Gyalist ina Paris", mbid = "bba74fc7-7f02-4e1b-9bca-5df060952bcf" },
+  { n = 6, title = "Interlude", mbid = "1fefcd57-efa8-416d-b3df-06fe1c07e7fc" },
+  { n = 7, title = "Magic Super Love", mbid = "ef9f40dd-280b-4f12-a348-5d74cb082f33" },
+  { n = 8, title = "Life We Love", mbid = "2bb675ca-688a-4ea2-bf27-0c31345677c7" },
+  { n = 9, title = "It's a Shame", mbid = "92ef1094-5bfb-4eaa-abfa-1c8170ba7e3e" },
+  { n = 10, title = "Brigante Life", mbid = "1597d567-0b92-4c60-820e-7139278f7664" },
+  { n = 11, title = "Tragedy", mbid = "5b35e1f8-03a1-40f8-8b94-89c8a6882077" },
+  { n = 12, title = "Parisienne", mbid = "4da31fd1-8e11-40a6-acd4-5c804656416c" },
+  { n = 13, title = "Banana Spliff", mbid = "45a9b7c0-bf6b-4d6f-a344-427973346968" },
+  { n = 14, title = "Moon Walker", mbid = "304eb704-5134-41b8-9773-7d4461d0f3e8" },
+  { n = 15, title = "Sorry for Them", mbid = "7fcc7836-d8de-451a-a68b-2fc519222aff" },
+  { n = 16, title = "Borderline", mbid = "8dac8680-6e4e-4fbf-963e-a0e7cb127f49" },
+]
+
+[[release]]
+mbid = "13d5ccba-3ad7-496f-a441-af3073624658"
+title = "The World of Biga Ranx Vol.1"
+type = "ep"
+date = "2012-02-27"
+tracks = [
+  { n = 1, title = "I’m Hungry", mbid = "c334583f-6048-429c-bde8-5d76a5d383af" },
+  { n = 2, title = "World of Indifference", mbid = "21ca658a-e09c-4466-bebf-1e6ea6ba37b3" },
+  { n = 3, title = "True Romance", mbid = "88a8c979-bcb6-42d8-8a78-1d60454fbe14" },
+  { n = 4, title = "Don’t Go", mbid = "d59ce3ba-efec-4371-8050-f8c6436af493" },
+]
+
+[[release]]
+mbid = "94031987-5604-48b7-8f93-7d8bfbda64da"
+title = "The World of Biga Ranx Vol.2"
+type = "ep"
+date = "2012-04-06"
+tracks = [
+  { n = 1, title = "Depense Pon My Ting", mbid = "25ea706c-ffe7-4f7b-9563-acebc0d09d46" },
+  { n = 2, title = "I Shot the Dubstep", mbid = "04595ec4-8e92-436c-b5d2-acfd9d1a1d0c" },
+  { n = 3, title = "Set Me Free", mbid = "de33dff2-94a6-4c25-b08a-a8f221d2fc59" },
+  { n = 4, title = "Mawdness", mbid = "96d9570c-7a44-4c34-8c67-8d65713f5d71" },
+]
+
+[[release]]
+mbid = "b3663a90-ede4-473e-9960-ceb779563c7a"
+title = "Brigante Life"
+type = "single"
+date = "2012-10-03"
+spotify = "2MUOz2ogxgSIO9geTmHib7"
+tracks = [
+  { n = 1, title = "Brigante Life", mbid = "eda8e918-2164-4ac1-8704-9bf9cf54a9f2" },
+  { n = 2, title = "Hypnotic", mbid = "562f01c6-6d15-4c24-b2a6-a52e4ed75dab" },
+]
+
+[[release]]
+mbid = "4f1af2bc-c9cb-4a31-a519-a802fa2594d3"
+title = "Badboy Comedy"
+type = "single"
+date = "2012-12-10"
+spotify = "1xsXufKSgHiMRY3gVASe0U"
+tracks = [
+  { n = 1, title = "Badboy Comedy - Dope Ammo Remix", mbid = "a5a4b567-4c97-4043-bd49-96c6cbbb7f4f" },
+  { n = 2, title = "Universe", mbid = "fbbf7517-2331-4c03-880c-1afb3aef343e" },
+]
+
+[[release]]
+mbid = "cc7a538f-bb53-4795-a4e4-37e4478ac407"
+title = "Good Morning Midnight"
+type = "album"
+date = "2013-04-15"
+tracks = [
+  { n = 1, title = "Boogie Man Skank", mbid = "69750714-0546-4b12-a6e8-351354d885e2" },
+  { n = 2, title = "Dont Stop Jammin'", mbid = "c821b882-10e4-420c-8e4a-59d9d5ed157d" },
+  { n = 3, title = "Full Time", mbid = "278199a1-44da-4174-a012-aafeda434ff5" },
+  { n = 4, title = "Natural Resource", mbid = "030b713e-1976-4d86-8160-aa2be22cd6ac" },
+  { n = 5, title = "Snap Back", mbid = "cb42acf4-ab5c-495d-a17d-9b0879c3a37f" },
+  { n = 6, title = "Zip Bag", mbid = "0da9c1af-1aa6-4e9a-b723-32a5ea162553" },
+  { n = 7, title = "Good Morning Midnight", mbid = "1857c01e-77e1-4362-8fbb-8a41b7284b7e" },
+  { n = 8, title = "Dewey Like This", mbid = "8bab2087-a764-4027-bc80-ed9e6cb05408" },
+  { n = 9, title = "Holiday Hold Up", mbid = "df06f952-3781-4bc1-bd19-8cd270c3de6d" },
+  { n = 10, title = "Wild World", mbid = "234e34fb-8592-4f77-b9e6-7372b87aae85" },
+  { n = 11, title = "Gutta Love", mbid = "fda1218e-e063-4f84-9320-29a1e6b732e5" },
+  { n = 12, title = "Confession", mbid = "df951a22-852d-4d3c-8620-21e02e1174f5" },
+  { n = 13, title = "Mi Nah Easy", mbid = "b6b03f18-a818-4ddb-9dbb-0a87f23f65e3" },
+  { n = 14, title = "Cheese Cake", mbid = "c83b6c3c-232b-43bc-9762-e7edbf84b841" },
+  { n = 15, title = "Big City Dweller (feat. Potential Kidd)", mbid = "f6119dad-bc09-43c7-9292-e331470ec249" },
+  { n = 16, title = "Buck a Shot", mbid = "cdcd84cd-98d4-439d-b2a0-1bb262218a3e" },
+  { n = 17, title = "Kingston Chronic", mbid = "ba0e7d25-def3-4e8c-98c9-36f1b5abe734" },
+  { n = 18, title = "Bad to The Bone", mbid = "68ab906f-004e-40d6-8dcd-99a05b563799" },
+  { n = 19, title = "Bubble Like Perrier", mbid = "4c3afc90-4ca5-4117-a6af-11b246fc4c81" },
+  { n = 20, title = "This Wall Will Fall", mbid = "21d0a5f4-5f58-4dd1-a2f7-fa89bef34466" },
+]
+
+[[release]]
+mbid = "546ab4ac-52cc-4db7-adc0-fb13ea15debb"
+title = "The World of Biga Ranx Vol.3"
+type = "ep"
+date = "2013-07-29"
+tracks = [
+  { n = 1, title = "Dub Attack", mbid = "94d05f0a-393b-426d-850b-97c3defaafca" },
+  { n = 2, title = "Looking To Be Sad", mbid = "265dd1cb-5df0-48ac-9094-9178eae37d20" },
+  { n = 3, title = "Digital Dealer", mbid = "76981fc0-aa1d-408a-8f85-f1f361591520" },
+  { n = 4, title = "Own The Night", mbid = "388b9651-e9b8-4603-8109-d2b04c189451" },
+]
+
+[[release]]
+mbid = "86a4a92a-7fd9-4b4f-b498-404f021a1998"
+title = "Nightbird"
+type = "album"
+date = "2015-03-09"
+tracks = [
+  { n = 1, title = "DJ for the Night", mbid = "65395d01-4c3b-4768-ad40-aa258813daec" },
+  { n = 2, title = "Prison House", mbid = "426aa6ca-758a-45c7-aeae-75fccd6b4e3e" },
+  { n = 3, title = "Sexy", mbid = "5ef6ff93-4169-4175-b572-98688871d6ce" },
+  { n = 4, title = "I Am a MC", mbid = "0babb7f9-0d4f-4816-bab5-e1b8a677eb46" },
+  { n = 5, title = "Bossman", mbid = "ec13ad13-86aa-4f23-9191-56c2d379f7aa" },
+  { n = 6, title = "Paris Is a Bitch", mbid = "6094c3e7-fbfe-4cfc-bb72-7b274cb32a1f" },
+  { n = 7, title = "Hate", mbid = "c38d5ab9-9b0c-42c4-9164-803fdfa6807c" },
+  { n = 8, title = "Nightbird", mbid = "8e622161-56ff-4ec7-afb9-18d3d9454e4e" },
+  { n = 9, title = "Keep on Trying", mbid = "e5fe5431-7902-47e5-b866-c25b7f01160d" },
+  { n = 10, title = "Double Trouble", mbid = "69a0837a-ce37-48cd-989b-5ab5c04a2113" },
+  { n = 11, title = "Alone", mbid = "9463127c-daec-4596-9055-608cbe40ae5b" },
+  { n = 12, title = "DJ for the Screwed", mbid = "d43e1382-781d-4233-84c2-ccd7face9466" },
+  { n = 13, title = "Favorite Smuk", mbid = "2427d637-1cd5-4952-9deb-e9169c25a04b" },
+  { n = 14, title = "Saturday Fight", mbid = "566b55ee-c8d8-44cf-9f8b-26a92a1514a5" },
+]
+
+[[release]]
+mbid = "8b293cfb-e625-457d-b78c-8c481ce1ace6"
+title = "Liquid Sunshine"
+type = "single"
+date = "2016-08-01"
+tracks = [
+  { n = 1, title = "Liquid Sunshine", mbid = "ef9934ee-6499-484c-9854-dcae2ce42f25" },
+]
+
+[[release]]
+mbid = "48dd389a-224e-47df-abe2-cda45d8acd99"
+title = "1988"
+type = "album"
+date = "2017-06-09"
+tracks = [
+  { n = 1, title = "Liquid Sunshine", mbid = "ef9934ee-6499-484c-9854-dcae2ce42f25" },
+  { n = 2, title = "Homegrown", mbid = "7ed71626-12e4-45b4-b55e-6cee0e0ef326" },
+  { n = 3, title = "Monday", mbid = "580c9895-8cfd-47cc-b59c-664cec83da0c" },
+  { n = 4, title = "Low Grade", mbid = "80e79233-7bc6-4d7a-86d2-45d0c409a355" },
+  { n = 5, title = "My Face", mbid = "b2738bf9-97d0-4231-b725-bdc85076e05e" },
+  { n = 6, title = "French Fries", mbid = "bd3d0600-c4eb-4b00-aa01-e463042f4d45" },
+  { n = 7, title = "Tropic Sky", mbid = "dfcb2a30-036b-40b1-9efc-a729ea915cd4" },
+  { n = 8, title = "Contrebande", mbid = "35dd3f19-f3c1-4a38-b796-ab6fb24b55b9" },
+  { n = 9, title = "Petit Boze", mbid = "8ea75e54-bbb6-4a04-8948-ecf1447caa32" },
+  { n = 10, title = "Life Long", mbid = "363e9ebe-4aa6-40b6-b34e-b52d1568cdb9" },
+  { n = 11, title = "Do My Ting", mbid = "a1c45db9-7bf3-4089-a265-5500ccc5680d" },
+  { n = 12, title = "French Wine", mbid = "f1f474ed-6a36-479c-bd86-d6bb553b9b08" },
+  { n = 13, title = "Rendez Vous", mbid = "f68a730c-247a-4a62-8418-0c56b74b84ac" },
+  { n = 14, title = "PMU", mbid = "8de997cd-5066-49b7-be2d-5a3bf0ba1d72" },
+  { n = 15, title = "Veleda", mbid = "b3769953-9d2b-4974-905b-860a3f8ae07a" },
+  { n = 16, title = "Lazer Beam", mbid = "51a7e8f4-b120-466f-8a9d-5876bd549094" },
+]
+
+[[release]]
+mbid = "ed9ad326-ef96-40b1-b641-edeea3545f69"
+title = "D.I.Y."
+type = "single"
+date = "2020-01-15"
+spotify = "6VHgR9DgeeO6JUjQiIMSKU"
+tracks = [
+  { n = 1, title = "D.I.Y.", mbid = "b312fce7-c59a-4a6d-8028-69cd58e52eaa" },
+]
+
+[[release]]
+mbid = "a17241ea-1d34-43f2-b570-31fe237305b4"
+title = "Petit Boze Rmx"
+type = "single"
+date = "2020-01-15"
+spotify = "0p6Fff7ol6rNkW86gNWPeG"
+tracks = [
+  { n = 1, title = "Petit Boze Rmx", mbid = "062d11de-a764-4db7-9038-0eee17dc74de" },
+]
+
+[[release]]
+mbid = "0d49a9c9-e570-465f-8f3e-9760eedc69d5"
+title = "Solid"
+type = "single"
+date = "2020-01-31"
+spotify = "5bzvaLoW8ZNYeIvIgPQINL"
+tracks = [
+  { n = 1, title = "Solid", mbid = "1a8c149e-0c42-4368-92ca-8cca7c3a5f43" },
+  { n = 2, title = "Solid (Remix)", mbid = "af7a71cd-a0f2-4311-93de-8e2680737388" },
+]
+
+[[release]]
+mbid = "234c026b-74c7-4db8-93ad-412058ff7d10"
+title = "Hot Water"
+type = "single"
+date = "2020-03-06"
+spotify = "35ZP10UB0g1bgTmiOmQslj"
+tracks = [
+  { n = 1, title = "Hot Water", mbid = "403a59b8-a047-49fe-a698-1729481df773" },
+]
+
+[[release]]
+mbid = "e1ed1693-b278-400d-8902-38b3cf0e7440"
+title = "Sunset Cassette"
+type = "album"
+date = "2020-06-19"
+tracks = [
+  { n = 1, title = "My Driver", mbid = "215f910b-66fb-4019-847f-fbdffb70b1f0" },
+  { n = 2, title = "Vroom", mbid = "fe060865-5114-4a2b-bf9e-e1af52cf0cbb" },
+  { n = 3, title = "Regarde-moi", mbid = "55041016-3aa5-4b77-8369-eb9348745d59" },
+  { n = 4, title = "Solid", mbid = "53d767ec-d90a-4f98-b851-421f4a1c0af9" },
+  { n = 5, title = "Aubépines", mbid = "90fada56-94da-47c5-85fc-43afe400f812" },
+  { n = 6, title = "Single Day", mbid = "972ca3e3-f66a-446a-adf7-fca7c703c696" },
+  { n = 7, title = "Vieille branche", mbid = "8eec8698-5696-4416-a83e-eed6d03c5734" },
+  { n = 8, title = "Hot Water", mbid = "6e0f1a39-7294-4014-a008-b6a3e4fcd836" },
+  { n = 9, title = "Sunset Cassette", mbid = "12985e98-1a17-460b-b3b2-326da7146544" },
+  { n = 10, title = "O.V.A", mbid = "faecf672-d990-4cee-a666-697b514064d8" },
+  { n = 11, title = "Les Poches", mbid = "0492d71a-20ae-4666-9300-3ae0584945f5" },
+  { n = 12, title = "Mexico", mbid = "73406c7f-d5ac-4ba3-a8b1-91e366d8342e" },
+]
+
+[[release]]
+mbid = "d3870c62-e05c-4951-8434-6d7f31cb31db"
+title = "Petite Marie (Fanzine Remix)"
+type = "single"
+date = "2021-02-26"
+spotify = "6FPFc16IXxN7NzW6Y4g22c"
+tracks = [
+  { n = 1, title = "Petite Marie (Fanzine Remix)", mbid = "16279e0a-f76f-424e-80ab-202e29d7a93f" },
+]
+
+[[release]]
+mbid = "d86e4a9f-8028-4ac3-9354-c1f464359082"
+title = "Petite Marie (Fanzine Remix)"
+type = "single"
+date = "2021-02-26"
+spotify = "6FPFc16IXxN7NzW6Y4g22c"
+tracks = [
+  { n = 1, title = "Petite Marie (Fanzine Remix)", mbid = "b309f91c-39b4-4fed-95ed-9d19062a60d4" },
+]
+
+[[release]]
+mbid = "8c398a0f-2745-48bb-9580-ce4308a2c776"
+title = "Ma Croix"
+type = "single"
+date = "2021-04-09"
+spotify = "6239arPOYIqRx93tf3aevq"
+tracks = [
+  { n = 1, title = "Ma Croix", mbid = "6b268f36-62c7-491a-9a81-594ea0f3c2e6" },
+]
+
+[[release]]
+mbid = "48b05f2d-2524-4971-9330-fd68f8539087"
+title = "St.Soleil - Tape"
+type = "album"
+date = "2021-05-14"
+spotify = "2vOTCDNILi0WwEX91HLye4"
+tracks = [
+  { n = 1, title = "Ma croix", mbid = "55db4f2b-ed90-43b2-9e49-ac7e33b2f2c5" },
+  { n = 2, title = "La Lune", mbid = "df67a4e2-c6cc-4095-ad3f-ba868d3de14a" },
+  { n = 3, title = "Gotta Learn", mbid = "ba8b61b7-8e41-4b9a-806f-a16efe4b0350" },
+  { n = 4, title = "Mad Move", mbid = "1b8bdacc-1eb0-4807-848f-06b79dccbc61" },
+  { n = 5, title = "Big Plane", mbid = "d4d8f858-68e3-4aee-9d91-771f9d356aa8" },
+  { n = 6, title = "Sunshine Soldier", mbid = "1a90310f-6de5-46f5-ac35-86056f9ea490" },
+  { n = 7, title = "Berlin Everything", mbid = "112f89de-8aed-4f2d-aca2-0eb54a22aead" },
+  { n = 8, title = "Ma petite ville", mbid = "a1e345a8-5c24-4e65-973b-5f3179762b99" },
+]
+
+[[release]]
+mbid = "90a1bff2-d297-4cfd-9716-9528f4b9ba97"
+title = "Montagne"
+type = "single"
+date = "2022-06-03"
+spotify = "78sVjcj39nAHvrvohBXpMx"
+tracks = [
+  { n = 1, title = "Montagne", mbid = "3bfb3903-a580-4825-8496-97b46bd30494" },
+]
+
+[[release]]
+mbid = "fc506d44-b003-4a86-8447-decac14024fb"
+title = "Eh Yo!"
+type = "album"
+date = "2022-06-24"
+spotify = "0zYw19TVITYM3d6FC5ZrZM"
+tracks = [
+  { n = 1, title = "Montagne", mbid = "79ad112a-ff70-4297-9d26-3080ac77dfe5" },
+  { n = 2, title = "Beaucoup", mbid = "feb2361c-726d-4fa6-9cd6-402654079a89" },
+  { n = 3, title = "Montpellier", mbid = "552a266a-413f-4176-9588-8ab43046b7e0" },
+  { n = 4, title = "La glace", mbid = "366f23ba-b630-4226-b1b8-fddfeab6e086" },
+  { n = 5, title = "7 days", mbid = "0666f150-c530-4ffa-9c63-f5454485bc1f" },
+  { n = 6, title = "Take It Down", mbid = "6a886068-0e7b-47cf-91d5-cff6ff93f6ea" },
+  { n = 7, title = "Emoji", mbid = "7b4dc063-d498-4a28-9486-09cd1b4ca1a8" },
+  { n = 8, title = "Bruce Wayne", mbid = "296dd2cb-34a1-40f4-9989-afa17dc5373b" },
+  { n = 9, title = "Ice on Cool", mbid = "2883aadc-016d-4f8e-bb18-8e9ecd3187a0" },
+  { n = 10, title = "Illegal Dance", mbid = "10c57644-a721-43a5-84c5-68ee388e0168" },
+  { n = 11, title = "OP1 Opéra", mbid = "bbe99582-4695-4761-955c-c40c84d05e85" },
+  { n = 12, title = "Como Esta", mbid = "9f29fcdb-e5ba-456f-a030-8a7a90ad0d88" },
+  { n = 13, title = "Tarte Tatin", mbid = "32ba4755-d81a-4a6b-85f8-4b43408b6b36" },
+  { n = 14, title = "Gra 2 Pull", mbid = "8631d1d3-cce0-4f70-8797-804057cc0883" },
+]
+
+[[release]]
+mbid = "4b586ec7-2f1c-4e6e-b657-7a75b6a73362"
+title = "Boulot"
+type = "single"
+date = "2023-06-15"
+spotify = "6X7KJWr0hZdboHsYUhtdst"
+tracks = [
+  { n = 1, title = "Boulot", mbid = "f7b068c9-4815-4df1-9c21-126706ca43f0" },
+]
+
+[[release]]
+mbid = "00e008d0-01b0-401b-9294-6f4706031778"
+title = "Comme Nous"
+type = "single"
+date = "2023-06-30"
+spotify = "1lOqWb2pIAlviMf7Mm0miy"
+tracks = [
+  { n = 1, title = "Comme Nous", mbid = "4eb0cb32-4b5a-4af8-9c91-7c5f513f1d79" },
+]
+
+[[release]]
+mbid = "875a24b4-4050-4c20-bf69-90d76806f6f5"
+title = "Nice Thing"
+type = "single"
+date = "2023-12-20"
+spotify = "1lg2TzaitSMEVmAwvYKcbf"
+tracks = [
+  { n = 1, title = "Nice Thing", mbid = "5844309a-8f06-452e-9296-7642b3ce584d" },
+  { n = 2, title = "Nice Thing - Tuff Version", mbid = "08ca1de8-d515-4ca6-874c-8db79b9f7372" },
+]
+
+[[release]]
+mbid = "a70d3d67-5db0-4b9e-ac08-6354ee360f13"
+title = "Never Take"
+type = "single"
+date = "2024-01-19"
+tracks = [
+  { n = 1, title = "Never Take", mbid = "c3aa7ab5-3e63-407a-a21b-e9b82842a73d" },
+]
+
+[[release]]
+mbid = "7d2e4438-0008-44d3-8bc9-8d0b7e3c67e7"
+title = "Le Rang des Étoiles"
+type = "single"
+date = "2024-03-01"
+spotify = "3iQda7g4gHv1ynJHXrHFph"
+tracks = [
+  { n = 1, title = "Le Rang des Étoiles", mbid = "3ac9a9d5-484c-4a64-b3b3-cc074ba38884" },
+]
+
+[[release]]
+mbid = "38e186aa-3a1d-4598-8a4e-be0815e89bbd"
+title = "Mountain Top"
+type = "single"
+date = "2024-04-19"
+spotify = "0KM7iPKWcc9rUeXV0mmdVg"
+tracks = [
+  { n = 1, title = "Mountain Top", mbid = "4794f47e-4e07-4322-893b-31380b6cffd8" },
+]
+
+[[release]]
+mbid = "f0ed0f95-0ef5-403a-a678-5ce06d5b860a"
+title = "Danse"
+type = "single"
+date = "2025-02-14"
+spotify = "7Jc4Regbj3uWD0a0rh4Zd1"
+tracks = [
+  { n = 1, title = "Danse", mbid = "2da36d0f-9a2d-4fd5-8e94-3382c66ebbae" },
+]
+
+[[release]]
+mbid = "97b26e94-4265-4e04-897e-84732eec5b07"
+title = "Vélib"
+type = "single"
+date = "2025-03-07"
+spotify = "635pzUH45LmrM9T41NoqoK"
+tracks = [
+  { n = 1, title = "Vélib", mbid = "b0679cd4-b9e2-47f5-b42f-0b2d38bd9de0" },
+]
+
+[[release]]
+mbid = "d201f7ab-54f6-4ba6-90ce-7996e615a281"
+title = "Trop D'Lumière"
+type = "single"
+date = "2025-04-11"
+spotify = "48yaxxNzmFmtAzueK19LFl"
+tracks = [
+  { n = 1, title = "Trop D'Lumière", mbid = "cd343dcc-21d7-4cd5-ac3b-788ace96472d" },
+]
+
+[[release]]
+mbid = "2d45777c-971f-4288-94c0-1d8d554e055e"
+title = "Moonshine"
+type = "single"
+date = "2025-05-02"
+spotify = "2HDu2nCNc1W7Jv1dOPF9TD"
+tracks = [
+  { n = 1, title = "Moonshine", mbid = "969572d3-77ac-4c26-8965-202f10135c71" },
+]
+
+[[release]]
+mbid = "6ab51752-6e22-429c-90e0-feb2bbc959c8"
+title = "RAINSHINE"
+type = "album"
+date = "2025-06-27"
+spotify = "1WTERPkgzr9guaJPQnKJOU"
+tracks = [
+  { n = 1, title = "Villa Aston", mbid = "21e025b7-1306-409a-8567-dcd8c6f3d725" },
+  { n = 2, title = "Neuf", mbid = "10e641c2-9271-4f5b-886b-e2a3cf43040c" },
+  { n = 3, title = "Vélib", mbid = "82624a76-9a4e-4786-b1be-a3fbfb018a5a" },
+  { n = 4, title = "HMS", mbid = "0791e73e-7671-44c8-8ad4-492e4ac83aaf" },
+  { n = 5, title = "Les Refleu", mbid = "1e376ceb-33ab-485e-ba50-0e77b613960c" },
+  { n = 6, title = "Moonshine", mbid = "182f72d3-18d2-4756-b04d-9875c1c89a61" },
+  { n = 7, title = "Never Take [OG Version]", mbid = "b6570b55-5914-4cea-b657-4e88ccac7927" },
+  { n = 8, title = "Natural Women", mbid = "9f0ddbdc-b8dc-4813-a4c0-00593f307aee" },
+  { n = 9, title = "Trop D'Lumière", mbid = "96bf916b-d545-4e69-8c12-8998e593be88" },
+  { n = 10, title = "Danse", mbid = "12823e41-0eea-4b9c-9263-27a6eb141fa9" },
+  { n = 11, title = "Mountain Top", mbid = "5c7cf69d-b26e-474c-8435-c4f0e028321e" },
+  { n = 12, title = "Tao Paï Paï", mbid = "bc68a382-c791-45f8-a47f-4b1e87fc565e" },
+  { n = 13, title = "Nice Thing", mbid = "48c1137f-7cee-49a4-ad49-942117e1d578" },
+  { n = 14, title = "LRDE", mbid = "19e40011-ebbb-46e7-9740-f3ae982f1de7" },
+  { n = 15, title = "Lord Finesse", mbid = "3ad61964-2eeb-440b-8444-9a5e6b228720" },
+  { n = 16, title = "Pull Up mon Disk", mbid = "f29538f7-1b34-4187-b9fe-c821b1514eaa" },
+]
+
+[[release]]
+mbid = "9422e904-b76d-47fb-871b-38fce0acba15"
+title = "Elle me dit"
+type = "single"
+date = "2025-08-29"
+spotify = "7BoEtJ8M2lfV6qfUhXcvpB"
+tracks = [
+  { n = 1, title = "Elle me dit", mbid = "d4422be0-1d4f-48a3-991f-0e4f1644081c" },
+]
+
+[[release]]
+mbid = "b7d78fac-ee7b-4fc5-92e6-7b40977d5721"
+title = "Elle & moi"
+type = "single"
+date = "2026-07-10"
+tracks = [
+  { n = 1, title = "Elle & moi", mbid = "763d163d-7906-46d5-87dd-6c4efe2dd860" },
+]

@@ -1,0 +1,21 @@
+format = 1
+name = "Concrete Knives"
+mbid = "75296680-d93b-43ea-b8ac-8695262e4b1d"
+spotify = "0ALQtLtJS7lWxd4NQ3pGM2"
+
+tags = ["fr"]
+
+tops = [
+  "Brand New Start",
+  "Time for Disco",
+  "Greyhound Racing",
+  "Wallpaper",
+  "On the Pavement",
+]
+
+links = [
+  { to = "sarah-w-papsun", type = "audience" },
+  { to = "naive-new-beaters", type = "audience" },
+  { to = "django-django", type = "audience" },
+  { to = "the-rapture", type = "audience" },
+]

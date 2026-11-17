@@ -1,0 +1,23 @@
+format = 1
+name = "Viagra Boys"
+mbid = "9df0c0ec-619e-447d-a155-23e19d9c84ce"
+spotify = "2nAKP6etu8wXNnezKXgqgg"
+begin = "2015"
+origin = "Stockholm"
+
+tags = ["post-punk", "garage-punk", "art-punk", "cowpunk", "se", "2010s"]
+
+tops = [
+  "Pyramid of Health",
+  "Sports",
+  "Man Made of Meat",
+  "Punk Rock Loser",
+  "Uno II",
+]
+
+links = [
+  { to = "idles", type = "similar" },
+  { to = "shame", type = "audience" },
+  { to = "thee-oh-sees", type = "audience" },
+  { to = "the-murder-capital", type = "audience" },
+]

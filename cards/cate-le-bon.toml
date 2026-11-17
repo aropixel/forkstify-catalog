@@ -1,0 +1,23 @@
+format = 1
+name = "Cate Le Bon"
+mbid = "f2393e49-b791-46da-a6d7-1e9e60743405"
+spotify = "0LZac5VicY19QLaIUvIB0G"
+begin = "1983"
+origin = "Penboyr"
+
+tags = ["uk"]
+
+tops = [
+  "Heaven Is No Feeling",
+  "Are You with Me Now?",
+  "Home to You",
+  "Always The Same (feat. St. Vincent)",
+  "Mothers of Riches",
+]
+
+links = [
+  { to = "lael-neale", type = "audience" },
+  { to = "destroyer", type = "audience" },
+  { to = "stereolab", type = "audience" },
+  { to = "panda-bear", type = "audience" },
+]

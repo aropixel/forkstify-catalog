@@ -1,0 +1,23 @@
+format = 1
+name = "TV Girl"
+mbid = "38f0c7ac-46eb-49ca-b3ab-c785ccd05a60"
+spotify = "0Y6dVaC9DZtPNH4591M42W"
+begin = "2010"
+origin = "San Diego"
+
+tags = ["electronic", "hip-hop", "indie-pop", "lo-fi", "us", "2010s"]
+
+tops = [
+  "Lovers Rock",
+  "Louise",
+  "Cigarettes out the Window",
+  "Blue Hair",
+  "The Blonde",
+]
+
+links = [
+  { to = "jordana", type = "audience" },
+  { to = "alex-g", type = "audience" },
+  { to = "eyedress", type = "audience" },
+  { to = "roar", type = "audience" },
+]

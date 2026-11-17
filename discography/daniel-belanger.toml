@@ -1,0 +1,228 @@
+format = 1
+
+[[release]]
+mbid = "9aa3c868-16d2-304d-88f2-dd68cca1d750"
+title = "Les insomniaques s’amusent"
+type = "album"
+date = "1992-05-27"
+tracks = [
+  { n = 1, title = "La Folie en quatre", mbid = "7170d849-37e5-4962-8e52-5ac94c36ead3" },
+  { n = 2, title = "Ensorcelée", mbid = "3a3e27e6-9882-49e6-bbc8-f5892c98ca3a" },
+  { n = 3, title = "Sèche tes pleurs", mbid = "cd7bd2f6-f1f4-46cd-a0e0-b12b8ea93552" },
+  { n = 4, title = "Désespéré", mbid = "a58101bf-d40b-4ba7-8b88-6cbedfe0a85b" },
+  { n = 5, title = "Ma dépendance", mbid = "efd8edfa-743b-499c-aa23-b3f1f1a34560" },
+  { n = 6, title = "Opium", mbid = "60abaf18-5baa-4606-b322-ce1e9386f0a6" },
+  { n = 7, title = "Quand le jour se lève", mbid = "4a7b50a1-23f5-4ab1-a006-8869b8fc349f" },
+  { n = 8, title = "Le Bonheur", mbid = "6d507dcb-7682-466e-8355-47bcb8620412" },
+  { n = 9, title = "Jamais les heures", mbid = "6324823c-d28f-4f19-a6ca-d565fbb9dce3" },
+  { n = 10, title = "Mon retour", mbid = "1ca63691-3d30-4ba5-b9bd-b2039726037e" },
+  { n = 11, title = "L’Autruche", mbid = "bfdac147-8450-4da4-a462-9e5e0a9fad8e" },
+]
+
+[[release]]
+mbid = "d1c81512-ea17-3bbe-8f57-38430dfc232e"
+title = "Quatre saisons dans le désordre"
+type = "album"
+date = "1996-05-05"
+tracks = [
+  { n = 1, title = "Quatre saisons dans le désordre", mbid = "486292fe-e211-4484-b7ac-27e7c7ce9805" },
+  { n = 2, title = "Sortez-moi de moi", mbid = "134865cb-e501-4ef7-83eb-17510a154c7e" },
+  { n = 3, title = "Les Deux Printemps", mbid = "2b2db5de-9575-4509-a8dc-9aa8540909f1" },
+  { n = 4, title = "Monsieur Verbêtre", mbid = "4f57aba6-8978-46d2-8a64-48522df35b97" },
+  { n = 5, title = "Respirer dans l’eau", mbid = "0c140c62-e5f4-4fa5-b8bb-aa855a2babde" },
+  { n = 6, title = "Cruel (Il fait froid, on gèle)", mbid = "912d3248-0f19-4ee0-9848-598e93d3d89c" },
+  { n = 7, title = "La Voie lactée", mbid = "b8ef3f4c-e53c-4f51-a5a6-3bfdefb31942" },
+  { n = 8, title = "Les Temps fous", mbid = "6af1d6e8-9f40-46e8-8ee0-438c1ca6d9fe" },
+  { n = 9, title = "Imparfait", mbid = "a568a8de-e8a0-4c77-8a14-87548e2ff848" },
+  { n = 10, title = "Le Parapluie", mbid = "170d87ed-6942-4a2d-970d-727f4cfecc3d" },
+  { n = 11, title = "Je fais de moi un homme", mbid = "22fca093-7a4f-4065-b7a2-80298910061a" },
+  { n = 12, title = "Projection dans le bleu", mbid = "752c3c6e-e2d7-4754-94ee-9281195f0aa5" },
+  { n = 13, title = "Primate électrique", mbid = "2fb9aa9e-52eb-4313-ac6e-e476c408671d" },
+]
+
+[[release]]
+mbid = "874c70d2-23db-3334-a160-748e76a8887f"
+title = "Rêver mieux"
+type = "album"
+date = "2001-10-16"
+tracks = [
+  { n = 1, title = "Te quitter", mbid = "ce4248fb-be94-432d-907e-1df808fa4fae" },
+  { n = 2, title = "Fous n’importe où", mbid = "f75d97f2-6466-43bc-b7b4-a5c522175cb5" },
+  { n = 3, title = "Chante encore", mbid = "57a3e460-4bbb-4bad-8325-b8531d21d0bd" },
+  { n = 4, title = "Une femme, un train, un homme, une gare", mbid = "b1b4e0f9-831d-4f79-bb81-88090bda3b5a" },
+  { n = 5, title = "Dans un spoutnik", mbid = "c240cc94-bae9-4f19-b556-24c0c5f01f28" },
+  { n = 6, title = "Tu tombes", mbid = "d119a8dc-fc32-41e0-a001-a89866f1a705" },
+  { n = 7, title = "Une chanson pour moi", mbid = "21e1c5fe-8962-402b-a086-58c4bfaafbc2" },
+  { n = 8, title = "Dis tout sans rien dire", mbid = "b0f1df36-0b0a-46f7-a3df-2b1708234a0a" },
+  { n = 9, title = "Intouchable et immortel", mbid = "9019fff4-2bbc-427d-88a7-627c6ac362d0" },
+  { n = 10, title = "Fugue en sol inconnu", mbid = "2b6a8e50-4e96-47f3-a7e9-018cac1a67e0" },
+  { n = 11, title = "Air pur", mbid = "bac3f99c-6f13-46c0-b9b7-eb82e054c7eb" },
+  { n = 12, title = "Rêver mieux", mbid = "77971ccc-c1bd-40d1-92ed-e60979c4ff8d" },
+  { n = 13, title = "Comme des amants", mbid = "a6dfffdc-e5b4-484c-9331-80d243ada37e" },
+  { n = 14, title = "Revivre", mbid = "012f97b7-cbf7-4a15-8e8b-df9f0ac1317f" },
+]
+
+[[release]]
+mbid = "3360470d-d686-3b1b-b865-d5e915fde949"
+title = "Déflaboxe"
+type = "album"
+date = "2003-11-18"
+tracks = [
+  { n = 1, title = "Intro", mbid = "d84e27d4-7629-4ad3-88dc-01ba8a82d329" },
+  { n = 2, title = "Round 1", mbid = "6638aa5d-0771-4551-ad2d-8b7bfabcda8d" },
+  { n = 3, title = "Round 2", mbid = "73f45505-2170-4b3b-948b-00536fcd699c" },
+  { n = 4, title = "Round 3", mbid = "2af55030-4bd1-4c95-8d33-e0b415bb2581" },
+  { n = 5, title = "Round 4", mbid = "9c79ad8e-b2d8-4a16-bc8f-dc90c5421da6" },
+  { n = 6, title = "Round 5", mbid = "1608dcc4-79f8-4b2d-8f0d-af330943754b" },
+  { n = 7, title = "Round 6", mbid = "2e57a9cf-2457-47dc-9f87-847a486c2ff2" },
+  { n = 8, title = "Round 7", mbid = "3a44f16f-09e8-4ec6-afc2-6bbe81d826aa" },
+  { n = 9, title = "Round 8", mbid = "1a68c320-42a9-44a7-a342-41eae62a1e4b" },
+  { n = 10, title = "Round 9", mbid = "a93e1f79-6fc3-4e02-a601-b468ed2c458a" },
+  { n = 11, title = "Round 10", mbid = "f73716ac-0518-4539-97b2-ce50aa19d217" },
+]
+
+[[release]]
+mbid = "577af21f-306e-42be-b01d-320fc8062539"
+title = "Tourner (L'Audition)"
+type = "single"
+date = "2005"
+tracks = [
+  { n = 1, title = "Tourner", mbid = "d5a4317a-90ac-4778-beef-4f67b380d8a0" },
+]
+
+[[release]]
+mbid = "eb47dea5-3f71-393e-9494-3285fb84c912"
+title = "L’Échec du matériel"
+type = "album"
+date = "2007-04"
+tracks = [
+  { n = 1, title = "La Fin de l’homme", mbid = "740a5082-7fc8-4781-8c9d-54e7709d6ed9" },
+  { n = 2, title = "Manière de parler", mbid = "631ceb28-483f-41fd-9368-038205204d7f" },
+  { n = 3, title = "Télévision", mbid = "5922e753-5f65-46e3-ac05-bd28e7314f67" },
+  { n = 4, title = "Drôle de personne", mbid = "e53defe9-a6cb-4a43-bef7-9a7f73869ab6" },
+  { n = 5, title = "Fermeture définitive", mbid = "34fd79e8-82f2-49bb-99d9-929f87796862" },
+  { n = 6, title = "Amusements", mbid = "6e404e3f-b3c0-407f-9cc4-d2b70a0b7531" },
+  { n = 7, title = "Tout à coup", mbid = "8fa23023-b00f-43da-8b38-52ccca2d17b7" },
+  { n = 8, title = "Plus", mbid = "9290e51e-6505-4b35-9a94-226e8f32333d" },
+  { n = 9, title = "Demain, peut‐être", mbid = "f0cce38d-4cfa-4ce3-9f9a-8545e61c85fb" },
+  { n = 10, title = "La Collision", mbid = "ab9e9e27-f9d6-45c3-a4af-89499dce4349" },
+  { n = 11, title = "L’Échec du matériel", mbid = "25a3103d-cfdf-41d8-8b13-fcb69f17cf26" },
+  { n = 12, title = "Relié", mbid = "da0bd43d-8674-47ef-8208-d329e9dbe3d3" },
+  { n = 13, title = "Je suis mort", mbid = "1a0b0b9b-a40a-4385-827b-41dfdef69e9c" },
+  { n = 14, title = "Sports et loisirs", mbid = "8b2fd1e0-b8af-449a-bf47-2e48486fe268" },
+]
+
+[[release]]
+mbid = "e79f0669-12bf-4ea0-bd41-fc1e99437690"
+title = "Nous"
+type = "album"
+date = "2009-11-10"
+tracks = [
+  { n = 1, title = "Reste", mbid = "825e1904-7869-4df3-b591-34b7230b31c1" },
+  { n = 2, title = "Facile", mbid = "e1b6c1cc-6afa-4471-bc5e-63202628aae8" },
+  { n = 3, title = "Qui ne suis‐je ?", mbid = "4f6f1327-10b9-4e85-a5b6-2eb2cbf22184" },
+  { n = 4, title = "Si l’amour te ressemblait", mbid = "65bb010b-5fe0-4d34-b4fb-f94191cfc743" },
+  { n = 5, title = "Jamais loin", mbid = "79003ba1-b8cd-4464-a267-a3203f50deb6" },
+  { n = 6, title = "Le Toit du monde", mbid = "0e0e727f-f8f5-448f-aaa2-f7cf89dc870c" },
+  { n = 7, title = "Céleste", mbid = "77de1b7e-c130-4434-9728-2b8202ad5089" },
+  { n = 8, title = "Impossible", mbid = "e3e38f7f-2ad1-4531-964c-86178f15cd13" },
+  { n = 9, title = "J’aime ton soleil", mbid = "31acb4a0-bf60-44d6-a672-f13e4c7e5fa7" },
+  { n = 10, title = "L’Équivalence des contraires", mbid = "b3cdc30c-183d-4f39-8952-e3bc2c7fba1e" },
+  { n = 11, title = "Roule", mbid = "d63e9c71-ab14-4a13-80e4-976edcc46f23" },
+  { n = 12, title = "Mieux vaut voler", mbid = "e7b3a577-844a-485f-9446-e198ae49bf8c" },
+  { n = 13, title = "Tu peux partir", mbid = "efd8b71b-47f9-422c-a50d-752cde468ffb" },
+]
+
+[[release]]
+mbid = "cf9bf513-a7b5-4bac-9c1a-86e71f449c04"
+title = "Chic de ville"
+type = "album"
+date = "2013-03-05"
+spotify = "4hHQBjNa12D0rlhZLCeazr"
+tracks = [
+  { n = 1, title = "Ouverture", mbid = "2f51cda8-a680-470f-b4d3-a981e1323f21" },
+  { n = 2, title = "Chacun pour soi", mbid = "adbf2c1e-2afa-4060-8b06-7e7a3fcc83a4" },
+  { n = 3, title = "Sa félinité", mbid = "c339e7c2-99a2-4a3d-80ee-f4a4ab679ffc" },
+  { n = 4, title = "Béatitude", mbid = "dd3d34f2-7559-4a40-a5d2-a5a232f02435" },
+  { n = 5, title = "Avec mes amis", mbid = "c0f27d73-5f65-4a0a-848f-fa95de1def5a" },
+  { n = 6, title = "L’Aube", mbid = "34dfb07b-fcbf-467d-80a5-af291604dc10" },
+  { n = 7, title = "Auprès de toi", mbid = "2cd3873e-37de-4518-9e66-be5806e562e1" },
+  { n = 8, title = "Le temps est charognard", mbid = "f56189f4-8ac8-462a-bf00-8c51425616a0" },
+  { n = 9, title = "Domino", mbid = "52672add-e5fc-4c41-ba1f-de96db6933ce" },
+  { n = 10, title = "Je t’aime comme tu es", mbid = "f368c6cb-42dd-42aa-8c38-983e05d562c9" },
+  { n = 11, title = "Je poursuis mon bonheur", mbid = "e41db824-d39e-4a2e-a0aa-792a4d039a88" },
+  { n = 12, title = "Traverse‐moi", mbid = "90e4b8f0-6fec-4adf-ab8b-25b057202f80" },
+  { n = 13, title = "Le Cœur en mille morceaux", mbid = "dc6baa33-623e-4f39-9840-a3e13bc070a1" },
+  { n = 14, title = "Pour être heureux", mbid = "ab1d714a-fc1d-4997-ae0c-757df3462918" },
+  { n = 15, title = "Rapport d’accident survenu le 26", mbid = "8c1abbae-8ac4-471a-b0f2-a5e5206260a4" },
+]
+
+[[release]]
+mbid = "df940894-f513-425c-99f3-00e363882ca1"
+title = "Paloma"
+type = "album"
+date = "2016-11-25"
+tracks = [
+  { n = 1, title = "Ère de glace", mbid = "e7a4bc82-31d3-4ec2-bdfa-6c0f2d0ac85f" },
+  { n = 2, title = "Il y a tant à faire", mbid = "fa380107-1387-4218-9be5-6a8592515bb8" },
+  { n = 3, title = "Tout viendra s’effacer", mbid = "baf3220c-34cd-4b51-b3ee-edb43fb851bb" },
+  { n = 4, title = "Le Fil", mbid = "ab3cbc5a-3663-49c4-b62d-94ba9276ccf1" },
+  { n = 5, title = "Perdre", mbid = "b680e6f4-7a29-4edf-8ae5-7bd747a81bed" },
+  { n = 6, title = "Métamorphose", mbid = "4862840c-3b9f-4ccd-80d8-ed47fe3a580f" },
+  { n = 7, title = "Un deux trois j’aurai tout oublié", mbid = "977f5597-a645-4c2d-9ea4-7ab8eb9b0a1f" },
+  { n = 8, title = "Prédications", mbid = "f15480a1-d512-443b-8658-d69e0317a663" },
+  { n = 9, title = "Paloma", mbid = "600aee6c-a740-4d68-9c7c-2a885e5a577e" },
+  { n = 10, title = "Un", mbid = "b2104212-1dd2-479b-b6e9-acb9e8c9435f" },
+]
+
+[[release]]
+mbid = "60b35f28-c919-4aec-a436-000274a4d7ef"
+title = "Signal"
+type = "single"
+date = "2020-09-29"
+tracks = [
+  { n = 1, title = "Signal", mbid = "d29fe95c-ce79-4e4e-8c16-139d93cca350" },
+  { n = 2, title = "From Me", mbid = "dd516de2-aff5-4560-8223-719bf540709e" },
+  { n = 3, title = "Runaway", mbid = "e02a5230-5d67-4240-9a9e-4598e34cda65" },
+  { n = 4, title = "Never Really Get There", mbid = "160d66b1-098e-40c5-8b10-2728c4b05095" },
+]
+
+[[release]]
+mbid = "39f97613-2001-4de5-8fd1-e594ede45caf"
+title = "Travelling"
+type = "album"
+date = "2020-10-02"
+spotify = "4DansuCidnugwQO3H3S7VA"
+tracks = [
+  { n = 1, title = "Apertura", mbid = "2554bb43-d4ac-4241-8a82-e95d0771490b" },
+  { n = 2, title = "Froide était la gâchette", mbid = "c86463aa-9af0-41fb-889c-a783d666c02c" },
+  { n = 3, title = "Le triomphe d'une perruche", mbid = "cbaf7de3-9acb-4206-89ec-bed7702cbf8d" },
+  { n = 4, title = "Parsimonia", mbid = "b23b1bf6-6b76-4954-a9d5-1d28907f19f4" },
+  { n = 5, title = "Un grillon au parc national", mbid = "0d288028-48f2-438f-95a9-114f271f1b21" },
+  { n = 6, title = "Aux champignons par temps clair", mbid = "925e32ef-171f-4dce-8f5b-20ad91329cd1" },
+  { n = 7, title = "Rupture élastique en milieu propice", mbid = "8558e5a8-c23d-4dbe-8591-4256abde573f" },
+  { n = 8, title = "Ondes sensibles s'abstenir", mbid = "c783badf-bfad-4d1f-924f-7d4e0379dada" },
+  { n = 9, title = "Chanter", mbid = "2e54acb9-dc6d-4355-918a-a4262220f877" },
+  { n = 10, title = "Les disparitions sélectives", mbid = "eea784b9-9fb9-4afc-acc7-ec985a6108ad" },
+  { n = 11, title = "La flûte atomique", mbid = "630a2a0e-baba-46ab-acf1-bde3e5ba5c9c" },
+  { n = 12, title = "Farewell Alan Vega", mbid = "9babc814-d509-44ce-8752-dc3bfb2de9b1" },
+  { n = 13, title = "Finale", mbid = "b755b9dc-d9ed-4ead-ba88-86ebb4cb4222" },
+]
+
+[[release]]
+mbid = "00b376aa-2cc6-4605-aae2-249449fb3b0e"
+title = "Mercure en mai"
+type = "album"
+date = "2022-10-14"
+tracks = [
+  { n = 1, title = "Au vent des idées", mbid = "09b9af03-6b12-4201-8f08-f65aafc086bd" },
+  { n = 2, title = "Soleil levant", mbid = "031f1310-8837-448e-94b0-cb349fb60308" },
+  { n = 3, title = "Dormir dans l’auto", mbid = "dab28a21-0752-4136-b9dd-476ee6992512" },
+  { n = 4, title = "Joie", mbid = "51c5d066-aef7-4ffd-bc0b-8b8ac3ebb700" },
+  { n = 5, title = "Oh no !!!", mbid = "c05f79d6-fa54-4d7c-b5f0-a6465b5629f3" },
+  { n = 6, title = "J’entends tout ce qui joue (dans ta tête)", mbid = "c5f66494-dcd6-4a21-b8df-e598d1a4fa85" },
+  { n = 7, title = "Pendu aux étoiles", mbid = "2a89dd01-2d73-42e3-9801-777d49aea1e6" },
+  { n = 8, title = "Avec des fleurs", mbid = "c474f5e4-02ff-4f63-acbf-1e9a4de12403" },
+  { n = 9, title = "Hiatus", mbid = "427ecdd6-c04d-4562-bc1a-40aed5ac76be" },
+  { n = 10, title = "Il faut s’accorder", mbid = "22a26907-7149-4a23-92b5-5367a163fb89" },
+]

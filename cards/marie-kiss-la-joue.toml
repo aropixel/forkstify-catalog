@@ -1,0 +1,21 @@
+format = 1
+name = "Marie Kiss La Joue"
+mbid = "15f00b5a-5735-43d7-9bfa-b558b176b4dd"
+spotify = "4HFWYq62a6tTBLtoAhNBtO"
+
+tags = ["fr"]
+
+tops = [
+  "Valentin",
+  "Henri",
+  "Mon cher \"i\"",
+  "Je regarde le lait tourner",
+  "Y'a du monde au balcon",
+]
+
+links = [
+  { to = "thomas-fersen", type = "audience" },
+  { to = "tom-poisson", type = "audience" },
+  { to = "adrienne-pauly", type = "audience" },
+  { to = "clarika", type = "audience" },
+]

@@ -1,0 +1,21 @@
+format = 1
+name = "GHOSTWOMAN"
+mbid = "3136f4a3-f711-4729-a722-363610056681"
+spotify = "4IEpQR24sUgq6BQw2MdZIy"
+
+tags = ["garage-rock", "psychedelic-rock", "stoner-rock", "ca"]
+
+tops = [
+  "The End of a Gun",
+  "Do You",
+  "All the Time",
+  "Along",
+  "Alright Alright",
+]
+
+links = [
+  { to = "the-brian-jonestown-massacre", type = "similar" },
+  { to = "ty-segall", type = "audience" },
+  { to = "the-mystery-lights", type = "audience" },
+  { to = "goat", type = "audience" },
+]

@@ -1,0 +1,10 @@
+format = 1
+
+[[release]]
+mbid = "c8d91614-4168-4b7b-a786-f65ee46c8544"
+title = "Big Beautiful Sound"
+type = "single"
+date = "2026-09-16"
+tracks = [
+  { n = 1, title = "Big Beautiful Sound", mbid = "c2b80065-16fb-4b3a-9e38-32ef48b5eab6" },
+]
