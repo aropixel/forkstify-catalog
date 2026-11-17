@@ -1,0 +1,23 @@
+format = 1
+name = "Saults"
+mbid = "ea7f48d6-185c-4a6e-9b8d-d548fbfe6fbe"
+spotify = "0v3GJQVtEdCbwnKpCUwOE8"
+begin = "2014"
+origin = "Villeneuve-sur-Lot"
+
+tags = ["fr", "2010s"]
+
+tops = [
+  "Shadows",
+  "Shout",
+  "When I Go",
+  "Whether I Win or Lose",
+  "2 Proud 2 Bow",
+]
+
+links = [
+  { to = "courtney-hadwin", type = "audience" },
+  { to = "alixandrea-corvyn", type = "audience" },
+  { to = "the-house-on-cliff", type = "audience" },
+  { to = "jj-wilde", type = "audience" },
+]

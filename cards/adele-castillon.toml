@@ -1,0 +1,24 @@
+format = 1
+name = "Adèle Castillon"
+mbid = "d87c77e3-3512-41ed-b241-6387d4a6ae4e"
+spotify = "4ueh4hmRvt62k4BgP8dIS0"
+begin = "2001"
+origin = "Angers"
+
+tags = ["alternative-pop", "indie-pop", "pop", "fr"]
+
+tops = [
+  "Été avec toi",
+  "C'est tout moi",
+  "En boucle",
+  "Amour plastique",
+  "Roi",
+]
+
+links = [
+  { to = "videoclub", type = "member", note = "member (…–…)" },
+  { to = "zelie", type = "audience" },
+  { to = "anais-mva", type = "audience" },
+  { to = "maxence", type = "audience" },
+  { to = "eve", type = "audience" },
+]

@@ -1,0 +1,56 @@
+format = 1
+
+[[release]]
+mbid = "9a95ac70-4670-4af1-81c1-b9ab6b6f6d5b"
+title = "Ethereal"
+type = "single"
+date = "2023-10-22"
+spotify = "0tdi4b0MZ7cMSLVxST3f14"
+tracks = [
+  { n = 1, title = "Ethereal", mbid = "037154c8-8487-49dd-b5f1-5ededb3b8ca5" },
+]
+
+[[release]]
+mbid = "17d657d8-4254-4aa1-a445-e5350c1053eb"
+title = "Seraphic"
+type = "single"
+date = "2023-12-08"
+spotify = "2rXgGnwuCAVZhcwreWu8rk"
+tracks = [
+  { n = 1, title = "Seraphic", mbid = "f56e2bd6-9ec8-4de7-98e1-90936e6b7814" },
+]
+
+[[release]]
+mbid = "9e9f4ca5-8dd9-4d08-9aeb-0970f40fe6dc"
+title = "Rainy Days"
+type = "single"
+date = "2025-02-18"
+spotify = "6Q4vGOpozj7PJTTPX5DOzA"
+tracks = [
+  { n = 1, title = "Rainy Days", mbid = "27b94099-c6a7-4dde-9979-2ce09a9d26a2" },
+]
+
+[[release]]
+mbid = "aa10f277-9b7c-47e4-bf58-f44a6b050861"
+title = "Late Nights"
+type = "ep"
+date = "2025-07-02"
+spotify = "4X0rvt2vAQ5lREWS9Xtcab"
+tracks = [
+  { n = 1, title = "Golden Haze", mbid = "3ed767c1-cd91-4de5-965a-91f948757c1f" },
+  { n = 2, title = "Lucent", mbid = "0165a32f-17de-4c78-925f-5683d730f7b0" },
+  { n = 3, title = "Euphoria", mbid = "2fdbfff0-83bf-4228-84eb-cde5ba18421f" },
+  { n = 4, title = "Blissful", mbid = "0deb7674-50f4-47fa-b017-faaf3cc6a49a" },
+]
+
+[[release]]
+mbid = "d836ef68-0985-4588-803f-5b2a1028ab2e"
+title = "Solace"
+type = "single"
+date = "2026-04-24"
+spotify = "1DVWpe2CV0QdnOrFqOziSp"
+tracks = [
+  { n = 1, title = "Solace", mbid = "37af9785-3e17-4afd-b821-70ce80eb61d0" },
+  { n = 2, title = "Solace (Slowed)", mbid = "0b73b03c-3658-4894-89bf-53324954c0ef" },
+  { n = 3, title = "Solace (Sped Up)", mbid = "3f890da1-c970-4a8f-ba57-e48911c769bb" },
+]

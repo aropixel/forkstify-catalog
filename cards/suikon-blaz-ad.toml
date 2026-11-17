@@ -1,0 +1,21 @@
+format = 1
+name = "Suikon Blaz AD"
+mbid = "f92bbc9a-5528-4da4-81ec-afea95096558"
+spotify = "7kFoHyLeI8IWSoKZ8uIeY1"
+
+tags = ["hip-hop", "fr"]
+
+tops = [
+  "Happy End (feat. Suikon Blaz AD)",
+  "TELLEMENT TOI (feat. Suikon Blaz AD)",
+  "Dis moi tout BB",
+  "Comme prévu",
+  "Echelon Music",
+]
+
+links = [
+  { to = "caballero-jeanjass", type = "similar" },
+  { to = "sopico", type = "similar" },
+  { to = "s-crew", type = "audience" },
+  { to = "lefa", type = "audience" },
+]

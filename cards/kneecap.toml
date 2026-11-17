@@ -1,0 +1,23 @@
+format = 1
+name = "KNEECAP"
+mbid = "6ac275dd-eb37-42cf-9a60-6b147320c7be"
+spotify = "1ZVACPeq7ccGCoUXwtafUU"
+begin = "2017"
+origin = "Belfast"
+
+tags = ["hip-hop", "political-hip-hop", "gangsta-rap", "ie", "2010s"]
+
+tops = [
+  "H.O.O.D",
+  "Smugglers & Scholars",
+  "Big Bad Mo",
+  "Get Your Brits Out",
+  "FENIAN",
+]
+
+links = [
+  { to = "genesis-owusu", type = "audience" },
+  { to = "fat-dog", type = "audience" },
+  { to = "wet-leg", type = "audience" },
+  { to = "man-woman-chainsaw", type = "audience" },
+]

@@ -1,0 +1,23 @@
+format = 1
+name = "Madeleine Peyroux"
+mbid = "7f260b9c-bea7-469b-9ba8-0daec7d2c85c"
+spotify = "7nXyULtoL8k7wP9l6kg8Ef"
+begin = "1974"
+origin = "Athens"
+
+tags = ["jazz", "vocal-jazz", "contemporary-jazz", "folk", "us"]
+
+tops = [
+  "Dance Me To The End Of Love",
+  "Have Yourself A Merry Little Christmas",
+  "On My Own",
+  "(Getting Some) Fun out of Life",
+  "Don't Wait Too Long",
+]
+
+links = [
+  { to = "lisa-ekdahl", type = "similar" },
+  { to = "melody-gardot", type = "similar" },
+  { to = "stacey-kent", type = "audience" },
+  { to = "kat-edmonson", type = "audience" },
+]

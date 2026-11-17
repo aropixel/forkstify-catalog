@@ -1,0 +1,521 @@
+format = 1
+
+[[release]]
+mbid = "1c8384af-f04c-4b04-91d4-c3bef9f47ae0"
+title = "Storm / Love's Dart"
+type = "single"
+date = "2009-06-21"
+tracks = [
+  { n = 1, title = "Storm", mbid = "87419a77-168d-4fb7-b108-28fe3721897f" },
+  { n = 2, title = "Love's Dart", mbid = "61fac4bc-5fc4-4e2e-aed6-3d8042621ffa" },
+]
+
+[[release]]
+mbid = "74c09e6f-f9f7-4945-aa81-e6dd6af97804"
+title = "WOR"
+type = "single"
+date = "2010-03-29"
+tracks = [
+  { n = 1, title = "WOR", mbid = "63a27e7e-ad5d-4bcb-a783-7e2c1f8d260e" },
+  { n = 2, title = "Skies Over Cairo", mbid = "025a758f-aa8c-4e7b-ae73-9b866c99b5e5" },
+]
+
+[[release]]
+mbid = "089cdd77-8184-4c88-9c52-de80f2507f7d"
+title = "Waveforms"
+type = "single"
+date = "2011-10-24"
+tracks = [
+  { n = 1, title = "Waveforms", mbid = "37069df0-0908-486d-b582-8f198b0f74ac" },
+  { n = 2, title = "Drumforms", mbid = "2cf45d56-38fa-432e-8af5-20af428bf57e" },
+  { n = 3, title = "Waveforms (Wild Geese remix)", mbid = "573eb6aa-10f9-49a0-b2c8-f4d740c6d2ae" },
+  { n = 4, title = "Waveforms (Mickey Moonlight remix)", mbid = "02c0114f-89b5-4449-b3a5-d25c47cceb04" },
+]
+
+[[release]]
+mbid = "f6f6bbc5-193c-48b2-af19-30e4bcaaf9b3"
+title = "Default"
+type = "single"
+date = "2012"
+spotify = "13YPWuPAIrHypJ3YwaTpAV"
+tracks = [
+  { n = 1, title = "Default", mbid = "fb186946-8c71-4e95-b480-9ca0fc7adb78" },
+  { n = 2, title = "Default (Dan Carey dub mix)", mbid = "ec4cf153-449d-4840-b96d-e2d086f5886e" },
+  { n = 3, title = "Default (Tom Furse remix)", mbid = "ae1d67a3-f9da-4aa0-9875-e7c0c8e8780f" },
+  { n = 4, title = "Default (A JD Twitch Optimo remix)", mbid = "9a953d55-ffdf-41aa-a566-473260d4ca6d" },
+  { n = 5, title = "Default (Walls remix)", mbid = "44769579-b685-4e27-a8ef-0cea1d29ee9e" },
+]
+
+[[release]]
+mbid = "52522ada-d675-4d1f-80a9-fd821aff0fa9"
+title = "Life's A Beach"
+type = "single"
+date = "2012"
+tracks = [
+  { n = 1, title = """Life's a Beach (Django Django 10" edit)""", mbid = "a3387fad-9ab4-4ffa-8500-ae9ac5805646" },
+  { n = 2, title = "Life's a Beach (Steve Mason Priests of Sound remix)", mbid = "933ae8e6-7f68-40da-8b3d-487a1de70e15" },
+]
+
+[[release]]
+mbid = "dd7f2b3e-dcc6-4b7c-b8fd-7f73eb4bd66a"
+title = "Django Django"
+type = "album"
+date = "2012-01-30"
+spotify = "1in9OlbNsLoJ8obUGhktxa"
+tracks = [
+  { n = 1, title = "Introduction", mbid = "28352496-e287-4de0-b4a5-d1956119b07a" },
+  { n = 2, title = "Hail Bop", mbid = "4b0da30e-b5ee-48e3-aeda-6b5164bb8dcb" },
+  { n = 3, title = "Default", mbid = "fb186946-8c71-4e95-b480-9ca0fc7adb78" },
+  { n = 4, title = "Firewater", mbid = "78bb5203-e4f3-4769-9cd5-6c7066bf5316" },
+  { n = 5, title = "Waveforms", mbid = "37069df0-0908-486d-b582-8f198b0f74ac" },
+  { n = 6, title = "Zumm Zumm", mbid = "c276be37-31ad-487e-8244-d152ea334501" },
+  { n = 7, title = "Hand of Man", mbid = "07839628-c5d3-4d1a-9e60-cdf78a37bd1e" },
+  { n = 8, title = "Love's Dart", mbid = "61fac4bc-5fc4-4e2e-aed6-3d8042621ffa" },
+  { n = 9, title = "Wor", mbid = "63a27e7e-ad5d-4bcb-a783-7e2c1f8d260e" },
+  { n = 10, title = "Storm", mbid = "87419a77-168d-4fb7-b108-28fe3721897f" },
+  { n = 11, title = "Life's a Beach", mbid = "db6b3658-3297-4642-ba19-158ccf9ffd53" },
+  { n = 12, title = "Skies Over Cairo", mbid = "025a758f-aa8c-4e7b-ae73-9b866c99b5e5" },
+  { n = 13, title = "Silver Rays", mbid = "d80094d2-8bee-484c-b596-7c459e46a03f" },
+]
+
+[[release]]
+mbid = "2f30cf43-d5b8-4a8c-af93-bb67e49423a4"
+title = "Storm"
+type = "single"
+date = "2012-04-21"
+tracks = [
+  { n = 1, title = "Storm", mbid = "87419a77-168d-4fb7-b108-28fe3721897f" },
+  { n = 2, title = "Skies Over Cairo (Adrian Sherwood On-U Sound dub)", mbid = "b8749632-6c9b-4fb2-b307-150a536a6752" },
+]
+
+[[release]]
+mbid = "8d37d774-c79c-4df7-9d4d-30a411c28436"
+title = "Love's Dart"
+type = "single"
+date = "2013"
+tracks = [
+  { n = 1, title = "Love's Dart (Sal P Liquid Liquid remix)", mbid = "f12b7e67-0c71-4a32-b221-d7ddee23b76f" },
+]
+
+[[release]]
+mbid = "fd34d6d6-b88e-43ec-b703-f46bc45d66a7"
+title = "Porpoise Song"
+type = "single"
+date = "2014-04-19"
+tracks = [
+  { n = 1, title = "Porpoise Song (The Monkees Cover version)", mbid = "2ab864e1-ed67-446c-b03e-ac6be45c0e55" },
+  { n = 2, title = "Porpoise Song (instrumental)", mbid = "cc865983-baad-4c2f-9e5b-94a62a5e8860" },
+]
+
+[[release]]
+mbid = "b6b6ea8b-6fd1-407c-963d-f9a34b95abc9"
+title = "Django Django"
+type = "ep"
+date = "2015"
+tracks = [
+  { n = 1, title = "Giant", mbid = "93b5240c-1302-4813-b609-f8cd179891e2" },
+  { n = 2, title = "Shake and Tremble", mbid = "6ed8841a-0741-494b-807c-bf8cccf913e8" },
+  { n = 3, title = "First Light", mbid = "5f0daf80-ee92-4e82-ac01-69f96a759046" },
+  { n = 4, title = "Pause Repeat", mbid = "dec59d09-5e92-471c-82ea-4536b48580d8" },
+  { n = 5, title = "Reflections", mbid = "21c893f0-19bc-4c70-be00-f1e90cd269a2" },
+]
+
+[[release]]
+mbid = "7875e668-d53e-4832-8a6f-2856c7789dfe"
+title = "First Light"
+type = "single"
+date = "2015-01-12"
+tracks = [
+  { n = 1, title = "First Light", mbid = "12f48d97-54a6-4fff-aa3b-e18fed124199" },
+]
+
+[[release]]
+mbid = "824472c5-fd91-48d6-9b69-ddd85d8c8e15"
+title = "First Light (Remixes)"
+type = "ep"
+date = "2015-03-16"
+tracks = [
+  { n = 1, title = "First Light", mbid = "7460d39c-f403-402d-b21d-ed1687bfee23" },
+  { n = 2, title = "First Light (Wrongtom Dub)", mbid = "436168e0-70f6-4026-9d5d-9ff3dc1530e0" },
+  { n = 3, title = "First Light (Mickey Pearce Remix)", mbid = "40780071-a1d2-48a8-b0b1-517e08fd8ba6" },
+  { n = 4, title = "First Light (Ghost Culture Remix)", mbid = "4914a115-aaab-4235-8a2a-872ed08be3d4" },
+]
+
+[[release]]
+mbid = "c473c66e-4b94-4db4-a018-5578ab67e0f0"
+title = "Beginning to Fade"
+type = "single"
+date = "2015-04-18"
+tracks = [
+  { n = 1, title = "Beginning to Fade", mbid = "d4ec26bc-cb5b-4893-9efd-18935d520086" },
+  { n = 2, title = "Sunken Dream", mbid = "1753b170-ba0d-45d7-9c83-49786ba36eb1" },
+]
+
+[[release]]
+mbid = "1afe597a-480e-43e1-b4a8-567d4db60bdb"
+title = "Born Under Saturn"
+type = "album"
+date = "2015-05-04"
+spotify = "6KLyBU1KBtpZJiC6KdzoqX"
+tracks = [
+  { n = 1, title = "Giant", mbid = "93b5240c-1302-4813-b609-f8cd179891e2" },
+  { n = 2, title = "Shake & Tremble", mbid = "6ed8841a-0741-494b-807c-bf8cccf913e8" },
+  { n = 3, title = "Found You", mbid = "2db35816-bfc9-44b7-86ef-d4d96085cf5d" },
+  { n = 4, title = "First Light", mbid = "12f48d97-54a6-4fff-aa3b-e18fed124199" },
+  { n = 5, title = "Pause Repeat", mbid = "dec59d09-5e92-471c-82ea-4536b48580d8" },
+  { n = 6, title = "Reflections", mbid = "21c893f0-19bc-4c70-be00-f1e90cd269a2" },
+  { n = 7, title = "Vibrations", mbid = "6ad2c566-4cb7-47ec-b6c5-1ded0be8c117" },
+  { n = 8, title = "Shot Down", mbid = "1199ff0a-4c5c-4dd5-bae3-c1b9227297fe" },
+  { n = 9, title = "High Moon", mbid = "932fd593-90a9-4e7e-8405-dfc9210ca248" },
+  { n = 10, title = "Beginning To Fade", mbid = "d4ec26bc-cb5b-4893-9efd-18935d520086" },
+  { n = 11, title = "4000 Years", mbid = "60a5c146-b8d4-4cfd-93bb-adf3fa2486a6" },
+  { n = 12, title = "Break The Glass", mbid = "10913d2e-5d34-4eef-999d-f23d8e77af09" },
+  { n = 13, title = "The Life We Know", mbid = "81d5a105-8df3-4731-8f71-3a1225faf6a7" },
+]
+
+[[release]]
+mbid = "60eda376-7786-43ad-b737-4d5a40c789f6"
+title = "Reflections"
+type = "single"
+date = "2015-07-11"
+tracks = [
+  { n = 1, title = "Reflections", mbid = "21c893f0-19bc-4c70-be00-f1e90cd269a2" },
+  { n = 2, title = "Reflections (Happa Remix)", mbid = "43eab627-1d5d-44c1-88fe-767351d1aa5f" },
+  { n = 3, title = "Reflections (Jellymans Midnight Jelly Jam)", mbid = "e3dd672b-afb5-464b-8e0c-216dc8ece460" },
+  { n = 4, title = "Reflections (Leith Waterworld Remix)", mbid = "502c1804-19a9-4fbf-bbdd-95677dca62da" },
+]
+
+[[release]]
+mbid = "a8e9816a-f5ca-4f21-b2e7-1a33d2cfe025"
+title = "Shake & Tremble"
+type = "single"
+date = "2015-08-07"
+tracks = [
+  { n = 1, title = "Shake & Tremble", mbid = "7a18c7cd-da35-4cb1-8cb8-463bd0f5f463" },
+  { n = 2, title = "Hold the Line", mbid = "4b87c108-d612-4b6f-acdc-b242d2c02064" },
+]
+
+[[release]]
+mbid = "6670bce4-b528-4483-8c67-39578b1c3cd0"
+title = "Pause Repeat"
+type = "single"
+date = "2015-11"
+tracks = [
+  { n = 1, title = "Pause Repeat", mbid = "dec59d09-5e92-471c-82ea-4536b48580d8" },
+  { n = 2, title = "Pause Repeat (Clap! Clap! Remix)", mbid = "8c877443-1157-4e63-8f97-efed7187c5a6" },
+  { n = 3, title = "Pause Repeat (Bok Bok Remix)", mbid = "ada12830-5e0a-4366-be92-7554b5ab187c" },
+  { n = 4, title = "Pause Repeat (A Jd Twitch Optimo Mix)", mbid = "568b6833-b65f-40e7-b7f8-6944694373c0" },
+  { n = 5, title = "Pause Repeat (Debruit Remix)", mbid = "56661945-b97f-4600-87f0-d349acf70769" },
+]
+
+[[release]]
+mbid = "3af77ed7-fd30-420e-aee7-6afa25a1fb95"
+title = "Unreleased Versions & Remixes Vol. 1"
+type = "ep"
+date = "2016-04-16"
+tracks = [
+  { n = 1, title = "Giant (Richard Fearless Remix)", mbid = "3d8d9866-a4c1-4d98-8584-ff17f019c3ae" },
+  { n = 2, title = "Storm (Tim Burgess Locker Room Edit)", mbid = "8a5317ae-01ac-487f-b047-ffb250ee1f4b" },
+  { n = 3, title = "Waveforms (Man Of Moon Cover)", mbid = "b692aa3a-b439-4f53-b29a-611bcbcbcdad" },
+  { n = 4, title = "Love's Dart (Peaking Lights Remix)", mbid = "d997019e-db6d-4d17-84e0-c7cd66d531eb" },
+]
+
+[[release]]
+mbid = "a7a7f9b8-9c9f-42ab-be12-6dbc7b1ba04e"
+title = "Tic Tac Toe"
+type = "single"
+date = "2017-12-01"
+tracks = [
+  { n = 1, title = "Tic Tac Toe", mbid = "5bc287ea-2826-4fc2-be08-b6eaf57a3e54" },
+  { n = 2, title = "Tic Tac Toe (Django Django's Where's The Rides? Remix)", mbid = "5a5d79bf-cab5-455e-8314-c085d51f9a4e" },
+]
+
+[[release]]
+mbid = "c3b68cf7-811c-46c9-9469-929b6aadedae"
+title = "Marble Skies"
+type = "album"
+date = "2018-01-26"
+spotify = "6Qdnh0Rqq3pwlRtkSGGIqm"
+tracks = [
+  { n = 1, title = "Marble Skies", mbid = "4719e31d-74d3-467d-bb8f-9e0b4322a919" },
+  { n = 2, title = "Surface to Air", mbid = "84550595-cefd-4081-b6fe-6960654ebec7" },
+  { n = 3, title = "Champagne", mbid = "26f89adf-23f7-4b3b-aa9d-2037ee9b74e5" },
+  { n = 4, title = "Tic Tac Toe", mbid = "5bc287ea-2826-4fc2-be08-b6eaf57a3e54" },
+  { n = 5, title = "Further", mbid = "0e27f6cb-99c2-4ee9-83a1-6a2570d0ec7b" },
+  { n = 6, title = "Sundials", mbid = "5237dada-0eed-4805-9311-84b336b12aae" },
+  { n = 7, title = "Beam Me Up", mbid = "0b191253-1511-41d8-afa5-1834a2fe1ecc" },
+  { n = 8, title = "In Your Beat", mbid = "79b23ff6-a4d2-4044-a0f0-0ee553a08fec" },
+  { n = 9, title = "Real Gone", mbid = "99677eb2-8f83-4351-bbb4-532f108f7cb3" },
+  { n = 10, title = "Fountains", mbid = "0b27d9c8-4b5f-47ac-86aa-8e4106785fb4" },
+]
+
+[[release]]
+mbid = "ece50166-9156-456c-b77a-606c783b5877"
+title = "Surface to Air"
+type = "single"
+date = "2018-03-16"
+spotify = "3oYQmyZYszFerDiPVnrKrH"
+tracks = [
+  { n = 1, title = "Surface to Air (Lunice remix)", mbid = "379d8322-aee7-4439-bea7-26d7ff310acf" },
+  { n = 2, title = "Surface to Air (Nightwave 6 AM mix)", mbid = "ca2a7604-14f0-4d8f-80a4-28a48c80e951" },
+  { n = 3, title = "Surface to Air (Body in the Thames Rise Up mix)", mbid = "6fca05e4-3ed3-4d81-9031-1c0710445f10" },
+]
+
+[[release]]
+mbid = "8a26381e-3d63-44c6-9210-fcd7f70c4b23"
+title = "In Your Beat"
+type = "single"
+date = "2018-04-21"
+tracks = [
+  { n = 1, title = "In Your Beat", mbid = "79b23ff6-a4d2-4044-a0f0-0ee553a08fec" },
+  { n = 2, title = "In Your Beat (Instrumental)", mbid = "311323bf-949c-4c11-8909-7c5c9d36c21f" },
+  { n = 3, title = "In Your Beat (Matthias Zimmerman Remix)", mbid = "ebdbf05d-5ea3-4a72-8123-976c094cd133" },
+  { n = 4, title = "In Your Beat (Body Double Remix)", mbid = "629a2b7e-c397-4a3a-b414-506acedce249" },
+]
+
+[[release]]
+mbid = "94b6a9ac-8c34-4289-825f-66fffad761f2"
+title = "Marble Skies"
+type = "single"
+date = "2018-08-24"
+tracks = [
+  { n = 1, title = "Marble Skies (Album version)", mbid = "4719e31d-74d3-467d-bb8f-9e0b4322a919" },
+  { n = 2, title = "Marble Skies (Cid Rim remix)", mbid = "fb359f43-444e-4168-af9a-f2978b3113b7" },
+]
+
+[[release]]
+mbid = "17d8b9fb-08e7-481a-a144-9b1891782b19"
+title = "Marble Skies / Sundials"
+type = "ep"
+date = "2018-09-24"
+tracks = [
+  { n = 1, title = "Marble Skies", mbid = "4719e31d-74d3-467d-bb8f-9e0b4322a919" },
+  { n = 2, title = "Sundials", mbid = "5237dada-0eed-4805-9311-84b336b12aae" },
+]
+
+[[release]]
+mbid = "161ac4a2-f284-467b-b102-cf5951b956b8"
+title = "Winter's Beach"
+type = "ep"
+date = "2018-10-12"
+spotify = "5CRKd86TouOZR4YRZKqlgy"
+tracks = [
+  { n = 1, title = "Winter’s Beach", mbid = "31dcca33-0dba-45a1-87fa-8a15dbc72d60" },
+  { n = 2, title = "Sand Dunes", mbid = "d6ee8784-ffdd-41b5-a67e-26b929ccd150" },
+  { n = 3, title = "Swimming at Night", mbid = "727c0377-7e01-44bd-a467-f53e8928c0c1" },
+  { n = 4, title = "Flash Forward", mbid = "7828b2ad-c9f7-42be-822c-231f9dad79d2" },
+  { n = 5, title = "Ghost Rider", mbid = "07af7bde-21f0-4c93-badc-00180ad710f7" },
+  { n = 6, title = "Blue Hazy Highs", mbid = "a84ed75c-a92e-4257-8d25-d4b889b5f12c" },
+]
+
+[[release]]
+mbid = "9cbc2dbc-ae36-4e58-88ad-2d56edf8b33a"
+title = "Swimming at Night"
+type = "single"
+date = "2018-11-02"
+tracks = [
+  { n = 1, title = "Swimming at Night (Spain v Spain Remix)", mbid = "9f79ebf2-4f52-4169-81ce-4f8e5c6de019" },
+  { n = 2, title = "Swimming at Night (Thool Remix)", mbid = "1937a156-34cb-4b44-b3fe-939fd97ce9b5" },
+]
+
+[[release]]
+mbid = "faacbab8-9e94-4ca5-ab8c-3f494d2734fe"
+title = "Glowing in the Dark"
+type = "single"
+date = "2020"
+tracks = [
+  { n = 1, title = "Glowing in the Dark (Original album edit)", mbid = "8a425533-f82b-4f11-bdaf-5c3fa647442f" },
+  { n = 2, title = "Glowing in the Dark (Dance System rework)", mbid = "5f087fdc-57f0-4fc6-ae80-3d707bc4cabd" },
+  { n = 3, title = "Everything Flows (Django Django)", mbid = "8b40e866-62c2-419e-b5db-144739c18b9a" },
+  { n = 4, title = "Glowing in the Dark (Django's Iridescent remix)", mbid = "45e982fd-a78a-42a4-925d-ff27fc95e52e" },
+]
+
+[[release]]
+mbid = "1e479443-c1b1-406c-afef-8d729475ceb0"
+title = "Spirals"
+type = "single"
+date = "2020-09-10"
+tracks = [
+  { n = 1, title = "Spirals", mbid = "b2e48eb4-49c1-4b54-9450-abc75daa844d" },
+  { n = 2, title = "Spirals (Edit)", mbid = "51416ee4-2446-4c3e-8510-13a92c736dd2" },
+]
+
+[[release]]
+mbid = "ec57eb2e-a331-4233-b7f2-e16fa0fe8590"
+title = "Spirals / The Ark"
+type = "ep"
+date = "2020-09-10"
+tracks = [
+  { n = 1, title = "Spirals", mbid = "b2e48eb4-49c1-4b54-9450-abc75daa844d" },
+  { n = 2, title = "Spirals (Edit)", mbid = "51416ee4-2446-4c3e-8510-13a92c736dd2" },
+  { n = 3, title = "The Ark", mbid = "5f2eea4f-005f-44c2-8566-658e07ce80ad" },
+]
+
+[[release]]
+mbid = "506a824b-4bd8-4f17-bcf1-fa2e01012d2c"
+title = "Waking Up"
+type = "single"
+date = "2021-02-11"
+spotify = "0ihfDONLZnnHIDQY1dwjRL"
+tracks = [
+  { n = 1, title = "Waking Up", mbid = "5695f788-af92-4c00-b879-5d8e577bb438" },
+]
+
+[[release]]
+mbid = "590b2c0f-1a80-4e6f-9c7e-e5388620620b"
+title = "Glowing in the Dark"
+type = "album"
+date = "2021-02-12"
+spotify = "3HViIGlk6vd4K4HAbQ1XKg"
+tracks = [
+  { n = 1, title = "Spirals", mbid = "b2e48eb4-49c1-4b54-9450-abc75daa844d" },
+  { n = 2, title = "Right the Wrongs", mbid = "d447b327-5623-4f8a-bf33-c36933ea5d5d" },
+  { n = 3, title = "Got Me Worried", mbid = "30b8b0fc-a7fd-431d-a61a-d9c969a71fa6" },
+  { n = 4, title = "Waking Up", mbid = "5695f788-af92-4c00-b879-5d8e577bb438" },
+  { n = 5, title = "Free From Gravity", mbid = "a11658b6-8aaa-45cd-8b06-922770017463" },
+  { n = 6, title = "Headrush", mbid = "16beb0a4-f845-4927-aa10-d5c661e28829" },
+  { n = 7, title = "The Ark", mbid = "5f2eea4f-005f-44c2-8566-658e07ce80ad" },
+  { n = 8, title = "Night of the Buffalo", mbid = "01e03389-d695-49f0-93ea-d93bc0b223f3" },
+  { n = 9, title = "The World Will Turn", mbid = "4c159173-57dd-4161-b2c1-184bb97cb979" },
+  { n = 10, title = "Kick the Devil Out", mbid = "ba3c6f73-eb00-483a-843a-89931dfd9380" },
+  { n = 11, title = "Glowing in the Dark", mbid = "8a425533-f82b-4f11-bdaf-5c3fa647442f" },
+  { n = 12, title = "Hold Fast", mbid = "953829f1-06fd-49ff-8888-e15284fa3928" },
+  { n = 13, title = "Asking for More", mbid = "656aec8e-02bb-4b53-ab4f-fb3f268deba7" },
+]
+
+[[release]]
+mbid = "55b79eef-369e-43b9-93e4-3dbf11394a7a"
+title = "Complete Me"
+type = "single"
+date = "2023-02-07"
+spotify = "6YQ5IjxTphaqI365Y8CNiO"
+tracks = [
+  { n = 1, title = "Complete Me", mbid = "456a2d21-7958-41ea-a949-80bda0b97e84" },
+]
+
+[[release]]
+mbid = "c6949589-4f8d-4d2c-8427-28fb8b78bfa7"
+title = "Off Planet"
+type = "album"
+date = "2023-06-16"
+tracks = [
+  { disc = 1, n = 1, title = "Wishbone", mbid = "3ef4eae2-3082-41a3-9bff-37afff085607" },
+  { disc = 1, n = 2, title = "Complete Me", mbid = "456a2d21-7958-41ea-a949-80bda0b97e84" },
+  { disc = 1, n = 3, title = "Osaka", mbid = "49df1954-01e7-4178-a18d-e1f02485df25" },
+  { disc = 1, n = 4, title = "Hands High", mbid = "4cbdcac1-03d2-40a6-9215-e750c9a21819" },
+  { disc = 1, n = 5, title = "Lunar Vibrations", mbid = "e57567c6-5ffe-4f03-ae6a-000b776fe4c7" },
+  { disc = 2, n = 1, title = "Don’t Touch That Dial", mbid = "27c249e3-23be-494d-accc-0bab2299a6d6" },
+  { disc = 2, n = 2, title = "Back 2 Back", mbid = "88d95502-d918-4cef-a10a-efc0e645b307" },
+  { disc = 2, n = 3, title = "Squid Inc.", mbid = "ad61beb3-8ed1-4088-b1f0-f0e545c43f8e" },
+  { disc = 2, n = 4, title = "Come Down", mbid = "4a8429e6-faf0-4c4f-a284-f8f92b463cec" },
+  { disc = 2, n = 5, title = "Golden Cross", mbid = "a4c79049-76b4-4e05-a595-37df7e8a7233" },
+  { disc = 3, n = 1, title = "No Time", mbid = "e0799347-239e-4783-94b8-79a1ac8f6549" },
+  { disc = 3, n = 2, title = "A New Way Through", mbid = "dd99d576-5580-4499-bc77-4869e24289ab" },
+  { disc = 3, n = 3, title = "Galaxy Mood", mbid = "ce17431a-94d7-4c19-a7ad-6fabb5ed4604" },
+  { disc = 3, n = 4, title = "The Oh Zone", mbid = "aa605e46-01f9-4521-b15b-dc3243a458ae" },
+  { disc = 3, n = 5, title = "Dead Machine", mbid = "253a3b42-2e62-4a94-bd10-b3dbce045a62" },
+  { disc = 3, n = 6, title = "Dumdrum", mbid = "5558386e-f431-4653-af69-b591ba9fc50b" },
+  { disc = 4, n = 1, title = "Fluxus", mbid = "6ddc70ec-c735-414d-a8c0-98f999a02eeb" },
+  { disc = 4, n = 2, title = "Slipstream", mbid = "0535d6fe-c0b5-4c5d-ba09-7554c53aef6e" },
+  { disc = 4, n = 3, title = "Who You Know", mbid = "666b7cb0-41e0-4af4-a00e-a5ee9086b34d" },
+  { disc = 4, n = 4, title = "Black Cadillac", mbid = "eb5bd9ea-4053-4acd-9385-8120db264c45" },
+  { disc = 4, n = 5, title = "Gazelle", mbid = "0fb3a916-0082-4bb2-b36b-1a31ffdfa048" },
+]
+
+[[release]]
+mbid = "ec18017e-3630-4816-bad1-e27410b6f4c2"
+title = "Somebody’s Reality / High Line"
+type = "single"
+date = "2024-04-12"
+spotify = "5AlTami1qQVgvtOjrztjZ4"
+tracks = [
+  { n = 1, title = "Somebody’s Reality", mbid = "ba10431a-b23c-41b3-a0bc-1737bc0f3aae" },
+  { n = 2, title = "High Line", mbid = "bdcc7886-b657-4f45-866a-be99c9122f15" },
+]
+
+[[release]]
+mbid = "ff4875df-8568-4d50-a3f5-c2cdae00ef6f"
+title = "Home"
+type = "ep"
+date = "2025-04-18"
+spotify = "5c7JqhiRQRIgu9mNYuJKqU"
+tracks = [
+  { n = 1, title = "Home", mbid = "6e55070e-89b3-4960-8dd3-f5e4a093c858" },
+  { n = 2, title = "Home (Man Power's Alternative Analogue dub)", mbid = "01259b04-eba9-4592-a1cf-6006fed100fb" },
+  { n = 3, title = "Home (instrumental)", mbid = "84bbdd13-301d-4d56-9bdb-26526cfa84d0" },
+]
+
+[[release]]
+mbid = "66c0d415-6c7b-4edd-a86b-693c2b4d84b0"
+title = "Temple Dogs"
+type = "single"
+date = "2025-10-01"
+tracks = [
+  { n = 1, title = "Temple Dogs", mbid = "10979d97-b5e3-4cfa-be91-5837a398a058" },
+]
+
+[[release]]
+mbid = "448f60b0-4c5a-4b84-b9ed-ce806fe83410"
+title = "Cameos"
+type = "single"
+date = "2026-06-26"
+spotify = "1Uts53saLs17xjrNjZ1STw"
+tracks = [
+  { n = 1, title = "Cameos", mbid = "3c9a32d8-4c32-4a48-acfe-7e3a3ee90b2d" },
+]
+
+[[release]]
+mbid = "366dc8a8-c6de-4068-ae13-08ab707a74e9"
+title = "Dirty Hotel Blues"
+type = "ep"
+date = "2026-08-12"
+spotify = "2gLSsO5gaCGvAI6pf3OYKQ"
+tracks = [
+  { n = 1, title = "Dirty Hotel Blues", mbid = "377822ea-b85b-40d8-aad2-ba15fe3f0742" },
+  { n = 2, title = "Cameos", mbid = "c44896ce-fd32-4d19-ae7d-8c0c331c2ad1" },
+]
+
+[[release]]
+mbid = "0fb83a29-70c9-4ac2-be35-ab65e491cddf"
+title = "Feel Alright"
+type = "single"
+date = "2026-09-09"
+spotify = "33dTg76zW7Y5TSQYS6HEB5"
+tracks = [
+  { n = 1, title = "Feel Alright", mbid = "ddec473b-ba20-47f6-8adf-06a26f8ad1ad" },
+  { n = 2, title = "Dirty Hotel Blues", mbid = "377822ea-b85b-40d8-aad2-ba15fe3f0742" },
+  { n = 3, title = "Cameos", mbid = "c44896ce-fd32-4d19-ae7d-8c0c331c2ad1" },
+]
+
+[[release]]
+mbid = "d7f36acc-93f9-4857-a31e-f4b21cc93bb8"
+title = "Year of the Snake"
+type = "ep"
+date = "2026-10-14"
+spotify = "0eA2WkSv7ZhnBeV94xUsGD"
+tracks = [
+  { n = 1, title = "Year of the Snake", mbid = "089dcd9a-dfcd-49d1-892c-cc734fff07c9" },
+  { n = 2, title = "Feel Alright", mbid = "ddec473b-ba20-47f6-8adf-06a26f8ad1ad" },
+  { n = 3, title = "Dirty Hotel Blues", mbid = "377822ea-b85b-40d8-aad2-ba15fe3f0742" },
+  { n = 4, title = "Cameos", mbid = "c44896ce-fd32-4d19-ae7d-8c0c331c2ad1" },
+]
+
+[[release]]
+mbid = "adeaa0d5-4353-45d5-a0f1-224a8a108ad8"
+title = "Doveland"
+type = "album"
+date = "2026-11-06"
+tracks = [
+  { n = 1, title = "Meteorite", mbid = "8adc92fe-3f42-4ed1-9e84-865988d4cc2f" },
+  { n = 2, title = "Cameos", mbid = "c44896ce-fd32-4d19-ae7d-8c0c331c2ad1" },
+  { n = 3, title = "Still Life", mbid = "16f1aeb9-e2c3-427c-ba36-cbb08c5989bc" },
+  { n = 4, title = "Little Me", mbid = "ad25727e-792b-410e-ab39-341dd985f476" },
+  { n = 5, title = "Year of the Snake", mbid = "089dcd9a-dfcd-49d1-892c-cc734fff07c9" },
+  { n = 6, title = "Quicksand", mbid = "fdc000f2-97bd-458d-8216-d94be13bfe2e" },
+  { n = 7, title = "Left Adrift", mbid = "7e27512f-7df5-439c-8337-70b3c4f8a43a" },
+  { n = 8, title = "So Heavy", mbid = "e2b4fbb5-344a-44c4-b021-e53601e70a4b" },
+  { n = 9, title = "Bird Song", mbid = "51c902a2-5b64-445f-9239-700a82cca8b9" },
+  { n = 10, title = "Indigo Road", mbid = "2670ead7-3201-419b-832c-dcb58164cd22" },
+  { n = 11, title = "Dirty Hotel Blues", mbid = "377822ea-b85b-40d8-aad2-ba15fe3f0742" },
+  { n = 12, title = "Feel Alright", mbid = "ddec473b-ba20-47f6-8adf-06a26f8ad1ad" },
+]

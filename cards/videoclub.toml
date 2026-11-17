@@ -1,0 +1,24 @@
+format = 1
+name = "Videoclub"
+mbid = "f4903035-e9cd-4b7f-b462-0447b0cd490a"
+spotify = "3rp4f58JlRHkk8hpdLCer1"
+begin = "2018"
+end = "2021"
+origin = "Nantes"
+
+tags = ["fr", "2010s"]
+
+tops = [
+  "Amour plastique",
+  "Roi",
+  "Mai",
+  "VHS",
+  "Sometimes",
+]
+
+links = [
+  { to = "adele-castillon", type = "audience" },
+  { to = "mattyeux", type = "audience" },
+  { to = "maxence", type = "audience" },
+  { to = "vendredi-sur-mer", type = "audience" },
+]

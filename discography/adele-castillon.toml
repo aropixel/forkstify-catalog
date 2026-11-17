@@ -1,0 +1,225 @@
+format = 1
+
+[[release]]
+mbid = "5816319a-33ba-4dd5-90c0-d4fb3f7fcced"
+title = "Nous"
+type = "single"
+date = "2022-02-08"
+tracks = [
+  { n = 1, title = "Nous", mbid = "9e3ccb78-2bba-48be-b465-80b4d7949d0b" },
+]
+
+[[release]]
+mbid = "92f6be6e-b32e-4529-a5ed-1db2726224cd"
+title = "Impala"
+type = "single"
+date = "2022-06-10"
+tracks = [
+  { n = 1, title = "Impala", mbid = "049e0510-40e1-49c0-be83-6b3edd768bd8" },
+]
+
+[[release]]
+mbid = "ab7409e7-d8cb-449e-92c5-70b4a4928608"
+title = "Rêve"
+type = "single"
+date = "2023-04-07"
+tracks = [
+  { n = 1, title = "Rêve", mbid = "2da6d816-6096-40b5-af69-ad3bd434026b" },
+]
+
+[[release]]
+mbid = "5851c36e-eb28-482b-b6b4-317cab32ab98"
+title = "Alabama"
+type = "single"
+date = "2023-06-16"
+spotify = "0Jhq4X18BLRTmVBSLuKM7b"
+tracks = [
+  { n = 1, title = "Alabama", mbid = "010c6c86-f07f-4b18-aacd-0068f4f7fb2b" },
+]
+
+[[release]]
+mbid = "ff4d75c7-0a9c-4f89-af08-e7259abcb9f4"
+title = "C’est drôle"
+type = "single"
+date = "2023-09-29"
+spotify = "6WfOHoMzaQSMDeUGbUBccF"
+tracks = [
+  { n = 1, title = "C’est drôle", mbid = "22822105-edb9-4328-87e1-a226e9cf2663" },
+]
+
+[[release]]
+mbid = "550bb1bd-4b3d-49d2-8e3e-219f80c8f413"
+title = "Plaisir Risque Dépendance"
+type = "album"
+date = "2023-10-20"
+spotify = "6Xadqm9viEhsKgp0zRp8Gc"
+tracks = [
+  { n = 1, title = "Notice", mbid = "f587c157-c909-40a6-9b2c-b64425578a66" },
+  { n = 2, title = "Sensations", mbid = "1ad43a96-e9f6-4de2-8dc9-17f3f0514585" },
+  { n = 3, title = "Gabrielle", mbid = "f5544084-57a8-4a46-be19-9dbaf9983bfc" },
+  { n = 4, title = "Alabama", mbid = "010c6c86-f07f-4b18-aacd-0068f4f7fb2b" },
+  { n = 5, title = "Doliprane", mbid = "98e9cfd5-a2b6-43cd-8f1d-3629e8d89051" },
+  { n = 6, title = "Promis", mbid = "1323a7ca-e3b0-4570-aaaa-9bea9d430d37" },
+  { n = 7, title = "Souvenirs", mbid = "21c50fda-f6a8-460e-bad7-08893acb7702" },
+  { n = 8, title = "Impala", mbid = "049e0510-40e1-49c0-be83-6b3edd768bd8" },
+  { n = 9, title = "Novembre", mbid = "ce809fec-f8e9-4327-9426-dd022542f6da" },
+  { n = 10, title = "PRD", mbid = "5c3adddb-5917-4cd1-a7da-1954567768f8" },
+  { n = 11, title = "Partir", mbid = "847ae041-8ab3-485d-a82a-1e798b80a29b" },
+  { n = 12, title = "Je t’aime", mbid = "2cccdb98-250d-4b04-8bfc-52dc671c0ef0" },
+  { n = 13, title = "Rêve", mbid = "2da6d816-6096-40b5-af69-ad3bd434026b" },
+  { n = 14, title = "Petite Fille", mbid = "44729b25-d343-4c60-a290-7387d66a5f93" },
+  { n = 15, title = "C’est drôle", mbid = "22822105-edb9-4328-87e1-a226e9cf2663" },
+]
+
+[[release]]
+mbid = "fc5a71d4-24ae-47c3-8178-2ce0cbbbd446"
+title = "Ce soir"
+type = "single"
+date = "2024-05-30"
+tracks = [
+  { n = 1, title = "Ce soir", mbid = "a32e0758-d318-412b-8b96-3e88327cafff" },
+]
+
+[[release]]
+mbid = "09ea165e-c6a0-44e7-9c25-e0e0d797b50a"
+title = "Somewhere Only We Know"
+type = "single"
+date = "2024-07-18"
+tracks = [
+  { n = 1, title = "Somewhere Only We Know", mbid = "9751c44f-da50-4be0-969c-d4e75bcd3722" },
+]
+
+[[release]]
+mbid = "45a5944d-ef88-4df3-95a9-c446dba35afe"
+title = "Frissons"
+type = "single"
+date = "2024-09-03"
+spotify = "1nFFGMfqy6GdiPVv6VgB0C"
+tracks = [
+  { n = 1, title = "Frissons", mbid = "87681200-59a8-43d7-9f6d-2aa6df897d2b" },
+]
+
+[[release]]
+mbid = "799910d1-d12c-4652-9919-1209ed76c4d1"
+title = "Crèvecœur (EP.I)"
+type = "ep"
+date = "2024-09-04"
+spotify = "3Wfhc1AVsVNBIm6xH3OV9w"
+tracks = [
+  { n = 1, title = "Crève-cœur", mbid = "51340215-53b7-47c1-a984-db6f165ad9ad" },
+  { n = 2, title = "À la folie", mbid = "665221d0-c6b2-41b6-b46e-dbf55c33a9c0" },
+  { n = 3, title = "Ce soir", mbid = "1f038097-35ce-4c82-a41b-9eb69a5ee83f" },
+  { n = 4, title = "lèche_vitrine_demo1.wav", mbid = "42d9d8a8-5e6c-489b-bbea-e3efd2181ec8" },
+  { n = 5, title = "Frissons", mbid = "87681200-59a8-43d7-9f6d-2aa6df897d2b" },
+  { n = 6, title = "Subutex", mbid = "e7c752f0-9542-4d58-aea1-3ef0ffae0f3f" },
+]
+
+[[release]]
+mbid = "38a98ec8-a504-403a-b4ee-451d2b1c82c3"
+title = "Je me demande"
+type = "single"
+date = "2024-12-06"
+spotify = "0NTdPo37VXl3Tj01PqE1UZ"
+tracks = [
+  { n = 1, title = "Je me demande", mbid = "eb1918f1-cf10-4621-9a26-db2b2d0af390" },
+]
+
+[[release]]
+mbid = "687a3469-fd95-44b1-9230-d0c29a8af1bd"
+title = "21 grammes"
+type = "single"
+date = "2025-02-27"
+spotify = "2Shp7Epjo77uA9yfYINyma"
+tracks = [
+  { n = 1, title = "21 grammes", mbid = "09bd274a-53dc-4cd6-93af-49d9fc94c5eb" },
+]
+
+[[release]]
+mbid = "a518ba37-dadf-40e0-84c3-c2a863a073b5"
+title = "Comme ça"
+type = "single"
+date = "2025-02-27"
+spotify = "5ZQO9dlsfoveDWJBCdu5ze"
+tracks = [
+  { n = 1, title = "Comme ça", mbid = "f8c31924-c839-4cc1-bcfb-0ee95ae4d1b9" },
+]
+
+[[release]]
+mbid = "8f02dfa2-b72e-4805-8700-1a438b3ba2c0"
+title = "It Might Never End"
+type = "single"
+date = "2025-02-27"
+spotify = "4kcbxIrxb605XnEeKws1ml"
+tracks = [
+  { n = 1, title = "It Might Never End", mbid = "b99f9cbc-033e-45a1-b72a-ce87137b8350" },
+]
+
+[[release]]
+mbid = "c498704d-c93e-443c-91c0-a25e2d594787"
+title = "Crèvecœur"
+type = "album"
+date = "2025-02-28"
+spotify = "0WgY5ocBEP23tJiAMgawBv"
+tracks = [
+  { disc = 1, n = 1, title = "Crève-cœur", mbid = "51340215-53b7-47c1-a984-db6f165ad9ad" },
+  { disc = 1, n = 2, title = "À la folie", mbid = "665221d0-c6b2-41b6-b46e-dbf55c33a9c0" },
+  { disc = 1, n = 3, title = "Ce soir", mbid = "1f038097-35ce-4c82-a41b-9eb69a5ee83f" },
+  { disc = 1, n = 4, title = "lèche_vitrine_demo1.wav", mbid = "42d9d8a8-5e6c-489b-bbea-e3efd2181ec8" },
+  { disc = 1, n = 5, title = "Frissons", mbid = "87681200-59a8-43d7-9f6d-2aa6df897d2b" },
+  { disc = 1, n = 6, title = "Subutex", mbid = "e7c752f0-9542-4d58-aea1-3ef0ffae0f3f" },
+  { disc = 2, n = 1, title = "Rien qu’ça", mbid = "69e20f60-a687-4a79-9414-16cb4daa75a3" },
+  { disc = 2, n = 2, title = "Je me demande", mbid = "eb1918f1-cf10-4621-9a26-db2b2d0af390" },
+  { disc = 2, n = 3, title = "It Might Never End", mbid = "b9cb4b65-d448-43ab-bfe9-6c8e2fa4bf2c" },
+  { disc = 2, n = 4, title = "Comme ça", mbid = "f8c31924-c839-4cc1-bcfb-0ee95ae4d1b9" },
+  { disc = 2, n = 5, title = "21 grammes", mbid = "09bd274a-53dc-4cd6-93af-49d9fc94c5eb" },
+  { disc = 2, n = 6, title = "Oh non :(", mbid = "f2675993-1b49-46ef-a2f0-57be67344390" },
+]
+
+[[release]]
+mbid = "3cefd04a-89a4-4bf4-bdac-dbfe7231da5b"
+title = "Grand Soleil"
+type = "single"
+date = "2025-03-14"
+tracks = [
+  { n = 1, title = "Grand Soleil", mbid = "5eb29276-312f-497f-b385-88fa10d6f492" },
+]
+
+[[release]]
+mbid = "0f5d12ec-7f4b-4068-8250-f162fad92a26"
+title = "Été avec toi"
+type = "single"
+date = "2026-05-29"
+tracks = [
+  { n = 1, title = "Été avec toi", mbid = "2fc6a5ab-ef5d-4cb7-a9be-5758a4b657ba" },
+]
+
+[[release]]
+mbid = "7b95e142-2a8b-49f0-b34e-cbaf6a309334"
+title = "C'est tout moi"
+type = "single"
+date = "2026-10-09"
+spotify = "6TyqfBdyhZ2Te9fcdcvfsN"
+tracks = [
+  { n = 1, title = "C'est tout moi", mbid = "c22b8aa9-9d47-4b32-a84f-152d0555dbf5" },
+]
+
+[[release]]
+mbid = "02c90bae-dbfb-4dfe-86af-94d299df696b"
+title = "(Re)belle"
+type = "album"
+date = "2026-11-20"
+spotify = "3aAOQOzk2Iso145hyJ65Nu"
+tracks = [
+  { n = 1, title = "C'est tout moi", mbid = "c22b8aa9-9d47-4b32-a84f-152d0555dbf5" },
+  { n = 2, title = "Track 2", mbid = "fe5722df-c04d-4e4d-a312-13e38579f7fd" },
+  { n = 3, title = "Track 3", mbid = "082fa049-1fde-4a0c-8ff9-862637656776" },
+  { n = 4, title = "Track 4", mbid = "48e98b9a-b85d-40a6-bde8-4f9984607231" },
+  { n = 5, title = "Track 5", mbid = "0f79bff5-41c1-4bd5-b587-e8b31f0f0ee1" },
+  { n = 6, title = "Track 6", mbid = "d4b034d7-91b9-4ad1-99d1-87491fd7e41f" },
+  { n = 7, title = "Track 7", mbid = "84f365cd-b5e7-43fa-ad65-56ebe4349f7c" },
+  { n = 8, title = "Track 8", mbid = "f7481de4-b1e2-466a-8a1b-53df7ec3ed20" },
+  { n = 9, title = "Track 9", mbid = "d062a7b8-4a9f-4a98-9894-86b7c31d069c" },
+  { n = 10, title = "Été avec toi", mbid = "2fc6a5ab-ef5d-4cb7-a9be-5758a4b657ba" },
+  { n = 11, title = "Track 11", mbid = "ab7d1a5a-3c11-4bcc-ba9e-06522a5245be" },
+  { n = 12, title = "Track 12", mbid = "34bdd714-3d46-427c-9459-73574524413e" },
+]

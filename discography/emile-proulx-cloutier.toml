@@ -1,0 +1,84 @@
+format = 1
+
+[[release]]
+mbid = "0472c14e-d5ad-496c-8610-56253ee3d8cc"
+title = "Aimer les monstres"
+type = "album"
+date = "2013"
+tracks = [
+  { n = 1, title = "Aimer les monstres", mbid = "e5f5eecd-1446-426c-8f49-faabd11ad4d3" },
+  { n = 2, title = "Votre cochon se couche", mbid = "2700850d-10fb-4c52-b38f-afff3ebc4486" },
+  { n = 3, title = "Les mains d'Auguste", mbid = "fc727317-e242-4844-a238-53981b1ad31d" },
+  { n = 4, title = "Madame Alice", mbid = "78c9953d-c5b8-486a-9a3d-860c1f57b2b6" },
+  { n = 5, title = "Le tambour de la dernière chance", mbid = "04a839c1-74d7-47b0-b3cd-af03d4bcc393" },
+  { n = 6, title = "Le grillon et la luciole", mbid = "93409a2b-0d85-42e6-a76b-6f68561941f0" },
+  { n = 7, title = "Race de monde", mbid = "c3534ee2-c4e6-486d-9a69-93179cfcc10e" },
+  { n = 8, title = "Les cités grises", mbid = "a93d2c51-a3cc-4f69-8be4-400866e28a97" },
+  { n = 9, title = "Mayday", mbid = "949e370b-23b0-4675-9bce-4f1feef0c753" },
+]
+
+[[release]]
+mbid = "577295ef-5a0b-42f7-b884-4d3b2bb049e0"
+title = "Marée haute"
+type = "album"
+date = "2017-11-17"
+tracks = [
+  { n = 1, title = "Petite valise", mbid = "8deeddb6-8355-42b3-85fc-a5f767fcc73e" },
+  { n = 2, title = "Les murs et la mer", mbid = "aa468678-838a-4159-9099-c8faa367b79e" },
+  { n = 3, title = "Maman", mbid = "7a28932d-11ba-445e-8f6e-88360e324302" },
+  { n = 4, title = "Joey la nuit", mbid = "3ac310c1-c6c6-4c76-ad83-3fc9017032d3" },
+  { n = 5, title = "L'enfant scaphandre", mbid = "7a7bc00e-c09a-40ab-b28c-6b2af9291b1e" },
+  { n = 6, title = "Retrouvailles", mbid = "70030a1d-5725-4996-9c3e-a997e86680f9" },
+  { n = 7, title = "Le pas si léger", mbid = "5a777471-c306-4a1f-990b-2828442576a8" },
+  { n = 8, title = "Derniers mots", mbid = "09a69d62-357a-4f85-b029-337a50cf69a7" },
+  { n = 9, title = "Mon dos", mbid = "4557ed61-b75b-4abc-8ac2-0b357538e5a6" },
+  { n = 10, title = "Funambules au vent", mbid = "b3036464-7f55-41ba-b03f-8c90815c8cb0" },
+  { n = 11, title = "Force océane", mbid = "679f7803-0146-4206-b42d-3e5b342fb8f3" },
+  { n = 12, title = "Kid", mbid = "af51f72f-5f9a-4cea-a467-df4db11e2ca8" },
+]
+
+[[release]]
+mbid = "f92c2734-3ad6-484a-94f0-3a5b57bc45e3"
+title = "Ma main au feu - ACTE III"
+type = "album"
+date = "2024-05-01"
+tracks = [
+  { n = 1, title = "Nocturne", mbid = "0709be8a-485f-47b6-a469-127c57534f10" },
+  { n = 2, title = "Temps perdu", mbid = "19f8a91f-8be5-4ff0-865b-cc0d2ec1e53a" },
+  { n = 3, title = "Dis-moi", mbid = "c37df879-c177-4e22-9452-8ee45739b8f6" },
+  { n = 4, title = "Cargaison", mbid = "f7d87f61-34f9-4881-8a2b-d825863dfdde" },
+  { n = 5, title = "La saison des tremblements", mbid = "7f8d038d-6f17-46a4-917b-29ba84394882" },
+  { n = 6, title = "Ta peau", mbid = "f7a1494d-06b7-4f93-8e4a-15f35d91034d" },
+  { n = 7, title = "La suite", mbid = "2a3f6562-56e8-4270-8270-6065a9079d30" },
+]
+
+[[release]]
+mbid = "32f1f376-4e35-46b2-8a65-bb265270ca24"
+title = "Ma main au feu - ACTE II"
+type = "album"
+date = "2024-05-02"
+tracks = [
+  { n = 1, title = "Ton air blasé", mbid = "d369bed6-0499-43d7-8b63-7e0539bb8e4f" },
+  { n = 2, title = "Burn out", mbid = "31b30f65-20ee-4d30-8d87-ca4bfc8c7ee8" },
+  { n = 3, title = "Pousser le monde", mbid = "11bf5a8e-7fbd-4d53-b859-77eb44575bb3" },
+  { n = 4, title = "Les opinions tranchées", mbid = "ecbc132d-d1c2-413d-b31b-bca3ab25f19b" },
+  { n = 5, title = "Âmes soeurs", mbid = "0a2ffc21-7104-4f6a-9b89-e2f8fffe7836" },
+  { n = 6, title = "Ma tête mal faite", mbid = "b10cdde9-ea7f-4927-afd4-32b3b2854a71" },
+  { n = 7, title = "Deux pour un", mbid = "eee91c54-b883-4615-be76-ecf728812c96" },
+]
+
+[[release]]
+mbid = "8d926eda-7093-453c-bbe0-3a1435a69369"
+title = "Ma main au feu - ACTE I"
+type = "album"
+date = "2024-05-03"
+tracks = [
+  { n = 1, title = "Besoin de bras", mbid = "a9d51b66-f8c1-43fa-8b32-7ad01e4136ff" },
+  { n = 2, title = "La belle bombe", mbid = "726a25ac-aa37-4cc4-950e-2a99336fdc4e" },
+  { n = 3, title = "L'horizon", mbid = "1a2ebb0c-3ac8-4f15-ad02-b8d51c4b6d20" },
+  { n = 4, title = "Inévitable", mbid = "26c1a2e1-7787-41ac-a4a3-c24b66ecbc9c" },
+  { n = 5, title = "Craquer les coeurs", mbid = "60723392-a152-481d-9de8-47314c711d21" },
+  { n = 6, title = "Sauter voler", mbid = "28d25bca-0be6-4877-8514-e4880c307e91" },
+  { n = 7, title = "Tout ce que t'es", mbid = "6a46f8ec-3d46-4e58-9a1b-d94c64142695" },
+  { n = 8, title = "Quand les main décident", mbid = "ceef627f-14d6-4bb6-942f-7ea2ec0711ff" },
+]

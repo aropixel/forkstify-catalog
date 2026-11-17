@@ -1,0 +1,23 @@
+format = 1
+name = "Melody Gardot"
+mbid = "c47267ed-7482-40bb-a4ea-e1399cc8ce04"
+spotify = "2P1puQXmG48EVLBrHbum1J"
+begin = "1985"
+origin = "New Jersey"
+
+tags = ["jazz", "vocal-jazz", "pop", "smooth-jazz", "us"]
+
+tops = [
+  "Plus Fort Que Nous",
+  "Baby I'm A Fool",
+  "If You Love Me",
+  "Your Heart Is As Black As Night",
+  "Souvenirs manqués",
+]
+
+links = [
+  { to = "lisa-ekdahl", type = "similar" },
+  { to = "madeleine-peyroux", type = "audience" },
+  { to = "norah-jones", type = "audience" },
+  { to = "stacey-kent", type = "audience" },
+]

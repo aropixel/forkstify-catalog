@@ -1,0 +1,24 @@
+format = 1
+name = "Porridge Radio"
+mbid = "e5aa5d68-311e-435e-a143-68165adb05ca"
+spotify = "4vAQ4M7vgItwBtmBTgRu48"
+begin = "2015"
+end = "2025"
+origin = "Brighton"
+
+tags = ["indie-rock", "lo-fi", "post-punk", "alternative-rock", "uk", "2010s"]
+
+tops = [
+  "Good For You",
+  "The Rip",
+  "7 Seconds",
+  "God Of Everything Else",
+  "Long",
+]
+
+links = [
+  { to = "sorry", type = "audience" },
+  { to = "goat-girl", type = "audience" },
+  { to = "bar-italia", type = "audience" },
+  { to = "king-hannah", type = "similar" },
+]

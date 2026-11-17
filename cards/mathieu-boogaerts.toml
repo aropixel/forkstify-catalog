@@ -1,0 +1,23 @@
+format = 1
+name = "Mathieu Boogaerts"
+mbid = "290efb97-15a8-4abe-a273-4ed8b815f106"
+spotify = "0LlWS1VC17Bpd2RUd6enaQ"
+begin = "1970"
+origin = "Fontenay-sous-Bois"
+
+tags = ["pop", "singer-songwriter", "fr"]
+
+tops = [
+  "Bancal",
+  "Dans une case",
+  "Polka (feat. Mathieu Boogaerts)",
+  "Avant que je m'ennuie",
+  "Ondulé",
+]
+
+links = [
+  { to = "babx", type = "audience" },
+  { to = "arthur-h", type = "audience" },
+  { to = "bertrand-belin", type = "audience" },
+  { to = "albin-de-la-simone", type = "audience" },
+]

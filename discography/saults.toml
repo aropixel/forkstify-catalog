@@ -1,0 +1,101 @@
+format = 1
+
+[[release]]
+mbid = "00f67c08-5f05-40ed-858e-5a5cf252b1a3"
+title = "A la mode"
+type = "single"
+date = "2024-03-29"
+spotify = "4RWgnutktP0LfZumNhaFoI"
+tracks = [
+  { n = 1, title = "A la mode", mbid = "75c4280d-8b5b-4274-83ca-28483a0f63ad" },
+]
+
+[[release]]
+mbid = "e959880f-dcc7-4c84-b84b-aa83665fd499"
+title = "Shout"
+type = "single"
+date = "2025-03-07"
+spotify = "7vQOBWSW3aXeTbZgc6wEsg"
+tracks = [
+  { n = 1, title = "Shout", mbid = "1a095f29-d243-47ca-a293-31159b792cb7" },
+]
+
+[[release]]
+mbid = "4936d879-a9c0-4320-9b58-6dc187e3ba4b"
+title = "Let It Go"
+type = "single"
+date = "2025-04-25"
+spotify = "7JZb27nmMi75ELQNRHR6uD"
+tracks = [
+  { n = 1, title = "Let It Go", mbid = "4e719ea9-c0d5-4421-8ab0-4b98fa93d05f" },
+]
+
+[[release]]
+mbid = "5c6541fa-b243-43e7-9e3c-b075812d107a"
+title = "Entracte"
+type = "album"
+date = "2025-07-04"
+spotify = "2RkfVCJgxhPA2NWw7gPPiF"
+tracks = [
+  { n = 1, title = "Jeu de Piste", mbid = "9fd92ef5-8363-4a8c-a17f-8d747cf6155e" },
+  { n = 2, title = "Givin' Up", mbid = "2da10ad8-4ff9-4fbb-a9f7-14d0c1d78ca2" },
+  { n = 3, title = "Runaway", mbid = "bd7cd335-60c9-4fc7-bb72-7d27559e950e" },
+  { n = 4, title = "A La Mode", mbid = "1fbe0a04-db35-42a9-8ebe-21a98da0c790" },
+  { n = 5, title = "U've Got to Give Yourself", mbid = "91fa321f-e85e-4269-9038-728f107db474" },
+  { n = 6, title = "Let It Go", mbid = "67777e4d-9f32-4af6-bd38-08958727546d" },
+  { n = 7, title = "Spotlights (Guitar edit)", mbid = "1ec12d4f-2500-4f7e-9db5-35e70b8cf81a" },
+  { n = 8, title = "Fake", mbid = "6854793e-66f0-4c1a-9b4f-00c10164bbec" },
+  { n = 9, title = "Ce Soir", mbid = "96e4e543-d07f-41c6-be41-98460ac3728a" },
+  { n = 10, title = "Encore", mbid = "6ed59b75-a0c4-454e-9abd-c98524f479ec" },
+  { n = 11, title = "Only Place to Hide", mbid = "8e2837ce-53cd-4d29-afc3-9efc50c212ef" },
+]
+
+[[release]]
+mbid = "05d7c36d-0c2d-4bf2-a47c-a4365bfbf4ea"
+title = "When I Go"
+type = "single"
+date = "2025-11-28"
+spotify = "5MYFajLWl4uphD3NPW223K"
+tracks = [
+  { n = 1, title = "When I Go", mbid = "be9eed1e-7f09-46c2-abdc-cc39cbb1e343" },
+]
+
+[[release]]
+mbid = "6ca95d36-b05e-4082-81be-73c692ad684e"
+title = "Turn It On"
+type = "single"
+date = "2026-01-30"
+spotify = "0SdouN0Ag8ZNj9Kdtrw8NB"
+tracks = [
+  { n = 1, title = "Turn It On", mbid = "c9abdfab-a5df-4f95-8b00-6ad61eebedb0" },
+]
+
+[[release]]
+mbid = "03047770-9e99-4f5d-9fc8-1fa0f0fe87b0"
+title = "Nightline"
+type = "single"
+date = "2026-03-06"
+spotify = "1FAYnT8JsdImLHy0M5p2y1"
+tracks = [
+  { n = 1, title = "Nightline", mbid = "7d9b9fb8-9853-4372-99f8-371e3077beec" },
+]
+
+[[release]]
+mbid = "336da567-b9a8-44c2-93df-0a6ef38ed20e"
+title = "Whether I Win or Lose"
+type = "single"
+date = "2026-04-10"
+spotify = "6qFJGE4q3yu20PrJu4cTpr"
+tracks = [
+  { n = 1, title = "Whether I Win or Lose", mbid = "8e87999e-d31b-4d28-913c-97d5961c121a" },
+]
+
+[[release]]
+mbid = "b6593090-6bb5-4d9d-b21d-7fb4922b41c3"
+title = "I'm so Excited"
+type = "single"
+date = "2026-06-17"
+spotify = "1gL31Oml6zqWk3ddx5AGQ3"
+tracks = [
+  { n = 1, title = "I'm so Excited", mbid = "914e7b96-f6bf-4426-9a45-211c847bd392" },
+]

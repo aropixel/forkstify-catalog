@@ -1,0 +1,143 @@
+format = 1
+
+[[release]]
+mbid = "c73e7a65-f96b-45fe-b665-13df2a8eb0aa"
+title = "Amour plastique"
+type = "single"
+date = "2018-09-08"
+tracks = [
+  { n = 1, title = "Amour plastique", mbid = "688a29ad-e9d6-435f-a652-a61e9e145fa0" },
+]
+
+[[release]]
+mbid = "2cf6c4a8-c37d-486c-a11b-228f02e52965"
+title = "Roi"
+type = "single"
+date = "2018-12-18"
+spotify = "4zguFGYTtGgg24Un1EW847"
+tracks = [
+  { n = 1, title = "Roi", mbid = "e5579680-ae9d-4bb2-bb9b-debb6efd5e91" },
+]
+
+[[release]]
+mbid = "0e64db0e-2b14-409e-b1a3-5e7e01ac6abd"
+title = "En nuit"
+type = "single"
+date = "2019-06-18"
+tracks = [
+  { n = 1, title = "En nuit", mbid = "93ba2f4f-8177-4572-ae3a-7372fab6fc1d" },
+]
+
+[[release]]
+mbid = "fd005a97-fc32-4e28-b52e-5f2461c0895a"
+title = "What Are You So Afraid of"
+type = "single"
+date = "2019-09-27"
+spotify = "4bAyOAHwRNl4HJ5rzE7jAf"
+tracks = [
+  { n = 1, title = "What Are You So Afraid Of", mbid = "9ace592c-b84e-4cee-b933-b78e22cdd390" },
+]
+
+[[release]]
+mbid = "9b1e82f7-f89d-463a-846e-436b10324626"
+title = "Mai"
+type = "single"
+date = "2019-11-28"
+tracks = [
+  { n = 1, title = "Mai", mbid = "2c05dcb5-ede9-484a-b50c-f2866cbf9d55" },
+]
+
+[[release]]
+mbid = "481b3037-99a2-4a1b-b3df-1c9ca97e1043"
+title = "Enfance 80"
+type = "single"
+date = "2020-05-01"
+tracks = [
+  { n = 1, title = "Enfance 80", mbid = "bfba56b5-3763-43b8-87b8-3015d3af2592" },
+]
+
+[[release]]
+mbid = "e81eb140-8f01-4959-9ab7-2745fc7d6447"
+title = "Euphories"
+type = "single"
+date = "2020-11-19"
+tracks = [
+  { n = 1, title = "Euphories", mbid = "41621ffd-46ac-4ba6-948f-b78e611d5807" },
+]
+
+[[release]]
+mbid = "a159fb4f-2d83-47ee-9978-7c522c08d25a"
+title = "Euphories"
+type = "album"
+date = "2021-01-29"
+spotify = "1WfIjwnJ0aHiWCSkeSSeuV"
+tracks = [
+  { disc = 1, n = 1, title = "Amour plastique", mbid = "688a29ad-e9d6-435f-a652-a61e9e145fa0" },
+  { disc = 1, n = 2, title = "Euphories", mbid = "41621ffd-46ac-4ba6-948f-b78e611d5807" },
+  { disc = 1, n = 3, title = "Suricate (ODZ)", mbid = "4d42842b-2c00-444f-bdf4-9e40e494f7eb" },
+  { disc = 1, n = 4, title = "Enfance 80", mbid = "bfba56b5-3763-43b8-87b8-3015d3af2592" },
+  { disc = 1, n = 5, title = "Mai", mbid = "2c05dcb5-ede9-484a-b50c-f2866cbf9d55" },
+  { disc = 1, n = 6, title = "Trois jours", mbid = "a7329517-8205-48f4-9188-589bfb44cd9a" },
+  { disc = 1, n = 7, title = "Roi", mbid = "e5579680-ae9d-4bb2-bb9b-debb6efd5e91" },
+  { disc = 1, n = 8, title = "Polaroïds", mbid = "d1408ed7-e51a-495d-8d27-07a5407b919a" },
+  { disc = 1, n = 9, title = "En nuit", mbid = "93ba2f4f-8177-4572-ae3a-7372fab6fc1d" },
+  { disc = 1, n = 10, title = "What Are You So Afraid Of", mbid = "9ace592c-b84e-4cee-b933-b78e22cdd390" },
+  { disc = 1, n = 11, title = "Petit monde", mbid = "15b872d5-264f-4429-a12e-25896cf84ebd" },
+  { disc = 1, n = 12, title = "808", mbid = "a1e27183-c13d-4878-9c01-403c8e5b398d" },
+  { disc = 1, n = 13, title = "SMS", mbid = "a9c65a62-1c4d-460b-9f3c-458c443631ad" },
+  { disc = 2, n = 1, title = "Amour Plastique", mbid = "688a29ad-e9d6-435f-a652-a61e9e145fa0" },
+  { disc = 2, n = 2, title = "Euphories", mbid = "41621ffd-46ac-4ba6-948f-b78e611d5807" },
+  { disc = 2, n = 3, title = "Suricate (ODZ)", mbid = "4d42842b-2c00-444f-bdf4-9e40e494f7eb" },
+  { disc = 2, n = 4, title = "Enfance 80", mbid = "bfba56b5-3763-43b8-87b8-3015d3af2592" },
+  { disc = 2, n = 5, title = "Mai", mbid = "2c05dcb5-ede9-484a-b50c-f2866cbf9d55" },
+  { disc = 2, n = 6, title = "Trois Jours", mbid = "a7329517-8205-48f4-9188-589bfb44cd9a" },
+  { disc = 2, n = 7, title = "Roi", mbid = "e5579680-ae9d-4bb2-bb9b-debb6efd5e91" },
+  { disc = 2, n = 8, title = "Polaroids", mbid = "d1408ed7-e51a-495d-8d27-07a5407b919a" },
+  { disc = 2, n = 9, title = "En Nuit", mbid = "93ba2f4f-8177-4572-ae3a-7372fab6fc1d" },
+  { disc = 2, n = 10, title = "Petit Monde", mbid = "15b872d5-264f-4429-a12e-25896cf84ebd" },
+  { disc = 2, n = 11, title = "808", mbid = "a1e27183-c13d-4878-9c01-403c8e5b398d" },
+  { disc = 2, n = 12, title = "SMS", mbid = "a9c65a62-1c4d-460b-9f3c-458c443631ad" },
+]
+
+[[release]]
+mbid = "5851c36e-eb28-482b-b6b4-317cab32ab98"
+title = "Alabama"
+type = "single"
+date = "2023-06-16"
+spotify = "0Jhq4X18BLRTmVBSLuKM7b"
+tracks = [
+  { n = 1, title = "Alabama", mbid = "010c6c86-f07f-4b18-aacd-0068f4f7fb2b" },
+]
+
+[[release]]
+mbid = "ff4d75c7-0a9c-4f89-af08-e7259abcb9f4"
+title = "C’est drôle"
+type = "single"
+date = "2023-09-29"
+spotify = "6WfOHoMzaQSMDeUGbUBccF"
+tracks = [
+  { n = 1, title = "C’est drôle", mbid = "22822105-edb9-4328-87e1-a226e9cf2663" },
+]
+
+[[release]]
+mbid = "74121017-a15b-4c79-b8e3-b5d17e228d04"
+title = "Euphories"
+type = "ep"
+date = "2024-10-04"
+tracks = [
+  { n = 1, title = "Amour plastique", mbid = "688a29ad-e9d6-435f-a652-a61e9e145fa0" },
+  { n = 2, title = "Roi", mbid = "e5579680-ae9d-4bb2-bb9b-debb6efd5e91" },
+  { n = 3, title = "Mai", mbid = "2c05dcb5-ede9-484a-b50c-f2866cbf9d55" },
+  { n = 4, title = "En nuit", mbid = "93ba2f4f-8177-4572-ae3a-7372fab6fc1d" },
+  { n = 5, title = "Enfance 80", mbid = "bfba56b5-3763-43b8-87b8-3015d3af2592" },
+]
+
+[[release]]
+mbid = "8f02dfa2-b72e-4805-8700-1a438b3ba2c0"
+title = "It Might Never End"
+type = "single"
+date = "2025-02-27"
+spotify = "4kcbxIrxb605XnEeKws1ml"
+tracks = [
+  { n = 1, title = "It Might Never End", mbid = "b99f9cbc-033e-45a1-b72a-ce87137b8350" },
+]

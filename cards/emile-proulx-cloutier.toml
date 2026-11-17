@@ -1,0 +1,22 @@
+format = 1
+name = "Émile Proulx-Cloutier"
+mbid = "532fd797-07be-4d8a-8f46-13e9406061ad"
+begin = "1983"
+origin = "Canada"
+
+tags = ["ca"]
+
+tops = [
+  "Race de monde",
+  "Le Grillon et la Luciole",
+  "Temps perdu",
+  "Le pas si léger",
+  "L'enfant scaphandre",
+]
+
+links = [
+  { to = "tire-le-coyote", type = "audience" },
+  { to = "mes-aieux", type = "audience" },
+  { to = "ingrid-st-pierre", type = "audience" },
+  { to = "daniel-belanger", type = "audience" },
+]

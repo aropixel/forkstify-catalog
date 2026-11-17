@@ -1,0 +1,23 @@
+format = 1
+name = "Biga Ranx"
+mbid = "1515c76e-333d-43c1-bade-deebcc2028ef"
+spotify = "5rgdw8NVhnxWL8Poo6HsiX"
+begin = "1988"
+origin = "Tours"
+
+tags = ["reggae", "dancehall", "ragga", "electronic", "fr"]
+
+tops = [
+  "Petite Marie (Fanzine Remix)",
+  "Elle & Moi",
+  "My Face",
+  "Montagne",
+  "7 days",
+]
+
+links = [
+  { to = "soom-t", type = "audience" },
+  { to = "big-red", type = "audience" },
+  { to = "atili", type = "audience" },
+  { to = "skarra-mucci", type = "audience" },
+]

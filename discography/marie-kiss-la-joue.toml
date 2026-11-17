@@ -1,0 +1,75 @@
+format = 1
+
+[[release]]
+mbid = "b56e50c4-3e1f-34b0-a86d-0e02d2b4ba0e"
+title = "Henri, Valentin et les autres"
+type = "album"
+date = "2002-06"
+tracks = [
+  { n = 1, title = "Y'a du monde au balcon", mbid = "1f7ead32-862f-4290-a2bd-6977a773c0ac" },
+  { n = 2, title = "Valentin", mbid = "6c9c290c-5a58-4f74-ac5a-6b76ba1f5a09" },
+  { n = 3, title = "Lumbago", mbid = "28feccda-3926-46d0-a922-2a172554c4b3" },
+  { n = 4, title = "L'Agenda", mbid = "fe6a8035-a3f2-439e-8b84-10859b043cf4" },
+  { n = 5, title = "Sarah conte", mbid = "f3117ae6-0b27-46d3-a028-66572a74d70a" },
+  { n = 6, title = "Henri", mbid = "b76229db-c26e-49a2-9211-55ffae87b295" },
+  { n = 7, title = "On veut vivre", mbid = "18c6d5b6-4a8f-4b5a-a004-87cf44c72929" },
+  { n = 8, title = "Melle Sophie", mbid = "26a373b9-aa29-427d-bee4-78e9b45fe74c" },
+  { n = 9, title = "Mon cher i", mbid = "ae8c25e1-eae9-4b79-bc26-89471f4efd37" },
+  { n = 10, title = "J'aime la pluie", mbid = "c92fb6cf-f98d-4d85-8915-f8d71779b0ce" },
+]
+
+[[release]]
+mbid = "39f54e85-7d0c-4cf4-a19d-3933b0ab47ed"
+title = "Et si"
+type = "album"
+date = "2005-05-16"
+tracks = [
+  { n = 1, title = "J'aime me faire peur", mbid = "93c7f79f-34cb-465d-b335-d65058a77fca" },
+  { n = 2, title = "Les Caresses", mbid = "335e1aa1-3421-4fc2-a007-f927ca96b45a" },
+  { n = 3, title = "La Bouée", mbid = "b51f2e44-59c6-4a7f-b111-d63cd1a5fa99" },
+  { n = 4, title = "Et si...", mbid = "3be5fdb6-8246-4a66-a201-695f6d59260d" },
+  { n = 5, title = "Je me cache", mbid = "e01531ab-fd79-46e5-b8e6-efd85d2f81a8" },
+  { n = 6, title = "Colporteur", mbid = "4f4a1f7e-3b37-4250-8595-ac2e2b7d8953" },
+  { n = 7, title = "La Cage d'escalier", mbid = "0155a819-f279-4f85-9f12-5f93e15ab866" },
+  { n = 8, title = "L'Enfant que j'étais", mbid = "3bf105ec-92a0-428c-9ad2-b99f8cfd96b9" },
+  { n = 9, title = "Tes désirs", mbid = "f8070b54-01df-41a7-a8e4-dd66bfdca699" },
+  { n = 10, title = "Ma douceur", mbid = "13769ce0-2c04-4e88-80e5-b6ffa22ad275" },
+  { n = 11, title = "T'es pas cap", mbid = "d16a82c6-5e6d-4d82-bddf-6c313738b8c2" },
+]
+
+[[release]]
+mbid = "93104300-f28a-41b4-98f3-2bceb4d1dcaa"
+title = "Embrasse-moi"
+type = "album"
+date = "2009-10-20"
+tracks = [
+  { n = 1, title = "Dime", mbid = "816778fb-ba86-465a-90c9-c42266e80eb7" },
+  { n = 2, title = "Asi Yo Voy", mbid = "2f2abe79-3f52-4987-bded-07b1d1c435ec" },
+  { n = 3, title = "Embrasse-moi", mbid = "8387868a-a6d0-4199-adc7-e72555979dee" },
+  { n = 4, title = "De mes deux", mbid = "5ed2c985-c03b-4aa3-9de9-497862e9c7e7" },
+  { n = 5, title = "Que les hommes sont beaux", mbid = "646d5308-e5cb-4945-a6aa-cdf6463cb64f" },
+  { n = 6, title = "Et si", mbid = "3e191330-89a5-4cfb-b7cb-38b1c0c56fc5" },
+  { n = 7, title = "Adios MuchachO", mbid = "8e5b2b8a-825d-4acc-b58d-0090de2ba89e" },
+  { n = 8, title = "Un Ocho", mbid = "63bc699e-e59e-4b02-b8e8-c1ed29aafebe" },
+  { n = 9, title = "Madame Talon-Aiguille", mbid = "791024ad-3d9f-4b15-a67b-5f8ac6c0b872" },
+  { n = 10, title = "L'Ange gardien", mbid = "aa981303-be65-4c75-b4ac-ea4b3e89ec92" },
+  { n = 11, title = "Ah !!! Vraiment", mbid = "62d8898f-5602-4804-bb27-650036eb4c14" },
+  { n = 12, title = "Souviens-toi de moi", mbid = "a15d5c52-9b8c-4535-bc48-78fbd9aa8e7a" },
+]
+
+[[release]]
+mbid = "97bd9524-f6c0-4ac5-aa2c-9a842a385119"
+title = "Marie Kiss La Joue"
+type = "album"
+tracks = [
+  { n = 1, title = 'Mon cher "i"', mbid = "5cff4471-3f5d-4b3d-a7a5-5c895a48d893" },
+  { n = 2, title = "Lumbago", mbid = "41930be1-523a-41a7-86c6-062e06a40661" },
+  { n = 3, title = "Ma douceur", mbid = "0d9081c0-2eba-4a5a-b986-f3065142bc6d" },
+  { n = 4, title = "La Cage d'escalier", mbid = "f0b9975f-6bf0-4832-9d7e-fa3045da40cf" },
+  { n = 5, title = "Mlle Sophie", mbid = "2d90c0cc-30d9-40ac-9a78-06bacadc5d10" },
+  { n = 6, title = "Tonnerre de Brest", mbid = "55d1e145-ac6d-424f-ad93-7089b5de52f3" },
+  { n = 7, title = "Au café", mbid = "87b6d9ea-3491-4e83-8bc8-89d75a66e57e" },
+  { n = 8, title = "Le Rêve", mbid = "3f4c0a35-73a1-44a3-ac91-2103e887d44a" },
+  { n = 9, title = "On veut vivre", mbid = "79db4024-1fae-4aaf-bd2b-0fc8898d1e69" },
+  { n = 10, title = "Sarah conte", mbid = "f06cf0cb-30ed-4736-bf59-edacb79c92a3" },
+]

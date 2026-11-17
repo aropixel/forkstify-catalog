@@ -1,0 +1,18 @@
+format = 1
+name = "Dana Margolin"
+mbid = "605b1dd6-7833-43db-b614-19510195d400"
+spotify = "1ZzflTidMnQmr2dTVMlWcn"
+
+tags = ["uk"]
+
+tops = [
+  "Big Beautiful Sound",
+]
+
+links = [
+  { to = "porridge-radio", type = "member", note = "member (…–…)" },
+  { to = "this-is-lorelei", type = "audience" },
+  { to = "radie-peat", type = "audience" },
+  { to = "james-ellis-ford", type = "audience" },
+  { to = "nina-winder-lind", type = "audience" },
+]

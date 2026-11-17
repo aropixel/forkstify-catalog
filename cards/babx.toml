@@ -1,0 +1,22 @@
+format = 1
+name = "Babx"
+mbid = "dd1aa91a-4328-42f6-acdb-9d86dd4b2762"
+spotify = "7MCsMOkbdDHqJ4WAGuXdDZ"
+begin = "1981"
+
+tags = ["fr"]
+
+tops = [
+  "Omaya, Pt. 3",
+  "Gaston Miron",
+  "Je ne t'ai jamais aimé (feat. Camélia Jordana)",
+  "Naomi aime",
+  "Trilogie Omaya (feat. Archie Shepp)",
+]
+
+links = [
+  { to = "arthur-h", type = "audience" },
+  { to = "mathieu-boogaerts", type = "audience" },
+  { to = "bertrand-belin", type = "audience" },
+  { to = "l-raphaele-lannadere", type = "audience" },
+]

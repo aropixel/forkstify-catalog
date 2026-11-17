@@ -1,0 +1,23 @@
+format = 1
+name = "Pretenders"
+mbid = "e9c832b0-384b-4ee6-aec0-111372784aac"
+spotify = "0GByy3DcfbQwDvXGCWmzv9"
+begin = "1978"
+origin = "Hereford"
+
+tags = ["rock", "new-wave", "hard-rock", "jangle-pop", "uk", "70s"]
+
+tops = [
+  "I'll Stand by You",
+  "Don't Get Me Wrong",
+  "Brass in Pocket",
+  "I Go to Sleep",
+  "Back on the Chain Gang",
+]
+
+links = [
+  { to = "bruce-springsteen", type = "audience" },
+  { to = "peter-gabriel", type = "audience" },
+  { to = "joe-jackson", type = "audience" },
+  { to = "eurythmics", type = "audience" },
+]
